@@ -6,6 +6,21 @@
     "profile": "http://gurov.bitbucket.org/",
     "identity": "http://openid.yandex.ru/lucius.gu/",
     "booksCount": 131,
+    "subscriptions": {
+        "74743045-vkontakte": 109,
+        "109422146-vkontakte": 20,
+        "100001022994466-facebook": 1,
+        "18604982-vkontakte": 23,
+        "111115241650108110325-google": 18,
+        "108954498568373809294-google": 24,
+        "100978570902186865324-google": 29,
+        "8012994-vkontakte": 3,
+        "136078132-vkontakte": 6,
+        "40203070-vkontakte": 14,
+        "57718344-vkontakte": 26,
+        "107127274479758647951-google": 19,
+        "115622071-twitter": 43
+    },
     "createdAt": "2015-01-16 05:41:28",
-    "updatedAt": "2016-08-23 14:10:31"
+    "updatedAt": "2016-08-23 14:23:50"
 }

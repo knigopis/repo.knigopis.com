@@ -6,6 +6,9 @@
     "profile": "http://my.mail.ru/mail/hamletsass/",
     "identity": "http://my.mail.ru/mail/hamletsass/",
     "booksCount": 1,
+    "subscriptions": {
+        "100002067005054-facebook": 42
+    },
     "createdAt": "2015-08-13 13:51:03",
-    "updatedAt": "2016-08-23 13:49:40"
+    "updatedAt": "2016-08-23 14:23:49"
 }
