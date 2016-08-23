@@ -1,9 +1,9 @@
 {
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
-        "updatedAt": "2016-08-23 14:11:26"
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 44,
+        "updatedAt": "2016-08-23 15:01:41"
     },
     "100001858801764-facebook": {
         "id": "100001858801764-facebook",
@@ -11,11 +11,11 @@
         "booksCount": 5,
         "updatedAt": "2016-08-23 14:11:26"
     },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 113,
-        "updatedAt": "2016-08-23 14:11:25"
+    "105852303950227831814-google": {
+        "id": "105852303950227831814-google",
+        "nickname": "fiery mouse",
+        "booksCount": 37,
+        "updatedAt": "2016-08-23 14:11:26"
     },
     "15716698-vkontakte": {
         "id": "15716698-vkontakte",
@@ -23,10 +23,16 @@
         "booksCount": 21,
         "updatedAt": "2016-08-23 14:11:25"
     },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 39,
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 113,
+        "updatedAt": "2016-08-23 14:11:25"
+    },
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 56,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "87255457-vkontakte": {
@@ -35,10 +41,10 @@
         "booksCount": 13,
         "updatedAt": "2016-08-23 14:11:24"
     },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 56,
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
@@ -59,17 +65,23 @@
         "booksCount": 49,
         "updatedAt": "2016-08-23 14:11:22"
     },
+    "142301319-vkontakte": {
+        "id": "142301319-vkontakte",
+        "nickname": "Ангелина ",
+        "booksCount": 35,
+        "updatedAt": "2016-08-23 14:11:22"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
         "booksCount": 284,
         "updatedAt": "2016-08-23 14:11:22"
     },
-    "142301319-vkontakte": {
-        "id": "142301319-vkontakte",
-        "nickname": "Ангелина ",
+    "243400378-vkontakte": {
+        "id": "243400378-vkontakte",
+        "nickname": "Katherine Brook",
         "booksCount": 35,
-        "updatedAt": "2016-08-23 14:11:22"
+        "updatedAt": "2016-08-23 14:11:20"
     },
     "17512464403843660334-mailru": {
         "id": "17512464403843660334-mailru",
@@ -81,12 +93,6 @@
         "id": "111002996-vkontakte",
         "nickname": "deda.borya",
         "booksCount": 105,
-        "updatedAt": "2016-08-23 14:11:20"
-    },
-    "243400378-vkontakte": {
-        "id": "243400378-vkontakte",
-        "nickname": "Katherine Brook",
-        "booksCount": 35,
         "updatedAt": "2016-08-23 14:11:20"
     },
     "3621623-vkontakte": {
@@ -131,10 +137,10 @@
         "booksCount": 2,
         "updatedAt": "2016-08-23 14:11:15"
     },
-    "11273275221928627610-mailru": {
-        "id": "11273275221928627610-mailru",
-        "nickname": "Ромычь Пират",
-        "booksCount": 27,
+    "56228374-vkontakte": {
+        "id": "56228374-vkontakte",
+        "nickname": "InaryD",
+        "booksCount": 34,
         "updatedAt": "2016-08-23 14:11:14"
     },
     "1008207949261316-facebook": {
@@ -143,10 +149,10 @@
         "booksCount": 45,
         "updatedAt": "2016-08-23 14:11:14"
     },
-    "56228374-vkontakte": {
-        "id": "56228374-vkontakte",
-        "nickname": "InaryD",
-        "booksCount": 34,
+    "11273275221928627610-mailru": {
+        "id": "11273275221928627610-mailru",
+        "nickname": "Ромычь Пират",
+        "booksCount": 27,
         "updatedAt": "2016-08-23 14:11:14"
     },
     "83788782-vkontakte": {
@@ -172,11 +178,5 @@
         "nickname": "iforaa",
         "booksCount": 65,
         "updatedAt": "2016-08-23 14:11:12"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 221,
-        "updatedAt": "2016-08-23 14:11:11"
     }
 }
