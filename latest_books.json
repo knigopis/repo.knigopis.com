@@ -1,4 +1,16 @@
 {
+    "zWiJ0BsgH1": {
+        "id": "zWiJ0BsgH1",
+        "title": "Другая сторона смерти",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2016-08-24 22:33:26",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 448
+        }
+    },
     "jPmfin2yFZ": {
         "id": "jPmfin2yFZ",
         "title": "Клей",
@@ -345,18 +357,6 @@
             "id": "409511506-yandex",
             "nickname": "mitio.o",
             "booksCount": 75
-        }
-    },
-    "c_FbjL_7dy": {
-        "id": "c_FbjL_7dy",
-        "title": "Рассвет",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2016-08-20 06:32:53",
-        "user": {
-            "id": "409511506-yandex",
-            "nickname": "mitio.o",
-            "booksCount": 39
         }
     }
 }
