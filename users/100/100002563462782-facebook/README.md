@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>221</sup>
+# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>222</sup>
 ---
 
 ## 2016
@@ -803,6 +803,10 @@ Sir Arthur Conan Doyle (прочитана на английском)
 
 
 ## 2011
+
+### Клей
+Ирвин Уэлш
+
 
 ### Allice's adventures in Wonderworld( прочитана на английском)
 Lewis Carroll

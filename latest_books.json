@@ -1,4 +1,16 @@
 {
+    "jPmfin2yFZ": {
+        "id": "jPmfin2yFZ",
+        "title": "Клей",
+        "author": "Ирвин Уэлш",
+        "notes": "",
+        "createdAt": "2016-08-24 04:32:07",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 222
+        }
+    },
     "Q_oij8NJMP": {
         "id": "Q_oij8NJMP",
         "title": "Чужая жена и муж под кроватью",
@@ -345,18 +357,6 @@
             "id": "409511506-yandex",
             "nickname": "mitio.o",
             "booksCount": 39
-        }
-    },
-    "--8p67bBzg": {
-        "id": "--8p67bBzg",
-        "title": "Затмение",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2016-08-20 06:32:42",
-        "user": {
-            "id": "409511506-yandex",
-            "nickname": "mitio.o",
-            "booksCount": 17
         }
     }
 }
