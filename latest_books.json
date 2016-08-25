@@ -1,4 +1,16 @@
 {
+    "dYIk4rkEh4": {
+        "id": "dYIk4rkEh4",
+        "title": "Snuff",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2016-08-25 13:25:54",
+        "user": {
+            "id": "1189210497755804-facebook",
+            "nickname": "Skatertyu",
+            "booksCount": 7
+        }
+    },
     "5ITUv46nLL": {
         "id": "5ITUv46nLL",
         "title": "Трансерфинг реальности. Книга 1: Пространство вариантов",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 39
-        }
-    },
-    "TZyadCSpK0": {
-        "id": "TZyadCSpK0",
-        "title": "дом в котором",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-08-21 13:45:52",
-        "user": {
-            "id": "180200146-vkontakte",
-            "nickname": "illud",
-            "booksCount": 1
         }
     }
 }
