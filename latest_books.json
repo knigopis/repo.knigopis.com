@@ -1,4 +1,16 @@
 {
+    "tx5CX3FbWc": {
+        "id": "tx5CX3FbWc",
+        "title": "Диагностика кармы",
+        "author": "Лазарев Сергей",
+        "notes": "",
+        "createdAt": "2016-08-25 13:18:41",
+        "user": {
+            "id": "1189210497755804-facebook",
+            "nickname": "Skatertyu",
+            "booksCount": 4
+        }
+    },
     "P1Iy0T-gjB": {
         "id": "P1Iy0T-gjB",
         "title": "Возлюби болезнь свою",
@@ -59,18 +71,6 @@
             "booksCount": 19
         }
     },
-    "a31N_t9oya": {
-        "id": "a31N_t9oya",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:44",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 23
-        }
-    },
     "oh7Yu5CwVp": {
         "id": "oh7Yu5CwVp",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -81,6 +81,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 22
+        }
+    },
+    "a31N_t9oya": {
+        "id": "a31N_t9oya",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:44",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 23
         }
     },
     "EwvFRzFEMu": {
@@ -345,18 +357,6 @@
             "id": "272513801-vkontakte",
             "nickname": "Рабочий Аккаунт",
             "booksCount": 3
-        }
-    },
-    "_WYhhVrDdd": {
-        "id": "_WYhhVrDdd",
-        "title": "Врата войны",
-        "author": "Раймонд Фэйст",
-        "notes": "",
-        "createdAt": "2016-08-21 12:41:00",
-        "user": {
-            "id": "272513801-vkontakte",
-            "nickname": "Рабочий Аккаунт",
-            "booksCount": 2
         }
     }
 }

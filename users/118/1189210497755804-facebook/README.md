@@ -1,4 +1,4 @@
-# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>3</sup>
+# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>4</sup>
 ---
 
 ## 2016
@@ -10,6 +10,10 @@
 
 
 ## 2010
+
+### Диагностика кармы
+Лазарев Сергей
+
 
 ### Работа, деньги и любовь. Путеводитель по самореализации
 Грейс Н.
