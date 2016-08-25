@@ -1,4 +1,16 @@
 {
+    "pt6_aGufFF": {
+        "id": "pt6_aGufFF",
+        "title": "Из лягушек - в принцы. Нейро-лингвистическое программирование",
+        "author": "Ричард Бендлер, Джон Гриндер",
+        "notes": "К сожалению, книга представляет собой запись семинара, и поэтому недостаточно структурирована. Тем не менее, ключевые моменты из нее вполне доступны. Базовая вещь для изучения НЛП.",
+        "createdAt": "2016-08-25 13:52:14",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 1
+        }
+    },
     "3VejfR3GWZ": {
         "id": "3VejfR3GWZ",
         "title": "Триумф и трагедия. Политический портрет И. В. Сталина.",
@@ -131,18 +143,6 @@
             "booksCount": 19
         }
     },
-    "oh7Yu5CwVp": {
-        "id": "oh7Yu5CwVp",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:44",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 22
-        }
-    },
     "a31N_t9oya": {
         "id": "a31N_t9oya",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -155,16 +155,16 @@
             "booksCount": 23
         }
     },
-    "IyfSYFewdf": {
-        "id": "IyfSYFewdf",
+    "oh7Yu5CwVp": {
+        "id": "oh7Yu5CwVp",
         "title": "Как чашка за чашкой строилась Starbucks",
         "author": "Говард Шульц",
         "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
+        "createdAt": "2016-08-25 11:02:44",
         "user": {
             "id": "112366191289808901180-google",
             "nickname": "Faith",
-            "booksCount": 20
+            "booksCount": 22
         }
     },
     "EwvFRzFEMu": {
@@ -177,6 +177,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 21
+        }
+    },
+    "IyfSYFewdf": {
+        "id": "IyfSYFewdf",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 20
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 1
-        }
-    },
-    "52EpFdrRHU": {
-        "id": "52EpFdrRHU",
-        "title": "Смерть Чиновника",
-        "author": "А.П.Чехов",
-        "notes": "",
-        "createdAt": "2016-08-22 04:17:25",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 28
         }
     }
 }
