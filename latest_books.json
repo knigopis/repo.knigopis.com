@@ -1,4 +1,16 @@
 {
+    "lMDYcUCq9H": {
+        "id": "lMDYcUCq9H",
+        "title": "Работа, деньги и любовь. Путеводитель по самореализации",
+        "author": "Грейс Н.",
+        "notes": "",
+        "createdAt": "2016-08-25 13:15:28",
+        "user": {
+            "id": "1189210497755804-facebook",
+            "nickname": "Skatertyu",
+            "booksCount": 2
+        }
+    },
     "F_XXRymCDl": {
         "id": "F_XXRymCDl",
         "title": "Вещество \"Икс\", или Исцеление от любви",
@@ -59,18 +71,6 @@
             "booksCount": 22
         }
     },
-    "EwvFRzFEMu": {
-        "id": "EwvFRzFEMu",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 21
-        }
-    },
     "IyfSYFewdf": {
         "id": "IyfSYFewdf",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -81,6 +81,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 20
+        }
+    },
+    "EwvFRzFEMu": {
+        "id": "EwvFRzFEMu",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 3
-        }
-    },
-    "sLtxsmjMCN": {
-        "id": "sLtxsmjMCN",
-        "title": "Цикл Песни Гипериона",
-        "author": "Дэн Симмонс",
-        "notes": "",
-        "createdAt": "2016-08-21 11:33:39",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 23
         }
     }
 }
