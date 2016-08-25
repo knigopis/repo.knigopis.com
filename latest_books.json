@@ -1,4 +1,16 @@
 {
+    "EwvFRzFEMu": {
+        "id": "EwvFRzFEMu",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
+        }
+    },
     "IyfSYFewdf": {
         "id": "IyfSYFewdf",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -345,18 +357,6 @@
             "id": "117808379157933101849-google",
             "nickname": "Betty",
             "booksCount": 1
-        }
-    },
-    "TObaUWm7cT": {
-        "id": "TObaUWm7cT",
-        "title": "Чтец",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-08-21 03:20:21",
-        "user": {
-            "id": "117808379157933101849-google",
-            "nickname": "Betty",
-            "booksCount": 2
         }
     }
 }
