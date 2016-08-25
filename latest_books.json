@@ -1,14 +1,14 @@
 {
-    "a31N_t9oya": {
-        "id": "a31N_t9oya",
+    "OJMR8xMW6X": {
+        "id": "OJMR8xMW6X",
         "title": "Как чашка за чашкой строилась Starbucks",
         "author": "Говард Шульц",
         "notes": "",
-        "createdAt": "2016-08-25 11:02:44",
+        "createdAt": "2016-08-25 11:03:38",
         "user": {
             "id": "112366191289808901180-google",
             "nickname": "Faith",
-            "booksCount": 23
+            "booksCount": 19
         }
     },
     "oh7Yu5CwVp": {
@@ -23,16 +23,16 @@
             "booksCount": 22
         }
     },
-    "EwvFRzFEMu": {
-        "id": "EwvFRzFEMu",
+    "a31N_t9oya": {
+        "id": "a31N_t9oya",
         "title": "Как чашка за чашкой строилась Starbucks",
         "author": "Говард Шульц",
         "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
+        "createdAt": "2016-08-25 11:02:44",
         "user": {
             "id": "112366191289808901180-google",
             "nickname": "Faith",
-            "booksCount": 21
+            "booksCount": 23
         }
     },
     "IyfSYFewdf": {
@@ -45,6 +45,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 20
+        }
+    },
+    "EwvFRzFEMu": {
+        "id": "EwvFRzFEMu",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 9
-        }
-    },
-    "KX3VSN2AzI": {
-        "id": "KX3VSN2AzI",
-        "title": "Атаман Ермак и сотоварищи",
-        "author": "Борис Алмазов",
-        "notes": "Февраль 1570 после разгрома Иваном Грозным Новгорода и Пскова.Сошли от царя на Дон люди в Феврале.Поскольку были в розыске то и называтся стали на Дону-Февралёвы.",
-        "createdAt": "2016-08-21 10:52:39",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 12
         }
     }
 }
