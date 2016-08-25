@@ -1,4 +1,16 @@
 {
+    "IyfSYFewdf": {
+        "id": "IyfSYFewdf",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 20
+        }
+    },
     "EkP3UJYOp7": {
         "id": "EkP3UJYOp7",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -345,18 +357,6 @@
             "id": "117808379157933101849-google",
             "nickname": "Betty",
             "booksCount": 2
-        }
-    },
-    "usETW_sd7B": {
-        "id": "usETW_sd7B",
-        "title": "Миссионеры",
-        "author": "Лукин",
-        "notes": "Великолепная альтернативная история. Святая месть европейцам-завоевателям",
-        "createdAt": "2016-08-21 00:24:52",
-        "user": {
-            "id": "1503854-vkontakte",
-            "nickname": "Bulat Gabidullin",
-            "booksCount": 1
         }
     }
 }
