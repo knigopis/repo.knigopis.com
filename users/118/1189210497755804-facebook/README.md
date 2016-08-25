@@ -1,4 +1,4 @@
-# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>4</sup>
+# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>5</sup>
 ---
 
 ## 2016
@@ -10,6 +10,10 @@
 
 
 ## 2010
+
+### Человек будущего
+Лазарев Сергей
+
 
 ### Диагностика кармы
 Лазарев Сергей
