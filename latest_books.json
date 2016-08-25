@@ -1,4 +1,16 @@
 {
+    "MClai0xV2j": {
+        "id": "MClai0xV2j",
+        "title": "Из лягушек - в принцы. Нейро-лингвистическое программирование",
+        "author": "Ричард Бендлер, Джон Гриндер",
+        "notes": "К сожалению, книга есть запись семинара, поэтому недостаточно структурирована и не сказать что легко читается.",
+        "createdAt": "2016-08-25 13:53:36",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 2
+        }
+    },
     "pt6_aGufFF": {
         "id": "pt6_aGufFF",
         "title": "Из лягушек - в принцы. Нейро-лингвистическое программирование",
@@ -167,18 +179,6 @@
             "booksCount": 22
         }
     },
-    "EwvFRzFEMu": {
-        "id": "EwvFRzFEMu",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 21
-        }
-    },
     "IyfSYFewdf": {
         "id": "IyfSYFewdf",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -189,6 +189,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 20
+        }
+    },
+    "EwvFRzFEMu": {
+        "id": "EwvFRzFEMu",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 2
-        }
-    },
-    "rVQ0ZWTsRL": {
-        "id": "rVQ0ZWTsRL",
-        "title": "Меч Без Имени",
-        "author": "Андрей Белянин",
-        "notes": "Хорошая книга, юмористическое фэнтези.",
-        "createdAt": "2016-08-22 09:18:22",
-        "user": {
-            "id": "162444669-vkontakte",
-            "nickname": "SMedgaus",
-            "booksCount": 1
         }
     }
 }
