@@ -1,4 +1,16 @@
 {
+    "fZmHGhVtzi": {
+        "id": "fZmHGhVtzi",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:13",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 18
+        }
+    },
     "iz2RZoc_aQ": {
         "id": "iz2RZoc_aQ",
         "title": "Миллионер. Чего не знает большинство.",
@@ -345,18 +357,6 @@
             "id": "32712003-vkontakte",
             "nickname": "alessiu",
             "booksCount": 12
-        }
-    },
-    "s-UAnmWgwU": {
-        "id": "s-UAnmWgwU",
-        "title": "А зори здесь тихие",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2016-08-20 11:57:42",
-        "user": {
-            "id": "32712003-vkontakte",
-            "nickname": "alessiu",
-            "booksCount": 18
         }
     }
 }
