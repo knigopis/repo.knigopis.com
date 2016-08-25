@@ -6,6 +6,8 @@
 ### Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ
 В.Е.Чабанов
 > [2016-08-25] http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf
+> 
+> в процессе
 
 
 ### Путешествие из Петербурга в Москву
