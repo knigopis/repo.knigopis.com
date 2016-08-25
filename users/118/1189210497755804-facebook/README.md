@@ -1,4 +1,4 @@
-# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>8</sup>
+# List of books read by [Skatertyu](https://www.facebook.com/app_scoped_user_id/1189210497755804/)<sup>9</sup>
 ---
 
 ## 2016
@@ -6,6 +6,14 @@
 ### Вещество "Икс", или Исцеление от любви
 Грейс Н
 > [2016-08] 
+
+
+
+## 2014
+
+### Триумф и трагедия. Политический портрет И. В. Сталина.
+Дмитрий Волкогонов
+> [2014-06] 
 
 
 

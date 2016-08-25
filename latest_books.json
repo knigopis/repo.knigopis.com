@@ -1,4 +1,16 @@
 {
+    "3VejfR3GWZ": {
+        "id": "3VejfR3GWZ",
+        "title": "Триумф и трагедия. Политический портрет И. В. Сталина.",
+        "author": "Дмитрий Волкогонов",
+        "notes": "",
+        "createdAt": "2016-08-25 13:37:47",
+        "user": {
+            "id": "1189210497755804-facebook",
+            "nickname": "Skatertyu",
+            "booksCount": 9
+        }
+    },
     "psO-9QSKMB": {
         "id": "psO-9QSKMB",
         "title": "Турбо-суслик",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 28
-        }
-    },
-    "3SYwk6EBak": {
-        "id": "3SYwk6EBak",
-        "title": "Моя жизнь",
-        "author": "Мохандас Карамчанд Ганди",
-        "notes": "",
-        "createdAt": "2016-08-21 18:31:29",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 116
         }
     }
 }
