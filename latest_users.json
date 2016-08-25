@@ -2,8 +2,8 @@
     "1189210497755804-facebook": {
         "id": "1189210497755804-facebook",
         "nickname": "Skatertyu",
-        "booksCount": 5,
-        "updatedAt": "2016-08-25 13:19:11"
+        "booksCount": 6,
+        "updatedAt": "2016-08-25 13:20:46"
     },
     "34516284-vkontakte": {
         "id": "34516284-vkontakte",
@@ -83,16 +83,16 @@
         "booksCount": 37,
         "updatedAt": "2016-08-23 14:11:26"
     },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 113,
-        "updatedAt": "2016-08-23 14:11:25"
-    },
     "15716698-vkontakte": {
         "id": "15716698-vkontakte",
         "nickname": "ishimura",
         "booksCount": 21,
+        "updatedAt": "2016-08-23 14:11:25"
+    },
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 113,
         "updatedAt": "2016-08-23 14:11:25"
     },
     "87255457-vkontakte": {
@@ -101,16 +101,16 @@
         "booksCount": 13,
         "updatedAt": "2016-08-23 14:11:24"
     },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 39,
-        "updatedAt": "2016-08-23 14:11:24"
-    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
         "booksCount": 56,
+        "updatedAt": "2016-08-23 14:11:24"
+    },
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
@@ -118,12 +118,6 @@
         "nickname": "nakuren",
         "booksCount": 2,
         "updatedAt": "2016-08-23 14:11:23"
-    },
-    "142301319-vkontakte": {
-        "id": "142301319-vkontakte",
-        "nickname": "Ангелина ",
-        "booksCount": 35,
-        "updatedAt": "2016-08-23 14:11:22"
     },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
@@ -137,11 +131,11 @@
         "booksCount": 49,
         "updatedAt": "2016-08-23 14:11:22"
     },
-    "17512464403843660334-mailru": {
-        "id": "17512464403843660334-mailru",
-        "nickname": "Достан Набиев",
-        "booksCount": 57,
-        "updatedAt": "2016-08-23 14:11:20"
+    "142301319-vkontakte": {
+        "id": "142301319-vkontakte",
+        "nickname": "Ангелина ",
+        "booksCount": 35,
+        "updatedAt": "2016-08-23 14:11:22"
     },
     "111002996-vkontakte": {
         "id": "111002996-vkontakte",
@@ -155,22 +149,28 @@
         "booksCount": 35,
         "updatedAt": "2016-08-23 14:11:20"
     },
+    "17512464403843660334-mailru": {
+        "id": "17512464403843660334-mailru",
+        "nickname": "Достан Набиев",
+        "booksCount": 57,
+        "updatedAt": "2016-08-23 14:11:20"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
         "booksCount": 55,
         "updatedAt": "2016-08-23 14:11:19"
     },
-    "140262580-vkontakte": {
-        "id": "140262580-vkontakte",
-        "nickname": "a_s",
-        "booksCount": 8,
-        "updatedAt": "2016-08-23 14:11:18"
-    },
     "22240417-vkontakte": {
         "id": "22240417-vkontakte",
         "nickname": "Ольга Отрыванова",
         "booksCount": 38,
+        "updatedAt": "2016-08-23 14:11:18"
+    },
+    "140262580-vkontakte": {
+        "id": "140262580-vkontakte",
+        "nickname": "a_s",
+        "booksCount": 8,
         "updatedAt": "2016-08-23 14:11:18"
     },
     "104733697409680897924-google": {

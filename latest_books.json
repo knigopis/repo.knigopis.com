@@ -1,4 +1,16 @@
 {
+    "5ITUv46nLL": {
+        "id": "5ITUv46nLL",
+        "title": "Трансерфинг реальности. Книга 1: Пространство вариантов",
+        "author": "Зеланд В",
+        "notes": "",
+        "createdAt": "2016-08-25 13:20:46",
+        "user": {
+            "id": "1189210497755804-facebook",
+            "nickname": "Skatertyu",
+            "booksCount": 6
+        }
+    },
     "kzzC2RH3is": {
         "id": "kzzC2RH3is",
         "title": "Человек будущего",
@@ -344,18 +356,6 @@
         "user": {
             "id": "180200146-vkontakte",
             "nickname": "illud",
-            "booksCount": 1
-        }
-    },
-    "69I5FH2knc": {
-        "id": "69I5FH2knc",
-        "title": "Долина тьмы",
-        "author": "Раймонд Фэйст",
-        "notes": "",
-        "createdAt": "2016-08-21 12:41:46",
-        "user": {
-            "id": "272513801-vkontakte",
-            "nickname": "Рабочий Аккаунт",
             "booksCount": 1
         }
     }
