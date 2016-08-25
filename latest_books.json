@@ -1,4 +1,16 @@
 {
+    "O-DlQwy4QX": {
+        "id": "O-DlQwy4QX",
+        "title": "Сила Привычки",
+        "author": "Чарлз Дахигг",
+        "notes": "Описан механизм привычки (знак - действие - награда). Описан алгоритм изменения собственных привычек.",
+        "createdAt": "2016-08-25 12:19:46",
+        "user": {
+            "id": "197885199-vkontakte",
+            "nickname": "in_sins",
+            "booksCount": 1
+        }
+    },
     "OJMR8xMW6X": {
         "id": "OJMR8xMW6X",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 12
-        }
-    },
-    "Q7YEOkW3VA": {
-        "id": "Q7YEOkW3VA",
-        "title": "Хроники Сиалы",
-        "author": "Пехов",
-        "notes": "Вор Гаррет",
-        "createdAt": "2016-08-21 11:31:01",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 9
         }
     }
 }
