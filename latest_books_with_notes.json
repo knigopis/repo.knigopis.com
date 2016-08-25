@@ -1,4 +1,16 @@
 {
+    "FS0Iu-NtTX": {
+        "id": "FS0Iu-NtTX",
+        "title": "Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ",
+        "author": "В.Е.Чабанов",
+        "notes": "http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf",
+        "createdAt": "2016-08-25 14:04:23",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 74
+        }
+    },
     "Mijw80AwXf": {
         "id": "Mijw80AwXf",
         "title": "Путешествие из Петербурга в Москву",
@@ -345,18 +357,6 @@
             "id": "269882715-vkontakte",
             "nickname": "i943486710",
             "booksCount": 9
-        }
-    },
-    "irHbyMXMJR": {
-        "id": "irHbyMXMJR",
-        "title": "Морфий",
-        "author": "Михаил Булгаков",
-        "notes": "Невероятная книга. Очень интересные записки наркомана. Интересно узнать как происходит ломка",
-        "createdAt": "2016-08-05 22:12:18",
-        "user": {
-            "id": "269882715-vkontakte",
-            "nickname": "i943486710",
-            "booksCount": 10
         }
     }
 }

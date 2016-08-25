@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [Ник Литвинов](https://www.linkedin.com/in/nicklitvinov)<sup>73</sup>
+# Список прочитанных книг пользователя [Ник Литвинов](https://www.linkedin.com/in/nicklitvinov)<sup>74</sup>
 ---
 
 ## 2016
+
+### Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ
+В.Е.Чабанов
+> [2016-08-25] http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf
+
 
 ### Путешествие из Петербурга в Москву
 Александр Радищев

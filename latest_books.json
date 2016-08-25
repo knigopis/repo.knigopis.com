@@ -1,4 +1,16 @@
 {
+    "FS0Iu-NtTX": {
+        "id": "FS0Iu-NtTX",
+        "title": "Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ",
+        "author": "В.Е.Чабанов",
+        "notes": "http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf",
+        "createdAt": "2016-08-25 14:04:23",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 74
+        }
+    },
     "Mijw80AwXf": {
         "id": "Mijw80AwXf",
         "title": "Путешествие из Петербурга в Москву",
@@ -167,18 +179,6 @@
             "booksCount": 19
         }
     },
-    "a31N_t9oya": {
-        "id": "a31N_t9oya",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:44",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 23
-        }
-    },
     "oh7Yu5CwVp": {
         "id": "oh7Yu5CwVp",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -191,16 +191,16 @@
             "booksCount": 22
         }
     },
-    "IyfSYFewdf": {
-        "id": "IyfSYFewdf",
+    "a31N_t9oya": {
+        "id": "a31N_t9oya",
         "title": "Как чашка за чашкой строилась Starbucks",
         "author": "Говард Шульц",
         "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
+        "createdAt": "2016-08-25 11:02:44",
         "user": {
             "id": "112366191289808901180-google",
             "nickname": "Faith",
-            "booksCount": 20
+            "booksCount": 23
         }
     },
     "EwvFRzFEMu": {
@@ -213,6 +213,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 21
+        }
+    },
+    "IyfSYFewdf": {
+        "id": "IyfSYFewdf",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 20
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 3
-        }
-    },
-    "wlQheZGa_I": {
-        "id": "wlQheZGa_I",
-        "title": "Век святого Скиминока",
-        "author": "Андрей Белянин",
-        "notes": "",
-        "createdAt": "2016-08-22 09:19:25",
-        "user": {
-            "id": "162444669-vkontakte",
-            "nickname": "SMedgaus",
-            "booksCount": 4
         }
     }
 }
