@@ -1,4 +1,16 @@
 {
+    "iz2RZoc_aQ": {
+        "id": "iz2RZoc_aQ",
+        "title": "Миллионер. Чего не знает большинство.",
+        "author": "Скотт Макферсон",
+        "notes": "",
+        "createdAt": "2016-08-25 03:49:33",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 223
+        }
+    },
     "zWiJ0BsgH1": {
         "id": "zWiJ0BsgH1",
         "title": "Другая сторона смерти",
@@ -345,18 +357,6 @@
             "id": "32712003-vkontakte",
             "nickname": "alessiu",
             "booksCount": 18
-        }
-    },
-    "QPPlUYq20u": {
-        "id": "QPPlUYq20u",
-        "title": "Солнце полуночи",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2016-08-20 06:33:15",
-        "user": {
-            "id": "409511506-yandex",
-            "nickname": "mitio.o",
-            "booksCount": 75
         }
     }
 }
