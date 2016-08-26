@@ -1,4 +1,4 @@
-# List of books read by Victoria<sup>12</sup>
+# List of books read by Victoria<sup>11</sup>
 ---
 
 ## 2016
@@ -48,10 +48,6 @@
 
 
 ### Убийство в "Восточном экспрессе
-Агата Кристи
-
-
-### Убийство в "Восточном экспрессе"
 Агата Кристи
 
 
