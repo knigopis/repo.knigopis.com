@@ -1,4 +1,16 @@
 {
+    "aBGQJVmGyM": {
+        "id": "aBGQJVmGyM",
+        "title": "Руководство по улучшению бизнес- процессов",
+        "author": "Коллектив авторов",
+        "notes": "",
+        "createdAt": "2016-08-26 05:41:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 225
+        }
+    },
     "ckWTwQxTh9": {
         "id": "ckWTwQxTh9",
         "title": "Травля",
@@ -227,18 +239,6 @@
             "booksCount": 22
         }
     },
-    "IyfSYFewdf": {
-        "id": "IyfSYFewdf",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 11:02:43",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 20
-        }
-    },
     "EwvFRzFEMu": {
         "id": "EwvFRzFEMu",
         "title": "Как чашка за чашкой строилась Starbucks",
@@ -249,6 +249,18 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 21
+        }
+    },
+    "IyfSYFewdf": {
+        "id": "IyfSYFewdf",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Говард Шульц",
+        "notes": "",
+        "createdAt": "2016-08-25 11:02:43",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 20
         }
     },
     "EkP3UJYOp7": {
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 44
-        }
-    },
-    "GJZmnxdGa1": {
-        "id": "GJZmnxdGa1",
-        "title": "Казаки против Наполеона.От Дона до Парижа",
-        "author": "Венков.А.В",
-        "notes": "Хорошая книга в основном используется материал Донское Казачество в Отечественной войне 1812 и заграничных походах.",
-        "createdAt": "2016-08-23 09:34:18",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 11
         }
     }
 }
