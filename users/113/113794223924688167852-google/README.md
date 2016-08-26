@@ -1,4 +1,4 @@
-# List of books read by Victoria<sup>14</sup>
+# List of books read by Victoria<sup>13</sup>
 ---
 
 ## 2016
@@ -10,10 +10,6 @@
 
 
 ## 2014
-
-### Убийство в "Восточном экспрессе
-Агата Кристи
-
 
 ### Человек который смеется
 Виктор Гюго
