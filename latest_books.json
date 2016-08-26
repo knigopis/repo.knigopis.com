@@ -1,4 +1,16 @@
 {
+    "in_rPHxu9t": {
+        "id": "in_rPHxu9t",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2016-08-26 12:41:29",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 20
+        }
+    },
     "cE8vVEYTtd": {
         "id": "cE8vVEYTtd",
         "title": "Пилот",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 2
-        }
-    },
-    "JFYSUR_hD-": {
-        "id": "JFYSUR_hD-",
-        "title": "Колыбельная",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2016-08-26 07:25:33",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 1
         }
     }
 }
