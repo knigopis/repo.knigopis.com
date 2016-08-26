@@ -1,4 +1,16 @@
 {
+    "nu9zXeU_dV": {
+        "id": "nu9zXeU_dV",
+        "title": "Американский психопат",
+        "author": "Брет Эллис",
+        "notes": "",
+        "createdAt": "2016-08-26 12:39:19",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 18
+        }
+    },
     "lyRGAlf7Rw": {
         "id": "lyRGAlf7Rw",
         "title": "Сборник",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 226
-        }
-    },
-    "aBGQJVmGyM": {
-        "id": "aBGQJVmGyM",
-        "title": "Руководство по улучшению бизнес- процессов",
-        "author": "Коллектив авторов",
-        "notes": "",
-        "createdAt": "2016-08-26 05:41:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 225
         }
     }
 }
