@@ -1,4 +1,16 @@
 {
+    "x2XMfojfuy": {
+        "id": "x2XMfojfuy",
+        "title": "Молох",
+        "author": "Куприн",
+        "notes": "",
+        "createdAt": "2016-08-26 12:18:15",
+        "user": {
+            "id": "116922649782686260616-google",
+            "nickname": "ледиблейзер",
+            "booksCount": 1
+        }
+    },
     "f-1ql_vPiz": {
         "id": "f-1ql_vPiz",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "1189210497755804-facebook",
             "nickname": "Skatertyu",
             "booksCount": 6
-        }
-    },
-    "kzzC2RH3is": {
-        "id": "kzzC2RH3is",
-        "title": "Человек будущего",
-        "author": "Лазарев Сергей",
-        "notes": "",
-        "createdAt": "2016-08-25 13:19:11",
-        "user": {
-            "id": "1189210497755804-facebook",
-            "nickname": "Skatertyu",
-            "booksCount": 5
         }
     }
 }
