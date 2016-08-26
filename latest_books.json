@@ -1,4 +1,16 @@
 {
+    "8EscQtil2R": {
+        "id": "8EscQtil2R",
+        "title": "Отверженные",
+        "author": "Гюго",
+        "notes": "",
+        "createdAt": "2016-08-26 12:33:27",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 11
+        }
+    },
     "S5Rnsd4BAC": {
         "id": "S5Rnsd4BAC",
         "title": "Коронация",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 1
-        }
-    },
-    "3VejfR3GWZ": {
-        "id": "3VejfR3GWZ",
-        "title": "Триумф и трагедия. Политический портрет И. В. Сталина.",
-        "author": "Дмитрий Волкогонов",
-        "notes": "",
-        "createdAt": "2016-08-25 13:37:47",
-        "user": {
-            "id": "1189210497755804-facebook",
-            "nickname": "Skatertyu",
-            "booksCount": 9
         }
     }
 }
