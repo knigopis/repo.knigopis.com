@@ -2,8 +2,8 @@
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
-        "booksCount": 6,
-        "updatedAt": "2016-08-26 08:08:45"
+        "booksCount": 5,
+        "updatedAt": "2016-08-26 08:08:48"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
@@ -89,17 +89,23 @@
         "booksCount": 44,
         "updatedAt": "2016-08-23 15:01:41"
     },
+    "105852303950227831814-google": {
+        "id": "105852303950227831814-google",
+        "nickname": "fiery mouse",
+        "booksCount": 37,
+        "updatedAt": "2016-08-23 14:11:26"
+    },
     "100001858801764-facebook": {
         "id": "100001858801764-facebook",
         "nickname": "shirko.elena",
         "booksCount": 5,
         "updatedAt": "2016-08-23 14:11:26"
     },
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
-        "updatedAt": "2016-08-23 14:11:26"
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 113,
+        "updatedAt": "2016-08-23 14:11:25"
     },
     "15716698-vkontakte": {
         "id": "15716698-vkontakte",
@@ -107,11 +113,11 @@
         "booksCount": 21,
         "updatedAt": "2016-08-23 14:11:25"
     },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 113,
-        "updatedAt": "2016-08-23 14:11:25"
+    "87255457-vkontakte": {
+        "id": "87255457-vkontakte",
+        "nickname": "Тьери",
+        "booksCount": 13,
+        "updatedAt": "2016-08-23 14:11:24"
     },
     "202248233-vkontakte": {
         "id": "202248233-vkontakte",
@@ -123,12 +129,6 @@
         "id": "2401650-vkontakte",
         "nickname": "joan789",
         "booksCount": 56,
-        "updatedAt": "2016-08-23 14:11:24"
-    },
-    "87255457-vkontakte": {
-        "id": "87255457-vkontakte",
-        "nickname": "Тьери",
-        "booksCount": 13,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
@@ -143,17 +143,23 @@
         "booksCount": 284,
         "updatedAt": "2016-08-23 14:11:22"
     },
+    "49559930-vkontakte": {
+        "id": "49559930-vkontakte",
+        "nickname": "crazy_apple",
+        "booksCount": 49,
+        "updatedAt": "2016-08-23 14:11:22"
+    },
     "142301319-vkontakte": {
         "id": "142301319-vkontakte",
         "nickname": "Ангелина ",
         "booksCount": 35,
         "updatedAt": "2016-08-23 14:11:22"
     },
-    "49559930-vkontakte": {
-        "id": "49559930-vkontakte",
-        "nickname": "crazy_apple",
-        "booksCount": 49,
-        "updatedAt": "2016-08-23 14:11:22"
+    "111002996-vkontakte": {
+        "id": "111002996-vkontakte",
+        "nickname": "deda.borya",
+        "booksCount": 105,
+        "updatedAt": "2016-08-23 14:11:20"
     },
     "243400378-vkontakte": {
         "id": "243400378-vkontakte",
@@ -165,12 +171,6 @@
         "id": "17512464403843660334-mailru",
         "nickname": "Достан Набиев",
         "booksCount": 57,
-        "updatedAt": "2016-08-23 14:11:20"
-    },
-    "111002996-vkontakte": {
-        "id": "111002996-vkontakte",
-        "nickname": "deda.borya",
-        "booksCount": 105,
         "updatedAt": "2016-08-23 14:11:20"
     },
     "3621623-vkontakte": {
