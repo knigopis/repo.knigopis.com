@@ -1,4 +1,16 @@
 {
+    "1gVbVefEJZ": {
+        "id": "1gVbVefEJZ",
+        "title": "10 негритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2016-08-26 08:14:39",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 5
+        }
+    },
     "OK8dQbrBLW": {
         "id": "OK8dQbrBLW",
         "title": "Убийство в \"Восточном экспрессе",
@@ -345,18 +357,6 @@
             "id": "1189210497755804-facebook",
             "nickname": "Skatertyu",
             "booksCount": 3
-        }
-    },
-    "lMDYcUCq9H": {
-        "id": "lMDYcUCq9H",
-        "title": "Работа, деньги и любовь. Путеводитель по самореализации",
-        "author": "Грейс Н.",
-        "notes": "",
-        "createdAt": "2016-08-25 13:15:28",
-        "user": {
-            "id": "1189210497755804-facebook",
-            "nickname": "Skatertyu",
-            "booksCount": 2
         }
     }
 }
