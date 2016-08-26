@@ -1,4 +1,16 @@
 {
+    "cE8vVEYTtd": {
+        "id": "cE8vVEYTtd",
+        "title": "Пилот",
+        "author": "Антуан де Сент- Экзюпери",
+        "notes": "",
+        "createdAt": "2016-08-26 12:41:01",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 19
+        }
+    },
     "nu9zXeU_dV": {
         "id": "nu9zXeU_dV",
         "title": "Американский психопат",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 1
-        }
-    },
-    "7U6clMgLsI": {
-        "id": "7U6clMgLsI",
-        "title": "Руководство по улучшению бизнес- процессов",
-        "author": "Коллектив авторов",
-        "notes": "",
-        "createdAt": "2016-08-26 05:41:38",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 226
         }
     }
 }
