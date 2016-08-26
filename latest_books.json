@@ -1,4 +1,16 @@
 {
+    "eK4r7wiRmz": {
+        "id": "eK4r7wiRmz",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2016-08-26 12:36:14",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 16
+        }
+    },
     "yjp3Qsy9ch": {
         "id": "yjp3Qsy9ch",
         "title": "Под куполом",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 224
-        }
-    },
-    "xHL_rboR-z": {
-        "id": "xHL_rboR-z",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Говард Шульц",
-        "notes": "",
-        "createdAt": "2016-08-25 17:40:17",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 19
         }
     }
 }
