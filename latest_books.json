@@ -1,4 +1,16 @@
 {
+    "S5Rnsd4BAC": {
+        "id": "S5Rnsd4BAC",
+        "title": "Коронация",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2016-08-26 12:33:03",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 10
+        }
+    },
     "fXO-KObtHN": {
         "id": "fXO-KObtHN",
         "title": "Тошнота",
@@ -345,18 +357,6 @@
             "id": "1189210497755804-facebook",
             "nickname": "Skatertyu",
             "booksCount": 9
-        }
-    },
-    "psO-9QSKMB": {
-        "id": "psO-9QSKMB",
-        "title": "Турбо-суслик",
-        "author": "Леушкин Д",
-        "notes": "",
-        "createdAt": "2016-08-25 13:28:09",
-        "user": {
-            "id": "1189210497755804-facebook",
-            "nickname": "Skatertyu",
-            "booksCount": 8
         }
     }
 }
