@@ -1,4 +1,16 @@
 {
+    "yjp3Qsy9ch": {
+        "id": "yjp3Qsy9ch",
+        "title": "Под куполом",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2016-08-26 12:35:43",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 15
+        }
+    },
     "pSrCAQsJuj": {
         "id": "pSrCAQsJuj",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "112366191289808901180-google",
             "nickname": "Faith",
             "booksCount": 19
-        }
-    },
-    "FS0Iu-NtTX": {
-        "id": "FS0Iu-NtTX",
-        "title": "Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ",
-        "author": "В.Е.Чабанов",
-        "notes": "http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf",
-        "createdAt": "2016-08-25 14:04:23",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 74
         }
     }
 }
