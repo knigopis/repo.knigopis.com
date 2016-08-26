@@ -1,4 +1,16 @@
 {
+    "lyRGAlf7Rw": {
+        "id": "lyRGAlf7Rw",
+        "title": "Сборник",
+        "author": "Тесс Герритсен",
+        "notes": "",
+        "createdAt": "2016-08-26 12:38:36",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 17
+        }
+    },
     "eK4r7wiRmz": {
         "id": "eK4r7wiRmz",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 225
-        }
-    },
-    "ckWTwQxTh9": {
-        "id": "ckWTwQxTh9",
-        "title": "Травля",
-        "author": "Саша Филипенко",
-        "notes": "",
-        "createdAt": "2016-08-25 18:48:06",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 224
         }
     }
 }
