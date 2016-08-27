@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[alexandr.ushakoff](users/260/260296446-vkontakte)<sup>0</sup> 
+[alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
 [engrossingtime](users/135/135884633-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>20</sup> 
@@ -56,17 +56,17 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
-[shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
-[ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
+[shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
-[Тьери](users/872/87255457-vkontakte)<sup>13</sup> 
+[ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>56</sup> 
 [zAAz](users/202/202248233-vkontakte)<sup>39</sup> 
+[Тьери](users/872/87255457-vkontakte)<sup>13</sup> 
 [nakuren](users/351/3517945-vkontakte)<sup>2</sup> 
+[crazy_apple](users/495/49559930-vkontakte)<sup>49</sup> 
 [Ангелина ](users/142/142301319-vkontakte)<sup>35</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>284</sup> 
-[crazy_apple](users/495/49559930-vkontakte)<sup>49</sup> 
 
 
-_27.08.2016 06:26:24_
+_27.08.2016 06:26:51_

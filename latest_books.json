@@ -1,4 +1,16 @@
 {
+    "xfXZkDxZG_": {
+        "id": "xfXZkDxZG_",
+        "title": "",
+        "author": "энтони бриджесс",
+        "notes": "",
+        "createdAt": "2016-08-27 06:26:51",
+        "user": {
+            "id": "260296446-vkontakte",
+            "nickname": "alexandr.ushakoff",
+            "booksCount": 1
+        }
+    },
     "in_rPHxu9t": {
         "id": "in_rPHxu9t",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 3
-        }
-    },
-    "8GR1hLCU_C": {
-        "id": "8GR1hLCU_C",
-        "title": "Человек который смеется",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2016-08-26 07:30:53",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 2
         }
     }
 }
