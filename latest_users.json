@@ -1,4 +1,10 @@
 {
+    "135884633-vkontakte": {
+        "id": "135884633-vkontakte",
+        "nickname": "engrossingtime",
+        "booksCount": 0,
+        "updatedAt": "2016-08-27 06:23:23"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -125,10 +131,10 @@
         "booksCount": 113,
         "updatedAt": "2016-08-23 14:11:25"
     },
-    "87255457-vkontakte": {
-        "id": "87255457-vkontakte",
-        "nickname": "Тьери",
-        "booksCount": 13,
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "2401650-vkontakte": {
@@ -137,10 +143,10 @@
         "booksCount": 56,
         "updatedAt": "2016-08-23 14:11:24"
     },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 39,
+    "87255457-vkontakte": {
+        "id": "87255457-vkontakte",
+        "nickname": "Тьери",
+        "booksCount": 13,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
@@ -149,10 +155,10 @@
         "booksCount": 2,
         "updatedAt": "2016-08-23 14:11:23"
     },
-    "142301319-vkontakte": {
-        "id": "142301319-vkontakte",
-        "nickname": "Ангелина ",
-        "booksCount": 35,
+    "49559930-vkontakte": {
+        "id": "49559930-vkontakte",
+        "nickname": "crazy_apple",
+        "booksCount": 49,
         "updatedAt": "2016-08-23 14:11:22"
     },
     "76187635-vkontakte": {
@@ -161,17 +167,11 @@
         "booksCount": 284,
         "updatedAt": "2016-08-23 14:11:22"
     },
-    "49559930-vkontakte": {
-        "id": "49559930-vkontakte",
-        "nickname": "crazy_apple",
-        "booksCount": 49,
+    "142301319-vkontakte": {
+        "id": "142301319-vkontakte",
+        "nickname": "Ангелина ",
+        "booksCount": 35,
         "updatedAt": "2016-08-23 14:11:22"
-    },
-    "17512464403843660334-mailru": {
-        "id": "17512464403843660334-mailru",
-        "nickname": "Достан Набиев",
-        "booksCount": 57,
-        "updatedAt": "2016-08-23 14:11:20"
     },
     "243400378-vkontakte": {
         "id": "243400378-vkontakte",
