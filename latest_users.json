@@ -2,8 +2,8 @@
     "101060466123969249081-google": {
         "id": "101060466123969249081-google",
         "nickname": "sviat",
-        "booksCount": 0,
-        "updatedAt": "2016-08-27 11:23:08"
+        "booksCount": 1,
+        "updatedAt": "2016-08-27 11:23:40"
     },
     "28423572-vkontakte": {
         "id": "28423572-vkontakte",
@@ -125,17 +125,23 @@
         "booksCount": 44,
         "updatedAt": "2016-08-23 15:01:41"
     },
+    "105852303950227831814-google": {
+        "id": "105852303950227831814-google",
+        "nickname": "fiery mouse",
+        "booksCount": 37,
+        "updatedAt": "2016-08-23 14:11:26"
+    },
     "100001858801764-facebook": {
         "id": "100001858801764-facebook",
         "nickname": "shirko.elena",
         "booksCount": 5,
         "updatedAt": "2016-08-23 14:11:26"
     },
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
-        "updatedAt": "2016-08-23 14:11:26"
+    "15716698-vkontakte": {
+        "id": "15716698-vkontakte",
+        "nickname": "ishimura",
+        "booksCount": 21,
+        "updatedAt": "2016-08-23 14:11:25"
     },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
@@ -143,11 +149,11 @@
         "booksCount": 113,
         "updatedAt": "2016-08-23 14:11:25"
     },
-    "15716698-vkontakte": {
-        "id": "15716698-vkontakte",
-        "nickname": "ishimura",
-        "booksCount": 21,
-        "updatedAt": "2016-08-23 14:11:25"
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 39,
+        "updatedAt": "2016-08-23 14:11:24"
     },
     "87255457-vkontakte": {
         "id": "87255457-vkontakte",
@@ -159,12 +165,6 @@
         "id": "2401650-vkontakte",
         "nickname": "joan789",
         "booksCount": 56,
-        "updatedAt": "2016-08-23 14:11:24"
-    },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
