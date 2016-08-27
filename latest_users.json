@@ -1,4 +1,10 @@
 {
+    "4635086564113755331-mailru": {
+        "id": "4635086564113755331-mailru",
+        "nickname": "Женя Егорова",
+        "booksCount": 0,
+        "updatedAt": "2016-08-27 20:34:48"
+    },
     "101060466123969249081-google": {
         "id": "101060466123969249081-google",
         "nickname": "sviat",
@@ -155,16 +161,16 @@
         "booksCount": 56,
         "updatedAt": "2016-08-23 14:11:24"
     },
-    "202248233-vkontakte": {
-        "id": "202248233-vkontakte",
-        "nickname": "zAAz",
-        "booksCount": 39,
-        "updatedAt": "2016-08-23 14:11:24"
-    },
     "87255457-vkontakte": {
         "id": "87255457-vkontakte",
         "nickname": "Тьери",
         "booksCount": 13,
+        "updatedAt": "2016-08-23 14:11:24"
+    },
+    "202248233-vkontakte": {
+        "id": "202248233-vkontakte",
+        "nickname": "zAAz",
+        "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "3517945-vkontakte": {
@@ -172,11 +178,5 @@
         "nickname": "nakuren",
         "booksCount": 2,
         "updatedAt": "2016-08-23 14:11:23"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 284,
-        "updatedAt": "2016-08-23 14:11:22"
     }
 }
