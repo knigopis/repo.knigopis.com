@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 [tumelnikova](users/423/42302213-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
 [ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>56</sup> 
 
 
-_28.08.2016 15:16:50_
+_28.08.2016 16:38:31_
