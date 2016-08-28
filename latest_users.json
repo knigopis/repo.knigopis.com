@@ -1,4 +1,10 @@
 {
+    "100000482409764-facebook": {
+        "id": "100000482409764-facebook",
+        "nickname": "Kwotti",
+        "booksCount": 0,
+        "updatedAt": "2016-08-28 16:38:30"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "ishimura",
         "booksCount": 21,
         "updatedAt": "2016-08-23 14:11:25"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 56,
-        "updatedAt": "2016-08-23 14:11:24"
     }
 }
