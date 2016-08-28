@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
 * Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup>
 * Путешествие из Петербурга в Москву ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Мы ~ [i943486710](users/269/269882715-vkontakte)<sup>8</sup>
 * Десять негритят ~ [i943486710](users/269/269882715-vkontakte)<sup>3</sup>
 * Обыкновенное чудо ~ [i943486710](users/269/269882715-vkontakte)<sup>4</sup>
-* Коллекционер ~ [i943486710](users/269/269882715-vkontakte)<sup>7</sup>
 
 
-_28.08.2016 11:49:28_
+_28.08.2016 11:49:41_

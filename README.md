@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
+    > Понравилось. Читается легко и просто. Душевно всё это и печально.
+
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
     > Понравилось. Читается легко и просто. Душевно всё это и печально.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf
 
 * Путешествие из Петербурга в Москву ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>73</sup>
-    > классика в процессе
-    > 
-    > Читаю и поражаюсь - ничегошеньки в России не изменилось за прошедшие триста лет. Что тогда, что в СССР, что сейчас. Различия столь малы, что заставляют серьезно задуматься.
 
 * Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Война миров ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>37</sup>
 
-* Чёрный кот ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
+[Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [tumelnikova](users/423/42302213-vkontakte)<sup>0</sup> 
 [Lutik](users/210/210107386-vkontakte)<sup>0</sup> 
 [Женя Егорова](users/463/4635086564113755331-mailru)<sup>5</sup> 
@@ -60,11 +58,11 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
-[shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
-[ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
+[shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
+[ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>56</sup> 
 
 
-_28.08.2016 11:49:28_
+_28.08.2016 11:49:41_
