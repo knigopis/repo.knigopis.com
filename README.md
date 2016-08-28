@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
+[Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 [tumelnikova](users/423/42302213-vkontakte)<sup>0</sup> 
 [Lutik](users/210/210107386-vkontakte)<sup>0</sup> 
 [Женя Егорова](users/463/4635086564113755331-mailru)<sup>5</sup> 
@@ -58,11 +58,11 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
-[fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
+[fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
 [ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
+[creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>56</sup> 
 
 
-_28.08.2016 11:52:16_
+_28.08.2016 11:52:54_
