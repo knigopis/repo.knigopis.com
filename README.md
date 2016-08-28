@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>17</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
-[ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
 
 
-_28.08.2016 17:16:08_
+_28.08.2016 20:26:13_
