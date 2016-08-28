@@ -1,4 +1,16 @@
 {
+    "lhV3zPzbGK": {
+        "id": "lhV3zPzbGK",
+        "title": "Есть, молиться, любить",
+        "author": "Элизабет Гилберт",
+        "notes": "",
+        "createdAt": "2016-08-28 17:16:08",
+        "user": {
+            "id": "110589643014391632917-google",
+            "nickname": "hanna",
+            "booksCount": 17
+        }
+    },
     "E8JRsDzj_M": {
         "id": "E8JRsDzj_M",
         "title": "Таня Гроттер и посох Волхвов",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 19
-        }
-    },
-    "nu9zXeU_dV": {
-        "id": "nu9zXeU_dV",
-        "title": "Американский психопат",
-        "author": "Брет Эллис",
-        "notes": "",
-        "createdAt": "2016-08-26 12:39:19",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 18
         }
     }
 }
