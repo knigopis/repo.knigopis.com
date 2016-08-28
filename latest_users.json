@@ -1,4 +1,10 @@
 {
+    "210107386-vkontakte": {
+        "id": "210107386-vkontakte",
+        "nickname": "Lutik",
+        "booksCount": 0,
+        "updatedAt": "2016-08-28 04:43:29"
+    },
     "4635086564113755331-mailru": {
         "id": "4635086564113755331-mailru",
         "nickname": "Женя Егорова",
@@ -131,16 +137,16 @@
         "booksCount": 44,
         "updatedAt": "2016-08-23 15:01:41"
     },
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
-        "updatedAt": "2016-08-23 14:11:26"
-    },
     "100001858801764-facebook": {
         "id": "100001858801764-facebook",
         "nickname": "shirko.elena",
         "booksCount": 5,
+        "updatedAt": "2016-08-23 14:11:26"
+    },
+    "105852303950227831814-google": {
+        "id": "105852303950227831814-google",
+        "nickname": "fiery mouse",
+        "booksCount": 37,
         "updatedAt": "2016-08-23 14:11:26"
     },
     "74743045-vkontakte": {
@@ -155,10 +161,10 @@
         "booksCount": 21,
         "updatedAt": "2016-08-23 14:11:25"
     },
-    "87255457-vkontakte": {
-        "id": "87255457-vkontakte",
-        "nickname": "Тьери",
-        "booksCount": 13,
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 56,
         "updatedAt": "2016-08-23 14:11:24"
     },
     "202248233-vkontakte": {
@@ -167,16 +173,10 @@
         "booksCount": 39,
         "updatedAt": "2016-08-23 14:11:24"
     },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 56,
+    "87255457-vkontakte": {
+        "id": "87255457-vkontakte",
+        "nickname": "Тьери",
+        "booksCount": 13,
         "updatedAt": "2016-08-23 14:11:24"
-    },
-    "3517945-vkontakte": {
-        "id": "3517945-vkontakte",
-        "nickname": "nakuren",
-        "booksCount": 2,
-        "updatedAt": "2016-08-23 14:11:23"
     }
 }
