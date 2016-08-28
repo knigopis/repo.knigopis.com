@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hanna](users/110/110589643014391632917-google)<sup>0</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [dashakarata](users/446/4468151-vkontakte)<sup>0</sup> 
 [LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
-[fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
+[fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
 [ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
 
 
-_28.08.2016 16:38:31_
+_28.08.2016 17:01:56_
