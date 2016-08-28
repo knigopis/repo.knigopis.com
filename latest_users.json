@@ -1,4 +1,10 @@
 {
+    "110589643014391632917-google": {
+        "id": "110589643014391632917-google",
+        "nickname": "hanna",
+        "booksCount": 0,
+        "updatedAt": "2016-08-28 17:01:56"
+    },
     "100000482409764-facebook": {
         "id": "100000482409764-facebook",
         "nickname": "Kwotti",
@@ -155,23 +161,17 @@
         "booksCount": 0,
         "updatedAt": "2016-08-24 13:30:54"
     },
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
-        "updatedAt": "2016-08-23 14:11:26"
-    },
     "100001858801764-facebook": {
         "id": "100001858801764-facebook",
         "nickname": "shirko.elena",
         "booksCount": 5,
         "updatedAt": "2016-08-23 14:11:26"
     },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 113,
-        "updatedAt": "2016-08-23 14:11:25"
+    "105852303950227831814-google": {
+        "id": "105852303950227831814-google",
+        "nickname": "fiery mouse",
+        "booksCount": 37,
+        "updatedAt": "2016-08-23 14:11:26"
     },
     "15716698-vkontakte": {
         "id": "15716698-vkontakte",
