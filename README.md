@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hanna](users/110/110589643014391632917-google)<sup>0</sup> 
+[hanna](users/110/110589643014391632917-google)<sup>1</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
 
 
-_28.08.2016 17:01:56_
+_28.08.2016 17:03:07_
