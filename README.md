@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
+    > Понравилось. Читается легко и просто. Душевно всё это и печально.
+
 * Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup>
     > http://www.oblnet.ru/fileadmin/files/Nachala_fundamentalnoi_ehkonomiki.pdf
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Читаю и поражаюсь - ничегошеньки в России не изменилось за прошедшие триста лет. Что тогда, что в СССР, что сейчас. Различия столь малы, что заставляют серьезно задуматься.
 
 * Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
-    > Начало серии хорошее, дальше даже лучше. "Интересные времена" прям отлично. 
-    > А вот "Последний континент" совсем плохой, очень скучная часть. Напомнило быстро наскучившую книгу Макс Фрай "Гнезда Химер".
-    > Я так понимаю, осталась одна книга из серии - "Последний герой". Про неё я забыл, прочитаю потом.
 
 * Казаки против Наполеона.От Дона до Парижа ~ [mfevralev](users/140/140966150-vkontakte)<sup>11</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Чёрный кот ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>3</sup>
 
-* Из лягушек - в принцы. Нейро-лингвистическое программирование ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 [tumelnikova](users/423/42302213-vkontakte)<sup>0</sup> 
 [Lutik](users/210/210107386-vkontakte)<sup>0</sup> 
 [Женя Егорова](users/463/4635086564113755331-mailru)<sup>5</sup> 
@@ -63,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
 [fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
 [ishimura](users/157/15716698-vkontakte)<sup>21</sup> 
-[Тьери](users/872/87255457-vkontakte)<sup>13</sup> 
+[creepy_g](users/747/74743045-vkontakte)<sup>113</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>56</sup> 
 
 
-_28.08.2016 08:50:07_
+_28.08.2016 11:49:28_

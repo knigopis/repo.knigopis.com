@@ -1,4 +1,16 @@
 {
+    "nRGSbpzuZf": {
+        "id": "nRGSbpzuZf",
+        "title": "раковый корпус",
+        "author": "Солженицын",
+        "notes": "Понравилось. Читается легко и просто. Душевно всё это и печально.",
+        "createdAt": "2016-08-28 11:49:28",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 38
+        }
+    },
     "FS0Iu-NtTX": {
         "id": "FS0Iu-NtTX",
         "title": "Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ",
@@ -345,18 +357,6 @@
             "id": "269882715-vkontakte",
             "nickname": "i943486710",
             "booksCount": 7
-        }
-    },
-    "WC8s_kXJ8V": {
-        "id": "WC8s_kXJ8V",
-        "title": "Дубровский",
-        "author": "Александр Пушкин",
-        "notes": "Ожидала другого конца",
-        "createdAt": "2016-08-05 22:12:49",
-        "user": {
-            "id": "269882715-vkontakte",
-            "nickname": "i943486710",
-            "booksCount": 9
         }
     }
 }

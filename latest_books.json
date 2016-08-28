@@ -1,4 +1,16 @@
 {
+    "nRGSbpzuZf": {
+        "id": "nRGSbpzuZf",
+        "title": "раковый корпус",
+        "author": "Солженицын",
+        "notes": "Понравилось. Читается легко и просто. Душевно всё это и печально.",
+        "createdAt": "2016-08-28 11:49:28",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 38
+        }
+    },
     "BsDm6sUG8b": {
         "id": "BsDm6sUG8b",
         "title": "Скилдбладнир. Кровь и жизнь",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 10
-        }
-    },
-    "dqm7VS6EGV": {
-        "id": "dqm7VS6EGV",
-        "title": "Убийство в \"Восточном экспрессе",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2016-08-26 07:40:32",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 9
         }
     }
 }
