@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Нигилистка ~ [KMWP](users/134/13487312-vkontakte)<sup>2</sup>
 * Леди Макбет Мценского уезда ~ [i943486710](users/269/269882715-vkontakte)<sup>1</sup>
 * Мы ~ [i943486710](users/269/269882715-vkontakte)<sup>8</sup>
-* Десять негритят ~ [i943486710](users/269/269882715-vkontakte)<sup>3</sup>
 
 
-_28.08.2016 11:49:55_
+_28.08.2016 11:51:40_
