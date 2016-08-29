@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 132,
+        "updatedAt": "2016-08-29 02:51:59"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -171,12 +177,6 @@
         "id": "100001858801764-facebook",
         "nickname": "shirko.elena",
         "booksCount": 5,
-        "updatedAt": "2016-08-23 14:11:26"
-    },
-    "105852303950227831814-google": {
-        "id": "105852303950227831814-google",
-        "nickname": "fiery mouse",
-        "booksCount": 37,
         "updatedAt": "2016-08-23 14:11:26"
     }
 }

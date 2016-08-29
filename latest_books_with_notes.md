@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Анархия, государство и утопия ~ [KMWP](users/134/13487312-vkontakte)<sup>6</sup>
 * Нигилистка ~ [KMWP](users/134/13487312-vkontakte)<sup>2</sup>
 * Леди Макбет Мценского уезда ~ [i943486710](users/269/269882715-vkontakte)<sup>1</sup>
-* Мы ~ [i943486710](users/269/269882715-vkontakte)<sup>8</sup>
 
 
-_28.08.2016 11:51:40_
+_29.08.2016 02:51:59_

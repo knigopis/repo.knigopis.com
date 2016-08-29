@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
+    > Прекрасная научная фантастика, с отличным проявлением научности. Автор преподносит научные теории в понятном и доступном формате. Много разных упоминаний хороших книг, статей и деятелей - хочется гуглить и читать. Однако литературный стиль слабоват, и сюжет местами как-то скомкан, поступки местами странные.
+
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
     > Понравилось. Читается легко и просто. Душевно и печально всё это.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Понравилось. Читается легко и просто. Душевно всё это и печально.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
-    > Понравилось. Читается легко и просто. Душевно всё это и печально.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Сиалы ~ [Tr](users/122/12282474-vkontakte)<sup>9</sup>
 
-* Атаман Ермак и сотоварищи ~ [mfevralev](users/140/140966150-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>132</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>17</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>5</sup> 
-[fiery mouse](users/105/105852303950227831814-google)<sup>37</sup> 
 
 
-_28.08.2016 20:26:13_
+_29.08.2016 02:51:59_
