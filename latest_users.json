@@ -1,4 +1,10 @@
 {
+    "1787850098126282-facebook": {
+        "id": "1787850098126282-facebook",
+        "nickname": "babah777",
+        "booksCount": 0,
+        "updatedAt": "2016-08-29 14:24:52"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "LeraTwi",
         "booksCount": 0,
         "updatedAt": "2016-08-24 20:12:02"
-    },
-    "45786870-vkontakte": {
-        "id": "45786870-vkontakte",
-        "nickname": "dinameet",
-        "booksCount": 0,
-        "updatedAt": "2016-08-24 13:30:54"
     }
 }
