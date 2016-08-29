@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup> 
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 
 
-_29.08.2016 09:45:18_
+_29.08.2016 09:47:55_
