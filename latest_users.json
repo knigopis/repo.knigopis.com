@@ -1,4 +1,10 @@
 {
+    "103310284351178579663-google": {
+        "id": "103310284351178579663-google",
+        "nickname": "Targitai",
+        "booksCount": 0,
+        "updatedAt": "2016-08-29 05:03:53"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "dinameet",
         "booksCount": 0,
         "updatedAt": "2016-08-24 13:30:54"
-    },
-    "100001858801764-facebook": {
-        "id": "100001858801764-facebook",
-        "nickname": "shirko.elena",
-        "booksCount": 5,
-        "updatedAt": "2016-08-23 14:11:26"
     }
 }
