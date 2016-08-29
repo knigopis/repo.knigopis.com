@@ -1,4 +1,16 @@
 {
+    "SmhWM0ziw-": {
+        "id": "SmhWM0ziw-",
+        "title": "Шепот на ветру. Новый код в НЛП",
+        "author": "Джон Гриндер, Кармен Бостик Сент-Клерк",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/6254732/",
+        "createdAt": "2016-08-29 09:45:18",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 76
+        }
+    },
     "7-GygXCwNP": {
         "id": "7-GygXCwNP",
         "title": "Шепот на ветру. Новый код в НЛП",
@@ -345,18 +357,6 @@
             "id": "13487312-vkontakte",
             "nickname": "KMWP",
             "booksCount": 6
-        }
-    },
-    "EY_mLnMGma": {
-        "id": "EY_mLnMGma",
-        "title": "Нигилистка",
-        "author": "Софья Ковалевская",
-        "notes": "Нормасик зашло. Не ожидал от Ковалевской именно такого худлита. 8/10",
-        "createdAt": "2016-08-06 02:23:34",
-        "user": {
-            "id": "13487312-vkontakte",
-            "nickname": "KMWP",
-            "booksCount": 2
         }
     }
 }

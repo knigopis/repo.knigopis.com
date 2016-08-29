@@ -1,4 +1,16 @@
 {
+    "SmhWM0ziw-": {
+        "id": "SmhWM0ziw-",
+        "title": "Шепот на ветру. Новый код в НЛП",
+        "author": "Джон Гриндер, Кармен Бостик Сент-Клерк",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/6254732/",
+        "createdAt": "2016-08-29 09:45:18",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 76
+        }
+    },
     "7-GygXCwNP": {
         "id": "7-GygXCwNP",
         "title": "Шепот на ветру. Новый код в НЛП",
@@ -344,18 +356,6 @@
         "user": {
             "id": "4635086564113755331-mailru",
             "nickname": "Женя Егорова",
-            "booksCount": 1
-        }
-    },
-    "Gyt6-FX5nX": {
-        "id": "Gyt6-FX5nX",
-        "title": "UI",
-        "author": "mns,dmsdf",
-        "notes": "sfasdfsdf",
-        "createdAt": "2016-08-27 11:23:40",
-        "user": {
-            "id": "101060466123969249081-google",
-            "nickname": "sviat",
             "booksCount": 1
         }
     }

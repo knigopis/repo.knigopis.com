@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
+    > в процессе
+    > 
+    > http://www.ozon.ru/context/detail/id/6254732/
+
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Прекрасная научная фантастика, с отличным проявлением научности. Автор преподносит научные теории в понятном и доступном формате. Много разных упоминаний хороших книг, статей и деятелей - хочется гуглить и читать. Однако литературный стиль слабоват, и сюжет местами как-то скомкан, поступки местами странные.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
-    > Понравилось. Читается легко и просто. Душевно и печально всё это.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 
-* Казаки против Наполеона.От Дона до Парижа ~ [mfevralev](users/140/140966150-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 
 
-_29.08.2016 09:45:04_
+_29.08.2016 09:45:18_
