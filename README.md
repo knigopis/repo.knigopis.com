@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
+    > в процессе
+    > 
+    > http://www.ozon.ru/context/detail/id/6254732/
+
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
     > Прекрасная научная фантастика, с отличным проявлением научности. Автор преподносит научные теории в понятном и доступном формате. Много разных упоминаний хороших книг, статей и деятелей - хочется гуглить и читать. Однако литературный стиль слабоват, и сюжет местами как-то скомкан, поступки местами странные.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Понравилось. Читается легко и просто. Душевно и печально всё это.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
-    > Понравилось. Читается легко и просто. Душевно всё это и печально.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Казаки против Наполеона.От Дона до Парижа ~ [mfevralev](users/140/140966150-vkontakte)<sup>11</sup>
 
-* Хроники Сиалы ~ [Tr](users/122/12282474-vkontakte)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
@@ -52,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ледиблейзер](users/116/116922649782686260616-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>225</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>18</sup> 
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>2</sup> 
 [Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
 [agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dinameet](users/457/45786870-vkontakte)<sup>0</sup> 
 
 
-_29.08.2016 05:03:54_
+_29.08.2016 09:45:04_

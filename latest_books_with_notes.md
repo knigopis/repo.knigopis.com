@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Единственный и его собственность ~ [KMWP](users/134/13487312-vkontakte)<sup>7</sup>
 * Анархия, государство и утопия ~ [KMWP](users/134/13487312-vkontakte)<sup>6</sup>
 * Нигилистка ~ [KMWP](users/134/13487312-vkontakte)<sup>2</sup>
-* Леди Макбет Мценского уезда ~ [i943486710](users/269/269882715-vkontakte)<sup>1</sup>
 
 
-_29.08.2016 02:51:59_
+_29.08.2016 09:45:04_

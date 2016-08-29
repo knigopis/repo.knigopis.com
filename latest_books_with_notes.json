@@ -1,4 +1,16 @@
 {
+    "7-GygXCwNP": {
+        "id": "7-GygXCwNP",
+        "title": "Шепот на ветру. Новый код в НЛП",
+        "author": "Джон Гриндер, Кармен Бостик Сент-Клерк",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/6254732/",
+        "createdAt": "2016-08-29 09:45:04",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 75
+        }
+    },
     "FGZWEqueYT": {
         "id": "FGZWEqueYT",
         "title": "Астровитянка",
@@ -345,18 +357,6 @@
             "id": "13487312-vkontakte",
             "nickname": "KMWP",
             "booksCount": 2
-        }
-    },
-    "_qJwoyOn6h": {
-        "id": "_qJwoyOn6h",
-        "title": "Леди Макбет Мценского уезда",
-        "author": "Николай Лесков",
-        "notes": "Удивлена. Ожидала красивого рассказа, а прочитала детектив в перемешку с триллером",
-        "createdAt": "2016-08-05 22:21:32",
-        "user": {
-            "id": "269882715-vkontakte",
-            "nickname": "i943486710",
-            "booksCount": 1
         }
     }
 }

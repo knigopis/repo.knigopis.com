@@ -1,4 +1,16 @@
 {
+    "7-GygXCwNP": {
+        "id": "7-GygXCwNP",
+        "title": "Шепот на ветру. Новый код в НЛП",
+        "author": "Джон Гриндер, Кармен Бостик Сент-Клерк",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/6254732/",
+        "createdAt": "2016-08-29 09:45:04",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 75
+        }
+    },
     "FGZWEqueYT": {
         "id": "FGZWEqueYT",
         "title": "Астровитянка",
@@ -344,18 +356,6 @@
         "user": {
             "id": "101060466123969249081-google",
             "nickname": "sviat",
-            "booksCount": 1
-        }
-    },
-    "xfXZkDxZG_": {
-        "id": "xfXZkDxZG_",
-        "title": "",
-        "author": "энтони бриджесс",
-        "notes": "",
-        "createdAt": "2016-08-27 06:26:51",
-        "user": {
-            "id": "260296446-vkontakte",
-            "nickname": "alexandr.ushakoff",
             "booksCount": 1
         }
     }
