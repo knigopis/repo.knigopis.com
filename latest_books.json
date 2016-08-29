@@ -1,4 +1,16 @@
 {
+    "pxhMRRv9Hk": {
+        "id": "pxhMRRv9Hk",
+        "title": "Темный травник",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-08-29 17:53:58",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 30
+        }
+    },
     "SmhWM0ziw-": {
         "id": "SmhWM0ziw-",
         "title": "Шепот на ветру. Новый код в НЛП",
@@ -345,18 +357,6 @@
             "id": "4635086564113755331-mailru",
             "nickname": "Женя Егорова",
             "booksCount": 2
-        }
-    },
-    "9s1BcBctLo": {
-        "id": "9s1BcBctLo",
-        "title": "Старик и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2016-08-27 20:35:39",
-        "user": {
-            "id": "4635086564113755331-mailru",
-            "nickname": "Женя Егорова",
-            "booksCount": 1
         }
     }
 }

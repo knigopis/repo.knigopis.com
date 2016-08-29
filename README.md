@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>30</sup> 
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [koshvenna](users/565/56506623-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>448</sup> 
 [dashakarata](users/446/4468151-vkontakte)<sup>0</sup> 
-[LeraTwi](users/116/1167824956614242-facebook)<sup>0</sup> 
 
 
-_29.08.2016 14:24:53_
+_29.08.2016 17:53:58_
