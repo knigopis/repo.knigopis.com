@@ -1,4 +1,16 @@
 {
+    "Fsp5qRmInQ": {
+        "id": "Fsp5qRmInQ",
+        "title": "Клей",
+        "author": "Ирвин Уэлш",
+        "notes": "",
+        "createdAt": "2016-08-30 11:27:47",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 73
+        }
+    },
     "pxhMRRv9Hk": {
         "id": "pxhMRRv9Hk",
         "title": "Темный травник",
@@ -345,18 +357,6 @@
             "id": "4635086564113755331-mailru",
             "nickname": "Женя Егорова",
             "booksCount": 3
-        }
-    },
-    "IoOnm_27hl": {
-        "id": "IoOnm_27hl",
-        "title": "Джейн Эйр",
-        "author": "Шарлота Бронте",
-        "notes": "",
-        "createdAt": "2016-08-27 20:37:57",
-        "user": {
-            "id": "4635086564113755331-mailru",
-            "nickname": "Женя Егорова",
-            "booksCount": 2
         }
     }
 }
