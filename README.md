@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>73</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
-[hanna](users/110/110589643014391632917-google)<sup>17</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>448</sup> 
 
 
-_30.08.2016 11:27:47_
+_31.08.2016 19:36:57_
