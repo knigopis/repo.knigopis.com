@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Униженные и оскорбленные ~ [Euphoria](users/106/106304994652616315178-google)<sup>60</sup>
+    > Повествование ведется от лица героя, но он здесь не кажется главным. Такое чувство, что он не живет своей жизнью, а жизнью других. Но это только потому, что он любит по-настоящему. В конце книга добавила новый поворот истории, ярко вспыхнув и быстро закончившись.. Но в прочем, автор нам дает возможность догадаться о конце этой повести. Характера Наташи так и не смогла понять, но она не показалась мне необычной.
+
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
     > 5/10
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/6254732/
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/6254732/
 
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup>
 
-* Путешествие из Петербурга в Москву ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
 [agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
 [cezarre ](users/109/109010364732001334157-google)<sup>0</sup> 
-[in_sins](users/197/197885199-vkontakte)<sup>1</sup> 
 
 
-_01.09.2016 12:53:27_
+_01.09.2016 14:39:25_
