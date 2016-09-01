@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
+    > 5/10
+
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
     > в процессе
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/6254732/
 
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
-    > Прекрасная научная фантастика, с отличным проявлением научности. Автор преподносит научные теории в понятном и доступном формате. Много разных упоминаний хороших книг, статей и деятелей - хочется гуглить и читать. Однако литературный стиль слабоват, и сюжет местами как-то скомкан, поступки местами странные.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Путешествие из Петербурга в Москву ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>73</sup>
 
-* Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>73</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
 [cezarre ](users/109/109010364732001334157-google)<sup>0</sup> 
 [in_sins](users/197/197885199-vkontakte)<sup>1</sup> 
-[koshvenna](users/565/56506623-vkontakte)<sup>0</sup> 
 
 
-_01.09.2016 12:02:14_
+_01.09.2016 12:53:27_

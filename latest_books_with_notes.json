@@ -1,4 +1,16 @@
 {
+    "FgnLowr6O6": {
+        "id": "FgnLowr6O6",
+        "title": "Венера в мехах",
+        "author": "Леопольд фон Захер-Мазох",
+        "notes": "5/10",
+        "createdAt": "2016-09-01 12:53:27",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 110
+        }
+    },
     "SmhWM0ziw-": {
         "id": "SmhWM0ziw-",
         "title": "Шепот на ветру. Новый код в НЛП",
@@ -345,18 +357,6 @@
             "id": "13487312-vkontakte",
             "nickname": "KMWP",
             "booksCount": 7
-        }
-    },
-    "Y8WBTJkvjf": {
-        "id": "Y8WBTJkvjf",
-        "title": "Анархия, государство и утопия",
-        "author": "Роберт Нозик",
-        "notes": "Заебок книга, очень здраво разъясняет пасан, за минимальное государство хуемое. Очень последовательно построено изложение. 10/10.",
-        "createdAt": "2016-08-06 02:37:39",
-        "user": {
-            "id": "13487312-vkontakte",
-            "nickname": "KMWP",
-            "booksCount": 6
         }
     }
 }
