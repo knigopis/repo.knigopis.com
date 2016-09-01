@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bulibr](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>2</sup> 
 [Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
 [agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
-[cezarre ](users/109/109010364732001334157-google)<sup>0</sup> 
 
 
-_01.09.2016 14:39:25_
+_01.09.2016 16:55:04_
