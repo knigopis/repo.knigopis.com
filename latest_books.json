@@ -1,4 +1,16 @@
 {
+    "p_WcLJo_4k": {
+        "id": "p_WcLJo_4k",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2016-09-01 16:56:24",
+        "user": {
+            "id": "128575812-vkontakte",
+            "nickname": "Ibragimov Bulat",
+            "booksCount": 1
+        }
+    },
     "8DRYMHoJOu": {
         "id": "8DRYMHoJOu",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 41
-        }
-    },
-    "KUsMbUtwfS": {
-        "id": "KUsMbUtwfS",
-        "title": "раковый корпус",
-        "author": "Солженицын",
-        "notes": "Понравилось. Читается легко и просто. Душевно всё это и печально.",
-        "createdAt": "2016-08-28 11:49:54",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 40
         }
     }
 }
