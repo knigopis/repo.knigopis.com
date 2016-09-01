@@ -1,4 +1,16 @@
 {
+    "8DRYMHoJOu": {
+        "id": "8DRYMHoJOu",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-09-01 16:55:45",
+        "user": {
+            "id": "128575812-vkontakte",
+            "nickname": "Ibragimov Bulat",
+            "booksCount": 1
+        }
+    },
     "OjB6lt34cJ": {
         "id": "OjB6lt34cJ",
         "title": "Униженные и оскорбленные",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 40
-        }
-    },
-    "VJuwDCZ3Jd": {
-        "id": "VJuwDCZ3Jd",
-        "title": "раковый корпус",
-        "author": "Солженицын",
-        "notes": "Понравилось. Читается легко и просто. Душевно всё это и печально.",
-        "createdAt": "2016-08-28 11:49:41",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 39
         }
     }
 }
