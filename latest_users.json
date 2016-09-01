@@ -1,4 +1,10 @@
 {
+    "11906452757683780911-mailru": {
+        "id": "11906452757683780911-mailru",
+        "nickname": "Павел Борисов",
+        "booksCount": 4,
+        "updatedAt": "2016-09-01 12:02:14"
+    },
     "110589643014391632917-google": {
         "id": "110589643014391632917-google",
         "nickname": "hanna",
@@ -172,11 +178,5 @@
         "nickname": "koshvenna",
         "booksCount": 0,
         "updatedAt": "2016-08-25 12:18:04"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 448,
-        "updatedAt": "2016-08-24 22:33:26"
     }
 }

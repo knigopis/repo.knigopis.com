@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>73</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [cezarre ](users/109/109010364732001334157-google)<sup>0</sup> 
 [in_sins](users/197/197885199-vkontakte)<sup>1</sup> 
 [koshvenna](users/565/56506623-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>448</sup> 
 
 
-_31.08.2016 19:36:57_
+_01.09.2016 12:02:14_
