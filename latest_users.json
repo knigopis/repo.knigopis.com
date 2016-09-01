@@ -1,4 +1,10 @@
 {
+    "128575812-vkontakte": {
+        "id": "128575812-vkontakte",
+        "nickname": "bulibr",
+        "booksCount": 0,
+        "updatedAt": "2016-09-01 16:55:03"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "agryppina",
         "booksCount": 0,
         "updatedAt": "2016-08-25 13:06:27"
-    },
-    "109010364732001334157-google": {
-        "id": "109010364732001334157-google",
-        "nickname": "cezarre ",
-        "booksCount": 0,
-        "updatedAt": "2016-08-25 12:51:39"
     }
 }
