@@ -1,4 +1,16 @@
 {
+    "jzbNXv9vtT": {
+        "id": "jzbNXv9vtT",
+        "title": "Меч в камне",
+        "author": "Теренс Уайт",
+        "notes": "",
+        "createdAt": "2016-09-02 11:58:19",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 74
+        }
+    },
     "p_WcLJo_4k": {
         "id": "p_WcLJo_4k",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 1
-        }
-    },
-    "KyNuq_gyR5": {
-        "id": "KyNuq_gyR5",
-        "title": "раковый корпус",
-        "author": "Солженицын",
-        "notes": "Понравилось. Читается легко и просто. Душевно и печально всё это.",
-        "createdAt": "2016-08-28 11:51:40",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 41
         }
     }
 }

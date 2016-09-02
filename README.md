@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>74</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>73</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
 
 
-_01.09.2016 16:59:50_
+_02.09.2016 11:58:19_
