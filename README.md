@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Postorg](users/104/104152441216655770964-google)<sup>0</sup> 
+[Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>74</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
 
 
-_03.09.2016 03:28:53_
+_03.09.2016 03:29:40_

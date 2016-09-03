@@ -1,4 +1,16 @@
 {
+    "8TAm05jp2Q": {
+        "id": "8TAm05jp2Q",
+        "title": "КваZи",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2016-09-03 03:29:40",
+        "user": {
+            "id": "104152441216655770964-google",
+            "nickname": "Postorg",
+            "booksCount": 1
+        }
+    },
     "jzbNXv9vtT": {
         "id": "jzbNXv9vtT",
         "title": "Меч в камне",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 2
-        }
-    },
-    "9DGGj0w_Cj": {
-        "id": "9DGGj0w_Cj",
-        "title": "Атлант расправил плечи. Книга 1",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2016-08-28 17:03:07",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 1
         }
     }
 }
