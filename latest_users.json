@@ -1,4 +1,10 @@
 {
+    "104152441216655770964-google": {
+        "id": "104152441216655770964-google",
+        "nickname": "Postorg",
+        "booksCount": 0,
+        "updatedAt": "2016-09-03 03:28:52"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Skatertyu",
         "booksCount": 9,
         "updatedAt": "2016-08-25 13:37:47"
-    },
-    "34516284-vkontakte": {
-        "id": "34516284-vkontakte",
-        "nickname": "agryppina",
-        "booksCount": 0,
-        "updatedAt": "2016-08-25 13:06:27"
     }
 }
