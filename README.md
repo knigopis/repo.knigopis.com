@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Postorg](users/104/104152441216655770964-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>74</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Faith](users/112/112366191289808901180-google)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>2</sup> 
 [Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
-[agryppina](users/345/34516284-vkontakte)<sup>0</sup> 
 
 
-_02.09.2016 11:58:19_
+_03.09.2016 03:28:53_
