@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
+    > Перечитала только "Профессия ведьма" и "Ведьма-хранительница" полностью. На "Верховную ведьму" меня не хватило. любимый писатель, но все же я перечитывала... По сути, просто лень дочитать. Но всем советую цикл о Вольхе Редной и другие книги Ольги Громыко
+
 * Униженные и оскорбленные ~ [Euphoria](users/106/106304994652616315178-google)<sup>60</sup>
     > Повествование ведется от лица героя, но он здесь не кажется главным. Такое чувство, что он не живет своей жизнью, а жизнью других. Но это только потому, что он любит по-настоящему. В конце книга добавила новый поворот истории, ярко вспыхнув и быстро закончившись.. Но в прочем, автор нам дает возможность догадаться о конце этой повести. Характера Наташи так и не смогла понять, но она не показалась мне необычной.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/6254732/
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
 
-* Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>18</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>74</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>225</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>2</sup> 
-[Skatertyu](users/118/1189210497755804-facebook)<sup>9</sup> 
 
 
-_03.09.2016 03:29:40_
+_03.09.2016 14:20:05_

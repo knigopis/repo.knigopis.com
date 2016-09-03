@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 18,
+        "updatedAt": "2016-09-03 14:20:05"
+    },
     "104152441216655770964-google": {
         "id": "104152441216655770964-google",
         "nickname": "Postorg",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 2,
         "updatedAt": "2016-08-25 13:53:36"
-    },
-    "1189210497755804-facebook": {
-        "id": "1189210497755804-facebook",
-        "nickname": "Skatertyu",
-        "booksCount": 9,
-        "updatedAt": "2016-08-25 13:37:47"
     }
 }

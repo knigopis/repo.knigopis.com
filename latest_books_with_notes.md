@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
 * Униженные и оскорбленные ~ [Euphoria](users/106/106304994652616315178-google)<sup>60</sup>
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Понедельник начинается в субботу ~ [i943486710](users/269/269882715-vkontakte)<sup>2</sup>
 * Жестяной Король ~ [KMWP](users/134/13487312-vkontakte)<sup>1</sup>
 * Кто мыслит абстрактно ~ [KMWP](users/134/13487312-vkontakte)<sup>5</sup>
-* Свобода выбирать ~ [KMWP](users/134/13487312-vkontakte)<sup>3</sup>
 
 
-_01.09.2016 14:39:25_
+_03.09.2016 14:20:05_
