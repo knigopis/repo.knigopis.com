@@ -1,4 +1,10 @@
 {
+    "1119241344808766-facebook": {
+        "id": "1119241344808766-facebook",
+        "nickname": "brezh",
+        "booksCount": 0,
+        "updatedAt": "2016-09-04 20:05:09"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "Faith",
         "booksCount": 18,
         "updatedAt": "2016-08-25 17:40:34"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 2,
-        "updatedAt": "2016-08-25 13:53:36"
     }
 }
