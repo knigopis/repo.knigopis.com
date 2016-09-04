@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>74</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ледиблейзер](users/116/116922649782686260616-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>225</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>18</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>2</sup> 
 
 
-_03.09.2016 14:20:05_
+_04.09.2016 20:05:11_
