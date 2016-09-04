@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Нина](users/257/257325948-vkontakte)<sup>0</sup> 
+[Нина](users/257/257325948-vkontakte)<sup>1</sup> 
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>225</sup> 
 
 
-_04.09.2016 21:58:14_
+_04.09.2016 21:59:23_

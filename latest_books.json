@@ -1,4 +1,16 @@
 {
+    "uEfDnjvSQz": {
+        "id": "uEfDnjvSQz",
+        "title": "Коралина",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2016-09-04 21:59:23",
+        "user": {
+            "id": "257325948-vkontakte",
+            "nickname": "Нина",
+            "booksCount": 1
+        }
+    },
     "yU9tVCWXv8": {
         "id": "yU9tVCWXv8",
         "title": "Ведьма-хранительница и кусок Верховная ведьма",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 4
-        }
-    },
-    "_CFOJQZEne": {
-        "id": "_CFOJQZEne",
-        "title": "Гарри Поттер и Кубок Огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-08-28 17:04:23",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 3
         }
     }
 }
