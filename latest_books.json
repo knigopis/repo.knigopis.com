@@ -1,4 +1,16 @@
 {
+    "m3ZIGUhfY-": {
+        "id": "m3ZIGUhfY-",
+        "title": "Специалист",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-09-05 16:12:39",
+        "user": {
+            "id": "114131672813122590767-google",
+            "nickname": "LazyOsaka",
+            "booksCount": 1
+        }
+    },
     "DwZ-fE0qqW": {
         "id": "DwZ-fE0qqW",
         "title": "Время жить и время умирать",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 6
-        }
-    },
-    "QZxspGTJKI": {
-        "id": "QZxspGTJKI",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-08-28 17:04:58",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 5
         }
     }
 }
