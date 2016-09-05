@@ -1,4 +1,10 @@
 {
+    "8345844-vkontakte": {
+        "id": "8345844-vkontakte",
+        "nickname": "asolomin",
+        "booksCount": 0,
+        "updatedAt": "2016-09-05 17:41:49"
+    },
     "114131672813122590767-google": {
         "id": "114131672813122590767-google",
         "nickname": "LazyOsaka",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 0,
         "updatedAt": "2016-08-26 21:00:10"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 20,
-        "updatedAt": "2016-08-26 12:41:29"
     }
 }
