@@ -1,4 +1,10 @@
 {
+    "114131672813122590767-google": {
+        "id": "114131672813122590767-google",
+        "nickname": "LazyOsaka",
+        "booksCount": 0,
+        "updatedAt": "2016-09-05 16:10:47"
+    },
     "112366191289808901180-google": {
         "id": "112366191289808901180-google",
         "nickname": "Faith",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 20,
         "updatedAt": "2016-08-26 12:41:29"
-    },
-    "116922649782686260616-google": {
-        "id": "116922649782686260616-google",
-        "nickname": "ледиблейзер",
-        "booksCount": 1,
-        "updatedAt": "2016-08-26 12:18:15"
     }
 }
