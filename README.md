@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 [LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>19</sup> 
 [Нина](users/257/257325948-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
 [engrossingtime](users/135/135884633-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>0</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>20</sup> 
 
 
-_05.09.2016 16:12:39_
+_05.09.2016 17:41:50_
