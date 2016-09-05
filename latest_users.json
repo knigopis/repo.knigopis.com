@@ -1,4 +1,10 @@
 {
+    "112366191289808901180-google": {
+        "id": "112366191289808901180-google",
+        "nickname": "Faith",
+        "booksCount": 19,
+        "updatedAt": "2016-09-05 10:04:48"
+    },
     "257325948-vkontakte": {
         "id": "257325948-vkontakte",
         "nickname": "Нина",
@@ -172,11 +178,5 @@
         "nickname": "ледиблейзер",
         "booksCount": 1,
         "updatedAt": "2016-08-26 12:18:15"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 225,
-        "updatedAt": "2016-08-26 05:41:51"
     }
 }
