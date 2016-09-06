@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>75</sup> 
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Женя Егорова](users/463/4635086564113755331-mailru)<sup>5</sup> 
 [sviat](users/101/101060466123969249081-google)<sup>0</sup> 
 [ilmpc](users/284/28423572-vkontakte)<sup>0</sup> 
-[alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
 
 
-_06.09.2016 08:30:12_
+_06.09.2016 15:23:45_
