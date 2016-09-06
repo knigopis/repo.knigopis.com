@@ -1,4 +1,10 @@
 {
+    "114525820311540612170-google": {
+        "id": "114525820311540612170-google",
+        "nickname": "Lich",
+        "booksCount": 0,
+        "updatedAt": "2016-09-06 06:57:20"
+    },
     "100000058705406-facebook": {
         "id": "100000058705406-facebook",
         "nickname": "geekvault",
@@ -172,11 +178,5 @@
         "nickname": "alexandr.ushakoff",
         "booksCount": 1,
         "updatedAt": "2016-08-27 06:26:51"
-    },
-    "135884633-vkontakte": {
-        "id": "135884633-vkontakte",
-        "nickname": "engrossingtime",
-        "booksCount": 0,
-        "updatedAt": "2016-08-27 06:23:23"
     }
 }
