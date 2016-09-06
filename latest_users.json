@@ -1,4 +1,10 @@
 {
+    "184677837-vkontakte": {
+        "id": "184677837-vkontakte",
+        "nickname": "arilley",
+        "booksCount": 0,
+        "updatedAt": "2016-09-06 19:01:11"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -172,11 +178,5 @@
         "nickname": "Женя Егорова",
         "booksCount": 5,
         "updatedAt": "2016-08-27 21:03:13"
-    },
-    "101060466123969249081-google": {
-        "id": "101060466123969249081-google",
-        "nickname": "sviat",
-        "booksCount": 0,
-        "updatedAt": "2016-08-27 11:24:05"
     }
 }
