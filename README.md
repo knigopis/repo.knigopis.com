@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 [LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sviat](users/101/101060466123969249081-google)<sup>0</sup> 
 [ilmpc](users/284/28423572-vkontakte)<sup>0</sup> 
 [alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
-[engrossingtime](users/135/135884633-vkontakte)<sup>0</sup> 
 
 
-_06.09.2016 06:37:36_
+_06.09.2016 06:57:21_
