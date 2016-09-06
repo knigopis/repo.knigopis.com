@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>43</sup> 
 [arilley](users/184/184677837-vkontakte)<sup>0</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>42</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
 [neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Женя Егорова](users/463/4635086564113755331-mailru)<sup>5</sup> 
 
 
-_06.09.2016 19:01:12_
+_06.09.2016 19:21:33_

@@ -1,4 +1,16 @@
 {
+    "ZKwdxZxo08": {
+        "id": "ZKwdxZxo08",
+        "title": "Надежный деплой Rails приложений",
+        "author": "Ben Dixon и Eugene Burmakin",
+        "notes": "",
+        "createdAt": "2016-09-06 19:21:33",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 43
+        }
+    },
     "6PBN0IlXW-": {
         "id": "6PBN0IlXW-",
         "title": "Мужчины с Марса, женщины с Венеры",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 12
-        }
-    },
-    "Nd9Hebakol": {
-        "id": "Nd9Hebakol",
-        "title": "Клеймо",
-        "author": "Сесилия Ахерн",
-        "notes": "",
-        "createdAt": "2016-08-28 17:07:19",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 11
         }
     }
 }
