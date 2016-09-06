@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>75</sup> 
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>74</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
 
 
-_06.09.2016 06:57:21_
+_06.09.2016 08:30:12_

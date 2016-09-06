@@ -1,4 +1,16 @@
 {
+    "y9g__Zlnpi": {
+        "id": "y9g__Zlnpi",
+        "title": "Паутина Шарлотты",
+        "author": "Элвин Уайт",
+        "notes": "",
+        "createdAt": "2016-09-06 08:30:12",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 75
+        }
+    },
     "WPHSU-04Wu": {
         "id": "WPHSU-04Wu",
         "title": "SCRP – Adam’s Perfection",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 9
-        }
-    },
-    "FCfzvCJQul": {
-        "id": "FCfzvCJQul",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-08-28 17:06:00",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 8
         }
     }
 }
