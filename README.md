@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>42</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
 [neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>75</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>41</sup> 
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sviat](users/101/101060466123969249081-google)<sup>0</sup> 
 
 
-_06.09.2016 16:40:03_
+_06.09.2016 18:24:33_

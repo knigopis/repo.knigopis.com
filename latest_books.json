@@ -1,4 +1,16 @@
 {
+    "6PBN0IlXW-": {
+        "id": "6PBN0IlXW-",
+        "title": "Мужчины с Марса, женщины с Венеры",
+        "author": "Грей Джон",
+        "notes": "",
+        "createdAt": "2016-09-06 18:24:33",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 42
+        }
+    },
     "AUxgR64FMl": {
         "id": "AUxgR64FMl",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 11
-        }
-    },
-    "JcSZOppy05": {
-        "id": "JcSZOppy05",
-        "title": "Голодные игры. И вспыхнет пламя",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2016-08-28 17:06:56",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 10
         }
     }
 }

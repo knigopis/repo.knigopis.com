@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 42,
+        "updatedAt": "2016-09-06 18:24:33"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -130,12 +136,6 @@
         "nickname": "lucius",
         "booksCount": 132,
         "updatedAt": "2016-08-29 02:51:59"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 41,
-        "updatedAt": "2016-08-28 20:26:13"
     },
     "100000482409764-facebook": {
         "id": "100000482409764-facebook",
