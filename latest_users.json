@@ -1,4 +1,10 @@
 {
+    "8084055-vkontakte": {
+        "id": "8084055-vkontakte",
+        "nickname": "neronmoon",
+        "booksCount": 0,
+        "updatedAt": "2016-09-06 15:23:43"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "ilmpc",
         "booksCount": 0,
         "updatedAt": "2016-08-27 08:10:37"
-    },
-    "260296446-vkontakte": {
-        "id": "260296446-vkontakte",
-        "nickname": "alexandr.ushakoff",
-        "booksCount": 1,
-        "updatedAt": "2016-08-27 06:26:51"
     }
 }
