@@ -1,4 +1,10 @@
 {
+    "100000058705406-facebook": {
+        "id": "100000058705406-facebook",
+        "nickname": "geekvault",
+        "booksCount": 26,
+        "updatedAt": "2016-09-06 06:36:16"
+    },
     "8345844-vkontakte": {
         "id": "8345844-vkontakte",
         "nickname": "asolomin",
@@ -172,11 +178,5 @@
         "nickname": "engrossingtime",
         "booksCount": 0,
         "updatedAt": "2016-08-27 06:23:23"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 0,
-        "updatedAt": "2016-08-26 21:00:10"
     }
 }

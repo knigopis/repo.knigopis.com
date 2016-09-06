@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
+    > Слегка передержанная мистика – то атмосферная и страшная, то превращающаяся в лубок.
+
 * Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
     > Перечитала только "Профессия ведьма" и "Ведьма-хранительница" полностью. На "Верховную ведьму" меня не хватило. любимый писатель, но все же я перечитывала... По сути, просто лень дочитать. Но всем советую цикл о Вольхе Редной и другие книги Ольги Громыко
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Повествование ведется от лица героя, но он здесь не кажется главным. Такое чувство, что он не живет своей жизнью, а жизнью других. Но это только потому, что он любит по-настоящему. В конце книга добавила новый поворот истории, ярко вспыхнув и быстро закончившись.. Но в прочем, автор нам дает возможность догадаться о конце этой повести. Характера Наташи так и не смогла понять, но она не показалась мне необычной.
 
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
-    > 5/10
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 
-* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[geekvault](users/100/100000058705406-facebook)<sup>26</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 [LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ilmpc](users/284/28423572-vkontakte)<sup>0</sup> 
 [alexandr.ushakoff](users/260/260296446-vkontakte)<sup>1</sup> 
 [engrossingtime](users/135/135884633-vkontakte)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>0</sup> 
 
 
-_05.09.2016 17:41:50_
+_06.09.2016 06:36:16_
