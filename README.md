@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geekvault](users/100/100000058705406-facebook)<sup>26</sup> 
+[geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 [LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>19</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [engrossingtime](users/135/135884633-vkontakte)<sup>0</sup> 
 
 
-_06.09.2016 06:36:16_
+_06.09.2016 06:37:36_

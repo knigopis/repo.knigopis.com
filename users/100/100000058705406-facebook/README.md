@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [geekvault](https://www.facebook.com/app_scoped_user_id/100000058705406/)<sup>26</sup>
+# Список прочитанных книг пользователя [geekvault](https://www.facebook.com/app_scoped_user_id/100000058705406/)<sup>27</sup>
 ---
 
 ## 2016
+
+### SCRP – Adam’s Perfection
+Александр Талал
+> [2016-09-05] 
+
 
 ### «Болото» (2014)
 Марьяна Романова
