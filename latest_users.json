@@ -1,4 +1,10 @@
 {
+    "1061643-vkontakte": {
+        "id": "1061643-vkontakte",
+        "nickname": "Mari",
+        "booksCount": 0,
+        "updatedAt": "2016-09-07 11:29:24"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -172,11 +178,5 @@
         "nickname": "Lutik",
         "booksCount": 0,
         "updatedAt": "2016-08-28 04:43:29"
-    },
-    "4635086564113755331-mailru": {
-        "id": "4635086564113755331-mailru",
-        "nickname": "Женя Егорова",
-        "booksCount": 5,
-        "updatedAt": "2016-08-27 21:03:13"
     }
 }
