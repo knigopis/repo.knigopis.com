@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofie](users/485/48568611-vkontakte)<sup>68</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>43</sup> 
 [arilley](users/184/184677837-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 [tumelnikova](users/423/42302213-vkontakte)<sup>0</sup> 
-[Lutik](users/210/210107386-vkontakte)<sup>0</sup> 
 
 
-_07.09.2016 11:29:26_
+_07.09.2016 16:17:07_

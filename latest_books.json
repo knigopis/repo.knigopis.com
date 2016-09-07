@@ -1,4 +1,16 @@
 {
+    "KNFFF0GGtk": {
+        "id": "KNFFF0GGtk",
+        "title": "Крыжовник",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2016-09-07 16:17:07",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 68
+        }
+    },
     "ZKwdxZxo08": {
         "id": "ZKwdxZxo08",
         "title": "Надежный деплой Rails приложений",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 13
-        }
-    },
-    "QdJEw2bPvi": {
-        "id": "QdJEw2bPvi",
-        "title": "Голодные игры. Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2016-08-28 17:08:54",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 12
         }
     }
 }
