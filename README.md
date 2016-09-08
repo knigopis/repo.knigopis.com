@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mari](users/106/1061643-vkontakte)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>68</sup> 
-[Mari](users/106/1061643-vkontakte)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>43</sup> 
 [arilley](users/184/184677837-vkontakte)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 
 
-_07.09.2016 19:56:01_
+_08.09.2016 05:50:34_

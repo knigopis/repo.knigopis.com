@@ -1,4 +1,10 @@
 {
+    "1061643-vkontakte": {
+        "id": "1061643-vkontakte",
+        "nickname": "Mari",
+        "booksCount": 1,
+        "updatedAt": "2016-09-08 05:50:34"
+    },
     "105866022348292919948-google": {
         "id": "105866022348292919948-google",
         "nickname": "Chandravadana",
@@ -10,12 +16,6 @@
         "nickname": "Sofie",
         "booksCount": 68,
         "updatedAt": "2016-09-07 16:17:07"
-    },
-    "1061643-vkontakte": {
-        "id": "1061643-vkontakte",
-        "nickname": "Mari",
-        "booksCount": 0,
-        "updatedAt": "2016-09-07 11:29:24"
     },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
