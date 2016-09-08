@@ -1,4 +1,16 @@
 {
+    "ytGwRjBJq5": {
+        "id": "ytGwRjBJq5",
+        "title": "123",
+        "author": "qwe",
+        "notes": "c",
+        "createdAt": "2016-09-08 22:04:57",
+        "user": {
+            "id": "112795052047708703314-google",
+            "nickname": "icedog",
+            "booksCount": 2
+        }
+    },
     "EamV7QC6dd": {
         "id": "EamV7QC6dd",
         "title": "123",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 17
-        }
-    },
-    "E8JRsDzj_M": {
-        "id": "E8JRsDzj_M",
-        "title": "Таня Гроттер и посох Волхвов",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2016-08-28 17:10:20",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 16
         }
     }
 }
