@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>76</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>68</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [arilley](users/184/184677837-vkontakte)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
 [neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>75</sup> 
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>38</sup> 
 
 
-_08.09.2016 05:50:34_
+_08.09.2016 13:54:31_

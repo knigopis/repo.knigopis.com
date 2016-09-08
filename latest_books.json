@@ -1,4 +1,16 @@
 {
+    "TUyhSBUodv": {
+        "id": "TUyhSBUodv",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2016-09-08 13:54:31",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 76
+        }
+    },
     "eDoSFNZqLl": {
         "id": "eDoSFNZqLl",
         "title": "Сердце Пармы",
@@ -345,18 +357,6 @@
             "id": "110589643014391632917-google",
             "nickname": "hanna",
             "booksCount": 15
-        }
-    },
-    "b5e4W5bw33": {
-        "id": "b5e4W5bw33",
-        "title": "Таня Гроттер и молот Перуна",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2016-08-28 17:09:48",
-        "user": {
-            "id": "110589643014391632917-google",
-            "nickname": "hanna",
-            "booksCount": 14
         }
     }
 }
