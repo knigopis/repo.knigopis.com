@@ -1,4 +1,10 @@
 {
+    "112795052047708703314-google": {
+        "id": "112795052047708703314-google",
+        "nickname": "icedog",
+        "booksCount": 0,
+        "updatedAt": "2016-09-08 22:04:18"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 43,
         "updatedAt": "2016-08-28 15:16:50"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 38,
-        "updatedAt": "2016-08-28 11:52:54"
     }
 }
