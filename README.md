@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[icedog](users/112/112795052047708703314-google)<sup>0</sup> 
+[icedog](users/112/112795052047708703314-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>76</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>43</sup> 
 
 
-_08.09.2016 22:04:20_
+_08.09.2016 22:04:57_
