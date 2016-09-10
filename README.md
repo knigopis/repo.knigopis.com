@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>19</sup> 
 [zaykast](users/104/104882848-vkontakte)<sup>1</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
 [icedog](users/112/112795052047708703314-google)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Faith](users/112/112366191289808901180-google)<sup>19</sup> 
 [Нина](users/257/257325948-vkontakte)<sup>0</sup> 
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>18</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
 [Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 
 
-_10.09.2016 11:52:28_
+_10.09.2016 15:51:47_

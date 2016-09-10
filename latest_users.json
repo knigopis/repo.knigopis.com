@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 19,
+        "updatedAt": "2016-09-10 15:51:47"
+    },
     "104882848-vkontakte": {
         "id": "104882848-vkontakte",
         "nickname": "zaykast",
@@ -100,12 +106,6 @@
         "nickname": "brezh",
         "booksCount": 0,
         "updatedAt": "2016-09-04 20:05:09"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 18,
-        "updatedAt": "2016-09-03 14:20:05"
     },
     "104152441216655770964-google": {
         "id": "104152441216655770964-google",
