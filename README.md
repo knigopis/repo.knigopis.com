@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zaykast](users/104/104882848-vkontakte)<sup>0</sup> 
+[zaykast](users/104/104882848-vkontakte)<sup>1</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
 [icedog](users/112/112795052047708703314-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>76</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 
 
-_10.09.2016 11:49:33_
+_10.09.2016 11:52:28_
