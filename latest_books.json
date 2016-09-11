@@ -1,4 +1,16 @@
 {
+    "8Fu-ojaVCb": {
+        "id": "8Fu-ojaVCb",
+        "title": "Восьмой зверь",
+        "author": "Ильин  Владимир",
+        "notes": "",
+        "createdAt": "2016-09-11 06:34:45",
+        "user": {
+            "id": "104882848-vkontakte",
+            "nickname": "zaykast",
+            "booksCount": 3
+        }
+    },
     "7rpZkSTz6q": {
         "id": "7rpZkSTz6q",
         "title": "Восьмой зверь",
@@ -47,18 +59,6 @@
             "booksCount": 69
         }
     },
-    "EamV7QC6dd": {
-        "id": "EamV7QC6dd",
-        "title": "123",
-        "author": "qwe",
-        "notes": "c",
-        "createdAt": "2016-09-08 22:04:57",
-        "user": {
-            "id": "112795052047708703314-google",
-            "nickname": "icedog",
-            "booksCount": 1
-        }
-    },
     "ytGwRjBJq5": {
         "id": "ytGwRjBJq5",
         "title": "123",
@@ -69,6 +69,18 @@
             "id": "112795052047708703314-google",
             "nickname": "icedog",
             "booksCount": 2
+        }
+    },
+    "EamV7QC6dd": {
+        "id": "EamV7QC6dd",
+        "title": "123",
+        "author": "qwe",
+        "notes": "c",
+        "createdAt": "2016-09-08 22:04:57",
+        "user": {
+            "id": "112795052047708703314-google",
+            "nickname": "icedog",
+            "booksCount": 1
         }
     },
     "TUyhSBUodv": {
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 30
-        }
-    },
-    "SmhWM0ziw-": {
-        "id": "SmhWM0ziw-",
-        "title": "Шепот на ветру. Новый код в НЛП",
-        "author": "Джон Гриндер, Кармен Бостик Сент-Клерк",
-        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/6254732/",
-        "createdAt": "2016-08-29 09:45:18",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 76
         }
     }
 }
