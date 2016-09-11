@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[airu_namy](users/216/216150759-vkontakte)<sup>0</sup> 
 [zaykast](users/104/104882848-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>19</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
-[Kwotti](users/100/100000482409764-facebook)<sup>0</sup> 
 
 
-_11.09.2016 06:36:17_
+_11.09.2016 09:04:08_
