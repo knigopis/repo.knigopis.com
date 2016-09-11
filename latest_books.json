@@ -1,4 +1,16 @@
 {
+    "8uFLVGEssm": {
+        "id": "8uFLVGEssm",
+        "title": "Том Джоу",
+        "author": "Ильин  Владимир",
+        "notes": "Всё в том же стиле автора - намешано много и всего разного - нейросети, магия,  предтечи. Главный герой снова - сирота с особыми способностями о которых никто не подозревал.  Корпорации и государства всемогущи, и все как один охотятся за ГГ. Из-за них герой постоянно встряёт в неприятности, но так легко из них выходит и всё так легко решается - что и неприятностями их  назвать нельзя. В целом книга завершена,  но есть сюжетные забросы для второго тома.",
+        "createdAt": "2016-09-11 14:06:33",
+        "user": {
+            "id": "104882848-vkontakte",
+            "nickname": "zaykast",
+            "booksCount": 3
+        }
+    },
     "8Fu-ojaVCb": {
         "id": "8Fu-ojaVCb",
         "title": "Восьмой зверь",
@@ -59,18 +71,6 @@
             "booksCount": 69
         }
     },
-    "ytGwRjBJq5": {
-        "id": "ytGwRjBJq5",
-        "title": "123",
-        "author": "qwe",
-        "notes": "c",
-        "createdAt": "2016-09-08 22:04:57",
-        "user": {
-            "id": "112795052047708703314-google",
-            "nickname": "icedog",
-            "booksCount": 2
-        }
-    },
     "EamV7QC6dd": {
         "id": "EamV7QC6dd",
         "title": "123",
@@ -81,6 +81,18 @@
             "id": "112795052047708703314-google",
             "nickname": "icedog",
             "booksCount": 1
+        }
+    },
+    "ytGwRjBJq5": {
+        "id": "ytGwRjBJq5",
+        "title": "123",
+        "author": "qwe",
+        "notes": "c",
+        "createdAt": "2016-09-08 22:04:57",
+        "user": {
+            "id": "112795052047708703314-google",
+            "nickname": "icedog",
+            "booksCount": 2
         }
     },
     "TUyhSBUodv": {
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 73
-        }
-    },
-    "pxhMRRv9Hk": {
-        "id": "pxhMRRv9Hk",
-        "title": "Темный травник",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-08-29 17:53:58",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 30
         }
     }
 }
