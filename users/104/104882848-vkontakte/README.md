@@ -1,12 +1,7 @@
-# List of books read by [zaykast](http://vk.com/id104882848)<sup>3</sup>
+# List of books read by [zaykast](http://vk.com/id104882848)<sup>2</sup>
 ---
 
 ## 2016
-
-### Восьмой зверь
-Ильин  Владимир
-> [2016-09-11] 
-
 
 ### Восьмой зверь
 Владимир Ильин
