@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zaykast](users/104/104882848-vkontakte)<sup>4</sup> 
+[zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
 [airu_namy](users/216/216150759-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>19</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>132</sup> 
 
 
-_11.09.2016 14:07:50_
+_11.09.2016 14:09:33_
