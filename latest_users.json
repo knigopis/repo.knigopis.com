@@ -1,4 +1,10 @@
 {
+    "1257223417661447-facebook": {
+        "id": "1257223417661447-facebook",
+        "nickname": "NordWest",
+        "booksCount": 0,
+        "updatedAt": "2016-09-12 21:14:50"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Targitai",
         "booksCount": 0,
         "updatedAt": "2016-08-29 05:03:53"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 132,
-        "updatedAt": "2016-08-29 02:51:59"
     }
 }
