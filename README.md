@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>77</sup> 
 [zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
 [airu_namy](users/216/216150759-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 [Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>132</sup> 
 
 
-_12.09.2016 12:16:31_
+_12.09.2016 21:14:52_
