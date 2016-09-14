@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 [NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>77</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
 
 
-_14.09.2016 06:42:03_
+_14.09.2016 06:54:27_
