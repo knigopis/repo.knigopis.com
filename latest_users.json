@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 449,
+        "updatedAt": "2016-09-14 15:44:43"
+    },
     "8216847-vkontakte": {
         "id": "8216847-vkontakte",
         "nickname": "dream.fall",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 30,
         "updatedAt": "2016-08-29 17:53:58"
-    },
-    "1787850098126282-facebook": {
-        "id": "1787850098126282-facebook",
-        "nickname": "babah777",
-        "booksCount": 0,
-        "updatedAt": "2016-08-29 14:24:52"
     }
 }

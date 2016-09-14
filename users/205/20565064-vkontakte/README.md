@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>448</sup>
+# List of books read by Janet<sup>449</sup>
 ---
 
 ## 2016
+
+### Жерминаль
+Эмиль Золя
+> [2016-09] 
+
 
 ### Другая сторона смерти
 Габриэль Гарсия Маркес

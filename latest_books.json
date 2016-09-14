@@ -1,4 +1,16 @@
 {
+    "JLlaRHZZKF": {
+        "id": "JLlaRHZZKF",
+        "title": "Жерминаль",
+        "author": "Эмиль Золя",
+        "notes": "",
+        "createdAt": "2016-09-14 15:44:43",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 449
+        }
+    },
     "SENfGv_arl": {
         "id": "SENfGv_arl",
         "title": "Донское казачество в войнах 20 века",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 60
-        }
-    },
-    "FgnLowr6O6": {
-        "id": "FgnLowr6O6",
-        "title": "Венера в мехах",
-        "author": "Леопольд фон Захер-Мазох",
-        "notes": "5/10",
-        "createdAt": "2016-09-01 12:53:27",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 110
         }
     }
 }

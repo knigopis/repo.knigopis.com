@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>449</sup> 
 [dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 [NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
-[babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
 
 
-_14.09.2016 06:54:27_
+_14.09.2016 15:44:43_
