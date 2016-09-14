@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
+    > Общее описание где и какие Донские полки находились во время 1 мировой.
+    > стр 94 4-я Донская казачья дивизия
+
 * Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
     > дон Румата Эсторский (Антон), дон Гуг (Пашка),  дон Кондор, Кира, барон Пампа, доктор Будах, дон Рэба, дона Окана, Арата Горбатый, Вага Колесо, Уно, Анка
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Слегка передержанная мистика – то атмосферная и страшная, то превращающаяся в лубок.
 
 * Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
-    > Перечитала только "Профессия ведьма" и "Ведьма-хранительница" полностью. На "Верховную ведьму" меня не хватило. любимый писатель, но все же я перечитывала... По сути, просто лень дочитать. Но всем советую цикл о Вольхе Редной и другие книги Ольги Громыко
 
 * Униженные и оскорбленные ~ [Euphoria](users/106/106304994652616315178-google)<sup>60</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 
-* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 [NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>77</sup> 
 [zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>30</sup> 
 [babah777](users/178/1787850098126282-facebook)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup> 
-[Targitai](users/103/103310284351178579663-google)<sup>0</sup> 
 
 
-_12.09.2016 21:14:52_
+_14.09.2016 06:42:03_

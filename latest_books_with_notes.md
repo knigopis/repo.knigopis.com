@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
 * Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
 * «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
 * Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [PafosG](users/523/523112-vkontakte)<sup>2</sup>
 * Кукловоды Третьего рейха ~ [exulted](users/100/100599204551896265722-google)<sup>19</sup>
 * Capital ~ [exulted](users/100/100599204551896265722-google)<sup>13</sup>
-* Понедельник начинается в субботу ~ [i943486710](users/269/269882715-vkontakte)<sup>2</sup>
 
 
-_06.09.2016 16:40:03_
+_14.09.2016 06:42:03_
