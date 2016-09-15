@@ -1,7 +1,11 @@
-# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>5</sup>
+# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>6</sup>
 ---
 
 ## 2016
+
+### Страх Мудреца
+Патрик Ротфусс
+
 
 ### Имя Ветра
 Патрик Ротфусс
