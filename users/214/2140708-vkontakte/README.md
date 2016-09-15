@@ -1,7 +1,12 @@
-# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>6</sup>
+# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>7</sup>
 ---
 
 ## 2016
+
+### Обреченное королевство
+Брендон Сандерсон
+> круто, читать все книги этого автора
+
 
 ### Страх Мудреца
 Патрик Ротфусс
