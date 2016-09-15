@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>449</sup> 
 [dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 [LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
-[Faith](users/112/112366191289808901180-google)<sup>19</sup> 
 [Нина](users/257/257325948-vkontakte)<sup>0</sup> 
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 
 
-_15.09.2016 19:23:55_
+_15.09.2016 19:34:41_
