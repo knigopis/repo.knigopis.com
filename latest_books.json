@@ -1,4 +1,16 @@
 {
+    "78a4OSvZAt": {
+        "id": "78a4OSvZAt",
+        "title": "Война Стариков",
+        "author": "Джон Скальци",
+        "notes": "",
+        "createdAt": "2016-09-15 19:18:42",
+        "user": {
+            "id": "2140708-vkontakte",
+            "nickname": "serge.raichenok",
+            "booksCount": 4
+        }
+    },
     "dWhitd2udi": {
         "id": "dWhitd2udi",
         "title": "Тень Эндера",
@@ -345,18 +357,6 @@
             "id": "104152441216655770964-google",
             "nickname": "Postorg",
             "booksCount": 1
-        }
-    },
-    "jzbNXv9vtT": {
-        "id": "jzbNXv9vtT",
-        "title": "Меч в камне",
-        "author": "Теренс Уайт",
-        "notes": "",
-        "createdAt": "2016-09-02 11:58:19",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 74
         }
     }
 }

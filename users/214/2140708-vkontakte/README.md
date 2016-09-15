@@ -1,7 +1,11 @@
-# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>3</sup>
+# List of books read by [serge.raichenok](http://vk.com/id2140708)<sup>4</sup>
 ---
 
 ## 2016
+
+### Война Стариков
+Джон Скальци
+
 
 ### Тень Эндера
 Орсон Скотт Кард
