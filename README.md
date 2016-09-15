@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Faith](users/112/112366191289808901180-google)<sup>20</sup> 
+[Faith](users/112/112366191289808901180-google)<sup>21</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>449</sup> 
 [dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 
 
-_15.09.2016 19:34:41_
+_15.09.2016 19:34:44_

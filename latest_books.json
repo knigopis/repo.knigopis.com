@@ -1,4 +1,16 @@
 {
+    "Zf8udqYuZ3": {
+        "id": "Zf8udqYuZ3",
+        "title": "Идиот",
+        "author": "Ф.М. Достоевский",
+        "notes": "",
+        "createdAt": "2016-09-15 19:34:44",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
+        }
+    },
     "R3n8ekCcSe": {
         "id": "R3n8ekCcSe",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "100000058705406-facebook",
             "nickname": "geekvault",
             "booksCount": 26
-        }
-    },
-    "m3ZIGUhfY-": {
-        "id": "m3ZIGUhfY-",
-        "title": "Специалист",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-09-05 16:12:39",
-        "user": {
-            "id": "114131672813122590767-google",
-            "nickname": "LazyOsaka",
-            "booksCount": 1
         }
     }
 }
