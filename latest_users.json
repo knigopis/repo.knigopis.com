@@ -1,4 +1,10 @@
 {
+    "2140708-vkontakte": {
+        "id": "2140708-vkontakte",
+        "nickname": "serge.raichenok",
+        "booksCount": 0,
+        "updatedAt": "2016-09-15 19:13:40"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "hanna",
         "booksCount": 18,
         "updatedAt": "2016-08-31 19:36:57"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 30,
-        "updatedAt": "2016-08-29 17:53:58"
     }
 }
