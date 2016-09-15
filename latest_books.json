@@ -1,4 +1,16 @@
 {
+    "So3tK-5vRT": {
+        "id": "So3tK-5vRT",
+        "title": "Игра Эндера",
+        "author": "Орсон Скотт Кард",
+        "notes": "",
+        "createdAt": "2016-09-15 19:17:25",
+        "user": {
+            "id": "2140708-vkontakte",
+            "nickname": "serge.raichenok",
+            "booksCount": 2
+        }
+    },
     "vI6TbM0Ijv": {
         "id": "vI6TbM0Ijv",
         "title": "Марсианин",
@@ -131,18 +143,6 @@
             "booksCount": 69
         }
     },
-    "ytGwRjBJq5": {
-        "id": "ytGwRjBJq5",
-        "title": "123",
-        "author": "qwe",
-        "notes": "c",
-        "createdAt": "2016-09-08 22:04:57",
-        "user": {
-            "id": "112795052047708703314-google",
-            "nickname": "icedog",
-            "booksCount": 2
-        }
-    },
     "EamV7QC6dd": {
         "id": "EamV7QC6dd",
         "title": "123",
@@ -153,6 +153,18 @@
             "id": "112795052047708703314-google",
             "nickname": "icedog",
             "booksCount": 1
+        }
+    },
+    "ytGwRjBJq5": {
+        "id": "ytGwRjBJq5",
+        "title": "123",
+        "author": "qwe",
+        "notes": "c",
+        "createdAt": "2016-09-08 22:04:57",
+        "user": {
+            "id": "112795052047708703314-google",
+            "nickname": "icedog",
+            "booksCount": 2
         }
     },
     "TUyhSBUodv": {
@@ -341,18 +353,6 @@
         "author": "Рэй Брэдбери",
         "notes": "",
         "createdAt": "2016-09-01 16:56:24",
-        "user": {
-            "id": "128575812-vkontakte",
-            "nickname": "Ibragimov Bulat",
-            "booksCount": 1
-        }
-    },
-    "8DRYMHoJOu": {
-        "id": "8DRYMHoJOu",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-09-01 16:55:45",
         "user": {
             "id": "128575812-vkontakte",
             "nickname": "Ibragimov Bulat",
