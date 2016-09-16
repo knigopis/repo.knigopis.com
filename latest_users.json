@@ -1,4 +1,10 @@
 {
+    "8345201-vkontakte": {
+        "id": "8345201-vkontakte",
+        "nickname": "norway_m",
+        "booksCount": 14,
+        "updatedAt": "2016-09-16 10:51:05"
+    },
     "2097371690488504-facebook": {
         "id": "2097371690488504-facebook",
         "nickname": "alapshina",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 110,
         "updatedAt": "2016-09-01 12:53:27"
-    },
-    "11906452757683780911-mailru": {
-        "id": "11906452757683780911-mailru",
-        "nickname": "Павел Борисов",
-        "booksCount": 4,
-        "updatedAt": "2016-09-01 12:02:14"
     }
 }

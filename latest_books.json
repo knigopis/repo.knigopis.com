@@ -1,4 +1,16 @@
 {
+    "AqvbSqvHYz": {
+        "id": "AqvbSqvHYz",
+        "title": "Одиночество в сети",
+        "author": "Вишневский",
+        "notes": "",
+        "createdAt": "2016-09-16 10:51:05",
+        "user": {
+            "id": "8345201-vkontakte",
+            "nickname": "norway_m",
+            "booksCount": 14
+        }
+    },
     "sJJZY0akcs": {
         "id": "sJJZY0akcs",
         "title": "P.S. Я люблю тебя",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 75
-        }
-    },
-    "WPHSU-04Wu": {
-        "id": "WPHSU-04Wu",
-        "title": "SCRP – Adam’s Perfection",
-        "author": "Александр Талал",
-        "notes": "",
-        "createdAt": "2016-09-06 06:37:36",
-        "user": {
-            "id": "100000058705406-facebook",
-            "nickname": "geekvault",
-            "booksCount": 27
         }
     }
 }
