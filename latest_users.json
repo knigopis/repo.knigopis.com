@@ -1,4 +1,10 @@
 {
+    "1739580626295431-facebook": {
+        "id": "1739580626295431-facebook",
+        "nickname": "Кейв",
+        "booksCount": 0,
+        "updatedAt": "2016-09-16 22:52:01"
+    },
     "370909403-yandex": {
         "id": "370909403-yandex",
         "nickname": "mercelass",
@@ -172,11 +178,5 @@
         "nickname": "Ibragimov Bulat",
         "booksCount": 0,
         "updatedAt": "2016-09-01 16:59:50"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 60,
-        "updatedAt": "2016-09-01 14:39:25"
     }
 }
