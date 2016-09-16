@@ -1,4 +1,16 @@
 {
+    "5Udu6wqGP0": {
+        "id": "5Udu6wqGP0",
+        "title": "Одиночество в сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))",
+        "createdAt": "2016-09-16 10:55:13",
+        "user": {
+            "id": "8345201-vkontakte",
+            "nickname": "norway_m",
+            "booksCount": 15
+        }
+    },
     "SENfGv_arl": {
         "id": "SENfGv_arl",
         "title": "Донское казачество в войнах 20 века",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 19
-        }
-    },
-    "cBy0wiYwTw": {
-        "id": "cBy0wiYwTw",
-        "title": "Capital",
-        "author": "John Lanchester",
-        "notes": "Kindle ASIN: B0071LQMMG",
-        "createdAt": "2016-08-09 18:52:15",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 13
         }
     }
 }

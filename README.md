@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
+    > ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))
+
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
     > Общее описание где и какие Донские полки находились во время 1 мировой.
     > стр 94 4-я Донская казачья дивизия
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > дон Румата Эсторский (Антон), дон Гуг (Пашка),  дон Кондор, Кира, барон Пампа, доктор Будах, дон Рэба, дона Окана, Арата Горбатый, Вага Колесо, Уно, Анка
 
 * «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
-    > Слегка передержанная мистика – то атмосферная и страшная, то превращающаяся в лубок.
 
 * Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
 
-* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[norway_m](users/834/8345201-vkontakte)<sup>14</sup> 
+[norway_m](users/834/8345201-vkontakte)<sup>15</sup> 
 [alapshina](users/209/2097371690488504-facebook)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 
 
-_16.09.2016 10:51:05_
+_16.09.2016 10:55:13_

@@ -1,4 +1,16 @@
 {
+    "5Udu6wqGP0": {
+        "id": "5Udu6wqGP0",
+        "title": "Одиночество в сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))",
+        "createdAt": "2016-09-16 10:55:13",
+        "user": {
+            "id": "8345201-vkontakte",
+            "nickname": "norway_m",
+            "booksCount": 15
+        }
+    },
     "AqvbSqvHYz": {
         "id": "AqvbSqvHYz",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 39
-        }
-    },
-    "y9g__Zlnpi": {
-        "id": "y9g__Zlnpi",
-        "title": "Паутина Шарлотты",
-        "author": "Элвин Уайт",
-        "notes": "",
-        "createdAt": "2016-09-06 08:30:12",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 75
         }
     }
 }
