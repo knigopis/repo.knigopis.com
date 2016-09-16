@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alapshina](users/209/2097371690488504-facebook)<sup>0</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>449</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>60</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>110</sup> 
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
-[hanna](users/110/110589643014391632917-google)<sup>18</sup> 
 
 
-_15.09.2016 19:34:53_
+_16.09.2016 08:02:48_
