@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[alapshina](users/209/2097371690488504-facebook)<sup>0</sup> 
+[alapshina](users/209/2097371690488504-facebook)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>449</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Павел Борисов](users/119/11906452757683780911-mailru)<sup>4</sup> 
 
 
-_16.09.2016 08:02:48_
+_16.09.2016 08:03:52_
