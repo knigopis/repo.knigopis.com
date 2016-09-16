@@ -1,4 +1,10 @@
 {
+    "2097371690488504-facebook": {
+        "id": "2097371690488504-facebook",
+        "nickname": "alapshina",
+        "booksCount": 0,
+        "updatedAt": "2016-09-16 08:02:46"
+    },
     "112366191289808901180-google": {
         "id": "112366191289808901180-google",
         "nickname": "Faith",
@@ -172,11 +178,5 @@
         "nickname": "Павел Борисов",
         "booksCount": 4,
         "updatedAt": "2016-09-01 12:02:14"
-    },
-    "110589643014391632917-google": {
-        "id": "110589643014391632917-google",
-        "nickname": "hanna",
-        "booksCount": 18,
-        "updatedAt": "2016-08-31 19:36:57"
     }
 }
