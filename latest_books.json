@@ -1,4 +1,16 @@
 {
+    "UD0mQaRL-_": {
+        "id": "UD0mQaRL-_",
+        "title": "Огненный факультет",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2016-09-17 16:37:29",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 33
+        }
+    },
     "XWxotldrs9": {
         "id": "XWxotldrs9",
         "title": "Темный травник",
@@ -345,18 +357,6 @@
             "id": "112795052047708703314-google",
             "nickname": "icedog",
             "booksCount": 1
-        }
-    },
-    "ytGwRjBJq5": {
-        "id": "ytGwRjBJq5",
-        "title": "123",
-        "author": "qwe",
-        "notes": "c",
-        "createdAt": "2016-09-08 22:04:57",
-        "user": {
-            "id": "112795052047708703314-google",
-            "nickname": "icedog",
-            "booksCount": 2
         }
     }
 }
