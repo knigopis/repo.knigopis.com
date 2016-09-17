@@ -1,4 +1,10 @@
 {
+    "1141444172580928-facebook": {
+        "id": "1141444172580928-facebook",
+        "nickname": "serkuzm",
+        "booksCount": 0,
+        "updatedAt": "2016-09-17 21:51:41"
+    },
     "23345942-vkontakte": {
         "id": "23345942-vkontakte",
         "nickname": "yoru.love",
@@ -172,11 +178,5 @@
         "nickname": "asolomin",
         "booksCount": 0,
         "updatedAt": "2016-09-05 17:41:49"
-    },
-    "114131672813122590767-google": {
-        "id": "114131672813122590767-google",
-        "nickname": "LazyOsaka",
-        "booksCount": 1,
-        "updatedAt": "2016-09-05 16:12:39"
     }
 }
