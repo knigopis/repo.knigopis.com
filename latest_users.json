@@ -1,4 +1,10 @@
 {
+    "105198053460598709259-googleplus": {
+        "id": "105198053460598709259-googleplus",
+        "nickname": "mZya",
+        "booksCount": 0,
+        "updatedAt": "2016-09-17 12:54:47"
+    },
     "1739580626295431-facebook": {
         "id": "1739580626295431-facebook",
         "nickname": "Кейв",
@@ -172,11 +178,5 @@
         "nickname": "Postorg",
         "booksCount": 1,
         "updatedAt": "2016-09-03 03:29:40"
-    },
-    "128575812-vkontakte": {
-        "id": "128575812-vkontakte",
-        "nickname": "Ibragimov Bulat",
-        "booksCount": 0,
-        "updatedAt": "2016-09-01 16:59:50"
     }
 }
