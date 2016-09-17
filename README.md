@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 [Кейв](users/173/1739580626295431-facebook)<sup>2</sup> 
 [mercelass](users/370/370909403-yandex)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>15</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Нина](users/257/257325948-vkontakte)<sup>0</sup> 
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 [Postorg](users/104/104152441216655770964-google)<sup>1</sup> 
-[Ibragimov Bulat](users/128/128575812-vkontakte)<sup>0</sup> 
 
 
-_16.09.2016 22:56:25_
+_17.09.2016 12:54:48_
