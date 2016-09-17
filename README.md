@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[serkuzm](users/114/1141444172580928-facebook)<sup>0</sup> 
 [yoru.love](users/233/23345942-vkontakte)<sup>0</sup> 
 [canek2k](users/102/102305825690200373955-google)<sup>4</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>31</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
-[LazyOsaka](users/114/114131672813122590767-google)<sup>1</sup> 
 
 
-_17.09.2016 18:29:44_
+_17.09.2016 21:51:43_
