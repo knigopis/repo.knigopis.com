@@ -1,4 +1,10 @@
 {
+    "102305825690200373955-google": {
+        "id": "102305825690200373955-google",
+        "nickname": "canek2k",
+        "booksCount": 0,
+        "updatedAt": "2016-09-17 16:25:57"
+    },
     "105198053460598709259-googleplus": {
         "id": "105198053460598709259-googleplus",
         "nickname": "mZya",
@@ -172,11 +178,5 @@
         "nickname": "brezh",
         "booksCount": 0,
         "updatedAt": "2016-09-04 20:05:09"
-    },
-    "104152441216655770964-google": {
-        "id": "104152441216655770964-google",
-        "nickname": "Postorg",
-        "booksCount": 1,
-        "updatedAt": "2016-09-03 03:29:40"
     }
 }
