@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[canek2k](users/102/102305825690200373955-google)<sup>1</sup> 
+[canek2k](users/102/102305825690200373955-google)<sup>2</sup> 
 [mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 [Кейв](users/173/1739580626295431-facebook)<sup>2</sup> 
 [mercelass](users/370/370909403-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [brezh](users/111/1119241344808766-facebook)<sup>0</sup> 
 
 
-_17.09.2016 16:27:38_
+_17.09.2016 16:31:44_
