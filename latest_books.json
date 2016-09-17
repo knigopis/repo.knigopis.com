@@ -1,4 +1,16 @@
 {
+    "4Vf7yYuxcv": {
+        "id": "4Vf7yYuxcv",
+        "title": "Игра Эндера",
+        "author": "Скотт Орсон",
+        "notes": "",
+        "createdAt": "2016-09-17 22:04:36",
+        "user": {
+            "id": "1141444172580928-facebook",
+            "nickname": "serkuzm",
+            "booksCount": 1
+        }
+    },
     "0xp9adqaRe": {
         "id": "0xp9adqaRe",
         "title": "Белая гвардия",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 19
-        }
-    },
-    "4JeE4zTsHl": {
-        "id": "4JeE4zTsHl",
-        "title": "Царь зверей (1-5)",
-        "author": "Емельянов Андрей",
-        "notes": "Хорошая ЛитРПГ. Главный герой - владелец одного из  классов \"Царей\"  в игре,  а именно \"Царя зверей\". Всегалактическая игра, противостояние и в реальном и в игровом мире",
-        "createdAt": "2016-09-10 11:52:28",
-        "user": {
-            "id": "104882848-vkontakte",
-            "nickname": "zaykast",
-            "booksCount": 1
         }
     }
 }
