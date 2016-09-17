@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>33</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>32</sup> 
 [canek2k](users/102/102305825690200373955-google)<sup>2</sup> 
 [mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 [Кейв](users/173/1739580626295431-facebook)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Нина](users/257/257325948-vkontakte)<sup>0</sup> 
 
 
-_17.09.2016 16:37:29_
+_17.09.2016 16:37:40_
