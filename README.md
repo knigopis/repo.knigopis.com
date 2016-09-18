@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
+    > Сборник рассказов, состоящий из двух частей и эссе.
+
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
     > ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > стр 94 4-я Донская казачья дивизия
 
 * Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
-    > дон Румата Эсторский (Антон), дон Гуг (Пашка),  дон Кондор, Кира, барон Пампа, доктор Будах, дон Рэба, дона Окана, Арата Горбатый, Вага Колесо, Уно, Анка
 
 * «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
 
-* Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[thinker73](users/366/366497970-yandex)<sup>1</sup> 
 [canek2k](users/102/102305825690200373955-google)<sup>5</sup> 
 [serkuzm](users/114/1141444172580928-facebook)<sup>2</sup> 
 [yoru.love](users/233/23345942-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
 [geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
-[asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 
 
-_18.09.2016 13:43:41_
+_18.09.2016 14:59:46_

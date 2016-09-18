@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
 * Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Задача трёх тел ~ [pimanocci](users/117/117124011531379579265-google)<sup>6</sup>
 * Вспомни о Флебе ~ [pimanocci](users/117/117124011531379579265-google)<sup>2</sup>
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [PafosG](users/523/523112-vkontakte)<sup>2</sup>
-* Кукловоды Третьего рейха ~ [exulted](users/100/100599204551896265722-google)<sup>19</sup>
 
 
-_16.09.2016 10:55:13_
+_18.09.2016 14:59:46_

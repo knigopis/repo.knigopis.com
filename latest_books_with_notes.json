@@ -1,4 +1,16 @@
 {
+    "fOHlI2U2Is": {
+        "id": "fOHlI2U2Is",
+        "title": "Мечты роботов",
+        "author": "Айзек Азимов",
+        "notes": "Сборник рассказов, состоящий из двух частей и эссе.",
+        "createdAt": "2016-09-18 14:59:46",
+        "user": {
+            "id": "366497970-yandex",
+            "nickname": "thinker73",
+            "booksCount": 1
+        }
+    },
     "5Udu6wqGP0": {
         "id": "5Udu6wqGP0",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "523112-vkontakte",
             "nickname": "PafosG",
             "booksCount": 2
-        }
-    },
-    "T9svcvIlwK": {
-        "id": "T9svcvIlwK",
-        "title": "Кукловоды Третьего рейха",
-        "author": "Шамбаров Валерий",
-        "notes": "ISBN: 978-5-906817-00-6",
-        "createdAt": "2016-08-09 18:55:12",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 19
         }
     }
 }

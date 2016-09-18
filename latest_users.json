@@ -1,4 +1,10 @@
 {
+    "366497970-yandex": {
+        "id": "366497970-yandex",
+        "nickname": "thinker73",
+        "booksCount": 1,
+        "updatedAt": "2016-09-18 14:59:46"
+    },
     "102305825690200373955-google": {
         "id": "102305825690200373955-google",
         "nickname": "canek2k",
@@ -172,11 +178,5 @@
         "nickname": "geekvault",
         "booksCount": 27,
         "updatedAt": "2016-09-06 06:37:36"
-    },
-    "8345844-vkontakte": {
-        "id": "8345844-vkontakte",
-        "nickname": "asolomin",
-        "booksCount": 0,
-        "updatedAt": "2016-09-05 17:41:49"
     }
 }
