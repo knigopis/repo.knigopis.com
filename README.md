@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[canek2k](users/102/102305825690200373955-google)<sup>5</sup> 
 [serkuzm](users/114/1141444172580928-facebook)<sup>2</sup> 
 [yoru.love](users/233/23345942-vkontakte)<sup>0</sup> 
-[canek2k](users/102/102305825690200373955-google)<sup>4</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>31</sup> 
 [mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 [Кейв](users/173/1739580626295431-facebook)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [asolomin](users/834/8345844-vkontakte)<sup>0</sup> 
 
 
-_18.09.2016 13:01:15_
+_18.09.2016 13:43:41_

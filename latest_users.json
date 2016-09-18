@@ -1,4 +1,10 @@
 {
+    "102305825690200373955-google": {
+        "id": "102305825690200373955-google",
+        "nickname": "canek2k",
+        "booksCount": 5,
+        "updatedAt": "2016-09-18 13:43:41"
+    },
     "1141444172580928-facebook": {
         "id": "1141444172580928-facebook",
         "nickname": "serkuzm",
@@ -10,12 +16,6 @@
         "nickname": "yoru.love",
         "booksCount": 0,
         "updatedAt": "2016-09-17 18:29:43"
-    },
-    "102305825690200373955-google": {
-        "id": "102305825690200373955-google",
-        "nickname": "canek2k",
-        "booksCount": 4,
-        "updatedAt": "2016-09-17 16:42:57"
     },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
