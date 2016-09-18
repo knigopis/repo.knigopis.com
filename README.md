@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 [thinker73](users/366/366497970-yandex)<sup>1</sup> 
 [canek2k](users/102/102305825690200373955-google)<sup>5</sup> 
 [serkuzm](users/114/1141444172580928-facebook)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
 [neronmoon](users/808/8084055-vkontakte)<sup>0</sup> 
 [Lich](users/114/114525820311540612170-google)<sup>0</sup> 
-[geekvault](users/100/100000058705406-facebook)<sup>27</sup> 
 
 
-_18.09.2016 14:59:46_
+_18.09.2016 15:00:02_
