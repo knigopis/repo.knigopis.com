@@ -1,4 +1,10 @@
 {
+    "1319711978-twitter": {
+        "id": "1319711978-twitter",
+        "nickname": "PublikHouse",
+        "booksCount": 0,
+        "updatedAt": "2016-09-19 17:18:34"
+    },
     "308983562-twitter": {
         "id": "308983562-twitter",
         "nickname": "YourHighessEva",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 43,
         "updatedAt": "2016-09-06 19:21:33"
-    },
-    "184677837-vkontakte": {
-        "id": "184677837-vkontakte",
-        "nickname": "arilley",
-        "booksCount": 0,
-        "updatedAt": "2016-09-06 19:01:11"
     }
 }
