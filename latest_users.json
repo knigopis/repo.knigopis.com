@@ -1,4 +1,10 @@
 {
+    "308983562-twitter": {
+        "id": "308983562-twitter",
+        "nickname": "YourHighessEva",
+        "booksCount": 0,
+        "updatedAt": "2016-09-19 17:12:15"
+    },
     "771096980063936512-twitter": {
         "id": "771096980063936512-twitter",
         "nickname": "cryfromdaheart",
@@ -172,11 +178,5 @@
         "nickname": "arilley",
         "booksCount": 0,
         "updatedAt": "2016-09-06 19:01:11"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 39,
-        "updatedAt": "2016-09-06 16:40:03"
     }
 }
