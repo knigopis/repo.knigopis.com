@@ -1,4 +1,10 @@
 {
+    "12149839-vkontakte": {
+        "id": "12149839-vkontakte",
+        "nickname": "milain",
+        "booksCount": 0,
+        "updatedAt": "2016-09-19 14:21:37"
+    },
     "107275390357075610416-google": {
         "id": "107275390357075610416-google",
         "nickname": "Mari",
@@ -172,11 +178,5 @@
         "nickname": "neronmoon",
         "booksCount": 0,
         "updatedAt": "2016-09-06 15:23:43"
-    },
-    "114525820311540612170-google": {
-        "id": "114525820311540612170-google",
-        "nickname": "Lich",
-        "booksCount": 0,
-        "updatedAt": "2016-09-06 06:57:20"
     }
 }
