@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[YourHighessEva](users/308/308983562-twitter)<sup>0</sup> 
 [cryfromdaheart](users/771/771096980063936512-twitter)<sup>0</sup> 
 [milain](users/121/12149839-vkontakte)<sup>0</sup> 
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>43</sup> 
 [arilley](users/184/184677837-vkontakte)<sup>0</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup> 
 
 
-_19.09.2016 17:09:58_
+_19.09.2016 17:12:15_
