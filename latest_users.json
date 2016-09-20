@@ -1,4 +1,10 @@
 {
+    "48568611-vkontakte": {
+        "id": "48568611-vkontakte",
+        "nickname": "Sofie",
+        "booksCount": 70,
+        "updatedAt": "2016-09-20 16:26:22"
+    },
     "100003266919869-facebook": {
         "id": "100003266919869-facebook",
         "nickname": "Cragle",
@@ -160,12 +166,6 @@
         "nickname": "Eji_tyan",
         "booksCount": 19,
         "updatedAt": "2016-09-10 15:51:47"
-    },
-    "48568611-vkontakte": {
-        "id": "48568611-vkontakte",
-        "nickname": "Sofie",
-        "booksCount": 69,
-        "updatedAt": "2016-09-09 18:57:22"
     },
     "112795052047708703314-google": {
         "id": "112795052047708703314-google",

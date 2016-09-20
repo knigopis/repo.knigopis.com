@@ -1,4 +1,16 @@
 {
+    "JppF8NM5wj": {
+        "id": "JppF8NM5wj",
+        "title": "Страна слепых",
+        "author": "Герберт Уэллс",
+        "notes": "аудиокнига",
+        "createdAt": "2016-09-20 16:26:22",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 70
+        }
+    },
     "9Y9qWcLri9": {
         "id": "9Y9qWcLri9",
         "title": "Теория катастрофы",
@@ -345,18 +357,6 @@
             "id": "117124011531379579265-google",
             "nickname": "pimanocci",
             "booksCount": 6
-        }
-    },
-    "ApFyIuqvJy": {
-        "id": "ApFyIuqvJy",
-        "title": "Вспомни о Флебе",
-        "author": "Иэн Бэнкс",
-        "notes": "Космическое произведение охватывающее огромный и красочный мир будущего. Первая книга в серии о цивилизации Культуры. Достаточно интересная для любителей жанра.",
-        "createdAt": "2016-08-12 19:04:17",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 2
         }
     }
 }

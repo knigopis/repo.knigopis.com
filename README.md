@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
+    > аудиокнига
+
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
     > Первой книге еще можно было простить ужасный литературный стиль и пафос, потому что научная сторона вопроса перевешивала изрядно (в книге много интересных научных фактов и идей), но в этой части всё совсем плохо. Осилил 3/4, самое отвратительное послевкусие осталось.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сборник рассказов, состоящий из двух частей и эссе.
 
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
-    > ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))
 
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
 
-* Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofie](users/485/48568611-vkontakte)<sup>70</sup> 
 [Cragle](users/100/100003266919869-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>133</sup> 
 [PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
 [airu_namy](users/216/216150759-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>19</sup> 
-[Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
 [icedog](users/112/112795052047708703314-google)<sup>1</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>1</sup> 
 
 
-_20.09.2016 14:26:25_
+_20.09.2016 16:26:22_
