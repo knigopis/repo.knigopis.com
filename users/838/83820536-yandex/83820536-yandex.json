@@ -7,7 +7,7 @@
     "identity": "http://openid.yandex.ru/lucius.gu/",
     "booksCount": 133,
     "subscriptions": {
-        "74743045-vkontakte": 109,
+        "74743045-vkontakte": 113,
         "109422146-vkontakte": 19,
         "100001022994466-facebook": 1,
         "18604982-vkontakte": 23,
@@ -22,5 +22,5 @@
         "115622071-twitter": 43
     },
     "createdAt": "2015-01-16 05:41:28",
-    "updatedAt": "2016-09-20 07:37:34"
+    "updatedAt": "2016-09-20 07:37:51"
 }
