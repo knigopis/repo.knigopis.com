@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Cragle](users/100/100003266919869-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>133</sup> 
 [PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
 [YourHighessEva](users/308/308983562-twitter)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>69</sup> 
 [icedog](users/112/112795052047708703314-google)<sup>1</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>1</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
 
 
-_20.09.2016 07:37:34_
+_20.09.2016 14:26:25_
