@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 133,
+        "updatedAt": "2016-09-20 07:37:34"
+    },
     "1319711978-twitter": {
         "id": "1319711978-twitter",
         "nickname": "PublikHouse",
@@ -172,11 +178,5 @@
         "nickname": "Chandravadana",
         "booksCount": 0,
         "updatedAt": "2016-09-07 19:56:00"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 43,
-        "updatedAt": "2016-09-06 19:21:33"
     }
 }

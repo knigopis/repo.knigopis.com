@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
+    > Первой книге еще можно было простить ужасный литературный стиль и пафос, потому что научная сторона вопроса перевешивала изрядно (в книге много интересных научных фактов и идей), но в этой части всё совсем плохо. Осилил 3/4, самое отвратительное послевкусие осталось.
+
 * Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
     > Сборник рассказов, состоящий из двух частей и эссе.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ну так...типичная история запретной любви....особых восторгов не вызвала, конец вообще разочаровал, но прикольно сделано что конец книги плавно перетекает в начало))
 
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
-    > Общее описание где и какие Донские полки находились во время 1 мировой.
-    > стр 94 4-я Донская казачья дивизия
 
 * Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
 
-* Шепот на ветру. Новый код в НЛП ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>133</sup> 
 [PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
 [YourHighessEva](users/308/308983562-twitter)<sup>0</sup> 
 [cryfromdaheart](users/771/771096980063936512-twitter)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [icedog](users/112/112795052047708703314-google)<sup>1</sup> 
 [Mari](users/106/1061643-vkontakte)<sup>1</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>0</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>43</sup> 
 
 
-_19.09.2016 17:18:35_
+_20.09.2016 07:37:34_
