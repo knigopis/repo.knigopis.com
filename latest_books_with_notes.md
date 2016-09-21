@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
 * Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Чёрный кот ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>3</sup>
 * Из лягушек - в принцы. Нейро-лингвистическое программирование ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>41</sup>
 * Как сдвинуть гору Фудзи? ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>6</sup>
-* Братья Карамазовы ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>35</sup>
 
 
-_21.09.2016 03:00:28_
+_21.09.2016 14:34:40_

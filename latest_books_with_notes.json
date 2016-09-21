@@ -1,4 +1,16 @@
 {
+    "FmREelBRWq": {
+        "id": "FmREelBRWq",
+        "title": "Странная история доктора Джекила и мистера Хайда",
+        "author": "Роберт Льюис Стивенсон",
+        "notes": "аудиокнига",
+        "createdAt": "2016-09-21 14:34:40",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 71
+        }
+    },
     "S22jiCav1K": {
         "id": "S22jiCav1K",
         "title": "Астровитянка",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 6
-        }
-    },
-    "lA2rXSv02r": {
-        "id": "lA2rXSv02r",
-        "title": "Братья Карамазовы",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "\"Как хороша жизнь, когда что-нибудь сделаешь хорошее и правдивое!\" А.Ф. Карамазов",
-        "createdAt": "2016-08-13 19:54:24",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 35
         }
     }
 }
