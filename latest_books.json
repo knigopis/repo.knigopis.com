@@ -1,4 +1,16 @@
 {
+    "kN9vhnFthA": {
+        "id": "kN9vhnFthA",
+        "title": "Сталкер Дом на болоте",
+        "author": "Алексей Калугин",
+        "notes": "",
+        "createdAt": "2016-09-21 17:01:25",
+        "user": {
+            "id": "18936412-vkontakte",
+            "nickname": "mamaev_kirill",
+            "booksCount": 1
+        }
+    },
     "FmREelBRWq": {
         "id": "FmREelBRWq",
         "title": "Странная история доктора Джекила и мистера Хайда",
@@ -345,18 +357,6 @@
             "id": "2140708-vkontakte",
             "nickname": "serge.raichenok",
             "booksCount": 1
-        }
-    },
-    "JLlaRHZZKF": {
-        "id": "JLlaRHZZKF",
-        "title": "Жерминаль",
-        "author": "Эмиль Золя",
-        "notes": "",
-        "createdAt": "2016-09-14 15:44:43",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 449
         }
     }
 }
