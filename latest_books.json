@@ -1,4 +1,16 @@
 {
+    "uEzVkFuKXa": {
+        "id": "uEzVkFuKXa",
+        "title": "Лезвие бритвы",
+        "author": "Ефремов",
+        "notes": "Круто!",
+        "createdAt": "2016-09-21 21:10:04",
+        "user": {
+            "id": "10205442182733690-facebook",
+            "nickname": "romann",
+            "booksCount": 3
+        }
+    },
     "YGRx6lkXWX": {
         "id": "YGRx6lkXWX",
         "title": "Приключения эраста фандорина",
@@ -345,18 +357,6 @@
             "id": "2140708-vkontakte",
             "nickname": "serge.raichenok",
             "booksCount": 5
-        }
-    },
-    "78a4OSvZAt": {
-        "id": "78a4OSvZAt",
-        "title": "Война Стариков",
-        "author": "Джон Скальци",
-        "notes": "",
-        "createdAt": "2016-09-15 19:18:42",
-        "user": {
-            "id": "2140708-vkontakte",
-            "nickname": "serge.raichenok",
-            "booksCount": 4
         }
     }
 }

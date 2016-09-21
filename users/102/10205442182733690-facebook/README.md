@@ -1,4 +1,4 @@
-# List of books read by [romann](https://www.facebook.com/app_scoped_user_id/10205442182733690/)<sup>2</sup>
+# List of books read by [romann](https://www.facebook.com/app_scoped_user_id/10205442182733690/)<sup>3</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Приключения эраста фандорина
 Борис Акунин
 > [2016-08-08] Ничего полезного, просто приятный детектив
+
+
+### Лезвие бритвы
+Ефремов
+> Круто!
 
 
 

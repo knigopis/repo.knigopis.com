@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[romann](users/102/10205442182733690-facebook)<sup>2</sup> 
+[romann](users/102/10205442182733690-facebook)<sup>3</sup> 
 [mamaev_kirill](users/189/18936412-vkontakte)<sup>2</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>71</sup> 
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [airu_namy](users/216/216150759-vkontakte)<sup>0</sup> 
 
 
-_21.09.2016 21:06:31_
+_21.09.2016 21:10:04_
