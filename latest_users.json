@@ -1,4 +1,10 @@
 {
+    "10205442182733690-facebook": {
+        "id": "10205442182733690-facebook",
+        "nickname": "romann",
+        "booksCount": 0,
+        "updatedAt": "2016-09-21 21:04:28"
+    },
     "18936412-vkontakte": {
         "id": "18936412-vkontakte",
         "nickname": "mamaev_kirill",
@@ -172,11 +178,5 @@
         "nickname": "airu_namy",
         "booksCount": 0,
         "updatedAt": "2016-09-11 09:04:07"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 19,
-        "updatedAt": "2016-09-10 15:51:47"
     }
 }
