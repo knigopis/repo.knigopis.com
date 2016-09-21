@@ -1,4 +1,16 @@
 {
+    "afg7Rp7k0c": {
+        "id": "afg7Rp7k0c",
+        "title": "Геном",
+        "author": "Сергей Лукьяненко",
+        "notes": "Приятная космическая штука",
+        "createdAt": "2016-09-21 21:05:39",
+        "user": {
+            "id": "10205442182733690-facebook",
+            "nickname": "romann",
+            "booksCount": 1
+        }
+    },
     "pxig0nlXeZ": {
         "id": "pxig0nlXeZ",
         "title": "Сталкер Тени Чернобыля",
@@ -345,18 +357,6 @@
             "id": "2140708-vkontakte",
             "nickname": "serge.raichenok",
             "booksCount": 3
-        }
-    },
-    "So3tK-5vRT": {
-        "id": "So3tK-5vRT",
-        "title": "Игра Эндера",
-        "author": "Орсон Скотт Кард",
-        "notes": "",
-        "createdAt": "2016-09-15 19:17:25",
-        "user": {
-            "id": "2140708-vkontakte",
-            "nickname": "serge.raichenok",
-            "booksCount": 2
         }
     }
 }
