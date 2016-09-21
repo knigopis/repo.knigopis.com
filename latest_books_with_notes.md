@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
 * Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Из лягушек - в принцы. Нейро-лингвистическое программирование ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>41</sup>
 * Как сдвинуть гору Фудзи? ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>6</sup>
 * Братья Карамазовы ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>35</sup>
-* Задача трёх тел ~ [pimanocci](users/117/117124011531379579265-google)<sup>6</sup>
 
 
-_20.09.2016 16:26:22_
+_21.09.2016 03:00:28_

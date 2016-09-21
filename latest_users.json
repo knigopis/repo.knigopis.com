@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 44,
+        "updatedAt": "2016-09-21 03:00:28"
+    },
     "48568611-vkontakte": {
         "id": "48568611-vkontakte",
         "nickname": "Sofie",
@@ -172,11 +178,5 @@
         "nickname": "icedog",
         "booksCount": 1,
         "updatedAt": "2016-09-08 22:04:57"
-    },
-    "1061643-vkontakte": {
-        "id": "1061643-vkontakte",
-        "nickname": "Mari",
-        "booksCount": 1,
-        "updatedAt": "2016-09-08 05:50:34"
     }
 }
