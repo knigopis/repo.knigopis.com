@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mamaev_kirill](users/189/18936412-vkontakte)<sup>1</sup> 
+[mamaev_kirill](users/189/18936412-vkontakte)<sup>2</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>71</sup> 
 [rNix](users/115/115622071-twitter)<sup>44</sup> 
 [Cragle](users/100/100003266919869-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>19</sup> 
 
 
-_21.09.2016 17:01:25_
+_21.09.2016 17:03:23_

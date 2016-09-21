@@ -1,7 +1,12 @@
-# List of books read by [mamaev_kirill](http://vk.com/id18936412)<sup>1</sup>
+# List of books read by [mamaev_kirill](http://vk.com/id18936412)<sup>2</sup>
 ---
 
 ## 2016
+
+### Сталкер Тени Чернобыля
+Александр Дядищев
+> [2016-09] 
+
 
 ### Сталкер Дом на болоте
 Алексей Калугин
