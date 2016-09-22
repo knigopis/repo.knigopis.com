@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andrey](users/896/896921380399139-facebook)<sup>0</sup> 
 [y_malina](users/308/308397510-twitter)<sup>1</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>4</sup> 
 [mamaev_kirill](users/189/18936412-vkontakte)<sup>2</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 [NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>77</sup> 
-[zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
 
 
-_22.09.2016 11:40:20_
+_22.09.2016 21:10:26_
