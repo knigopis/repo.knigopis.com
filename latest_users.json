@@ -1,4 +1,10 @@
 {
+    "896921380399139-facebook": {
+        "id": "896921380399139-facebook",
+        "nickname": "Andrey",
+        "booksCount": 0,
+        "updatedAt": "2016-09-22 21:10:24"
+    },
     "308397510-twitter": {
         "id": "308397510-twitter",
         "nickname": "y_malina",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 77,
         "updatedAt": "2016-09-12 12:16:31"
-    },
-    "104882848-vkontakte": {
-        "id": "104882848-vkontakte",
-        "nickname": "zaykast",
-        "booksCount": 3,
-        "updatedAt": "2016-09-11 14:09:32"
     }
 }
