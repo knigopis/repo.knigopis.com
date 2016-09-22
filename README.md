@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[y_malina](users/308/308397510-twitter)<sup>0</sup> 
+[y_malina](users/308/308397510-twitter)<sup>1</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>4</sup> 
 [mamaev_kirill](users/189/18936412-vkontakte)<sup>2</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>71</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zaykast](users/104/104882848-vkontakte)<sup>3</sup> 
 
 
-_22.09.2016 11:35:21_
+_22.09.2016 11:40:20_

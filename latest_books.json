@@ -1,4 +1,16 @@
 {
+    "07M509rgQy": {
+        "id": "07M509rgQy",
+        "title": "Джейн Эйр",
+        "author": "Шарлота Бронте",
+        "notes": "",
+        "createdAt": "2016-09-22 11:40:20",
+        "user": {
+            "id": "308397510-twitter",
+            "nickname": "y_malina",
+            "booksCount": 1
+        }
+    },
     "dAsNHA6iTI": {
         "id": "dAsNHA6iTI",
         "title": "Черные бушлаты. Диверсант из будущего",
@@ -345,18 +357,6 @@
             "id": "2140708-vkontakte",
             "nickname": "serge.raichenok",
             "booksCount": 7
-        }
-    },
-    "aNVfHNwToR": {
-        "id": "aNVfHNwToR",
-        "title": "Страх Мудреца",
-        "author": "Патрик Ротфусс",
-        "notes": "",
-        "createdAt": "2016-09-15 19:20:32",
-        "user": {
-            "id": "2140708-vkontakte",
-            "nickname": "serge.raichenok",
-            "booksCount": 6
         }
     }
 }
