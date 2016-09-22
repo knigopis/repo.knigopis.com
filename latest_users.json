@@ -1,4 +1,10 @@
 {
+    "308397510-twitter": {
+        "id": "308397510-twitter",
+        "nickname": "y_malina",
+        "booksCount": 0,
+        "updatedAt": "2016-09-22 11:35:20"
+    },
     "10205442182733690-facebook": {
         "id": "10205442182733690-facebook",
         "nickname": "romann",
@@ -172,11 +178,5 @@
         "nickname": "zaykast",
         "booksCount": 3,
         "updatedAt": "2016-09-11 14:09:32"
-    },
-    "216150759-vkontakte": {
-        "id": "216150759-vkontakte",
-        "nickname": "airu_namy",
-        "booksCount": 0,
-        "updatedAt": "2016-09-11 09:04:07"
     }
 }
