@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>6</sup> 
+[nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>78</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
 [y_malina](users/308/308397510-twitter)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 
 
-_23.09.2016 15:38:11_
+_23.09.2016 15:38:26_
