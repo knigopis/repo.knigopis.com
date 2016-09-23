@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>78</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
 [y_malina](users/308/308397510-twitter)<sup>1</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>4</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 [NordWest](users/125/1257223417661447-facebook)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>77</sup> 
 
 
-_22.09.2016 21:10:46_
+_23.09.2016 13:12:04_
