@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
 * Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Война миров ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>37</sup>
 * Чёрный кот ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>3</sup>
 * Из лягушек - в принцы. Нейро-лингвистическое программирование ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>41</sup>
-* Как сдвинуть гору Фудзи? ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>6</sup>
 
 
-_21.09.2016 14:34:40_
+_23.09.2016 15:37:53_

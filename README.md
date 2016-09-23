@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
+    > до сих пор актуальный взгляд на технологии будущего
+
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
     > аудиокнига
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Эта книга первая из трёх в серии. Вот конкретно она хорошая. Пока не знаю, буду ли читать другие.
 
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
-    > аудиокнига
 
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
 
-* Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>4</sup> 
+[nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>78</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
 [y_malina](users/308/308397510-twitter)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 
 
-_23.09.2016 15:36:51_
+_23.09.2016 15:37:53_

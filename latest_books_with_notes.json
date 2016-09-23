@@ -1,4 +1,16 @@
 {
+    "Cz8BmNE94x": {
+        "id": "Cz8BmNE94x",
+        "title": "Шок будущего",
+        "author": "Элвин Тоффлер",
+        "notes": "до сих пор актуальный взгляд на технологии будущего",
+        "createdAt": "2016-09-23 15:37:53",
+        "user": {
+            "id": "2193824-vkontakte",
+            "nickname": "nv.bogoyavlensky",
+            "booksCount": 5
+        }
+    },
     "FmREelBRWq": {
         "id": "FmREelBRWq",
         "title": "Странная история доктора Джекила и мистера Хайда",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 41
-        }
-    },
-    "93UaDf_vlT": {
-        "id": "93UaDf_vlT",
-        "title": "Как сдвинуть гору Фудзи?",
-        "author": "Уильям Паундстоун",
-        "notes": "Книжка о том, как Майкрософт набирает персонал с помощью задачек и загадок. Задачки отличные. Книжка - фуфло.",
-        "createdAt": "2016-08-16 21:34:42",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 6
         }
     }
 }
