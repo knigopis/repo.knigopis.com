@@ -1,4 +1,10 @@
 {
+    "2193824-vkontakte": {
+        "id": "2193824-vkontakte",
+        "nickname": "nv.bogoyavlensky",
+        "booksCount": 4,
+        "updatedAt": "2016-09-23 15:36:51"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 14,
         "updatedAt": "2016-09-14 06:42:03"
-    },
-    "1257223417661447-facebook": {
-        "id": "1257223417661447-facebook",
-        "nickname": "NordWest",
-        "booksCount": 0,
-        "updatedAt": "2016-09-12 21:14:50"
     }
 }
