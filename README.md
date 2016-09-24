@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ryoriksalnikova](users/146/1468945706465629-facebook)<sup>0</sup> 
 [cool.ya-liskovs2014](users/205/205137113-yandex)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>2</sup> 
 [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alapshina](users/209/2097371690488504-facebook)<sup>1</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>449</sup> 
 
 
-_24.09.2016 16:29:42_
+_24.09.2016 21:20:49_
