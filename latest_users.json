@@ -1,4 +1,10 @@
 {
+    "205137113-yandex": {
+        "id": "205137113-yandex",
+        "nickname": "cool.ya-liskovs2014",
+        "booksCount": 0,
+        "updatedAt": "2016-09-24 16:29:41"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 449,
         "updatedAt": "2016-09-14 15:44:43"
-    },
-    "8216847-vkontakte": {
-        "id": "8216847-vkontakte",
-        "nickname": "dream.fall",
-        "booksCount": 0,
-        "updatedAt": "2016-09-14 06:54:27"
     }
 }
