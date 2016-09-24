@@ -1,4 +1,10 @@
 {
+    "1468945706465629-facebook": {
+        "id": "1468945706465629-facebook",
+        "nickname": "ryoriksalnikova",
+        "booksCount": 0,
+        "updatedAt": "2016-09-24 21:20:47"
+    },
     "205137113-yandex": {
         "id": "205137113-yandex",
         "nickname": "cool.ya-liskovs2014",
@@ -172,11 +178,5 @@
         "nickname": "serge.raichenok",
         "booksCount": 7,
         "updatedAt": "2016-09-15 19:23:55"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 449,
-        "updatedAt": "2016-09-14 15:44:43"
     }
 }
