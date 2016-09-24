@@ -1,4 +1,16 @@
 {
+    "h3wEt7GXgT": {
+        "id": "h3wEt7GXgT",
+        "title": "Гарри Поттер и проклятое дитя",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2016-09-24 21:26:16",
+        "user": {
+            "id": "1468945706465629-facebook",
+            "nickname": "ryoriksalnikova",
+            "booksCount": 2
+        }
+    },
     "1-BV_6MK3u": {
         "id": "1-BV_6MK3u",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 32
-        }
-    },
-    "p-fBednGVd": {
-        "id": "p-fBednGVd",
-        "title": "Темный травник",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-09-17 16:36:44",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 31
         }
     }
 }
