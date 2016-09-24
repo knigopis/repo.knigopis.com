@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
 * Цветы для Элджернона ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup>
 * Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Атаман Ермак и сотоварищи ~ [mfevralev](users/140/140966150-vkontakte)<sup>12</sup>
 * Миссионеры ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>1</sup>
 * Война миров ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>37</sup>
-* Чёрный кот ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>3</sup>
 
 
-_23.09.2016 15:38:52_
+_24.09.2016 08:43:48_

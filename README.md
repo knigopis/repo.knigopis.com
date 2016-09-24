@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
+    > Чили. Пиночет. Генерал. Диктатура. Репрессии. Пропажа Людей. истории нескольких людей из разных прослоек общества. Буржуазия: мать Беатриса и дочь Иреннэ. Интеллигенция: семья профессора Леаля, беженца из Испании. Его сын Франсиск и Иреннэ - главные персонажи. Военные: лейтенант Рамирес, Густаво де Моранте, сержант Ривера. И бедные крестьяне: семья Флоресов и Ранкилео. Рудник с телами, церковь и политика, бегство, Родина и Любовь.
+
 * Цветы для Элджернона ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup>
     > Рассказ о слабоумном Чарли, который после операции получил способность быстро обучаться, стал гением, но затем резко его способности угасли, и он снова вернулся к своему начальному состоянию
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > до сих пор актуальный взгляд на технологии будущего
 
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
-    > аудиокнига
 
 * Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
 
-* Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>1</sup> 
 [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>78</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [serge.raichenok](users/214/2140708-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>449</sup> 
 [dream.fall](users/821/8216847-vkontakte)<sup>0</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>14</sup> 
 
 
-_23.09.2016 15:38:52_
+_24.09.2016 08:43:48_
