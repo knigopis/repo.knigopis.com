@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Наблюдая за англичанами. Скрытые правила поведения ~ [Беска](users/157/1577468-vkontakte)<sup>2</sup>
 * Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
 * Цветы для Элджернона ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup>
 * Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
@@ -30,7 +31,6 @@
 * Хроники Сиалы ~ [Tr](users/122/12282474-vkontakte)<sup>9</sup>
 * Атаман Ермак и сотоварищи ~ [mfevralev](users/140/140966150-vkontakte)<sup>12</sup>
 * Миссионеры ~ [Bulat Gabidullin](users/150/1503854-vkontakte)<sup>1</sup>
-* Война миров ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>37</sup>
 
 
-_24.09.2016 08:43:48_
+_24.09.2016 08:48:36_
