@@ -1,4 +1,10 @@
 {
+    "163745873-yandex": {
+        "id": "163745873-yandex",
+        "nickname": "tess56ea",
+        "booksCount": 0,
+        "updatedAt": "2016-09-25 07:15:05"
+    },
     "170115130-vkontakte": {
         "id": "170115130-vkontakte",
         "nickname": "milkyway56",
@@ -172,11 +178,5 @@
         "nickname": "mercelass",
         "booksCount": 0,
         "updatedAt": "2016-09-16 11:42:27"
-    },
-    "8345201-vkontakte": {
-        "id": "8345201-vkontakte",
-        "nickname": "norway_m",
-        "booksCount": 15,
-        "updatedAt": "2016-09-16 10:55:13"
     }
 }
