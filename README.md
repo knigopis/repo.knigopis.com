@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HoneyCorn56](users/306/306486763060595-facebook)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>6</sup> 
 [ryoriksalnikova](users/146/1468945706465629-facebook)<sup>2</sup> 
 [cool.ya-liskovs2014](users/205/205137113-yandex)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mercelass](users/370/370909403-yandex)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>15</sup> 
 [alapshina](users/209/2097371690488504-facebook)<sup>1</sup> 
-[Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 
 
-_24.09.2016 22:36:21_
+_25.09.2016 07:13:38_
