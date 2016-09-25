@@ -1,4 +1,16 @@
 {
+    "6D-3-FRD8R": {
+        "id": "6D-3-FRD8R",
+        "title": "Мой любимый клоун",
+        "author": "В.Б. Ливанов",
+        "notes": "",
+        "createdAt": "2016-09-25 18:55:18",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 38
+        }
+    },
     "cY-JpqgKEG": {
         "id": "cY-JpqgKEG",
         "title": "Богатство военного атташе",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 9
-        }
-    },
-    "rQBEv28nx5": {
-        "id": "rQBEv28nx5",
-        "title": "Сумерки",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2016-09-25 17:56:00",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 8
         }
     }
 }
