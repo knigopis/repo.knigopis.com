@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лела Папава](users/761/76187635-vkontakte)<sup>283</sup> 
+[Лела Папава](users/761/76187635-vkontakte)<sup>282</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>38</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [yoru.love](users/233/23345942-vkontakte)<sup>0</sup> 
 
 
-_25.09.2016 20:55:03_
+_25.09.2016 20:56:21_
