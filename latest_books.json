@@ -1,4 +1,16 @@
 {
+    "LNEeovfAnB": {
+        "id": "LNEeovfAnB",
+        "title": "Sword Art Online. Том 6. Призрачная пуля",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:28:13",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 32
+        }
+    },
     "cr-A7LDt1L": {
         "id": "cr-A7LDt1L",
         "title": "Sword Art Online. Том 5. Призрачная пуля",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 3
-        }
-    },
-    "onWwDIhW11": {
-        "id": "onWwDIhW11",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Джоан К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-25 17:49:10",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 2
         }
     }
 }
