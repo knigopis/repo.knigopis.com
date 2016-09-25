@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Faith](users/112/112366191289808901180-google)<sup>21</sup> 
+[Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 [milkyway56](users/170/170115130-vkontakte)<sup>0</sup> 
 [HoneyCorn56](users/306/306486763060595-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Кейв](users/173/1739580626295431-facebook)<sup>2</sup> 
 
 
-_25.09.2016 12:22:03_
+_25.09.2016 12:22:22_
