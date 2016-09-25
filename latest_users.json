@@ -1,4 +1,10 @@
 {
+    "281023294-vkontakte": {
+        "id": "281023294-vkontakte",
+        "nickname": "Lela papava",
+        "booksCount": 0,
+        "updatedAt": "2016-09-25 20:50:33"
+    },
     "278072338-vkontakte": {
         "id": "278072338-vkontakte",
         "nickname": "Арквейд Курапира",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 31,
         "updatedAt": "2016-09-17 16:37:47"
-    },
-    "105198053460598709259-googleplus": {
-        "id": "105198053460598709259-googleplus",
-        "nickname": "mZya",
-        "booksCount": 0,
-        "updatedAt": "2016-09-17 12:54:47"
     }
 }
