@@ -1,7 +1,11 @@
-# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>33</sup>
+# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>34</sup>
 ---
 
 ## 2015
+
+### Sword Art Online. Том 8. Раньше и позже
+Рэки Кавахара
+
 
 ### Sword Art Online. Том 7. Молитва матери
 Рэки Кавахара

@@ -1,4 +1,16 @@
 {
+    "6iF_rYw3aI": {
+        "id": "6iF_rYw3aI",
+        "title": "Sword Art Online. Том 8. Раньше и позже",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:33:22",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 34
+        }
+    },
     "UQ5vXHt6M4": {
         "id": "UQ5vXHt6M4",
         "title": "Sword Art Online. Том 7. Молитва матери",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 5
-        }
-    },
-    "hC2ikiSUsx": {
-        "id": "hC2ikiSUsx",
-        "title": "Гарри Поттер и кубок Огня",
-        "author": "Джоан К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-25 17:50:12",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 4
         }
     }
 }
