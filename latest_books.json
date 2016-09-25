@@ -1,4 +1,16 @@
 {
+    "cr-A7LDt1L": {
+        "id": "cr-A7LDt1L",
+        "title": "Sword Art Online. Том 5. Призрачная пуля",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:27:36",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 31
+        }
+    },
     "t69KJ-FejK": {
         "id": "t69KJ-FejK",
         "title": "Sword Art Online. Том 4. Танец фей",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 2
-        }
-    },
-    "jR4r_xFjWb": {
-        "id": "jR4r_xFjWb",
-        "title": "",
-        "author": "Джоан К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-25 17:10:41",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 1
         }
     }
 }
