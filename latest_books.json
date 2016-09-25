@@ -1,4 +1,16 @@
 {
+    "YNICcSgn_c": {
+        "id": "YNICcSgn_c",
+        "title": "Кровавые обещания",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2016-09-25 18:13:45",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 24
+        }
+    },
     "5R0oLWNHAb": {
         "id": "5R0oLWNHAb",
         "title": "Поцелуй тьмы",
@@ -345,18 +357,6 @@
             "id": "1468945706465629-facebook",
             "nickname": "ryoriksalnikova",
             "booksCount": 5
-        }
-    },
-    "pxygxeySB8": {
-        "id": "pxygxeySB8",
-        "title": "Гарри Поттер и проклятое дитя",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:23",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 4
         }
     }
 }
