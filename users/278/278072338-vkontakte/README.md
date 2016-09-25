@@ -1,7 +1,11 @@
-# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>26</sup>
+# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>27</sup>
 ---
 
 ## 2015
+
+### Sword Art Online. Том 1. Айнкрад
+Рэки Кавахара
+
 
 ### Граф Дракула
 Брем Стокер

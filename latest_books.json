@@ -1,4 +1,16 @@
 {
+    "A2ROak2_uj": {
+        "id": "A2ROak2_uj",
+        "title": "Sword Art Online. Том 1. Айнкрад",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:23:26",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 27
+        }
+    },
     "cdptYPU_uw": {
         "id": "cdptYPU_uw",
         "title": "Последняя жертва",
@@ -345,18 +357,6 @@
             "id": "100001858801764-facebook",
             "nickname": "shirko.elena",
             "booksCount": 6
-        }
-    },
-    "dh2JyV_CbD": {
-        "id": "dh2JyV_CbD",
-        "title": "Гарри Поттер и проклятое дитя",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:41",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 7
         }
     }
 }
