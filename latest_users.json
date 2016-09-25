@@ -1,4 +1,10 @@
 {
+    "170115130-vkontakte": {
+        "id": "170115130-vkontakte",
+        "nickname": "milkyway56",
+        "booksCount": 0,
+        "updatedAt": "2016-09-25 07:14:08"
+    },
     "306486763060595-facebook": {
         "id": "306486763060595-facebook",
         "nickname": "HoneyCorn56",
@@ -172,11 +178,5 @@
         "nickname": "norway_m",
         "booksCount": 15,
         "updatedAt": "2016-09-16 10:55:13"
-    },
-    "2097371690488504-facebook": {
-        "id": "2097371690488504-facebook",
-        "nickname": "alapshina",
-        "booksCount": 1,
-        "updatedAt": "2016-09-16 08:03:52"
     }
 }
