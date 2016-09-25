@@ -1,4 +1,16 @@
 {
+    "UQ5vXHt6M4": {
+        "id": "UQ5vXHt6M4",
+        "title": "Sword Art Online. Том 7. Молитва матери",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:28:56",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 33
+        }
+    },
     "LNEeovfAnB": {
         "id": "LNEeovfAnB",
         "title": "Sword Art Online. Том 6. Призрачная пуля",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 4
-        }
-    },
-    "B15IyJIUnc": {
-        "id": "B15IyJIUnc",
-        "title": "Гарри Поттер и узник Азкабаа",
-        "author": "Джоан К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-25 17:49:44",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 3
         }
     }
 }
