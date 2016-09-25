@@ -1,4 +1,16 @@
 {
+    "fB4fEBRsSE": {
+        "id": "fB4fEBRsSE",
+        "title": "Дон Кихот",
+        "author": "Мигель де Сервантес Сааведра",
+        "notes": "",
+        "createdAt": "2016-09-25 18:01:20",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 14
+        }
+    },
     "gJbMFS520M": {
         "id": "gJbMFS520M",
         "title": "Белая Гвардия",
@@ -345,18 +357,6 @@
             "id": "2193824-vkontakte",
             "nickname": "nv.bogoyavlensky",
             "booksCount": 5
-        }
-    },
-    "jCt_DH1F86": {
-        "id": "jCt_DH1F86",
-        "title": "Игра в бисер",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-09-23 15:36:51",
-        "user": {
-            "id": "2193824-vkontakte",
-            "nickname": "nv.bogoyavlensky",
-            "booksCount": 4
         }
     }
 }
