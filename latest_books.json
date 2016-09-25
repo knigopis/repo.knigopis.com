@@ -1,4 +1,16 @@
 {
+    "LJ3RRXf1h-": {
+        "id": "LJ3RRXf1h-",
+        "title": "Ледяной укус",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2016-09-25 18:12:45",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 22
+        }
+    },
     "KO0xCH0vhj": {
         "id": "KO0xCH0vhj",
         "title": "Академия вампиров. Охотники и жертвы",
@@ -345,18 +357,6 @@
             "id": "1468945706465629-facebook",
             "nickname": "ryoriksalnikova",
             "booksCount": 3
-        }
-    },
-    "h3wEt7GXgT": {
-        "id": "h3wEt7GXgT",
-        "title": "Гарри Поттер и проклятое дитя",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:16",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 2
         }
     }
 }
