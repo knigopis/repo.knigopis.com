@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Арквейд Курапира](users/278/278072338-vkontakte)<sup>2</sup> 
+[Арквейд Курапира](users/278/278072338-vkontakte)<sup>3</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 [milkyway56](users/170/170115130-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 
 
-_25.09.2016 17:49:10_
+_25.09.2016 17:49:44_
