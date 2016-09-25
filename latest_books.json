@@ -1,4 +1,16 @@
 {
+    "gJbMFS520M": {
+        "id": "gJbMFS520M",
+        "title": "Белая Гвардия",
+        "author": "М.А. Булгаков",
+        "notes": "",
+        "createdAt": "2016-09-25 17:58:53",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 13
+        }
+    },
     "qNjx8xtGWz": {
         "id": "qNjx8xtGWz",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "2193824-vkontakte",
             "nickname": "nv.bogoyavlensky",
             "booksCount": 4
-        }
-    },
-    "9tHQ0gzDzW": {
-        "id": "9tHQ0gzDzW",
-        "title": "Тайная история",
-        "author": "Донна Тартт",
-        "notes": "",
-        "createdAt": "2016-09-23 13:12:03",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 78
         }
     }
 }
