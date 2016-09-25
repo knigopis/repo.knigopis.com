@@ -1,4 +1,16 @@
 {
+    "cRa8M2V13L": {
+        "id": "cRa8M2V13L",
+        "title": "Рассвет",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2016-09-25 17:57:42",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 11
+        }
+    },
     "fxlyPiV_t5": {
         "id": "fxlyPiV_t5",
         "title": "Затмение",
@@ -344,18 +356,6 @@
         "user": {
             "id": "896921380399139-facebook",
             "nickname": "Andrey",
-            "booksCount": 1
-        }
-    },
-    "07M509rgQy": {
-        "id": "07M509rgQy",
-        "title": "Джейн Эйр",
-        "author": "Шарлота Бронте",
-        "notes": "",
-        "createdAt": "2016-09-22 11:40:20",
-        "user": {
-            "id": "308397510-twitter",
-            "nickname": "y_malina",
             "booksCount": 1
         }
     }
