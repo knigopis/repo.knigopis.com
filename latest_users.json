@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 283,
+        "updatedAt": "2016-09-25 20:55:03"
+    },
     "281023294-vkontakte": {
         "id": "281023294-vkontakte",
         "nickname": "Lela papava",
@@ -172,11 +178,5 @@
         "nickname": "yoru.love",
         "booksCount": 0,
         "updatedAt": "2016-09-17 18:29:43"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 31,
-        "updatedAt": "2016-09-17 16:37:47"
     }
 }
