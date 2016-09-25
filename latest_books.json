@@ -1,4 +1,16 @@
 {
+    "smsH0r7YBq": {
+        "id": "smsH0r7YBq",
+        "title": "Sword Art Online. Том 3. Танец фей",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2016-09-25 18:25:33",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 29
+        }
+    },
     "GvLelA0E0z": {
         "id": "GvLelA0E0z",
         "title": "Sword Art Online. Том 2. Айнкрад",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 1
-        }
-    },
-    "kT34PD2c6_": {
-        "id": "kT34PD2c6_",
-        "title": "Ребекка",
-        "author": "Д.Дюморье",
-        "notes": "",
-        "createdAt": "2016-09-25 12:22:03",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 21
         }
     }
 }

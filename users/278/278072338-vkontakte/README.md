@@ -1,7 +1,11 @@
-# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>28</sup>
+# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>29</sup>
 ---
 
 ## 2015
+
+### Sword Art Online. Том 3. Танец фей
+Рэки Кавахара
+
 
 ### Sword Art Online. Том 2. Айнкрад
 Рэки Кавахара
