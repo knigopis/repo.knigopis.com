@@ -1,4 +1,16 @@
 {
+    "cdptYPU_uw": {
+        "id": "cdptYPU_uw",
+        "title": "Последняя жертва",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2016-09-25 18:14:36",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 26
+        }
+    },
     "WYWjfTxpOL": {
         "id": "WYWjfTxpOL",
         "title": "Оковы для призрака",
@@ -345,18 +357,6 @@
             "id": "1468945706465629-facebook",
             "nickname": "ryoriksalnikova",
             "booksCount": 7
-        }
-    },
-    "Dg4NNBdcqe": {
-        "id": "Dg4NNBdcqe",
-        "title": "Гарри Поттер и проклятое дитя",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:40",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 6
         }
     }
 }
