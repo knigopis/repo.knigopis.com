@@ -1,4 +1,16 @@
 {
+    "cY-JpqgKEG": {
+        "id": "cY-JpqgKEG",
+        "title": "Богатство военного атташе",
+        "author": "В.Б. Ливанов",
+        "notes": "",
+        "createdAt": "2016-09-25 18:53:28",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 37
+        }
+    },
     "tEzIokTc2a": {
         "id": "tEzIokTc2a",
         "title": "Агния, дочь Агнии",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 8
-        }
-    },
-    "9ImRZ03xFz": {
-        "id": "9ImRZ03xFz",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джоан К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-25 17:53:03",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 7
         }
     }
 }
