@@ -1,4 +1,16 @@
 {
+    "5R0oLWNHAb": {
+        "id": "5R0oLWNHAb",
+        "title": "Поцелуй тьмы",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2016-09-25 18:13:11",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 23
+        }
+    },
     "LJ3RRXf1h-": {
         "id": "LJ3RRXf1h-",
         "title": "Ледяной укус",
@@ -345,18 +357,6 @@
             "id": "1468945706465629-facebook",
             "nickname": "ryoriksalnikova",
             "booksCount": 4
-        }
-    },
-    "DbpI66t7KT": {
-        "id": "DbpI66t7KT",
-        "title": "Гарри Поттер и проклятое дитя",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:19",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 3
         }
     }
 }
