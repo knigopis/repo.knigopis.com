@@ -1,4 +1,10 @@
 {
+    "278072338-vkontakte": {
+        "id": "278072338-vkontakte",
+        "nickname": "Арквейд Курапира",
+        "booksCount": 0,
+        "updatedAt": "2016-09-25 17:03:46"
+    },
     "112366191289808901180-google": {
         "id": "112366191289808901180-google",
         "nickname": "Faith",
@@ -172,11 +178,5 @@
         "nickname": "mZya",
         "booksCount": 0,
         "updatedAt": "2016-09-17 12:54:47"
-    },
-    "1739580626295431-facebook": {
-        "id": "1739580626295431-facebook",
-        "nickname": "Кейв",
-        "booksCount": 2,
-        "updatedAt": "2016-09-16 22:56:25"
     }
 }
