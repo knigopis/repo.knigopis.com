@@ -1,7 +1,11 @@
-# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>8</sup>
+# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>9</sup>
 ---
 
 ## 2010
+
+### Новолуние
+Стефани Майер
+
 
 ### Сумерки
 Стефани Майер

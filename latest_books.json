@@ -1,4 +1,16 @@
 {
+    "6xDyZPo7vM": {
+        "id": "6xDyZPo7vM",
+        "title": "Новолуние",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2016-09-25 17:56:48",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 9
+        }
+    },
     "rQBEv28nx5": {
         "id": "rQBEv28nx5",
         "title": "Сумерки",
@@ -345,18 +357,6 @@
             "id": "10205442182733690-facebook",
             "nickname": "romann",
             "booksCount": 4
-        }
-    },
-    "uEzVkFuKXa": {
-        "id": "uEzVkFuKXa",
-        "title": "Лезвие бритвы",
-        "author": "Ефремов",
-        "notes": "Круто!",
-        "createdAt": "2016-09-21 21:10:04",
-        "user": {
-            "id": "10205442182733690-facebook",
-            "nickname": "romann",
-            "booksCount": 3
         }
     }
 }
