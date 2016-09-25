@@ -1,4 +1,16 @@
 {
+    "hC2ikiSUsx": {
+        "id": "hC2ikiSUsx",
+        "title": "Гарри Поттер и кубок Огня",
+        "author": "Джоан К. Роулинг",
+        "notes": "",
+        "createdAt": "2016-09-25 17:50:12",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 4
+        }
+    },
     "B15IyJIUnc": {
         "id": "B15IyJIUnc",
         "title": "Гарри Поттер и узник Азкабаа",
@@ -345,18 +357,6 @@
             "id": "18936412-vkontakte",
             "nickname": "mamaev_kirill",
             "booksCount": 1
-        }
-    },
-    "FmREelBRWq": {
-        "id": "FmREelBRWq",
-        "title": "Странная история доктора Джекила и мистера Хайда",
-        "author": "Роберт Льюис Стивенсон",
-        "notes": "аудиокнига",
-        "createdAt": "2016-09-21 14:34:40",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 71
         }
     }
 }
