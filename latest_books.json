@@ -1,4 +1,16 @@
 {
+    "kT34PD2c6_": {
+        "id": "kT34PD2c6_",
+        "title": "Ребекка",
+        "author": "Д.Дюморье",
+        "notes": "",
+        "createdAt": "2016-09-25 12:22:03",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 21
+        }
+    },
     "XdtNXWKGMn": {
         "id": "XdtNXWKGMn",
         "title": "Прощай, оружие!",
@@ -345,18 +357,6 @@
             "id": "366497970-yandex",
             "nickname": "thinker73",
             "booksCount": 1
-        }
-    },
-    "UObEqyWcYX": {
-        "id": "UObEqyWcYX",
-        "title": "На Дне",
-        "author": "Максим Горький",
-        "notes": "В пьесе, имеющей подзаголовок «Картины», изображена группа обитателей ночлежного дома для неимущих.\n\n«У всех людей — души серенькие… все подрумяниться желают…»",
-        "createdAt": "2016-09-18 13:43:41",
-        "user": {
-            "id": "102305825690200373955-google",
-            "nickname": "canek2k",
-            "booksCount": 5
         }
     }
 }

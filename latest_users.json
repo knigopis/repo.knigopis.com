@@ -1,4 +1,10 @@
 {
+    "112366191289808901180-google": {
+        "id": "112366191289808901180-google",
+        "nickname": "Faith",
+        "booksCount": 21,
+        "updatedAt": "2016-09-25 12:22:03"
+    },
     "163745873-yandex": {
         "id": "163745873-yandex",
         "nickname": "tess56ea",
@@ -172,11 +178,5 @@
         "nickname": "Кейв",
         "booksCount": 2,
         "updatedAt": "2016-09-16 22:56:25"
-    },
-    "370909403-yandex": {
-        "id": "370909403-yandex",
-        "nickname": "mercelass",
-        "booksCount": 0,
-        "updatedAt": "2016-09-16 11:42:27"
     }
 }
