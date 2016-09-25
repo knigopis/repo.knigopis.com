@@ -1,5 +1,12 @@
-# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>6</sup>
+# List of books read by [Арквейд Курапира](http://vk.com/id278072338)<sup>7</sup>
 ---
+
+## 2008
+
+### Гарри Поттер и Дары Смерти
+Джоан К. Роулинг
+
+
 
 ## 2007
 
