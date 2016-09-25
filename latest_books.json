@@ -1,4 +1,16 @@
 {
+    "KO0xCH0vhj": {
+        "id": "KO0xCH0vhj",
+        "title": "Академия вампиров. Охотники и жертвы",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2016-09-25 18:12:19",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 21
+        }
+    },
     "FNVVmtNX_i": {
         "id": "FNVVmtNX_i",
         "title": "Верховная Ведьма",
@@ -345,18 +357,6 @@
             "id": "1468945706465629-facebook",
             "nickname": "ryoriksalnikova",
             "booksCount": 2
-        }
-    },
-    "1-BV_6MK3u": {
-        "id": "1-BV_6MK3u",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2016-09-24 21:26:06",
-        "user": {
-            "id": "1468945706465629-facebook",
-            "nickname": "ryoriksalnikova",
-            "booksCount": 1
         }
     }
 }
