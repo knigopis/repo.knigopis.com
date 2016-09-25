@@ -1,4 +1,16 @@
 {
+    "fxlyPiV_t5": {
+        "id": "fxlyPiV_t5",
+        "title": "Затмение",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2016-09-25 17:57:11",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 10
+        }
+    },
     "6xDyZPo7vM": {
         "id": "6xDyZPo7vM",
         "title": "Новолуние",
@@ -345,18 +357,6 @@
             "id": "308397510-twitter",
             "nickname": "y_malina",
             "booksCount": 1
-        }
-    },
-    "dAsNHA6iTI": {
-        "id": "dAsNHA6iTI",
-        "title": "Черные бушлаты. Диверсант из будущего",
-        "author": "Александр Конторович",
-        "notes": "Там где дед попадает зеком в немецкое прошлое",
-        "createdAt": "2016-09-21 21:13:12",
-        "user": {
-            "id": "10205442182733690-facebook",
-            "nickname": "romann",
-            "booksCount": 4
         }
     }
 }
