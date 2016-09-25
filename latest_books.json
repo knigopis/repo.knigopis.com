@@ -1,4 +1,16 @@
 {
+    "kKuDz41gsn": {
+        "id": "kKuDz41gsn",
+        "title": "Граф Дракула",
+        "author": "Брем Стокер",
+        "notes": "",
+        "createdAt": "2016-09-25 18:07:24",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 17
+        }
+    },
     "bhmRzxx5Qx": {
         "id": "bhmRzxx5Qx",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "2193824-vkontakte",
             "nickname": "nv.bogoyavlensky",
             "booksCount": 8
-        }
-    },
-    "Of7FIR9vC_": {
-        "id": "Of7FIR9vC_",
-        "title": "Уроки музыки",
-        "author": "Окуджава Б.Ш.",
-        "notes": "",
-        "createdAt": "2016-09-23 15:38:26",
-        "user": {
-            "id": "2193824-vkontakte",
-            "nickname": "nv.bogoyavlensky",
-            "booksCount": 7
         }
     }
 }
