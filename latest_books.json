@@ -1,4 +1,16 @@
 {
+    "qNjx8xtGWz": {
+        "id": "qNjx8xtGWz",
+        "title": "Мастер и Маргарита",
+        "author": "М. А. Булгаков",
+        "notes": "",
+        "createdAt": "2016-09-25 17:58:23",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 12
+        }
+    },
     "cRa8M2V13L": {
         "id": "cRa8M2V13L",
         "title": "Рассвет",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 78
-        }
-    },
-    "zlBzkyVd9_": {
-        "id": "zlBzkyVd9_",
-        "title": "",
-        "author": "Сандерсон",
-        "notes": "",
-        "createdAt": "2016-09-22 21:10:46",
-        "user": {
-            "id": "896921380399139-facebook",
-            "nickname": "Andrey",
-            "booksCount": 1
         }
     }
 }
