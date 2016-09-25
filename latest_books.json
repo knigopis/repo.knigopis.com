@@ -1,4 +1,16 @@
 {
+    "bhmRzxx5Qx": {
+        "id": "bhmRzxx5Qx",
+        "title": "Евгений Онегин",
+        "author": "А.С. Пушкин",
+        "notes": "",
+        "createdAt": "2016-09-25 18:06:02",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 16
+        }
+    },
     "dBPL-8e_Cr": {
         "id": "dBPL-8e_Cr",
         "title": "Доктор Живаго",
@@ -345,18 +357,6 @@
             "id": "2193824-vkontakte",
             "nickname": "nv.bogoyavlensky",
             "booksCount": 7
-        }
-    },
-    "QK6v9Hnmby": {
-        "id": "QK6v9Hnmby",
-        "title": "От 2 до 72. Книжка с картинками",
-        "author": "Дмитрий Зимин",
-        "notes": "",
-        "createdAt": "2016-09-23 15:38:11",
-        "user": {
-            "id": "2193824-vkontakte",
-            "nickname": "nv.bogoyavlensky",
-            "booksCount": 6
         }
     }
 }
