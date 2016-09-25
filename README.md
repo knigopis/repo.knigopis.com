@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>38</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [serkuzm](users/114/1141444172580928-facebook)<sup>2</sup> 
 [yoru.love](users/233/23345942-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>31</sup> 
-[mZya](users/105/105198053460598709259-googleplus)<sup>0</sup> 
 
 
-_25.09.2016 18:55:19_
+_25.09.2016 20:50:34_
