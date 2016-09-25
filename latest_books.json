@@ -1,4 +1,16 @@
 {
+    "rQBEv28nx5": {
+        "id": "rQBEv28nx5",
+        "title": "Сумерки",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2016-09-25 17:56:00",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 8
+        }
+    },
     "9ImRZ03xFz": {
         "id": "9ImRZ03xFz",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "10205442182733690-facebook",
             "nickname": "romann",
             "booksCount": 3
-        }
-    },
-    "YGRx6lkXWX": {
-        "id": "YGRx6lkXWX",
-        "title": "Приключения эраста фандорина",
-        "author": "Борис Акунин",
-        "notes": "Ничего полезного, просто приятный детектив",
-        "createdAt": "2016-09-21 21:06:31",
-        "user": {
-            "id": "10205442182733690-facebook",
-            "nickname": "romann",
-            "booksCount": 2
         }
     }
 }
