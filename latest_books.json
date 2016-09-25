@@ -1,4 +1,16 @@
 {
+    "onWwDIhW11": {
+        "id": "onWwDIhW11",
+        "title": "Гарри Поттер и тайная комната",
+        "author": "Джоан К. Роулинг",
+        "notes": "",
+        "createdAt": "2016-09-25 17:49:10",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 2
+        }
+    },
     "jR4r_xFjWb": {
         "id": "jR4r_xFjWb",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 44
-        }
-    },
-    "JppF8NM5wj": {
-        "id": "JppF8NM5wj",
-        "title": "Страна слепых",
-        "author": "Герберт Уэллс",
-        "notes": "аудиокнига",
-        "createdAt": "2016-09-20 16:26:22",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 70
         }
     }
 }
