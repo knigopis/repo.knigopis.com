@@ -1,4 +1,10 @@
 {
+    "106674199062759217064-google": {
+        "id": "106674199062759217064-google",
+        "nickname": "123",
+        "booksCount": 0,
+        "updatedAt": "2016-09-25 21:58:06"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -172,11 +178,5 @@
         "nickname": "serkuzm",
         "booksCount": 2,
         "updatedAt": "2016-09-18 13:01:15"
-    },
-    "23345942-vkontakte": {
-        "id": "23345942-vkontakte",
-        "nickname": "yoru.love",
-        "booksCount": 0,
-        "updatedAt": "2016-09-17 18:29:43"
     }
 }
