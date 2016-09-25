@@ -1,4 +1,16 @@
 {
+    "cTJ2LeSrgF": {
+        "id": "cTJ2LeSrgF",
+        "title": "",
+        "author": "Джоан К. Роулинг Гарри Поттер и Философский Камень",
+        "notes": "",
+        "createdAt": "2016-09-25 17:07:21",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 1
+        }
+    },
     "kT34PD2c6_": {
         "id": "kT34PD2c6_",
         "title": "Ребекка",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 133
-        }
-    },
-    "fOHlI2U2Is": {
-        "id": "fOHlI2U2Is",
-        "title": "Мечты роботов",
-        "author": "Айзек Азимов",
-        "notes": "Сборник рассказов, состоящий из двух частей и эссе.",
-        "createdAt": "2016-09-18 14:59:46",
-        "user": {
-            "id": "366497970-yandex",
-            "nickname": "thinker73",
-            "booksCount": 1
         }
     }
 }
