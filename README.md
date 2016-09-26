@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>450</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>282</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 [thinker73](users/366/366497970-yandex)<sup>1</sup> 
 [canek2k](users/102/102305825690200373955-google)<sup>5</sup> 
-[serkuzm](users/114/1141444172580928-facebook)<sup>2</sup> 
 
 
-_25.09.2016 21:58:07_
+_26.09.2016 07:36:21_

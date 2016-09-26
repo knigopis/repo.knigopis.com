@@ -1,4 +1,16 @@
 {
+    "NplQd_iO68": {
+        "id": "NplQd_iO68",
+        "title": "Черный Принц",
+        "author": "Айрис Мэрдок",
+        "notes": "",
+        "createdAt": "2016-09-26 07:36:20",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 450
+        }
+    },
     "6D-3-FRD8R": {
         "id": "6D-3-FRD8R",
         "title": "Мой любимый клоун",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 10
-        }
-    },
-    "6xDyZPo7vM": {
-        "id": "6xDyZPo7vM",
-        "title": "Новолуние",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2016-09-25 17:56:48",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 9
         }
     }
 }
