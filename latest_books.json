@@ -1,4 +1,16 @@
 {
+    "PGtHDekCEj": {
+        "id": "PGtHDekCEj",
+        "title": "Космотехнолухи. Том 1",
+        "author": "Громико Ольга",
+        "notes": "",
+        "createdAt": "2016-09-26 18:33:20",
+        "user": {
+            "id": "798202600285063-facebook",
+            "nickname": "Рома",
+            "booksCount": 1
+        }
+    },
     "U3Fl0XRJ5P": {
         "id": "U3Fl0XRJ5P",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 17
-        }
-    },
-    "bhmRzxx5Qx": {
-        "id": "bhmRzxx5Qx",
-        "title": "Евгений Онегин",
-        "author": "А.С. Пушкин",
-        "notes": "",
-        "createdAt": "2016-09-25 18:06:02",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 16
         }
     }
 }
