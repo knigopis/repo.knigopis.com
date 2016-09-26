@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Alona](users/320/320700111602997-facebook)<sup>5</sup> 
+[Alona](users/320/320700111602997-facebook)<sup>6</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>450</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>282</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thinker73](users/366/366497970-yandex)<sup>1</sup> 
 
 
-_26.09.2016 14:17:29_
+_26.09.2016 14:18:34_

@@ -1,4 +1,16 @@
 {
+    "U3Fl0XRJ5P": {
+        "id": "U3Fl0XRJ5P",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2016-09-26 14:18:34",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 6
+        }
+    },
     "7qKqT5Jpfc": {
         "id": "7qKqT5Jpfc",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 16
-        }
-    },
-    "dBPL-8e_Cr": {
-        "id": "dBPL-8e_Cr",
-        "title": "Доктор Живаго",
-        "author": "Б. И. Пастернак",
-        "notes": "",
-        "createdAt": "2016-09-25 18:04:28",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 15
         }
     }
 }
