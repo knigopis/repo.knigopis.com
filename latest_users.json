@@ -1,4 +1,10 @@
 {
+    "798202600285063-facebook": {
+        "id": "798202600285063-facebook",
+        "nickname": "Рома",
+        "booksCount": 0,
+        "updatedAt": "2016-09-26 18:32:26"
+    },
     "320700111602997-facebook": {
         "id": "320700111602997-facebook",
         "nickname": "Alona",
@@ -172,11 +178,5 @@
         "nickname": "Mari",
         "booksCount": 0,
         "updatedAt": "2016-09-18 15:00:01"
-    },
-    "366497970-yandex": {
-        "id": "366497970-yandex",
-        "nickname": "thinker73",
-        "booksCount": 1,
-        "updatedAt": "2016-09-18 14:59:46"
     }
 }
