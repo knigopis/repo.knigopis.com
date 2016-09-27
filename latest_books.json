@@ -1,4 +1,16 @@
 {
+    "8N4CFonOZz": {
+        "id": "8N4CFonOZz",
+        "title": "Мертвые души",
+        "author": "Н. В. Гоголь",
+        "notes": "",
+        "createdAt": "2016-09-27 09:21:47",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 17
+        }
+    },
     "HjhAeK2vwr": {
         "id": "HjhAeK2vwr",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 28
-        }
-    },
-    "A2ROak2_uj": {
-        "id": "A2ROak2_uj",
-        "title": "Sword Art Online. Том 1. Айнкрад",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2016-09-25 18:23:26",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 27
         }
     }
 }
