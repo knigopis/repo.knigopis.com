@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Арквейд Курапира](users/278/278072338-vkontakte)<sup>39</sup> 
+[Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>30</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>450</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 
 
-_27.09.2016 20:25:49_
+_27.09.2016 20:33:49_

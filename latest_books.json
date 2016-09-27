@@ -1,4 +1,16 @@
 {
+    "9zbHz6iCMU": {
+        "id": "9zbHz6iCMU",
+        "title": "Белый Клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2016-09-27 20:33:49",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 40
+        }
+    },
     "CPWtz2VM9a": {
         "id": "CPWtz2VM9a",
         "title": "Хоббит",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 4
-        }
-    },
-    "Zetrj_ZCiz": {
-        "id": "Zetrj_ZCiz",
-        "title": "Анжели́ка (13 томов)",
-        "author": "Анн и Сержем Голон",
-        "notes": "",
-        "createdAt": "2016-09-26 14:14:24",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 3
         }
     }
 }
