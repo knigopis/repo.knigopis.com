@@ -1,4 +1,4 @@
-# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>24</sup>
+# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>25</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 
 
 ## Other years
+
+### Тарас Бульба
+Николай Гоголь
+
 
 ### Гарри Поттер (7 Томов)
 Дж. К. Роулинг

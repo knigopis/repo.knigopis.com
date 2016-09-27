@@ -1,4 +1,16 @@
 {
+    "zbojvGYcp3": {
+        "id": "zbojvGYcp3",
+        "title": "Тарас Бульба",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2016-09-27 09:28:05",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 25
+        }
+    },
     "BRfUPgSnYh": {
         "id": "BRfUPgSnYh",
         "title": "Гарри Поттер (7 Томов)",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 36
-        }
-    },
-    "YiBUxG89Ke": {
-        "id": "YiBUxG89Ke",
-        "title": "Преступление и наказание",
-        "author": "Ф.М. Достоевский",
-        "notes": "",
-        "createdAt": "2016-09-25 18:34:58",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 35
         }
     }
 }
