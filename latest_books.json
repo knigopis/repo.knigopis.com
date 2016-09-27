@@ -1,4 +1,16 @@
 {
+    "CoRw_dxIJF": {
+        "id": "CoRw_dxIJF",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2016-09-27 09:17:44",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 11
+        }
+    },
     "Fwqq8qSoBh": {
         "id": "Fwqq8qSoBh",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 22
-        }
-    },
-    "KO0xCH0vhj": {
-        "id": "KO0xCH0vhj",
-        "title": "Академия вампиров. Охотники и жертвы",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2016-09-25 18:12:19",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 21
         }
     }
 }
