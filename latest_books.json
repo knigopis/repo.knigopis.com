@@ -1,4 +1,16 @@
 {
+    "vIHQ32GLFK": {
+        "id": "vIHQ32GLFK",
+        "title": "Кладбище мертвых животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2016-09-27 09:32:28",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 27
+        }
+    },
     "7enZrskLUx": {
         "id": "7enZrskLUx",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 38
-        }
-    },
-    "cY-JpqgKEG": {
-        "id": "cY-JpqgKEG",
-        "title": "Богатство военного атташе",
-        "author": "В.Б. Ливанов",
-        "notes": "",
-        "createdAt": "2016-09-25 18:53:28",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 37
         }
     }
 }

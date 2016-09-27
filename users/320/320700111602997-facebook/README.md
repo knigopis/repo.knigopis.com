@@ -1,4 +1,4 @@
-# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>26</sup>
+# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>27</sup>
 ---
 
 ## 2016
@@ -11,6 +11,10 @@
 ### Великий Гэтсби
 Ф. С. Фицджеральд
 > [2016-08] 
+
+
+### Кладбище мертвых животных
+Стивен Кинг
 
 
 ### 451 градус по Фаренгейту
