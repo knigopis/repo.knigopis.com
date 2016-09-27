@@ -1,4 +1,16 @@
 {
+    "15Wnpq0XNp": {
+        "id": "15Wnpq0XNp",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2016-09-27 09:36:22",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 30
+        }
+    },
     "wgqc6xLgxl": {
         "id": "wgqc6xLgxl",
         "title": "Код да Винчи",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 2
-        }
-    },
-    "szvxYJsvC4": {
-        "id": "szvxYJsvC4",
-        "title": "Мастер и Маргарита",
-        "author": "Михаила Афанасьевича Булгакова",
-        "notes": "",
-        "createdAt": "2016-09-26 14:12:10",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 1
         }
     }
 }
