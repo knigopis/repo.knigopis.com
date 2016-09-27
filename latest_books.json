@@ -1,4 +1,16 @@
 {
+    "1jGoRCdSIm": {
+        "id": "1jGoRCdSIm",
+        "title": "Мы",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2016-09-27 09:24:08",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 22
+        }
+    },
     "FdxjZN72N0": {
         "id": "FdxjZN72N0",
         "title": "Приключения Алисы в стране чудес",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 33
-        }
-    },
-    "LNEeovfAnB": {
-        "id": "LNEeovfAnB",
-        "title": "Sword Art Online. Том 6. Призрачная пуля",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2016-09-25 18:28:13",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 32
         }
     }
 }
