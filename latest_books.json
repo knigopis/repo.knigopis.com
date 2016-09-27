@@ -1,4 +1,16 @@
 {
+    "659JOIbwM1": {
+        "id": "659JOIbwM1",
+        "title": "Робинзон Крузо",
+        "author": "Даниель Дефо",
+        "notes": "",
+        "createdAt": "2016-09-27 09:22:38",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 19
+        }
+    },
     "BZFwzgy9HI": {
         "id": "BZFwzgy9HI",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 30
-        }
-    },
-    "smsH0r7YBq": {
-        "id": "smsH0r7YBq",
-        "title": "Sword Art Online. Том 3. Танец фей",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2016-09-25 18:25:33",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 29
         }
     }
 }
