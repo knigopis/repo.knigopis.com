@@ -1,4 +1,16 @@
 {
+    "1TYrm0XPKA": {
+        "id": "1TYrm0XPKA",
+        "title": "Ромео и Джульетта",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2016-09-27 09:23:12",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 20
+        }
+    },
     "659JOIbwM1": {
         "id": "659JOIbwM1",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 31
-        }
-    },
-    "t69KJ-FejK": {
-        "id": "t69KJ-FejK",
-        "title": "Sword Art Online. Том 4. Танец фей",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2016-09-25 18:26:13",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 30
         }
     }
 }
