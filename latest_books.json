@@ -1,4 +1,16 @@
 {
+    "RIslKdHpK-": {
+        "id": "RIslKdHpK-",
+        "title": "Ангелы и демоны",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2016-09-27 09:34:53",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 28
+        }
+    },
     "vIHQ32GLFK": {
         "id": "vIHQ32GLFK",
         "title": "Кладбище мертвых животных",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 450
-        }
-    },
-    "6D-3-FRD8R": {
-        "id": "6D-3-FRD8R",
-        "title": "Мой любимый клоун",
-        "author": "В.Б. Ливанов",
-        "notes": "",
-        "createdAt": "2016-09-25 18:55:18",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 38
         }
     }
 }
