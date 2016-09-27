@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Alona](users/320/320700111602997-facebook)<sup>25</sup> 
+[Alona](users/320/320700111602997-facebook)<sup>26</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>450</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 
 
-_27.09.2016 09:28:05_
+_27.09.2016 09:28:53_
