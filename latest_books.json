@@ -1,4 +1,16 @@
 {
+    "HsAf6GdY8l": {
+        "id": "HsAf6GdY8l",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остен",
+        "notes": "",
+        "createdAt": "2016-09-27 09:20:58",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 15
+        }
+    },
     "fImqQjAwNb": {
         "id": "fImqQjAwNb",
         "title": "Джен Эйр",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 26
-        }
-    },
-    "WYWjfTxpOL": {
-        "id": "WYWjfTxpOL",
-        "title": "Оковы для призрака",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2016-09-25 18:14:16",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 25
         }
     }
 }
