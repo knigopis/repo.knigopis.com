@@ -1,15 +1,15 @@
 {
+    "320700111602997-facebook": {
+        "id": "320700111602997-facebook",
+        "nickname": "Alona",
+        "booksCount": 7,
+        "updatedAt": "2016-09-27 09:07:09"
+    },
     "798202600285063-facebook": {
         "id": "798202600285063-facebook",
         "nickname": "Рома",
         "booksCount": 1,
         "updatedAt": "2016-09-26 18:33:20"
-    },
-    "320700111602997-facebook": {
-        "id": "320700111602997-facebook",
-        "nickname": "Alona",
-        "booksCount": 6,
-        "updatedAt": "2016-09-26 14:18:34"
     },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",

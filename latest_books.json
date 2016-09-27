@@ -1,4 +1,16 @@
 {
+    "pAMCICq6Bq": {
+        "id": "pAMCICq6Bq",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2016-09-27 09:07:09",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 7
+        }
+    },
     "PGtHDekCEj": {
         "id": "PGtHDekCEj",
         "title": "Космотехнолухи. Том 1",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 18
-        }
-    },
-    "kKuDz41gsn": {
-        "id": "kKuDz41gsn",
-        "title": "Граф Дракула",
-        "author": "Брем Стокер",
-        "notes": "",
-        "createdAt": "2016-09-25 18:07:24",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 17
         }
     }
 }
