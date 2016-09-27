@@ -1,4 +1,16 @@
 {
+    "HjhAeK2vwr": {
+        "id": "HjhAeK2vwr",
+        "title": "Идиот",
+        "author": "Ф. М. Достоевский",
+        "notes": "",
+        "createdAt": "2016-09-27 09:21:20",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 16
+        }
+    },
     "HsAf6GdY8l": {
         "id": "HsAf6GdY8l",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 27
-        }
-    },
-    "cdptYPU_uw": {
-        "id": "cdptYPU_uw",
-        "title": "Последняя жертва",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2016-09-25 18:14:36",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 26
         }
     }
 }
