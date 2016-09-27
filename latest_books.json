@@ -1,4 +1,16 @@
 {
+    "ZRNE69iA1j": {
+        "id": "ZRNE69iA1j",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2016-09-27 09:07:32",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 8
+        }
+    },
     "pAMCICq6Bq": {
         "id": "pAMCICq6Bq",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 19
-        }
-    },
-    "5zOWvXgjjI": {
-        "id": "5zOWvXgjjI",
-        "title": "Профессия - Ведьма",
-        "author": "О.Н. Громыко",
-        "notes": "",
-        "createdAt": "2016-09-25 18:09:01",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 18
         }
     }
 }
