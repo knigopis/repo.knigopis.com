@@ -1,4 +1,16 @@
 {
+    "BZFwzgy9HI": {
+        "id": "BZFwzgy9HI",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2016-09-27 09:22:12",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 18
+        }
+    },
     "8N4CFonOZz": {
         "id": "8N4CFonOZz",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 29
-        }
-    },
-    "GvLelA0E0z": {
-        "id": "GvLelA0E0z",
-        "title": "Sword Art Online. Том 2. Айнкрад",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2016-09-25 18:24:43",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 28
         }
     }
 }
