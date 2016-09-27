@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Арквейд Курапира](users/278/278072338-vkontakte)<sup>39</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>30</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>450</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>282</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
-[Арквейд Курапира](users/278/278072338-vkontakte)<sup>38</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 [milkyway56](users/170/170115130-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 
 
-_27.09.2016 09:36:22_
+_27.09.2016 20:25:49_

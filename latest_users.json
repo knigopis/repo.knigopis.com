@@ -1,4 +1,10 @@
 {
+    "278072338-vkontakte": {
+        "id": "278072338-vkontakte",
+        "nickname": "Арквейд Курапира",
+        "booksCount": 39,
+        "updatedAt": "2016-09-27 20:25:49"
+    },
     "320700111602997-facebook": {
         "id": "320700111602997-facebook",
         "nickname": "Alona",
@@ -34,12 +40,6 @@
         "nickname": "Lela papava",
         "booksCount": 0,
         "updatedAt": "2016-09-25 20:50:33"
-    },
-    "278072338-vkontakte": {
-        "id": "278072338-vkontakte",
-        "nickname": "Арквейд Курапира",
-        "booksCount": 38,
-        "updatedAt": "2016-09-25 18:55:18"
     },
     "112366191289808901180-google": {
         "id": "112366191289808901180-google",

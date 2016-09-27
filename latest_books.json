@@ -1,4 +1,16 @@
 {
+    "CPWtz2VM9a": {
+        "id": "CPWtz2VM9a",
+        "title": "Хоббит",
+        "author": "Джон Р.Р. Толкин",
+        "notes": "",
+        "createdAt": "2016-09-27 20:25:49",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 39
+        }
+    },
     "15Wnpq0XNp": {
         "id": "15Wnpq0XNp",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 3
-        }
-    },
-    "QFYMpv6add": {
-        "id": "QFYMpv6add",
-        "title": "Война́ и мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2016-09-26 14:12:53",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 2
         }
     }
 }
