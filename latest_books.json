@@ -1,4 +1,16 @@
 {
+    "fImqQjAwNb": {
+        "id": "fImqQjAwNb",
+        "title": "Джен Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2016-09-27 09:20:19",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 14
+        }
+    },
     "dSfVc5HpE_": {
         "id": "dSfVc5HpE_",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 25
-        }
-    },
-    "YNICcSgn_c": {
-        "id": "YNICcSgn_c",
-        "title": "Кровавые обещания",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2016-09-25 18:13:45",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 24
         }
     }
 }
