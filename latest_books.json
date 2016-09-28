@@ -1,4 +1,16 @@
 {
+    "cpnQwg_5JA": {
+        "id": "cpnQwg_5JA",
+        "title": "Черный красавчик",
+        "author": "Анна Сьюэлл",
+        "notes": "",
+        "createdAt": "2016-09-28 12:01:03",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 79
+        }
+    },
     "9zbHz6iCMU": {
         "id": "9zbHz6iCMU",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 5
-        }
-    },
-    "W580cPcxy8": {
-        "id": "W580cPcxy8",
-        "title": "Фламандский секрет",
-        "author": "Федерико Андахази",
-        "notes": "",
-        "createdAt": "2016-09-26 14:15:06",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 4
         }
     }
 }

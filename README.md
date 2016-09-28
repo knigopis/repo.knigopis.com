@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>30</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [cool.ya-liskovs2014](users/205/205137113-yandex)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>2</sup> 
 [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>78</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
 [y_malina](users/308/308397510-twitter)<sup>1</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>4</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mari](users/107/107275390357075610416-google)<sup>0</sup> 
 
 
-_27.09.2016 20:33:49_
+_28.09.2016 12:01:03_

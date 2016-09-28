@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 79,
+        "updatedAt": "2016-09-28 12:01:03"
+    },
     "278072338-vkontakte": {
         "id": "278072338-vkontakte",
         "nickname": "Арквейд Курапира",
@@ -94,12 +100,6 @@
         "nickname": "nv.bogoyavlensky",
         "booksCount": 8,
         "updatedAt": "2016-09-23 15:38:52"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 78,
-        "updatedAt": "2016-09-23 13:12:03"
     },
     "896921380399139-facebook": {
         "id": "896921380399139-facebook",
