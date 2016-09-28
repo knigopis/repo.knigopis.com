@@ -1,4 +1,16 @@
 {
+    "19GPwx7s_z": {
+        "id": "19GPwx7s_z",
+        "title": "Покоління ящірці",
+        "author": "Любко Дереш",
+        "notes": "",
+        "createdAt": "2016-09-28 21:10:05",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 35
+        }
+    },
     "h5EwLv26AH": {
         "id": "h5EwLv26AH",
         "title": "Игра престолов",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 12
-        }
-    },
-    "CoRw_dxIJF": {
-        "id": "CoRw_dxIJF",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2016-09-27 09:17:44",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 11
         }
     }
 }
