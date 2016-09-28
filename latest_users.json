@@ -1,4 +1,10 @@
 {
+    "117124011531379579265-google": {
+        "id": "117124011531379579265-google",
+        "nickname": "pimanocci",
+        "booksCount": 7,
+        "updatedAt": "2016-09-28 13:43:17"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "milain",
         "booksCount": 0,
         "updatedAt": "2016-09-19 14:21:37"
-    },
-    "107275390357075610416-google": {
-        "id": "107275390357075610416-google",
-        "nickname": "Mari",
-        "booksCount": 0,
-        "updatedAt": "2016-09-18 15:00:01"
     }
 }

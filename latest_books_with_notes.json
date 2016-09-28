@@ -1,4 +1,16 @@
 {
+    "tDlDd47m-K": {
+        "id": "tDlDd47m-K",
+        "title": "Игрок",
+        "author": "Иэн Бэнкс",
+        "notes": "Вторая книга из серии о Культуре.",
+        "createdAt": "2016-09-28 13:43:17",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 7
+        }
+    },
     "XdtNXWKGMn": {
         "id": "XdtNXWKGMn",
         "title": "Прощай, оружие!",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 9
-        }
-    },
-    "KX3VSN2AzI": {
-        "id": "KX3VSN2AzI",
-        "title": "Атаман Ермак и сотоварищи",
-        "author": "Борис Алмазов",
-        "notes": "Февраль 1570 после разгрома Иваном Грозным Новгорода и Пскова.Сошли от царя на Дон люди в Феврале.Поскольку были в розыске то и называтся стали на Дону-Февралёвы.",
-        "createdAt": "2016-08-21 10:52:39",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 12
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игрок ~ [pimanocci](users/117/117124011531379579265-google)<sup>7</sup>
 * Прощай, оружие! ~ [shirko.elena](users/100/100001858801764-facebook)<sup>6</sup>
 * Наблюдая за англичанами. Скрытые правила поведения ~ [Беска](users/157/1577468-vkontakte)<sup>2</sup>
 * Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Казаки против Наполеона.От Дона до Парижа ~ [mfevralev](users/140/140966150-vkontakte)<sup>11</sup>
 * Хроники Сиалы ~ [Tr](users/122/12282474-vkontakte)<sup>9</sup>
-* Атаман Ермак и сотоварищи ~ [mfevralev](users/140/140966150-vkontakte)<sup>12</sup>
 
 
-_24.09.2016 22:36:21_
+_28.09.2016 13:43:17_
