@@ -1,4 +1,16 @@
 {
+    "-omLaMJS1f": {
+        "id": "-omLaMJS1f",
+        "title": "«Ревизор»",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2016-09-28 14:38:21",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 33
+        }
+    },
     "gdPNnO-3Xe": {
         "id": "gdPNnO-3Xe",
         "title": "«Алхи́мик»",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 9
-        }
-    },
-    "ZRNE69iA1j": {
-        "id": "ZRNE69iA1j",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2016-09-27 09:07:32",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 8
         }
     }
 }
