@@ -1,4 +1,16 @@
 {
+    "_xsMiK3W6i": {
+        "id": "_xsMiK3W6i",
+        "title": "Роза и Червь",
+        "author": "Роберт Ибатуллин",
+        "notes": "",
+        "createdAt": "2016-09-28 13:44:16",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 8
+        }
+    },
     "tDlDd47m-K": {
         "id": "tDlDd47m-K",
         "title": "Игрок",
@@ -345,18 +357,6 @@
             "id": "798202600285063-facebook",
             "nickname": "Рома",
             "booksCount": 1
-        }
-    },
-    "U3Fl0XRJ5P": {
-        "id": "U3Fl0XRJ5P",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2016-09-26 14:18:34",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 6
         }
     }
 }

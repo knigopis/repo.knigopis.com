@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pimanocci](users/117/117124011531379579265-google)<sup>7</sup> 
+[pimanocci](users/117/117124011531379579265-google)<sup>8</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>30</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [milain](users/121/12149839-vkontakte)<sup>0</sup> 
 
 
-_28.09.2016 13:43:17_
+_28.09.2016 13:44:16_
