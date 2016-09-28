@@ -1,4 +1,16 @@
 {
+    "dS-MObF2Ck": {
+        "id": "dS-MObF2Ck",
+        "title": "«Стив Джобс. Биография»",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2016-09-28 14:31:37",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 31
+        }
+    },
     "_xsMiK3W6i": {
         "id": "_xsMiK3W6i",
         "title": "Роза и Червь",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 7
-        }
-    },
-    "PGtHDekCEj": {
-        "id": "PGtHDekCEj",
-        "title": "Космотехнолухи. Том 1",
-        "author": "Громико Ольга",
-        "notes": "",
-        "createdAt": "2016-09-26 18:33:20",
-        "user": {
-            "id": "798202600285063-facebook",
-            "nickname": "Рома",
-            "booksCount": 1
         }
     }
 }

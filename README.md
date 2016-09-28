@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alona](users/320/320700111602997-facebook)<sup>31</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>8</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>30</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>450</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [milain](users/121/12149839-vkontakte)<sup>0</sup> 
 
 
-_28.09.2016 13:44:16_
+_28.09.2016 14:31:37_

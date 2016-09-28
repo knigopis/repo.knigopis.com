@@ -1,4 +1,10 @@
 {
+    "320700111602997-facebook": {
+        "id": "320700111602997-facebook",
+        "nickname": "Alona",
+        "booksCount": 31,
+        "updatedAt": "2016-09-28 14:31:37"
+    },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",
         "nickname": "pimanocci",
@@ -16,12 +22,6 @@
         "nickname": "Арквейд Курапира",
         "booksCount": 40,
         "updatedAt": "2016-09-27 20:33:49"
-    },
-    "320700111602997-facebook": {
-        "id": "320700111602997-facebook",
-        "nickname": "Alona",
-        "booksCount": 30,
-        "updatedAt": "2016-09-27 09:36:22"
     },
     "798202600285063-facebook": {
         "id": "798202600285063-facebook",
