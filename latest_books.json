@@ -1,4 +1,16 @@
 {
+    "EfELf-axfu": {
+        "id": "EfELf-axfu",
+        "title": "Таинственный остров",
+        "author": "Жуль Верн",
+        "notes": "",
+        "createdAt": "2016-09-29 23:43:48",
+        "user": {
+            "id": "108020284314426829678-google",
+            "nickname": "Faraday",
+            "booksCount": 1
+        }
+    },
     "19GPwx7s_z": {
         "id": "19GPwx7s_z",
         "title": "Покоління ящірці",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 13
-        }
-    },
-    "LwwmWbeAdF": {
-        "id": "LwwmWbeAdF",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2016-09-27 09:18:20",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 12
         }
     }
 }
