@@ -1,4 +1,10 @@
 {
+    "108020284314426829678-google": {
+        "id": "108020284314426829678-google",
+        "nickname": "Афк",
+        "booksCount": 0,
+        "updatedAt": "2016-09-29 23:41:57"
+    },
     "278072338-vkontakte": {
         "id": "278072338-vkontakte",
         "nickname": "Арквейд Курапира",
@@ -172,11 +178,5 @@
         "nickname": "cryfromdaheart",
         "booksCount": 0,
         "updatedAt": "2016-09-19 17:09:56"
-    },
-    "12149839-vkontakte": {
-        "id": "12149839-vkontakte",
-        "nickname": "milain",
-        "booksCount": 0,
-        "updatedAt": "2016-09-19 14:21:37"
     }
 }
