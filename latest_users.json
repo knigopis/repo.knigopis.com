@@ -1,4 +1,10 @@
 {
+    "17607331280625977789-mailru": {
+        "id": "17607331280625977789-mailru",
+        "nickname": "Юлия Никонова",
+        "booksCount": 0,
+        "updatedAt": "2016-09-30 09:36:57"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "YourHighessEva",
         "booksCount": 0,
         "updatedAt": "2016-09-19 17:12:15"
-    },
-    "771096980063936512-twitter": {
-        "id": "771096980063936512-twitter",
-        "nickname": "cryfromdaheart",
-        "booksCount": 0,
-        "updatedAt": "2016-09-19 17:09:56"
     }
 }
