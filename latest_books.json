@@ -1,4 +1,16 @@
 {
+    "4GoLSf5ZKs": {
+        "id": "4GoLSf5ZKs",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2016-09-30 09:38:23",
+        "user": {
+            "id": "17607331280625977789-mailru",
+            "nickname": "Юлия Никонова",
+            "booksCount": 1
+        }
+    },
     "pXMIZSb2PR": {
         "id": "pXMIZSb2PR",
         "title": "Последний герой",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 15
-        }
-    },
-    "fImqQjAwNb": {
-        "id": "fImqQjAwNb",
-        "title": "Джен Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2016-09-27 09:20:19",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 14
         }
     }
 }
