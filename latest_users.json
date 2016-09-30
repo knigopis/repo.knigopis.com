@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 3,
+        "updatedAt": "2016-09-30 13:02:14"
+    },
     "17607331280625977789-mailru": {
         "id": "17607331280625977789-mailru",
         "nickname": "Юлия Никонова",
@@ -112,12 +118,6 @@
         "nickname": "cool.ya-liskovs2014",
         "booksCount": 0,
         "updatedAt": "2016-09-24 16:29:41"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 2,
-        "updatedAt": "2016-09-24 08:48:36"
     },
     "2193824-vkontakte": {
         "id": "2193824-vkontakte",

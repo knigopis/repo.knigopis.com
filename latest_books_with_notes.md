@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мальчик, который упал на Землю ~ [Беска](users/157/1577468-vkontakte)<sup>3</sup>
 * Последний герой ~ [rNix](users/115/115622071-twitter)<sup>45</sup>
 * Игрок ~ [pimanocci](users/117/117124011531379579265-google)<sup>7</sup>
 * Прощай, оружие! ~ [shirko.elena](users/100/100001858801764-facebook)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Начала ФУНДАМЕНТАЛЬНОЙ ЭКОНОМИКИ ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>74</sup>
 * Путешествие из Петербурга в Москву ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>73</sup>
 * Серия книг о Ринсвинде (от Цвет волшебства до Последний континент) ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
-* Казаки против Наполеона.От Дона до Парижа ~ [mfevralev](users/140/140966150-vkontakte)<sup>11</sup>
 
 
-_30.09.2016 03:53:49_
+_30.09.2016 13:02:14_
