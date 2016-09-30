@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Юлия Никонова](users/176/17607331280625977789-mailru)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>45</sup> 
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>133</sup> 
 [PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
 [YourHighessEva](users/308/308983562-twitter)<sup>0</sup> 
-[cryfromdaheart](users/771/771096980063936512-twitter)<sup>0</sup> 
 
 
-_30.09.2016 03:53:49_
+_30.09.2016 09:36:59_
