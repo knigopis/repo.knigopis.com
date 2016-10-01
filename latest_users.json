@@ -1,4 +1,10 @@
 {
+    "108107916628702171952-google": {
+        "id": "108107916628702171952-google",
+        "nickname": "Tianna",
+        "booksCount": 0,
+        "updatedAt": "2016-10-01 16:53:12"
+    },
     "803172-yandex": {
         "id": "803172-yandex",
         "nickname": "xbr",
@@ -172,11 +178,5 @@
         "nickname": "Cragle",
         "booksCount": 0,
         "updatedAt": "2016-09-20 14:26:24"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 133,
-        "updatedAt": "2016-09-20 07:37:34"
     }
 }
