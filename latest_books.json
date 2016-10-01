@@ -1,4 +1,16 @@
 {
+    "hilHxa5wck": {
+        "id": "hilHxa5wck",
+        "title": "Варкрафт",
+        "author": "Кристи Голден",
+        "notes": "",
+        "createdAt": "2016-10-01 16:56:31",
+        "user": {
+            "id": "108107916628702171952-google",
+            "nickname": "Tianna",
+            "booksCount": 4
+        }
+    },
     "6NTq-tKDpj": {
         "id": "6NTq-tKDpj",
         "title": "Мёртвый след. Последний вояж Лузитании",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 22
-        }
-    },
-    "FdxjZN72N0": {
-        "id": "FdxjZN72N0",
-        "title": "Приключения Алисы в стране чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2016-09-27 09:23:39",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 21
         }
     }
 }
