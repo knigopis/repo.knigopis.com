@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xbr](users/803/803172-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>451</sup> 
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>71</sup> 
 [Cragle](users/100/100003266919869-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>133</sup> 
-[PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
 
 
-_01.10.2016 09:24:12_
+_01.10.2016 13:39:53_
