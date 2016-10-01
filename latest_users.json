@@ -1,4 +1,10 @@
 {
+    "11235393-vkontakte": {
+        "id": "11235393-vkontakte",
+        "nickname": "baltser.sergey",
+        "booksCount": 0,
+        "updatedAt": "2016-10-01 18:20:26"
+    },
     "108107916628702171952-google": {
         "id": "108107916628702171952-google",
         "nickname": "Tianna",
@@ -172,11 +178,5 @@
         "nickname": "Sofie",
         "booksCount": 71,
         "updatedAt": "2016-09-21 14:34:40"
-    },
-    "100003266919869-facebook": {
-        "id": "100003266919869-facebook",
-        "nickname": "Cragle",
-        "booksCount": 0,
-        "updatedAt": "2016-09-20 14:26:24"
     }
 }
