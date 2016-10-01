@@ -1,4 +1,4 @@
-# List of books read by [Tianna](https://plus.google.com/108107916628702171952)<sup>6</sup>
+# List of books read by [Tianna](https://plus.google.com/108107916628702171952)<sup>7</sup>
 ---
 
 ## 2016
@@ -16,6 +16,11 @@
 ### На грани катастрофы
 Артур Хейли
 > [2016-06] 
+
+
+### Город стекла
+Кассандра Клэр
+> [2016-05] 
 
 
 ### Город праха

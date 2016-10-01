@@ -1,4 +1,16 @@
 {
+    "7p9iwwTRou": {
+        "id": "7p9iwwTRou",
+        "title": "Город стекла",
+        "author": "Кассандра Клэр",
+        "notes": "",
+        "createdAt": "2016-10-01 16:58:12",
+        "user": {
+            "id": "108107916628702171952-google",
+            "nickname": "Tianna",
+            "booksCount": 7
+        }
+    },
     "K3Nw7jZRYc": {
         "id": "K3Nw7jZRYc",
         "title": "Город праха",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 25
-        }
-    },
-    "BRfUPgSnYh": {
-        "id": "BRfUPgSnYh",
-        "title": "Гарри Поттер (7 Томов)",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-09-27 09:26:15",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 24
         }
     }
 }
