@@ -1,7 +1,12 @@
-# List of books read by [Tianna](https://plus.google.com/108107916628702171952)<sup>1</sup>
+# List of books read by [Tianna](https://plus.google.com/108107916628702171952)<sup>2</sup>
 ---
 
 ## 2016
+
+### На грани катастрофы
+Артур Хейли
+> [2016-06] 
+
 
 ### Фанатка
 Рэйнбоу Рауэлл
