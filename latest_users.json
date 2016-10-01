@@ -1,4 +1,10 @@
 {
+    "803172-yandex": {
+        "id": "803172-yandex",
+        "nickname": "xbr",
+        "booksCount": 0,
+        "updatedAt": "2016-10-01 13:39:51"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 133,
         "updatedAt": "2016-09-20 07:37:34"
-    },
-    "1319711978-twitter": {
-        "id": "1319711978-twitter",
-        "nickname": "PublikHouse",
-        "booksCount": 0,
-        "updatedAt": "2016-09-19 17:18:34"
     }
 }
