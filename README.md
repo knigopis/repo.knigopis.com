@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[baldandorzhiev](users/133/13354008-vkontakte)<sup>0</sup> 
+[baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>3</sup> 
 [Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>45</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [PublikHouse](users/131/1319711978-twitter)<sup>0</sup> 
 
 
-_01.10.2016 01:37:41_
+_01.10.2016 01:38:31_

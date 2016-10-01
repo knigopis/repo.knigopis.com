@@ -1,4 +1,16 @@
 {
+    "golECXaG6N": {
+        "id": "golECXaG6N",
+        "title": "жестокий век",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-10-01 01:38:31",
+        "user": {
+            "id": "13354008-vkontakte",
+            "nickname": "baldandorzhiev",
+            "booksCount": 1
+        }
+    },
     "X-U071pe-s": {
         "id": "X-U071pe-s",
         "title": "Мальчик, который упал на Землю",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 17
-        }
-    },
-    "HjhAeK2vwr": {
-        "id": "HjhAeK2vwr",
-        "title": "Идиот",
-        "author": "Ф. М. Достоевский",
-        "notes": "",
-        "createdAt": "2016-09-27 09:21:20",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 16
         }
     }
 }
