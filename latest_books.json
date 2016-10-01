@@ -1,4 +1,16 @@
 {
+    "prQV5X5IAf": {
+        "id": "prQV5X5IAf",
+        "title": "Фанатка",
+        "author": "Рэйнбоу Рауэлл",
+        "notes": "",
+        "createdAt": "2016-10-01 16:54:00",
+        "user": {
+            "id": "108107916628702171952-google",
+            "nickname": "Tianna",
+            "booksCount": 1
+        }
+    },
     "hVR9QjNV9a": {
         "id": "hVR9QjNV9a",
         "title": "Дикие пальмы",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 19
-        }
-    },
-    "BZFwzgy9HI": {
-        "id": "BZFwzgy9HI",
-        "title": "Грозовой перевал",
-        "author": "Эмили Бронте",
-        "notes": "",
-        "createdAt": "2016-09-27 09:22:12",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 18
         }
     }
 }
