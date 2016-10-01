@@ -1,4 +1,10 @@
 {
+    "13354008-vkontakte": {
+        "id": "13354008-vkontakte",
+        "nickname": "baldandorzhiev",
+        "booksCount": 0,
+        "updatedAt": "2016-10-01 01:37:40"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "PublikHouse",
         "booksCount": 0,
         "updatedAt": "2016-09-19 17:18:34"
-    },
-    "308983562-twitter": {
-        "id": "308983562-twitter",
-        "nickname": "YourHighessEva",
-        "booksCount": 0,
-        "updatedAt": "2016-09-19 17:12:15"
     }
 }
