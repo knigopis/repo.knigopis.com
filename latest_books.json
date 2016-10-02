@@ -1,4 +1,16 @@
 {
+    "0mJraKc4Un": {
+        "id": "0mJraKc4Un",
+        "title": "Призраки",
+        "author": "Чак Паланик",
+        "notes": "9",
+        "createdAt": "2016-10-02 01:00:55",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "olyaperekatipole",
+            "booksCount": 3
+        }
+    },
     "8yECwPetEW": {
         "id": "8yECwPetEW",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 31
-        }
-    },
-    "_xsMiK3W6i": {
-        "id": "_xsMiK3W6i",
-        "title": "Роза и Червь",
-        "author": "Роберт Ибатуллин",
-        "notes": "",
-        "createdAt": "2016-09-28 13:44:16",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 8
         }
     }
 }
