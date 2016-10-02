@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>52</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>53</sup>
 ---
 
 ## 2016
@@ -244,6 +244,10 @@
 
 
 ## 1999
+
+### Собачье сердце
+М. Булгаков
+
 
 ### Мастер и Маргарита
 М. Булгаков

@@ -1,4 +1,16 @@
 {
+    "-WyzjNSJIe": {
+        "id": "-WyzjNSJIe",
+        "title": "Собачье сердце",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2016-10-02 23:03:09",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 53
+        }
+    },
     "bFaNsJsAFj": {
         "id": "bFaNsJsAFj",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 37
-        }
-    },
-    "WT7ndrPmbm": {
-        "id": "WT7ndrPmbm",
-        "title": "«То́лстая тетра́дь»",
-        "author": "Агот Кристоф",
-        "notes": "",
-        "createdAt": "2016-10-02 09:12:40",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 36
         }
     }
 }
