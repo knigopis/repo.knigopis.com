@@ -1,4 +1,16 @@
 {
+    "JMIcxiE5bR": {
+        "id": "JMIcxiE5bR",
+        "title": "Шутка",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2016-10-02 22:53:43",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 41
+        }
+    },
     "gYGPxsLGrj": {
         "id": "gYGPxsLGrj",
         "title": "Герострат",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 21
-        }
-    },
-    "_gxMI9X8YZ": {
-        "id": "_gxMI9X8YZ",
-        "title": "Пена дней",
-        "author": "Борис Виан",
-        "notes": "",
-        "createdAt": "2016-10-02 01:37:33",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 20
         }
     }
 }
