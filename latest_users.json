@@ -1,4 +1,10 @@
 {
+    "101713933759900735497-google": {
+        "id": "101713933759900735497-google",
+        "nickname": "KainL",
+        "booksCount": 0,
+        "updatedAt": "2016-10-02 12:10:18"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "Andrey",
         "booksCount": 1,
         "updatedAt": "2016-09-22 21:10:46"
-    },
-    "308397510-twitter": {
-        "id": "308397510-twitter",
-        "nickname": "y_malina",
-        "booksCount": 1,
-        "updatedAt": "2016-09-22 11:40:20"
     }
 }
