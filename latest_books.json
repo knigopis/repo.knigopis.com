@@ -1,4 +1,16 @@
 {
+    "hzdAd6tcJw": {
+        "id": "hzdAd6tcJw",
+        "title": "Евангелие от Иисуса",
+        "author": "Жозе Сарамаго",
+        "notes": "",
+        "createdAt": "2016-10-02 01:14:49",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 9
+        }
+    },
     "9EZhnCNM81": {
         "id": "9EZhnCNM81",
         "title": "11 минут",
@@ -345,18 +357,6 @@
             "id": "108020284314426829678-google",
             "nickname": "Faraday",
             "booksCount": 1
-        }
-    },
-    "19GPwx7s_z": {
-        "id": "19GPwx7s_z",
-        "title": "Покоління ящірці",
-        "author": "Любко Дереш",
-        "notes": "",
-        "createdAt": "2016-09-28 21:10:05",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 35
         }
     }
 }
