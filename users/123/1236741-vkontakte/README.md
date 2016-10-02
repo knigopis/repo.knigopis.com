@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>49</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>50</sup>
 ---
 
 ## 2016
@@ -254,6 +254,13 @@
 
 ### Алые паруса
 А. Грин
+
+
+
+## 1997
+
+### Вечера на хуторе близ Диканьки
+Н. Гоголь
 
 
 
