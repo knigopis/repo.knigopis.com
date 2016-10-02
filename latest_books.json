@@ -1,4 +1,16 @@
 {
+    "EVtln8C6UQ": {
+        "id": "EVtln8C6UQ",
+        "title": "Жюстина",
+        "author": "Маркиз де Сад",
+        "notes": "",
+        "createdAt": "2016-10-02 01:36:42",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 19
+        }
+    },
     "ncGLvmGXV3": {
         "id": "ncGLvmGXV3",
         "title": "Венера в мехах",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 5
-        }
-    },
-    "hilHxa5wck": {
-        "id": "hilHxa5wck",
-        "title": "Варкрафт",
-        "author": "Кристи Голден",
-        "notes": "",
-        "createdAt": "2016-10-01 16:56:31",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 4
         }
     }
 }
