@@ -1,4 +1,16 @@
 {
+    "GVebBhIUCX": {
+        "id": "GVebBhIUCX",
+        "title": "У всех мёртвых одинаковая кожа",
+        "author": "Борис Виан",
+        "notes": "",
+        "createdAt": "2016-10-02 22:54:25",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 42
+        }
+    },
     "JMIcxiE5bR": {
         "id": "JMIcxiE5bR",
         "title": "Шутка",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 22
-        }
-    },
-    "xuh8KAGI9K": {
-        "id": "xuh8KAGI9K",
-        "title": "Наивно. Супер",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2016-10-02 01:39:14",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 21
         }
     }
 }
