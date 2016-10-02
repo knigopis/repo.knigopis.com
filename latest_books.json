@@ -1,4 +1,16 @@
 {
+    "ncGLvmGXV3": {
+        "id": "ncGLvmGXV3",
+        "title": "Венера в мехах",
+        "author": "Леопольд фон Захер-Мазох",
+        "notes": "",
+        "createdAt": "2016-10-02 01:35:00",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 18
+        }
+    },
     "IeeonNrVIS": {
         "id": "IeeonNrVIS",
         "title": "Исповедь",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 4
-        }
-    },
-    "6NTq-tKDpj": {
-        "id": "6NTq-tKDpj",
-        "title": "Мёртвый след. Последний вояж Лузитании",
-        "author": "Эрик Ларсон",
-        "notes": "",
-        "createdAt": "2016-10-01 16:55:29",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 3
         }
     }
 }
