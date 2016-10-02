@@ -1,4 +1,16 @@
 {
+    "k4JL1aXw_N": {
+        "id": "k4JL1aXw_N",
+        "title": "Кристалл Альвандера,  Корабль Альвандера",
+        "author": "Сергей Садов",
+        "notes": "жду проду",
+        "createdAt": "2016-10-02 12:14:37",
+        "user": {
+            "id": "101713933759900735497-google",
+            "nickname": "KainL",
+            "booksCount": 1
+        }
+    },
     "Fh1KbWXJHN": {
         "id": "Fh1KbWXJHN",
         "title": "Древний. Предыстория",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "olyaperekatipole",
             "booksCount": 6
-        }
-    },
-    "2pNWswjqmQ": {
-        "id": "2pNWswjqmQ",
-        "title": "Ангел западного крыла",
-        "author": "Густав Майринк",
-        "notes": "",
-        "createdAt": "2016-10-02 01:03:24",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "olyaperekatipole",
-            "booksCount": 5
         }
     }
 }
