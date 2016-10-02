@@ -1,4 +1,10 @@
 {
+    "1236741-vkontakte": {
+        "id": "1236741-vkontakte",
+        "nickname": "olyaperekatipole",
+        "booksCount": 0,
+        "updatedAt": "2016-10-02 00:55:29"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "mamaev_kirill",
         "booksCount": 2,
         "updatedAt": "2016-09-21 17:03:23"
-    },
-    "48568611-vkontakte": {
-        "id": "48568611-vkontakte",
-        "nickname": "Sofie",
-        "booksCount": 71,
-        "updatedAt": "2016-09-21 14:34:40"
     }
 }
