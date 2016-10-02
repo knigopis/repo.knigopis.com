@@ -1,4 +1,16 @@
 {
+    "dQm64MQGiP": {
+        "id": "dQm64MQGiP",
+        "title": "Психопатология обыденной жизни",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2016-10-02 01:04:25",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "olyaperekatipole",
+            "booksCount": 6
+        }
+    },
     "2pNWswjqmQ": {
         "id": "2pNWswjqmQ",
         "title": "Ангел западного крыла",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 34
-        }
-    },
-    "-omLaMJS1f": {
-        "id": "-omLaMJS1f",
-        "title": "«Ревизор»",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2016-09-28 14:38:21",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 33
         }
     }
 }
