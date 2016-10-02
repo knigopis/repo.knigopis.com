@@ -1,4 +1,16 @@
 {
+    "xu_h80Cu-P": {
+        "id": "xu_h80Cu-P",
+        "title": "Как закалялась сталь",
+        "author": "Н.А. Островский",
+        "notes": "",
+        "createdAt": "2016-10-02 23:35:35",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 56
+        }
+    },
     "Pwm2EvOtfV": {
         "id": "Pwm2EvOtfV",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "101713933759900735497-google",
             "nickname": "KainL",
             "booksCount": 2
-        }
-    },
-    "k4JL1aXw_N": {
-        "id": "k4JL1aXw_N",
-        "title": "Кристалл Альвандера,  Корабль Альвандера",
-        "author": "Сергей Садов",
-        "notes": "жду проду",
-        "createdAt": "2016-10-02 12:14:37",
-        "user": {
-            "id": "101713933759900735497-google",
-            "nickname": "KainL",
-            "booksCount": 1
         }
     }
 }

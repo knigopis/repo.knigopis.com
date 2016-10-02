@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>55</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>56</sup>
 ---
 
 ## 2016
@@ -82,6 +82,11 @@
 
 
 ## 2014
+
+### Как закалялась сталь
+Н.А. Островский
+> [2014-11] 
+
 
 ### Евангелие от Иисуса
 Жозе Сарамаго
