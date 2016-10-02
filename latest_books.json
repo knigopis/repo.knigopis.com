@@ -1,4 +1,16 @@
 {
+    "_7j69bzWv9": {
+        "id": "_7j69bzWv9",
+        "title": "Заповедник",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2016-10-02 01:18:58",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 12
+        }
+    },
     "yGbWXc2IOV": {
         "id": "yGbWXc2IOV",
         "title": "Соло на ундервуде",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 3
-        }
-    },
-    "4GoLSf5ZKs": {
-        "id": "4GoLSf5ZKs",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "",
-        "createdAt": "2016-09-30 09:38:23",
-        "user": {
-            "id": "17607331280625977789-mailru",
-            "nickname": "Юлия Никонова",
-            "booksCount": 1
         }
     }
 }
