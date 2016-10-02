@@ -1,4 +1,16 @@
 {
+    "sY0JBsZQ4Q": {
+        "id": "sY0JBsZQ4Q",
+        "title": "У",
+        "author": "Эрленд Лу",
+        "notes": "",
+        "createdAt": "2016-10-02 01:39:34",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 22
+        }
+    },
     "xuh8KAGI9K": {
         "id": "xuh8KAGI9K",
         "title": "Наивно. Супер",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 8
-        }
-    },
-    "7p9iwwTRou": {
-        "id": "7p9iwwTRou",
-        "title": "Город стекла",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2016-10-01 16:58:12",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 7
         }
     }
 }
