@@ -1,15 +1,10 @@
-# List of books read by [olyaperekatipole](http://vk.com/id1236741)<sup>6</sup>
+# List of books read by [olyaperekatipole](http://vk.com/id1236741)<sup>5</sup>
 ---
 
 ## 2016
 
 ### Евгений Онегин
 А.С. Пушкин
-> [2016-09] 
-
-
-### "Евгений Онегин"
-А.С.Пушкин
 > [2016-09] 
 
 
