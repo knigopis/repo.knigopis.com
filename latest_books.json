@@ -1,4 +1,16 @@
 {
+    "rSk4bvvhZV": {
+        "id": "rSk4bvvhZV",
+        "title": "Остров",
+        "author": "Олдос Хаксли 2015",
+        "notes": "",
+        "createdAt": "2016-10-02 23:35:59",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 57
+        }
+    },
     "xu_h80Cu-P": {
         "id": "xu_h80Cu-P",
         "title": "Как закалялась сталь",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 37
-        }
-    },
-    "vmyclJJDy4": {
-        "id": "vmyclJJDy4",
-        "title": "Князь Вольдемар Старинов",
-        "author": "Сергей Садов",
-        "notes": "",
-        "createdAt": "2016-10-02 12:14:52",
-        "user": {
-            "id": "101713933759900735497-google",
-            "nickname": "KainL",
-            "booksCount": 2
         }
     }
 }
