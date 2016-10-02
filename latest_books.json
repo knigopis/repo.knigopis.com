@@ -1,4 +1,16 @@
 {
+    "oGyab7b_Zr": {
+        "id": "oGyab7b_Zr",
+        "title": "Волхв",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2016-10-02 02:06:14",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 28
+        }
+    },
     "77g_D4hLct": {
         "id": "77g_D4hLct",
         "title": "Код да Винчи",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "olyaperekatipole",
             "booksCount": 5
-        }
-    },
-    "cYWrWmB6pT": {
-        "id": "cYWrWmB6pT",
-        "title": "\"Евгений Онегин\"",
-        "author": "А.С.Пушкин",
-        "notes": "",
-        "createdAt": "2016-10-02 00:59:02",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "olyaperekatipole",
-            "booksCount": 4
         }
     }
 }
