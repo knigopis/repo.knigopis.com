@@ -1,4 +1,16 @@
 {
+    "X4PEzkN_6P": {
+        "id": "X4PEzkN_6P",
+        "title": "Чистовик",
+        "author": "Сергей Лукьяненко",
+        "notes": "Не дочитала",
+        "createdAt": "2016-10-02 01:32:21",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 16
+        }
+    },
     "EFIf-QLe_G": {
         "id": "EFIf-QLe_G",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 2
-        }
-    },
-    "prQV5X5IAf": {
-        "id": "prQV5X5IAf",
-        "title": "Фанатка",
-        "author": "Рэйнбоу Рауэлл",
-        "notes": "",
-        "createdAt": "2016-10-01 16:54:00",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 1
         }
     }
 }
