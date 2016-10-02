@@ -1,4 +1,16 @@
 {
+    "SC8mx2Yw31": {
+        "id": "SC8mx2Yw31",
+        "title": "",
+        "author": "Габриэль Гарсиа Маркес \"Сто лет одиночества\"",
+        "notes": "",
+        "createdAt": "2016-10-02 00:57:23",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "olyaperekatipole",
+            "booksCount": 1
+        }
+    },
     "w9ZdeXV59t": {
         "id": "w9ZdeXV59t",
         "title": "Пирушка с привидениями и другие рассказы",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 28
-        }
-    },
-    "vIHQ32GLFK": {
-        "id": "vIHQ32GLFK",
-        "title": "Кладбище мертвых животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2016-09-27 09:32:28",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 27
         }
     }
 }
