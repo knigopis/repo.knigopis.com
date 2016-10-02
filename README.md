@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alona](users/320/320700111602997-facebook)<sup>36</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>30</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>4</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>45</sup> 
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>35</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>8</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [romann](users/102/10205442182733690-facebook)<sup>4</sup> 
 
 
-_02.10.2016 08:05:32_
+_02.10.2016 09:12:40_
