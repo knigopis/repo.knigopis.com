@@ -1,4 +1,16 @@
 {
+    "EFIf-QLe_G": {
+        "id": "EFIf-QLe_G",
+        "title": "Черновик",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2016-10-02 01:31:14",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 15
+        }
+    },
     "qHCgwROs4L": {
         "id": "qHCgwROs4L",
         "title": "Ведьмы за границей",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 1
-        }
-    },
-    "hVR9QjNV9a": {
-        "id": "hVR9QjNV9a",
-        "title": "Дикие пальмы",
-        "author": "Уильям Фолкнер",
-        "notes": "",
-        "createdAt": "2016-10-01 09:24:12",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 451
         }
     }
 }
