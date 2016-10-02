@@ -1,4 +1,16 @@
 {
+    "N-kOleXPym": {
+        "id": "N-kOleXPym",
+        "title": "Стена",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2016-10-02 22:52:03",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 38
+        }
+    },
     "69iAfDPeU6": {
         "id": "69iAfDPeU6",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 18
-        }
-    },
-    "IeeonNrVIS": {
-        "id": "IeeonNrVIS",
-        "title": "Исповедь",
-        "author": "Жан Жак Руссо",
-        "notes": "Дочитать!",
-        "createdAt": "2016-10-02 01:33:11",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 17
         }
     }
 }
