@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>30</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>31</sup>
 ---
 
 ## 2016
@@ -89,6 +89,13 @@
 
 ### Венера в мехах
 Леопольд фон Захер-Мазох
+
+
+
+## 2012
+
+### Портрет Дориана Грея
+Оскар Уайльд
 
 
 

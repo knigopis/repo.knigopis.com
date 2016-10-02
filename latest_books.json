@@ -1,4 +1,16 @@
 {
+    "QD-EqNG5eY": {
+        "id": "QD-EqNG5eY",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2016-10-02 22:47:42",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 31
+        }
+    },
     "2FU4EfuNUx": {
         "id": "2FU4EfuNUx",
         "title": "Мир Спока",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 11
-        }
-    },
-    "4WxU_nJtRl": {
-        "id": "4WxU_nJtRl",
-        "title": "Компромисс",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2016-10-02 01:17:03",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 10
         }
     }
 }
