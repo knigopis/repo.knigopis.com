@@ -1,4 +1,16 @@
 {
+    "2pNWswjqmQ": {
+        "id": "2pNWswjqmQ",
+        "title": "Ангел западного крыла",
+        "author": "Густав Майринк",
+        "notes": "",
+        "createdAt": "2016-10-02 01:03:24",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "olyaperekatipole",
+            "booksCount": 5
+        }
+    },
     "Ds7PR-4uVM": {
         "id": "Ds7PR-4uVM",
         "title": "Прощальный вздох Мавра",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 33
-        }
-    },
-    "gdPNnO-3Xe": {
-        "id": "gdPNnO-3Xe",
-        "title": "«Алхи́мик»",
-        "author": "Пауло Коэльо.",
-        "notes": "",
-        "createdAt": "2016-09-28 14:32:07",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 32
         }
     }
 }
