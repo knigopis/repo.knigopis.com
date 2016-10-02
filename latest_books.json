@@ -1,4 +1,16 @@
 {
+    "AYzIzKqsTn": {
+        "id": "AYzIzKqsTn",
+        "title": "Комната",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2016-10-02 22:52:37",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 39
+        }
+    },
     "N-kOleXPym": {
         "id": "N-kOleXPym",
         "title": "Стена",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 19
-        }
-    },
-    "ncGLvmGXV3": {
-        "id": "ncGLvmGXV3",
-        "title": "Венера в мехах",
-        "author": "Леопольд фон Захер-Мазох",
-        "notes": "",
-        "createdAt": "2016-10-02 01:35:00",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 18
         }
     }
 }
