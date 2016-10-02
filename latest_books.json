@@ -1,4 +1,16 @@
 {
+    "QcJUrS8iA7": {
+        "id": "QcJUrS8iA7",
+        "title": "Generatoin \"П\"",
+        "author": "В. Пелевин",
+        "notes": "",
+        "createdAt": "2016-10-02 22:57:15",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 45
+        }
+    },
     "PkqFillSZq": {
         "id": "PkqFillSZq",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 25
-        }
-    },
-    "eQ_0GA4pAF": {
-        "id": "eQ_0GA4pAF",
-        "title": "Парфюмер. История одного убийцы",
-        "author": "Патрик Зюскинд",
-        "notes": "",
-        "createdAt": "2016-10-02 01:41:11",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 24
         }
     }
 }
