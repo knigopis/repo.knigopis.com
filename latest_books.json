@@ -1,4 +1,16 @@
 {
+    "9EZhnCNM81": {
+        "id": "9EZhnCNM81",
+        "title": "11 минут",
+        "author": "Пауло Коэлье",
+        "notes": "",
+        "createdAt": "2016-10-02 01:12:38",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 8
+        }
+    },
     "hrfXjU8HB2": {
         "id": "hrfXjU8HB2",
         "title": "Дневник одного гения",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 35
-        }
-    },
-    "h5EwLv26AH": {
-        "id": "h5EwLv26AH",
-        "title": "Игра престолов",
-        "author": "Джордж Р.Р. Мартин",
-        "notes": "",
-        "createdAt": "2016-09-28 19:43:03",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 41
         }
     }
 }
