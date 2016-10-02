@@ -1,4 +1,4 @@
-# List of books read by [olyaperekatipole](http://vk.com/id1236741)<sup>6</sup>
+# List of books read by [olyaperekatipole](http://vk.com/id1236741)<sup>7</sup>
 ---
 
 ## 2016
@@ -31,6 +31,14 @@
 ### Сто лет одиночества
 Габриэль Гарсиа Маркес
 > [2016-07] 
+
+
+
+## 2006
+
+### Дневник одного гения
+Сальвадор Дали
+> [2006-08] 
 
 
 

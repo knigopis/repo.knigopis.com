@@ -1,4 +1,16 @@
 {
+    "hrfXjU8HB2": {
+        "id": "hrfXjU8HB2",
+        "title": "Дневник одного гения",
+        "author": "Сальвадор Дали",
+        "notes": "",
+        "createdAt": "2016-10-02 01:10:16",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "olyaperekatipole",
+            "booksCount": 7
+        }
+    },
     "dQm64MQGiP": {
         "id": "dQm64MQGiP",
         "title": "Психопатология обыденной жизни",
@@ -345,18 +357,6 @@
             "id": "278072338-vkontakte",
             "nickname": "Арквейд Курапира",
             "booksCount": 41
-        }
-    },
-    "UvV2Au0cwl": {
-        "id": "UvV2Au0cwl",
-        "title": "«Трилогия о Незнайке»",
-        "author": "Николай Носов",
-        "notes": "",
-        "createdAt": "2016-09-28 14:40:10",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 34
         }
     }
 }
