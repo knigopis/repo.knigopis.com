@@ -1,4 +1,16 @@
 {
+    "sinaMr5l6m": {
+        "id": "sinaMr5l6m",
+        "title": "Шопоголик",
+        "author": "Софи Кинселла",
+        "notes": "",
+        "createdAt": "2016-10-02 14:01:16",
+        "user": {
+            "id": "785973-vkontakte",
+            "nickname": "Аленока",
+            "booksCount": 1
+        }
+    },
     "J4b4vFPg9j": {
         "id": "J4b4vFPg9j",
         "title": "\"Дивергент\"  трилогия",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 9
-        }
-    },
-    "9EZhnCNM81": {
-        "id": "9EZhnCNM81",
-        "title": "11 минут",
-        "author": "Пауло Коэлье",
-        "notes": "",
-        "createdAt": "2016-10-02 01:12:38",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 8
         }
     }
 }
