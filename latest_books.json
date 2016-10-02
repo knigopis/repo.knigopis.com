@@ -1,4 +1,16 @@
 {
+    "YHl2RKZlT5": {
+        "id": "YHl2RKZlT5",
+        "title": "Д. Сэлинджер",
+        "author": "Над пропастью во ржи",
+        "notes": "",
+        "createdAt": "2016-10-02 23:00:57",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 49
+        }
+    },
     "BqneBKAE1G": {
         "id": "BqneBKAE1G",
         "title": "Алые паруса",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 29
-        }
-    },
-    "oGyab7b_Zr": {
-        "id": "oGyab7b_Zr",
-        "title": "Волхв",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2016-10-02 02:06:14",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 28
         }
     }
 }
