@@ -1,4 +1,16 @@
 {
+    "vmyclJJDy4": {
+        "id": "vmyclJJDy4",
+        "title": "Князь Вольдемар Старинов",
+        "author": "Сергей Садов",
+        "notes": "",
+        "createdAt": "2016-10-02 12:14:52",
+        "user": {
+            "id": "101713933759900735497-google",
+            "nickname": "KainL",
+            "booksCount": 2
+        }
+    },
     "k4JL1aXw_N": {
         "id": "k4JL1aXw_N",
         "title": "Кристалл Альвандера,  Корабль Альвандера",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "olyaperekatipole",
             "booksCount": 7
-        }
-    },
-    "dQm64MQGiP": {
-        "id": "dQm64MQGiP",
-        "title": "Психопатология обыденной жизни",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2016-10-02 01:04:25",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "olyaperekatipole",
-            "booksCount": 6
         }
     }
 }

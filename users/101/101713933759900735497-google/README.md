@@ -1,7 +1,11 @@
-# List of books read by [KainL](https://plus.google.com/101713933759900735497)<sup>1</sup>
+# List of books read by [KainL](https://plus.google.com/101713933759900735497)<sup>2</sup>
 ---
 
 ## 2013
+
+### Князь Вольдемар Старинов
+Сергей Садов
+
 
 ### Кристалл Альвандера,  Корабль Альвандера
 Сергей Садов
