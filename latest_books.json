@@ -1,4 +1,16 @@
 {
+    "WFYHbm7qi8": {
+        "id": "WFYHbm7qi8",
+        "title": "Контрапункт",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2016-10-02 23:36:26",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 58
+        }
+    },
     "rSk4bvvhZV": {
         "id": "rSk4bvvhZV",
         "title": "Остров",
@@ -345,18 +357,6 @@
             "id": "785973-vkontakte",
             "nickname": "Аленока",
             "booksCount": 1
-        }
-    },
-    "J4b4vFPg9j": {
-        "id": "J4b4vFPg9j",
-        "title": "\"Дивергент\"  трилогия",
-        "author": "В. Рот",
-        "notes": "",
-        "createdAt": "2016-10-02 13:20:29",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 37
         }
     }
 }
