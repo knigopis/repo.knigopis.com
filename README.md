@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KainL](users/101/101713933759900735497-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>32</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>36</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [cool.ya-liskovs2014](users/205/205137113-yandex)<sup>0</sup> 
 [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup> 
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
-[y_malina](users/308/308397510-twitter)<sup>1</sup> 
 
 
-_02.10.2016 11:47:52_
+_02.10.2016 12:10:18_
