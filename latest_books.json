@@ -1,4 +1,16 @@
 {
+    "Xg5xVcfcTS": {
+        "id": "Xg5xVcfcTS",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2016-10-02 01:42:21",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 25
+        }
+    },
     "eQ_0GA4pAF": {
         "id": "eQ_0GA4pAF",
         "title": "Парфюмер. История одного убийцы",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "olyaperekatipole",
             "booksCount": 2
-        }
-    },
-    "SC8mx2Yw31": {
-        "id": "SC8mx2Yw31",
-        "title": "",
-        "author": "Габриэль Гарсиа Маркес \"Сто лет одиночества\"",
-        "notes": "",
-        "createdAt": "2016-10-02 00:57:23",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "olyaperekatipole",
-            "booksCount": 1
         }
     }
 }
