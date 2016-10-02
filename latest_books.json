@@ -1,4 +1,16 @@
 {
+    "-hZPEfUJDx": {
+        "id": "-hZPEfUJDx",
+        "title": "Я приду плюнуть на ваши могилы",
+        "author": "Борис Виан",
+        "notes": "",
+        "createdAt": "2016-10-02 22:55:08",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 43
+        }
+    },
     "GVebBhIUCX": {
         "id": "GVebBhIUCX",
         "title": "У всех мёртвых одинаковая кожа",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 23
-        }
-    },
-    "sY0JBsZQ4Q": {
-        "id": "sY0JBsZQ4Q",
-        "title": "У",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2016-10-02 01:39:34",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 22
         }
     }
 }
