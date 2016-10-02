@@ -1,4 +1,16 @@
 {
+    "IeeonNrVIS": {
+        "id": "IeeonNrVIS",
+        "title": "Исповедь",
+        "author": "Жан Жак Руссо",
+        "notes": "Дочитать!",
+        "createdAt": "2016-10-02 01:33:11",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 17
+        }
+    },
     "X4PEzkN_6P": {
         "id": "X4PEzkN_6P",
         "title": "Чистовик",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 3
-        }
-    },
-    "8Vs2HgX6Y0": {
-        "id": "8Vs2HgX6Y0",
-        "title": "На грани катастрофы",
-        "author": "Артур Хейли",
-        "notes": "",
-        "createdAt": "2016-10-01 16:54:34",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 2
         }
     }
 }

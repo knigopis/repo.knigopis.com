@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>16</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>17</sup>
 ---
 
 ## 2016
@@ -36,6 +36,11 @@
 ### Прощальный вздох Мавра
 Салман Рушди
 > [2016-08] 
+
+
+### Исповедь
+Жан Жак Руссо
+> [2016-07] Дочитать!
 
 
 ### Сто лет одиночества
