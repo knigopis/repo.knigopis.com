@@ -1,4 +1,4 @@
-# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>50</sup>
+# List of books read by [Olyaperekatipole](http://vk.com/id1236741)<sup>51</sup>
 ---
 
 ## 2016
@@ -258,6 +258,10 @@
 
 
 ## 1997
+
+### Приключения Тома Сойера
+Марк Твен
+
 
 ### Вечера на хуторе близ Диканьки
 Н. Гоголь
