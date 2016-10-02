@@ -1,4 +1,16 @@
 {
+    "_gxMI9X8YZ": {
+        "id": "_gxMI9X8YZ",
+        "title": "Пена дней",
+        "author": "Борис Виан",
+        "notes": "",
+        "createdAt": "2016-10-02 01:37:33",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 20
+        }
+    },
     "EVtln8C6UQ": {
         "id": "EVtln8C6UQ",
         "title": "Жюстина",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 6
-        }
-    },
-    "UN4Es-nCa4": {
-        "id": "UN4Es-nCa4",
-        "title": "Посейдон",
-        "author": "Пол Галлико",
-        "notes": "",
-        "createdAt": "2016-10-01 16:57:15",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 5
         }
     }
 }
