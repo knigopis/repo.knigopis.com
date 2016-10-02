@@ -1,4 +1,16 @@
 {
+    "gYGPxsLGrj": {
+        "id": "gYGPxsLGrj",
+        "title": "Герострат",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2016-10-02 22:53:04",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 40
+        }
+    },
     "AYzIzKqsTn": {
         "id": "AYzIzKqsTn",
         "title": "Комната",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 20
-        }
-    },
-    "EVtln8C6UQ": {
-        "id": "EVtln8C6UQ",
-        "title": "Жюстина",
-        "author": "Маркиз де Сад",
-        "notes": "",
-        "createdAt": "2016-10-02 01:36:42",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 19
         }
     }
 }
