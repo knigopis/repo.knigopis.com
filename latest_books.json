@@ -1,4 +1,16 @@
 {
+    "J4b4vFPg9j": {
+        "id": "J4b4vFPg9j",
+        "title": "\"Дивергент\"  трилогия",
+        "author": "В. Рот",
+        "notes": "",
+        "createdAt": "2016-10-02 13:20:29",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 37
+        }
+    },
     "vmyclJJDy4": {
         "id": "vmyclJJDy4",
         "title": "Князь Вольдемар Старинов",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 8
-        }
-    },
-    "hrfXjU8HB2": {
-        "id": "hrfXjU8HB2",
-        "title": "Дневник одного гения",
-        "author": "Сальвадор Дали",
-        "notes": "",
-        "createdAt": "2016-10-02 01:10:16",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "olyaperekatipole",
-            "booksCount": 7
         }
     }
 }

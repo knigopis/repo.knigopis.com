@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alona](users/320/320700111602997-facebook)<sup>37</sup> 
 [KainL](users/101/101713933759900735497-google)<sup>2</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>32</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>36</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>30</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andrey](users/896/896921380399139-facebook)<sup>1</sup> 
 
 
-_02.10.2016 12:14:52_
+_02.10.2016 13:20:29_
