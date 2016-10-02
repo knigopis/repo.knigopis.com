@@ -1,4 +1,16 @@
 {
+    "y6g30OwpJp": {
+        "id": "y6g30OwpJp",
+        "title": "Двадцать тысяч лье под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2016-10-02 23:03:39",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 54
+        }
+    },
     "-WyzjNSJIe": {
         "id": "-WyzjNSJIe",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 32
-        }
-    },
-    "VqTwLcJlUA": {
-        "id": "VqTwLcJlUA",
-        "title": "«То́лстая тетра́дь»",
-        "author": "Агот Кристоф",
-        "notes": "",
-        "createdAt": "2016-10-02 09:12:52",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 37
         }
     }
 }
