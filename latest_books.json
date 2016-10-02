@@ -1,4 +1,16 @@
 {
+    "xuh8KAGI9K": {
+        "id": "xuh8KAGI9K",
+        "title": "Наивно. Супер",
+        "author": "Эрленд Лу",
+        "notes": "",
+        "createdAt": "2016-10-02 01:39:14",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 21
+        }
+    },
     "_gxMI9X8YZ": {
         "id": "_gxMI9X8YZ",
         "title": "Пена дней",
@@ -345,18 +357,6 @@
             "id": "108107916628702171952-google",
             "nickname": "Tianna",
             "booksCount": 7
-        }
-    },
-    "K3Nw7jZRYc": {
-        "id": "K3Nw7jZRYc",
-        "title": "Город праха",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2016-10-01 16:58:01",
-        "user": {
-            "id": "108107916628702171952-google",
-            "nickname": "Tianna",
-            "booksCount": 6
         }
     }
 }
