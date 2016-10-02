@@ -1,4 +1,16 @@
 {
+    "69iAfDPeU6": {
+        "id": "69iAfDPeU6",
+        "title": "Затерянный мир",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2016-10-02 22:51:29",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 37
+        }
+    },
     "kJMpRwaimS": {
         "id": "kJMpRwaimS",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 17
-        }
-    },
-    "X4PEzkN_6P": {
-        "id": "X4PEzkN_6P",
-        "title": "Чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "Не дочитала",
-        "createdAt": "2016-10-02 01:32:21",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 16
         }
     }
 }
