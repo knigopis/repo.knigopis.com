@@ -1,4 +1,16 @@
 {
+    "kJMpRwaimS": {
+        "id": "kJMpRwaimS",
+        "title": "Великий Гэтсби",
+        "author": "Ф.С. Фицджеральд",
+        "notes": "",
+        "createdAt": "2016-10-02 22:50:58",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 36
+        }
+    },
     "b8dRxRdebk": {
         "id": "b8dRxRdebk",
         "title": "Ночь нежна",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 16
-        }
-    },
-    "EFIf-QLe_G": {
-        "id": "EFIf-QLe_G",
-        "title": "Черновик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2016-10-02 01:31:14",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 15
         }
     }
 }
