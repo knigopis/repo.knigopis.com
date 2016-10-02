@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[olyaperekatipole](users/123/1236741-vkontakte)<sup>8</sup> 
+[olyaperekatipole](users/123/1236741-vkontakte)<sup>7</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>4</sup> 
 [baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mamaev_kirill](users/189/18936412-vkontakte)<sup>2</sup> 
 
 
-_02.10.2016 00:59:24_
+_02.10.2016 00:59:35_
