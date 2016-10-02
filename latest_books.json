@@ -1,4 +1,16 @@
 {
+    "2FU4EfuNUx": {
+        "id": "2FU4EfuNUx",
+        "title": "Мир Спока",
+        "author": "Диана Дуэйн",
+        "notes": "",
+        "createdAt": "2016-10-02 14:15:20",
+        "user": {
+            "id": "56228374-vkontakte",
+            "nickname": "InaryD",
+            "booksCount": 35
+        }
+    },
     "sinaMr5l6m": {
         "id": "sinaMr5l6m",
         "title": "Шопоголик",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 10
-        }
-    },
-    "hzdAd6tcJw": {
-        "id": "hzdAd6tcJw",
-        "title": "Евангелие от Иисуса",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2016-10-02 01:14:49",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 9
         }
     }
 }
