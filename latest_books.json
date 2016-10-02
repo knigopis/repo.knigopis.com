@@ -1,4 +1,16 @@
 {
+    "p4mBIT4qxq": {
+        "id": "p4mBIT4qxq",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2016-10-02 22:48:29",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 32
+        }
+    },
     "QD-EqNG5eY": {
         "id": "QD-EqNG5eY",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 12
-        }
-    },
-    "yGbWXc2IOV": {
-        "id": "yGbWXc2IOV",
-        "title": "Соло на ундервуде",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2016-10-02 01:18:04",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 11
         }
     }
 }
