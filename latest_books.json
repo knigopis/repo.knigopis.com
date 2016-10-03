@@ -1,4 +1,16 @@
 {
+    "XF1tp5YU-U": {
+        "id": "XF1tp5YU-U",
+        "title": "Маэстро",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:18:48",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 289
+        }
+    },
     "mura0ytr2O": {
         "id": "mura0ytr2O",
         "title": "Архимаг",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 43
-        }
-    },
-    "GVebBhIUCX": {
-        "id": "GVebBhIUCX",
-        "title": "У всех мёртвых одинаковая кожа",
-        "author": "Борис Виан",
-        "notes": "",
-        "createdAt": "2016-10-02 22:54:25",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 42
         }
     }
 }
