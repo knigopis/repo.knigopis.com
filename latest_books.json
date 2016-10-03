@@ -1,4 +1,16 @@
 {
+    "mura0ytr2O": {
+        "id": "mura0ytr2O",
+        "title": "Архимаг",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:17:59",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 288
+        }
+    },
     "i8kmpyjsFT": {
         "id": "i8kmpyjsFT",
         "title": "Месть железного дворфа",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 42
-        }
-    },
-    "JMIcxiE5bR": {
-        "id": "JMIcxiE5bR",
-        "title": "Шутка",
-        "author": "Милан Кундера",
-        "notes": "",
-        "createdAt": "2016-10-02 22:53:43",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 41
         }
     }
 }
