@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 46,
+        "updatedAt": "2016-10-03 03:24:56"
+    },
     "1236741-vkontakte": {
         "id": "1236741-vkontakte",
         "nickname": "Olyaperekatipole",
@@ -82,12 +88,6 @@
         "nickname": "Юлия Никонова",
         "booksCount": 1,
         "updatedAt": "2016-09-30 09:38:23"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 45,
-        "updatedAt": "2016-09-30 03:53:49"
     },
     "108020284314426829678-google": {
         "id": "108020284314426829678-google",
