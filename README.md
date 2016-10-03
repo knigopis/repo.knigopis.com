@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Виктория](users/308/30838259-vkontakte)<sup>2</sup> 
+[Виктория](users/308/30838259-vkontakte)<sup>1</sup> 
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>39</sup> 
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shirko.elena](users/100/100001858801764-facebook)<sup>6</sup> 
 
 
-_03.10.2016 16:11:37_
+_03.10.2016 16:11:42_
