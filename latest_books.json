@@ -1,4 +1,16 @@
 {
+    "SaYASjR4CG": {
+        "id": "SaYASjR4CG",
+        "title": "Олеся",
+        "author": "Куприн",
+        "notes": "",
+        "createdAt": "2016-10-03 16:11:16",
+        "user": {
+            "id": "30838259-vkontakte",
+            "nickname": "Виктория",
+            "booksCount": 3
+        }
+    },
     "w5renImvQc": {
         "id": "w5renImvQc",
         "title": "Мадам Бовари",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 36
-        }
-    },
-    "b8dRxRdebk": {
-        "id": "b8dRxRdebk",
-        "title": "Ночь нежна",
-        "author": "Ф.С. Фицджеральд",
-        "notes": "",
-        "createdAt": "2016-10-02 22:50:30",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 35
         }
     }
 }
