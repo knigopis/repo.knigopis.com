@@ -1,4 +1,16 @@
 {
+    "BUXFVbXWgL": {
+        "id": "BUXFVbXWgL",
+        "title": "«Третья ложь»",
+        "author": "Агот Кристоф",
+        "notes": "",
+        "createdAt": "2016-10-03 05:49:45",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 39
+        }
+    },
     "JHShVBiaKC": {
         "id": "JHShVBiaKC",
         "title": "«Доказательство»",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 32
-        }
-    },
-    "QD-EqNG5eY": {
-        "id": "QD-EqNG5eY",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2016-10-02 22:47:42",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 31
         }
     }
 }
