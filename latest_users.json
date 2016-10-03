@@ -1,4 +1,10 @@
 {
+    "320700111602997-facebook": {
+        "id": "320700111602997-facebook",
+        "nickname": "Alona",
+        "booksCount": 38,
+        "updatedAt": "2016-10-03 05:49:11"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -22,12 +28,6 @@
         "nickname": "Аленока",
         "booksCount": 1,
         "updatedAt": "2016-10-02 14:01:16"
-    },
-    "320700111602997-facebook": {
-        "id": "320700111602997-facebook",
-        "nickname": "Alona",
-        "booksCount": 37,
-        "updatedAt": "2016-10-02 13:20:29"
     },
     "101713933759900735497-google": {
         "id": "101713933759900735497-google",

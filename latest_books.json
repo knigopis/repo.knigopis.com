@@ -1,4 +1,16 @@
 {
+    "JHShVBiaKC": {
+        "id": "JHShVBiaKC",
+        "title": "«Доказательство»",
+        "author": "Агот Кристоф",
+        "notes": "",
+        "createdAt": "2016-10-03 05:49:11",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 38
+        }
+    },
     "h14Ulsw_QU": {
         "id": "h14Ulsw_QU",
         "title": "Некрещеный поп",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 31
-        }
-    },
-    "2FU4EfuNUx": {
-        "id": "2FU4EfuNUx",
-        "title": "Мир Спока",
-        "author": "Диана Дуэйн",
-        "notes": "",
-        "createdAt": "2016-10-02 14:15:20",
-        "user": {
-            "id": "56228374-vkontakte",
-            "nickname": "InaryD",
-            "booksCount": 35
         }
     }
 }
