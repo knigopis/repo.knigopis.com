@@ -1,4 +1,10 @@
 {
+    "30838259-vkontakte": {
+        "id": "30838259-vkontakte",
+        "nickname": "Виктория",
+        "booksCount": 1,
+        "updatedAt": "2016-10-03 16:10:50"
+    },
     "113791616-vkontakte": {
         "id": "113791616-vkontakte",
         "nickname": "Vasja930403",
@@ -172,11 +178,5 @@
         "nickname": "shirko.elena",
         "booksCount": 6,
         "updatedAt": "2016-09-24 22:36:21"
-    },
-    "1468945706465629-facebook": {
-        "id": "1468945706465629-facebook",
-        "nickname": "ryoriksalnikova",
-        "booksCount": 2,
-        "updatedAt": "2016-09-24 21:27:11"
     }
 }
