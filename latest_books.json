@@ -1,4 +1,16 @@
 {
+    "i8kmpyjsFT": {
+        "id": "i8kmpyjsFT",
+        "title": "Месть железного дворфа",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:17:26",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 287
+        }
+    },
     "TZQyb4PbOj": {
         "id": "TZQyb4PbOj",
         "title": "Восстание короля",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 41
-        }
-    },
-    "gYGPxsLGrj": {
-        "id": "gYGPxsLGrj",
-        "title": "Герострат",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2016-10-02 22:53:04",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 40
         }
     }
 }
