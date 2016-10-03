@@ -1,4 +1,16 @@
 {
+    "TZQyb4PbOj": {
+        "id": "TZQyb4PbOj",
+        "title": "Восстание короля",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:16:59",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 286
+        }
+    },
     "8BiStBYzNW": {
         "id": "8BiStBYzNW",
         "title": "Ночь охотника",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 40
-        }
-    },
-    "AYzIzKqsTn": {
-        "id": "AYzIzKqsTn",
-        "title": "Комната",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2016-10-02 22:52:37",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 39
         }
     }
 }
