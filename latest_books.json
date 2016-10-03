@@ -1,4 +1,16 @@
 {
+    "KssqHBxafY": {
+        "id": "KssqHBxafY",
+        "title": "Тестовая книга",
+        "author": "Тестовый пользователь",
+        "notes": "",
+        "createdAt": "2016-10-03 12:28:26",
+        "user": {
+            "id": "113791616-vkontakte",
+            "nickname": "Vasja930403",
+            "booksCount": 1
+        }
+    },
     "BUXFVbXWgL": {
         "id": "BUXFVbXWgL",
         "title": "«Третья ложь»",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 33
-        }
-    },
-    "p4mBIT4qxq": {
-        "id": "p4mBIT4qxq",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2016-10-02 22:48:29",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 32
         }
     }
 }

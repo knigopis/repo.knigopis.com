@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vasja930403](users/113/113791616-vkontakte)<sup>0</sup> 
+[Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>39</sup> 
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ryoriksalnikova](users/146/1468945706465629-facebook)<sup>2</sup> 
 
 
-_03.10.2016 12:27:47_
+_03.10.2016 12:28:26_
