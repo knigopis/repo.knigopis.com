@@ -1,4 +1,16 @@
 {
+    "8BiStBYzNW": {
+        "id": "8BiStBYzNW",
+        "title": "Ночь охотника",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:16:25",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 285
+        }
+    },
     "YwslayU7M_": {
         "id": "YwslayU7M_",
         "title": "Компаньоны",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 39
-        }
-    },
-    "N-kOleXPym": {
-        "id": "N-kOleXPym",
-        "title": "Стена",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2016-10-02 22:52:03",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 38
         }
     }
 }
