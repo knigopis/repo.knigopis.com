@@ -1,4 +1,16 @@
 {
+    "yzPbSA7dUe": {
+        "id": "yzPbSA7dUe",
+        "title": "Палач",
+        "author": "Виктория Крэйн",
+        "notes": "",
+        "createdAt": "2016-10-03 20:22:55",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 290
+        }
+    },
     "XF1tp5YU-U": {
         "id": "XF1tp5YU-U",
         "title": "Маэстро",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 44
-        }
-    },
-    "-hZPEfUJDx": {
-        "id": "-hZPEfUJDx",
-        "title": "Я приду плюнуть на ваши могилы",
-        "author": "Борис Виан",
-        "notes": "",
-        "createdAt": "2016-10-02 22:55:08",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 43
         }
     }
 }
