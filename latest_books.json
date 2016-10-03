@@ -1,4 +1,16 @@
 {
+    "3Z_8HwyRlh": {
+        "id": "3Z_8HwyRlh",
+        "title": "Хранители Вечности",
+        "author": "Александра Айви",
+        "notes": "",
+        "createdAt": "2016-10-03 20:28:06",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 291
+        }
+    },
     "yzPbSA7dUe": {
         "id": "yzPbSA7dUe",
         "title": "Палач",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 45
-        }
-    },
-    "PkqFillSZq": {
-        "id": "PkqFillSZq",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2016-10-02 22:56:15",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 44
         }
     }
 }
