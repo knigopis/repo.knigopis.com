@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>283</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
-[Лела Папава](users/761/76187635-vkontakte)<sup>282</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HoneyCorn56](users/306/306486763060595-facebook)<sup>0</sup> 
 
 
-_03.10.2016 17:45:32_
+_03.10.2016 20:15:08_

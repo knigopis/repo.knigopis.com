@@ -1,4 +1,16 @@
 {
+    "r_5ln1stSR": {
+        "id": "r_5ln1stSR",
+        "title": "Последний Порог",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2016-10-03 20:15:08",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 283
+        }
+    },
     "SaYASjR4CG": {
         "id": "SaYASjR4CG",
         "title": "Олеся",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 37
-        }
-    },
-    "kJMpRwaimS": {
-        "id": "kJMpRwaimS",
-        "title": "Великий Гэтсби",
-        "author": "Ф.С. Фицджеральд",
-        "notes": "",
-        "createdAt": "2016-10-02 22:50:58",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 36
         }
     }
 }
