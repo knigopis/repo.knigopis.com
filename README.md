@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>39</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 [milkyway56](users/170/170115130-vkontakte)<sup>0</sup> 
 [HoneyCorn56](users/306/306486763060595-facebook)<sup>0</sup> 
-[shirko.elena](users/100/100001858801764-facebook)<sup>6</sup> 
 
 
-_03.10.2016 16:11:46_
+_03.10.2016 17:45:32_
