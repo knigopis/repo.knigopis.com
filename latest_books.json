@@ -1,4 +1,16 @@
 {
+    "w5renImvQc": {
+        "id": "w5renImvQc",
+        "title": "Мадам Бовари",
+        "author": "Флобер",
+        "notes": "",
+        "createdAt": "2016-10-03 16:11:06",
+        "user": {
+            "id": "30838259-vkontakte",
+            "nickname": "Виктория",
+            "booksCount": 2
+        }
+    },
     "ASI9cny_k7": {
         "id": "ASI9cny_k7",
         "title": "Манон Леско",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 35
-        }
-    },
-    "lQ9hK0LWT0": {
-        "id": "lQ9hK0LWT0",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2016-10-02 22:49:35",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 34
         }
     }
 }
