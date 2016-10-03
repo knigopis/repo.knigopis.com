@@ -1,4 +1,16 @@
 {
+    "r1sNLEDAnY": {
+        "id": "r1sNLEDAnY",
+        "title": "Смерть героя",
+        "author": "Ричард Олдингтон",
+        "notes": "Джон Уинтербон. Элизабет и Фанни. Как всегда читаю всё грустное и прекрасное.",
+        "createdAt": "2016-10-03 23:06:10",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 39
+        }
+    },
     "3Z_8HwyRlh": {
         "id": "3Z_8HwyRlh",
         "title": "Хранители Вечности",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 46
-        }
-    },
-    "QcJUrS8iA7": {
-        "id": "QcJUrS8iA7",
-        "title": "Generatoin \"П\"",
-        "author": "В. Пелевин",
-        "notes": "",
-        "createdAt": "2016-10-02 22:57:15",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 45
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 * Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
 * Древний. Предыстория ~ [Tr](users/122/12282474-vkontakte)<sup>32</sup>
 * Самый счастливый день ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Астровитянка ~ [lucius](users/838/83820536-yandex)<sup>132</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 * раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
-* раковый корпус ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 
 
-_03.10.2016 03:24:56_
+_03.10.2016 23:06:10_

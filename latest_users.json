@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 39,
+        "updatedAt": "2016-10-03 23:06:10"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -172,11 +178,5 @@
         "nickname": "milkyway56",
         "booksCount": 0,
         "updatedAt": "2016-09-25 07:14:08"
-    },
-    "306486763060595-facebook": {
-        "id": "306486763060595-facebook",
-        "nickname": "HoneyCorn56",
-        "booksCount": 0,
-        "updatedAt": "2016-09-25 07:13:36"
     }
 }
