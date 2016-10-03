@@ -1,4 +1,10 @@
 {
+    "113791616-vkontakte": {
+        "id": "113791616-vkontakte",
+        "nickname": "Vasja930403",
+        "booksCount": 0,
+        "updatedAt": "2016-10-03 12:27:46"
+    },
     "320700111602997-facebook": {
         "id": "320700111602997-facebook",
         "nickname": "Alona",
@@ -172,11 +178,5 @@
         "nickname": "ryoriksalnikova",
         "booksCount": 2,
         "updatedAt": "2016-09-24 21:27:11"
-    },
-    "205137113-yandex": {
-        "id": "205137113-yandex",
-        "nickname": "cool.ya-liskovs2014",
-        "booksCount": 0,
-        "updatedAt": "2016-09-24 16:29:41"
     }
 }
