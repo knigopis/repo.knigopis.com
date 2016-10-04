@@ -45,7 +45,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup> 
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
@@ -77,4 +77,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 
 
-_04.10.2016 09:39:28_
+_04.10.2016 09:39:53_
