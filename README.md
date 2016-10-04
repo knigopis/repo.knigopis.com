@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/4406785/
+
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
     > в процессе
     > 
@@ -20,11 +25,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/5474657/
 
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
-    > в процессе
-    > 
-    > Очень полезная книга, хотя ее применимость в России, конечно, сильно ограничена. Главное - общая идея и набор хороших технологий. Читать без зашоренности, иначе пропадет мимо.
-    > 
-    > https://www.ozon.ru/context/detail/id/5474657/
 
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
 
@@ -38,14 +38,12 @@ Do not use pull requests to make changes here.
 
 * Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
 
-* Мальчик, который упал на Землю ~ [Беска](users/157/1577468-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup> 
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
@@ -77,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 
 
-_04.10.2016 09:40:27_
+_04.10.2016 09:41:15_

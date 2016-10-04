@@ -1,4 +1,16 @@
 {
+    "9NvI1HxC5H": {
+        "id": "9NvI1HxC5H",
+        "title": "Зороастр",
+        "author": "",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/4406785/",
+        "createdAt": "2016-10-04 09:41:14",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 77
+        }
+    },
     "DEiFLUNa-G": {
         "id": "DEiFLUNa-G",
         "title": "Как работать по 4 часа в неделю и при этом не торчать в офисе \"от звонка до звонка\", жить где угодно и богатеть",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 51
-        }
-    },
-    "5O4ZQytlf_": {
-        "id": "5O4ZQytlf_",
-        "title": "Вечера на хуторе близ Диканьки",
-        "author": "Н. Гоголь",
-        "notes": "",
-        "createdAt": "2016-10-02 23:01:34",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 50
         }
     }
 }
