@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[live33](users/388/38871174-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
-[tess56ea](users/163/163745873-yandex)<sup>0</sup> 
 
 
-_04.10.2016 09:41:15_
+_04.10.2016 19:49:43_
