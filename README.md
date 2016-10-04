@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
 [xbr](users/803/803172-yandex)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>451</sup> 
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 [Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 
 
-_04.10.2016 19:49:43_
+_04.10.2016 20:23:33_
