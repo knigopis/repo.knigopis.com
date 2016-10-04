@@ -1,4 +1,10 @@
 {
+    "38871174-vkontakte": {
+        "id": "38871174-vkontakte",
+        "nickname": "live33",
+        "booksCount": 0,
+        "updatedAt": "2016-10-04 19:49:42"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Faith",
         "booksCount": 20,
         "updatedAt": "2016-09-25 12:22:22"
-    },
-    "163745873-yandex": {
-        "id": "163745873-yandex",
-        "nickname": "tess56ea",
-        "booksCount": 0,
-        "updatedAt": "2016-09-25 07:15:05"
     }
 }
