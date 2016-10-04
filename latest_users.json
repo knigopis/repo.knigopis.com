@@ -1,4 +1,10 @@
 {
+    "leczQ3Eya3-linkedin": {
+        "id": "leczQ3Eya3-linkedin",
+        "nickname": "Ник Литвинов",
+        "booksCount": 79,
+        "updatedAt": "2016-10-04 09:39:28"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "tess56ea",
         "booksCount": 0,
         "updatedAt": "2016-09-25 07:15:05"
-    },
-    "170115130-vkontakte": {
-        "id": "170115130-vkontakte",
-        "nickname": "milkyway56",
-        "booksCount": 0,
-        "updatedAt": "2016-09-25 07:14:08"
     }
 }
