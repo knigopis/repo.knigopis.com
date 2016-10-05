@@ -1,4 +1,10 @@
 {
+    "13128526-vkontakte": {
+        "id": "13128526-vkontakte",
+        "nickname": "condesa",
+        "booksCount": 0,
+        "updatedAt": "2016-10-05 05:10:10"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Lela papava",
         "booksCount": 0,
         "updatedAt": "2016-09-25 20:50:33"
-    },
-    "112366191289808901180-google": {
-        "id": "112366191289808901180-google",
-        "nickname": "Faith",
-        "booksCount": 20,
-        "updatedAt": "2016-09-25 12:22:22"
     }
 }
