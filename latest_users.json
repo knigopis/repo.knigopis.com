@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 80,
+        "updatedAt": "2016-10-05 12:25:58"
+    },
     "13128526-vkontakte": {
         "id": "13128526-vkontakte",
         "nickname": "condesa",
@@ -154,12 +160,6 @@
         "nickname": "pimanocci",
         "booksCount": 8,
         "updatedAt": "2016-09-28 13:44:16"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 79,
-        "updatedAt": "2016-09-28 12:01:03"
     },
     "798202600285063-facebook": {
         "id": "798202600285063-facebook",

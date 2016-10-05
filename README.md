@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>80</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
@@ -69,10 +70,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>8</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>79</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 
 
-_05.10.2016 05:10:12_
+_05.10.2016 12:25:58_
