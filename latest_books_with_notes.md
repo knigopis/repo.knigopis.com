@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
@@ -31,4 +32,4 @@
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
 
 
-_05.10.2016 14:02:56_
+_05.10.2016 14:35:59_

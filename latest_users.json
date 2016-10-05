@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 134,
+        "updatedAt": "2016-10-05 14:35:59"
+    },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",
         "nickname": "pimanocci",
@@ -172,11 +178,5 @@
         "nickname": "123",
         "booksCount": 0,
         "updatedAt": "2016-09-25 21:58:06"
-    },
-    "281023294-vkontakte": {
-        "id": "281023294-vkontakte",
-        "nickname": "Lela papava",
-        "booksCount": 0,
-        "updatedAt": "2016-09-25 20:50:33"
     }
 }
