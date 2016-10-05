@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
-[Faith](users/112/112366191289808901180-google)<sup>20</sup> 
 
 
-_04.10.2016 20:23:33_
+_05.10.2016 05:10:12_
