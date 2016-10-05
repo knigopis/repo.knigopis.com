@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
+    > История о заброшенных, волею случая, людях на другой планете. На микроуровне описаны взаимоотношения между персонажами и в целом в обществе, интересно соотносится с реальностью и нашей историей.
+
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
     > в процессе
     > 
@@ -17,17 +20,6 @@ Do not use pull requests to make changes here.
     > 
     > https://www.ozon.ru/context/detail/id/5474657/
 
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
-    > в процессе
-    > 
-    > Очень полезная книга, хотя ее применимость в России, конечно, сильно ограничена. Главное - общая идея и набор хороших технологий. Читать без зашоренности, иначе пропадет мимо.
-    > 
-    > https://www.ozon.ru/context/detail/id/5474657/
-
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
-
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>76</sup>
-
 * Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 
 * Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
@@ -38,11 +30,16 @@ Do not use pull requests to make changes here.
 
 * Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
 
+* Мальчик, который упал на Землю ~ [Беска](users/157/1577468-vkontakte)<sup>3</sup>
+
+* Последний герой ~ [rNix](users/115/115622071-twitter)<sup>45</sup>
+
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pimanocci](users/117/117124011531379579265-google)<sup>9</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>80</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
@@ -69,10 +66,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
-[pimanocci](users/117/117124011531379579265-google)<sup>8</sup> 
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 [123](users/106/106674199062759217064-google)<sup>0</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>0</sup> 
 
 
-_05.10.2016 12:25:58_
+_05.10.2016 14:02:56_
