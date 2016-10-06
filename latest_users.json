@@ -1,4 +1,10 @@
 {
+    "55688208-vkontakte": {
+        "id": "55688208-vkontakte",
+        "nickname": "Julia",
+        "booksCount": 5,
+        "updatedAt": "2016-10-06 13:22:46"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Арквейд Курапира",
         "booksCount": 40,
         "updatedAt": "2016-09-28 21:11:17"
-    },
-    "798202600285063-facebook": {
-        "id": "798202600285063-facebook",
-        "nickname": "Рома",
-        "booksCount": 1,
-        "updatedAt": "2016-09-26 18:33:20"
     }
 }

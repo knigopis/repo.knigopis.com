@@ -1,4 +1,16 @@
 {
+    "qMdhAHOHGT": {
+        "id": "qMdhAHOHGT",
+        "title": "Илиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2016-10-06 13:22:46",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 5
+        }
+    },
     "s2o6Qg7iXR": {
         "id": "s2o6Qg7iXR",
         "title": "О мышах и людях",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 57
-        }
-    },
-    "xu_h80Cu-P": {
-        "id": "xu_h80Cu-P",
-        "title": "Как закалялась сталь",
-        "author": "Н.А. Островский",
-        "notes": "",
-        "createdAt": "2016-10-02 23:35:35",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 56
         }
     }
 }
