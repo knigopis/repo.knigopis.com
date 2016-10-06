@@ -1,4 +1,10 @@
 {
+    "113794223924688167852-google": {
+        "id": "113794223924688167852-google",
+        "nickname": "Victoria",
+        "booksCount": 21,
+        "updatedAt": "2016-10-06 07:36:04"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "Рома",
         "booksCount": 1,
         "updatedAt": "2016-09-26 18:33:20"
-    },
-    "106674199062759217064-google": {
-        "id": "106674199062759217064-google",
-        "nickname": "123",
-        "booksCount": 0,
-        "updatedAt": "2016-09-25 21:58:06"
     }
 }
