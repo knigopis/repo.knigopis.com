@@ -1,4 +1,16 @@
 {
+    "AC2wru3wPs": {
+        "id": "AC2wru3wPs",
+        "title": "Труды и дни",
+        "author": "Гесиод",
+        "notes": "",
+        "createdAt": "2016-10-06 13:24:11",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 8
+        }
+    },
     "jXKdRngyWU": {
         "id": "jXKdRngyWU",
         "title": "Одиссея",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 46
-        }
-    },
-    "WFYHbm7qi8": {
-        "id": "WFYHbm7qi8",
-        "title": "Контрапункт",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2016-10-02 23:36:26",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 58
         }
     }
 }

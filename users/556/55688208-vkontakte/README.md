@@ -1,7 +1,11 @@
-# List of books read by [Julia](http://vk.com/id55688208)<sup>7</sup>
+# List of books read by [Julia](http://vk.com/id55688208)<sup>8</sup>
 ---
 
 ## 2016
+
+### Труды и дни
+Гесиод
+
 
 ### Одиссея
 Гомер
