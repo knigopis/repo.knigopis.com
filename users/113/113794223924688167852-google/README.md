@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>21</sup>
+# List of books read by Victoria<sup>22</sup>
 ---
 
 ## 2016
+
+### Колыбель для кошки
+Воннегут
+> [2016-08] осколок льда 9
+
 
 ### П_Ш
 Дмитрий Хара

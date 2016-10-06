@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
@@ -32,4 +33,4 @@
 * Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
 
 
-_05.10.2016 14:35:59_
+_06.10.2016 07:36:39_
