@@ -1,4 +1,16 @@
 {
+    "_-dexu8sbi": {
+        "id": "_-dexu8sbi",
+        "title": "Ифигения в Тавриде",
+        "author": "Еврипид",
+        "notes": "",
+        "createdAt": "2016-10-06 13:25:07",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 10
+        }
+    },
     "CYPZ6DoUpu": {
         "id": "CYPZ6DoUpu",
         "title": "Семеро против Фив",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 39
-        }
-    },
-    "JHShVBiaKC": {
-        "id": "JHShVBiaKC",
-        "title": "«Доказательство»",
-        "author": "Агот Кристоф",
-        "notes": "",
-        "createdAt": "2016-10-03 05:49:11",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 38
         }
     }
 }
