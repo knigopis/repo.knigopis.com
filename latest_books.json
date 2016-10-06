@@ -1,4 +1,16 @@
 {
+    "s2o6Qg7iXR": {
+        "id": "s2o6Qg7iXR",
+        "title": "О мышах и людях",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2016-10-06 12:39:30",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 81
+        }
+    },
     "MkEDaunqQK": {
         "id": "MkEDaunqQK",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 56
-        }
-    },
-    "Pwm2EvOtfV": {
-        "id": "Pwm2EvOtfV",
-        "title": "Морфий",
-        "author": "М. Булгаков",
-        "notes": "",
-        "createdAt": "2016-10-02 23:05:26",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 55
         }
     }
 }

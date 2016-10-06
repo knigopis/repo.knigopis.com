@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>134</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>9</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>80</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Рома](users/798/798202600285063-facebook)<sup>1</sup> 
 
 
-_06.10.2016 07:37:10_
+_06.10.2016 12:39:30_
