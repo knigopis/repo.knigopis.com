@@ -1,4 +1,16 @@
 {
+    "vkyp63Pt3d": {
+        "id": "vkyp63Pt3d",
+        "title": "Ифигения в Авлиде",
+        "author": "Еврипид",
+        "notes": "",
+        "createdAt": "2016-10-06 13:25:34",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 11
+        }
+    },
     "_-dexu8sbi": {
         "id": "_-dexu8sbi",
         "title": "Ифигения в Тавриде",
@@ -345,18 +357,6 @@
             "id": "113791616-vkontakte",
             "nickname": "Vasja930403",
             "booksCount": 1
-        }
-    },
-    "BUXFVbXWgL": {
-        "id": "BUXFVbXWgL",
-        "title": "«Третья ложь»",
-        "author": "Агот Кристоф",
-        "notes": "",
-        "createdAt": "2016-10-03 05:49:45",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 39
         }
     }
 }
