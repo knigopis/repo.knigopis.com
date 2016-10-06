@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Julia](users/556/55688208-vkontakte)<sup>12</sup> 
+[Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>134</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 
 
-_06.10.2016 13:26:22_
+_06.10.2016 13:26:57_
