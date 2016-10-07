@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 [Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
-[Арквейд Курапира](users/278/278072338-vkontakte)<sup>40</sup> 
 
 
-_06.10.2016 13:26:57_
+_07.10.2016 08:32:32_
