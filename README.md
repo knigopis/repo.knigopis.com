@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alona](users/320/320700111602997-facebook)<sup>40</sup> 
 [homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>39</sup> 
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 
 
-_07.10.2016 08:32:32_
+_07.10.2016 20:46:57_

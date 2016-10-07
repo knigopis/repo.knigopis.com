@@ -1,4 +1,16 @@
 {
+    "5c_7ycE73E": {
+        "id": "5c_7ycE73E",
+        "title": "«Сия́ние»",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2016-10-07 20:46:57",
+        "user": {
+            "id": "320700111602997-facebook",
+            "nickname": "Alona",
+            "booksCount": 40
+        }
+    },
     "9X9JVgwkZE": {
         "id": "9X9JVgwkZE",
         "title": "Облака",
@@ -345,18 +357,6 @@
             "id": "30838259-vkontakte",
             "nickname": "Виктория",
             "booksCount": 3
-        }
-    },
-    "w5renImvQc": {
-        "id": "w5renImvQc",
-        "title": "Мадам Бовари",
-        "author": "Флобер",
-        "notes": "",
-        "createdAt": "2016-10-03 16:11:06",
-        "user": {
-            "id": "30838259-vkontakte",
-            "nickname": "Виктория",
-            "booksCount": 2
         }
     }
 }
