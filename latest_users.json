@@ -1,4 +1,10 @@
 {
+    "115901029459192115068-google": {
+        "id": "115901029459192115068-google",
+        "nickname": "nulconaux",
+        "booksCount": 0,
+        "updatedAt": "2016-10-08 15:09:04"
+    },
     "380085691-vkontakte": {
         "id": "380085691-vkontakte",
         "nickname": "nohappinessnofun",
@@ -172,11 +178,5 @@
         "nickname": "Юлия Никонова",
         "booksCount": 1,
         "updatedAt": "2016-09-30 09:38:23"
-    },
-    "108020284314426829678-google": {
-        "id": "108020284314426829678-google",
-        "nickname": "Faraday",
-        "booksCount": 1,
-        "updatedAt": "2016-09-29 23:43:48"
     }
 }
