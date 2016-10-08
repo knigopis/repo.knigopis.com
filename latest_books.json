@@ -1,4 +1,16 @@
 {
+    "najmRZx8oF": {
+        "id": "najmRZx8oF",
+        "title": "Звездные короли",
+        "author": "Эдмонд Мур Гамильтон",
+        "notes": "в процессе\n\nОтдохновение души, простое и незатейливое. Современное поколение айфонов не поймёт.\n\nhttps://www.ozon.ru/context/detail/id/21787364/",
+        "createdAt": "2016-10-08 20:41:06",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 78
+        }
+    },
     "UGkW3Q1CmD": {
         "id": "UGkW3Q1CmD",
         "title": "Империя Трауна",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 284
-        }
-    },
-    "r_5ln1stSR": {
-        "id": "r_5ln1stSR",
-        "title": "Последний Порог",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2016-10-03 20:15:08",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 283
         }
     }
 }

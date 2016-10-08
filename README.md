@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
+    > в процессе
+    > 
+    > Отдохновение души, простое и незатейливое. Современное поколение айфонов не поймёт.
+    > 
+    > https://www.ozon.ru/context/detail/id/21787364/
+
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
     > осколок льда 9
 
@@ -13,7 +20,6 @@ Do not use pull requests to make changes here.
     > Написано интересно и увлекательно, много можно узнать о горных породах, минералах, тайге, химии и физике. Есть главная интрига, которая сохраняется до конца книги, когда физические явления выставляются словно мистические, но потом оказывается, что всему есть научное объяснение.
 
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
-    > История о заброшенных, волею случая, людях на другой планете. На микроуровне описаны взаимоотношения между персонажами и в целом в обществе, интересно соотносится с реальностью и нашей историей.
 
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
 
@@ -27,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Самый счастливый день ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup>
 
-* Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
 [nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
@@ -47,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
@@ -66,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 
 
-_08.10.2016 19:35:14_
+_08.10.2016 20:41:06_

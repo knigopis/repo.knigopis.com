@@ -1,4 +1,16 @@
 {
+    "najmRZx8oF": {
+        "id": "najmRZx8oF",
+        "title": "Звездные короли",
+        "author": "Эдмонд Мур Гамильтон",
+        "notes": "в процессе\n\nОтдохновение души, простое и незатейливое. Современное поколение айфонов не поймёт.\n\nhttps://www.ozon.ru/context/detail/id/21787364/",
+        "createdAt": "2016-10-08 20:41:06",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 78
+        }
+    },
     "wmt4W3qhyJ": {
         "id": "wmt4W3qhyJ",
         "title": "Колыбель для кошки",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 60
-        }
-    },
-    "FgnLowr6O6": {
-        "id": "FgnLowr6O6",
-        "title": "Венера в мехах",
-        "author": "Леопольд фон Захер-Мазох",
-        "notes": "5/10",
-        "createdAt": "2016-09-01 12:53:27",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 110
         }
     }
 }

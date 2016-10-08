@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
@@ -30,7 +31,6 @@
 * «Болото» (2014) ~ [geekvault](users/100/100000058705406-facebook)<sup>26</sup>
 * Ведьма-хранительница и кусок Верховная ведьма ~ [Eji_tyan](users/235/2352103981-twitter)<sup>18</sup>
 * Униженные и оскорбленные ~ [Euphoria](users/106/106304994652616315178-google)<sup>60</sup>
-* Венера в мехах ~ [anvonamore](users/595/5957175-vkontakte)<sup>110</sup>
 
 
-_06.10.2016 07:36:39_
+_08.10.2016 20:41:06_
