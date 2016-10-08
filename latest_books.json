@@ -1,4 +1,16 @@
 {
+    "UGkW3Q1CmD": {
+        "id": "UGkW3Q1CmD",
+        "title": "Империя Трауна",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-10-08 14:52:22",
+        "user": {
+            "id": "380085691-vkontakte",
+            "nickname": "nohappinessnofun",
+            "booksCount": 1
+        }
+    },
     "5c_7ycE73E": {
         "id": "5c_7ycE73E",
         "title": "«Сия́ние»",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 283
-        }
-    },
-    "SaYASjR4CG": {
-        "id": "SaYASjR4CG",
-        "title": "Олеся",
-        "author": "Куприн",
-        "notes": "",
-        "createdAt": "2016-10-03 16:11:16",
-        "user": {
-            "id": "30838259-vkontakte",
-            "nickname": "Виктория",
-            "booksCount": 3
         }
     }
 }
