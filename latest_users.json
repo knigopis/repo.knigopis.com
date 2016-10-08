@@ -1,4 +1,10 @@
 {
+    "140263334-vkontakte": {
+        "id": "140263334-vkontakte",
+        "nickname": "a.a.kozachenko",
+        "booksCount": 0,
+        "updatedAt": "2016-10-08 19:35:13"
+    },
     "115901029459192115068-google": {
         "id": "115901029459192115068-google",
         "nickname": "nulconaux",
@@ -172,11 +178,5 @@
         "nickname": "baldandorzhiev",
         "booksCount": 1,
         "updatedAt": "2016-10-01 01:38:31"
-    },
-    "17607331280625977789-mailru": {
-        "id": "17607331280625977789-mailru",
-        "nickname": "Юлия Никонова",
-        "booksCount": 1,
-        "updatedAt": "2016-09-30 09:38:23"
     }
 }
