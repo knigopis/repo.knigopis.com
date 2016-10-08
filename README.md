@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>40</sup> 
 [homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [xbr](users/803/803172-yandex)<sup>0</sup> 
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
 [Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
-[Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 
 
-_08.10.2016 14:52:33_
+_08.10.2016 15:09:05_
