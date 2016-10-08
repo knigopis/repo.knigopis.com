@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
 [nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>40</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
 [xbr](users/803/803172-yandex)<sup>0</sup> 
 [baldandorzhiev](users/133/13354008-vkontakte)<sup>1</sup> 
-[Юлия Никонова](users/176/17607331280625977789-mailru)<sup>1</sup> 
 
 
-_08.10.2016 15:09:05_
+_08.10.2016 19:35:14_
