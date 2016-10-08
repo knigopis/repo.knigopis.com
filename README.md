@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
+[nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>40</sup> 
 [homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Faraday](users/108/108020284314426829678-google)<sup>1</sup> 
 
 
-_08.10.2016 14:52:22_
+_08.10.2016 14:52:33_
