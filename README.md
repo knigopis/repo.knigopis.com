@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>24</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>4</sup> 
 [baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
-[xbr](users/803/803172-yandex)<sup>0</sup> 
 
 
-_09.10.2016 05:41:52_
+_09.10.2016 07:06:37_

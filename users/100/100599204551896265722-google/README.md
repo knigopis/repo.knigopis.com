@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>23</sup>
+# Список прочитанных книг пользователя exulted<sup>24</sup>
 ---
 
 ## 2016
+
+### 1924: The Year That Made Hitler
+Peter Ross Range
+> [2016-09-12] 
+
 
 ### Capital
 John Lanchester

@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 24,
+        "updatedAt": "2016-10-09 07:06:37"
+    },
     "11424536-vkontakte": {
         "id": "11424536-vkontakte",
         "nickname": "shtormovoy_sokol",
@@ -172,11 +178,5 @@
         "nickname": "Tianna",
         "booksCount": 8,
         "updatedAt": "2016-10-01 16:58:59"
-    },
-    "803172-yandex": {
-        "id": "803172-yandex",
-        "nickname": "xbr",
-        "booksCount": 0,
-        "updatedAt": "2016-10-01 13:39:51"
     }
 }

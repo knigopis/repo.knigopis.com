@@ -1,4 +1,16 @@
 {
+    "_hWdYakH_A": {
+        "id": "_hWdYakH_A",
+        "title": "1924: The Year That Made Hitler",
+        "author": "Peter Ross Range",
+        "notes": "",
+        "createdAt": "2016-10-09 07:06:37",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 24
+        }
+    },
     "najmRZx8oF": {
         "id": "najmRZx8oF",
         "title": "Звездные короли",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 285
-        }
-    },
-    "YwslayU7M_": {
-        "id": "YwslayU7M_",
-        "title": "Компаньоны",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2016-10-03 20:15:51",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 284
         }
     }
 }
