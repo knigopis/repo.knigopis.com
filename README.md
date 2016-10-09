@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[11](users/111/111395744915142981290-googleplus)<sup>0</sup> 
+[11](users/111/111395744915142981290-googleplus)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>26</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 
 
-_09.10.2016 09:42:46_
+_09.10.2016 09:43:39_
