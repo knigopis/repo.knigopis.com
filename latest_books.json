@@ -1,4 +1,16 @@
 {
+    "tjMtZ8u7Qp": {
+        "id": "tjMtZ8u7Qp",
+        "title": "Гумилев сын Гумилева",
+        "author": "Беляков Сергей",
+        "notes": "ISBN: 978-5-17-077567-5",
+        "createdAt": "2016-10-09 07:13:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 26
+        }
+    },
     "2R1Q5iDPbQ": {
         "id": "2R1Q5iDPbQ",
         "title": "Pre-Suasion: A Revolutionary Way to Influence and Persuade",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 287
-        }
-    },
-    "TZQyb4PbOj": {
-        "id": "TZQyb4PbOj",
-        "title": "Восстание короля",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2016-10-03 20:16:59",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 286
         }
     }
 }

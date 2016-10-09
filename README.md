@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
+    > ISBN: 978-5-17-077567-5
+
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
     > ASIN: B01C36E2YS
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/21787364/
 
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
-    > осколок льда 9
 
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
 
-* Древний. Предыстория ~ [Tr](users/122/12282474-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>25</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>26</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
 
 
-_09.10.2016 07:08:15_
+_09.10.2016 07:13:42_

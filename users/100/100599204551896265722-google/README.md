@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>25</sup>
+# Список прочитанных книг пользователя exulted<sup>26</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@ Robert Cialdini
 ### 1924: The Year That Made Hitler
 Peter Ross Range
 > [2016-09-12] ASIN: B014DUSJ4G
+
+
+### Гумилев сын Гумилева
+Беляков Сергей
+> [2016-09-02] ISBN: 978-5-17-077567-5
 
 
 ### Capital
