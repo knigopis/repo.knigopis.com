@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 135,
+        "updatedAt": "2016-10-09 17:08:29"
+    },
     "111395744915142981290-googleplus": {
         "id": "111395744915142981290-googleplus",
         "nickname": "11",
@@ -70,12 +76,6 @@
         "nickname": "Victoria",
         "booksCount": 23,
         "updatedAt": "2016-10-06 07:37:10"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 134,
-        "updatedAt": "2016-10-05 14:35:59"
     },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",

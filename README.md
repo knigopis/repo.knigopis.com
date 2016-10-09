@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
+    > В книге описаны жуткие аборты, на которые шли женщины, которые не хотели официально идти в больницу. 
+    > Поражает и устрашает жуткая изобретательность, темнота и бесчеловечность.
+
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
     > ISBN: 978-5-17-077567-5
 
@@ -12,11 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B01C36E2YS
 
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
-    > в процессе
-    > 
-    > Отдохновение души, простое и незатейливое. Современное поколение айфонов не поймёт.
-    > 
-    > https://www.ozon.ru/context/detail/id/21787364/
 
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
 
@@ -30,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 
-* Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>135</sup> 
 [11](users/111/111395744915142981290-googleplus)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>26</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
@@ -49,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
-[lucius](users/838/83820536-yandex)<sup>134</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>9</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
@@ -69,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 
 
-_09.10.2016 09:43:39_
+_09.10.2016 17:08:29_
