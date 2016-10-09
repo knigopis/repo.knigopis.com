@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>24</sup>
+# Список прочитанных книг пользователя exulted<sup>25</sup>
 ---
 
 ## 2016
+
+### Pre-Suasion: A Revolutionary Way to Influence and Persuade
+Robert Cialdini
+> [2016-10-05] ASIN: B01C36E2YS
+
 
 ### 1924: The Year That Made Hitler
 Peter Ross Range

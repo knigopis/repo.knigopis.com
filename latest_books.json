@@ -1,4 +1,16 @@
 {
+    "2R1Q5iDPbQ": {
+        "id": "2R1Q5iDPbQ",
+        "title": "Pre-Suasion: A Revolutionary Way to Influence and Persuade",
+        "author": "Robert Cialdini",
+        "notes": "ASIN: B01C36E2YS",
+        "createdAt": "2016-10-09 07:08:15",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 25
+        }
+    },
     "_hWdYakH_A": {
         "id": "_hWdYakH_A",
         "title": "1924: The Year That Made Hitler",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 286
-        }
-    },
-    "8BiStBYzNW": {
-        "id": "8BiStBYzNW",
-        "title": "Ночь охотника",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2016-10-03 20:16:25",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 285
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
+    > ASIN: B01C36E2YS
+
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
     > в процессе
     > 
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > осколок льда 9
 
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
-    > Приключенческо-познавательный роман российского геолога. Такую книгу нужно подсовывать подросткам, чтобы они мыслили и развивались в правильном направлении. 
-    > Написано интересно и увлекательно, много можно узнать о горных породах, минералах, тайге, химии и физике. Есть главная интрига, которая сохраняется до конца книги, когда физические явления выставляются словно мистические, но потом оказывается, что всему есть научное объяснение.
 
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 
@@ -31,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Древний. Предыстория ~ [Tr](users/122/12282474-vkontakte)<sup>32</sup>
 
-* Самый счастливый день ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>24</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>25</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
@@ -70,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tianna](users/108/108107916628702171952-google)<sup>8</sup> 
 
 
-_09.10.2016 07:06:37_
+_09.10.2016 07:08:15_
