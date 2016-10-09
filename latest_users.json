@@ -1,4 +1,10 @@
 {
+    "11424536-vkontakte": {
+        "id": "11424536-vkontakte",
+        "nickname": "shtormovoy_sokol",
+        "booksCount": 0,
+        "updatedAt": "2016-10-09 05:41:50"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "xbr",
         "booksCount": 0,
         "updatedAt": "2016-10-01 13:39:51"
-    },
-    "13354008-vkontakte": {
-        "id": "13354008-vkontakte",
-        "nickname": "baldandorzhiev",
-        "booksCount": 1,
-        "updatedAt": "2016-10-01 01:38:31"
     }
 }
