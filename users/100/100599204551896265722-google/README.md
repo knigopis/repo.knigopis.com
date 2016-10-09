@@ -5,7 +5,7 @@
 
 ### 1924: The Year That Made Hitler
 Peter Ross Range
-> [2016-09-12] 
+> [2016-09-12] ASIN: B014DUSJ4G
 
 
 ### Capital
