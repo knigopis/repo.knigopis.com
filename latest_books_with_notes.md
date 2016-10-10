@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup>
+* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
@@ -33,4 +33,4 @@
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
 
 
-_10.10.2016 18:35:20_
+_10.10.2016 18:35:26_
