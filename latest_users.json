@@ -1,4 +1,10 @@
 {
+    "920784524722527-facebook": {
+        "id": "920784524722527-facebook",
+        "nickname": "Mmm0nsta",
+        "booksCount": 0,
+        "updatedAt": "2016-10-10 08:31:18"
+    },
     "8345201-vkontakte": {
         "id": "8345201-vkontakte",
         "nickname": "norway_m",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 32,
         "updatedAt": "2016-10-02 11:47:52"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 40,
-        "updatedAt": "2016-10-02 08:05:32"
     }
 }
