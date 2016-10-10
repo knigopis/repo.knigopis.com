@@ -7,12 +7,15 @@
 ### `60` Цель. Процесс непрерывного совершенствования
 Элияху Голдратт
 
+### `50` Впереди перемен
+Джон Коттер
+
 ### `50` An Agile Adoption And Transformation Survival Guide
 Michael Sahota
 > Про внедрение изменений на уровне компании
 
-### `50` Впереди перемен
-Джон Коттер
+### `30` Scaling Agile/Lean Development
+Craig Larman
 
 ### `20` Running Lean: Iterate from Plan A to a Plan That Works
 Ash Maurya
