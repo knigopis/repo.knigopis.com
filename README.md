@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
+    > Приличный двубортный костюм, поплиновая рубашка и туфли, завернутые в бумагу, вельветовая куртка на искусственном меху, зимняя шапка из фальшивого котика, три пары финских креповых носков, шоферские перчатки и наконец — кожаный офицерский ремень.
+
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
     > В книге описаны жуткие аборты, на которые шли женщины, которые не хотели официально идти в больницу. 
     > Поражает и устрашает жуткая изобретательность, темнота и бесчеловечность.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-077567-5
 
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
-    > ASIN: B01C36E2YS
 
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 
-* Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
 [Аленока](users/785/785973-vkontakte)<sup>1</sup> 
-[KainL](users/101/101713933759900735497-google)<sup>2</sup> 
 
 
-_10.10.2016 10:49:09_
+_10.10.2016 17:22:25_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
 * Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
-* Трудно быть богом ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>39</sup>
 
 
-_09.10.2016 17:08:29_
+_10.10.2016 17:22:25_
