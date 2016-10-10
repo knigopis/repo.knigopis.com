@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Faith](users/112/112366191289808901180-google)<sup>21</sup> 
+[Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
 [Jewitching](users/112/112836796681023425757-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KainL](users/101/101713933759900735497-google)<sup>2</sup> 
 
 
-_10.10.2016 10:47:14_
+_10.10.2016 10:47:16_
