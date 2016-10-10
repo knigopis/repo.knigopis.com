@@ -20,6 +20,9 @@ Craig Larman
 ### `20` Running Lean: Iterate from Plan A to a Plan That Works
 Ash Maurya
 
+### `10` Kanban
+David Anderson
+
 ### `10` Coaching Agile Teams
 Lyssa Adkins
 
