@@ -9,6 +9,7 @@
 
 ### `50` Впереди перемен
 Джон Коттер
+> https://prezi.com/wytnl7tkvr20/presentation/
 
 ### `50` An Agile Adoption And Transformation Survival Guide
 Michael Sahota
