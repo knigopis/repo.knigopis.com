@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Faith](users/112/112366191289808901180-google)<sup>21</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
 [Jewitching](users/112/112836796681023425757-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
 [Аленока](users/785/785973-vkontakte)<sup>1</sup> 
 [KainL](users/101/101713933759900735497-google)<sup>2</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>32</sup> 
 
 
-_10.10.2016 08:31:19_
+_10.10.2016 10:47:14_
