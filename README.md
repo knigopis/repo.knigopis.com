@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Jewitching](users/112/112836796681023425757-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>135</sup> 
 [11](users/111/111395744915142981290-googleplus)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>26</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>32</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>4</sup> 
-[baltser.sergey](users/112/11235393-vkontakte)<sup>0</sup> 
 
 
-_09.10.2016 17:08:29_
+_10.10.2016 00:56:33_
