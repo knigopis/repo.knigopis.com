@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
+* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
     > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
+[Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
 
 
-_10.10.2016 18:35:26_
+_10.10.2016 18:35:28_
