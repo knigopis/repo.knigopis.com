@@ -1,4 +1,16 @@
 {
+    "eKiyk2HhEG": {
+        "id": "eKiyk2HhEG",
+        "title": "Дракула",
+        "author": "Б.Стокер",
+        "notes": "",
+        "createdAt": "2016-10-10 10:49:09",
+        "user": {
+            "id": "112366191289808901180-google",
+            "nickname": "Faith",
+            "booksCount": 22
+        }
+    },
     "C2UvU-5e6t": {
         "id": "C2UvU-5e6t",
         "title": "Пиковая Дама",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 291
-        }
-    },
-    "yzPbSA7dUe": {
-        "id": "yzPbSA7dUe",
-        "title": "Палач",
-        "author": "Виктория Крэйн",
-        "notes": "",
-        "createdAt": "2016-10-03 20:22:55",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 290
         }
     }
 }
