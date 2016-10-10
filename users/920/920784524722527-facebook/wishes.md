@@ -4,6 +4,9 @@
 ### `60` Критическая цепь
 Элияху Голдратт
 
+### `60` Agile Project Management with Scrum (Developer Best Practices)
+Ken Schwaber
+
 ### `60` Цель. Процесс непрерывного совершенствования
 Элияху Голдратт
 
