@@ -1,4 +1,10 @@
 {
+    "112836796681023425757-google": {
+        "id": "112836796681023425757-google",
+        "nickname": "Jewitching",
+        "booksCount": 0,
+        "updatedAt": "2016-10-10 00:56:31"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 4,
         "updatedAt": "2016-10-01 22:06:15"
-    },
-    "11235393-vkontakte": {
-        "id": "11235393-vkontakte",
-        "nickname": "baltser.sergey",
-        "booksCount": 0,
-        "updatedAt": "2016-10-01 18:20:26"
     }
 }
