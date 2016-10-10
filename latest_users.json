@@ -1,4 +1,10 @@
 {
+    "8345201-vkontakte": {
+        "id": "8345201-vkontakte",
+        "nickname": "norway_m",
+        "booksCount": 14,
+        "updatedAt": "2016-10-10 07:41:00"
+    },
     "112836796681023425757-google": {
         "id": "112836796681023425757-google",
         "nickname": "Jewitching",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 40,
         "updatedAt": "2016-10-02 08:05:32"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 4,
-        "updatedAt": "2016-10-01 22:06:15"
     }
 }
