@@ -1,6 +1,9 @@
 # Wish list of books by [Mmm0nsta](https://www.facebook.com/app_scoped_user_id/920784524722527/)
 ---
 
+### `60` Цель. Процесс непрерывного совершенствования
+Элияху Голдратт
+
 ### `50` An Agile Adoption And Transformation Survival Guide
 Michael Sahota
 > Про внедрение изменений на уровне компании
