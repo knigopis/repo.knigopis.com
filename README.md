@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup>
+    > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
+
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
     > Приличный двубортный костюм, поплиновая рубашка и туфли, завернутые в бумагу, вельветовая куртка на искусственном меху, зимняя шапка из фальшивого котика, три пары финских креповых носков, шоферские перчатки и наконец — кожаный офицерский ремень.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Поражает и устрашает жуткая изобретательность, темнота и бесчеловечность.
 
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
-    > ISBN: 978-5-17-077567-5
 
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
 
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>20</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
-[Аленока](users/785/785973-vkontakte)<sup>1</sup> 
 
 
-_10.10.2016 17:22:25_
+_10.10.2016 18:35:20_

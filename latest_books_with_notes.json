@@ -1,4 +1,16 @@
 {
+    "gKyScZAMp5": {
+        "id": "gKyScZAMp5",
+        "title": "Уйти, чтобы вернуться",
+        "author": "Мар Леви",
+        "notes": "Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.",
+        "createdAt": "2016-10-10 18:35:20",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 20
+        }
+    },
     "tqznlKpHrA": {
         "id": "tqznlKpHrA",
         "title": "Чемодан",
@@ -345,18 +357,6 @@
             "id": "8345201-vkontakte",
             "nickname": "norway_m",
             "booksCount": 15
-        }
-    },
-    "SENfGv_arl": {
-        "id": "SENfGv_arl",
-        "title": "Донское казачество в войнах 20 века",
-        "author": "Рыжкова Н.В",
-        "notes": "Общее описание где и какие Донские полки находились во время 1 мировой.\nстр 94 4-я Донская казачья дивизия",
-        "createdAt": "2016-09-14 06:42:03",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 14
         }
     }
 }

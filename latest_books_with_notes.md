@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup>
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
 * Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
 * Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
-* Донское казачество в войнах 20 века ~ [mfevralev](users/140/140966150-vkontakte)<sup>14</sup>
 
 
-_10.10.2016 17:22:25_
+_10.10.2016 18:35:20_

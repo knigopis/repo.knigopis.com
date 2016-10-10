@@ -1,4 +1,16 @@
 {
+    "gKyScZAMp5": {
+        "id": "gKyScZAMp5",
+        "title": "Уйти, чтобы вернуться",
+        "author": "Мар Леви",
+        "notes": "Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.",
+        "createdAt": "2016-10-10 18:35:20",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 20
+        }
+    },
     "tqznlKpHrA": {
         "id": "tqznlKpHrA",
         "title": "Чемодан",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 79
-        }
-    },
-    "r1sNLEDAnY": {
-        "id": "r1sNLEDAnY",
-        "title": "Смерть героя",
-        "author": "Ричард Олдингтон",
-        "notes": "Джон Уинтербон. Элизабет и Фанни. Как всегда читаю всё грустное и прекрасное.",
-        "createdAt": "2016-10-03 23:06:10",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 39
         }
     }
 }
