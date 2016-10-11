@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
-[InaryD](users/562/56228374-vkontakte)<sup>35</sup> 
 
 
-_10.10.2016 18:35:36_
+_11.10.2016 02:38:50_
