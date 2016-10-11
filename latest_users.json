@@ -1,4 +1,10 @@
 {
+    "100977482311394113587-google": {
+        "id": "100977482311394113587-google",
+        "nickname": "greceanii",
+        "booksCount": 0,
+        "updatedAt": "2016-10-11 12:48:03"
+    },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",
         "nickname": "pimanocci",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 46,
         "updatedAt": "2016-10-03 03:24:56"
-    },
-    "1236741-vkontakte": {
-        "id": "1236741-vkontakte",
-        "nickname": "Olyaperekatipole",
-        "booksCount": 58,
-        "updatedAt": "2016-10-02 23:36:26"
     }
 }
