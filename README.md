@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
+[Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
 [greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 
 
-_11.10.2016 15:00:08_
+_11.10.2016 15:00:13_
