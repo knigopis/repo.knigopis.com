@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
-* Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
 
 
-_11.10.2016 08:00:51_
+_11.10.2016 20:28:34_

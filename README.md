@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
+    > Черновик хорош и чистовик хорош.Про чувака которого все стали все забыть его Друга Котю и то как он был таможенником и путешествовавал по мирам
+
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
     > Эта книга достойна голливудской экранизации.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
-    > Приличный двубортный костюм, поплиновая рубашка и туфли, завернутые в бумагу, вельветовая куртка на искусственном меху, зимняя шапка из фальшивого котика, три пары финских креповых носков, шоферские перчатки и наконец — кожаный офицерский ремень.
 
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 
-* Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[romann](users/102/10205442182733690-facebook)<sup>5</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
 [greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
-[Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 
 
-_11.10.2016 15:00:20_
+_11.10.2016 20:28:34_
