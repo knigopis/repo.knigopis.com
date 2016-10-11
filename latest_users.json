@@ -1,4 +1,10 @@
 {
+    "152397152-vkontakte": {
+        "id": "152397152-vkontakte",
+        "nickname": "self__destruction",
+        "booksCount": 0,
+        "updatedAt": "2016-10-11 20:57:41"
+    },
     "10205442182733690-facebook": {
         "id": "10205442182733690-facebook",
         "nickname": "romann",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 291,
         "updatedAt": "2016-10-03 20:28:06"
-    },
-    "30838259-vkontakte": {
-        "id": "30838259-vkontakte",
-        "nickname": "Виктория",
-        "booksCount": 0,
-        "updatedAt": "2016-10-03 16:11:46"
     }
 }
