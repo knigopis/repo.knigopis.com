@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
-[Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
 
 
-_11.10.2016 20:28:34_
+_11.10.2016 20:57:43_
