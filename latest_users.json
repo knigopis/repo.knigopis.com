@@ -1,4 +1,10 @@
 {
+    "17439471-vkontakte": {
+        "id": "17439471-vkontakte",
+        "nickname": "vasja_mazuryk",
+        "booksCount": 0,
+        "updatedAt": "2016-10-11 02:38:48"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "Olyaperekatipole",
         "booksCount": 58,
         "updatedAt": "2016-10-02 23:36:26"
-    },
-    "56228374-vkontakte": {
-        "id": "56228374-vkontakte",
-        "nickname": "InaryD",
-        "booksCount": 35,
-        "updatedAt": "2016-10-02 14:15:20"
     }
 }
