@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 44,
+        "updatedAt": "2016-10-11 14:40:43"
+    },
     "100977482311394113587-google": {
         "id": "100977482311394113587-google",
         "nickname": "greceanii",
@@ -172,11 +178,5 @@
         "nickname": "Vasja930403",
         "booksCount": 1,
         "updatedAt": "2016-10-03 12:28:26"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 46,
-        "updatedAt": "2016-10-03 03:24:56"
     }
 }
