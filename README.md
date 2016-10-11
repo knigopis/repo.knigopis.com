@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория](users/308/30838259-vkontakte)<sup>0</sup> 
 [Vasja930403](users/113/113791616-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>46</sup> 
-[Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
 
 
-_11.10.2016 08:00:51_
+_11.10.2016 12:48:05_
