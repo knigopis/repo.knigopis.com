@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 22,
+        "updatedAt": "2016-10-11 15:00:07"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -22,12 +28,6 @@
         "nickname": "vasja_mazuryk",
         "booksCount": 0,
         "updatedAt": "2016-10-11 02:38:48"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 23,
-        "updatedAt": "2016-10-10 18:35:36"
     },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
