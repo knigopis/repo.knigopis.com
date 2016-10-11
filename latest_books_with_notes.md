@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
 * Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
 * Мечты роботов ~ [thinker73](users/366/366497970-yandex)<sup>1</sup>
-* Одиночество в сети ~ [norway_m](users/834/8345201-vkontakte)<sup>15</sup>
 
 
-_10.10.2016 18:35:36_
+_11.10.2016 08:00:51_

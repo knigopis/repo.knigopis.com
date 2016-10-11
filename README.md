@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
+    > Эта книга достойна голливудской экранизации.
+
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
     > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Приличный двубортный костюм, поплиновая рубашка и туфли, завернутые в бумагу, вельветовая куртка на искусственном меху, зимняя шапка из фальшивого котика, три пары финских креповых носков, шоферские перчатки и наконец — кожаный офицерский ремень.
 
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
-    > В книге описаны жуткие аборты, на которые шли женщины, которые не хотели официально идти в больницу. 
-    > Поражает и устрашает жуткая изобретательность, темнота и бесчеловечность.
 
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 
-* Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
@@ -54,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
-[pimanocci](users/117/117124011531379579265-google)<sup>9</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>58</sup> 
 
 
-_11.10.2016 02:38:50_
+_11.10.2016 08:00:51_

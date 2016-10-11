@@ -1,4 +1,10 @@
 {
+    "117124011531379579265-google": {
+        "id": "117124011531379579265-google",
+        "nickname": "pimanocci",
+        "booksCount": 10,
+        "updatedAt": "2016-10-11 08:00:51"
+    },
     "17439471-vkontakte": {
         "id": "17439471-vkontakte",
         "nickname": "vasja_mazuryk",
@@ -118,12 +124,6 @@
         "nickname": "Victoria",
         "booksCount": 23,
         "updatedAt": "2016-10-06 07:37:10"
-    },
-    "117124011531379579265-google": {
-        "id": "117124011531379579265-google",
-        "nickname": "pimanocci",
-        "booksCount": 9,
-        "updatedAt": "2016-10-05 14:02:56"
     },
     "13128526-vkontakte": {
         "id": "13128526-vkontakte",
