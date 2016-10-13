@@ -2,7 +2,7 @@
 ---
 
 ### `80` Docker in Action
-Jeff Nicoloff
+Jeff Nickoloff
 > Docker нужет тут и там
 > трам пам пам
 > тара рам
