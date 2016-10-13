@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
-[live33](users/388/38871174-vkontakte)<sup>0</sup> 
 
 
-_13.10.2016 16:40:31_
+_13.10.2016 22:17:45_
