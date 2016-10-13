@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dimapropolsky](users/211/21138193-vkontakte)<sup>14</sup> 
+[dimapropolsky](users/211/21138193-vkontakte)<sup>15</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
 
 
-_13.10.2016 16:33:15_
+_13.10.2016 16:35:50_
