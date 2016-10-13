@@ -1,4 +1,16 @@
 {
+    "i--XgBjYAZ": {
+        "id": "i--XgBjYAZ",
+        "title": "Портрет Дриана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "Ну книга полна всего: интересного сюжета, и размышлений о греховности, о нравственности человека. Очень доволен.",
+        "createdAt": "2016-10-13 16:33:15",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 14
+        }
+    },
     "LGRst7iuTN": {
         "id": "LGRst7iuTN",
         "title": "Франкенштейн или современный прометей",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 11
-        }
-    },
-    "_-dexu8sbi": {
-        "id": "_-dexu8sbi",
-        "title": "Ифигения в Тавриде",
-        "author": "Еврипид",
-        "notes": "",
-        "createdAt": "2016-10-06 13:25:07",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 10
         }
     }
 }
