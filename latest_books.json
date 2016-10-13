@@ -1,4 +1,16 @@
 {
+    "OzMlHEHfLW": {
+        "id": "OzMlHEHfLW",
+        "title": "Пляски смерти",
+        "author": "Людмила Рублёвская",
+        "notes": "Мне интересны книги про бубонную чуму Средневековья. Взял эту книгу \"по названию\" (сразу представился \"любимая\" эпоха) и был приятно удивлён. Добротный сюжет.",
+        "createdAt": "2016-10-13 16:28:54",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 11
+        }
+    },
     "TKaXgDemNu": {
         "id": "TKaXgDemNu",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 8
-        }
-    },
-    "jXKdRngyWU": {
-        "id": "jXKdRngyWU",
-        "title": "Одиссея",
-        "author": "Гомер",
-        "notes": "",
-        "createdAt": "2016-10-06 13:23:09",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 7
         }
     }
 }
