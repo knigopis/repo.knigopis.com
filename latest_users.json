@@ -1,4 +1,10 @@
 {
+    "357634987-vkontakte": {
+        "id": "357634987-vkontakte",
+        "nickname": "dealer_i",
+        "booksCount": 0,
+        "updatedAt": "2016-10-13 10:22:48"
+    },
     "152397152-vkontakte": {
         "id": "152397152-vkontakte",
         "nickname": "self__destruction",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 39,
         "updatedAt": "2016-10-03 23:06:10"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 291,
-        "updatedAt": "2016-10-03 20:28:06"
     }
 }
