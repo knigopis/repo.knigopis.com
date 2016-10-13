@@ -1,7 +1,12 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>9</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>10</sup>
 ---
 
 ## 2016
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2016-10] Трагичная книга,но понравилась
+
 
 ### Чума
 Альбер Камю
