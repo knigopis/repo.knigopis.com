@@ -1,4 +1,16 @@
 {
+    "K6d7XeveWW": {
+        "id": "K6d7XeveWW",
+        "title": "Легенда о сонной лощине",
+        "author": "Вашингтон Ирвинг",
+        "notes": "Ну это классика жанра)",
+        "createdAt": "2016-10-13 16:29:34",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 12
+        }
+    },
     "OzMlHEHfLW": {
         "id": "OzMlHEHfLW",
         "title": "Пляски смерти",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 9
-        }
-    },
-    "AC2wru3wPs": {
-        "id": "AC2wru3wPs",
-        "title": "Труды и дни",
-        "author": "Гесиод",
-        "notes": "",
-        "createdAt": "2016-10-06 13:24:11",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 8
         }
     }
 }

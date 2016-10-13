@@ -1,4 +1,4 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>11</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>12</sup>
 ---
 
 ## 2016
@@ -48,6 +48,11 @@
 
 
 ## 2014
+
+### Легенда о сонной лощине
+Вашингтон Ирвинг
+> Ну это классика жанра)
+
 
 ### Пляски смерти
 Людмила Рублёвская
