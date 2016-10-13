@@ -1,4 +1,4 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>15</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>16</sup>
 ---
 
 ## 2016
@@ -40,6 +40,11 @@
 
 
 ## 2015
+
+### Хоббит
+Джон Рональд Руэл Толкин
+> Обожаю
+
 
 ### Подсознание может ВСЁ!
 Джон Кехо

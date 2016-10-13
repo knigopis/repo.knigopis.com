@@ -1,4 +1,16 @@
 {
+    "1HlctkneOK": {
+        "id": "1HlctkneOK",
+        "title": "Хоббит",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "Обожаю",
+        "createdAt": "2016-10-13 16:38:37",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 16
+        }
+    },
     "toXr6KIxAk": {
         "id": "toXr6KIxAk",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 13
-        }
-    },
-    "BnCZs9kDo_": {
-        "id": "BnCZs9kDo_",
-        "title": "Лисистрата",
-        "author": "Аристофан",
-        "notes": "",
-        "createdAt": "2016-10-06 13:26:22",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 12
         }
     }
 }
