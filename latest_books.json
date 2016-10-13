@@ -1,4 +1,16 @@
 {
+    "AYrqU9QGl_": {
+        "id": "AYrqU9QGl_",
+        "title": "Богатый папа Бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "Книгой в целом доволен. Книга учит как правильно располагать своими деньгами, как правильно инвестировать их.",
+        "createdAt": "2016-10-13 16:12:17",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 4
+        }
+    },
     "kRFJfvS85p": {
         "id": "kRFJfvS85p",
         "title": "Подсознание может ВСЁ!",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 22
-        }
-    },
-    "P-5Sj6XyF3": {
-        "id": "P-5Sj6XyF3",
-        "title": "П_Ш",
-        "author": "Дмитрий Хара",
-        "notes": "",
-        "createdAt": "2016-10-06 07:36:04",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 21
         }
     }
 }
