@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 [live33](users/388/38871174-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>39</sup> 
-[Лела Папава](users/761/76187635-vkontakte)<sup>291</sup> 
 
 
-_11.10.2016 20:57:43_
+_13.10.2016 10:22:50_
