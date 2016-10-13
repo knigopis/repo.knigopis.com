@@ -1,4 +1,16 @@
 {
+    "LGRst7iuTN": {
+        "id": "LGRst7iuTN",
+        "title": "Франкенштейн или современный прометей",
+        "author": "Мэри Шелли",
+        "notes": "Помню начинал читать эту книгу на экране китайского iPoda. Позже приобрёл бумажный вариант, прочитал и остался доволен) Опять же. Это классика жанра.",
+        "createdAt": "2016-10-13 16:31:36",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 13
+        }
+    },
     "K6d7XeveWW": {
         "id": "K6d7XeveWW",
         "title": "Легенда о сонной лощине",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 10
-        }
-    },
-    "CYPZ6DoUpu": {
-        "id": "CYPZ6DoUpu",
-        "title": "Семеро против Фив",
-        "author": "Эсхил",
-        "notes": "",
-        "createdAt": "2016-10-06 13:24:41",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 9
         }
     }
 }
