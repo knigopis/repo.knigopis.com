@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
 * Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 * Страна слепых ~ [Sofie](users/485/48568611-vkontakte)<sup>70</sup>
-* Теория катастрофы ~ [lucius](users/838/83820536-yandex)<sup>133</sup>
 
 
-_11.10.2016 20:28:34_
+_14.10.2016 08:43:57_

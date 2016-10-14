@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 42,
+        "updatedAt": "2016-10-14 08:43:57"
+    },
     "1236741-vkontakte": {
         "id": "1236741-vkontakte",
         "nickname": "Olyaperekatipole",
@@ -64,12 +70,6 @@
         "nickname": "vasja_mazuryk",
         "booksCount": 0,
         "updatedAt": "2016-10-11 02:38:48"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 41,
-        "updatedAt": "2016-10-10 17:22:25"
     },
     "112366191289808901180-google": {
         "id": "112366191289808901180-google",

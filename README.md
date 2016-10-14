@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
+    > Евсей Рубинчик, владелец магазина «Днепр» Зяма Пивоваров, диссидент Караваев, торговец недвижимостью Аркаша Лернер, Маруся Татарович, Рафаэль, попугай Лоло.
+
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
     > Черновик хорош и чистовик хорош.Про чувака которого все стали все забыть его Друга Котю и то как он был таможенником и путешествовавал по мирам
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Эта книга достойна голливудской экранизации.
 
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
-    > Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.
 
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
 
-* Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 
 
-_14.10.2016 01:20:36_
+_14.10.2016 08:43:57_
