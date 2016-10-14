@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
 [condesa](users/131/13128526-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>452</sup> 
 
 
-_13.10.2016 22:17:45_
+_14.10.2016 01:20:36_

@@ -1,4 +1,16 @@
 {
+    "L9x1oRc_Da": {
+        "id": "L9x1oRc_Da",
+        "title": "Над пропастью во ржи",
+        "author": "Джэром Сэлинджер",
+        "notes": "",
+        "createdAt": "2016-10-14 01:20:36",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 59
+        }
+    },
     "IOtI_md28k": {
         "id": "IOtI_md28k",
         "title": "Властелин колец",
@@ -345,18 +357,6 @@
             "id": "380085691-vkontakte",
             "nickname": "nohappinessnofun",
             "booksCount": 1
-        }
-    },
-    "5c_7ycE73E": {
-        "id": "5c_7ycE73E",
-        "title": "«Сия́ние»",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2016-10-07 20:46:57",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 40
         }
     }
 }
