@@ -1,4 +1,10 @@
 {
+    "145516802-vkontakte": {
+        "id": "145516802-vkontakte",
+        "nickname": "ledera_hanako",
+        "booksCount": 0,
+        "updatedAt": "2016-10-15 12:33:35"
+    },
     "100003094239547-facebook": {
         "id": "100003094239547-facebook",
         "nickname": "igor1980",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 81,
         "updatedAt": "2016-10-06 12:39:30"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 23,
-        "updatedAt": "2016-10-06 07:37:10"
     }
 }
