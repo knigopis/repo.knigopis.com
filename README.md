@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
+    > Неплохая книга, вычитал 10-15 полезных советов. Рекомендую к прочтению начинающим IT специалистам. Книга небольшая (200 стр.) Читается легко. Такие книги я читаю с карандашом в руке, сразу конспектирую интересные идеи.
+
 * Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
     > Евсей Рубинчик, владелец магазина «Днепр» Зяма Пивоваров, диссидент Караваев, торговец недвижимостью Аркаша Лернер, Маруся Татарович, Рафаэль, попугай Лоло.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Черновик хорош и чистовик хорош.Про чувака которого все стали все забыть его Друга Котю и то как он был таможенником и путешествовавал по мирам
 
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
-    > Эта книга достойна голливудской экранизации.
 
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 
-* Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
-[condesa](users/131/13128526-vkontakte)<sup>0</sup> 
 
 
-_14.10.2016 08:43:57_
+_15.10.2016 05:30:57_

@@ -1,4 +1,10 @@
 {
+    "100003094239547-facebook": {
+        "id": "100003094239547-facebook",
+        "nickname": "igor1980",
+        "booksCount": 5,
+        "updatedAt": "2016-10-15 05:30:57"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 23,
         "updatedAt": "2016-10-06 07:37:10"
-    },
-    "13128526-vkontakte": {
-        "id": "13128526-vkontakte",
-        "nickname": "condesa",
-        "booksCount": 0,
-        "updatedAt": "2016-10-05 05:10:10"
     }
 }
