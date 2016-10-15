@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ledera_hanako](users/145/145516802-vkontakte)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>81</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>23</sup> 
 
 
-_15.10.2016 05:30:57_
+_15.10.2016 12:33:37_
