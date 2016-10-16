@@ -1,4 +1,10 @@
 {
+    "4899731-vkontakte": {
+        "id": "4899731-vkontakte",
+        "nickname": "kuzhakhmetov",
+        "booksCount": 0,
+        "updatedAt": "2016-10-16 18:03:13"
+    },
     "152183909-vkontakte": {
         "id": "152183909-vkontakte",
         "nickname": "d.molokoedova",
@@ -172,11 +178,5 @@
         "nickname": "nohappinessnofun",
         "booksCount": 0,
         "updatedAt": "2016-10-08 14:52:33"
-    },
-    "320700111602997-facebook": {
-        "id": "320700111602997-facebook",
-        "nickname": "Alona",
-        "booksCount": 40,
-        "updatedAt": "2016-10-07 20:46:57"
     }
 }
