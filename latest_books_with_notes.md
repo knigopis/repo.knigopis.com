@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
 * Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
 * Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
@@ -30,7 +31,6 @@
 * Цветы для Элджернона ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup>
 * Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
 * Странная история доктора Джекила и мистера Хайда ~ [Sofie](users/485/48568611-vkontakte)<sup>71</sup>
-* Астровитянка ~ [rNix](users/115/115622071-twitter)<sup>44</sup>
 
 
-_15.10.2016 05:30:57_
+_16.10.2016 10:20:08_
