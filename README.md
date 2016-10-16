@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Salamandrrra](users/222/222677005-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>5</sup> 
 [ledera_hanako](users/145/145516802-vkontakte)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>40</sup> 
 [homstoft](users/145/145853238-vkontakte)<sup>0</sup> 
-[Julia](users/556/55688208-vkontakte)<sup>13</sup> 
 
 
-_16.10.2016 10:20:08_
+_16.10.2016 12:24:25_
