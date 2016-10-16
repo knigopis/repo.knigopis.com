@@ -1,4 +1,16 @@
 {
+    "qXNnXGuWeO": {
+        "id": "qXNnXGuWeO",
+        "title": "Братья Карамазовы",
+        "author": "Фёдор Достоевский",
+        "notes": "",
+        "createdAt": "2016-10-16 15:16:58",
+        "user": {
+            "id": "152183909-vkontakte",
+            "nickname": "d.molokoedova",
+            "booksCount": 1
+        }
+    },
     "Uv0PUUXnbB": {
         "id": "Uv0PUUXnbB",
         "title": "Большие надежды",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 26
-        }
-    },
-    "2R1Q5iDPbQ": {
-        "id": "2R1Q5iDPbQ",
-        "title": "Pre-Suasion: A Revolutionary Way to Influence and Persuade",
-        "author": "Robert Cialdini",
-        "notes": "ASIN: B01C36E2YS",
-        "createdAt": "2016-10-09 07:08:15",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 25
         }
     }
 }
