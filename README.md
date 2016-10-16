@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
 [Salamandrrra](users/222/222677005-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
 [nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>40</sup> 
 
 
-_16.10.2016 15:23:29_
+_16.10.2016 18:03:15_
