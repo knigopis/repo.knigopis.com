@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Citycat02](users/110/110026466098031422803-google)<sup>0</sup> 
 [kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
 [Salamandrrra](users/222/222677005-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 [a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
 [nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
-[nohappinessnofun](users/380/380085691-vkontakte)<sup>0</sup> 
 
 
-_16.10.2016 18:03:44_
+_17.10.2016 07:38:47_
