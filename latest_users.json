@@ -1,4 +1,10 @@
 {
+    "21138193-vkontakte": {
+        "id": "21138193-vkontakte",
+        "nickname": "dimapropolsky",
+        "booksCount": 18,
+        "updatedAt": "2016-10-17 16:12:27"
+    },
     "110026466098031422803-google": {
         "id": "110026466098031422803-google",
         "nickname": "Citycat02",
@@ -58,12 +64,6 @@
         "nickname": "valmac",
         "booksCount": 0,
         "updatedAt": "2016-10-13 22:17:43"
-    },
-    "21138193-vkontakte": {
-        "id": "21138193-vkontakte",
-        "nickname": "dimapropolsky",
-        "booksCount": 17,
-        "updatedAt": "2016-10-13 16:40:31"
     },
     "357634987-vkontakte": {
         "id": "357634987-vkontakte",

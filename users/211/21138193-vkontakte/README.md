@@ -1,7 +1,12 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>17</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>18</sup>
 ---
 
 ## 2016
+
+### Как я был произведением исуксства
+Эрик-Эмманюэль Шмитт
+> [2016-10-17] Очень необычно и очень интересно)
+
 
 ### Великий Гэтсби
 Фрэнсис Скотт Фицджеральд

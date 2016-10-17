@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Citycat02](users/110/110026466098031422803-google)<sup>0</sup> 
 [kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
-[dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nulconaux](users/115/115901029459192115068-google)<sup>0</sup> 
 
 
-_17.10.2016 07:38:47_
+_17.10.2016 16:12:27_
