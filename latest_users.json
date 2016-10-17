@@ -1,4 +1,10 @@
 {
+    "110026466098031422803-google": {
+        "id": "110026466098031422803-google",
+        "nickname": "Citycat02",
+        "booksCount": 0,
+        "updatedAt": "2016-10-17 07:38:45"
+    },
     "4899731-vkontakte": {
         "id": "4899731-vkontakte",
         "nickname": "kuzhakhmetov",
@@ -172,11 +178,5 @@
         "nickname": "nulconaux",
         "booksCount": 0,
         "updatedAt": "2016-10-08 15:09:04"
-    },
-    "380085691-vkontakte": {
-        "id": "380085691-vkontakte",
-        "nickname": "nohappinessnofun",
-        "booksCount": 0,
-        "updatedAt": "2016-10-08 14:52:33"
     }
 }
