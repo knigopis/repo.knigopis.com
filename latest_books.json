@@ -1,4 +1,16 @@
 {
+    "Aa4cDJc8_s": {
+        "id": "Aa4cDJc8_s",
+        "title": "Вы, конечно, шутите, мистер Фейнман",
+        "author": "Фейнман Ричард",
+        "notes": "",
+        "createdAt": "2016-10-18 20:18:20",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 18
+        }
+    },
     "lPY9w_i1_J": {
         "id": "lPY9w_i1_J",
         "title": "Петербург",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 15
-        }
-    },
-    "i--XgBjYAZ": {
-        "id": "i--XgBjYAZ",
-        "title": "Портрет Дриана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "Ну книга полна всего: интересного сюжета, и размышлений о греховности, о нравственности человека. Очень доволен.",
-        "createdAt": "2016-10-13 16:33:15",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 14
         }
     }
 }
