@@ -1,4 +1,16 @@
 {
+    "sU8TilBwiL": {
+        "id": "sU8TilBwiL",
+        "title": "Макулатура",
+        "author": "Буковски Чарльз",
+        "notes": "",
+        "createdAt": "2016-10-18 20:09:50",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 1
+        }
+    },
     "ef17NvbPo7": {
         "id": "ef17NvbPo7",
         "title": "Убийство: рассказы",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 41
-        }
-    },
-    "eKiyk2HhEG": {
-        "id": "eKiyk2HhEG",
-        "title": "Дракула",
-        "author": "Б.Стокер",
-        "notes": "",
-        "createdAt": "2016-10-10 10:49:09",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 22
         }
     }
 }
