@@ -1,4 +1,4 @@
-# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>5</sup>
+# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>6</sup>
 ---
 
 ## 2016
@@ -26,6 +26,14 @@
 ### Макулатура
 Буковски Чарльз
 > [2016-01] 
+
+
+
+## 2015
+
+### Сумма технологий
+Лем Станислав
+> [2015-11] 
 
 
 

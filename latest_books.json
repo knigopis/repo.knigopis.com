@@ -1,4 +1,16 @@
 {
+    "946W1qd8cd": {
+        "id": "946W1qd8cd",
+        "title": "Сумма технологий",
+        "author": "Лем Станислав",
+        "notes": "",
+        "createdAt": "2016-10-18 20:12:11",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 6
+        }
+    },
     "HLZDvwq_RR": {
         "id": "HLZDvwq_RR",
         "title": "Миф о Сизифе",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 1
-        }
-    },
-    "Db9bpQzz7Q": {
-        "id": "Db9bpQzz7Q",
-        "title": "Черновик и потом чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "Черновик хорош и чистовик хорош.Про чувака которого все стали все забыть его Друга Котю и то как он был таможенником и путешествовавал по мирам",
-        "createdAt": "2016-10-11 20:28:34",
-        "user": {
-            "id": "10205442182733690-facebook",
-            "nickname": "romann",
-            "booksCount": 5
         }
     }
 }
