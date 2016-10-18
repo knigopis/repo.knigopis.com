@@ -1,4 +1,16 @@
 {
+    "g9gI57yXiM": {
+        "id": "g9gI57yXiM",
+        "title": "Страх и отвращение в Лас-Вегасе",
+        "author": "Томпсон Хантер",
+        "notes": "",
+        "createdAt": "2016-10-18 20:19:02",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 19
+        }
+    },
     "Aa4cDJc8_s": {
         "id": "Aa4cDJc8_s",
         "title": "Вы, конечно, шутите, мистер Фейнман",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 16
-        }
-    },
-    "toXr6KIxAk": {
-        "id": "toXr6KIxAk",
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "notes": "Ох уж этот легендарный персонаж...Приятна экранизация романа с Гэри Олдманом. 90% книги есть в фильме.",
-        "createdAt": "2016-10-13 16:35:50",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 15
         }
     }
 }
