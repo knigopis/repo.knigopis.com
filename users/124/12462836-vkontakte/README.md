@@ -1,4 +1,4 @@
-# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>7</sup>
+# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>8</sup>
 ---
 
 ## 2016
@@ -39,6 +39,11 @@
 ### Сумма технологий
 Лем Станислав
 > [2015-11] 
+
+
+### Чума
+Камю Альбер
+> [2015-04] 
 
 
 

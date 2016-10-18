@@ -1,4 +1,16 @@
 {
+    "MiizrNoonE": {
+        "id": "MiizrNoonE",
+        "title": "Чума",
+        "author": "Камю Альбер",
+        "notes": "",
+        "createdAt": "2016-10-18 20:12:58",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 8
+        }
+    },
     "z9HnRS6QpH": {
         "id": "z9HnRS6QpH",
         "title": "Почтамт",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 3
-        }
-    },
-    "cPq1oFA_20": {
-        "id": "cPq1oFA_20",
-        "title": "Никогде",
-        "author": "Нил Гейман",
-        "notes": "Весьма своебразная книга. В целом сюжет интересен для фантазирования, но не рекомендую просмотр экранизации.",
-        "createdAt": "2016-10-13 16:02:50",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 2
         }
     }
 }
