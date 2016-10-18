@@ -1,4 +1,16 @@
 {
+    "Q8OkLJG49x": {
+        "id": "Q8OkLJG49x",
+        "title": "Война с саламандрами",
+        "author": "Чапек Карл",
+        "notes": "",
+        "createdAt": "2016-10-18 20:15:20",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 13
+        }
+    },
     "mtod9guRDT": {
         "id": "mtod9guRDT",
         "title": "Технологии изменения сознания в дуструктивных культах",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 10
-        }
-    },
-    "TaOobPemep": {
-        "id": "TaOobPemep",
-        "title": "Чумные истории",
-        "author": "Энн Бэнсон",
-        "notes": "ЭТА КНИГА ЩЕДЕВР !!! Два очень захватывающих переплетающихся сюжета, которые сходятся в одну точку...короче читать ВСЕМ)",
-        "createdAt": "2016-10-13 16:23:13",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 9
         }
     }
 }
