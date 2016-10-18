@@ -1,4 +1,10 @@
 {
+    "12462836-vkontakte": {
+        "id": "12462836-vkontakte",
+        "nickname": "dmtrdmtr",
+        "booksCount": 0,
+        "updatedAt": "2016-10-18 20:06:20"
+    },
     "278072338-vkontakte": {
         "id": "278072338-vkontakte",
         "nickname": "Арквейд Курапира",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 26,
         "updatedAt": "2016-10-09 07:13:42"
-    },
-    "11424536-vkontakte": {
-        "id": "11424536-vkontakte",
-        "nickname": "shtormovoy_sokol",
-        "booksCount": 0,
-        "updatedAt": "2016-10-09 05:41:50"
     }
 }
