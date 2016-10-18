@@ -1,4 +1,16 @@
 {
+    "poYAdmaz4z": {
+        "id": "poYAdmaz4z",
+        "title": "Слепой часовщик",
+        "author": "Докинз Чарльз",
+        "notes": "",
+        "createdAt": "2016-10-18 20:13:22",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 9
+        }
+    },
     "MiizrNoonE": {
         "id": "MiizrNoonE",
         "title": "Чума",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 4
-        }
-    },
-    "kRFJfvS85p": {
-        "id": "kRFJfvS85p",
-        "title": "Подсознание может ВСЁ!",
-        "author": "Джон Кехо",
-        "notes": "Хорошая книга) Мотивирует к жизни, к свершениям, к проецированию собственного будущего.",
-        "createdAt": "2016-10-13 16:08:15",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 3
         }
     }
 }
