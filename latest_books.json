@@ -1,4 +1,16 @@
 {
+    "5-QiTkxUkX": {
+        "id": "5-QiTkxUkX",
+        "title": "Записки старого козла",
+        "author": "Буковски Чарльз",
+        "notes": "",
+        "createdAt": "2016-10-18 20:10:44",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 3
+        }
+    },
     "QkNWFGyONU": {
         "id": "QkNWFGyONU",
         "title": "Язык телодвижений",
@@ -345,18 +357,6 @@
             "id": "117124011531379579265-google",
             "nickname": "pimanocci",
             "booksCount": 10
-        }
-    },
-    "zL_R5kJZYY": {
-        "id": "zL_R5kJZYY",
-        "title": "Уйти, чтобы вернуться",
-        "author": "Мар Леви",
-        "notes": "Великолепно. Совершенно неожиданные повороты событий. Завораживает и затягивает.",
-        "createdAt": "2016-10-10 18:35:36",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 23
         }
     }
 }

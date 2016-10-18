@@ -1,7 +1,12 @@
-# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>2</sup>
+# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>3</sup>
 ---
 
 ## 2016
+
+### Записки старого козла
+Буковски Чарльз
+> [2016-02] 
+
 
 ### Язык телодвижений
 Пиз Алан и Барбара
