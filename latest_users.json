@@ -1,4 +1,10 @@
 {
+    "15838562-vkontakte": {
+        "id": "15838562-vkontakte",
+        "nickname": "katalinamalkova",
+        "booksCount": 0,
+        "updatedAt": "2016-10-18 14:47:30"
+    },
     "116164604589209895641-google": {
         "id": "116164604589209895641-google",
         "nickname": "Aleksandr",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 78,
         "updatedAt": "2016-10-08 20:41:06"
-    },
-    "140263334-vkontakte": {
-        "id": "140263334-vkontakte",
-        "nickname": "a.a.kozachenko",
-        "booksCount": 0,
-        "updatedAt": "2016-10-08 19:35:13"
     }
 }
