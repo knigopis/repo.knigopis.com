@@ -1,4 +1,16 @@
 {
+    "lPY9w_i1_J": {
+        "id": "lPY9w_i1_J",
+        "title": "Петербург",
+        "author": "Белый Андрей",
+        "notes": "",
+        "createdAt": "2016-10-18 20:17:42",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 17
+        }
+    },
     "f6nkR6XaJc": {
         "id": "f6nkR6XaJc",
         "title": "Смерть в кредит",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 14
-        }
-    },
-    "LGRst7iuTN": {
-        "id": "LGRst7iuTN",
-        "title": "Франкенштейн или современный прометей",
-        "author": "Мэри Шелли",
-        "notes": "Помню начинал читать эту книгу на экране китайского iPoda. Позже приобрёл бумажный вариант, прочитал и остался доволен) Опять же. Это классика жанра.",
-        "createdAt": "2016-10-13 16:31:36",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 13
         }
     }
 }
