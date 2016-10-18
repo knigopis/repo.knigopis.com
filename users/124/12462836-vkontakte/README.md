@@ -33,7 +33,7 @@ Lonsdorf Brian
 
 
 ### Single page apps in depth
-Mikito Takada
+Takada Mikito
 
 
 ### Понедельник начинается в субботу
