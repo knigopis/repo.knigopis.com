@@ -1,4 +1,4 @@
-# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>21</sup>
+# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>22</sup>
 ---
 
 ## 2016
@@ -26,6 +26,10 @@
 ### Макулатура
 Буковски Чарльз
 > [2016-01] 
+
+
+### Single page apps in depth
+Mikito Takada
 
 
 ### Понедельник начинается в субботу
