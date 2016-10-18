@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
+    > +к любимым книгам. Эта книга должна стоять у меня на полке. Да и не только у меня с:
+
 * Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
     > #... Зато черные тараканы не обращали ни малейшего внимания на всю эту суету; они не спеша, по-стариковски, бродили возле камина, словно были подслеповаты и туги на ухо, и к тому же не ладили между собой....
     > У Диккенса, как всегда: закручено до крайности, до предела, до нищеты или богатства, до высшей добродетели или низшей порочности. Все циклично, по кругу, взлеты, падения, поиски, перемены. Но конец всегда хороший? Мисс Хэвишем и Орлик - интересные персонажи, но почему-то не очень раскрыты..
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Неплохая книга, вычитал 10-15 полезных советов. Рекомендую к прочтению начинающим IT специалистам. Книга небольшая (200 стр.) Читается легко. Такие книги я читаю с карандашом в руке, сразу конспектирую интересные идеи.
 
 * Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
-    > Евсей Рубинчик, владелец магазина «Днепр» Зяма Пивоваров, диссидент Караваев, торговец недвижимостью Аркаша Лернер, Маруся Татарович, Рафаэль, попугай Лоло.
 
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
 
-* Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
 [katalinamalkova](users/158/15838562-vkontakte)<sup>0</sup> 
 [Aleksandr](users/116/116164604589209895641-google)<sup>0</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>20</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
 [greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
 
 
-_18.10.2016 14:47:33_
+_18.10.2016 15:15:57_
