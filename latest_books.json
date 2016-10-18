@@ -1,4 +1,16 @@
 {
+    "z9HnRS6QpH": {
+        "id": "z9HnRS6QpH",
+        "title": "Почтамт",
+        "author": "Буковски Чарльз",
+        "notes": "",
+        "createdAt": "2016-10-18 20:12:38",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 7
+        }
+    },
     "946W1qd8cd": {
         "id": "946W1qd8cd",
         "title": "Сумма технологий",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 2
-        }
-    },
-    "9ZrbwUeZ59": {
-        "id": "9ZrbwUeZ59",
-        "title": "Чума",
-        "author": "Альбер Камю",
-        "notes": "Понравилась продумывать свои возможные действия, поступки окажись я в такой экстремальной ситуации...",
-        "createdAt": "2016-10-13 15:55:25",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 1
         }
     }
 }

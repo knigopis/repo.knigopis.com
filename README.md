@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dmtrdmtr](users/124/12462836-vkontakte)<sup>6</sup> 
+[dmtrdmtr](users/124/12462836-vkontakte)<sup>7</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>41</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
 [katalinamalkova](users/158/15838562-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>26</sup> 
 
 
-_18.10.2016 20:12:11_
+_18.10.2016 20:12:38_
