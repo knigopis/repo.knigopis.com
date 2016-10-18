@@ -1,4 +1,16 @@
 {
+    "hMa0_E6AkA": {
+        "id": "hMa0_E6AkA",
+        "title": "Превращение",
+        "author": "Кафка Франц",
+        "notes": "",
+        "createdAt": "2016-10-18 20:16:17",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 15
+        }
+    },
     "1vTgE5a4fD": {
         "id": "1vTgE5a4fD",
         "title": "Анти-Дюринг",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 12
-        }
-    },
-    "OzMlHEHfLW": {
-        "id": "OzMlHEHfLW",
-        "title": "Пляски смерти",
-        "author": "Людмила Рублёвская",
-        "notes": "Мне интересны книги про бубонную чуму Средневековья. Взял эту книгу \"по названию\" (сразу представился \"любимая\" эпоха) и был приятно удивлён. Добротный сюжет.",
-        "createdAt": "2016-10-13 16:28:54",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 11
         }
     }
 }
