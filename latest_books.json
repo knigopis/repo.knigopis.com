@@ -1,4 +1,16 @@
 {
+    "EF9Tq0Mmn5": {
+        "id": "EF9Tq0Mmn5",
+        "title": "Посторонний",
+        "author": "Камю Альбер",
+        "notes": "",
+        "createdAt": "2016-10-18 20:11:18",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 4
+        }
+    },
     "5-QiTkxUkX": {
         "id": "5-QiTkxUkX",
         "title": "Записки старого козла",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 44
-        }
-    },
-    "VB79p2WMhk": {
-        "id": "VB79p2WMhk",
-        "title": "Поток",
-        "author": "Дэниэл Суарес",
-        "notes": "Эта книга достойна голливудской экранизации.",
-        "createdAt": "2016-10-11 08:00:51",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 10
         }
     }
 }
