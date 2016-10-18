@@ -1,4 +1,10 @@
 {
+    "116164604589209895641-google": {
+        "id": "116164604589209895641-google",
+        "nickname": "Aleksandr",
+        "booksCount": 0,
+        "updatedAt": "2016-10-18 08:18:49"
+    },
     "21138193-vkontakte": {
         "id": "21138193-vkontakte",
         "nickname": "dimapropolsky",
@@ -172,11 +178,5 @@
         "nickname": "a.a.kozachenko",
         "booksCount": 0,
         "updatedAt": "2016-10-08 19:35:13"
-    },
-    "115901029459192115068-google": {
-        "id": "115901029459192115068-google",
-        "nickname": "nulconaux",
-        "booksCount": 0,
-        "updatedAt": "2016-10-08 15:09:04"
     }
 }
