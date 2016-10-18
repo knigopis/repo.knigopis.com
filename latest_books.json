@@ -1,4 +1,16 @@
 {
+    "ef17NvbPo7": {
+        "id": "ef17NvbPo7",
+        "title": "Убийство: рассказы",
+        "author": "А. Чехов",
+        "notes": "",
+        "createdAt": "2016-10-18 18:31:20",
+        "user": {
+            "id": "278072338-vkontakte",
+            "nickname": "Арквейд Курапира",
+            "booksCount": 41
+        }
+    },
     "Hoed_i1WBS": {
         "id": "Hoed_i1WBS",
         "title": "Виноваты звезды",
@@ -341,18 +353,6 @@
         "author": "Б.Стокер",
         "notes": "",
         "createdAt": "2016-10-10 10:49:09",
-        "user": {
-            "id": "112366191289808901180-google",
-            "nickname": "Faith",
-            "booksCount": 22
-        }
-    },
-    "C2UvU-5e6t": {
-        "id": "C2UvU-5e6t",
-        "title": "Пиковая Дама",
-        "author": "А.С. Пушкин",
-        "notes": "",
-        "createdAt": "2016-10-10 10:47:16",
         "user": {
             "id": "112366191289808901180-google",
             "nickname": "Faith",

@@ -1,4 +1,10 @@
 {
+    "278072338-vkontakte": {
+        "id": "278072338-vkontakte",
+        "nickname": "Арквейд Курапира",
+        "booksCount": 41,
+        "updatedAt": "2016-10-18 18:31:20"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "shtormovoy_sokol",
         "booksCount": 0,
         "updatedAt": "2016-10-09 05:41:50"
-    },
-    "leczQ3Eya3-linkedin": {
-        "id": "leczQ3Eya3-linkedin",
-        "nickname": "Ник Литвинов",
-        "booksCount": 78,
-        "updatedAt": "2016-10-08 20:41:06"
     }
 }
