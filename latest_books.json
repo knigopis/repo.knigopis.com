@@ -1,4 +1,16 @@
 {
+    "p9ul2GHrlN": {
+        "id": "p9ul2GHrlN",
+        "title": "В дороге",
+        "author": "Керуак Джек",
+        "notes": "",
+        "createdAt": "2016-10-18 20:13:50",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 10
+        }
+    },
     "poYAdmaz4z": {
         "id": "poYAdmaz4z",
         "title": "Слепой часовщик",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 7
-        }
-    },
-    "AYrqU9QGl_": {
-        "id": "AYrqU9QGl_",
-        "title": "Богатый папа Бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "Книгой в целом доволен. Книга учит как правильно располагать своими деньгами, как правильно инвестировать их.",
-        "createdAt": "2016-10-13 16:12:17",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 4
         }
     }
 }
