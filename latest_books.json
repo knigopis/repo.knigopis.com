@@ -1,4 +1,16 @@
 {
+    "1vTgE5a4fD": {
+        "id": "1vTgE5a4fD",
+        "title": "Анти-Дюринг",
+        "author": "Энгельс Фридрих",
+        "notes": "",
+        "createdAt": "2016-10-18 20:15:52",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 14
+        }
+    },
     "Q8OkLJG49x": {
         "id": "Q8OkLJG49x",
         "title": "Война с саламандрами",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 11
-        }
-    },
-    "TKaXgDemNu": {
-        "id": "TKaXgDemNu",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "Трагичная книга,но понравилась",
-        "createdAt": "2016-10-13 16:24:35",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 10
         }
     }
 }
