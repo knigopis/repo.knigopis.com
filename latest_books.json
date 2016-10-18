@@ -1,4 +1,16 @@
 {
+    "6ATF38IqZL": {
+        "id": "6ATF38IqZL",
+        "title": "",
+        "author": "Стругацкие Ар",
+        "notes": "",
+        "createdAt": "2016-10-18 20:20:03",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 21
+        }
+    },
     "ZExgDfuasM": {
         "id": "ZExgDfuasM",
         "title": "Дорогами тысячелетий",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 59
-        }
-    },
-    "IOtI_md28k": {
-        "id": "IOtI_md28k",
-        "title": "Властелин колец",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "Это мой любимый мир) Фильм смотрел кучу раз и наконец-то решил прочесть книгу вместе с \"Хоббитом\". И я скажу, что в книге описаны такие события, которые очень классно представить после того, как засмотрел фильм \"до дыр\".",
-        "createdAt": "2016-10-13 16:40:31",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 17
         }
     }
 }

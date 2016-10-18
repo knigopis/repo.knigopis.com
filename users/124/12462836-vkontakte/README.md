@@ -1,4 +1,4 @@
-# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>20</sup>
+# List of books read by [dmtrdmtr](http://vk.com/id12462836)<sup>21</sup>
 ---
 
 ## 2016
@@ -26,6 +26,9 @@
 ### Макулатура
 Буковски Чарльз
 > [2016-01] 
+
+
+Стругацкие Ар
 
 
 ### Дорогами тысячелетий
