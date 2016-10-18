@@ -1,4 +1,16 @@
 {
+    "f6nkR6XaJc": {
+        "id": "f6nkR6XaJc",
+        "title": "Смерть в кредит",
+        "author": "Селин Луи-Фердинанд",
+        "notes": "",
+        "createdAt": "2016-10-18 20:17:21",
+        "user": {
+            "id": "12462836-vkontakte",
+            "nickname": "dmtrdmtr",
+            "booksCount": 16
+        }
+    },
     "hMa0_E6AkA": {
         "id": "hMa0_E6AkA",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 13
-        }
-    },
-    "K6d7XeveWW": {
-        "id": "K6d7XeveWW",
-        "title": "Легенда о сонной лощине",
-        "author": "Вашингтон Ирвинг",
-        "notes": "Ну это классика жанра)",
-        "createdAt": "2016-10-13 16:29:34",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 12
         }
     }
 }
