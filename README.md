@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katalinamalkova](users/158/15838562-vkontakte)<sup>0</sup> 
 [Aleksandr](users/116/116164604589209895641-google)<sup>0</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Citycat02](users/110/110026466098031422803-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>26</sup> 
 [shtormovoy_sokol](users/114/11424536-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup> 
-[a.a.kozachenko](users/140/140263334-vkontakte)<sup>0</sup> 
 
 
-_18.10.2016 08:18:50_
+_18.10.2016 14:47:33_
