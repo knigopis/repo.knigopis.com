@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nohappinessnofun](users/380/380085691-vkontakte)<sup>2</sup> 
+[nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
 [dmtrdmtr](users/124/12462836-vkontakte)<sup>23</sup> 
 [Арквейд Курапира](users/278/278072338-vkontakte)<sup>41</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>135</sup> 
 
 
-_19.10.2016 16:00:29_
+_19.10.2016 16:00:49_
