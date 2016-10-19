@@ -1,4 +1,16 @@
 {
+    "8VICXCzBjE": {
+        "id": "8VICXCzBjE",
+        "title": "Темный повелитель. Становление Дарта Вейдера.",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2016-10-19 15:59:48",
+        "user": {
+            "id": "380085691-vkontakte",
+            "nickname": "nohappinessnofun",
+            "booksCount": 1
+        }
+    },
     "YCftbQdagA": {
         "id": "YCftbQdagA",
         "title": "Mostly adequate guide to functional programming",
@@ -344,18 +356,6 @@
         "user": {
             "id": "1577468-vkontakte",
             "nickname": "Беска",
-            "booksCount": 5
-        }
-    },
-    "UB4cnPDC9Y": {
-        "id": "UB4cnPDC9Y",
-        "title": "Программист фанатик",
-        "author": "Чед Фаулер",
-        "notes": "Неплохая книга, вычитал 10-15 полезных советов. Рекомендую к прочтению начинающим IT специалистам. Книга небольшая (200 стр.) Читается легко. Такие книги я читаю с карандашом в руке, сразу конспектирую интересные идеи.",
-        "createdAt": "2016-10-15 05:30:57",
-        "user": {
-            "id": "100003094239547-facebook",
-            "nickname": "igor1980",
             "booksCount": 5
         }
     }
