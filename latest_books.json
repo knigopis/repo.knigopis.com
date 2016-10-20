@@ -1,4 +1,16 @@
 {
+    "zlSFwl-caO": {
+        "id": "zlSFwl-caO",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "Мне было интересно читать! Говорят, что фильм еще лучше, обязательно посмотрю.",
+        "createdAt": "2016-10-20 18:33:10",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 13
+        }
+    },
     "YbRqwmFn6w": {
         "id": "YbRqwmFn6w",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 5
-        }
-    },
-    "EF9Tq0Mmn5": {
-        "id": "EF9Tq0Mmn5",
-        "title": "Посторонний",
-        "author": "Камю Альбер",
-        "notes": "",
-        "createdAt": "2016-10-18 20:11:18",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 4
         }
     }
 }
