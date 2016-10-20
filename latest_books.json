@@ -1,4 +1,16 @@
 {
+    "y3w4VOi5TS": {
+        "id": "y3w4VOi5TS",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2016-10-20 18:36:17",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 14
+        }
+    },
     "zlSFwl-caO": {
         "id": "zlSFwl-caO",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 6
-        }
-    },
-    "HLZDvwq_RR": {
-        "id": "HLZDvwq_RR",
-        "title": "Миф о Сизифе",
-        "author": "Камю Альбер",
-        "notes": "",
-        "createdAt": "2016-10-18 20:11:37",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 5
         }
     }
 }
