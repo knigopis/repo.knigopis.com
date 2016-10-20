@@ -1,4 +1,16 @@
 {
+    "JVQXXJGYS4": {
+        "id": "JVQXXJGYS4",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "в этом мире нет ни счастья, ни несчастья, то и другое постигается лишь в сравнении. Только тот, кто был беспредельно несчастлив, способен испытать беспредельное блаженство. Надо возжаждать смерти, Максимилиан, чтобы понять, как хороша жизнь.",
+        "createdAt": "2016-10-20 12:00:11",
+        "user": {
+            "id": "57248262-vkontakte",
+            "nickname": "shched.nova",
+            "booksCount": 1
+        }
+    },
     "lpedzHBsE0": {
         "id": "lpedzHBsE0",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 18
-        }
-    },
-    "QpJwfoWFsc": {
-        "id": "QpJwfoWFsc",
-        "title": "",
-        "author": "Кинг",
-        "notes": "",
-        "createdAt": "2016-10-16 18:03:34",
-        "user": {
-            "id": "4899731-vkontakte",
-            "nickname": "kuzhakhmetov",
-            "booksCount": 1
         }
     }
 }
