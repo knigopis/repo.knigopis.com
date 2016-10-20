@@ -1,4 +1,10 @@
 {
+    "243176966-vkontakte": {
+        "id": "243176966-vkontakte",
+        "nickname": "grigoryev_ivan",
+        "booksCount": 0,
+        "updatedAt": "2016-10-20 06:50:40"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "norway_m",
         "booksCount": 13,
         "updatedAt": "2016-10-10 07:41:07"
-    },
-    "112836796681023425757-google": {
-        "id": "112836796681023425757-google",
-        "nickname": "Jewitching",
-        "booksCount": 0,
-        "updatedAt": "2016-10-10 00:56:31"
     }
 }
