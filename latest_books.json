@@ -1,4 +1,16 @@
 {
+    "lpedzHBsE0": {
+        "id": "lpedzHBsE0",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-10-20 06:50:50",
+        "user": {
+            "id": "243176966-vkontakte",
+            "nickname": "grigoryev_ivan",
+            "booksCount": 1
+        }
+    },
     "VDX0BQU0Sv": {
         "id": "VDX0BQU0Sv",
         "title": "Убить пересмешника",
@@ -344,18 +356,6 @@
         "user": {
             "id": "4899731-vkontakte",
             "nickname": "kuzhakhmetov",
-            "booksCount": 1
-        }
-    },
-    "qXNnXGuWeO": {
-        "id": "qXNnXGuWeO",
-        "title": "Братья Карамазовы",
-        "author": "Фёдор Достоевский",
-        "notes": "",
-        "createdAt": "2016-10-16 15:16:58",
-        "user": {
-            "id": "152183909-vkontakte",
-            "nickname": "d.molokoedova",
             "booksCount": 1
         }
     }

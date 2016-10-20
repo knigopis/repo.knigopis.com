@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[grigoryev_ivan](users/243/243176966-vkontakte)<sup>0</sup> 
+[grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>47</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
 
 
-_20.10.2016 06:50:42_
+_20.10.2016 06:50:50_
