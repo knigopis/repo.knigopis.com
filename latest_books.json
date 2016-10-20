@@ -1,4 +1,16 @@
 {
+    "F7ph9NrVpT": {
+        "id": "F7ph9NrVpT",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Ремарк, ах, Ремарк, что еще сказать... Было очень грустно в конце, дочитывала сквозь пелену слез.",
+        "createdAt": "2016-10-20 18:47:13",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 16
+        }
+    },
     "1nmpCm4yS_": {
         "id": "1nmpCm4yS_",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 8
-        }
-    },
-    "z9HnRS6QpH": {
-        "id": "z9HnRS6QpH",
-        "title": "Почтамт",
-        "author": "Буковски Чарльз",
-        "notes": "",
-        "createdAt": "2016-10-18 20:12:38",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 7
         }
     }
 }

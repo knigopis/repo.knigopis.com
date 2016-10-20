@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
 * 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
 * Мальчик, который упал на Землю ~ [Беска](users/157/1577468-vkontakte)<sup>3</sup>
 * Последний герой ~ [rNix](users/115/115622071-twitter)<sup>45</sup>
-* Игрок ~ [pimanocci](users/117/117124011531379579265-google)<sup>7</sup>
 
 
-_20.10.2016 18:44:52_
+_20.10.2016 18:47:13_
