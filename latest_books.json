@@ -1,4 +1,16 @@
 {
+    "gzy89crznJ": {
+        "id": "gzy89crznJ",
+        "title": "Тэвистокские лекции",
+        "author": "Карл Густав Юнг",
+        "notes": "",
+        "createdAt": "2016-10-20 12:19:14",
+        "user": {
+            "id": "1236741-vkontakte",
+            "nickname": "Olyaperekatipole",
+            "booksCount": 60
+        }
+    },
     "lxM3Em9RvD": {
         "id": "lxM3Em9RvD",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 1
-        }
-    },
-    "ef17NvbPo7": {
-        "id": "ef17NvbPo7",
-        "title": "Убийство: рассказы",
-        "author": "А. Чехов",
-        "notes": "",
-        "createdAt": "2016-10-18 18:31:20",
-        "user": {
-            "id": "278072338-vkontakte",
-            "nickname": "Арквейд Курапира",
-            "booksCount": 41
         }
     }
 }

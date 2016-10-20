@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
 [grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>47</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ledera_hanako](users/145/145516802-vkontakte)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
-[Olyaperekatipole](users/123/1236741-vkontakte)<sup>59</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 
 
-_20.10.2016 12:16:31_
+_20.10.2016 12:19:14_
