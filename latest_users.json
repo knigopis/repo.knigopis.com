@@ -1,4 +1,10 @@
 {
+    "7801383777140798509-mailru": {
+        "id": "7801383777140798509-mailru",
+        "nickname": "Александр Сергеев",
+        "booksCount": 0,
+        "updatedAt": "2016-10-20 20:42:13"
+    },
     "1138852626183846-facebook": {
         "id": "1138852626183846-facebook",
         "nickname": "nadisvid",
@@ -172,11 +178,5 @@
         "nickname": "pimanocci",
         "booksCount": 10,
         "updatedAt": "2016-10-11 08:00:51"
-    },
-    "17439471-vkontakte": {
-        "id": "17439471-vkontakte",
-        "nickname": "vasja_mazuryk",
-        "booksCount": 0,
-        "updatedAt": "2016-10-11 02:38:48"
     }
 }
