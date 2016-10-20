@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
 * Старик и море ~ [nadisvid](users/113/1138852626183846-facebook)<sup>11</sup>
 * Убить пересмешника ~ [rNix](users/115/115622071-twitter)<sup>47</sup>
 * Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Игрок ~ [pimanocci](users/117/117124011531379579265-google)<sup>7</sup>
 * Прощай, оружие! ~ [shirko.elena](users/100/100001858801764-facebook)<sup>6</sup>
 * Наблюдая за англичанами. Скрытые правила поведения ~ [Беска](users/157/1577468-vkontakte)<sup>2</sup>
-* Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
 
 
-_20.10.2016 18:29:24_
+_20.10.2016 18:31:34_

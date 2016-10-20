@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
+    > Книга осталась абсолютно непонятой... Хотя до середины читала даже с интересом...
+
 * Старик и море ~ [nadisvid](users/113/1138852626183846-facebook)<sup>11</sup>
     > Хорошая книга, прочла на одном дыхании.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Книгу интересно читать, местами очень захватывает. Понравилось.
 
 * Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
-    > +к любимым книгам. Эта книга должна стоять у меня на полке. Да и не только у меня с:
 
 * Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
 
-* Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>11</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>12</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 
 
-_20.10.2016 18:29:24_
+_20.10.2016 18:31:34_

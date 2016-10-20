@@ -1,4 +1,16 @@
 {
+    "YbRqwmFn6w": {
+        "id": "YbRqwmFn6w",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "Книга осталась абсолютно непонятой... Хотя до середины читала даже с интересом...",
+        "createdAt": "2016-10-20 18:31:34",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 12
+        }
+    },
     "NRaTiujS6s": {
         "id": "NRaTiujS6s",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 4
-        }
-    },
-    "5-QiTkxUkX": {
-        "id": "5-QiTkxUkX",
-        "title": "Записки старого козла",
-        "author": "Буковски Чарльз",
-        "notes": "",
-        "createdAt": "2016-10-18 20:10:44",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 3
         }
     }
 }
