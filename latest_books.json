@@ -1,4 +1,16 @@
 {
+    "x9FT1BuEZV": {
+        "id": "x9FT1BuEZV",
+        "title": "Глазами клоуна",
+        "author": "Генрих Теодор Бёлль",
+        "notes": "Роман прекрасный о верности самому себе, о любви, о чувствах, мыслях. Меня так приятно удивил этот автор.",
+        "createdAt": "2016-10-20 19:05:21",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 18
+        }
+    },
     "u2sryx5SIw": {
         "id": "u2sryx5SIw",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 10
-        }
-    },
-    "poYAdmaz4z": {
-        "id": "poYAdmaz4z",
-        "title": "Слепой часовщик",
-        "author": "Докинз Чарльз",
-        "notes": "",
-        "createdAt": "2016-10-18 20:13:22",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 9
         }
     }
 }

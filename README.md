@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
+    > Роман прекрасный о верности самому себе, о любви, о чувствах, мыслях. Меня так приятно удивил этот автор.
+
 * Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
     > Любимая книга!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ремарк, ах, Ремарк, что еще сказать... Было очень грустно в конце, дочитывала сквозь пелену слез.
 
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
-    > Книга для всех и каждого, на мой взгляд. Я и плакала и читала взахлеб, и проглотила ее на одном дыхании.
 
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
 
-* Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>17</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>18</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 
 
-_20.10.2016 18:54:00_
+_20.10.2016 19:05:21_
