@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
+    > Книга для всех и каждого, на мой взгляд. Я и плакала и читала взахлеб, и проглотила ее на одном дыхании.
+
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
     > Мне было интересно читать! Говорят, что фильм еще лучше, обязательно посмотрю.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга осталась абсолютно непонятой... Хотя до середины читала даже с интересом...
 
 * Старик и море ~ [nadisvid](users/113/1138852626183846-facebook)<sup>11</sup>
-    > Хорошая книга, прочла на одном дыхании.
 
 * Убить пересмешника ~ [rNix](users/115/115622071-twitter)<sup>47</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
 
-* Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>14</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>15</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 
 
-_20.10.2016 18:36:17_
+_20.10.2016 18:44:52_

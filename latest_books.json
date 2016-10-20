@@ -1,4 +1,16 @@
 {
+    "1nmpCm4yS_": {
+        "id": "1nmpCm4yS_",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "Книга для всех и каждого, на мой взгляд. Я и плакала и читала взахлеб, и проглотила ее на одном дыхании.",
+        "createdAt": "2016-10-20 18:44:52",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 15
+        }
+    },
     "y3w4VOi5TS": {
         "id": "y3w4VOi5TS",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 7
-        }
-    },
-    "946W1qd8cd": {
-        "id": "946W1qd8cd",
-        "title": "Сумма технологий",
-        "author": "Лем Станислав",
-        "notes": "",
-        "createdAt": "2016-10-18 20:12:11",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 6
         }
     }
 }
