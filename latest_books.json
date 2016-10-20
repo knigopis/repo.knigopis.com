@@ -1,4 +1,16 @@
 {
+    "d4ghgs_6gX": {
+        "id": "d4ghgs_6gX",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "Увлекательная история и интересные персонажи наряду с философскими размышлениями автора о причинах событий, творящих историю.",
+        "createdAt": "2016-10-20 12:11:28",
+        "user": {
+            "id": "57248262-vkontakte",
+            "nickname": "shched.nova",
+            "booksCount": 2
+        }
+    },
     "JVQXXJGYS4": {
         "id": "JVQXXJGYS4",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 21
-        }
-    },
-    "GwwQ8_TFjd": {
-        "id": "GwwQ8_TFjd",
-        "title": "Как я был произведением исуксства",
-        "author": "Эрик-Эмманюэль Шмитт",
-        "notes": "Очень необычно и очень интересно)",
-        "createdAt": "2016-10-17 16:12:27",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 18
         }
     }
 }

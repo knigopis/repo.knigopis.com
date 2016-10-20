@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[shched.nova](users/572/57248262-vkontakte)<sup>1</sup> 
+[shched.nova](users/572/57248262-vkontakte)<sup>2</sup> 
 [grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>47</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 
 
-_20.10.2016 12:00:11_
+_20.10.2016 12:11:28_
