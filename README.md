@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Александр Сергеев](users/780/7801383777140798509-mailru)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
 [greceanii](users/100/100977482311394113587-google)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
-[vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 
 
-_20.10.2016 19:05:21_
+_20.10.2016 20:42:14_
