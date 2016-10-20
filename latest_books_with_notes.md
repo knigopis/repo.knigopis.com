@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
 * Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
 * Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
 * Древний. Предыстория ~ [Tr](users/122/12282474-vkontakte)<sup>32</sup>
 * Самый счастливый день ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup>
-* Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
 
 
-_20.10.2016 19:05:21_
+_20.10.2016 20:52:34_

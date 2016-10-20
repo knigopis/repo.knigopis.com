@@ -1,4 +1,10 @@
 {
+    "87042697-vkontakte": {
+        "id": "87042697-vkontakte",
+        "nickname": "freezy_bi",
+        "booksCount": 16,
+        "updatedAt": "2016-10-20 20:52:34"
+    },
     "7801383777140798509-mailru": {
         "id": "7801383777140798509-mailru",
         "nickname": "Александр Сергеев",
@@ -172,11 +178,5 @@
         "nickname": "greceanii",
         "booksCount": 0,
         "updatedAt": "2016-10-11 12:48:03"
-    },
-    "117124011531379579265-google": {
-        "id": "117124011531379579265-google",
-        "nickname": "pimanocci",
-        "booksCount": 10,
-        "updatedAt": "2016-10-11 08:00:51"
     }
 }
