@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Самый счастливый день ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>40</sup>
 * Пирушка с привидениями и другие рассказы ~ [Беска](users/157/1577468-vkontakte)<sup>4</sup>
 * Мальчик, который упал на Землю ~ [Беска](users/157/1577468-vkontakte)<sup>3</sup>
-* Последний герой ~ [rNix](users/115/115622071-twitter)<sup>45</sup>
 
 
-_20.10.2016 18:47:13_
+_20.10.2016 18:54:00_

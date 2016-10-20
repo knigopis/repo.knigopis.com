@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
+    > Любимая книга!
+
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
     > Ремарк, ах, Ремарк, что еще сказать... Было очень грустно в конце, дочитывала сквозь пелену слез.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга для всех и каждого, на мой взгляд. Я и плакала и читала взахлеб, и проглотила ее на одном дыхании.
 
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
-    > Мне было интересно читать! Говорят, что фильм еще лучше, обязательно посмотрю.
 
 * 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
 
-* Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>16</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>17</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 
 
-_20.10.2016 18:47:13_
+_20.10.2016 18:54:00_

@@ -1,4 +1,16 @@
 {
+    "u2sryx5SIw": {
+        "id": "u2sryx5SIw",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "Любимая книга!",
+        "createdAt": "2016-10-20 18:54:00",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 17
+        }
+    },
     "F7ph9NrVpT": {
         "id": "F7ph9NrVpT",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 9
-        }
-    },
-    "MiizrNoonE": {
-        "id": "MiizrNoonE",
-        "title": "Чума",
-        "author": "Камю Альбер",
-        "notes": "",
-        "createdAt": "2016-10-18 20:12:58",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 8
         }
     }
 }
