@@ -1,4 +1,10 @@
 {
+    "57248262-vkontakte": {
+        "id": "57248262-vkontakte",
+        "nickname": "shched.nova",
+        "booksCount": 0,
+        "updatedAt": "2016-10-20 11:58:45"
+    },
     "243176966-vkontakte": {
         "id": "243176966-vkontakte",
         "nickname": "grigoryev_ivan",
@@ -172,11 +178,5 @@
         "nickname": "Mmm0nsta",
         "booksCount": 0,
         "updatedAt": "2016-10-10 08:31:18"
-    },
-    "8345201-vkontakte": {
-        "id": "8345201-vkontakte",
-        "nickname": "norway_m",
-        "booksCount": 13,
-        "updatedAt": "2016-10-10 07:41:07"
     }
 }
