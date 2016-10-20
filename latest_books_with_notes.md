@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [rNix](users/115/115622071-twitter)<sup>47</sup>
 * Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
 * Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
 * Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
@@ -30,7 +31,6 @@
 * Наблюдая за англичанами. Скрытые правила поведения ~ [Беска](users/157/1577468-vkontakte)<sup>2</sup>
 * Любовь и тьма ~ [Беска](users/157/1577468-vkontakte)<sup>1</sup>
 * Цветы для Элджернона ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>8</sup>
-* Шок будущего ~ [nv.bogoyavlensky](users/219/2193824-vkontakte)<sup>5</sup>
 
 
-_18.10.2016 15:15:57_
+_20.10.2016 01:36:28_
