@@ -1,4 +1,10 @@
 {
+    "1138852626183846-facebook": {
+        "id": "1138852626183846-facebook",
+        "nickname": "nadisvid",
+        "booksCount": 11,
+        "updatedAt": "2016-10-20 18:29:24"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "vasja_mazuryk",
         "booksCount": 0,
         "updatedAt": "2016-10-11 02:38:48"
-    },
-    "112366191289808901180-google": {
-        "id": "112366191289808901180-google",
-        "nickname": "Faith",
-        "booksCount": 22,
-        "updatedAt": "2016-10-10 10:49:09"
     }
 }
