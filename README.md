@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[grigoryev_ivan](users/243/243176966-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>47</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
 [Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 [norway_m](users/834/8345201-vkontakte)<sup>13</sup> 
-[Jewitching](users/112/112836796681023425757-google)<sup>0</sup> 
 
 
-_20.10.2016 01:36:28_
+_20.10.2016 06:50:42_
