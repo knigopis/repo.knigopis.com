@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
 [grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pimanocci](users/117/117124011531379579265-google)<sup>10</sup> 
 [vasja_mazuryk](users/174/17439471-vkontakte)<sup>0</sup> 
 [Faith](users/112/112366191289808901180-google)<sup>22</sup> 
-[Mmm0nsta](users/920/920784524722527-facebook)<sup>0</sup> 
 
 
-_20.10.2016 12:19:14_
+_20.10.2016 12:38:24_

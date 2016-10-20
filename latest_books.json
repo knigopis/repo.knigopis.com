@@ -1,4 +1,16 @@
 {
+    "ntha9rZq3u": {
+        "id": "ntha9rZq3u",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2016-10-20 12:38:24",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 453
+        }
+    },
     "gzy89crznJ": {
         "id": "gzy89crznJ",
         "title": "Тэвистокские лекции",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 2
-        }
-    },
-    "sU8TilBwiL": {
-        "id": "sU8TilBwiL",
-        "title": "Макулатура",
-        "author": "Буковски Чарльз",
-        "notes": "",
-        "createdAt": "2016-10-18 20:09:50",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 1
         }
     }
 }
