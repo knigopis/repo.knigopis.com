@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>40</sup> 
 [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup> 
 [Александр Сергеев](users/780/7801383777140798509-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 [self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>5</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>44</sup> 
 
 
-_21.10.2016 11:21:36_
+_21.10.2016 11:38:18_
