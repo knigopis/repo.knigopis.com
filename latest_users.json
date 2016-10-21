@@ -1,4 +1,10 @@
 {
+    "106616728662292831735-google": {
+        "id": "106616728662292831735-google",
+        "nickname": "Marsala",
+        "booksCount": 0,
+        "updatedAt": "2016-10-21 11:38:17"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "romann",
         "booksCount": 5,
         "updatedAt": "2016-10-11 20:28:34"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 44,
-        "updatedAt": "2016-10-11 14:40:43"
     }
 }
