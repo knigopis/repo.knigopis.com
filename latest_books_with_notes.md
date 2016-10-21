@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 * Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 * Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
 * Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
 * Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
-* Древний. Предыстория ~ [Tr](users/122/12282474-vkontakte)<sup>32</sup>
 
 
-_20.10.2016 20:56:22_
+_21.10.2016 11:21:36_

@@ -1,4 +1,16 @@
 {
+    "Tsyegy65Zm": {
+        "id": "Tsyegy65Zm",
+        "title": "Повелитель мух.",
+        "author": "Уильям Голдинг",
+        "notes": "Мне не понравилось. Слишком просто. Таки детская книжка. Дам почитать своему ребёнку, когда исполнится 12 лет.",
+        "createdAt": "2016-10-21 11:21:36",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 40
+        }
+    },
     "IyVZADyBA1": {
         "id": "IyVZADyBA1",
         "title": "Источник",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 13
-        }
-    },
-    "mtod9guRDT": {
-        "id": "mtod9guRDT",
-        "title": "Технологии изменения сознания в дуструктивных культах",
-        "author": "Лири Тимоти",
-        "notes": "",
-        "createdAt": "2016-10-18 20:14:58",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 12
         }
     }
 }
