@@ -1,4 +1,16 @@
 {
+    "EyRFWlB-CX": {
+        "id": "EyRFWlB-CX",
+        "title": "Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:02:09",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 8
+        }
+    },
     "yw34KjJUEa": {
         "id": "yw34KjJUEa",
         "title": "Кровь Эльфов",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 21
-        }
-    },
-    "ZExgDfuasM": {
-        "id": "ZExgDfuasM",
-        "title": "Дорогами тысячелетий",
-        "author": "Драчук Виктор",
-        "notes": "",
-        "createdAt": "2016-10-18 20:19:53",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 20
         }
     }
 }

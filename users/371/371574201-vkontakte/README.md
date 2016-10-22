@@ -1,7 +1,12 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>7</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>8</sup>
 ---
 
 ## 2014
+
+### Час Презрения
+Анджей Сапковский
+> [2014-10] 
+
 
 ### Кровь Эльфов
 Анджей Сапковский
