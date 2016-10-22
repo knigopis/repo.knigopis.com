@@ -1,4 +1,10 @@
 {
+    "3909084262983106447-mailru": {
+        "id": "3909084262983106447-mailru",
+        "nickname": "саша андреев",
+        "booksCount": 0,
+        "updatedAt": "2016-10-22 14:27:41"
+    },
     "253918564-vkontakte": {
         "id": "253918564-vkontakte",
         "nickname": "Адам Сильсторн",
@@ -172,11 +178,5 @@
         "nickname": "valmac",
         "booksCount": 0,
         "updatedAt": "2016-10-13 22:17:43"
-    },
-    "357634987-vkontakte": {
-        "id": "357634987-vkontakte",
-        "nickname": "dealer_i",
-        "booksCount": 0,
-        "updatedAt": "2016-10-13 10:22:48"
     }
 }
