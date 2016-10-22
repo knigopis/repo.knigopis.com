@@ -1,4 +1,16 @@
 {
+    "ye6hj-WSgH": {
+        "id": "ye6hj-WSgH",
+        "title": "Дочь Монтесумы",
+        "author": "Генри Хаггард",
+        "notes": "",
+        "createdAt": "2016-10-22 07:54:26",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 2
+        }
+    },
     "WQBG3-Tts2": {
         "id": "WQBG3-Tts2",
         "title": "Джин Грин Неприкасаемый",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 15
-        }
-    },
-    "1vTgE5a4fD": {
-        "id": "1vTgE5a4fD",
-        "title": "Анти-Дюринг",
-        "author": "Энгельс Фридрих",
-        "notes": "",
-        "createdAt": "2016-10-18 20:15:52",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 14
         }
     }
 }
