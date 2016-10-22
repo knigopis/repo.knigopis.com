@@ -1,4 +1,16 @@
 {
+    "XDFDcLFUer": {
+        "id": "XDFDcLFUer",
+        "title": "Владычица Озера",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 10:02:52",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 19
+        }
+    },
     "Xklxpgoyjg": {
         "id": "Xklxpgoyjg",
         "title": "Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 18
-        }
-    },
-    "cBpH0UDRfA": {
-        "id": "cBpH0UDRfA",
-        "title": "Красные Джунгли",
-        "author": "Серж Брюссоло",
-        "notes": "",
-        "createdAt": "2016-10-22 08:36:08",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 17
         }
     }
 }
