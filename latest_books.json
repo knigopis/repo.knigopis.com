@@ -1,4 +1,16 @@
 {
+    "wI4LcxAmJp": {
+        "id": "wI4LcxAmJp",
+        "title": "Собака Баскервилей",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2016-10-22 07:57:44",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 3
+        }
+    },
     "ye6hj-WSgH": {
         "id": "ye6hj-WSgH",
         "title": "Дочь Монтесумы",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 16
-        }
-    },
-    "hMa0_E6AkA": {
-        "id": "hMa0_E6AkA",
-        "title": "Превращение",
-        "author": "Кафка Франц",
-        "notes": "",
-        "createdAt": "2016-10-18 20:16:17",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 15
         }
     }
 }
