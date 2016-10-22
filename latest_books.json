@@ -1,4 +1,16 @@
 {
+    "mwfzsvr3Xr": {
+        "id": "mwfzsvr3Xr",
+        "title": "Пустая шкаткулка и нулевая Мария",
+        "author": "Эйдзи Микагэ",
+        "notes": "Лучшая визуальная новелла",
+        "createdAt": "2016-10-22 07:58:33",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 4
+        }
+    },
     "wI4LcxAmJp": {
         "id": "wI4LcxAmJp",
         "title": "Собака Баскервилей",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 17
-        }
-    },
-    "f6nkR6XaJc": {
-        "id": "f6nkR6XaJc",
-        "title": "Смерть в кредит",
-        "author": "Селин Луи-Фердинанд",
-        "notes": "",
-        "createdAt": "2016-10-18 20:17:21",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 16
         }
     }
 }
