@@ -1,4 +1,10 @@
 {
+    "86871458-vkontakte": {
+        "id": "86871458-vkontakte",
+        "nickname": "loviedays",
+        "booksCount": 0,
+        "updatedAt": "2016-10-22 16:21:22"
+    },
     "87042697-vkontakte": {
         "id": "87042697-vkontakte",
         "nickname": "freezy_bi",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 42,
         "updatedAt": "2016-10-14 08:43:57"
-    },
-    "195257907510440-facebook": {
-        "id": "195257907510440-facebook",
-        "nickname": "valmac",
-        "booksCount": 0,
-        "updatedAt": "2016-10-13 22:17:43"
     }
 }
