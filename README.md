@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[саша андреев](users/390/3909084262983106447-mailru)<sup>0</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>25</sup> 
 [Deithwen](users/371/371574201-vkontakte)<sup>28</sup> 
 [Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
-[dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
 
 
-_22.10.2016 10:16:58_
+_22.10.2016 14:27:43_
