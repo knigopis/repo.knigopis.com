@@ -1,4 +1,16 @@
 {
+    "jMPOZg7Ht0": {
+        "id": "jMPOZg7Ht0",
+        "title": "Крещение огнём",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:02:23",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 9
+        }
+    },
     "EyRFWlB-CX": {
         "id": "EyRFWlB-CX",
         "title": "Час Презрения",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 22
-        }
-    },
-    "6ATF38IqZL": {
-        "id": "6ATF38IqZL",
-        "title": "",
-        "author": "Стругацкие Ар",
-        "notes": "",
-        "createdAt": "2016-10-18 20:20:03",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 21
         }
     }
 }

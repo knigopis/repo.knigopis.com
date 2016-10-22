@@ -1,7 +1,12 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>8</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>9</sup>
 ---
 
 ## 2014
+
+### Крещение огнём
+Анджей Сапковский
+> [2014-10] 
+
 
 ### Час Презрения
 Анджей Сапковский
