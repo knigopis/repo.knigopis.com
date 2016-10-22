@@ -1,7 +1,12 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>6</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>7</sup>
 ---
 
 ## 2014
+
+### Кровь Эльфов
+Анджей Сапковский
+> [2014-09] 
+
 
 ### Меч Предназначения
 Анджей Сапковский

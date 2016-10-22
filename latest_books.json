@@ -1,4 +1,16 @@
 {
+    "yw34KjJUEa": {
+        "id": "yw34KjJUEa",
+        "title": "Кровь Эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:01:58",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 7
+        }
+    },
     "4mm5KTekSe": {
         "id": "4mm5KTekSe",
         "title": "Меч Предназначения",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 20
-        }
-    },
-    "g9gI57yXiM": {
-        "id": "g9gI57yXiM",
-        "title": "Страх и отвращение в Лас-Вегасе",
-        "author": "Томпсон Хантер",
-        "notes": "",
-        "createdAt": "2016-10-18 20:19:02",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 19
         }
     }
 }
