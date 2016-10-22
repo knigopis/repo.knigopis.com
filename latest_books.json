@@ -1,4 +1,16 @@
 {
+    "VnDhCw3E1R": {
+        "id": "VnDhCw3E1R",
+        "title": "Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:00:55",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 5
+        }
+    },
     "mwfzsvr3Xr": {
         "id": "mwfzsvr3Xr",
         "title": "Пустая шкаткулка и нулевая Мария",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 18
-        }
-    },
-    "lPY9w_i1_J": {
-        "id": "lPY9w_i1_J",
-        "title": "Петербург",
-        "author": "Белый Андрей",
-        "notes": "",
-        "createdAt": "2016-10-18 20:17:42",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 17
         }
     }
 }
