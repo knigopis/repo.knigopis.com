@@ -1,4 +1,16 @@
 {
+    "r12a-FmGJ-": {
+        "id": "r12a-FmGJ-",
+        "title": "Сезон Гроз",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:03:34",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 12
+        }
+    },
     "BkNyVPOOdH": {
         "id": "BkNyVPOOdH",
         "title": "Владычица Озера",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 47
-        }
-    },
-    "P7DI7cbZpw": {
-        "id": "P7DI7cbZpw",
-        "title": "Темный повелитель. Становление Дарта Вейдера.",
-        "author": "-",
-        "notes": "",
-        "createdAt": "2016-10-19 16:00:29",
-        "user": {
-            "id": "380085691-vkontakte",
-            "nickname": "nohappinessnofun",
-            "booksCount": 2
         }
     }
 }

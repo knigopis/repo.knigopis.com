@@ -1,7 +1,12 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>11</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>12</sup>
 ---
 
 ## 2016
+
+### Сезон Гроз
+Анджей Сапковский
+> [2016-11] 
+
 
 ### Владычица Озера
 Анджей Сапковский
