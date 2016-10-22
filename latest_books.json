@@ -1,4 +1,16 @@
 {
+    "Y-gw9yz5X9": {
+        "id": "Y-gw9yz5X9",
+        "title": "Хребты Безумия",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2016-10-22 10:12:11",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 24
+        }
+    },
     "MMBRGVVCZq": {
         "id": "MMBRGVVCZq",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 23
-        }
-    },
-    "IUqebkiWPw": {
-        "id": "IUqebkiWPw",
-        "title": "Гарри поттер и узник Азкабана",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-10-22 08:39:34",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 22
         }
     }
 }
