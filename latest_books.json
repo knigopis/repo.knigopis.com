@@ -1,4 +1,16 @@
 {
+    "iuVzL8-ieV": {
+        "id": "iuVzL8-ieV",
+        "title": "Остров Сокровищ",
+        "author": "Роберт Стивенсон",
+        "notes": "",
+        "createdAt": "2016-10-22 09:58:08",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 11
+        }
+    },
     "VlhbF2jolF": {
         "id": "VlhbF2jolF",
         "title": "Хроники Амбера: Руки Оберона",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 10
-        }
-    },
-    "jMPOZg7Ht0": {
-        "id": "jMPOZg7Ht0",
-        "title": "Крещение огнём",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 08:02:23",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 9
         }
     }
 }
