@@ -1,4 +1,16 @@
 {
+    "vczNc1e-Ov": {
+        "id": "vczNc1e-Ov",
+        "title": "Башня Ласточки",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:03:10",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 10
+        }
+    },
     "jMPOZg7Ht0": {
         "id": "jMPOZg7Ht0",
         "title": "Крещение огнём",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 23
-        }
-    },
-    "5C3Jeq1fuV": {
-        "id": "5C3Jeq1fuV",
-        "title": "Single page apps in depth",
-        "author": "Mikito Takada",
-        "notes": "",
-        "createdAt": "2016-10-18 20:30:32",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 22
         }
     }
 }
