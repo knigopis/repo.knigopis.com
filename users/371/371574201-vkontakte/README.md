@@ -1,7 +1,12 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>5</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>6</sup>
 ---
 
 ## 2014
+
+### Меч Предназначения
+Анджей Сапковский
+> [2014-09] 
+
 
 ### Последнее желание
 Анджей Сапковский

@@ -1,4 +1,16 @@
 {
+    "4mm5KTekSe": {
+        "id": "4mm5KTekSe",
+        "title": "Меч Предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:01:21",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 6
+        }
+    },
     "VnDhCw3E1R": {
         "id": "VnDhCw3E1R",
         "title": "Последнее желание",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 19
-        }
-    },
-    "Aa4cDJc8_s": {
-        "id": "Aa4cDJc8_s",
-        "title": "Вы, конечно, шутите, мистер Фейнман",
-        "author": "Фейнман Ричард",
-        "notes": "",
-        "createdAt": "2016-10-18 20:18:20",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 18
         }
     }
 }
