@@ -1,4 +1,16 @@
 {
+    "vnt1qppRzg": {
+        "id": "vnt1qppRzg",
+        "title": "Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 10:01:44",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 16
+        }
+    },
     "mXiG2LzBE4": {
         "id": "mXiG2LzBE4",
         "title": "Кровь Эльфов",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 15
-        }
-    },
-    "lcZj2CwgkK": {
-        "id": "lcZj2CwgkK",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2016-10-22 08:09:25",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 14
         }
     }
 }

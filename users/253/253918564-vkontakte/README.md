@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>15</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>16</sup>
 ---
 
 ## 2016
@@ -48,6 +48,10 @@
 
 
 ## 2013
+
+### Час Презрения
+Анджей Сапковский
+
 
 ### Кровь Эльфов
 Анджей Сапковский
