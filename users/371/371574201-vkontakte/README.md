@@ -1,4 +1,4 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>20</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>21</sup>
 ---
 
 ## 2015
@@ -84,6 +84,10 @@
 
 
 ## 2011
+
+### Гарри Поттер и тайная комната
+Джоан Роулинг
+
 
 ### Гарри Поттер и филосовский камень
 Джоан Роулинг
