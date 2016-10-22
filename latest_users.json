@@ -1,4 +1,10 @@
 {
+    "371574201-vkontakte": {
+        "id": "371574201-vkontakte",
+        "nickname": "Deithwen",
+        "booksCount": 0,
+        "updatedAt": "2016-10-22 07:51:28"
+    },
     "106616728662292831735-google": {
         "id": "106616728662292831735-google",
         "nickname": "Marsala",
@@ -172,11 +178,5 @@
         "nickname": "self__destruction",
         "booksCount": 0,
         "updatedAt": "2016-10-11 20:57:41"
-    },
-    "10205442182733690-facebook": {
-        "id": "10205442182733690-facebook",
-        "nickname": "romann",
-        "booksCount": 5,
-        "updatedAt": "2016-10-11 20:28:34"
     }
 }
