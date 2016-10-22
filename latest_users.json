@@ -1,4 +1,10 @@
 {
+    "87042697-vkontakte": {
+        "id": "87042697-vkontakte",
+        "nickname": "freezy_bi",
+        "booksCount": 18,
+        "updatedAt": "2016-10-22 14:36:26"
+    },
     "3909084262983106447-mailru": {
         "id": "3909084262983106447-mailru",
         "nickname": "саша андреев",
@@ -28,12 +34,6 @@
         "nickname": "Ангелина",
         "booksCount": 40,
         "updatedAt": "2016-10-21 11:21:36"
-    },
-    "87042697-vkontakte": {
-        "id": "87042697-vkontakte",
-        "nickname": "freezy_bi",
-        "booksCount": 17,
-        "updatedAt": "2016-10-20 20:56:22"
     },
     "7801383777140798509-mailru": {
         "id": "7801383777140798509-mailru",

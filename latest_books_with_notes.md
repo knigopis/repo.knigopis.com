@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Джордж Оруелл ~ [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup>
 * Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 * Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 * Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Смерть героя ~ [Ангелина](users/837/83788782-vkontakte)<sup>39</sup>
-* Некрещеный поп ~ [rNix](users/115/115622071-twitter)<sup>46</sup>
 
 
-_21.10.2016 11:21:36_
+_22.10.2016 14:36:26_
