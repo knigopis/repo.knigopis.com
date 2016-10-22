@@ -1,4 +1,16 @@
 {
+    "BkNyVPOOdH": {
+        "id": "BkNyVPOOdH",
+        "title": "Владычица Озера",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 08:03:23",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 11
+        }
+    },
     "vczNc1e-Ov": {
         "id": "vczNc1e-Ov",
         "title": "Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "380085691-vkontakte",
             "nickname": "nohappinessnofun",
             "booksCount": 2
-        }
-    },
-    "YCftbQdagA": {
-        "id": "YCftbQdagA",
-        "title": "Mostly adequate guide to functional programming",
-        "author": "Lonsdorf Brian",
-        "notes": "",
-        "createdAt": "2016-10-18 20:32:09",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 23
         }
     }
 }
