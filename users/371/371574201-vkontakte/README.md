@@ -1,4 +1,4 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>26</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>27</sup>
 ---
 
 ## 2015
@@ -53,6 +53,11 @@
 ### Последнее желание
 Анджей Сапковский
 > [2014-09] 
+
+
+### Sword Art Online
+Рэки Кавахара
+> [2014-08] 15 томов.
 
 
 ### Батый

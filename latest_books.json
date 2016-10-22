@@ -1,4 +1,16 @@
 {
+    "MBLEXF-qpQ": {
+        "id": "MBLEXF-qpQ",
+        "title": "Sword Art Online",
+        "author": "Рэки Кавахара",
+        "notes": "15 томов.",
+        "createdAt": "2016-10-22 08:44:49",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 27
+        }
+    },
     "cYOsUmBmeU": {
         "id": "cYOsUmBmeU",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "87042697-vkontakte",
             "nickname": "freezy_bi",
             "booksCount": 16
-        }
-    },
-    "x9FT1BuEZV": {
-        "id": "x9FT1BuEZV",
-        "title": "Глазами клоуна",
-        "author": "Генрих Теодор Бёлль",
-        "notes": "Роман прекрасный о верности самому себе, о любви, о чувствах, мыслях. Меня так приятно удивил этот автор.",
-        "createdAt": "2016-10-20 19:05:21",
-        "user": {
-            "id": "1138852626183846-facebook",
-            "nickname": "nadisvid",
-            "booksCount": 18
         }
     }
 }
