@@ -1,4 +1,16 @@
 {
+    "mXiG2LzBE4": {
+        "id": "mXiG2LzBE4",
+        "title": "Кровь Эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 10:01:33",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 15
+        }
+    },
     "-OuT-hsTM4": {
         "id": "-OuT-hsTM4",
         "title": "Меч Предназначения",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 14
-        }
-    },
-    "LJMULuLvRH": {
-        "id": "LJMULuLvRH",
-        "title": "Батый",
-        "author": "Василий Ян",
-        "notes": "",
-        "createdAt": "2016-10-22 08:05:46",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 13
         }
     }
 }
