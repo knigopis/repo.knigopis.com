@@ -1,4 +1,16 @@
 {
+    "9r1Tsxb58a": {
+        "id": "9r1Tsxb58a",
+        "title": "Властелин Колец: Браство Кольца",
+        "author": "Джон Руэл Толкин",
+        "notes": "",
+        "createdAt": "2016-10-22 08:23:49",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 16
+        }
+    },
     "vgh8NDxPwj": {
         "id": "vgh8NDxPwj",
         "title": "Судьба человека",
@@ -345,18 +357,6 @@
             "id": "57248262-vkontakte",
             "nickname": "shched.nova",
             "booksCount": 3
-        }
-    },
-    "d4ghgs_6gX": {
-        "id": "d4ghgs_6gX",
-        "title": "Война и мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "Увлекательная история и интересные персонажи наряду с философскими размышлениями автора о причинах событий, творящих историю.",
-        "createdAt": "2016-10-20 12:11:28",
-        "user": {
-            "id": "57248262-vkontakte",
-            "nickname": "shched.nova",
-            "booksCount": 2
         }
     }
 }
