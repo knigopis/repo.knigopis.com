@@ -1,4 +1,16 @@
 {
+    "MjPsmnbF4U": {
+        "id": "MjPsmnbF4U",
+        "title": "Золотой Жук",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2016-10-22 09:11:15",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 2
+        }
+    },
     "nCOeMC5XUo": {
         "id": "nCOeMC5XUo",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 1
-        }
-    },
-    "Tsyegy65Zm": {
-        "id": "Tsyegy65Zm",
-        "title": "Повелитель мух.",
-        "author": "Уильям Голдинг",
-        "notes": "Мне не понравилось. Слишком просто. Таки детская книжка. Дам почитать своему ребёнку, когда исполнится 12 лет.",
-        "createdAt": "2016-10-21 11:21:36",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 40
         }
     }
 }
