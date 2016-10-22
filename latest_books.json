@@ -1,4 +1,16 @@
 {
+    "1DUBYjk0mF": {
+        "id": "1DUBYjk0mF",
+        "title": "Артур и Минипуты",
+        "author": "Люк Бессон",
+        "notes": "",
+        "createdAt": "2016-10-22 08:37:11",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 19
+        }
+    },
     "1Yo9wg0qwf": {
         "id": "1Yo9wg0qwf",
         "title": "Академия Кошмаров",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 11
-        }
-    },
-    "ntha9rZq3u": {
-        "id": "ntha9rZq3u",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2016-10-20 12:38:24",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 453
         }
     }
 }
