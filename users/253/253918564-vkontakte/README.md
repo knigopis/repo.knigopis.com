@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>21</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>22</sup>
 ---
 
 ## 2016
@@ -24,6 +24,10 @@
 ### Превращение
 Франц Кафка
 > [2015-11] 
+
+
+### Тень над Иннсмутом
+Говард Филлипс Лавкрафт
 
 
 ### Хроники Амбера: Рука Оберона

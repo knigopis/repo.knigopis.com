@@ -1,4 +1,16 @@
 {
+    "Cyh_qKnfjS": {
+        "id": "Cyh_qKnfjS",
+        "title": "Тень над Иннсмутом",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2016-10-22 10:11:34",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 22
+        }
+    },
     "oAcorqqKJj": {
         "id": "oAcorqqKJj",
         "title": "Приключения Гулливера",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 21
-        }
-    },
-    "5Dd0rKgcd4": {
-        "id": "5Dd0rKgcd4",
-        "title": "Гарри Поттер и филосовский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-10-22 08:39:12",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 20
         }
     }
 }
