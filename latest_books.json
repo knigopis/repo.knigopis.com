@@ -1,4 +1,16 @@
 {
+    "uofEr-GD9i": {
+        "id": "uofEr-GD9i",
+        "title": "Убийство на улице Морг",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2016-10-22 09:11:39",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 3
+        }
+    },
     "MjPsmnbF4U": {
         "id": "MjPsmnbF4U",
         "title": "Золотой Жук",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 2
-        }
-    },
-    "WQBG3-Tts2": {
-        "id": "WQBG3-Tts2",
-        "title": "Джин Грин Неприкасаемый",
-        "author": "Гривадий Горпожакс",
-        "notes": "Отличная книга о политике, патриотизме.",
-        "createdAt": "2016-10-22 07:53:49",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 1
         }
     }
 }
