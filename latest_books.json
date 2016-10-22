@@ -1,4 +1,16 @@
 {
+    "brF7NmEnJj": {
+        "id": "brF7NmEnJj",
+        "title": "Хроники Амбера: Знак Эдинорога",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2016-10-22 09:17:11",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 9
+        }
+    },
     "40UyOTIptu": {
         "id": "40UyOTIptu",
         "title": "Хроники Амбера: Ружья Авалона",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 8
-        }
-    },
-    "yw34KjJUEa": {
-        "id": "yw34KjJUEa",
-        "title": "Кровь Эльфов",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 08:01:58",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 7
         }
     }
 }
