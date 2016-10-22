@@ -1,4 +1,16 @@
 {
+    "-Npot-6iQQ": {
+        "id": "-Npot-6iQQ",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2016-10-22 09:12:30",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 4
+        }
+    },
     "uofEr-GD9i": {
         "id": "uofEr-GD9i",
         "title": "Убийство на улице Морг",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 3
-        }
-    },
-    "ye6hj-WSgH": {
-        "id": "ye6hj-WSgH",
-        "title": "Дочь Монтесумы",
-        "author": "Генри Хаггард",
-        "notes": "",
-        "createdAt": "2016-10-22 07:54:26",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 2
         }
     }
 }
