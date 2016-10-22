@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[loviedays](users/868/86871458-vkontakte)<sup>0</sup> 
 [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup> 
 [саша андреев](users/390/3909084262983106447-mailru)<sup>0</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ledera_hanako](users/145/145516802-vkontakte)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>5</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
-[valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 
 
-_22.10.2016 14:36:26_
+_22.10.2016 16:21:23_
