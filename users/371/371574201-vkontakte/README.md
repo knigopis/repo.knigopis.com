@@ -1,4 +1,4 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>25</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>26</sup>
 ---
 
 ## 2015
@@ -84,6 +84,10 @@
 
 
 ## 2011
+
+### Гарри Поттер и Дары Смерти
+Джоан Роулинг
+
 
 ### Гарри Поттер и Принц Полукровка
 Джоан Роулинг
