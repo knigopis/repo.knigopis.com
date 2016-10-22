@@ -1,4 +1,16 @@
 {
+    "WQBG3-Tts2": {
+        "id": "WQBG3-Tts2",
+        "title": "Джин Грин Неприкасаемый",
+        "author": "Гривадий Горпожакс",
+        "notes": "Отличная книга о политике, патриотизме.",
+        "createdAt": "2016-10-22 07:53:49",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 1
+        }
+    },
     "Tsyegy65Zm": {
         "id": "Tsyegy65Zm",
         "title": "Повелитель мух.",
@@ -345,18 +357,6 @@
             "id": "12462836-vkontakte",
             "nickname": "dmtrdmtr",
             "booksCount": 14
-        }
-    },
-    "Q8OkLJG49x": {
-        "id": "Q8OkLJG49x",
-        "title": "Война с саламандрами",
-        "author": "Чапек Карл",
-        "notes": "",
-        "createdAt": "2016-10-18 20:15:20",
-        "user": {
-            "id": "12462836-vkontakte",
-            "nickname": "dmtrdmtr",
-            "booksCount": 13
         }
     }
 }
