@@ -1,4 +1,16 @@
 {
+    "4pQUcG58vG": {
+        "id": "4pQUcG58vG",
+        "title": "Хроники Амбера: Девять принцев Амбера",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2016-10-22 09:16:16",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 7
+        }
+    },
     "0J7Suo6isl": {
         "id": "0J7Suo6isl",
         "title": "Fate/Zero",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 6
-        }
-    },
-    "VnDhCw3E1R": {
-        "id": "VnDhCw3E1R",
-        "title": "Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 08:00:55",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 5
         }
     }
 }
