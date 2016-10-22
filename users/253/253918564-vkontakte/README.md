@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>5</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>6</sup>
 ---
 
 ## 2016
@@ -16,6 +16,10 @@
 ### Золотой Жук
 Эдгар Аллан По
 > [2016-02] 
+
+
+### Fate/Zero
+Уробути Гэн
 
 
 

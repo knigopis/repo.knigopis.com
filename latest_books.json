@@ -1,4 +1,16 @@
 {
+    "0J7Suo6isl": {
+        "id": "0J7Suo6isl",
+        "title": "Fate/Zero",
+        "author": "Уробути Гэн",
+        "notes": "",
+        "createdAt": "2016-10-22 09:14:34",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 6
+        }
+    },
     "FUXgAM3xKV": {
         "id": "FUXgAM3xKV",
         "title": "Айвенго",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 5
-        }
-    },
-    "mwfzsvr3Xr": {
-        "id": "mwfzsvr3Xr",
-        "title": "Пустая шкаткулка и нулевая Мария",
-        "author": "Эйдзи Микагэ",
-        "notes": "Лучшая визуальная новелла",
-        "createdAt": "2016-10-22 07:58:33",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 4
         }
     }
 }
