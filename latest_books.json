@@ -1,4 +1,16 @@
 {
+    "Xklxpgoyjg": {
+        "id": "Xklxpgoyjg",
+        "title": "Башня Ласточки",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 10:02:24",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 18
+        }
+    },
     "LfAyIa0kg9": {
         "id": "LfAyIa0kg9",
         "title": "Крещение Огнём",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 17
-        }
-    },
-    "9r1Tsxb58a": {
-        "id": "9r1Tsxb58a",
-        "title": "Властелин Колец: Браство Кольца",
-        "author": "Джон Руэл Толкин",
-        "notes": "",
-        "createdAt": "2016-10-22 08:23:49",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 16
         }
     }
 }
