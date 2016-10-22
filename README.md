@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yarikosimo](users/253/253918564-vkontakte)<sup>0</sup> 
 [Deithwen](users/371/371574201-vkontakte)<sup>0</sup> 
 [Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup> 
 [valmac](users/195/195257907510440-facebook)<sup>0</sup> 
 [dealer_i](users/357/357634987-vkontakte)<sup>0</sup> 
-[self__destruction](users/152/152397152-vkontakte)<sup>0</sup> 
 
 
-_22.10.2016 07:51:29_
+_22.10.2016 07:53:37_
