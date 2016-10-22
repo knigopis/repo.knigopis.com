@@ -1,4 +1,16 @@
 {
+    "cBpH0UDRfA": {
+        "id": "cBpH0UDRfA",
+        "title": "Красные Джунгли",
+        "author": "Серж Брюссоло",
+        "notes": "",
+        "createdAt": "2016-10-22 08:36:08",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 17
+        }
+    },
     "9r1Tsxb58a": {
         "id": "9r1Tsxb58a",
         "title": "Властелин Колец: Браство Кольца",
@@ -345,18 +357,6 @@
             "id": "1236741-vkontakte",
             "nickname": "Olyaperekatipole",
             "booksCount": 60
-        }
-    },
-    "lxM3Em9RvD": {
-        "id": "lxM3Em9RvD",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "История о прокураторе Иудеи Понтии Пилате и Иешуа Гоаци, которого он приговорил к смертной казни. А так же история посещения Воландом Москву и обличение пороков его жителей.",
-        "createdAt": "2016-10-20 12:16:31",
-        "user": {
-            "id": "57248262-vkontakte",
-            "nickname": "shched.nova",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>16</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>17</sup>
 ---
 
 ## 2015
@@ -77,6 +77,10 @@
 
 
 ## 2012
+
+### Красные Джунгли
+Серж Брюссоло
+
 
 ### Властелин Колец: Браство Кольца
 Джон Руэл Толкин
