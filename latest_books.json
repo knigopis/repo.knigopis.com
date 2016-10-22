@@ -1,4 +1,16 @@
 {
+    "xKqefPi3nV": {
+        "id": "xKqefPi3nV",
+        "title": "Властелин Колец: Братство Кольца",
+        "author": "Дж. Р. Р. Толкин",
+        "notes": "",
+        "createdAt": "2016-10-22 10:16:58",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "Адам Сильсторн",
+            "booksCount": 25
+        }
+    },
     "Y-gw9yz5X9": {
         "id": "Y-gw9yz5X9",
         "title": "Хребты Безумия",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 24
-        }
-    },
-    "k1VDFrWnhe": {
-        "id": "k1VDFrWnhe",
-        "title": "Гарри Поттер и Кубок Огня",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-10-22 08:39:46",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 23
         }
     }
 }
