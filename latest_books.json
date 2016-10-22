@@ -1,4 +1,16 @@
 {
+    "VlhbF2jolF": {
+        "id": "VlhbF2jolF",
+        "title": "Хроники Амбера: Руки Оберона",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2016-10-22 09:17:37",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 10
+        }
+    },
     "brF7NmEnJj": {
         "id": "brF7NmEnJj",
         "title": "Хроники Амбера: Знак Эдинорога",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 9
-        }
-    },
-    "EyRFWlB-CX": {
-        "id": "EyRFWlB-CX",
-        "title": "Час Презрения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 08:02:09",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 8
         }
     }
 }

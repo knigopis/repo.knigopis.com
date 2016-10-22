@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>9</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>10</sup>
 ---
 
 ## 2016
@@ -28,6 +28,10 @@
 ### Превращение
 Франц Кафка
 > [2015-11] 
+
+
+### Хроники Амбера: Руки Оберона
+Роджер Желязны
 
 
 ### Хроники Амбера: Знак Эдинорога
