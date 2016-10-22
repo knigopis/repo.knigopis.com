@@ -1,4 +1,16 @@
 {
+    "1Yo9wg0qwf": {
+        "id": "1Yo9wg0qwf",
+        "title": "Академия Кошмаров",
+        "author": "Дин Лори",
+        "notes": "",
+        "createdAt": "2016-10-22 08:36:19",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 18
+        }
+    },
     "cBpH0UDRfA": {
         "id": "cBpH0UDRfA",
         "title": "Красные Джунгли",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 453
-        }
-    },
-    "gzy89crznJ": {
-        "id": "gzy89crznJ",
-        "title": "Тэвистокские лекции",
-        "author": "Карл Густав Юнг",
-        "notes": "",
-        "createdAt": "2016-10-20 12:19:14",
-        "user": {
-            "id": "1236741-vkontakte",
-            "nickname": "Olyaperekatipole",
-            "booksCount": 60
         }
     }
 }

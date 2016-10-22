@@ -1,4 +1,4 @@
-# List of books read by [Deithwen](http://vk.com/id371574201)<sup>17</sup>
+# List of books read by [Deithwen](http://vk.com/id371574201)<sup>18</sup>
 ---
 
 ## 2015
@@ -77,6 +77,10 @@
 
 
 ## 2012
+
+### Академия Кошмаров
+Дин Лори
+
 
 ### Красные Джунгли
 Серж Брюссоло
