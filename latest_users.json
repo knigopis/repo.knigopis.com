@@ -1,4 +1,10 @@
 {
+    "253918564-vkontakte": {
+        "id": "253918564-vkontakte",
+        "nickname": "yarikosimo",
+        "booksCount": 0,
+        "updatedAt": "2016-10-22 07:53:36"
+    },
     "371574201-vkontakte": {
         "id": "371574201-vkontakte",
         "nickname": "Deithwen",
@@ -172,11 +178,5 @@
         "nickname": "dealer_i",
         "booksCount": 0,
         "updatedAt": "2016-10-13 10:22:48"
-    },
-    "152397152-vkontakte": {
-        "id": "152397152-vkontakte",
-        "nickname": "self__destruction",
-        "booksCount": 0,
-        "updatedAt": "2016-10-11 20:57:41"
     }
 }
