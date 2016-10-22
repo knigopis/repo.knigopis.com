@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>16</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>17</sup>
 ---
 
 ## 2016
@@ -48,6 +48,10 @@
 
 
 ## 2013
+
+### Крещение Огнём
+Анджей Сапковский
+
 
 ### Час Презрения
 Анджей Сапковский

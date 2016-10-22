@@ -1,4 +1,16 @@
 {
+    "LfAyIa0kg9": {
+        "id": "LfAyIa0kg9",
+        "title": "Крещение Огнём",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2016-10-22 10:02:13",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 17
+        }
+    },
     "vnt1qppRzg": {
         "id": "vnt1qppRzg",
         "title": "Час Презрения",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 16
-        }
-    },
-    "vgh8NDxPwj": {
-        "id": "vgh8NDxPwj",
-        "title": "Судьба человека",
-        "author": "Михаил Шолохов",
-        "notes": "",
-        "createdAt": "2016-10-22 08:09:49",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 15
         }
     }
 }
