@@ -1,4 +1,16 @@
 {
+    "lcZj2CwgkK": {
+        "id": "lcZj2CwgkK",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2016-10-22 08:09:25",
+        "user": {
+            "id": "371574201-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 14
+        }
+    },
     "LJMULuLvRH": {
         "id": "LJMULuLvRH",
         "title": "Батый",
@@ -344,18 +356,6 @@
         "user": {
             "id": "57248262-vkontakte",
             "nickname": "shched.nova",
-            "booksCount": 1
-        }
-    },
-    "lpedzHBsE0": {
-        "id": "lpedzHBsE0",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-10-20 06:50:50",
-        "user": {
-            "id": "243176966-vkontakte",
-            "nickname": "grigoryev_ivan",
             "booksCount": 1
         }
     }
