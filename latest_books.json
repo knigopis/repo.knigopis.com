@@ -1,4 +1,16 @@
 {
+    "MMBRGVVCZq": {
+        "id": "MMBRGVVCZq",
+        "title": "Зов Ктулху",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2016-10-22 10:11:53",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 23
+        }
+    },
     "Cyh_qKnfjS": {
         "id": "Cyh_qKnfjS",
         "title": "Тень над Иннсмутом",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 22
-        }
-    },
-    "5BW_lOyw5y": {
-        "id": "5BW_lOyw5y",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-10-22 08:39:24",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 21
         }
     }
 }

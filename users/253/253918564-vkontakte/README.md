@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>22</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>23</sup>
 ---
 
 ## 2016
@@ -24,6 +24,10 @@
 ### Превращение
 Франц Кафка
 > [2015-11] 
+
+
+### Зов Ктулху
+Говард Филлипс Лавкрафт
 
 
 ### Тень над Иннсмутом
