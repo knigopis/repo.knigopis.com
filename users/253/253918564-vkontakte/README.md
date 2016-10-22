@@ -1,4 +1,4 @@
-# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>7</sup>
+# List of books read by [yarikosimo](http://vk.com/id253918564)<sup>8</sup>
 ---
 
 ## 2016
@@ -28,6 +28,10 @@
 ### Превращение
 Франц Кафка
 > [2015-11] 
+
+
+### Хроники Амбера: Ружья Авалона
+Роджер Желязны
 
 
 ### Хроники Амбера: Девять принцев Амбера
