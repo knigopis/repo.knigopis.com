@@ -1,4 +1,16 @@
 {
+    "FUXgAM3xKV": {
+        "id": "FUXgAM3xKV",
+        "title": "Айвенго",
+        "author": "Вальтер Скотт",
+        "notes": "",
+        "createdAt": "2016-10-22 09:13:37",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "yarikosimo",
+            "booksCount": 5
+        }
+    },
     "-Npot-6iQQ": {
         "id": "-Npot-6iQQ",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 4
-        }
-    },
-    "wI4LcxAmJp": {
-        "id": "wI4LcxAmJp",
-        "title": "Собака Баскервилей",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2016-10-22 07:57:44",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 3
         }
     }
 }
