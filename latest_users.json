@@ -1,4 +1,10 @@
 {
+    "106764648727033078146-google": {
+        "id": "106764648727033078146-google",
+        "nickname": "Nightrunner",
+        "booksCount": 0,
+        "updatedAt": "2016-10-23 12:05:40"
+    },
     "7018646-vkontakte": {
         "id": "7018646-vkontakte",
         "nickname": "gwynnbleiidd",
@@ -172,11 +178,5 @@
         "nickname": "ledera_hanako",
         "booksCount": 0,
         "updatedAt": "2016-10-15 12:33:35"
-    },
-    "100003094239547-facebook": {
-        "id": "100003094239547-facebook",
-        "nickname": "igor1980",
-        "booksCount": 5,
-        "updatedAt": "2016-10-15 05:30:57"
     }
 }
