@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[peda1337](users/366/366866393-vkontakte)<sup>0</sup> 
 [Nightrunner](users/106/106764648727033078146-google)<sup>0</sup> 
 [gwynnbleiidd](users/701/7018646-vkontakte)<sup>0</sup> 
 [loviedays](users/868/86871458-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
 [Salamandrrra](users/222/222677005-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>5</sup> 
-[ledera_hanako](users/145/145516802-vkontakte)<sup>0</sup> 
 
 
-_23.10.2016 12:05:41_
+_23.10.2016 21:01:25_
