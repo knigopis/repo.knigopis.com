@@ -1,4 +1,16 @@
 {
+    "pS_c32x--P": {
+        "id": "pS_c32x--P",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2016-10-24 17:36:39",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 110
+        }
+    },
     "vKva2VH6gJ": {
         "id": "vKva2VH6gJ",
         "title": "Джордж Оруелл",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 26
-        }
-    },
-    "zFRlABRlUU": {
-        "id": "zFRlABRlUU",
-        "title": "Гарри Поттер и Принц Полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-10-22 08:40:08",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 25
         }
     }
 }
