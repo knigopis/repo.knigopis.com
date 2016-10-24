@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>111</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 [huy\](users/192/192252145-vkontakte)<sup>0</sup> 
 [peda1337](users/366/366866393-vkontakte)<sup>0</sup> 
 [Nightrunner](users/106/106764648727033078146-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
 
 
-_24.10.2016 17:36:59_
+_24.10.2016 17:37:45_
