@@ -1,4 +1,16 @@
 {
+    "giGfQm_0rl": {
+        "id": "giGfQm_0rl",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "Отличная книга",
+        "createdAt": "2016-10-24 17:36:59",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 111
+        }
+    },
     "vKva2VH6gJ": {
         "id": "vKva2VH6gJ",
         "title": "Джордж Оруелл",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 79
-        }
-    },
-    "r1sNLEDAnY": {
-        "id": "r1sNLEDAnY",
-        "title": "Смерть героя",
-        "author": "Ричард Олдингтон",
-        "notes": "Джон Уинтербон. Элизабет и Фанни. Как всегда читаю всё грустное и прекрасное.",
-        "createdAt": "2016-10-03 23:06:10",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 39
         }
     }
 }
