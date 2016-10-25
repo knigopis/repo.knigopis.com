@@ -1,4 +1,16 @@
 {
+    "49jc33d1Xe": {
+        "id": "49jc33d1Xe",
+        "title": "Обыкновенная сказка",
+        "author": "Алан Милн",
+        "notes": "",
+        "createdAt": "2016-10-25 13:48:31",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 458
+        }
+    },
     "KYy7Dn--dv": {
         "id": "KYy7Dn--dv",
         "title": "Последний лист",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 4
-        }
-    },
-    "uofEr-GD9i": {
-        "id": "uofEr-GD9i",
-        "title": "Убийство на улице Морг",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2016-10-22 09:11:39",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 3
         }
     }
 }
