@@ -1,4 +1,10 @@
 {
+    "516628071-twitter": {
+        "id": "516628071-twitter",
+        "nickname": "VicemanUral",
+        "booksCount": 0,
+        "updatedAt": "2016-10-25 05:43:47"
+    },
     "1734575-vkontakte": {
         "id": "1734575-vkontakte",
         "nickname": "foksik",
@@ -172,11 +178,5 @@
         "nickname": "kuzhakhmetov",
         "booksCount": 0,
         "updatedAt": "2016-10-16 18:03:44"
-    },
-    "152183909-vkontakte": {
-        "id": "152183909-vkontakte",
-        "nickname": "d.molokoedova",
-        "booksCount": 0,
-        "updatedAt": "2016-10-16 15:23:28"
     }
 }
