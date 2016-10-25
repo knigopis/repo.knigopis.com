@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[VicemanUral](users/516/516628071-twitter)<sup>0</sup> 
+[VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 [huy\](users/192/192252145-vkontakte)<sup>0</sup> 
 [peda1337](users/366/366866393-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
 
 
-_25.10.2016 05:43:49_
+_25.10.2016 05:46:41_

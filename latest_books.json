@@ -1,4 +1,16 @@
 {
+    "VtDosyaIpO": {
+        "id": "VtDosyaIpO",
+        "title": "Это я — Эдичка",
+        "author": "Эдуард Лимонов",
+        "notes": "Самый честный, правдивый и жёсткий автобиографический роман современной России. Советую.",
+        "createdAt": "2016-10-25 05:46:41",
+        "user": {
+            "id": "516628071-twitter",
+            "nickname": "VicemanUral",
+            "booksCount": 1
+        }
+    },
     "giGfQm_0rl": {
         "id": "giGfQm_0rl",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 27
-        }
-    },
-    "cYOsUmBmeU": {
-        "id": "cYOsUmBmeU",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-10-22 08:40:20",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 26
         }
     }
 }
