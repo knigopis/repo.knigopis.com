@@ -1,4 +1,16 @@
 {
+    "ubVokPlDUx": {
+        "id": "ubVokPlDUx",
+        "title": "Белые слоны",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2016-10-25 13:23:15",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 455
+        }
+    },
     "ro7FmFdbcv": {
         "id": "ro7FmFdbcv",
         "title": "Ежик. История о напрасной суете",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 1
-        }
-    },
-    "mXokXnsv_z": {
-        "id": "mXokXnsv_z",
-        "title": "Волкодав",
-        "author": "Мария Семёнова",
-        "notes": "",
-        "createdAt": "2016-10-22 08:46:25",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 28
         }
     }
 }

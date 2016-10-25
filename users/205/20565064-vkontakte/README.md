@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>454</sup>
+# List of books read by Janet<sup>455</sup>
 ---
 
 ## 2016
+
+### Белые слоны
+Эрнест Хемингуэй
+> [2016-10] 
+
 
 ### Ежик. История о напрасной суете
 Григорий Горин
