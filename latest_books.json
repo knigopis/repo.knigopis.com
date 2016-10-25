@@ -1,4 +1,16 @@
 {
+    "Sl59wHpz_x": {
+        "id": "Sl59wHpz_x",
+        "title": "Квантовая психология",
+        "author": "Уилсон Роберт Антон",
+        "notes": "",
+        "createdAt": "2016-10-25 20:50:53",
+        "user": {
+            "id": "10204507448030391-facebook",
+            "nickname": "Dubai",
+            "booksCount": 1
+        }
+    },
     "pbc13JR5GR": {
         "id": "pbc13JR5GR",
         "title": "Коляска",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 10
-        }
-    },
-    "brF7NmEnJj": {
-        "id": "brF7NmEnJj",
-        "title": "Хроники Амбера: Знак Эдинорога",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2016-10-22 09:17:11",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 9
         }
     }
 }

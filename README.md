@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dubai](users/102/10204507448030391-facebook)<sup>0</sup> 
+[Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>463</sup> 
 [VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Citycat02](users/110/110026466098031422803-google)<sup>0</sup> 
 
 
-_25.10.2016 20:50:04_
+_25.10.2016 20:50:53_
