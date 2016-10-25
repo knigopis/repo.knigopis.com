@@ -1,4 +1,16 @@
 {
+    "pbc13JR5GR": {
+        "id": "pbc13JR5GR",
+        "title": "Коляска",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2016-10-25 17:16:47",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 463
+        }
+    },
     "F4_xeDCFmM": {
         "id": "F4_xeDCFmM",
         "title": "Путаница",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 9
-        }
-    },
-    "40UyOTIptu": {
-        "id": "40UyOTIptu",
-        "title": "Хроники Амбера: Ружья Авалона",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2016-10-22 09:16:39",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 8
         }
     }
 }
