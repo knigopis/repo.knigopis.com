@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Oksana](users/858/858736507560407-facebook)<sup>0</sup> 
+[Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>463</sup> 
 [VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 
 
-_25.10.2016 22:37:29_
+_25.10.2016 22:39:03_

@@ -1,4 +1,16 @@
 {
+    "yQzYToEURT": {
+        "id": "yQzYToEURT",
+        "title": "Хроники заводной птицы",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2016-10-25 22:39:03",
+        "user": {
+            "id": "858736507560407-facebook",
+            "nickname": "Oksana",
+            "booksCount": 1
+        }
+    },
     "Sl59wHpz_x": {
         "id": "Sl59wHpz_x",
         "title": "Квантовая психология",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 11
-        }
-    },
-    "VlhbF2jolF": {
-        "id": "VlhbF2jolF",
-        "title": "Хроники Амбера: Руки Оберона",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2016-10-22 09:17:37",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 10
         }
     }
 }
