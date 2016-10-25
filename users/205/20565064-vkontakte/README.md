@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>459</sup>
+# List of books read by Janet<sup>460</sup>
 ---
 
 ## 2016
+
+### Стрелы амура
+Редьярд Киплинг
+> [2016-10] 
+
 
 ### Который из трех?
 Антон Чехов

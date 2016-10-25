@@ -1,4 +1,16 @@
 {
+    "lGfdQdK6hx": {
+        "id": "lGfdQdK6hx",
+        "title": "Стрелы амура",
+        "author": "Редьярд Киплинг",
+        "notes": "",
+        "createdAt": "2016-10-25 13:58:45",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 460
+        }
+    },
     "9BK2uNrS8h": {
         "id": "9BK2uNrS8h",
         "title": "Который из трех?",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 6
-        }
-    },
-    "FUXgAM3xKV": {
-        "id": "FUXgAM3xKV",
-        "title": "Айвенго",
-        "author": "Вальтер Скотт",
-        "notes": "",
-        "createdAt": "2016-10-22 09:13:37",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 5
         }
     }
 }
