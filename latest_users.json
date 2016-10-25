@@ -1,4 +1,10 @@
 {
+    "10204507448030391-facebook": {
+        "id": "10204507448030391-facebook",
+        "nickname": "Dubai",
+        "booksCount": 0,
+        "updatedAt": "2016-10-25 20:50:02"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Citycat02",
         "booksCount": 0,
         "updatedAt": "2016-10-17 07:38:45"
-    },
-    "4899731-vkontakte": {
-        "id": "4899731-vkontakte",
-        "nickname": "kuzhakhmetov",
-        "booksCount": 0,
-        "updatedAt": "2016-10-16 18:03:44"
     }
 }
