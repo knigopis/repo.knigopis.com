@@ -1,4 +1,16 @@
 {
+    "APYSLn0f4r": {
+        "id": "APYSLn0f4r",
+        "title": "Аравия",
+        "author": "Джеймс Джойс",
+        "notes": "",
+        "createdAt": "2016-10-25 14:10:45",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 461
+        }
+    },
     "lGfdQdK6hx": {
         "id": "lGfdQdK6hx",
         "title": "Стрелы амура",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 7
-        }
-    },
-    "0J7Suo6isl": {
-        "id": "0J7Suo6isl",
-        "title": "Fate/Zero",
-        "author": "Уробути Гэн",
-        "notes": "",
-        "createdAt": "2016-10-22 09:14:34",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 6
         }
     }
 }
