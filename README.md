@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[VicemanUral](users/516/516628071-twitter)<sup>0</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 [huy\](users/192/192252145-vkontakte)<sup>0</sup> 
 [peda1337](users/366/366866393-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Citycat02](users/110/110026466098031422803-google)<sup>0</sup> 
 [kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
-[d.molokoedova](users/152/152183909-vkontakte)<sup>0</sup> 
 
 
-_24.10.2016 17:37:45_
+_25.10.2016 05:43:49_
