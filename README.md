@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>454</sup> 
 [VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 [huy\](users/192/192252145-vkontakte)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>40</sup> 
 [Александр Сергеев](users/780/7801383777140798509-mailru)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>453</sup> 
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 [shched.nova](users/572/57248262-vkontakte)<sup>3</sup> 
 [grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kuzhakhmetov](users/489/4899731-vkontakte)<sup>0</sup> 
 
 
-_25.10.2016 05:46:41_
+_25.10.2016 13:18:11_

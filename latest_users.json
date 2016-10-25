@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 454,
+        "updatedAt": "2016-10-25 13:18:11"
+    },
     "516628071-twitter": {
         "id": "516628071-twitter",
         "nickname": "VicemanUral",
@@ -88,12 +94,6 @@
         "nickname": "nadisvid",
         "booksCount": 18,
         "updatedAt": "2016-10-20 19:05:21"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 453,
-        "updatedAt": "2016-10-20 12:38:24"
     },
     "1236741-vkontakte": {
         "id": "1236741-vkontakte",

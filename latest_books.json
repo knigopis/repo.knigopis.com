@@ -1,4 +1,16 @@
 {
+    "ro7FmFdbcv": {
+        "id": "ro7FmFdbcv",
+        "title": "Ежик. История о напрасной суете",
+        "author": "Григорий Горин",
+        "notes": "",
+        "createdAt": "2016-10-25 13:18:11",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 454
+        }
+    },
     "VtDosyaIpO": {
         "id": "VtDosyaIpO",
         "title": "Это я — Эдичка",
@@ -345,18 +357,6 @@
             "id": "371574201-vkontakte",
             "nickname": "Deithwen",
             "booksCount": 28
-        }
-    },
-    "MBLEXF-qpQ": {
-        "id": "MBLEXF-qpQ",
-        "title": "Sword Art Online",
-        "author": "Рэки Кавахара",
-        "notes": "15 томов.",
-        "createdAt": "2016-10-22 08:44:49",
-        "user": {
-            "id": "371574201-vkontakte",
-            "nickname": "Deithwen",
-            "booksCount": 27
         }
     }
 }
