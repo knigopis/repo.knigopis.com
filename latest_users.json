@@ -1,4 +1,10 @@
 {
+    "858736507560407-facebook": {
+        "id": "858736507560407-facebook",
+        "nickname": "Oksana",
+        "booksCount": 0,
+        "updatedAt": "2016-10-25 22:37:27"
+    },
     "10204507448030391-facebook": {
         "id": "10204507448030391-facebook",
         "nickname": "Dubai",
@@ -172,11 +178,5 @@
         "nickname": "dimapropolsky",
         "booksCount": 18,
         "updatedAt": "2016-10-17 16:12:27"
-    },
-    "110026466098031422803-google": {
-        "id": "110026466098031422803-google",
-        "nickname": "Citycat02",
-        "booksCount": 0,
-        "updatedAt": "2016-10-17 07:38:45"
     }
 }
