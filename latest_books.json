@@ -1,4 +1,16 @@
 {
+    "KYy7Dn--dv": {
+        "id": "KYy7Dn--dv",
+        "title": "Последний лист",
+        "author": "О. Генри",
+        "notes": "",
+        "createdAt": "2016-10-25 13:41:59",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 457
+        }
+    },
     "cjO6-mG4hf": {
         "id": "cjO6-mG4hf",
         "title": "Слово",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 3
-        }
-    },
-    "MjPsmnbF4U": {
-        "id": "MjPsmnbF4U",
-        "title": "Золотой Жук",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2016-10-22 09:11:15",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 2
         }
     }
 }
