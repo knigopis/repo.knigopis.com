@@ -1,4 +1,16 @@
 {
+    "cjO6-mG4hf": {
+        "id": "cjO6-mG4hf",
+        "title": "Слово",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2016-10-25 13:28:23",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 456
+        }
+    },
     "ubVokPlDUx": {
         "id": "ubVokPlDUx",
         "title": "Белые слоны",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 2
-        }
-    },
-    "nCOeMC5XUo": {
-        "id": "nCOeMC5XUo",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2016-10-22 09:10:17",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 1
         }
     }
 }
