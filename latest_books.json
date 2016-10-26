@@ -1,4 +1,16 @@
 {
+    "OUmFnhxTLC": {
+        "id": "OUmFnhxTLC",
+        "title": "Караси и щуки (сборник рассказов), Молодняк",
+        "author": "Аверченко Аркадий",
+        "notes": "Интересные юмористические рассказы.",
+        "createdAt": "2016-10-26 00:05:39",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 56
+        }
+    },
     "yQzYToEURT": {
         "id": "yQzYToEURT",
         "title": "Хроники заводной птицы",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 12
-        }
-    },
-    "iuVzL8-ieV": {
-        "id": "iuVzL8-ieV",
-        "title": "Остров Сокровищ",
-        "author": "Роберт Стивенсон",
-        "notes": "",
-        "createdAt": "2016-10-22 09:58:08",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 11
         }
     }
 }

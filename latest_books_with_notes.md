@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
 * Зулейха открывает глаза ~ [foksik](users/173/1734575-vkontakte)<sup>111</sup>
 * Джордж Оруелл ~ [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup>
 * Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 * Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 * Зороастр ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>77</sup>
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 
 
-_24.10.2016 17:36:59_
+_26.10.2016 00:05:39_

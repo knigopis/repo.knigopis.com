@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
+    > Интересные юмористические рассказы.
+
 * Зулейха открывает глаза ~ [foksik](users/173/1734575-vkontakte)<sup>111</sup>
     > Отличная книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересна, но недосказанна. Тот Голдштейн должен был появиться и изменить ситуацию. Но он не пришёл, его забыли и миром позабыт. Диктатура всегда имеет одну формулировку и одно определение, пусть оно будет нравится некоторым, но оно остается диктатурой, а значит в любой момент может показать свою сущность.
 
 * Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
-    > Мне не понравилось. Слишком просто. Таки детская книжка. Дам почитать своему ребёнку, когда исполнится 12 лет.
 
 * Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
 
-* Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>463</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
 [katalinamalkova](users/158/15838562-vkontakte)<sup>0</sup> 
 [Aleksandr](users/116/116164604589209895641-google)<sup>0</sup> 
-[dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 
 
-_25.10.2016 22:39:03_
+_26.10.2016 00:05:39_
