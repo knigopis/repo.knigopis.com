@@ -1,4 +1,16 @@
 {
+    "FIzW5EhkdT": {
+        "id": "FIzW5EhkdT",
+        "title": "СТИКС STIKS Человеческий Улей + Человек с котом",
+        "author": "Артем Каменистый",
+        "notes": "Про карата как он мог ускоряться на пару сек. Про зомби и типо попал он туда через туман на уазике. Носил жемчуг какому то главному чуваку",
+        "createdAt": "2016-10-26 19:12:48",
+        "user": {
+            "id": "10205442182733690-facebook",
+            "nickname": "romann",
+            "booksCount": 6
+        }
+    },
     "OUmFnhxTLC": {
         "id": "OUmFnhxTLC",
         "title": "Караси и щуки (сборник рассказов), Молодняк",
@@ -345,18 +357,6 @@
             "id": "117124011531379579265-google",
             "nickname": "pimanocci",
             "booksCount": 9
-        }
-    },
-    "9NvI1HxC5H": {
-        "id": "9NvI1HxC5H",
-        "title": "Зороастр",
-        "author": "",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/4406785/",
-        "createdAt": "2016-10-04 09:41:14",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 77
         }
     }
 }

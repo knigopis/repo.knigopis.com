@@ -1,4 +1,16 @@
 {
+    "FIzW5EhkdT": {
+        "id": "FIzW5EhkdT",
+        "title": "СТИКС STIKS Человеческий Улей + Человек с котом",
+        "author": "Артем Каменистый",
+        "notes": "Про карата как он мог ускоряться на пару сек. Про зомби и типо попал он туда через туман на уазике. Носил жемчуг какому то главному чуваку",
+        "createdAt": "2016-10-26 19:12:48",
+        "user": {
+            "id": "10205442182733690-facebook",
+            "nickname": "romann",
+            "booksCount": 6
+        }
+    },
     "OUmFnhxTLC": {
         "id": "OUmFnhxTLC",
         "title": "Караси и щуки (сборник рассказов), Молодняк",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 13
-        }
-    },
-    "pnFNQqe5YS": {
-        "id": "pnFNQqe5YS",
-        "title": "Приключения Робинхона Крузо",
-        "author": "Даниэль Дефо",
-        "notes": "",
-        "createdAt": "2016-10-22 09:59:23",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 12
         }
     }
 }

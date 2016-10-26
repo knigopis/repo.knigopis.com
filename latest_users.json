@@ -1,4 +1,10 @@
 {
+    "10205442182733690-facebook": {
+        "id": "10205442182733690-facebook",
+        "nickname": "romann",
+        "booksCount": 6,
+        "updatedAt": "2016-10-26 19:12:48"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "katalinamalkova",
         "booksCount": 0,
         "updatedAt": "2016-10-18 14:47:30"
-    },
-    "116164604589209895641-google": {
-        "id": "116164604589209895641-google",
-        "nickname": "Aleksandr",
-        "booksCount": 0,
-        "updatedAt": "2016-10-18 08:18:49"
     }
 }
