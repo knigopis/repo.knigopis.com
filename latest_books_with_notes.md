@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>24</sup>
 * СТИКС STIKS Человеческий Улей + Человек с котом ~ [romann](users/102/10205442182733690-facebook)<sup>6</sup>
 * Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
 * Зулейха открывает глаза ~ [foksik](users/173/1734575-vkontakte)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
 * Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
-* Во тьме Эдема ~ [pimanocci](users/117/117124011531379579265-google)<sup>9</sup>
 
 
-_26.10.2016 19:12:48_
+_27.10.2016 13:43:41_
