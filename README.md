@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>24</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup> 
 
 
-_27.10.2016 13:43:56_
+_27.10.2016 13:44:07_
