@@ -1,4 +1,10 @@
 {
+    "114776900999335177153-googleplus": {
+        "id": "114776900999335177153-googleplus",
+        "nickname": "Elena_2405",
+        "booksCount": 0,
+        "updatedAt": "2016-10-28 19:48:57"
+    },
     "19928047-vkontakte": {
         "id": "19928047-vkontakte",
         "nickname": "lima_nad",
@@ -172,11 +178,5 @@
         "nickname": "valdimarsdottir",
         "booksCount": 0,
         "updatedAt": "2016-10-19 12:26:15"
-    },
-    "12462836-vkontakte": {
-        "id": "12462836-vkontakte",
-        "nickname": "dmtrdmtr",
-        "booksCount": 23,
-        "updatedAt": "2016-10-18 20:32:09"
     }
 }
