@@ -1,4 +1,10 @@
 {
+    "4177937052230745034-mailru": {
+        "id": "4177937052230745034-mailru",
+        "nickname": "[Elldar@do]`",
+        "booksCount": 0,
+        "updatedAt": "2016-10-28 06:12:40"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "Арквейд Курапира",
         "booksCount": 41,
         "updatedAt": "2016-10-18 18:31:20"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 21,
-        "updatedAt": "2016-10-18 15:15:57"
     }
 }
