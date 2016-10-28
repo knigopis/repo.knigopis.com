@@ -1,4 +1,16 @@
 {
+    "crw-JSH5jw": {
+        "id": "crw-JSH5jw",
+        "title": "",
+        "author": "серова",
+        "notes": "",
+        "createdAt": "2016-10-28 16:16:09",
+        "user": {
+            "id": "19928047-vkontakte",
+            "nickname": "lima_nad",
+            "booksCount": 1
+        }
+    },
     "oB9TdzcBua": {
         "id": "oB9TdzcBua",
         "title": "Чума",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 15
-        }
-    },
-    "-OuT-hsTM4": {
-        "id": "-OuT-hsTM4",
-        "title": "Меч Предназначения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:01:12",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 14
         }
     }
 }

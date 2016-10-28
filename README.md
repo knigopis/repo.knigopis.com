@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lima_nad](users/199/19928047-vkontakte)<sup>0</sup> 
+[lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>24</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmtrdmtr](users/124/12462836-vkontakte)<sup>23</sup> 
 
 
-_28.10.2016 16:15:44_
+_28.10.2016 16:16:09_
