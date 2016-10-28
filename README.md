@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Elena_2405](users/114/114776900999335177153-googleplus)<sup>1</sup> 
+[Elena_2405](users/114/114776900999335177153-googleplus)<sup>2</sup> 
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
 
 
-_28.10.2016 19:50:33_
+_28.10.2016 19:51:19_

@@ -1,4 +1,16 @@
 {
+    "HWIAEtOjZB": {
+        "id": "HWIAEtOjZB",
+        "title": "Детская книга. Том 1",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2016-10-28 19:51:19",
+        "user": {
+            "id": "114776900999335177153-googleplus",
+            "nickname": "Elena_2405",
+            "booksCount": 2
+        }
+    },
     "-96ZnJ34Q0": {
         "id": "-96ZnJ34Q0",
         "title": "Неукротимая планета",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 17
-        }
-    },
-    "vnt1qppRzg": {
-        "id": "vnt1qppRzg",
-        "title": "Час Презрения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:01:44",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 16
         }
     }
 }
