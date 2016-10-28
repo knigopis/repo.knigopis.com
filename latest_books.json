@@ -1,4 +1,16 @@
 {
+    "n0bEH8ocYJ": {
+        "id": "n0bEH8ocYJ",
+        "title": "хуй пизда",
+        "author": "ааа",
+        "notes": "ууууу",
+        "createdAt": "2016-10-28 21:19:17",
+        "user": {
+            "id": "139165015-vkontakte",
+            "nickname": "fanofskateboarding",
+            "booksCount": 1
+        }
+    },
     "HWIAEtOjZB": {
         "id": "HWIAEtOjZB",
         "title": "Детская книга. Том 1",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 18
-        }
-    },
-    "LfAyIa0kg9": {
-        "id": "LfAyIa0kg9",
-        "title": "Крещение Огнём",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:02:13",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 17
         }
     }
 }

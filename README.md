@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fanofskateboarding](users/139/139165015-vkontakte)<sup>0</sup> 
+[fanofskateboarding](users/139/139165015-vkontakte)<sup>1</sup> 
 [Elena_2405](users/114/114776900999335177153-googleplus)<sup>2</sup> 
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 
 
-_28.10.2016 21:18:58_
+_28.10.2016 21:19:17_
