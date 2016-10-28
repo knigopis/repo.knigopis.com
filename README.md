@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fanofskateboarding](users/139/139165015-vkontakte)<sup>0</sup> 
 [Elena_2405](users/114/114776900999335177153-googleplus)<sup>2</sup> 
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [grigoryev_ivan](users/243/243176966-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>47</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
-[valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
 
 
-_28.10.2016 19:51:19_
+_28.10.2016 21:18:58_
