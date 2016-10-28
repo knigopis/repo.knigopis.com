@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lima_nad](users/199/19928047-vkontakte)<sup>0</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>24</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [valdimarsdottir](users/364/364896871-vkontakte)<sup>0</sup> 
 [dmtrdmtr](users/124/12462836-vkontakte)<sup>23</sup> 
-[Арквейд Курапира](users/278/278072338-vkontakte)<sup>41</sup> 
 
 
-_28.10.2016 06:12:43_
+_28.10.2016 16:15:44_
