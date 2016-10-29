@@ -1,4 +1,10 @@
 {
+    "leczQ3Eya3-linkedin": {
+        "id": "leczQ3Eya3-linkedin",
+        "nickname": "Ник Литвинов",
+        "booksCount": 79,
+        "updatedAt": "2016-10-29 22:22:47"
+    },
     "52641782-vkontakte": {
         "id": "52641782-vkontakte",
         "nickname": "kraftlawrence",
@@ -172,11 +178,5 @@
         "nickname": "Olyaperekatipole",
         "booksCount": 60,
         "updatedAt": "2016-10-20 12:19:14"
-    },
-    "57248262-vkontakte": {
-        "id": "57248262-vkontakte",
-        "nickname": "shched.nova",
-        "booksCount": 3,
-        "updatedAt": "2016-10-20 12:16:31"
     }
 }

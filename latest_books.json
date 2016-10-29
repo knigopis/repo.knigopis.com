@@ -1,4 +1,16 @@
 {
+    "dv-0XJI4-A": {
+        "id": "dv-0XJI4-A",
+        "title": "Двери восприятия. Рай и ад",
+        "author": "Олдос Хаксли",
+        "notes": "Прекрасный манифест поколения Кастанеды, я бы так сказал :)",
+        "createdAt": "2016-10-29 22:22:47",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 79
+        }
+    },
     "n0bEH8ocYJ": {
         "id": "n0bEH8ocYJ",
         "title": "хуй пизда",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 19
-        }
-    },
-    "Xklxpgoyjg": {
-        "id": "Xklxpgoyjg",
-        "title": "Башня Ласточки",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:02:24",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 18
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>25</sup>
 * СТИКС STIKS Человеческий Улей + Человек с котом ~ [romann](users/102/10205442182733690-facebook)<sup>6</sup>
 * Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
@@ -30,7 +31,6 @@
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 * Колыбель для кошки ~ [Victoria](users/113/113794223924688167852-google)<sup>22</sup>
-* Тайна реки злых духов ~ [lucius](users/838/83820536-yandex)<sup>134</sup>
 
 
-_27.10.2016 13:43:56_
+_29.10.2016 22:22:47_
