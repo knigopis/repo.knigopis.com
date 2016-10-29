@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup>
+* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
     > в процессе
     > 
     > Исключительно полезное бизнес-чтиво без лишних понтов.
@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup> 
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 [Antimateriya](users/108/108466512276521805217-google)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 
 
-_29.10.2016 22:24:28_
+_29.10.2016 22:28:24_
