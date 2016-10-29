@@ -1,4 +1,10 @@
 {
+    "52641782-vkontakte": {
+        "id": "52641782-vkontakte",
+        "nickname": "kraftlawrence",
+        "booksCount": 0,
+        "updatedAt": "2016-10-29 11:52:45"
+    },
     "108466512276521805217-google": {
         "id": "108466512276521805217-google",
         "nickname": "Antimateriya",
@@ -172,11 +178,5 @@
         "nickname": "shched.nova",
         "booksCount": 3,
         "updatedAt": "2016-10-20 12:16:31"
-    },
-    "243176966-vkontakte": {
-        "id": "243176966-vkontakte",
-        "nickname": "grigoryev_ivan",
-        "booksCount": 1,
-        "updatedAt": "2016-10-20 06:50:50"
     }
 }
