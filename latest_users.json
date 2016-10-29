@@ -1,4 +1,10 @@
 {
+    "44606269-yandex": {
+        "id": "44606269-yandex",
+        "nickname": "nelegalco",
+        "booksCount": 0,
+        "updatedAt": "2016-10-29 05:32:05"
+    },
     "139165015-vkontakte": {
         "id": "139165015-vkontakte",
         "nickname": "fanofskateboarding",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 47,
         "updatedAt": "2016-10-20 01:36:28"
-    },
-    "380085691-vkontakte": {
-        "id": "380085691-vkontakte",
-        "nickname": "nohappinessnofun",
-        "booksCount": 1,
-        "updatedAt": "2016-10-19 16:00:49"
     }
 }
