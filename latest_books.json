@@ -1,4 +1,16 @@
 {
+    "ZTKydwgLVV": {
+        "id": "ZTKydwgLVV",
+        "title": "Сам себе MBA. Самообразование на 100%",
+        "author": "Джош Кауфман",
+        "notes": "в процессе\n\nИсключительно полезное бизнес-чтиво без лишних понтов.",
+        "createdAt": "2016-10-29 22:24:28",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 80
+        }
+    },
     "dv-0XJI4-A": {
         "id": "dv-0XJI4-A",
         "title": "Двери восприятия. Рай и ад",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 20
-        }
-    },
-    "XDFDcLFUer": {
-        "id": "XDFDcLFUer",
-        "title": "Владычица Озера",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:02:52",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 19
         }
     }
 }
