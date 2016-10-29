@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
+* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>25</sup>
 * СТИКС STIKS Человеческий Улей + Человек с котом ~ [romann](users/102/10205442182733690-facebook)<sup>6</sup>
@@ -33,4 +33,4 @@
 * Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 
 
-_29.10.2016 22:28:24_
+_29.10.2016 22:28:32_
