@@ -1,4 +1,10 @@
 {
+    "108466512276521805217-google": {
+        "id": "108466512276521805217-google",
+        "nickname": "Antimateriya",
+        "booksCount": 0,
+        "updatedAt": "2016-10-29 09:08:59"
+    },
     "44606269-yandex": {
         "id": "44606269-yandex",
         "nickname": "nelegalco",
@@ -172,11 +178,5 @@
         "nickname": "grigoryev_ivan",
         "booksCount": 1,
         "updatedAt": "2016-10-20 06:50:50"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 47,
-        "updatedAt": "2016-10-20 01:36:28"
     }
 }
