@@ -1,4 +1,16 @@
 {
+    "wDHMDw6zk0": {
+        "id": "wDHMDw6zk0",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2016-10-30 13:54:32",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 1
+        }
+    },
     "6-zPl89QGx": {
         "id": "6-zPl89QGx",
         "title": "Сам себе MBA. Самообразование на 100%",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 21
-        }
-    },
-    "1f-59TKy7Q": {
-        "id": "1f-59TKy7Q",
-        "title": "Сезон Гроз",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2016-10-22 10:03:18",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 20
         }
     }
 }
