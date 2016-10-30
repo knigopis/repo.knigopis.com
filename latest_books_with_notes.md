@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
 * Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
 * Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
-* Звездные короли ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>78</sup>
 
 
-_29.10.2016 22:28:32_
+_30.10.2016 18:51:40_
