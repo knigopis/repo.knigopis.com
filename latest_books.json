@@ -1,4 +1,16 @@
 {
+    "JBMGIUAjaz": {
+        "id": "JBMGIUAjaz",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-10-30 15:17:03",
+        "user": {
+            "id": "164804873-yandex",
+            "nickname": "Мохнатый Шмель",
+            "booksCount": 3
+        }
+    },
     "FRQdlVxiEv": {
         "id": "FRQdlVxiEv",
         "title": "Волчок",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 462
-        }
-    },
-    "APYSLn0f4r": {
-        "id": "APYSLn0f4r",
-        "title": "Аравия",
-        "author": "Джеймс Джойс",
-        "notes": "",
-        "createdAt": "2016-10-25 14:10:45",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 461
         }
     }
 }
