@@ -1,4 +1,16 @@
 {
+    "Lc4Wc_pbe5": {
+        "id": "Lc4Wc_pbe5",
+        "title": "Цифровая крепость",
+        "author": "Дэн Браун",
+        "notes": "+",
+        "createdAt": "2016-10-30 14:14:02",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 12
+        }
+    },
     "js3RfU4Jkd": {
         "id": "js3RfU4Jkd",
         "title": "Время-не-ждет",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 458
-        }
-    },
-    "KYy7Dn--dv": {
-        "id": "KYy7Dn--dv",
-        "title": "Последний лист",
-        "author": "О. Генри",
-        "notes": "",
-        "createdAt": "2016-10-25 13:41:59",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 457
         }
     }
 }
