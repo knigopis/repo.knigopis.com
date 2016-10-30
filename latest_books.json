@@ -1,4 +1,16 @@
 {
+    "QH-l4hb15d": {
+        "id": "QH-l4hb15d",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2016-10-30 13:55:56",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 3
+        }
+    },
     "DQbRwAW_H_": {
         "id": "DQbRwAW_H_",
         "title": "Властелин Колец",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 23
-        }
-    },
-    "Cyh_qKnfjS": {
-        "id": "Cyh_qKnfjS",
-        "title": "Тень над Иннсмутом",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2016-10-22 10:11:34",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 22
         }
     }
 }
