@@ -1,4 +1,16 @@
 {
+    "f0MJ38th09": {
+        "id": "f0MJ38th09",
+        "title": "Криминальные аборты",
+        "author": "Ломачинский",
+        "notes": "",
+        "createdAt": "2016-10-30 15:18:04",
+        "user": {
+            "id": "164804873-yandex",
+            "nickname": "Мохнатый Шмель",
+            "booksCount": 4
+        }
+    },
     "JBMGIUAjaz": {
         "id": "JBMGIUAjaz",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 463
-        }
-    },
-    "F4_xeDCFmM": {
-        "id": "F4_xeDCFmM",
-        "title": "Путаница",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2016-10-25 14:17:50",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 462
         }
     }
 }
