@@ -1,4 +1,16 @@
 {
+    "BgjGy0aRII": {
+        "id": "BgjGy0aRII",
+        "title": "Старуха",
+        "author": "Хармс",
+        "notes": "",
+        "createdAt": "2016-10-30 15:19:38",
+        "user": {
+            "id": "164804873-yandex",
+            "nickname": "Мохнатый Шмель",
+            "booksCount": 7
+        }
+    },
     "gTPG-gjx6_": {
         "id": "gTPG-gjx6_",
         "title": "Олеся",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 56
-        }
-    },
-    "yQzYToEURT": {
-        "id": "yQzYToEURT",
-        "title": "Хроники заводной птицы",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2016-10-25 22:39:03",
-        "user": {
-            "id": "858736507560407-facebook",
-            "nickname": "Oksana",
-            "booksCount": 1
         }
     }
 }
