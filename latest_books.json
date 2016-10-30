@@ -1,4 +1,16 @@
 {
+    "js3RfU4Jkd": {
+        "id": "js3RfU4Jkd",
+        "title": "Время-не-ждет",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2016-10-30 14:12:35",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 11
+        }
+    },
     "FbKVznag4_": {
         "id": "FbKVznag4_",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 457
-        }
-    },
-    "cjO6-mG4hf": {
-        "id": "cjO6-mG4hf",
-        "title": "Слово",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2016-10-25 13:28:23",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 456
         }
     }
 }
