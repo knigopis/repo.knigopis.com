@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 [marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
-[detectivecole](users/307/307203253-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup> 
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 [Antimateriya](users/108/108466512276521805217-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>40</sup> 
 
 
-_30.10.2016 14:14:02_
+_30.10.2016 14:44:44_
