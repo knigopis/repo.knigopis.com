@@ -1,4 +1,10 @@
 {
+    "5727424-vkontakte": {
+        "id": "5727424-vkontakte",
+        "nickname": "apisinka_ja",
+        "booksCount": 0,
+        "updatedAt": "2016-10-30 18:04:47"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "Deithwen",
         "booksCount": 28,
         "updatedAt": "2016-10-22 08:46:25"
-    },
-    "106616728662292831735-google": {
-        "id": "106616728662292831735-google",
-        "nickname": "Marsala",
-        "booksCount": 0,
-        "updatedAt": "2016-10-21 11:38:17"
     }
 }
