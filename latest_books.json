@@ -1,4 +1,16 @@
 {
+    "DQbRwAW_H_": {
+        "id": "DQbRwAW_H_",
+        "title": "Властелин Колец",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2016-10-30 13:55:19",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 2
+        }
+    },
     "wDHMDw6zk0": {
         "id": "wDHMDw6zk0",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "yarikosimo",
             "booksCount": 22
-        }
-    },
-    "oAcorqqKJj": {
-        "id": "oAcorqqKJj",
-        "title": "Приключения Гулливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2016-10-22 10:05:03",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 21
         }
     }
 }
