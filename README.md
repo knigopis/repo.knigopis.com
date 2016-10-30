@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>464</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elena_2405](users/114/114776900999335177153-googleplus)<sup>2</sup> 
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>24</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
 
 
-_30.10.2016 16:02:26_
+_30.10.2016 16:19:20_
