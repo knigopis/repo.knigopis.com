@@ -1,4 +1,10 @@
 {
+    "108441017286602220411-google": {
+        "id": "108441017286602220411-google",
+        "nickname": "argentum",
+        "booksCount": 0,
+        "updatedAt": "2016-10-30 13:36:13"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "nadisvid",
         "booksCount": 18,
         "updatedAt": "2016-10-20 19:05:21"
-    },
-    "1236741-vkontakte": {
-        "id": "1236741-vkontakte",
-        "nickname": "Olyaperekatipole",
-        "booksCount": 60,
-        "updatedAt": "2016-10-20 12:19:14"
     }
 }
