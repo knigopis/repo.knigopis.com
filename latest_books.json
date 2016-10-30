@@ -1,4 +1,16 @@
 {
+    "DFNE3Rtfz2": {
+        "id": "DFNE3Rtfz2",
+        "title": "Гранатовый браслет",
+        "author": "Куприн",
+        "notes": "",
+        "createdAt": "2016-10-30 15:18:47",
+        "user": {
+            "id": "164804873-yandex",
+            "nickname": "Мохнатый Шмель",
+            "booksCount": 5
+        }
+    },
     "f0MJ38th09": {
         "id": "f0MJ38th09",
         "title": "Криминальные аборты",
@@ -345,18 +357,6 @@
             "id": "10204507448030391-facebook",
             "nickname": "Dubai",
             "booksCount": 1
-        }
-    },
-    "pbc13JR5GR": {
-        "id": "pbc13JR5GR",
-        "title": "Коляска",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2016-10-25 17:16:47",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 463
         }
     }
 }
