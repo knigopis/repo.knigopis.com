@@ -1,4 +1,10 @@
 {
+    "7635329-vkontakte": {
+        "id": "7635329-vkontakte",
+        "nickname": "marishka_volobueva",
+        "booksCount": 0,
+        "updatedAt": "2016-10-30 14:13:43"
+    },
     "108441017286602220411-google": {
         "id": "108441017286602220411-google",
         "nickname": "argentum",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 40,
         "updatedAt": "2016-10-21 11:21:36"
-    },
-    "7801383777140798509-mailru": {
-        "id": "7801383777140798509-mailru",
-        "nickname": "Александр Сергеев",
-        "booksCount": 0,
-        "updatedAt": "2016-10-20 20:42:13"
     }
 }
