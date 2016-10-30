@@ -1,4 +1,4 @@
-# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>7</sup>
+# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>8</sup>
 ---
 
 ## 2016
@@ -13,6 +13,10 @@
 
 
 ## 2015
+
+### Гипноз для Марии
+Ричард Дэвис Бах
+
 
 ### Бойцовский Клуб
 Чак Паланик

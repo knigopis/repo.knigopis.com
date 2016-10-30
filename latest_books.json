@@ -1,4 +1,16 @@
 {
+    "nchHYK1_qz": {
+        "id": "nchHYK1_qz",
+        "title": "Гипноз для Марии",
+        "author": "Ричард Дэвис Бах",
+        "notes": "",
+        "createdAt": "2016-10-30 14:09:38",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 8
+        }
+    },
     "1qsmPVR_AL": {
         "id": "1qsmPVR_AL",
         "title": "Бойцовский Клуб",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 454
-        }
-    },
-    "VtDosyaIpO": {
-        "id": "VtDosyaIpO",
-        "title": "Это я — Эдичка",
-        "author": "Эдуард Лимонов",
-        "notes": "Самый честный, правдивый и жёсткий автобиографический роман современной России. Советую.",
-        "createdAt": "2016-10-25 05:46:41",
-        "user": {
-            "id": "516628071-twitter",
-            "nickname": "VicemanUral",
-            "booksCount": 1
         }
     }
 }
