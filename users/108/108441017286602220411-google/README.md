@@ -1,7 +1,11 @@
-# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>5</sup>
+# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>6</sup>
 ---
 
 ## 2016
+
+### Трудно быть богом
+Братья Стругацкие
+
 
 ### О дивный новый мир
 Олдос Хаксли

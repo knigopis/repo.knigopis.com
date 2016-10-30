@@ -1,4 +1,16 @@
 {
+    "E__5djpojF": {
+        "id": "E__5djpojF",
+        "title": "Трудно быть богом",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2016-10-30 14:08:01",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 6
+        }
+    },
     "OGxus2AJq0": {
         "id": "OGxus2AJq0",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "87042697-vkontakte",
             "nickname": "freezy_bi",
             "booksCount": 18
-        }
-    },
-    "xKqefPi3nV": {
-        "id": "xKqefPi3nV",
-        "title": "Властелин Колец: Братство Кольца",
-        "author": "Дж. Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2016-10-22 10:16:58",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 25
         }
     }
 }
