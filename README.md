@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Мохнатый Шмель](users/164/164804873-yandex)<sup>1</sup> 
+[Мохнатый Шмель](users/164/164804873-yandex)<sup>2</sup> 
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 [marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
 
 
-_30.10.2016 15:16:24_
+_30.10.2016 15:17:01_
