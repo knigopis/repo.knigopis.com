@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>464</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [саша андреев](users/390/3909084262983106447-mailru)<sup>0</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>25</sup> 
 [Deithwen](users/371/371574201-vkontakte)<sup>28</sup> 
-[Marsala](users/106/106616728662292831735-google)<sup>0</sup> 
 
 
-_30.10.2016 16:19:20_
+_30.10.2016 18:04:48_
