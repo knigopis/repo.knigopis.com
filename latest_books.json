@@ -1,4 +1,16 @@
 {
+    "OGxus2AJq0": {
+        "id": "OGxus2AJq0",
+        "title": "Гарри Поттер",
+        "author": "Дж. К. Роулинг",
+        "notes": "",
+        "createdAt": "2016-10-30 14:06:38",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 5
+        }
+    },
     "wqKRCPJW5c": {
         "id": "wqKRCPJW5c",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 25
-        }
-    },
-    "Y-gw9yz5X9": {
-        "id": "Y-gw9yz5X9",
-        "title": "Хребты Безумия",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2016-10-22 10:12:11",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "yarikosimo",
-            "booksCount": 24
         }
     }
 }
