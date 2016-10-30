@@ -1,4 +1,16 @@
 {
+    "1qsmPVR_AL": {
+        "id": "1qsmPVR_AL",
+        "title": "Бойцовский Клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2016-10-30 14:09:09",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 7
+        }
+    },
     "o9FCnS3zsL": {
         "id": "o9FCnS3zsL",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "516628071-twitter",
             "nickname": "VicemanUral",
             "booksCount": 1
-        }
-    },
-    "giGfQm_0rl": {
-        "id": "giGfQm_0rl",
-        "title": "Зулейха открывает глаза",
-        "author": "Гузель Яхина",
-        "notes": "Отличная книга",
-        "createdAt": "2016-10-24 17:36:59",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 111
         }
     }
 }

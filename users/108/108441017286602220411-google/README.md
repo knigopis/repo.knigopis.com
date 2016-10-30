@@ -1,4 +1,4 @@
-# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>6</sup>
+# List of books read by [argentum](https://plus.google.com/+AlexandraPoliakova)<sup>7</sup>
 ---
 
 ## 2016
@@ -13,6 +13,10 @@
 
 
 ## 2015
+
+### Бойцовский Клуб
+Чак Паланик
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
