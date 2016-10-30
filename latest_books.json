@@ -1,4 +1,16 @@
 {
+    "cGLdJ58mIx": {
+        "id": "cGLdJ58mIx",
+        "title": "Иллюзии, или Приключения вынужденного Мессии",
+        "author": "Ричард Дэвис Бах",
+        "notes": "",
+        "createdAt": "2016-10-30 14:09:57",
+        "user": {
+            "id": "108441017286602220411-google",
+            "nickname": "argentum",
+            "booksCount": 9
+        }
+    },
     "nchHYK1_qz": {
         "id": "nchHYK1_qz",
         "title": "Гипноз для Марии",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 455
-        }
-    },
-    "ro7FmFdbcv": {
-        "id": "ro7FmFdbcv",
-        "title": "Ежик. История о напрасной суете",
-        "author": "Григорий Горин",
-        "notes": "",
-        "createdAt": "2016-10-25 13:18:11",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 454
         }
     }
 }
