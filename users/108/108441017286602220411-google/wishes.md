@@ -1,6 +1,9 @@
 # Wish list of books by [argentum](https://plus.google.com/+AlexandraPoliakova)
 ---
 
+### `50` 1984
+Дж. Оруэлл
+
 ### `50` Оригінали. Як нонконформісти рухають світ
 Адам Грант
 
