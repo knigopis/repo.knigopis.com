@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[argentum](users/108/108441017286602220411-google)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup> 
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 [Antimateriya](users/108/108466512276521805217-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>40</sup> 
 [Александр Сергеев](users/780/7801383777140798509-mailru)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup> 
-[Olyaperekatipole](users/123/1236741-vkontakte)<sup>60</sup> 
 
 
-_29.10.2016 22:28:51_
+_30.10.2016 13:36:15_
