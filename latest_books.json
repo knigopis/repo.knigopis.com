@@ -1,4 +1,16 @@
 {
+    "oofYDEG9r5": {
+        "id": "oofYDEG9r5",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2016-10-31 18:00:59",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 465
+        }
+    },
     "ioK62dFplk": {
         "id": "ioK62dFplk",
         "title": "К востоку от Эдема",
@@ -345,18 +357,6 @@
             "id": "139165015-vkontakte",
             "nickname": "fanofskateboarding",
             "booksCount": 1
-        }
-    },
-    "HWIAEtOjZB": {
-        "id": "HWIAEtOjZB",
-        "title": "Детская книга. Том 1",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2016-10-28 19:51:19",
-        "user": {
-            "id": "114776900999335177153-googleplus",
-            "nickname": "Elena_2405",
-            "booksCount": 2
         }
     }
 }

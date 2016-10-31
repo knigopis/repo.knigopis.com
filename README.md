@@ -36,13 +36,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>465</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>82</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>114</sup> 
 [askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>6</sup> 
 [apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>464</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [loviedays](users/868/86871458-vkontakte)<sup>0</sup> 
 
 
-_31.10.2016 13:53:37_
+_31.10.2016 18:00:59_

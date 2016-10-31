@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>464</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>465</sup>
 ---
 
 ## 2016
+
+### Стив Джобс
+Уолтер Айзексон
+> [2016-10] 
+
 
 ### Примадонны
 Кен Людвиг
