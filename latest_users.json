@@ -1,4 +1,10 @@
 {
+    "760270-vkontakte": {
+        "id": "760270-vkontakte",
+        "nickname": "LbICbIY",
+        "booksCount": 0,
+        "updatedAt": "2016-10-31 21:27:15"
+    },
     "56228374-vkontakte": {
         "id": "56228374-vkontakte",
         "nickname": "InaryD",
@@ -172,11 +178,5 @@
         "nickname": "Nightrunner",
         "booksCount": 0,
         "updatedAt": "2016-10-23 12:05:40"
-    },
-    "7018646-vkontakte": {
-        "id": "7018646-vkontakte",
-        "nickname": "gwynnbleiidd",
-        "booksCount": 0,
-        "updatedAt": "2016-10-23 11:42:28"
     }
 }
