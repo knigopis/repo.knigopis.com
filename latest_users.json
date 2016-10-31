@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 82,
+        "updatedAt": "2016-10-31 13:53:37"
+    },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
         "nickname": "creepy_g",
@@ -172,11 +178,5 @@
         "nickname": "loviedays",
         "booksCount": 0,
         "updatedAt": "2016-10-22 16:21:22"
-    },
-    "87042697-vkontakte": {
-        "id": "87042697-vkontakte",
-        "nickname": "freezy_bi",
-        "booksCount": 18,
-        "updatedAt": "2016-10-22 14:36:26"
     }
 }

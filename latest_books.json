@@ -1,4 +1,16 @@
 {
+    "ioK62dFplk": {
+        "id": "ioK62dFplk",
+        "title": "К востоку от Эдема",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2016-10-31 13:53:37",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 82
+        }
+    },
     "MUsHcjpJWC": {
         "id": "MUsHcjpJWC",
         "title": "Макс Далин",
@@ -345,18 +357,6 @@
             "id": "114776900999335177153-googleplus",
             "nickname": "Elena_2405",
             "booksCount": 2
-        }
-    },
-    "-96ZnJ34Q0": {
-        "id": "-96ZnJ34Q0",
-        "title": "Неукротимая планета",
-        "author": "Гарри Гаррисон",
-        "notes": "",
-        "createdAt": "2016-10-28 19:50:33",
-        "user": {
-            "id": "114776900999335177153-googleplus",
-            "nickname": "Elena_2405",
-            "booksCount": 1
         }
     }
 }
