@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>6</sup> 
 [apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [loviedays](users/868/86871458-vkontakte)<sup>0</sup> 
 [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup> 
 [саша андреев](users/390/3909084262983106447-mailru)<sup>0</sup> 
-[Адам Сильсторн](users/253/253918564-vkontakte)<sup>25</sup> 
 
 
-_30.10.2016 18:51:40_
+_31.10.2016 00:35:45_
