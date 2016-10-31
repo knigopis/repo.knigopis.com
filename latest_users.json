@@ -1,4 +1,10 @@
 {
+    "710705325745026-facebook": {
+        "id": "710705325745026-facebook",
+        "nickname": "askyou2focuson",
+        "booksCount": 0,
+        "updatedAt": "2016-10-31 00:35:43"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "саша андреев",
         "booksCount": 0,
         "updatedAt": "2016-10-22 14:27:41"
-    },
-    "253918564-vkontakte": {
-        "id": "253918564-vkontakte",
-        "nickname": "Адам Сильсторн",
-        "booksCount": 25,
-        "updatedAt": "2016-10-22 10:16:58"
     }
 }
