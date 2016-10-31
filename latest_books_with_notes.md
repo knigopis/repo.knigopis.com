@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
 * Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
 * Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 * Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 * Гумилев сын Гумилева ~ [exulted](users/100/100599204551896265722-google)<sup>26</sup>
-* Pre-Suasion: A Revolutionary Way to Influence and Persuade ~ [exulted](users/100/100599204551896265722-google)<sup>25</sup>
 
 
-_30.10.2016 18:51:40_
+_31.10.2016 01:19:09_
