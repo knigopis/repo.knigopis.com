@@ -1,4 +1,16 @@
 {
+    "D1fPFZpclr": {
+        "id": "D1fPFZpclr",
+        "title": "Я не Спок",
+        "author": "Леонард Нимой",
+        "notes": "",
+        "createdAt": "2016-10-31 18:31:34",
+        "user": {
+            "id": "56228374-vkontakte",
+            "nickname": "InaryD",
+            "booksCount": 36
+        }
+    },
     "oofYDEG9r5": {
         "id": "oofYDEG9r5",
         "title": "Стив Джобс",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 79
-        }
-    },
-    "n0bEH8ocYJ": {
-        "id": "n0bEH8ocYJ",
-        "title": "хуй пизда",
-        "author": "ааа",
-        "notes": "ууууу",
-        "createdAt": "2016-10-28 21:19:17",
-        "user": {
-            "id": "139165015-vkontakte",
-            "nickname": "fanofskateboarding",
-            "booksCount": 1
         }
     }
 }
