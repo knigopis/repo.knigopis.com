@@ -1,4 +1,16 @@
 {
+    "rvOC6s40ZV": {
+        "id": "rvOC6s40ZV",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2016-11-02 12:56:13",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 6
+        }
+    },
     "9Ahb4Yhp-4": {
         "id": "9Ahb4Yhp-4",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 6
-        }
-    },
-    "OGxus2AJq0": {
-        "id": "OGxus2AJq0",
-        "title": "Гарри Поттер",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2016-10-30 14:06:38",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 5
         }
     }
 }
