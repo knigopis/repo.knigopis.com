@@ -1,4 +1,16 @@
 {
+    "XPUzCe_tJQ": {
+        "id": "XPUzCe_tJQ",
+        "title": "Горе от ума",
+        "author": "Александр Сергеевич Грибоедов",
+        "notes": "",
+        "createdAt": "2016-11-02 12:56:31",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 7
+        }
+    },
     "rvOC6s40ZV": {
         "id": "rvOC6s40ZV",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "307203253-vkontakte",
             "nickname": "detectivecole",
             "booksCount": 1
-        }
-    },
-    "E__5djpojF": {
-        "id": "E__5djpojF",
-        "title": "Трудно быть богом",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2016-10-30 14:08:01",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 6
         }
     }
 }
