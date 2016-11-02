@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
 * Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
 * Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
 * Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
-* Криминальные аборты ~ [lucius](users/838/83820536-yandex)<sup>135</sup>
 
 
-_31.10.2016 18:33:25_
+_02.11.2016 20:16:30_
