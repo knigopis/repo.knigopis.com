@@ -1,4 +1,16 @@
 {
+    "HLjIO8S83e": {
+        "id": "HLjIO8S83e",
+        "title": "Мертвые Души",
+        "author": "Николай Васильевич Гоголь",
+        "notes": "",
+        "createdAt": "2016-11-02 13:04:41",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 13
+        }
+    },
     "vlZvArsOdt": {
         "id": "vlZvArsOdt",
         "title": "Том Сойер",
@@ -345,18 +357,6 @@
             "id": "307203253-vkontakte",
             "nickname": "detectivecole",
             "booksCount": 2
-        }
-    },
-    "Lc4Wc_pbe5": {
-        "id": "Lc4Wc_pbe5",
-        "title": "Цифровая крепость",
-        "author": "Дэн Браун",
-        "notes": "+",
-        "createdAt": "2016-10-30 14:14:02",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 12
         }
     }
 }
