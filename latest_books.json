@@ -1,4 +1,16 @@
 {
+    "Jq2RPGTN1C": {
+        "id": "Jq2RPGTN1C",
+        "title": "Медный всадник",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "",
+        "createdAt": "2016-11-02 12:54:37",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 2
+        }
+    },
     "Dy8bitBko1": {
         "id": "Dy8bitBko1",
         "title": "Хлеб с ветчиной",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 2
-        }
-    },
-    "wDHMDw6zk0": {
-        "id": "wDHMDw6zk0",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2016-10-30 13:54:32",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 1
         }
     }
 }
