@@ -1,4 +1,16 @@
 {
+    "0Arx5CCcHv": {
+        "id": "0Arx5CCcHv",
+        "title": "Тарас Бульба",
+        "author": "Николай Васильевич Гоголь",
+        "notes": "",
+        "createdAt": "2016-11-02 12:58:35",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 11
+        }
+    },
     "dcTe3vfJ6_": {
         "id": "dcTe3vfJ6_",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 10
-        }
-    },
-    "cGLdJ58mIx": {
-        "id": "cGLdJ58mIx",
-        "title": "Иллюзии, или Приключения вынужденного Мессии",
-        "author": "Ричард Дэвис Бах",
-        "notes": "",
-        "createdAt": "2016-10-30 14:09:57",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 9
         }
     }
 }
