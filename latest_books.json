@@ -1,4 +1,16 @@
 {
+    "10rvY6UozN": {
+        "id": "10rvY6UozN",
+        "title": "Чистовик",
+        "author": "Лукьяненко",
+        "notes": "",
+        "createdAt": "2016-11-02 12:58:46",
+        "user": {
+            "id": "101851419910586702007-google",
+            "nickname": "Hoplit",
+            "booksCount": 1
+        }
+    },
     "0Arx5CCcHv": {
         "id": "0Arx5CCcHv",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 11
-        }
-    },
-    "FbKVznag4_": {
-        "id": "FbKVznag4_",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Дэвис Бах",
-        "notes": "",
-        "createdAt": "2016-10-30 14:10:11",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 10
         }
     }
 }
