@@ -1,4 +1,16 @@
 {
+    "SsAvaHo9i5": {
+        "id": "SsAvaHo9i5",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2016-11-02 12:54:51",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 3
+        }
+    },
     "Jq2RPGTN1C": {
         "id": "Jq2RPGTN1C",
         "title": "Медный всадник",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 3
-        }
-    },
-    "DQbRwAW_H_": {
-        "id": "DQbRwAW_H_",
-        "title": "Властелин Колец",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2016-10-30 13:55:19",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 2
         }
     }
 }
