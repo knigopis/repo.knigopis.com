@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[genrih59](users/872/872361436199401-facebook)<sup>0</sup> 
 [LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>37</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>465</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 [huy\](users/192/192252145-vkontakte)<sup>0</sup> 
 [peda1337](users/366/366866393-vkontakte)<sup>0</sup> 
-[Nightrunner](users/106/106764648727033078146-google)<sup>0</sup> 
 
 
-_31.10.2016 21:27:17_
+_02.11.2016 12:52:40_
