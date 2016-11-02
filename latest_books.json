@@ -1,4 +1,16 @@
 {
+    "NpzBSu-rgq": {
+        "id": "NpzBSu-rgq",
+        "title": "Преступление и наказание",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2016-11-02 12:55:16",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 4
+        }
+    },
     "SsAvaHo9i5": {
         "id": "SsAvaHo9i5",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 4
-        }
-    },
-    "QH-l4hb15d": {
-        "id": "QH-l4hb15d",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2016-10-30 13:55:56",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 3
         }
     }
 }
