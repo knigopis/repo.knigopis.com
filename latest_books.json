@@ -1,4 +1,16 @@
 {
+    "Dy8bitBko1": {
+        "id": "Dy8bitBko1",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2016-11-02 12:54:08",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 1
+        }
+    },
     "o7g2Rg8Xoh": {
         "id": "o7g2Rg8Xoh",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 1
-        }
-    },
-    "6-zPl89QGx": {
-        "id": "6-zPl89QGx",
-        "title": "Сам себе MBA. Самообразование на 100%",
-        "author": "Джош Кауфман",
-        "notes": "в процессе\n\nИсключительно полезное бизнес-чтиво без лишних понтов.",
-        "createdAt": "2016-10-29 22:28:32",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 82
         }
     }
 }
