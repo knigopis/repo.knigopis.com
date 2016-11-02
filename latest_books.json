@@ -1,4 +1,16 @@
 {
+    "dcTe3vfJ6_": {
+        "id": "dcTe3vfJ6_",
+        "title": "Женщины",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2016-11-02 12:57:31",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 10
+        }
+    },
     "XS1chUcfFA": {
         "id": "XS1chUcfFA",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "108441017286602220411-google",
             "nickname": "argentum",
             "booksCount": 9
-        }
-    },
-    "nchHYK1_qz": {
-        "id": "nchHYK1_qz",
-        "title": "Гипноз для Марии",
-        "author": "Ричард Дэвис Бах",
-        "notes": "",
-        "createdAt": "2016-10-30 14:09:38",
-        "user": {
-            "id": "108441017286602220411-google",
-            "nickname": "argentum",
-            "booksCount": 8
         }
     }
 }
