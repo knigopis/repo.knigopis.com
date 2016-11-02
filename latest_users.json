@@ -1,4 +1,10 @@
 {
+    "101851419910586702007-google": {
+        "id": "101851419910586702007-google",
+        "nickname": "Hoplit",
+        "booksCount": 0,
+        "updatedAt": "2016-11-02 12:58:08"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -172,11 +178,5 @@
         "nickname": "huy\\",
         "booksCount": 0,
         "updatedAt": "2016-10-24 12:39:02"
-    },
-    "366866393-vkontakte": {
-        "id": "366866393-vkontakte",
-        "nickname": "peda1337",
-        "booksCount": 0,
-        "updatedAt": "2016-10-23 21:01:24"
     }
 }
