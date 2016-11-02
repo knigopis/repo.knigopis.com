@@ -1,4 +1,4 @@
-# List of books read by [genrih59](https://www.facebook.com/app_scoped_user_id/872361436199401/)<sup>7</sup>
+# List of books read by [genrih59](https://www.facebook.com/app_scoped_user_id/872361436199401/)<sup>8</sup>
 ---
 
 ## 2016
@@ -21,6 +21,10 @@
 
 
 ## 2015
+
+### Как разговаривать с кем угодно, когда угодно, где угодно
+Ларри Кинг
+
 
 ### Горе от ума
 Александр Сергеевич Грибоедов
