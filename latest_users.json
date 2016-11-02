@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 0,
+        "updatedAt": "2016-11-02 12:52:39"
+    },
     "760270-vkontakte": {
         "id": "760270-vkontakte",
         "nickname": "LbICbIY",
@@ -172,11 +178,5 @@
         "nickname": "peda1337",
         "booksCount": 0,
         "updatedAt": "2016-10-23 21:01:24"
-    },
-    "106764648727033078146-google": {
-        "id": "106764648727033078146-google",
-        "nickname": "Nightrunner",
-        "booksCount": 0,
-        "updatedAt": "2016-10-23 12:05:40"
     }
 }
