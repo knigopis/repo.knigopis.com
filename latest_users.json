@@ -1,4 +1,10 @@
 {
+    "De_Light23-lastfm": {
+        "id": "De_Light23-lastfm",
+        "nickname": "De_Light23",
+        "booksCount": 0,
+        "updatedAt": "2016-11-03 13:05:16"
+    },
     "152183909-vkontakte": {
         "id": "152183909-vkontakte",
         "nickname": "d.molokoedova",
@@ -172,11 +178,5 @@
         "nickname": "VicemanUral",
         "booksCount": 1,
         "updatedAt": "2016-10-25 05:46:41"
-    },
-    "1734575-vkontakte": {
-        "id": "1734575-vkontakte",
-        "nickname": "foksik",
-        "booksCount": 110,
-        "updatedAt": "2016-10-24 17:37:45"
     }
 }
