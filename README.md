@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>38</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
-[VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
 
 
-_03.11.2016 13:05:17_
+_03.11.2016 21:24:03_
