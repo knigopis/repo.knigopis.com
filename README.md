@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>38</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 [VicemanUral](users/516/516628071-twitter)<sup>1</sup> 
-[foksik](users/173/1734575-vkontakte)<sup>110</sup> 
 
 
-_03.11.2016 05:47:59_
+_03.11.2016 13:05:17_
