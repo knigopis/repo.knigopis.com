@@ -1,4 +1,10 @@
 {
+    "101175149321186839533-google": {
+        "id": "101175149321186839533-google",
+        "nickname": "Fatal1ty",
+        "booksCount": 0,
+        "updatedAt": "2016-11-03 21:24:01"
+    },
     "De_Light23-lastfm": {
         "id": "De_Light23-lastfm",
         "nickname": "De_Light23",
@@ -172,11 +178,5 @@
         "nickname": "Dubai",
         "booksCount": 1,
         "updatedAt": "2016-10-25 20:50:53"
-    },
-    "516628071-twitter": {
-        "id": "516628071-twitter",
-        "nickname": "VicemanUral",
-        "booksCount": 1,
-        "updatedAt": "2016-10-25 05:46:41"
     }
 }
