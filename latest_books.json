@@ -1,4 +1,16 @@
 {
+    "0g0e9u2zIs": {
+        "id": "0g0e9u2zIs",
+        "title": "Граф Монте-Кристо",
+        "author": "Дюма",
+        "notes": "",
+        "createdAt": "2016-11-03 05:47:59",
+        "user": {
+            "id": "152183909-vkontakte",
+            "nickname": "d.molokoedova",
+            "booksCount": 1
+        }
+    },
     "z7rjR9bsw_": {
         "id": "z7rjR9bsw_",
         "title": "Город Пустых. Побег из дома странных детей",
@@ -345,18 +357,6 @@
             "id": "164804873-yandex",
             "nickname": "Мохнатый Шмель",
             "booksCount": 2
-        }
-    },
-    "Y-w4xm9N5N": {
-        "id": "Y-w4xm9N5N",
-        "title": "Пластилин",
-        "author": "Сигарев",
-        "notes": "",
-        "createdAt": "2016-10-30 15:16:24",
-        "user": {
-            "id": "164804873-yandex",
-            "nickname": "Мохнатый Шмель",
-            "booksCount": 1
         }
     }
 }

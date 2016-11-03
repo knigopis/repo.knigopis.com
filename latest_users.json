@@ -1,4 +1,10 @@
 {
+    "152183909-vkontakte": {
+        "id": "152183909-vkontakte",
+        "nickname": "d.molokoedova",
+        "booksCount": 1,
+        "updatedAt": "2016-11-03 05:47:59"
+    },
     "56228374-vkontakte": {
         "id": "56228374-vkontakte",
         "nickname": "InaryD",
@@ -172,11 +178,5 @@
         "nickname": "foksik",
         "booksCount": 110,
         "updatedAt": "2016-10-24 17:37:45"
-    },
-    "192252145-vkontakte": {
-        "id": "192252145-vkontakte",
-        "nickname": "huy\\",
-        "booksCount": 0,
-        "updatedAt": "2016-10-24 12:39:02"
     }
 }
