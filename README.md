@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
 [pzyryanov1](users/102/102383933923761177461-google)<sup>2</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>467</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
 [[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 
 
-_05.11.2016 13:02:38_
+_05.11.2016 13:50:12_

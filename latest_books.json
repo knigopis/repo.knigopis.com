@@ -1,4 +1,16 @@
 {
+    "tP4PCnS36K": {
+        "id": "tP4PCnS36K",
+        "title": "Туве Янсон",
+        "author": "Все о муми-троллях (880 с)",
+        "notes": "",
+        "createdAt": "2016-11-05 13:50:12",
+        "user": {
+            "id": "1034497246671899-facebook",
+            "nickname": "Гандзя",
+            "booksCount": 5
+        }
+    },
     "q2QKm7PCDW": {
         "id": "q2QKm7PCDW",
         "title": "Дядюшка Петрос и проблема Гольдбаха",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 464
-        }
-    },
-    "BgjGy0aRII": {
-        "id": "BgjGy0aRII",
-        "title": "Старуха",
-        "author": "Хармс",
-        "notes": "",
-        "createdAt": "2016-10-30 15:19:38",
-        "user": {
-            "id": "164804873-yandex",
-            "nickname": "Мохнатый Шмель",
-            "booksCount": 7
         }
     }
 }
