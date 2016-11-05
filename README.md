@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>466</sup> 
 [Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [Hoplit](users/101/101851419910586702007-google)<sup>0</sup> 
 [LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>465</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>82</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>114</sup> 
 [askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 
 
-_03.11.2016 21:24:03_
+_05.11.2016 08:42:15_

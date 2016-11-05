@@ -1,4 +1,16 @@
 {
+    "3-9GFw4cMP": {
+        "id": "3-9GFw4cMP",
+        "title": "Большая барахолка",
+        "author": "Ромен Гари",
+        "notes": "",
+        "createdAt": "2016-11-05 08:42:14",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 466
+        }
+    },
     "0g0e9u2zIs": {
         "id": "0g0e9u2zIs",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "164804873-yandex",
             "nickname": "Мохнатый Шмель",
             "booksCount": 3
-        }
-    },
-    "FRQdlVxiEv": {
-        "id": "FRQdlVxiEv",
-        "title": "Волчок",
-        "author": "Сигарев",
-        "notes": "",
-        "createdAt": "2016-10-30 15:17:01",
-        "user": {
-            "id": "164804873-yandex",
-            "nickname": "Мохнатый Шмель",
-            "booksCount": 2
         }
     }
 }

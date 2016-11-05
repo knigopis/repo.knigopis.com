@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>465</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>466</sup>
 ---
 
 ## 2016
+
+### Большая барахолка
+Ромен Гари
+> [2016-10] 
+
 
 ### Стив Джобс
 Уолтер Айзексон
