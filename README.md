@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/205/20565064-vkontakte)<sup>466</sup> 
+[Janet](users/205/20565064-vkontakte)<sup>467</sup> 
 [Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 
 
-_05.11.2016 08:42:15_
+_05.11.2016 08:42:35_

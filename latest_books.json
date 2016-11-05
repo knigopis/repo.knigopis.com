@@ -1,4 +1,16 @@
 {
+    "X1DooD0BKQ": {
+        "id": "X1DooD0BKQ",
+        "title": "Он, она, окно и покойник",
+        "author": "Рэй Куни",
+        "notes": "",
+        "createdAt": "2016-11-05 08:42:35",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 467
+        }
+    },
     "3-9GFw4cMP": {
         "id": "3-9GFw4cMP",
         "title": "Большая барахолка",
@@ -345,18 +357,6 @@
             "id": "164804873-yandex",
             "nickname": "Мохнатый Шмель",
             "booksCount": 4
-        }
-    },
-    "JBMGIUAjaz": {
-        "id": "JBMGIUAjaz",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-10-30 15:17:03",
-        "user": {
-            "id": "164804873-yandex",
-            "nickname": "Мохнатый Шмель",
-            "booksCount": 3
         }
     }
 }

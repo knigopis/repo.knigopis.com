@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>466</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>467</sup>
 ---
 
 ## 2016
+
+### Он, она, окно и покойник
+Рэй Куни
+> [2016-11] 
+
 
 ### Большая барахолка
 Ромен Гари
