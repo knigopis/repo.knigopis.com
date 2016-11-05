@@ -1,4 +1,16 @@
 {
+    "oQU3jeHV4h": {
+        "id": "oQU3jeHV4h",
+        "title": "Два Капитана",
+        "author": "",
+        "notes": "Отличная книга",
+        "createdAt": "2016-11-05 17:03:46",
+        "user": {
+            "id": "116957517381490004982-google",
+            "nickname": "insolia",
+            "booksCount": 1
+        }
+    },
     "tP4PCnS36K": {
         "id": "tP4PCnS36K",
         "title": "Туве Янсон",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 25
-        }
-    },
-    "NGP2tKBw_E": {
-        "id": "NGP2tKBw_E",
-        "title": "Примадонны",
-        "author": "Кен Людвиг",
-        "notes": "",
-        "createdAt": "2016-10-30 16:02:26",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 464
         }
     }
 }
