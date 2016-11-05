@@ -1,4 +1,10 @@
 {
+    "116957517381490004982-google": {
+        "id": "116957517381490004982-google",
+        "nickname": "insolia",
+        "booksCount": 0,
+        "updatedAt": "2016-11-05 17:03:10"
+    },
     "1034497246671899-facebook": {
         "id": "1034497246671899-facebook",
         "nickname": "Гандзя",
@@ -172,11 +178,5 @@
         "nickname": "[Elldar@do]`",
         "booksCount": 0,
         "updatedAt": "2016-10-28 06:12:40"
-    },
-    "10205442182733690-facebook": {
-        "id": "10205442182733690-facebook",
-        "nickname": "romann",
-        "booksCount": 6,
-        "updatedAt": "2016-10-26 19:12:48"
     }
 }
