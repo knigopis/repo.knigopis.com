@@ -1,4 +1,10 @@
 {
+    "102383933923761177461-google": {
+        "id": "102383933923761177461-google",
+        "nickname": "pzyryanov1",
+        "booksCount": 0,
+        "updatedAt": "2016-11-05 12:30:30"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 56,
         "updatedAt": "2016-10-26 00:05:39"
-    },
-    "858736507560407-facebook": {
-        "id": "858736507560407-facebook",
-        "nickname": "Oksana",
-        "booksCount": 1,
-        "updatedAt": "2016-10-25 22:39:03"
     }
 }
