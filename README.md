@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>467</sup> 
 [Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [romann](users/102/10205442182733690-facebook)<sup>6</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 [Oksana](users/858/858736507560407-facebook)<sup>1</sup> 
-[Dubai](users/102/10204507448030391-facebook)<sup>1</sup> 
 
 
-_05.11.2016 08:42:35_
+_05.11.2016 09:48:25_

@@ -1,4 +1,16 @@
 {
+    "QvQJOuNtmq": {
+        "id": "QvQJOuNtmq",
+        "title": "Наши",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2016-11-05 09:48:25",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 43
+        }
+    },
     "X1DooD0BKQ": {
         "id": "X1DooD0BKQ",
         "title": "Он, она, окно и покойник",
@@ -345,18 +357,6 @@
             "id": "164804873-yandex",
             "nickname": "Мохнатый Шмель",
             "booksCount": 5
-        }
-    },
-    "f0MJ38th09": {
-        "id": "f0MJ38th09",
-        "title": "Криминальные аборты",
-        "author": "Ломачинский",
-        "notes": "",
-        "createdAt": "2016-10-30 15:18:04",
-        "user": {
-            "id": "164804873-yandex",
-            "nickname": "Мохнатый Шмель",
-            "booksCount": 4
         }
     }
 }
