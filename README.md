@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
 [insolia](users/116/116957517381490004982-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
 [pzyryanov1](users/102/102383933923761177461-google)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fanofskateboarding](users/139/139165015-vkontakte)<sup>1</sup> 
 [Elena_2405](users/114/114776900999335177153-googleplus)<sup>2</sup> 
 [lima_nad](users/199/19928047-vkontakte)<sup>1</sup> 
-[[Elldar@do]`](users/417/4177937052230745034-mailru)<sup>0</sup> 
 
 
-_05.11.2016 17:03:46_
+_05.11.2016 22:17:40_
