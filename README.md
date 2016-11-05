@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pzyryanov1](users/102/102383933923761177461-google)<sup>0</sup> 
+[pzyryanov1](users/102/102383933923761177461-google)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>467</sup> 
 [Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup> 
 
 
-_05.11.2016 12:30:31_
+_05.11.2016 12:43:37_
