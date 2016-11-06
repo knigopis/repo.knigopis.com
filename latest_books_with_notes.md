@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
 * Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
 * Аленький цветочек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup>
 * Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
 * Иностранка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>42</sup>
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
-* Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 
 
-_06.11.2016 18:34:24_
+_06.11.2016 21:07:37_

@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 22,
+        "updatedAt": "2016-11-06 21:07:37"
+    },
     "56228374-vkontakte": {
         "id": "56228374-vkontakte",
         "nickname": "InaryD",
@@ -172,11 +178,5 @@
         "nickname": "Antimateriya",
         "booksCount": 0,
         "updatedAt": "2016-10-29 09:08:59"
-    },
-    "44606269-yandex": {
-        "id": "44606269-yandex",
-        "nickname": "nelegalco",
-        "booksCount": 0,
-        "updatedAt": "2016-10-29 05:32:05"
     }
 }
