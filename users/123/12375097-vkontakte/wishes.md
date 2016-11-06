@@ -1,10 +1,6 @@
 # Список к прочтению пользователя [Aleksandr](http://vk.com/id12375097)
 ---
 
-### `90` Путь программиста
-Джон Сонмез
-> http://nnm-club.me/forum/viewtopic.php?t=971923
-
 ### `85` Как завоевывать друзей и оказывать влияние на людей
 Дейл Карнеги
 
@@ -23,6 +19,13 @@
 ### `50` Программирование под Android
 Брайн Харди, Билл Филлипс
 > http://rutracker.org/forum/viewtopic.php?t=4651265
+
+### `50` Идеальный программист. Как стать профессионалом разработки ПО
+Роберт Мартин
+> Идеальный программист. Как стать профессионалом разработки ПО
+> https://rutracker.org/forum/viewtopic.php?t=5302344
+> The Clean Coder: A Code of Conduct for Professional Programmers
+> https://rutracker.org/forum/viewtopic.php?t=4075427
 
 ### `50` Head First. Паттерны проектирования
 Эрик Фримен, Элизабет Фримен, Кэтти Сьерра, Берт Бейтс
