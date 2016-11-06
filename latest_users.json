@@ -1,4 +1,10 @@
 {
+    "56228374-vkontakte": {
+        "id": "56228374-vkontakte",
+        "nickname": "InaryD",
+        "booksCount": 39,
+        "updatedAt": "2016-11-06 18:34:24"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -70,12 +76,6 @@
         "nickname": "d.molokoedova",
         "booksCount": 1,
         "updatedAt": "2016-11-03 05:47:59"
-    },
-    "56228374-vkontakte": {
-        "id": "56228374-vkontakte",
-        "nickname": "InaryD",
-        "booksCount": 38,
-        "updatedAt": "2016-11-02 20:16:30"
     },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
