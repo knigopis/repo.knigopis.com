@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Feofan](users/116/116434214281608690175-google)<sup>0</sup> 
+[Mocca](users/116/116434214281608690175-google)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>6</sup> 
 [_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nelegalco](users/446/44606269-yandex)<sup>0</sup> 
 
 
-_06.11.2016 12:24:36_
+_06.11.2016 13:41:18_
