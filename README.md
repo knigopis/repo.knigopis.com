@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Feofan](users/116/116434214281608690175-google)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>6</sup> 
 [_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 [Antimateriya](users/108/108466512276521805217-google)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>0</sup> 
-[fanofskateboarding](users/139/139165015-vkontakte)<sup>1</sup> 
 
 
-_06.11.2016 10:17:54_
+_06.11.2016 12:24:36_
