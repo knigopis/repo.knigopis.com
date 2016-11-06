@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 57,
+        "updatedAt": "2016-11-06 10:17:54"
+    },
     "12375097-vkontakte": {
         "id": "12375097-vkontakte",
         "nickname": "Aleksandr",
@@ -172,11 +178,5 @@
         "nickname": "fanofskateboarding",
         "booksCount": 1,
         "updatedAt": "2016-10-28 21:19:17"
-    },
-    "114776900999335177153-googleplus": {
-        "id": "114776900999335177153-googleplus",
-        "nickname": "Elena_2405",
-        "booksCount": 2,
-        "updatedAt": "2016-10-28 19:51:19"
     }
 }

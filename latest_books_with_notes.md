@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аленький цветочек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup>
 * Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
 * Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
@@ -30,7 +31,6 @@
 * Черновик и потом чистовик ~ [romann](users/102/10205442182733690-facebook)<sup>5</sup>
 * Поток ~ [pimanocci](users/117/117124011531379579265-google)<sup>10</sup>
 * Уйти, чтобы вернуться ~ [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup>
-* Чемодан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>41</sup>
 
 
-_02.11.2016 20:16:30_
+_06.11.2016 10:17:54_
