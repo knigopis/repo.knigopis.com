@@ -1,4 +1,16 @@
 {
+    "gm-GMYRt_4": {
+        "id": "gm-GMYRt_4",
+        "title": "Антигона",
+        "author": "Ануй Жан",
+        "notes": "",
+        "createdAt": "2016-11-06 15:52:21",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 58
+        }
+    },
     "4Mb2jq3mqH": {
         "id": "4Mb2jq3mqH",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "56228374-vkontakte",
             "nickname": "InaryD",
             "booksCount": 36
-        }
-    },
-    "oofYDEG9r5": {
-        "id": "oofYDEG9r5",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2016-10-31 18:00:59",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 465
         }
     }
 }
