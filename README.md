@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>39</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup> 
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
-[Antimateriya](users/108/108466512276521805217-google)<sup>0</sup> 
 
 
-_06.11.2016 21:07:37_
+_06.11.2016 21:50:11_
