@@ -24,6 +24,7 @@
 Роберт Мартин
 > Идеальный программист. Как стать профессионалом разработки ПО
 > https://rutracker.org/forum/viewtopic.php?t=5302344
+> https://habrahabr.ru/company/piter/blog/270195/
 > The Clean Coder: A Code of Conduct for Professional Programmers
 > https://rutracker.org/forum/viewtopic.php?t=4075427
 
