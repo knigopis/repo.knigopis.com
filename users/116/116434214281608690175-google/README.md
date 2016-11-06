@@ -1,5 +1,13 @@
-# List of books read by [Mocca](https://plus.google.com/116434214281608690175)<sup>1</sup>
+# List of books read by [Mocca](https://plus.google.com/116434214281608690175)<sup>2</sup>
 ---
+
+## 2016
+
+### Трудно быть богом
+Братья Стругацкие
+> [2016-03] 
+
+
 
 ## 2014
 

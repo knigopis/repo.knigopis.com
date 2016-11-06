@@ -1,4 +1,16 @@
 {
+    "4Mb2jq3mqH": {
+        "id": "4Mb2jq3mqH",
+        "title": "Трудно быть богом",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2016-11-06 13:48:32",
+        "user": {
+            "id": "116434214281608690175-google",
+            "nickname": "Mocca",
+            "booksCount": 2
+        }
+    },
     "YbV0tsH454": {
         "id": "YbV0tsH454",
         "title": "Адская практика",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 465
-        }
-    },
-    "ioK62dFplk": {
-        "id": "ioK62dFplk",
-        "title": "К востоку от Эдема",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2016-10-31 13:53:37",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 82
         }
     }
 }
