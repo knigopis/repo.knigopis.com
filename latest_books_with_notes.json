@@ -1,4 +1,16 @@
 {
+    "YyqG7vTy-s": {
+        "id": "YyqG7vTy-s",
+        "title": "Американская Первомайская ночь",
+        "author": "Асеев Николай",
+        "notes": "Фантастический рассказ.",
+        "createdAt": "2016-11-07 01:45:16",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 59
+        }
+    },
     "X3lZNNXV8A": {
         "id": "X3lZNNXV8A",
         "title": "Сильнее страха",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 42
-        }
-    },
-    "Db9bpQzz7Q": {
-        "id": "Db9bpQzz7Q",
-        "title": "Черновик и потом чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "Черновик хорош и чистовик хорош.Про чувака которого все стали все забыть его Друга Котю и то как он был таможенником и путешествовавал по мирам",
-        "createdAt": "2016-10-11 20:28:34",
-        "user": {
-            "id": "10205442182733690-facebook",
-            "nickname": "romann",
-            "booksCount": 5
         }
     }
 }
