@@ -1,4 +1,16 @@
 {
+    "tS8EnLQKgD": {
+        "id": "tS8EnLQKgD",
+        "title": "Великая охота",
+        "author": "Джордан, Роберт",
+        "notes": "",
+        "createdAt": "2016-11-07 08:04:09",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 12
+        }
+    },
     "IxpSh_c-Ga": {
         "id": "IxpSh_c-Ga",
         "title": "Око мира",
@@ -345,18 +357,6 @@
             "id": "56228374-vkontakte",
             "nickname": "InaryD",
             "booksCount": 38
-        }
-    },
-    "HLjIO8S83e": {
-        "id": "HLjIO8S83e",
-        "title": "Мертвые Души",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "",
-        "createdAt": "2016-11-02 13:04:41",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 13
         }
     }
 }
