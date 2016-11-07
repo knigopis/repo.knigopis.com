@@ -1,4 +1,16 @@
 {
+    "WRXsS1Zf00": {
+        "id": "WRXsS1Zf00",
+        "title": "Последний адмирал Заграты",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:30:02",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 46
+        }
+    },
     "XgVGiKbLHO": {
         "id": "XgVGiKbLHO",
         "title": "Ручной привод",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 20
-        }
-    },
-    "Aazo45FJwQ": {
-        "id": "Aazo45FJwQ",
-        "title": "Битва королей",
-        "author": "Мартин, Джордж",
-        "notes": "",
-        "createdAt": "2016-11-07 08:18:54",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 19
         }
     }
 }
