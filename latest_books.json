@@ -1,4 +1,16 @@
 {
+    "e98T1T9_Gw": {
+        "id": "e98T1T9_Gw",
+        "title": "Франкенштейн",
+        "author": "Шелли, Мэри",
+        "notes": "",
+        "createdAt": "2016-11-07 18:58:14",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 109
+        }
+    },
     "Ala-WH-Y2s": {
         "id": "Ala-WH-Y2s",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 80
-        }
-    },
-    "XteGmNwmK9": {
-        "id": "XteGmNwmK9",
-        "title": "Укрощение строптивой",
-        "author": "Шекспир, Уильям",
-        "notes": "",
-        "createdAt": "2016-11-07 17:48:34",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 79
         }
     }
 }
