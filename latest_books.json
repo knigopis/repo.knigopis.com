@@ -1,4 +1,16 @@
 {
+    "naZGftO0X3": {
+        "id": "naZGftO0X3",
+        "title": "Метро 2033",
+        "author": "Глухо́вский, Дми́трий Алексе́евич",
+        "notes": "",
+        "createdAt": "2016-11-07 07:34:57",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 9
+        }
+    },
     "t3tpC5mdli": {
         "id": "t3tpC5mdli",
         "title": "Великий канцлер. Князь тьмы",
@@ -345,18 +357,6 @@
             "id": "101851419910586702007-google",
             "nickname": "Hoplit",
             "booksCount": 1
-        }
-    },
-    "0Arx5CCcHv": {
-        "id": "0Arx5CCcHv",
-        "title": "Тарас Бульба",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "",
-        "createdAt": "2016-11-02 12:58:35",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 11
         }
     }
 }
