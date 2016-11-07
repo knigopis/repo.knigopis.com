@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>101</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>102</sup>
 ---
 
 ## 2016
@@ -67,6 +67,10 @@
 ### Конец света
 Шелдон, Сидни
 > [2015-10] 
+
+
+### Тонкий расчёт
+Шелдон, Сидни
 
 
 ### Танец с драконами
