@@ -1,4 +1,16 @@
 {
+    "t3tpC5mdli": {
+        "id": "t3tpC5mdli",
+        "title": "Великий канцлер. Князь тьмы",
+        "author": "Булгаков, Михаил Афанасьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 07:34:33",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 8
+        }
+    },
     "5rAzTzf5e7": {
         "id": "5rAzTzf5e7",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 11
-        }
-    },
-    "dcTe3vfJ6_": {
-        "id": "dcTe3vfJ6_",
-        "title": "Женщины",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2016-11-02 12:57:31",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 10
         }
     }
 }
