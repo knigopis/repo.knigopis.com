@@ -1,4 +1,16 @@
 {
+    "snlrb3NFHB": {
+        "id": "snlrb3NFHB",
+        "title": "Дневник Бриджит Джонс",
+        "author": "Филдинг, Хелен",
+        "notes": "",
+        "createdAt": "2016-11-07 17:43:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 67
+        }
+    },
     "dpGDm1LmGJ": {
         "id": "dpGDm1LmGJ",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 38
-        }
-    },
-    "92nO-327IY": {
-        "id": "92nO-327IY",
-        "title": "Запах страха",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:23:57",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 37
         }
     }
 }
