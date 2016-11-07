@@ -1,4 +1,16 @@
 {
+    "w9YHOudbmG": {
+        "id": "w9YHOudbmG",
+        "title": "Мы",
+        "author": "Замятин, Евгений Иванович",
+        "notes": "",
+        "createdAt": "2016-11-07 08:07:03",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 17
+        }
+    },
     "uoESEcEhJi": {
         "id": "uoESEcEhJi",
         "title": "Властелин хаоса",
@@ -345,18 +357,6 @@
             "id": "102383933923761177461-google",
             "nickname": "pzyryanov1",
             "booksCount": 1
-        }
-    },
-    "QvQJOuNtmq": {
-        "id": "QvQJOuNtmq",
-        "title": "Наши",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2016-11-05 09:48:25",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 43
         }
     }
 }
