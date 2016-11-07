@@ -1,4 +1,16 @@
 {
+    "x_b3HUbdBg": {
+        "id": "x_b3HUbdBg",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Гарри Поттер",
+        "notes": "",
+        "createdAt": "2016-11-07 17:37:32",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 56
+        }
+    },
     "hRevyrU0h3": {
         "id": "hRevyrU0h3",
         "title": "Хаосовершенство",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 27
-        }
-    },
-    "7pQc4J2XaH": {
-        "id": "7pQc4J2XaH",
-        "title": "Командор войны",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:19:40",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 26
         }
     }
 }
