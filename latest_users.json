@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 83,
+        "updatedAt": "2016-11-07 12:44:27"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -112,12 +118,6 @@
         "nickname": "LbICbIY",
         "booksCount": 0,
         "updatedAt": "2016-10-31 21:27:15"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 82,
-        "updatedAt": "2016-10-31 13:53:37"
     },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",

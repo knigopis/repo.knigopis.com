@@ -1,4 +1,16 @@
 {
+    "0nmkaqdFPN": {
+        "id": "0nmkaqdFPN",
+        "title": "Хайди или Волшебная долина",
+        "author": "Йоханна Спири",
+        "notes": "",
+        "createdAt": "2016-11-07 12:44:27",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 83
+        }
+    },
     "ThNF88tqO0": {
         "id": "ThNF88tqO0",
         "title": "Цивилизации",
@@ -345,18 +357,6 @@
             "id": "56228374-vkontakte",
             "nickname": "InaryD",
             "booksCount": 39
-        }
-    },
-    "gm-GMYRt_4": {
-        "id": "gm-GMYRt_4",
-        "title": "Антигона",
-        "author": "Ануй Жан",
-        "notes": "",
-        "createdAt": "2016-11-06 15:52:21",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 58
         }
     }
 }

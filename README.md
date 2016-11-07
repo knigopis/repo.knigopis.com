@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>24</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [Hoplit](users/101/101851419910586702007-google)<sup>0</sup> 
 [LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>82</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>114</sup> 
 [askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>6</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 
 
-_07.11.2016 10:34:41_
+_07.11.2016 12:44:27_
