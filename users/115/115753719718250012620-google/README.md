@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>41</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>42</sup>
 ---
 
 ## 2016
@@ -59,6 +59,10 @@
 
 
 ## 2014
+
+### Праймашина
+Панов, Вадим Юрьевич
+
 
 ### Дикие персы
 Панов, Вадим Юрьевич
