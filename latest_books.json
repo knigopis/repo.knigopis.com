@@ -1,4 +1,16 @@
 {
+    "2Vvt3T_AjA": {
+        "id": "2Vvt3T_AjA",
+        "title": "Ученик дьявола",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2016-11-07 17:51:49",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 84
+        }
+    },
     "8GQN-zh97o": {
         "id": "8GQN-zh97o",
         "title": "Профессия миссис Уоррен",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 55
-        }
-    },
-    "VQxm5KZgga": {
-        "id": "VQxm5KZgga",
-        "title": "Продавцы невозможного",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:33:34",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 54
         }
     }
 }

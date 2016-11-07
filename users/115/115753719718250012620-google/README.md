@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>83</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>84</sup>
 ---
 
 ## 2016
@@ -319,6 +319,10 @@
 
 
 ## 2002
+
+### Ученик дьявола
+Шоу, Джордж Бе́рнард
+
 
 ### Профессия миссис Уоррен
 Шоу, Джордж Бе́рнард
