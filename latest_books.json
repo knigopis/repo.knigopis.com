@@ -1,4 +1,16 @@
 {
+    "aogyZkuXdq": {
+        "id": "aogyZkuXdq",
+        "title": "Антоний и Клеопатра",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:46:11",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 74
+        }
+    },
     "jxq0NhQRCr": {
         "id": "jxq0NhQRCr",
         "title": "Отелло",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 45
-        }
-    },
-    "5WlYEB7jGx": {
-        "id": "5WlYEB7jGx",
-        "title": "Занимательная механика",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:28:16",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 44
         }
     }
 }
