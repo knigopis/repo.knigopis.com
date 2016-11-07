@@ -1,4 +1,16 @@
 {
+    "icKpOF4sJ3": {
+        "id": "icKpOF4sJ3",
+        "title": "Огни небес",
+        "author": "Джордан, Роберт",
+        "notes": "",
+        "createdAt": "2016-11-07 08:05:38",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 15
+        }
+    },
     "hL6znGJjHX": {
         "id": "hL6znGJjHX",
         "title": "Восходящая тень",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 467
-        }
-    },
-    "3-9GFw4cMP": {
-        "id": "3-9GFw4cMP",
-        "title": "Большая барахолка",
-        "author": "Ромен Гари",
-        "notes": "",
-        "createdAt": "2016-11-05 08:42:14",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 466
         }
     }
 }
