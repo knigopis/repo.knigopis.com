@@ -1,4 +1,16 @@
 {
+    "XteGmNwmK9": {
+        "id": "XteGmNwmK9",
+        "title": "Укрощение строптивой",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:48:34",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 79
+        }
+    },
     "RviKBD9Trx": {
         "id": "RviKBD9Trx",
         "title": "Много шума из ничего",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 50
-        }
-    },
-    "2nOJRV_5Y_": {
-        "id": "2nOJRV_5Y_",
-        "title": "Кардонийская петля",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:31:39",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 49
         }
     }
 }
