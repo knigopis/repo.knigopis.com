@@ -1,4 +1,16 @@
 {
+    "33T6V3B2Q0": {
+        "id": "33T6V3B2Q0",
+        "title": "И в аду есть герои",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:21:22",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 29
+        }
+    },
     "OMeNQmVyIp": {
         "id": "OMeNQmVyIp",
         "title": "Все оттенки черного",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 3
-        }
-    },
-    "jl6gyya187": {
-        "id": "jl6gyya187",
-        "title": "Голова профессора Доуэля",
-        "author": "Беляев Александр Романович",
-        "notes": "",
-        "createdAt": "2016-11-07 07:30:31",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 2
         }
     }
 }
