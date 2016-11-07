@@ -1,4 +1,16 @@
 {
+    "lzTB01rmKR": {
+        "id": "lzTB01rmKR",
+        "title": "Звезды сияют с небес",
+        "author": "Шелдон, Сидни",
+        "notes": "",
+        "createdAt": "2016-11-07 18:10:53",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 99
+        }
+    },
     "HQ07KCtwBH": {
         "id": "HQ07KCtwBH",
         "title": "Полночные воспоминания",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 70
-        }
-    },
-    "IHmdifzh-X": {
-        "id": "IHmdifzh-X",
-        "title": "Юлий Цезарь",
-        "author": "Шекспир, Уильям",
-        "notes": "",
-        "createdAt": "2016-11-07 17:45:04",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 69
         }
     }
 }

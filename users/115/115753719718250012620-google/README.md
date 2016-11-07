@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>98</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>99</sup>
 ---
 
 ## 2016
@@ -308,6 +308,10 @@
 
 
 ## 2004
+
+### Звезды сияют с небес
+Шелдон, Сидни
+
 
 ### Полночные воспоминания
 Шелдон, Сидни
