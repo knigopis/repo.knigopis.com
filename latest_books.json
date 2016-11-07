@@ -1,4 +1,16 @@
 {
+    "99xe3KAIP0": {
+        "id": "99xe3KAIP0",
+        "title": "Наложницы Ненависти",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:21:52",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 30
+        }
+    },
     "33T6V3B2Q0": {
         "id": "33T6V3B2Q0",
         "title": "И в аду есть герои",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 4
-        }
-    },
-    "dalM4OwL_Z": {
-        "id": "dalM4OwL_Z",
-        "title": "Код да Винчи",
-        "author": "Браун, Дэн",
-        "notes": "",
-        "createdAt": "2016-11-07 07:31:29",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 3
         }
     }
 }
