@@ -1,4 +1,16 @@
 {
+    "KX0qGPvTCO": {
+        "id": "KX0qGPvTCO",
+        "title": "Кардонийская рулетка",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:31:06",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 48
+        }
+    },
     "HYNvuo_LG1": {
         "id": "HYNvuo_LG1",
         "title": "Красные камни Белого",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 22
-        }
-    },
-    "iaN7vTHr4i": {
-        "id": "iaN7vTHr4i",
-        "title": "Пир стервятников",
-        "author": "Мартин, Джордж",
-        "notes": "",
-        "createdAt": "2016-11-07 08:19:19",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 21
         }
     }
 }

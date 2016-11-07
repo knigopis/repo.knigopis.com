@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>47</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>48</sup>
 ---
 
 ## 2016
@@ -86,6 +86,10 @@
 
 
 ## 2013
+
+### Кардонийская рулетка
+Панов, Вадим Юрьевич
+
 
 ### Красные камни Белого
 Панов, Вадим Юрьевич
