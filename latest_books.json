@@ -1,4 +1,16 @@
 {
+    "frd0ye0N2N": {
+        "id": "frd0ye0N2N",
+        "title": "Сон в летнюю ночь",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:47:18",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 77
+        }
+    },
     "knLUXtk9gH": {
         "id": "knLUXtk9gH",
         "title": "Комедия ошибок",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 48
-        }
-    },
-    "HYNvuo_LG1": {
-        "id": "HYNvuo_LG1",
-        "title": "Красные камни Белого",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:30:51",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 47
         }
     }
 }
