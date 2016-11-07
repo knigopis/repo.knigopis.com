@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>64</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>65</sup>
 ---
 
 ## 2016
@@ -99,6 +99,10 @@
 
 
 ## 2013
+
+### Талантливый мистер Рипли
+Хайсмит, Патриция
+
 
 ### Кардонийская рулетка
 Панов, Вадим Юрьевич
