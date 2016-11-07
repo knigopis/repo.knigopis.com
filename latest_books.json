@@ -1,4 +1,16 @@
 {
+    "-KWMbvAMP4": {
+        "id": "-KWMbvAMP4",
+        "title": "Царь горы",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:23:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 35
+        }
+    },
     "SOdhk8JeGf": {
         "id": "SOdhk8JeGf",
         "title": "Королевский крест",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 9
-        }
-    },
-    "t3tpC5mdli": {
-        "id": "t3tpC5mdli",
-        "title": "Великий канцлер. Князь тьмы",
-        "author": "Булгаков, Михаил Афанасьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 07:34:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 8
         }
     }
 }
