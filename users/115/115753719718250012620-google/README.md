@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>103</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>104</sup>
 ---
 
 ## 2016
+
+### Сто лет одиночества
+Гарсиа Маркес, Габриэль
+> [2016-10-30] 
+
 
 ### Дневник Бриджит Джонс
 Филдинг, Хелен
