@@ -1,4 +1,16 @@
 {
+    "jxq0NhQRCr": {
+        "id": "jxq0NhQRCr",
+        "title": "Отелло",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:45:56",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 73
+        }
+    },
     "PwcIAMvW_z": {
         "id": "PwcIAMvW_z",
         "title": "Король Лир",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 44
-        }
-    },
-    "J8bYcSqF55": {
-        "id": "J8bYcSqF55",
-        "title": "Таганский перекресток",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:28:01",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 43
         }
     }
 }
