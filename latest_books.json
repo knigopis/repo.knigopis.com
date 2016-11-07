@@ -1,4 +1,16 @@
 {
+    "0uVk8kSuNr": {
+        "id": "0uVk8kSuNr",
+        "title": "Тень Инквизитора",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:22:24",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 32
+        }
+    },
     "7z3bROXBUC": {
         "id": "7z3bROXBUC",
         "title": "Куколка Последней Надежды",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 6
-        }
-    },
-    "dNmW9J7s_m": {
-        "id": "dNmW9J7s_m",
-        "title": "Ангелы и демоны",
-        "author": "Браун, Дэн",
-        "notes": "",
-        "createdAt": "2016-11-07 07:32:55",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 5
         }
     }
 }
