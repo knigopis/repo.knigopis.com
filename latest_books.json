@@ -1,4 +1,16 @@
 {
+    "hRevyrU0h3": {
+        "id": "hRevyrU0h3",
+        "title": "Хаосовершенство",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:33:50",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 55
+        }
+    },
     "VQxm5KZgga": {
         "id": "VQxm5KZgga",
         "title": "Продавцы невозможного",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 26
-        }
-    },
-    "4Onw2b3gPh": {
-        "id": "4Onw2b3gPh",
-        "title": "Войны начинают неудачники",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:19:27",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 25
         }
     }
 }
