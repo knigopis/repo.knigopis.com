@@ -1,4 +1,16 @@
 {
+    "cAYMqgQ-rO": {
+        "id": "cAYMqgQ-rO",
+        "title": "Возрожденный Дракон",
+        "author": "Джордан, Роберт",
+        "notes": "",
+        "createdAt": "2016-11-07 08:04:37",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 13
+        }
+    },
     "tS8EnLQKgD": {
         "id": "tS8EnLQKgD",
         "title": "Великая охота",
@@ -345,18 +357,6 @@
             "id": "152183909-vkontakte",
             "nickname": "d.molokoedova",
             "booksCount": 1
-        }
-    },
-    "z7rjR9bsw_": {
-        "id": "z7rjR9bsw_",
-        "title": "Город Пустых. Побег из дома странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "Прочитано на одном дыхании. В каким скепсисом начинала читать серию и как захватывающе пошло дело! Достаю третью книгу.",
-        "createdAt": "2016-11-02 20:16:30",
-        "user": {
-            "id": "56228374-vkontakte",
-            "nickname": "InaryD",
-            "booksCount": 38
         }
     }
 }
