@@ -1,4 +1,16 @@
 {
+    "8GQN-zh97o": {
+        "id": "8GQN-zh97o",
+        "title": "Профессия миссис Уоррен",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2016-11-07 17:51:38",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 83
+        }
+    },
     "8-aMQElAbY": {
         "id": "8-aMQElAbY",
         "title": "Дома вдовца",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 54
-        }
-    },
-    "CFtSURYdys": {
-        "id": "CFtSURYdys",
-        "title": "Костры на алтарях",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:33:23",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 53
         }
     }
 }
