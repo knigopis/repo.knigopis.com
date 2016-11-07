@@ -1,4 +1,16 @@
 {
+    "fOxbVgPu1A": {
+        "id": "fOxbVgPu1A",
+        "title": "Танец с драконами",
+        "author": "Мартин, Джордж",
+        "notes": "",
+        "createdAt": "2016-11-07 08:19:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 22
+        }
+    },
     "iaN7vTHr4i": {
         "id": "iaN7vTHr4i",
         "title": "Пир стервятников",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 57
-        }
-    },
-    "hAUE844FAw": {
-        "id": "hAUE844FAw",
-        "title": "Путь программиста",
-        "author": "Джон Сонмез",
-        "notes": "",
-        "createdAt": "2016-11-06 06:20:59",
-        "user": {
-            "id": "12375097-vkontakte",
-            "nickname": "Aleksandr",
-            "booksCount": 7
         }
     }
 }
