@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>109</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>110</sup>
 ---
 
 ## 2016
@@ -373,6 +373,10 @@
 
 
 ## 2003
+
+### Ребенок Розмари
+Левин, Айра
+
 
 ### Гнев ангелов
 Шелдон, Сидни
