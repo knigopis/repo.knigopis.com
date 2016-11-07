@@ -1,4 +1,16 @@
 {
+    "7pQc4J2XaH": {
+        "id": "7pQc4J2XaH",
+        "title": "Командор войны",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:19:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 26
+        }
+    },
     "4Onw2b3gPh": {
         "id": "4Onw2b3gPh",
         "title": "Войны начинают неудачники",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 60
-        }
-    },
-    "YyqG7vTy-s": {
-        "id": "YyqG7vTy-s",
-        "title": "Американская Первомайская ночь",
-        "author": "Асеев Николай",
-        "notes": "Фантастический рассказ.",
-        "createdAt": "2016-11-07 01:45:16",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 59
         }
     }
 }
