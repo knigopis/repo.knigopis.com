@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>43</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>44</sup>
 ---
 
 ## 2016
@@ -93,6 +93,10 @@
 
 
 ## 2012
+
+### Занимательная механика
+Панов, Вадим Юрьевич
+
 
 ### Таганский перекресток
 Панов, Вадим Юрьевич

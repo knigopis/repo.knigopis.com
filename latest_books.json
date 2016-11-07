@@ -1,4 +1,16 @@
 {
+    "5WlYEB7jGx": {
+        "id": "5WlYEB7jGx",
+        "title": "Занимательная механика",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:28:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 44
+        }
+    },
     "J8bYcSqF55": {
         "id": "J8bYcSqF55",
         "title": "Таганский перекресток",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 18
-        }
-    },
-    "w9YHOudbmG": {
-        "id": "w9YHOudbmG",
-        "title": "Мы",
-        "author": "Замятин, Евгений Иванович",
-        "notes": "",
-        "createdAt": "2016-11-07 08:07:03",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 17
         }
     }
 }
