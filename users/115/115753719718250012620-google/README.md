@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>52</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>53</sup>
 ---
 
 ## 2016
@@ -132,6 +132,10 @@
 
 
 ## 2011
+
+### Костры на алтарях
+Панов, Вадим Юрьевич
+
 
 ### Поводыри на распутье
 Панов, Вадим Юрьевич
