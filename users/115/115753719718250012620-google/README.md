@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>58</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>59</sup>
 ---
 
 ## 2016
@@ -232,6 +232,10 @@
 
 
 ## 2005
+
+### Гарри Поттер и Кубок огня
+Роулинг, Джоан
+
 
 ### Гарри Поттер и узник Азкабана
 Роулинг, Джоан
