@@ -1,4 +1,16 @@
 {
+    "wrrxTjiUqV": {
+        "id": "wrrxTjiUqV",
+        "title": "Метро 2034",
+        "author": "Глухо́вский, Дми́трий Алексе́евич",
+        "notes": "",
+        "createdAt": "2016-11-07 07:35:08",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 10
+        }
+    },
     "naZGftO0X3": {
         "id": "naZGftO0X3",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 12
-        }
-    },
-    "10rvY6UozN": {
-        "id": "10rvY6UozN",
-        "title": "Чистовик",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2016-11-02 12:58:46",
-        "user": {
-            "id": "101851419910586702007-google",
-            "nickname": "Hoplit",
-            "booksCount": 1
         }
     }
 }
