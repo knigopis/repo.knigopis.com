@@ -1,4 +1,16 @@
 {
+    "XgVGiKbLHO": {
+        "id": "XgVGiKbLHO",
+        "title": "Ручной привод",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:28:32",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 45
+        }
+    },
     "5WlYEB7jGx": {
         "id": "5WlYEB7jGx",
         "title": "Занимательная механика",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 19
-        }
-    },
-    "dtsCx8IXMi": {
-        "id": "dtsCx8IXMi",
-        "title": "Игра престолов",
-        "author": "Мартин, Джордж",
-        "notes": "",
-        "createdAt": "2016-11-07 08:18:43",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 18
         }
     }
 }

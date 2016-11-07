@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>44</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>45</sup>
 ---
 
 ## 2016
@@ -93,6 +93,10 @@
 
 
 ## 2012
+
+### Ручной привод
+Панов, Вадим Юрьевич
+
 
 ### Занимательная механика
 Панов, Вадим Юрьевич
