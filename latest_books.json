@@ -1,4 +1,16 @@
 {
+    "hL6znGJjHX": {
+        "id": "hL6znGJjHX",
+        "title": "Восходящая тень",
+        "author": "Джордан, Роберт",
+        "notes": "",
+        "createdAt": "2016-11-07 08:05:09",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 14
+        }
+    },
     "cAYMqgQ-rO": {
         "id": "cAYMqgQ-rO",
         "title": "Возрожденный Дракон",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 466
-        }
-    },
-    "0g0e9u2zIs": {
-        "id": "0g0e9u2zIs",
-        "title": "Граф Монте-Кристо",
-        "author": "Дюма",
-        "notes": "",
-        "createdAt": "2016-11-03 05:47:59",
-        "user": {
-            "id": "152183909-vkontakte",
-            "nickname": "d.molokoedova",
-            "booksCount": 1
         }
     }
 }

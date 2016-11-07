@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>13</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>14</sup>
 ---
 
 ## 2016
+
+### Восходящая тень
+Джордан, Роберт
+> [2016-08-13] 
+
 
 ### Возрожденный Дракон
 Джордан, Роберт
