@@ -1,4 +1,16 @@
 {
+    "uoESEcEhJi": {
+        "id": "uoESEcEhJi",
+        "title": "Властелин хаоса",
+        "author": "Джордан, Роберт",
+        "notes": "",
+        "createdAt": "2016-11-07 08:06:15",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 16
+        }
+    },
     "icKpOF4sJ3": {
         "id": "icKpOF4sJ3",
         "title": "Огни небес",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 43
-        }
-    },
-    "X1DooD0BKQ": {
-        "id": "X1DooD0BKQ",
-        "title": "Он, она, окно и покойник",
-        "author": "Рэй Куни",
-        "notes": "",
-        "createdAt": "2016-11-05 08:42:35",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 467
         }
     }
 }
