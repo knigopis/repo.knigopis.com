@@ -1,4 +1,16 @@
 {
+    "dpGDm1LmGJ": {
+        "id": "dpGDm1LmGJ",
+        "title": "Старик и море",
+        "author": "Хемингуэй, Эрнест",
+        "notes": "",
+        "createdAt": "2016-11-07 17:42:53",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 66
+        }
+    },
     "w9IPiuiUw1": {
         "id": "w9IPiuiUw1",
         "title": "Талантливый мистер Рипли",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 37
-        }
-    },
-    "KKV8oSJkcc": {
-        "id": "KKV8oSJkcc",
-        "title": "День Дракона",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:23:44",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 36
         }
     }
 }
