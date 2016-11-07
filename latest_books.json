@@ -1,4 +1,16 @@
 {
+    "FNz0xJtgry": {
+        "id": "FNz0xJtgry",
+        "title": "Гамлет",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:45:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 71
+        }
+    },
     "mSDLLjxj7e": {
         "id": "mSDLLjxj7e",
         "title": "Макбет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 42
-        }
-    },
-    "_jwVZw3pbb": {
-        "id": "_jwVZw3pbb",
-        "title": "Дикие персы",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:26:10",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 41
         }
     }
 }
