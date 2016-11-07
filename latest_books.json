@@ -1,4 +1,16 @@
 {
+    "i_sCWXphNk": {
+        "id": "i_sCWXphNk",
+        "title": "1984",
+        "author": "Оруэлл, Джордж",
+        "notes": "",
+        "createdAt": "2016-11-07 08:22:10",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 24
+        }
+    },
     "s5VpU3KdHP": {
         "id": "s5VpU3KdHP",
         "title": "Винни-Пух и все-все-все",
@@ -345,18 +357,6 @@
             "id": "116434214281608690175-google",
             "nickname": "Mocca",
             "booksCount": 2
-        }
-    },
-    "YbV0tsH454": {
-        "id": "YbV0tsH454",
-        "title": "Адская практика",
-        "author": "Сергей Садов",
-        "notes": "Детская книга повествующая о Рае и Аде, а религии и вере.",
-        "createdAt": "2016-11-06 13:41:18",
-        "user": {
-            "id": "116434214281608690175-google",
-            "nickname": "Mocca",
-            "booksCount": 1
         }
     }
 }

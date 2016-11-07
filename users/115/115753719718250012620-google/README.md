@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>23</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>24</sup>
 ---
 
 ## 2016
@@ -6,6 +6,11 @@
 ### Властелин хаоса
 Джордан, Роберт
 > [2016-10-20] 
+
+
+### 1984
+Оруэлл, Джордж
+> [2016-10] 
 
 
 ### Огни небес
