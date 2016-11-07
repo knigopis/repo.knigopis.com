@@ -1,4 +1,16 @@
 {
+    "CthsnEAgEf": {
+        "id": "CthsnEAgEf",
+        "title": "Точка обмана",
+        "author": "Браун, Дэн",
+        "notes": "",
+        "createdAt": "2016-11-07 07:32:11",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 4
+        }
+    },
     "dalM4OwL_Z": {
         "id": "dalM4OwL_Z",
         "title": "Код да Винчи",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 7
-        }
-    },
-    "rvOC6s40ZV": {
-        "id": "rvOC6s40ZV",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2016-11-02 12:56:13",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 6
         }
     }
 }
