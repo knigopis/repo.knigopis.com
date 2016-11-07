@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>81</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>82</sup>
 ---
 
 ## 2016
@@ -319,6 +319,10 @@
 
 
 ## 2002
+
+### Дома вдовца
+Шоу, Джордж Бе́рнард
+
 
 ### Карьера одного борца
 Шоу, Джордж Бе́рнард

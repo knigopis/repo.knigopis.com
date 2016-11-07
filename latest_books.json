@@ -1,4 +1,16 @@
 {
+    "8-aMQElAbY": {
+        "id": "8-aMQElAbY",
+        "title": "Дома вдовца",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2016-11-07 17:51:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 82
+        }
+    },
     "NS1YJKcgLt": {
         "id": "NS1YJKcgLt",
         "title": "Карьера одного борца",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 53
-        }
-    },
-    "pcx-z0mj57": {
-        "id": "pcx-z0mj57",
-        "title": "Поводыри на распутье",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:33:00",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 52
         }
     }
 }
