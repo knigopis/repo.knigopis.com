@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
+    > # рисунок - это ваш рассказ о чем-то
+    > # хочу, чтобы ты смотрел на мир, как я и видел, как я...
+    > странноватая книга в форме писем. Причем, односторонних, только со стороны девушки. Не особо понятно, как они встретились, сколько встречались, что вообще за люди, что за жизнь. Но в середине книге заинтересовалась. Жизнь Лизы стала интересней, труднее, более определенной, что-ли. Имеющей цель. Но все равно много моментов пропущено, немного поверхностно вообще написано про собственную жизнь, про свои впечатления и ощущения от выставок, картин, людей... Та ки не поняла, о чем книга вообще..
+
 * Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > — По отчеству... Как родился, никто по отчеству... не называл...
 
 * Американская Первомайская ночь ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>59</sup>
-    > Фантастический рассказ.
 
 * Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
 
-* Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>24</sup> 
@@ -57,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>114</sup> 
 [askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>6</sup> 
 [apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 
 
-_07.11.2016 12:44:27_
+_07.11.2016 16:11:54_
