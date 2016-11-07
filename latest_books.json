@@ -1,4 +1,16 @@
 {
+    "7z3bROXBUC": {
+        "id": "7z3bROXBUC",
+        "title": "Куколка Последней Надежды",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:22:08",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 31
+        }
+    },
     "99xe3KAIP0": {
         "id": "99xe3KAIP0",
         "title": "Наложницы Ненависти",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 5
-        }
-    },
-    "CthsnEAgEf": {
-        "id": "CthsnEAgEf",
-        "title": "Точка обмана",
-        "author": "Браун, Дэн",
-        "notes": "",
-        "createdAt": "2016-11-07 07:32:11",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 4
         }
     }
 }
