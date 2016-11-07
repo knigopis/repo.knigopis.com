@@ -1,4 +1,16 @@
 {
+    "knLUXtk9gH": {
+        "id": "knLUXtk9gH",
+        "title": "Комедия ошибок",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:46:38",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 76
+        }
+    },
     "_4peEotXCP": {
         "id": "_4peEotXCP",
         "title": "Всё хорошо, что хорошо кончается",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 47
-        }
-    },
-    "WRXsS1Zf00": {
-        "id": "WRXsS1Zf00",
-        "title": "Последний адмирал Заграты",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:30:02",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 46
         }
     }
 }
