@@ -1,4 +1,16 @@
 {
+    "5rAzTzf5e7": {
+        "id": "5rAzTzf5e7",
+        "title": "Собачье сердце",
+        "author": "Булгаков, Михаил Афанасьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 07:34:21",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 7
+        }
+    },
     "Tq4miqSw04": {
         "id": "Tq4miqSw04",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 10
-        }
-    },
-    "XS1chUcfFA": {
-        "id": "XS1chUcfFA",
-        "title": "Капитанская дочка",
-        "author": "Александр Сергеевич Пушкин",
-        "notes": "",
-        "createdAt": "2016-11-02 12:57:20",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 9
         }
     }
 }
