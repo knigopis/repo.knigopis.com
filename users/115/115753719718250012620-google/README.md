@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>24</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>25</sup>
 ---
 
 ## 2016
@@ -89,6 +89,10 @@
 
 
 ## 2008
+
+### Войны начинают неудачники
+Панов, Вадим Юрьевич
+
 
 ### Точка обмана
 Браун, Дэн
