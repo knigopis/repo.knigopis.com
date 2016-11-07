@@ -1,4 +1,16 @@
 {
+    "KKV8oSJkcc": {
+        "id": "KKV8oSJkcc",
+        "title": "День Дракона",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:23:44",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 36
+        }
+    },
     "-KWMbvAMP4": {
         "id": "-KWMbvAMP4",
         "title": "Царь горы",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 10
-        }
-    },
-    "naZGftO0X3": {
-        "id": "naZGftO0X3",
-        "title": "Метро 2033",
-        "author": "Глухо́вский, Дми́трий Алексе́евич",
-        "notes": "",
-        "createdAt": "2016-11-07 07:34:57",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 9
         }
     }
 }
