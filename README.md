@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
+    > в процессе
+    > 
+    > http://www.ozon.ru/context/detail/id/4466974/
+
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
     > — По отчеству... Как родился, никто по отчеству... не называл...
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Фантастический рассказ.
 
 * Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
-    > В общем, начало скучное, особенно после эмоций в предыдущей книги. К середине книги становится уже лучше, две трети ещё лучше, а под конец реально затягивает. Исторический детектив в плане затрагивания политики около 50 лет назад. Стоит читать. Но есть книги затягиващие больше. Похититель теней например хд ну, хотя с тенями эта серия не сравнится. Но опять же, читать стоит. Просто ради интереса даже. Вот.
 
 * Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
 
-* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>24</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
@@ -61,8 +64,7 @@ _More notes [here](latest_books_with_notes.md)._
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 [marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>80</sup> 
 [kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 
 
-_07.11.2016 08:22:10_
+_07.11.2016 10:34:41_

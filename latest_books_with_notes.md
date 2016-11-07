@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
 * Американская Первомайская ночь ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>59</sup>
 * Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
@@ -30,7 +31,6 @@
 * Убить пересмешника ~ [rNix](users/115/115622071-twitter)<sup>47</sup>
 * Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
 * Большие надежды ~ [Беска](users/157/1577468-vkontakte)<sup>5</sup>
-* Программист фанатик ~ [igor1980](users/100/100003094239547-facebook)<sup>5</sup>
 
 
-_07.11.2016 01:55:31_
+_07.11.2016 10:34:41_

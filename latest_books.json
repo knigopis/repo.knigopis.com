@@ -1,4 +1,16 @@
 {
+    "ThNF88tqO0": {
+        "id": "ThNF88tqO0",
+        "title": "Цивилизации",
+        "author": "Фелипе Фернандес-Арместо",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/4466974/",
+        "createdAt": "2016-11-07 10:34:41",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 81
+        }
+    },
     "i_sCWXphNk": {
         "id": "i_sCWXphNk",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 58
-        }
-    },
-    "4Mb2jq3mqH": {
-        "id": "4Mb2jq3mqH",
-        "title": "Трудно быть богом",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2016-11-06 13:48:32",
-        "user": {
-            "id": "116434214281608690175-google",
-            "nickname": "Mocca",
-            "booksCount": 2
         }
     }
 }
