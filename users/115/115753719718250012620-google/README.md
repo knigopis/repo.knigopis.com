@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>32</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>33</sup>
 ---
 
 ## 2016
@@ -85,6 +85,13 @@
 
 ### Метро 2033
 Глухо́вский, Дми́трий Алексе́евич
+
+
+
+## 2010
+
+### Кафедра странников
+Панов, Вадим Юрьевич
 
 
 

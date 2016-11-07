@@ -1,4 +1,16 @@
 {
+    "iF2lP2HwPY": {
+        "id": "iF2lP2HwPY",
+        "title": "Кафедра странников",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:22:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 33
+        }
+    },
     "0uVk8kSuNr": {
         "id": "0uVk8kSuNr",
         "title": "Тень Инквизитора",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 7
-        }
-    },
-    "Tq4miqSw04": {
-        "id": "Tq4miqSw04",
-        "title": "451 градус по Фаренгейту",
-        "author": "Брэдбери, Рэй",
-        "notes": "",
-        "createdAt": "2016-11-07 07:33:49",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 6
         }
     }
 }
