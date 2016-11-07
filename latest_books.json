@@ -1,4 +1,16 @@
 {
+    "02WY3LfLve": {
+        "id": "02WY3LfLve",
+        "title": "Цезарь и Клеопатра",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2016-11-07 17:52:01",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 85
+        }
+    },
     "2Vvt3T_AjA": {
         "id": "2Vvt3T_AjA",
         "title": "Ученик дьявола",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 56
-        }
-    },
-    "hRevyrU0h3": {
-        "id": "hRevyrU0h3",
-        "title": "Хаосовершенство",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:33:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 55
         }
     }
 }
