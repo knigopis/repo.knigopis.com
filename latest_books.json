@@ -1,4 +1,16 @@
 {
+    "t8_Zvbpzv8": {
+        "id": "t8_Zvbpzv8",
+        "title": "Буря мечей",
+        "author": "Мартин, Джордж",
+        "notes": "",
+        "createdAt": "2016-11-07 08:19:04",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 20
+        }
+    },
     "Aazo45FJwQ": {
         "id": "Aazo45FJwQ",
         "title": "Битва королей",
@@ -345,18 +357,6 @@
             "id": "116957517381490004982-google",
             "nickname": "insolia",
             "booksCount": 1
-        }
-    },
-    "tP4PCnS36K": {
-        "id": "tP4PCnS36K",
-        "title": "Туве Янсон",
-        "author": "Все о муми-троллях (880 с)",
-        "notes": "",
-        "createdAt": "2016-11-05 13:50:12",
-        "user": {
-            "id": "1034497246671899-facebook",
-            "nickname": "Гандзя",
-            "booksCount": 5
         }
     }
 }
