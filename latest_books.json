@@ -1,4 +1,16 @@
 {
+    "Ef87qvdFXo": {
+        "id": "Ef87qvdFXo",
+        "title": "Гарри Поттер и Принц-полукровка",
+        "author": "Роулинг, Джоан",
+        "notes": "",
+        "createdAt": "2016-11-07 17:39:16",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 61
+        }
+    },
     "bv93-HHMkX": {
         "id": "bv93-HHMkX",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 32
-        }
-    },
-    "7z3bROXBUC": {
-        "id": "7z3bROXBUC",
-        "title": "Куколка Последней Надежды",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:22:08",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 31
         }
     }
 }
