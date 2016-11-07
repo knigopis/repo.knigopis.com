@@ -1,4 +1,16 @@
 {
+    "XWSrL-hf69": {
+        "id": "XWSrL-hf69",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков М. А.",
+        "notes": "",
+        "createdAt": "2016-11-07 07:27:37",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 1
+        }
+    },
     "lODzPcLMoz": {
         "id": "lODzPcLMoz",
         "title": "Баргамот и Гараська",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 4
-        }
-    },
-    "SsAvaHo9i5": {
-        "id": "SsAvaHo9i5",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2016-11-02 12:54:51",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 3
         }
     }
 }
