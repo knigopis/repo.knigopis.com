@@ -1,4 +1,16 @@
 {
+    "_JrRIi1y_c": {
+        "id": "_JrRIi1y_c",
+        "title": "Московский клуб",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:32:37",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 51
+        }
+    },
     "8ZIUHmHs84": {
         "id": "8ZIUHmHs84",
         "title": "Сокровища чистого разума",
@@ -345,18 +357,6 @@
             "id": "leczQ3Eya3-linkedin",
             "nickname": "Ник Литвинов",
             "booksCount": 81
-        }
-    },
-    "i_sCWXphNk": {
-        "id": "i_sCWXphNk",
-        "title": "1984",
-        "author": "Оруэлл, Джордж",
-        "notes": "",
-        "createdAt": "2016-11-07 08:22:10",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 24
         }
     }
 }

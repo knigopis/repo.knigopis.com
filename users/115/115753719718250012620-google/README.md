@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>50</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>51</sup>
 ---
 
 ## 2016
@@ -132,6 +132,10 @@
 
 
 ## 2011
+
+### Московский клуб
+Панов, Вадим Юрьевич
+
 
 ### Метро 2034
 Глухо́вский, Дми́трий Алексе́евич
