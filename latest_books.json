@@ -1,4 +1,16 @@
 {
+    "jl6gyya187": {
+        "id": "jl6gyya187",
+        "title": "Голова профессора Доуэля",
+        "author": "Беляев Александр Романович",
+        "notes": "",
+        "createdAt": "2016-11-07 07:30:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 2
+        }
+    },
     "XWSrL-hf69": {
         "id": "XWSrL-hf69",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 5
-        }
-    },
-    "NpzBSu-rgq": {
-        "id": "NpzBSu-rgq",
-        "title": "Преступление и наказание",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2016-11-02 12:55:16",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 4
         }
     }
 }
