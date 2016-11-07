@@ -1,4 +1,16 @@
 {
+    "NS1YJKcgLt": {
+        "id": "NS1YJKcgLt",
+        "title": "Карьера одного борца",
+        "author": "Шоу, Джордж Бе́рнард",
+        "notes": "",
+        "createdAt": "2016-11-07 17:51:07",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 81
+        }
+    },
     "q_28CxJeWt": {
         "id": "q_28CxJeWt",
         "title": "Перикл, царь Тирский",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 52
-        }
-    },
-    "_JrRIi1y_c": {
-        "id": "_JrRIi1y_c",
-        "title": "Московский клуб",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:32:37",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 51
         }
     }
 }
