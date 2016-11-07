@@ -1,4 +1,16 @@
 {
+    "_jwVZw3pbb": {
+        "id": "_jwVZw3pbb",
+        "title": "Дикие персы",
+        "author": "Панов, Вадим Юрьевич",
+        "notes": "",
+        "createdAt": "2016-11-07 17:26:10",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 41
+        }
+    },
     "uHDPeVNzia": {
         "id": "uHDPeVNzia",
         "title": "В круге времён",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 15
-        }
-    },
-    "hL6znGJjHX": {
-        "id": "hL6znGJjHX",
-        "title": "Восходящая тень",
-        "author": "Джордан, Роберт",
-        "notes": "",
-        "createdAt": "2016-11-07 08:05:09",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 14
         }
     }
 }
