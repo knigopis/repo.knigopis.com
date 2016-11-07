@@ -1,4 +1,16 @@
 {
+    "PwcIAMvW_z": {
+        "id": "PwcIAMvW_z",
+        "title": "Король Лир",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:45:44",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 72
+        }
+    },
     "FNz0xJtgry": {
         "id": "FNz0xJtgry",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 43
-        }
-    },
-    "mT4j5xgh7T": {
-        "id": "mT4j5xgh7T",
-        "title": "Праймашина",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:27:02",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 42
         }
     }
 }
