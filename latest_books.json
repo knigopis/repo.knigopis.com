@@ -1,4 +1,16 @@
 {
+    "OQeUv9JKlQ": {
+        "id": "OQeUv9JKlQ",
+        "title": "Ромео и Джульетта",
+        "author": "Шекспир, Уильям",
+        "notes": "",
+        "createdAt": "2016-11-07 17:44:51",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 68
+        }
+    },
     "snlrb3NFHB": {
         "id": "snlrb3NFHB",
         "title": "Дневник Бриджит Джонс",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 39
-        }
-    },
-    "pvIM03r7ZM": {
-        "id": "pvIM03r7ZM",
-        "title": "Ребус Галла",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 17:24:13",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 38
         }
     }
 }
