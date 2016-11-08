@@ -1,4 +1,16 @@
 {
+    "HMSTY9FvjK": {
+        "id": "HMSTY9FvjK",
+        "title": "Страна тумана",
+        "author": "Дойл, Артур Конан",
+        "notes": "",
+        "createdAt": "2016-11-08 06:54:39",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 113
+        }
+    },
     "ZaqTJCnu_j": {
         "id": "ZaqTJCnu_j",
         "title": "Отра́вленный по́яс",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 87
-        }
-    },
-    "Bny_hz5Nqk": {
-        "id": "Bny_hz5Nqk",
-        "title": "Смуглая леди сонетов",
-        "author": "Шоу, Джордж Бе́рнард",
-        "notes": "",
-        "createdAt": "2016-11-07 17:52:10",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 86
         }
     }
 }
