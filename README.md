@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
+    > Роман меня поражает и удивляет, на моей памяти я подобного еще не читала... Я даже не знаю, почему начала читать именно его, просто случайно наткнулась на каком-то сайте, никаких отзывов не слышала и намеренно не читала (не люблю так делать, портится свое впечатление), видимо, захватило название. Еще читаю (финал)...
+
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
     > Любимое произведение Баха! Перечитывала не раз! Советую всегда тем, кто любит книги! Считаю, что обязательна к прочтению для каждого...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочла на одном дыхании, книга меня увлекла очень. Сериал не смотрела.
 
 * А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
-    > Замечательная книга для всех!
 
 * Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
 
-* Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>21</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>22</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>114</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 
 
-_08.11.2016 14:11:53_
+_08.11.2016 14:21:22_

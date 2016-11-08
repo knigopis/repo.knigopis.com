@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
 * А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
-* Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
 
 
-_08.11.2016 14:11:53_
+_08.11.2016 14:21:22_
