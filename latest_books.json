@@ -1,4 +1,16 @@
 {
+    "bI5EtU1BCb": {
+        "id": "bI5EtU1BCb",
+        "title": "Па-де-труа шеф-повара, официанта и клиента",
+        "author": "Роберт Шекли",
+        "notes": "",
+        "createdAt": "2016-11-08 04:40:54",
+        "user": {
+            "id": "12525258-vkontakte",
+            "nickname": "w4rd3ll",
+            "booksCount": 1
+        }
+    },
     "7Fja39loOB": {
         "id": "7Fja39loOB",
         "title": "Акула пера в мире Файролла[1-11]",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 83
-        }
-    },
-    "8-aMQElAbY": {
-        "id": "8-aMQElAbY",
-        "title": "Дома вдовца",
-        "author": "Шоу, Джордж Бе́рнард",
-        "notes": "",
-        "createdAt": "2016-11-07 17:51:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 82
         }
     }
 }
