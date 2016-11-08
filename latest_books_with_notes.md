@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
 * А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
 * Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
 * Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
 * Пролетая над гнездом кукушки ~ [nadisvid](users/113/1138852626183846-facebook)<sup>13</sup>
-* 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
 
 
-_08.11.2016 14:08:24_
+_08.11.2016 14:11:53_

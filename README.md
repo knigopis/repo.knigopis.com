@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
+    > Любимое произведение Баха! Перечитывала не раз! Советую всегда тем, кто любит книги! Считаю, что обязательна к прочтению для каждого...
+
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
     > Прочла на одном дыхании, книга меня увлекла очень. Сериал не смотрела.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Замечательная книга для всех!
 
 * Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
-    > Присутствует множество интересно выстроенных диалогов, цитат, комментариев, с отсылками к классике и это с высоты моей далеко не начитанной башни. Завязка огого, а вот развязку так и не написал...
 
 * Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
 
-* Аленький цветочек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nadisvid](users/113/1138852626183846-facebook)<sup>20</sup> 
+[nadisvid](users/113/1138852626183846-facebook)<sup>21</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>114</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 
 
-_08.11.2016 14:08:24_
+_08.11.2016 14:11:53_
