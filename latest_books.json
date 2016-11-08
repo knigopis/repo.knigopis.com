@@ -1,4 +1,16 @@
 {
+    "dPXi2I5zUo": {
+        "id": "dPXi2I5zUo",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2016-11-08 07:02:10",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 114
+        }
+    },
     "Q4JXj049n2": {
         "id": "Q4JXj049n2",
         "title": "Она",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 89
-        }
-    },
-    "LijekB1mJw": {
-        "id": "LijekB1mJw",
-        "title": "Дом, где разбиваются сердца",
-        "author": "Шоу, Джордж Бе́рнард",
-        "notes": "",
-        "createdAt": "2016-11-07 17:52:33",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 88
         }
     }
 }
