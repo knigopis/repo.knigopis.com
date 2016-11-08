@@ -37,9 +37,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>111</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>110</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 
 
-_08.11.2016 04:56:53_
+_08.11.2016 06:54:09_
