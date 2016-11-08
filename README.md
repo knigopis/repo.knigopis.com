@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[w4rd3ll](users/125/12525258-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>110</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>7</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
-[marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
 
 
-_08.11.2016 02:28:00_
+_08.11.2016 04:39:54_
