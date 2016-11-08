@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>113</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>114</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>7</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 
 
-_08.11.2016 06:54:40_
+_08.11.2016 06:57:59_

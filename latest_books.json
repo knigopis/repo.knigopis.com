@@ -1,4 +1,16 @@
 {
+    "Q4JXj049n2": {
+        "id": "Q4JXj049n2",
+        "title": "Она",
+        "author": "Хаггард, Генри Райдер",
+        "notes": "",
+        "createdAt": "2016-11-08 06:57:58",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 114
+        }
+    },
     "HMSTY9FvjK": {
         "id": "HMSTY9FvjK",
         "title": "Страна тумана",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 88
-        }
-    },
-    "VMY4kvCyXb": {
-        "id": "VMY4kvCyXb",
-        "title": "Пигмалио́н",
-        "author": "Шоу, Джордж Бе́рнард",
-        "notes": "",
-        "createdAt": "2016-11-07 17:52:24",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 87
         }
     }
 }
