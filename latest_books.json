@@ -1,4 +1,16 @@
 {
+    "rFKTDU1JOh": {
+        "id": "rFKTDU1JOh",
+        "title": "Ночь нежна",
+        "author": "Френсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2016-11-08 20:40:34",
+        "user": {
+            "id": "1283337448364336-facebook",
+            "nickname": "irysyk",
+            "booksCount": 1
+        }
+    },
     "PGLwsVzqg4": {
         "id": "PGLwsVzqg4",
         "title": "Мир глазами Гарпа",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 94
-        }
-    },
-    "noTbWCwqnr": {
-        "id": "noTbWCwqnr",
-        "title": "Узы крови",
-        "author": "Шелдон, Сидни",
-        "notes": "",
-        "createdAt": "2016-11-07 18:09:32",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 93
         }
     }
 }
