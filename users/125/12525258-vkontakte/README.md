@@ -1,4 +1,4 @@
-# List of books read by [w4rd3ll](http://vk.com/id12525258)<sup>1</sup>
+# List of books read by [w4rd3ll](http://vk.com/id12525258)<sup>2</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Па-де-труа шеф-повара, официанта и клиента
 Роберт Шекли
 > [2016-11-08] 
+
+
+### 26
+256
 
 
 
