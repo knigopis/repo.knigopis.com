@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
+    > Присутствует множество интересно выстроенных диалогов, цитат, комментариев, с отсылками к классике и это с высоты моей далеко не начитанной башни. Завязка огого, а вот развязку так и не написал...
+
 * Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
     > # рисунок - это ваш рассказ о чем-то
     > # хочу, чтобы ты смотрел на мир, как я и видел, как я...
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/4466974/
 
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
-    > — По отчеству... Как родился, никто по отчеству... не называл...
 
 * Американская Первомайская ночь ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>59</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 
-* Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>110</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>7</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 [argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 [marishka_volobueva](users/763/7635329-vkontakte)<sup>0</sup> 
-[kraftlawrence](users/526/52641782-vkontakte)<sup>0</sup> 
 
 
-_07.11.2016 19:01:52_
+_08.11.2016 02:28:00_

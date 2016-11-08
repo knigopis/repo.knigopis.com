@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
 * Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
 * Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
@@ -30,7 +31,6 @@
 * 451 градус по Фаренгейту ~ [nadisvid](users/113/1138852626183846-facebook)<sup>12</sup>
 * Старик и море ~ [nadisvid](users/113/1138852626183846-facebook)<sup>11</sup>
 * Убить пересмешника ~ [rNix](users/115/115622071-twitter)<sup>47</sup>
-* Виноваты звезды ~ [Eji_tyan](users/235/2352103981-twitter)<sup>21</sup>
 
 
-_07.11.2016 16:11:54_
+_08.11.2016 02:28:00_
