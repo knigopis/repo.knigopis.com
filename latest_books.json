@@ -1,4 +1,16 @@
 {
+    "GwKJH8-4W4": {
+        "id": "GwKJH8-4W4",
+        "title": "А зори здесь тихие…",
+        "author": "Борис Васильев",
+        "notes": "Замечательная книга для всех!",
+        "createdAt": "2016-11-08 14:07:27",
+        "user": {
+            "id": "1138852626183846-facebook",
+            "nickname": "nadisvid",
+            "booksCount": 19
+        }
+    },
     "dPXi2I5zUo": {
         "id": "dPXi2I5zUo",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 90
-        }
-    },
-    "19Jp0tsarU": {
-        "id": "19Jp0tsarU",
-        "title": "Сорвать маску",
-        "author": "Шелдон, Сидни",
-        "notes": "",
-        "createdAt": "2016-11-07 18:08:40",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 89
         }
     }
 }

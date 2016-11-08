@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
+    > Замечательная книга для всех!
+
 * Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
     > Присутствует множество интересно выстроенных диалогов, цитат, комментариев, с отсылками к классике и это с высоты моей далеко не начитанной башни. Завязка огого, а вот развязку так и не написал...
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > странноватая книга в форме писем. Причем, односторонних, только со стороны девушки. Не особо понятно, как они встретились, сколько встречались, что вообще за люди, что за жизнь. Но в середине книге заинтересовалась. Жизнь Лизы стала интересней, труднее, более определенной, что-ли. Имеющей цель. Но все равно много моментов пропущено, немного поверхностно вообще написано про собственную жизнь, про свои впечатления и ощущения от выставок, картин, людей... Та ки не поняла, о чем книга вообще..
 
 * Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/4466974/
 
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
 
-* Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nadisvid](users/113/1138852626183846-facebook)<sup>19</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>114</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
 [detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
-[argentum](users/108/108441017286602220411-google)<sup>12</sup> 
 
 
-_08.11.2016 07:02:10_
+_08.11.2016 14:07:27_
