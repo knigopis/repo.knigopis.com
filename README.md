@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[irysyk](users/128/1283337448364336-facebook)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>114</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>25</sup> 
 [Мохнатый Шмель](users/164/164804873-yandex)<sup>7</sup> 
-[detectivecole](users/307/307203253-vkontakte)<sup>2</sup> 
 
 
-_08.11.2016 14:21:22_
+_08.11.2016 20:39:17_
