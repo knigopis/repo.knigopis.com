@@ -1,4 +1,16 @@
 {
+    "ZaqTJCnu_j": {
+        "id": "ZaqTJCnu_j",
+        "title": "Отра́вленный по́яс",
+        "author": "Дойл, Артур Конан",
+        "notes": "",
+        "createdAt": "2016-11-08 06:54:22",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 112
+        }
+    },
     "Y4qrJUtFmd": {
         "id": "Y4qrJUtFmd",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 86
-        }
-    },
-    "02WY3LfLve": {
-        "id": "02WY3LfLve",
-        "title": "Цезарь и Клеопатра",
-        "author": "Шоу, Джордж Бе́рнард",
-        "notes": "",
-        "createdAt": "2016-11-07 17:52:01",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 85
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>111</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>112</sup>
 ---
 
 ## 2016
@@ -173,6 +173,10 @@
 
 
 ## 2011
+
+### Отра́вленный по́яс
+Дойл, Артур Конан
+
 
 ### Затерянный мир
 Дойл, Артур Конан
