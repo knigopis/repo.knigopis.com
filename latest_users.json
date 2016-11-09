@@ -1,4 +1,10 @@
 {
+    "390680348-vkontakte": {
+        "id": "390680348-vkontakte",
+        "nickname": "Valeria Ki",
+        "booksCount": 0,
+        "updatedAt": "2016-11-09 13:29:25"
+    },
     "1005190986269853-facebook": {
         "id": "1005190986269853-facebook",
         "nickname": "AFedorov",
@@ -172,11 +178,5 @@
         "nickname": "apisinka_ja",
         "booksCount": 0,
         "updatedAt": "2016-10-30 18:04:47"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 25,
-        "updatedAt": "2016-10-30 16:19:20"
     }
 }
