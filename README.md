@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nutro_19](users/323/323158782-vkontakte)<sup>0</sup> 
 [Valeria Ki](users/390/390680348-vkontakte)<sup>1</sup> 
 [AFedorov](users/100/1005190986269853-facebook)<sup>0</sup> 
 [irysyk](users/128/1283337448364336-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>114</sup> 
 [askyou2focuson](users/710/710705325745026-facebook)<sup>0</sup> 
-[apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 
 
-_09.11.2016 13:33:44_
+_09.11.2016 13:35:32_
