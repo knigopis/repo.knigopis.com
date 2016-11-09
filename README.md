@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Valeria Ki](users/390/390680348-vkontakte)<sup>0</sup> 
+[Valeria Ki](users/390/390680348-vkontakte)<sup>1</sup> 
 [AFedorov](users/100/1005190986269853-facebook)<sup>0</sup> 
 [irysyk](users/128/1283337448364336-facebook)<sup>1</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [apisinka_ja](users/572/5727424-vkontakte)<sup>0</sup> 
 
 
-_09.11.2016 13:29:26_
+_09.11.2016 13:33:44_

@@ -1,4 +1,16 @@
 {
+    "VFeRWJMs6f": {
+        "id": "VFeRWJMs6f",
+        "title": "Пьеса \"Гроза\"",
+        "author": "Александр Николаевич Островский",
+        "notes": "",
+        "createdAt": "2016-11-09 13:33:44",
+        "user": {
+            "id": "390680348-vkontakte",
+            "nickname": "Valeria Ki",
+            "booksCount": 1
+        }
+    },
     "rFKTDU1JOh": {
         "id": "rFKTDU1JOh",
         "title": "Ночь нежна",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 95
-        }
-    },
-    "Md2HZypM05": {
-        "id": "Md2HZypM05",
-        "title": "Гнев ангелов",
-        "author": "Шелдон, Сидни",
-        "notes": "",
-        "createdAt": "2016-11-07 18:09:41",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 94
         }
     }
 }
