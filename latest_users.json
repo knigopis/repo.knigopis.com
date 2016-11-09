@@ -1,4 +1,10 @@
 {
+    "1005190986269853-facebook": {
+        "id": "1005190986269853-facebook",
+        "nickname": "AFedorov",
+        "booksCount": 0,
+        "updatedAt": "2016-11-09 13:01:19"
+    },
     "1283337448364336-facebook": {
         "id": "1283337448364336-facebook",
         "nickname": "irysyk",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 25,
         "updatedAt": "2016-10-30 16:19:20"
-    },
-    "164804873-yandex": {
-        "id": "164804873-yandex",
-        "nickname": "Мохнатый Шмель",
-        "booksCount": 7,
-        "updatedAt": "2016-10-30 15:19:38"
     }
 }
