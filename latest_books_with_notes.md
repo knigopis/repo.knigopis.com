@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
 * Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
@@ -30,7 +31,6 @@
 * Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
 * Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
 * Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
-* Цветы для Элджернона ~ [nadisvid](users/113/1138852626183846-facebook)<sup>15</sup>
 
 
-_08.11.2016 14:21:22_
+_10.11.2016 16:23:09_
