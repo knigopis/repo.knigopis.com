@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wroommy](users/293/293539810-twitter)<sup>0</sup> 
 [PafosG](users/523/523112-vkontakte)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>136</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>8</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [Hoplit](users/101/101851419910586702007-google)<sup>0</sup> 
-[LbICbIY](users/760/760270-vkontakte)<sup>0</sup> 
 
 
-_11.11.2016 10:27:22_
+_11.11.2016 18:07:55_
