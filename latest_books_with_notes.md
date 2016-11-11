@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
 * Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
 * Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
 * Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
 * Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
-* Три товарища ~ [nadisvid](users/113/1138852626183846-facebook)<sup>16</sup>
 
 
-_10.11.2016 16:23:09_
+_11.11.2016 03:36:59_

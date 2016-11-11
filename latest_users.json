@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 136,
+        "updatedAt": "2016-11-11 03:36:59"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "creepy_g",
         "booksCount": 114,
         "updatedAt": "2016-10-31 01:19:09"
-    },
-    "710705325745026-facebook": {
-        "id": "710705325745026-facebook",
-        "nickname": "askyou2focuson",
-        "booksCount": 0,
-        "updatedAt": "2016-10-31 00:35:43"
     }
 }
