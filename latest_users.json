@@ -1,4 +1,10 @@
 {
+    "293539810-twitter": {
+        "id": "293539810-twitter",
+        "nickname": "wroommy",
+        "booksCount": 0,
+        "updatedAt": "2016-11-11 18:07:55"
+    },
     "523112-vkontakte": {
         "id": "523112-vkontakte",
         "nickname": "PafosG",
@@ -172,11 +178,5 @@
         "nickname": "Hoplit",
         "booksCount": 0,
         "updatedAt": "2016-11-02 12:59:05"
-    },
-    "760270-vkontakte": {
-        "id": "760270-vkontakte",
-        "nickname": "LbICbIY",
-        "booksCount": 0,
-        "updatedAt": "2016-10-31 21:27:15"
     }
 }
