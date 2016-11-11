@@ -1,4 +1,10 @@
 {
+    "36183327-vkontakte": {
+        "id": "36183327-vkontakte",
+        "nickname": "yanot",
+        "booksCount": 0,
+        "updatedAt": "2016-11-11 19:40:42"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "genrih59",
         "booksCount": 13,
         "updatedAt": "2016-11-02 13:04:41"
-    },
-    "101851419910586702007-google": {
-        "id": "101851419910586702007-google",
-        "nickname": "Hoplit",
-        "booksCount": 0,
-        "updatedAt": "2016-11-02 12:59:05"
     }
 }
