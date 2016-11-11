@@ -1,4 +1,16 @@
 {
+    "hpfK-tZFAE": {
+        "id": "hpfK-tZFAE",
+        "title": "Вероника решает умереть",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2016-11-11 19:02:00",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 116
+        }
+    },
     "2AZgZ7P2MG": {
         "id": "2AZgZ7P2MG",
         "title": "Хадур",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 100
-        }
-    },
-    "lzTB01rmKR": {
-        "id": "lzTB01rmKR",
-        "title": "Звезды сияют с небес",
-        "author": "Шелдон, Сидни",
-        "notes": "",
-        "createdAt": "2016-11-07 18:10:53",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 99
         }
     }
 }

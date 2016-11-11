@@ -1,4 +1,4 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>115</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>116</sup>
 ---
 
 ## 2016
@@ -324,6 +324,10 @@
 
 
 ## 2005
+
+### Вероника решает умереть
+Пауло Коэльо
+
 
 ### Гарри Поттер и Кубок огня
 Роулинг, Джоан

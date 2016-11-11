@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 116,
+        "updatedAt": "2016-11-11 19:02:00"
+    },
     "293539810-twitter": {
         "id": "293539810-twitter",
         "nickname": "wroommy",
@@ -22,12 +28,6 @@
         "nickname": "Беска",
         "booksCount": 8,
         "updatedAt": "2016-11-10 16:23:09"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 115,
-        "updatedAt": "2016-11-10 13:21:52"
     },
     "323158782-vkontakte": {
         "id": "323158782-vkontakte",
