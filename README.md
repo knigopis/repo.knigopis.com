@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yanot](users/361/36183327-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>117</sup> 
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
 [PafosG](users/523/523112-vkontakte)<sup>10</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
-[Hoplit](users/101/101851419910586702007-google)<sup>0</sup> 
 
 
-_11.11.2016 19:02:59_
+_11.11.2016 19:40:42_
