@@ -1,4 +1,10 @@
 {
+    "523112-vkontakte": {
+        "id": "523112-vkontakte",
+        "nickname": "PafosG",
+        "booksCount": 10,
+        "updatedAt": "2016-11-11 10:27:22"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "LbICbIY",
         "booksCount": 0,
         "updatedAt": "2016-10-31 21:27:15"
-    },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 114,
-        "updatedAt": "2016-10-31 01:19:09"
     }
 }

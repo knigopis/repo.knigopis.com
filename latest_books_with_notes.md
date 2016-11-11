@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
 * Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
 * Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
 * Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
@@ -30,7 +31,6 @@
 * Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 * Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
 * Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
-* Мартин Иден ~ [nadisvid](users/113/1138852626183846-facebook)<sup>17</sup>
 
 
-_11.11.2016 03:36:59_
+_11.11.2016 10:27:22_
