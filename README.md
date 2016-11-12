@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dklimov1993](users/101/101464140-vkontakte)<sup>0</sup> 
+[dklimov1993](users/101/101464140-vkontakte)<sup>1</sup> 
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>117</sup> 
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 
 
-_12.11.2016 03:29:19_
+_12.11.2016 03:31:58_
