@@ -1,4 +1,10 @@
 {
+    "19838913-vkontakte": {
+        "id": "19838913-vkontakte",
+        "nickname": "elena_shirko",
+        "booksCount": 0,
+        "updatedAt": "2016-11-12 20:54:59"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "De_Light23",
         "booksCount": 0,
         "updatedAt": "2016-11-03 13:05:16"
-    },
-    "152183909-vkontakte": {
-        "id": "152183909-vkontakte",
-        "nickname": "d.molokoedova",
-        "booksCount": 1,
-        "updatedAt": "2016-11-03 05:47:59"
     }
 }
