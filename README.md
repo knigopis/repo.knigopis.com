@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elena_shirko](users/198/19838913-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>61</sup> 
 [dklimov1993](users/101/101464140-vkontakte)<sup>2</sup> 
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>467</sup> 
 [Fatal1ty](users/101/101175149321186839533-google)<sup>0</sup> 
 [De_Light23](users/De_/De_Light23-lastfm)<sup>0</sup> 
-[d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 
 
-_12.11.2016 07:27:16_
+_12.11.2016 20:55:00_
