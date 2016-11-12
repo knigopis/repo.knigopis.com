@@ -1,4 +1,10 @@
 {
+    "100001858801764-facebook": {
+        "id": "100001858801764-facebook",
+        "nickname": "shirko.elena",
+        "booksCount": 7,
+        "updatedAt": "2016-11-12 21:04:14"
+    },
     "19838913-vkontakte": {
         "id": "19838913-vkontakte",
         "nickname": "elena_shirko",
@@ -172,11 +178,5 @@
         "nickname": "Fatal1ty",
         "booksCount": 0,
         "updatedAt": "2016-11-03 21:24:01"
-    },
-    "De_Light23-lastfm": {
-        "id": "De_Light23-lastfm",
-        "nickname": "De_Light23",
-        "booksCount": 0,
-        "updatedAt": "2016-11-03 13:05:16"
     }
 }

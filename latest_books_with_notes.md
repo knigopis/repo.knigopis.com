@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
 * Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
 * Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
 * Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
 * Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 * Братья Карамазовы ~ [freezy_bi](users/870/87042697-vkontakte)<sup>16</sup>
-* Глазами клоуна ~ [nadisvid](users/113/1138852626183846-facebook)<sup>18</sup>
 
 
-_11.11.2016 10:27:22_
+_12.11.2016 21:04:14_
