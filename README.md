@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>61</sup> 
 [dklimov1993](users/101/101464140-vkontakte)<sup>2</sup> 
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>117</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
 [InaryD](users/562/56228374-vkontakte)<sup>39</sup> 
 [Mocca](users/116/116434214281608690175-google)<sup>2</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [d.molokoedova](users/152/152183909-vkontakte)<sup>1</sup> 
 
 
-_12.11.2016 03:33:23_
+_12.11.2016 07:27:16_

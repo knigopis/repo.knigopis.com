@@ -1,4 +1,16 @@
 {
+    "h-R3DhaTW8": {
+        "id": "h-R3DhaTW8",
+        "title": "Белый пароход",
+        "author": "Айтматов Чингиз",
+        "notes": "",
+        "createdAt": "2016-11-12 07:27:16",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 61
+        }
+    },
     "2i5XuA0j8e": {
         "id": "2i5XuA0j8e",
         "title": "Последний континент",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 104
-        }
-    },
-    "UDaiqRbhaz": {
-        "id": "UDaiqRbhaz",
-        "title": "Дикие персы",
-        "author": "Панов, Вадим Юрьевич",
-        "notes": "",
-        "createdAt": "2016-11-07 18:15:24",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 103
         }
     }
 }
