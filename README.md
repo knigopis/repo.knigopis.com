@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup> 
 [elena_shirko](users/198/19838913-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
 [pzyryanov1](users/102/102383933923761177461-google)<sup>2</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>467</sup> 
 
 
-_13.11.2016 10:08:59_
+_13.11.2016 11:50:16_
