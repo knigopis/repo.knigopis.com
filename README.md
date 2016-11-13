@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>118</sup> 
 [Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>61</sup> 
 [dklimov1993](users/101/101464140-vkontakte)<sup>2</sup> 
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>117</sup> 
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
 [PafosG](users/523/523112-vkontakte)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>136</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
 
 
-_13.11.2016 11:50:16_
+_13.11.2016 14:27:11_

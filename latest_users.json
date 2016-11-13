@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 118,
+        "updatedAt": "2016-11-13 14:27:11"
+    },
     "100001945876450-facebook": {
         "id": "100001945876450-facebook",
         "nickname": "Shatoman",
@@ -40,12 +46,6 @@
         "nickname": "yanot",
         "booksCount": 0,
         "updatedAt": "2016-11-11 19:40:42"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 117,
-        "updatedAt": "2016-11-11 19:02:59"
     },
     "293539810-twitter": {
         "id": "293539810-twitter",
