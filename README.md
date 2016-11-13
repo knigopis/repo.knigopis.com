@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>468</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>118</sup> 
 [Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [insolia](users/116/116957517381490004982-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
 [pzyryanov1](users/102/102383933923761177461-google)<sup>2</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>43</sup> 
 
 
-_13.11.2016 14:27:11_
+_13.11.2016 18:33:46_
