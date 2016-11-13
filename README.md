@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[uckpa_msk](users/108/108915302193455883885-google)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>468</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>118</sup> 
 [Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
 [insolia](users/116/116957517381490004982-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
-[pzyryanov1](users/102/102383933923761177461-google)<sup>2</sup> 
 
 
-_13.11.2016 18:33:46_
+_13.11.2016 19:36:27_
