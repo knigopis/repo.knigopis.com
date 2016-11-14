@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[alexandra_ischenko](users/123/12370958-vkontakte)<sup>0</sup> 
+[alexandra_ischenko](users/123/12370958-vkontakte)<sup>1</sup> 
 [nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 [uckpa_msk](users/108/108915302193455883885-google)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>468</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
 
 
-_14.11.2016 07:55:58_
+_14.11.2016 07:56:44_

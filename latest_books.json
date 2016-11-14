@@ -1,4 +1,16 @@
 {
+    "OGmN8unSqV": {
+        "id": "OGmN8unSqV",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2016-11-14 07:56:44",
+        "user": {
+            "id": "12370958-vkontakte",
+            "nickname": "alexandra_ischenko",
+            "booksCount": 1
+        }
+    },
     "FxUAw27sZC": {
         "id": "FxUAw27sZC",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 110
-        }
-    },
-    "e98T1T9_Gw": {
-        "id": "e98T1T9_Gw",
-        "title": "Франкенштейн",
-        "author": "Шелли, Мэри",
-        "notes": "",
-        "createdAt": "2016-11-07 18:58:14",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 109
         }
     }
 }
