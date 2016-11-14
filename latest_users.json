@@ -1,4 +1,10 @@
 {
+    "10205096723636918-facebook": {
+        "id": "10205096723636918-facebook",
+        "nickname": "Igor",
+        "booksCount": 0,
+        "updatedAt": "2016-11-14 09:40:42"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Aleksandr",
         "booksCount": 6,
         "updatedAt": "2016-11-06 06:21:31"
-    },
-    "2248110099-instagram": {
-        "id": "2248110099-instagram",
-        "nickname": "_kicune_",
-        "booksCount": 0,
-        "updatedAt": "2016-11-05 22:17:39"
     }
 }
