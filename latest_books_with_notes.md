@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Корона мечей ~ [Garka](users/115/115753719718250012620-google)<sup>119</sup>
 * Скотный двор ~ [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup>
 * Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
 * Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Зулейха открывает глаза ~ [foksik](users/173/1734575-vkontakte)<sup>111</sup>
 * Джордж Оруелл ~ [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup>
 * Повелитель мух. ~ [Ангелина](users/837/83788782-vkontakte)<sup>40</sup>
-* Источник ~ [freezy_bi](users/870/87042697-vkontakte)<sup>17</sup>
 
 
-_12.11.2016 21:14:12_
+_14.11.2016 08:19:49_
