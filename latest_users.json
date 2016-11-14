@@ -1,4 +1,10 @@
 {
+    "12370958-vkontakte": {
+        "id": "12370958-vkontakte",
+        "nickname": "alexandra_ischenko",
+        "booksCount": 0,
+        "updatedAt": "2016-11-14 07:55:56"
+    },
     "21269267-vkontakte": {
         "id": "21269267-vkontakte",
         "nickname": "nelsoneax",
@@ -172,11 +178,5 @@
         "nickname": "_kicune_",
         "booksCount": 0,
         "updatedAt": "2016-11-05 22:17:39"
-    },
-    "116957517381490004982-google": {
-        "id": "116957517381490004982-google",
-        "nickname": "insolia",
-        "booksCount": 1,
-        "updatedAt": "2016-11-05 17:03:46"
     }
 }
