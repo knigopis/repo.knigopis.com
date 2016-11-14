@@ -1,4 +1,10 @@
 {
+    "21269267-vkontakte": {
+        "id": "21269267-vkontakte",
+        "nickname": "nelsoneax",
+        "booksCount": 0,
+        "updatedAt": "2016-11-14 03:55:36"
+    },
     "108915302193455883885-google": {
         "id": "108915302193455883885-google",
         "nickname": "uckpa_msk",
@@ -172,11 +178,5 @@
         "nickname": "insolia",
         "booksCount": 1,
         "updatedAt": "2016-11-05 17:03:46"
-    },
-    "1034497246671899-facebook": {
-        "id": "1034497246671899-facebook",
-        "nickname": "Гандзя",
-        "booksCount": 5,
-        "updatedAt": "2016-11-05 13:50:12"
     }
 }
