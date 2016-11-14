@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 [uckpa_msk](users/108/108915302193455883885-google)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>468</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>118</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aleksandr](users/123/12375097-vkontakte)<sup>6</sup> 
 [_kicune_](users/224/2248110099-instagram)<sup>0</sup> 
 [insolia](users/116/116957517381490004982-google)<sup>1</sup> 
-[Гандзя](users/103/1034497246671899-facebook)<sup>5</sup> 
 
 
-_13.11.2016 19:36:47_
+_14.11.2016 03:55:38_
