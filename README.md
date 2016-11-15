@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[widels](users/137/13735493-vkontakte)<sup>0</sup> 
 [erterkgewrm](users/364/364199128-vkontakte)<sup>0</sup> 
 [maaruusik](users/758/758259897091952640-twitter)<sup>0</sup> 
 [vla2337](users/131/13120553-yandex)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>22</sup> 
 
 
-_15.11.2016 19:12:37_
+_15.11.2016 21:54:26_
