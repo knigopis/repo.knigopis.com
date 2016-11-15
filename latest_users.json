@@ -1,4 +1,10 @@
 {
+    "364199128-vkontakte": {
+        "id": "364199128-vkontakte",
+        "nickname": "erterkgewrm",
+        "booksCount": 0,
+        "updatedAt": "2016-11-15 19:12:36"
+    },
     "758259897091952640-twitter": {
         "id": "758259897091952640-twitter",
         "nickname": "maaruusik",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 22,
         "updatedAt": "2016-11-06 21:07:37"
-    },
-    "56228374-vkontakte": {
-        "id": "56228374-vkontakte",
-        "nickname": "InaryD",
-        "booksCount": 39,
-        "updatedAt": "2016-11-06 18:34:24"
     }
 }
