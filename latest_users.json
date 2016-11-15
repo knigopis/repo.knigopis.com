@@ -1,4 +1,10 @@
 {
+    "758259897091952640-twitter": {
+        "id": "758259897091952640-twitter",
+        "nickname": "maaruusik",
+        "booksCount": 0,
+        "updatedAt": "2016-11-15 16:55:36"
+    },
     "13120553-yandex": {
         "id": "13120553-yandex",
         "nickname": "vla2337",
@@ -172,11 +178,5 @@
         "nickname": "InaryD",
         "booksCount": 39,
         "updatedAt": "2016-11-06 18:34:24"
-    },
-    "116434214281608690175-google": {
-        "id": "116434214281608690175-google",
-        "nickname": "Mocca",
-        "booksCount": 2,
-        "updatedAt": "2016-11-06 13:48:32"
     }
 }
