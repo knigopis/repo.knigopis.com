@@ -1,4 +1,10 @@
 {
+    "13120553-yandex": {
+        "id": "13120553-yandex",
+        "nickname": "vla2337",
+        "booksCount": 0,
+        "updatedAt": "2016-11-15 16:23:12"
+    },
     "10205096723636918-facebook": {
         "id": "10205096723636918-facebook",
         "nickname": "Igor",
@@ -172,11 +178,5 @@
         "nickname": "Mocca",
         "booksCount": 2,
         "updatedAt": "2016-11-06 13:48:32"
-    },
-    "12375097-vkontakte": {
-        "id": "12375097-vkontakte",
-        "nickname": "Aleksandr",
-        "booksCount": 6,
-        "updatedAt": "2016-11-06 06:21:31"
     }
 }
