@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vla2337](users/131/13120553-yandex)<sup>1</sup> 
+[vla2337](users/131/13120553-yandex)<sup>2</sup> 
 [Igor](users/102/10205096723636918-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>119</sup> 
 [alexandra_ischenko](users/123/12370958-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mocca](users/116/116434214281608690175-google)<sup>2</sup> 
 
 
-_15.11.2016 16:25:52_
+_15.11.2016 16:27:23_

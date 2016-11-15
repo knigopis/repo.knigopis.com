@@ -1,4 +1,16 @@
 {
+    "yNzJapWTYY": {
+        "id": "yNzJapWTYY",
+        "title": "Файролл",
+        "author": "Андрей Васильев",
+        "notes": "",
+        "createdAt": "2016-11-15 16:27:23",
+        "user": {
+            "id": "13120553-yandex",
+            "nickname": "vla2337",
+            "booksCount": 2
+        }
+    },
     "iCO-up3nil": {
         "id": "iCO-up3nil",
         "title": "Ведун",
@@ -345,18 +357,6 @@
             "id": "12525258-vkontakte",
             "nickname": "w4rd3ll",
             "booksCount": 2
-        }
-    },
-    "bI5EtU1BCb": {
-        "id": "bI5EtU1BCb",
-        "title": "Па-де-труа шеф-повара, официанта и клиента",
-        "author": "Роберт Шекли",
-        "notes": "",
-        "createdAt": "2016-11-08 04:40:54",
-        "user": {
-            "id": "12525258-vkontakte",
-            "nickname": "w4rd3ll",
-            "booksCount": 1
         }
     }
 }
