@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 120,
+        "updatedAt": "2016-11-16 17:38:38"
+    },
     "105567021460981425783-google": {
         "id": "105567021460981425783-google",
         "nickname": "DRAKO_06",
@@ -46,12 +52,6 @@
         "nickname": "Igor",
         "booksCount": 0,
         "updatedAt": "2016-11-14 09:40:42"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 119,
-        "updatedAt": "2016-11-14 08:19:49"
     },
     "12370958-vkontakte": {
         "id": "12370958-vkontakte",
