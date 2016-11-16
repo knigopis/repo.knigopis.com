@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
 * Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
 * Корона мечей ~ [Garka](users/115/115753719718250012620-google)<sup>119</sup>
 * Скотный двор ~ [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup>
@@ -30,7 +31,6 @@
 * СТИКС STIKS Человеческий Улей + Человек с котом ~ [romann](users/102/10205442182733690-facebook)<sup>6</sup>
 * Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
 * Зулейха открывает глаза ~ [foksik](users/173/1734575-vkontakte)<sup>111</sup>
-* Джордж Оруелл ~ [freezy_bi](users/870/87042697-vkontakte)<sup>18</sup>
 
 
-_16.11.2016 17:38:38_
+_16.11.2016 17:59:50_
