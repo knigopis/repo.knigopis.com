@@ -1,4 +1,10 @@
 {
+    "11026186-vkontakte": {
+        "id": "11026186-vkontakte",
+        "nickname": "britakin",
+        "booksCount": 0,
+        "updatedAt": "2016-11-16 13:51:30"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 33,
         "updatedAt": "2016-11-08 02:28:00"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 83,
-        "updatedAt": "2016-11-07 12:44:27"
     }
 }
