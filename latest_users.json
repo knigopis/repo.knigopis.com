@@ -1,4 +1,10 @@
 {
+    "10211447802059029-facebook": {
+        "id": "10211447802059029-facebook",
+        "nickname": "Тата",
+        "booksCount": 0,
+        "updatedAt": "2016-11-16 18:21:22"
+    },
     "12375097-vkontakte": {
         "id": "12375097-vkontakte",
         "nickname": "Aleksandr",
@@ -172,11 +178,5 @@
         "nickname": "irysyk",
         "booksCount": 1,
         "updatedAt": "2016-11-08 20:40:34"
-    },
-    "1138852626183846-facebook": {
-        "id": "1138852626183846-facebook",
-        "nickname": "nadisvid",
-        "booksCount": 22,
-        "updatedAt": "2016-11-08 14:21:22"
     }
 }
