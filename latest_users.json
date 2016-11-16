@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 14,
+        "updatedAt": "2016-11-16 02:40:29"
+    },
     "13735493-vkontakte": {
         "id": "13735493-vkontakte",
         "nickname": "widels",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 83,
         "updatedAt": "2016-11-07 12:44:27"
-    },
-    "leczQ3Eya3-linkedin": {
-        "id": "leczQ3Eya3-linkedin",
-        "nickname": "Ник Литвинов",
-        "booksCount": 81,
-        "updatedAt": "2016-11-07 10:34:41"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "8oBjbiGRm9": {
+        "id": "8oBjbiGRm9",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2016-11-16 02:40:29",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 14
+        }
+    },
     "yNzJapWTYY": {
         "id": "yNzJapWTYY",
         "title": "Файролл",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 111
-        }
-    },
-    "PR38-TSTOG": {
-        "id": "PR38-TSTOG",
-        "title": "26",
-        "author": "256",
-        "notes": "",
-        "createdAt": "2016-11-08 04:53:22",
-        "user": {
-            "id": "12525258-vkontakte",
-            "nickname": "w4rd3ll",
-            "booksCount": 2
         }
     }
 }
