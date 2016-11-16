@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
 [britakin](users/110/11026186-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [irysyk](users/128/1283337448364336-facebook)<sup>1</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup> 
 [w4rd3ll](users/125/12525258-vkontakte)<sup>1</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>33</sup> 
 
 
-_16.11.2016 13:51:32_
+_16.11.2016 14:01:21_
