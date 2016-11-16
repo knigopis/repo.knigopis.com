@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
+[genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
 [erterkgewrm](users/364/364199128-vkontakte)<sup>0</sup> 
 [maaruusik](users/758/758259897091952640-twitter)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>83</sup> 
 
 
-_16.11.2016 02:40:29_
+_16.11.2016 02:40:56_
