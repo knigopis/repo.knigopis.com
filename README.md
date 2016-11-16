@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>120</sup> 
 [DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Valeria Ki](users/390/390680348-vkontakte)<sup>1</sup> 
 [AFedorov](users/100/1005190986269853-facebook)<sup>0</sup> 
 [irysyk](users/128/1283337448364336-facebook)<sup>1</sup> 
-[nadisvid](users/113/1138852626183846-facebook)<sup>22</sup> 
 
 
-_16.11.2016 17:59:50_
+_16.11.2016 18:21:23_
