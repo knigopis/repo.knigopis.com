@@ -1,11 +1,7 @@
-# List of books read by [genrih59](https://www.facebook.com/app_scoped_user_id/872361436199401/)<sup>14</sup>
+# List of books read by [genrih59](https://www.facebook.com/app_scoped_user_id/872361436199401/)<sup>13</sup>
 ---
 
 ## 2016
-
-### Хлеб с ветчиной
-Чарльз Буковски
-
 
 ### Преступление и наказание
 Федор Михайлович Достоевский
