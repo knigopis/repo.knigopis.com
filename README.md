@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gfhsd](users/208/208981897-vkontakte)<sup>0</sup> 
 [alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>8</sup> 
 [Nutro_19](users/323/323158782-vkontakte)<sup>0</sup> 
 [Valeria Ki](users/390/390680348-vkontakte)<sup>1</sup> 
-[AFedorov](users/100/1005190986269853-facebook)<sup>0</sup> 
 
 
-_17.11.2016 06:49:49_
+_17.11.2016 15:28:18_
