@@ -1,4 +1,10 @@
 {
+    "208981897-vkontakte": {
+        "id": "208981897-vkontakte",
+        "nickname": "gfhsd",
+        "booksCount": 0,
+        "updatedAt": "2016-11-17 15:28:16"
+    },
     "1651629-vkontakte": {
         "id": "1651629-vkontakte",
         "nickname": "alex_anisimov",
@@ -172,11 +178,5 @@
         "nickname": "Valeria Ki",
         "booksCount": 1,
         "updatedAt": "2016-11-09 13:33:44"
-    },
-    "1005190986269853-facebook": {
-        "id": "1005190986269853-facebook",
-        "nickname": "AFedorov",
-        "booksCount": 0,
-        "updatedAt": "2016-11-09 13:01:19"
     }
 }
