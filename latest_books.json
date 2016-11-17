@@ -1,4 +1,16 @@
 {
+    "1RZiUnjDaV": {
+        "id": "1RZiUnjDaV",
+        "title": "Легенды и мифы Древней Греции",
+        "author": "Н.Кун",
+        "notes": "",
+        "createdAt": "2016-11-17 15:28:59",
+        "user": {
+            "id": "208981897-vkontakte",
+            "nickname": "gfhsd",
+            "booksCount": 1
+        }
+    },
     "U1EBf9OYqh": {
         "id": "U1EBf9OYqh",
         "title": "Мифический человеко-месяц",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 114
-        }
-    },
-    "HMSTY9FvjK": {
-        "id": "HMSTY9FvjK",
-        "title": "Страна тумана",
-        "author": "Дойл, Артур Конан",
-        "notes": "",
-        "createdAt": "2016-11-08 06:54:39",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 113
         }
     }
 }
