@@ -1,4 +1,16 @@
 {
+    "8QWyz9dTbN": {
+        "id": "8QWyz9dTbN",
+        "title": "Старик и море",
+        "author": "Хемингуэй",
+        "notes": "",
+        "createdAt": "2016-11-18 10:51:35",
+        "user": {
+            "id": "968870936592182-facebook",
+            "nickname": "kosarev_kniga",
+            "booksCount": 1
+        }
+    },
     "ROq18sIR7t": {
         "id": "ROq18sIR7t",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 19
-        }
-    },
-    "dPXi2I5zUo": {
-        "id": "dPXi2I5zUo",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2016-11-08 07:02:10",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 114
         }
     }
 }
