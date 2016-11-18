@@ -1,4 +1,10 @@
 {
+    "968870936592182-facebook": {
+        "id": "968870936592182-facebook",
+        "nickname": "kosarev_kniga",
+        "booksCount": 0,
+        "updatedAt": "2016-11-18 10:46:01"
+    },
     "154008627-vkontakte": {
         "id": "154008627-vkontakte",
         "nickname": "alinoshka200",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 136,
         "updatedAt": "2016-11-11 03:36:59"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 8,
-        "updatedAt": "2016-11-10 16:23:09"
     }
 }
