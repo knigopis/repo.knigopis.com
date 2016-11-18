@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kosarev_kniga](users/968/968870936592182-facebook)<sup>0</sup> 
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
 [Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
 [PafosG](users/523/523112-vkontakte)<sup>10</sup> 
 [lucius](users/838/83820536-yandex)<sup>136</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>8</sup> 
 
 
-_18.11.2016 06:21:39_
+_18.11.2016 10:46:02_
