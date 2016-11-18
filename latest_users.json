@@ -1,4 +1,10 @@
 {
+    "105925486665844787495-googleplus": {
+        "id": "105925486665844787495-googleplus",
+        "nickname": "Iysbaera",
+        "booksCount": 0,
+        "updatedAt": "2016-11-18 01:11:41"
+    },
     "208981897-vkontakte": {
         "id": "208981897-vkontakte",
         "nickname": "gfhsd",
@@ -172,11 +178,5 @@
         "nickname": "Nutro_19",
         "booksCount": 0,
         "updatedAt": "2016-11-09 13:35:32"
-    },
-    "390680348-vkontakte": {
-        "id": "390680348-vkontakte",
-        "nickname": "Valeria Ki",
-        "booksCount": 1,
-        "updatedAt": "2016-11-09 13:33:44"
     }
 }
