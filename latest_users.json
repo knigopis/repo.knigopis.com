@@ -1,4 +1,10 @@
 {
+    "154008627-vkontakte": {
+        "id": "154008627-vkontakte",
+        "nickname": "alinoshka200",
+        "booksCount": 0,
+        "updatedAt": "2016-11-18 06:21:37"
+    },
     "105925486665844787495-googleplus": {
         "id": "105925486665844787495-googleplus",
         "nickname": "Iysbaera",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 8,
         "updatedAt": "2016-11-10 16:23:09"
-    },
-    "323158782-vkontakte": {
-        "id": "323158782-vkontakte",
-        "nickname": "Nutro_19",
-        "booksCount": 0,
-        "updatedAt": "2016-11-09 13:35:32"
     }
 }
