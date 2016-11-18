@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Iysbaera](users/105/105925486665844787495-googleplus)<sup>0</sup> 
+[Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
 [alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nutro_19](users/323/323158782-vkontakte)<sup>0</sup> 
 
 
-_18.11.2016 01:11:42_
+_18.11.2016 01:15:23_
