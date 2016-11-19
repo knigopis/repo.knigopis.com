@@ -1,4 +1,16 @@
 {
+    "lATEaFYKg2": {
+        "id": "lATEaFYKg2",
+        "title": "Фантастические твари и где они обитают",
+        "author": "Джаон Ролуинг",
+        "notes": "",
+        "createdAt": "2016-11-19 19:26:24",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 471
+        }
+    },
     "4TAGvVGGMZ": {
         "id": "4TAGvVGGMZ",
         "title": "Пульс",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 22
-        }
-    },
-    "NZWsWLFobe": {
-        "id": "NZWsWLFobe",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "Любимое произведение Баха! Перечитывала не раз! Советую всегда тем, кто любит книги! Считаю, что обязательна к прочтению для каждого...",
-        "createdAt": "2016-11-08 14:11:53",
-        "user": {
-            "id": "1138852626183846-facebook",
-            "nickname": "nadisvid",
-            "booksCount": 21
         }
     }
 }

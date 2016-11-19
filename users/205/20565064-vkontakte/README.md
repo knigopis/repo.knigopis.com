@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>470</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>471</sup>
 ---
 
 ## 2016
+
+### Фантастические твари и где они обитают
+Джаон Ролуинг
+> [2016-11] 
+
 
 ### Пульс
 Джулиан Барнс
