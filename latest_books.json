@@ -1,4 +1,16 @@
 {
+    "4TAGvVGGMZ": {
+        "id": "4TAGvVGGMZ",
+        "title": "Пульс",
+        "author": "Джулиан Барнс",
+        "notes": "",
+        "createdAt": "2016-11-19 14:02:14",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 470
+        }
+    },
     "YTKqqhNOcv": {
         "id": "YTKqqhNOcv",
         "title": "А лифт спускался в преисподню",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 21
-        }
-    },
-    "Oo95oLA4pP": {
-        "id": "Oo95oLA4pP",
-        "title": "Крестный отец",
-        "author": "Марио Пьюзо",
-        "notes": "Прочла на одном дыхании, книга меня увлекла очень. Сериал не смотрела.",
-        "createdAt": "2016-11-08 14:08:24",
-        "user": {
-            "id": "1138852626183846-facebook",
-            "nickname": "nadisvid",
-            "booksCount": 20
         }
     }
 }
