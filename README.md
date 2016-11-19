@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sudina.alexandra](users/209/20955609-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>470</sup> 
 [kosarev_kniga](users/968/968870936592182-facebook)<sup>1</sup> 
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
 [PafosG](users/523/523112-vkontakte)<sup>10</sup> 
-[lucius](users/838/83820536-yandex)<sup>136</sup> 
 
 
-_19.11.2016 14:02:14_
+_19.11.2016 15:33:16_
