@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 469,
+        "updatedAt": "2016-11-19 14:01:59"
+    },
     "968870936592182-facebook": {
         "id": "968870936592182-facebook",
         "nickname": "kosarev_kniga",
@@ -112,12 +118,6 @@
         "nickname": "uckpa_msk",
         "booksCount": 1,
         "updatedAt": "2016-11-13 19:36:47"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 468,
-        "updatedAt": "2016-11-13 18:33:46"
     },
     "100001945876450-facebook": {
         "id": "100001945876450-facebook",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>469</sup> 
 [kosarev_kniga](users/968/968870936592182-facebook)<sup>1</sup> 
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
 [Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandra_ischenko](users/123/12370958-vkontakte)<sup>1</sup> 
 [nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 [uckpa_msk](users/108/108915302193455883885-google)<sup>1</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>468</sup> 
 [Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
 [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>136</sup> 
 
 
-_18.11.2016 10:51:35_
+_19.11.2016 14:01:59_
