@@ -1,4 +1,10 @@
 {
+    "82626127-vkontakte": {
+        "id": "82626127-vkontakte",
+        "nickname": "drelariel",
+        "booksCount": 0,
+        "updatedAt": "2016-11-20 19:26:29"
+    },
     "114422314416910012812-googleplus": {
         "id": "114422314416910012812-googleplus",
         "nickname": "House_of_Memories",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 61,
         "updatedAt": "2016-11-12 07:27:16"
-    },
-    "101464140-vkontakte": {
-        "id": "101464140-vkontakte",
-        "nickname": "dklimov1993",
-        "booksCount": 2,
-        "updatedAt": "2016-11-12 03:33:23"
     }
 }
