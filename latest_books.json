@@ -1,4 +1,16 @@
 {
+    "3W7s3s9RkO": {
+        "id": "3W7s3s9RkO",
+        "title": "Волшебная гора",
+        "author": "Томас Манн",
+        "notes": "",
+        "createdAt": "2016-11-20 18:59:09",
+        "user": {
+            "id": "364511493-vkontakte",
+            "nickname": "House_of_Memories",
+            "booksCount": 1
+        }
+    },
     "EW1RHkG2Pg": {
         "id": "EW1RHkG2Pg",
         "title": "О дивный новый мир",
@@ -344,18 +356,6 @@
         "user": {
             "id": "390680348-vkontakte",
             "nickname": "Valeria Ki",
-            "booksCount": 1
-        }
-    },
-    "rFKTDU1JOh": {
-        "id": "rFKTDU1JOh",
-        "title": "Ночь нежна",
-        "author": "Френсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2016-11-08 20:40:34",
-        "user": {
-            "id": "1283337448364336-facebook",
-            "nickname": "irysyk",
             "booksCount": 1
         }
     }
