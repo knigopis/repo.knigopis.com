@@ -1,4 +1,10 @@
 {
+    "114422314416910012812-googleplus": {
+        "id": "114422314416910012812-googleplus",
+        "nickname": "House_of_Memories",
+        "booksCount": 0,
+        "updatedAt": "2016-11-20 19:02:28"
+    },
     "364511493-vkontakte": {
         "id": "364511493-vkontakte",
         "nickname": "House_of_Memories",
@@ -172,11 +178,5 @@
         "nickname": "dklimov1993",
         "booksCount": 2,
         "updatedAt": "2016-11-12 03:33:23"
-    },
-    "36183327-vkontakte": {
-        "id": "36183327-vkontakte",
-        "nickname": "yanot",
-        "booksCount": 0,
-        "updatedAt": "2016-11-11 19:40:42"
     }
 }
