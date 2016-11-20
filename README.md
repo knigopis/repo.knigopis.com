@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[drelariel](users/826/82626127-vkontakte)<sup>0</sup> 
 [House_of_Memories](users/114/114422314416910012812-googleplus)<sup>0</sup> 
 [House_of_Memories](users/364/364511493-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>121</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup> 
 [elena_shirko](users/198/19838913-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>61</sup> 
-[dklimov1993](users/101/101464140-vkontakte)<sup>2</sup> 
 
 
-_20.11.2016 19:02:28_
+_20.11.2016 19:26:29_
