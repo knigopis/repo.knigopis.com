@@ -1,4 +1,10 @@
 {
+    "420363662-yandex": {
+        "id": "420363662-yandex",
+        "nickname": "I.Ivan72",
+        "booksCount": 0,
+        "updatedAt": "2016-11-20 05:29:59"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "wroommy",
         "booksCount": 0,
         "updatedAt": "2016-11-11 18:07:55"
-    },
-    "523112-vkontakte": {
-        "id": "523112-vkontakte",
-        "nickname": "PafosG",
-        "booksCount": 10,
-        "updatedAt": "2016-11-11 10:27:22"
     }
 }
