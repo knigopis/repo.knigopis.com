@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[House_of_Memories](users/364/364511493-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 [I.Ivan72](users/420/420363662-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>471</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>61</sup> 
 [dklimov1993](users/101/101464140-vkontakte)<sup>2</sup> 
 [yanot](users/361/36183327-vkontakte)<sup>0</sup> 
-[wroommy](users/293/293539810-twitter)<sup>0</sup> 
 
 
-_20.11.2016 14:48:47_
+_20.11.2016 18:58:30_
