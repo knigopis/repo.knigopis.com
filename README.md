@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 [I.Ivan72](users/420/420363662-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>471</sup> 
 [sudina.alexandra](users/209/20955609-vkontakte)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>120</sup> 
 [DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
 [britakin](users/110/11026186-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wroommy](users/293/293539810-twitter)<sup>0</sup> 
 
 
-_20.11.2016 05:30:01_
+_20.11.2016 14:48:47_

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>120</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>121</sup>
 ---
 
 ## 2016
+
+### О дивный новый мир
+Хаксли, Олдос
+> [2016-11-18] 
+
 
 ### Скотный двор
 Оруэлл, Джордж
