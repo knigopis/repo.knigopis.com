@@ -1,4 +1,10 @@
 {
+    "364511493-vkontakte": {
+        "id": "364511493-vkontakte",
+        "nickname": "House_of_Memories",
+        "booksCount": 0,
+        "updatedAt": "2016-11-20 18:58:30"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "yanot",
         "booksCount": 0,
         "updatedAt": "2016-11-11 19:40:42"
-    },
-    "293539810-twitter": {
-        "id": "293539810-twitter",
-        "nickname": "wroommy",
-        "booksCount": 0,
-        "updatedAt": "2016-11-11 18:07:55"
     }
 }
