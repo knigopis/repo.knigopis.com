@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[BARREL](users/178/178490314-vkontakte)<sup>0</sup> 
+[BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
 [Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
 [drelariel](users/826/82626127-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
 
 
-_21.11.2016 13:13:23_
+_21.11.2016 13:13:58_
