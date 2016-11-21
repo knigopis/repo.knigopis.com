@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BARREL](users/178/178490314-vkontakte)<sup>0</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
 [Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
 [drelariel](users/826/82626127-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [uckpa_msk](users/108/108915302193455883885-google)<sup>1</sup> 
 [Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
-[shirko.elena](users/100/100001858801764-facebook)<sup>8</sup> 
 
 
-_21.11.2016 12:57:13_
+_21.11.2016 13:13:23_
