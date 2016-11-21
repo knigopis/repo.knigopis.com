@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>471</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>472</sup>
 ---
 
 ## 2016
+
+### Острие бритвы
+Сомерсет Моэм
+> [2016-11] 
+
 
 ### Фантастические твари и где они обитают
 Джаон Ролуинг

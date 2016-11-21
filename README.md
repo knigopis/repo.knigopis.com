@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>472</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
 [Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [House_of_Memories](users/364/364511493-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 [I.Ivan72](users/420/420363662-yandex)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>471</sup> 
 [sudina.alexandra](users/209/20955609-vkontakte)<sup>0</sup> 
 [kosarev_kniga](users/968/968870936592182-facebook)<sup>1</sup> 
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [devushka_s_kosoy](users/191/191354034-vkontakte)<sup>0</sup> 
 
 
-_21.11.2016 13:13:58_
+_21.11.2016 17:09:33_
