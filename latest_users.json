@@ -1,4 +1,10 @@
 {
+    "178490314-vkontakte": {
+        "id": "178490314-vkontakte",
+        "nickname": "BARREL",
+        "booksCount": 0,
+        "updatedAt": "2016-11-21 13:13:22"
+    },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",
         "nickname": "pimanocci",
@@ -172,11 +178,5 @@
         "nickname": "devushka_s_kosoy",
         "booksCount": 0,
         "updatedAt": "2016-11-13 10:08:58"
-    },
-    "100001858801764-facebook": {
-        "id": "100001858801764-facebook",
-        "nickname": "shirko.elena",
-        "booksCount": 8,
-        "updatedAt": "2016-11-12 21:14:12"
     }
 }
