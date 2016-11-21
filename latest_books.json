@@ -1,4 +1,16 @@
 {
+    "cmoXHgUFvR": {
+        "id": "cmoXHgUFvR",
+        "title": "В интернете кто-то неправ!",
+        "author": "Ася Казанцева",
+        "notes": "Строгая рекомендация всем.",
+        "createdAt": "2016-11-21 12:57:13",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 12
+        }
+    },
     "gedRWPjtLZ": {
         "id": "gedRWPjtLZ",
         "title": "Исламское государство. Армия террора.",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 8
-        }
-    },
-    "14OPFSeOlK": {
-        "id": "14OPFSeOlK",
-        "title": "Учение дона Хуана",
-        "author": "Кастанеда, Карлос",
-        "notes": "",
-        "createdAt": "2016-11-10 13:21:52",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 115
         }
     }
 }

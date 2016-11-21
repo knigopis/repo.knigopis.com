@@ -1,4 +1,16 @@
 {
+    "cmoXHgUFvR": {
+        "id": "cmoXHgUFvR",
+        "title": "В интернете кто-то неправ!",
+        "author": "Ася Казанцева",
+        "notes": "Строгая рекомендация всем.",
+        "createdAt": "2016-11-21 12:57:13",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 12
+        }
+    },
     "U1EBf9OYqh": {
         "id": "U1EBf9OYqh",
         "title": "Мифический человеко-месяц",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 56
-        }
-    },
-    "giGfQm_0rl": {
-        "id": "giGfQm_0rl",
-        "title": "Зулейха открывает глаза",
-        "author": "Гузель Яхина",
-        "notes": "Отличная книга",
-        "createdAt": "2016-10-24 17:36:59",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 111
         }
     }
 }
