@@ -1,4 +1,10 @@
 {
+    "117124011531379579265-google": {
+        "id": "117124011531379579265-google",
+        "nickname": "pimanocci",
+        "booksCount": 11,
+        "updatedAt": "2016-11-21 12:53:59"
+    },
     "100001740103274-facebook": {
         "id": "100001740103274-facebook",
         "nickname": "Sancrite",
@@ -172,11 +178,5 @@
         "nickname": "shirko.elena",
         "booksCount": 8,
         "updatedAt": "2016-11-12 21:14:12"
-    },
-    "19838913-vkontakte": {
-        "id": "19838913-vkontakte",
-        "nickname": "elena_shirko",
-        "booksCount": 0,
-        "updatedAt": "2016-11-12 20:54:59"
     }
 }

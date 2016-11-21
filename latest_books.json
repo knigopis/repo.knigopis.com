@@ -1,4 +1,16 @@
 {
+    "gedRWPjtLZ": {
+        "id": "gedRWPjtLZ",
+        "title": "Исламское государство. Армия террора.",
+        "author": "Майкл Вайс",
+        "notes": "",
+        "createdAt": "2016-11-21 12:53:59",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 11
+        }
+    },
     "3W7s3s9RkO": {
         "id": "3W7s3s9RkO",
         "title": "Волшебная гора",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 115
-        }
-    },
-    "VFeRWJMs6f": {
-        "id": "VFeRWJMs6f",
-        "title": "Пьеса \"Гроза\"",
-        "author": "Александр Николаевич Островский",
-        "notes": "",
-        "createdAt": "2016-11-09 13:33:44",
-        "user": {
-            "id": "390680348-vkontakte",
-            "nickname": "Valeria Ki",
-            "booksCount": 1
         }
     }
 }
