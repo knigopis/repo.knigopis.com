@@ -1,4 +1,16 @@
 {
+    "8xbY3mcSzW": {
+        "id": "8xbY3mcSzW",
+        "title": "10 рассказов о Дживсе и Вустере",
+        "author": "Пэлем Грэнвил Вудхауз",
+        "notes": "Интересно, весело, но однообразно. Главный козырь Дживса - информация и психология. Стиль - хорош.",
+        "createdAt": "2016-11-22 14:11:07",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 10
+        }
+    },
     "tcokiFqRD8": {
         "id": "tcokiFqRD8",
         "title": "Тайный дневник Адриана Моула",
@@ -345,18 +357,6 @@
             "id": "101464140-vkontakte",
             "nickname": "dklimov1993",
             "booksCount": 1
-        }
-    },
-    "DtBZMSDoB2": {
-        "id": "DtBZMSDoB2",
-        "title": "Пятая гора",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2016-11-11 19:02:59",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 117
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
 * Тайный дневник Адриана Моула ~ [Беска](users/157/1577468-vkontakte)<sup>9</sup>
 * Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
 * Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
-* Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>25</sup>
 
 
-_22.11.2016 14:08:49_
+_22.11.2016 14:11:07_
