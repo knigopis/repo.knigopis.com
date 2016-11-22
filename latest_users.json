@@ -1,4 +1,10 @@
 {
+    "114189956128762241005-google": {
+        "id": "114189956128762241005-google",
+        "nickname": "АрГр",
+        "booksCount": 0,
+        "updatedAt": "2016-11-22 20:19:42"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "alexandra_ischenko",
         "booksCount": 1,
         "updatedAt": "2016-11-14 07:56:44"
-    },
-    "21269267-vkontakte": {
-        "id": "21269267-vkontakte",
-        "nickname": "nelsoneax",
-        "booksCount": 0,
-        "updatedAt": "2016-11-14 03:55:36"
     }
 }
