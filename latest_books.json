@@ -1,4 +1,16 @@
 {
+    "tcokiFqRD8": {
+        "id": "tcokiFqRD8",
+        "title": "Тайный дневник Адриана Моула",
+        "author": "Сью Таунсенд",
+        "notes": "Интересно, не пресно, но без особого фанатизма.",
+        "createdAt": "2016-11-22 14:08:49",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 9
+        }
+    },
     "fLQ-GFXlzK": {
         "id": "fLQ-GFXlzK",
         "title": "Код Да Винчи",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 117
-        }
-    },
-    "hpfK-tZFAE": {
-        "id": "hpfK-tZFAE",
-        "title": "Вероника решает умереть",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2016-11-11 19:02:00",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 116
         }
     }
 }

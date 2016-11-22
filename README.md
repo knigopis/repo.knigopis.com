@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайный дневник Адриана Моула ~ [Беска](users/157/1577468-vkontakte)<sup>9</sup>
+    > Интересно, не пресно, но без особого фанатизма.
+
 * Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
     > Очень крутая приключенческая и, главное, познавательная в плане религии, истории религии книга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Строгая рекомендация всем.
 
 * Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
-    > Книга о сложности программных систем. Чем сложнее система, тем сложнее делать каждый маленький её кирпичик. Добавляя программистов не в начале проекта, мы только замедляем проект. Добавлять незнакомых с проектом программистов в проект который горит по срокам, это как тушить пожар бензином. А ещё интересно было почитать книгу 1975 года и найти в ней много параллелей с современности в плане людей и много различий в плане машин.
 
 * Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
 
-* Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>9</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>472</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandra_ischenko](users/123/12370958-vkontakte)<sup>1</sup> 
 [nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 [uckpa_msk](users/108/108915302193455883885-google)<sup>1</sup> 
-[Shatoman](users/100/100001945876450-facebook)<sup>0</sup> 
 
 
-_22.11.2016 12:28:00_
+_22.11.2016 14:08:49_

@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 9,
+        "updatedAt": "2016-11-22 14:08:49"
+    },
     "113033184709492089410-google": {
         "id": "113033184709492089410-google",
         "nickname": "aglovlyuk",
@@ -172,11 +178,5 @@
         "nickname": "uckpa_msk",
         "booksCount": 1,
         "updatedAt": "2016-11-13 19:36:47"
-    },
-    "100001945876450-facebook": {
-        "id": "100001945876450-facebook",
-        "nickname": "Shatoman",
-        "booksCount": 0,
-        "updatedAt": "2016-11-13 11:50:14"
     }
 }
