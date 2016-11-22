@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[heathermist](users/270/270249728-vkontakte)<sup>0</sup> 
+[heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>10</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>472</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 
 
-_22.11.2016 16:51:31_
+_22.11.2016 16:52:38_
