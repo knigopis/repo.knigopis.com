@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
+    > Первые две главы были действительно интересными. Стала потирать руки: ух, щас как пойдут рекламные разоблачения... а тут.. ГГ плюет ядом, г--ном, кокаином, и всякой другой фигней. Фигня.
+
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
     > Интересно, весело, но однообразно. Главный козырь Дживса - информация и психология. Стиль - хорош.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересно, не пресно, но без особого фанатизма.
 
 * Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
-    > Очень крутая приключенческая и, главное, познавательная в плане религии, истории религии книга.
 
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
 
-* Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>11</sup> 
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>10</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>472</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nelsoneax](users/212/21269267-vkontakte)<sup>0</sup> 
 
 
-_22.11.2016 16:52:38_
+_22.11.2016 16:57:10_
