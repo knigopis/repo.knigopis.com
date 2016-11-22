@@ -1,4 +1,10 @@
 {
+    "270249728-vkontakte": {
+        "id": "270249728-vkontakte",
+        "nickname": "heathermist",
+        "booksCount": 0,
+        "updatedAt": "2016-11-22 16:51:30"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "nelsoneax",
         "booksCount": 0,
         "updatedAt": "2016-11-14 03:55:36"
-    },
-    "108915302193455883885-google": {
-        "id": "108915302193455883885-google",
-        "nickname": "uckpa_msk",
-        "booksCount": 1,
-        "updatedAt": "2016-11-13 19:36:47"
     }
 }
