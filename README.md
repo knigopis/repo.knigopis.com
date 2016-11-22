@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>11</sup> 
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [maaruusik](users/758/758259897091952640-twitter)<sup>0</sup> 
 [vla2337](users/131/13120553-yandex)<sup>2</sup> 
 [Igor](users/102/10205096723636918-facebook)<sup>0</sup> 
-[alexandra_ischenko](users/123/12370958-vkontakte)<sup>1</sup> 
 
 
-_22.11.2016 20:19:43_
+_22.11.2016 23:18:31_
