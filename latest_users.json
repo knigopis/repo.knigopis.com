@@ -1,4 +1,10 @@
 {
+    "113033184709492089410-google": {
+        "id": "113033184709492089410-google",
+        "nickname": "aglovlyuk",
+        "booksCount": 7,
+        "updatedAt": "2016-11-22 12:28:00"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Shatoman",
         "booksCount": 0,
         "updatedAt": "2016-11-13 11:50:14"
-    },
-    "191354034-vkontakte": {
-        "id": "191354034-vkontakte",
-        "nickname": "devushka_s_kosoy",
-        "booksCount": 0,
-        "updatedAt": "2016-11-13 10:08:58"
     }
 }

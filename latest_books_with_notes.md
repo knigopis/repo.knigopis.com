@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
 * Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
 * Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
@@ -30,7 +31,6 @@
 * Двери восприятия. Рай и ад ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>79</sup>
 * Чума ~ [Victoria](users/113/113794223924688167852-google)<sup>25</sup>
 * СТИКС STIKS Человеческий Улей + Человек с котом ~ [romann](users/102/10205442182733690-facebook)<sup>6</sup>
-* Караси и щуки (сборник рассказов), Молодняк ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>56</sup>
 
 
-_21.11.2016 12:57:13_
+_22.11.2016 12:28:00_
