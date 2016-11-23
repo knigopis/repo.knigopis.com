@@ -1,4 +1,10 @@
 {
+    "101038216126732796086-googleplus": {
+        "id": "101038216126732796086-googleplus",
+        "nickname": "neruwtf",
+        "booksCount": 0,
+        "updatedAt": "2016-11-23 01:01:12"
+    },
     "12661513-vkontakte": {
         "id": "12661513-vkontakte",
         "nickname": "kosta",
@@ -172,11 +178,5 @@
         "nickname": "vla2337",
         "booksCount": 2,
         "updatedAt": "2016-11-15 16:27:23"
-    },
-    "10205096723636918-facebook": {
-        "id": "10205096723636918-facebook",
-        "nickname": "Igor",
-        "booksCount": 0,
-        "updatedAt": "2016-11-14 09:40:42"
     }
 }
