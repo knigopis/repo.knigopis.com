@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nick](users/118/118390303977872287066-google)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>473</sup> 
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 [kosta](users/126/12661513-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
 [erterkgewrm](users/364/364199128-vkontakte)<sup>0</sup> 
 [maaruusik](users/758/758259897091952640-twitter)<sup>0</sup> 
-[vla2337](users/131/13120553-yandex)<sup>2</sup> 
 
 
-_23.11.2016 14:40:33_
+_23.11.2016 15:21:57_
