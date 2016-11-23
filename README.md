@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>473</sup> 
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 [kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>11</sup> 
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>472</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
 [Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vla2337](users/131/13120553-yandex)<sup>2</sup> 
 
 
-_23.11.2016 01:01:13_
+_23.11.2016 14:40:33_

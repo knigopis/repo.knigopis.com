@@ -1,4 +1,16 @@
 {
+    "P6La_enFrb": {
+        "id": "P6La_enFrb",
+        "title": "Путешествия пилигрима",
+        "author": "Джон Буньян",
+        "notes": "",
+        "createdAt": "2016-11-23 14:40:33",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 473
+        }
+    },
     "ASj5fsgrmk": {
         "id": "ASj5fsgrmk",
         "title": "99 франков",
@@ -345,18 +357,6 @@
             "id": "100001858801764-facebook",
             "nickname": "shirko.elena",
             "booksCount": 7
-        }
-    },
-    "h-R3DhaTW8": {
-        "id": "h-R3DhaTW8",
-        "title": "Белый пароход",
-        "author": "Айтматов Чингиз",
-        "notes": "",
-        "createdAt": "2016-11-12 07:27:16",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 61
         }
     }
 }

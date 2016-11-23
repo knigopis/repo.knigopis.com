@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>472</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>473</sup>
 ---
 
 ## 2016
+
+### Путешествия пилигрима
+Джон Буньян
+> [2016-11] 
+
 
 ### Острие бритвы
 Сомерсет Моэм
