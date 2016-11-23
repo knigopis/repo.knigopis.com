@@ -1,4 +1,10 @@
 {
+    "leczQ3Eya3-linkedin": {
+        "id": "leczQ3Eya3-linkedin",
+        "nickname": "Ник Литвинов",
+        "booksCount": 82,
+        "updatedAt": "2016-11-23 18:16:43"
+    },
     "118390303977872287066-google": {
         "id": "118390303977872287066-google",
         "nickname": "Nick",
@@ -172,11 +178,5 @@
         "nickname": "erterkgewrm",
         "booksCount": 0,
         "updatedAt": "2016-11-15 19:12:36"
-    },
-    "758259897091952640-twitter": {
-        "id": "758259897091952640-twitter",
-        "nickname": "maaruusik",
-        "booksCount": 0,
-        "updatedAt": "2016-11-15 16:55:36"
     }
 }

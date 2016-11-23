@@ -1,4 +1,16 @@
 {
+    "h3dxyOD5Cr": {
+        "id": "h3dxyOD5Cr",
+        "title": "Интернетика. Навигация в сложных сетях. Модели и алгоритмы",
+        "author": "Д. В. Ландэ, А. А. Снарский, И. В. Безсуднов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/4468470/",
+        "createdAt": "2016-11-23 18:16:43",
+        "user": {
+            "id": "leczQ3Eya3-linkedin",
+            "nickname": "Ник Литвинов",
+            "booksCount": 82
+        }
+    },
     "ASj5fsgrmk": {
         "id": "ASj5fsgrmk",
         "title": "99 франков",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 6
-        }
-    },
-    "6-zPl89QGx": {
-        "id": "6-zPl89QGx",
-        "title": "Сам себе MBA. Самообразование на 100%",
-        "author": "Джош Кауфман",
-        "notes": "в процессе\n\nИсключительно полезное бизнес-чтиво без лишних понтов.",
-        "createdAt": "2016-10-29 22:28:32",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 82
         }
     }
 }

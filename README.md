@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/4468470/
+
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
     > Первые две главы были действительно интересными. Стала потирать руки: ух, щас как пойдут рекламные разоблачения... а тут.. ГГ плюет ядом, г--ном, кокаином, и всякой другой фигней. Фигня.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Интересно, весело, но однообразно. Главный козырь Дживса - информация и психология. Стиль - хорош.
 
 * Тайный дневник Адриана Моула ~ [Беска](users/157/1577468-vkontakte)<sup>9</sup>
-    > Интересно, не пресно, но без особого фанатизма.
 
 * Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Скотный двор ~ [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup>
 
-* Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>473</sup> 
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
 [erterkgewrm](users/364/364199128-vkontakte)<sup>0</sup> 
-[maaruusik](users/758/758259897091952640-twitter)<sup>0</sup> 
 
 
-_23.11.2016 15:21:57_
+_23.11.2016 18:16:43_

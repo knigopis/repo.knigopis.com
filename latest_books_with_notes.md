@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
 * Тайный дневник Адриана Моула ~ [Беска](users/157/1577468-vkontakte)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
 * Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
-* Сам себе MBA. Самообразование на 100% ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 
 
-_22.11.2016 16:57:10_
+_23.11.2016 18:16:43_
