@@ -1,4 +1,10 @@
 {
+    "118390303977872287066-google": {
+        "id": "118390303977872287066-google",
+        "nickname": "Nick",
+        "booksCount": 0,
+        "updatedAt": "2016-11-23 15:21:56"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "maaruusik",
         "booksCount": 0,
         "updatedAt": "2016-11-15 16:55:36"
-    },
-    "13120553-yandex": {
-        "id": "13120553-yandex",
-        "nickname": "vla2337",
-        "booksCount": 2,
-        "updatedAt": "2016-11-15 16:27:23"
     }
 }
