@@ -1,4 +1,10 @@
 {
+    "1260438620656982-facebook": {
+        "id": "1260438620656982-facebook",
+        "nickname": "Aferist",
+        "booksCount": 0,
+        "updatedAt": "2016-11-24 12:20:11"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "britakin",
         "booksCount": 0,
         "updatedAt": "2016-11-16 13:51:30"
-    },
-    "872361436199401-facebook": {
-        "id": "872361436199401-facebook",
-        "nickname": "genrih59",
-        "booksCount": 13,
-        "updatedAt": "2016-11-16 02:40:56"
     }
 }
