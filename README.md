@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Одноэтажная Америка ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
+    > Достойно, весьма достойно. Окунулась в путешествие с головой.
+
 * Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
     > Единственный роман писателя. 
     > Жизнь связала судьбы незнакомых друг другу людей в один клубок.
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/4468470/
 
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
-    > Первые две главы были действительно интересными. Стала потирать руки: ух, щас как пойдут рекламные разоблачения... а тут.. ГГ плюет ядом, г--ном, кокаином, и всякой другой фигней. Фигня.
 
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
 
-* Корона мечей ~ [Garka](users/115/115753719718250012620-google)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 [Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>84</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
 [DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
-[britakin](users/110/11026186-vkontakte)<sup>0</sup> 
 
 
-_24.11.2016 12:20:12_
+_24.11.2016 18:01:33_

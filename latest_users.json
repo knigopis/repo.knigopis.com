@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 41,
+        "updatedAt": "2016-11-24 18:01:33"
+    },
     "1260438620656982-facebook": {
         "id": "1260438620656982-facebook",
         "nickname": "Aferist",
@@ -172,11 +178,5 @@
         "nickname": "DRAKO_06",
         "booksCount": 0,
         "updatedAt": "2016-11-16 14:01:20"
-    },
-    "11026186-vkontakte": {
-        "id": "11026186-vkontakte",
-        "nickname": "britakin",
-        "booksCount": 0,
-        "updatedAt": "2016-11-16 13:51:30"
     }
 }
