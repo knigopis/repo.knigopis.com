@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>84</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
 [britakin](users/110/11026186-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
-[widels](users/137/13735493-vkontakte)<sup>0</sup> 
 
 
-_24.11.2016 00:19:36_
+_24.11.2016 10:04:09_
