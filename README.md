@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>473</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
 
 
-_24.11.2016 00:18:46_
+_24.11.2016 00:19:36_
