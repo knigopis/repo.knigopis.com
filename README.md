@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup>
+    > Единственный роман писателя. 
+    > Жизнь связала судьбы незнакомых друг другу людей в один клубок.
+
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
     > в процессе
     > 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Первые две главы были действительно интересными. Стала потирать руки: ух, щас как пойдут рекламные разоблачения... а тут.. ГГ плюет ядом, г--ном, кокаином, и всякой другой фигней. Фигня.
 
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
-    > Интересно, весело, но однообразно. Главный козырь Дживса - информация и психология. Стиль - хорош.
 
 * Тайный дневник Адриана Моула ~ [Беска](users/157/1577468-vkontakte)<sup>9</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Корона мечей ~ [Garka](users/115/115753719718250012620-google)<sup>119</sup>
 
-* Скотный двор ~ [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>473</sup> 
@@ -64,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [britakin](users/110/11026186-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>13</sup> 
 [widels](users/137/13735493-vkontakte)<sup>0</sup> 
-[erterkgewrm](users/364/364199128-vkontakte)<sup>0</sup> 
 
 
-_23.11.2016 18:16:43_
+_24.11.2016 00:18:41_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup>
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
 * Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
-* Трое в лодке, не считая собаки ~ [Беска](users/157/1577468-vkontakte)<sup>6</sup>
 
 
-_23.11.2016 18:16:43_
+_24.11.2016 00:18:41_

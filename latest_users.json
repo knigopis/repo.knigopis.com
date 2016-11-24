@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 62,
+        "updatedAt": "2016-11-24 00:18:41"
+    },
     "leczQ3Eya3-linkedin": {
         "id": "leczQ3Eya3-linkedin",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "widels",
         "booksCount": 0,
         "updatedAt": "2016-11-15 21:54:24"
-    },
-    "364199128-vkontakte": {
-        "id": "364199128-vkontakte",
-        "nickname": "erterkgewrm",
-        "booksCount": 0,
-        "updatedAt": "2016-11-15 19:12:36"
     }
 }
