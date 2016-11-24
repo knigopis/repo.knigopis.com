@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup>
+* Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
 * 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
@@ -33,4 +33,4 @@
 * Макс Далин ~ [creepy_g](users/747/74743045-vkontakte)<sup>114</sup>
 
 
-_24.11.2016 00:18:41_
+_24.11.2016 00:18:46_
