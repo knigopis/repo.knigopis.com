@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
+    > Занятные истории из жизни физика, злободневно, удивляется тому, как люди запоминают что-то не понимая сути... 
+    > Рекомендуется к прочтению
+
 * Одноэтажная Америка ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
     > Достойно, весьма достойно. Окунулась в путешествие с головой.
 
@@ -13,9 +17,6 @@ Do not use pull requests to make changes here.
     > Жизнь связала судьбы незнакомых друг другу людей в один клубок.
 
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/4468470/
 
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
 
@@ -29,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
 
-* Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>34</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 [Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>84</sup> 
@@ -65,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
 [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
-[DRAKO_06](users/105/105567021460981425783-google)<sup>0</sup> 
 
 
-_24.11.2016 18:01:33_
+_24.11.2016 22:49:35_

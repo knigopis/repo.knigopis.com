@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
 * Одноэтажная Америка ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
 * Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
@@ -30,7 +31,6 @@
 * Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
 * Аленький цветочек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>57</sup>
 * Город Пустых. Побег из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>38</sup>
-* Дом странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>37</sup>
 
 
-_24.11.2016 18:01:33_
+_24.11.2016 22:49:35_

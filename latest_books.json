@@ -1,4 +1,16 @@
 {
+    "Eou44daDCu": {
+        "id": "Eou44daDCu",
+        "title": "Вы наверное шутите мистер Фейнман",
+        "author": "Фейнман",
+        "notes": "Занятные истории из жизни физика, злободневно, удивляется тому, как люди запоминают что-то не понимая сути... \nРекомендуется к прочтению",
+        "createdAt": "2016-11-24 22:49:35",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 34
+        }
+    },
     "tG6arNnkpf": {
         "id": "tG6arNnkpf",
         "title": "Одноэтажная Америка",
@@ -344,18 +356,6 @@
         "user": {
             "id": "12370958-vkontakte",
             "nickname": "alexandra_ischenko",
-            "booksCount": 1
-        }
-    },
-    "FxUAw27sZC": {
-        "id": "FxUAw27sZC",
-        "title": "",
-        "author": "Евгений Водолазкин",
-        "notes": "",
-        "createdAt": "2016-11-13 19:36:47",
-        "user": {
-            "id": "108915302193455883885-google",
-            "nickname": "uckpa_msk",
             "booksCount": 1
         }
     }
