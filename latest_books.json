@@ -1,4 +1,16 @@
 {
+    "HHS3HSe7KU": {
+        "id": "HHS3HSe7KU",
+        "title": "Верная подруга",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-11-25 19:47:46",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 21
+        }
+    },
     "MEMm2u_SNK": {
         "id": "MEMm2u_SNK",
         "title": "Граф Монте-Кристо",
@@ -344,18 +356,6 @@
         "user": {
             "id": "968870936592182-facebook",
             "nickname": "kosarev_kniga",
-            "booksCount": 1
-        }
-    },
-    "ROq18sIR7t": {
-        "id": "ROq18sIR7t",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "Книга о становлении личности.",
-        "createdAt": "2016-11-18 01:15:23",
-        "user": {
-            "id": "105925486665844787495-googleplus",
-            "nickname": "Iysbaera",
             "booksCount": 1
         }
     }
