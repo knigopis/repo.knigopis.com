@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>28</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>27</sup>
 ---
 
 ## 2016
@@ -21,8 +21,6 @@
 
 ### Русалка в старинном пруду
 Элли Блейк
-
-
 
 
 
