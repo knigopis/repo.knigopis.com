@@ -1,4 +1,16 @@
 {
+    "XXxvVtfjP4": {
+        "id": "XXxvVtfjP4",
+        "title": "Три мушкетера",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2016-11-25 19:50:43",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 23
+        }
+    },
     "4qHcm_05wH": {
         "id": "4qHcm_05wH",
         "title": "На стороне Бога",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 470
-        }
-    },
-    "YTKqqhNOcv": {
-        "id": "YTKqqhNOcv",
-        "title": "А лифт спускался в преисподню",
-        "author": "Пер Лагерквист",
-        "notes": "",
-        "createdAt": "2016-11-19 14:01:59",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 469
         }
     }
 }
