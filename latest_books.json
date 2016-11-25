@@ -1,4 +1,16 @@
 {
+    "tLSFuit2Yo": {
+        "id": "tLSFuit2Yo",
+        "title": "Двадцать лет спустя",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2016-11-25 19:51:49",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 25
+        }
+    },
     "6AEVN4B5gy": {
         "id": "6AEVN4B5gy",
         "title": "Две Дианы",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 121
-        }
-    },
-    "lATEaFYKg2": {
-        "id": "lATEaFYKg2",
-        "title": "Фантастические твари и где они обитают",
-        "author": "Джаон Ролуинг",
-        "notes": "",
-        "createdAt": "2016-11-19 19:26:24",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 471
         }
     }
 }
