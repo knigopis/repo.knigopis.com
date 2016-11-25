@@ -1,10 +1,14 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>17</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>18</sup>
 ---
 
 ## 2016
 
 ### Школа смертников
 > [2016-11] 
+
+
+### Чаша. Первый пророк
+> [2016-10] 
 
 
 
