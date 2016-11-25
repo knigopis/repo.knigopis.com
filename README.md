@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[antasiar](users/688/68827372-vkontakte)<sup>12</sup> 
+[antasiar](users/688/68827372-vkontakte)<sup>14</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>34</sup> 
