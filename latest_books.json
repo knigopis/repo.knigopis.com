@@ -1,4 +1,16 @@
 {
+    "XyAy3tfm_G": {
+        "id": "XyAy3tfm_G",
+        "title": "451 градус по Фаренгейту",
+        "author": "Брэдбери, Рэй",
+        "notes": "",
+        "createdAt": "2016-11-25 19:59:45",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 35
+        }
+    },
     "xpuQTC-CT0": {
         "id": "xpuQTC-CT0",
         "title": "Думай и богатей",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 472
-        }
-    },
-    "d-uf3rjS46": {
-        "id": "d-uf3rjS46",
-        "title": "Астронавт Джонс",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2016-11-21 13:13:58",
-        "user": {
-            "id": "178490314-vkontakte",
-            "nickname": "BARREL",
-            "booksCount": 1
         }
     }
 }
