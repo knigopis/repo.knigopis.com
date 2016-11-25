@@ -1,4 +1,28 @@
 {
+    "xpuQTC-CT0": {
+        "id": "xpuQTC-CT0",
+        "title": "Думай и богатей",
+        "author": "Наполеон Хилл",
+        "notes": "",
+        "createdAt": "2016-11-25 19:59:17",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 34
+        }
+    },
+    "vErPnhNYum": {
+        "id": "vErPnhNYum",
+        "title": "Как работать по 4 часа в неделю и при этом не торчать в офисе \"от звонка до звонка\", жить где угодно и богатеть",
+        "author": "Тимоти Феррис",
+        "notes": "",
+        "createdAt": "2016-11-25 19:57:31",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 33
+        }
+    },
     "6WAW2w79iT": {
         "id": "6WAW2w79iT",
         "title": "Подсознание может все",
@@ -333,30 +357,6 @@
             "id": "178490314-vkontakte",
             "nickname": "BARREL",
             "booksCount": 1
-        }
-    },
-    "cmoXHgUFvR": {
-        "id": "cmoXHgUFvR",
-        "title": "В интернете кто-то неправ!",
-        "author": "Ася Казанцева",
-        "notes": "Строгая рекомендация всем.",
-        "createdAt": "2016-11-21 12:57:13",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 12
-        }
-    },
-    "gedRWPjtLZ": {
-        "id": "gedRWPjtLZ",
-        "title": "Исламское государство. Армия террора.",
-        "author": "Майкл Вайс",
-        "notes": "",
-        "createdAt": "2016-11-21 12:53:59",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 11
         }
     }
 }
