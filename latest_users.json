@@ -1,4 +1,10 @@
 {
+    "278197993-vkontakte": {
+        "id": "278197993-vkontakte",
+        "nickname": "assel8honey",
+        "booksCount": 0,
+        "updatedAt": "2016-11-25 05:58:22"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "alex_anisimov",
         "booksCount": 0,
         "updatedAt": "2016-11-17 06:49:47"
-    },
-    "10211447802059029-facebook": {
-        "id": "10211447802059029-facebook",
-        "nickname": "Тата",
-        "booksCount": 0,
-        "updatedAt": "2016-11-16 18:21:22"
     }
 }
