@@ -1,4 +1,16 @@
 {
+    "4A8bcERtwa": {
+        "id": "4A8bcERtwa",
+        "title": "Русалка в старинном пруду",
+        "author": "Элли Блейк",
+        "notes": "",
+        "createdAt": "2016-11-25 19:52:42",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 26
+        }
+    },
     "tLSFuit2Yo": {
         "id": "tLSFuit2Yo",
         "title": "Двадцать лет спустя",
@@ -345,18 +357,6 @@
             "id": "364511493-vkontakte",
             "nickname": "House_of_Memories",
             "booksCount": 1
-        }
-    },
-    "EW1RHkG2Pg": {
-        "id": "EW1RHkG2Pg",
-        "title": "О дивный новый мир",
-        "author": "Хаксли, Олдос",
-        "notes": "",
-        "createdAt": "2016-11-20 14:48:46",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 121
         }
     }
 }
