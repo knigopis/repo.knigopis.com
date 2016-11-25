@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>23</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>24</sup>
 ---
 
 ## 2016
@@ -58,6 +58,10 @@
 
 
 ## 1988
+
+### Две Дианы
+Александр Дюма
+
 
 ### Три мушкетера
 Александр Дюма

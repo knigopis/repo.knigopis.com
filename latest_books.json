@@ -1,4 +1,16 @@
 {
+    "6AEVN4B5gy": {
+        "id": "6AEVN4B5gy",
+        "title": "Две Дианы",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2016-11-25 19:51:03",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 24
+        }
+    },
     "XXxvVtfjP4": {
         "id": "XXxvVtfjP4",
         "title": "Три мушкетера",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 471
-        }
-    },
-    "4TAGvVGGMZ": {
-        "id": "4TAGvVGGMZ",
-        "title": "Пульс",
-        "author": "Джулиан Барнс",
-        "notes": "",
-        "createdAt": "2016-11-19 14:02:14",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 470
         }
     }
 }
