@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 0,
+        "updatedAt": "2016-11-25 18:46:24"
+    },
     "278197993-vkontakte": {
         "id": "278197993-vkontakte",
         "nickname": "assel8honey",
@@ -172,11 +178,5 @@
         "nickname": "gfhsd",
         "booksCount": 1,
         "updatedAt": "2016-11-17 15:28:59"
-    },
-    "1651629-vkontakte": {
-        "id": "1651629-vkontakte",
-        "nickname": "alex_anisimov",
-        "booksCount": 0,
-        "updatedAt": "2016-11-17 06:49:47"
     }
 }
