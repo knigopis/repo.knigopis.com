@@ -1,4 +1,16 @@
 {
+    "4qHcm_05wH": {
+        "id": "4qHcm_05wH",
+        "title": "На стороне Бога",
+        "author": "Чингиз Абдуллаев",
+        "notes": "",
+        "createdAt": "2016-11-25 19:49:06",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 22
+        }
+    },
     "HHS3HSe7KU": {
         "id": "HHS3HSe7KU",
         "title": "Верная подруга",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 469
-        }
-    },
-    "8QWyz9dTbN": {
-        "id": "8QWyz9dTbN",
-        "title": "Старик и море",
-        "author": "Хемингуэй",
-        "notes": "",
-        "createdAt": "2016-11-18 10:51:35",
-        "user": {
-            "id": "968870936592182-facebook",
-            "nickname": "kosarev_kniga",
-            "booksCount": 1
         }
     }
 }
