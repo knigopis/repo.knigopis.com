@@ -1,4 +1,16 @@
 {
+    "jzBYv_8wVI": {
+        "id": "jzBYv_8wVI",
+        "title": "Школа смертников",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-11-25 19:44:57",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 17
+        }
+    },
     "0Oh55YL5I1": {
         "id": "0Oh55YL5I1",
         "title": "Алёша Попович и Тугарин",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 120
-        }
-    },
-    "8oBjbiGRm9": {
-        "id": "8oBjbiGRm9",
-        "title": "Хлеб с ветчиной",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2016-11-16 02:40:29",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 14
         }
     }
 }

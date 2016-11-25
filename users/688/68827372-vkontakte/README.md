@@ -1,7 +1,11 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>16</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>17</sup>
 ---
 
 ## 2016
+
+### Школа смертников
+> [2016-11] 
+
 
 
 
