@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>0</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>34</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
 [Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
-[alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 
 
-_25.11.2016 05:59:44_
+_25.11.2016 18:46:25_
