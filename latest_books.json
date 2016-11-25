@@ -1,4 +1,16 @@
 {
+    "MEMm2u_SNK": {
+        "id": "MEMm2u_SNK",
+        "title": "Граф Монте-Кристо",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-11-25 19:47:07",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 20
+        }
+    },
     "cgYJVctP9j": {
         "id": "cgYJVctP9j",
         "title": "Тайна двух океанов",
@@ -344,18 +356,6 @@
         "user": {
             "id": "105925486665844787495-googleplus",
             "nickname": "Iysbaera",
-            "booksCount": 1
-        }
-    },
-    "1RZiUnjDaV": {
-        "id": "1RZiUnjDaV",
-        "title": "Легенды и мифы Древней Греции",
-        "author": "Н.Кун",
-        "notes": "",
-        "createdAt": "2016-11-17 15:28:59",
-        "user": {
-            "id": "208981897-vkontakte",
-            "nickname": "gfhsd",
             "booksCount": 1
         }
     }
