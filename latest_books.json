@@ -1,4 +1,16 @@
 {
+    "Tnb7ZT1VfV": {
+        "id": "Tnb7ZT1VfV",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-11-25 19:09:59",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 1
+        }
+    },
     "JoYEvhXt9h": {
         "id": "JoYEvhXt9h",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "13120553-yandex",
             "nickname": "vla2337",
             "booksCount": 2
-        }
-    },
-    "iCO-up3nil": {
-        "id": "iCO-up3nil",
-        "title": "Ведун",
-        "author": "Александр Прозоров",
-        "notes": "",
-        "createdAt": "2016-11-15 16:25:52",
-        "user": {
-            "id": "13120553-yandex",
-            "nickname": "vla2337",
-            "booksCount": 1
         }
     }
 }
