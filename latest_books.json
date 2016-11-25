@@ -1,4 +1,16 @@
 {
+    "rstIvdu_sn": {
+        "id": "rstIvdu_sn",
+        "title": "Ночь на хуторе близ деканьки",
+        "author": "Андрей Белянин",
+        "notes": "",
+        "createdAt": "2016-11-25 04:09:09",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 226
+        }
+    },
     "Eou44daDCu": {
         "id": "Eou44daDCu",
         "title": "Вы наверное шутите мистер Фейнман",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 119
-        }
-    },
-    "OGmN8unSqV": {
-        "id": "OGmN8unSqV",
-        "title": "Коллекционер",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2016-11-14 07:56:44",
-        "user": {
-            "id": "12370958-vkontakte",
-            "nickname": "alexandra_ischenko",
-            "booksCount": 1
         }
     }
 }

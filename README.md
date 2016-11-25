@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>226</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>34</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 [Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
 [alex_anisimov](users/165/1651629-vkontakte)<sup>0</sup> 
 [Тата](users/102/10211447802059029-facebook)<sup>0</sup> 
-[Aleksandr](users/123/12375097-vkontakte)<sup>7</sup> 
 
 
-_24.11.2016 22:49:35_
+_25.11.2016 04:09:09_
