@@ -1,4 +1,16 @@
 {
+    "6WAW2w79iT": {
+        "id": "6WAW2w79iT",
+        "title": "Подсознание может все",
+        "author": "Джон Кехо",
+        "notes": "",
+        "createdAt": "2016-11-25 19:55:18",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 27
+        }
+    },
     "4A8bcERtwa": {
         "id": "4A8bcERtwa",
         "title": "Русалка в старинном пруду",
@@ -345,18 +357,6 @@
             "id": "117124011531379579265-google",
             "nickname": "pimanocci",
             "booksCount": 11
-        }
-    },
-    "3W7s3s9RkO": {
-        "id": "3W7s3s9RkO",
-        "title": "Волшебная гора",
-        "author": "Томас Манн",
-        "notes": "",
-        "createdAt": "2016-11-20 18:59:09",
-        "user": {
-            "id": "364511493-vkontakte",
-            "nickname": "House_of_Memories",
-            "booksCount": 1
         }
     }
 }
