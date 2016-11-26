@@ -1,4 +1,16 @@
 {
+    "7wlbyNV7S-": {
+        "id": "7wlbyNV7S-",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2016-11-26 10:07:09",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "Адам Сильсторн",
+            "booksCount": 29
+        }
+    },
     "9nie7aYIca": {
         "id": "9nie7aYIca",
         "title": "Парфюмер. История одного убийцы",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 63
-        }
-    },
-    "h3dxyOD5Cr": {
-        "id": "h3dxyOD5Cr",
-        "title": "Интернетика. Навигация в сложных сетях. Модели и алгоритмы",
-        "author": "Д. В. Ландэ, А. А. Снарский, И. В. Безсуднов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/4468470/",
-        "createdAt": "2016-11-23 18:16:43",
-        "user": {
-            "id": "leczQ3Eya3-linkedin",
-            "nickname": "Ник Литвинов",
-            "booksCount": 82
         }
     }
 }
