@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>1</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>0</sup> 
 [svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>33</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kosarev_kniga](users/968/968870936592182-facebook)<sup>1</sup> 
 
 
-_26.11.2016 14:47:27_
+_26.11.2016 14:47:33_
