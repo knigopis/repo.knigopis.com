@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>228</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>15</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>34</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
 
 
-_26.11.2016 07:39:16_
+_26.11.2016 07:39:42_
