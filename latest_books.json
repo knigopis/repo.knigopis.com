@@ -1,4 +1,16 @@
 {
+    "1UCmZyI5mk": {
+        "id": "1UCmZyI5mk",
+        "title": "Божественная Комедия",
+        "author": "Данте Алигьери",
+        "notes": "",
+        "createdAt": "2016-11-26 11:02:04",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "Адам Сильсторн",
+            "booksCount": 31
+        }
+    },
     "52CJNVtrwd": {
         "id": "52CJNVtrwd",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 34
-        }
-    },
-    "tG6arNnkpf": {
-        "id": "tG6arNnkpf",
-        "title": "Одноэтажная Америка",
-        "author": "Илья Ильф, Евгений Петров",
-        "notes": "Достойно, весьма достойно. Окунулась в путешествие с головой.",
-        "createdAt": "2016-11-24 18:01:33",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 41
         }
     }
 }
