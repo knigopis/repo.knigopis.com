@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 16,
+        "updatedAt": "2016-11-26 19:01:53"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -34,12 +40,6 @@
         "nickname": "HXT",
         "booksCount": 227,
         "updatedAt": "2016-11-26 07:39:42"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 15,
-        "updatedAt": "2016-11-25 20:04:03"
     },
     "278197993-vkontakte": {
         "id": "278197993-vkontakte",

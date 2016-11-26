@@ -1,4 +1,16 @@
 {
+    "1xkBq3ljb7": {
+        "id": "1xkBq3ljb7",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2016-11-26 19:01:53",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 16
+        }
+    },
     "kn_oQa10b7": {
         "id": "kn_oQa10b7",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 16
-        }
-    },
-    "8CAA_wws-0": {
-        "id": "8CAA_wws-0",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-11-25 19:10:06",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 15
         }
     }
 }
