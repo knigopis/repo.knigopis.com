@@ -1,4 +1,10 @@
 {
+    "253918564-vkontakte": {
+        "id": "253918564-vkontakte",
+        "nickname": "Адам Сильсторн",
+        "booksCount": 26,
+        "updatedAt": "2016-11-26 10:03:18"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Iysbaera",
         "booksCount": 1,
         "updatedAt": "2016-11-18 01:15:23"
-    },
-    "208981897-vkontakte": {
-        "id": "208981897-vkontakte",
-        "nickname": "gfhsd",
-        "booksCount": 1,
-        "updatedAt": "2016-11-17 15:28:59"
     }
 }
