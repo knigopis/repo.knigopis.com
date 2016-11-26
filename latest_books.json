@@ -1,4 +1,16 @@
 {
+    "7v1tUzzUnO": {
+        "id": "7v1tUzzUnO",
+        "title": "Хогвартс: неполный и ненадёжный путеводитель",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2016-11-26 09:04:54",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 476
+        }
+    },
     "XHGT6uqqf0": {
         "id": "XHGT6uqqf0",
         "title": "Мастеровой",
@@ -345,18 +357,6 @@
             "id": "270249728-vkontakte",
             "nickname": "heathermist",
             "booksCount": 1
-        }
-    },
-    "8xbY3mcSzW": {
-        "id": "8xbY3mcSzW",
-        "title": "10 рассказов о Дживсе и Вустере",
-        "author": "Пэлем Грэнвил Вудхауз",
-        "notes": "Интересно, весело, но однообразно. Главный козырь Дживса - информация и психология. Стиль - хорош.",
-        "createdAt": "2016-11-22 14:11:07",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 10
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>475</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>476</sup>
 ---
 
 ## 2016
+
+### Хогвартс: неполный и ненадёжный путеводитель
+Джоан Роулинг
+> [2016-11] 
+
 
 ### Мастеровой
 Бернард Маламуд
