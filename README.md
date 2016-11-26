@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>228</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>15</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>34</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 [Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
 
 
-_25.11.2016 20:04:03_
+_26.11.2016 07:39:16_
