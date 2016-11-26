@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Адам Сильсторн](users/253/253918564-vkontakte)<sup>26</sup> 
+[Адам Сильсторн](users/253/253918564-vkontakte)<sup>27</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>476</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>15</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
 
 
-_26.11.2016 10:03:18_
+_26.11.2016 10:04:37_
