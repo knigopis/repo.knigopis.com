@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Катушка синих ниток ~ [Беска](users/157/1577468-vkontakte)<sup>12</sup>
+    > обычная семья, обычная жизнь. Но у каждой семьи есть свои истории. И нужен только гениальный рассказчик, который покажет, что же такого особенного в них.Легко, без депрессии, особых негативных эмоций у меня не вызвало, иногда был непонятен Дэнни. Но ведь с ним никто даже не разговаривал.. судя по всему.  Но оторваться не могла ни на минуту. Предательство по отношению к этому дому - вот это меня немного вывело из равновесия? Как? За что? Как бросить? Когда умерла Эбби - рыдала как ребенок. Да, что-то детское, светлое есть в книге.
+
 * Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
     > Занятные истории из жизни физика, злободневно, удивляется тому, как люди запоминают что-то не понимая сути... 
     > Рекомендуется к прочтению
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Достойно, весьма достойно. Окунулась в путешествие с головой.
 
 * Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
-    > Единственный роман писателя. 
-    > Жизнь связала судьбы незнакомых друг другу людей в один клубок.
 
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
 
-* Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>12</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>29</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>476</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>227</sup> 
@@ -50,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 [kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>11</sup> 
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Iysbaera](users/105/105925486665844787495-googleplus)<sup>1</sup> 
 
 
-_26.11.2016 10:07:09_
+_26.11.2016 10:09:18_

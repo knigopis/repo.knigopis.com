@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 12,
+        "updatedAt": "2016-11-26 10:09:18"
+    },
     "253918564-vkontakte": {
         "id": "253918564-vkontakte",
         "nickname": "Адам Сильсторн",
@@ -88,12 +94,6 @@
         "nickname": "АрГр",
         "booksCount": 0,
         "updatedAt": "2016-11-22 20:19:42"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 11,
-        "updatedAt": "2016-11-22 16:57:10"
     },
     "270249728-vkontakte": {
         "id": "270249728-vkontakte",
