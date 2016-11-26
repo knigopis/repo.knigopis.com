@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[svitcona](users/405/40591581-vkontakte)<sup>0</sup> 
+[svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>33</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>12</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>476</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alinoshka200](users/154/154008627-vkontakte)<sup>0</sup> 
 
 
-_26.11.2016 12:21:54_
+_26.11.2016 12:22:14_

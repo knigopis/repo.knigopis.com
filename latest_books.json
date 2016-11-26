@@ -1,4 +1,16 @@
 {
+    "kn_oQa10b7": {
+        "id": "kn_oQa10b7",
+        "title": "",
+        "author": "Сара Джо",
+        "notes": "",
+        "createdAt": "2016-11-26 12:22:14",
+        "user": {
+            "id": "40591581-vkontakte",
+            "nickname": "svitcona",
+            "booksCount": 1
+        }
+    },
     "CKiWT_J1QS": {
         "id": "CKiWT_J1QS",
         "title": "Мёртвые Души",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 15
-        }
-    },
-    "JoYEvhXt9h": {
-        "id": "JoYEvhXt9h",
-        "title": "Инферно",
-        "author": "Дэн Браун",
-        "notes": "Интересная книга. Запомнилась отличным описанием Италии и ее достопримечательностями. Увлекательная головоломка с плохим, но добрым концом",
-        "createdAt": "2016-11-25 05:59:44",
-        "user": {
-            "id": "278197993-vkontakte",
-            "nickname": "assel8honey",
-            "booksCount": 1
         }
     }
 }
