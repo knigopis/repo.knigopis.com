@@ -1,4 +1,16 @@
 {
+    "6biI-xYCow": {
+        "id": "6biI-xYCow",
+        "title": "Простая душа",
+        "author": "Гюстав Флобер",
+        "notes": "",
+        "createdAt": "2016-11-26 09:04:02",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 474
+        }
+    },
     "ZItf4MejA7": {
         "id": "ZItf4MejA7",
         "title": "Восход голубой луны",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 9
-        }
-    },
-    "fLQ-GFXlzK": {
-        "id": "fLQ-GFXlzK",
-        "title": "Код Да Винчи",
-        "author": "Девид Браун",
-        "notes": "Очень крутая приключенческая и, главное, познавательная в плане религии, истории религии книга.",
-        "createdAt": "2016-11-22 12:28:00",
-        "user": {
-            "id": "113033184709492089410-google",
-            "nickname": "aglovlyuk",
-            "booksCount": 7
         }
     }
 }

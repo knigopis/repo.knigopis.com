@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>473</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>474</sup>
 ---
 
 ## 2016
+
+### Простая душа
+Гюстав Флобер
+> [2016-11] 
+
 
 ### Путешествия пилигрима
 Джон Буньян

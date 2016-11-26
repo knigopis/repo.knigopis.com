@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>474</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>227</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>15</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>473</sup> 
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 [kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gfhsd](users/208/208981897-vkontakte)<sup>1</sup> 
 
 
-_26.11.2016 07:39:42_
+_26.11.2016 09:04:02_
