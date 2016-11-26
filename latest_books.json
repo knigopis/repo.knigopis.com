@@ -1,4 +1,16 @@
 {
+    "XHGT6uqqf0": {
+        "id": "XHGT6uqqf0",
+        "title": "Мастеровой",
+        "author": "Бернард Маламуд",
+        "notes": "",
+        "createdAt": "2016-11-26 09:04:18",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 475
+        }
+    },
     "6biI-xYCow": {
         "id": "6biI-xYCow",
         "title": "Простая душа",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 10
-        }
-    },
-    "tcokiFqRD8": {
-        "id": "tcokiFqRD8",
-        "title": "Тайный дневник Адриана Моула",
-        "author": "Сью Таунсенд",
-        "notes": "Интересно, не пресно, но без особого фанатизма.",
-        "createdAt": "2016-11-22 14:08:49",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 9
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>474</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>475</sup>
 ---
 
 ## 2016
+
+### Мастеровой
+Бернард Маламуд
+> [2016-11] 
+
 
 ### Простая душа
 Гюстав Флобер
