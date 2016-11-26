@@ -1,4 +1,16 @@
 {
+    "CKiWT_J1QS": {
+        "id": "CKiWT_J1QS",
+        "title": "Мёртвые Души",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2016-11-26 11:04:26",
+        "user": {
+            "id": "253918564-vkontakte",
+            "nickname": "Адам Сильсторн",
+            "booksCount": 33
+        }
+    },
     "PZLzVfG03h": {
         "id": "PZLzVfG03h",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "278197993-vkontakte",
             "nickname": "assel8honey",
             "booksCount": 1
-        }
-    },
-    "jw7Roc9gN0": {
-        "id": "jw7Roc9gN0",
-        "title": "Ночь на хуторе близ деканьки",
-        "author": "Андрей Белянин",
-        "notes": "",
-        "createdAt": "2016-11-25 04:09:42",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 227
         }
     }
 }
