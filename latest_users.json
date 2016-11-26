@@ -1,4 +1,10 @@
 {
+    "40591581-vkontakte": {
+        "id": "40591581-vkontakte",
+        "nickname": "svitcona",
+        "booksCount": 0,
+        "updatedAt": "2016-11-26 12:21:53"
+    },
     "253918564-vkontakte": {
         "id": "253918564-vkontakte",
         "nickname": "Адам Сильсторн",
@@ -172,11 +178,5 @@
         "nickname": "alinoshka200",
         "booksCount": 0,
         "updatedAt": "2016-11-18 06:21:37"
-    },
-    "105925486665844787495-googleplus": {
-        "id": "105925486665844787495-googleplus",
-        "nickname": "Iysbaera",
-        "booksCount": 1,
-        "updatedAt": "2016-11-18 01:15:23"
     }
 }
