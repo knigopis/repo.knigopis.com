@@ -1,4 +1,10 @@
 {
+    "392839308-vkontakte": {
+        "id": "392839308-vkontakte",
+        "nickname": "Requiescat",
+        "booksCount": 0,
+        "updatedAt": "2016-11-27 17:31:49"
+    },
     "5528389-vkontakte": {
         "id": "5528389-vkontakte",
         "nickname": "kkorotaev",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 121,
         "updatedAt": "2016-11-20 14:48:46"
-    },
-    "420363662-yandex": {
-        "id": "420363662-yandex",
-        "nickname": "I.Ivan72",
-        "booksCount": 0,
-        "updatedAt": "2016-11-20 05:29:59"
     }
 }
