@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Еліт](users/182/1825041101100550-facebook)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>7</sup> 
 [Софик](users/377/37777569-vkontakte)<sup>1</sup> 
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
 [Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
 [drelariel](users/826/82626127-vkontakte)<sup>0</sup> 
-[House_of_Memories](users/114/114422314416910012812-googleplus)<sup>0</sup> 
 
 
-_27.11.2016 18:22:02_
+_27.11.2016 23:11:25_
