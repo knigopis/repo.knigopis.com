@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 * Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
 * Катушка синих ниток ~ [Беска](users/157/1577468-vkontakte)<sup>12</sup>
 * Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
 * Американская Первомайская ночь ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>59</sup>
 * Сильнее страха ~ [Eji_tyan](users/235/2352103981-twitter)<sup>22</sup>
-* Библиотека душ. Нет выхода из дома странных детей ~ [InaryD](users/562/56228374-vkontakte)<sup>39</sup>
 
 
-_27.11.2016 18:15:25_
+_27.11.2016 18:22:02_
