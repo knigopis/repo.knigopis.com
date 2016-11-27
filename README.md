@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>17</sup> 
 [svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 [I.Ivan72](users/420/420363662-yandex)<sup>0</sup> 
 [sudina.alexandra](users/209/20955609-vkontakte)<sup>0</sup> 
-[kosarev_kniga](users/968/968870936592182-facebook)<sup>1</sup> 
 
 
-_26.11.2016 23:20:38_
+_27.11.2016 10:00:06_
