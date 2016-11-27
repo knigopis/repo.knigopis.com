@@ -1,4 +1,16 @@
 {
+    "c1xhL2JDZt": {
+        "id": "c1xhL2JDZt",
+        "title": "11/22/63",
+        "author": "Стивен Кинг",
+        "notes": "Одна из любимых книг",
+        "createdAt": "2016-11-27 17:32:17",
+        "user": {
+            "id": "392839308-vkontakte",
+            "nickname": "Requiescat",
+            "booksCount": 1
+        }
+    },
     "U_eMeYG7lo": {
         "id": "U_eMeYG7lo",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 18
-        }
-    },
-    "jzBYv_8wVI": {
-        "id": "jzBYv_8wVI",
-        "title": "Школа смертников",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-11-25 19:44:57",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 17
         }
     }
 }

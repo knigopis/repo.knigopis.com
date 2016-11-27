@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Requiescat](users/392/392839308-vkontakte)<sup>0</sup> 
+[Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>82</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 
 
-_27.11.2016 17:31:50_
+_27.11.2016 17:32:17_
