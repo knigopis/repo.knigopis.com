@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Софик](users/377/37777569-vkontakte)<sup>0</sup> 
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [drelariel](users/826/82626127-vkontakte)<sup>0</sup> 
 [House_of_Memories](users/114/114422314416910012812-googleplus)<sup>0</sup> 
 [House_of_Memories](users/364/364511493-vkontakte)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>121</sup> 
 
 
-_27.11.2016 17:32:17_
+_27.11.2016 17:54:21_
