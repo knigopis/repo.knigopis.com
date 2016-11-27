@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Софик](users/377/37777569-vkontakte)<sup>0</sup> 
+[Софик](users/377/37777569-vkontakte)<sup>1</sup> 
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [House_of_Memories](users/364/364511493-vkontakte)<sup>1</sup> 
 
 
-_27.11.2016 17:54:21_
+_27.11.2016 17:55:46_

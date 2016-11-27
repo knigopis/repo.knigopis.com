@@ -1,4 +1,16 @@
 {
+    "iqkLsj7kgR": {
+        "id": "iqkLsj7kgR",
+        "title": "Волшебникам не рекомендуется",
+        "author": "Галина Гончарова",
+        "notes": "Не понравилось",
+        "createdAt": "2016-11-27 17:55:46",
+        "user": {
+            "id": "37777569-vkontakte",
+            "nickname": "Софик",
+            "booksCount": 1
+        }
+    },
     "c1xhL2JDZt": {
         "id": "c1xhL2JDZt",
         "title": "11/22/63",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 19
-        }
-    },
-    "a8tq95cobE": {
-        "id": "a8tq95cobE",
-        "title": "Чаша. Первый пророк",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-11-25 19:45:31",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 18
         }
     }
 }
