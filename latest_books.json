@@ -1,4 +1,16 @@
 {
+    "64t20lWzJC": {
+        "id": "64t20lWzJC",
+        "title": "Пятнадцатилетний капитан",
+        "author": "Жуль Верн",
+        "notes": "",
+        "createdAt": "2016-11-28 19:11:41",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 10
+        }
+    },
     "hqDJeTIaqN": {
         "id": "hqDJeTIaqN",
         "title": "Хроники Нарнии",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 474
-        }
-    },
-    "ZItf4MejA7": {
-        "id": "ZItf4MejA7",
-        "title": "Восход голубой луны",
-        "author": "Саймон Грин",
-        "notes": "",
-        "createdAt": "2016-11-26 07:39:15",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 228
         }
     }
 }
