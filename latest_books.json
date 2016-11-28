@@ -1,4 +1,16 @@
 {
+    "hqDJeTIaqN": {
+        "id": "hqDJeTIaqN",
+        "title": "Хроники Нарнии",
+        "author": "Клайв Льюис",
+        "notes": "Одна из первых книг",
+        "createdAt": "2016-11-28 19:10:11",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 9
+        }
+    },
     "cNQfdP3xVu": {
         "id": "cNQfdP3xVu",
         "title": "Верноподанный",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 228
-        }
-    },
-    "XyAy3tfm_G": {
-        "id": "XyAy3tfm_G",
-        "title": "451 градус по Фаренгейту",
-        "author": "Брэдбери, Рэй",
-        "notes": "",
-        "createdAt": "2016-11-25 19:59:45",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 35
         }
     }
 }
