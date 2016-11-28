@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ivan](users/111/111629067695534050209-google)<sup>0</sup> 
 [ferelis](users/246/246727869-vkontakte)<sup>0</sup> 
 [Еліт](users/182/1825041101100550-facebook)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
 [BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>12</sup> 
-[Sancrite](users/100/100001740103274-facebook)<sup>0</sup> 
 
 
-_28.11.2016 14:07:13_
+_28.11.2016 14:35:11_
