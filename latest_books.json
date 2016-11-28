@@ -1,4 +1,16 @@
 {
+    "9cEhgtv3H-": {
+        "id": "9cEhgtv3H-",
+        "title": "Ромео и Джульета",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2016-11-28 19:06:02",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 5
+        }
+    },
     "d8--lBpVlu": {
         "id": "d8--lBpVlu",
         "title": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 27
-        }
-    },
-    "4A8bcERtwa": {
-        "id": "4A8bcERtwa",
-        "title": "Русалка в старинном пруду",
-        "author": "Элли Блейк",
-        "notes": "",
-        "createdAt": "2016-11-25 19:52:42",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 26
         }
     }
 }
