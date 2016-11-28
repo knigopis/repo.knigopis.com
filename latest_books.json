@@ -1,4 +1,16 @@
 {
+    "8tVn7uiZ03": {
+        "id": "8tVn7uiZ03",
+        "title": "Побег из Шоушенка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2016-11-28 19:25:39",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 24
+        }
+    },
     "u_EFIBw-AA": {
         "id": "u_EFIBw-AA",
         "title": "Путешествие во времени",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 17
-        }
-    },
-    "1xkBq3ljb7": {
-        "id": "1xkBq3ljb7",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2016-11-26 19:01:53",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 16
         }
     }
 }
