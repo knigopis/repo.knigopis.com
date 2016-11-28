@@ -1,4 +1,16 @@
 {
+    "IPDyG1s1Xp": {
+        "id": "IPDyG1s1Xp",
+        "title": "Я вижу, о чем вы думаете",
+        "author": "Джо Наварро",
+        "notes": "",
+        "createdAt": "2016-11-28 19:04:32",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 4
+        }
+    },
     "geuX3rmG4g": {
         "id": "geuX3rmG4g",
         "title": "Иво Стоуртон",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 25
-        }
-    },
-    "6AEVN4B5gy": {
-        "id": "6AEVN4B5gy",
-        "title": "Две Дианы",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2016-11-25 19:51:03",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 24
         }
     }
 }
