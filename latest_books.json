@@ -1,4 +1,16 @@
 {
+    "JMp3zaVwKq": {
+        "id": "JMp3zaVwKq",
+        "title": "Серия романов о Гарри Поттере",
+        "author": "Джоан Роулинг",
+        "notes": "Одни из первых",
+        "createdAt": "2016-11-28 19:15:51",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 13
+        }
+    },
     "iChVGdPi8J": {
         "id": "iChVGdPi8J",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 26
-        }
-    },
-    "7v1tUzzUnO": {
-        "id": "7v1tUzzUnO",
-        "title": "Хогвартс: неполный и ненадёжный путеводитель",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2016-11-26 09:04:54",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 476
         }
     }
 }
