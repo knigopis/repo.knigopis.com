@@ -1,7 +1,11 @@
-# List of books read by [raikiya](http://vk.com/id384194935)<sup>7</sup>
+# List of books read by [raikiya](http://vk.com/id384194935)<sup>8</sup>
 ---
 
 ## 2015
+
+### Верноподанный
+Генрих Манн
+
 
 ### Молодые годы короля Генриха 4
 Генрих Манн

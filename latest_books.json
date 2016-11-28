@@ -1,4 +1,16 @@
 {
+    "cNQfdP3xVu": {
+        "id": "cNQfdP3xVu",
+        "title": "Верноподанный",
+        "author": "Генрих Манн",
+        "notes": "",
+        "createdAt": "2016-11-28 19:08:55",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 8
+        }
+    },
     "tW2Tc1OT4K": {
         "id": "tW2Tc1OT4K",
         "title": "Молодые годы короля Генриха 4",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 35
-        }
-    },
-    "xpuQTC-CT0": {
-        "id": "xpuQTC-CT0",
-        "title": "Думай и богатей",
-        "author": "Наполеон Хилл",
-        "notes": "",
-        "createdAt": "2016-11-25 19:59:17",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 34
         }
     }
 }
