@@ -1,4 +1,16 @@
 {
+    "4DXETTBMbY": {
+        "id": "4DXETTBMbY",
+        "title": "Дочь Монтесумы",
+        "author": "Генри Райдер Хаггард",
+        "notes": "Одна из первых",
+        "createdAt": "2016-11-28 19:13:28",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 11
+        }
+    },
     "64t20lWzJC": {
         "id": "64t20lWzJC",
         "title": "Пятнадцатилетний капитан",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 475
-        }
-    },
-    "6biI-xYCow": {
-        "id": "6biI-xYCow",
-        "title": "Простая душа",
-        "author": "Гюстав Флобер",
-        "notes": "",
-        "createdAt": "2016-11-26 09:04:02",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 474
         }
     }
 }
