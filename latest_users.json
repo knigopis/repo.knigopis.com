@@ -1,4 +1,10 @@
 {
+    "279924540-vkontakte": {
+        "id": "279924540-vkontakte",
+        "nickname": "t0ana",
+        "booksCount": 0,
+        "updatedAt": "2016-11-28 18:12:57"
+    },
     "111629067695534050209-google": {
         "id": "111629067695534050209-google",
         "nickname": "Ivan",
@@ -172,11 +178,5 @@
         "nickname": "BARREL",
         "booksCount": 1,
         "updatedAt": "2016-11-21 13:13:58"
-    },
-    "117124011531379579265-google": {
-        "id": "117124011531379579265-google",
-        "nickname": "pimanocci",
-        "booksCount": 12,
-        "updatedAt": "2016-11-21 12:57:13"
     }
 }
