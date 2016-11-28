@@ -1,4 +1,16 @@
 {
+    "vCoQjIgPEh": {
+        "id": "vCoQjIgPEh",
+        "title": "Гемлет/ Отелло/ Король Лир",
+        "author": "Уильям Шекспир",
+        "notes": "Довольно вместительная книга- сборник",
+        "createdAt": "2016-11-28 19:07:01",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 6
+        }
+    },
     "9cEhgtv3H-": {
         "id": "9cEhgtv3H-",
         "title": "Ромео и Джульета",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 33
-        }
-    },
-    "6WAW2w79iT": {
-        "id": "6WAW2w79iT",
-        "title": "Подсознание может все",
-        "author": "Джон Кехо",
-        "notes": "",
-        "createdAt": "2016-11-25 19:55:18",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 27
         }
     }
 }

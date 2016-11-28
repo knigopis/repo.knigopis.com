@@ -1,7 +1,12 @@
-# List of books read by [raikiya](http://vk.com/id384194935)<sup>5</sup>
+# List of books read by [raikiya](http://vk.com/id384194935)<sup>6</sup>
 ---
 
 ## 2015
+
+### Гемлет/ Отелло/ Король Лир
+Уильям Шекспир
+> Довольно вместительная книга- сборник
+
 
 ### Ромео и Джульета
 Уильям Шекспир
