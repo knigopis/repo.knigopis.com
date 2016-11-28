@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiya](users/384/384194935-vkontakte)<sup>0</sup> 
 [t0ana](users/279/279924540-vkontakte)<sup>0</sup> 
 [Ivan](users/111/111629067695534050209-google)<sup>0</sup> 
 [ferelis](users/246/246727869-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup> 
-[BARREL](users/178/178490314-vkontakte)<sup>1</sup> 
 
 
-_28.11.2016 18:12:59_
+_28.11.2016 18:55:51_
