@@ -1,4 +1,16 @@
 {
+    "HaaaQHgf9X": {
+        "id": "HaaaQHgf9X",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "",
+        "createdAt": "2016-11-28 19:17:15",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 15
+        }
+    },
     "CJVzZe2fjO": {
         "id": "CJVzZe2fjO",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 28
-        }
-    },
-    "G7MejozuXr": {
-        "id": "G7MejozuXr",
-        "title": "Мерседес из Кастилии",
-        "author": "Джеймс Фенимор Купер",
-        "notes": "",
-        "createdAt": "2016-11-26 10:04:36",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 27
         }
     }
 }
