@@ -1,4 +1,16 @@
 {
+    "VaAR-gRarY": {
+        "id": "VaAR-gRarY",
+        "title": "Человек Толпы",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2016-11-28 19:23:45",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 22
+        }
+    },
     "lFpDmebI4z": {
         "id": "lFpDmebI4z",
         "title": "Том Сойер",
@@ -345,18 +357,6 @@
             "id": "40591581-vkontakte",
             "nickname": "svitcona",
             "booksCount": 1
-        }
-    },
-    "CKiWT_J1QS": {
-        "id": "CKiWT_J1QS",
-        "title": "Мёртвые Души",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2016-11-26 11:04:26",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 33
         }
     }
 }
