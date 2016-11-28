@@ -1,4 +1,16 @@
 {
+    "tW2Tc1OT4K": {
+        "id": "tW2Tc1OT4K",
+        "title": "Молодые годы короля Генриха 4",
+        "author": "Генрих Манн",
+        "notes": "",
+        "createdAt": "2016-11-28 19:08:38",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 7
+        }
+    },
     "vCoQjIgPEh": {
         "id": "vCoQjIgPEh",
         "title": "Гемлет/ Отелло/ Король Лир",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 34
-        }
-    },
-    "vErPnhNYum": {
-        "id": "vErPnhNYum",
-        "title": "Как работать по 4 часа в неделю и при этом не торчать в офисе \"от звонка до звонка\", жить где угодно и богатеть",
-        "author": "Тимоти Феррис",
-        "notes": "",
-        "createdAt": "2016-11-25 19:57:31",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 33
         }
     }
 }
