@@ -1,4 +1,16 @@
 {
+    "u_EFIBw-AA": {
+        "id": "u_EFIBw-AA",
+        "title": "Путешествие во времени",
+        "author": "Брэдбери Рэй",
+        "notes": "",
+        "createdAt": "2016-11-28 19:24:36",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 23
+        }
+    },
     "VaAR-gRarY": {
         "id": "VaAR-gRarY",
         "title": "Человек Толпы",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 16
-        }
-    },
-    "kn_oQa10b7": {
-        "id": "kn_oQa10b7",
-        "title": "",
-        "author": "Сара Джо",
-        "notes": "",
-        "createdAt": "2016-11-26 12:22:14",
-        "user": {
-            "id": "40591581-vkontakte",
-            "nickname": "svitcona",
-            "booksCount": 1
         }
     }
 }
