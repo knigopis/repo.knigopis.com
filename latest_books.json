@@ -1,4 +1,16 @@
 {
+    "CJVzZe2fjO": {
+        "id": "CJVzZe2fjO",
+        "title": "Инферно",
+        "author": "Ден Браун",
+        "notes": "",
+        "createdAt": "2016-11-28 19:16:43",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 14
+        }
+    },
     "JMp3zaVwKq": {
         "id": "JMp3zaVwKq",
         "title": "Серия романов о Гарри Поттере",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 27
-        }
-    },
-    "R2HF-WHtQG": {
-        "id": "R2HF-WHtQG",
-        "title": "Мизери",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2016-11-26 10:03:18",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 26
         }
     }
 }
