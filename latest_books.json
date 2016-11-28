@@ -1,4 +1,16 @@
 {
+    "lFpDmebI4z": {
+        "id": "lFpDmebI4z",
+        "title": "Том Сойер",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2016-11-28 19:23:10",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 21
+        }
+    },
     "8Jp_Ho5JJS": {
         "id": "8Jp_Ho5JJS",
         "title": "Муму",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 33
-        }
-    },
-    "PZLzVfG03h": {
-        "id": "PZLzVfG03h",
-        "title": "Фауст",
-        "author": "Иоганн Гёте",
-        "notes": "",
-        "createdAt": "2016-11-26 11:03:23",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 32
         }
     }
 }
