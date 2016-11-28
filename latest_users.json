@@ -1,4 +1,10 @@
 {
+    "111629067695534050209-google": {
+        "id": "111629067695534050209-google",
+        "nickname": "Ivan",
+        "booksCount": 0,
+        "updatedAt": "2016-11-28 14:35:11"
+    },
     "246727869-vkontakte": {
         "id": "246727869-vkontakte",
         "nickname": "ferelis",
@@ -172,11 +178,5 @@
         "nickname": "pimanocci",
         "booksCount": 12,
         "updatedAt": "2016-11-21 12:57:13"
-    },
-    "100001740103274-facebook": {
-        "id": "100001740103274-facebook",
-        "nickname": "Sancrite",
-        "booksCount": 0,
-        "updatedAt": "2016-11-20 23:42:59"
     }
 }
