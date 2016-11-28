@@ -1,4 +1,16 @@
 {
+    "Y1L9pYyjQ2": {
+        "id": "Y1L9pYyjQ2",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2016-11-28 19:18:08",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 17
+        }
+    },
     "_wRIc9C9ly": {
         "id": "_wRIc9C9ly",
         "title": "Я много жил...",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 12
-        }
-    },
-    "7wlbyNV7S-": {
-        "id": "7wlbyNV7S-",
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2016-11-26 10:07:09",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 29
         }
     }
 }
