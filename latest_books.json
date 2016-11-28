@@ -1,4 +1,16 @@
 {
+    "iChVGdPi8J": {
+        "id": "iChVGdPi8J",
+        "title": "Робинзон Крузо",
+        "author": "Даниэль Дефо",
+        "notes": "",
+        "createdAt": "2016-11-28 19:14:11",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 12
+        }
+    },
     "4DXETTBMbY": {
         "id": "4DXETTBMbY",
         "title": "Дочь Монтесумы",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 476
-        }
-    },
-    "XHGT6uqqf0": {
-        "id": "XHGT6uqqf0",
-        "title": "Мастеровой",
-        "author": "Бернард Маламуд",
-        "notes": "",
-        "createdAt": "2016-11-26 09:04:18",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 475
         }
     }
 }
