@@ -1,4 +1,16 @@
 {
+    "FRaP-Ggd2K": {
+        "id": "FRaP-Ggd2K",
+        "title": "Герой нашего времени",
+        "author": "Лермонтов",
+        "notes": "",
+        "createdAt": "2016-11-28 19:19:26",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 19
+        }
+    },
     "gHioFEjDOO": {
         "id": "gHioFEjDOO",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "253918564-vkontakte",
             "nickname": "Адам Сильсторн",
             "booksCount": 31
-        }
-    },
-    "52CJNVtrwd": {
-        "id": "52CJNVtrwd",
-        "title": "Тарас Бульба",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2016-11-26 10:58:52",
-        "user": {
-            "id": "253918564-vkontakte",
-            "nickname": "Адам Сильсторн",
-            "booksCount": 30
         }
     }
 }
