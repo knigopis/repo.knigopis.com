@@ -1,4 +1,10 @@
 {
+    "246727869-vkontakte": {
+        "id": "246727869-vkontakte",
+        "nickname": "ferelis",
+        "booksCount": 0,
+        "updatedAt": "2016-11-28 14:07:12"
+    },
     "1825041101100550-facebook": {
         "id": "1825041101100550-facebook",
         "nickname": "Еліт",
@@ -172,11 +178,5 @@
         "nickname": "Sancrite",
         "booksCount": 0,
         "updatedAt": "2016-11-20 23:42:59"
-    },
-    "82626127-vkontakte": {
-        "id": "82626127-vkontakte",
-        "nickname": "drelariel",
-        "booksCount": 0,
-        "updatedAt": "2016-11-20 19:26:29"
     }
 }
