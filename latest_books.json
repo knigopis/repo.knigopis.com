@@ -1,4 +1,16 @@
 {
+    "geuX3rmG4g": {
+        "id": "geuX3rmG4g",
+        "title": "Иво Стоуртон",
+        "author": "Нарушители запретов",
+        "notes": "",
+        "createdAt": "2016-11-28 19:02:48",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiya",
+            "booksCount": 3
+        }
+    },
     "gQvH4001pg": {
         "id": "gQvH4001pg",
         "title": "Поджигатели",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 24
-        }
-    },
-    "XXxvVtfjP4": {
-        "id": "XXxvVtfjP4",
-        "title": "Три мушкетера",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2016-11-25 19:50:43",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 23
         }
     }
 }
