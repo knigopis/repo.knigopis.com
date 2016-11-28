@@ -1,4 +1,16 @@
 {
+    "d8--lBpVlu": {
+        "id": "d8--lBpVlu",
+        "title": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
+        "author": "Стивен Р. Кови",
+        "notes": "",
+        "createdAt": "2016-11-28 19:04:43",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 18
+        }
+    },
     "IPDyG1s1Xp": {
         "id": "IPDyG1s1Xp",
         "title": "Я вижу, о чем вы думаете",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 26
-        }
-    },
-    "tLSFuit2Yo": {
-        "id": "tLSFuit2Yo",
-        "title": "Двадцать лет спустя",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2016-11-25 19:51:49",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 25
         }
     }
 }
