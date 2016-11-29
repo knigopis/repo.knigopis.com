@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 0,
+        "updatedAt": "2016-11-29 10:59:03"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "heathermist",
         "booksCount": 1,
         "updatedAt": "2016-11-22 16:52:38"
-    },
-    "113033184709492089410-google": {
-        "id": "113033184709492089410-google",
-        "nickname": "aglovlyuk",
-        "booksCount": 7,
-        "updatedAt": "2016-11-22 12:28:00"
     }
 }
