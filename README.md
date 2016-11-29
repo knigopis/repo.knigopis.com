@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>19</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>13</sup> 
 [raikiya](users/384/384194935-vkontakte)<sup>24</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>18</sup> 
 [t0ana](users/279/279924540-vkontakte)<sup>0</sup> 
 [Ivan](users/111/111629067695534050209-google)<sup>0</sup> 
 [ferelis](users/246/246727869-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 
 
-_29.11.2016 10:59:04_
+_29.11.2016 18:18:46_

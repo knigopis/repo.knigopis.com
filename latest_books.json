@@ -1,4 +1,16 @@
 {
+    "2Dc4PKO_am": {
+        "id": "2Dc4PKO_am",
+        "title": "Штурмовой вариант",
+        "author": "Альберт Байкалов",
+        "notes": "Хороший боевик и читается легко. Также есть информация к размышлению",
+        "createdAt": "2016-11-29 18:18:46",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 19
+        }
+    },
     "jbi5eWdxzV": {
         "id": "jbi5eWdxzV",
         "title": "С неба упали три яблока",
@@ -344,18 +356,6 @@
         "user": {
             "id": "37777569-vkontakte",
             "nickname": "Софик",
-            "booksCount": 1
-        }
-    },
-    "c1xhL2JDZt": {
-        "id": "c1xhL2JDZt",
-        "title": "11/22/63",
-        "author": "Стивен Кинг",
-        "notes": "Одна из любимых книг",
-        "createdAt": "2016-11-27 17:32:17",
-        "user": {
-            "id": "392839308-vkontakte",
-            "nickname": "Requiescat",
             "booksCount": 1
         }
     }

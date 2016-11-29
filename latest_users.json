@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 19,
+        "updatedAt": "2016-11-29 18:18:46"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -16,12 +22,6 @@
         "nickname": "raikiya",
         "booksCount": 24,
         "updatedAt": "2016-11-28 19:25:39"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 18,
-        "updatedAt": "2016-11-28 19:04:43"
     },
     "279924540-vkontakte": {
         "id": "279924540-vkontakte",
