@@ -5,7 +5,7 @@
 
 ### Hammer of the Gods: The Thule Society and the Birth of Nazism
 David Lurhssen
-> [2016-11-27] 
+> [2016-11-27] ASIN: B007MCWHYQ
 
 
 ### Pre-Suasion: A Revolutionary Way to Influence and Persuade
