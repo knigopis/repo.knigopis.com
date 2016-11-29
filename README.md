@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>27</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>19</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 [kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 [АрГр](users/114/114189956128762241005-google)<sup>0</sup> 
-[heathermist](users/270/270249728-vkontakte)<sup>1</sup> 
 
 
-_29.11.2016 18:18:46_
+_29.11.2016 18:55:51_

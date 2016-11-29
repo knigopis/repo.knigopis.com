@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>26</sup>
+# Список прочитанных книг пользователя exulted<sup>27</sup>
 ---
 
 ## 2016
+
+### Hammer of the Gods: The Thule Society and the Birth of Nazism
+David Lurhssen
+> [2016-11-27] 
+
 
 ### Pre-Suasion: A Revolutionary Way to Influence and Persuade
 Robert Cialdini

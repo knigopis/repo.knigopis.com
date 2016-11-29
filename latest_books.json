@@ -1,4 +1,16 @@
 {
+    "ZGpfqTZ1Mo": {
+        "id": "ZGpfqTZ1Mo",
+        "title": "Hammer of the Gods: The Thule Society and the Birth of Nazism",
+        "author": "David Lurhssen",
+        "notes": "",
+        "createdAt": "2016-11-29 18:55:51",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 27
+        }
+    },
     "2Dc4PKO_am": {
         "id": "2Dc4PKO_am",
         "title": "Штурмовой вариант",
@@ -345,18 +357,6 @@
             "id": "100003094239547-facebook",
             "nickname": "igor1980",
             "booksCount": 6
-        }
-    },
-    "iqkLsj7kgR": {
-        "id": "iqkLsj7kgR",
-        "title": "Волшебникам не рекомендуется",
-        "author": "Галина Гончарова",
-        "notes": "Не понравилось",
-        "createdAt": "2016-11-27 17:55:46",
-        "user": {
-            "id": "37777569-vkontakte",
-            "nickname": "Софик",
-            "booksCount": 1
         }
     }
 }

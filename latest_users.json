@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 27,
+        "updatedAt": "2016-11-29 18:55:51"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "АрГр",
         "booksCount": 0,
         "updatedAt": "2016-11-22 20:19:42"
-    },
-    "270249728-vkontakte": {
-        "id": "270249728-vkontakte",
-        "nickname": "heathermist",
-        "booksCount": 1,
-        "updatedAt": "2016-11-22 16:52:38"
     }
 }
