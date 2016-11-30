@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
 * Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
 * Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
-* Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
 
 
-_30.11.2016 05:34:38_
+_30.11.2016 08:55:04_
