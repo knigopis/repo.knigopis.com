@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 * Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Перед зеркалом ~ [Беска](users/157/1577468-vkontakte)<sup>7</sup>
 * Цивилизации ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>81</sup>
 * Баргамот и Гараська ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>60</sup>
-* Американская Первомайская ночь ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>59</sup>
 
 
-_29.11.2016 09:39:12_
+_30.11.2016 05:34:38_
