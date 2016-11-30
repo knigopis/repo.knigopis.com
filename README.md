@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>122</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>27</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
 [neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
-[kosta](users/126/12661513-vkontakte)<sup>0</sup> 
 
 
-_30.11.2016 08:55:04_
+_30.11.2016 22:12:53_
