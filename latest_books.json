@@ -1,4 +1,16 @@
 {
+    "wer_BU5fTN": {
+        "id": "wer_BU5fTN",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков Михаил",
+        "notes": "",
+        "createdAt": "2016-12-01 19:05:48",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 20
+        }
+    },
     "ZkmG5u0if-": {
         "id": "ZkmG5u0if-",
         "title": "afq",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 6
-        }
-    },
-    "9cEhgtv3H-": {
-        "id": "9cEhgtv3H-",
-        "title": "Ромео и Джульета",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2016-11-28 19:06:02",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 5
         }
     }
 }

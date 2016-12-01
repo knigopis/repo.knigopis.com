@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>123</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>27</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>19</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>13</sup> 
 [raikiya](users/384/384194935-vkontakte)<sup>24</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 
 
-_01.12.2016 19:01:14_
+_01.12.2016 19:05:48_
