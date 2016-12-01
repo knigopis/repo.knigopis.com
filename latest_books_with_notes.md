@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чайка по имени Джонатан Ливингстон ~ [Garka](users/115/115753719718250012620-google)<sup>123</sup>
 * Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
 * Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Мир глазами Гарпа ~ [nadisvid](users/113/1138852626183846-facebook)<sup>22</sup>
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
-* А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
 
 
-_01.12.2016 15:04:27_
+_01.12.2016 18:05:14_
