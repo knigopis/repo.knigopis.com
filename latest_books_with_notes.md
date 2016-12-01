@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
 * Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
 * Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Чайка по имени Джонатан Ливингстон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>21</sup>
 * Крестный отец ~ [nadisvid](users/113/1138852626183846-facebook)<sup>20</sup>
 * А зори здесь тихие… ~ [nadisvid](users/113/1138852626183846-facebook)<sup>19</sup>
-* Акула пера в мире Файролла[1-11] ~ [Tr](users/122/12282474-vkontakte)<sup>33</sup>
 
 
-_01.12.2016 13:20:29_
+_01.12.2016 15:04:27_

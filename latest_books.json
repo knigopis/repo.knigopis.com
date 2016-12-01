@@ -1,4 +1,16 @@
 {
+    "nadpPT_5si": {
+        "id": "nadpPT_5si",
+        "title": "Саша Черный. Полное собрание сочинений",
+        "author": "Саша Черный",
+        "notes": "Васильевский остров прекрасен, как жаба в манжетах ;)\n\nв процессе",
+        "createdAt": "2016-12-01 15:04:27",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 83
+        }
+    },
     "r0WTUFTWtK": {
         "id": "r0WTUFTWtK",
         "title": "Мосты округа Мэдисон",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 4
-        }
-    },
-    "geuX3rmG4g": {
-        "id": "geuX3rmG4g",
-        "title": "Иво Стоуртон",
-        "author": "Нарушители запретов",
-        "notes": "",
-        "createdAt": "2016-11-28 19:02:48",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 3
         }
     }
 }

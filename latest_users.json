@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 83,
+        "updatedAt": "2016-12-01 15:04:27"
+    },
     "1138852626183846-facebook": {
         "id": "1138852626183846-facebook",
         "nickname": "nadisvid",
@@ -112,12 +118,6 @@
         "nickname": "smr.ekaterina",
         "booksCount": 0,
         "updatedAt": "2016-11-27 10:00:04"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 82,
-        "updatedAt": "2016-11-26 23:20:38"
     },
     "40591581-vkontakte": {
         "id": "40591581-vkontakte",

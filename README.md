@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
+    > Васильевский остров прекрасен, как жаба в манжетах ;)
+    > 
+    > в процессе
+
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
     > Впервый посмотрела фильм и очень захотелось прочесть книгу, тут же скачала и прочла. Книга такая приятная, как и фильм, и если сначала вы смотрели фильм, а потом читали книгу, то вы намного лучше поймете актеров и мотивы их действий.
 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Читал после просмотра фильма, всё хорошо.
 
 * Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
-    > Интересная, нестандартная в плане характеристик LitRPG. Играют значение репутация и отношения, гг тактик, командует космическим флотом. Не дописана. Ждем продолжения
 
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
 
-* Одноэтажная Америка ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup> 
 [rNix](users/115/115622071-twitter)<sup>48</sup> 
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
@@ -54,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>82</sup> 
 [svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>33</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>476</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 
 
-_01.12.2016 13:20:29_
+_01.12.2016 15:04:27_
