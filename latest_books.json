@@ -1,4 +1,16 @@
 {
+    "ZkmG5u0if-": {
+        "id": "ZkmG5u0if-",
+        "title": "afq",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-12-01 19:01:14",
+        "user": {
+            "id": "100962054638710244321-google",
+            "nickname": "Deceiter",
+            "booksCount": 1
+        }
+    },
     "LJCC3Z6sJ5": {
         "id": "LJCC3Z6sJ5",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 5
-        }
-    },
-    "d8--lBpVlu": {
-        "id": "d8--lBpVlu",
-        "title": "7 навыков высокоэффективных людей. Мощные инструменты развития личности",
-        "author": "Стивен Р. Кови",
-        "notes": "",
-        "createdAt": "2016-11-28 19:04:43",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 18
         }
     }
 }
