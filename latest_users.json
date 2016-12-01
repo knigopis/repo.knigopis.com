@@ -1,4 +1,10 @@
 {
+    "100962054638710244321-google": {
+        "id": "100962054638710244321-google",
+        "nickname": "Deceiter",
+        "booksCount": 0,
+        "updatedAt": "2016-12-01 19:00:52"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 62,
         "updatedAt": "2016-11-24 00:19:36"
-    },
-    "leczQ3Eya3-linkedin": {
-        "id": "leczQ3Eya3-linkedin",
-        "nickname": "Ник Литвинов",
-        "booksCount": 82,
-        "updatedAt": "2016-11-23 18:16:43"
     }
 }
