@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 48,
+        "updatedAt": "2016-12-01 05:42:34"
+    },
     "20695003-vkontakte": {
         "id": "20695003-vkontakte",
         "nickname": "djlom777",
@@ -172,11 +178,5 @@
         "nickname": "Nick",
         "booksCount": 0,
         "updatedAt": "2016-11-23 15:21:56"
-    },
-    "101038216126732796086-googleplus": {
-        "id": "101038216126732796086-googleplus",
-        "nickname": "neruwtf",
-        "booksCount": 0,
-        "updatedAt": "2016-11-23 01:01:12"
     }
 }

@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
+    > Как мне и рекомендовали, английский здесь действительно оказался легким к чтению. 
+    > Сама история интересная, фразы Марка забавные.
+    > Читал после просмотра фильма, всё хорошо.
+
 * Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
     > Интересная, нестандартная в плане характеристик LitRPG. Играют значение репутация и отношения, гг тактик, командует космическим флотом. Не дописана. Ждем продолжения
 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > "На высотах все пути вымощены кинжалами." (Старая шончанская пословица)
 
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
-    > Волшебный, мистический, реальный, грустный, сказочный, добрый, щедрый, родной и такой далекий мир в книге. повествование льется, переливается, в перекатами, не с водопадами, с переливами. Красивое звучание, при котором даже не обращаешь внимания на слова.
 
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 
-* Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>48</sup> 
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>122</sup> 
@@ -64,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup> 
 [Nick](users/118/118390303977872287066-google)<sup>0</sup> 
-[neruwtf](users/101/101038216126732796086-googleplus)<sup>0</sup> 
 
 
-_30.11.2016 22:12:53_
+_01.12.2016 05:42:34_
