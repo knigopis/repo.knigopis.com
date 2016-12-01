@@ -1,4 +1,10 @@
 {
+    "1138852626183846-facebook": {
+        "id": "1138852626183846-facebook",
+        "nickname": "nadisvid",
+        "booksCount": 23,
+        "updatedAt": "2016-12-01 13:20:29"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 82,
         "updatedAt": "2016-11-23 18:16:43"
-    },
-    "118390303977872287066-google": {
-        "id": "118390303977872287066-google",
-        "nickname": "Nick",
-        "booksCount": 0,
-        "updatedAt": "2016-11-23 15:21:56"
     }
 }
