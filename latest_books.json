@@ -1,4 +1,16 @@
 {
+    "Bo5VmBGkgs": {
+        "id": "Bo5VmBGkgs",
+        "title": "Начинается ночь",
+        "author": "Майкл Каннингем",
+        "notes": "",
+        "createdAt": "2016-12-02 14:51:29",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 477
+        }
+    },
     "3b2eq83KQO": {
         "id": "3b2eq83KQO",
         "title": "Непобедимый",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 8
-        }
-    },
-    "tW2Tc1OT4K": {
-        "id": "tW2Tc1OT4K",
-        "title": "Молодые годы короля Генриха 4",
-        "author": "Генрих Манн",
-        "notes": "",
-        "createdAt": "2016-11-28 19:08:38",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 7
         }
     }
 }
