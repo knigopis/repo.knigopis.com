@@ -1,4 +1,16 @@
 {
+    "3b2eq83KQO": {
+        "id": "3b2eq83KQO",
+        "title": "Непобедимый",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2016-12-02 03:53:13",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 228
+        }
+    },
     "wer_BU5fTN": {
         "id": "wer_BU5fTN",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 7
-        }
-    },
-    "vCoQjIgPEh": {
-        "id": "vCoQjIgPEh",
-        "title": "Гемлет/ Отелло/ Король Лир",
-        "author": "Уильям Шекспир",
-        "notes": "Довольно вместительная книга- сборник",
-        "createdAt": "2016-11-28 19:07:01",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 6
         }
     }
 }
