@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>477</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>228</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 [Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>84</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>62</sup> 
 
 
-_02.12.2016 14:51:29_
+_02.12.2016 17:26:11_
