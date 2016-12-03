@@ -1,4 +1,16 @@
 {
+    "Lg4SEwbe6-": {
+        "id": "Lg4SEwbe6-",
+        "title": "Преступление и наказание",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2016-12-03 09:41:44",
+        "user": {
+            "id": "101531492482227595895-google",
+            "nickname": "rize",
+            "booksCount": 1
+        }
+    },
     "Bo5VmBGkgs": {
         "id": "Bo5VmBGkgs",
         "title": "Начинается ночь",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 9
-        }
-    },
-    "cNQfdP3xVu": {
-        "id": "cNQfdP3xVu",
-        "title": "Верноподанный",
-        "author": "Генрих Манн",
-        "notes": "",
-        "createdAt": "2016-11-28 19:08:55",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 8
         }
     }
 }
