@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
+    > Великолепное произведение, по праву входящие практически во все рейтинге лучших книг. Отлично подмечены и описаны все абсурдные проблемы, вызванные предубежденным мнением и непомерной гордостью. И все это приправлено тонким английским юмором.
+
 * В кильватерном строю за смертью ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup>
     > в процессе
     > 
@@ -15,9 +18,6 @@ Do not use pull requests to make changes here.
     > Но в тоже время простой язык написания и фанатичная любовь Баха к небу и полетом подкупает.
 
 * Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
-    > Васильевский остров прекрасен, как жаба в манжетах ;)
-    > 
-    > в процессе
 
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
 
@@ -31,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 
-* Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup> 
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
@@ -46,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>228</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>123</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup> 
 [rNix](users/115/115622071-twitter)<sup>48</sup> 
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 
 
-_03.12.2016 15:14:43_
+_03.12.2016 20:56:12_

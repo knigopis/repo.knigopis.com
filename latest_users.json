@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 124,
+        "updatedAt": "2016-12-03 20:56:11"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -46,12 +52,6 @@
         "nickname": "Deceiter",
         "booksCount": 1,
         "updatedAt": "2016-12-01 19:01:14"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 123,
-        "updatedAt": "2016-12-01 18:05:14"
     },
     "1138852626183846-facebook": {
         "id": "1138852626183846-facebook",
