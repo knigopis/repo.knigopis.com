@@ -1,4 +1,10 @@
 {
+    "101531492482227595895-google": {
+        "id": "101531492482227595895-google",
+        "nickname": "rize",
+        "booksCount": 0,
+        "updatedAt": "2016-12-03 09:35:28"
+    },
     "324247745-vkontakte": {
         "id": "324247745-vkontakte",
         "nickname": "yukio_kaneko",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 41,
         "updatedAt": "2016-11-24 18:01:33"
-    },
-    "1260438620656982-facebook": {
-        "id": "1260438620656982-facebook",
-        "nickname": "Aferist",
-        "booksCount": 0,
-        "updatedAt": "2016-11-24 12:20:11"
     }
 }
