@@ -1,4 +1,10 @@
 {
+    "324247745-vkontakte": {
+        "id": "324247745-vkontakte",
+        "nickname": "yukio_kaneko",
+        "booksCount": 0,
+        "updatedAt": "2016-12-03 02:26:21"
+    },
     "13066918496098957463-mailru": {
         "id": "13066918496098957463-mailru",
         "nickname": "Влад",
@@ -172,11 +178,5 @@
         "nickname": "Aferist",
         "booksCount": 0,
         "updatedAt": "2016-11-24 12:20:11"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 84,
-        "updatedAt": "2016-11-24 10:04:09"
     }
 }
