@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В кильватерном строю за смертью ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup>
+    > в процессе
+    > 
+    > http://www.proza.ru/2013/12/02/505
+
 * Чайка по имени Джонатан Ливингстон ~ [Garka](users/115/115753719718250012620-google)<sup>123</sup>
     > После прочтения была в легком недоумении - откуда у этой сказки-притче такой ошеломляющий успех? Философия произведения довольно стара: будь свободен, иди к своей цели и т.д и т.п.... в последней трети просматривается явный библейский сюжет (спаситель, ученики, проповеди). 
     > Но в тоже время простой язык написания и фанатичная любовь Баха к небу и полетом подкупает.
@@ -15,7 +20,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
-    > Впервый посмотрела фильм и очень захотелось прочесть книгу, тут же скачала и прочла. Книга такая приятная, как и фильм, и если сначала вы смотрели фильм, а потом читали книгу, то вы намного лучше поймете актеров и мотивы их действий.
 
 * Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
 
@@ -29,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
 
-* Катушка синих ниток ~ [Беска](users/157/1577468-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup> 
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
 [Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
@@ -44,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>123</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup> 
 [rNix](users/115/115622071-twitter)<sup>48</sup> 
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
@@ -68,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
 
 
-_03.12.2016 09:53:39_
+_03.12.2016 15:14:43_
