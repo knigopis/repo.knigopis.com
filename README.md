@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rize](users/101/101531492482227595895-google)<sup>0</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
 [Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>477</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>33</sup> 
 [assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>41</sup> 
-[Aferist](users/126/1260438620656982-facebook)<sup>0</sup> 
 
 
-_03.12.2016 02:26:24_
+_03.12.2016 09:35:29_
