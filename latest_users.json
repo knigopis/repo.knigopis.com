@@ -1,4 +1,10 @@
 {
+    "7660100-vkontakte": {
+        "id": "7660100-vkontakte",
+        "nickname": "grigorye",
+        "booksCount": 0,
+        "updatedAt": "2016-12-04 19:08:13"
+    },
     "14024198-vkontakte": {
         "id": "14024198-vkontakte",
         "nickname": "chendrovazhanna",
@@ -172,11 +178,5 @@
         "nickname": "Адам Сильсторн",
         "booksCount": 33,
         "updatedAt": "2016-11-26 11:04:26"
-    },
-    "278197993-vkontakte": {
-        "id": "278197993-vkontakte",
-        "nickname": "assel8honey",
-        "booksCount": 1,
-        "updatedAt": "2016-11-25 05:59:44"
     }
 }
