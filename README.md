@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 [chendrovazhanna](users/140/14024198-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
 [svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
 [Адам Сильсторн](users/253/253918564-vkontakte)<sup>33</sup> 
-[assel8honey](users/278/278197993-vkontakte)<sup>1</sup> 
 
 
-_04.12.2016 18:25:15_
+_04.12.2016 19:08:13_
