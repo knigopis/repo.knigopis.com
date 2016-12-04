@@ -1,4 +1,10 @@
 {
+    "14024198-vkontakte": {
+        "id": "14024198-vkontakte",
+        "nickname": "chendrovazhanna",
+        "booksCount": 0,
+        "updatedAt": "2016-12-04 18:25:13"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "assel8honey",
         "booksCount": 1,
         "updatedAt": "2016-11-25 05:59:44"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 41,
-        "updatedAt": "2016-11-24 18:01:33"
     }
 }
