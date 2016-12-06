@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 14,
+        "updatedAt": "2016-12-06 08:38:52"
+    },
     "331291543-yandex": {
         "id": "331291543-yandex",
         "nickname": "sc96gorodperm",
@@ -172,11 +178,5 @@
         "nickname": "smr.ekaterina",
         "booksCount": 0,
         "updatedAt": "2016-11-27 10:00:04"
-    },
-    "40591581-vkontakte": {
-        "id": "40591581-vkontakte",
-        "nickname": "svitcona",
-        "booksCount": 1,
-        "updatedAt": "2016-11-26 12:22:14"
     }
 }

@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 [chendrovazhanna](users/140/14024198-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
-[svitcona](users/405/40591581-vkontakte)<sup>1</sup> 
 
 
-_06.12.2016 04:17:12_
+_06.12.2016 08:38:52_
