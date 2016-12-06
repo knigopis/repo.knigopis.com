@@ -1,4 +1,16 @@
 {
+    "bXjgUU_lI2": {
+        "id": "bXjgUU_lI2",
+        "title": "Дело лишь во времени",
+        "author": "Джеймс Хедли Чейз",
+        "notes": "",
+        "createdAt": "2016-12-06 16:18:59",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 5
+        }
+    },
     "08RSgIKOEI": {
         "id": "08RSgIKOEI",
         "title": "Рука в кувшине",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 24
-        }
-    },
-    "u_EFIBw-AA": {
-        "id": "u_EFIBw-AA",
-        "title": "Путешествие во времени",
-        "author": "Брэдбери Рэй",
-        "notes": "",
-        "createdAt": "2016-11-28 19:24:36",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 23
         }
     }
 }
