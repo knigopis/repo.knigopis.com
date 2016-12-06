@@ -1,7 +1,11 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>2</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>3</sup>
 ---
 
 ## 2015
+
+### Кто останется жив - будет смеяться
+Джеймс Хедли Чейз
+
 
 ### Когда прерывается фильм
 Джеймс Хедли Чейз

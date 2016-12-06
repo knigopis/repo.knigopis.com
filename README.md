@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lazarchik](users/347/34754901-vkontakte)<sup>2</sup> 
+[lazarchik](users/347/34754901-vkontakte)<sup>3</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>478</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 
 
-_06.12.2016 16:15:27_
+_06.12.2016 16:17:29_
