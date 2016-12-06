@@ -1,4 +1,16 @@
 {
+    "L-xex1a1SK": {
+        "id": "L-xex1a1SK",
+        "title": "Когда прерывается фильм",
+        "author": "Джеймс Хедли Чейз",
+        "notes": "",
+        "createdAt": "2016-12-06 16:15:27",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 2
+        }
+    },
     "RMnoSwr89m": {
         "id": "RMnoSwr89m",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 21
-        }
-    },
-    "8Jp_Ho5JJS": {
-        "id": "8Jp_Ho5JJS",
-        "title": "Муму",
-        "author": "Тургенев",
-        "notes": "",
-        "createdAt": "2016-11-28 19:20:52",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 20
         }
     }
 }
