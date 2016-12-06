@@ -1,4 +1,10 @@
 {
+    "331291543-yandex": {
+        "id": "331291543-yandex",
+        "nickname": "sc96gorodperm",
+        "booksCount": 0,
+        "updatedAt": "2016-12-06 04:17:10"
+    },
     "7660100-vkontakte": {
         "id": "7660100-vkontakte",
         "nickname": "grigorye",
@@ -172,11 +178,5 @@
         "nickname": "svitcona",
         "booksCount": 1,
         "updatedAt": "2016-11-26 12:22:14"
-    },
-    "253918564-vkontakte": {
-        "id": "253918564-vkontakte",
-        "nickname": "Адам Сильсторн",
-        "booksCount": 33,
-        "updatedAt": "2016-11-26 11:04:26"
     }
 }
