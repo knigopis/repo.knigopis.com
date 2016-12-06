@@ -1,4 +1,16 @@
 {
+    "RMnoSwr89m": {
+        "id": "RMnoSwr89m",
+        "title": "",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2016-12-06 16:12:59",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 1
+        }
+    },
     "Uuczr7RRbZ": {
         "id": "Uuczr7RRbZ",
         "title": "Художник зыбкого мира",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 20
-        }
-    },
-    "FRaP-Ggd2K": {
-        "id": "FRaP-Ggd2K",
-        "title": "Герой нашего времени",
-        "author": "Лермонтов",
-        "notes": "",
-        "createdAt": "2016-11-28 19:19:26",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 19
         }
     }
 }
