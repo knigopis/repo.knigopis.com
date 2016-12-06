@@ -1,4 +1,16 @@
 {
+    "Uuczr7RRbZ": {
+        "id": "Uuczr7RRbZ",
+        "title": "Художник зыбкого мира",
+        "author": "Кадзуо Исигуро",
+        "notes": "",
+        "createdAt": "2016-12-06 13:50:34",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 478
+        }
+    },
     "5wmnPHUxSF": {
         "id": "5wmnPHUxSF",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 19
-        }
-    },
-    "gHioFEjDOO": {
-        "id": "gHioFEjDOO",
-        "title": "Идиот",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2016-11-28 19:18:57",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 18
         }
     }
 }

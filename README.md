@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>478</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
 [Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>477</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>228</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [smr.ekaterina](users/349/34912923-vkontakte)<sup>0</sup> 
 
 
-_06.12.2016 08:38:52_
+_06.12.2016 13:50:34_
