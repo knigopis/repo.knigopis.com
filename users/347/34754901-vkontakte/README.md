@@ -1,7 +1,11 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>6</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>7</sup>
 ---
 
 ## 2015
+
+### Белый Клык
+Джек Лондон
+
 
 ### Джокер в колоде
 Джеймс Хедли Чейз
