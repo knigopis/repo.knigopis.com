@@ -1,4 +1,16 @@
 {
+    "wF0L0sx50I": {
+        "id": "wF0L0sx50I",
+        "title": "Джокер в колоде",
+        "author": "Джеймс Хедли Чейз",
+        "notes": "",
+        "createdAt": "2016-12-06 16:19:25",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 6
+        }
+    },
     "bXjgUU_lI2": {
         "id": "bXjgUU_lI2",
         "title": "Дело лишь во времени",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 13
-        }
-    },
-    "8tVn7uiZ03": {
-        "id": "8tVn7uiZ03",
-        "title": "Побег из Шоушенка",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2016-11-28 19:25:39",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 24
         }
     }
 }

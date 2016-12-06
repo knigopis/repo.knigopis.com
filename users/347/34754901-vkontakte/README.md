@@ -1,7 +1,11 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>5</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>6</sup>
 ---
 
 ## 2015
+
+### Джокер в колоде
+Джеймс Хедли Чейз
+
 
 ### Дело лишь во времени
 Джеймс Хедли Чейз
