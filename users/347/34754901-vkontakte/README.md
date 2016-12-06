@@ -1,7 +1,11 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>3</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>4</sup>
 ---
 
 ## 2015
+
+### Рука в кувшине
+Джеймс Хедли Чейз
+
 
 ### Кто останется жив - будет смеяться
 Джеймс Хедли Чейз

@@ -1,4 +1,16 @@
 {
+    "08RSgIKOEI": {
+        "id": "08RSgIKOEI",
+        "title": "Рука в кувшине",
+        "author": "Джеймс Хедли Чейз",
+        "notes": "",
+        "createdAt": "2016-12-06 16:18:29",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 4
+        }
+    },
     "WA_8NXdbWy": {
         "id": "WA_8NXdbWy",
         "title": "Кто останется жив - будет смеяться",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 23
-        }
-    },
-    "VaAR-gRarY": {
-        "id": "VaAR-gRarY",
-        "title": "Человек Толпы",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2016-11-28 19:23:45",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 22
         }
     }
 }
