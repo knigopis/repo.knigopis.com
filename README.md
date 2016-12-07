@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pineapple_wife](users/736/736867466220085249-twitter)<sup>0</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>478</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [igor1980](users/100/100003094239547-facebook)<sup>7</sup> 
 [Софик](users/377/37777569-vkontakte)<sup>1</sup> 
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
-[kkorotaev](users/552/5528389-vkontakte)<sup>0</sup> 
 
 
-_06.12.2016 16:20:12_
+_07.12.2016 06:17:42_
