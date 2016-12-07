@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>125</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ferelis](users/246/246727869-vkontakte)<sup>0</sup> 
 [Еліт](users/182/1825041101100550-facebook)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>7</sup> 
-[Софик](users/377/37777569-vkontakte)<sup>1</sup> 
 
 
-_07.12.2016 14:14:08_
+_07.12.2016 19:30:22_
