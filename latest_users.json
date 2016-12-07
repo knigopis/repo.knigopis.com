@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 63,
+        "updatedAt": "2016-12-07 14:14:08"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Софик",
         "booksCount": 1,
         "updatedAt": "2016-11-27 17:55:46"
-    },
-    "392839308-vkontakte": {
-        "id": "392839308-vkontakte",
-        "nickname": "Requiescat",
-        "booksCount": 1,
-        "updatedAt": "2016-11-27 17:32:17"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Исландия, треска и все-все-все ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
+    > Юмористическое описание мировых военно-политических событий ХХ века. Просто и понятно.
+
 * Путеводитель «Автостопом по Галактике» ~ [Garka](users/115/115753719718250012620-google)<sup>125</sup>
     > Немного безумная книга, представление о Вселенной весьма своеобразное, но написано с юмором, однозначно поднимает настроение. Земля - суперкомпьютер, а главные на ней мыши (точнее проекция высших существ в образе мышей).
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Великолепное произведение, по праву входящие практически во все рейтинге лучших книг. Отлично подмечены и описаны все абсурдные проблемы, вызванные предубежденным мнением и непомерной гордостью. И все это приправлено тонким английским юмором.
 
 * В кильватерном строю за смертью ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup>
-    > в процессе
-    > 
-    > http://www.proza.ru/2013/12/02/505
 
 * Чайка по имени Джонатан Ливингстон ~ [Garka](users/115/115753719718250012620-google)<sup>123</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 
-* С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>125</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>7</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Еліт](users/182/1825041101100550-facebook)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>7</sup> 
 [Софик](users/377/37777569-vkontakte)<sup>1</sup> 
-[Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 
 
-_07.12.2016 06:37:29_
+_07.12.2016 14:14:08_

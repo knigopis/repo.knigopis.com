@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Исландия, треска и все-все-все ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Путеводитель «Автостопом по Галактике» ~ [Garka](users/115/115753719718250012620-google)<sup>125</sup>
 * Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
 * В кильватерном строю за смертью ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup>
@@ -30,7 +31,6 @@
 * Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
 * Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
 * Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
-* Над пропастью во ржи ~ [Беска](users/157/1577468-vkontakte)<sup>8</sup>
 
 
-_07.12.2016 06:37:29_
+_07.12.2016 14:14:08_
