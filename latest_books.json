@@ -1,4 +1,16 @@
 {
+    "OZbl3kZ_mH": {
+        "id": "OZbl3kZ_mH",
+        "title": "Путеводитель «Автостопом по Галактике»",
+        "author": "Адамс, Дуглас",
+        "notes": "Немного безумная книга, представление о Вселенной весьма своеобразное, но написано с юмором, однозначно поднимает настроение. Земля - суперкомпьютер, а главные на ней мыши (точнее проекция высших существ в образе мышей).",
+        "createdAt": "2016-12-07 06:37:29",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 125
+        }
+    },
     "pfGlpRYChz": {
         "id": "pfGlpRYChz",
         "title": "Катушка синих ниток",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 122
-        }
-    },
-    "ZGpfqTZ1Mo": {
-        "id": "ZGpfqTZ1Mo",
-        "title": "Hammer of the Gods: The Thule Society and the Birth of Nazism",
-        "author": "David Lurhssen",
-        "notes": "",
-        "createdAt": "2016-11-29 18:55:51",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 27
         }
     }
 }

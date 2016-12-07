@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путеводитель «Автостопом по Галактике» ~ [Garka](users/115/115753719718250012620-google)<sup>125</sup>
+    > Немного безумная книга, представление о Вселенной весьма своеобразное, но написано с юмором, однозначно поднимает настроение. Земля - суперкомпьютер, а главные на ней мыши (точнее проекция высших существ в образе мышей).
+
 * Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
     > Великолепное произведение, по праву входящие практически во все рейтинге лучших книг. Отлично подмечены и описаны все абсурдные проблемы, вызванные предубежденным мнением и непомерной гордостью. И все это приправлено тонким английским юмором.
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > http://www.proza.ru/2013/12/02/505
 
 * Чайка по имени Джонатан Ливингстон ~ [Garka](users/115/115753719718250012620-google)<sup>123</sup>
-    > После прочтения была в легком недоумении - откуда у этой сказки-притче такой ошеломляющий успех? Философия произведения довольно стара: будь свободен, иди к своей цели и т.д и т.п.... в последней трети просматривается явный библейский сюжет (спаситель, ученики, проповеди). 
-    > Но в тоже время простой язык написания и фанатичная любовь Баха к небу и полетом подкупает.
 
 * Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
 
@@ -29,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 
-* Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>125</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>478</sup> 
@@ -43,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 [chendrovazhanna](users/140/14024198-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup> 
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Requiescat](users/392/392839308-vkontakte)<sup>1</sup> 
 
 
-_07.12.2016 06:19:19_
+_07.12.2016 06:37:29_
