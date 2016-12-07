@@ -1,4 +1,16 @@
 {
+    "pfGlpRYChz": {
+        "id": "pfGlpRYChz",
+        "title": "Катушка синих ниток",
+        "author": "Энн Тайлер",
+        "notes": "♥",
+        "createdAt": "2016-12-07 06:19:19",
+        "user": {
+            "id": "736867466220085249-twitter",
+            "nickname": "pineapple_wife",
+            "booksCount": 1
+        }
+    },
     "JN5QoM2KtC": {
         "id": "JN5QoM2KtC",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 27
-        }
-    },
-    "2Dc4PKO_am": {
-        "id": "2Dc4PKO_am",
-        "title": "Штурмовой вариант",
-        "author": "Альберт Байкалов",
-        "notes": "Хороший боевик и читается легко. Также есть информация к размышлению",
-        "createdAt": "2016-11-29 18:18:46",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 19
         }
     }
 }
