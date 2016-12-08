@@ -1,7 +1,12 @@
-# List of books read by [nnyayaya](http://vk.com/id188067473)<sup>2</sup>
+# List of books read by [nnyayaya](http://vk.com/id188067473)<sup>3</sup>
 ---
 
 ## 2016
+
+### Гордость и предубеждения
+Джейн Остин
+> [2016-12-05] 
+
 
 ### Дом странных детей
 Ренсом Риггз
