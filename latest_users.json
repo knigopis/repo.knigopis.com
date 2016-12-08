@@ -1,4 +1,10 @@
 {
+    "188067473-vkontakte": {
+        "id": "188067473-vkontakte",
+        "nickname": "nnyayaya",
+        "booksCount": 0,
+        "updatedAt": "2016-12-08 10:44:41"
+    },
     "376238510-yandex": {
         "id": "376238510-yandex",
         "nickname": "ponomarenkovv87",
@@ -172,11 +178,5 @@
         "nickname": "Ivan",
         "booksCount": 0,
         "updatedAt": "2016-11-28 14:35:11"
-    },
-    "246727869-vkontakte": {
-        "id": "246727869-vkontakte",
-        "nickname": "ferelis",
-        "booksCount": 0,
-        "updatedAt": "2016-11-28 14:07:12"
     }
 }
