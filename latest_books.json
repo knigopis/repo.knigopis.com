@@ -1,4 +1,16 @@
 {
+    "9Rng5nKeJj": {
+        "id": "9Rng5nKeJj",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-12-08 11:11:42",
+        "user": {
+            "id": "188067473-vkontakte",
+            "nickname": "nnyayaya",
+            "booksCount": 2
+        }
+    },
     "egwllK2jNy": {
         "id": "egwllK2jNy",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 23
-        }
-    },
-    "5jDMS12X6z": {
-        "id": "5jDMS12X6z",
-        "title": "Martian",
-        "author": "Andy Weir",
-        "notes": "Как мне и рекомендовали, английский здесь действительно оказался легким к чтению. \nСама история интересная, фразы Марка забавные.\nЧитал после просмотра фильма, всё хорошо.",
-        "createdAt": "2016-12-01 05:42:34",
-        "user": {
-            "id": "115622071-twitter",
-            "nickname": "rNix",
-            "booksCount": 48
         }
     }
 }
