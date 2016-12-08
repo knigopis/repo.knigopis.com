@@ -1,6 +1,9 @@
 # Wish list of books by [nohappinessnofun](http://vk.com/id380085691)
 ---
 
+### `70` Женщина и ребра
+Ито Дзюндзи
+
 ### `50` Голос Дьявола
 Ито Дзюндзи
 
