@@ -1,4 +1,10 @@
 {
+    "380085691-vkontakte": {
+        "id": "380085691-vkontakte",
+        "nickname": "nohappinessnofun",
+        "booksCount": 2,
+        "updatedAt": "2016-12-08 18:40:01"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 13,
         "updatedAt": "2016-11-29 09:39:12"
-    },
-    "384194935-vkontakte": {
-        "id": "384194935-vkontakte",
-        "nickname": "raikiya",
-        "booksCount": 24,
-        "updatedAt": "2016-11-28 19:25:39"
     }
 }

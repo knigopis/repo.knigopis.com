@@ -1,4 +1,16 @@
 {
+    "cjduID3GMf": {
+        "id": "cjduID3GMf",
+        "title": "Голос Дьявола",
+        "author": "Ито Дзюндзи",
+        "notes": "",
+        "createdAt": "2016-12-08 18:40:01",
+        "user": {
+            "id": "380085691-vkontakte",
+            "nickname": "nohappinessnofun",
+            "booksCount": 2
+        }
+    },
     "ZtGXhQeOSS": {
         "id": "ZtGXhQeOSS",
         "title": "Слимп",
@@ -345,18 +357,6 @@
             "id": "101531492482227595895-google",
             "nickname": "rize",
             "booksCount": 4
-        }
-    },
-    "2tN6Q8tmMy": {
-        "id": "2tN6Q8tmMy",
-        "title": "Воскресенье",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2016-12-03 09:51:24",
-        "user": {
-            "id": "101531492482227595895-google",
-            "nickname": "rize",
-            "booksCount": 3
         }
     }
 }
