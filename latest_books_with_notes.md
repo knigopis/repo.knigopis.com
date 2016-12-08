@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дракула ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup>
 * Исландия, треска и все-все-все ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Путеводитель «Автостопом по Галактике» ~ [Garka](users/115/115753719718250012620-google)<sup>125</sup>
 * Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
@@ -30,7 +31,6 @@
 * Скотный двор ~ [shirko.elena](users/100/100001858801764-facebook)<sup>8</sup>
 * Нетерпение сердца ~ [shirko.elena](users/100/100001858801764-facebook)<sup>7</sup>
 * Хадур ~ [PafosG](users/523/523112-vkontakte)<sup>10</sup>
-* Отец Сергий ~ [lucius](users/838/83820536-yandex)<sup>136</sup>
 
 
-_07.12.2016 14:14:08_
+_08.12.2016 13:33:39_
