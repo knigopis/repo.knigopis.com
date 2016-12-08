@@ -1,4 +1,16 @@
 {
+    "ChOjBZEuQg": {
+        "id": "ChOjBZEuQg",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "5/10",
+        "createdAt": "2016-12-08 23:43:26",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 112
+        }
+    },
     "cxgbpyZZL0": {
         "id": "cxgbpyZZL0",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "101531492482227595895-google",
             "nickname": "rize",
             "booksCount": 6
-        }
-    },
-    "JllnX8PwyU": {
-        "id": "JllnX8PwyU",
-        "title": "Чичваркин",
-        "author": "Максим Котин",
-        "notes": "",
-        "createdAt": "2016-12-03 09:53:16",
-        "user": {
-            "id": "101531492482227595895-google",
-            "nickname": "rize",
-            "booksCount": 5
         }
     }
 }
