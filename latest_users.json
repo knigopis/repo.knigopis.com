@@ -1,4 +1,10 @@
 {
+    "376238510-yandex": {
+        "id": "376238510-yandex",
+        "nickname": "ponomarenkovv87",
+        "booksCount": 0,
+        "updatedAt": "2016-12-08 10:39:13"
+    },
     "366290463729695-facebook": {
         "id": "366290463729695-facebook",
         "nickname": "Somnifer",
@@ -172,11 +178,5 @@
         "nickname": "ferelis",
         "booksCount": 0,
         "updatedAt": "2016-11-28 14:07:12"
-    },
-    "1825041101100550-facebook": {
-        "id": "1825041101100550-facebook",
-        "nickname": "Еліт",
-        "booksCount": 0,
-        "updatedAt": "2016-11-27 23:11:24"
     }
 }
