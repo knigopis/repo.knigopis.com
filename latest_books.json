@@ -1,4 +1,16 @@
 {
+    "sUd9-GKnY5": {
+        "id": "sUd9-GKnY5",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2016-12-08 13:43:02",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 14
+        }
+    },
     "rU8hAWA1yv": {
         "id": "rU8hAWA1yv",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 228
-        }
-    },
-    "wer_BU5fTN": {
-        "id": "wer_BU5fTN",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков Михаил",
-        "notes": "",
-        "createdAt": "2016-12-01 19:05:48",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 20
         }
     }
 }
