@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ponomarenkovv87](users/376/376238510-yandex)<sup>0</sup> 
 [Somnifer](users/366/366290463729695-facebook)<sup>0</sup> 
 [klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [t0ana](users/279/279924540-vkontakte)<sup>0</sup> 
 [Ivan](users/111/111629067695534050209-google)<sup>0</sup> 
 [ferelis](users/246/246727869-vkontakte)<sup>0</sup> 
-[Еліт](users/182/1825041101100550-facebook)<sup>0</sup> 
 
 
-_08.12.2016 05:17:54_
+_08.12.2016 10:39:14_
