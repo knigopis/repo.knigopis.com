@@ -1,4 +1,16 @@
 {
+    "Ne9xGQZI9y": {
+        "id": "Ne9xGQZI9y",
+        "title": "Дом странных детей",
+        "author": "",
+        "notes": "Приключения Эйба",
+        "createdAt": "2016-12-08 11:13:52",
+        "user": {
+            "id": "55407337-vkontakte",
+            "nickname": "KosRizzo",
+            "booksCount": 1
+        }
+    },
     "UA92oBKyYq": {
         "id": "UA92oBKyYq",
         "title": "Гордость и предубеждения",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 123
-        }
-    },
-    "nadpPT_5si": {
-        "id": "nadpPT_5si",
-        "title": "Саша Черный. Полное собрание сочинений",
-        "author": "Саша Черный",
-        "notes": "Васильевский остров прекрасен, как жаба в манжетах ;)\n\nв процессе",
-        "createdAt": "2016-12-01 15:04:27",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 83
         }
     }
 }
