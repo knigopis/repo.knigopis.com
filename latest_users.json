@@ -1,4 +1,10 @@
 {
+    "366290463729695-facebook": {
+        "id": "366290463729695-facebook",
+        "nickname": "Somnifer",
+        "booksCount": 0,
+        "updatedAt": "2016-12-08 05:17:52"
+    },
     "822483-vkontakte": {
         "id": "822483-vkontakte",
         "nickname": "klejmenova",
@@ -172,11 +178,5 @@
         "nickname": "Еліт",
         "booksCount": 0,
         "updatedAt": "2016-11-27 23:11:24"
-    },
-    "100003094239547-facebook": {
-        "id": "100003094239547-facebook",
-        "nickname": "igor1980",
-        "booksCount": 7,
-        "updatedAt": "2016-11-27 18:22:01"
     }
 }
