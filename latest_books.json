@@ -1,4 +1,16 @@
 {
+    "DuhiSGu3LE": {
+        "id": "DuhiSGu3LE",
+        "title": "Одиссея",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2016-12-08 13:52:15",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 16
+        }
+    },
     "5m2b2KvUc8": {
         "id": "5m2b2KvUc8",
         "title": "Илиада",
@@ -345,18 +357,6 @@
             "id": "101531492482227595895-google",
             "nickname": "rize",
             "booksCount": 1
-        }
-    },
-    "Bo5VmBGkgs": {
-        "id": "Bo5VmBGkgs",
-        "title": "Начинается ночь",
-        "author": "Майкл Каннингем",
-        "notes": "",
-        "createdAt": "2016-12-02 14:51:29",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 477
         }
     }
 }
