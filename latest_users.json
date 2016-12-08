@@ -1,4 +1,10 @@
 {
+    "55407337-vkontakte": {
+        "id": "55407337-vkontakte",
+        "nickname": "KosRizzo",
+        "booksCount": 0,
+        "updatedAt": "2016-12-08 11:12:46"
+    },
     "188067473-vkontakte": {
         "id": "188067473-vkontakte",
         "nickname": "nnyayaya",
@@ -172,11 +178,5 @@
         "nickname": "t0ana",
         "booksCount": 0,
         "updatedAt": "2016-11-28 18:12:57"
-    },
-    "111629067695534050209-google": {
-        "id": "111629067695534050209-google",
-        "nickname": "Ivan",
-        "booksCount": 0,
-        "updatedAt": "2016-11-28 14:35:11"
     }
 }
