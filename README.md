@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nohappinessnofun](users/380/380085691-vkontakte)<sup>2</sup> 
+[nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>49</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>18</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>13</sup> 
 
 
-_08.12.2016 18:40:01_
+_08.12.2016 18:40:16_
