@@ -1,4 +1,16 @@
 {
+    "KY1P3akWQj": {
+        "id": "KY1P3akWQj",
+        "title": "Декамерон",
+        "author": "Джованни Боккаччо",
+        "notes": "",
+        "createdAt": "2016-12-08 13:54:13",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 18
+        }
+    },
     "TtNEJiYl7U": {
         "id": "TtNEJiYl7U",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "101531492482227595895-google",
             "nickname": "rize",
             "booksCount": 2
-        }
-    },
-    "I9XS7BAe29": {
-        "id": "I9XS7BAe29",
-        "title": "Мертвые души",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "",
-        "createdAt": "2016-12-03 09:50:12",
-        "user": {
-            "id": "101531492482227595895-google",
-            "nickname": "rize",
-            "booksCount": 1
         }
     }
 }
