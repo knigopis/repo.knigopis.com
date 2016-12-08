@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Iloshem](users/830/8305696-vkontakte)<sup>0</sup> 
 [nohappinessnofun](users/380/380085691-vkontakte)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>49</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>18</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>27</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>13</sup> 
 
 
-_08.12.2016 18:40:16_
+_08.12.2016 20:13:07_
