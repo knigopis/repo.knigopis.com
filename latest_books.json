@@ -1,4 +1,16 @@
 {
+    "5m2b2KvUc8": {
+        "id": "5m2b2KvUc8",
+        "title": "Илиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2016-12-08 13:51:57",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 15
+        }
+    },
     "sUd9-GKnY5": {
         "id": "sUd9-GKnY5",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 477
-        }
-    },
-    "3b2eq83KQO": {
-        "id": "3b2eq83KQO",
-        "title": "Непобедимый",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2016-12-02 03:53:13",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 228
         }
     }
 }
