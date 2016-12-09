@@ -1,4 +1,16 @@
 {
+    "66K62Uj6lR": {
+        "id": "66K62Uj6lR",
+        "title": "Северная Одиссея",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:25:46",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 14
+        }
+    },
     "AqC-7U3vsl": {
         "id": "AqC-7U3vsl",
         "title": "Сын Волка",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 3
-        }
-    },
-    "L-xex1a1SK": {
-        "id": "L-xex1a1SK",
-        "title": "Когда прерывается фильм",
-        "author": "Джеймс Хедли Чейз",
-        "notes": "",
-        "createdAt": "2016-12-06 16:15:27",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 2
         }
     }
 }
