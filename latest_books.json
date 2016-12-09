@@ -1,4 +1,16 @@
 {
+    "k_rEZ6ixN7": {
+        "id": "k_rEZ6ixN7",
+        "title": "Великая загадка",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:26:07",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 15
+        }
+    },
     "66K62Uj6lR": {
         "id": "66K62Uj6lR",
         "title": "Северная Одиссея",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 4
-        }
-    },
-    "WA_8NXdbWy": {
-        "id": "WA_8NXdbWy",
-        "title": "Кто останется жив - будет смеяться",
-        "author": "Джеймс Хедли Чейз",
-        "notes": "",
-        "createdAt": "2016-12-06 16:17:29",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 3
         }
     }
 }
