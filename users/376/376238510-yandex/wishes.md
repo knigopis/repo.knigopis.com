@@ -1,6 +1,10 @@
 # Wish list of books by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)
 ---
 
+### `10` эффективный коучинг
+Майлз Дауни
+> к приобретению
+
 ### `7` Теннис как внутренняя игра
 Тимоти Голви
 
