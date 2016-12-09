@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>18</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>19</sup>
 ---
 
 ## 2016
+
+### Однодневная стоянка
+Джек Лондон
+> РАССКАЗ
+
 
 ### Тропой ложных солнц
 Джек Лондон

@@ -1,4 +1,16 @@
 {
+    "kqklYqe1u7": {
+        "id": "kqklYqe1u7",
+        "title": "Однодневная стоянка",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:28:02",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 19
+        }
+    },
     "SYkNSHF8oA": {
         "id": "SYkNSHF8oA",
         "title": "Тропой ложных солнц",
@@ -345,18 +357,6 @@
             "id": "736867466220085249-twitter",
             "nickname": "pineapple_wife",
             "booksCount": 1
-        }
-    },
-    "JN5QoM2KtC": {
-        "id": "JN5QoM2KtC",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2016-12-06 16:20:12",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 7
         }
     }
 }
