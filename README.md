@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
+    > Продолжение "Автостопом по Галактике". Лёгкая наркомания продолжается xD
+
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
     > 5/10
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Переключился на чтение Дюны, где после 10 минут стало понятно, что есть варианты для чтения гораздо интереснее, чем Слимп.
 
 * Дракула ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup>
-    > Немного не оправдала моих ожиданий. Ждал чуть больше экшена. Хотя, откуда ему взяться в конце XIX века. Раза три-четыре за всё время прочтения почувствовал, как захватывает дух. На протяжении всего романа в разговорах героев чувствуется английский аристократизм, педантичность, чопорность. Поначалу немного напрягало, но потом привык, деваться было некуда. В общем роман понравился. Рекомендую для общего развития.
 
 * Исландия, треска и все-все-все ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
 
-* Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>126</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>3</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>22</sup> 
 [katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KosRizzo](users/554/55407337-vkontakte)<sup>1</sup> 
 [Somnifer](users/366/366290463729695-facebook)<sup>0</sup> 
 [klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>125</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>478</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 
 
-_09.12.2016 13:14:38_
+_09.12.2016 14:08:42_
