@@ -1,4 +1,16 @@
 {
+    "SXAzvcN76r": {
+        "id": "SXAzvcN76r",
+        "title": "Женское презрение",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:26:47",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 17
+        }
+    },
     "xcn_5San8k": {
         "id": "xcn_5San8k",
         "title": "Дочь Северного сияния",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 6
-        }
-    },
-    "bXjgUU_lI2": {
-        "id": "bXjgUU_lI2",
-        "title": "Дело лишь во времени",
-        "author": "Джеймс Хедли Чейз",
-        "notes": "",
-        "createdAt": "2016-12-06 16:18:59",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 5
         }
     }
 }
