@@ -1,4 +1,16 @@
 {
+    "AqC-7U3vsl": {
+        "id": "AqC-7U3vsl",
+        "title": "Сын Волка",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:25:17",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 13
+        }
+    },
     "u9VgB0yWdl": {
         "id": "u9VgB0yWdl",
         "title": "За тех, кто в пути !",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 2
-        }
-    },
-    "RMnoSwr89m": {
-        "id": "RMnoSwr89m",
-        "title": "",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2016-12-06 16:12:59",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 1
         }
     }
 }

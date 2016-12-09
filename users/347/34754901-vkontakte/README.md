@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>12</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>13</sup>
 ---
 
 ## 2016
+
+### Сын Волка
+Джек Лондон
+> РАССКАЗ
+
 
 ### За тех, кто в пути !
 Джек Лондон
