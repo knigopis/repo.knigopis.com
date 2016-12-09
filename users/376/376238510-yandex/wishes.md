@@ -1,6 +1,9 @@
 # Wish list of books by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)
 ---
 
+### `7` Теннис как внутренняя игра
+Тимоти Голви
+
 ### `6` Тайм-драйв
 Глеб Архангельский
 > МИФ или к приобретению
