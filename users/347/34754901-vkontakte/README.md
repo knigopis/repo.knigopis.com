@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>8</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>9</sup>
 ---
 
 ## 2016
+
+### Отравленный пояс
+Артур Конан Дойль
+> ПОВЕСТЬ
+
 
 ### Затерянный мир
 Артур Конан Дойль
