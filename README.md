@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lazarchik](users/347/34754901-vkontakte)<sup>21</sup> 
+[lazarchik](users/347/34754901-vkontakte)<sup>22</sup> 
 [katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>112</sup> 
 [Iloshem](users/830/8305696-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 
 
-_09.12.2016 12:28:36_
+_09.12.2016 12:28:49_

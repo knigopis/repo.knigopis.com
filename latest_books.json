@@ -1,4 +1,16 @@
 {
+    "ODIAYv5QXw": {
+        "id": "ODIAYv5QXw",
+        "title": "Конец сказки",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:28:49",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 22
+        }
+    },
     "veVHyUjYfV": {
         "id": "veVHyUjYfV",
         "title": "Меченый",
@@ -345,18 +357,6 @@
             "id": "188067473-vkontakte",
             "nickname": "nnyayaya",
             "booksCount": 1
-        }
-    },
-    "ucr2nO2CDl": {
-        "id": "ucr2nO2CDl",
-        "title": "Исландия, треска и все-все-все",
-        "author": "Гудименко Юрий",
-        "notes": "Юмористическое описание мировых военно-политических событий ХХ века. Просто и понятно.",
-        "createdAt": "2016-12-07 14:14:08",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 63
         }
     }
 }
