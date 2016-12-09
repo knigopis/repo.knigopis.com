@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>11</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>12</sup>
 ---
 
 ## 2016
+
+### За тех, кто в пути !
+Джек Лондон
+> РАССКАЗ
+
 
 ### Как Копли Бэнкс прикончил Капитана Шарки
 > ИЗ МОРСКИХ РАССКАЗОВ
