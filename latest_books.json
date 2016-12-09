@@ -1,4 +1,16 @@
 {
+    "1B93ivtPpF": {
+        "id": "1B93ivtPpF",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "В рамках HiPo Банка. примечания к книге занесены в блокнот.",
+        "createdAt": "2016-12-09 13:13:37",
+        "user": {
+            "id": "376238510-yandex",
+            "nickname": "ponomarenkovv87",
+            "booksCount": 1
+        }
+    },
     "ODIAYv5QXw": {
         "id": "ODIAYv5QXw",
         "title": "Конец сказки",
@@ -345,18 +357,6 @@
             "id": "188067473-vkontakte",
             "nickname": "nnyayaya",
             "booksCount": 3
-        }
-    },
-    "egwllK2jNy": {
-        "id": "egwllK2jNy",
-        "title": "Дом странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2016-12-08 11:11:41",
-        "user": {
-            "id": "188067473-vkontakte",
-            "nickname": "nnyayaya",
-            "booksCount": 1
         }
     }
 }

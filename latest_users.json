@@ -1,4 +1,10 @@
 {
+    "376238510-yandex": {
+        "id": "376238510-yandex",
+        "nickname": "ponomarenkovv87",
+        "booksCount": 1,
+        "updatedAt": "2016-12-09 13:13:37"
+    },
     "34754901-vkontakte": {
         "id": "34754901-vkontakte",
         "nickname": "lazarchik",
@@ -58,12 +64,6 @@
         "nickname": "KosRizzo",
         "booksCount": 1,
         "updatedAt": "2016-12-08 11:13:52"
-    },
-    "376238510-yandex": {
-        "id": "376238510-yandex",
-        "nickname": "ponomarenkovv87",
-        "booksCount": 0,
-        "updatedAt": "2016-12-08 10:39:13"
     },
     "366290463729695-facebook": {
         "id": "366290463729695-facebook",
