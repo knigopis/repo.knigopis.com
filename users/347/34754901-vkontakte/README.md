@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>17</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>18</sup>
 ---
 
 ## 2016
+
+### Тропой ложных солнц
+Джек Лондон
+> РАССКАЗ
+
 
 ### Женское презрение
 Джек Лондон

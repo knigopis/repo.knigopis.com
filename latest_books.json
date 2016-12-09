@@ -1,4 +1,16 @@
 {
+    "SYkNSHF8oA": {
+        "id": "SYkNSHF8oA",
+        "title": "Тропой ложных солнц",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:27:34",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 18
+        }
+    },
     "SXAzvcN76r": {
         "id": "SXAzvcN76r",
         "title": "Женское презрение",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 7
-        }
-    },
-    "wF0L0sx50I": {
-        "id": "wF0L0sx50I",
-        "title": "Джокер в колоде",
-        "author": "Джеймс Хедли Чейз",
-        "notes": "",
-        "createdAt": "2016-12-06 16:19:25",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 6
         }
     }
 }
