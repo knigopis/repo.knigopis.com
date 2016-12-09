@@ -1,7 +1,12 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>15</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>16</sup>
 ---
 
 ## 2016
+
+### Дочь Северного сияния
+Джек Лондон
+> РАССКАЗ
+
 
 ### Великая загадка
 Джек Лондон

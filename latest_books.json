@@ -1,4 +1,16 @@
 {
+    "xcn_5San8k": {
+        "id": "xcn_5San8k",
+        "title": "Дочь Северного сияния",
+        "author": "Джек Лондон",
+        "notes": "РАССКАЗ",
+        "createdAt": "2016-12-09 12:26:26",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 16
+        }
+    },
     "k_rEZ6ixN7": {
         "id": "k_rEZ6ixN7",
         "title": "Великая загадка",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 5
-        }
-    },
-    "08RSgIKOEI": {
-        "id": "08RSgIKOEI",
-        "title": "Рука в кувшине",
-        "author": "Джеймс Хедли Чейз",
-        "notes": "",
-        "createdAt": "2016-12-06 16:18:29",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 4
         }
     }
 }
