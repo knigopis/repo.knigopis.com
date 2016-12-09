@@ -1,4 +1,4 @@
-# List of books read by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)<sup>2</sup>
+# List of books read by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)<sup>3</sup>
 ---
 
 ## 2016
@@ -6,6 +6,11 @@
 ### 45 татуировок менеджера
 Максим Батырев
 > [2016-12] В рамках HiPo Банка. примечания к книге занесены в блокнот.
+
+
+### Мистика лидерства. Развития эмоционального интеллекта.
+Манфред кет Де Врис
+> [2016-04] в домашней библиотеке
 
 
 

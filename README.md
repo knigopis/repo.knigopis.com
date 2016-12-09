@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ponomarenkovv87](users/376/376238510-yandex)<sup>2</sup> 
+[ponomarenkovv87](users/376/376238510-yandex)<sup>3</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>22</sup> 
 [katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>112</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 
 
-_09.12.2016 13:13:40_
+_09.12.2016 13:14:38_

@@ -1,4 +1,16 @@
 {
+    "ypAooWvk7a": {
+        "id": "ypAooWvk7a",
+        "title": "Мистика лидерства. Развития эмоционального интеллекта.",
+        "author": "Манфред кет Де Врис",
+        "notes": "в домашней библиотеке",
+        "createdAt": "2016-12-09 13:14:38",
+        "user": {
+            "id": "376238510-yandex",
+            "nickname": "ponomarenkovv87",
+            "booksCount": 3
+        }
+    },
     "TNUpJSFljY": {
         "id": "TNUpJSFljY",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "188067473-vkontakte",
             "nickname": "nnyayaya",
             "booksCount": 4
-        }
-    },
-    "Ne9xGQZI9y": {
-        "id": "Ne9xGQZI9y",
-        "title": "Дом странных детей",
-        "author": "",
-        "notes": "Приключения Эйба",
-        "createdAt": "2016-12-08 11:13:52",
-        "user": {
-            "id": "55407337-vkontakte",
-            "nickname": "KosRizzo",
-            "booksCount": 1
         }
     }
 }
