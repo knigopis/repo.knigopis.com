@@ -1,7 +1,11 @@
-# List of books read by [lazarchik](http://vk.com/id34754901)<sup>9</sup>
+# List of books read by [lazarchik](http://vk.com/id34754901)<sup>10</sup>
 ---
 
 ## 2016
+
+### Как Копли Бэнкс прикончил Капитана Шарки
+> ИЗ МОРСКИХ РАССКАЗОВ
+
 
 ### Отравленный пояс
 Артур Конан Дойль
