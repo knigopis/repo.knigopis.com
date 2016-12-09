@@ -1,4 +1,10 @@
 {
+    "34754901-vkontakte": {
+        "id": "34754901-vkontakte",
+        "nickname": "lazarchik",
+        "booksCount": 8,
+        "updatedAt": "2016-12-09 12:20:15"
+    },
     "125481770-vkontakte": {
         "id": "125481770-vkontakte",
         "nickname": "katty_boom_boom",
@@ -82,12 +88,6 @@
         "nickname": "pineapple_wife",
         "booksCount": 1,
         "updatedAt": "2016-12-07 06:19:19"
-    },
-    "34754901-vkontakte": {
-        "id": "34754901-vkontakte",
-        "nickname": "lazarchik",
-        "booksCount": 7,
-        "updatedAt": "2016-12-06 16:20:12"
     },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",

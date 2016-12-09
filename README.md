@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lazarchik](users/347/34754901-vkontakte)<sup>8</sup> 
 [katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>112</sup> 
 [Iloshem](users/830/8305696-vkontakte)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>125</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
-[lazarchik](users/347/34754901-vkontakte)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>478</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>35</sup> 
 
 
-_09.12.2016 00:44:52_
+_09.12.2016 12:20:15_

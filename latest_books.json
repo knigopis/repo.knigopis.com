@@ -1,4 +1,16 @@
 {
+    "Pyzz2nP7Tt": {
+        "id": "Pyzz2nP7Tt",
+        "title": "Затерянный мир",
+        "author": "Артур Конан Дойль",
+        "notes": "ПОВЕСТЬ",
+        "createdAt": "2016-12-09 12:20:15",
+        "user": {
+            "id": "34754901-vkontakte",
+            "nickname": "lazarchik",
+            "booksCount": 8
+        }
+    },
     "ChOjBZEuQg": {
         "id": "ChOjBZEuQg",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 84
-        }
-    },
-    "mKQnAwlp8r": {
-        "id": "mKQnAwlp8r",
-        "title": "Моби Дик",
-        "author": "Герман Мелвилл",
-        "notes": "",
-        "createdAt": "2016-12-03 09:53:39",
-        "user": {
-            "id": "101531492482227595895-google",
-            "nickname": "rize",
-            "booksCount": 6
         }
     }
 }
