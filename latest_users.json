@@ -1,4 +1,10 @@
 {
+    "125481770-vkontakte": {
+        "id": "125481770-vkontakte",
+        "nickname": "katty_boom_boom",
+        "booksCount": 0,
+        "updatedAt": "2016-12-09 00:44:52"
+    },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",
         "nickname": "anvonamore",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 35,
         "updatedAt": "2016-11-30 08:55:04"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 27,
-        "updatedAt": "2016-11-29 18:55:51"
     }
 }
