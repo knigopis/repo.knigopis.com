@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 479,
+        "updatedAt": "2016-12-10 07:48:25"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -88,12 +94,6 @@
         "nickname": "pineapple_wife",
         "booksCount": 1,
         "updatedAt": "2016-12-07 06:19:19"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 478,
-        "updatedAt": "2016-12-06 13:50:34"
     },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",

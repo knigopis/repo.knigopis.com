@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>478</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>479</sup>
 ---
 
 ## 2016
+
+### Мамаша Кураж и ее дети
+Бертольд Брехт
+> [2016-12] 
+
 
 ### Художник зыбкого мира
 Кадзуо Исигуро
