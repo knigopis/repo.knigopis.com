@@ -1,4 +1,10 @@
 {
+    "13159022-vkontakte": {
+        "id": "13159022-vkontakte",
+        "nickname": "murashkin6240",
+        "booksCount": 0,
+        "updatedAt": "2016-12-11 22:32:24"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "Влад",
         "booksCount": 0,
         "updatedAt": "2016-12-02 17:26:10"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 20,
-        "updatedAt": "2016-12-01 19:05:48"
     }
 }
