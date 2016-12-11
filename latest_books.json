@@ -1,4 +1,16 @@
 {
+    "laCKo67Wtg": {
+        "id": "laCKo67Wtg",
+        "title": "Леонардо Да Винчи. Воскресшме боги",
+        "author": "Д.с. Мережковский",
+        "notes": "",
+        "createdAt": "2016-12-11 06:30:28",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 229
+        }
+    },
     "wMZWJwpf-k": {
         "id": "wMZWJwpf-k",
         "title": "Пария",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 15
-        }
-    },
-    "sUd9-GKnY5": {
-        "id": "sUd9-GKnY5",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2016-12-08 13:43:02",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 14
         }
     }
 }

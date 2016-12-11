@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>229</sup> 
 [otakukeeper](users/350/35080115-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>479</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>126</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
 [Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>228</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup> 
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
 
 
-_11.12.2016 03:02:49_
+_11.12.2016 06:30:28_
