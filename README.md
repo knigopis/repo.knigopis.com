@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[otakukeeper](users/350/35080115-vkontakte)<sup>0</sup> 
+[otakukeeper](users/350/35080115-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>479</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>126</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>3</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [djlom777](users/206/20695003-vkontakte)<sup>0</sup> 
 
 
-_11.12.2016 03:01:23_
+_11.12.2016 03:02:49_
