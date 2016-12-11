@@ -1,4 +1,10 @@
 {
+    "113794223924688167852-google": {
+        "id": "113794223924688167852-google",
+        "nickname": "Victoria",
+        "booksCount": 26,
+        "updatedAt": "2016-12-11 17:38:21"
+    },
     "43327312-vkontakte": {
         "id": "43327312-vkontakte",
         "nickname": "road6",
@@ -172,11 +178,5 @@
         "nickname": "antasiar",
         "booksCount": 20,
         "updatedAt": "2016-12-01 19:05:48"
-    },
-    "100962054638710244321-google": {
-        "id": "100962054638710244321-google",
-        "nickname": "Deceiter",
-        "booksCount": 1,
-        "updatedAt": "2016-12-01 19:01:14"
     }
 }

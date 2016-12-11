@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>26</sup> 
 [road6](users/433/43327312-vkontakte)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>127</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yukio_kaneko](users/324/324247745-vkontakte)<sup>0</sup> 
 [Влад](users/130/13066918496098957463-mailru)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>20</sup> 
-[Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
 
 
-_11.12.2016 16:13:48_
+_11.12.2016 17:38:21_

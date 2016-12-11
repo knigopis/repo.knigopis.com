@@ -1,4 +1,16 @@
 {
+    "ynL3BBrpjl": {
+        "id": "ynL3BBrpjl",
+        "title": "Лолита",
+        "author": "Набоков",
+        "notes": "",
+        "createdAt": "2016-12-11 17:38:21",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 26
+        }
+    },
     "YojniiPkS-": {
         "id": "YojniiPkS-",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 111
-        }
-    },
-    "cjduID3GMf": {
-        "id": "cjduID3GMf",
-        "title": "Голос Дьявола",
-        "author": "Ито Дзюндзи",
-        "notes": "",
-        "createdAt": "2016-12-08 18:40:01",
-        "user": {
-            "id": "380085691-vkontakte",
-            "nickname": "nohappinessnofun",
-            "booksCount": 2
         }
     }
 }

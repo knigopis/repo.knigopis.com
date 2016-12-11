@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>25</sup>
+# List of books read by Victoria<sup>26</sup>
 ---
 
 ## 2016
+
+### Лолита
+Набоков
+> [2016-11] 
+
 
 ### Чума
 Альбер Камю
