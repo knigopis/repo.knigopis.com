@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[road6](users/433/43327312-vkontakte)<sup>1</sup> 
+[road6](users/433/43327312-vkontakte)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>127</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>16</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Deceiter](users/100/100962054638710244321-google)<sup>1</sup> 
 
 
-_11.12.2016 16:08:52_
+_11.12.2016 16:09:35_
