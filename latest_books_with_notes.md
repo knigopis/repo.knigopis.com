@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь, Вселенная и все остальное ~ [Garka](users/115/115753719718250012620-google)<sup>127</sup>
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
 * Слимп ~ [rNix](users/115/115622071-twitter)<sup>49</sup>
@@ -30,7 +31,6 @@
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
 * Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
 * Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
-* Корона мечей ~ [Garka](users/115/115753719718250012620-google)<sup>119</sup>
 
 
-_09.12.2016 14:08:42_
+_11.12.2016 14:04:26_
