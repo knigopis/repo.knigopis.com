@@ -1,4 +1,16 @@
 {
+    "autfIZIbMM": {
+        "id": "autfIZIbMM",
+        "title": "Девятый",
+        "author": "Артем Каменистый",
+        "notes": "",
+        "createdAt": "2016-12-11 06:37:25",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 36
+        }
+    },
     "laCKo67Wtg": {
         "id": "laCKo67Wtg",
         "title": "Леонардо Да Винчи. Воскресшме боги",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 16
-        }
-    },
-    "5m2b2KvUc8": {
-        "id": "5m2b2KvUc8",
-        "title": "Илиада",
-        "author": "Гомер",
-        "notes": "",
-        "createdAt": "2016-12-08 13:51:57",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 15
         }
     }
 }
