@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[genrih59](users/872/872361436199401-facebook)<sup>15</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>36</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>229</sup> 
 [otakukeeper](users/350/35080115-vkontakte)<sup>1</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Somnifer](users/366/366290463729695-facebook)<sup>0</sup> 
 [klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
 [pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
-[genrih59](users/872/872361436199401-facebook)<sup>14</sup> 
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 [chendrovazhanna](users/140/14024198-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup> 
 
 
-_11.12.2016 06:37:25_
+_11.12.2016 09:26:45_

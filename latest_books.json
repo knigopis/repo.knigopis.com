@@ -1,4 +1,16 @@
 {
+    "GTGFY6Dl-y": {
+        "id": "GTGFY6Dl-y",
+        "title": "Будущее уже не то, что прежде",
+        "author": "Джордж Карлин",
+        "notes": "",
+        "createdAt": "2016-12-11 09:26:45",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 15
+        }
+    },
     "autfIZIbMM": {
         "id": "autfIZIbMM",
         "title": "Девятый",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 17
-        }
-    },
-    "DuhiSGu3LE": {
-        "id": "DuhiSGu3LE",
-        "title": "Одиссея",
-        "author": "Гомер",
-        "notes": "",
-        "createdAt": "2016-12-08 13:52:15",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 16
         }
     }
 }
