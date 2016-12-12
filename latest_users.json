@@ -1,4 +1,10 @@
 {
+    "1780858508843822-facebook": {
+        "id": "1780858508843822-facebook",
+        "nickname": "Egella",
+        "booksCount": 0,
+        "updatedAt": "2016-12-12 13:41:40"
+    },
     "18029118-vkontakte": {
         "id": "18029118-vkontakte",
         "nickname": "ggoha",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 84,
         "updatedAt": "2016-12-03 15:14:43"
-    },
-    "101531492482227595895-google": {
-        "id": "101531492482227595895-google",
-        "nickname": "rize",
-        "booksCount": 6,
-        "updatedAt": "2016-12-03 09:53:39"
     }
 }
