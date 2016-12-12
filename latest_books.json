@@ -1,4 +1,16 @@
 {
+    "ygPWN521cP": {
+        "id": "ygPWN521cP",
+        "title": "Наука жить",
+        "author": "Адлер",
+        "notes": "",
+        "createdAt": "2016-12-12 18:48:19",
+        "user": {
+            "id": "152183909-vkontakte",
+            "nickname": "d.molokoedova",
+            "booksCount": 2
+        }
+    },
     "ynL3BBrpjl": {
         "id": "ynL3BBrpjl",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 112
-        }
-    },
-    "cxgbpyZZL0": {
-        "id": "cxgbpyZZL0",
-        "title": "Волхв",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2016-12-08 23:42:41",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 111
         }
     }
 }

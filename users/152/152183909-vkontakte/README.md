@@ -1,7 +1,12 @@
-# List of books read by [d.molokoedova](http://vk.com/id152183909)<sup>1</sup>
+# List of books read by [d.molokoedova](http://vk.com/id152183909)<sup>2</sup>
 ---
 
 ## 2016
+
+### Наука жить
+Адлер
+> [2016-12-12] 
+
 
 ### Граф Монте-Кристо
 Дюма

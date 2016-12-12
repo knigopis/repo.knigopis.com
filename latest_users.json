@@ -1,4 +1,10 @@
 {
+    "152183909-vkontakte": {
+        "id": "152183909-vkontakte",
+        "nickname": "d.molokoedova",
+        "booksCount": 2,
+        "updatedAt": "2016-12-12 18:48:19"
+    },
     "1780858508843822-facebook": {
         "id": "1780858508843822-facebook",
         "nickname": "Egella",
@@ -172,11 +178,5 @@
         "nickname": "chendrovazhanna",
         "booksCount": 0,
         "updatedAt": "2016-12-04 18:25:13"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 84,
-        "updatedAt": "2016-12-03 15:14:43"
     }
 }

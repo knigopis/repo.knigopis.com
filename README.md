@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[d.molokoedova](users/152/152183909-vkontakte)<sup>2</sup> 
 [Egella](users/178/1780858508843822-facebook)<sup>0</sup> 
 [ggoha](users/180/18029118-vkontakte)<sup>0</sup> 
 [sofie_kozlova](users/134/13441223-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sc96gorodperm](users/331/331291543-yandex)<sup>0</sup> 
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 [chendrovazhanna](users/140/14024198-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup> 
 
 
-_12.12.2016 13:41:40_
+_12.12.2016 18:48:19_
