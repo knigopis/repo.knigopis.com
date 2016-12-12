@@ -1,4 +1,10 @@
 {
+    "13441223-vkontakte": {
+        "id": "13441223-vkontakte",
+        "nickname": "sofie_kozlova",
+        "booksCount": 0,
+        "updatedAt": "2016-12-12 10:22:40"
+    },
     "13159022-vkontakte": {
         "id": "13159022-vkontakte",
         "nickname": "murashkin6240",
@@ -172,11 +178,5 @@
         "nickname": "yukio_kaneko",
         "booksCount": 0,
         "updatedAt": "2016-12-03 02:26:21"
-    },
-    "13066918496098957463-mailru": {
-        "id": "13066918496098957463-mailru",
-        "nickname": "Влад",
-        "booksCount": 0,
-        "updatedAt": "2016-12-02 17:26:10"
     }
 }
