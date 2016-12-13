@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
 * Жизнь, Вселенная и все остальное ~ [Garka](users/115/115753719718250012620-google)<sup>127</sup>
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Код Да Винчи ~ [aglovlyuk](users/113/113033184709492089410-google)<sup>7</sup>
 * В интернете кто-то неправ! ~ [pimanocci](users/117/117124011531379579265-google)<sup>12</sup>
 * Мифический человеко-месяц ~ [Aleksandr](users/123/12375097-vkontakte)<sup>7</sup>
-* Скотный двор ~ [Garka](users/115/115753719718250012620-google)<sup>120</sup>
 
 
-_11.12.2016 14:04:26_
+_13.12.2016 18:55:43_
