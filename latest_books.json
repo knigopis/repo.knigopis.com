@@ -1,4 +1,16 @@
 {
+    "a4Zh7XP7t8": {
+        "id": "a4Zh7XP7t8",
+        "title": "Мальчик на вершине горы",
+        "author": "Джон Бойн",
+        "notes": "",
+        "createdAt": "2016-12-13 17:13:31",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 45
+        }
+    },
     "jfXmuJez0W": {
         "id": "jfXmuJez0W",
         "title": "Дочь священника",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 9
-        }
-    },
-    "Pyzz2nP7Tt": {
-        "id": "Pyzz2nP7Tt",
-        "title": "Затерянный мир",
-        "author": "Артур Конан Дойль",
-        "notes": "ПОВЕСТЬ",
-        "createdAt": "2016-12-09 12:20:15",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 8
         }
     }
 }

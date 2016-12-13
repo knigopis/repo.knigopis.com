@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 45,
+        "updatedAt": "2016-12-13 17:13:31"
+    },
     "110543267830659344493-google": {
         "id": "110543267830659344493-google",
         "nickname": "PushU",
@@ -172,11 +178,5 @@
         "nickname": "sc96gorodperm",
         "booksCount": 0,
         "updatedAt": "2016-12-06 04:17:10"
-    },
-    "7660100-vkontakte": {
-        "id": "7660100-vkontakte",
-        "nickname": "grigorye",
-        "booksCount": 0,
-        "updatedAt": "2016-12-04 19:08:13"
     }
 }
