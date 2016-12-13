@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[PushU](users/110/110543267830659344493-google)<sup>0</sup> 
+[PushU](users/110/110543267830659344493-google)<sup>1</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>2</sup> 
 [Egella](users/178/1780858508843822-facebook)<sup>0</sup> 
 [ggoha](users/180/18029118-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [grigorye](users/766/7660100-vkontakte)<sup>0</sup> 
 
 
-_13.12.2016 11:44:18_
+_13.12.2016 11:45:18_

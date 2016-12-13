@@ -1,4 +1,16 @@
 {
+    "jfXmuJez0W": {
+        "id": "jfXmuJez0W",
+        "title": "Дочь священника",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2016-12-13 11:45:18",
+        "user": {
+            "id": "110543267830659344493-google",
+            "nickname": "PushU",
+            "booksCount": 1
+        }
+    },
     "ygPWN521cP": {
         "id": "ygPWN521cP",
         "title": "Наука жить",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 8
-        }
-    },
-    "ChOjBZEuQg": {
-        "id": "ChOjBZEuQg",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "5/10",
-        "createdAt": "2016-12-08 23:43:26",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 112
         }
     }
 }
