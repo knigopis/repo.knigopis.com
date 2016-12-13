@@ -1,4 +1,10 @@
 {
+    "110543267830659344493-google": {
+        "id": "110543267830659344493-google",
+        "nickname": "PushU",
+        "booksCount": 0,
+        "updatedAt": "2016-12-13 11:44:17"
+    },
     "152183909-vkontakte": {
         "id": "152183909-vkontakte",
         "nickname": "d.molokoedova",
@@ -172,11 +178,5 @@
         "nickname": "grigorye",
         "booksCount": 0,
         "updatedAt": "2016-12-04 19:08:13"
-    },
-    "14024198-vkontakte": {
-        "id": "14024198-vkontakte",
-        "nickname": "chendrovazhanna",
-        "booksCount": 0,
-        "updatedAt": "2016-12-04 18:25:13"
     }
 }
