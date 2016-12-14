@@ -1,13 +1,5 @@
-# List of books read by [rize](https://plus.google.com/101531492482227595895)<sup>7</sup>
+# List of books read by [rize](https://plus.google.com/101531492482227595895)<sup>6</sup>
 ---
-
-## 2017
-
-### Взлом маркетинга
-Фил Бардет
-> [2017-03] 
-
-
 
 ## 2016
 
