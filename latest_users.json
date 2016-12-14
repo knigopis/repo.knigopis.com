@@ -1,4 +1,10 @@
 {
+    "114229142682324617650-google": {
+        "id": "114229142682324617650-google",
+        "nickname": "Psix",
+        "booksCount": 0,
+        "updatedAt": "2016-12-14 16:19:45"
+    },
     "221077923-vkontakte": {
         "id": "221077923-vkontakte",
         "nickname": "kbppb",
@@ -172,11 +178,5 @@
         "nickname": "Somnifer",
         "booksCount": 0,
         "updatedAt": "2016-12-08 05:17:52"
-    },
-    "822483-vkontakte": {
-        "id": "822483-vkontakte",
-        "nickname": "klejmenova",
-        "booksCount": 0,
-        "updatedAt": "2016-12-07 19:30:21"
     }
 }
