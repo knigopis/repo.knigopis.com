@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kbppb](users/221/221077923-vkontakte)<sup>0</sup> 
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>27</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>45</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KosRizzo](users/554/55407337-vkontakte)<sup>1</sup> 
 [Somnifer](users/366/366290463729695-facebook)<sup>0</sup> 
 [klejmenova](users/822/822483-vkontakte)<sup>0</sup> 
-[pineapple_wife](users/736/736867466220085249-twitter)<sup>1</sup> 
 
 
-_14.12.2016 13:00:03_
+_14.12.2016 13:07:46_
