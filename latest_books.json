@@ -1,4 +1,16 @@
 {
+    "-UsEtqxdyZ": {
+        "id": "-UsEtqxdyZ",
+        "title": "Взлом маркетинга",
+        "author": "Фил Бардет",
+        "notes": "",
+        "createdAt": "2016-12-14 12:58:24",
+        "user": {
+            "id": "101531492482227595895-google",
+            "nickname": "rize",
+            "booksCount": 7
+        }
+    },
     "7Y1px_OT0H": {
         "id": "7Y1px_OT0H",
         "title": "Загадай число",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 11
-        }
-    },
-    "geYK-oxfA_": {
-        "id": "geYK-oxfA_",
-        "title": "Как Копли Бэнкс прикончил Капитана Шарки",
-        "author": "",
-        "notes": "ИЗ МОРСКИХ РАССКАЗОВ",
-        "createdAt": "2016-12-09 12:22:45",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 10
         }
     }
 }
