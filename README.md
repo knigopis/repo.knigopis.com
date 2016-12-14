@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Psix](users/114/114229142682324617650-google)<sup>0</sup> 
+[Дмитрий](users/114/114229142682324617650-google)<sup>1</sup> 
 [kbppb](users/221/221077923-vkontakte)<sup>0</sup> 
 [rize](users/101/101531492482227595895-google)<sup>6</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>27</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Somnifer](users/366/366290463729695-facebook)<sup>0</sup> 
 
 
-_14.12.2016 16:19:46_
+_14.12.2016 16:21:01_

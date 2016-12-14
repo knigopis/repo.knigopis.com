@@ -1,4 +1,16 @@
 {
+    "9IjmJwEZ85": {
+        "id": "9IjmJwEZ85",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2016-12-14 16:21:01",
+        "user": {
+            "id": "114229142682324617650-google",
+            "nickname": "Дмитрий",
+            "booksCount": 1
+        }
+    },
     "-UsEtqxdyZ": {
         "id": "-UsEtqxdyZ",
         "title": "Взлом маркетинга",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 12
-        }
-    },
-    "nuPuA5UP-u": {
-        "id": "nuPuA5UP-u",
-        "title": "Приключения Тома Сойера",
-        "author": "",
-        "notes": "РАССКАЗ",
-        "createdAt": "2016-12-09 12:23:57",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 11
         }
     }
 }
