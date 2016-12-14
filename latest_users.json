@@ -1,4 +1,10 @@
 {
+    "221077923-vkontakte": {
+        "id": "221077923-vkontakte",
+        "nickname": "kbppb",
+        "booksCount": 0,
+        "updatedAt": "2016-12-14 13:07:46"
+    },
     "101531492482227595895-google": {
         "id": "101531492482227595895-google",
         "nickname": "rize",
@@ -172,11 +178,5 @@
         "nickname": "klejmenova",
         "booksCount": 0,
         "updatedAt": "2016-12-07 19:30:21"
-    },
-    "736867466220085249-twitter": {
-        "id": "736867466220085249-twitter",
-        "nickname": "pineapple_wife",
-        "booksCount": 1,
-        "updatedAt": "2016-12-07 06:19:19"
     }
 }
