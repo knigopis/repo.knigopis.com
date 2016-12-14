@@ -1,4 +1,16 @@
 {
+    "uwQ95btodB": {
+        "id": "uwQ95btodB",
+        "title": "На дне",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2016-12-14 16:22:09",
+        "user": {
+            "id": "114229142682324617650-google",
+            "nickname": "Дмитрий",
+            "booksCount": 2
+        }
+    },
     "9IjmJwEZ85": {
         "id": "9IjmJwEZ85",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 13
-        }
-    },
-    "u9VgB0yWdl": {
-        "id": "u9VgB0yWdl",
-        "title": "За тех, кто в пути !",
-        "author": "Джек Лондон",
-        "notes": "РАССКАЗ",
-        "createdAt": "2016-12-09 12:24:54",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 12
         }
     }
 }
