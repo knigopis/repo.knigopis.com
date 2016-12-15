@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>85</sup> 
 [Alexey](users/102/10209998326586256-facebook)<sup>0</sup> 
 [славка](users/102/102160213-vkontakte)<sup>0</sup> 
 [oleshko](users/101/101032644656574214845-google)<sup>1</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lazarchik](users/347/34754901-vkontakte)<sup>22</sup> 
 [katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>112</sup> 
-[Iloshem](users/830/8305696-vkontakte)<sup>0</sup> 
 
 
-_15.12.2016 09:00:41_
+_15.12.2016 09:52:12_
