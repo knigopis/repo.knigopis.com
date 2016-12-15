@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[addmitriev](users/147/14783111-vkontakte)<sup>2</sup> 
+[addmitriev](users/147/14783111-vkontakte)<sup>3</sup> 
 [assada](users/105/10591133-vkontakte)<sup>0</sup> 
 [s493599](users/101/101006407075218687771-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>85</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ponomarenkovv87](users/376/376238510-yandex)<sup>3</sup> 
 
 
-_15.12.2016 13:04:39_
+_15.12.2016 13:05:03_
