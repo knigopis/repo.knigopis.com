@@ -1,4 +1,16 @@
 {
+    "lenPKCXJfs": {
+        "id": "lenPKCXJfs",
+        "title": "Сталь, пар и магия",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2016-12-15 17:36:42",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 230
+        }
+    },
     "AKp03og8SS": {
         "id": "AKp03og8SS",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 20
-        }
-    },
-    "kqklYqe1u7": {
-        "id": "kqklYqe1u7",
-        "title": "Однодневная стоянка",
-        "author": "Джек Лондон",
-        "notes": "РАССКАЗ",
-        "createdAt": "2016-12-09 12:28:02",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 19
         }
     }
 }
