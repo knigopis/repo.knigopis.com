@@ -1,4 +1,16 @@
 {
+    "ZNxU6w3VsA": {
+        "id": "ZNxU6w3VsA",
+        "title": "Бриджит Джонс  грани разумного",
+        "author": "Филдинг, Хелен",
+        "notes": "Легкая, незамысловатая книга. Хорошо подходит для полной разгрузки мозгов после тяжелого трудового дня.",
+        "createdAt": "2016-12-15 21:28:55",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 128
+        }
+    },
     "lenPKCXJfs": {
         "id": "lenPKCXJfs",
         "title": "Сталь, пар и магия",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 21
-        }
-    },
-    "NgLoGN2q9p": {
-        "id": "NgLoGN2q9p",
-        "title": "Золотая Зорька",
-        "author": "Джек Лондон",
-        "notes": "РАССКАЗ",
-        "createdAt": "2016-12-09 12:28:20",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 20
         }
     }
 }

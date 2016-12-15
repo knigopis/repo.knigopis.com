@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бриджит Джонс  грани разумного ~ [Garka](users/115/115753719718250012620-google)<sup>128</sup>
+    > Легкая, незамысловатая книга. Хорошо подходит для полной разгрузки мозгов после тяжелого трудового дня.
+
 * Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
     > Я могу привести сотню примеров. Простейший конфликт — между тем, как мы видим
     > себя, и тем, как мы видим других. Допустим, мы с тобой спорим и ты на меня кричишь. Я
@@ -22,7 +25,6 @@ Do not use pull requests to make changes here.
     > Третья книга серии Автостопом по Галактике. Заметно слабее предыдущих двух книг, повествование какое-то сумбурное и нудное.
 
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
-    > Продолжение "Автостопом по Галактике". Лёгкая наркомания продолжается xD
 
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
 
@@ -36,13 +38,12 @@ Do not use pull requests to make changes here.
 
 * Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
 
-* В кильватерном строю за смертью ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>128</sup> 
 [Valeriy@](users/604/6043024-vkontakte)<sup>0</sup> 
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>230</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sofie_kozlova](users/134/13441223-vkontakte)<sup>0</sup> 
 [murashkin6240](users/131/13159022-vkontakte)<sup>0</sup> 
 [road6](users/433/43327312-vkontakte)<sup>7</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>127</sup> 
 
 
-_15.12.2016 20:48:20_
+_15.12.2016 21:28:55_
