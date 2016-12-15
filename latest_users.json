@@ -1,4 +1,10 @@
 {
+    "1135602736521414-facebook": {
+        "id": "1135602736521414-facebook",
+        "nickname": "fardnight",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 08:42:57"
+    },
     "101032644656574214845-google": {
         "id": "101032644656574214845-google",
         "nickname": "oleshko",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 49,
         "updatedAt": "2016-12-08 13:54:37"
-    },
-    "55688208-vkontakte": {
-        "id": "55688208-vkontakte",
-        "nickname": "Julia",
-        "booksCount": 18,
-        "updatedAt": "2016-12-08 13:54:13"
     }
 }
