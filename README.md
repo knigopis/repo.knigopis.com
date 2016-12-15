@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[assada](users/105/10591133-vkontakte)<sup>0</sup> 
 [s493599](users/101/101006407075218687771-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>85</sup> 
 [Alexey](users/102/10209998326586256-facebook)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>479</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>3</sup> 
 [lazarchik](users/347/34754901-vkontakte)<sup>22</sup> 
-[katty_boom_boom](users/125/125481770-vkontakte)<sup>0</sup> 
 
 
-_15.12.2016 12:11:00_
+_15.12.2016 12:48:58_
