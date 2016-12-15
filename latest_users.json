@@ -1,4 +1,10 @@
 {
+    "52794424-vkontakte": {
+        "id": "52794424-vkontakte",
+        "nickname": "alexageeff",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 21:45:22"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "murashkin6240",
         "booksCount": 0,
         "updatedAt": "2016-12-11 22:32:24"
-    },
-    "43327312-vkontakte": {
-        "id": "43327312-vkontakte",
-        "nickname": "road6",
-        "booksCount": 7,
-        "updatedAt": "2016-12-11 16:13:48"
     }
 }
