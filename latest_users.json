@@ -1,4 +1,10 @@
 {
+    "226605462-vkontakte": {
+        "id": "226605462-vkontakte",
+        "nickname": "benderiguez",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 14:41:16"
+    },
     "100001750453437-facebook": {
         "id": "100001750453437-facebook",
         "nickname": "dahko",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 229,
         "updatedAt": "2016-12-11 06:30:28"
-    },
-    "35080115-vkontakte": {
-        "id": "35080115-vkontakte",
-        "nickname": "otakukeeper",
-        "booksCount": 1,
-        "updatedAt": "2016-12-11 03:02:49"
     }
 }
