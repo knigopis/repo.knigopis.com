@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>230</sup> 
 [benderiguez](users/226/226605462-vkontakte)<sup>1</sup> 
 [dahko](users/100/100001750453437-facebook)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [road6](users/433/43327312-vkontakte)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>127</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>16</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>36</sup> 
 
 
-_15.12.2016 17:36:43_
+_15.12.2016 19:00:43_
