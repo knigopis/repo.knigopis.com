@@ -1,4 +1,10 @@
 {
+    "102160213-vkontakte": {
+        "id": "102160213-vkontakte",
+        "nickname": "славка",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 08:57:09"
+    },
     "101032644656574214845-google": {
         "id": "101032644656574214845-google",
         "nickname": "oleshko",
@@ -172,11 +178,5 @@
         "nickname": "nohappinessnofun",
         "booksCount": 1,
         "updatedAt": "2016-12-08 18:40:16"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 49,
-        "updatedAt": "2016-12-08 13:54:37"
     }
 }
