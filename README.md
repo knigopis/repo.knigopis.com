@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[realptr](users/107/107108746387672736247-google)<sup>0</sup> 
 [borisov_s](users/148/1485119-vkontakte)<sup>0</sup> 
 [Дмитрий](users/114/114229142682324617650-google)<sup>2</sup> 
 [kbppb](users/221/221077923-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Julia](users/556/55688208-vkontakte)<sup>18</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup> 
 [nnyayaya](users/188/188067473-vkontakte)<sup>5</sup> 
-[KosRizzo](users/554/55407337-vkontakte)<sup>1</sup> 
 
 
-_15.12.2016 07:05:32_
+_15.12.2016 07:12:56_
