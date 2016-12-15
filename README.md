@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>128</sup> 
 [Valeriy@](users/604/6043024-vkontakte)<sup>0</sup> 
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ggoha](users/180/18029118-vkontakte)<sup>0</sup> 
 [sofie_kozlova](users/134/13441223-vkontakte)<sup>0</sup> 
 [murashkin6240](users/131/13159022-vkontakte)<sup>0</sup> 
-[road6](users/433/43327312-vkontakte)<sup>7</sup> 
 
 
-_15.12.2016 21:28:55_
+_15.12.2016 21:45:22_
