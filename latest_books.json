@@ -1,4 +1,16 @@
 {
+    "AKp03og8SS": {
+        "id": "AKp03og8SS",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2016-12-15 14:41:49",
+        "user": {
+            "id": "226605462-vkontakte",
+            "nickname": "benderiguez",
+            "booksCount": 1
+        }
+    },
     "c8mc69OX9C": {
         "id": "c8mc69OX9C",
         "title": "123",
@@ -345,18 +357,6 @@
             "id": "34754901-vkontakte",
             "nickname": "lazarchik",
             "booksCount": 19
-        }
-    },
-    "SYkNSHF8oA": {
-        "id": "SYkNSHF8oA",
-        "title": "Тропой ложных солнц",
-        "author": "Джек Лондон",
-        "notes": "РАССКАЗ",
-        "createdAt": "2016-12-09 12:27:34",
-        "user": {
-            "id": "34754901-vkontakte",
-            "nickname": "lazarchik",
-            "booksCount": 18
         }
     }
 }
