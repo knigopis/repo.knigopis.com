@@ -1,4 +1,10 @@
 {
+    "1485119-vkontakte": {
+        "id": "1485119-vkontakte",
+        "nickname": "borisov_s",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 07:05:31"
+    },
     "114229142682324617650-google": {
         "id": "114229142682324617650-google",
         "nickname": "Дмитрий",
@@ -172,11 +178,5 @@
         "nickname": "KosRizzo",
         "booksCount": 1,
         "updatedAt": "2016-12-08 11:13:52"
-    },
-    "366290463729695-facebook": {
-        "id": "366290463729695-facebook",
-        "nickname": "Somnifer",
-        "booksCount": 0,
-        "updatedAt": "2016-12-08 05:17:52"
     }
 }
