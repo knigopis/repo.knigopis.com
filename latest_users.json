@@ -1,4 +1,10 @@
 {
+    "101006407075218687771-google": {
+        "id": "101006407075218687771-google",
+        "nickname": "s493599",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 12:11:00"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "katty_boom_boom",
         "booksCount": 0,
         "updatedAt": "2016-12-09 00:44:52"
-    },
-    "5957175-vkontakte": {
-        "id": "5957175-vkontakte",
-        "nickname": "anvonamore",
-        "booksCount": 112,
-        "updatedAt": "2016-12-08 23:43:26"
     }
 }
