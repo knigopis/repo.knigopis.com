@@ -1,4 +1,10 @@
 {
+    "107108746387672736247-google": {
+        "id": "107108746387672736247-google",
+        "nickname": "realptr",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 07:12:56"
+    },
     "1485119-vkontakte": {
         "id": "1485119-vkontakte",
         "nickname": "borisov_s",
@@ -172,11 +178,5 @@
         "nickname": "nnyayaya",
         "booksCount": 5,
         "updatedAt": "2016-12-08 11:23:19"
-    },
-    "55407337-vkontakte": {
-        "id": "55407337-vkontakte",
-        "nickname": "KosRizzo",
-        "booksCount": 1,
-        "updatedAt": "2016-12-08 11:13:52"
     }
 }
