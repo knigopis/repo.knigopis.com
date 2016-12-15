@@ -1,4 +1,10 @@
 {
+    "10591133-vkontakte": {
+        "id": "10591133-vkontakte",
+        "nickname": "assada",
+        "booksCount": 0,
+        "updatedAt": "2016-12-15 12:48:58"
+    },
     "101006407075218687771-google": {
         "id": "101006407075218687771-google",
         "nickname": "s493599",
@@ -172,11 +178,5 @@
         "nickname": "lazarchik",
         "booksCount": 22,
         "updatedAt": "2016-12-09 12:28:49"
-    },
-    "125481770-vkontakte": {
-        "id": "125481770-vkontakte",
-        "nickname": "katty_boom_boom",
-        "booksCount": 0,
-        "updatedAt": "2016-12-09 00:44:52"
     }
 }
