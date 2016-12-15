@@ -43,8 +43,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[oleshko](users/101/101032644656574214845-google)<sup>1</sup> 
 [fardnight](users/113/1135602736521414-facebook)<sup>0</sup> 
-[oleshko](users/101/101032644656574214845-google)<sup>0</sup> 
 [Artees](users/106/106855668241548058160-google)<sup>0</sup> 
 [realptr](users/107/107108746387672736247-google)<sup>0</sup> 
 [borisov_s](users/148/1485119-vkontakte)<sup>0</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>49</sup> 
 
 
-_15.12.2016 08:42:58_
+_15.12.2016 08:47:19_
