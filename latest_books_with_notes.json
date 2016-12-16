@@ -1,4 +1,16 @@
 {
+    "4gpUWl1GWP": {
+        "id": "4gpUWl1GWP",
+        "title": "Столкновение цивилизаций",
+        "author": "Самюэль Хантингтон",
+        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/1342923/",
+        "createdAt": "2016-12-16 21:32:26",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 85
+        }
+    },
     "0esq9I2FQz": {
         "id": "0esq9I2FQz",
         "title": "Щегол",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 10
-        }
-    },
-    "tcokiFqRD8": {
-        "id": "tcokiFqRD8",
-        "title": "Тайный дневник Адриана Моула",
-        "author": "Сью Таунсенд",
-        "notes": "Интересно, не пресно, но без особого фанатизма.",
-        "createdAt": "2016-11-22 14:08:49",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 9
         }
     }
 }
