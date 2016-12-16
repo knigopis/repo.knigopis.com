@@ -1,4 +1,10 @@
 {
+    "100604889201458918357-google": {
+        "id": "100604889201458918357-google",
+        "nickname": "yaft",
+        "booksCount": 0,
+        "updatedAt": "2016-12-16 09:36:56"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "d.molokoedova",
         "booksCount": 2,
         "updatedAt": "2016-12-12 18:48:19"
-    },
-    "1780858508843822-facebook": {
-        "id": "1780858508843822-facebook",
-        "nickname": "Egella",
-        "booksCount": 0,
-        "updatedAt": "2016-12-12 13:41:40"
     }
 }
