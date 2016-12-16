@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yaft](users/100/100604889201458918357-google)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>14</sup> 
 [kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 [microdobro](users/195/195772638-vkontakte)<sup>0</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>45</sup> 
 [PushU](users/110/110543267830659344493-google)<sup>1</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>2</sup> 
-[Egella](users/178/1780858508843822-facebook)<sup>0</sup> 
 
 
-_16.12.2016 06:57:43_
+_16.12.2016 09:36:58_
