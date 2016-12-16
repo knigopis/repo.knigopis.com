@@ -1,4 +1,10 @@
 {
+    "21742453-vkontakte": {
+        "id": "21742453-vkontakte",
+        "nickname": "kotwizkiy",
+        "booksCount": 0,
+        "updatedAt": "2016-12-16 04:41:03"
+    },
     "195772638-vkontakte": {
         "id": "195772638-vkontakte",
         "nickname": "microdobro",
@@ -172,11 +178,5 @@
         "nickname": "ggoha",
         "booksCount": 0,
         "updatedAt": "2016-12-12 12:21:08"
-    },
-    "13441223-vkontakte": {
-        "id": "13441223-vkontakte",
-        "nickname": "sofie_kozlova",
-        "booksCount": 0,
-        "updatedAt": "2016-12-12 10:22:40"
     }
 }
