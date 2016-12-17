@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>479</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>480</sup>
 ---
 
 ## 2016
+
+### Кровь и песок
+Висенте Бласко Ибаньес
+> [2016-12] 
+
 
 ### Мамаша Кураж и ее дети
 Бертольд Брехт

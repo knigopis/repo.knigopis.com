@@ -1,4 +1,16 @@
 {
+    "z2bpkDi4zq": {
+        "id": "z2bpkDi4zq",
+        "title": "Кровь и песок",
+        "author": "Висенте Бласко Ибаньес",
+        "notes": "",
+        "createdAt": "2016-12-17 04:53:26",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 480
+        }
+    },
     "4gpUWl1GWP": {
         "id": "4gpUWl1GWP",
         "title": "Столкновение цивилизаций",
@@ -345,18 +357,6 @@
             "id": "376238510-yandex",
             "nickname": "ponomarenkovv87",
             "booksCount": 3
-        }
-    },
-    "TNUpJSFljY": {
-        "id": "TNUpJSFljY",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-12-09 13:13:40",
-        "user": {
-            "id": "376238510-yandex",
-            "nickname": "ponomarenkovv87",
-            "booksCount": 2
         }
     }
 }
