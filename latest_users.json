@@ -1,4 +1,10 @@
 {
+    "107457466087190724190-google": {
+        "id": "107457466087190724190-google",
+        "nickname": "wwww",
+        "booksCount": 0,
+        "updatedAt": "2016-12-17 11:57:32"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "rize",
         "booksCount": 6,
         "updatedAt": "2016-12-14 13:00:02"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 27,
-        "updatedAt": "2016-12-13 18:55:43"
     }
 }
