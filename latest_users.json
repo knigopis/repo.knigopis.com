@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 30,
+        "updatedAt": "2016-12-17 19:47:42"
+    },
     "107457466087190724190-google": {
         "id": "107457466087190724190-google",
         "nickname": "wwww",
@@ -172,11 +178,5 @@
         "nickname": "kbppb",
         "booksCount": 0,
         "updatedAt": "2016-12-14 13:07:46"
-    },
-    "101531492482227595895-google": {
-        "id": "101531492482227595895-google",
-        "nickname": "rize",
-        "booksCount": 6,
-        "updatedAt": "2016-12-14 13:00:02"
     }
 }

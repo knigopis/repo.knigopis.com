@@ -1,4 +1,16 @@
 {
+    "aGWQQe1ffq": {
+        "id": "aGWQQe1ffq",
+        "title": "Сфера",
+        "author": "Дэйв Эггерс",
+        "notes": "",
+        "createdAt": "2016-12-17 19:47:42",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 30
+        }
+    },
     "tz_-y7b98l": {
         "id": "tz_-y7b98l",
         "title": "w",
@@ -345,18 +357,6 @@
             "id": "35080115-vkontakte",
             "nickname": "otakukeeper",
             "booksCount": 1
-        }
-    },
-    "3WXLFo3rcX": {
-        "id": "3WXLFo3rcX",
-        "title": "Мамаша Кураж и ее дети",
-        "author": "Бертольд Брехт",
-        "notes": "",
-        "createdAt": "2016-12-10 07:48:25",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 479
         }
     }
 }

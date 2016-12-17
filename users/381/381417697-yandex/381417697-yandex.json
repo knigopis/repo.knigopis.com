@@ -5,7 +5,7 @@
     "photo": "https://ulogin.ru/img/photo.png",
     "profile": "http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl",
     "identity": "http://openid.yandex.ru/knigopis/",
-    "booksCount": 29,
+    "booksCount": 30,
     "subscriptions": {
         "888300831313360-facebook": 1,
         "9142387-vkontakte": 72,
@@ -70,5 +70,5 @@
         "64251996-vkontakte": 38
     },
     "createdAt": "2016-04-30 02:41:33",
-    "updatedAt": "2016-08-23 14:23:50"
+    "updatedAt": "2016-12-17 19:47:42"
 }
