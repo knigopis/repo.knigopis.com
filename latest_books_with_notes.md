@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Васька ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup>
 * Столкновение цивилизаций ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup>
 * Щегол ~ [Беска](users/157/1577468-vkontakte)<sup>15</sup>
 * Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Интернетика. Навигация в сложных сетях. Модели и алгоритмы ~ [Ник Литвинов](users/lec/leczQ3Eya3-linkedin)<sup>82</sup>
 * 99 франков ~ [Беска](users/157/1577468-vkontakte)<sup>11</sup>
-* 10 рассказов о Дживсе и Вустере ~ [Беска](users/157/1577468-vkontakte)<sup>10</sup>
 
 
-_16.12.2016 21:32:26_
+_17.12.2016 07:22:47_
