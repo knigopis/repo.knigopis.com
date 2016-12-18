@@ -1,4 +1,10 @@
 {
+    "103435743164516893719-google": {
+        "id": "103435743164516893719-google",
+        "nickname": "Samurai",
+        "booksCount": 0,
+        "updatedAt": "2016-12-18 15:21:57"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "fardnight",
         "booksCount": 0,
         "updatedAt": "2016-12-15 08:42:57"
-    },
-    "106855668241548058160-google": {
-        "id": "106855668241548058160-google",
-        "nickname": "Artees",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 07:59:36"
     }
 }
