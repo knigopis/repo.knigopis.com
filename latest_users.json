@@ -1,4 +1,10 @@
 {
+    "100002059250648-facebook": {
+        "id": "100002059250648-facebook",
+        "nickname": "Artemic",
+        "booksCount": 0,
+        "updatedAt": "2016-12-18 13:04:22"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -172,11 +178,5 @@
         "nickname": "Artees",
         "booksCount": 0,
         "updatedAt": "2016-12-15 07:59:36"
-    },
-    "107108746387672736247-google": {
-        "id": "107108746387672736247-google",
-        "nickname": "realptr",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 07:12:56"
     }
 }
