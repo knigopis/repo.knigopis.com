@@ -1,4 +1,16 @@
 {
+    "c0Dlbss_OH": {
+        "id": "c0Dlbss_OH",
+        "title": "Зелёные холмы Африки",
+        "author": "Эрнест Хемингуэй",
+        "notes": "Автобиографическая повесть.",
+        "createdAt": "2016-12-18 20:03:01",
+        "user": {
+            "id": "330421234-vkontakte",
+            "nickname": "alex_razumovsky",
+            "booksCount": 1
+        }
+    },
     "pw376RUkEh": {
         "id": "pw376RUkEh",
         "title": "Всего хорошего, и спасибо за рыбу!",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 127
-        }
-    },
-    "0Wh7mNfroC": {
-        "id": "0Wh7mNfroC",
-        "title": "Гроза",
-        "author": "Островский А.Н",
-        "notes": "",
-        "createdAt": "2016-12-11 09:27:17",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 16
         }
     }
 }
