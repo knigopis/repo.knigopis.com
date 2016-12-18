@@ -1,4 +1,16 @@
 {
+    "NLGDJ23hvW": {
+        "id": "NLGDJ23hvW",
+        "title": "Почтамп",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2016-12-18 13:02:17",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 17
+        }
+    },
     "eeKCyOhgGB": {
         "id": "eeKCyOhgGB",
         "title": "Жутко громко и запредельно близко",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 15
-        }
-    },
-    "autfIZIbMM": {
-        "id": "autfIZIbMM",
-        "title": "Девятый",
-        "author": "Артем Каменистый",
-        "notes": "",
-        "createdAt": "2016-12-11 06:37:25",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 36
         }
     }
 }

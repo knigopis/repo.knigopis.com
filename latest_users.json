@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 17,
+        "updatedAt": "2016-12-18 13:02:17"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "realptr",
         "booksCount": 0,
         "updatedAt": "2016-12-15 07:12:56"
-    },
-    "1485119-vkontakte": {
-        "id": "1485119-vkontakte",
-        "nickname": "borisov_s",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 07:05:31"
     }
 }
