@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mikasius](users/275/275118839-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>481</sup> 
 [me](users/381/381417697-yandex)<sup>30</sup> 
 [wwww](users/107/107457466087190724190-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [realptr](users/107/107108746387672736247-google)<sup>0</sup> 
 [borisov_s](users/148/1485119-vkontakte)<sup>0</sup> 
 [Дмитрий](users/114/114229142682324617650-google)<sup>2</sup> 
-[kbppb](users/221/221077923-vkontakte)<sup>0</sup> 
 
 
-_18.12.2016 09:01:20_
+_18.12.2016 09:08:27_
