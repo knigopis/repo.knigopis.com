@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 43,
+        "updatedAt": "2016-12-18 20:21:53"
+    },
     "330421234-vkontakte": {
         "id": "330421234-vkontakte",
         "nickname": "alex_razumovsky",
@@ -28,12 +34,6 @@
         "nickname": "genrih59",
         "booksCount": 17,
         "updatedAt": "2016-12-18 13:02:17"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 42,
-        "updatedAt": "2016-12-18 12:18:06"
     },
     "275118839-vkontakte": {
         "id": "275118839-vkontakte",

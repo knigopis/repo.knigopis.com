@@ -1,4 +1,16 @@
 {
+    "LVz9lrarwd": {
+        "id": "LVz9lrarwd",
+        "title": "Стена",
+        "author": "Жан Поль Сартр",
+        "notes": "Вот это Да!",
+        "createdAt": "2016-12-18 20:21:53",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 43
+        }
+    },
     "pw376RUkEh": {
         "id": "pw376RUkEh",
         "title": "Всего хорошего, и спасибо за рыбу!",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 41
-        }
-    },
-    "zPiN-6isos": {
-        "id": "zPiN-6isos",
-        "title": "Большой Мольн",
-        "author": "Ален-Фурнье",
-        "notes": "Единственный роман писателя. \nЖизнь связала судьбы незнакомых друг другу людей в один клубок.",
-        "createdAt": "2016-11-24 00:18:46",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 63
         }
     }
 }

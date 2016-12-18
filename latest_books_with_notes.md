@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
 * Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
 * Васька ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Катушка синих ниток ~ [Беска](users/157/1577468-vkontakte)<sup>12</sup>
 * Вы наверное шутите мистер Фейнман ~ [Tr](users/122/12282474-vkontakte)<sup>34</sup>
 * Одноэтажная Америка ~ [Ангелина](users/837/83788782-vkontakte)<sup>41</sup>
-* Большой Мольн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 
 
-_18.12.2016 13:43:59_
+_18.12.2016 20:21:53_
