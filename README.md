@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alex_razumovsky](users/330/330421234-vkontakte)<sup>0</sup> 
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
 [Artemic](users/100/100002059250648-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alexey](users/102/10209998326586256-facebook)<sup>0</sup> 
 [славка](users/102/102160213-vkontakte)<sup>0</sup> 
 [oleshko](users/101/101032644656574214845-google)<sup>1</sup> 
-[fardnight](users/113/1135602736521414-facebook)<sup>0</sup> 
 
 
-_18.12.2016 15:21:58_
+_18.12.2016 19:58:48_
