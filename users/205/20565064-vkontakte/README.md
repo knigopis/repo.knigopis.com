@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>480</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>481</sup>
 ---
 
 ## 2016
+
+### Прощай, Берлин
+Кристофер Ишервуд
+> [2016-12] 
+
 
 ### Кровь и песок
 Висенте Бласко Ибаньес

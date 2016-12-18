@@ -1,4 +1,16 @@
 {
+    "CURMLzFVGt": {
+        "id": "CURMLzFVGt",
+        "title": "Прощай, Берлин",
+        "author": "Кристофер Ишервуд",
+        "notes": "",
+        "createdAt": "2016-12-18 09:01:20",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 481
+        }
+    },
     "aGWQQe1ffq": {
         "id": "aGWQQe1ffq",
         "title": "Сфера",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 229
-        }
-    },
-    "wMZWJwpf-k": {
-        "id": "wMZWJwpf-k",
-        "title": "Пария",
-        "author": "Дэн Абнетт",
-        "notes": "",
-        "createdAt": "2016-12-11 03:02:49",
-        "user": {
-            "id": "35080115-vkontakte",
-            "nickname": "otakukeeper",
-            "booksCount": 1
         }
     }
 }

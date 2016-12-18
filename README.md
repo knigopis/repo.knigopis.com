@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>481</sup> 
 [me](users/381/381417697-yandex)<sup>30</sup> 
 [wwww](users/107/107457466087190724190-google)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>480</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>15</sup> 
 [yaft](users/100/100604889201458918357-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kbppb](users/221/221077923-vkontakte)<sup>0</sup> 
 
 
-_17.12.2016 19:47:42_
+_18.12.2016 09:01:20_
