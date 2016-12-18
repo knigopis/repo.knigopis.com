@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 129,
+        "updatedAt": "2016-12-18 13:43:59"
+    },
     "100002059250648-facebook": {
         "id": "100002059250648-facebook",
         "nickname": "Artemic",
@@ -82,12 +88,6 @@
         "nickname": "alexageeff",
         "booksCount": 0,
         "updatedAt": "2016-12-15 21:45:22"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 128,
-        "updatedAt": "2016-12-15 21:28:55"
     },
     "6043024-vkontakte": {
         "id": "6043024-vkontakte",

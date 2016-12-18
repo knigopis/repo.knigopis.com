@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
+    > Юмористическая фантастика о путешествиях по Вселенной, почему-то превратилась в повествование о любовных страданиях (с счастливым финалом) и отсылкам к историям вообще не понятно как связанных с основным сюжетом. А то, что связанно с первыми тремя книгами и интересно узнать, уместилось бы на нескольких страницах. Такое ощущение, что книга писалась только для того, чтобы выпустить книгу.
+
 * Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
     > Жутко понравилось и запредельно грустно. Без слёз во время прочтения не обошлось. На протяжении этого месяца я вместе с главным героем ощущала себя маленькой и потерянной девочкой.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Прочитал на одном дыхании. Рассказывается о строительстве московского метро. И конечно о людях, которые несмотря на все лишения и невзгоды выполняли свою работу. Написано очень интересно. Ничего лишнего. Рекомендую к прочтению.
 
 * Столкновение цивилизаций ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup>
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/1342923/
 
 * Щегол ~ [Беска](users/157/1577468-vkontakte)<sup>15</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
 
-* Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>129</sup> 
 [Artemic](users/100/100002059250648-facebook)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>17</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>42</sup> 
@@ -49,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 [microdobro](users/195/195772638-vkontakte)<sup>0</sup> 
 [alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>128</sup> 
 [Valeriy@](users/604/6043024-vkontakte)<sup>0</sup> 
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>230</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Artees](users/106/106855668241548058160-google)<sup>0</sup> 
 
 
-_18.12.2016 13:04:22_
+_18.12.2016 13:43:59_
