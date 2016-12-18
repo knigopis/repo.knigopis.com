@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 42,
+        "updatedAt": "2016-12-18 12:18:06"
+    },
     "275118839-vkontakte": {
         "id": "275118839-vkontakte",
         "nickname": "mikasius",
@@ -172,11 +178,5 @@
         "nickname": "borisov_s",
         "booksCount": 0,
         "updatedAt": "2016-12-15 07:05:31"
-    },
-    "114229142682324617650-google": {
-        "id": "114229142682324617650-google",
-        "nickname": "Дмитрий",
-        "booksCount": 2,
-        "updatedAt": "2016-12-14 16:22:09"
     }
 }

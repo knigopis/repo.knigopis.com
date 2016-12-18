@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
+    > Жутко понравилось и запредельно грустно. Без слёз во время прочтения не обошлось. На протяжении этого месяца я вместе с главным героем ощущала себя маленькой и потерянной девочкой.
+
 * Васька ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup>
     > Прочитал на одном дыхании. Рассказывается о строительстве московского метро. И конечно о людях, которые несмотря на все лишения и невзгоды выполняли свою работу. Написано очень интересно. Ничего лишнего. Рекомендую к прочтению.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/1342923/
 
 * Щегол ~ [Беска](users/157/1577468-vkontakte)<sup>15</sup>
-    > Сначала хотела кинуть, но я же не кидаю книги, потом было совсем скучно, раздражало все. СЕйчас понимаю только одно: я не понимаю эту книгу. Моя жизнь была не такая. и я ее не понимаю, мне эти вопросы чужды. Так что не дурацкая книга, а просто чужая и непонятная для меня.
 
 * Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
 
-* Слимп ~ [rNix](users/115/115622071-twitter)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>42</sup> 
 [mikasius](users/275/275118839-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>481</sup> 
 [me](users/381/381417697-yandex)<sup>30</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Artees](users/106/106855668241548058160-google)<sup>0</sup> 
 [realptr](users/107/107108746387672736247-google)<sup>0</sup> 
 [borisov_s](users/148/1485119-vkontakte)<sup>0</sup> 
-[Дмитрий](users/114/114229142682324617650-google)<sup>2</sup> 
 
 
-_18.12.2016 09:08:27_
+_18.12.2016 12:18:06_
