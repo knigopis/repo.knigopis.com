@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
+    > "Нет, я убью тебя раньше"
+
 * Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
     > Вот это Да!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Юмористическая фантастика о путешествиях по Вселенной, почему-то превратилась в повествование о любовных страданиях (с счастливым финалом) и отсылкам к историям вообще не понятно как связанных с основным сюжетом. А то, что связанно с первыми тремя книгами и интересно узнать, уместилось бы на нескольких страницах. Такое ощущение, что книга писалась только для того, чтобы выпустить книгу.
 
 * Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
-    > Жутко понравилось и запредельно грустно. Без слёз во время прочтения не обошлось. На протяжении этого месяца я вместе с главным героем ощущала себя маленькой и потерянной девочкой.
 
 * Васька ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
 
-* Жизнь, Вселенная и все остальное ~ [Garka](users/115/115753719718250012620-google)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>44</sup> 
 [Mac](users/112/112725427821362061674-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>231</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>43</sup> 
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [славка](users/102/102160213-vkontakte)<sup>0</sup> 
 
 
-_19.12.2016 07:59:44_
+_19.12.2016 08:53:32_

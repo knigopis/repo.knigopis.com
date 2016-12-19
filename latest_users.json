@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 44,
+        "updatedAt": "2016-12-19 08:53:32"
+    },
     "112725427821362061674-google": {
         "id": "112725427821362061674-google",
         "nickname": "Mac",
@@ -10,12 +16,6 @@
         "nickname": "HXT",
         "booksCount": 231,
         "updatedAt": "2016-12-19 05:11:01"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 43,
-        "updatedAt": "2016-12-18 20:21:53"
     },
     "330421234-vkontakte": {
         "id": "330421234-vkontakte",
