@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mac](users/112/112725427821362061674-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>231</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>43</sup> 
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>85</sup> 
 [Alexey](users/102/10209998326586256-facebook)<sup>0</sup> 
 [славка](users/102/102160213-vkontakte)<sup>0</sup> 
-[oleshko](users/101/101032644656574214845-google)<sup>1</sup> 
 
 
-_19.12.2016 05:11:02_
+_19.12.2016 07:59:44_
