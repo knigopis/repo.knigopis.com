@@ -1,4 +1,10 @@
 {
+    "930552663727490-facebook": {
+        "id": "930552663727490-facebook",
+        "nickname": "Annet94",
+        "booksCount": 0,
+        "updatedAt": "2016-12-19 21:33:37"
+    },
     "107829808048221961406-google": {
         "id": "107829808048221961406-google",
         "nickname": "Paraisopoma",
@@ -172,11 +178,5 @@
         "nickname": "assada",
         "booksCount": 0,
         "updatedAt": "2016-12-15 12:48:58"
-    },
-    "101006407075218687771-google": {
-        "id": "101006407075218687771-google",
-        "nickname": "s493599",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 12:11:00"
     }
 }
