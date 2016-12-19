@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
 [Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
 [dostapn](users/116/116476237927054417748-googleplus)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Michael](users/114/114564242566120984292-google)<sup>0</sup> 
 [assada](users/105/10591133-vkontakte)<sup>0</sup> 
 [s493599](users/101/101006407075218687771-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>85</sup> 
 
 
-_19.12.2016 14:30:26_
+_19.12.2016 19:32:32_
