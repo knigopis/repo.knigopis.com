@@ -1,4 +1,10 @@
 {
+    "107829808048221961406-google": {
+        "id": "107829808048221961406-google",
+        "nickname": "Paraisopoma",
+        "booksCount": 0,
+        "updatedAt": "2016-12-19 19:32:32"
+    },
     "142301319-vkontakte": {
         "id": "142301319-vkontakte",
         "nickname": "Ангелина ",
@@ -172,11 +178,5 @@
         "nickname": "s493599",
         "booksCount": 0,
         "updatedAt": "2016-12-15 12:11:00"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 85,
-        "updatedAt": "2016-12-15 09:52:12"
     }
 }
