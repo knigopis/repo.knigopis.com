@@ -1,4 +1,10 @@
 {
+    "116476237927054417748-googleplus": {
+        "id": "116476237927054417748-googleplus",
+        "nickname": "dostapn",
+        "booksCount": 0,
+        "updatedAt": "2016-12-19 13:45:21"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "Alexey",
         "booksCount": 0,
         "updatedAt": "2016-12-15 09:00:40"
-    },
-    "102160213-vkontakte": {
-        "id": "102160213-vkontakte",
-        "nickname": "славка",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 08:57:09"
     }
 }
