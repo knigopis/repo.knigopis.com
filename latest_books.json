@@ -1,4 +1,16 @@
 {
+    "q73GaMlOJ5": {
+        "id": "q73GaMlOJ5",
+        "title": "Вся кремлевской рать",
+        "author": "Михаил Зыгарь",
+        "notes": "",
+        "createdAt": "2016-12-19 05:11:01",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 231
+        }
+    },
     "LVz9lrarwd": {
         "id": "LVz9lrarwd",
         "title": "Стена",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 26
-        }
-    },
-    "YojniiPkS-": {
-        "id": "YojniiPkS-",
-        "title": "",
-        "author": "Кости и звездная пыль, половина книги",
-        "notes": "",
-        "createdAt": "2016-12-11 16:13:48",
-        "user": {
-            "id": "43327312-vkontakte",
-            "nickname": "road6",
-            "booksCount": 7
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>231</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>43</sup> 
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
 [Valeriy@](users/604/6043024-vkontakte)<sup>0</sup> 
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>230</sup> 
 [benderiguez](users/226/226605462-vkontakte)<sup>1</sup> 
 [dahko](users/100/100001750453437-facebook)<sup>0</sup> 
 [Ipsum...](users/147/14783111-vkontakte)<sup>152</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [oleshko](users/101/101032644656574214845-google)<sup>1</sup> 
 
 
-_18.12.2016 20:21:53_
+_19.12.2016 05:11:02_
