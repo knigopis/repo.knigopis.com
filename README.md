@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[imsafeandsound](users/146/146553327-vkontakte)<sup>1</sup> 
+[imsafeandsound](users/146/146553327-vkontakte)<sup>0</sup> 
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>294</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 
 
-_20.12.2016 22:08:50_
+_20.12.2016 22:09:15_
