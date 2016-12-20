@@ -1,4 +1,16 @@
 {
+    "b64R1uGqJ0": {
+        "id": "b64R1uGqJ0",
+        "title": "დათა თუთაშხია",
+        "author": "ჭაბუა ამირეჯიბი",
+        "notes": "",
+        "createdAt": "2016-12-20 10:51:24",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 293
+        }
+    },
     "ktIk6aUpgE": {
         "id": "ktIk6aUpgE",
         "title": "Слово Императора",
@@ -345,18 +357,6 @@
             "id": "14783111-vkontakte",
             "nickname": "addmitriev",
             "booksCount": 9
-        }
-    },
-    "NgSC_0BR7y": {
-        "id": "NgSC_0BR7y",
-        "title": "Папийон",
-        "author": "Анри Шарьер",
-        "notes": "",
-        "createdAt": "2016-12-15 09:52:12",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 85
         }
     }
 }
