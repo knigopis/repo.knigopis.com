@@ -1,4 +1,16 @@
 {
+    "Di27SAzO4E": {
+        "id": "Di27SAzO4E",
+        "title": "Величайший Сетевик в Мире",
+        "author": "Джон Милтон Фогг",
+        "notes": "",
+        "createdAt": "2016-12-20 05:28:38",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 64
+        }
+    },
     "ISY2oT1dnu": {
         "id": "ISY2oT1dnu",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "114229142682324617650-google",
             "nickname": "Дмитрий",
             "booksCount": 1
-        }
-    },
-    "-UsEtqxdyZ": {
-        "id": "-UsEtqxdyZ",
-        "title": "Взлом маркетинга",
-        "author": "Фил Бардет",
-        "notes": "",
-        "createdAt": "2016-12-14 12:58:24",
-        "user": {
-            "id": "101531492482227595895-google",
-            "nickname": "rize",
-            "booksCount": 7
         }
     }
 }
