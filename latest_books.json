@@ -1,4 +1,16 @@
 {
+    "xpB01Mvx0T": {
+        "id": "xpB01Mvx0T",
+        "title": "Результативный тайм-менеджмент",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2016-12-20 05:32:15",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 66
+        }
+    },
     "-Qlc_cgD6K": {
         "id": "-Qlc_cgD6K",
         "title": "Самый Богатый Человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "101032644656574214845-google",
             "nickname": "oleshko",
             "booksCount": 1
-        }
-    },
-    "uwQ95btodB": {
-        "id": "uwQ95btodB",
-        "title": "На дне",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2016-12-14 16:22:09",
-        "user": {
-            "id": "114229142682324617650-google",
-            "nickname": "Дмитрий",
-            "booksCount": 2
         }
     }
 }
