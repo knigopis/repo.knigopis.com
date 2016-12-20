@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>63</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [benderiguez](users/226/226605462-vkontakte)<sup>1</sup> 
 [dahko](users/100/100001750453437-facebook)<sup>0</sup> 
 [Ipsum...](users/147/14783111-vkontakte)<sup>152</sup> 
-[Michael](users/114/114564242566120984292-google)<sup>0</sup> 
 
 
-_20.12.2016 00:25:25_
+_20.12.2016 05:27:44_
