@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
+    > Отсылки к различным военным историям, и ГГ видимо ощущает себя неким Сталином того мира в котором оказался
+
 * Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
     > "Нет, я убью тебя раньше"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вот это Да!
 
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
-    > Юмористическая фантастика о путешествиях по Вселенной, почему-то превратилась в повествование о любовных страданиях (с счастливым финалом) и отсылкам к историям вообще не понятно как связанных с основным сюжетом. А то, что связанно с первыми тремя книгами и интересно узнать, уместилось бы на нескольких страницах. Такое ощущение, что книга писалась только для того, чтобы выпустить книгу.
 
 * Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бриджит Джонс  грани разумного ~ [Garka](users/115/115753719718250012620-google)<sup>128</sup>
 
-* Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
 [Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dahko](users/100/100001750453437-facebook)<sup>0</sup> 
 [Ipsum...](users/147/14783111-vkontakte)<sup>152</sup> 
 [Michael](users/114/114564242566120984292-google)<sup>0</sup> 
-[assada](users/105/10591133-vkontakte)<sup>0</sup> 
 
 
-_19.12.2016 21:33:37_
+_20.12.2016 00:25:25_
