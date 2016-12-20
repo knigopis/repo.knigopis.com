@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
 * Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
 * Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
@@ -30,7 +31,6 @@
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 * Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
-* Катушка синих ниток ~ [Беска](users/157/1577468-vkontakte)<sup>12</sup>
 
 
-_20.12.2016 00:25:25_
+_20.12.2016 05:30:16_

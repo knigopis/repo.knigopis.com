@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
+    > "Если есть решимость, всегда достигнешь цели."
+
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
     > Отсылки к различным военным историям, и ГГ видимо ощущает себя неким Сталином того мира в котором оказался
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > "Нет, я убью тебя раньше"
 
 * Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
-    > Вот это Да!
 
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
 
-* Бриджит Джонс  грани разумного ~ [Garka](users/115/115753719718250012620-google)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>64</sup> 
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ipsum...](users/147/14783111-vkontakte)<sup>152</sup> 
 
 
-_20.12.2016 05:28:38_
+_20.12.2016 05:30:16_

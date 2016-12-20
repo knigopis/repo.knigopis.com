@@ -1,4 +1,16 @@
 {
+    "-Qlc_cgD6K": {
+        "id": "-Qlc_cgD6K",
+        "title": "Самый Богатый Человек в Вавилоне",
+        "author": "Джордж С. Клейсон",
+        "notes": "\"Если есть решимость, всегда достигнешь цели.\"",
+        "createdAt": "2016-12-20 05:30:16",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 65
+        }
+    },
     "Di27SAzO4E": {
         "id": "Di27SAzO4E",
         "title": "Величайший Сетевик в Мире",
@@ -345,18 +357,6 @@
             "id": "114229142682324617650-google",
             "nickname": "Дмитрий",
             "booksCount": 2
-        }
-    },
-    "9IjmJwEZ85": {
-        "id": "9IjmJwEZ85",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2016-12-14 16:21:01",
-        "user": {
-            "id": "114229142682324617650-google",
-            "nickname": "Дмитрий",
-            "booksCount": 1
         }
     }
 }
