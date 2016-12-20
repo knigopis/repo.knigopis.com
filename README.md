@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>292</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>66</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 [benderiguez](users/226/226605462-vkontakte)<sup>1</sup> 
 [dahko](users/100/100001750453437-facebook)<sup>0</sup> 
-[Ipsum...](users/147/14783111-vkontakte)<sup>152</sup> 
 
 
-_20.12.2016 05:32:15_
+_20.12.2016 10:49:23_
