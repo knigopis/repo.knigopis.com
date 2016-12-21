@@ -1,7 +1,12 @@
-# List of books read by [shamanskaya](http://vk.com/id11604536)<sup>1</sup>
+# List of books read by [shamanskaya](http://vk.com/id11604536)<sup>2</sup>
 ---
 
 ## 2016
+
+### Моя сестра живет на каминной полке
+Питчер Анабель
+> [2016-12] 
+
 
 ### Книжный вор
 Маркус Зузак

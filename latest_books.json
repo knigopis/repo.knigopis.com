@@ -1,4 +1,16 @@
 {
+    "2iJOfziviF": {
+        "id": "2iJOfziviF",
+        "title": "Моя сестра живет на каминной полке",
+        "author": "Питчер Анабель",
+        "notes": "",
+        "createdAt": "2016-12-21 11:04:21",
+        "user": {
+            "id": "11604536-vkontakte",
+            "nickname": "shamanskaya",
+            "booksCount": 2
+        }
+    },
     "W4jLVPrwon": {
         "id": "W4jLVPrwon",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 230
-        }
-    },
-    "AKp03og8SS": {
-        "id": "AKp03og8SS",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2016-12-15 14:41:49",
-        "user": {
-            "id": "226605462-vkontakte",
-            "nickname": "benderiguez",
-            "booksCount": 1
         }
     }
 }
