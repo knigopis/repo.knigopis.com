@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
 [gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yaft](users/100/100604889201458918357-google)<sup>0</sup> 
 [kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 [microdobro](users/195/195772638-vkontakte)<sup>0</sup> 
-[alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
 
 
-_21.12.2016 11:08:16_
+_21.12.2016 20:31:47_
