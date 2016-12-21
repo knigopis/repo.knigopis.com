@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>0</sup> 
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>294</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [microdobro](users/195/195772638-vkontakte)<sup>0</sup> 
 [alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
 [Valeriy@](users/604/6043024-vkontakte)<sup>0</sup> 
-[Nika](users/746/74658611-vkontakte)<sup>0</sup> 
 
 
-_20.12.2016 22:09:15_
+_21.12.2016 08:39:33_
