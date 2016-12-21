@@ -1,4 +1,16 @@
 {
+    "ZnYFusVOQ-": {
+        "id": "ZnYFusVOQ-",
+        "title": "Хорошо быть тихоней",
+        "author": "Стивен Чбовски",
+        "notes": "",
+        "createdAt": "2016-12-21 11:05:15",
+        "user": {
+            "id": "11604536-vkontakte",
+            "nickname": "shamanskaya",
+            "booksCount": 3
+        }
+    },
     "2iJOfziviF": {
         "id": "2iJOfziviF",
         "title": "Моя сестра живет на каминной полке",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 128
-        }
-    },
-    "lenPKCXJfs": {
-        "id": "lenPKCXJfs",
-        "title": "Сталь, пар и магия",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2016-12-15 17:36:42",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 230
         }
     }
 }
