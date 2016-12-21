@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[shamanskaya](users/116/11604536-vkontakte)<sup>6</sup> 
+[shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
 [gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>0</sup> 
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alexageeff](users/527/52794424-vkontakte)<sup>0</sup> 
 
 
-_21.12.2016 11:07:42_
+_21.12.2016 11:08:16_

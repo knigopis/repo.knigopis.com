@@ -1,4 +1,16 @@
 {
+    "atRjRUG44N": {
+        "id": "atRjRUG44N",
+        "title": "Никогде",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2016-12-21 11:08:16",
+        "user": {
+            "id": "11604536-vkontakte",
+            "nickname": "shamanskaya",
+            "booksCount": 7
+        }
+    },
     "aNK-RfEbN-": {
         "id": "aNK-RfEbN-",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 480
-        }
-    },
-    "4gpUWl1GWP": {
-        "id": "4gpUWl1GWP",
-        "title": "Столкновение цивилизаций",
-        "author": "Самюэль Хантингтон",
-        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/1342923/",
-        "createdAt": "2016-12-16 21:32:26",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 85
         }
     }
 }
