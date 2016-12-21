@@ -1,4 +1,10 @@
 {
+    "11604536-vkontakte": {
+        "id": "11604536-vkontakte",
+        "nickname": "shamanskaya",
+        "booksCount": 0,
+        "updatedAt": "2016-12-21 11:02:26"
+    },
     "8626954-vkontakte": {
         "id": "8626954-vkontakte",
         "nickname": "gggodhand",
@@ -172,11 +178,5 @@
         "nickname": "alexageeff",
         "booksCount": 0,
         "updatedAt": "2016-12-15 21:45:22"
-    },
-    "6043024-vkontakte": {
-        "id": "6043024-vkontakte",
-        "nickname": "Valeriy@",
-        "booksCount": 0,
-        "updatedAt": "2016-12-15 20:48:19"
     }
 }
