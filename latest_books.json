@@ -1,4 +1,16 @@
 {
+    "vntxxI25Qj": {
+        "id": "vntxxI25Qj",
+        "title": "Милые кости",
+        "author": "Элис Сиболд",
+        "notes": "",
+        "createdAt": "2016-12-21 11:05:56",
+        "user": {
+            "id": "11604536-vkontakte",
+            "nickname": "shamanskaya",
+            "booksCount": 4
+        }
+    },
     "ZnYFusVOQ-": {
         "id": "ZnYFusVOQ-",
         "title": "Хорошо быть тихоней",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 14
-        }
-    },
-    "ZNxU6w3VsA": {
-        "id": "ZNxU6w3VsA",
-        "title": "Бриджит Джонс  грани разумного",
-        "author": "Филдинг, Хелен",
-        "notes": "Легкая, незамысловатая книга. Хорошо подходит для полной разгрузки мозгов после тяжелого трудового дня.",
-        "createdAt": "2016-12-15 21:28:55",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 128
         }
     }
 }
