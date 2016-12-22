@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>8</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>9</sup>
 ---
 
 ## 2013
+
+### Колдун и кристалл
+Стивен Кинг
+> [2013-09-17] 4
+
 
 ### Провальное дело мальчика-детектива
 Джо Мино

@@ -1,4 +1,16 @@
 {
+    "SSeQUIUQgu": {
+        "id": "SSeQUIUQgu",
+        "title": "Колдун и кристалл",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:05:21",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 9
+        }
+    },
     "aSbA7_Jm7-": {
         "id": "aSbA7_Jm7-",
         "title": "Провальное дело мальчика-детектива",
@@ -345,18 +357,6 @@
             "id": "142301319-vkontakte",
             "nickname": "Ангелина ",
             "booksCount": 36
-        }
-    },
-    "dQSM_x2TCj": {
-        "id": "dQSM_x2TCj",
-        "title": "йцуйцу",
-        "author": "йцуйцуйцу",
-        "notes": "йцуйцуйцу",
-        "createdAt": "2016-12-19 13:45:39",
-        "user": {
-            "id": "116476237927054417748-googleplus",
-            "nickname": "dostapn",
-            "booksCount": 1
         }
     }
 }
