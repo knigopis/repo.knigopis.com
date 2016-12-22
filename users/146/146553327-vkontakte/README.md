@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>9</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>10</sup>
 ---
 
 ## 2013
+
+### Сияние
+Стивен Кинг
+> [2013-09-17] 4
+
 
 ### Колдун и кристалл
 Стивен Кинг

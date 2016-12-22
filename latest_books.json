@@ -1,4 +1,16 @@
 {
+    "tpnCgCZ_oW": {
+        "id": "tpnCgCZ_oW",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:06:15",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 10
+        }
+    },
     "SSeQUIUQgu": {
         "id": "SSeQUIUQgu",
         "title": "Колдун и кристалл",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 37
-        }
-    },
-    "CL620vj6uu": {
-        "id": "CL620vj6uu",
-        "title": "Узорный покров",
-        "author": "Сомерсет Моэм",
-        "notes": "",
-        "createdAt": "2016-12-19 14:30:26",
-        "user": {
-            "id": "142301319-vkontakte",
-            "nickname": "Ангелина ",
-            "booksCount": 36
         }
     }
 }
