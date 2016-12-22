@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>233</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>15</sup> 
 [yaft](users/100/100604889201458918357-google)<sup>0</sup> 
-[kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 
 
-_22.12.2016 22:35:07_
+_22.12.2016 22:36:43_
