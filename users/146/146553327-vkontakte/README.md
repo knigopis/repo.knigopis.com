@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>15</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>16</sup>
 ---
 
 ## 2013
+
+### Туман
+Стивен Кинг
+> [2013-11-23] 5
+
 
 ### Множественные умы Билли Миллигана
 Дэниел Киз

@@ -1,4 +1,16 @@
 {
+    "Irv0pWKICM": {
+        "id": "Irv0pWKICM",
+        "title": "Туман",
+        "author": "Стивен Кинг",
+        "notes": "5",
+        "createdAt": "2016-12-22 22:13:07",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 16
+        }
+    },
     "xxplvgj1jV": {
         "id": "xxplvgj1jV",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 293
-        }
-    },
-    "ktIk6aUpgE": {
-        "id": "ktIk6aUpgE",
-        "title": "Слово Императора",
-        "author": "Дарья Кузнецова",
-        "notes": "",
-        "createdAt": "2016-12-20 10:49:22",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 292
         }
     }
 }
