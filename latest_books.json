@@ -1,4 +1,16 @@
 {
+    "DYI4nU0RC9": {
+        "id": "DYI4nU0RC9",
+        "title": "451 градус по Фарингейту",
+        "author": "Рэй Брэдбери",
+        "notes": "5",
+        "createdAt": "2016-12-22 22:20:36",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 25
+        }
+    },
     "tILI5LNraw": {
         "id": "tILI5LNraw",
         "title": "Место назначения неизвестно",
@@ -345,18 +357,6 @@
             "id": "11604536-vkontakte",
             "nickname": "shamanskaya",
             "booksCount": 7
-        }
-    },
-    "aNK-RfEbN-": {
-        "id": "aNK-RfEbN-",
-        "title": "До встречи с тобой",
-        "author": "Джоджо Мойес",
-        "notes": "",
-        "createdAt": "2016-12-21 11:07:42",
-        "user": {
-            "id": "11604536-vkontakte",
-            "nickname": "shamanskaya",
-            "booksCount": 6
         }
     }
 }
