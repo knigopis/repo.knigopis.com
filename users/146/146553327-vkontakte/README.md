@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>25</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>26</sup>
 ---
 
 ## 2014
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2014-02-09] 5
+
 
 ### 451 градус по Фарингейту
 Рэй Брэдбери
