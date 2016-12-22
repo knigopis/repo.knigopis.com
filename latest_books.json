@@ -1,4 +1,16 @@
 {
+    "PjTzJSrbYq": {
+        "id": "PjTzJSrbYq",
+        "title": "Хребты безумия",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:16:28",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 20
+        }
+    },
     "ncraXOIjEr": {
         "id": "ncraXOIjEr",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "11604536-vkontakte",
             "nickname": "shamanskaya",
             "booksCount": 2
-        }
-    },
-    "W4jLVPrwon": {
-        "id": "W4jLVPrwon",
-        "title": "Книжный вор",
-        "author": "Маркус Зузак",
-        "notes": "",
-        "createdAt": "2016-12-21 11:03:19",
-        "user": {
-            "id": "11604536-vkontakte",
-            "nickname": "shamanskaya",
-            "booksCount": 1
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>19</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>20</sup>
 ---
 
 ## 2014
+
+### Хребты безумия
+Говард Филлипс Лавкрафт
+> [2014-01-11] 4
+
 
 ### Над пропастью во ржи
 Джером Дэвид Сэлинджер
