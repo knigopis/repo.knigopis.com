@@ -1,4 +1,16 @@
 {
+    "ti0XNjjPoH": {
+        "id": "ti0XNjjPoH",
+        "title": "Я - легенда",
+        "author": "Ричард Мэтисон",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:14:48",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 18
+        }
+    },
     "ckCzZ9Cro9": {
         "id": "ckCzZ9Cro9",
         "title": "Случайная вакансия",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 1
-        }
-    },
-    "6U7EEZxA6b": {
-        "id": "6U7EEZxA6b",
-        "title": "Дом странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2016-12-20 10:53:09",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 294
         }
     }
 }

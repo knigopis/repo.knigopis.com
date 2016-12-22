@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>17</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>18</sup>
 ---
 
 ## 2013
+
+### Я - легенда
+Ричард Мэтисон
+> [2013-12-22] 4
+
 
 ### Случайная вакансия
 Джоан Роулинг
