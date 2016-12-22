@@ -1,4 +1,16 @@
 {
+    "tEnfM2IENs": {
+        "id": "tEnfM2IENs",
+        "title": "Бесплодные земли",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 21:53:57",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 1
+        }
+    },
     "8jdh7rSUng": {
         "id": "8jdh7rSUng",
         "title": "Комната страха",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 42
-        }
-    },
-    "CURMLzFVGt": {
-        "id": "CURMLzFVGt",
-        "title": "Прощай, Берлин",
-        "author": "Кристофер Ишервуд",
-        "notes": "",
-        "createdAt": "2016-12-18 09:01:20",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 481
         }
     }
 }

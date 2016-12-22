@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[imsafeandsound](users/146/146553327-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>233</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
 [gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
-[imsafeandsound](users/146/146553327-vkontakte)<sup>0</sup> 
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>294</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 
 
-_22.12.2016 10:16:27_
+_22.12.2016 21:53:57_
