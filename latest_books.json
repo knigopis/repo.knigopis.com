@@ -1,4 +1,16 @@
 {
+    "q_pJbSrioi": {
+        "id": "q_pJbSrioi",
+        "title": "Ветер сквозь замочную скважину",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:10:26",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 14
+        }
+    },
     "QxpJM5dHK_": {
         "id": "QxpJM5dHK_",
         "title": "Песнь Сюзанны",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 66
-        }
-    },
-    "-Qlc_cgD6K": {
-        "id": "-Qlc_cgD6K",
-        "title": "Самый Богатый Человек в Вавилоне",
-        "author": "Джордж С. Клейсон",
-        "notes": "\"Если есть решимость, всегда достигнешь цели.\"",
-        "createdAt": "2016-12-20 05:30:16",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 65
         }
     }
 }
