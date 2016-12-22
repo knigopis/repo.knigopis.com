@@ -1,4 +1,10 @@
 {
+    "59894511-vkontakte": {
+        "id": "59894511-vkontakte",
+        "nickname": "ffffffffffffffffffffffffffffff",
+        "booksCount": 0,
+        "updatedAt": "2016-12-22 22:36:43"
+    },
     "146553327-vkontakte": {
         "id": "146553327-vkontakte",
         "nickname": "imsafeandsound",
@@ -172,11 +178,5 @@
         "nickname": "yaft",
         "booksCount": 0,
         "updatedAt": "2016-12-16 09:36:56"
-    },
-    "21742453-vkontakte": {
-        "id": "21742453-vkontakte",
-        "nickname": "kotwizkiy",
-        "booksCount": 0,
-        "updatedAt": "2016-12-16 04:41:03"
     }
 }
