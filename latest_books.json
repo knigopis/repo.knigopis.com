@@ -1,4 +1,16 @@
 {
+    "lYRZWhTp9e": {
+        "id": "lYRZWhTp9e",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:17:10",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 21
+        }
+    },
     "PjTzJSrbYq": {
         "id": "PjTzJSrbYq",
         "title": "Хребты безумия",
@@ -345,18 +357,6 @@
             "id": "11604536-vkontakte",
             "nickname": "shamanskaya",
             "booksCount": 3
-        }
-    },
-    "2iJOfziviF": {
-        "id": "2iJOfziviF",
-        "title": "Моя сестра живет на каминной полке",
-        "author": "Питчер Анабель",
-        "notes": "",
-        "createdAt": "2016-12-21 11:04:21",
-        "user": {
-            "id": "11604536-vkontakte",
-            "nickname": "shamanskaya",
-            "booksCount": 2
         }
     }
 }
