@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>230</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dostapn](users/116/116476237927054417748-googleplus)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>44</sup> 
 [Mac](users/112/112725427821362061674-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>231</sup> 
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kotwizkiy](users/217/21742453-vkontakte)<sup>0</sup> 
 
 
-_22.12.2016 09:36:17_
+_22.12.2016 10:13:08_
