@@ -1,4 +1,16 @@
 {
+    "Al9Tm6GnsN": {
+        "id": "Al9Tm6GnsN",
+        "title": "На Западном фронте без перемен",
+        "author": "Эрих Ремарк",
+        "notes": "",
+        "createdAt": "2016-12-22 09:36:17",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 86
+        }
+    },
     "atRjRUG44N": {
         "id": "atRjRUG44N",
         "title": "Никогде",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 65
-        }
-    },
-    "z2bpkDi4zq": {
-        "id": "z2bpkDi4zq",
-        "title": "Кровь и песок",
-        "author": "Висенте Бласко Ибаньес",
-        "notes": "",
-        "createdAt": "2016-12-17 04:53:26",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 480
         }
     }
 }
