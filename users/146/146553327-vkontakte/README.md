@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>3</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>4</sup>
 ---
 
 ## 2013
+
+### Собор Парижской Богоматери
+Виктор Гюго
+> [2013-08-24] 3
+
 
 ### Стрелок
 Стивен Кинг
