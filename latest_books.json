@@ -1,4 +1,16 @@
 {
+    "QxpJM5dHK_": {
+        "id": "QxpJM5dHK_",
+        "title": "Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:08:27",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 13
+        }
+    },
     "u1e-KlTMQA": {
         "id": "u1e-KlTMQA",
         "title": "Волки Кальи",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 65
-        }
-    },
-    "Di27SAzO4E": {
-        "id": "Di27SAzO4E",
-        "title": "Величайший Сетевик в Мире",
-        "author": "Джон Милтон Фогг",
-        "notes": "",
-        "createdAt": "2016-12-20 05:28:38",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 64
         }
     }
 }

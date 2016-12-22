@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>12</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>13</sup>
 ---
 
 ## 2013
+
+### Песнь Сюзанны
+Стивен Кинг
+> [2013-10-05] 4
+
 
 ### Волки Кальи
 Стивен Кинг
