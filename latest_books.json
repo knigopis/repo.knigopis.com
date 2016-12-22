@@ -1,4 +1,16 @@
 {
+    "8jdh7rSUng": {
+        "id": "8jdh7rSUng",
+        "title": "Комната страха",
+        "author": "Грей Боб",
+        "notes": "",
+        "createdAt": "2016-12-22 10:16:26",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 233
+        }
+    },
     "NvjG3X-U2S": {
         "id": "NvjG3X-U2S",
         "title": "Ветер полыни",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 481
-        }
-    },
-    "aGWQQe1ffq": {
-        "id": "aGWQQe1ffq",
-        "title": "Сфера",
-        "author": "Дэйв Эггерс",
-        "notes": "",
-        "createdAt": "2016-12-17 19:47:42",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 30
         }
     }
 }
