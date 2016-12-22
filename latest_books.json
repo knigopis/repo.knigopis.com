@@ -1,4 +1,16 @@
 {
+    "_kEBsIdE-8": {
+        "id": "_kEBsIdE-8",
+        "title": "Властелин колец",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "5",
+        "createdAt": "2016-12-22 22:18:25",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 22
+        }
+    },
     "lYRZWhTp9e": {
         "id": "lYRZWhTp9e",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "11604536-vkontakte",
             "nickname": "shamanskaya",
             "booksCount": 4
-        }
-    },
-    "ZnYFusVOQ-": {
-        "id": "ZnYFusVOQ-",
-        "title": "Хорошо быть тихоней",
-        "author": "Стивен Чбовски",
-        "notes": "",
-        "createdAt": "2016-12-21 11:05:15",
-        "user": {
-            "id": "11604536-vkontakte",
-            "nickname": "shamanskaya",
-            "booksCount": 3
         }
     }
 }

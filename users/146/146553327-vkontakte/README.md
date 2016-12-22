@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>21</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>22</sup>
 ---
 
 ## 2014
+
+### Властелин колец
+Джон Рональд Руэл Толкин
+> [2014-02-09] 5
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери
