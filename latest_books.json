@@ -1,4 +1,16 @@
 {
+    "u1e-KlTMQA": {
+        "id": "u1e-KlTMQA",
+        "title": "Волки Кальи",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:07:44",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 12
+        }
+    },
     "m6VILrxCSb": {
         "id": "m6VILrxCSb",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 64
-        }
-    },
-    "ISY2oT1dnu": {
-        "id": "ISY2oT1dnu",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2016-12-20 05:27:43",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 63
         }
     }
 }

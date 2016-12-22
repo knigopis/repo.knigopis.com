@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>11</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>12</sup>
 ---
 
 ## 2013
+
+### Волки Кальи
+Стивен Кинг
+> [2013-09-17] 4
+
 
 ### Повелитель мух
 Уильям Голдинг
