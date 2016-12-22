@@ -1,4 +1,16 @@
 {
+    "4aMAP2aqt_": {
+        "id": "4aMAP2aqt_",
+        "title": "День триффидов",
+        "author": "Джон Уиндем",
+        "notes": "4",
+        "createdAt": "2016-12-22 21:57:46",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 5
+        }
+    },
     "mOcSXvPgGT": {
         "id": "mOcSXvPgGT",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 43
-        }
-    },
-    "c0Dlbss_OH": {
-        "id": "c0Dlbss_OH",
-        "title": "Зелёные холмы Африки",
-        "author": "Эрнест Хемингуэй",
-        "notes": "Автобиографическая повесть.",
-        "createdAt": "2016-12-18 20:03:01",
-        "user": {
-            "id": "330421234-vkontakte",
-            "nickname": "alex_razumovsky",
-            "booksCount": 1
         }
     }
 }
