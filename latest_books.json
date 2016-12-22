@@ -1,4 +1,16 @@
 {
+    "aSbA7_Jm7-": {
+        "id": "aSbA7_Jm7-",
+        "title": "Провальное дело мальчика-детектива",
+        "author": "Джо Мино",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:04:27",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 8
+        }
+    },
     "ZbvOm6JPSQ": {
         "id": "ZbvOm6JPSQ",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "116476237927054417748-googleplus",
             "nickname": "dostapn",
             "booksCount": 1
-        }
-    },
-    "RZh2i9tPkz": {
-        "id": "RZh2i9tPkz",
-        "title": "Комната.",
-        "author": "Жан Поль Сартр",
-        "notes": "\"Нет, я убью тебя раньше\"",
-        "createdAt": "2016-12-19 08:53:32",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 44
         }
     }
 }

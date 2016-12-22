@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>7</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>8</sup>
 ---
 
 ## 2013
+
+### Провальное дело мальчика-детектива
+Джо Мино
+> [2013-08-24] 4
+
 
 ### Гарри Поттер и Дары Смерти
 Джона Роулинг
