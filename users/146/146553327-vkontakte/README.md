@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>6</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>7</sup>
 ---
 
 ## 2013
+
+### Гарри Поттер и Дары Смерти
+Джона Роулинг
+> [2013-08-24] 5
+
 
 ### Хризалиды
 Джон Уиндем

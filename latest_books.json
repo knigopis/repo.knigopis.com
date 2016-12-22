@@ -1,4 +1,16 @@
 {
+    "ZbvOm6JPSQ": {
+        "id": "ZbvOm6JPSQ",
+        "title": "Гарри Поттер и Дары Смерти",
+        "author": "Джона Роулинг",
+        "notes": "5",
+        "createdAt": "2016-12-22 22:03:37",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 7
+        }
+    },
     "keSGBp7ccL": {
         "id": "keSGBp7ccL",
         "title": "Хризалиды",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 44
-        }
-    },
-    "q73GaMlOJ5": {
-        "id": "q73GaMlOJ5",
-        "title": "Вся кремлевской рать",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2016-12-19 05:11:01",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 231
         }
     }
 }
