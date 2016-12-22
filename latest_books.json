@@ -1,4 +1,16 @@
 {
+    "xxplvgj1jV": {
+        "id": "xxplvgj1jV",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "5",
+        "createdAt": "2016-12-22 22:12:21",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 15
+        }
+    },
     "q_pJbSrioi": {
         "id": "q_pJbSrioi",
         "title": "Ветер сквозь замочную скважину",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 292
-        }
-    },
-    "xpB01Mvx0T": {
-        "id": "xpB01Mvx0T",
-        "title": "Результативный тайм-менеджмент",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2016-12-20 05:32:15",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 66
         }
     }
 }

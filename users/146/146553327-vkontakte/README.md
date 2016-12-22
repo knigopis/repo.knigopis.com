@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>14</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>15</sup>
 ---
 
 ## 2013
+
+### Множественные умы Билли Миллигана
+Дэниел Киз
+> [2013-11-14] 5
+
 
 ### Ветер сквозь замочную скважину
 Стивен Кинг
