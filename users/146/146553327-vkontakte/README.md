@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>16</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>17</sup>
 ---
 
 ## 2013
+
+### Случайная вакансия
+Джоан Роулинг
+> [2013-12-18] 4
+
 
 ### Туман
 Стивен Кинг
