@@ -1,4 +1,16 @@
 {
+    "EoRZduZU1O": {
+        "id": "EoRZduZU1O",
+        "title": "Молчание ягнят",
+        "author": "Томас Харрис",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:34:15",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 29
+        }
+    },
     "4hP9gpTYcv": {
         "id": "4hP9gpTYcv",
         "title": "Кошмар на улице Вязов",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 233
-        }
-    },
-    "NvjG3X-U2S": {
-        "id": "NvjG3X-U2S",
-        "title": "Ветер полыни",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2016-12-22 10:15:18",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 232
         }
     }
 }

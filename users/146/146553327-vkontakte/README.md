@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>28</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>29</sup>
 ---
 
 ## 2014
+
+### Молчание ягнят
+Томас Харрис
+> [2014-03-16] 4
+
 
 ### Кошмар на улице Вязов
 Арч Стрэнтон
