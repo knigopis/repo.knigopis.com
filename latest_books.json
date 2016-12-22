@@ -1,4 +1,16 @@
 {
+    "tILI5LNraw": {
+        "id": "tILI5LNraw",
+        "title": "Место назначения неизвестно",
+        "author": "Агата Кристи",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:19:56",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 24
+        }
+    },
     "TLACbsJPbx": {
         "id": "TLACbsJPbx",
         "title": "Человек-амфибия",
@@ -345,18 +357,6 @@
             "id": "11604536-vkontakte",
             "nickname": "shamanskaya",
             "booksCount": 6
-        }
-    },
-    "xjhB4FlmaA": {
-        "id": "xjhB4FlmaA",
-        "title": "Девушка, которую ты покинул",
-        "author": "Джоджо Мойес",
-        "notes": "",
-        "createdAt": "2016-12-21 11:07:11",
-        "user": {
-            "id": "11604536-vkontakte",
-            "nickname": "shamanskaya",
-            "booksCount": 5
         }
     }
 }
