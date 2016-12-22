@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>27</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>28</sup>
 ---
 
 ## 2014
+
+### Кошмар на улице Вязов
+Арч Стрэнтон
+> [2014-03-16] 4
+
 
 ### Планета обезьян
 Пьер Буль
