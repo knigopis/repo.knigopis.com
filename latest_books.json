@@ -1,4 +1,16 @@
 {
+    "m6VILrxCSb": {
+        "id": "m6VILrxCSb",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:07:06",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 11
+        }
+    },
     "tpnCgCZ_oW": {
         "id": "tpnCgCZ_oW",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 63
-        }
-    },
-    "BsQpIrUqQN": {
-        "id": "BsQpIrUqQN",
-        "title": "Вторая жизнь (1-2) 3 судя по всему не полностью",
-        "author": "Ростислав Марченко",
-        "notes": "Отсылки к различным военным историям, и ГГ видимо ощущает себя неким Сталином того мира в котором оказался",
-        "createdAt": "2016-12-20 00:25:25",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 37
         }
     }
 }
