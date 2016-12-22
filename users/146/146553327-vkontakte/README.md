@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>5</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>6</sup>
 ---
 
 ## 2013
+
+### Хризалиды
+Джон Уиндем
+> [2013-08-24] 4
+
 
 ### День триффидов
 Джон Уиндем

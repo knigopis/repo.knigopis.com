@@ -1,4 +1,16 @@
 {
+    "keSGBp7ccL": {
+        "id": "keSGBp7ccL",
+        "title": "Хризалиды",
+        "author": "Джон Уиндем",
+        "notes": "4",
+        "createdAt": "2016-12-22 22:02:23",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 6
+        }
+    },
     "4aMAP2aqt_": {
         "id": "4aMAP2aqt_",
         "title": "День триффидов",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 231
-        }
-    },
-    "LVz9lrarwd": {
-        "id": "LVz9lrarwd",
-        "title": "Стена",
-        "author": "Жан Поль Сартр",
-        "notes": "Вот это Да!",
-        "createdAt": "2016-12-18 20:21:53",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 43
         }
     }
 }
