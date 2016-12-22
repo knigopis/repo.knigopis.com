@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>2</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>3</sup>
 ---
 
 ## 2013
+
+### Стрелок
+Стивен Кинг
+> [2013-08-24] 4
+
 
 ### Извлечение троих
 Стивен Кинг

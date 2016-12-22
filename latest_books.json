@@ -1,4 +1,16 @@
 {
+    "GXE9ClC8jP": {
+        "id": "GXE9ClC8jP",
+        "title": "Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "4",
+        "createdAt": "2016-12-22 21:55:54",
+        "user": {
+            "id": "146553327-vkontakte",
+            "nickname": "imsafeandsound",
+            "booksCount": 3
+        }
+    },
     "92H9cJTROr": {
         "id": "92H9cJTROr",
         "title": "Извлечение троих",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 129
-        }
-    },
-    "NLGDJ23hvW": {
-        "id": "NLGDJ23hvW",
-        "title": "Почтамп",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2016-12-18 13:02:17",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 17
         }
     }
 }
