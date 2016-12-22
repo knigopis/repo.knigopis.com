@@ -1,7 +1,12 @@
-# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>26</sup>
+# List of books read by [imsafeandsound](http://vk.com/id146553327)<sup>27</sup>
 ---
 
 ## 2014
+
+### Планета обезьян
+Пьер Буль
+> [2014-02-11] 4
+
 
 ### Великий Гэтсби
 Фрэнсис Скотт Фицджеральд
