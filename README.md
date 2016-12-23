@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lana_berry](users/126/1260752-vkontakte)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup> 
 [ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wwww](users/107/107457466087190724190-google)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>15</sup> 
 
 
-_23.12.2016 09:05:02_
+_23.12.2016 12:05:37_
