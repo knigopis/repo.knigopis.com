@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
 * Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
@@ -30,7 +31,6 @@
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 * Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
-* Scrum и XP: заметки с передовой. ~ [igor1980](users/100/100003094239547-facebook)<sup>6</sup>
 
 
-_20.12.2016 05:30:16_
+_23.12.2016 09:05:02_

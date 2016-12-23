@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
+    > Книга, которая способна покорить каждого! И, конечно, она покорила меня и заняла почетное место в списке мною любимых книг!
+    > Эмоции были разные, но с самой первой страницы и до конца я не могла оторваться и жадно читала-читала...
+
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
     > "Если есть решимость, всегда достигнешь цели."
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Отсылки к различным военным историям, и ГГ видимо ощущает себя неким Сталином того мира в котором оказался
 
 * Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
-    > "Нет, я убью тебя раньше"
 
 * Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Щегол ~ [Беска](users/157/1577468-vkontakte)<sup>15</sup>
 
-* Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nadisvid](users/113/1138852626183846-facebook)<sup>24</sup> 
 [ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>233</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>65</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>15</sup> 
-[yaft](users/100/100604889201458918357-google)<sup>0</sup> 
 
 
-_22.12.2016 22:36:43_
+_23.12.2016 09:05:02_

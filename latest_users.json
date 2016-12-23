@@ -1,4 +1,10 @@
 {
+    "1138852626183846-facebook": {
+        "id": "1138852626183846-facebook",
+        "nickname": "nadisvid",
+        "booksCount": 24,
+        "updatedAt": "2016-12-23 09:05:01"
+    },
     "59894511-vkontakte": {
         "id": "59894511-vkontakte",
         "nickname": "ffffffffffffffffffffffffffffff",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 15,
         "updatedAt": "2016-12-16 13:48:15"
-    },
-    "100604889201458918357-google": {
-        "id": "100604889201458918357-google",
-        "nickname": "yaft",
-        "booksCount": 0,
-        "updatedAt": "2016-12-16 09:36:56"
     }
 }
