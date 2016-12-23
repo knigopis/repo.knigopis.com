@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* К оружию! К оружию! ~ [lucius](users/838/83820536-yandex)<sup>137</sup>
 * Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
 * С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
-* Тестирование DOT COM ~ [igor1980](users/100/100003094239547-facebook)<sup>7</sup>
 
 
-_23.12.2016 09:05:02_
+_23.12.2016 14:56:37_

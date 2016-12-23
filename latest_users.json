@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 137,
+        "updatedAt": "2016-12-23 14:56:37"
+    },
     "1260752-vkontakte": {
         "id": "1260752-vkontakte",
         "nickname": "lana_berry",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 65,
         "updatedAt": "2016-12-17 07:22:47"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 85,
-        "updatedAt": "2016-12-16 21:32:26"
     }
 }
