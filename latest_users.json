@@ -1,4 +1,10 @@
 {
+    "2599559892670551610-mailru": {
+        "id": "2599559892670551610-mailru",
+        "nickname": "-",
+        "booksCount": 0,
+        "updatedAt": "2016-12-23 18:48:16"
+    },
     "287579664-twitter": {
         "id": "287579664-twitter",
         "nickname": "enrikenur",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 481,
         "updatedAt": "2016-12-18 09:01:20"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 30,
-        "updatedAt": "2016-12-17 19:47:42"
     }
 }
