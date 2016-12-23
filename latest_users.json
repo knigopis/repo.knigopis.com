@@ -1,4 +1,10 @@
 {
+    "287579664-twitter": {
+        "id": "287579664-twitter",
+        "nickname": "enrikenur",
+        "booksCount": 0,
+        "updatedAt": "2016-12-23 17:01:02"
+    },
     "106931358806572145583-google": {
         "id": "106931358806572145583-google",
         "nickname": "venka.daria",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 30,
         "updatedAt": "2016-12-17 19:47:42"
-    },
-    "107457466087190724190-google": {
-        "id": "107457466087190724190-google",
-        "nickname": "wwww",
-        "booksCount": 1,
-        "updatedAt": "2016-12-17 11:57:40"
     }
 }
