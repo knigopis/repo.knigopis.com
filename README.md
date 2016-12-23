@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[-](users/259/2599559892670551610-mailru)<sup>0</sup> 
 [enrikenur](users/287/287579664-twitter)<sup>0</sup> 
 [venka.daria](users/106/106931358806572145583-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>137</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>17</sup> 
 [mikasius](users/275/275118839-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>481</sup> 
-[me](users/381/381417697-yandex)<sup>30</sup> 
 
 
-_23.12.2016 17:01:03_
+_23.12.2016 18:48:16_
