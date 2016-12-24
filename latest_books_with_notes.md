@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [Беска](users/157/1577468-vkontakte)<sup>16</sup>
 * К оружию! К оружию! ~ [lucius](users/838/83820536-yandex)<sup>137</sup>
 * Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
 * Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
 * Путь кинжалов ~ [Garka](users/115/115753719718250012620-google)<sup>122</sup>
-* С неба упали три яблока ~ [Беска](users/157/1577468-vkontakte)<sup>13</sup>
 
 
-_23.12.2016 14:56:37_
+_24.12.2016 21:25:59_

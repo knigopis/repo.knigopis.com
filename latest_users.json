@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 16,
+        "updatedAt": "2016-12-24 21:25:59"
+    },
     "2599559892670551610-mailru": {
         "id": "2599559892670551610-mailru",
         "nickname": "-",
@@ -172,11 +178,5 @@
         "nickname": "mikasius",
         "booksCount": 0,
         "updatedAt": "2016-12-18 09:08:27"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 481,
-        "updatedAt": "2016-12-18 09:01:20"
     }
 }
