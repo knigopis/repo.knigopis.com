@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nataliya_drahanchuk](users/242/242544301-vkontakte)<sup>0</sup> 
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>28</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>17</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
-[Artemic](users/100/100002059250648-facebook)<sup>0</sup> 
 
 
-_25.12.2016 13:34:08_
+_25.12.2016 20:56:21_
