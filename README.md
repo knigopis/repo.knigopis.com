@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>28</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>17</sup> 
 [-](users/259/2599559892670551610-mailru)<sup>0</sup> 
 [enrikenur](users/287/287579664-twitter)<sup>0</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
 [Artemic](users/100/100002059250648-facebook)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>17</sup> 
-[mikasius](users/275/275118839-vkontakte)<sup>0</sup> 
 
 
-_25.12.2016 00:42:45_
+_25.12.2016 09:30:24_

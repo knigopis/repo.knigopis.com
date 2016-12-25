@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>27</sup>
+# Список прочитанных книг пользователя exulted<sup>28</sup>
 ---
 
 ## 2016
+
+### Лестница в небо
+Хазин Михаил, Щеглов Сергей
+> [2016-12-20] 
+
 
 ### Hammer of the Gods: The Thule Society and the Birth of Nazism
 David Lurhssen
