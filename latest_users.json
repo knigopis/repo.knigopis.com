@@ -1,4 +1,10 @@
 {
+    "307896598-vkontakte": {
+        "id": "307896598-vkontakte",
+        "nickname": "bphiz",
+        "booksCount": 0,
+        "updatedAt": "2016-12-25 13:34:07"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Artemic",
         "booksCount": 0,
         "updatedAt": "2016-12-18 13:04:22"
-    },
-    "872361436199401-facebook": {
-        "id": "872361436199401-facebook",
-        "nickname": "genrih59",
-        "booksCount": 17,
-        "updatedAt": "2016-12-18 13:02:17"
     }
 }
