@@ -1,4 +1,10 @@
 {
+    "242544301-vkontakte": {
+        "id": "242544301-vkontakte",
+        "nickname": "nataliya_drahanchuk",
+        "booksCount": 0,
+        "updatedAt": "2016-12-25 20:56:19"
+    },
     "307896598-vkontakte": {
         "id": "307896598-vkontakte",
         "nickname": "bphiz",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 129,
         "updatedAt": "2016-12-18 13:43:59"
-    },
-    "100002059250648-facebook": {
-        "id": "100002059250648-facebook",
-        "nickname": "Artemic",
-        "booksCount": 0,
-        "updatedAt": "2016-12-18 13:04:22"
     }
 }
