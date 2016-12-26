@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 18,
+        "updatedAt": "2016-12-26 18:22:21"
+    },
     "100000491918134-facebook": {
         "id": "100000491918134-facebook",
         "nickname": "easyaround",
@@ -172,11 +178,5 @@
         "nickname": "dostapn",
         "booksCount": 0,
         "updatedAt": "2016-12-19 13:46:54"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 44,
-        "updatedAt": "2016-12-19 08:53:32"
     }
 }

@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
 [easyaround](users/100/100000491918134-facebook)<sup>1</sup> 
 [533704t](users/161/161067016-vkontakte)<sup>0</sup> 
 [SymbatSSP](users/111/111174942368802285509-googleplus)<sup>0</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
 [Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
 [dostapn](users/116/116476237927054417748-googleplus)<sup>0</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>44</sup> 
 
 
-_26.12.2016 18:03:09_
+_26.12.2016 18:22:21_
