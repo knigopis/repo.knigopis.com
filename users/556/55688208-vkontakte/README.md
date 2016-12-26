@@ -1,7 +1,11 @@
-# List of books read by [Julia](http://vk.com/id55688208)<sup>19</sup>
+# List of books read by [Julia](http://vk.com/id55688208)<sup>20</sup>
 ---
 
 ## 2016
+
+### Освобождённый Иерусалим
+Торквато Тассо
+
 
 ### Поющие в терновнике
 Колин Маккалоу

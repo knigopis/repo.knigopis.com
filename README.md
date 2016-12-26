@@ -53,7 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Julia](users/556/55688208-vkontakte)<sup>19</sup> 
+[Julia](users/556/55688208-vkontakte)<sup>20</sup> 
 [nataliya_drahanchuk](users/242/242544301-vkontakte)<sup>0</sup> 
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>28</sup> 
@@ -85,4 +85,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 
 
-_26.12.2016 08:40:55_
+_26.12.2016 08:42:12_

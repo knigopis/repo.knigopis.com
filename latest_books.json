@@ -1,4 +1,16 @@
 {
+    "m2MQ9aYfOy": {
+        "id": "m2MQ9aYfOy",
+        "title": "Освобождённый Иерусалим",
+        "author": "Торквато Тассо",
+        "notes": "",
+        "createdAt": "2016-12-26 08:42:12",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 20
+        }
+    },
     "P_nmgnl_Jw": {
         "id": "P_nmgnl_Jw",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 8
-        }
-    },
-    "ZbvOm6JPSQ": {
-        "id": "ZbvOm6JPSQ",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джона Роулинг",
-        "notes": "5",
-        "createdAt": "2016-12-22 22:03:37",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 7
         }
     }
 }
