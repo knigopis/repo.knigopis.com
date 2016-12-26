@@ -1,4 +1,10 @@
 {
+    "161067016-vkontakte": {
+        "id": "161067016-vkontakte",
+        "nickname": "533704t",
+        "booksCount": 0,
+        "updatedAt": "2016-12-26 16:57:57"
+    },
     "111174942368802285509-googleplus": {
         "id": "111174942368802285509-googleplus",
         "nickname": "SymbatSSP",
@@ -172,11 +178,5 @@
         "nickname": "Mac",
         "booksCount": 0,
         "updatedAt": "2016-12-19 07:59:43"
-    },
-    "330421234-vkontakte": {
-        "id": "330421234-vkontakte",
-        "nickname": "alex_razumovsky",
-        "booksCount": 1,
-        "updatedAt": "2016-12-18 20:03:01"
     }
 }
