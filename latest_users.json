@@ -1,4 +1,10 @@
 {
+    "111174942368802285509-googleplus": {
+        "id": "111174942368802285509-googleplus",
+        "nickname": "SymbatSSP",
+        "booksCount": 0,
+        "updatedAt": "2016-12-26 15:31:06"
+    },
     "55688208-vkontakte": {
         "id": "55688208-vkontakte",
         "nickname": "Julia",
@@ -172,11 +178,5 @@
         "nickname": "alex_razumovsky",
         "booksCount": 1,
         "updatedAt": "2016-12-18 20:03:01"
-    },
-    "103435743164516893719-google": {
-        "id": "103435743164516893719-google",
-        "nickname": "Samurai",
-        "booksCount": 0,
-        "updatedAt": "2016-12-18 15:21:57"
     }
 }
