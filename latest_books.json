@@ -1,4 +1,16 @@
 {
+    "P_nmgnl_Jw": {
+        "id": "P_nmgnl_Jw",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2016-12-26 08:40:55",
+        "user": {
+            "id": "55688208-vkontakte",
+            "nickname": "Julia",
+            "booksCount": 19
+        }
+    },
     "t-BFvFfug9": {
         "id": "t-BFvFfug9",
         "title": "Лестница в небо",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 7
-        }
-    },
-    "keSGBp7ccL": {
-        "id": "keSGBp7ccL",
-        "title": "Хризалиды",
-        "author": "Джон Уиндем",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:02:23",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 6
         }
     }
 }

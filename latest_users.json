@@ -1,4 +1,10 @@
 {
+    "55688208-vkontakte": {
+        "id": "55688208-vkontakte",
+        "nickname": "Julia",
+        "booksCount": 19,
+        "updatedAt": "2016-12-26 08:40:55"
+    },
     "242544301-vkontakte": {
         "id": "242544301-vkontakte",
         "nickname": "nataliya_drahanchuk",
@@ -172,11 +178,5 @@
         "nickname": "Samurai",
         "booksCount": 0,
         "updatedAt": "2016-12-18 15:21:57"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 129,
-        "updatedAt": "2016-12-18 13:43:59"
     }
 }
