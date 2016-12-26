@@ -1,4 +1,10 @@
 {
+    "13006313-vkontakte": {
+        "id": "13006313-vkontakte",
+        "nickname": "arut_adamyan",
+        "booksCount": 0,
+        "updatedAt": "2016-12-26 22:05:18"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина ",
         "booksCount": 36,
         "updatedAt": "2016-12-19 14:30:26"
-    },
-    "116476237927054417748-googleplus": {
-        "id": "116476237927054417748-googleplus",
-        "nickname": "dostapn",
-        "booksCount": 0,
-        "updatedAt": "2016-12-19 13:46:54"
     }
 }
