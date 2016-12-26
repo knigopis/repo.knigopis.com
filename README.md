@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SymbatSSP](users/111/111174942368802285509-googleplus)<sup>0</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>20</sup> 
 [nataliya_drahanchuk](users/242/242544301-vkontakte)<sup>0</sup> 
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>44</sup> 
 [Mac](users/112/112725427821362061674-google)<sup>0</sup> 
 [alex_razumovsky](users/330/330421234-vkontakte)<sup>1</sup> 
-[Samurai](users/103/103435743164516893719-google)<sup>0</sup> 
 
 
-_26.12.2016 08:42:12_
+_26.12.2016 15:31:07_
