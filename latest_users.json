@@ -1,4 +1,10 @@
 {
+    "100000491918134-facebook": {
+        "id": "100000491918134-facebook",
+        "nickname": "easyaround",
+        "booksCount": 0,
+        "updatedAt": "2016-12-26 18:02:07"
+    },
     "161067016-vkontakte": {
         "id": "161067016-vkontakte",
         "nickname": "533704t",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 44,
         "updatedAt": "2016-12-19 08:53:32"
-    },
-    "112725427821362061674-google": {
-        "id": "112725427821362061674-google",
-        "nickname": "Mac",
-        "booksCount": 0,
-        "updatedAt": "2016-12-19 07:59:43"
     }
 }
