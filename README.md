@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
 [easyaround](users/100/100000491918134-facebook)<sup>1</sup> 
 [533704t](users/161/161067016-vkontakte)<sup>0</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
 [Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
-[dostapn](users/116/116476237927054417748-googleplus)<sup>0</sup> 
 
 
-_26.12.2016 18:22:21_
+_26.12.2016 22:05:18_
