@@ -1,4 +1,16 @@
 {
+    "Uc52g9fvbZ": {
+        "id": "Uc52g9fvbZ",
+        "title": "Настольная книга директора по маркетингу. Маркетинговое планирование",
+        "author": "Роман Хибинг",
+        "notes": "",
+        "createdAt": "2016-12-27 14:25:02",
+        "user": {
+            "id": "2947248-vkontakte",
+            "nickname": "mgaida",
+            "booksCount": 1
+        }
+    },
     "GDnCBEGeBb": {
         "id": "GDnCBEGeBb",
         "title": "Край равнинный. Кумыкская равнина.",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 12
-        }
-    },
-    "m6VILrxCSb": {
-        "id": "m6VILrxCSb",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:07:06",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 11
         }
     }
 }
