@@ -1,4 +1,10 @@
 {
+    "2947248-vkontakte": {
+        "id": "2947248-vkontakte",
+        "nickname": "mgaida",
+        "booksCount": 0,
+        "updatedAt": "2016-12-27 14:18:54"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Annet94",
         "booksCount": 0,
         "updatedAt": "2016-12-19 21:33:37"
-    },
-    "107829808048221961406-google": {
-        "id": "107829808048221961406-google",
-        "nickname": "Paraisopoma",
-        "booksCount": 0,
-        "updatedAt": "2016-12-19 19:32:32"
     }
 }
