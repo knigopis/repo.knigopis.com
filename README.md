@@ -53,7 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Julia](users/556/55688208-vkontakte)<sup>19</sup> 
+[Julia](users/556/55688208-vkontakte)<sup>18</sup> 
 [arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
 [easyaround](users/100/100000491918134-facebook)<sup>1</sup> 
@@ -85,4 +85,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
 
 
-_27.12.2016 09:57:07_
+_27.12.2016 09:59:40_
