@@ -1,4 +1,16 @@
 {
+    "zzwhg5Ci_b": {
+        "id": "zzwhg5Ci_b",
+        "title": "Маркетинг на 100%",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2016-12-27 14:29:23",
+        "user": {
+            "id": "2947248-vkontakte",
+            "nickname": "mgaida",
+            "booksCount": 1
+        }
+    },
     "Uc52g9fvbZ": {
         "id": "Uc52g9fvbZ",
         "title": "Настольная книга директора по маркетингу. Маркетинговое планирование",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 13
-        }
-    },
-    "u1e-KlTMQA": {
-        "id": "u1e-KlTMQA",
-        "title": "Волки Кальи",
-        "author": "Стивен Кинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:07:44",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 12
         }
     }
 }

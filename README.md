@@ -53,7 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mgaida](users/294/2947248-vkontakte)<sup>0</sup> 
+[mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>17</sup> 
 [arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
@@ -85,4 +85,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 
 
-_27.12.2016 14:25:17_
+_27.12.2016 14:29:23_
