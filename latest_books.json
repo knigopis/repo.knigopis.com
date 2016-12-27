@@ -1,4 +1,16 @@
 {
+    "E3Db44kdAL": {
+        "id": "E3Db44kdAL",
+        "title": "Темный паладин",
+        "author": "Маханенко",
+        "notes": "",
+        "createdAt": "2016-12-27 19:46:45",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 38
+        }
+    },
     "zzwhg5Ci_b": {
         "id": "zzwhg5Ci_b",
         "title": "Маркетинг на 100%",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 14
-        }
-    },
-    "QxpJM5dHK_": {
-        "id": "QxpJM5dHK_",
-        "title": "Песнь Сюзанны",
-        "author": "Стивен Кинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:08:27",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 13
         }
     }
 }

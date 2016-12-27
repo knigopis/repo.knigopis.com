@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 38,
+        "updatedAt": "2016-12-27 19:46:45"
+    },
     "104375029317049612659-google": {
         "id": "104375029317049612659-google",
         "nickname": "ManU-vetal",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 66,
         "updatedAt": "2016-12-20 05:32:15"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 37,
-        "updatedAt": "2016-12-20 00:25:25"
     }
 }

@@ -53,6 +53,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>38</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
 [mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>294</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>66</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 
 
-_27.12.2016 15:09:13_
+_27.12.2016 19:46:45_
