@@ -1,4 +1,4 @@
-# List of books read by [Julia](http://vk.com/id55688208)<sup>19</sup>
+# List of books read by [Julia](http://vk.com/id55688208)<sup>18</sup>
 ---
 
 ## 2016
@@ -52,10 +52,6 @@
 
 
 ### Одиссея
-Гомер
-
-
-### Илиада
 Гомер
 
 
