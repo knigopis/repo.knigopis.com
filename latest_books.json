@@ -1,4 +1,16 @@
 {
+    "-EAxJHuy1Y": {
+        "id": "-EAxJHuy1Y",
+        "title": "17 обновление",
+        "author": "Смородинский",
+        "notes": "Черный демон, огромные рояли в кустах, но при этом чем дальше, тем части лучше, а не наоборот, как бывает обычно",
+        "createdAt": "2016-12-27 19:49:14",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 39
+        }
+    },
     "E3Db44kdAL": {
         "id": "E3Db44kdAL",
         "title": "Темный паладин",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 15
-        }
-    },
-    "q_pJbSrioi": {
-        "id": "q_pJbSrioi",
-        "title": "Ветер сквозь замочную скважину",
-        "author": "Стивен Кинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:10:26",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 14
         }
     }
 }
