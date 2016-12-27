@@ -1,4 +1,4 @@
-# List of books read by [Julia](http://vk.com/id55688208)<sup>18</sup>
+# List of books read by [Julia](http://vk.com/id55688208)<sup>17</sup>
 ---
 
 ## 2016
@@ -17,10 +17,6 @@
 
 ### Божественная комедия
 Данте Алигьери
-
-
-### Одиссея
-Гомер
 
 
 ### Поющие в терновнике
