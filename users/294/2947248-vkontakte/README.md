@@ -1,10 +1,3 @@
-# List of books read by [mgaida](http://vk.com/id2947248)<sup>1</sup>
+# List of books read by [mgaida](http://vk.com/id2947248)<sup>0</sup>
 ---
-
-## 2017
-
-### Настольная книга директора по маркетингу. Маркетинговое планирование
-Роман Хибинг
-
-
 
