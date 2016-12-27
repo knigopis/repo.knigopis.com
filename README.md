@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
+    > Много исторического материала. Одна и та же история рассказывается в разных частях.
+
 * Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
     > это из описания:"Джек Лондон.
     > "Последний романтик" мировой литературы.
@@ -32,7 +35,6 @@ Do not use pull requests to make changes here.
     > Он никогда не говорил, какая картинка.
 
 * К оружию! К оружию! ~ [lucius](users/838/83820536-yandex)<sup>137</sup>
-    > Друг давно мне советовал почитать что-нибудь у Пратчетта. Мне казалось, что это как-то не для меня. Сначала действительно шло как-то тяжело, юмор казался странным, но потом "распробовал" и оказалось, что это одна из лучших книг, которые я читал в последние время! Тонкий приятный юмор с отсылками к известным произведениям, интересный сюжет и лёгкий слог. Категорически рекомендую!
 
 * Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
 
@@ -46,13 +48,12 @@ Do not use pull requests to make changes here.
 
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
 
-* Жутко громко и запредельно близко ~ [Ангелина](users/837/83788782-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>17</sup> 
 [arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
@@ -82,7 +83,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>37</sup> 
 [Annet94](users/930/930552663727490-facebook)<sup>0</sup> 
 [Paraisopoma](users/107/107829808048221961406-google)<sup>0</sup> 
-[Ангелина ](users/142/142301319-vkontakte)<sup>36</sup> 
 
 
-_27.12.2016 10:00:58_
+_27.12.2016 12:10:28_

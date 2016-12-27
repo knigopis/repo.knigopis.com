@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 66,
+        "updatedAt": "2016-12-27 12:10:28"
+    },
     "55688208-vkontakte": {
         "id": "55688208-vkontakte",
         "nickname": "Julia",
@@ -172,11 +178,5 @@
         "nickname": "Paraisopoma",
         "booksCount": 0,
         "updatedAt": "2016-12-19 19:32:32"
-    },
-    "142301319-vkontakte": {
-        "id": "142301319-vkontakte",
-        "nickname": "Ангелина ",
-        "booksCount": 36,
-        "updatedAt": "2016-12-19 14:30:26"
     }
 }

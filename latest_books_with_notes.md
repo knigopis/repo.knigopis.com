@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
 * Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
 * Убить пересмешника ~ [Беска](users/157/1577468-vkontakte)<sup>16</sup>
 * К оружию! К оружию! ~ [lucius](users/838/83820536-yandex)<sup>137</sup>
@@ -30,7 +31,6 @@
 * Саша Черный. Полное собрание сочинений ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>83</sup>
 * Мосты округа Мэдисон ~ [nadisvid](users/113/1138852626183846-facebook)<sup>23</sup>
 * Martian ~ [rNix](users/115/115622071-twitter)<sup>48</sup>
-* Защита периметра(1-3) ~ [Tr](users/122/12282474-vkontakte)<sup>35</sup>
 
 
-_25.12.2016 00:42:45_
+_27.12.2016 12:10:28_

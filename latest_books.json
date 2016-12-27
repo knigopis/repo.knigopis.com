@@ -1,4 +1,16 @@
 {
+    "GDnCBEGeBb": {
+        "id": "GDnCBEGeBb",
+        "title": "Край равнинный. Кумыкская равнина.",
+        "author": "Атаев Баммат",
+        "notes": "Много исторического материала. Одна и та же история рассказывается в разных частях.",
+        "createdAt": "2016-12-27 12:10:28",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 66
+        }
+    },
     "o8yuj4KNXZ": {
         "id": "o8yuj4KNXZ",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 11
-        }
-    },
-    "tpnCgCZ_oW": {
-        "id": "tpnCgCZ_oW",
-        "title": "Сияние",
-        "author": "Стивен Кинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:06:15",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 10
         }
     }
 }
