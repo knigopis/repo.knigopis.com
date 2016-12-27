@@ -1,4 +1,10 @@
 {
+    "55688208-vkontakte": {
+        "id": "55688208-vkontakte",
+        "nickname": "Julia",
+        "booksCount": 19,
+        "updatedAt": "2016-12-27 09:57:07"
+    },
     "13006313-vkontakte": {
         "id": "13006313-vkontakte",
         "nickname": "arut_adamyan",
@@ -28,12 +34,6 @@
         "nickname": "SymbatSSP",
         "booksCount": 0,
         "updatedAt": "2016-12-26 15:31:06"
-    },
-    "55688208-vkontakte": {
-        "id": "55688208-vkontakte",
-        "nickname": "Julia",
-        "booksCount": 20,
-        "updatedAt": "2016-12-26 08:42:12"
     },
     "242544301-vkontakte": {
         "id": "242544301-vkontakte",
