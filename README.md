@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>234</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>482</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup> 
 [ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>233</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 
 
-_28.12.2016 16:58:58_
+_28.12.2016 19:09:36_
