@@ -1,4 +1,10 @@
 {
+    "103188365011668395510-google": {
+        "id": "103188365011668395510-google",
+        "nickname": "Majy",
+        "booksCount": 0,
+        "updatedAt": "2016-12-28 12:17:42"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 294,
         "updatedAt": "2016-12-20 10:53:09"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 66,
-        "updatedAt": "2016-12-20 05:32:15"
     }
 }
