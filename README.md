@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>482</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
 [gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
-[Лела Папава](users/761/76187635-vkontakte)<sup>294</sup> 
 
 
-_28.12.2016 12:17:43_
+_28.12.2016 16:58:58_

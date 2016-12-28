@@ -1,4 +1,16 @@
 {
+    "IF9WwudHVD": {
+        "id": "IF9WwudHVD",
+        "title": "Метаморфозы, или Золотой осел",
+        "author": "Луций Апулей",
+        "notes": "",
+        "createdAt": "2016-12-28 16:58:57",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 482
+        }
+    },
     "-EAxJHuy1Y": {
         "id": "-EAxJHuy1Y",
         "title": "17 обновление",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 16
-        }
-    },
-    "xxplvgj1jV": {
-        "id": "xxplvgj1jV",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "5",
-        "createdAt": "2016-12-22 22:12:21",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 15
         }
     }
 }

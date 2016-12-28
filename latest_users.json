@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 482,
+        "updatedAt": "2016-12-28 16:58:57"
+    },
     "103188365011668395510-google": {
         "id": "103188365011668395510-google",
         "nickname": "Majy",
@@ -172,11 +178,5 @@
         "nickname": "_Ufo_28_",
         "booksCount": 0,
         "updatedAt": "2016-12-20 13:58:48"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 294,
-        "updatedAt": "2016-12-20 10:53:09"
     }
 }

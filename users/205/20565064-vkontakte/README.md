@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>481</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>482</sup>
 ---
 
 ## 2016
+
+### Метаморфозы, или Золотой осел
+Луций Апулей
+> [2016-12] 
+
 
 ### Прощай, Берлин
 Кристофер Ишервуд
