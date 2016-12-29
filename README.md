@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>234</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
 [mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 [shamanskaya](users/116/11604536-vkontakte)<sup>7</sup> 
-[gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 
 
-_29.12.2016 12:50:11_
+_29.12.2016 12:52:28_
