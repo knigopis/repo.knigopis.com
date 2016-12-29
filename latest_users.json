@@ -1,4 +1,10 @@
 {
+    "10212069337191586-facebook": {
+        "id": "10212069337191586-facebook",
+        "nickname": "lissyandra",
+        "booksCount": 0,
+        "updatedAt": "2016-12-29 17:40:43"
+    },
     "87639392-vkontakte": {
         "id": "87639392-vkontakte",
         "nickname": "veronika_vaha",
@@ -172,11 +178,5 @@
         "nickname": "mitsakult",
         "booksCount": 0,
         "updatedAt": "2016-12-21 20:31:45"
-    },
-    "11604536-vkontakte": {
-        "id": "11604536-vkontakte",
-        "nickname": "shamanskaya",
-        "booksCount": 7,
-        "updatedAt": "2016-12-21 11:08:16"
     }
 }
