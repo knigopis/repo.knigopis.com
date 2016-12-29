@@ -1,4 +1,10 @@
 {
+    "87639392-vkontakte": {
+        "id": "87639392-vkontakte",
+        "nickname": "veronika_vaha",
+        "booksCount": 0,
+        "updatedAt": "2016-12-29 12:48:25"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "gggodhand",
         "booksCount": 0,
         "updatedAt": "2016-12-21 08:39:31"
-    },
-    "2328486056-twitter": {
-        "id": "2328486056-twitter",
-        "nickname": "_Ufo_28_",
-        "booksCount": 0,
-        "updatedAt": "2016-12-20 13:58:48"
     }
 }
