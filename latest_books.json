@@ -1,4 +1,16 @@
 {
+    "z6rNMI3Lqd": {
+        "id": "z6rNMI3Lqd",
+        "title": "Лжец на кушетке",
+        "author": "Иривин Ялом",
+        "notes": "",
+        "createdAt": "2016-12-29 17:41:16",
+        "user": {
+            "id": "10212069337191586-facebook",
+            "nickname": "lissyandra",
+            "booksCount": 1
+        }
+    },
     "uX43ZCSOpI": {
         "id": "uX43ZCSOpI",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 21
-        }
-    },
-    "PjTzJSrbYq": {
-        "id": "PjTzJSrbYq",
-        "title": "Хребты безумия",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:16:28",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 20
         }
     }
 }

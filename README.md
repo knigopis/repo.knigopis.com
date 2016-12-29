@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lissyandra](users/102/10212069337191586-facebook)<sup>0</sup> 
+[lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 
 
-_29.12.2016 17:40:45_
+_29.12.2016 17:41:16_
