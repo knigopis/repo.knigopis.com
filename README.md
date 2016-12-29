@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[veronika_vaha](users/876/87639392-vkontakte)<sup>0</sup> 
+[veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>234</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>482</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gggodhand](users/862/8626954-vkontakte)<sup>0</sup> 
 
 
-_29.12.2016 12:48:26_
+_29.12.2016 12:50:11_
