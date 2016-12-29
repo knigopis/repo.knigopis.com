@@ -1,7 +1,12 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>1</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>2</sup>
 ---
 
 ## 2016
+
+### Солярис
+Станислав Лем
+> [2016-12-29] 
+
 
 ### Пикник на обочине
 Братья Стругацкие
