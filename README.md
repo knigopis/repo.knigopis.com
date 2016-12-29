@@ -44,13 +44,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>234</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>482</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
 [mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>17</sup> 
 [arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [_Ufo_28_](users/232/2328486056-twitter)<sup>0</sup> 
 
 
-_28.12.2016 19:09:36_
+_29.12.2016 11:57:19_

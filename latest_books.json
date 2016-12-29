@@ -1,4 +1,16 @@
 {
+    "CdDnWOBmFx": {
+        "id": "CdDnWOBmFx",
+        "title": "Мусульманин",
+        "author": "Залотуха Валерий",
+        "notes": "",
+        "createdAt": "2016-12-29 11:57:19",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 67
+        }
+    },
     "5nl_WsK-QT": {
         "id": "5nl_WsK-QT",
         "title": "Рейтар",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 18
-        }
-    },
-    "ckCzZ9Cro9": {
-        "id": "ckCzZ9Cro9",
-        "title": "Случайная вакансия",
-        "author": "Джоан Роулинг",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:13:51",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 17
         }
     }
 }
