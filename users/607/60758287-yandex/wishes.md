@@ -1,6 +1,9 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `14` Лабиринты стратегии. 8к
+> Бизнес
+
 ### `13` Не работай с мудаками
 > Бизнес
 
