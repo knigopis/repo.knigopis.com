@@ -1,6 +1,9 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `22` От хорошего к великому
+> Бизнес
+
 ### `21` СПИН- продажи
 Рекхэм Нил
 > Бизнес
