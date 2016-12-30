@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `36` Марк Аврелий
+Размышления
+> ЛР - Философия
+
 ### `35` Сила Настоящего
 Толле
 > ЛР- Философия
