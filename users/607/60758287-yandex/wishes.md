@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `33` Быть, а не казаться
+Стив Кови
+> ЛР - психология
+
 ### `29` Эссенциализм
 Грег
 > ЛР - Психология
