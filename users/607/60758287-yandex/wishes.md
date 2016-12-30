@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `3` 45 татуировок менеджера
+Максим Батырев
+> Бизнес
+
 ### `2` Мораль 21 века
 Салас Соммэр
 > Личностный рост - Философия
