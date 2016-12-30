@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `19` Люди, которые играют в игры
+Эрик Бёрн
+> ЛР - общение
+
 ### `18` Я всегда знаю, что сказать
 > ЛР - общение
 
