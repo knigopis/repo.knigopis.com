@@ -1,6 +1,9 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `32` Мои правила. Слушай, учись и смейся
+Брэнсон Ричард
+
 ### `31` Гении и аутсайдеры
 > Бизнес
 
