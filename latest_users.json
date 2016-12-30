@@ -1,4 +1,10 @@
 {
+    "631213583728634-facebook": {
+        "id": "631213583728634-facebook",
+        "nickname": "Meonia",
+        "booksCount": 0,
+        "updatedAt": "2016-12-30 17:05:56"
+    },
     "10212069337191586-facebook": {
         "id": "10212069337191586-facebook",
         "nickname": "lissyandra",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 86,
         "updatedAt": "2016-12-22 09:36:17"
-    },
-    "288034278-vkontakte": {
-        "id": "288034278-vkontakte",
-        "nickname": "mitsakult",
-        "booksCount": 0,
-        "updatedAt": "2016-12-21 20:31:45"
     }
 }
