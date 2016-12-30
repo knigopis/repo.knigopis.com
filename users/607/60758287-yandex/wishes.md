@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `4` Думай и Богатей
+Наполеон Хилл
+> Бизнес
+
 ### `3` 45 татуировок менеджера
 Максим Батырев
 > Бизнес
