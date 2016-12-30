@@ -1,4 +1,10 @@
 {
+    "60758287-yandex": {
+        "id": "60758287-yandex",
+        "nickname": "ViktorRomanov007",
+        "booksCount": 0,
+        "updatedAt": "2016-12-30 19:23:19"
+    },
     "631213583728634-facebook": {
         "id": "631213583728634-facebook",
         "nickname": "Meonia",
@@ -172,11 +178,5 @@
         "nickname": "imsafeandsound",
         "booksCount": 30,
         "updatedAt": "2016-12-22 22:35:06"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 86,
-        "updatedAt": "2016-12-22 09:36:17"
     }
 }
