@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ViktorRomanov007](users/607/60758287-yandex)<sup>1</sup> 
+[ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
 [Meonia](users/631/631213583728634-facebook)<sup>7</sup> 
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 
 
-_30.12.2016 19:32:28_
+_30.12.2016 19:34:07_
