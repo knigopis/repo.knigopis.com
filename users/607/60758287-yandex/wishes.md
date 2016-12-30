@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `20` Уолден, или жизнь в лесу
+Торо
+> Художественная
+
 ### `19` Люди, которые играют в игры
 Эрик Бёрн
 > ЛР - общение
