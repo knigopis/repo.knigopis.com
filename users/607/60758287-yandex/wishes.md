@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `33` Никогда не ешь в одиночку
+Феррацци Кейт
+> Бизнес
+
 ### `32` Мои правила. Слушай, учись и смейся
 Брэнсон Ричард
 
