@@ -1,4 +1,16 @@
 {
+    "2zaKYlbkE3": {
+        "id": "2zaKYlbkE3",
+        "title": "Кнульп",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2016-12-30 17:08:22",
+        "user": {
+            "id": "631213583728634-facebook",
+            "nickname": "Meonia",
+            "booksCount": 3
+        }
+    },
     "0MGHPLwik-": {
         "id": "0MGHPLwik-",
         "title": "Росхальде",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 24
-        }
-    },
-    "TLACbsJPbx": {
-        "id": "TLACbsJPbx",
-        "title": "Человек-амфибия",
-        "author": "Александр Романович Беляев",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:19:15",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 23
         }
     }
 }
