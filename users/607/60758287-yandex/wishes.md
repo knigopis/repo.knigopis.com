@@ -1,7 +1,7 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
-### `15` Нравственные письма к Луцилию
+### `16` Нравственные письма к Луцилию
 Сенека
 
 ### `15` Высшая цель
