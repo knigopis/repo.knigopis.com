@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `29` Эссенциализм
+Грег
+> ЛР - Психология
+
 ### `28` Под давлением
 Вейсингер Хенди
 > Бизнес
