@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `24` Трилогия карнеги
+Дейл Карнеги
+> ЛР-Психология
+
 ### `23` Харизма лидера | Камасутра для оратора
 Радислав Гандапас
 
