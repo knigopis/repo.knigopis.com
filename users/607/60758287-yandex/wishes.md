@@ -1,7 +1,7 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
-### `16` Вечно уставший
+### `17` Вечно уставший
 > ЛР - психология
 
 ### `16` Нравственные письма к Луцилию
