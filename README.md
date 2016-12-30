@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Meonia](users/631/631213583728634-facebook)<sup>0</sup> 
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>86</sup> 
-[mitsakult](users/288/288034278-vkontakte)<sup>0</sup> 
 
 
-_29.12.2016 17:41:16_
+_30.12.2016 17:05:57_
