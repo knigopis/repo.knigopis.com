@@ -1,7 +1,7 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
-### `26` 45 татуировок продавана
+### `25` 45 татуировок продавана
 Максим Батырев
 > Бизнес
 
