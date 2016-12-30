@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `7` Лао-цзы
+Лао-цзы
+> ЛР - Философия
+
 ### `6` НЛП
 Холл М., Боденхамер Б.
 > Личностный рост - Психология
