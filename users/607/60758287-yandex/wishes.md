@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `37` Фауст
+Иоганн Вольфганг фон Гёте
+> Художественная
+
 ### `36` Марк Аврелий
 Размышления
 > ЛР - Философия
