@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `35` Сила Настоящего
+Толле
+> ЛР- Философия
+
 ### `34` Третья Альтернатива
 Стив Кови
 > ЛР - Психология
