@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `12` Мастер и Маргарита
+Булгаков
+> Художественная
+
 ### `11` Война и Мир
 Лев Толстой
 > Художественная
