@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `5` Атлант Расправил Плечи
+Анна Райд
+> Художественная литература
+
 ### `4` Думай и Богатей
 Наполеон Хилл
 > Бизнес
