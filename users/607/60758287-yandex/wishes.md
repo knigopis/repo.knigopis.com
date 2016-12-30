@@ -1,6 +1,9 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `23` Харизма лидера | Камасутра для оратора
+Радислав Гандапас
+
 ### `22` От хорошего к великому
 > Бизнес
 
