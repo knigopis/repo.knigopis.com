@@ -1,7 +1,12 @@
-# List of books read by [Meonia](https://www.facebook.com/app_scoped_user_id/631213583728634/)<sup>5</sup>
+# List of books read by [Meonia](https://www.facebook.com/app_scoped_user_id/631213583728634/)<sup>6</sup>
 ---
 
 ## 2016
+
+### Клейн и Вагнер
+Герман Гессе
+> [2016-12] 
+
 
 ### Август
 Герман Гессе

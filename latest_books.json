@@ -1,4 +1,16 @@
 {
+    "w26vk8AYR0": {
+        "id": "w26vk8AYR0",
+        "title": "Клейн и Вагнер",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2016-12-30 17:10:23",
+        "user": {
+            "id": "631213583728634-facebook",
+            "nickname": "Meonia",
+            "booksCount": 6
+        }
+    },
     "TQE5wFGzSW": {
         "id": "TQE5wFGzSW",
         "title": "Август",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 27
-        }
-    },
-    "4RMEZ8UK8a": {
-        "id": "4RMEZ8UK8a",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "5",
-        "createdAt": "2016-12-22 22:30:21",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 26
         }
     }
 }
