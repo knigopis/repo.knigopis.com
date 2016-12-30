@@ -1,6 +1,9 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `18` Я всегда знаю, что сказать
+> ЛР - общение
+
 ### `17` Вечно уставший
 > ЛР - психология
 
