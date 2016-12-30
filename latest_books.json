@@ -1,4 +1,16 @@
 {
+    "Ci9UyTYagr": {
+        "id": "Ci9UyTYagr",
+        "title": "Так говорил Заратуста",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2016-12-30 19:32:28",
+        "user": {
+            "id": "60758287-yandex",
+            "nickname": "ViktorRomanov007",
+            "booksCount": 1
+        }
+    },
     "0PENskOkPe": {
         "id": "0PENskOkPe",
         "title": "Хитроумный идальго Дон Кихот Ламанчский. Часть первая",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 29
-        }
-    },
-    "4hP9gpTYcv": {
-        "id": "4hP9gpTYcv",
-        "title": "Кошмар на улице Вязов",
-        "author": "Арч Стрэнтон",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:33:24",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 28
         }
     }
 }
