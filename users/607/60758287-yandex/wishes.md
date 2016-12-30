@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `15` Высшая цель
+Рэй Майкл
+> ЛР - психология
+
 ### `14` Лабиринты стратегии. 8к
 > Бизнес
 
