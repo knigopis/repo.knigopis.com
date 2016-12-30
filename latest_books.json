@@ -1,4 +1,16 @@
 {
+    "0MGHPLwik-": {
+        "id": "0MGHPLwik-",
+        "title": "Росхальде",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2016-12-30 17:07:58",
+        "user": {
+            "id": "631213583728634-facebook",
+            "nickname": "Meonia",
+            "booksCount": 2
+        }
+    },
     "kkq28dXDo4": {
         "id": "kkq28dXDo4",
         "title": "Степной волк",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 23
-        }
-    },
-    "_kEBsIdE-8": {
-        "id": "_kEBsIdE-8",
-        "title": "Властелин колец",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "5",
-        "createdAt": "2016-12-22 22:18:25",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 22
         }
     }
 }
