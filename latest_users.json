@@ -1,4 +1,10 @@
 {
+    "7350172-vkontakte": {
+        "id": "7350172-vkontakte",
+        "nickname": "anna_shimkova",
+        "booksCount": 0,
+        "updatedAt": "2016-12-31 19:04:36"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "nadisvid",
         "booksCount": 24,
         "updatedAt": "2016-12-23 09:05:01"
-    },
-    "59894511-vkontakte": {
-        "id": "59894511-vkontakte",
-        "nickname": "ffffffffffffffffffffffffffffff",
-        "booksCount": 0,
-        "updatedAt": "2016-12-22 22:36:43"
     }
 }
