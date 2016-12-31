@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>484</sup> 
 [ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>137</sup> 
 [lana_berry](users/126/1260752-vkontakte)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup> 
-[ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
 
 
-_31.12.2016 17:02:52_
+_31.12.2016 19:04:36_
