@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `50` Переломный момент
+Малкольма Гладуэлла
+> Бизнес
+
 ### `40` Афоризмы житейской мудрости
 Шопенгауэр
 > ЛР - Философия
