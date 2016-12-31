@@ -1,4 +1,16 @@
 {
+    "xVcyl1Ztdl": {
+        "id": "xVcyl1Ztdl",
+        "title": "Мизантроп",
+        "author": "Жан-Батист Мольер",
+        "notes": "",
+        "createdAt": "2016-12-31 07:53:48",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 483
+        }
+    },
     "Ci9UyTYagr": {
         "id": "Ci9UyTYagr",
         "title": "Так говорил Заратуста",
@@ -345,18 +357,6 @@
             "id": "146553327-vkontakte",
             "nickname": "imsafeandsound",
             "booksCount": 30
-        }
-    },
-    "EoRZduZU1O": {
-        "id": "EoRZduZU1O",
-        "title": "Молчание ягнят",
-        "author": "Томас Харрис",
-        "notes": "4",
-        "createdAt": "2016-12-22 22:34:15",
-        "user": {
-            "id": "146553327-vkontakte",
-            "nickname": "imsafeandsound",
-            "booksCount": 29
         }
     }
 }

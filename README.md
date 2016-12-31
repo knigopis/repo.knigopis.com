@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>483</sup> 
 [ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
 [Meonia](users/631/631213583728634-facebook)<sup>7</sup> 
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>234</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>482</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 
 
-_30.12.2016 19:34:07_
+_31.12.2016 07:53:49_

@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 483,
+        "updatedAt": "2016-12-31 07:53:48"
+    },
     "60758287-yandex": {
         "id": "60758287-yandex",
         "nickname": "ViktorRomanov007",
@@ -40,12 +46,6 @@
         "nickname": "HXT",
         "booksCount": 234,
         "updatedAt": "2016-12-28 19:09:36"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 482,
-        "updatedAt": "2016-12-28 16:58:57"
     },
     "103188365011668395510-google": {
         "id": "103188365011668395510-google",
