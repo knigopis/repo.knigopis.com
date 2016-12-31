@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 128,
+        "updatedAt": "2016-12-31 16:59:46"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "ffffffffffffffffffffffffffffff",
         "booksCount": 0,
         "updatedAt": "2016-12-22 22:36:43"
-    },
-    "146553327-vkontakte": {
-        "id": "146553327-vkontakte",
-        "nickname": "imsafeandsound",
-        "booksCount": 30,
-        "updatedAt": "2016-12-22 22:35:06"
     }
 }
