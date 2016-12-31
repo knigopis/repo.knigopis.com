@@ -1,7 +1,7 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
-### `50` Переломный момент
+### `41` Переломный момент
 Малкольма Гладуэлла
 > Бизнес
 
