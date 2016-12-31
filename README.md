@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>128</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>484</sup> 
 [ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
 [Meonia](users/631/631213583728634-facebook)<sup>7</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lana_berry](users/126/1260752-vkontakte)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup> 
 [ffffffffffffffffffffffffffffff](users/598/59894511-vkontakte)<sup>0</sup> 
-[imsafeandsound](users/146/146553327-vkontakte)<sup>30</sup> 
 
 
-_31.12.2016 10:56:40_
+_31.12.2016 16:59:46_
