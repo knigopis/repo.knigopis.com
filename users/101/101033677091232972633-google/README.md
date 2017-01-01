@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>26</sup>
+# List of books read by Narjih<sup>27</sup>
 ---
 
 ## 2017
@@ -61,6 +61,11 @@
 
 
 ## 2013
+
+### Любовь к жизни
+Джек Лондон
+> 7,5/10
+
 
 ### Белый Клык
 Джек Лондон
