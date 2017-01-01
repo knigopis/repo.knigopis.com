@@ -1,5 +1,13 @@
-# List of books read by Narjih<sup>15</sup>
+# List of books read by Narjih<sup>16</sup>
 ---
+
+## 2017
+
+### Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+> 9/10
+
+
 
 ## 2015
 

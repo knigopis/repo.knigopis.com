@@ -1,4 +1,16 @@
 {
+    "OMF8sIoqov": {
+        "id": "OMF8sIoqov",
+        "title": "Гарри Поттер и методы рационального мышления",
+        "author": "Элиезер Юдковский",
+        "notes": "9/10",
+        "createdAt": "2017-01-01 22:48:13",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 16
+        }
+    },
     "pLtQF5VdDE": {
         "id": "pLtQF5VdDE",
         "title": "Портрет Дорианa Грея",
@@ -344,18 +356,6 @@
         "user": {
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
-            "booksCount": 1
-        }
-    },
-    "z6rNMI3Lqd": {
-        "id": "z6rNMI3Lqd",
-        "title": "Лжец на кушетке",
-        "author": "Иривин Ялом",
-        "notes": "",
-        "createdAt": "2016-12-29 17:41:16",
-        "user": {
-            "id": "10212069337191586-facebook",
-            "nickname": "lissyandra",
             "booksCount": 1
         }
     }
