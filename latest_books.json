@@ -1,4 +1,16 @@
 {
+    "H2mCUMSAnH": {
+        "id": "H2mCUMSAnH",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "7.5/10",
+        "createdAt": "2017-01-01 22:46:21",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 14
+        }
+    },
     "4SfJwmHou8": {
         "id": "4SfJwmHou8",
         "title": "Intermezzo",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 2
-        }
-    },
-    "pQfkZElJtX": {
-        "id": "pQfkZElJtX",
-        "title": "Пикник на обочине",
-        "author": "Братья Стругацкие",
-        "notes": "Хорошая книга. Не хватило фантазии представить Мартышку",
-        "createdAt": "2016-12-29 12:50:11",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 1
         }
     }
 }
