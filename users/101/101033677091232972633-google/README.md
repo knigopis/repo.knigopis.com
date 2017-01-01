@@ -1,7 +1,12 @@
-# List of books read by Narjih<sup>8</sup>
+# List of books read by Narjih<sup>9</sup>
 ---
 
 ## 2014
+
+### Последнее желание
+Анджей Сапковский
+> 8/10
+
 
 ### Меч Предназначения
 Анджей Сапковский
