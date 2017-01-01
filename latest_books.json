@@ -1,4 +1,16 @@
 {
+    "3Zsor4dVr3": {
+        "id": "3Zsor4dVr3",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-01 23:32:43",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 54
+        }
+    },
     "_vwaNg0dHJ": {
         "id": "_vwaNg0dHJ",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 25
-        }
-    },
-    "IEi-D3xHBD": {
-        "id": "IEi-D3xHBD",
-        "title": "Робинзон Крузо",
-        "author": "Даниель Дефо",
-        "notes": "7.5/10",
-        "createdAt": "2017-01-01 22:59:50",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 24
         }
     }
 }
