@@ -1,4 +1,16 @@
 {
+    "HWXieNQ5ae": {
+        "id": "HWXieNQ5ae",
+        "title": "Крещение огнем",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 22:38:26",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 5
+        }
+    },
     "R0cIEkKXcY": {
         "id": "R0cIEkKXcY",
         "title": "Час Презрения",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 66
-        }
-    },
-    "o8yuj4KNXZ": {
-        "id": "o8yuj4KNXZ",
-        "title": "Герой нашего времени",
-        "author": "М.Ю. Лермонтов",
-        "notes": "",
-        "createdAt": "2016-12-26 18:22:21",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 18
         }
     }
 }
