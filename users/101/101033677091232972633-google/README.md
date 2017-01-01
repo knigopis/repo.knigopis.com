@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>14</sup>
+# List of books read by Narjih<sup>15</sup>
 ---
 
 ## 2015
@@ -71,6 +71,11 @@
 
 
 ## 2011
+
+### Портрет Дорианa Грея
+Оскар Уайльд
+> 9/10
+
 
 ### Божественная комедия
 Данте Алигьери

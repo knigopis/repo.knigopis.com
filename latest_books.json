@@ -1,4 +1,16 @@
 {
+    "pLtQF5VdDE": {
+        "id": "pLtQF5VdDE",
+        "title": "Портрет Дорианa Грея",
+        "author": "Оскар Уайльд",
+        "notes": "9/10",
+        "createdAt": "2017-01-01 22:47:45",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 15
+        }
+    },
     "H2mCUMSAnH": {
         "id": "H2mCUMSAnH",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "10212069337191586-facebook",
             "nickname": "lissyandra",
             "booksCount": 1
-        }
-    },
-    "uX43ZCSOpI": {
-        "id": "uX43ZCSOpI",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2016-12-29 12:53:58",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 2
         }
     }
 }
