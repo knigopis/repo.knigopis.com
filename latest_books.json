@@ -1,4 +1,16 @@
 {
+    "MyxgnbFJqJ": {
+        "id": "MyxgnbFJqJ",
+        "title": "Башня Ласточки",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 22:38:54",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 7
+        }
+    },
     "EsCdvpNMZn": {
         "id": "EsCdvpNMZn",
         "title": "Кровь эльфов",
@@ -341,18 +353,6 @@
         "author": "Игорь Манн",
         "notes": "",
         "createdAt": "2016-12-27 14:29:23",
-        "user": {
-            "id": "2947248-vkontakte",
-            "nickname": "mgaida",
-            "booksCount": 1
-        }
-    },
-    "Uc52g9fvbZ": {
-        "id": "Uc52g9fvbZ",
-        "title": "Настольная книга директора по маркетингу. Маркетинговое планирование",
-        "author": "Роман Хибинг",
-        "notes": "",
-        "createdAt": "2016-12-27 14:25:02",
         "user": {
             "id": "2947248-vkontakte",
             "nickname": "mgaida",
