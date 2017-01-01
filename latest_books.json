@@ -1,4 +1,16 @@
 {
+    "sQKvmznahF": {
+        "id": "sQKvmznahF",
+        "title": "Последний дюйм",
+        "author": "Джеймс Олдридж",
+        "notes": "7,5/10",
+        "createdAt": "2017-01-01 22:52:58",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 20
+        }
+    },
     "BmHbc91pX0": {
         "id": "BmHbc91pX0",
         "title": "Собака Баскервилей",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 5
-        }
-    },
-    "XPMDdfUIgf": {
-        "id": "XPMDdfUIgf",
-        "title": "Душа ребенка",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:09:19",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 4
         }
     }
 }
