@@ -1,4 +1,16 @@
 {
+    "QD9P_CET5M": {
+        "id": "QD9P_CET5M",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "8,5/10",
+        "createdAt": "2017-01-01 22:54:30",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 22
+        }
+    },
     "1JzFA-gj91": {
         "id": "1JzFA-gj91",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 7
-        }
-    },
-    "w26vk8AYR0": {
-        "id": "w26vk8AYR0",
-        "title": "Клейн и Вагнер",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:10:23",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 6
         }
     }
 }
