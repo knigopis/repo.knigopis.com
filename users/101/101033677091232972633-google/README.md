@@ -1,7 +1,12 @@
-# List of books read by Narjih<sup>5</sup>
+# List of books read by Narjih<sup>6</sup>
 ---
 
 ## 2014
+
+### Кровь эльфов
+Анджей Сапковский
+> 8/10
+
 
 ### Крещение огнем
 Анджей Сапковский

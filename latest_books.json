@@ -1,4 +1,16 @@
 {
+    "EsCdvpNMZn": {
+        "id": "EsCdvpNMZn",
+        "title": "Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 22:38:42",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 6
+        }
+    },
     "HWXieNQ5ae": {
         "id": "HWXieNQ5ae",
         "title": "Крещение огнем",
@@ -345,18 +357,6 @@
             "id": "2947248-vkontakte",
             "nickname": "mgaida",
             "booksCount": 1
-        }
-    },
-    "GDnCBEGeBb": {
-        "id": "GDnCBEGeBb",
-        "title": "Край равнинный. Кумыкская равнина.",
-        "author": "Атаев Баммат",
-        "notes": "Много исторического материала. Одна и та же история рассказывается в разных частях.",
-        "createdAt": "2016-12-27 12:10:28",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 66
         }
     }
 }
