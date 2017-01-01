@@ -1,4 +1,16 @@
 {
+    "XTKnbYn40-": {
+        "id": "XTKnbYn40-",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "6/10",
+        "createdAt": "2017-01-01 22:35:50",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 1
+        }
+    },
     "3aCJ5NSECz": {
         "id": "3aCJ5NSECz",
         "title": "11",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 19
-        }
-    },
-    "t-BFvFfug9": {
-        "id": "t-BFvFfug9",
-        "title": "Лестница в небо",
-        "author": "Хазин Михаил, Щеглов Сергей",
-        "notes": "",
-        "createdAt": "2016-12-25 09:30:23",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 28
         }
     }
 }
