@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>23</sup>
+# List of books read by Narjih<sup>24</sup>
 ---
 
 ## 2017
@@ -61,6 +61,11 @@
 
 
 ## 2012
+
+### Робинзон Крузо
+Даниель Дефо
+> 7.5/10
+
 
 ### Старик и море
 Эрнест Хемингуэй

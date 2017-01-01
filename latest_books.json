@@ -1,4 +1,16 @@
 {
+    "IEi-D3xHBD": {
+        "id": "IEi-D3xHBD",
+        "title": "Робинзон Крузо",
+        "author": "Даниель Дефо",
+        "notes": "7.5/10",
+        "createdAt": "2017-01-01 22:59:50",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 24
+        }
+    },
     "FcxNPhYM4k": {
         "id": "FcxNPhYM4k",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 483
-        }
-    },
-    "Ci9UyTYagr": {
-        "id": "Ci9UyTYagr",
-        "title": "Так говорил Заратуста",
-        "author": "Фридрих Ницше",
-        "notes": "",
-        "createdAt": "2016-12-30 19:32:28",
-        "user": {
-            "id": "60758287-yandex",
-            "nickname": "ViktorRomanov007",
-            "booksCount": 1
         }
     }
 }
