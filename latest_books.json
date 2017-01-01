@@ -1,4 +1,16 @@
 {
+    "FcxNPhYM4k": {
+        "id": "FcxNPhYM4k",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "7/10",
+        "createdAt": "2017-01-01 22:55:03",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 23
+        }
+    },
     "QD9P_CET5M": {
         "id": "QD9P_CET5M",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "60758287-yandex",
             "nickname": "ViktorRomanov007",
             "booksCount": 1
-        }
-    },
-    "0PENskOkPe": {
-        "id": "0PENskOkPe",
-        "title": "Хитроумный идальго Дон Кихот Ламанчский. Часть первая",
-        "author": "Мигель де Сервантес Сааведра",
-        "notes": "",
-        "createdAt": "2016-12-30 17:12:28",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 7
         }
     }
 }
