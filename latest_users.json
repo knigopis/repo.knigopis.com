@@ -1,4 +1,10 @@
 {
+    "21138193-vkontakte": {
+        "id": "21138193-vkontakte",
+        "nickname": "dimapropolsky",
+        "booksCount": 17,
+        "updatedAt": "2017-01-01 17:25:26"
+    },
     "104377955754791742868-google": {
         "id": "104377955754791742868-google",
         "nickname": "Ilya",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 137,
         "updatedAt": "2016-12-23 14:56:37"
-    },
-    "1260752-vkontakte": {
-        "id": "1260752-vkontakte",
-        "nickname": "lana_berry",
-        "booksCount": 0,
-        "updatedAt": "2016-12-23 12:05:35"
     }
 }
