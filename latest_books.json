@@ -1,4 +1,16 @@
 {
+    "R0ekPPIPTM": {
+        "id": "R0ekPPIPTM",
+        "title": "Стальная Крыса",
+        "author": "Гарри Гаррисон",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 23:22:14",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 46
+        }
+    },
     "8zwiPdwmfK": {
         "id": "8zwiPdwmfK",
         "title": "Стальная Крыса поёт блюз",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 17
-        }
-    },
-    "OMF8sIoqov": {
-        "id": "OMF8sIoqov",
-        "title": "Гарри Поттер и методы рационального мышления",
-        "author": "Элиезер Юдковский",
-        "notes": "9/10",
-        "createdAt": "2017-01-01 22:48:13",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 16
         }
     }
 }
