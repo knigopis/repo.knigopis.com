@@ -1,4 +1,16 @@
 {
+    "B7BuyTF2UK": {
+        "id": "B7BuyTF2UK",
+        "title": "Божественная комедия",
+        "author": "Данте Алигьери",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 22:37:18",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 3
+        }
+    },
     "jjORALj6LX": {
         "id": "jjORALj6LX",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "100000491918134-facebook",
             "nickname": "easyaround",
             "booksCount": 1
-        }
-    },
-    "m2MQ9aYfOy": {
-        "id": "m2MQ9aYfOy",
-        "title": "Освобождённый Иерусалим",
-        "author": "Торквато Тассо",
-        "notes": "",
-        "createdAt": "2016-12-26 08:42:12",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 20
         }
     }
 }
