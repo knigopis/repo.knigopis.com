@@ -1,4 +1,16 @@
 {
+    "_vwaNg0dHJ": {
+        "id": "_vwaNg0dHJ",
+        "title": "Трудно быть богом",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "9/10",
+        "createdAt": "2017-01-01 23:28:25",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 53
+        }
+    },
     "wJvICVLJoh": {
         "id": "wJvICVLJoh",
         "title": "Человек-амфибия",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 24
-        }
-    },
-    "FcxNPhYM4k": {
-        "id": "FcxNPhYM4k",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "7/10",
-        "createdAt": "2017-01-01 22:55:03",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 23
         }
     }
 }
