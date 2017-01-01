@@ -1,4 +1,16 @@
 {
+    "1JzFA-gj91": {
+        "id": "1JzFA-gj91",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "4/10",
+        "createdAt": "2017-01-01 22:54:08",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 21
+        }
+    },
     "sQKvmznahF": {
         "id": "sQKvmznahF",
         "title": "Последний дюйм",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 6
-        }
-    },
-    "TQE5wFGzSW": {
-        "id": "TQE5wFGzSW",
-        "title": "Август",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:10:06",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 5
         }
     }
 }
