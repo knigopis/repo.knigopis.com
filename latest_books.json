@@ -1,4 +1,16 @@
 {
+    "59nbqFeiBx": {
+        "id": "59nbqFeiBx",
+        "title": "Пятнадцатилетний капитан",
+        "author": "Жюль Верн",
+        "notes": "6.5/10",
+        "createdAt": "2017-01-01 22:50:45",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 18
+        }
+    },
     "e5fg1bXfT_": {
         "id": "e5fg1bXfT_",
         "title": "Двадцать тысяч льё под водой",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 3
-        }
-    },
-    "0MGHPLwik-": {
-        "id": "0MGHPLwik-",
-        "title": "Росхальде",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:07:58",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 2
         }
     }
 }
