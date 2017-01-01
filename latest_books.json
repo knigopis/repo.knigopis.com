@@ -1,4 +1,16 @@
 {
+    "k8X7mXnqvk": {
+        "id": "k8X7mXnqvk",
+        "title": "Белый Клык",
+        "author": "Джек Лондон",
+        "notes": "8.5/10",
+        "createdAt": "2017-01-01 23:02:43",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 26
+        }
+    },
     "sqsZEZ6P94": {
         "id": "sqsZEZ6P94",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 129
-        }
-    },
-    "EqZkq_6Vw4": {
-        "id": "EqZkq_6Vw4",
-        "title": "Дон Жуан или Каменный гость",
-        "author": "Жан-Батиск Мольер",
-        "notes": "",
-        "createdAt": "2016-12-31 10:56:39",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 484
         }
     }
 }
