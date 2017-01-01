@@ -1,4 +1,16 @@
 {
+    "8sQVVh_Bpb": {
+        "id": "8sQVVh_Bpb",
+        "title": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "notes": "9/10",
+        "createdAt": "2017-01-01 22:43:00",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 12
+        }
+    },
     "El-dbAWpzC": {
         "id": "El-dbAWpzC",
         "title": "Очень старый человек с огромными крыльями",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 67
-        }
-    },
-    "5nl_WsK-QT": {
-        "id": "5nl_WsK-QT",
-        "title": "Рейтар",
-        "author": "Андрей Круз",
-        "notes": "",
-        "createdAt": "2016-12-28 19:09:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 234
         }
     }
 }
