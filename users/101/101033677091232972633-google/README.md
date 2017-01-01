@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>46</sup>
+# List of books read by Narjih<sup>47</sup>
 ---
 
 ## 2017
@@ -53,6 +53,11 @@
 
 
 ## 2014
+
+### Месть Стальной Крысы
+Гарри Гаррисон
+> 7/10
+
 
 ### Стальная Крыса
 Гарри Гаррисон
