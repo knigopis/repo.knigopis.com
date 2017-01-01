@@ -1,4 +1,16 @@
 {
+    "BmHbc91pX0": {
+        "id": "BmHbc91pX0",
+        "title": "Собака Баскервилей",
+        "author": "Артур Конан Дойль",
+        "notes": "7,5/10",
+        "createdAt": "2017-01-01 22:52:23",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 19
+        }
+    },
     "59nbqFeiBx": {
         "id": "59nbqFeiBx",
         "title": "Пятнадцатилетний капитан",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 4
-        }
-    },
-    "2zaKYlbkE3": {
-        "id": "2zaKYlbkE3",
-        "title": "Кнульп",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:08:22",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 3
         }
     }
 }
