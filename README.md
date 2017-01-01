@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Божественная комедия ~ [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup>
+    > Гениально!!!!
+
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
     > Юмористическая фантастика о путешествиях по Вселенной, почему-то превратилась в повествование о любовных страданиях (с счастливым финалом) и отсылкам к историям вообще не понятно как связанных с основным сюжетом. А то, что связанно с первыми тремя книгами и интересно узнать, уместилось бы на нескольких страницах. Такое ощущение, что книга писалась только для того, чтобы выпустить книгу.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Черный демон, огромные рояли в кустах, но при этом чем дальше, тем части лучше, а не наоборот, как бывает обычно
 
 * Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
-    > Много исторического материала. Одна и та же история рассказывается в разных частях.
 
 * Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
 
-* Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dimapropolsky](users/211/21138193-vkontakte)<sup>16</sup> 
+[dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 [anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>137</sup> 
 
 
-_01.01.2017 17:25:37_
+_01.01.2017 17:27:47_

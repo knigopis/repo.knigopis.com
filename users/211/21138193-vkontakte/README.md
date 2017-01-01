@@ -1,7 +1,12 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>16</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>17</sup>
 ---
 
 ## 2016
+
+### Божественная комедия
+Алигьери Данте
+> [2016-12-19] Гениально!!!!
+
 
 ### Как я был произведением исуксства
 Эрик-Эмманюэль Шмитт
