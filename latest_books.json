@@ -1,4 +1,16 @@
 {
+    "jjORALj6LX": {
+        "id": "jjORALj6LX",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "9/10",
+        "createdAt": "2017-01-01 22:36:20",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 2
+        }
+    },
     "XTKnbYn40-": {
         "id": "XTKnbYn40-",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "55688208-vkontakte",
             "nickname": "Julia",
             "booksCount": 20
-        }
-    },
-    "P_nmgnl_Jw": {
-        "id": "P_nmgnl_Jw",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2016-12-26 08:40:55",
-        "user": {
-            "id": "55688208-vkontakte",
-            "nickname": "Julia",
-            "booksCount": 19
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Narjih](users/101/101033677091232972633-google)<sup>1</sup> 
+[Narjih](users/101/101033677091232972633-google)<sup>2</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 [anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [venka.daria](users/106/106931358806572145583-google)<sup>0</sup> 
 
 
-_01.01.2017 22:35:50_
+_01.01.2017 22:36:20_
