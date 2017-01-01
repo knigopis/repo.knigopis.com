@@ -1,7 +1,12 @@
-# List of books read by Narjih<sup>7</sup>
+# List of books read by Narjih<sup>8</sup>
 ---
 
 ## 2014
+
+### Меч Предназначения
+Анджей Сапковский
+> 8/10
+
 
 ### Башня Ласточки
 Анджей Сапковский

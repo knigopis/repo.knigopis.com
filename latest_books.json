@@ -1,4 +1,16 @@
 {
+    "HOFHRy92UO": {
+        "id": "HOFHRy92UO",
+        "title": "Меч Предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "8/10",
+        "createdAt": "2017-01-01 22:40:40",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 8
+        }
+    },
     "MyxgnbFJqJ": {
         "id": "MyxgnbFJqJ",
         "title": "Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 38
-        }
-    },
-    "zzwhg5Ci_b": {
-        "id": "zzwhg5Ci_b",
-        "title": "Маркетинг на 100%",
-        "author": "Игорь Манн",
-        "notes": "",
-        "createdAt": "2016-12-27 14:29:23",
-        "user": {
-            "id": "2947248-vkontakte",
-            "nickname": "mgaida",
-            "booksCount": 1
         }
     }
 }
