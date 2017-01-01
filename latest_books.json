@@ -1,4 +1,16 @@
 {
+    "e5fg1bXfT_": {
+        "id": "e5fg1bXfT_",
+        "title": "Двадцать тысяч льё под водой",
+        "author": "Жюль Верн",
+        "notes": "7/10",
+        "createdAt": "2017-01-01 22:50:14",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 17
+        }
+    },
     "OMF8sIoqov": {
         "id": "OMF8sIoqov",
         "title": "Гарри Поттер и методы рационального мышления",
@@ -345,18 +357,6 @@
             "id": "631213583728634-facebook",
             "nickname": "Meonia",
             "booksCount": 2
-        }
-    },
-    "kkq28dXDo4": {
-        "id": "kkq28dXDo4",
-        "title": "Степной волк",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2016-12-30 17:07:16",
-        "user": {
-            "id": "631213583728634-facebook",
-            "nickname": "Meonia",
-            "booksCount": 1
         }
     }
 }
