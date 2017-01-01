@@ -1,4 +1,10 @@
 {
+    "104377955754791742868-google": {
+        "id": "104377955754791742868-google",
+        "nickname": "Ilya",
+        "booksCount": 0,
+        "updatedAt": "2017-01-01 16:39:39"
+    },
     "7350172-vkontakte": {
         "id": "7350172-vkontakte",
         "nickname": "anna_shimkova",
@@ -172,11 +178,5 @@
         "nickname": "lana_berry",
         "booksCount": 0,
         "updatedAt": "2016-12-23 12:05:35"
-    },
-    "1138852626183846-facebook": {
-        "id": "1138852626183846-facebook",
-        "nickname": "nadisvid",
-        "booksCount": 24,
-        "updatedAt": "2016-12-23 09:05:01"
     }
 }
