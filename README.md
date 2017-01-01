@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup> 
+[dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 [anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>129</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>137</sup> 
 
 
-_01.01.2017 17:27:47_
+_01.01.2017 17:40:00_
