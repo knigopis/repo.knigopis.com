@@ -1,4 +1,16 @@
 {
+    "nCq1Qm2rk6": {
+        "id": "nCq1Qm2rk6",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "3/10",
+        "createdAt": "2017-01-01 23:08:26",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 30
+        }
+    },
     "ec0QTuv8LN": {
         "id": "ec0QTuv8LN",
         "title": "Шинель",
@@ -341,18 +353,6 @@
         "author": "Михаил Булгаков",
         "notes": "6/10",
         "createdAt": "2017-01-01 22:35:50",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 1
-        }
-    },
-    "3aCJ5NSECz": {
-        "id": "3aCJ5NSECz",
-        "title": "11",
-        "author": "11",
-        "notes": "",
-        "createdAt": "2017-01-01 22:34:17",
         "user": {
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
