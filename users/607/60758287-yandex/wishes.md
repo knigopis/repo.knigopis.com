@@ -1,7 +1,7 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
-### `50` Стрессоустойчивость
+### `46` Стрессоустойчивость
 Мельник Шэрон
 > ЛР - Навыки
 
