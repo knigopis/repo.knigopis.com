@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>60</sup>
+# List of books read by Narjih<sup>61</sup>
 ---
 
 ## 2017
@@ -222,6 +222,11 @@
 
 
 ## 2010
+
+### Особые поручения
+Борис Акунин
+> 6/10
+
 
 ### Смерть Ахиллеса
 Борис Акунин
