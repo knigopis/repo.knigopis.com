@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>56</sup>
+# List of books read by Narjih<sup>57</sup>
 ---
 
 ## 2017
@@ -248,6 +248,11 @@
 
 
 ## 2008
+
+### Детская книга
+Борис Акунин
+> 5/10
+
 
 ### Последний дюйм
 Джеймс Олдридж
