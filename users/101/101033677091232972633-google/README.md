@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>55</sup>
+# List of books read by Narjih<sup>56</sup>
 ---
 
 ## 2017
@@ -222,6 +222,11 @@
 
 
 ## 2010
+
+### Азазель
+Борис Акунин
+> 7/10
+
 
 ### Превращение
 Франц Кафка
