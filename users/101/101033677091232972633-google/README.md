@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>57</sup>
+# List of books read by Narjih<sup>58</sup>
 ---
 
 ## 2017
@@ -222,6 +222,11 @@
 
 
 ## 2010
+
+### Турецкий гамбит
+Борис Акунин
+> 7/10
+
 
 ### Азазель
 Борис Акунин
