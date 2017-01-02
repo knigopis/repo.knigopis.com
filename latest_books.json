@@ -1,4 +1,16 @@
 {
+    "aa_XJ2gciR": {
+        "id": "aa_XJ2gciR",
+        "title": "Любовник смерти",
+        "author": "Борис Акунин",
+        "notes": "5/10",
+        "createdAt": "2017-01-02 21:50:52",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 65
+        }
+    },
     "LdU9Eahw5L": {
         "id": "LdU9Eahw5L",
         "title": "Любовница смерти",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 38
-        }
-    },
-    "noPg3dErFT": {
-        "id": "noPg3dErFT",
-        "title": "Дерьмо",
-        "author": "Ирвин Уэлш",
-        "notes": "8/10",
-        "createdAt": "2017-01-01 23:12:13",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 37
         }
     }
 }

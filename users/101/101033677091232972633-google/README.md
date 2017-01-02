@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>64</sup>
+# List of books read by Narjih<sup>65</sup>
 ---
 
 ## 2017
@@ -222,6 +222,11 @@
 
 
 ## 2010
+
+### Любовник смерти
+Борис Акунин
+> 5/10
+
 
 ### Любовница смерти
 Борис Акунин
