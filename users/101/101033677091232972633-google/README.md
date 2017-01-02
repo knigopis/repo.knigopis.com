@@ -1,4 +1,4 @@
-# List of books read by Narjih<sup>61</sup>
+# List of books read by Narjih<sup>62</sup>
 ---
 
 ## 2017
@@ -222,6 +222,11 @@
 
 
 ## 2010
+
+### Статский советник
+Борис Акунин
+> 7/10
+
 
 ### Особые поручения
 Борис Акунин
