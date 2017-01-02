@@ -1,4 +1,16 @@
 {
+    "a-3LVHTpZu": {
+        "id": "a-3LVHTpZu",
+        "title": "Как любить ребёнка",
+        "author": "Корчак Януш",
+        "notes": "",
+        "createdAt": "2017-01-02 04:05:14",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 68
+        }
+    },
     "c_DjWZOG0q": {
         "id": "c_DjWZOG0q",
         "title": "Коран",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 27
-        }
-    },
-    "k8X7mXnqvk": {
-        "id": "k8X7mXnqvk",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "8.5/10",
-        "createdAt": "2017-01-01 23:02:43",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 26
         }
     }
 }

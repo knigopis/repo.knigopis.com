@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 68,
+        "updatedAt": "2017-01-02 04:05:14"
+    },
     "101033677091232972633-google": {
         "id": "101033677091232972633-google",
         "nickname": "Narjih",
@@ -64,12 +70,6 @@
         "nickname": "aminizip",
         "booksCount": 0,
         "updatedAt": "2016-12-29 12:52:28"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 67,
-        "updatedAt": "2016-12-29 11:57:19"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

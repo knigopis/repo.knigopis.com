@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>55</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>67</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>234</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [venka.daria](users/106/106931358806572145583-google)<sup>0</sup> 
 
 
-_01.01.2017 23:33:47_
+_02.01.2017 04:05:14_
