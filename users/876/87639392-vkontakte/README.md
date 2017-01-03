@@ -1,4 +1,4 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>10</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>11</sup>
 ---
 
 ## 2016
@@ -31,6 +31,11 @@
 ### Уродливая любовь
 Колин Гувер
 > [2016-03-01] 
+
+
+### Osvoboditel_sbornik
+Rey_Oldridzh
+> Трилогия. Научная фантастика
 
 
 ### Подарок

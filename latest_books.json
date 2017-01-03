@@ -1,4 +1,16 @@
 {
+    "2jUeNVAL-O": {
+        "id": "2jUeNVAL-O",
+        "title": "Osvoboditel_sbornik",
+        "author": "Rey_Oldridzh",
+        "notes": "Трилогия. Научная фантастика",
+        "createdAt": "2017-01-03 19:18:37",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 11
+        }
+    },
     "x_1CAiYGb3": {
         "id": "x_1CAiYGb3",
         "title": "Подарок",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 54
-        }
-    },
-    "_vwaNg0dHJ": {
-        "id": "_vwaNg0dHJ",
-        "title": "Трудно быть богом",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "9/10",
-        "createdAt": "2017-01-01 23:28:25",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 53
         }
     }
 }
