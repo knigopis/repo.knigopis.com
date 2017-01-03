@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>235</sup> 
 [sayonara](users/389/389308925-vkontakte)<sup>0</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>130</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>234</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>39</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [enrikenur](users/287/287579664-twitter)<sup>0</sup> 
 
 
-_03.01.2017 03:18:34_
+_03.01.2017 05:18:27_

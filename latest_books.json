@@ -1,4 +1,16 @@
 {
+    "Pk-tqjiPN4": {
+        "id": "Pk-tqjiPN4",
+        "title": "О чем я говорю, когда я говорю о беге",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-01-03 05:18:27",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 235
+        }
+    },
     "aa_XJ2gciR": {
         "id": "aa_XJ2gciR",
         "title": "Любовник смерти",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 39
-        }
-    },
-    "RuZpnFVSFr": {
-        "id": "RuZpnFVSFr",
-        "title": "На игле",
-        "author": "Ирвин Уэлш",
-        "notes": "8/10",
-        "createdAt": "2017-01-01 23:12:30",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 38
         }
     }
 }

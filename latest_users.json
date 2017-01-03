@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 235,
+        "updatedAt": "2017-01-03 05:18:27"
+    },
     "389308925-vkontakte": {
         "id": "389308925-vkontakte",
         "nickname": "sayonara",
@@ -76,12 +82,6 @@
         "nickname": "aminizip",
         "booksCount": 0,
         "updatedAt": "2016-12-29 12:52:28"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 234,
-        "updatedAt": "2016-12-28 19:09:36"
     },
     "103188365011668395510-google": {
         "id": "103188365011668395510-google",
