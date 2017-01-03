@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
 [atleticprivet](users/161/161139427-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>235</sup> 
 [sayonara](users/389/389308925-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>28</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>17</sup> 
-[-](users/259/2599559892670551610-mailru)<sup>0</sup> 
 
 
-_03.01.2017 11:24:49_
+_03.01.2017 11:45:06_

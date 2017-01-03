@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 44,
+        "updatedAt": "2017-01-03 11:45:06"
+    },
     "161139427-vkontakte": {
         "id": "161139427-vkontakte",
         "nickname": "atleticprivet",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 17,
         "updatedAt": "2016-12-25 00:42:45"
-    },
-    "2599559892670551610-mailru": {
-        "id": "2599559892670551610-mailru",
-        "nickname": "-",
-        "booksCount": 0,
-        "updatedAt": "2016-12-23 18:48:16"
     }
 }
