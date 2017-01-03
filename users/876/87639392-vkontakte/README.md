@@ -1,4 +1,4 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>7</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>8</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 ### Уродливая любовь
 Колин Гувер
 > [2016-03-01] 
+
+
+### 50 дней до моего самоубийства
+Kramer_Steis
 
 
 ### Всего один день
