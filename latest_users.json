@@ -1,4 +1,10 @@
 {
+    "113033184709492089410-google": {
+        "id": "113033184709492089410-google",
+        "nickname": "aglovlyuk",
+        "booksCount": 8,
+        "updatedAt": "2017-01-03 14:49:28"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 28,
         "updatedAt": "2016-12-25 09:30:23"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 17,
-        "updatedAt": "2016-12-25 00:42:45"
     }
 }
