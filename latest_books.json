@@ -1,4 +1,16 @@
 {
+    "dVrVQa9fUN": {
+        "id": "dVrVQa9fUN",
+        "title": "Уродливая любовь",
+        "author": "Колин Гувер",
+        "notes": "",
+        "createdAt": "2017-01-03 19:10:10",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 2
+        }
+    },
     "f2HJuExMEg": {
         "id": "f2HJuExMEg",
         "title": "Комэск-13",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 45
-        }
-    },
-    "7OHPGOBBRc": {
-        "id": "7OHPGOBBRc",
-        "title": "Стальная Крыса идёт в армию",
-        "author": "Гарри Гаррисон",
-        "notes": "7/10",
-        "createdAt": "2017-01-01 23:21:45",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 44
         }
     }
 }

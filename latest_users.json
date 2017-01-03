@@ -1,4 +1,10 @@
 {
+    "87639392-vkontakte": {
+        "id": "87639392-vkontakte",
+        "nickname": "veronika_vaha",
+        "booksCount": 2,
+        "updatedAt": "2017-01-03 19:10:10"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -100,12 +106,6 @@
         "nickname": "lissyandra",
         "booksCount": 1,
         "updatedAt": "2016-12-29 17:41:16"
-    },
-    "87639392-vkontakte": {
-        "id": "87639392-vkontakte",
-        "nickname": "veronika_vaha",
-        "booksCount": 1,
-        "updatedAt": "2016-12-29 12:55:28"
     },
     "2070473124-instagram": {
         "id": "2070473124-instagram",
