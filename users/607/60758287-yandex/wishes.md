@@ -1,6 +1,10 @@
 # Wish list of books by [ViktorRomanov007](http://openid.yandex.ru/ViktorRomanov007/)
 ---
 
+### `49` эмоциональный интеллект
+дэниел гоулман
+> ЛР - навыки
+
 ### `48` Психология влияния
 Роберт Чалдини
 > ЛР - Психология
