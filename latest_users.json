@@ -1,4 +1,10 @@
 {
+    "297276114-vkontakte": {
+        "id": "297276114-vkontakte",
+        "nickname": "alexeymasyukov",
+        "booksCount": 0,
+        "updatedAt": "2017-01-03 15:06:36"
+    },
     "113033184709492089410-google": {
         "id": "113033184709492089410-google",
         "nickname": "aglovlyuk",
@@ -172,11 +178,5 @@
         "nickname": "bphiz",
         "booksCount": 0,
         "updatedAt": "2016-12-25 13:34:07"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 28,
-        "updatedAt": "2016-12-25 09:30:23"
     }
 }
