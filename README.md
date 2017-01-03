@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[veronika_vaha](users/876/87639392-vkontakte)<sup>2</sup> 
+[veronika_vaha](users/876/87639392-vkontakte)<sup>3</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>40</sup> 
 [alexeymasyukov](users/297/297276114-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
 
 
-_03.01.2017 19:10:10_
+_03.01.2017 19:10:45_
