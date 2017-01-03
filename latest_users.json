@@ -1,4 +1,10 @@
 {
+    "161139427-vkontakte": {
+        "id": "161139427-vkontakte",
+        "nickname": "atleticprivet",
+        "booksCount": 0,
+        "updatedAt": "2017-01-03 11:24:48"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "-",
         "booksCount": 0,
         "updatedAt": "2016-12-23 18:48:16"
-    },
-    "287579664-twitter": {
-        "id": "287579664-twitter",
-        "nickname": "enrikenur",
-        "booksCount": 0,
-        "updatedAt": "2016-12-23 17:01:02"
     }
 }
