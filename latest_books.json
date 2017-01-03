@@ -1,4 +1,16 @@
 {
+    "QX-M-b7tY4": {
+        "id": "QX-M-b7tY4",
+        "title": "На пределе",
+        "author": "Эрик Бертран Ларссен",
+        "notes": "",
+        "createdAt": "2017-01-03 14:50:14",
+        "user": {
+            "id": "113033184709492089410-google",
+            "nickname": "aglovlyuk",
+            "booksCount": 10
+        }
+    },
     "WCrluqcQRN": {
         "id": "WCrluqcQRN",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 42
-        }
-    },
-    "DVEmw6lIvj": {
-        "id": "DVEmw6lIvj",
-        "title": "Конные Варвары",
-        "author": "Гарри Гаррисон",
-        "notes": "7,5/10",
-        "createdAt": "2017-01-01 23:20:18",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 41
         }
     }
 }
