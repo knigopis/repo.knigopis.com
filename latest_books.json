@@ -1,4 +1,16 @@
 {
+    "srtW2gXLgT": {
+        "id": "srtW2gXLgT",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2017-01-03 14:56:59",
+        "user": {
+            "id": "113033184709492089410-google",
+            "nickname": "aglovlyuk",
+            "booksCount": 11
+        }
+    },
     "QX-M-b7tY4": {
         "id": "QX-M-b7tY4",
         "title": "На пределе",
@@ -9,18 +21,6 @@
             "id": "113033184709492089410-google",
             "nickname": "aglovlyuk",
             "booksCount": 10
-        }
-    },
-    "WCrluqcQRN": {
-        "id": "WCrluqcQRN",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2017-01-03 14:49:49",
-        "user": {
-            "id": "113033184709492089410-google",
-            "nickname": "aglovlyuk",
-            "booksCount": 9
         }
     },
     "zlgSe022xV": {
