@@ -1,4 +1,16 @@
 {
+    "oc3eU8FOjM": {
+        "id": "oc3eU8FOjM",
+        "title": "Всего один день",
+        "author": "Г.Форман",
+        "notes": "",
+        "createdAt": "2017-01-03 19:15:30",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 7
+        }
+    },
     "fiHsbVpXSB": {
         "id": "fiHsbVpXSB",
         "title": "Звездные бобы и ревность",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 50
-        }
-    },
-    "LQRWC-W3NY": {
-        "id": "LQRWC-W3NY",
-        "title": "Ты нужен Стальной Крысе",
-        "author": "Гарри Гаррисон",
-        "notes": "6/10",
-        "createdAt": "2017-01-01 23:23:43",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 49
         }
     }
 }
