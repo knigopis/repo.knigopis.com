@@ -20,6 +20,7 @@
 Дмитрий Жуков
 > http://www.e-reading.club/book.php?book=1038792
 > http://www.ozon.ru/context/detail/id/23892822/
+> http://www.ozon.ru/context/detail/id/23892822/
 
 ### `88` Путь программиста
 Джон Сонмез
