@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alexeymasyukov](users/297/297276114-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
 [atleticprivet](users/161/161139427-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SymbatSSP](users/111/111174942368802285509-googleplus)<sup>0</sup> 
 [nataliya_drahanchuk](users/242/242544301-vkontakte)<sup>0</sup> 
 [bphiz](users/307/307896598-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>28</sup> 
 
 
-_03.01.2017 14:58:09_
+_03.01.2017 15:06:36_
