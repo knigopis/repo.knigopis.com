@@ -1,4 +1,4 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>12</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>11</sup>
 ---
 
 ## 2016
@@ -53,10 +53,6 @@ Springer_Kristina
 
 ### 50 дней до моего самоубийства
 Kramer_Steis
-
-
-### Всего один день
-Г.Форман
 
 
 
