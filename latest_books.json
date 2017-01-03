@@ -1,4 +1,16 @@
 {
+    "3MI5U2g_PE": {
+        "id": "3MI5U2g_PE",
+        "title": "Адская неделя",
+        "author": "Эрик Бертран Ларссен",
+        "notes": "",
+        "createdAt": "2017-01-03 14:58:09",
+        "user": {
+            "id": "113033184709492089410-google",
+            "nickname": "aglovlyuk",
+            "booksCount": 10
+        }
+    },
     "srtW2gXLgT": {
         "id": "srtW2gXLgT",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 43
-        }
-    },
-    "-4rr-g-pT4": {
-        "id": "-4rr-g-pT4",
-        "title": "Линкор в нафталине",
-        "author": "Гарри Гаррисон",
-        "notes": "8/10",
-        "createdAt": "2017-01-01 23:20:43",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 42
         }
     }
 }
