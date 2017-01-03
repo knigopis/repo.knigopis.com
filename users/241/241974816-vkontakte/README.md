@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>86</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>87</sup>
 ---
 
 ## 2017
+
+### 1984
+Джордж Оруэлл
+> [2017-01-03] Классика классика :)
+> 
+> в процессе
+
 
 ### Неизведанный Байкал
 Валерий Малеев

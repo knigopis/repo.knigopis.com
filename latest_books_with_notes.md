@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
 * Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
 * Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
 * Сердце зимы ~ [Garka](users/115/115753719718250012620-google)<sup>130</sup>
@@ -30,7 +31,6 @@
 * Дракула ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup>
 * Исландия, треска и все-все-все ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>63</sup>
 * Путеводитель «Автостопом по Галактике» ~ [Garka](users/115/115753719718250012620-google)<sup>125</sup>
-* Гордость и предубеждение ~ [Garka](users/115/115753719718250012620-google)<sup>124</sup>
 
 
-_03.01.2017 20:29:27_
+_03.01.2017 20:31:15_

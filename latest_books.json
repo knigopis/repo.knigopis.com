@@ -1,4 +1,16 @@
 {
+    "ypQhhxGoYl": {
+        "id": "ypQhhxGoYl",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "Классика классика :)\n\nв процессе",
+        "createdAt": "2017-01-03 20:31:15",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 87
+        }
+    },
     "LCLffCxYQc": {
         "id": "LCLffCxYQc",
         "title": "Неизведанный Байкал",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 130
-        }
-    },
-    "a-3LVHTpZu": {
-        "id": "a-3LVHTpZu",
-        "title": "Как любить ребёнка",
-        "author": "Корчак Януш",
-        "notes": "",
-        "createdAt": "2017-01-02 04:05:14",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 68
         }
     }
 }
