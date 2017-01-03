@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sayonara](users/389/389308925-vkontakte)<sup>0</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>130</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>17</sup> 
 [-](users/259/2599559892670551610-mailru)<sup>0</sup> 
 [enrikenur](users/287/287579664-twitter)<sup>0</sup> 
-[venka.daria](users/106/106931358806572145583-google)<sup>0</sup> 
 
 
-_02.01.2017 21:50:52_
+_03.01.2017 03:18:34_
