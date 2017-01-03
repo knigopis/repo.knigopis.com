@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 86,
+        "updatedAt": "2017-01-03 20:29:27"
+    },
     "87639392-vkontakte": {
         "id": "87639392-vkontakte",
         "nickname": "veronika_vaha",
@@ -172,11 +178,5 @@
         "nickname": "nataliya_drahanchuk",
         "booksCount": 0,
         "updatedAt": "2016-12-25 20:56:19"
-    },
-    "307896598-vkontakte": {
-        "id": "307896598-vkontakte",
-        "nickname": "bphiz",
-        "booksCount": 0,
-        "updatedAt": "2016-12-25 13:34:07"
     }
 }
