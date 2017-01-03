@@ -1,4 +1,4 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>11</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>12</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 ### Уродливая любовь
 Колин Гувер
 > [2016-03-01] 
+
+
+### Ночная школа
+Doerti_Kristi
 
 
 ### Osvoboditel_sbornik
