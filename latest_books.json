@@ -1,4 +1,16 @@
 {
+    "fiHsbVpXSB": {
+        "id": "fiHsbVpXSB",
+        "title": "Звездные бобы и ревность",
+        "author": "Т.Фолкнер",
+        "notes": "",
+        "createdAt": "2017-01-03 19:13:04",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 6
+        }
+    },
     "E6UraLP8NC": {
         "id": "E6UraLP8NC",
         "title": "Умный, сексуальный молчаливый",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 49
-        }
-    },
-    "rpggeihBbp": {
-        "id": "rpggeihBbp",
-        "title": "Стальная Крыса спасает мир",
-        "author": "Гарри Гаррисон",
-        "notes": "7/10",
-        "createdAt": "2017-01-01 23:22:47",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 48
         }
     }
 }
