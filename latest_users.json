@@ -1,4 +1,10 @@
 {
+    "388431793-vkontakte": {
+        "id": "388431793-vkontakte",
+        "nickname": "sophiedes",
+        "booksCount": 0,
+        "updatedAt": "2017-01-04 10:52:48"
+    },
     "87639392-vkontakte": {
         "id": "87639392-vkontakte",
         "nickname": "veronika_vaha",
@@ -172,11 +178,5 @@
         "nickname": "SymbatSSP",
         "booksCount": 0,
         "updatedAt": "2016-12-26 15:31:06"
-    },
-    "242544301-vkontakte": {
-        "id": "242544301-vkontakte",
-        "nickname": "nataliya_drahanchuk",
-        "booksCount": 0,
-        "updatedAt": "2016-12-25 20:56:19"
     }
 }
