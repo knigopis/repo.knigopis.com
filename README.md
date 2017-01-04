@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sophiedes](users/388/388431793-vkontakte)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>11</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>40</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [easyaround](users/100/100000491918134-facebook)<sup>1</sup> 
 [533704t](users/161/161067016-vkontakte)<sup>0</sup> 
 [SymbatSSP](users/111/111174942368802285509-googleplus)<sup>0</sup> 
-[nataliya_drahanchuk](users/242/242544301-vkontakte)<sup>0</sup> 
 
 
-_03.01.2017 20:40:43_
+_04.01.2017 10:52:50_
