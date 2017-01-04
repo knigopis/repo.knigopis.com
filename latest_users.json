@@ -1,4 +1,10 @@
 {
+    "152183909-vkontakte": {
+        "id": "152183909-vkontakte",
+        "nickname": "d.molokoedova",
+        "booksCount": 3,
+        "updatedAt": "2017-01-04 18:59:52"
+    },
     "388431793-vkontakte": {
         "id": "388431793-vkontakte",
         "nickname": "sophiedes",
@@ -172,11 +178,5 @@
         "nickname": "533704t",
         "booksCount": 0,
         "updatedAt": "2016-12-26 16:57:57"
-    },
-    "111174942368802285509-googleplus": {
-        "id": "111174942368802285509-googleplus",
-        "nickname": "SymbatSSP",
-        "booksCount": 0,
-        "updatedAt": "2016-12-26 15:31:06"
     }
 }
