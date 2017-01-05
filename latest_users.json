@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 23,
+        "updatedAt": "2017-01-05 12:04:25"
+    },
     "114601129347390867268-google": {
         "id": "114601129347390867268-google",
         "nickname": "Srk.mqa",
@@ -172,11 +178,5 @@
         "nickname": "genrih59",
         "booksCount": 18,
         "updatedAt": "2016-12-26 18:22:21"
-    },
-    "100000491918134-facebook": {
-        "id": "100000491918134-facebook",
-        "nickname": "easyaround",
-        "booksCount": 1,
-        "updatedAt": "2016-12-26 18:03:09"
     }
 }
