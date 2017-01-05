@@ -1,4 +1,10 @@
 {
+    "105085389727031650221-google": {
+        "id": "105085389727031650221-google",
+        "nickname": "audiobook",
+        "booksCount": 0,
+        "updatedAt": "2017-01-05 13:49:20"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "arut_adamyan",
         "booksCount": 0,
         "updatedAt": "2016-12-26 22:05:18"
-    },
-    "872361436199401-facebook": {
-        "id": "872361436199401-facebook",
-        "nickname": "genrih59",
-        "booksCount": 18,
-        "updatedAt": "2016-12-26 18:22:21"
     }
 }
