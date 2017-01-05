@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[methadone1488](users/298/29872825-vkontakte)<sup>0</sup> 
 [Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
-[mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
 
 
-_05.01.2017 18:34:48_
+_05.01.2017 22:43:25_
