@@ -1,4 +1,10 @@
 {
+    "114601129347390867268-google": {
+        "id": "114601129347390867268-google",
+        "nickname": "Srk.mqa",
+        "booksCount": 0,
+        "updatedAt": "2017-01-05 09:55:11"
+    },
     "152183909-vkontakte": {
         "id": "152183909-vkontakte",
         "nickname": "d.molokoedova",
@@ -172,11 +178,5 @@
         "nickname": "easyaround",
         "booksCount": 1,
         "updatedAt": "2016-12-26 18:03:09"
-    },
-    "161067016-vkontakte": {
-        "id": "161067016-vkontakte",
-        "nickname": "533704t",
-        "booksCount": 0,
-        "updatedAt": "2016-12-26 16:57:57"
     }
 }
