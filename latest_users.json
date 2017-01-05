@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 88,
+        "updatedAt": "2017-01-05 13:17:00"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -28,12 +34,6 @@
         "nickname": "veronika_vaha",
         "booksCount": 11,
         "updatedAt": "2017-01-03 20:40:42"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 87,
-        "updatedAt": "2017-01-03 20:31:15"
     },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",

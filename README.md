@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Методы и технологии информационных войн ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup>
+    > в процессе
+    > 
+    > http://www.ozon.ru/context/detail/id/3357397/
+
 * 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
     > Классика классика :)
     > 
@@ -16,7 +21,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
-    > Вирт полигон, ставший реальностью. Мужиков не хватает от слова "совсем", и тут наш бравый командир, не забывая попутно описывать какой он не такой как все попаданцы и ничего не умеет, таки "умеет", несмотря на все предрассудки. Бабы пси-снайперы и гормоны
 
 * Сердце зимы ~ [Garka](users/115/115753719718250012620-google)<sup>130</sup>
 
@@ -30,19 +34,17 @@ Do not use pull requests to make changes here.
 
 * Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
 
-* Убить пересмешника ~ [Беска](users/157/1577468-vkontakte)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
 [Srk.mqa](users/114/114601129347390867268-google)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>3</sup> 
 [sophiedes](users/388/388431793-vkontakte)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>11</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>40</sup> 
 [alexeymasyukov](users/297/297276114-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>18</sup> 
 
 
-_05.01.2017 12:04:25_
+_05.01.2017 13:17:01_
