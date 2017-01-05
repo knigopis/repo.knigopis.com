@@ -1,4 +1,10 @@
 {
+    "4010120070146719222-mailru": {
+        "id": "4010120070146719222-mailru",
+        "nickname": "Elenium",
+        "booksCount": 0,
+        "updatedAt": "2017-01-05 15:19:12"
+    },
     "105085389727031650221-google": {
         "id": "105085389727031650221-google",
         "nickname": "audiobook",
@@ -172,11 +178,5 @@
         "nickname": "Julia",
         "booksCount": 17,
         "updatedAt": "2016-12-27 10:00:58"
-    },
-    "13006313-vkontakte": {
-        "id": "13006313-vkontakte",
-        "nickname": "arut_adamyan",
-        "booksCount": 0,
-        "updatedAt": "2016-12-26 22:05:18"
     }
 }
