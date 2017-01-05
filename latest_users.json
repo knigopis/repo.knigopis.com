@@ -1,4 +1,10 @@
 {
+    "29872825-vkontakte": {
+        "id": "29872825-vkontakte",
+        "nickname": "methadone1488",
+        "booksCount": 0,
+        "updatedAt": "2017-01-05 22:43:24"
+    },
     "11351324622008775173-mailru": {
         "id": "11351324622008775173-mailru",
         "nickname": "Наталия Подкорчук",
@@ -172,11 +178,5 @@
         "nickname": "ManU-vetal",
         "booksCount": 0,
         "updatedAt": "2016-12-27 15:09:13"
-    },
-    "2947248-vkontakte": {
-        "id": "2947248-vkontakte",
-        "nickname": "mgaida",
-        "booksCount": 1,
-        "updatedAt": "2016-12-27 14:29:23"
     }
 }
