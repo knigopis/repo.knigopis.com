@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
 [mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
-[Julia](users/556/55688208-vkontakte)<sup>17</sup> 
 
 
-_05.01.2017 15:19:13_
+_05.01.2017 18:34:48_
