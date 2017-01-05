@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
 [mgaida](users/294/2947248-vkontakte)<sup>1</sup> 
 [Julia](users/556/55688208-vkontakte)<sup>17</sup> 
-[arut_adamyan](users/130/13006313-vkontakte)<sup>0</sup> 
 
 
-_05.01.2017 13:49:21_
+_05.01.2017 15:19:13_
