@@ -1,4 +1,10 @@
 {
+    "11351324622008775173-mailru": {
+        "id": "11351324622008775173-mailru",
+        "nickname": "Наталия Подкорчук",
+        "booksCount": 0,
+        "updatedAt": "2017-01-05 18:34:48"
+    },
     "4010120070146719222-mailru": {
         "id": "4010120070146719222-mailru",
         "nickname": "Elenium",
@@ -172,11 +178,5 @@
         "nickname": "mgaida",
         "booksCount": 1,
         "updatedAt": "2016-12-27 14:29:23"
-    },
-    "55688208-vkontakte": {
-        "id": "55688208-vkontakte",
-        "nickname": "Julia",
-        "booksCount": 17,
-        "updatedAt": "2016-12-27 10:00:58"
     }
 }
