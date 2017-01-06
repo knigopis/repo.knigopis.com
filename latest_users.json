@@ -1,4 +1,10 @@
 {
+    "139500216-vkontakte": {
+        "id": "139500216-vkontakte",
+        "nickname": "zh.sandra",
+        "booksCount": 0,
+        "updatedAt": "2017-01-06 19:14:53"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "lissyandra",
         "booksCount": 1,
         "updatedAt": "2016-12-29 17:41:16"
-    },
-    "2070473124-instagram": {
-        "id": "2070473124-instagram",
-        "nickname": "aminizip",
-        "booksCount": 0,
-        "updatedAt": "2016-12-29 12:52:28"
     }
 }
