@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>89</sup> 
 [July](users/718/71860652-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>50</sup> 
 [methadone1488](users/298/29872825-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 
 
-_06.01.2017 17:13:33_
+_06.01.2017 17:13:38_
