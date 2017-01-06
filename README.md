@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайная история "Звездных войн" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
+    > в процессе
+
 * Дюна ~ [rNix](users/115/115622071-twitter)<sup>50</sup>
     > "Здесь чары и месть, отвага и честь, дворцы и песок" (из Алладина). Песка особенно много. Но книга все равно очень интересная.
     > Интриги, заговоры, предательства. Начало очень захватывающее, к середине слабее, а дальше опять интереснее и интереснее. Концовку читал залпом. Жду теперь нового сериала по книги. Есть, что показать так же красиво, как в Аватаре.
@@ -15,9 +18,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/3357397/
 
 * 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
-    > Классика классика :)
-    > 
-    > в процессе
 
 * Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
 
@@ -31,20 +31,18 @@ Do not use pull requests to make changes here.
 
 * 17 обновление ~ [Tr](users/122/12282474-vkontakte)<sup>39</sup>
 
-* Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
 [July](users/718/71860652-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>50</sup> 
 [methadone1488](users/298/29872825-vkontakte)<sup>0</sup> 
 [Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
 [Srk.mqa](users/114/114601129347390867268-google)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>3</sup> 
@@ -70,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 
 
-_06.01.2017 14:31:29_
+_06.01.2017 17:13:33_

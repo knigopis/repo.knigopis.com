@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 90,
+        "updatedAt": "2017-01-06 17:13:33"
+    },
     "71860652-vkontakte": {
         "id": "71860652-vkontakte",
         "nickname": "July",
@@ -34,12 +40,6 @@
         "nickname": "audiobook",
         "booksCount": 0,
         "updatedAt": "2017-01-05 13:49:20"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 88,
-        "updatedAt": "2017-01-05 13:17:00"
     },
     "2352103981-twitter": {
         "id": "2352103981-twitter",

@@ -1,4 +1,16 @@
 {
+    "T5fWaDaUj4": {
+        "id": "T5fWaDaUj4",
+        "title": "Тайная история \"Звездных войн\"",
+        "author": "Майкл Камински",
+        "notes": "в процессе",
+        "createdAt": "2017-01-06 17:13:33",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 90
+        }
+    },
     "Pmq-FgIAFQ": {
         "id": "Pmq-FgIAFQ",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 61
-        }
-    },
-    "jr4fEGWx3p": {
-        "id": "jr4fEGWx3p",
-        "title": "Смерть Ахиллеса",
-        "author": "Борис Акунин",
-        "notes": "7/10",
-        "createdAt": "2017-01-02 21:48:33",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 60
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайная история "Звездных войн" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
 * Дюна ~ [rNix](users/115/115622071-twitter)<sup>50</sup>
 * Методы и технологии информационных войн ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup>
 * 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
@@ -30,7 +31,6 @@
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
 * Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
 * Слимп ~ [rNix](users/115/115622071-twitter)<sup>49</sup>
-* Дракула ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>64</sup>
 
 
-_06.01.2017 09:01:31_
+_06.01.2017 17:13:33_
