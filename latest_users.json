@@ -1,4 +1,10 @@
 {
+    "71860652-vkontakte": {
+        "id": "71860652-vkontakte",
+        "nickname": "July",
+        "booksCount": 0,
+        "updatedAt": "2017-01-06 14:28:47"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "aminizip",
         "booksCount": 0,
         "updatedAt": "2016-12-29 12:52:28"
-    },
-    "103188365011668395510-google": {
-        "id": "103188365011668395510-google",
-        "nickname": "Majy",
-        "booksCount": 0,
-        "updatedAt": "2016-12-28 12:17:42"
     }
 }
