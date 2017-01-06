@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[July](users/718/71860652-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>50</sup> 
 [methadone1488](users/298/29872825-vkontakte)<sup>0</sup> 
 [Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Meonia](users/631/631213583728634-facebook)<sup>7</sup> 
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
-[Majy](users/103/103188365011668395510-google)<sup>0</sup> 
 
 
-_06.01.2017 09:01:31_
+_06.01.2017 14:28:48_
