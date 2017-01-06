@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>89</sup> 
 [July](users/718/71860652-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>50</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
 [Meonia](users/631/631213583728634-facebook)<sup>7</sup> 
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
-[aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 
 
-_06.01.2017 17:13:38_
+_06.01.2017 19:14:53_
