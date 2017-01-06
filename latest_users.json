@@ -1,4 +1,10 @@
 {
+    "110570059376798782385-google": {
+        "id": "110570059376798782385-google",
+        "nickname": "Loutar",
+        "booksCount": 0,
+        "updatedAt": "2017-01-06 23:24:38"
+    },
     "139500216-vkontakte": {
         "id": "139500216-vkontakte",
         "nickname": "zh.sandra",
@@ -172,11 +178,5 @@
         "nickname": "Meonia",
         "booksCount": 7,
         "updatedAt": "2016-12-30 17:12:28"
-    },
-    "10212069337191586-facebook": {
-        "id": "10212069337191586-facebook",
-        "nickname": "lissyandra",
-        "booksCount": 1,
-        "updatedAt": "2016-12-29 17:41:16"
     }
 }
