@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [rNix](users/115/115622071-twitter)<sup>50</sup>
+    > "Здесь чары и месть, отвага и честь, дворцы и песок" (из Алладина). Песка особенно много. Но книга все равно очень интересная.
+    > Интриги, заговоры, предательства. Начало очень захватывающее, к середине слабее, а дальше опять интереснее и интереснее. Концовку читал залпом. Жду теперь нового сериала по книги. Есть, что показать так же красиво, как в Аватаре.
+
 * Методы и технологии информационных войн ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup>
     > в процессе
     > 
@@ -16,9 +20,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
-    > Замечательная фотокнига, очень точно передающая ощущение от разных районов Байкала. Описано шесть туристических маршрутов для посещения этих мест и их фотосъемки. Отличное настроение.
-    > 
-    > в процессе
 
 * Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
 
@@ -32,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
 
-* Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>50</sup> 
 [methadone1488](users/298/29872825-vkontakte)<sup>0</sup> 
 [Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
@@ -68,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lissyandra](users/102/10212069337191586-facebook)<sup>1</sup> 
 [aminizip](users/207/2070473124-instagram)<sup>0</sup> 
 [Majy](users/103/103188365011668395510-google)<sup>0</sup> 
-[ManU-vetal](users/104/104375029317049612659-google)<sup>0</sup> 
 
 
-_05.01.2017 22:43:25_
+_06.01.2017 09:01:31_

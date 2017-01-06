@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 50,
+        "updatedAt": "2017-01-06 09:01:31"
+    },
     "29872825-vkontakte": {
         "id": "29872825-vkontakte",
         "nickname": "methadone1488",
@@ -172,11 +178,5 @@
         "nickname": "Majy",
         "booksCount": 0,
         "updatedAt": "2016-12-28 12:17:42"
-    },
-    "104375029317049612659-google": {
-        "id": "104375029317049612659-google",
-        "nickname": "ManU-vetal",
-        "booksCount": 0,
-        "updatedAt": "2016-12-27 15:09:13"
     }
 }
