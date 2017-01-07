@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
 [lana](users/148/1486179434745329-facebook)<sup>0</sup> 
 [Loutar](users/110/110570059376798782385-google)<sup>0</sup> 
 [zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 [anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>484</sup> 
-[ViktorRomanov007](users/607/60758287-yandex)<sup>0</sup> 
 
 
-_07.01.2017 00:45:41_
+_07.01.2017 04:11:43_
