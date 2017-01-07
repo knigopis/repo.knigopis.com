@@ -1,4 +1,10 @@
 {
+    "112882224865387708202-google": {
+        "id": "112882224865387708202-google",
+        "nickname": "Owl ",
+        "booksCount": 0,
+        "updatedAt": "2017-01-07 04:11:42"
+    },
     "1486179434745329-facebook": {
         "id": "1486179434745329-facebook",
         "nickname": "lana",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 484,
         "updatedAt": "2016-12-31 10:56:39"
-    },
-    "60758287-yandex": {
-        "id": "60758287-yandex",
-        "nickname": "ViktorRomanov007",
-        "booksCount": 0,
-        "updatedAt": "2016-12-30 19:34:07"
     }
 }
