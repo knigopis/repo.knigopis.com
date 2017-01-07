@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
 [lana](users/148/1486179434745329-facebook)<sup>0</sup> 
 [Loutar](users/110/110570059376798782385-google)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
 [atleticprivet](users/161/161139427-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>235</sup> 
 [sayonara](users/389/389308925-vkontakte)<sup>0</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>130</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>484</sup> 
 
 
-_07.01.2017 04:11:43_
+_07.01.2017 12:15:05_
