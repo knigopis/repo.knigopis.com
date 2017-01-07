@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>130</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
-[Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 
 
-_07.01.2017 14:34:42_
+_07.01.2017 18:03:39_
