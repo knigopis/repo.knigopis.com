@@ -1,4 +1,10 @@
 {
+    "1486179434745329-facebook": {
+        "id": "1486179434745329-facebook",
+        "nickname": "lana",
+        "booksCount": 0,
+        "updatedAt": "2017-01-07 00:45:40"
+    },
     "110570059376798782385-google": {
         "id": "110570059376798782385-google",
         "nickname": "Loutar",
@@ -172,11 +178,5 @@
         "nickname": "ViktorRomanov007",
         "booksCount": 0,
         "updatedAt": "2016-12-30 19:34:07"
-    },
-    "631213583728634-facebook": {
-        "id": "631213583728634-facebook",
-        "nickname": "Meonia",
-        "booksCount": 7,
-        "updatedAt": "2016-12-30 17:12:28"
     }
 }
