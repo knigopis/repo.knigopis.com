@@ -1,4 +1,16 @@
 {
+    "hEC_NGdRBJ": {
+        "id": "hEC_NGdRBJ",
+        "title": "Systematic Trading",
+        "author": "Robert Carver",
+        "notes": "ISBN 9780857194459",
+        "createdAt": "2017-01-07 12:19:48",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 29
+        }
+    },
     "2YUL22O8j_": {
         "id": "2YUL22O8j_",
         "title": "Жнецы ветра",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 63
-        }
-    },
-    "9us7A-30Ax": {
-        "id": "9us7A-30Ax",
-        "title": "Статский советник",
-        "author": "Борис Акунин",
-        "notes": "7/10",
-        "createdAt": "2017-01-02 21:49:10",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 62
         }
     }
 }

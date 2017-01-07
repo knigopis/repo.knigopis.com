@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
+    > ISBN 9780857194459
+
 * Тайная история "Звездных войн" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
     > в процессе
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Интриги, заговоры, предательства. Начало очень захватывающее, к середине слабее, а дальше опять интереснее и интереснее. Концовку читал залпом. Жду теперь нового сериала по книги. Есть, что показать так же красиво, как в Аватаре.
 
 * Методы и технологии информационных войн ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>88</sup>
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/3357397/
 
 * 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
 
-* 17 обновление ~ [Tr](users/122/12282474-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
 [lana](users/148/1486179434745329-facebook)<sup>0</sup> 
@@ -65,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
 [anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>484</sup> 
 
 
-_07.01.2017 12:15:05_
+_07.01.2017 12:19:48_

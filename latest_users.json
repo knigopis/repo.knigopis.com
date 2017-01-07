@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 29,
+        "updatedAt": "2017-01-07 12:19:48"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "anna_shimkova",
         "booksCount": 0,
         "updatedAt": "2016-12-31 19:04:36"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 484,
-        "updatedAt": "2016-12-31 10:56:39"
     }
 }
