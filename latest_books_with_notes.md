@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
 * Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
 * Тайная история "Звездных войн" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
 * Дюна ~ [rNix](users/115/115622071-twitter)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
 * Жизнь, Вселенная и все остальное ~ [Garka](users/115/115753719718250012620-google)<sup>127</sup>
 * Ресторан на краю Вселенной ~ [Garka](users/115/115753719718250012620-google)<sup>126</sup>
-* Триумфальная арка ~ [anvonamore](users/595/5957175-vkontakte)<sup>112</sup>
 
 
-_07.01.2017 12:19:48_
+_07.01.2017 12:21:57_

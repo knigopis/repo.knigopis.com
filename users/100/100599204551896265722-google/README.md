@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>29</sup>
+# Список прочитанных книг пользователя exulted<sup>30</sup>
 ---
 
 ## 2017
+
+### Я была на войне
+Матвеева Мария Ивановна
+> [2017-01-05] http://militera.lib.ru/memo/russian/altunin_at/index.html
+
 
 ### Systematic Trading
 Robert Carver
