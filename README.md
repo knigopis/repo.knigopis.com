@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 [Ilya](users/104/104377955754791742868-google)<sup>0</sup> 
-[anna_shimkova](users/735/7350172-vkontakte)<sup>0</sup> 
 
 
-_07.01.2017 12:21:57_
+_07.01.2017 14:34:42_
