@@ -1,4 +1,16 @@
 {
+    "dy-XhEogqW": {
+        "id": "dy-XhEogqW",
+        "title": "Девушка в поезде",
+        "author": "Пола Хокинс",
+        "notes": "",
+        "createdAt": "2017-01-08 10:16:26",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 22
+        }
+    },
     "Mx4ncTTyoP": {
         "id": "Mx4ncTTyoP",
         "title": "Уцелевший",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 23
-        }
-    },
-    "OoQFJVVG8W": {
-        "id": "OoQFJVVG8W",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2017-01-04 18:59:52",
-        "user": {
-            "id": "152183909-vkontakte",
-            "nickname": "d.molokoedova",
-            "booksCount": 3
         }
     }
 }
