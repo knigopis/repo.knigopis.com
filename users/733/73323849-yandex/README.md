@@ -1,7 +1,11 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>17</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>18</sup>
 ---
 
 ## 2016
+
+### Мой голос останется с вами
+Милтон Эриксон
+
 
 ### Триумфальная арка
 Эрих Мария Ремарк

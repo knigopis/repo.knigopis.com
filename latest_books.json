@@ -1,4 +1,16 @@
 {
+    "1R3xKIUQ_H": {
+        "id": "1R3xKIUQ_H",
+        "title": "Мой голос останется с вами",
+        "author": "Милтон Эриксон",
+        "notes": "",
+        "createdAt": "2017-01-08 10:15:30",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 18
+        }
+    },
     "YL7Kel6dVH": {
         "id": "YL7Kel6dVH",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 12
-        }
-    },
-    "2jUeNVAL-O": {
-        "id": "2jUeNVAL-O",
-        "title": "Osvoboditel_sbornik",
-        "author": "Rey_Oldridzh",
-        "notes": "Трилогия. Научная фантастика",
-        "createdAt": "2017-01-03 19:18:37",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 11
         }
     }
 }
