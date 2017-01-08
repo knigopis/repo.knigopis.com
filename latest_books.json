@@ -1,4 +1,16 @@
 {
+    "XwBZJKRIYN": {
+        "id": "XwBZJKRIYN",
+        "title": "Бизнесхак на каждый день",
+        "author": "Игорь Манн и Ренат Шагабутдинов",
+        "notes": "",
+        "createdAt": "2017-01-08 13:46:02",
+        "user": {
+            "id": "104993798183193187530-google",
+            "nickname": "sk379",
+            "booksCount": 2
+        }
+    },
     "13OMlKCkEM": {
         "id": "13OMlKCkEM",
         "title": "100+ практических хаков для интернет-маркетологов",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 50
-        }
-    },
-    "AVysti_XuG": {
-        "id": "AVysti_XuG",
-        "title": "Методы и технологии информационных войн",
-        "author": "С.Н. Бухарин, В.В. Цыганов",
-        "notes": "в процессе\n\nhttp://www.ozon.ru/context/detail/id/3357397/",
-        "createdAt": "2017-01-05 13:17:00",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 88
         }
     }
 }
