@@ -1,4 +1,16 @@
 {
+    "oci8rkb6W7": {
+        "id": "oci8rkb6W7",
+        "title": "Сын волка",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-01-08 10:14:12",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 15
+        }
+    },
     "eZ_WYWoqla": {
         "id": "eZ_WYWoqla",
         "title": "Белый клык",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 9
-        }
-    },
-    "XNhGlKQl3P": {
-        "id": "XNhGlKQl3P",
-        "title": "50 дней до моего самоубийства",
-        "author": "Kramer_Steis",
-        "notes": "",
-        "createdAt": "2017-01-03 19:16:04",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 8
         }
     }
 }
