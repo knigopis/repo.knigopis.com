@@ -1,4 +1,16 @@
 {
+    "9gbaw_16Vv": {
+        "id": "9gbaw_16Vv",
+        "title": "Доктор Живаго",
+        "author": "Борис Пастернак",
+        "notes": "",
+        "createdAt": "2017-01-08 10:14:33",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 16
+        }
+    },
     "oci8rkb6W7": {
         "id": "oci8rkb6W7",
         "title": "Сын волка",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 10
-        }
-    },
-    "TnQ9825Xk0": {
-        "id": "TnQ9825Xk0",
-        "title": "Занимательная экспрессология",
-        "author": "Springer_Kristina",
-        "notes": "",
-        "createdAt": "2017-01-03 19:16:30",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 9
         }
     }
 }
