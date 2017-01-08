@@ -1,4 +1,16 @@
 {
+    "9bnqtNXQ-T": {
+        "id": "9bnqtNXQ-T",
+        "title": "Смерительная рубашка",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-01-08 10:13:57",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 13
+        }
+    },
     "GWslmjRxi8": {
         "id": "GWslmjRxi8",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 7
-        }
-    },
-    "fiHsbVpXSB": {
-        "id": "fiHsbVpXSB",
-        "title": "Звездные бобы и ревность",
-        "author": "Т.Фолкнер",
-        "notes": "",
-        "createdAt": "2017-01-03 19:13:04",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 6
         }
     }
 }

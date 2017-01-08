@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>12</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>13</sup>
 ---
 
 ## 2016
@@ -9,6 +9,10 @@
 
 
 ## 2015
+
+### Смерительная рубашка
+Джек Лондон
+
 
 ### Мартин Иден
 Джек Лондон
