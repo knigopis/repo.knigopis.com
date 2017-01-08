@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>7</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>8</sup>
 ---
 
 ## 2016
@@ -9,6 +9,10 @@
 
 
 ## 2015
+
+### Шантарам
+Грегори Дэвид Робертс
+
 
 ### Ночной поезд на Лиссабон
 Паскаль Мерсье
