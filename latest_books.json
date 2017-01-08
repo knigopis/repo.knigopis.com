@@ -1,4 +1,16 @@
 {
+    "ILXZFekIOy": {
+        "id": "ILXZFekIOy",
+        "title": "Понедельник начинается в субботу",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-01-08 10:10:30",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 5
+        }
+    },
     "eu_3I-livN": {
         "id": "eu_3I-livN",
         "title": "Трудно быть богом",
@@ -345,18 +357,6 @@
             "id": "113033184709492089410-google",
             "nickname": "aglovlyuk",
             "booksCount": 11
-        }
-    },
-    "QX-M-b7tY4": {
-        "id": "QX-M-b7tY4",
-        "title": "На пределе",
-        "author": "Эрик Бертран Ларссен",
-        "notes": "",
-        "createdAt": "2017-01-03 14:50:14",
-        "user": {
-            "id": "113033184709492089410-google",
-            "nickname": "aglovlyuk",
-            "booksCount": 10
         }
     }
 }
