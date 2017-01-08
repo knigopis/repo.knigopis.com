@@ -1,4 +1,16 @@
 {
+    "YL7Kel6dVH": {
+        "id": "YL7Kel6dVH",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-01-08 10:15:03",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 17
+        }
+    },
     "9gbaw_16Vv": {
         "id": "9gbaw_16Vv",
         "title": "Доктор Живаго",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 11
-        }
-    },
-    "x_1CAiYGb3": {
-        "id": "x_1CAiYGb3",
-        "title": "Подарок",
-        "author": "А.Плен",
-        "notes": "",
-        "createdAt": "2017-01-03 19:17:18",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 10
         }
     }
 }
