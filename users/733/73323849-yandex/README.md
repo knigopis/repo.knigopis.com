@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>9</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>10</sup>
 ---
 
 ## 2016
@@ -30,6 +30,10 @@
 
 
 ## 2014
+
+### Украина. Хаос и революция — оружие доллара
+Стариков Николай Викторович
+
 
 ### Трудно быть богом
 Аркадий и Борис Стругацкие

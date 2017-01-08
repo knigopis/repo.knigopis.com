@@ -1,4 +1,16 @@
 {
+    "JJaBuwhOWH": {
+        "id": "JJaBuwhOWH",
+        "title": "Украина. Хаос и революция — оружие доллара",
+        "author": "Стариков Николай Викторович",
+        "notes": "",
+        "createdAt": "2017-01-08 10:12:48",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 10
+        }
+    },
     "lijfMFcPdZ": {
         "id": "lijfMFcPdZ",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 4
-        }
-    },
-    "HMuQqmPcIB": {
-        "id": "HMuQqmPcIB",
-        "title": "всего один день",
-        "author": "Форман",
-        "notes": "",
-        "createdAt": "2017-01-03 19:10:45",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 3
         }
     }
 }
