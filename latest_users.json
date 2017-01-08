@@ -1,4 +1,10 @@
 {
+    "170170925-vkontakte": {
+        "id": "170170925-vkontakte",
+        "nickname": "devidin9",
+        "booksCount": 0,
+        "updatedAt": "2017-01-08 11:12:12"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 130,
         "updatedAt": "2017-01-02 08:19:31"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 68,
-        "updatedAt": "2017-01-02 04:05:14"
     }
 }
