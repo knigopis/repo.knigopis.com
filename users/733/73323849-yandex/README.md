@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>2</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>3</sup>
 ---
 
 ## 2012
@@ -9,6 +9,11 @@
 
 
 ## 2010
+
+### Война и мир
+Лев Николаевич Толстой
+> перечитывала в 2012
+
 
 ### Преступление и наказание
 Федор Михайлович Достоевский

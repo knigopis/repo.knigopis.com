@@ -1,4 +1,16 @@
 {
+    "daeW5RMIdm": {
+        "id": "daeW5RMIdm",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "перечитывала в 2012",
+        "createdAt": "2017-01-08 10:09:20",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 3
+        }
+    },
     "qSNVTjBPB5": {
         "id": "qSNVTjBPB5",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 44
-        }
-    },
-    "Pk-tqjiPN4": {
-        "id": "Pk-tqjiPN4",
-        "title": "О чем я говорю, когда я говорю о беге",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-01-03 05:18:27",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 235
         }
     }
 }
