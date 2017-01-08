@@ -1,4 +1,10 @@
 {
+    "104993798183193187530-google": {
+        "id": "104993798183193187530-google",
+        "nickname": "sk379",
+        "booksCount": 0,
+        "updatedAt": "2017-01-08 13:39:43"
+    },
     "170170925-vkontakte": {
         "id": "170170925-vkontakte",
         "nickname": "devidin9",
@@ -172,11 +178,5 @@
         "nickname": "Narjih",
         "booksCount": 65,
         "updatedAt": "2017-01-02 21:50:52"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 130,
-        "updatedAt": "2017-01-02 08:19:31"
     }
 }
