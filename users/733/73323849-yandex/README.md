@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>10</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>11</sup>
 ---
 
 ## 2016
@@ -30,6 +30,10 @@
 
 
 ## 2014
+
+### Шерше ля нефть. Почему наш Стабилизационный фонд находится там?
+Стариков Николай Викторович
+
 
 ### Украина. Хаос и революция — оружие доллара
 Стариков Николай Викторович
