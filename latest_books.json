@@ -1,4 +1,16 @@
 {
+    "lijfMFcPdZ": {
+        "id": "lijfMFcPdZ",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-01-08 10:12:19",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 9
+        }
+    },
     "y1EdHwd83I": {
         "id": "y1EdHwd83I",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 3
-        }
-    },
-    "dVrVQa9fUN": {
-        "id": "dVrVQa9fUN",
-        "title": "Уродливая любовь",
-        "author": "Колин Гувер",
-        "notes": "",
-        "createdAt": "2017-01-03 19:10:10",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 2
         }
     }
 }
