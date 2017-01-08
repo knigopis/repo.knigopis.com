@@ -1,4 +1,4 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>22</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>23</sup>
 ---
 
 ## 2016
@@ -89,6 +89,10 @@
 
 
 ## 2012
+
+### Война и мир
+Лев Николаевич Толстой
+
 
 ### Одиночество в сети
 Януш Леон Вишневский

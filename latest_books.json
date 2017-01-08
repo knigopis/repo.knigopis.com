@@ -1,4 +1,16 @@
 {
+    "zYqvuRpXoc": {
+        "id": "zYqvuRpXoc",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2017-01-08 10:24:07",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 23
+        }
+    },
     "dy-XhEogqW": {
         "id": "dy-XhEogqW",
         "title": "Девушка в поезде",
@@ -225,18 +237,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 4
-        }
-    },
-    "daeW5RMIdm": {
-        "id": "daeW5RMIdm",
-        "title": "Война и мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "перечитывала в 2012",
-        "createdAt": "2017-01-08 10:09:20",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 3
         }
     },
     "qSNVTjBPB5": {
