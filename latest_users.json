@@ -1,4 +1,10 @@
 {
+    "1729223597304810-facebook": {
+        "id": "1729223597304810-facebook",
+        "nickname": "Krivzha",
+        "booksCount": 0,
+        "updatedAt": "2017-01-08 15:33:16"
+    },
     "104993798183193187530-google": {
         "id": "104993798183193187530-google",
         "nickname": "sk379",
@@ -172,11 +178,5 @@
         "nickname": "sayonara",
         "booksCount": 0,
         "updatedAt": "2017-01-03 03:18:34"
-    },
-    "101033677091232972633-google": {
-        "id": "101033677091232972633-google",
-        "nickname": "Narjih",
-        "booksCount": 65,
-        "updatedAt": "2017-01-02 21:50:52"
     }
 }
