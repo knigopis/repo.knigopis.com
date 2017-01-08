@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
 * Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
 * Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
 * Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
 * Бриджит Джонс  грани разумного ~ [Garka](users/115/115753719718250012620-google)<sup>128</sup>
 * Загадай число ~ [Victoria](users/113/113794223924688167852-google)<sup>27</sup>
-* Жизнь, Вселенная и все остальное ~ [Garka](users/115/115753719718250012620-google)<sup>127</sup>
 
 
-_08.01.2017 10:09:20_
+_08.01.2017 10:10:47_

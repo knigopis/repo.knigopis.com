@@ -1,4 +1,16 @@
 {
+    "AYOSxZU9A9": {
+        "id": "AYOSxZU9A9",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг фон Гёте",
+        "notes": "не дочитала",
+        "createdAt": "2017-01-08 10:10:47",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 6
+        }
+    },
     "daeW5RMIdm": {
         "id": "daeW5RMIdm",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 27
-        }
-    },
-    "pptADs5KhE": {
-        "id": "pptADs5KhE",
-        "title": "Жизнь, Вселенная и все остальное",
-        "author": "Адамс, Дуглас",
-        "notes": "Третья книга серии Автостопом по Галактике. Заметно слабее предыдущих двух книг, повествование какое-то сумбурное и нудное.",
-        "createdAt": "2016-12-11 14:04:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 127
         }
     }
 }

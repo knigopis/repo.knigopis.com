@@ -1,4 +1,16 @@
 {
+    "AYOSxZU9A9": {
+        "id": "AYOSxZU9A9",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг фон Гёте",
+        "notes": "не дочитала",
+        "createdAt": "2017-01-08 10:10:47",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 6
+        }
+    },
     "ILXZFekIOy": {
         "id": "ILXZFekIOy",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "113033184709492089410-google",
             "nickname": "aglovlyuk",
             "booksCount": 10
-        }
-    },
-    "srtW2gXLgT": {
-        "id": "srtW2gXLgT",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2017-01-03 14:56:59",
-        "user": {
-            "id": "113033184709492089410-google",
-            "nickname": "aglovlyuk",
-            "booksCount": 11
         }
     }
 }
