@@ -1,4 +1,10 @@
 {
+    "1165375013501175-facebook": {
+        "id": "1165375013501175-facebook",
+        "nickname": "sparoff",
+        "booksCount": 0,
+        "updatedAt": "2017-01-08 19:26:11"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 44,
         "updatedAt": "2017-01-03 11:45:06"
-    },
-    "161139427-vkontakte": {
-        "id": "161139427-vkontakte",
-        "nickname": "atleticprivet",
-        "booksCount": 0,
-        "updatedAt": "2017-01-03 11:24:48"
     }
 }
