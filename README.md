@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sparoff](users/116/1165375013501175-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>131</sup> 
 [Krivzha](users/172/1729223597304810-facebook)<sup>0</sup> 
 [sk379](users/104/104993798183193187530-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexeymasyukov](users/297/297276114-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
-[atleticprivet](users/161/161139427-vkontakte)<sup>0</sup> 
 
 
-_08.01.2017 15:34:23_
+_08.01.2017 19:26:12_
