@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Божественная комедия ~ [Garka](users/115/115753719718250012620-google)<sup>131</sup>
+    > Чтобы понять всю глубину Божественной комедии, следует почитать немного об истории Италии того времени, когда произведение писалось. Тогда становится понятна вся смелость Данте и переполнявшее его негодование, относящееся и к социальной стороне жизни, и к церкви. Лично меня  удивило, как гармонично в христианское описание загробной жизни Данте вписал античных богов, муз и прочих мифических существ. Прочтение далось мне сложновато, но тут стоит отметить - поэзию я не люблю в принципе, проза мне дается намного проще.
+
 * Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
     > перечитывала в 2016
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > не дочитала
 
 * Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
-    > перечитывала в 2012
 
 * Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 1984 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>87</sup>
 
-* Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>131</sup> 
 [Krivzha](users/172/1729223597304810-facebook)<sup>0</sup> 
 [sk379](users/104/104993798183193187530-google)<sup>4</sup> 
 [devidin9](users/170/170170925-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
 [atleticprivet](users/161/161139427-vkontakte)<sup>0</sup> 
-[sayonara](users/389/389308925-vkontakte)<sup>0</sup> 
 
 
-_08.01.2017 15:33:16_
+_08.01.2017 15:34:23_

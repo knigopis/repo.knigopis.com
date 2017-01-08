@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 131,
+        "updatedAt": "2017-01-08 15:34:23"
+    },
     "1729223597304810-facebook": {
         "id": "1729223597304810-facebook",
         "nickname": "Krivzha",
@@ -172,11 +178,5 @@
         "nickname": "atleticprivet",
         "booksCount": 0,
         "updatedAt": "2017-01-03 11:24:48"
-    },
-    "389308925-vkontakte": {
-        "id": "389308925-vkontakte",
-        "nickname": "sayonara",
-        "booksCount": 0,
-        "updatedAt": "2017-01-03 03:18:34"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Божественная комедия ~ [Garka](users/115/115753719718250012620-google)<sup>131</sup>
 * Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
 * Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
 * Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Столкновение цивилизаций ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>85</sup>
 * Щегол ~ [Беска](users/157/1577468-vkontakte)<sup>15</sup>
 * Ветер в ивах ~ [Беска](users/157/1577468-vkontakte)<sup>14</sup>
-* Бриджит Джонс  грани разумного ~ [Garka](users/115/115753719718250012620-google)<sup>128</sup>
 
 
-_08.01.2017 10:11:26_
+_08.01.2017 15:34:23_
