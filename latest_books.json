@@ -1,4 +1,16 @@
 {
+    "Mx4ncTTyoP": {
+        "id": "Mx4ncTTyoP",
+        "title": "Уцелевший",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-01-08 10:16:12",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 21
+        }
+    },
     "hl8NGZwoER": {
         "id": "hl8NGZwoER",
         "title": "Малек",
@@ -345,18 +357,6 @@
             "id": "152183909-vkontakte",
             "nickname": "d.molokoedova",
             "booksCount": 3
-        }
-    },
-    "ypQhhxGoYl": {
-        "id": "ypQhhxGoYl",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "Классика классика :)\n\nв процессе",
-        "createdAt": "2017-01-03 20:31:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 87
         }
     }
 }
