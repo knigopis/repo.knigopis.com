@@ -1,4 +1,16 @@
 {
+    "DM5--MCPIc": {
+        "id": "DM5--MCPIc",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Дуглас Брэдбери",
+        "notes": "",
+        "createdAt": "2017-01-08 10:15:48",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 19
+        }
+    },
     "1R3xKIUQ_H": {
         "id": "1R3xKIUQ_H",
         "title": "Мой голос останется с вами",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 86
-        }
-    },
-    "ZrHGyu_8wA": {
-        "id": "ZrHGyu_8wA",
-        "title": "Ночная школа",
-        "author": "Doerti_Kristi",
-        "notes": "",
-        "createdAt": "2017-01-03 19:19:48",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 12
         }
     }
 }
