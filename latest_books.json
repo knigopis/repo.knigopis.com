@@ -1,4 +1,16 @@
 {
+    "z_4oPdkBCR": {
+        "id": "z_4oPdkBCR",
+        "title": "Dream Team. Как создать команду мечты",
+        "author": "Синякин Олег",
+        "notes": "",
+        "createdAt": "2017-01-08 13:49:20",
+        "user": {
+            "id": "104993798183193187530-google",
+            "nickname": "sk379",
+            "booksCount": 4
+        }
+    },
     "RqgcKeqZdm": {
         "id": "RqgcKeqZdm",
         "title": "Номер 1. Как стать лучшим в том, что ты делаешь",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 90
-        }
-    },
-    "Pmq-FgIAFQ": {
-        "id": "Pmq-FgIAFQ",
-        "title": "Вино из одуванчиков",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-01-06 14:30:54",
-        "user": {
-            "id": "71860652-vkontakte",
-            "nickname": "July",
-            "booksCount": 1
         }
     }
 }
