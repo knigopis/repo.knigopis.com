@@ -1,4 +1,16 @@
 {
+    "GWslmjRxi8": {
+        "id": "GWslmjRxi8",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-01-08 10:13:39",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 12
+        }
+    },
     "8L_d9LQ-Rd": {
         "id": "8L_d9LQ-Rd",
         "title": "Шерше ля нефть. Почему наш Стабилизационный фонд находится там?",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 6
-        }
-    },
-    "E6UraLP8NC": {
-        "id": "E6UraLP8NC",
-        "title": "Умный, сексуальный молчаливый",
-        "author": "Т.Фолкнер",
-        "notes": "",
-        "createdAt": "2017-01-03 19:12:31",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 5
         }
     }
 }
