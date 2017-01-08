@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>1</sup> 
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Narjih](users/101/101033677091232972633-google)<sup>65</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>130</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
-[dimapropolsky](users/211/21138193-vkontakte)<sup>18</sup> 
 
 
-_07.01.2017 18:03:39_
+_08.01.2017 10:07:28_

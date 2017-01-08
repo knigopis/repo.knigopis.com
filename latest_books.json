@@ -1,4 +1,16 @@
 {
+    "GcQIbWQWMN": {
+        "id": "GcQIbWQWMN",
+        "title": "Одиночество в сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2017-01-08 10:07:28",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 1
+        }
+    },
     "hqkMVNziVw": {
         "id": "hqkMVNziVw",
         "title": "Я была на войне",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 65
-        }
-    },
-    "LdU9Eahw5L": {
-        "id": "LdU9Eahw5L",
-        "title": "Любовница смерти",
-        "author": "Борис Акунин",
-        "notes": "7/10",
-        "createdAt": "2017-01-02 21:49:57",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 64
         }
     }
 }
