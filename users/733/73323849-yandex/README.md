@@ -1,5 +1,12 @@
-# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>3</sup>
+# List of books read by [inna.besprozvannykh](http://openid.yandex.ru/inna.besprozvannykh/)<sup>4</sup>
 ---
+
+## 2014
+
+### Трудно быть богом
+Аркадий и Борис Стругацкие
+
+
 
 ## 2012
 

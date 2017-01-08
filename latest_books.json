@@ -1,4 +1,16 @@
 {
+    "eu_3I-livN": {
+        "id": "eu_3I-livN",
+        "title": "Трудно быть богом",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-01-08 10:10:08",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 4
+        }
+    },
     "daeW5RMIdm": {
         "id": "daeW5RMIdm",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "113033184709492089410-google",
             "nickname": "aglovlyuk",
             "booksCount": 10
-        }
-    },
-    "zlgSe022xV": {
-        "id": "zlgSe022xV",
-        "title": "Следы на мне",
-        "author": "Гришковец Евгений",
-        "notes": "",
-        "createdAt": "2017-01-03 11:45:06",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 44
         }
     }
 }
