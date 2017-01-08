@@ -1,4 +1,16 @@
 {
+    "eZ_WYWoqla": {
+        "id": "eZ_WYWoqla",
+        "title": "Белый клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-01-08 10:14:05",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 14
+        }
+    },
     "9bnqtNXQ-T": {
         "id": "9bnqtNXQ-T",
         "title": "Смерительная рубашка",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 8
-        }
-    },
-    "oc3eU8FOjM": {
-        "id": "oc3eU8FOjM",
-        "title": "Всего один день",
-        "author": "Г.Форман",
-        "notes": "",
-        "createdAt": "2017-01-03 19:15:30",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 7
         }
     }
 }
