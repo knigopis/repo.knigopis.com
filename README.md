@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
+    > перечитывала в 2016
+
 * Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
     > не дочитала
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > перечитывала в 2012
 
 * Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
-    > http://militera.lib.ru/memo/russian/altunin_at/index.html
 
 * Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
 
-* Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup> 
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>68</sup> 
 
 
-_08.01.2017 10:10:47_
+_08.01.2017 10:11:26_
