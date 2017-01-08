@@ -1,4 +1,16 @@
 {
+    "13OMlKCkEM": {
+        "id": "13OMlKCkEM",
+        "title": "100+ практических хаков для интернет-маркетологов",
+        "author": "Евгения Крюкова",
+        "notes": "",
+        "createdAt": "2017-01-08 13:44:03",
+        "user": {
+            "id": "104993798183193187530-google",
+            "nickname": "sk379",
+            "booksCount": 1
+        }
+    },
     "jciX7RYBXT": {
         "id": "jciX7RYBXT",
         "title": "Ночной поезд на Лиссабон",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 88
-        }
-    },
-    "o0F8Doy3bQ": {
-        "id": "o0F8Doy3bQ",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Дж. К. Ролинг",
-        "notes": "",
-        "createdAt": "2017-01-05 12:04:24",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 23
         }
     }
 }
