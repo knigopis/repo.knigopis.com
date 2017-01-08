@@ -1,4 +1,16 @@
 {
+    "qSNVTjBPB5": {
+        "id": "qSNVTjBPB5",
+        "title": "Преступление и наказание",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2017-01-08 10:08:04",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 2
+        }
+    },
     "GcQIbWQWMN": {
         "id": "GcQIbWQWMN",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 235
-        }
-    },
-    "aa_XJ2gciR": {
-        "id": "aa_XJ2gciR",
-        "title": "Любовник смерти",
-        "author": "Борис Акунин",
-        "notes": "5/10",
-        "createdAt": "2017-01-02 21:50:52",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 65
         }
     }
 }
