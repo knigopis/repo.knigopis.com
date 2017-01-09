@@ -1,4 +1,16 @@
 {
+    "o3ji97BsW8": {
+        "id": "o3ji97BsW8",
+        "title": "Двадцать лет спустя",
+        "author": "Александр Дюма",
+        "notes": "2-я книга о Трех Мушкетерах.",
+        "createdAt": "2017-01-09 06:59:06",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 3
+        }
+    },
     "kwkpqZwLAD": {
         "id": "kwkpqZwLAD",
         "title": "Три мушкетера",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 2
-        }
-    },
-    "GcQIbWQWMN": {
-        "id": "GcQIbWQWMN",
-        "title": "Одиночество в сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2017-01-08 10:07:28",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 1
         }
     }
 }
