@@ -1,4 +1,4 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>14</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>15</sup>
 ---
 
 ## 2017
@@ -59,6 +59,11 @@
 
 
 ## 2015
+
+### Огненный Патруль
+Алекс Кош
+> [2015-05-01] 
+
 
 ### Огненный Факультет
 Алекс Кош

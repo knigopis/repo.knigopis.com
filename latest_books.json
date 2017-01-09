@@ -1,4 +1,16 @@
 {
+    "_bmppw0STD": {
+        "id": "_bmppw0STD",
+        "title": "Огненный Патруль",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2017-01-09 10:05:55",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 15
+        }
+    },
     "VMq7lDldJz": {
         "id": "VMq7lDldJz",
         "title": "Огненный Факультет",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 16
-        }
-    },
-    "oci8rkb6W7": {
-        "id": "oci8rkb6W7",
-        "title": "Сын волка",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-01-08 10:14:12",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 15
         }
     }
 }
