@@ -1,4 +1,16 @@
 {
+    "VPBP2qmcIM": {
+        "id": "VPBP2qmcIM",
+        "title": "Меч без имени",
+        "author": "Андрей Белянин",
+        "notes": "1-ая книга из серии Меч без имени\nвосхитительная серия книг",
+        "createdAt": "2017-01-09 09:54:31",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 10
+        }
+    },
     "NWXz-NT368": {
         "id": "NWXz-NT368",
         "title": "Мёртвые души",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 11
-        }
-    },
-    "JJaBuwhOWH": {
-        "id": "JJaBuwhOWH",
-        "title": "Украина. Хаос и революция — оружие доллара",
-        "author": "Стариков Николай Викторович",
-        "notes": "",
-        "createdAt": "2017-01-08 10:12:48",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 10
         }
     }
 }
