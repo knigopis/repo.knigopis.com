@@ -1,4 +1,16 @@
 {
+    "IMjQYnW3iQ": {
+        "id": "IMjQYnW3iQ",
+        "title": "Свирепый ландграф",
+        "author": "Андрей Белянин",
+        "notes": "2-ая книга из серии Меч без имени\nвосхитительная серия книг",
+        "createdAt": "2017-01-09 09:55:07",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 11
+        }
+    },
     "VPBP2qmcIM": {
         "id": "VPBP2qmcIM",
         "title": "Меч без имени",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 12
-        }
-    },
-    "8L_d9LQ-Rd": {
-        "id": "8L_d9LQ-Rd",
-        "title": "Шерше ля нефть. Почему наш Стабилизационный фонд находится там?",
-        "author": "Стариков Николай Викторович",
-        "notes": "",
-        "createdAt": "2017-01-08 10:13:12",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 11
         }
     }
 }
