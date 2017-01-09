@@ -1,4 +1,10 @@
 {
+    "1367562056650260-facebook": {
+        "id": "1367562056650260-facebook",
+        "nickname": "Ромашка 8000",
+        "booksCount": 0,
+        "updatedAt": "2017-01-09 18:24:33"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 40,
         "updatedAt": "2017-01-03 17:40:15"
-    },
-    "297276114-vkontakte": {
-        "id": "297276114-vkontakte",
-        "nickname": "alexeymasyukov",
-        "booksCount": 0,
-        "updatedAt": "2017-01-03 15:06:36"
     }
 }
