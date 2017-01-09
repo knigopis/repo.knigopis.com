@@ -1,4 +1,16 @@
 {
+    "Sk3877J2J9": {
+        "id": "Sk3877J2J9",
+        "title": "Цикл книг ДОЗОРЫ",
+        "author": "Сергей Лукьяненко",
+        "notes": "Дневной, Ночной, Сумеречный дозоры.\nОчень хорошие книги. Не зря по ним делали экранизации.",
+        "createdAt": "2017-01-09 11:17:12",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 24
+        }
+    },
     "fVSIDjtNdn": {
         "id": "fVSIDjtNdn",
         "title": "Похождения Стальной крысы",
@@ -345,18 +357,6 @@
             "id": "104993798183193187530-google",
             "nickname": "sk379",
             "booksCount": 1
-        }
-    },
-    "jciX7RYBXT": {
-        "id": "jciX7RYBXT",
-        "title": "Ночной поезд на Лиссабон",
-        "author": "Паскаль Мерсье",
-        "notes": "",
-        "createdAt": "2017-01-08 10:24:31",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 24
         }
     }
 }
