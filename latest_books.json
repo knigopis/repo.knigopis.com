@@ -1,4 +1,16 @@
 {
+    "oQr4l91OpC": {
+        "id": "oQr4l91OpC",
+        "title": "Острів скарбів",
+        "author": "Роберт Стівенсон",
+        "notes": "",
+        "createdAt": "2017-01-09 18:54:36",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 21
+        }
+    },
     "xn0aRcTnij": {
         "id": "xn0aRcTnij",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 23
-        }
-    },
-    "yQ-0KGvBNB": {
-        "id": "yQ-0KGvBNB",
-        "title": "Кое что о Билли",
-        "author": "Дуги Бримсон",
-        "notes": "Шикарная, позитивная книга. Про парня неудачника у которого все в жизни получилось. Приятный юмор. Очень лайтово зашло.",
-        "createdAt": "2017-01-09 11:10:34",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 22
         }
     }
 }
