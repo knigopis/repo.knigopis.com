@@ -1,4 +1,16 @@
 {
+    "fVSIDjtNdn": {
+        "id": "fVSIDjtNdn",
+        "title": "Похождения Стальной крысы",
+        "author": "Гарри Гаррисон",
+        "notes": "О это интереснейшие книги о семье гениального вора, который постоянно попадал в передряги межгалактического масштаба и всегда выходил из них красиво, логично и аккуратно.\nШедевральная серия книг из 4 штук. Очень рекомендую к прочтению.",
+        "createdAt": "2017-01-09 11:13:24",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 23
+        }
+    },
     "yQ-0KGvBNB": {
         "id": "yQ-0KGvBNB",
         "title": "Кое что о Билли",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 24
-        }
-    },
-    "zYqvuRpXoc": {
-        "id": "zYqvuRpXoc",
-        "title": "Война и мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2017-01-08 10:24:07",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 23
         }
     }
 }
