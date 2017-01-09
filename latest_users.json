@@ -1,4 +1,10 @@
 {
+    "10208387701954019-facebook": {
+        "id": "10208387701954019-facebook",
+        "nickname": "AlenaSummer",
+        "booksCount": 0,
+        "updatedAt": "2017-01-09 12:15:36"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "alexeymasyukov",
         "booksCount": 0,
         "updatedAt": "2017-01-03 15:06:36"
-    },
-    "113033184709492089410-google": {
-        "id": "113033184709492089410-google",
-        "nickname": "aglovlyuk",
-        "booksCount": 10,
-        "updatedAt": "2017-01-03 14:58:09"
     }
 }
