@@ -1,4 +1,16 @@
 {
+    "u5qG3IdHMc": {
+        "id": "u5qG3IdHMc",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-09 18:33:16",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 7
+        }
+    },
     "mWzBo3GURC": {
         "id": "mWzBo3GURC",
         "title": "Гаррі Поттер і келих вогню",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 9
-        }
-    },
-    "h3sXRKPdQb": {
-        "id": "h3sXRKPdQb",
-        "title": "Тошнота",
-        "author": "Жан Поль Сартр",
-        "notes": "Истина требует от человека действия во имя свободы.\nВторой раз бы читать не стал. Тошнота, вокруг тошнота, от всего тошнота.",
-        "createdAt": "2017-01-09 07:48:03",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 8
         }
     }
 }
