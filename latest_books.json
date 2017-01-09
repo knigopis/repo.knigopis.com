@@ -1,4 +1,16 @@
 {
+    "r17hOfCP9V": {
+        "id": "r17hOfCP9V",
+        "title": "Виконт де Бражелон, или Десять лет спустя",
+        "author": "Александр Дюма",
+        "notes": "3-я книга о Трех Мушкетерах",
+        "createdAt": "2017-01-09 06:59:55",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 4
+        }
+    },
     "o3ji97BsW8": {
         "id": "o3ji97BsW8",
         "title": "Двадцать лет спустя",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 4
-        }
-    },
-    "qSNVTjBPB5": {
-        "id": "qSNVTjBPB5",
-        "title": "Преступление и наказание",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-01-08 10:08:04",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 2
         }
     }
 }
