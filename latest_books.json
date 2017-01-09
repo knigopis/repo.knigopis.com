@@ -1,4 +1,16 @@
 {
+    "tjYRwT0YGT": {
+        "id": "tjYRwT0YGT",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-09 10:16:18",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 18
+        }
+    },
     "bg-wYJpdJd": {
         "id": "bg-wYJpdJd",
         "title": "Огненный Легион",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 19
-        }
-    },
-    "1R3xKIUQ_H": {
-        "id": "1R3xKIUQ_H",
-        "title": "Мой голос останется с вами",
-        "author": "Милтон Эриксон",
-        "notes": "",
-        "createdAt": "2017-01-08 10:15:30",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 18
         }
     }
 }
