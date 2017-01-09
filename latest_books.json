@@ -1,4 +1,16 @@
 {
+    "IKLa6NPBOt": {
+        "id": "IKLa6NPBOt",
+        "title": "Гордость и Предубеждение",
+        "author": "Джей Остин",
+        "notes": "Восхитительная книга. Экранизация этой книги с Кирай Найтли просто шикарная.",
+        "createdAt": "2017-01-09 11:01:25",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 21
+        }
+    },
     "3YXzH2WYXm": {
         "id": "3YXzH2WYXm",
         "title": "«Предпринимательский миф»",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 22
-        }
-    },
-    "Mx4ncTTyoP": {
-        "id": "Mx4ncTTyoP",
-        "title": "Уцелевший",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-01-08 10:16:12",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 21
         }
     }
 }
