@@ -1,4 +1,16 @@
 {
+    "DPZ-0TtiGl": {
+        "id": "DPZ-0TtiGl",
+        "title": "Белая гвардия",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-09 12:10:59",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 28
+        }
+    },
     "MrwKRevZDc": {
         "id": "MrwKRevZDc",
         "title": "Собачье серце",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 131
-        }
-    },
-    "z_4oPdkBCR": {
-        "id": "z_4oPdkBCR",
-        "title": "Dream Team. Как создать команду мечты",
-        "author": "Синякин Олег",
-        "notes": "",
-        "createdAt": "2017-01-08 13:49:20",
-        "user": {
-            "id": "104993798183193187530-google",
-            "nickname": "sk379",
-            "booksCount": 4
         }
     }
 }

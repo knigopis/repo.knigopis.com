@@ -1,4 +1,4 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>27</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>28</sup>
 ---
 
 ## 2017
@@ -129,6 +129,11 @@
 
 
 ## 2012
+
+### Белая гвардия
+Михаил Булгаков
+> [2012-04-01] 
+
 
 ### Собачье серце
 Михаил Булгаков
