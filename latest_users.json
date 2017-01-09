@@ -1,4 +1,10 @@
 {
+    "73529875-vkontakte": {
+        "id": "73529875-vkontakte",
+        "nickname": "Татьяна",
+        "booksCount": 0,
+        "updatedAt": "2017-01-09 11:47:57"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "aglovlyuk",
         "booksCount": 10,
         "updatedAt": "2017-01-03 14:58:09"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 44,
-        "updatedAt": "2017-01-03 11:45:06"
     }
 }
