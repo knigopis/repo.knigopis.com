@@ -1,7 +1,11 @@
-# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>5</sup>
+# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>6</sup>
 ---
 
 ## 2016
+
+### Гаррі Поттер і келих вогню
+Джоан Роулінг
+
 
 ### Гаррі Поттер і в'язень Азкабану
 Джоан Роулінг
