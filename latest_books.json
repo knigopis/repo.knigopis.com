@@ -1,4 +1,16 @@
 {
+    "NWXz-NT368": {
+        "id": "NWXz-NT368",
+        "title": "Мёртвые души",
+        "author": "Николай Васильевич Гоголь",
+        "notes": "Наконец-то я прочел это школьное произведение.\nСтиль написания для меня тяжел, основная мысль произведения шедевральна! :)",
+        "createdAt": "2017-01-09 07:57:01",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 9
+        }
+    },
     "h3sXRKPdQb": {
         "id": "h3sXRKPdQb",
         "title": "Тошнота",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 10
-        }
-    },
-    "lijfMFcPdZ": {
-        "id": "lijfMFcPdZ",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2017-01-08 10:12:19",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 9
         }
     }
 }
