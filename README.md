@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlenaSummer](users/102/10208387701954019-facebook)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>28</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>0</sup> 
 [sparoff](users/116/1165375013501175-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_vaha](users/876/87639392-vkontakte)<sup>11</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>40</sup> 
 [alexeymasyukov](users/297/297276114-vkontakte)<sup>0</sup> 
-[aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 
 
-_09.01.2017 12:10:59_
+_09.01.2017 12:15:37_
