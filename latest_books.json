@@ -1,4 +1,16 @@
 {
+    "kwkpqZwLAD": {
+        "id": "kwkpqZwLAD",
+        "title": "Три мушкетера",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-01-09 06:58:34",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 2
+        }
+    },
     "GMyRk69eLN": {
         "id": "GMyRk69eLN",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 1
-        }
-    },
-    "hqkMVNziVw": {
-        "id": "hqkMVNziVw",
-        "title": "Я была на войне",
-        "author": "Матвеева Мария Ивановна",
-        "notes": "http://militera.lib.ru/memo/russian/altunin_at/index.html",
-        "createdAt": "2017-01-07 12:21:57",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 30
         }
     }
 }
