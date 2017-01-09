@@ -1,4 +1,16 @@
 {
+    "u7z2cIB1Zw": {
+        "id": "u7z2cIB1Zw",
+        "title": "Гаррі Поттер і Орден Фенікса",
+        "author": "Джоан Роулінг",
+        "notes": "",
+        "createdAt": "2017-01-09 18:33:45",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 8
+        }
+    },
     "u5qG3IdHMc": {
         "id": "u5qG3IdHMc",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 10
-        }
-    },
-    "NWXz-NT368": {
-        "id": "NWXz-NT368",
-        "title": "Мёртвые души",
-        "author": "Николай Васильевич Гоголь",
-        "notes": "Наконец-то я прочел это школьное произведение.\nСтиль написания для меня тяжел, основная мысль произведения шедевральна! :)",
-        "createdAt": "2017-01-09 07:57:01",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 9
         }
     }
 }
