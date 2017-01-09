@@ -1,4 +1,16 @@
 {
+    "cAqzydNR9e": {
+        "id": "cAqzydNR9e",
+        "title": "Буремний перевал",
+        "author": "Емілі Бронте",
+        "notes": "",
+        "createdAt": "2017-01-09 18:44:40",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 16
+        }
+    },
     "qh7MFVORPU": {
         "id": "qh7MFVORPU",
         "title": "Великі сподівання",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 18
-        }
-    },
-    "bg-wYJpdJd": {
-        "id": "bg-wYJpdJd",
-        "title": "Огненный Легион",
-        "author": "Алекс Кош",
-        "notes": "",
-        "createdAt": "2017-01-09 10:06:26",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 17
         }
     }
 }
