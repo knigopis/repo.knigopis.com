@@ -1,4 +1,16 @@
 {
+    "i-jiOGoxfN": {
+        "id": "i-jiOGoxfN",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Екзюпері",
+        "notes": "",
+        "createdAt": "2017-01-09 18:53:16",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 19
+        }
+    },
     "_tEhdQ0qG2": {
         "id": "_tEhdQ0qG2",
         "title": "Алхімік",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 21
-        }
-    },
-    "3YXzH2WYXm": {
-        "id": "3YXzH2WYXm",
-        "title": "«Предпринимательский миф»",
-        "author": "Майкл Гербер",
-        "notes": "Мотивирующая, хорошая книга, хорошие пояснения как и что нужно делать.",
-        "createdAt": "2017-01-09 10:37:31",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 20
         }
     }
 }

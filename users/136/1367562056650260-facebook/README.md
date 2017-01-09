@@ -1,4 +1,4 @@
-# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>18</sup>
+# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>19</sup>
 ---
 
 ## 2017
@@ -72,6 +72,13 @@
 
 ### 100 років самотності
 Габрієль Гарсія Маркес
+
+
+
+## 2007
+
+### Маленький принц
+Антуан де Сент-Екзюпері
 
 
 
