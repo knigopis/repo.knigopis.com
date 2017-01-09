@@ -1,4 +1,16 @@
 {
+    "MrwKRevZDc": {
+        "id": "MrwKRevZDc",
+        "title": "Собачье серце",
+        "author": "Михаил Булгаков",
+        "notes": "Это произведение стоит того, чтобы его прочесть или хотя бы посмотреть экранизацию.",
+        "createdAt": "2017-01-09 12:10:40",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 27
+        }
+    },
     "ugnht9F7B3": {
         "id": "ugnht9F7B3",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "104993798183193187530-google",
             "nickname": "sk379",
             "booksCount": 4
-        }
-    },
-    "RqgcKeqZdm": {
-        "id": "RqgcKeqZdm",
-        "title": "Номер 1. Как стать лучшим в том, что ты делаешь",
-        "author": "Игорь Манн",
-        "notes": "",
-        "createdAt": "2017-01-08 13:47:12",
-        "user": {
-            "id": "104993798183193187530-google",
-            "nickname": "sk379",
-            "booksCount": 3
         }
     }
 }

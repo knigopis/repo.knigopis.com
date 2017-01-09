@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>26</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>27</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>0</sup> 
 [sparoff](users/116/1165375013501175-facebook)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>131</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aglovlyuk](users/113/113033184709492089410-google)<sup>10</sup> 
 
 
-_09.01.2017 12:06:44_
+_09.01.2017 12:10:40_
