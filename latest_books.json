@@ -1,4 +1,16 @@
 {
+    "PdAd0OYtRt": {
+        "id": "PdAd0OYtRt",
+        "title": "Лоліта",
+        "author": "Володимир Набоков",
+        "notes": "",
+        "createdAt": "2017-01-09 18:37:38",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 12
+        }
+    },
     "teLqnScZsn": {
         "id": "teLqnScZsn",
         "title": "100 років самотності",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 14
-        }
-    },
-    "EeocTWv0Ov": {
-        "id": "EeocTWv0Ov",
-        "title": "Меч Без Имени. Свирепый ландграф. Век святого Скиминока.",
-        "author": "Андей Белянин",
-        "notes": "4-я книга из серии Меч без имени",
-        "createdAt": "2017-01-09 09:56:01",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 13
         }
     }
 }
