@@ -1,4 +1,16 @@
 {
+    "h3sXRKPdQb": {
+        "id": "h3sXRKPdQb",
+        "title": "Тошнота",
+        "author": "Жан Поль Сартр",
+        "notes": "Истина требует от человека действия во имя свободы.\nВторой раз бы читать не стал. Тошнота, вокруг тошнота, от всего тошнота.",
+        "createdAt": "2017-01-09 07:48:03",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 8
+        }
+    },
     "iIW_9tOzxE": {
         "id": "iIW_9tOzxE",
         "title": "Сорок пять",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 9
-        }
-    },
-    "y1EdHwd83I": {
-        "id": "y1EdHwd83I",
-        "title": "Шантарам",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "",
-        "createdAt": "2017-01-08 10:12:02",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 8
         }
     }
 }
