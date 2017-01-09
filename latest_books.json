@@ -1,4 +1,16 @@
 {
+    "a-qqZxFqNU": {
+        "id": "a-qqZxFqNU",
+        "title": "Гарри Поттер",
+        "author": "Джоан Роулинг",
+        "notes": "5 книг",
+        "createdAt": "2017-01-09 10:21:32",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 19
+        }
+    },
     "tjYRwT0YGT": {
         "id": "tjYRwT0YGT",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 20
-        }
-    },
-    "DM5--MCPIc": {
-        "id": "DM5--MCPIc",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Дуглас Брэдбери",
-        "notes": "",
-        "createdAt": "2017-01-08 10:15:48",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 19
         }
     }
 }
