@@ -1,4 +1,16 @@
 {
+    "GMyRk69eLN": {
+        "id": "GMyRk69eLN",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Хорошая книга, очень достоверно передает простые людские чувства и сомнения.",
+        "createdAt": "2017-01-09 06:42:50",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 1
+        }
+    },
     "1ytzG3n3bt": {
         "id": "1ytzG3n3bt",
         "title": "Остров и окрестные рассказы",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 30
-        }
-    },
-    "hEC_NGdRBJ": {
-        "id": "hEC_NGdRBJ",
-        "title": "Systematic Trading",
-        "author": "Robert Carver",
-        "notes": "ISBN 9780857194459",
-        "createdAt": "2017-01-07 12:19:48",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 29
         }
     }
 }

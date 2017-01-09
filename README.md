@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>1</sup> 
 [sparoff](users/116/1165375013501175-facebook)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>131</sup> 
 [Krivzha](users/172/1729223597304810-facebook)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [devidin9](users/170/170170925-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>24</sup> 
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>44</sup> 
 
 
-_08.01.2017 19:26:47_
+_09.01.2017 06:42:50_

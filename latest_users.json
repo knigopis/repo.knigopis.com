@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 1,
+        "updatedAt": "2017-01-09 06:42:50"
+    },
     "1165375013501175-facebook": {
         "id": "1165375013501175-facebook",
         "nickname": "sparoff",
@@ -40,12 +46,6 @@
         "nickname": "Maria",
         "booksCount": 0,
         "updatedAt": "2017-01-07 18:03:38"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 0,
-        "updatedAt": "2017-01-07 14:34:40"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
