@@ -1,4 +1,16 @@
 {
+    "3YXzH2WYXm": {
+        "id": "3YXzH2WYXm",
+        "title": "«Предпринимательский миф»",
+        "author": "Майкл Гербер",
+        "notes": "Мотивирующая, хорошая книга, хорошие пояснения как и что нужно делать.",
+        "createdAt": "2017-01-09 10:37:31",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 20
+        }
+    },
     "a-qqZxFqNU": {
         "id": "a-qqZxFqNU",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 21
-        }
-    },
-    "hl8NGZwoER": {
-        "id": "hl8NGZwoER",
-        "title": "Малек",
-        "author": "Джон ван де Рюит",
-        "notes": "",
-        "createdAt": "2017-01-08 10:16:00",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 20
         }
     }
 }
