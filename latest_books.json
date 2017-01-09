@@ -1,4 +1,16 @@
 {
+    "nKw0H59jUy": {
+        "id": "nKw0H59jUy",
+        "title": "Гаррі Поттер і напівкровний Принц",
+        "author": "Джоан Роулінг",
+        "notes": "",
+        "createdAt": "2017-01-09 18:34:04",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 9
+        }
+    },
     "u7z2cIB1Zw": {
         "id": "u7z2cIB1Zw",
         "title": "Гаррі Поттер і Орден Фенікса",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 11
-        }
-    },
-    "VPBP2qmcIM": {
-        "id": "VPBP2qmcIM",
-        "title": "Меч без имени",
-        "author": "Андрей Белянин",
-        "notes": "1-ая книга из серии Меч без имени\nвосхитительная серия книг",
-        "createdAt": "2017-01-09 09:54:31",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 10
         }
     }
 }

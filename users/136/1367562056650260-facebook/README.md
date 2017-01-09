@@ -1,4 +1,4 @@
-# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>8</sup>
+# List of books read by [Ромашка 8000](https://www.facebook.com/app_scoped_user_id/1367562056650260/)<sup>9</sup>
 ---
 
 ## 2017
@@ -7,6 +7,10 @@
 
 
 ## 2016
+
+### Гаррі Поттер і напівкровний Принц
+Джоан Роулінг
+
 
 ### Гаррі Поттер і Орден Фенікса
 Джоан Роулінг
