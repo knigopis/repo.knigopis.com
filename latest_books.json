@@ -1,4 +1,16 @@
 {
+    "xn0aRcTnij": {
+        "id": "xn0aRcTnij",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-09 18:53:51",
+        "user": {
+            "id": "1367562056650260-facebook",
+            "nickname": "Ромашка 8000",
+            "booksCount": 20
+        }
+    },
     "i-jiOGoxfN": {
         "id": "i-jiOGoxfN",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 22
-        }
-    },
-    "IKLa6NPBOt": {
-        "id": "IKLa6NPBOt",
-        "title": "Гордость и Предубеждение",
-        "author": "Джей Остин",
-        "notes": "Восхитительная книга. Экранизация этой книги с Кирай Найтли просто шикарная.",
-        "createdAt": "2017-01-09 11:01:25",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 21
         }
     }
 }
