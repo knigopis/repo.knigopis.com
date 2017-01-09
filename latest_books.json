@@ -1,4 +1,16 @@
 {
+    "yQ-0KGvBNB": {
+        "id": "yQ-0KGvBNB",
+        "title": "Кое что о Билли",
+        "author": "Дуги Бримсон",
+        "notes": "Шикарная, позитивная книга. Про парня неудачника у которого все в жизни получилось. Приятный юмор. Очень лайтово зашло.",
+        "createdAt": "2017-01-09 11:10:34",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 22
+        }
+    },
     "IKLa6NPBOt": {
         "id": "IKLa6NPBOt",
         "title": "Гордость и Предубеждение",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 23
-        }
-    },
-    "dy-XhEogqW": {
-        "id": "dy-XhEogqW",
-        "title": "Девушка в поезде",
-        "author": "Пола Хокинс",
-        "notes": "",
-        "createdAt": "2017-01-08 10:16:26",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 22
         }
     }
 }
