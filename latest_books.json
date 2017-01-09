@@ -1,4 +1,16 @@
 {
+    "EeocTWv0Ov": {
+        "id": "EeocTWv0Ov",
+        "title": "Меч Без Имени. Свирепый ландграф. Век святого Скиминока.",
+        "author": "Андей Белянин",
+        "notes": "4-я книга из серии Меч без имени",
+        "createdAt": "2017-01-09 09:56:01",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 13
+        }
+    },
     "1Z8hpQR-CS": {
         "id": "1Z8hpQR-CS",
         "title": "Век святого Скиминока",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 14
-        }
-    },
-    "9bnqtNXQ-T": {
-        "id": "9bnqtNXQ-T",
-        "title": "Смерительная рубашка",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-01-08 10:13:57",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 13
         }
     }
 }
