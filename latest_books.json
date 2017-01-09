@@ -1,4 +1,16 @@
 {
+    "VMq7lDldJz": {
+        "id": "VMq7lDldJz",
+        "title": "Огненный Факультет",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2017-01-09 10:05:40",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 14
+        }
+    },
     "EeocTWv0Ov": {
         "id": "EeocTWv0Ov",
         "title": "Меч Без Имени. Свирепый ландграф. Век святого Скиминока.",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 15
-        }
-    },
-    "eZ_WYWoqla": {
-        "id": "eZ_WYWoqla",
-        "title": "Белый клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-01-08 10:14:05",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 14
         }
     }
 }
