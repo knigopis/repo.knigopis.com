@@ -1,4 +1,4 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>16</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>17</sup>
 ---
 
 ## 2017
@@ -59,6 +59,11 @@
 
 
 ## 2015
+
+### Огненный Легион
+Алекс Кош
+> [2015-07-01] 
+
 
 ### Огненный Орден
 Алекс Кош

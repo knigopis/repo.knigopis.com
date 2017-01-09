@@ -1,4 +1,16 @@
 {
+    "bg-wYJpdJd": {
+        "id": "bg-wYJpdJd",
+        "title": "Огненный Легион",
+        "author": "Алекс Кош",
+        "notes": "",
+        "createdAt": "2017-01-09 10:06:26",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 17
+        }
+    },
     "OkeR3wruEm": {
         "id": "OkeR3wruEm",
         "title": "Огненный Орден",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 18
-        }
-    },
-    "YL7Kel6dVH": {
-        "id": "YL7Kel6dVH",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-01-08 10:15:03",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 17
         }
     }
 }
