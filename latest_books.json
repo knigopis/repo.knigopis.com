@@ -1,4 +1,16 @@
 {
+    "jfuMvTzhYi": {
+        "id": "jfuMvTzhYi",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "В мире настало время, когда книги начинают массово сжигать и наказывают каждого, у кого есть книги или кто читает их. Заставляет задуматься.",
+        "createdAt": "2017-01-09 17:29:51",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 32
+        }
+    },
     "vcXvDHOclg": {
         "id": "vcXvDHOclg",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 2
-        }
-    },
-    "GMyRk69eLN": {
-        "id": "GMyRk69eLN",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Хорошая книга, очень достоверно передает простые людские чувства и сомнения.",
-        "createdAt": "2017-01-09 06:42:50",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 1
         }
     }
 }
