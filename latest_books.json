@@ -1,4 +1,16 @@
 {
+    "bmx-A1aiH2": {
+        "id": "bmx-A1aiH2",
+        "title": "Гарри Поттер и тайная комната",
+        "author": "Дж. К. Роулинг",
+        "notes": "",
+        "createdAt": "2017-01-10 12:39:36",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 24
+        }
+    },
     "ftZPoegH28": {
         "id": "ftZPoegH28",
         "title": "Парфюмер",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 25
-        }
-    },
-    "Sk3877J2J9": {
-        "id": "Sk3877J2J9",
-        "title": "Цикл книг ДОЗОРЫ",
-        "author": "Сергей Лукьяненко",
-        "notes": "Дневной, Ночной, Сумеречный дозоры.\nОчень хорошие книги. Не зря по ним делали экранизации.",
-        "createdAt": "2017-01-09 11:17:12",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 24
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>24</sup> 
 [v.mitus](users/385/385169253-vkontakte)<sup>0</sup> 
 [Ромашка 8000](users/136/1367562056650260-facebook)<sup>22</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>32</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Наталия Подкорчук](users/113/11351324622008775173-mailru)<sup>0</sup> 
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>23</sup> 
 [Srk.mqa](users/114/114601129347390867268-google)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>3</sup> 
 [sophiedes](users/388/388431793-vkontakte)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>11</sup> 
 
 
-_09.01.2017 19:11:55_
+_10.01.2017 12:39:36_

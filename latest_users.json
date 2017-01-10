@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 24,
+        "updatedAt": "2017-01-10 12:39:36"
+    },
     "385169253-vkontakte": {
         "id": "385169253-vkontakte",
         "nickname": "v.mitus",
@@ -148,12 +154,6 @@
         "nickname": "audiobook",
         "booksCount": 0,
         "updatedAt": "2017-01-05 13:49:20"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 23,
-        "updatedAt": "2017-01-05 12:04:25"
     },
     "114601129347390867268-google": {
         "id": "114601129347390867268-google",
