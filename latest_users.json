@@ -1,4 +1,10 @@
 {
+    "1093110572-instagram": {
+        "id": "1093110572-instagram",
+        "nickname": "spiridonov_nikita",
+        "booksCount": 0,
+        "updatedAt": "2017-01-10 16:25:15"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "sophiedes",
         "booksCount": 0,
         "updatedAt": "2017-01-04 10:52:48"
-    },
-    "87639392-vkontakte": {
-        "id": "87639392-vkontakte",
-        "nickname": "veronika_vaha",
-        "booksCount": 11,
-        "updatedAt": "2017-01-03 20:40:42"
     }
 }
