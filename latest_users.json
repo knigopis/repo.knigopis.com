@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 33,
+        "updatedAt": "2017-01-10 12:43:44"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -16,12 +22,6 @@
         "nickname": "Ромашка 8000",
         "booksCount": 22,
         "updatedAt": "2017-01-09 18:55:00"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 32,
-        "updatedAt": "2017-01-09 17:29:51"
     },
     "10208387701954019-facebook": {
         "id": "10208387701954019-facebook",
