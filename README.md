@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[spiridonov_nikita](users/109/1093110572-instagram)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>33</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>24</sup> 
 [v.mitus](users/385/385169253-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Srk.mqa](users/114/114601129347390867268-google)<sup>0</sup> 
 [d.molokoedova](users/152/152183909-vkontakte)<sup>3</sup> 
 [sophiedes](users/388/388431793-vkontakte)<sup>0</sup> 
-[veronika_vaha](users/876/87639392-vkontakte)<sup>11</sup> 
 
 
-_10.01.2017 12:43:44_
+_10.01.2017 16:25:18_
