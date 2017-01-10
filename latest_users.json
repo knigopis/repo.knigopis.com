@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 18,
+        "updatedAt": "2017-01-10 22:07:31"
+    },
     "1093110572-instagram": {
         "id": "1093110572-instagram",
         "nickname": "spiridonov_nikita",
@@ -172,11 +178,5 @@
         "nickname": "d.molokoedova",
         "booksCount": 3,
         "updatedAt": "2017-01-04 18:59:52"
-    },
-    "388431793-vkontakte": {
-        "id": "388431793-vkontakte",
-        "nickname": "sophiedes",
-        "booksCount": 0,
-        "updatedAt": "2017-01-04 10:52:48"
     }
 }
