@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[m.sonova](users/134/134457249-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>18</sup> 
 [spiridonov_nikita](users/109/1093110572-instagram)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>33</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 [audiobook](users/105/105085389727031650221-google)<sup>0</sup> 
 [Srk.mqa](users/114/114601129347390867268-google)<sup>0</sup> 
-[d.molokoedova](users/152/152183909-vkontakte)<sup>3</sup> 
 
 
-_10.01.2017 22:07:31_
+_11.01.2017 08:26:52_
