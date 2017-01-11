@@ -1,4 +1,10 @@
 {
+    "1098444656949378-facebook": {
+        "id": "1098444656949378-facebook",
+        "nickname": "mokko",
+        "booksCount": 0,
+        "updatedAt": "2017-01-11 12:46:28"
+    },
     "134457249-vkontakte": {
         "id": "134457249-vkontakte",
         "nickname": "m.sonova",
@@ -172,11 +178,5 @@
         "nickname": "audiobook",
         "booksCount": 0,
         "updatedAt": "2017-01-05 13:49:20"
-    },
-    "114601129347390867268-google": {
-        "id": "114601129347390867268-google",
-        "nickname": "Srk.mqa",
-        "booksCount": 0,
-        "updatedAt": "2017-01-05 09:55:11"
     }
 }
