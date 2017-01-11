@@ -1,4 +1,4 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>36</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>37</sup>
 ---
 
 ## 2017
@@ -230,6 +230,11 @@
 
 
 ## 2003
+
+### Спартак
+Раффаэлло Джованьолли
+> [2003-03-01] 
+
 
 ### Властелин колец
 Джон Толкин
