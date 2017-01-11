@@ -1,4 +1,10 @@
 {
+    "1139361566180442-facebook": {
+        "id": "1139361566180442-facebook",
+        "nickname": "Audacieux",
+        "booksCount": 0,
+        "updatedAt": "2017-01-11 20:07:04"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Наталия Подкорчук",
         "booksCount": 0,
         "updatedAt": "2017-01-05 18:34:48"
-    },
-    "4010120070146719222-mailru": {
-        "id": "4010120070146719222-mailru",
-        "nickname": "Elenium",
-        "booksCount": 0,
-        "updatedAt": "2017-01-05 15:19:12"
     }
 }
