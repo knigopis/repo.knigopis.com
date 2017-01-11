@@ -1,4 +1,16 @@
 {
+    "EMXbfhqbi_": {
+        "id": "EMXbfhqbi_",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2017-01-11 18:52:58",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 39
+        }
+    },
     "ZmbXqhXgrZ": {
         "id": "ZmbXqhXgrZ",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 4
-        }
-    },
-    "CfU1umseca": {
-        "id": "CfU1umseca",
-        "title": "Гаррі Поттер і філософський камінь",
-        "author": "Джоан Роулінг",
-        "notes": "",
-        "createdAt": "2017-01-09 18:31:39",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 3
         }
     }
 }

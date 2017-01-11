@@ -52,7 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>38</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>39</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 [mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
 [m.sonova](users/134/134457249-vkontakte)<sup>0</sup> 
@@ -84,4 +84,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 
 
-_11.01.2017 18:45:42_
+_11.01.2017 18:52:58_
