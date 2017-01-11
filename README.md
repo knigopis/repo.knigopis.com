@@ -52,12 +52,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>34</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 [mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
 [m.sonova](users/134/134457249-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>18</sup> 
 [spiridonov_nikita](users/109/1093110572-instagram)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>33</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>24</sup> 
 [v.mitus](users/385/385169253-vkontakte)<sup>0</sup> 
 [Ромашка 8000](users/136/1367562056650260-facebook)<sup>22</sup> 
@@ -84,4 +84,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Elenium](users/401/4010120070146719222-mailru)<sup>0</sup> 
 
 
-_11.01.2017 16:51:18_
+_11.01.2017 18:39:46_

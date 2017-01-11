@@ -1,4 +1,16 @@
 {
+    "EibNbhKCRT": {
+        "id": "EibNbhKCRT",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-01-11 18:39:46",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 34
+        }
+    },
     "I7xCBvCF13": {
         "id": "I7xCBvCF13",
         "title": "Тургенев",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 31
-        }
-    },
-    "LMcvOXP1E7": {
-        "id": "LMcvOXP1E7",
-        "title": "Дьяволиада",
-        "author": "Михаил Булгаков",
-        "notes": "Странное произведение.",
-        "createdAt": "2017-01-09 12:41:19",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 30
         }
     }
 }

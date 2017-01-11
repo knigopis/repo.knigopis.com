@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 34,
+        "updatedAt": "2017-01-11 18:39:46"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -28,12 +34,6 @@
         "nickname": "spiridonov_nikita",
         "booksCount": 0,
         "updatedAt": "2017-01-10 16:25:41"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 33,
-        "updatedAt": "2017-01-10 12:43:44"
     },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
