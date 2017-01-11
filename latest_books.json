@@ -1,4 +1,16 @@
 {
+    "emRiPkmIEA": {
+        "id": "emRiPkmIEA",
+        "title": "Властелин колец",
+        "author": "Джон Толкин",
+        "notes": "",
+        "createdAt": "2017-01-11 18:43:24",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 36
+        }
+    },
     "MKSok6fRFR": {
         "id": "MKSok6fRFR",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 1
-        }
-    },
-    "jfuMvTzhYi": {
-        "id": "jfuMvTzhYi",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "В мире настало время, когда книги начинают массово сжигать и наказывают каждого, у кого есть книги или кто читает их. Заставляет задуматься.",
-        "createdAt": "2017-01-09 17:29:51",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 32
         }
     }
 }
