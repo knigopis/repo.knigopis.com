@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 19,
+        "updatedAt": "2017-01-11 16:51:18"
+    },
     "1098444656949378-facebook": {
         "id": "1098444656949378-facebook",
         "nickname": "mokko",
@@ -172,11 +178,5 @@
         "nickname": "Elenium",
         "booksCount": 0,
         "updatedAt": "2017-01-05 15:19:12"
-    },
-    "105085389727031650221-google": {
-        "id": "105085389727031650221-google",
-        "nickname": "audiobook",
-        "booksCount": 0,
-        "updatedAt": "2017-01-05 13:49:20"
     }
 }

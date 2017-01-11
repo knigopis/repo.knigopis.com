@@ -1,4 +1,16 @@
 {
+    "I7xCBvCF13": {
+        "id": "I7xCBvCF13",
+        "title": "Тургенев",
+        "author": "Отцы и дети",
+        "notes": "",
+        "createdAt": "2017-01-11 16:51:18",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 19
+        }
+    },
     "jmcU4nRbQL": {
         "id": "jmcU4nRbQL",
         "title": "Жалость",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 30
-        }
-    },
-    "rnKlUNyaU2": {
-        "id": "rnKlUNyaU2",
-        "title": "Белая гвардия",
-        "author": "Михаил Булгаков",
-        "notes": "Тяжело зашло произведение.",
-        "createdAt": "2017-01-09 12:17:11",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 29
         }
     }
 }
