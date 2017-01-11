@@ -1,4 +1,10 @@
 {
+    "134457249-vkontakte": {
+        "id": "134457249-vkontakte",
+        "nickname": "m.sonova",
+        "booksCount": 0,
+        "updatedAt": "2017-01-11 08:26:51"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "Srk.mqa",
         "booksCount": 0,
         "updatedAt": "2017-01-05 09:55:11"
-    },
-    "152183909-vkontakte": {
-        "id": "152183909-vkontakte",
-        "nickname": "d.molokoedova",
-        "booksCount": 3,
-        "updatedAt": "2017-01-04 18:59:52"
     }
 }
