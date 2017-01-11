@@ -1,4 +1,16 @@
 {
+    "ZmbXqhXgrZ": {
+        "id": "ZmbXqhXgrZ",
+        "title": "",
+        "author": "Юрий Никитин",
+        "notes": "",
+        "createdAt": "2017-01-11 18:45:42",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 38
+        }
+    },
     "RI5vcmKQEk": {
         "id": "RI5vcmKQEk",
         "title": "Спартак",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 3
-        }
-    },
-    "eBCt27uDo8": {
-        "id": "eBCt27uDo8",
-        "title": "Код да Вінчі",
-        "author": "Ден Браун",
-        "notes": "",
-        "createdAt": "2017-01-09 18:27:43",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 2
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>37</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>38</sup>
 ---
 
 ## 2017
@@ -230,6 +230,10 @@
 
 
 ## 2003
+
+Юрий Никитин
+> [2003-04-01] 
+
 
 ### Спартак
 Раффаэлло Джованьолли
