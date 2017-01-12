@@ -1,4 +1,10 @@
 {
+    "23967662-vkontakte": {
+        "id": "23967662-vkontakte",
+        "nickname": "maria_morozova19",
+        "booksCount": 0,
+        "updatedAt": "2017-01-12 14:22:54"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 236,
         "updatedAt": "2017-01-07 12:15:05"
-    },
-    "112882224865387708202-google": {
-        "id": "112882224865387708202-google",
-        "nickname": "Owl ",
-        "booksCount": 0,
-        "updatedAt": "2017-01-07 04:11:42"
     }
 }
