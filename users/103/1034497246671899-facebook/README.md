@@ -1,5 +1,13 @@
-# List of books read by [Гандзя](https://www.facebook.com/app_scoped_user_id/1034497246671899/)<sup>5</sup>
+# List of books read by [Гандзя](https://www.facebook.com/app_scoped_user_id/1034497246671899/)<sup>6</sup>
 ---
+
+## 2017
+
+### Дім дивних дітей (432с)
+Ренсом Ріггз
+> [2017-01-10] 
+
+
 
 ## 2016
 

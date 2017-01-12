@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Гандзя](users/103/1034497246671899-facebook)<sup>6</sup> 
 [Катерина Акмайкина](users/864/8644621246977640666-mailru)<sup>0</sup> 
 [Ninked](users/100/100000146591910-facebook)<sup>0</sup> 
 [gemini_boom](users/737/73762263-vkontakte)<sup>2</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
-[lana](users/148/1486179434745329-facebook)<sup>0</sup> 
 
 
-_12.01.2017 09:56:15_
+_12.01.2017 11:28:09_

@@ -1,4 +1,10 @@
 {
+    "1034497246671899-facebook": {
+        "id": "1034497246671899-facebook",
+        "nickname": "Гандзя",
+        "booksCount": 6,
+        "updatedAt": "2017-01-12 11:28:09"
+    },
     "8644621246977640666-mailru": {
         "id": "8644621246977640666-mailru",
         "nickname": "Катерина Акмайкина",
@@ -172,11 +178,5 @@
         "nickname": "Owl ",
         "booksCount": 0,
         "updatedAt": "2017-01-07 04:11:42"
-    },
-    "1486179434745329-facebook": {
-        "id": "1486179434745329-facebook",
-        "nickname": "lana",
-        "booksCount": 0,
-        "updatedAt": "2017-01-07 00:45:40"
     }
 }
