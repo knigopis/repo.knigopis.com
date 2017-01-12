@@ -58,6 +58,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[maria_morozova19](users/239/23967662-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>19</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>6</sup> 
 [Катерина Акмайкина](users/864/8644621246977640666-mailru)<sup>0</sup> 
@@ -87,7 +88,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>236</sup> 
-[Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
 
 
-_12.01.2017 13:54:41_
+_12.01.2017 14:22:54_
