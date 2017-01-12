@@ -1,4 +1,16 @@
 {
+    "E51F3GOT2o": {
+        "id": "E51F3GOT2o",
+        "title": "Война и Мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2017-01-12 14:26:41",
+        "user": {
+            "id": "23967662-vkontakte",
+            "nickname": "maria_morozova19",
+            "booksCount": 1
+        }
+    },
     "sbCKW1bOIf": {
         "id": "sbCKW1bOIf",
         "title": "Старик",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 12
-        }
-    },
-    "teLqnScZsn": {
-        "id": "teLqnScZsn",
-        "title": "100 років самотності",
-        "author": "Габрієль Гарсія Маркес",
-        "notes": "",
-        "createdAt": "2017-01-09 18:36:42",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 11
         }
     }
 }
