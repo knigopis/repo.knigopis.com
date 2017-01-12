@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 132,
+        "updatedAt": "2017-01-12 15:04:08"
+    },
     "23967662-vkontakte": {
         "id": "23967662-vkontakte",
         "nickname": "maria_morozova19",
@@ -130,12 +136,6 @@
         "nickname": "sparoff",
         "booksCount": 1,
         "updatedAt": "2017-01-08 19:26:47"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 131,
-        "updatedAt": "2017-01-08 15:34:23"
     },
     "1729223597304810-facebook": {
         "id": "1729223597304810-facebook",
