@@ -1,4 +1,10 @@
 {
+    "100000146591910-facebook": {
+        "id": "100000146591910-facebook",
+        "nickname": "Ninked",
+        "booksCount": 0,
+        "updatedAt": "2017-01-12 07:27:41"
+    },
     "73762263-vkontakte": {
         "id": "73762263-vkontakte",
         "nickname": "gemini_boom",
@@ -172,11 +178,5 @@
         "nickname": "Loutar",
         "booksCount": 0,
         "updatedAt": "2017-01-06 23:24:38"
-    },
-    "139500216-vkontakte": {
-        "id": "139500216-vkontakte",
-        "nickname": "zh.sandra",
-        "booksCount": 0,
-        "updatedAt": "2017-01-06 19:14:53"
     }
 }
