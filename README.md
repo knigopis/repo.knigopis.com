@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ninked](users/100/100000146591910-facebook)<sup>0</sup> 
 [gemini_boom](users/737/73762263-vkontakte)<sup>2</sup> 
 [endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Owl ](users/112/112882224865387708202-google)<sup>0</sup> 
 [lana](users/148/1486179434745329-facebook)<sup>0</sup> 
 [Loutar](users/110/110570059376798782385-google)<sup>0</sup> 
-[zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
 
 
-_12.01.2017 07:17:42_
+_12.01.2017 07:27:41_
