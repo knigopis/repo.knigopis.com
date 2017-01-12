@@ -52,8 +52,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gemini_boom](users/737/73762263-vkontakte)<sup>1</sup> 
 [endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
-[gemini_boom](users/737/73762263-vkontakte)<sup>0</sup> 
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
@@ -84,4 +84,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
 
 
-_12.01.2017 07:16:15_
+_12.01.2017 07:17:23_
