@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
 [gemini_boom](users/737/73762263-vkontakte)<sup>0</sup> 
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lana](users/148/1486179434745329-facebook)<sup>0</sup> 
 [Loutar](users/110/110570059376798782385-google)<sup>0</sup> 
 [zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>89</sup> 
 
 
-_12.01.2017 07:15:42_
+_12.01.2017 07:16:15_
