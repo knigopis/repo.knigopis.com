@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gemini_boom](users/737/73762263-vkontakte)<sup>0</sup> 
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Loutar](users/110/110570059376798782385-google)<sup>0</sup> 
 [zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>89</sup> 
-[July](users/718/71860652-vkontakte)<sup>0</sup> 
 
 
-_12.01.2017 07:01:55_
+_12.01.2017 07:15:42_
