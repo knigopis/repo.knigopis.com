@@ -1,4 +1,16 @@
 {
+    "DXu2abOWN_": {
+        "id": "DXu2abOWN_",
+        "title": "В форме за 100 дней. Тренировочная программа Хермана Майера для всех, от начинающих до профессионалов",
+        "author": "Кнут Окресек, Хайнрих Бергмюллер",
+        "notes": "3 из 5 по полезности",
+        "createdAt": "2017-01-12 04:36:11",
+        "user": {
+            "id": "376238510-yandex",
+            "nickname": "ponomarenkovv87",
+            "booksCount": 4
+        }
+    },
     "MOOlpQd3Tf": {
         "id": "MOOlpQd3Tf",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 7
-        }
-    },
-    "mWzBo3GURC": {
-        "id": "mWzBo3GURC",
-        "title": "Гаррі Поттер і келих вогню",
-        "author": "Джоан Роулінг",
-        "notes": "",
-        "createdAt": "2017-01-09 18:33:09",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 6
         }
     }
 }

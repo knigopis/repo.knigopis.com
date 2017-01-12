@@ -1,4 +1,10 @@
 {
+    "376238510-yandex": {
+        "id": "376238510-yandex",
+        "nickname": "ponomarenkovv87",
+        "booksCount": 4,
+        "updatedAt": "2017-01-12 04:36:11"
+    },
     "8635122-vkontakte": {
         "id": "8635122-vkontakte",
         "nickname": "picasso",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 50,
         "updatedAt": "2017-01-06 09:01:31"
-    },
-    "29872825-vkontakte": {
-        "id": "29872825-vkontakte",
-        "nickname": "methadone1488",
-        "booksCount": 0,
-        "updatedAt": "2017-01-05 22:43:24"
     }
 }

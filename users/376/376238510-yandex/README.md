@@ -1,5 +1,13 @@
-# List of books read by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)<sup>3</sup>
+# List of books read by [ponomarenkovv87](http://openid.yandex.ru/ponomarenkovv87/)<sup>4</sup>
 ---
+
+## 2017
+
+### В форме за 100 дней. Тренировочная программа Хермана Майера для всех, от начинающих до профессионалов
+Кнут Окресек, Хайнрих Бергмюллер
+> [2017-01-10] 3 из 5 по полезности
+
+
 
 ## 2016
 
