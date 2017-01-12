@@ -52,6 +52,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
 [Audacieux](users/113/1139361566180442-facebook)<sup>1</sup> 
@@ -81,7 +82,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zh.sandra](users/139/139500216-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>89</sup> 
 [July](users/718/71860652-vkontakte)<sup>0</sup> 
-[rNix](users/115/115622071-twitter)<sup>50</sup> 
 
 
-_12.01.2017 04:38:55_
+_12.01.2017 07:01:55_
