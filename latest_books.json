@@ -1,4 +1,16 @@
 {
+    "0uP6d5NnGR": {
+        "id": "0uP6d5NnGR",
+        "title": "Национал-социализм и Раса",
+        "author": "Богдан Заднепровский",
+        "notes": "",
+        "createdAt": "2017-01-13 13:20:26",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 72
+        }
+    },
     "49pZXS8Ati": {
         "id": "49pZXS8Ati",
         "title": "Ариец и его социальная роль",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 43
-        }
-    },
-    "4mDd1VpfBO": {
-        "id": "4mDd1VpfBO",
-        "title": "Гитлер на тысячу лет",
-        "author": "Леон Дегрелль",
-        "notes": "",
-        "createdAt": "2017-01-13 13:11:34",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 42
         }
     }
 }

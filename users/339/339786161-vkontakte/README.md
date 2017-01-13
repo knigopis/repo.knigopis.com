@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>71</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>72</sup>
 ---
 
 ## 2016
+
+### Национал-социализм и Раса
+Богдан Заднепровский
+
 
 ### Ариец и его социальная роль
 Жорж Ваше де Лапуж
