@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>39</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>40</sup>
 ---
 
 ## 2015
+
+### Так говорил Заратустра
+Фридрих Ницше
+
 
 ### Евгеника XXI века
 Джон Глэд

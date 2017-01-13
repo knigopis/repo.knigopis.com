@@ -1,4 +1,16 @@
 {
+    "Rs0-Kv0Tai": {
+        "id": "Rs0-Kv0Tai",
+        "title": "Так говорил Заратустра",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2017-01-13 13:11:07",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 40
+        }
+    },
     "CbfqE7sTqG": {
         "id": "CbfqE7sTqG",
         "title": "Евгеника XXI века",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 11
-        }
-    },
-    "_VdHWDTiPF": {
-        "id": "_VdHWDTiPF",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2017-01-13 13:01:45",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 10
         }
     }
 }
