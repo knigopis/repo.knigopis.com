@@ -1,4 +1,16 @@
 {
+    "HR8FUzwQJy": {
+        "id": "HR8FUzwQJy",
+        "title": "Анатомия человека",
+        "author": "М.Г.Привес. Девятое издание",
+        "notes": "",
+        "createdAt": "2017-01-13 13:19:03",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 66
+        }
+    },
     "iTrhck8xWM": {
         "id": "iTrhck8xWM",
         "title": "Ревизионизм холокоста",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 37
-        }
-    },
-    "fkV2HTGg4o": {
-        "id": "fkV2HTGg4o",
-        "title": "Образ врага. Расология и полит.антропология",
-        "author": "А.Н.Савельев",
-        "notes": "",
-        "createdAt": "2017-01-13 13:08:49",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 36
         }
     }
 }

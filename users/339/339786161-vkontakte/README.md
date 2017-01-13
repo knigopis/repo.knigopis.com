@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>65</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>66</sup>
 ---
 
 ## 2016
+
+### Анатомия человека
+М.Г.Привес. Девятое издание
+
 
 ### Ревизионизм холокоста
 Юрген Граф
