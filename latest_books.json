@@ -1,4 +1,16 @@
 {
+    "49pZXS8Ati": {
+        "id": "49pZXS8Ati",
+        "title": "Ариец и его социальная роль",
+        "author": "Жорж Ваше де Лапуж",
+        "notes": "",
+        "createdAt": "2017-01-13 13:20:12",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 71
+        }
+    },
     "kB_ERaXhyQ": {
         "id": "kB_ERaXhyQ",
         "title": "Касты и расы",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 42
-        }
-    },
-    "QdjDfQCahG": {
-        "id": "QdjDfQCahG",
-        "title": "Моя борьба",
-        "author": "Адольф Гитлер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:11:22",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 41
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>70</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>71</sup>
 ---
 
 ## 2016
+
+### Ариец и его социальная роль
+Жорж Ваше де Лапуж
+
 
 ### Касты и расы
 Юлиус Эвола
