@@ -1,4 +1,16 @@
 {
+    "aqaQQZlJcl": {
+        "id": "aqaQQZlJcl",
+        "title": "CSS 3 для веб дизайнеров",
+        "author": "Дэн Синдерхолм",
+        "notes": "",
+        "createdAt": "2017-01-13 13:14:23",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 54
+        }
+    },
     "zB-sXFlD86": {
         "id": "zB-sXFlD86",
         "title": "Изучаем HTML 5",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 25
-        }
-    },
-    "0CDphzovC7": {
-        "id": "0CDphzovC7",
-        "title": "Римская империя. Величие и падение вечного города",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:05:40",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 24
         }
     }
 }

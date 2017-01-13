@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>53</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>54</sup>
 ---
 
 ## 2016
+
+### CSS 3 для веб дизайнеров
+Дэн Синдерхолм
+
 
 ### Изучаем HTML 5
 Б.Лоусон и Р.Шарп
