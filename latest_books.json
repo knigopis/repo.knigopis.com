@@ -1,4 +1,16 @@
 {
+    "_VdHWDTiPF": {
+        "id": "_VdHWDTiPF",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2017-01-13 13:01:45",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 10
+        }
+    },
     "f23WKnVBmG": {
         "id": "f23WKnVBmG",
         "title": "Партизанская война",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 33
-        }
-    },
-    "bmx-A1aiH2": {
-        "id": "bmx-A1aiH2",
-        "title": "Гарри Поттер и тайная комната",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2017-01-10 12:39:36",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 24
         }
     }
 }
