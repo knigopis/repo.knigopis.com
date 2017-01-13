@@ -1,4 +1,16 @@
 {
+    "ctsaqOvZ_r": {
+        "id": "ctsaqOvZ_r",
+        "title": "Проектирование будущего",
+        "author": "Жак Фреско",
+        "notes": "",
+        "createdAt": "2017-01-13 13:22:28",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 79
+        }
+    },
     "N7hUbTxjZO": {
         "id": "N7hUbTxjZO",
         "title": "Ломай меня полностью",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 50
-        }
-    },
-    "PXITK2QucM": {
-        "id": "PXITK2QucM",
-        "title": "Черная медицина",
-        "author": "Н.Маширо",
-        "notes": "",
-        "createdAt": "2017-01-13 13:13:27",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 49
         }
     }
 }

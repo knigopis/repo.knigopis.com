@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>78</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>79</sup>
 ---
 
 ## 2016
+
+### Проектирование будущего
+Жак Фреско
+
 
 ### Ломай меня полностью
 Амиран Сардаров
