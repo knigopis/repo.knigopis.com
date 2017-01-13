@@ -1,4 +1,16 @@
 {
+    "FGWdMh6m8p": {
+        "id": "FGWdMh6m8p",
+        "title": "Подготовка снайперов. FM 23-10",
+        "author": "Штаб-квартира министерства Армии 17 августа 1994 года",
+        "notes": "",
+        "createdAt": "2017-01-13 13:19:51",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 69
+        }
+    },
     "SPrw4flg53": {
         "id": "SPrw4flg53",
         "title": "Шесть миллионов - потеряны и найдены",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 40
-        }
-    },
-    "CbfqE7sTqG": {
-        "id": "CbfqE7sTqG",
-        "title": "Евгеника XXI века",
-        "author": "Джон Глэд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:10:56",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 39
         }
     }
 }
