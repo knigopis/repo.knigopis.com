@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>87</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>88</sup>
 ---
 
 ## 2016
+
+### Майя. Реальность - это иллюзия
+Мигель Серрано
+
 
 ### Выбор супружеской пары
 Ганс Ф.К. Гюнтер

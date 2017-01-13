@@ -1,4 +1,16 @@
 {
+    "L7m-uQkbeV": {
+        "id": "L7m-uQkbeV",
+        "title": "Майя. Реальность - это иллюзия",
+        "author": "Мигель Серрано",
+        "notes": "",
+        "createdAt": "2017-01-13 13:24:54",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 88
+        }
+    },
     "nwn__Buu0o": {
         "id": "nwn__Buu0o",
         "title": "Выбор супружеской пары",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 59
-        }
-    },
-    "s7t8pxPAWh": {
-        "id": "s7t8pxPAWh",
-        "title": "Белые и черные: 100 фактов и одна ложь",
-        "author": "Роджер Рутс",
-        "notes": "",
-        "createdAt": "2017-01-13 13:17:06",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 58
         }
     }
 }
