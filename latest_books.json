@@ -1,4 +1,16 @@
 {
+    "ZpMeW8aqi_": {
+        "id": "ZpMeW8aqi_",
+        "title": "Антихрист",
+        "author": "Фридрих Ницше",
+        "notes": "",
+        "createdAt": "2017-01-13 13:06:21",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 26
+        }
+    },
     "3QfS4dy3-x": {
         "id": "3QfS4dy3-x",
         "title": "Атлас первой медицинской помощи в условиях проведения антитеррористических операций",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 19
-        }
-    },
-    "k2sKG2qneu": {
-        "id": "k2sKG2qneu",
-        "title": "Дім дивних дітей (432с)",
-        "author": "Ренсом Ріггз",
-        "notes": "",
-        "createdAt": "2017-01-12 11:28:09",
-        "user": {
-            "id": "1034497246671899-facebook",
-            "nickname": "Гандзя",
-            "booksCount": 6
         }
     }
 }
