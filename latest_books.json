@@ -1,4 +1,16 @@
 {
+    "N7hUbTxjZO": {
+        "id": "N7hUbTxjZO",
+        "title": "Ломай меня полностью",
+        "author": "Амиран Сардаров",
+        "notes": "",
+        "createdAt": "2017-01-13 13:22:17",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 78
+        }
+    },
     "lPgYSO4TZC": {
         "id": "lPgYSO4TZC",
         "title": "Женщина: подчинись или властвуй",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 49
-        }
-    },
-    "DalUUf7XXv": {
-        "id": "DalUUf7XXv",
-        "title": "Руководство по ведению партизанской войны",
-        "author": "Партизанская война и вооруженное сопротивление в рамках всеобщей обороны Швейцарии",
-        "notes": "",
-        "createdAt": "2017-01-13 13:13:12",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 48
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>77</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>78</sup>
 ---
 
 ## 2016
+
+### Ломай меня полностью
+Амиран Сардаров
+
 
 ### Женщина: подчинись или властвуй
 Вис Виталис
