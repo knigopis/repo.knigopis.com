@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>5</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>6</sup>
 ---
 
 ## 2010
+
+### Клык (Серия "Сталкер")
+Ежи Тумановский
+
 
 ### Эпицентр удачи (Серия "Сталкер")
 Янковский Дмитрий Валентинович

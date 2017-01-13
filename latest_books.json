@@ -1,4 +1,16 @@
 {
+    "PeavsAHRfk": {
+        "id": "PeavsAHRfk",
+        "title": "Клык (Серия \"Сталкер\")",
+        "author": "Ежи Тумановский",
+        "notes": "",
+        "createdAt": "2017-01-13 13:00:23",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 6
+        }
+    },
     "b-hxhQsBsa": {
         "id": "b-hxhQsBsa",
         "title": "Эпицентр удачи (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 20
-        }
-    },
-    "i-jiOGoxfN": {
-        "id": "i-jiOGoxfN",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Екзюпері",
-        "notes": "",
-        "createdAt": "2017-01-09 18:53:16",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 19
         }
     }
 }
