@@ -1,4 +1,16 @@
 {
+    "RCd1GD5sFI": {
+        "id": "RCd1GD5sFI",
+        "title": "Демократия как вырождение",
+        "author": "Игорь Бестужев",
+        "notes": "",
+        "createdAt": "2017-01-13 13:20:37",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 73
+        }
+    },
     "0uP6d5NnGR": {
         "id": "0uP6d5NnGR",
         "title": "Национал-социализм и Раса",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 44
-        }
-    },
-    "5an2uPPpSF": {
-        "id": "5an2uPPpSF",
-        "title": "Избранные работы по расологии",
-        "author": "Ганс Ф.К.Гюнтер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:11:46",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 43
         }
     }
 }

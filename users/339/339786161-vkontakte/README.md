@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>72</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>73</sup>
 ---
 
 ## 2016
+
+### Демократия как вырождение
+Игорь Бестужев
+
 
 ### Национал-социализм и Раса
 Богдан Заднепровский
