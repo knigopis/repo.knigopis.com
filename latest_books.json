@@ -1,4 +1,16 @@
 {
+    "h2cFDJ9dIj": {
+        "id": "h2cFDJ9dIj",
+        "title": "Большая книга CSS 3",
+        "author": "Дэвид Макфарланд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:13:49",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 51
+        }
+    },
     "4lyJprOdh3": {
         "id": "4lyJprOdh3",
         "title": "Белое самосознание. Расовая идентичность в XXI веке",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 22
-        }
-    },
-    "wpiSKWLN-f": {
-        "id": "wpiSKWLN-f",
-        "title": "Восставший из ада",
-        "author": "Клайв Баркер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:04:22",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 21
         }
     }
 }

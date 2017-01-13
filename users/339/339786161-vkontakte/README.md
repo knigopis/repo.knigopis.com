@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>50</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>51</sup>
 ---
 
 ## 2016
+
+### Большая книга CSS 3
+Дэвид Макфарланд
+
 
 ### Белое самосознание. Расовая идентичность в XXI веке
 Джерад Тэйлор
