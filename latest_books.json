@@ -1,4 +1,16 @@
 {
+    "68P5bTzX4q": {
+        "id": "68P5bTzX4q",
+        "title": "14 слов и 88 заповедей",
+        "author": "Дэвид Лэйн",
+        "notes": "(буклет)",
+        "createdAt": "2017-01-13 13:19:24",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 67
+        }
+    },
     "HR8FUzwQJy": {
         "id": "HR8FUzwQJy",
         "title": "Анатомия человека",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 38
-        }
-    },
-    "j0-JjkmoNd": {
-        "id": "j0-JjkmoNd",
-        "title": "Женщина",
-        "author": "Олег Новоселов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:10:31",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 37
         }
     }
 }

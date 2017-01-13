@@ -1,7 +1,12 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>66</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>67</sup>
 ---
 
 ## 2016
+
+### 14 слов и 88 заповедей
+Дэвид Лэйн
+> (буклет)
+
 
 ### Анатомия человека
 М.Г.Привес. Девятое издание
