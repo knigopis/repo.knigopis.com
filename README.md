@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>132</sup> 
 [maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>19</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>24</sup> 
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>30</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>236</sup> 
 
 
-_12.01.2017 15:04:08_
+_13.01.2017 12:05:21_

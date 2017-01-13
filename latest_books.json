@@ -1,4 +1,16 @@
 {
+    "XwUAoeVMZa": {
+        "id": "XwUAoeVMZa",
+        "title": "Крестный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2017-01-13 12:05:20",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 87
+        }
+    },
     "JCs0fZ-7Mr": {
         "id": "JCs0fZ-7Mr",
         "title": "В основном безвредна",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 14
-        }
-    },
-    "8y-itdVMfi": {
-        "id": "8y-itdVMfi",
-        "title": "Пригоди Гекльберрі Фінна",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-01-09 18:40:05",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 13
         }
     }
 }
