@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>57</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>58</sup>
 ---
 
 ## 2016
+
+### Белые и черные: 100 фактов и одна ложь
+Роджер Рутс
+
 
 ### 1984
 Джордж Оруэлл

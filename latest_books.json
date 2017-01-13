@@ -1,4 +1,16 @@
 {
+    "s7t8pxPAWh": {
+        "id": "s7t8pxPAWh",
+        "title": "Белые и черные: 100 фактов и одна ложь",
+        "author": "Роджер Рутс",
+        "notes": "",
+        "createdAt": "2017-01-13 13:17:06",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 58
+        }
+    },
     "u-oH8vNryi": {
         "id": "u-oH8vNryi",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 29
-        }
-    },
-    "pDaQlwNoIx": {
-        "id": "pDaQlwNoIx",
-        "title": "Der Untermensch",
-        "author": "Генрих Гиммлер. Berlin 1942",
-        "notes": "",
-        "createdAt": "2017-01-13 13:06:52",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 28
         }
     }
 }
