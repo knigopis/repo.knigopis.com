@@ -1,4 +1,16 @@
 {
+    "cUgM5BXB20": {
+        "id": "cUgM5BXB20",
+        "title": "Римская республика. От семи царей до республиканского правления",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2017-01-13 13:05:28",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 23
+        }
+    },
     "aqaJBkNgl3": {
         "id": "aqaJBkNgl3",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "73762263-vkontakte",
             "nickname": "gemini_boom",
             "booksCount": 1
-        }
-    },
-    "q7mA21u4uC": {
-        "id": "q7mA21u4uC",
-        "title": "В форме за 100 дней. Тренировочная программа Хермана Майера для всех, от начинающих до профессионалов",
-        "author": "Кнут Окресек, Хайнрих Бергмюллер",
-        "notes": "",
-        "createdAt": "2017-01-12 04:36:36",
-        "user": {
-            "id": "376238510-yandex",
-            "nickname": "ponomarenkovv87",
-            "booksCount": 5
         }
     }
 }
