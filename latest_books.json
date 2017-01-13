@@ -1,4 +1,16 @@
 {
+    "PXITK2QucM": {
+        "id": "PXITK2QucM",
+        "title": "Черная медицина",
+        "author": "Н.Маширо",
+        "notes": "",
+        "createdAt": "2017-01-13 13:13:27",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 49
+        }
+    },
     "DalUUf7XXv": {
         "id": "DalUUf7XXv",
         "title": "Руководство по ведению партизанской войны",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 20
-        }
-    },
-    "xhIC5eD_xJ": {
-        "id": "xhIC5eD_xJ",
-        "title": "Маленикий принц",
-        "author": "Антуан Де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-01-13 13:04:00",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 19
         }
     }
 }
