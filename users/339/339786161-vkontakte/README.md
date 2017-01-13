@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>12</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>13</sup>
 ---
 
 ## 2011
+
+### Безнадега
+Стивен Кинг
+
 
 ### Волшебник
 Владимир Набоков
