@@ -1,4 +1,28 @@
 {
+    "YjfNQyOvZF": {
+        "id": "YjfNQyOvZF",
+        "title": "Ку Клукс Клан. Белое движение США",
+        "author": "Москва. 2001. 72 стр",
+        "notes": "",
+        "createdAt": "2017-01-13 13:26:34",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 97
+        }
+    },
+    "0vuGpmLAq4": {
+        "id": "0vuGpmLAq4",
+        "title": "Аненэрбе. \"Наследие предков\". Секретный проект Гитлера",
+        "author": "Ганс - Ульрих фон Кранц",
+        "notes": "",
+        "createdAt": "2017-01-13 13:25:23",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 96
+        }
+    },
     "L7m-uQkbeV": {
         "id": "L7m-uQkbeV",
         "title": "Майя. Реальность - это иллюзия",
@@ -333,30 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 61
-        }
-    },
-    "C25WsiGcYn": {
-        "id": "C25WsiGcYn",
-        "title": "Белые повстанцы скалистых гор",
-        "author": "Дэвид Лэйн",
-        "notes": "",
-        "createdAt": "2017-01-13 13:17:27",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 60
-        }
-    },
-    "UD8cnzzmoC": {
-        "id": "UD8cnzzmoC",
-        "title": "Марш титанов. История белой расы",
-        "author": "Артур Кемп",
-        "notes": "",
-        "createdAt": "2017-01-13 13:17:16",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 59
         }
     }
 }
