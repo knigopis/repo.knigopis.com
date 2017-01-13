@@ -1,4 +1,16 @@
 {
+    "IFc4zbAgFQ": {
+        "id": "IFc4zbAgFQ",
+        "title": "Сила есть право",
+        "author": "Рагнар Редберд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:11:56",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 44
+        }
+    },
     "5an2uPPpSF": {
         "id": "5an2uPPpSF",
         "title": "Избранные работы по расологии",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 15
-        }
-    },
-    "KTx95xV6cS": {
-        "id": "KTx95xV6cS",
-        "title": "Как писать книги",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-01-13 13:02:39",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 14
         }
     }
 }
