@@ -1,4 +1,16 @@
 {
+    "pDaQlwNoIx": {
+        "id": "pDaQlwNoIx",
+        "title": "Der Untermensch",
+        "author": "Генрих Гиммлер. Berlin 1942",
+        "notes": "",
+        "createdAt": "2017-01-13 13:06:52",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 28
+        }
+    },
     "ztuAKgoasl": {
         "id": "ztuAKgoasl",
         "title": "Да - Смерть",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 132
-        }
-    },
-    "E51F3GOT2o": {
-        "id": "E51F3GOT2o",
-        "title": "Война и Мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "",
-        "createdAt": "2017-01-12 14:26:41",
-        "user": {
-            "id": "23967662-vkontakte",
-            "nickname": "maria_morozova19",
-            "booksCount": 1
         }
     }
 }
