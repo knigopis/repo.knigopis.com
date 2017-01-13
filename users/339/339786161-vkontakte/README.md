@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>8</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>9</sup>
 ---
 
 ## 2010
+
+### Партизанская война
+Эрнесто Че Гевара
+
 
 ### Песочные часы (Серия "Сталкер")
 Недоруб Сергей Иванович

@@ -1,4 +1,16 @@
 {
+    "f23WKnVBmG": {
+        "id": "f23WKnVBmG",
+        "title": "Партизанская война",
+        "author": "Эрнесто Че Гевара",
+        "notes": "",
+        "createdAt": "2017-01-13 13:01:22",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 9
+        }
+    },
     "hCiYdoiTmb": {
         "id": "hCiYdoiTmb",
         "title": "Песочные часы (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 24
-        }
-    },
-    "ftZPoegH28": {
-        "id": "ftZPoegH28",
-        "title": "Парфюмер",
-        "author": "Патрік Зюскінд",
-        "notes": "",
-        "createdAt": "2017-01-09 18:55:00",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 22
         }
     }
 }
