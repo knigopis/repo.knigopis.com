@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>62</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>63</sup>
 ---
 
 ## 2016
+
+### Как мы будем жить на Марсе
+Стивен Патернак
+
 
 ### Миф о черном солнце
 Рудольф Мунд
