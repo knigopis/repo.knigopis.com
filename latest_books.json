@@ -1,4 +1,16 @@
 {
+    "0CDphzovC7": {
+        "id": "0CDphzovC7",
+        "title": "Римская империя. Величие и падение вечного города",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2017-01-13 13:05:40",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 24
+        }
+    },
     "cUgM5BXB20": {
         "id": "cUgM5BXB20",
         "title": "Римская республика. От семи царей до республиканского правления",
@@ -345,18 +357,6 @@
             "id": "73762263-vkontakte",
             "nickname": "gemini_boom",
             "booksCount": 2
-        }
-    },
-    "bBbXq8YaLd": {
-        "id": "bBbXq8YaLd",
-        "title": "Над пропастью во ржи",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-12 07:17:23",
-        "user": {
-            "id": "73762263-vkontakte",
-            "nickname": "gemini_boom",
-            "booksCount": 1
         }
     }
 }
