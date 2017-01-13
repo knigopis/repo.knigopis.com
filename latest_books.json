@@ -1,4 +1,16 @@
 {
+    "DalUUf7XXv": {
+        "id": "DalUUf7XXv",
+        "title": "Руководство по ведению партизанской войны",
+        "author": "Партизанская война и вооруженное сопротивление в рамках всеобщей обороны Швейцарии",
+        "notes": "",
+        "createdAt": "2017-01-13 13:13:12",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 48
+        }
+    },
     "Vz4abVwp-z": {
         "id": "Vz4abVwp-z",
         "title": "Расовая женская красота",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 19
-        }
-    },
-    "lFHrrsRDnt": {
-        "id": "lFHrrsRDnt",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:03:40",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 18
         }
     }
 }
