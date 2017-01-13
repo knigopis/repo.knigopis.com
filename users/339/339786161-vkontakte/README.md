@@ -1,4 +1,4 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>46</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>47</sup>
 ---
 
 ## 2016
@@ -9,6 +9,10 @@
 
 
 ## 2015
+
+### Расовая женская красота
+Карл Штрац
+
 
 ### Международное еврейство
 Генри Форд

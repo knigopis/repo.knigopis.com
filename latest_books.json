@@ -1,4 +1,16 @@
 {
+    "Vz4abVwp-z": {
+        "id": "Vz4abVwp-z",
+        "title": "Расовая женская красота",
+        "author": "Карл Штрац",
+        "notes": "",
+        "createdAt": "2017-01-13 13:12:55",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 47
+        }
+    },
     "qqO3LRbChW": {
         "id": "qqO3LRbChW",
         "title": "НЛО Гитлера против нового мирового порядка",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 18
-        }
-    },
-    "3Fwh-68r2D": {
-        "id": "3Fwh-68r2D",
-        "title": "Приключения Тома Сойера и Гекльберри Финна",
-        "author": "Март Твен",
-        "notes": "",
-        "createdAt": "2017-01-13 13:03:24",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 17
         }
     }
 }
