@@ -1,4 +1,16 @@
 {
+    "ui3CmbhIRe": {
+        "id": "ui3CmbhIRe",
+        "title": "Международное еврейство",
+        "author": "Генри Форд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:12:05",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 45
+        }
+    },
     "IFc4zbAgFQ": {
         "id": "IFc4zbAgFQ",
         "title": "Сила есть право",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 16
-        }
-    },
-    "IHcRTyfLZy": {
-        "id": "IHcRTyfLZy",
-        "title": "Алиса в стране чудес",
-        "author": "Льюис Керрол",
-        "notes": "",
-        "createdAt": "2017-01-13 13:02:54",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 15
         }
     }
 }

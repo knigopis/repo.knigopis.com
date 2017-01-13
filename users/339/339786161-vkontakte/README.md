@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>44</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>45</sup>
 ---
 
 ## 2015
+
+### Международное еврейство
+Генри Форд
+
 
 ### Сила есть право
 Рагнар Редберд
