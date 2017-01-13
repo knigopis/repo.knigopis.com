@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>61</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>62</sup>
 ---
 
 ## 2016
+
+### Миф о черном солнце
+Рудольф Мунд
+
 
 ### Проведение годовых праздников в СС семье
 Фриц Вайтцель

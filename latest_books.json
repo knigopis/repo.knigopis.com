@@ -1,4 +1,16 @@
 {
+    "BG4oDaDisI": {
+        "id": "BG4oDaDisI",
+        "title": "Миф о черном солнце",
+        "author": "Рудольф Мунд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:17:53",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 62
+        }
+    },
     "B-yXIrHbRs": {
         "id": "B-yXIrHbRs",
         "title": "Проведение годовых праздников в СС семье",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 33
-        }
-    },
-    "b51Kh4C8YX": {
-        "id": "b51Kh4C8YX",
-        "title": "Анатомия страха. Трактат о храбрости",
-        "author": "Хосе Антонио Марина",
-        "notes": "",
-        "createdAt": "2017-01-13 13:07:48",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 32
         }
     }
 }
