@@ -1,4 +1,16 @@
 {
+    "fEF5O94hd0": {
+        "id": "fEF5O94hd0",
+        "title": "Победить в бою",
+        "author": "Капитан Уильям И.Фэйрберн",
+        "notes": "",
+        "createdAt": "2017-01-13 13:29:56",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 102
+        }
+    },
     "BvUNRnuwym": {
         "id": "BvUNRnuwym",
         "title": "Достань нож и убей",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 73
-        }
-    },
-    "0uP6d5NnGR": {
-        "id": "0uP6d5NnGR",
-        "title": "Национал-социализм и Раса",
-        "author": "Богдан Заднепровский",
-        "notes": "",
-        "createdAt": "2017-01-13 13:20:26",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 72
         }
     }
 }

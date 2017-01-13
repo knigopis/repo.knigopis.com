@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>101</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>102</sup>
 ---
 
 ## 2016
+
+### Победить в бою
+Капитан Уильям И.Фэйрберн
+
 
 ### Достань нож и убей
 Дон Пентакост
