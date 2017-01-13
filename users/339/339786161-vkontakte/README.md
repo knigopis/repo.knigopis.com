@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>59</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>60</sup>
 ---
 
 ## 2016
+
+### Белые повстанцы скалистых гор
+Дэвид Лэйн
+
 
 ### Марш титанов. История белой расы
 Артур Кемп

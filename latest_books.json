@@ -1,4 +1,16 @@
 {
+    "C25WsiGcYn": {
+        "id": "C25WsiGcYn",
+        "title": "Белые повстанцы скалистых гор",
+        "author": "Дэвид Лэйн",
+        "notes": "",
+        "createdAt": "2017-01-13 13:17:27",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 60
+        }
+    },
     "UD8cnzzmoC": {
         "id": "UD8cnzzmoC",
         "title": "Марш титанов. История белой расы",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 31
-        }
-    },
-    "L9EwxHNGa3": {
-        "id": "L9EwxHNGa3",
-        "title": "Искусство любить",
-        "author": "Эрих Фромм",
-        "notes": "",
-        "createdAt": "2017-01-13 13:07:21",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 30
         }
     }
 }
