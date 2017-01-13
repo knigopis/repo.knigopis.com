@@ -1,4 +1,16 @@
 {
+    "AWQBLFGpuV": {
+        "id": "AWQBLFGpuV",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-13 19:16:27",
+        "user": {
+            "id": "241736470-vkontakte",
+            "nickname": "mypulseis170bpm",
+            "booksCount": 1
+        }
+    },
     "8zeG0HuiS4": {
         "id": "8zeG0HuiS4",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 79
-        }
-    },
-    "N7hUbTxjZO": {
-        "id": "N7hUbTxjZO",
-        "title": "Ломай меня полностью",
-        "author": "Амиран Сардаров",
-        "notes": "",
-        "createdAt": "2017-01-13 13:22:17",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 78
         }
     }
 }
