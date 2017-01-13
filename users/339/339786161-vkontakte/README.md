@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>3</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>4</sup>
 ---
 
 ## 2010
+
+### Обратный отсчёт (Серия "Сталкер")
+Шалыгин Вячеслав Владимирович
+
 
 ### Контрольный выброс (Серия "Сталкер")
 Ливадный Андрей Львович

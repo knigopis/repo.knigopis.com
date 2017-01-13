@@ -1,4 +1,16 @@
 {
+    "E2T0U-A5OV": {
+        "id": "E2T0U-A5OV",
+        "title": "Обратный отсчёт (Серия \"Сталкер\")",
+        "author": "Шалыгин Вячеслав Владимирович",
+        "notes": "",
+        "createdAt": "2017-01-13 12:59:53",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 4
+        }
+    },
     "R7wI89_2Jh": {
         "id": "R7wI89_2Jh",
         "title": "Контрольный выброс (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 18
-        }
-    },
-    "vOTtjdmafr": {
-        "id": "vOTtjdmafr",
-        "title": "Джейн Ейр",
-        "author": "Шарлота Бронте",
-        "notes": "",
-        "createdAt": "2017-01-09 18:46:13",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 17
         }
     }
 }
