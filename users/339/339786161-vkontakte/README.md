@@ -1,5 +1,12 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>24</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>25</sup>
 ---
+
+## 2014
+
+### Атлас первой медицинской помощи в условиях проведения антитеррористических операций
+В.Г.Бубнов
+
+
 
 ## 2013
 

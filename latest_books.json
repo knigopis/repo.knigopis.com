@@ -1,4 +1,16 @@
 {
+    "3QfS4dy3-x": {
+        "id": "3QfS4dy3-x",
+        "title": "Атлас первой медицинской помощи в условиях проведения антитеррористических операций",
+        "author": "В.Г.Бубнов",
+        "notes": "",
+        "createdAt": "2017-01-13 13:05:55",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 25
+        }
+    },
     "0CDphzovC7": {
         "id": "0CDphzovC7",
         "title": "Римская империя. Величие и падение вечного города",
@@ -345,18 +357,6 @@
             "id": "1034497246671899-facebook",
             "nickname": "Гандзя",
             "booksCount": 6
-        }
-    },
-    "10AkbDe5HI": {
-        "id": "10AkbDe5HI",
-        "title": "Шантарам",
-        "author": "Грегори Робертс",
-        "notes": "",
-        "createdAt": "2017-01-12 07:17:42",
-        "user": {
-            "id": "73762263-vkontakte",
-            "nickname": "gemini_boom",
-            "booksCount": 2
         }
     }
 }
