@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>41</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>42</sup>
 ---
 
 ## 2015
+
+### Гитлер на тысячу лет
+Леон Дегрелль
+
 
 ### Моя борьба
 Адольф Гитлер

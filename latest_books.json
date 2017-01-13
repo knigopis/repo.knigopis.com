@@ -1,4 +1,16 @@
 {
+    "4mDd1VpfBO": {
+        "id": "4mDd1VpfBO",
+        "title": "Гитлер на тысячу лет",
+        "author": "Леон Дегрелль",
+        "notes": "",
+        "createdAt": "2017-01-13 13:11:34",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 42
+        }
+    },
     "QdjDfQCahG": {
         "id": "QdjDfQCahG",
         "title": "Моя борьба",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 13
-        }
-    },
-    "M4RZdR77WB": {
-        "id": "M4RZdR77WB",
-        "title": "Волшебник",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-01-13 13:02:13",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 12
         }
     }
 }
