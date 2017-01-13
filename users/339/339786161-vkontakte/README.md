@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>63</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>64</sup>
 ---
 
 ## 2016
+
+### Европейская федерация СС
+(буклет)
+
 
 ### Как мы будем жить на Марсе
 Стивен Патернак

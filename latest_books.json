@@ -1,4 +1,16 @@
 {
+    "oBnrizdhn-": {
+        "id": "oBnrizdhn-",
+        "title": "Европейская федерация СС",
+        "author": "(буклет)",
+        "notes": "",
+        "createdAt": "2017-01-13 13:18:32",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 64
+        }
+    },
     "0P5gG6LJk0": {
         "id": "0P5gG6LJk0",
         "title": "Как мы будем жить на Марсе",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 35
-        }
-    },
-    "lsmLQG6Vl4": {
-        "id": "lsmLQG6Vl4",
-        "title": "Викинги",
-        "author": "И.Хит",
-        "notes": "",
-        "createdAt": "2017-01-13 13:08:19",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 34
         }
     }
 }
