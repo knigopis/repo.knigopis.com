@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>58</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>59</sup>
 ---
 
 ## 2016
+
+### Марш титанов. История белой расы
+Артур Кемп
+
 
 ### Белые и черные: 100 фактов и одна ложь
 Роджер Рутс

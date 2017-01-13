@@ -1,4 +1,16 @@
 {
+    "UD8cnzzmoC": {
+        "id": "UD8cnzzmoC",
+        "title": "Марш титанов. История белой расы",
+        "author": "Артур Кемп",
+        "notes": "",
+        "createdAt": "2017-01-13 13:17:16",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 59
+        }
+    },
     "s7t8pxPAWh": {
         "id": "s7t8pxPAWh",
         "title": "Белые и черные: 100 фактов и одна ложь",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 30
-        }
-    },
-    "AbaAdxUEHj": {
-        "id": "AbaAdxUEHj",
-        "title": "Борьба за существование нордического человека",
-        "author": "Х.Беккер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:07:06",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 29
         }
     }
 }
