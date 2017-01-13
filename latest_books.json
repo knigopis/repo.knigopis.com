@@ -1,4 +1,16 @@
 {
+    "8zeG0HuiS4": {
+        "id": "8zeG0HuiS4",
+        "title": "Пикник на обочине",
+        "author": "А. Стругацкий, Б. Стругацкий",
+        "notes": "9/10",
+        "createdAt": "2017-01-13 17:22:22",
+        "user": {
+            "id": "101033677091232972633-google",
+            "nickname": "Narjih",
+            "booksCount": 66
+        }
+    },
     "aI5L3zP_te": {
         "id": "aI5L3zP_te",
         "title": "Неприрожденные убийцы",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 78
-        }
-    },
-    "lPgYSO4TZC": {
-        "id": "lPgYSO4TZC",
-        "title": "Женщина: подчинись или властвуй",
-        "author": "Вис Виталис",
-        "notes": "",
-        "createdAt": "2017-01-13 13:22:08",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 77
         }
     }
 }
