@@ -1,4 +1,16 @@
 {
+    "SaMMkK6GFB": {
+        "id": "SaMMkK6GFB",
+        "title": "Мужской альманах",
+        "author": "Алекс Светлый",
+        "notes": "",
+        "createdAt": "2017-01-13 13:24:15",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 84
+        }
+    },
     "Q2spRHZ5Mi": {
         "id": "Q2spRHZ5Mi",
         "title": "Древние Римляне. Расцвет и закат римского мира. Подборка публикаций",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 55
-        }
-    },
-    "aqaQQZlJcl": {
-        "id": "aqaQQZlJcl",
-        "title": "CSS 3 для веб дизайнеров",
-        "author": "Дэн Синдерхолм",
-        "notes": "",
-        "createdAt": "2017-01-13 13:14:23",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 54
         }
     }
 }
