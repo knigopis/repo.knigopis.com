@@ -1,4 +1,16 @@
 {
+    "kHykq3LYAL": {
+        "id": "kHykq3LYAL",
+        "title": "Дорожная книга веб дизайнера",
+        "author": "Евгений Ржавцев",
+        "notes": "",
+        "createdAt": "2017-01-13 13:13:59",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 52
+        }
+    },
     "h2cFDJ9dIj": {
         "id": "h2cFDJ9dIj",
         "title": "Большая книга CSS 3",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 23
-        }
-    },
-    "aqaJBkNgl3": {
-        "id": "aqaJBkNgl3",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2017-01-13 13:04:34",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 22
         }
     }
 }

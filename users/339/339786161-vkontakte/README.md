@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>51</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>52</sup>
 ---
 
 ## 2016
+
+### Дорожная книга веб дизайнера
+Евгений Ржавцев
+
 
 ### Большая книга CSS 3
 Дэвид Макфарланд
