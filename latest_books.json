@@ -1,4 +1,16 @@
 {
+    "vUvvgmte_L": {
+        "id": "vUvvgmte_L",
+        "title": "Расология немецкого народа",
+        "author": "Ганс Ф.К. Гюнтер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:24:25",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 85
+        }
+    },
     "SaMMkK6GFB": {
         "id": "SaMMkK6GFB",
         "title": "Мужской альманах",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 56
-        }
-    },
-    "fFZbWwCXH2": {
-        "id": "fFZbWwCXH2",
-        "title": "Специальная физическая подготовка",
-        "author": "А.И.Долматов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:14:36",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 55
         }
     }
 }

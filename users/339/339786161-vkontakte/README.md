@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>84</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>85</sup>
 ---
 
 ## 2016
+
+### Расология немецкого народа
+Ганс Ф.К. Гюнтер
+
 
 ### Мужской альманах
 Алекс Светлый
