@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>6</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>7</sup>
 ---
 
 ## 2010
+
+### Черный ангел (Серия "Сталкер")
+Шалыгин Вячеслав Владимирович
+
 
 ### Клык (Серия "Сталкер")
 Ежи Тумановский

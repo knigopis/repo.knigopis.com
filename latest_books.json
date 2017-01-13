@@ -1,4 +1,16 @@
 {
+    "TzMHKm-dHU": {
+        "id": "TzMHKm-dHU",
+        "title": "Черный ангел (Серия \"Сталкер\")",
+        "author": "Шалыгин Вячеслав Владимирович",
+        "notes": "",
+        "createdAt": "2017-01-13 13:00:53",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 7
+        }
+    },
     "PeavsAHRfk": {
         "id": "PeavsAHRfk",
         "title": "Клык (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 21
-        }
-    },
-    "xn0aRcTnij": {
-        "id": "xn0aRcTnij",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-01-09 18:53:51",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 20
         }
     }
 }
