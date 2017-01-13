@@ -1,4 +1,16 @@
 {
+    "75bR1QXxnW": {
+        "id": "75bR1QXxnW",
+        "title": "Ницще за 90 минут",
+        "author": "Пол Стретерн",
+        "notes": "",
+        "createdAt": "2017-01-13 13:29:23",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 99
+        }
+    },
     "od7PBthwIQ": {
         "id": "od7PBthwIQ",
         "title": "Тактика легкой пехотя для малых групп",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 70
-        }
-    },
-    "FGWdMh6m8p": {
-        "id": "FGWdMh6m8p",
-        "title": "Подготовка снайперов. FM 23-10",
-        "author": "Штаб-квартира министерства Армии 17 августа 1994 года",
-        "notes": "",
-        "createdAt": "2017-01-13 13:19:51",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 69
         }
     }
 }

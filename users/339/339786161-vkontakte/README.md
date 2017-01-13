@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>98</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>99</sup>
 ---
 
 ## 2016
+
+### Ницще за 90 минут
+Пол Стретерн
+
 
 ### Тактика легкой пехотя для малых групп
 Кристофер Ларсен
