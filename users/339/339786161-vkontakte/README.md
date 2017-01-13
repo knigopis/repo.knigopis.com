@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>56</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>57</sup>
 ---
 
 ## 2016
+
+### 1984
+Джордж Оруэлл
+
 
 ### Бриллианты на шее. Элита истребительной авиации люфтваффе
 Михаил Зефиров
