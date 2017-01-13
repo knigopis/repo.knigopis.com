@@ -1,4 +1,10 @@
 {
+    "241736470-vkontakte": {
+        "id": "241736470-vkontakte",
+        "nickname": "mypulseis170bpm",
+        "booksCount": 0,
+        "updatedAt": "2017-01-13 19:08:40"
+    },
     "61418952-vkontakte": {
         "id": "61418952-vkontakte",
         "nickname": "ochenpasmurno",
@@ -172,11 +178,5 @@
         "nickname": "Krivzha",
         "booksCount": 0,
         "updatedAt": "2017-01-08 15:33:16"
-    },
-    "104993798183193187530-google": {
-        "id": "104993798183193187530-google",
-        "nickname": "sk379",
-        "booksCount": 4,
-        "updatedAt": "2017-01-08 13:49:20"
     }
 }
