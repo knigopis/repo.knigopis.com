@@ -1,4 +1,16 @@
 {
+    "dz2mTwGtrP": {
+        "id": "dz2mTwGtrP",
+        "title": "Дом на болоте (Серия \"Сталкер\")",
+        "author": "Калугин Алексей Александрович",
+        "notes": "",
+        "createdAt": "2017-01-13 12:59:02",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 1
+        }
+    },
     "XwUAoeVMZa": {
         "id": "XwUAoeVMZa",
         "title": "Крестный отец",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 15
-        }
-    },
-    "WM1V-Y7G0b": {
-        "id": "WM1V-Y7G0b",
-        "title": "Над прірвою в житі",
-        "author": "Джером Девід Селінджер",
-        "notes": "",
-        "createdAt": "2017-01-09 18:41:30",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 14
         }
     }
 }
