@@ -1,4 +1,16 @@
 {
+    "B-yXIrHbRs": {
+        "id": "B-yXIrHbRs",
+        "title": "Проведение годовых праздников в СС семье",
+        "author": "Фриц Вайтцель",
+        "notes": "",
+        "createdAt": "2017-01-13 13:17:40",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 61
+        }
+    },
     "C25WsiGcYn": {
         "id": "C25WsiGcYn",
         "title": "Белые повстанцы скалистых гор",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 32
-        }
-    },
-    "c2aecUzENp": {
-        "id": "c2aecUzENp",
-        "title": "Тактическая стрельба",
-        "author": "А.Потапов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:07:36",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 31
         }
     }
 }

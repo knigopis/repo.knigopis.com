@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>60</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>61</sup>
 ---
 
 ## 2016
+
+### Проведение годовых праздников в СС семье
+Фриц Вайтцель
+
 
 ### Белые повстанцы скалистых гор
 Дэвид Лэйн
