@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>13</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>14</sup>
 ---
 
 ## 2011
+
+### Как писать книги
+Стивен Кинг
+
 
 ### Безнадега
 Стивен Кинг

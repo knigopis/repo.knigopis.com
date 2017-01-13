@@ -1,4 +1,16 @@
 {
+    "KTx95xV6cS": {
+        "id": "KTx95xV6cS",
+        "title": "Как писать книги",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-01-13 13:02:39",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 14
+        }
+    },
     "k47xsrklY-": {
         "id": "k47xsrklY-",
         "title": "Безнадега",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 34
-        }
-    },
-    "I7xCBvCF13": {
-        "id": "I7xCBvCF13",
-        "title": "Тургенев",
-        "author": "Отцы и дети",
-        "notes": "",
-        "createdAt": "2017-01-11 16:51:18",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 19
         }
     }
 }
