@@ -1,4 +1,16 @@
 {
+    "od7PBthwIQ": {
+        "id": "od7PBthwIQ",
+        "title": "Тактика легкой пехотя для малых групп",
+        "author": "Кристофер Ларсен",
+        "notes": "",
+        "createdAt": "2017-01-13 13:29:12",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 98
+        }
+    },
     "kavCBYg6O8": {
         "id": "kavCBYg6O8",
         "title": "HTML 5. Недостающее руководство",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 69
-        }
-    },
-    "SPrw4flg53": {
-        "id": "SPrw4flg53",
-        "title": "Шесть миллионов - потеряны и найдены",
-        "author": "Ричард Харвуд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:19:39",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 68
         }
     }
 }

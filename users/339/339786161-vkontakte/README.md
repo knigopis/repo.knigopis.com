@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>97</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>98</sup>
 ---
 
 ## 2016
+
+### Тактика легкой пехотя для малых групп
+Кристофер Ларсен
+
 
 ### HTML 5. Недостающее руководство
 Мэтью Мак-Дональд
