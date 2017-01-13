@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>33</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>34</sup>
 ---
 
 ## 2015
+
+### Викинги
+И.Хит
+
 
 ### Совершенный снайпер
 Джон Пластер
