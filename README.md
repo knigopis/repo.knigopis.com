@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[krieghoff](users/339/339786161-vkontakte)<sup>73</sup> 
+[krieghoff](users/339/339786161-vkontakte)<sup>74</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>132</sup> 
 [maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Maria](users/698/698159696990609-facebook)<sup>0</sup> 
 
 
-_13.01.2017 13:20:37_
+_13.01.2017 13:21:02_

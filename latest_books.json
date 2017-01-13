@@ -1,4 +1,16 @@
 {
+    "T383uL-wvb": {
+        "id": "T383uL-wvb",
+        "title": "2083. Европейская декларация независимости. (книга 1)",
+        "author": "А́ндерс Бе́ринг Бре́йвик",
+        "notes": "",
+        "createdAt": "2017-01-13 13:21:02",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 74
+        }
+    },
     "RCd1GD5sFI": {
         "id": "RCd1GD5sFI",
         "title": "Демократия как вырождение",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 45
-        }
-    },
-    "IFc4zbAgFQ": {
-        "id": "IFc4zbAgFQ",
-        "title": "Сила есть право",
-        "author": "Рагнар Редберд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:11:56",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 44
         }
     }
 }

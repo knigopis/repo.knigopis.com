@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>73</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>74</sup>
 ---
 
 ## 2016
+
+### 2083. Европейская декларация независимости. (книга 1)
+А́ндерс Бе́ринг Бре́йвик
+
 
 ### Демократия как вырождение
 Игорь Бестужев
