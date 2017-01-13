@@ -1,4 +1,16 @@
 {
+    "1f7o-z0EoR": {
+        "id": "1f7o-z0EoR",
+        "title": "Книга о рыцарском ордене",
+        "author": "Рамон Льюль.  1275 год",
+        "notes": "",
+        "createdAt": "2017-01-13 13:30:23",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 104
+        }
+    },
     "WUCR8zQeAg": {
         "id": "WUCR8zQeAg",
         "title": "48  законов  власти",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 75
-        }
-    },
-    "T383uL-wvb": {
-        "id": "T383uL-wvb",
-        "title": "2083. Европейская декларация независимости. (книга 1)",
-        "author": "А́ндерс Бе́ринг Бре́йвик",
-        "notes": "",
-        "createdAt": "2017-01-13 13:21:02",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 74
         }
     }
 }
