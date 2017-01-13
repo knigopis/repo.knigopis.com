@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>31</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>32</sup>
 ---
 
 ## 2015
+
+### Анатомия страха. Трактат о храбрости
+Хосе Антонио Марина
+
 
 ### Искусство любить
 Эрих Фромм

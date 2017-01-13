@@ -1,4 +1,16 @@
 {
+    "b51Kh4C8YX": {
+        "id": "b51Kh4C8YX",
+        "title": "Анатомия страха. Трактат о храбрости",
+        "author": "Хосе Антонио Марина",
+        "notes": "",
+        "createdAt": "2017-01-13 13:07:48",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 32
+        }
+    },
     "c2aecUzENp": {
         "id": "c2aecUzENp",
         "title": "Тактическая стрельба",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 3
-        }
-    },
-    "F64pSySmPQ": {
-        "id": "F64pSySmPQ",
-        "title": "Мечта на поражение (Серия \"Сталкер\")",
-        "author": "Калугин Алексей Александрович",
-        "notes": "",
-        "createdAt": "2017-01-13 12:59:22",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 2
         }
     }
 }
