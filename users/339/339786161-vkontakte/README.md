@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>55</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>56</sup>
 ---
 
 ## 2016
+
+### Бриллианты на шее. Элита истребительной авиации люфтваффе
+Михаил Зефиров
+
 
 ### Специальная физическая подготовка
 А.И.Долматов
