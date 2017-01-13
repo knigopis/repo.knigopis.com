@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>94</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>95</sup>
 ---
 
 ## 2016
+
+### Easy Fucking
+Остап Калашников
+
 
 ### Вера и действие. Для Гитлерюгенд
 Helmut Stellrecht

@@ -1,4 +1,16 @@
 {
+    "id56OVJVYv": {
+        "id": "id56OVJVYv",
+        "title": "Easy Fucking",
+        "author": "Остап Калашников",
+        "notes": "",
+        "createdAt": "2017-01-13 13:28:40",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 95
+        }
+    },
     "iqsR8AUQcK": {
         "id": "iqsR8AUQcK",
         "title": "Вера и действие. Для Гитлерюгенд",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 66
-        }
-    },
-    "iTrhck8xWM": {
-        "id": "iTrhck8xWM",
-        "title": "Ревизионизм холокоста",
-        "author": "Юрген Граф",
-        "notes": "",
-        "createdAt": "2017-01-13 13:18:48",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 65
         }
     }
 }
