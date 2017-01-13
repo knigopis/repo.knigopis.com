@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>4</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>5</sup>
 ---
 
 ## 2010
+
+### Эпицентр удачи (Серия "Сталкер")
+Янковский Дмитрий Валентинович
+
 
 ### Обратный отсчёт (Серия "Сталкер")
 Шалыгин Вячеслав Владимирович

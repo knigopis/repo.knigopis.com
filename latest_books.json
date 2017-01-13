@@ -1,4 +1,16 @@
 {
+    "b-hxhQsBsa": {
+        "id": "b-hxhQsBsa",
+        "title": "Эпицентр удачи (Серия \"Сталкер\")",
+        "author": "Янковский Дмитрий Валентинович",
+        "notes": "",
+        "createdAt": "2017-01-13 13:00:09",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 5
+        }
+    },
     "E2T0U-A5OV": {
         "id": "E2T0U-A5OV",
         "title": "Обратный отсчёт (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 19
-        }
-    },
-    "_tEhdQ0qG2": {
-        "id": "_tEhdQ0qG2",
-        "title": "Алхімік",
-        "author": "Пауло Коельйо",
-        "notes": "",
-        "createdAt": "2017-01-09 18:49:21",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 18
         }
     }
 }
