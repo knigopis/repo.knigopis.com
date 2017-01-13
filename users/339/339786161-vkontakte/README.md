@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>90</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>91</sup>
 ---
 
 ## 2016
+
+### Реководство по открыванию замков. Сборник
+н.д. (74 стр.)
+
 
 ### Ку Клукс Клан. Белое движение США
 Москва. 2001. 72 стр

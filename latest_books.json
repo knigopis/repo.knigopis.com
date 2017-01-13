@@ -1,4 +1,16 @@
 {
+    "6z6Bpgt3-s": {
+        "id": "6z6Bpgt3-s",
+        "title": "Реководство по открыванию замков. Сборник",
+        "author": "н.д. (74 стр.)",
+        "notes": "",
+        "createdAt": "2017-01-13 13:27:52",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 91
+        }
+    },
     "YjfNQyOvZF": {
         "id": "YjfNQyOvZF",
         "title": "Ку Клукс Клан. Белое движение США",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 62
-        }
-    },
-    "B-yXIrHbRs": {
-        "id": "B-yXIrHbRs",
-        "title": "Проведение годовых праздников в СС семье",
-        "author": "Фриц Вайтцель",
-        "notes": "",
-        "createdAt": "2017-01-13 13:17:40",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 61
         }
     }
 }
