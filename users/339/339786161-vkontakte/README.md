@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>105</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>106</sup>
 ---
 
 ## 2016
+
+### Неприрожденные убийцы
+Георгий Оперской
+
 
 ### Александр Македонский
 Диодор Сицилийский

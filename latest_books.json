@@ -1,4 +1,16 @@
 {
+    "aI5L3zP_te": {
+        "id": "aI5L3zP_te",
+        "title": "Неприрожденные убийцы",
+        "author": "Георгий Оперской",
+        "notes": "",
+        "createdAt": "2017-01-13 13:30:47",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 106
+        }
+    },
     "Zyx47cqdKo": {
         "id": "Zyx47cqdKo",
         "title": "Александр Македонский",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 77
-        }
-    },
-    "TdBqFMd0M-": {
-        "id": "TdBqFMd0M-",
-        "title": "Юлиус Эвола: Благородный дух",
-        "author": "Зиглинг (издание)",
-        "notes": "",
-        "createdAt": "2017-01-13 13:21:57",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 76
         }
     }
 }
