@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>66</sup> 
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Krivzha](users/172/1729223597304810-facebook)<sup>0</sup> 
 [sk379](users/104/104993798183193187530-google)<sup>4</sup> 
 [devidin9](users/170/170170925-vkontakte)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>24</sup> 
 
 
-_13.01.2017 17:22:22_
+_13.01.2017 18:18:58_
