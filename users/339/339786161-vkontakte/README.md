@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>104</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>105</sup>
 ---
 
 ## 2016
+
+### Александр Македонский
+Диодор Сицилийский
+
 
 ### Книга о рыцарском ордене
 Рамон Льюль.  1275 год

@@ -1,4 +1,16 @@
 {
+    "Zyx47cqdKo": {
+        "id": "Zyx47cqdKo",
+        "title": "Александр Македонский",
+        "author": "Диодор Сицилийский",
+        "notes": "",
+        "createdAt": "2017-01-13 13:30:37",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 105
+        }
+    },
     "1f7o-z0EoR": {
         "id": "1f7o-z0EoR",
         "title": "Книга о рыцарском ордене",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 76
-        }
-    },
-    "lrQS1rkZ3r": {
-        "id": "lrQS1rkZ3r",
-        "title": "Записки Курта Фалькенхорста",
-        "author": "Илья Маслов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:21:34",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 75
         }
     }
 }
