@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>99</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>100</sup>
 ---
 
 ## 2016
+
+### Конфуций за 90 минут
+Пол Стретерн
+
 
 ### Ницще за 90 минут
 Пол Стретерн

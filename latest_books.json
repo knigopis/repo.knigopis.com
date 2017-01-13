@@ -1,4 +1,16 @@
 {
+    "kcnXDkEBNE": {
+        "id": "kcnXDkEBNE",
+        "title": "Конфуций за 90 минут",
+        "author": "Пол Стретерн",
+        "notes": "",
+        "createdAt": "2017-01-13 13:29:33",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 100
+        }
+    },
     "75bR1QXxnW": {
         "id": "75bR1QXxnW",
         "title": "Ницще за 90 минут",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 71
-        }
-    },
-    "kB_ERaXhyQ": {
-        "id": "kB_ERaXhyQ",
-        "title": "Касты и расы",
-        "author": "Юлиус Эвола",
-        "notes": "",
-        "createdAt": "2017-01-13 13:20:01",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 70
         }
     }
 }
