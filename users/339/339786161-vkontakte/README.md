@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>18</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>19</sup>
 ---
 
 ## 2012
+
+### Маленикий принц
+Антуан Де Сент-Экзюпери
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд

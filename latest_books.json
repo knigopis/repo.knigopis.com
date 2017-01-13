@@ -1,4 +1,16 @@
 {
+    "xhIC5eD_xJ": {
+        "id": "xhIC5eD_xJ",
+        "title": "Маленикий принц",
+        "author": "Антуан Де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-01-13 13:04:00",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 19
+        }
+    },
     "lFHrrsRDnt": {
         "id": "lFHrrsRDnt",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 39
-        }
-    },
-    "ZmbXqhXgrZ": {
-        "id": "ZmbXqhXgrZ",
-        "title": "",
-        "author": "Юрий Никитин",
-        "notes": "",
-        "createdAt": "2017-01-11 18:45:42",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 38
         }
     }
 }
