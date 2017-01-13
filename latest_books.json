@@ -1,4 +1,16 @@
 {
+    "lFHrrsRDnt": {
+        "id": "lFHrrsRDnt",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:03:40",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 18
+        }
+    },
     "3Fwh-68r2D": {
         "id": "3Fwh-68r2D",
         "title": "Приключения Тома Сойера и Гекльберри Финна",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 38
-        }
-    },
-    "RI5vcmKQEk": {
-        "id": "RI5vcmKQEk",
-        "title": "Спартак",
-        "author": "Раффаэлло Джованьолли",
-        "notes": "",
-        "createdAt": "2017-01-11 18:45:16",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 37
         }
     }
 }

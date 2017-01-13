@@ -1,5 +1,12 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>17</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>18</sup>
 ---
+
+## 2012
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
+
 
 ## 2011
 
