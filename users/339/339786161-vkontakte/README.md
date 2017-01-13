@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>7</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>8</sup>
 ---
 
 ## 2010
+
+### Песочные часы (Серия "Сталкер")
+Недоруб Сергей Иванович
+
 
 ### Черный ангел (Серия "Сталкер")
 Шалыгин Вячеслав Владимирович

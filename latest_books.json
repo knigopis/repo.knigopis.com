@@ -1,4 +1,16 @@
 {
+    "hCiYdoiTmb": {
+        "id": "hCiYdoiTmb",
+        "title": "Песочные часы (Серия \"Сталкер\")",
+        "author": "Недоруб Сергей Иванович",
+        "notes": "",
+        "createdAt": "2017-01-13 13:01:05",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 8
+        }
+    },
     "TzMHKm-dHU": {
         "id": "TzMHKm-dHU",
         "title": "Черный ангел (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 22
-        }
-    },
-    "oQr4l91OpC": {
-        "id": "oQr4l91OpC",
-        "title": "Острів скарбів",
-        "author": "Роберт Стівенсон",
-        "notes": "",
-        "createdAt": "2017-01-09 18:54:36",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 21
         }
     }
 }
