@@ -1,4 +1,16 @@
 {
+    "F64pSySmPQ": {
+        "id": "F64pSySmPQ",
+        "title": "Мечта на поражение (Серия \"Сталкер\")",
+        "author": "Калугин Алексей Александрович",
+        "notes": "",
+        "createdAt": "2017-01-13 12:59:22",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 2
+        }
+    },
     "dz2mTwGtrP": {
         "id": "dz2mTwGtrP",
         "title": "Дом на болоте (Серия \"Сталкер\")",
@@ -345,18 +357,6 @@
             "id": "1367562056650260-facebook",
             "nickname": "Ромашка 8000",
             "booksCount": 16
-        }
-    },
-    "qh7MFVORPU": {
-        "id": "qh7MFVORPU",
-        "title": "Великі сподівання",
-        "author": "Чарлз Діккенс",
-        "notes": "",
-        "createdAt": "2017-01-09 18:43:04",
-        "user": {
-            "id": "1367562056650260-facebook",
-            "nickname": "Ромашка 8000",
-            "booksCount": 15
         }
     }
 }

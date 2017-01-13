@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>1</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>2</sup>
 ---
 
 ## 2010
+
+### Мечта на поражение (Серия "Сталкер")
+Калугин Алексей Александрович
+
 
 ### Дом на болоте (Серия "Сталкер")
 Калугин Алексей Александрович
