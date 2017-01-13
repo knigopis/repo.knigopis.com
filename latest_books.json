@@ -1,4 +1,16 @@
 {
+    "qGE6xXSrBG": {
+        "id": "qGE6xXSrBG",
+        "title": "Юлиус Эвола: Арийское учение о борьбе и победе (1940)",
+        "author": "Издание и послесловие Зиглинга. (Опубликован в 1941 году, издательство Антон Шролль и Ко. , Вена.)",
+        "notes": "",
+        "createdAt": "2017-01-13 13:23:21",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 82
+        }
+    },
     "gTTPVJI0nq": {
         "id": "gTTPVJI0nq",
         "title": "Боевая стрельба из пистолета. Израильский стиль",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 53
-        }
-    },
-    "kHykq3LYAL": {
-        "id": "kHykq3LYAL",
-        "title": "Дорожная книга веб дизайнера",
-        "author": "Евгений Ржавцев",
-        "notes": "",
-        "createdAt": "2017-01-13 13:13:59",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 52
         }
     }
 }
