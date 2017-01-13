@@ -1,4 +1,16 @@
 {
+    "zB-sXFlD86": {
+        "id": "zB-sXFlD86",
+        "title": "Изучаем HTML 5",
+        "author": "Б.Лоусон и Р.Шарп",
+        "notes": "",
+        "createdAt": "2017-01-13 13:14:11",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 53
+        }
+    },
     "kHykq3LYAL": {
         "id": "kHykq3LYAL",
         "title": "Дорожная книга веб дизайнера",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 24
-        }
-    },
-    "cUgM5BXB20": {
-        "id": "cUgM5BXB20",
-        "title": "Римская республика. От семи царей до республиканского правления",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:05:28",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 23
         }
     }
 }

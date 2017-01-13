@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>52</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>53</sup>
 ---
 
 ## 2016
+
+### Изучаем HTML 5
+Б.Лоусон и Р.Шарп
+
 
 ### Дорожная книга веб дизайнера
 Евгений Ржавцев
