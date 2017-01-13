@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>54</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>55</sup>
 ---
 
 ## 2016
+
+### Специальная физическая подготовка
+А.И.Долматов
+
 
 ### CSS 3 для веб дизайнеров
 Дэн Синдерхолм

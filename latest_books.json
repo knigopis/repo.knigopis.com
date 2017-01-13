@@ -1,4 +1,16 @@
 {
+    "fFZbWwCXH2": {
+        "id": "fFZbWwCXH2",
+        "title": "Специальная физическая подготовка",
+        "author": "А.И.Долматов",
+        "notes": "",
+        "createdAt": "2017-01-13 13:14:36",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 55
+        }
+    },
     "aqaQQZlJcl": {
         "id": "aqaQQZlJcl",
         "title": "CSS 3 для веб дизайнеров",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 26
-        }
-    },
-    "3QfS4dy3-x": {
-        "id": "3QfS4dy3-x",
-        "title": "Атлас первой медицинской помощи в условиях проведения антитеррористических операций",
-        "author": "В.Г.Бубнов",
-        "notes": "",
-        "createdAt": "2017-01-13 13:05:55",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 25
         }
     }
 }
