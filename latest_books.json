@@ -1,4 +1,16 @@
 {
+    "L9EwxHNGa3": {
+        "id": "L9EwxHNGa3",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "",
+        "createdAt": "2017-01-13 13:07:21",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 30
+        }
+    },
     "AbaAdxUEHj": {
         "id": "AbaAdxUEHj",
         "title": "Борьба за существование нордического человека",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 1
-        }
-    },
-    "XwUAoeVMZa": {
-        "id": "XwUAoeVMZa",
-        "title": "Крестный отец",
-        "author": "Марио Пьюзо",
-        "notes": "",
-        "createdAt": "2017-01-13 12:05:20",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 87
         }
     }
 }

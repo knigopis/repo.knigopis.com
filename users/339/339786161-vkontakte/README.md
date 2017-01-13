@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>29</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>30</sup>
 ---
 
 ## 2015
+
+### Искусство любить
+Эрих Фромм
+
 
 ### Борьба за существование нордического человека
 Х.Беккер
