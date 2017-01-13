@@ -1,4 +1,16 @@
 {
+    "3Fwh-68r2D": {
+        "id": "3Fwh-68r2D",
+        "title": "Приключения Тома Сойера и Гекльберри Финна",
+        "author": "Март Твен",
+        "notes": "",
+        "createdAt": "2017-01-13 13:03:24",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 17
+        }
+    },
     "PsE3yOQSck": {
         "id": "PsE3yOQSck",
         "title": "Алиса в зазеркалье",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 37
-        }
-    },
-    "emRiPkmIEA": {
-        "id": "emRiPkmIEA",
-        "title": "Властелин колец",
-        "author": "Джон Толкин",
-        "notes": "",
-        "createdAt": "2017-01-11 18:43:24",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 36
         }
     }
 }
