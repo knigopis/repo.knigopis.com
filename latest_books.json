@@ -1,4 +1,16 @@
 {
+    "c2aecUzENp": {
+        "id": "c2aecUzENp",
+        "title": "Тактическая стрельба",
+        "author": "А.Потапов",
+        "notes": "",
+        "createdAt": "2017-01-13 13:07:36",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 31
+        }
+    },
     "L9EwxHNGa3": {
         "id": "L9EwxHNGa3",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 2
-        }
-    },
-    "dz2mTwGtrP": {
-        "id": "dz2mTwGtrP",
-        "title": "Дом на болоте (Серия \"Сталкер\")",
-        "author": "Калугин Алексей Александрович",
-        "notes": "",
-        "createdAt": "2017-01-13 12:59:02",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 1
         }
     }
 }
