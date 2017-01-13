@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>20</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>21</sup>
 ---
 
 ## 2012
+
+### Восставший из ада
+Клайв Баркер
+
 
 ### О скитаниях вечных и о Земле
 Рей Бредбери

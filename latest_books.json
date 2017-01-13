@@ -1,4 +1,16 @@
 {
+    "wpiSKWLN-f": {
+        "id": "wpiSKWLN-f",
+        "title": "Восставший из ада",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:04:22",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 21
+        }
+    },
     "324HfeKLrS": {
         "id": "324HfeKLrS",
         "title": "О скитаниях вечных и о Земле",
@@ -345,18 +357,6 @@
             "id": "1139361566180442-facebook",
             "nickname": "Audacieux",
             "booksCount": 1
-        }
-    },
-    "BsJpsjqr1c": {
-        "id": "BsJpsjqr1c",
-        "title": "В списках не значился",
-        "author": "Борис Васильев",
-        "notes": "Душевная книга. Ярко расписана оборона крепости. Подвиг человека, который не сдавался до самого конца, даже когда не осталось ни сил, ни еды.",
-        "createdAt": "2017-01-11 18:55:12",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 40
         }
     }
 }
