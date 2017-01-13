@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>69</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>70</sup>
 ---
 
 ## 2016
+
+### Касты и расы
+Юлиус Эвола
+
 
 ### Подготовка снайперов. FM 23-10
 Штаб-квартира министерства Армии 17 августа 1994 года
