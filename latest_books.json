@@ -1,4 +1,16 @@
 {
+    "ws9kVWnIhT": {
+        "id": "ws9kVWnIhT",
+        "title": "Шелк",
+        "author": "Алессандро Барикко",
+        "notes": "",
+        "createdAt": "2017-01-13 13:02:01",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 11
+        }
+    },
     "_VdHWDTiPF": {
         "id": "_VdHWDTiPF",
         "title": "Стив Джобс",
@@ -345,18 +357,6 @@
             "id": "1093110572-instagram",
             "nickname": "spiridonov_nikita",
             "booksCount": 1
-        }
-    },
-    "F2KLh0sGPU": {
-        "id": "F2KLh0sGPU",
-        "title": "Тайна перевала Дятлова",
-        "author": "",
-        "notes": "Очень любопытная история о смерти молодых людей. Тайну рассматривают со всех ракурсов в различных программах. Даже был сюжет в экстрасенсах.",
-        "createdAt": "2017-01-10 12:43:44",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 33
         }
     }
 }
