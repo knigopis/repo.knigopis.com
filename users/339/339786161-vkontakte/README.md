@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>79</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>80</sup>
 ---
 
 ## 2016
+
+### Исчезновение талантов в Европе
+Ферлаг Хоэ Варте - Франц фон Бебенбург, 1959
+
 
 ### Проектирование будущего
 Жак Фреско
