@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>35</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>36</sup>
 ---
 
 ## 2015
+
+### Образ врага. Расология и полит.антропология
+А.Н.Савельев
+
 
 ### Я расскажу тебе о викингах
 М.В.Семенова

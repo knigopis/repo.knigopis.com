@@ -1,4 +1,16 @@
 {
+    "fkV2HTGg4o": {
+        "id": "fkV2HTGg4o",
+        "title": "Образ врага. Расология и полит.антропология",
+        "author": "А.Н.Савельев",
+        "notes": "",
+        "createdAt": "2017-01-13 13:08:49",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 36
+        }
+    },
     "W14h7z15jS": {
         "id": "W14h7z15jS",
         "title": "Я расскажу тебе о викингах",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 7
-        }
-    },
-    "PeavsAHRfk": {
-        "id": "PeavsAHRfk",
-        "title": "Клык (Серия \"Сталкер\")",
-        "author": "Ежи Тумановский",
-        "notes": "",
-        "createdAt": "2017-01-13 13:00:23",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 6
         }
     }
 }
