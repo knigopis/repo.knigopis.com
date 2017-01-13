@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>2</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>3</sup>
 ---
 
 ## 2010
+
+### Контрольный выброс (Серия "Сталкер")
+Ливадный Андрей Львович
+
 
 ### Мечта на поражение (Серия "Сталкер")
 Калугин Алексей Александрович
