@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>38</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>39</sup>
 ---
 
 ## 2015
+
+### Евгеника XXI века
+Джон Глэд
+
 
 ### Боевая подготовка спецназа
 А.Н.Ардашев

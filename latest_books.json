@@ -1,4 +1,16 @@
 {
+    "CbfqE7sTqG": {
+        "id": "CbfqE7sTqG",
+        "title": "Евгеника XXI века",
+        "author": "Джон Глэд",
+        "notes": "",
+        "createdAt": "2017-01-13 13:10:56",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 39
+        }
+    },
     "9ImfUddUdC": {
         "id": "9ImfUddUdC",
         "title": "Боевая подготовка спецназа",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 10
-        }
-    },
-    "f23WKnVBmG": {
-        "id": "f23WKnVBmG",
-        "title": "Партизанская война",
-        "author": "Эрнесто Че Гевара",
-        "notes": "",
-        "createdAt": "2017-01-13 13:01:22",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 9
         }
     }
 }
