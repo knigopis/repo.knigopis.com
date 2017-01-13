@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>93</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>94</sup>
 ---
 
 ## 2016
+
+### Вера и действие. Для Гитлерюгенд
+Helmut Stellrecht
+
 
 ### Крысолюди
 Орей Волот

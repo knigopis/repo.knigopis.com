@@ -1,4 +1,16 @@
 {
+    "iqsR8AUQcK": {
+        "id": "iqsR8AUQcK",
+        "title": "Вера и действие. Для Гитлерюгенд",
+        "author": "Helmut Stellrecht",
+        "notes": "",
+        "createdAt": "2017-01-13 13:28:28",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 94
+        }
+    },
     "FXt7MeRC9K": {
         "id": "FXt7MeRC9K",
         "title": "Крысолюди",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 65
-        }
-    },
-    "oBnrizdhn-": {
-        "id": "oBnrizdhn-",
-        "title": "Европейская федерация СС",
-        "author": "(буклет)",
-        "notes": "",
-        "createdAt": "2017-01-13 13:18:32",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 64
         }
     }
 }
