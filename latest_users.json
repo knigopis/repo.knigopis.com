@@ -1,4 +1,10 @@
 {
+    "1033463-vkontakte": {
+        "id": "1033463-vkontakte",
+        "nickname": "gubarevr",
+        "booksCount": 0,
+        "updatedAt": "2017-01-13 20:08:31"
+    },
     "241736470-vkontakte": {
         "id": "241736470-vkontakte",
         "nickname": "mypulseis170bpm",
@@ -172,11 +178,5 @@
         "nickname": "sparoff",
         "booksCount": 1,
         "updatedAt": "2017-01-08 19:26:47"
-    },
-    "1729223597304810-facebook": {
-        "id": "1729223597304810-facebook",
-        "nickname": "Krivzha",
-        "booksCount": 0,
-        "updatedAt": "2017-01-08 15:33:16"
     }
 }
