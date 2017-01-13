@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>64</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>65</sup>
 ---
 
 ## 2016
+
+### Ревизионизм холокоста
+Юрген Граф
+
 
 ### Европейская федерация СС
 (буклет)

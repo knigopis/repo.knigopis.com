@@ -1,4 +1,16 @@
 {
+    "iTrhck8xWM": {
+        "id": "iTrhck8xWM",
+        "title": "Ревизионизм холокоста",
+        "author": "Юрген Граф",
+        "notes": "",
+        "createdAt": "2017-01-13 13:18:48",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 65
+        }
+    },
     "oBnrizdhn-": {
         "id": "oBnrizdhn-",
         "title": "Европейская федерация СС",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 36
-        }
-    },
-    "W14h7z15jS": {
-        "id": "W14h7z15jS",
-        "title": "Я расскажу тебе о викингах",
-        "author": "М.В.Семенова",
-        "notes": "",
-        "createdAt": "2017-01-13 13:08:30",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 35
         }
     }
 }
