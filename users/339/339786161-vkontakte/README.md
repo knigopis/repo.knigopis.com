@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>96</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>97</sup>
 ---
 
 ## 2016
+
+### HTML 5. Недостающее руководство
+Мэтью Мак-Дональд
+
 
 ### Идеальный Landing Page
 А. Петроченков
