@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>37</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>38</sup>
 ---
 
 ## 2015
+
+### Боевая подготовка спецназа
+А.Н.Ардашев
+
 
 ### Женщина
 Олег Новоселов

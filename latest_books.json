@@ -1,4 +1,16 @@
 {
+    "9ImfUddUdC": {
+        "id": "9ImfUddUdC",
+        "title": "Боевая подготовка спецназа",
+        "author": "А.Н.Ардашев",
+        "notes": "",
+        "createdAt": "2017-01-13 13:10:41",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 38
+        }
+    },
     "j0-JjkmoNd": {
         "id": "j0-JjkmoNd",
         "title": "Женщина",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 9
-        }
-    },
-    "hCiYdoiTmb": {
-        "id": "hCiYdoiTmb",
-        "title": "Песочные часы (Серия \"Сталкер\")",
-        "author": "Недоруб Сергей Иванович",
-        "notes": "",
-        "createdAt": "2017-01-13 13:01:05",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 8
         }
     }
 }
