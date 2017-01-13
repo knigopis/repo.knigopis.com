@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>92</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>93</sup>
 ---
 
 ## 2016
+
+### Крысолюди
+Орей Волот
+
 
 ### Учебник добровольцев IRA
 (Руководство)

@@ -1,4 +1,16 @@
 {
+    "FXt7MeRC9K": {
+        "id": "FXt7MeRC9K",
+        "title": "Крысолюди",
+        "author": "Орей Волот",
+        "notes": "",
+        "createdAt": "2017-01-13 13:28:16",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 93
+        }
+    },
     "VO77IOjhwF": {
         "id": "VO77IOjhwF",
         "title": "Учебник добровольцев IRA",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 64
-        }
-    },
-    "0P5gG6LJk0": {
-        "id": "0P5gG6LJk0",
-        "title": "Как мы будем жить на Марсе",
-        "author": "Стивен Патернак",
-        "notes": "",
-        "createdAt": "2017-01-13 13:18:03",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 63
         }
     }
 }
