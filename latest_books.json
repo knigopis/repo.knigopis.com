@@ -1,4 +1,16 @@
 {
+    "Q2spRHZ5Mi": {
+        "id": "Q2spRHZ5Mi",
+        "title": "Древние Римляне. Расцвет и закат римского мира. Подборка публикаций",
+        "author": "Профессор доктор Ганс Ф.К. Гюнтер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:24:04",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 83
+        }
+    },
     "qGE6xXSrBG": {
         "id": "qGE6xXSrBG",
         "title": "Юлиус Эвола: Арийское учение о борьбе и победе (1940)",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 54
-        }
-    },
-    "zB-sXFlD86": {
-        "id": "zB-sXFlD86",
-        "title": "Изучаем HTML 5",
-        "author": "Б.Лоусон и Р.Шарп",
-        "notes": "",
-        "createdAt": "2017-01-13 13:14:11",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 53
         }
     }
 }
