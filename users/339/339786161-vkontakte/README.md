@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>75</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>76</sup>
 ---
 
 ## 2016
+
+### Юлиус Эвола: Благородный дух
+Зиглинг (издание)
+
 
 ### Записки Курта Фалькенхорста
 Илья Маслов
