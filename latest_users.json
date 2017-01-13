@@ -1,4 +1,10 @@
 {
+    "61418952-vkontakte": {
+        "id": "61418952-vkontakte",
+        "nickname": "ochenpasmurno",
+        "booksCount": 0,
+        "updatedAt": "2017-01-13 18:41:48"
+    },
     "6367439-vkontakte": {
         "id": "6367439-vkontakte",
         "nickname": "the_seven_way",
@@ -172,11 +178,5 @@
         "nickname": "sk379",
         "booksCount": 4,
         "updatedAt": "2017-01-08 13:49:20"
-    },
-    "170170925-vkontakte": {
-        "id": "170170925-vkontakte",
-        "nickname": "devidin9",
-        "booksCount": 0,
-        "updatedAt": "2017-01-08 11:12:12"
     }
 }
