@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>67</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>68</sup>
 ---
 
 ## 2016
+
+### Шесть миллионов - потеряны и найдены
+Ричард Харвуд
+
 
 ### 14 слов и 88 заповедей
 Дэвид Лэйн
