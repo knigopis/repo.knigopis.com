@@ -1,4 +1,16 @@
 {
+    "BvUNRnuwym": {
+        "id": "BvUNRnuwym",
+        "title": "Достань нож и убей",
+        "author": "Дон Пентакост",
+        "notes": "",
+        "createdAt": "2017-01-13 13:29:43",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 101
+        }
+    },
     "kcnXDkEBNE": {
         "id": "kcnXDkEBNE",
         "title": "Конфуций за 90 минут",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 72
-        }
-    },
-    "49pZXS8Ati": {
-        "id": "49pZXS8Ati",
-        "title": "Ариец и его социальная роль",
-        "author": "Жорж Ваше де Лапуж",
-        "notes": "",
-        "createdAt": "2017-01-13 13:20:12",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 71
         }
     }
 }

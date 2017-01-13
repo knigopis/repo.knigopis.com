@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>100</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>101</sup>
 ---
 
 ## 2016
+
+### Достань нож и убей
+Дон Пентакост
+
 
 ### Конфуций за 90 минут
 Пол Стретерн
