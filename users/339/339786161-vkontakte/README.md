@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>34</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>35</sup>
 ---
 
 ## 2015
+
+### Я расскажу тебе о викингах
+М.В.Семенова
+
 
 ### Викинги
 И.Хит

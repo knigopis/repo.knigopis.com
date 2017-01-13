@@ -1,4 +1,16 @@
 {
+    "W14h7z15jS": {
+        "id": "W14h7z15jS",
+        "title": "Я расскажу тебе о викингах",
+        "author": "М.В.Семенова",
+        "notes": "",
+        "createdAt": "2017-01-13 13:08:30",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 35
+        }
+    },
     "lsmLQG6Vl4": {
         "id": "lsmLQG6Vl4",
         "title": "Викинги",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 6
-        }
-    },
-    "b-hxhQsBsa": {
-        "id": "b-hxhQsBsa",
-        "title": "Эпицентр удачи (Серия \"Сталкер\")",
-        "author": "Янковский Дмитрий Валентинович",
-        "notes": "",
-        "createdAt": "2017-01-13 13:00:09",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 5
         }
     }
 }
