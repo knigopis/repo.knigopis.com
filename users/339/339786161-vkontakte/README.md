@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>42</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>43</sup>
 ---
 
 ## 2015
+
+### Избранные работы по расологии
+Ганс Ф.К.Гюнтер
+
 
 ### Гитлер на тысячу лет
 Леон Дегрелль

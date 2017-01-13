@@ -1,4 +1,16 @@
 {
+    "5an2uPPpSF": {
+        "id": "5an2uPPpSF",
+        "title": "Избранные работы по расологии",
+        "author": "Ганс Ф.К.Гюнтер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:11:46",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 43
+        }
+    },
     "4mDd1VpfBO": {
         "id": "4mDd1VpfBO",
         "title": "Гитлер на тысячу лет",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 14
-        }
-    },
-    "k47xsrklY-": {
-        "id": "k47xsrklY-",
-        "title": "Безнадега",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-01-13 13:02:28",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 13
         }
     }
 }
