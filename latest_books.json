@@ -1,4 +1,16 @@
 {
+    "QdjDfQCahG": {
+        "id": "QdjDfQCahG",
+        "title": "Моя борьба",
+        "author": "Адольф Гитлер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:11:22",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 41
+        }
+    },
     "Rs0-Kv0Tai": {
         "id": "Rs0-Kv0Tai",
         "title": "Так говорил Заратустра",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 12
-        }
-    },
-    "ws9kVWnIhT": {
-        "id": "ws9kVWnIhT",
-        "title": "Шелк",
-        "author": "Алессандро Барикко",
-        "notes": "",
-        "createdAt": "2017-01-13 13:02:01",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 11
         }
     }
 }

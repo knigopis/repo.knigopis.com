@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>40</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>41</sup>
 ---
 
 ## 2015
+
+### Моя борьба
+Адольф Гитлер
+
 
 ### Так говорил Заратустра
 Фридрих Ницше
