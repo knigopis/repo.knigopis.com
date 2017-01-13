@@ -1,4 +1,16 @@
 {
+    "aEKyR-coiG": {
+        "id": "aEKyR-coiG",
+        "title": "Раса и Этнос",
+        "author": "В.Б. Авдеев",
+        "notes": "",
+        "createdAt": "2017-01-13 13:24:35",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 86
+        }
+    },
     "vUvvgmte_L": {
         "id": "vUvvgmte_L",
         "title": "Расология немецкого народа",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 57
-        }
-    },
-    "bs-vnKzNgv": {
-        "id": "bs-vnKzNgv",
-        "title": "Бриллианты на шее. Элита истребительной авиации люфтваффе",
-        "author": "Михаил Зефиров",
-        "notes": "",
-        "createdAt": "2017-01-13 13:14:53",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 56
         }
     }
 }

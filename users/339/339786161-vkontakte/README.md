@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>85</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>86</sup>
 ---
 
 ## 2016
+
+### Раса и Этнос
+В.Б. Авдеев
+
 
 ### Расология немецкого народа
 Ганс Ф.К. Гюнтер
