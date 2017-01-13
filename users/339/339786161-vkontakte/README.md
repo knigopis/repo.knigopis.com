@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>28</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>29</sup>
 ---
 
 ## 2015
+
+### Борьба за существование нордического человека
+Х.Беккер
+
 
 ### Der Untermensch
 Генрих Гиммлер. Berlin 1942
