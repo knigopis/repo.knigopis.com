@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gubarevr](users/103/1033463-vkontakte)<sup>0</sup> 
 [mypulseis170bpm](users/241/241736470-vkontakte)<sup>1</sup> 
 [ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlenaSummer](users/102/10208387701954019-facebook)<sup>0</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>0</sup> 
 [sparoff](users/116/1165375013501175-facebook)<sup>1</sup> 
-[Krivzha](users/172/1729223597304810-facebook)<sup>0</sup> 
 
 
-_13.01.2017 19:16:27_
+_13.01.2017 20:08:32_
