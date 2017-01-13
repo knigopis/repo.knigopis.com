@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>74</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>75</sup>
 ---
 
 ## 2016
+
+### Записки Курта Фалькенхорста
+Илья Маслов
+
 
 ### 2083. Европейская декларация независимости. (книга 1)
 Андерс Беринг Брейвик
