@@ -1,4 +1,16 @@
 {
+    "qqO3LRbChW": {
+        "id": "qqO3LRbChW",
+        "title": "НЛО Гитлера против нового мирового порядка",
+        "author": "Мигель Серрано",
+        "notes": "",
+        "createdAt": "2017-01-13 13:12:44",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 46
+        }
+    },
     "ui3CmbhIRe": {
         "id": "ui3CmbhIRe",
         "title": "Международное еврейство",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 17
-        }
-    },
-    "PsE3yOQSck": {
-        "id": "PsE3yOQSck",
-        "title": "Алиса в зазеркалье",
-        "author": "Льюис Керрол",
-        "notes": "",
-        "createdAt": "2017-01-13 13:03:05",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 16
         }
     }
 }
