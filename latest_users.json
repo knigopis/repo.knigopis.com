@@ -1,4 +1,10 @@
 {
+    "339786161-vkontakte": {
+        "id": "339786161-vkontakte",
+        "nickname": "krieghoff",
+        "booksCount": 0,
+        "updatedAt": "2017-01-13 12:42:37"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Maria",
         "booksCount": 0,
         "updatedAt": "2017-01-07 18:03:38"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 30,
-        "updatedAt": "2017-01-07 12:21:57"
     }
 }
