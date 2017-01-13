@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>19</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>20</sup>
 ---
 
 ## 2012
+
+### О скитаниях вечных и о Земле
+Рей Бредбери
+
 
 ### Маленикий принц
 Антуан Де Сент-Экзюпери

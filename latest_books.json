@@ -1,4 +1,16 @@
 {
+    "324HfeKLrS": {
+        "id": "324HfeKLrS",
+        "title": "О скитаниях вечных и о Земле",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2017-01-13 13:04:12",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 20
+        }
+    },
     "xhIC5eD_xJ": {
         "id": "xhIC5eD_xJ",
         "title": "Маленикий принц",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 40
-        }
-    },
-    "EMXbfhqbi_": {
-        "id": "EMXbfhqbi_",
-        "title": "А зори здесь тихие",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2017-01-11 18:52:58",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 39
         }
     }
 }
