@@ -1,4 +1,16 @@
 {
+    "M4RZdR77WB": {
+        "id": "M4RZdR77WB",
+        "title": "Волшебник",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-01-13 13:02:13",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 12
+        }
+    },
     "ws9kVWnIhT": {
         "id": "ws9kVWnIhT",
         "title": "Шелк",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 18
-        }
-    },
-    "yBmH9VnGzK": {
-        "id": "yBmH9VnGzK",
-        "title": "выа",
-        "author": "ыва",
-        "notes": "ыва",
-        "createdAt": "2017-01-10 16:25:31",
-        "user": {
-            "id": "1093110572-instagram",
-            "nickname": "spiridonov_nikita",
-            "booksCount": 1
         }
     }
 }

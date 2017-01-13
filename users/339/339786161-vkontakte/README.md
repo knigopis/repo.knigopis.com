@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>11</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>12</sup>
 ---
 
 ## 2011
+
+### Волшебник
+Владимир Набоков
+
 
 ### Шелк
 Алессандро Барикко
