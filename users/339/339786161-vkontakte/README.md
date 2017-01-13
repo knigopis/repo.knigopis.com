@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>32</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>33</sup>
 ---
 
 ## 2015
+
+### Совершенный снайпер
+Джон Пластер
+
 
 ### Анатомия страха. Трактат о храбрости
 Хосе Антонио Марина

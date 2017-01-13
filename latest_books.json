@@ -1,4 +1,16 @@
 {
+    "2L0lKkKsT4": {
+        "id": "2L0lKkKsT4",
+        "title": "Совершенный снайпер",
+        "author": "Джон Пластер",
+        "notes": "",
+        "createdAt": "2017-01-13 13:08:05",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 33
+        }
+    },
     "b51Kh4C8YX": {
         "id": "b51Kh4C8YX",
         "title": "Анатомия страха. Трактат о храбрости",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 4
-        }
-    },
-    "R7wI89_2Jh": {
-        "id": "R7wI89_2Jh",
-        "title": "Контрольный выброс (Серия \"Сталкер\")",
-        "author": "Ливадный Андрей Львович",
-        "notes": "",
-        "createdAt": "2017-01-13 12:59:40",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 3
         }
     }
 }
