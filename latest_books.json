@@ -1,4 +1,16 @@
 {
+    "IHcRTyfLZy": {
+        "id": "IHcRTyfLZy",
+        "title": "Алиса в стране чудес",
+        "author": "Льюис Керрол",
+        "notes": "",
+        "createdAt": "2017-01-13 13:02:54",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 15
+        }
+    },
     "KTx95xV6cS": {
         "id": "KTx95xV6cS",
         "title": "Как писать книги",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 35
-        }
-    },
-    "EibNbhKCRT": {
-        "id": "EibNbhKCRT",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-01-11 18:39:46",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 34
         }
     }
 }
