@@ -1,4 +1,16 @@
 {
+    "WUCR8zQeAg": {
+        "id": "WUCR8zQeAg",
+        "title": "48  законов  власти",
+        "author": "Роберт Грин",
+        "notes": "",
+        "createdAt": "2017-01-13 13:30:06",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 103
+        }
+    },
     "fEF5O94hd0": {
         "id": "fEF5O94hd0",
         "title": "Победить в бою",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 74
-        }
-    },
-    "RCd1GD5sFI": {
-        "id": "RCd1GD5sFI",
-        "title": "Демократия как вырождение",
-        "author": "Игорь Бестужев",
-        "notes": "",
-        "createdAt": "2017-01-13 13:20:37",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 73
         }
     }
 }

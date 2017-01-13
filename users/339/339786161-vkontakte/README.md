@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>102</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>103</sup>
 ---
 
 ## 2016
+
+### 48  законов  власти
+Роберт Грин
+
 
 ### Победить в бою
 Капитан Уильям И.Фэйрберн
