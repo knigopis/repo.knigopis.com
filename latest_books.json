@@ -1,4 +1,16 @@
 {
+    "gTTPVJI0nq": {
+        "id": "gTTPVJI0nq",
+        "title": "Боевая стрельба из пистолета. Израильский стиль",
+        "author": "Евгений Сорокин",
+        "notes": "",
+        "createdAt": "2017-01-13 13:22:54",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 81
+        }
+    },
     "NxScfdFU-9": {
         "id": "NxScfdFU-9",
         "title": "Исчезновение талантов в Европе",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 52
-        }
-    },
-    "h2cFDJ9dIj": {
-        "id": "h2cFDJ9dIj",
-        "title": "Большая книга CSS 3",
-        "author": "Дэвид Макфарланд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:13:49",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 51
         }
     }
 }
