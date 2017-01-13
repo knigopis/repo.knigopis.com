@@ -1,4 +1,16 @@
 {
+    "4lyJprOdh3": {
+        "id": "4lyJprOdh3",
+        "title": "Белое самосознание. Расовая идентичность в XXI веке",
+        "author": "Джерад Тэйлор",
+        "notes": "",
+        "createdAt": "2017-01-13 13:13:38",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 50
+        }
+    },
     "PXITK2QucM": {
         "id": "PXITK2QucM",
         "title": "Черная медицина",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 21
-        }
-    },
-    "324HfeKLrS": {
-        "id": "324HfeKLrS",
-        "title": "О скитаниях вечных и о Земле",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2017-01-13 13:04:12",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 20
         }
     }
 }

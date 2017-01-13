@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>49</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>50</sup>
 ---
 
 ## 2016
+
+### Белое самосознание. Расовая идентичность в XXI веке
+Джерад Тэйлор
+
 
 ### Черная медицина
 Н.Маширо
