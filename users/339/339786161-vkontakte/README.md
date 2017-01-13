@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>95</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>96</sup>
 ---
 
 ## 2016
+
+### Идеальный Landing Page
+А. Петроченков
+
 
 ### Easy Fucking
 Остап Калашников
