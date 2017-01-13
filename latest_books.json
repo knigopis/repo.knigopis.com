@@ -1,4 +1,16 @@
 {
+    "lPgYSO4TZC": {
+        "id": "lPgYSO4TZC",
+        "title": "Женщина: подчинись или властвуй",
+        "author": "Вис Виталис",
+        "notes": "",
+        "createdAt": "2017-01-13 13:22:08",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "krieghoff",
+            "booksCount": 77
+        }
+    },
     "TdBqFMd0M-": {
         "id": "TdBqFMd0M-",
         "title": "Юлиус Эвола: Благородный дух",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 48
-        }
-    },
-    "Vz4abVwp-z": {
-        "id": "Vz4abVwp-z",
-        "title": "Расовая женская красота",
-        "author": "Карл Штрац",
-        "notes": "",
-        "createdAt": "2017-01-13 13:12:55",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 47
         }
     }
 }

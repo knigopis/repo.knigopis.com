@@ -1,7 +1,11 @@
-# List of books read by [krieghoff](http://vk.com/id339786161)<sup>76</sup>
+# List of books read by [krieghoff](http://vk.com/id339786161)<sup>77</sup>
 ---
 
 ## 2016
+
+### Женщина: подчинись или властвуй
+Вис Виталис
+
 
 ### Юлиус Эвола: Благородный дух
 Зиглинг (издание)
