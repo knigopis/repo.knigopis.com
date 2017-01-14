@@ -1,4 +1,4 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>15</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>16</sup>
 ---
 
 ## 2016
@@ -79,6 +79,11 @@
 ### Темная башня, книга 2: Извлечение троих
 Стивен Кинг
 > [2015-03] ★★★★★ (5)
+
+
+### Дом странных детей
+Ренсом Ригз
+> [2015-02] ★★★★★★★ (7)
 
 
 ### Девушка в поезде

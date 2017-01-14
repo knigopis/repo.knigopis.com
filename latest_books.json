@@ -1,4 +1,16 @@
 {
+    "AS_4KK1eby": {
+        "id": "AS_4KK1eby",
+        "title": "Дом странных детей",
+        "author": "Ренсом Ригз",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 11:00:44",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 16
+        }
+    },
     "_q2lTgSgtl": {
         "id": "_q2lTgSgtl",
         "title": "Девушка в поезде",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 99
-        }
-    },
-    "od7PBthwIQ": {
-        "id": "od7PBthwIQ",
-        "title": "Тактика легкой пехотя для малых групп",
-        "author": "Кристофер Ларсен",
-        "notes": "",
-        "createdAt": "2017-01-13 13:29:12",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 98
         }
     }
 }
