@@ -1,4 +1,16 @@
 {
+    "KoV8H1NTpL": {
+        "id": "KoV8H1NTpL",
+        "title": "Клиенты на всю жизнь",
+        "author": "Карл Сьюэлл",
+        "notes": "Книга, котораая обязательна для прочтения менеджерам по продажам, а также всем тем, кто работает в продажах и взаимодействует с клиентом.",
+        "createdAt": "2017-01-14 08:06:08",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 1
+        }
+    },
     "AWQBLFGpuV": {
         "id": "AWQBLFGpuV",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 80
-        }
-    },
-    "ctsaqOvZ_r": {
-        "id": "ctsaqOvZ_r",
-        "title": "Проектирование будущего",
-        "author": "Жак Фреско",
-        "notes": "",
-        "createdAt": "2017-01-13 13:22:28",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 79
         }
     }
 }
