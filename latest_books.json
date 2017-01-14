@@ -1,4 +1,16 @@
 {
+    "MTTJninv-u": {
+        "id": "MTTJninv-u",
+        "title": "Темная башня, книга 6: Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "★★★★★ (5)\n\nВ данной части автор умудрился вписать себя в сюжет. В целом, чем ближе к развязке, тем больше сумбура, нестыковок и мешанины между мирами...",
+        "createdAt": "2017-01-14 10:52:55",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 12
+        }
+    },
     "r9pzDajcQT": {
         "id": "r9pzDajcQT",
         "title": "Третье человечество: голос Земли",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 96
-        }
-    },
-    "id56OVJVYv": {
-        "id": "id56OVJVYv",
-        "title": "Easy Fucking",
-        "author": "Остап Калашников",
-        "notes": "",
-        "createdAt": "2017-01-13 13:28:40",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 95
         }
     }
 }
