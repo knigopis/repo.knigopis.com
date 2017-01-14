@@ -1,4 +1,16 @@
 {
+    "6T5QS-AdIm": {
+        "id": "6T5QS-AdIm",
+        "title": "Темная башня, книга 4: Колдун и кристалл",
+        "author": "Стивен Кинг",
+        "notes": "★★★★★★ (6)\n\nБлагодаря описанию юности Роланда книга получилась значительно интереснее, нежели предыдущая часть.",
+        "createdAt": "2017-01-14 10:48:54",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 9
+        }
+    },
     "yu_fB7GQwZ": {
         "id": "yu_fB7GQwZ",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 93
-        }
-    },
-    "VO77IOjhwF": {
-        "id": "VO77IOjhwF",
-        "title": "Учебник добровольцев IRA",
-        "author": "(Руководство)",
-        "notes": "",
-        "createdAt": "2017-01-13 13:28:04",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 92
         }
     }
 }
