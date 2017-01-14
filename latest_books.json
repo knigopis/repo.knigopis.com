@@ -1,4 +1,16 @@
 {
+    "q94j9tvUOe": {
+        "id": "q94j9tvUOe",
+        "title": "У войны не женское лицо",
+        "author": "Светлана Алексиевич",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 11:05:18",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 19
+        }
+    },
     "nJ5Y8jh0-d": {
         "id": "nJ5Y8jh0-d",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 102
-        }
-    },
-    "BvUNRnuwym": {
-        "id": "BvUNRnuwym",
-        "title": "Достань нож и убей",
-        "author": "Дон Пентакост",
-        "notes": "",
-        "createdAt": "2017-01-13 13:29:43",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 101
         }
     }
 }

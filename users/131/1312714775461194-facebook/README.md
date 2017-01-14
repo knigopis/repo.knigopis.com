@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>18</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>19</sup>
 ---
 
 ## 2016
+
+### У войны не женское лицо
+Светлана Алексиевич
+> [2016-06] ★★★★★★★ (7)
+
 
 ### Самый богатый человек в Вавилоне
 Джордж Клейсон
