@@ -1,4 +1,16 @@
 {
+    "_q2lTgSgtl": {
+        "id": "_q2lTgSgtl",
+        "title": "Девушка в поезде",
+        "author": "Пола Хокинс",
+        "notes": "★★★★★★ (6)",
+        "createdAt": "2017-01-14 11:00:13",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 15
+        }
+    },
     "J66gFeLLmt": {
         "id": "J66gFeLLmt",
         "title": "Темная башня, книга 7: Темная башня",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 98
-        }
-    },
-    "kavCBYg6O8": {
-        "id": "kavCBYg6O8",
-        "title": "HTML 5. Недостающее руководство",
-        "author": "Мэтью Мак-Дональд",
-        "notes": "",
-        "createdAt": "2017-01-13 13:29:02",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 97
         }
     }
 }
