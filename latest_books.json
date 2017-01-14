@@ -1,4 +1,16 @@
 {
+    "ECMDJJuukg": {
+        "id": "ECMDJJuukg",
+        "title": "Подарок от кота Боба",
+        "author": "Джеймс Боуэн",
+        "notes": "★★★★★★★★ (8)",
+        "createdAt": "2017-01-14 10:40:04",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 4
+        }
+    },
     "PcqYtA2t2x": {
         "id": "PcqYtA2t2x",
         "title": "Третье человечество:Микролюди",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 88
-        }
-    },
-    "nwn__Buu0o": {
-        "id": "nwn__Buu0o",
-        "title": "Выбор супружеской пары",
-        "author": "Ганс Ф.К. Гюнтер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:24:45",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 87
         }
     }
 }

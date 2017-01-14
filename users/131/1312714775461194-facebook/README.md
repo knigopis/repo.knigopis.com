@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>3</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>4</sup>
 ---
 
 ## 2015
+
+### Подарок от кота Боба
+Джеймс Боуэн
+> [2015-02] ★★★★★★★★ (8)
+
 
 ### Третье человечество:Микролюди
 Бернар Вербер
