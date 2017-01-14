@@ -1,4 +1,16 @@
 {
+    "0jWWPEewI7": {
+        "id": "0jWWPEewI7",
+        "title": "Темная башня: Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-01-14 10:29:34",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 5
+        }
+    },
     "STcCAi_yB8": {
         "id": "STcCAi_yB8",
         "title": "Темная башня: Темная башня",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 84
-        }
-    },
-    "Q2spRHZ5Mi": {
-        "id": "Q2spRHZ5Mi",
-        "title": "Древние Римляне. Расцвет и закат римского мира. Подборка публикаций",
-        "author": "Профессор доктор Ганс Ф.К. Гюнтер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:24:04",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 83
         }
     }
 }
