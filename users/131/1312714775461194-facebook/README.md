@@ -1,7 +1,14 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>26</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>27</sup>
 ---
 
 ## 2016
+
+### Удивительное путешествие кролика Эдварда
+Кейт ДиКамилло
+> [2016-11] ★★★★★★★★ (8)
+> 
+> Хорошая детская сказка, которую нужно читать детям.
+
 
 ### БУДЬ лучшей версией себя
 Дэн Вальдшмидт
