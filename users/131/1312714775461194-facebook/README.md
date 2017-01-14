@@ -1,4 +1,4 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>5</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>4</sup>
 ---
 
 ## 2016
@@ -27,14 +27,6 @@
 ### Номер 1
 Игорь Манн
 > [2016-01] ★★★★★★★ (7)
-
-
-
-## 2015
-
-### Темная башня: Песнь Сюзанны
-Стивен Кинг
-> [2015-11] 
 
 
 
