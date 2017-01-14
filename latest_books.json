@@ -1,4 +1,16 @@
 {
+    "PcqYtA2t2x": {
+        "id": "PcqYtA2t2x",
+        "title": "Третье человечество:Микролюди",
+        "author": "Бернар Вербер",
+        "notes": "★★★★★★★★ (8)",
+        "createdAt": "2017-01-14 10:39:16",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 3
+        }
+    },
     "VabMbyrlyg": {
         "id": "VabMbyrlyg",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 87
-        }
-    },
-    "aEKyR-coiG": {
-        "id": "aEKyR-coiG",
-        "title": "Раса и Этнос",
-        "author": "В.Б. Авдеев",
-        "notes": "",
-        "createdAt": "2017-01-13 13:24:35",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 86
         }
     }
 }
