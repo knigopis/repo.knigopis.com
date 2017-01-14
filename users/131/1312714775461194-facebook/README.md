@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>5</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>6</sup>
 ---
 
 ## 2015
+
+### Темная башня, книга 2: Извлечение троих
+Стивен Кинг
+> [2015-03] ★★★★★ (5)
+
 
 ### Темная башня, книга 1: Стрелок
 Стивен Кинг

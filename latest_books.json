@@ -1,4 +1,16 @@
 {
+    "FfisggbToC": {
+        "id": "FfisggbToC",
+        "title": "Темная башня, книга 2: Извлечение троих",
+        "author": "Стивен Кинг",
+        "notes": "★★★★★ (5)",
+        "createdAt": "2017-01-14 10:42:48",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 6
+        }
+    },
     "SgisfQgfOF": {
         "id": "SgisfQgfOF",
         "title": "Темная башня, книга 1: Стрелок",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 97
-        }
-    },
-    "0vuGpmLAq4": {
-        "id": "0vuGpmLAq4",
-        "title": "Аненэрбе. \"Наследие предков\". Секретный проект Гитлера",
-        "author": "Ганс - Ульрих фон Кранц",
-        "notes": "",
-        "createdAt": "2017-01-13 13:25:23",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 96
         }
     }
 }
