@@ -1,4 +1,16 @@
 {
+    "RrIZ0pGQEA": {
+        "id": "RrIZ0pGQEA",
+        "title": "С неба упали три яблока",
+        "author": "Наринэ Абгарян",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 11:02:35",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 17
+        }
+    },
     "AS_4KK1eby": {
         "id": "AS_4KK1eby",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 100
-        }
-    },
-    "75bR1QXxnW": {
-        "id": "75bR1QXxnW",
-        "title": "Ницще за 90 минут",
-        "author": "Пол Стретерн",
-        "notes": "",
-        "createdAt": "2017-01-13 13:29:23",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 99
         }
     }
 }
