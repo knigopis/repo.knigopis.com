@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>4</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>5</sup>
 ---
 
 ## 2015
+
+### Темная башня, книга 1: Стрелок
+Стивен Кинг
+> [2015-02] ★★★★★★ (6)
+
 
 ### Подарок от кота Боба
 Джеймс Боуэн

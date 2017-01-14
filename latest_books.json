@@ -1,4 +1,16 @@
 {
+    "SgisfQgfOF": {
+        "id": "SgisfQgfOF",
+        "title": "Темная башня, книга 1: Стрелок",
+        "author": "Стивен Кинг",
+        "notes": "★★★★★★ (6)",
+        "createdAt": "2017-01-14 10:40:58",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 5
+        }
+    },
     "ECMDJJuukg": {
         "id": "ECMDJJuukg",
         "title": "Подарок от кота Боба",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 96
-        }
-    },
-    "L7m-uQkbeV": {
-        "id": "L7m-uQkbeV",
-        "title": "Майя. Реальность - это иллюзия",
-        "author": "Мигель Серрано",
-        "notes": "",
-        "createdAt": "2017-01-13 13:24:54",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 88
         }
     }
 }
