@@ -1,4 +1,16 @@
 {
+    "SA9duIQEpQ": {
+        "id": "SA9duIQEpQ",
+        "title": "Психология влияния",
+        "author": "Роберт Чалдини",
+        "notes": "★★★★★★★★ (8)",
+        "createdAt": "2017-01-14 11:08:56",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 23
+        }
+    },
     "A3yVFNhptQ": {
         "id": "A3yVFNhptQ",
         "title": "Бакуман 2",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 106
-        }
-    },
-    "Zyx47cqdKo": {
-        "id": "Zyx47cqdKo",
-        "title": "Александр Македонский",
-        "author": "Диодор Сицилийский",
-        "notes": "",
-        "createdAt": "2017-01-13 13:30:37",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 105
         }
     }
 }

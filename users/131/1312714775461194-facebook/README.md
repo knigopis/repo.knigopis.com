@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>22</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>23</sup>
 ---
 
 ## 2016
+
+### Психология влияния
+Роберт Чалдини
+> [2016-10] ★★★★★★★★ (8)
+
 
 ### Бакуман 2
 Цугуми Ооба, Такэси Обата
