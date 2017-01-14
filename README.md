@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Wirus](users/131/1312714775461194-facebook)<sup>0</sup> 
 [shaleman](users/440/4400657-vkontakte)<sup>0</sup> 
 [gubarevr](users/103/1033463-vkontakte)<sup>0</sup> 
 [mypulseis170bpm](users/241/241736470-vkontakte)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [v.mitus](users/385/385169253-vkontakte)<sup>0</sup> 
 [Ромашка 8000](users/136/1367562056650260-facebook)<sup>22</sup> 
 [AlenaSummer](users/102/10208387701954019-facebook)<sup>0</sup> 
-[Татьяна](users/735/73529875-vkontakte)<sup>0</sup> 
 
 
-_14.01.2017 08:01:25_
+_14.01.2017 08:04:07_
