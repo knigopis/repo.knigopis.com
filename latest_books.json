@@ -1,4 +1,16 @@
 {
+    "VabMbyrlyg": {
+        "id": "VabMbyrlyg",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 10:32:27",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 2
+        }
+    },
     "lAS-zMwgyr": {
         "id": "lAS-zMwgyr",
         "title": "Дом, в котором...",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 86
-        }
-    },
-    "vUvvgmte_L": {
-        "id": "vUvvgmte_L",
-        "title": "Расология немецкого народа",
-        "author": "Ганс Ф.К. Гюнтер",
-        "notes": "",
-        "createdAt": "2017-01-13 13:24:25",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 85
         }
     }
 }

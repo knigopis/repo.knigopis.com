@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>1</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>2</sup>
 ---
 
 ## 2015
+
+### Шантарам
+Грегори Дэвид Робертс
+> [2015-01] ★★★★★★★ (7)
+
 
 ### Дом, в котором...
 Мириам Петросян
