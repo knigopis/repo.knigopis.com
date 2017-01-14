@@ -1,4 +1,16 @@
 {
+    "whFqehJqjr": {
+        "id": "whFqehJqjr",
+        "title": "Моя жизнь. Мои достижения",
+        "author": "Генри Форд",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 11:09:41",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 24
+        }
+    },
     "SA9duIQEpQ": {
         "id": "SA9duIQEpQ",
         "title": "Психология влияния",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 66
-        }
-    },
-    "aI5L3zP_te": {
-        "id": "aI5L3zP_te",
-        "title": "Неприрожденные убийцы",
-        "author": "Георгий Оперской",
-        "notes": "",
-        "createdAt": "2017-01-13 13:30:47",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 106
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>23</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>24</sup>
 ---
 
 ## 2016
+
+### Моя жизнь. Мои достижения
+Генри Форд
+> [2016-10] ★★★★★★★ (7)
+
 
 ### Психология влияния
 Роберт Чалдини
