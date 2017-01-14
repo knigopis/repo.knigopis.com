@@ -1,5 +1,13 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>12</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>13</sup>
 ---
+
+## 2016
+
+### Номер 1
+Игорь Манн
+> [2016-01] ★★★★★★★ (7)
+
+
 
 ## 2015
 
