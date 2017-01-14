@@ -1,7 +1,12 @@
-# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>20</sup>
+# List of books read by [Wirus](https://www.facebook.com/app_scoped_user_id/1312714775461194/)<sup>21</sup>
 ---
 
 ## 2016
+
+### Шестой сон
+Бернар Вербер
+> [2016-08] ★★★★★★★ (7)
+
 
 ### Бакуман 1
 Цугуми Ооба, Такэси Обата

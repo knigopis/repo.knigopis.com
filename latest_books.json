@@ -1,4 +1,16 @@
 {
+    "AZYGP6eEhe": {
+        "id": "AZYGP6eEhe",
+        "title": "Шестой сон",
+        "author": "Бернар Вербер",
+        "notes": "★★★★★★★ (7)",
+        "createdAt": "2017-01-14 11:07:09",
+        "user": {
+            "id": "1312714775461194-facebook",
+            "nickname": "Wirus",
+            "booksCount": 21
+        }
+    },
     "l5gLq7lX1m": {
         "id": "l5gLq7lX1m",
         "title": "Бакуман 1",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "krieghoff",
             "booksCount": 104
-        }
-    },
-    "WUCR8zQeAg": {
-        "id": "WUCR8zQeAg",
-        "title": "48  законов  власти",
-        "author": "Роберт Грин",
-        "notes": "",
-        "createdAt": "2017-01-13 13:30:06",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "krieghoff",
-            "booksCount": 103
         }
     }
 }
