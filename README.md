@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mZya](users/105/105198053460598709259-google)<sup>0</sup> 
 [Wirus](users/131/1312714775461194-facebook)<sup>32</sup> 
 [shaleman](users/440/4400657-vkontakte)<sup>0</sup> 
 [gubarevr](users/103/1033463-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>24</sup> 
 [v.mitus](users/385/385169253-vkontakte)<sup>0</sup> 
 [Ромашка 8000](users/136/1367562056650260-facebook)<sup>22</sup> 
-[AlenaSummer](users/102/10208387701954019-facebook)<sup>0</sup> 
 
 
-_14.01.2017 11:31:00_
+_15.01.2017 08:37:00_
