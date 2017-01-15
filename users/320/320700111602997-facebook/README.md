@@ -1,4 +1,4 @@
-# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>40</sup>
+# List of books read by [Alona](https://www.facebook.com/app_scoped_user_id/320700111602997/)<sup>41</sup>
 ---
 
 ## 2016
@@ -21,6 +21,11 @@
 ### «То́лстая тетра́дь»
 Агот Кристоф
 > [2016-10-02] 
+
+
+### Я, "Победа" і Бкрлін, Я, Паштєт і армія, Я, Шонік і Шпіцберг, Місто в якому не ходять гроші
+Кузьма Скрябін
+> [2016-10] 
 
 
 ### Поклоніння ящірці

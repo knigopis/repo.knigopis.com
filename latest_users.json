@@ -1,4 +1,10 @@
 {
+    "320700111602997-facebook": {
+        "id": "320700111602997-facebook",
+        "nickname": "Alona",
+        "booksCount": 41,
+        "updatedAt": "2017-01-15 15:10:34"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 24,
         "updatedAt": "2017-01-10 12:39:36"
-    },
-    "385169253-vkontakte": {
-        "id": "385169253-vkontakte",
-        "nickname": "v.mitus",
-        "booksCount": 0,
-        "updatedAt": "2017-01-09 19:11:55"
     }
 }
