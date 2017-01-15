@@ -1,4 +1,16 @@
 {
+    "dl0Pbj0Daz": {
+        "id": "dl0Pbj0Daz",
+        "title": "О. Савич",
+        "author": "Два года в Испании",
+        "notes": "Книга советского журналиста о его пребывании в Испании во время гражданской войны. Много параллелей с войной в Новороссии. Повествование ведется в виде дневников автора.",
+        "createdAt": "2017-01-15 18:11:14",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 1
+        }
+    },
     "Hq_7jLCH9a": {
         "id": "Hq_7jLCH9a",
         "title": "P.S. Я люблю тебя",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 7
-        }
-    },
-    "FfisggbToC": {
-        "id": "FfisggbToC",
-        "title": "Темная башня, книга 2: Извлечение троих",
-        "author": "Стивен Кинг",
-        "notes": "★★★★★ (5)",
-        "createdAt": "2017-01-14 10:42:48",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 6
         }
     }
 }
