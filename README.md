@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>42</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup> 
 [mZya](users/105/105198053460598709259-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
 [m.sonova](users/134/134457249-vkontakte)<sup>0</sup> 
 [spiridonov_nikita](users/109/1093110572-instagram)<sup>0</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>24</sup> 
 
 
-_15.01.2017 15:11:44_
+_15.01.2017 18:06:26_
