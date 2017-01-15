@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 0,
+        "updatedAt": "2017-01-15 18:06:24"
+    },
     "320700111602997-facebook": {
         "id": "320700111602997-facebook",
         "nickname": "Alona",
@@ -172,11 +178,5 @@
         "nickname": "spiridonov_nikita",
         "booksCount": 0,
         "updatedAt": "2017-01-10 16:25:41"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 24,
-        "updatedAt": "2017-01-10 12:39:36"
     }
 }
