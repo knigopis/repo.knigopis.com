@@ -1,4 +1,10 @@
 {
+    "105198053460598709259-google": {
+        "id": "105198053460598709259-google",
+        "nickname": "mZya",
+        "booksCount": 0,
+        "updatedAt": "2017-01-15 08:36:58"
+    },
     "1312714775461194-facebook": {
         "id": "1312714775461194-facebook",
         "nickname": "Wirus",
@@ -172,11 +178,5 @@
         "nickname": "Ромашка 8000",
         "booksCount": 22,
         "updatedAt": "2017-01-09 18:55:00"
-    },
-    "10208387701954019-facebook": {
-        "id": "10208387701954019-facebook",
-        "nickname": "AlenaSummer",
-        "booksCount": 0,
-        "updatedAt": "2017-01-09 12:15:36"
     }
 }
