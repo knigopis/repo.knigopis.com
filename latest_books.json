@@ -1,4 +1,16 @@
 {
+    "MPhM_6O-Z4": {
+        "id": "MPhM_6O-Z4",
+        "title": "Последний коммунист",
+        "author": "Залотуха Валерий",
+        "notes": "Лихие 90-е....Да уж!",
+        "createdAt": "2017-01-15 12:42:34",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 69
+        }
+    },
     "9FTG0l-mPT": {
         "id": "9FTG0l-mPT",
         "title": "Клиенты на всю жизнь",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 4
-        }
-    },
-    "PcqYtA2t2x": {
-        "id": "PcqYtA2t2x",
-        "title": "Третье человечество:Микролюди",
-        "author": "Бернар Вербер",
-        "notes": "★★★★★★★★ (8)",
-        "createdAt": "2017-01-14 10:39:16",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 3
         }
     }
 }

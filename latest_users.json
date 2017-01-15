@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 69,
+        "updatedAt": "2017-01-15 12:42:34"
+    },
     "105198053460598709259-google": {
         "id": "105198053460598709259-google",
         "nickname": "mZya",
@@ -172,11 +178,5 @@
         "nickname": "v.mitus",
         "booksCount": 0,
         "updatedAt": "2017-01-09 19:11:55"
-    },
-    "1367562056650260-facebook": {
-        "id": "1367562056650260-facebook",
-        "nickname": "Ромашка 8000",
-        "booksCount": 22,
-        "updatedAt": "2017-01-09 18:55:00"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
 * Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
 * Старик ~ [Беска](users/157/1577468-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
 * Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
-* Стена ~ [Ангелина](users/837/83788782-vkontakte)<sup>43</sup>
 
 
-_13.01.2017 17:22:22_
+_15.01.2017 12:42:35_

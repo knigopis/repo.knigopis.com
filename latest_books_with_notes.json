@@ -1,4 +1,16 @@
 {
+    "MPhM_6O-Z4": {
+        "id": "MPhM_6O-Z4",
+        "title": "Последний коммунист",
+        "author": "Залотуха Валерий",
+        "notes": "Лихие 90-е....Да уж!",
+        "createdAt": "2017-01-15 12:42:34",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 69
+        }
+    },
     "8zeG0HuiS4": {
         "id": "8zeG0HuiS4",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 44
-        }
-    },
-    "LVz9lrarwd": {
-        "id": "LVz9lrarwd",
-        "title": "Стена",
-        "author": "Жан Поль Сартр",
-        "notes": "Вот это Да!",
-        "createdAt": "2016-12-18 20:21:53",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 43
         }
     }
 }
