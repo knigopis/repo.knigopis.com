@@ -1,7 +1,12 @@
-# List of books read by [olegessenin](http://vk.com/id3901448)<sup>1</sup>
+# List of books read by [olegessenin](http://vk.com/id3901448)<sup>2</sup>
 ---
 
 ## 2017
+
+### Убийство Роберта Экройда
+Агата Кристи
+> [2017-01-15] 
+
 
 ### О. Савич
 Два года в Испании
