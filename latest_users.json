@@ -1,4 +1,10 @@
 {
+    "543835-vkontakte": {
+        "id": "543835-vkontakte",
+        "nickname": "nataligreen",
+        "booksCount": 0,
+        "updatedAt": "2017-01-16 11:58:26"
+    },
     "3901448-vkontakte": {
         "id": "3901448-vkontakte",
         "nickname": "olegessenin",
@@ -172,11 +178,5 @@
         "nickname": "m.sonova",
         "booksCount": 0,
         "updatedAt": "2017-01-11 08:26:51"
-    },
-    "1093110572-instagram": {
-        "id": "1093110572-instagram",
-        "nickname": "spiridonov_nikita",
-        "booksCount": 0,
-        "updatedAt": "2017-01-10 16:25:41"
     }
 }
