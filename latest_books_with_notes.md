@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
 * Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Граф Монте-Кристо ~ [nadisvid](users/113/1138852626183846-facebook)<sup>24</sup>
 * Самый Богатый Человек в Вавилоне ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>65</sup>
 * Вторая жизнь (1-2) 3 судя по всему не полностью ~ [Tr](users/122/12282474-vkontakte)<sup>37</sup>
-* Комната. ~ [Ангелина](users/837/83788782-vkontakte)<sup>44</sup>
 
 
-_15.01.2017 12:42:35_
+_16.01.2017 13:48:18_

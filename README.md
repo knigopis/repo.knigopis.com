@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
+    > 9/10
+
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
     > Лихие 90-е....Да уж!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
-    > Заключительная книга серии Путеводитель «Автостопом по Галактике». Читать интересно, сюжет лаконичен и последователен (что очень выгодно отличает "В основном безвредна" от 3-ей и 4-ой книг). Все неувязки сюжета предыдущих произведений объяснились весьма просто - параллельные Вселенные. Пятая книга серьезней первых четырех, следовательно и юмора в ней практически нет. Да это и понятно, с такой-то развязкой...
 
 * Старик ~ [Беска](users/157/1577468-vkontakte)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
 
-* Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
 [atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 [nataligreen](users/543/543835-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mypulseis170bpm](users/241/241736470-vkontakte)<sup>1</sup> 
 [ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
-[Narjih](users/101/101033677091232972633-google)<sup>66</sup> 
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>132</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
 
 
-_16.01.2017 13:02:33_
+_16.01.2017 13:48:18_
