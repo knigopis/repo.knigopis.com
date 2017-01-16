@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 20,
+        "updatedAt": "2017-01-16 17:49:29"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -106,12 +112,6 @@
         "nickname": "maria_morozova19",
         "booksCount": 1,
         "updatedAt": "2017-01-12 14:26:41"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 19,
-        "updatedAt": "2017-01-12 13:54:41"
     },
     "1034497246671899-facebook": {
         "id": "1034497246671899-facebook",
