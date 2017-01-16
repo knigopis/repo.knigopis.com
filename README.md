@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 [nataligreen](users/543/543835-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>40</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 [mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
-[m.sonova](users/134/134457249-vkontakte)<sup>0</sup> 
 
 
-_16.01.2017 11:58:26_
+_16.01.2017 13:02:33_
