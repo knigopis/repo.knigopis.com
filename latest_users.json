@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 90,
+        "updatedAt": "2017-01-16 16:41:28"
+    },
     "101033677091232972633-google": {
         "id": "101033677091232972633-google",
         "nickname": "Narjih",
@@ -172,11 +178,5 @@
         "nickname": "genrih59",
         "booksCount": 19,
         "updatedAt": "2017-01-11 16:51:18"
-    },
-    "1098444656949378-facebook": {
-        "id": "1098444656949378-facebook",
-        "nickname": "mokko",
-        "booksCount": 0,
-        "updatedAt": "2017-01-11 12:46:28"
     }
 }

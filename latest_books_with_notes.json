@@ -1,4 +1,16 @@
 {
+    "XTXK8mlLOV": {
+        "id": "XTXK8mlLOV",
+        "title": "Теория коммуникации",
+        "author": "Г.Г.Почепцов",
+        "notes": "https://www.ozon.ru/context/detail/id/3244032/\n\nВ процессе",
+        "createdAt": "2017-01-16 16:41:28",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 90
+        }
+    },
     "Ejg0NiQkSU": {
         "id": "Ejg0NiQkSU",
         "title": "Понедельник начинается в субботу",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 65
-        }
-    },
-    "BsQpIrUqQN": {
-        "id": "BsQpIrUqQN",
-        "title": "Вторая жизнь (1-2) 3 судя по всему не полностью",
-        "author": "Ростислав Марченко",
-        "notes": "Отсылки к различным военным историям, и ГГ видимо ощущает себя неким Сталином того мира в котором оказался",
-        "createdAt": "2016-12-20 00:25:25",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 37
         }
     }
 }

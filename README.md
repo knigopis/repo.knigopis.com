@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
+    > https://www.ozon.ru/context/detail/id/3244032/
+    > 
+    > В процессе
+
 * Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
     > 9/10
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Лихие 90-е....Да уж!
 
 * Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
-    > 9/10
 
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
 
-* Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
 [atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 [nataligreen](users/543/543835-vkontakte)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Audacieux](users/113/1139361566180442-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>40</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
-[mokko](users/109/1098444656949378-facebook)<sup>0</sup> 
 
 
-_16.01.2017 13:48:18_
+_16.01.2017 16:41:28_
