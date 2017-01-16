@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
+    > Красивая книга написанная о красивой стране и красивых традициях. Читая, в какой-то момент как будто начинаешь слышать голос Нитта Саюри, рассказывающей историю своей жизни. Кажется, стоит оторвать глаза от текста и увидишь вокруг себя чайный домик в Джионе и танцующих гейш. В книги есть все - трагическая судьба девочки, проданной в рабство, интриги, зависть, предательство,тяготы второй мировой войны...
+
 * Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
     > https://www.ozon.ru/context/detail/id/3244032/
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
-    > Лихие 90-е....Да уж!
 
 * Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Божественная комедия ~ [Garka](users/115/115753719718250012620-google)<sup>131</sup>
 
-* Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>20</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>132</sup> 
 [maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>6</sup> 
 [Катерина Акмайкина](users/864/8644621246977640666-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 
 
-_16.01.2017 17:49:29_
+_16.01.2017 18:01:58_
