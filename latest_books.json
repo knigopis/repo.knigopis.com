@@ -1,4 +1,16 @@
 {
+    "fkE7OY49z_": {
+        "id": "fkE7OY49z_",
+        "title": "Капитанская Дочь (129 с)",
+        "author": "Пушкин",
+        "notes": "",
+        "createdAt": "2017-01-16 18:26:55",
+        "user": {
+            "id": "1034497246671899-facebook",
+            "nickname": "Гандзя",
+            "booksCount": 7
+        }
+    },
     "GCQ-fRM4sc": {
         "id": "GCQ-fRM4sc",
         "title": "Мемуары гейши",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 14
-        }
-    },
-    "-wQGVo0hNA": {
-        "id": "-wQGVo0hNA",
-        "title": "Номер 1",
-        "author": "Игорь Манн",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 10:57:37",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 13
         }
     }
 }

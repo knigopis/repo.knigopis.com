@@ -1,4 +1,10 @@
 {
+    "1034497246671899-facebook": {
+        "id": "1034497246671899-facebook",
+        "nickname": "Гандзя",
+        "booksCount": 7,
+        "updatedAt": "2017-01-16 18:26:55"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -112,12 +118,6 @@
         "nickname": "maria_morozova19",
         "booksCount": 1,
         "updatedAt": "2017-01-12 14:26:41"
-    },
-    "1034497246671899-facebook": {
-        "id": "1034497246671899-facebook",
-        "nickname": "Гандзя",
-        "booksCount": 6,
-        "updatedAt": "2017-01-12 11:28:09"
     },
     "8644621246977640666-mailru": {
         "id": "8644621246977640666-mailru",

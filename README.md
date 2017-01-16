@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Гандзя](users/103/1034497246671899-facebook)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>20</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 [maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
-[Гандзя](users/103/1034497246671899-facebook)<sup>6</sup> 
 [Катерина Акмайкина](users/864/8644621246977640666-mailru)<sup>0</sup> 
 [Ninked](users/100/100000146591910-facebook)<sup>0</sup> 
 [gemini_boom](users/737/73762263-vkontakte)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 
 
-_16.01.2017 18:01:58_
+_16.01.2017 18:26:56_
