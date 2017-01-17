@@ -1,4 +1,10 @@
 {
+    "15953662837134578862-mailru": {
+        "id": "15953662837134578862-mailru",
+        "nickname": "Кочетовы",
+        "booksCount": 0,
+        "updatedAt": "2017-01-17 15:56:32"
+    },
     "4413740-vkontakte": {
         "id": "4413740-vkontakte",
         "nickname": "myronia",
@@ -172,11 +178,5 @@
         "nickname": "Audacieux",
         "booksCount": 1,
         "updatedAt": "2017-01-11 20:07:21"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 40,
-        "updatedAt": "2017-01-11 18:55:12"
     }
 }
