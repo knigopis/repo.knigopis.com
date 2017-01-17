@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>20</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
 [Audacieux](users/113/1139361566180442-facebook)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>40</sup> 
-[genrih59](users/872/872361436199401-facebook)<sup>19</sup> 
 
 
-_16.01.2017 18:26:56_
+_17.01.2017 09:12:39_
