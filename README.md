@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Кочетовы](users/159/15953662837134578862-mailru)<sup>0</sup> 
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
 [Audacieux](users/113/1139361566180442-facebook)<sup>1</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>40</sup> 
 
 
-_17.01.2017 09:12:39_
+_17.01.2017 15:56:34_
