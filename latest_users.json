@@ -1,4 +1,10 @@
 {
+    "3900602-vkontakte": {
+        "id": "3900602-vkontakte",
+        "nickname": "retina",
+        "booksCount": 0,
+        "updatedAt": "2017-01-18 19:44:48"
+    },
     "107233253672325058205-google": {
         "id": "107233253672325058205-google",
         "nickname": "345mhz",
@@ -172,11 +178,5 @@
         "nickname": "endorphinization",
         "booksCount": 0,
         "updatedAt": "2017-01-12 07:16:15"
-    },
-    "81551570-vkontakte": {
-        "id": "81551570-vkontakte",
-        "nickname": "viktorovna20",
-        "booksCount": 0,
-        "updatedAt": "2017-01-12 07:01:53"
     }
 }
