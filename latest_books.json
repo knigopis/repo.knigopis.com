@@ -1,4 +1,16 @@
 {
+    "1Qm00h5RSV": {
+        "id": "1Qm00h5RSV",
+        "title": "Проклятые",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-01-18 12:28:06",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 9
+        }
+    },
     "T2_QZHfeic": {
         "id": "T2_QZHfeic",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 24
-        }
-    },
-    "SA9duIQEpQ": {
-        "id": "SA9duIQEpQ",
-        "title": "Психология влияния",
-        "author": "Роберт Чалдини",
-        "notes": "★★★★★★★★ (8)",
-        "createdAt": "2017-01-14 11:08:56",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 23
         }
     }
 }
