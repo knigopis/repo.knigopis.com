@@ -1,4 +1,16 @@
 {
+    "I2ww26usZp": {
+        "id": "I2ww26usZp",
+        "title": "Гончии Лилит",
+        "author": "Кристина Старк",
+        "notes": "",
+        "createdAt": "2017-01-18 12:26:46",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 7
+        }
+    },
     "7SSdZoeb2q": {
         "id": "7SSdZoeb2q",
         "title": "Крылья",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 22
-        }
-    },
-    "AZYGP6eEhe": {
-        "id": "AZYGP6eEhe",
-        "title": "Шестой сон",
-        "author": "Бернар Вербер",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 11:07:09",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 21
         }
     }
 }
