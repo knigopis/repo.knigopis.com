@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[345mhz](users/107/107233253672325058205-google)<sup>0</sup> 
+[345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 [Nastya](users/891/891082154292809-facebook)<sup>12</sup> 
 [Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 
 
-_18.01.2017 18:25:10_
+_18.01.2017 18:28:46_
