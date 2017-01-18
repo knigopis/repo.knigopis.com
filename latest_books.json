@@ -1,4 +1,16 @@
 {
+    "TiUMbEvA3A": {
+        "id": "TiUMbEvA3A",
+        "title": "Ночь за нашими спинами",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-18 12:24:40",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 3
+        }
+    },
     "gk1sbFEO76": {
         "id": "gk1sbFEO76",
         "title": "Потерянные поколения",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 18
-        }
-    },
-    "RrIZ0pGQEA": {
-        "id": "RrIZ0pGQEA",
-        "title": "С неба упали три яблока",
-        "author": "Наринэ Абгарян",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 11:02:35",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 17
         }
     }
 }
