@@ -1,4 +1,4 @@
-# List of books read by [Nastya](https://www.facebook.com/app_scoped_user_id/891082154292809/)<sup>7</sup>
+# List of books read by [Nastya](https://www.facebook.com/app_scoped_user_id/891082154292809/)<sup>8</sup>
 ---
 
 ## 2017
@@ -28,6 +28,11 @@
 
 ### Завтра нас похоронят
 > [2016-12] 
+
+
+### Бойцовский клуб
+Чак Паланик
+> [2016-11] 
 
 
 ### Ночь за нашими спинами
