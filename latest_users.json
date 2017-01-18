@@ -1,4 +1,10 @@
 {
+    "107233253672325058205-google": {
+        "id": "107233253672325058205-google",
+        "nickname": "345mhz",
+        "booksCount": 0,
+        "updatedAt": "2017-01-18 18:25:09"
+    },
     "1034497246671899-facebook": {
         "id": "1034497246671899-facebook",
         "nickname": "Гандзя",
@@ -172,11 +178,5 @@
         "nickname": "viktorovna20",
         "booksCount": 0,
         "updatedAt": "2017-01-12 07:01:53"
-    },
-    "376238510-yandex": {
-        "id": "376238510-yandex",
-        "nickname": "ponomarenkovv87",
-        "booksCount": 4,
-        "updatedAt": "2017-01-12 04:38:55"
     }
 }
