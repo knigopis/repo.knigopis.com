@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nastya](users/891/891082154292809-facebook)<sup>0</sup> 
 [Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
-[picasso](users/863/8635122-vkontakte)<sup>0</sup> 
 
 
-_18.01.2017 09:14:04_
+_18.01.2017 12:02:15_
