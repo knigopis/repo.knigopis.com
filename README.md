@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[retina](users/390/3900602-vkontakte)<sup>0</sup> 
+[retina](users/390/3900602-vkontakte)<sup>1</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 [Nastya](users/891/891082154292809-facebook)<sup>12</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
 
 
-_18.01.2017 19:44:49_
+_18.01.2017 19:54:28_
