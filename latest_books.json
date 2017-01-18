@@ -1,4 +1,16 @@
 {
+    "gk1sbFEO76": {
+        "id": "gk1sbFEO76",
+        "title": "Потерянные поколения",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-18 12:24:10",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 2
+        }
+    },
     "4a2UYYC9-3": {
         "id": "4a2UYYC9-3",
         "title": "Разбитые звезды",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 17
-        }
-    },
-    "AS_4KK1eby": {
-        "id": "AS_4KK1eby",
-        "title": "Дом странных детей",
-        "author": "Ренсом Ригз",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 11:00:44",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 16
         }
     }
 }
