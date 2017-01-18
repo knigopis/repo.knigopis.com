@@ -1,4 +1,16 @@
 {
+    "4a2UYYC9-3": {
+        "id": "4a2UYYC9-3",
+        "title": "Разбитые звезды",
+        "author": "Э. Кауфман М. Спунер",
+        "notes": "",
+        "createdAt": "2017-01-18 12:04:19",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 1
+        }
+    },
     "lzKYd2zqtM": {
         "id": "lzKYd2zqtM",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 16
-        }
-    },
-    "_q2lTgSgtl": {
-        "id": "_q2lTgSgtl",
-        "title": "Девушка в поезде",
-        "author": "Пола Хокинс",
-        "notes": "★★★★★★ (6)",
-        "createdAt": "2017-01-14 11:00:13",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 15
         }
     }
 }
