@@ -1,4 +1,16 @@
 {
+    "DdmnnEetQi": {
+        "id": "DdmnnEetQi",
+        "title": "Обреченные",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-01-18 12:28:35",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 10
+        }
+    },
     "1Qm00h5RSV": {
         "id": "1Qm00h5RSV",
         "title": "Проклятые",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 25
-        }
-    },
-    "whFqehJqjr": {
-        "id": "whFqehJqjr",
-        "title": "Моя жизнь. Мои достижения",
-        "author": "Генри Форд",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 11:09:41",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 24
         }
     }
 }
