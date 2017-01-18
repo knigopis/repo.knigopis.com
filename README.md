@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>7</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [viktorovna20](users/815/81551570-vkontakte)<sup>0</sup> 
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 [picasso](users/863/8635122-vkontakte)<sup>0</sup> 
-[Audacieux](users/113/1139361566180442-facebook)<sup>1</sup> 
 
 
-_17.01.2017 15:57:56_
+_18.01.2017 09:14:04_
