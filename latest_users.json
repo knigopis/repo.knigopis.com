@@ -1,4 +1,10 @@
 {
+    "1034497246671899-facebook": {
+        "id": "1034497246671899-facebook",
+        "nickname": "Гандзя",
+        "booksCount": 8,
+        "updatedAt": "2017-01-18 14:31:26"
+    },
     "891082154292809-facebook": {
         "id": "891082154292809-facebook",
         "nickname": "Nastya",
@@ -22,12 +28,6 @@
         "nickname": "myronia",
         "booksCount": 0,
         "updatedAt": "2017-01-17 09:12:39"
-    },
-    "1034497246671899-facebook": {
-        "id": "1034497246671899-facebook",
-        "nickname": "Гандзя",
-        "booksCount": 7,
-        "updatedAt": "2017-01-16 18:26:55"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

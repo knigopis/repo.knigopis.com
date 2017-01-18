@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 [Nastya](users/891/891082154292809-facebook)<sup>12</sup> 
 [Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
-[Гандзя](users/103/1034497246671899-facebook)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>20</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ponomarenkovv87](users/376/376238510-yandex)<sup>4</sup> 
 
 
-_18.01.2017 12:29:56_
+_18.01.2017 14:31:27_
