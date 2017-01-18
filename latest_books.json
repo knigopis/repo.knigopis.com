@@ -1,4 +1,16 @@
 {
+    "8-7qEVmkNL": {
+        "id": "8-7qEVmkNL",
+        "title": "Двоедушник",
+        "author": "Рута Шейл",
+        "notes": "",
+        "createdAt": "2017-01-18 12:25:47",
+        "user": {
+            "id": "891082154292809-facebook",
+            "nickname": "Nastya",
+            "booksCount": 5
+        }
+    },
     "FS8qykc9ZE": {
         "id": "FS8qykc9ZE",
         "title": "Завтра нас похоронят",
@@ -345,18 +357,6 @@
             "id": "1312714775461194-facebook",
             "nickname": "Wirus",
             "booksCount": 20
-        }
-    },
-    "q94j9tvUOe": {
-        "id": "q94j9tvUOe",
-        "title": "У войны не женское лицо",
-        "author": "Светлана Алексиевич",
-        "notes": "★★★★★★★ (7)",
-        "createdAt": "2017-01-14 11:05:18",
-        "user": {
-            "id": "1312714775461194-facebook",
-            "nickname": "Wirus",
-            "booksCount": 19
         }
     }
 }
