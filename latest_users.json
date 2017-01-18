@@ -1,4 +1,10 @@
 {
+    "5180649-vkontakte": {
+        "id": "5180649-vkontakte",
+        "nickname": "Daria Kotliarova",
+        "booksCount": 0,
+        "updatedAt": "2017-01-18 09:14:03"
+    },
     "15953662837134578862-mailru": {
         "id": "15953662837134578862-mailru",
         "nickname": "Кочетовы",
@@ -172,11 +178,5 @@
         "nickname": "picasso",
         "booksCount": 0,
         "updatedAt": "2017-01-11 22:07:27"
-    },
-    "1139361566180442-facebook": {
-        "id": "1139361566180442-facebook",
-        "nickname": "Audacieux",
-        "booksCount": 1,
-        "updatedAt": "2017-01-11 20:07:21"
     }
 }
