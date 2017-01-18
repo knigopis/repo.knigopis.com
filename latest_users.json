@@ -1,4 +1,10 @@
 {
+    "891082154292809-facebook": {
+        "id": "891082154292809-facebook",
+        "nickname": "Nastya",
+        "booksCount": 0,
+        "updatedAt": "2017-01-18 12:02:14"
+    },
     "5180649-vkontakte": {
         "id": "5180649-vkontakte",
         "nickname": "Daria Kotliarova",
@@ -172,11 +178,5 @@
         "nickname": "ponomarenkovv87",
         "booksCount": 4,
         "updatedAt": "2017-01-12 04:38:55"
-    },
-    "8635122-vkontakte": {
-        "id": "8635122-vkontakte",
-        "nickname": "picasso",
-        "booksCount": 0,
-        "updatedAt": "2017-01-11 22:07:27"
     }
 }
