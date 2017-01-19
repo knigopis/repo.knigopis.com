@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>40</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>41</sup>
 ---
 
 ## 2017
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2017-01-19] Хорошая книга. Очень грустная.
+
 
 ### Триумфальная арка
 Эрих Мария Ремарк

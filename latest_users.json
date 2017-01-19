@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 41,
+        "updatedAt": "2017-01-19 19:06:04"
+    },
     "114389869162010721507-google": {
         "id": "114389869162010721507-google",
         "nickname": "Garri938",
@@ -172,11 +178,5 @@
         "nickname": "Катерина Акмайкина",
         "booksCount": 0,
         "updatedAt": "2017-01-12 09:56:13"
-    },
-    "100000146591910-facebook": {
-        "id": "100000146591910-facebook",
-        "nickname": "Ninked",
-        "booksCount": 0,
-        "updatedAt": "2017-01-12 07:27:41"
     }
 }

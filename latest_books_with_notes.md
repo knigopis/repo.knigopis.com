@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
 * Зов кукушки ~ [Garri938](users/114/114389869162010721507-google)<sup>30</sup>
 * Замок на песке ~ [Garri938](users/114/114389869162010721507-google)<sup>29</sup>
 * Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
@@ -30,7 +31,6 @@
 * 17 обновление ~ [Tr](users/122/12282474-vkontakte)<sup>39</sup>
 * Край равнинный. Кумыкская равнина. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>66</sup>
 * Моряк в седле ~ [Беска](users/157/1577468-vkontakte)<sup>17</sup>
-* Убить пересмешника ~ [Беска](users/157/1577468-vkontakte)<sup>16</sup>
 
 
-_19.01.2017 16:06:36_
+_19.01.2017 19:06:04_
