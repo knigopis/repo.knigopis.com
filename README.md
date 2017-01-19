@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[id_n0ne](users/182/18203635-vkontakte)<sup>0</sup> 
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Катерина Акмайкина](users/864/8644621246977640666-mailru)<sup>0</sup> 
 [Ninked](users/100/100000146591910-facebook)<sup>0</sup> 
 [gemini_boom](users/737/73762263-vkontakte)<sup>2</sup> 
-[endorphinization](users/476/476439-vkontakte)<sup>0</sup> 
 
 
-_18.01.2017 19:54:28_
+_19.01.2017 10:50:30_
