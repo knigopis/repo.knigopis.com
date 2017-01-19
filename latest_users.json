@@ -1,4 +1,10 @@
 {
+    "114389869162010721507-google": {
+        "id": "114389869162010721507-google",
+        "nickname": "Garri938",
+        "booksCount": 29,
+        "updatedAt": "2017-01-19 15:29:26"
+    },
     "18203635-vkontakte": {
         "id": "18203635-vkontakte",
         "nickname": "id_n0ne",
@@ -172,11 +178,5 @@
         "nickname": "Ninked",
         "booksCount": 0,
         "updatedAt": "2017-01-12 07:27:41"
-    },
-    "73762263-vkontakte": {
-        "id": "73762263-vkontakte",
-        "nickname": "gemini_boom",
-        "booksCount": 2,
-        "updatedAt": "2017-01-12 07:17:42"
     }
 }
