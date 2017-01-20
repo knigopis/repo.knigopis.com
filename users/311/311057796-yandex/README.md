@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>10</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>11</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 
 
 ## 2014
+
+### Спор о варягах: история и аргументы сторон
+Л.С. Клейн
+
 
 ### Другая История Средневековья
 Сергей Валянский, Дмитрий Калюжный

@@ -1,4 +1,16 @@
 {
+    "yb2fF_k_co": {
+        "id": "yb2fF_k_co",
+        "title": "Спор о варягах: история и аргументы сторон",
+        "author": "Л.С. Клейн",
+        "notes": "",
+        "createdAt": "2017-01-20 20:10:05",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 11
+        }
+    },
     "XH2-q8VP2U": {
         "id": "XH2-q8VP2U",
         "title": "Другая История Средневековья",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 8
-        }
-    },
-    "I2ww26usZp": {
-        "id": "I2ww26usZp",
-        "title": "Гончии Лилит",
-        "author": "Кристина Старк",
-        "notes": "",
-        "createdAt": "2017-01-18 12:26:46",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 7
         }
     }
 }
