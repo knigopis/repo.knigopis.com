@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sandra](users/242/242184576223760-facebook)<sup>0</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
-[maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
 
 
-_20.01.2017 00:26:49_
+_20.01.2017 00:46:44_
