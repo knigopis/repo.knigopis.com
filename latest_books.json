@@ -1,4 +1,16 @@
 {
+    "Xrn5pGhVZD": {
+        "id": "Xrn5pGhVZD",
+        "title": "Как подменили Петра I",
+        "author": "Владимир Куковенко",
+        "notes": "В книге расследуется версия подмены Петра I.",
+        "createdAt": "2017-01-20 19:47:54",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 3
+        }
+    },
     "BUUzbFsrZC": {
         "id": "BUUzbFsrZC",
         "title": "Секретные протоколы или кто подделал пакт Молотова-Риббентропа",
@@ -345,18 +357,6 @@
             "id": "15953662837134578862-mailru",
             "nickname": "Кочетовы",
             "booksCount": 1
-        }
-    },
-    "fkE7OY49z_": {
-        "id": "fkE7OY49z_",
-        "title": "Капитанская Дочь (129 с)",
-        "author": "Пушкин",
-        "notes": "",
-        "createdAt": "2017-01-16 18:26:55",
-        "user": {
-            "id": "1034497246671899-facebook",
-            "nickname": "Гандзя",
-            "booksCount": 7
         }
     }
 }

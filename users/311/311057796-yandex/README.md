@@ -1,5 +1,13 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>2</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>3</sup>
 ---
+
+## 2016
+
+### Как подменили Петра I
+Владимир Куковенко
+> [2016-03] В книге расследуется версия подмены Петра I.
+
+
 
 ## 2015
 
