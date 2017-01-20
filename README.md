@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pkisarov001](users/311/311057796-yandex)<sup>0</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mZya](users/105/105198053460598709259-google)<sup>0</sup> 
 [Wirus](users/131/1312714775461194-facebook)<sup>32</sup> 
 [shaleman](users/440/4400657-vkontakte)<sup>0</sup> 
-[gubarevr](users/103/1033463-vkontakte)<sup>0</sup> 
 
 
-_20.01.2017 19:25:03_
+_20.01.2017 19:42:00_
