@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>16</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>486</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shaleman](users/440/4400657-vkontakte)<sup>0</sup> 
 [gubarevr](users/103/1033463-vkontakte)<sup>0</sup> 
 [mypulseis170bpm](users/241/241736470-vkontakte)<sup>1</sup> 
-[ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 
 
-_20.01.2017 15:30:22_
+_20.01.2017 18:35:32_
