@@ -1,4 +1,10 @@
 {
+    "29027836-vkontakte": {
+        "id": "29027836-vkontakte",
+        "nickname": "Wind's Scream",
+        "booksCount": 0,
+        "updatedAt": "2017-01-20 19:25:02"
+    },
     "8156510-vkontakte": {
         "id": "8156510-vkontakte",
         "nickname": "aglovlyuk",
@@ -172,11 +178,5 @@
         "nickname": "gubarevr",
         "booksCount": 0,
         "updatedAt": "2017-01-13 20:08:31"
-    },
-    "241736470-vkontakte": {
-        "id": "241736470-vkontakte",
-        "nickname": "mypulseis170bpm",
-        "booksCount": 1,
-        "updatedAt": "2017-01-13 19:16:27"
     }
 }
