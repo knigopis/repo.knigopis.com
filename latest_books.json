@@ -1,4 +1,16 @@
 {
+    "3TZeo6DqiG": {
+        "id": "3TZeo6DqiG",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-20 15:30:22",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 1
+        }
+    },
     "oCF7bnSrif": {
         "id": "oCF7bnSrif",
         "title": "Казачья драма",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 20
-        }
-    },
-    "XTXK8mlLOV": {
-        "id": "XTXK8mlLOV",
-        "title": "Теория коммуникации",
-        "author": "Г.Г.Почепцов",
-        "notes": "https://www.ozon.ru/context/detail/id/3244032/\n\nВ процессе",
-        "createdAt": "2017-01-16 16:41:28",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 90
         }
     }
 }

@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Иван](users/111/111223381196748176136-google)<sup>0</sup> 
+[Иван](users/111/111223381196748176136-google)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>16</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>486</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 
 
-_20.01.2017 15:29:07_
+_20.01.2017 15:30:22_
