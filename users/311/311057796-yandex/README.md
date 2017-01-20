@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>3</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>4</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Как подменили Петра I
 Владимир Куковенко
 > [2016-03] В книге расследуется версия подмены Петра I.
+
+
+### Великая оболганная война 2: Нам не за что каяться
+Игорь Пыхалов, Александр Дюков
 
 
 
