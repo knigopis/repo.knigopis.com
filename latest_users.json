@@ -1,4 +1,10 @@
 {
+    "242184576223760-facebook": {
+        "id": "242184576223760-facebook",
+        "nickname": "Sandra",
+        "booksCount": 0,
+        "updatedAt": "2017-01-20 00:46:43"
+    },
     "157708568-vkontakte": {
         "id": "157708568-vkontakte",
         "nickname": "Aigerim",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 87,
         "updatedAt": "2017-01-13 12:05:21"
-    },
-    "23967662-vkontakte": {
-        "id": "23967662-vkontakte",
-        "nickname": "maria_morozova19",
-        "booksCount": 1,
-        "updatedAt": "2017-01-12 14:26:41"
     }
 }
