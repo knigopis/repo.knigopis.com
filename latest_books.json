@@ -1,4 +1,16 @@
 {
+    "DEYK-aCJ2C": {
+        "id": "DEYK-aCJ2C",
+        "title": "Антироссийская подлость",
+        "author": "Юрий Мухин",
+        "notes": "Разоблачение фальсификации Катынского дела",
+        "createdAt": "2017-01-20 19:43:19",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 1
+        }
+    },
     "3TZeo6DqiG": {
         "id": "3TZeo6DqiG",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 133
-        }
-    },
-    "Xa61vDb9zF": {
-        "id": "Xa61vDb9zF",
-        "title": "О мышах и людях. Жемчужина",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2017-01-16 17:49:29",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 20
         }
     }
 }
