@@ -1,4 +1,16 @@
 {
+    "i8h146D8Xr": {
+        "id": "i8h146D8Xr",
+        "title": "Киевской Руси не было или что скрывают историки",
+        "author": "Алексей Кунгуров",
+        "notes": "",
+        "createdAt": "2017-01-20 20:04:36",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 8
+        }
+    },
     "t8mE6GMaEO": {
         "id": "t8mE6GMaEO",
         "title": "Карты древних морских королей",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 5
-        }
-    },
-    "FS8qykc9ZE": {
-        "id": "FS8qykc9ZE",
-        "title": "Завтра нас похоронят",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-18 12:25:16",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 4
         }
     }
 }
