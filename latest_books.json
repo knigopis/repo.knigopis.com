@@ -1,4 +1,16 @@
 {
+    "oMbrHErCvj": {
+        "id": "oMbrHErCvj",
+        "title": "Измена в Ватикане или заговор пап против христианства",
+        "author": "Ольга Четверикова",
+        "notes": "",
+        "createdAt": "2017-01-20 19:53:06",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 5
+        }
+    },
     "2W_tV5JjxT": {
         "id": "2W_tV5JjxT",
         "title": "Великая оболганная война 2: Нам не за что каяться",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 2
-        }
-    },
-    "4a2UYYC9-3": {
-        "id": "4a2UYYC9-3",
-        "title": "Разбитые звезды",
-        "author": "Э. Кауфман М. Спунер",
-        "notes": "",
-        "createdAt": "2017-01-18 12:04:19",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 1
         }
     }
 }
