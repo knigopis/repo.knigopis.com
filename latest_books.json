@@ -1,4 +1,16 @@
 {
+    "Wjx4wyffJG": {
+        "id": "Wjx4wyffJG",
+        "title": "Богатство Англии во внешней торговле или внешняя торговля как источник нашего богатства",
+        "author": "Т. Мен",
+        "notes": "",
+        "createdAt": "2017-01-20 20:19:20",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 16
+        }
+    },
     "5l_qq_bSWz": {
         "id": "5l_qq_bSWz",
         "title": "Столкновение цивилизаций",
@@ -345,18 +357,6 @@
             "id": "1034497246671899-facebook",
             "nickname": "Гандзя",
             "booksCount": 8
-        }
-    },
-    "v8In3787at": {
-        "id": "v8In3787at",
-        "title": "Жаркий поцелуй",
-        "author": "Арментроут",
-        "notes": "",
-        "createdAt": "2017-01-18 12:29:56",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 12
         }
     }
 }
