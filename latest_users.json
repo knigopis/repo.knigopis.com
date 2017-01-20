@@ -1,4 +1,10 @@
 {
+    "311057796-yandex": {
+        "id": "311057796-yandex",
+        "nickname": "pkisarov001",
+        "booksCount": 0,
+        "updatedAt": "2017-01-20 19:41:59"
+    },
     "29027836-vkontakte": {
         "id": "29027836-vkontakte",
         "nickname": "Wind's Scream",
@@ -172,11 +178,5 @@
         "nickname": "shaleman",
         "booksCount": 0,
         "updatedAt": "2017-01-14 08:01:23"
-    },
-    "1033463-vkontakte": {
-        "id": "1033463-vkontakte",
-        "nickname": "gubarevr",
-        "booksCount": 0,
-        "updatedAt": "2017-01-13 20:08:31"
     }
 }
