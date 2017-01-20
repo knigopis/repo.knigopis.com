@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 0,
+        "updatedAt": "2017-01-20 15:29:06"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "ochenpasmurno",
         "booksCount": 0,
         "updatedAt": "2017-01-13 18:41:48"
-    },
-    "6367439-vkontakte": {
-        "id": "6367439-vkontakte",
-        "nickname": "the_seven_way",
-        "booksCount": 0,
-        "updatedAt": "2017-01-13 18:18:58"
     }
 }
