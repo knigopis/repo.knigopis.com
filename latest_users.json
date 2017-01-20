@@ -1,4 +1,10 @@
 {
+    "157708568-vkontakte": {
+        "id": "157708568-vkontakte",
+        "nickname": "Aigerim",
+        "booksCount": 0,
+        "updatedAt": "2017-01-20 00:26:06"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "maria_morozova19",
         "booksCount": 1,
         "updatedAt": "2017-01-12 14:26:41"
-    },
-    "8644621246977640666-mailru": {
-        "id": "8644621246977640666-mailru",
-        "nickname": "Катерина Акмайкина",
-        "booksCount": 0,
-        "updatedAt": "2017-01-12 09:56:13"
     }
 }
