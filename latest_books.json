@@ -1,4 +1,16 @@
 {
+    "y4giNjj8aW": {
+        "id": "y4giNjj8aW",
+        "title": "Миф о гонении церкви в СССР",
+        "author": "Андрей Георгиевич Купцов",
+        "notes": "Очень дотошное популярно написанное исследование, развеивающее один из черных мифов истории нашей страны.",
+        "createdAt": "2017-01-20 20:12:29",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 12
+        }
+    },
     "yb2fF_k_co": {
         "id": "yb2fF_k_co",
         "title": "Спор о варягах: история и аргументы сторон",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 9
-        }
-    },
-    "T2_QZHfeic": {
-        "id": "T2_QZHfeic",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-01-18 12:27:38",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 8
         }
     }
 }
