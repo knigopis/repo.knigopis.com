@@ -1,4 +1,16 @@
 {
+    "J5fk-rGwFh": {
+        "id": "J5fk-rGwFh",
+        "title": "Шепчущий во тьме",
+        "author": "Говард Филипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-01-20 20:24:30",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 17
+        }
+    },
     "Wjx4wyffJG": {
         "id": "Wjx4wyffJG",
         "title": "Богатство Англии во внешней торговле или внешняя торговля как источник нашего богатства",
@@ -345,18 +357,6 @@
             "id": "107233253672325058205-google",
             "nickname": "345mhz",
             "booksCount": 1
-        }
-    },
-    "CrCZsdRsks": {
-        "id": "CrCZsdRsks",
-        "title": "Дубровский (83)",
-        "author": "Пушкин",
-        "notes": "",
-        "createdAt": "2017-01-18 14:31:26",
-        "user": {
-            "id": "1034497246671899-facebook",
-            "nickname": "Гандзя",
-            "booksCount": 8
         }
     }
 }

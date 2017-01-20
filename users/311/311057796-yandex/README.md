@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>16</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>17</sup>
 ---
 
 ## 2017
@@ -84,6 +84,13 @@
 
 ### Богатство Англии во внешней торговле или внешняя торговля как источник нашего богатства
 Т. Мен
+
+
+
+## 2008
+
+### Шепчущий во тьме
+Говард Филипс Лавкрафт
 
 
 
