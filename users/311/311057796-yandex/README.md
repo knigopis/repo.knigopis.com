@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>17</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>18</sup>
 ---
 
 ## 2017
@@ -88,6 +88,10 @@
 
 
 ## 2008
+
+### Зов Ктулху
+Говард Филипс Лавкрафт
+
 
 ### Шепчущий во тьме
 Говард Филипс Лавкрафт

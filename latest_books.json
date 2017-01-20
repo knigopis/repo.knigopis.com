@@ -1,4 +1,16 @@
 {
+    "ctaMre-x8D": {
+        "id": "ctaMre-x8D",
+        "title": "Зов Ктулху",
+        "author": "Говард Филипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-01-20 20:24:59",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 18
+        }
+    },
     "J5fk-rGwFh": {
         "id": "J5fk-rGwFh",
         "title": "Шепчущий во тьме",
@@ -344,18 +356,6 @@
         "user": {
             "id": "3900602-vkontakte",
             "nickname": "retina",
-            "booksCount": 1
-        }
-    },
-    "zb4kz1p8Rv": {
-        "id": "zb4kz1p8Rv",
-        "title": "История Российского государства. От истоков до монгольского нашествия",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-01-18 18:28:46",
-        "user": {
-            "id": "107233253672325058205-google",
-            "nickname": "345mhz",
             "booksCount": 1
         }
     }
