@@ -1,4 +1,16 @@
 {
+    "C3oFzc3TZd": {
+        "id": "C3oFzc3TZd",
+        "title": "Другая История РУси: от Европы до Монголии",
+        "author": "Сергей Валянский, Дмитрий Калюжный",
+        "notes": "",
+        "createdAt": "2017-01-20 20:05:53",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 9
+        }
+    },
     "i8h146D8Xr": {
         "id": "i8h146D8Xr",
         "title": "Киевской Руси не было или что скрывают историки",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 6
-        }
-    },
-    "8-7qEVmkNL": {
-        "id": "8-7qEVmkNL",
-        "title": "Двоедушник",
-        "author": "Рута Шейл",
-        "notes": "",
-        "createdAt": "2017-01-18 12:25:47",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 5
         }
     }
 }
