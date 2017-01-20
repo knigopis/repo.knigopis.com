@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>5</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>6</sup>
 ---
 
 ## 2016
@@ -27,6 +27,11 @@
 
 
 ## 2014
+
+### Сломанный меч Империи
+Максим Калашников
+> По сути гимн советскому оружию и оружейному гению.
+
 
 ### Измена в Ватикане или заговор пап против христианства
 Ольга Четверикова

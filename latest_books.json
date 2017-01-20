@@ -1,4 +1,16 @@
 {
+    "9ZhidrmUTz": {
+        "id": "9ZhidrmUTz",
+        "title": "Сломанный меч Империи",
+        "author": "Максим Калашников",
+        "notes": "По сути гимн советскому оружию и оружейному гению.",
+        "createdAt": "2017-01-20 19:55:18",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 6
+        }
+    },
     "oMbrHErCvj": {
         "id": "oMbrHErCvj",
         "title": "Измена в Ватикане или заговор пап против христианства",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 3
-        }
-    },
-    "gk1sbFEO76": {
-        "id": "gk1sbFEO76",
-        "title": "Потерянные поколения",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-18 12:24:10",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 2
         }
     }
 }
