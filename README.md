@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
+    > ст 79 про состояние казачества на Дону в период Дмитрия Донского
+    > ст 83 описание первых атаманов
+    > ст 163 Раскол на Дону
+
 * Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
     > Хорошая книга. Очень грустная.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Детектив. просто не знал что Джоан Роулинг написала что то кроме Гарри Поттера и было интересно почитать что то другое. Книга понравилась.  действие разворачивается в современной Лондоне.
 
 * Замок на песке ~ [Garri938](users/114/114389869162010721507-google)<sup>29</sup>
-    > Приятный роман. Про преподавателя сельской школы  и молодой художницы. Читать интересно . Одна из лучших книг Айрис Мёрдок. Так же можно заметить что Действия происходит в Англии. Автор Англичанин поэтому присутствуйте также и детальной описание  всех домов в которых разворачивается действия сюжета.
 
 * Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
 
-* Старик ~ [Беска](users/157/1577468-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>15</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>486</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mypulseis170bpm](users/241/241736470-vkontakte)<sup>1</sup> 
 [ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
-[krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
 
 
-_20.01.2017 07:40:34_
+_20.01.2017 11:18:54_

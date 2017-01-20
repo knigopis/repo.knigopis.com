@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 15,
+        "updatedAt": "2017-01-20 11:18:54"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "the_seven_way",
         "booksCount": 0,
         "updatedAt": "2017-01-13 18:18:58"
-    },
-    "339786161-vkontakte": {
-        "id": "339786161-vkontakte",
-        "nickname": "krieghoff",
-        "booksCount": 106,
-        "updatedAt": "2017-01-13 13:30:47"
     }
 }
