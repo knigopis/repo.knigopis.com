@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sandra](users/242/242184576223760-facebook)<sup>0</sup> 
+[Sandra](users/242/242184576223760-facebook)<sup>1</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>30</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 
 
-_20.01.2017 00:46:44_
+_20.01.2017 00:47:30_

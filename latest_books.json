@@ -1,4 +1,16 @@
 {
+    "KCIDTJ0UwL": {
+        "id": "KCIDTJ0UwL",
+        "title": "Саломея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-01-20 00:47:30",
+        "user": {
+            "id": "242184576223760-facebook",
+            "nickname": "Sandra",
+            "booksCount": 1
+        }
+    },
     "rFZb5fPPBa": {
         "id": "rFZb5fPPBa",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "320700111602997-facebook",
             "nickname": "Alona",
             "booksCount": 42
-        }
-    },
-    "8m52eWjKo6": {
-        "id": "8m52eWjKo6",
-        "title": "Я, \"Победа\" і Бкрлін, Я, Паштєт і армія, Я, Шонік і Шпіцберг, Місто в якому не ходять гроші",
-        "author": "Кузьма Скрябін",
-        "notes": "",
-        "createdAt": "2017-01-15 15:10:34",
-        "user": {
-            "id": "320700111602997-facebook",
-            "nickname": "Alona",
-            "booksCount": 41
         }
     }
 }
