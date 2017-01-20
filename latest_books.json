@@ -1,4 +1,16 @@
 {
+    "5l_qq_bSWz": {
+        "id": "5l_qq_bSWz",
+        "title": "Столкновение цивилизаций",
+        "author": "Самюэль Хантингтон",
+        "notes": "",
+        "createdAt": "2017-01-20 20:17:54",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 15
+        }
+    },
     "7gJk3o02jb": {
         "id": "7gJk3o02jb",
         "title": "Война после войны: информационная оккупация продолжается.",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 12
-        }
-    },
-    "BNHDz7xHzq": {
-        "id": "BNHDz7xHzq",
-        "title": "Абсолютные элементы",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-18 12:29:16",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 11
         }
     }
 }

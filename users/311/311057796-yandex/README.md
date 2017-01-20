@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>14</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>15</sup>
 ---
 
 ## 2017
@@ -48,6 +48,10 @@
 
 
 ## 2014
+
+### Столкновение цивилизаций
+Самюэль Хантингтон
+
 
 ### Спор о варягах: история и аргументы сторон
 Л.С. Клейн
