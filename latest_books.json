@@ -1,4 +1,16 @@
 {
+    "oCF7bnSrif": {
+        "id": "oCF7bnSrif",
+        "title": "Казачья драма",
+        "author": "Б.Алмазов",
+        "notes": "Про возрождение казачества",
+        "createdAt": "2017-01-20 11:20:16",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 16
+        }
+    },
     "8kHBuiSW4S": {
         "id": "8kHBuiSW4S",
         "title": "Мы казачьего рода",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 90
-        }
-    },
-    "Ejg0NiQkSU": {
-        "id": "Ejg0NiQkSU",
-        "title": "Понедельник начинается в субботу",
-        "author": "А. Стругацкий, Б. Стругацкий",
-        "notes": "9/10",
-        "createdAt": "2017-01-16 13:48:18",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 67
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "oCF7bnSrif": {
+        "id": "oCF7bnSrif",
+        "title": "Казачья драма",
+        "author": "Б.Алмазов",
+        "notes": "Про возрождение казачества",
+        "createdAt": "2017-01-20 11:20:16",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 16
+        }
+    },
     "8kHBuiSW4S": {
         "id": "8kHBuiSW4S",
         "title": "Мы казачьего рода",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 39
-        }
-    },
-    "GDnCBEGeBb": {
-        "id": "GDnCBEGeBb",
-        "title": "Край равнинный. Кумыкская равнина.",
-        "author": "Атаев Баммат",
-        "notes": "Много исторического материала. Одна и та же история рассказывается в разных частях.",
-        "createdAt": "2016-12-27 12:10:28",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 66
         }
     }
 }
