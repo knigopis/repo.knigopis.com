@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>485</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ochenpasmurno](users/614/61418952-vkontakte)<sup>0</sup> 
 [the_seven_way](users/636/6367439-vkontakte)<sup>0</sup> 
 [krieghoff](users/339/339786161-vkontakte)<sup>106</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>87</sup> 
 
 
-_20.01.2017 00:48:39_
+_20.01.2017 05:33:36_

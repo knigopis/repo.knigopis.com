@@ -1,4 +1,16 @@
 {
+    "14DxiStHKI": {
+        "id": "14DxiStHKI",
+        "title": "Южный ветер",
+        "author": "Норман Дуглас",
+        "notes": "",
+        "createdAt": "2017-01-20 05:33:35",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 485
+        }
+    },
     "qF7bAS2DQr": {
         "id": "qF7bAS2DQr",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 3
-        }
-    },
-    "dl0Pbj0Daz": {
-        "id": "dl0Pbj0Daz",
-        "title": "О. Савич",
-        "author": "Два года в Испании",
-        "notes": "Книга советского журналиста о его пребывании в Испании во время гражданской войны. Много параллелей с войной в Новороссии. Повествование ведется в виде дневников автора.",
-        "createdAt": "2017-01-15 18:11:14",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 1
         }
     }
 }
