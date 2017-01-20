@@ -1,4 +1,16 @@
 {
+    "XH2-q8VP2U": {
+        "id": "XH2-q8VP2U",
+        "title": "Другая История Средневековья",
+        "author": "Сергей Валянский, Дмитрий Калюжный",
+        "notes": "",
+        "createdAt": "2017-01-20 20:07:30",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 10
+        }
+    },
     "C3oFzc3TZd": {
         "id": "C3oFzc3TZd",
         "title": "Другая История РУси: от Европы до Монголии",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 7
-        }
-    },
-    "7SSdZoeb2q": {
-        "id": "7SSdZoeb2q",
-        "title": "Крылья",
-        "author": "Кристина Старк",
-        "notes": "",
-        "createdAt": "2017-01-18 12:26:17",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 6
         }
     }
 }

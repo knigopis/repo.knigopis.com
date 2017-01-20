@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>9</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>10</sup>
 ---
 
 ## 2016
@@ -31,6 +31,10 @@
 
 
 ## 2014
+
+### Другая История Средневековья
+Сергей Валянский, Дмитрий Калюжный
+
 
 ### Другая История Руси: от Европы до Монголии
 Сергей Валянский, Дмитрий Калюжный
