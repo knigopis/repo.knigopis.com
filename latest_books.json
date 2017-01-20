@@ -1,4 +1,16 @@
 {
+    "7gJk3o02jb": {
+        "id": "7gJk3o02jb",
+        "title": "Война после войны: информационная оккупация продолжается.",
+        "author": "В. Лисичкин, Л. Шелепин",
+        "notes": "",
+        "createdAt": "2017-01-20 20:16:45",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 14
+        }
+    },
     "hMe_fWLmvu": {
         "id": "hMe_fWLmvu",
         "title": "Миф о красном терроре.",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 11
-        }
-    },
-    "DdmnnEetQi": {
-        "id": "DdmnnEetQi",
-        "title": "Обреченные",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-01-18 12:28:35",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 10
         }
     }
 }

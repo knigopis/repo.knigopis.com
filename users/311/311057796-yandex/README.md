@@ -1,5 +1,13 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>13</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>14</sup>
 ---
+
+## 2017
+
+### Война после войны: информационная оккупация продолжается.
+В. Лисичкин, Л. Шелепин
+> [2017-01] 
+
+
 
 ## 2016
 
