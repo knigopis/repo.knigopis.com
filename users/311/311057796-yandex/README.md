@@ -1,5 +1,12 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>12</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>13</sup>
 ---
+
+## 2017
+
+### Миф о красном терроре.
+Андрей Георгиевич Купцов
+
+
 
 ## 2016
 

@@ -1,4 +1,16 @@
 {
+    "hMe_fWLmvu": {
+        "id": "hMe_fWLmvu",
+        "title": "Миф о красном терроре.",
+        "author": "Андрей Георгиевич Купцов",
+        "notes": "",
+        "createdAt": "2017-01-20 20:13:48",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 13
+        }
+    },
     "y4giNjj8aW": {
         "id": "y4giNjj8aW",
         "title": "Миф о гонении церкви в СССР",
@@ -345,18 +357,6 @@
             "id": "891082154292809-facebook",
             "nickname": "Nastya",
             "booksCount": 10
-        }
-    },
-    "1Qm00h5RSV": {
-        "id": "1Qm00h5RSV",
-        "title": "Проклятые",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-01-18 12:28:06",
-        "user": {
-            "id": "891082154292809-facebook",
-            "nickname": "Nastya",
-            "booksCount": 9
         }
     }
 }
