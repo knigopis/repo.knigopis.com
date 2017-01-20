@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Aigerim](users/157/157708568-vkontakte)<sup>0</sup> 
+[Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>30</sup> 
 [id_n0ne](users/182/18203635-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [maria_morozova19](users/239/23967662-vkontakte)<sup>1</sup> 
 
 
-_20.01.2017 00:26:07_
+_20.01.2017 00:26:49_
