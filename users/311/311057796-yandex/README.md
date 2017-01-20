@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>18</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>19</sup>
 ---
 
 ## 2017
@@ -48,6 +48,10 @@
 
 
 ## 2014
+
+### Загадка Куликова Поля
+В. Егоров
+
 
 ### Столкновение цивилизаций
 Самюэль Хантингтон
