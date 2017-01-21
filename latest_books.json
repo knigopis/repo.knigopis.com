@@ -1,4 +1,16 @@
 {
+    "sc4aBVtY5T": {
+        "id": "sc4aBVtY5T",
+        "title": "Рождество с неудачниками",
+        "author": "Джон Гришэм",
+        "notes": "",
+        "createdAt": "2017-01-21 08:56:57",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 21
+        }
+    },
     "juLIXa1bFh": {
         "id": "juLIXa1bFh",
         "title": "Амулет Святовита",
@@ -345,18 +357,6 @@
             "id": "157708568-vkontakte",
             "nickname": "Aigerim",
             "booksCount": 1
-        }
-    },
-    "o88FhE0Aui": {
-        "id": "o88FhE0Aui",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Хорошая книга. Очень грустная.",
-        "createdAt": "2017-01-19 19:06:04",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 41
         }
     }
 }
