@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[olegessenin](users/390/3901448-vkontakte)<sup>4</sup> 
+[olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>20</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shaleman](users/440/4400657-vkontakte)<sup>0</sup> 
 
 
-_21.01.2017 06:43:15_
+_21.01.2017 06:43:29_
