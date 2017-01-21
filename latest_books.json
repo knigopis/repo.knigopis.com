@@ -1,4 +1,16 @@
 {
+    "Gzpp9Pjfm5": {
+        "id": "Gzpp9Pjfm5",
+        "title": "Цимла",
+        "author": "А.Константинов",
+        "notes": "стр 193 ст Карповская Февралёва Анна  Трофимовна",
+        "createdAt": "2017-01-21 20:38:12",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 17
+        }
+    },
     "sc4aBVtY5T": {
         "id": "sc4aBVtY5T",
         "title": "Рождество с неудачниками",
@@ -344,18 +356,6 @@
         "user": {
             "id": "242184576223760-facebook",
             "nickname": "Sandra",
-            "booksCount": 1
-        }
-    },
-    "rFZb5fPPBa": {
-        "id": "rFZb5fPPBa",
-        "title": "",
-        "author": "Роберт шарма",
-        "notes": "",
-        "createdAt": "2017-01-20 00:26:49",
-        "user": {
-            "id": "157708568-vkontakte",
-            "nickname": "Aigerim",
             "booksCount": 1
         }
     }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
+    > стр 193 ст Карповская Февралёва Анна  Трофимовна
+
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
     > Про возрождение казачества
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ст 163 Раскол на Дону
 
 * Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
-    > Хорошая книга. Очень грустная.
 
 * Зов кукушки ~ [Garri938](users/114/114389869162010721507-google)<sup>30</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
 
-* Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>21</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>1</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>16</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>486</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Wirus](users/131/1312714775461194-facebook)<sup>32</sup> 
 
 
-_21.01.2017 14:25:23_
+_21.01.2017 20:38:12_

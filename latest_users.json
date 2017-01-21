@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 17,
+        "updatedAt": "2017-01-21 20:38:12"
+    },
     "3211454-vkontakte": {
         "id": "3211454-vkontakte",
         "nickname": "myyspecht",
@@ -40,12 +46,6 @@
         "nickname": "Иван",
         "booksCount": 1,
         "updatedAt": "2017-01-20 15:30:22"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 16,
-        "updatedAt": "2017-01-20 11:20:16"
     },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
