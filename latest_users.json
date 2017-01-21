@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 4,
+        "updatedAt": "2017-01-21 06:43:15"
+    },
     "311057796-yandex": {
         "id": "311057796-yandex",
         "nickname": "pkisarov001",
@@ -142,12 +148,6 @@
         "nickname": "nataligreen",
         "booksCount": 0,
         "updatedAt": "2017-01-16 11:58:26"
-    },
-    "3901448-vkontakte": {
-        "id": "3901448-vkontakte",
-        "nickname": "olegessenin",
-        "booksCount": 3,
-        "updatedAt": "2017-01-16 10:53:31"
     },
     "320700111602997-facebook": {
         "id": "320700111602997-facebook",
