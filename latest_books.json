@@ -1,4 +1,16 @@
 {
+    "1Q9zGgZk6b": {
+        "id": "1Q9zGgZk6b",
+        "title": "Шопенгауэр как лекарство",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2017-01-22 12:03:08",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 487
+        }
+    },
     "Gzpp9Pjfm5": {
         "id": "Gzpp9Pjfm5",
         "title": "Цимла",
@@ -345,18 +357,6 @@
             "id": "242184576223760-facebook",
             "nickname": "Sandra",
             "booksCount": 2
-        }
-    },
-    "KCIDTJ0UwL": {
-        "id": "KCIDTJ0UwL",
-        "title": "Саломея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-01-20 00:47:30",
-        "user": {
-            "id": "242184576223760-facebook",
-            "nickname": "Sandra",
-            "booksCount": 1
         }
     }
 }

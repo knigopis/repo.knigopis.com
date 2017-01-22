@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>486</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>487</sup>
 ---
 
 ## 2017
+
+### Шопенгауэр как лекарство
+Ирвин Ялом
+> [2017-01] 
+
 
 ### Евангелие от Матфея
 > [2017-01] 
