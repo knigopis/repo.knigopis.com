@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>21</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alona](users/320/320700111602997-facebook)<sup>42</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup> 
 [mZya](users/105/105198053460598709259-google)<sup>0</sup> 
-[Wirus](users/131/1312714775461194-facebook)<sup>32</sup> 
 
 
-_21.01.2017 20:38:12_
+_22.01.2017 10:33:36_
