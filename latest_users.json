@@ -1,4 +1,10 @@
 {
+    "100001185091151-facebook": {
+        "id": "100001185091151-facebook",
+        "nickname": "it-moth",
+        "booksCount": 0,
+        "updatedAt": "2017-01-22 10:33:35"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "mZya",
         "booksCount": 0,
         "updatedAt": "2017-01-15 08:36:58"
-    },
-    "1312714775461194-facebook": {
-        "id": "1312714775461194-facebook",
-        "nickname": "Wirus",
-        "booksCount": 32,
-        "updatedAt": "2017-01-14 11:31:00"
     }
 }
