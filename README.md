@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Klimentev](users/104/104202610850481913650-google)<sup>0</sup> 
+[Klimentev](users/104/104202610850481913650-google)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>487</sup> 
 [it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup> 
 
 
-_22.01.2017 17:06:01_
+_22.01.2017 17:06:37_

@@ -1,4 +1,16 @@
 {
+    "CtI3MmS66H": {
+        "id": "CtI3MmS66H",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2017-01-22 17:06:37",
+        "user": {
+            "id": "104202610850481913650-google",
+            "nickname": "Klimentev",
+            "booksCount": 1
+        }
+    },
     "1Q9zGgZk6b": {
         "id": "1Q9zGgZk6b",
         "title": "Шопенгауэр как лекарство",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 485
-        }
-    },
-    "qF7bAS2DQr": {
-        "id": "qF7bAS2DQr",
-        "title": "Жизнь",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2017-01-20 00:48:39",
-        "user": {
-            "id": "242184576223760-facebook",
-            "nickname": "Sandra",
-            "booksCount": 2
         }
     }
 }
