@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 45,
+        "updatedAt": "2017-01-23 15:21:56"
+    },
     "140832989-vkontakte": {
         "id": "140832989-vkontakte",
         "nickname": "TanyaSoldatova",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 133,
         "updatedAt": "2017-01-16 18:01:58"
-    },
-    "101033677091232972633-google": {
-        "id": "101033677091232972633-google",
-        "nickname": "Narjih",
-        "booksCount": 67,
-        "updatedAt": "2017-01-16 13:48:18"
     }
 }

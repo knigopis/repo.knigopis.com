@@ -1,4 +1,16 @@
 {
+    "VNavgaLSMO": {
+        "id": "VNavgaLSMO",
+        "title": "Герострат",
+        "author": "Жан Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-01-23 15:21:56",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 45
+        }
+    },
     "2ZVgyJtykN": {
         "id": "2ZVgyJtykN",
         "title": "мастер и маргарита",
@@ -344,18 +356,6 @@
         "user": {
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
-            "booksCount": 1
-        }
-    },
-    "3TZeo6DqiG": {
-        "id": "3TZeo6DqiG",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-20 15:30:22",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
             "booksCount": 1
         }
     }
