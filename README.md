@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[TanyaSoldatova](users/140/140832989-vkontakte)<sup>0</sup> 
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>88</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
-[atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 
 
-_23.01.2017 13:43:06_
+_23.01.2017 14:07:40_
