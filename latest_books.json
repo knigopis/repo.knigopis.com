@@ -1,4 +1,16 @@
 {
+    "7lnVunXqh5": {
+        "id": "7lnVunXqh5",
+        "title": "Интим",
+        "author": "Жан Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-01-23 15:22:48",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 46
+        }
+    },
     "VNavgaLSMO": {
         "id": "VNavgaLSMO",
         "title": "Герострат",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 2
-        }
-    },
-    "DEYK-aCJ2C": {
-        "id": "DEYK-aCJ2C",
-        "title": "Антироссийская подлость",
-        "author": "Юрий Мухин",
-        "notes": "Разоблачение фальсификации Катынского дела",
-        "createdAt": "2017-01-20 19:43:19",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 1
         }
     }
 }
