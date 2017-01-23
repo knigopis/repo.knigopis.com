@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>2</sup> 
 [mrtdvltshn](users/291/29152388-vkontakte)<sup>0</sup> 
 [Klimentev](users/104/104202610850481913650-google)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>487</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>20</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
-[Иван](users/111/111223381196748176136-google)<sup>1</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alona](users/320/320700111602997-facebook)<sup>42</sup> 
 
 
-_22.01.2017 20:45:39_
+_23.01.2017 06:37:58_

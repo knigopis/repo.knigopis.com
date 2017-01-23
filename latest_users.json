@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 2,
+        "updatedAt": "2017-01-23 06:37:57"
+    },
     "29152388-vkontakte": {
         "id": "29152388-vkontakte",
         "nickname": "mrtdvltshn",
@@ -64,12 +70,6 @@
         "nickname": "aglovlyuk",
         "booksCount": 0,
         "updatedAt": "2017-01-20 18:35:30"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 1,
-        "updatedAt": "2017-01-20 15:30:22"
     },
     "242184576223760-facebook": {
         "id": "242184576223760-facebook",
