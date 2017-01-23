@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>88</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>2</sup> 
 [mrtdvltshn](users/291/29152388-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
 [atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 [nataligreen](users/543/543835-vkontakte)<sup>0</sup> 
-[Alona](users/320/320700111602997-facebook)<sup>42</sup> 
 
 
-_23.01.2017 08:51:02_
+_23.01.2017 13:07:11_

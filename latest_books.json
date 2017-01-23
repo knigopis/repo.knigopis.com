@@ -1,4 +1,16 @@
 {
+    "RqeB-PzPt4": {
+        "id": "RqeB-PzPt4",
+        "title": "Корабельные новости",
+        "author": "Энни Пру",
+        "notes": "",
+        "createdAt": "2017-01-23 13:07:11",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 88
+        }
+    },
     "ZKVrOORJ5N": {
         "id": "ZKVrOORJ5N",
         "title": "Возвращение к звездам",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 16
-        }
-    },
-    "8kHBuiSW4S": {
-        "id": "8kHBuiSW4S",
-        "title": "Мы казачьего рода",
-        "author": "Борис Алмазов",
-        "notes": "ст 79 про состояние казачества на Дону в период Дмитрия Донского\nст 83 описание первых атаманов\nст 163 Раскол на Дону",
-        "createdAt": "2017-01-20 11:18:54",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 15
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 88,
+        "updatedAt": "2017-01-23 13:07:11"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "nataligreen",
         "booksCount": 0,
         "updatedAt": "2017-01-16 11:58:26"
-    },
-    "320700111602997-facebook": {
-        "id": "320700111602997-facebook",
-        "nickname": "Alona",
-        "booksCount": 42,
-        "updatedAt": "2017-01-15 15:11:44"
     }
 }
