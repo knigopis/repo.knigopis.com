@@ -1,4 +1,10 @@
 {
+    "310433527-vkontakte": {
+        "id": "310433527-vkontakte",
+        "nickname": "Progenitor",
+        "booksCount": 0,
+        "updatedAt": "2017-01-23 13:43:06"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "atreju",
         "booksCount": 0,
         "updatedAt": "2017-01-16 13:02:33"
-    },
-    "543835-vkontakte": {
-        "id": "543835-vkontakte",
-        "nickname": "nataligreen",
-        "booksCount": 0,
-        "updatedAt": "2017-01-16 11:58:26"
     }
 }
