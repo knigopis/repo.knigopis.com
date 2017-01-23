@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ставок больше нет. ~ [Ангелина](users/837/83788782-vkontakte)<sup>48</sup>
 * Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Неизведанный Байкал ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>86</sup>
 * Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
 * Сердце зимы ~ [Garka](users/115/115753719718250012620-google)<sup>130</sup>
-* Божественная комедия ~ [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup>
 
 
-_23.01.2017 08:51:02_
+_23.01.2017 15:24:21_

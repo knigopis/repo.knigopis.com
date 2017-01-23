@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ставок больше нет. ~ [Ангелина](users/837/83788782-vkontakte)<sup>48</sup>
+    > Грустно.
+
 * Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
     > http://www.ozon.ru/context/detail/id/5183227/
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > стр 193 ст Карповская Февралёва Анна  Трофимовна
 
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
-    > Про возрождение казачества
 
 * Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
 
-* Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ангелина](users/837/83788782-vkontakte)<sup>47</sup> 
+[Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>88</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 
 
-_23.01.2017 15:23:40_
+_23.01.2017 15:24:21_

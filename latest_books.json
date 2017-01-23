@@ -1,4 +1,16 @@
 {
+    "UIY3nWXb_j": {
+        "id": "UIY3nWXb_j",
+        "title": "Ставок больше нет.",
+        "author": "Жан Поль Сартр",
+        "notes": "Грустно.",
+        "createdAt": "2017-01-23 15:24:21",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 48
+        }
+    },
     "MuvaE5WSFR": {
         "id": "MuvaE5WSFR",
         "title": "Детство повелителя.",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 4
-        }
-    },
-    "Xrn5pGhVZD": {
-        "id": "Xrn5pGhVZD",
-        "title": "Как подменили Петра I",
-        "author": "Владимир Куковенко",
-        "notes": "В книге расследуется версия подмены Петра I.",
-        "createdAt": "2017-01-20 19:47:54",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 3
         }
     }
 }

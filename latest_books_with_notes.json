@@ -1,4 +1,16 @@
 {
+    "UIY3nWXb_j": {
+        "id": "UIY3nWXb_j",
+        "title": "Ставок больше нет.",
+        "author": "Жан Поль Сартр",
+        "notes": "Грустно.",
+        "createdAt": "2017-01-23 15:24:21",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 48
+        }
+    },
     "ZKVrOORJ5N": {
         "id": "ZKVrOORJ5N",
         "title": "Возвращение к звездам",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 130
-        }
-    },
-    "irPVQipzp6": {
-        "id": "irPVQipzp6",
-        "title": "Божественная комедия",
-        "author": "Алигьери Данте",
-        "notes": "Гениально!!!!",
-        "createdAt": "2017-01-01 17:27:47",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 17
         }
     }
 }
