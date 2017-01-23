@@ -1,4 +1,10 @@
 {
+    "140832989-vkontakte": {
+        "id": "140832989-vkontakte",
+        "nickname": "TanyaSoldatova",
+        "booksCount": 0,
+        "updatedAt": "2017-01-23 14:07:39"
+    },
     "310433527-vkontakte": {
         "id": "310433527-vkontakte",
         "nickname": "Progenitor",
@@ -172,11 +178,5 @@
         "nickname": "Narjih",
         "booksCount": 67,
         "updatedAt": "2017-01-16 13:48:18"
-    },
-    "28815983-vkontakte": {
-        "id": "28815983-vkontakte",
-        "nickname": "atreju",
-        "booksCount": 0,
-        "updatedAt": "2017-01-16 13:02:33"
     }
 }
