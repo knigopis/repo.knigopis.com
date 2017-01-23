@@ -1,4 +1,16 @@
 {
+    "2ZVgyJtykN": {
+        "id": "2ZVgyJtykN",
+        "title": "мастер и маргарита",
+        "author": "булгаков",
+        "notes": "",
+        "createdAt": "2017-01-23 14:11:46",
+        "user": {
+            "id": "140832989-vkontakte",
+            "nickname": "TanyaSoldatova",
+            "booksCount": 1
+        }
+    },
     "RqeB-PzPt4": {
         "id": "RqeB-PzPt4",
         "title": "Корабельные новости",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 1
-        }
-    },
-    "oCF7bnSrif": {
-        "id": "oCF7bnSrif",
-        "title": "Казачья драма",
-        "author": "Б.Алмазов",
-        "notes": "Про возрождение казачества",
-        "createdAt": "2017-01-20 11:20:16",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 16
         }
     }
 }
