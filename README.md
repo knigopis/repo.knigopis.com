@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ангелина](users/837/83788782-vkontakte)<sup>46</sup> 
+[Ангелина](users/837/83788782-vkontakte)<sup>47</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>88</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
 
 
-_23.01.2017 15:22:48_
+_23.01.2017 15:23:40_
