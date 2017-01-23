@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
+    > http://www.ozon.ru/context/detail/id/5183227/
+    > 
+    > в процессе
+
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
     > стр 193 ст Карповская Февралёва Анна  Трофимовна
 
@@ -12,9 +17,6 @@ Do not use pull requests to make changes here.
     > Про возрождение казачества
 
 * Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
-    > ст 79 про состояние казачества на Дону в период Дмитрия Донского
-    > ст 83 описание первых атаманов
-    > ст 163 Раскол на Дону
 
 * Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
 
-* Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>2</sup> 
 [mrtdvltshn](users/291/29152388-vkontakte)<sup>0</sup> 
 [Klimentev](users/104/104202610850481913650-google)<sup>1</sup> 
@@ -60,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>133</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup> 
 [Narjih](users/101/101033677091232972633-google)<sup>67</sup> 
 [atreju](users/288/28815983-vkontakte)<sup>0</sup> 
 [nataligreen](users/543/543835-vkontakte)<sup>0</sup> 
 [Alona](users/320/320700111602997-facebook)<sup>42</sup> 
 
 
-_23.01.2017 06:37:58_
+_23.01.2017 08:51:02_

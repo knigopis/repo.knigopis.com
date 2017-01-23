@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
 * Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Комэск-13 ~ [Tr](users/122/12282474-vkontakte)<sup>40</sup>
 * Сердце зимы ~ [Garka](users/115/115753719718250012620-google)<sup>130</sup>
 * Божественная комедия ~ [dimapropolsky](users/211/21138193-vkontakte)<sup>17</sup>
-* Всего хорошего, и спасибо за рыбу! ~ [Garka](users/115/115753719718250012620-google)<sup>129</sup>
 
 
-_21.01.2017 20:38:12_
+_23.01.2017 08:51:02_
