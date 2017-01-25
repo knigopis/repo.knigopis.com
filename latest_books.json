@@ -1,4 +1,16 @@
 {
+    "sYFY-MWqcr": {
+        "id": "sYFY-MWqcr",
+        "title": "1984",
+        "author": "Дж.Оруэлл",
+        "notes": "",
+        "createdAt": "2017-01-25 00:19:22",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "вадим тукмаков",
+            "booksCount": 2
+        }
+    },
     "zudEUf0XXW": {
         "id": "zudEUf0XXW",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 6
-        }
-    },
-    "oMbrHErCvj": {
-        "id": "oMbrHErCvj",
-        "title": "Измена в Ватикане или заговор пап против христианства",
-        "author": "Ольга Четверикова",
-        "notes": "",
-        "createdAt": "2017-01-20 19:53:06",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 5
         }
     }
 }
