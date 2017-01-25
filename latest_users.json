@@ -1,4 +1,10 @@
 {
+    "401225211-vkontakte": {
+        "id": "401225211-vkontakte",
+        "nickname": "Кариона",
+        "booksCount": 0,
+        "updatedAt": "2017-01-25 11:38:46"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "Кочетовы",
         "booksCount": 1,
         "updatedAt": "2017-01-17 15:57:56"
-    },
-    "4413740-vkontakte": {
-        "id": "4413740-vkontakte",
-        "nickname": "myronia",
-        "booksCount": 0,
-        "updatedAt": "2017-01-17 09:12:39"
     }
 }
