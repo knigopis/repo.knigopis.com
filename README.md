@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Возлюбленная ~ [Беска](users/157/1577468-vkontakte)<sup>22</sup>
+    > Любовь убийственна
+    > 
+    > Пустые слова, не несущие никакой окраски, не цепляющие ничем, не падающие в душу. Как будто в словарь заглядываю и пишу слова, выставляя в предложения. Иногда, правда, приходится пробираться через эти неудобоваримые графоманские заросли. Как попытка спрятать. Что? Так и не поняла. Скомканный сюжет? что еще? прочитала уже 2 дня как. До сих пор в недоумении. Не запомнилось ничего, кроме: розовый камень, красная ленточка и пятна на пледе. Остальное - пресно, скупо и не на мой вкус. Люблю действие, чувства. А не передача эмоций через 10 руки. Вот так это для меня читалось. Раскрыты страшные вещи, но написано так, что не трогает. Мне этот роман чужд. И не по проблемам, которые тут подняты, а по стилю и исполнению.
+
 * Ставок больше нет. ~ [Ангелина](users/837/83788782-vkontakte)<sup>48</sup>
     > Грустно.
 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
-    > стр 193 ст Карповская Февралёва Анна  Трофимовна
 
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
 
-* Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>22</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
@@ -48,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>21</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>20</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 
 
-_25.01.2017 00:24:19_
+_25.01.2017 11:30:26_
