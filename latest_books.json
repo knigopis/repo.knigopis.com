@@ -1,4 +1,16 @@
 {
+    "ZkJ8GUMIq8": {
+        "id": "ZkJ8GUMIq8",
+        "title": "Мы",
+        "author": "Е. Замятин",
+        "notes": "Антиутопия",
+        "createdAt": "2017-01-25 11:39:45",
+        "user": {
+            "id": "401225211-vkontakte",
+            "nickname": "Кариона",
+            "booksCount": 1
+        }
+    },
     "a2NNNNOIiD": {
         "id": "a2NNNNOIiD",
         "title": "Возлюбленная",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 13
-        }
-    },
-    "y4giNjj8aW": {
-        "id": "y4giNjj8aW",
-        "title": "Миф о гонении церкви в СССР",
-        "author": "Андрей Георгиевич Купцов",
-        "notes": "Очень дотошное популярно написанное исследование, развеивающее один из черных мифов истории нашей страны.",
-        "createdAt": "2017-01-20 20:12:29",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 12
         }
     }
 }

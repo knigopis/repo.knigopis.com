@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Кариона](users/401/401225211-vkontakte)<sup>0</sup> 
+[Кариона](users/401/401225211-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>22</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
 
 
-_25.01.2017 11:38:47_
+_25.01.2017 11:39:45_
