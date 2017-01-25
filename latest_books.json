@@ -1,4 +1,16 @@
 {
+    "zudEUf0XXW": {
+        "id": "zudEUf0XXW",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-01-25 00:18:29",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "вадим тукмаков",
+            "booksCount": 1
+        }
+    },
     "UIY3nWXb_j": {
         "id": "UIY3nWXb_j",
         "title": "Ставок больше нет.",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 5
-        }
-    },
-    "2W_tV5JjxT": {
-        "id": "2W_tV5JjxT",
-        "title": "Великая оболганная война 2: Нам не за что каяться",
-        "author": "Игорь Пыхалов, Александр Дюков",
-        "notes": "",
-        "createdAt": "2017-01-20 19:51:16",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 4
         }
     }
 }
