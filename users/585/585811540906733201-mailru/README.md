@@ -1,4 +1,4 @@
-# List of books read by [napodhvate](https://my.mail.ru/mail/vadimtykmakov/)<sup>5</sup>
+# List of books read by [napodhvate](https://my.mail.ru/mail/vadimtykmakov/)<sup>6</sup>
 ---
 
 ## 2017
@@ -26,6 +26,11 @@
 ### Хлеб с ветчиной
 Чарльз Буковски
 > [2017-01-02] 
+
+
+### Над пропастью во ржи
+Дж.Сэлинджер
+> [2017-01-01] 
 
 
 

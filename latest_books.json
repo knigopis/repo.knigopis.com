@@ -1,4 +1,16 @@
 {
+    "MvNUu5_nMS": {
+        "id": "MvNUu5_nMS",
+        "title": "Над пропастью во ржи",
+        "author": "Дж.Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-01-25 00:23:35",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "napodhvate",
+            "booksCount": 6
+        }
+    },
     "au4-C6C7km": {
         "id": "au4-C6C7km",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 10
-        }
-    },
-    "C3oFzc3TZd": {
-        "id": "C3oFzc3TZd",
-        "title": "Другая История РУси: от Европы до Монголии",
-        "author": "Сергей Валянский, Дмитрий Калюжный",
-        "notes": "",
-        "createdAt": "2017-01-20 20:05:53",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 9
         }
     }
 }
