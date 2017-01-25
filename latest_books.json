@@ -1,4 +1,16 @@
 {
+    "lUKQReNZcI": {
+        "id": "lUKQReNZcI",
+        "title": "«Преступление и наказание»",
+        "author": "Ф. Достоевский",
+        "notes": "",
+        "createdAt": "2017-01-25 17:14:41",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "napodhvate",
+            "booksCount": 8
+        }
+    },
     "Z8s2CpT6wH": {
         "id": "Z8s2CpT6wH",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 15
-        }
-    },
-    "7gJk3o02jb": {
-        "id": "7gJk3o02jb",
-        "title": "Война после войны: информационная оккупация продолжается.",
-        "author": "В. Лисичкин, Л. Шелепин",
-        "notes": "",
-        "createdAt": "2017-01-20 20:16:45",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 14
         }
     }
 }
