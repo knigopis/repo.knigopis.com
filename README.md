@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Кариона](users/401/401225211-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>22</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nastya](users/891/891082154292809-facebook)<sup>12</sup> 
 [Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
 [Кочетовы](users/159/15953662837134578862-mailru)<sup>1</sup> 
-[myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 
 
-_25.01.2017 11:30:26_
+_25.01.2017 11:38:47_
