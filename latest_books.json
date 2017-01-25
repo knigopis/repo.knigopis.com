@@ -1,4 +1,16 @@
 {
+    "25sZA0LYk5": {
+        "id": "25sZA0LYk5",
+        "title": "Женщины",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-01-25 00:20:12",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "вадим тукмаков",
+            "booksCount": 3
+        }
+    },
     "sYFY-MWqcr": {
         "id": "sYFY-MWqcr",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 7
-        }
-    },
-    "9ZhidrmUTz": {
-        "id": "9ZhidrmUTz",
-        "title": "Сломанный меч Империи",
-        "author": "Максим Калашников",
-        "notes": "По сути гимн советскому оружию и оружейному гению.",
-        "createdAt": "2017-01-20 19:55:18",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 6
         }
     }
 }
