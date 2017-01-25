@@ -1,4 +1,16 @@
 {
+    "Z8s2CpT6wH": {
+        "id": "Z8s2CpT6wH",
+        "title": "Морфий",
+        "author": "М. Булгаков",
+        "notes": "Морфинист",
+        "createdAt": "2017-01-25 11:40:33",
+        "user": {
+            "id": "401225211-vkontakte",
+            "nickname": "Кариона",
+            "booksCount": 2
+        }
+    },
     "ZkJ8GUMIq8": {
         "id": "ZkJ8GUMIq8",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 14
-        }
-    },
-    "hMe_fWLmvu": {
-        "id": "hMe_fWLmvu",
-        "title": "Миф о красном терроре.",
-        "author": "Андрей Георгиевич Купцов",
-        "notes": "",
-        "createdAt": "2017-01-20 20:13:48",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 13
         }
     }
 }
