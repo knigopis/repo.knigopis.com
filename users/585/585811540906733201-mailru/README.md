@@ -1,4 +1,4 @@
-# List of books read by [napodhvate](https://my.mail.ru/mail/vadimtykmakov/)<sup>6</sup>
+# List of books read by [napodhvate](https://my.mail.ru/mail/vadimtykmakov/)<sup>7</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### 1984
 Дж.Оруэлл
 > [2017-01-22] 
+
+
+### Записки юного врача. Морфий
+М.Булгаков
+> [2017-01-17] 
 
 
 ### Мастер и Маргарита

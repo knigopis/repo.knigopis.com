@@ -1,4 +1,16 @@
 {
+    "oTUCIrBaGi": {
+        "id": "oTUCIrBaGi",
+        "title": "Записки юного врача. Морфий",
+        "author": "М.Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-25 00:24:19",
+        "user": {
+            "id": "585811540906733201-mailru",
+            "nickname": "napodhvate",
+            "booksCount": 7
+        }
+    },
     "MvNUu5_nMS": {
         "id": "MvNUu5_nMS",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 11
-        }
-    },
-    "XH2-q8VP2U": {
-        "id": "XH2-q8VP2U",
-        "title": "Другая История Средневековья",
-        "author": "Сергей Валянский, Дмитрий Калюжный",
-        "notes": "",
-        "createdAt": "2017-01-20 20:07:30",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 10
         }
     }
 }

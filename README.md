@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[napodhvate](users/585/585811540906733201-mailru)<sup>6</sup> 
+[napodhvate](users/585/585811540906733201-mailru)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [myronia](users/441/4413740-vkontakte)<sup>0</sup> 
 
 
-_25.01.2017 00:23:35_
+_25.01.2017 00:24:19_
