@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Десять негритят ~ [olegessenin](users/390/3901448-vkontakte)<sup>4</sup>
+    > Отличный детективный роман. Десять человек, виновных в разной степени в людских смертях, попадают на остров, где над ними совершается возмездие неизвестным.
+
 * Возлюбленная ~ [Беска](users/157/1577468-vkontakte)<sup>22</sup>
     > Любовь убийственна
     > 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Грустно.
 
 * Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
-    > http://www.ozon.ru/context/detail/id/5183227/
-    > 
-    > в процессе
 
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Замок на песке ~ [Garri938](users/114/114389869162010721507-google)<sup>29</sup>
 
-* Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>4</sup> 
 [MyasoedovaEA](users/459/459594264-yandex)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>238</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
@@ -55,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
-[olegessenin](users/390/3901448-vkontakte)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>20</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 
 
-_26.01.2017 09:32:57_
+_26.01.2017 18:44:34_
