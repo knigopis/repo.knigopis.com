@@ -1,6 +1,9 @@
 # Wish list of books by [MyasoedovaEA](http://openid.yandex.ru/MyasoedovaEA/)
 ---
 
+### `50` О духовном в искусстве
+Василий Кандинский
+
 ### `50` Доставляя счастье. От нуля до миллиарда
 Тони Шей
 
