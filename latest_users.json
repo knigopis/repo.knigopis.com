@@ -1,4 +1,10 @@
 {
+    "459594264-yandex": {
+        "id": "459594264-yandex",
+        "nickname": "MyasoedovaEA",
+        "booksCount": 0,
+        "updatedAt": "2017-01-26 09:32:56"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Гандзя",
         "booksCount": 8,
         "updatedAt": "2017-01-18 14:31:26"
-    },
-    "891082154292809-facebook": {
-        "id": "891082154292809-facebook",
-        "nickname": "Nastya",
-        "booksCount": 12,
-        "updatedAt": "2017-01-18 12:29:56"
     }
 }
