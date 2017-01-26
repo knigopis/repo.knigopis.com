@@ -1,4 +1,16 @@
 {
+    "sjkCxTnCLs": {
+        "id": "sjkCxTnCLs",
+        "title": "Не кричите на детей",
+        "author": "Даниэль Новара",
+        "notes": "",
+        "createdAt": "2017-01-26 03:53:33",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 237
+        }
+    },
     "lUKQReNZcI": {
         "id": "lUKQReNZcI",
         "title": "«Преступление и наказание»",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 16
-        }
-    },
-    "5l_qq_bSWz": {
-        "id": "5l_qq_bSWz",
-        "title": "Столкновение цивилизаций",
-        "author": "Самюэль Хантингтон",
-        "notes": "",
-        "createdAt": "2017-01-20 20:17:54",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 15
         }
     }
 }

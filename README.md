@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>237</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
 [cheeky](users/100/100000019595884-facebook)<sup>0</sup> 
 [Кариона](users/401/401225211-vkontakte)<sup>2</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 [Nastya](users/891/891082154292809-facebook)<sup>12</sup> 
-[Daria Kotliarova](users/518/5180649-vkontakte)<sup>0</sup> 
 
 
-_25.01.2017 17:14:41_
+_26.01.2017 03:53:33_
