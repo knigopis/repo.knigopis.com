@@ -1,4 +1,4 @@
-# List of books read by [olegessenin](http://vk.com/id3901448)<sup>5</sup>
+# List of books read by [olegessenin](http://vk.com/id3901448)<sup>6</sup>
 ---
 
 ## 2017
@@ -16,6 +16,11 @@
 ### Убийство Роберта Экройда
 Агата Кристи
 > [2017-01-15] 
+
+
+### Все что должно разрешиться
+Захар Прилепин
+> [2017-01] 
 
 
 ### Третья империя

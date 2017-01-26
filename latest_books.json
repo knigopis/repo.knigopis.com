@@ -1,4 +1,16 @@
 {
+    "WJS_RfbOW_": {
+        "id": "WJS_RfbOW_",
+        "title": "Все что должно разрешиться",
+        "author": "Захар Прилепин",
+        "notes": "",
+        "createdAt": "2017-01-26 18:54:22",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 6
+        }
+    },
     "9--o8v_JHL": {
         "id": "9--o8v_JHL",
         "title": "Агрессия",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 20
-        }
-    },
-    "gCkmo26skI": {
-        "id": "gCkmo26skI",
-        "title": "Загадка Куликова Поля",
-        "author": "В. Егоров",
-        "notes": "",
-        "createdAt": "2017-01-20 20:25:52",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 19
         }
     }
 }
