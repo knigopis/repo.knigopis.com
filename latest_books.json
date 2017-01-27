@@ -1,4 +1,16 @@
 {
+    "UTXTkl3SCm": {
+        "id": "UTXTkl3SCm",
+        "title": "Путь к здоровью, или как победить хронические болезни",
+        "author": "Роберт Арушанов",
+        "notes": "",
+        "createdAt": "2017-01-27 12:15:47",
+        "user": {
+            "id": "459594264-yandex",
+            "nickname": "Elena",
+            "booksCount": 2
+        }
+    },
     "7kxx1sjw9w": {
         "id": "7kxx1sjw9w",
         "title": "Один день из жизни Ивана Денисовича",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 21
-        }
-    },
-    "juLIXa1bFh": {
-        "id": "juLIXa1bFh",
-        "title": "Амулет Святовита",
-        "author": "Роман Мискин",
-        "notes": "",
-        "createdAt": "2017-01-21 06:43:15",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 4
         }
     }
 }

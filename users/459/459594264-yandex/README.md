@@ -1,7 +1,12 @@
-# List of books read by [MyasoedovaEA](http://openid.yandex.ru/MyasoedovaEA/)<sup>1</sup>
+# List of books read by [Elena](http://knigopis.com/elena)<sup>2</sup>
 ---
 
 ## 2017
+
+### Путь к здоровью, или как победить хронические болезни
+Роберт Арушанов
+> [2017-01-27] 
+
 
 ### Один день из жизни Ивана Денисовича
 А.И. Солженицын
