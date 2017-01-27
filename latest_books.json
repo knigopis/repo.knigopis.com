@@ -1,4 +1,16 @@
 {
+    "_U64gduWjK": {
+        "id": "_U64gduWjK",
+        "title": "Человек в футляре",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2017-01-27 13:00:25",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "deku",
+            "booksCount": 27
+        }
+    },
     "7_P_3j2P0p": {
         "id": "7_P_3j2P0p",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 2
-        }
-    },
-    "CtI3MmS66H": {
-        "id": "CtI3MmS66H",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "",
-        "createdAt": "2017-01-22 17:06:37",
-        "user": {
-            "id": "104202610850481913650-google",
-            "nickname": "Klimentev",
-            "booksCount": 1
         }
     }
 }
