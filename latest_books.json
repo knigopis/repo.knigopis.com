@@ -1,4 +1,16 @@
 {
+    "pzDqHR-GCM": {
+        "id": "pzDqHR-GCM",
+        "title": "Один день из жизни Ивана Денисовича",
+        "author": "А.И. Солженицын",
+        "notes": "",
+        "createdAt": "2017-01-27 06:08:56",
+        "user": {
+            "id": "459594264-yandex",
+            "nickname": "MyasoedovaEA",
+            "booksCount": 1
+        }
+    },
     "WJS_RfbOW_": {
         "id": "WJS_RfbOW_",
         "title": "Все что должно разрешиться",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 4
-        }
-    },
-    "verhh5REwW": {
-        "id": "verhh5REwW",
-        "title": "Крестовый поход на Восток: Жертвы Второй Мировой.",
-        "author": "Юрий Мухин",
-        "notes": "",
-        "createdAt": "2017-01-20 20:38:50",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 20
         }
     }
 }
