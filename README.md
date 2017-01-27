@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[MyasoedovaEA](users/459/459594264-yandex)<sup>2</sup> 
+[MyasoedovaEA](users/459/459594264-yandex)<sup>1</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>238</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 
 
-_27.01.2017 06:10:35_
+_27.01.2017 06:12:18_
