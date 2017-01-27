@@ -64,6 +64,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiya](users/384/384194935-vkontakte)<sup>25</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>23</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
@@ -93,7 +94,6 @@ _More notes [here](latest_books_with_notes.md)._
 [id_n0ne](users/182/18203635-vkontakte)<sup>0</sup> 
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
-[Гандзя](users/103/1034497246671899-facebook)<sup>8</sup> 
 
 
-_27.01.2017 12:37:11_
+_27.01.2017 12:39:06_

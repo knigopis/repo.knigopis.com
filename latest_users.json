@@ -1,4 +1,10 @@
 {
+    "384194935-vkontakte": {
+        "id": "384194935-vkontakte",
+        "nickname": "raikiya",
+        "booksCount": 25,
+        "updatedAt": "2017-01-27 12:39:06"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "345mhz",
         "booksCount": 1,
         "updatedAt": "2017-01-18 18:28:46"
-    },
-    "1034497246671899-facebook": {
-        "id": "1034497246671899-facebook",
-        "nickname": "Гандзя",
-        "booksCount": 8,
-        "updatedAt": "2017-01-18 14:31:26"
     }
 }
