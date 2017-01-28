@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Неизвестная война: тайная история США ~ [pkisarov001](users/311/311057796-yandex)<sup>21</sup>
+* Неизвестная война: тайная история США ~ [pkisarov001](users/311/311057796-yandex)<sup>22</sup>
     > Популярно и подробно написанная книга о Гражданской Войне в США. Несмотря на кажущуюся симпатию к южанам, автор, по его собственным словам, не утверждает, что "Юг был лучше". Он утверждает, что "Север не был лучше". Книга содержит очень яркие и эмоциональные описания событий Гражданской войны и заставляет задуматься о переосмыслении Гражданской войны в России.
 
 * Жареные зеленые помидоры в кафе «Полустанок» ~ [Беска](users/157/1577468-vkontakte)<sup>23</sup>
@@ -62,7 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pkisarov001](users/311/311057796-yandex)<sup>21</sup> 
+[pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>23</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
@@ -94,4 +94,4 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 
 
-_28.01.2017 08:01:33_
+_28.01.2017 08:03:55_
