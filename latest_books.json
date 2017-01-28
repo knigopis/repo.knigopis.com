@@ -1,4 +1,16 @@
 {
+    "m6xrB25KpR": {
+        "id": "m6xrB25KpR",
+        "title": "Дом на перекрестке. Под небом четырех миров",
+        "author": "Милена Завойчинская",
+        "notes": "книга 3",
+        "createdAt": "2017-01-28 16:18:28",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 136
+        }
+    },
     "X6nw4gKH5w": {
         "id": "X6nw4gKH5w",
         "title": "Дом на перекрестке. Резиденция феи",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 23
-        }
-    },
-    "_U64gduWjK": {
-        "id": "_U64gduWjK",
-        "title": "Человек в футляре",
-        "author": "А. П. Чехов",
-        "notes": "",
-        "createdAt": "2017-01-27 13:00:25",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "deku",
-            "booksCount": 27
         }
     }
 }
