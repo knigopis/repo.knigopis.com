@@ -1,4 +1,16 @@
 {
+    "X6nw4gKH5w": {
+        "id": "X6nw4gKH5w",
+        "title": "Дом на перекрестке. Резиденция феи",
+        "author": "Милена Завочинская",
+        "notes": "книга 2",
+        "createdAt": "2017-01-28 16:17:17",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 135
+        }
+    },
     "WVDH5mfd54": {
         "id": "WVDH5mfd54",
         "title": "Дом на перекрестке",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "deku",
             "booksCount": 27
-        }
-    },
-    "7_P_3j2P0p": {
-        "id": "7_P_3j2P0p",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-01-27 12:39:58",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 26
         }
     }
 }
