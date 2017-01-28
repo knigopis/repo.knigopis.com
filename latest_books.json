@@ -1,4 +1,16 @@
 {
+    "5gzU1N3fRc": {
+        "id": "5gzU1N3fRc",
+        "title": "Утраченный символ",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-01-28 21:53:10",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 42
+        }
+    },
     "meXzBkXf_n": {
         "id": "meXzBkXf_n",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 13
-        }
-    },
-    "ZLS2EUwUv-": {
-        "id": "ZLS2EUwUv-",
-        "title": "Трое в лодке, не считая собаки",
-        "author": "Джером К. Джером",
-        "notes": "",
-        "createdAt": "2017-01-28 21:12:15",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 12
         }
     }
 }

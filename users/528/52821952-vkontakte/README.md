@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>41</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>42</sup>
 ---
 
 ## 2016
@@ -97,6 +97,10 @@
 ### Темные тайны
 Гиллиан Флинн
 > [2015-02] 
+
+
+### Утраченный символ
+Дэн Браун
 
 
 ### Убийство в "Восточном экспрессе"
