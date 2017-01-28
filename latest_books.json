@@ -1,4 +1,16 @@
 {
+    "g-KJhZUHmO": {
+        "id": "g-KJhZUHmO",
+        "title": "Ромео и Джульетта",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-01-28 22:41:20",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 54
+        }
+    },
     "KJjLetLPVN": {
         "id": "KJjLetLPVN",
         "title": "Алые паруса",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 25
-        }
-    },
-    "x3ef4h7iRY": {
-        "id": "x3ef4h7iRY",
-        "title": "Гарри Поттер и Узник Азкабана",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-01-28 21:22:35",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 24
         }
     }
 }
