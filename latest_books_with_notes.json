@@ -1,4 +1,16 @@
 {
+    "ch0rMKtjoT": {
+        "id": "ch0rMKtjoT",
+        "title": "Дело о счастливых ножках",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:44:54",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 165
+        }
+    },
     "2s03IzrgWS": {
         "id": "2s03IzrgWS",
         "title": "Дело о мрачной девушке",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 132
-        }
-    },
-    "szhdia8yGO": {
-        "id": "szhdia8yGO",
-        "title": "Тень. Узор тьмы",
-        "author": "Наталья Жильцова",
-        "notes": "ведьма и архивампир",
-        "createdAt": "2017-01-28 16:13:21",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 130
         }
     }
 }
