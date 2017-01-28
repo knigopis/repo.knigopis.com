@@ -1,4 +1,16 @@
 {
+    "4Drhlm2Rns": {
+        "id": "4Drhlm2Rns",
+        "title": "Король Орков",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2017-01-28 16:41:37",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 157
+        }
+    },
     "dc3NzZNhQR": {
         "id": "dc3NzZNhQR",
         "title": "Два меча",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 127
-        }
-    },
-    "RvBJyqTed5": {
-        "id": "RvBJyqTed5",
-        "title": "Антимаг (книга 2)",
-        "author": "Жильцова Наталья",
-        "notes": "цикл Темные королевства",
-        "createdAt": "2017-01-28 16:09:42",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 126
         }
     }
 }
