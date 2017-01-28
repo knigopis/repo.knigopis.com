@@ -1,4 +1,16 @@
 {
+    "tgEIikRIFX": {
+        "id": "tgEIikRIFX",
+        "title": "Иржина. Случайное не случайно",
+        "author": "Милена Завойчинская",
+        "notes": "книга 2",
+        "createdAt": "2017-01-28 16:20:55",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 138
+        }
+    },
     "ZpD3WJARQH": {
         "id": "ZpD3WJARQH",
         "title": "Иржина. Все не так как кажется",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 3
-        }
-    },
-    "Oli7OqeS3K": {
-        "id": "Oli7OqeS3K",
-        "title": "Большой подлог: краткий курс фальсификации истории",
-        "author": "Шумейко И.",
-        "notes": "",
-        "createdAt": "2017-01-28 08:36:21",
-        "user": {
-            "id": "311057796-yandex",
-            "nickname": "pkisarov001",
-            "booksCount": 22
         }
     }
 }

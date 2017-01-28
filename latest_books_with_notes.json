@@ -1,4 +1,16 @@
 {
+    "tgEIikRIFX": {
+        "id": "tgEIikRIFX",
+        "title": "Иржина. Случайное не случайно",
+        "author": "Милена Завойчинская",
+        "notes": "книга 2",
+        "createdAt": "2017-01-28 16:20:55",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 138
+        }
+    },
     "ZpD3WJARQH": {
         "id": "ZpD3WJARQH",
         "title": "Иржина. Все не так как кажется",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 22
-        }
-    },
-    "UIY3nWXb_j": {
-        "id": "UIY3nWXb_j",
-        "title": "Ставок больше нет.",
-        "author": "Жан Поль Сартр",
-        "notes": "Грустно.",
-        "createdAt": "2017-01-23 15:24:21",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 48
         }
     }
 }
