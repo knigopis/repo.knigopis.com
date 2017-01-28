@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>44</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>45</sup>
 ---
 
 ## 2016
@@ -148,6 +148,10 @@
 
 
 ## 2013
+
+### Этюд в багровых тонах
+Артур Конан Дойл
+
 
 ### Скотный двор
 Джордж Оруэлл

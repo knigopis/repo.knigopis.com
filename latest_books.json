@@ -1,4 +1,16 @@
 {
+    "rKDJjjJPKy": {
+        "id": "rKDJjjJPKy",
+        "title": "Этюд в багровых тонах",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-01-28 22:20:17",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 45
+        }
+    },
     "7aAe2iw5EP": {
         "id": "7aAe2iw5EP",
         "title": "Код да Винчи",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 16
-        }
-    },
-    "uHvmFiPRdZ": {
-        "id": "uHvmFiPRdZ",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2017-01-28 21:14:42",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 15
         }
     }
 }
