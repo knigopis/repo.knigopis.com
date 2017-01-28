@@ -1,4 +1,16 @@
 {
+    "Ae_rvbRDcm": {
+        "id": "Ae_rvbRDcm",
+        "title": "Десять нигритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-01-28 21:15:22",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 16
+        }
+    },
     "uHvmFiPRdZ": {
         "id": "uHvmFiPRdZ",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 2
-        }
-    },
-    "FCL3eEvp0f": {
-        "id": "FCL3eEvp0f",
-        "title": "Нe рычите на собаку!",
-        "author": "Прайор Карен",
-        "notes": "",
-        "createdAt": "2017-01-28 19:00:45",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 1
         }
     }
 }
