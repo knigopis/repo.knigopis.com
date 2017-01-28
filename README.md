@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Море мечей ~ [foksik](users/173/1734575-vkontakte)<sup>153</sup>
+    > Дзирт Уоррен Темные тропы. книга 3
+
 * Хребет Мира ~ [foksik](users/173/1734575-vkontakte)<sup>152</sup>
     > Дзрит Уоррен. Темные тропы книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сага о Дзирт Урроне. Трилогия Темные тропы книга 1
 
 * Дело о полусонной жене ~ [foksik](users/173/1734575-vkontakte)<sup>150</sup>
-    > Перри Мейсон
 
 * Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело искривленной свечи ~ [foksik](users/173/1734575-vkontakte)<sup>142</sup>
 
-* Не время для драконов ~ [foksik](users/173/1734575-vkontakte)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>152</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>153</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:34:50_
+_28.01.2017 16:35:23_
