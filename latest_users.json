@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 3,
+        "updatedAt": "2017-01-28 10:37:38"
+    },
     "311057796-yandex": {
         "id": "311057796-yandex",
         "nickname": "pkisarov001",
@@ -82,12 +88,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 91,
         "updatedAt": "2017-01-23 08:51:02"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 2,
-        "updatedAt": "2017-01-23 06:37:57"
     },
     "29152388-vkontakte": {
         "id": "29152388-vkontakte",
