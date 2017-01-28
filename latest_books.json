@@ -1,4 +1,16 @@
 {
+    "YtlOoQBila": {
+        "id": "YtlOoQBila",
+        "title": "Гранатовый браслет",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2017-01-28 22:52:51",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 58
+        }
+    },
     "omLq115Ccb": {
         "id": "omLq115Ccb",
         "title": "Человек в футляре",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 29
-        }
-    },
-    "w7SI097bp_": {
-        "id": "w7SI097bp_",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-01-28 21:24:24",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 28
         }
     }
 }

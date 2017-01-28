@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>57</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>58</sup>
 ---
 
 ## 2016
@@ -184,6 +184,10 @@
 ### Три товарища
 Эрих Мария Ремарк
 > [2012-10] 
+
+
+### Гранатовый браслет
+Александр Куприн
 
 
 ### Человек в футляре
