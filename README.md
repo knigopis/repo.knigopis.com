@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
+    > любовь ведьмы и архивампира (1 книга)
+
 * Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
     > цикл Темные королевства
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > цикл темные королевства
 
 * Сила Ведьмы ~ [foksik](users/173/1734575-vkontakte)<sup>124</sup>
-    > Каково это – узнать, что магия действительно существует? Да не где-то в другом мире, а рядом, в привычной реальности! Арине вот «повезло» заполучить передающуюся по наследству силу. Правда, маги вокруг, оказывается, далеко не добряки из фэнтези-сказок: ни объяснять, что к чему, ни обучать не собираются. А желающих убить, напротив, хоть отбавляй! (любовь между архивампиром и ведьмой) книга 1
 
 * Академия стихий. Покорение огня ~ [foksik](users/173/1734575-vkontakte)<sup>123</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * ВШБ. Книгоходцы и тайна механического бога ~ [foksik](users/173/1734575-vkontakte)<sup>118</sup>
 
-* ВШБ. Книгоходцы особого назначения ~ [foksik](users/173/1734575-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>127</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>128</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:11:13_
+_28.01.2017 16:12:10_

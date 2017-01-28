@@ -1,4 +1,16 @@
 {
+    "igrjwRfT96": {
+        "id": "igrjwRfT96",
+        "title": "Тень. Проклятие некроманта",
+        "author": "Наталья Жильцова",
+        "notes": "любовь ведьмы и архивампира (1 книга)",
+        "createdAt": "2017-01-28 16:12:10",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 128
+        }
+    },
     "RvBJyqTed5": {
         "id": "RvBJyqTed5",
         "title": "Антимаг (книга 2)",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 133
-        }
-    },
-    "XTXK8mlLOV": {
-        "id": "XTXK8mlLOV",
-        "title": "Теория коммуникации",
-        "author": "Г.Г.Почепцов",
-        "notes": "https://www.ozon.ru/context/detail/id/3244032/\n\nВ процессе",
-        "createdAt": "2017-01-16 16:41:28",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 90
         }
     }
 }
