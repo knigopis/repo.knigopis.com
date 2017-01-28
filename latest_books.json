@@ -1,4 +1,16 @@
 {
+    "w7SI097bp_": {
+        "id": "w7SI097bp_",
+        "title": "Гарри Поттер и Дары Смерти",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-01-28 21:24:24",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 28
+        }
+    },
     "Lz8iAczamT": {
         "id": "Lz8iAczamT",
         "title": "Гарри Поттер и Принц-Полукровка",
@@ -345,18 +357,6 @@
             "id": "199946725-vkontakte",
             "nickname": "jewashot",
             "booksCount": 3
-        }
-    },
-    "2Ru7I5Rwjp": {
-        "id": "2Ru7I5Rwjp",
-        "title": "И ботаники делают бизнес",
-        "author": "Максим Котин",
-        "notes": "",
-        "createdAt": "2017-01-28 20:17:47",
-        "user": {
-            "id": "199946725-vkontakte",
-            "nickname": "jewashot",
-            "booksCount": 2
         }
     }
 }
