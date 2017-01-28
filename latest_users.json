@@ -1,4 +1,10 @@
 {
+    "16680343937491159654-mailru": {
+        "id": "16680343937491159654-mailru",
+        "nickname": "vadim tykmakov",
+        "booksCount": 0,
+        "updatedAt": "2017-01-28 19:00:06"
+    },
     "1734575-vkontakte": {
         "id": "1734575-vkontakte",
         "nickname": "foksik",
@@ -172,11 +178,5 @@
         "nickname": "id_n0ne",
         "booksCount": 0,
         "updatedAt": "2017-01-19 10:50:28"
-    },
-    "3900602-vkontakte": {
-        "id": "3900602-vkontakte",
-        "nickname": "retina",
-        "booksCount": 1,
-        "updatedAt": "2017-01-18 19:54:28"
     }
 }
