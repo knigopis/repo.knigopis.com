@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Две короны (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>132</sup>
+    > подцикл к серии тень.
+
 * Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
     > ведьма и архивампир
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тень и архивампир. книга 2
 
 * Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
-    > любовь ведьмы и архивампира (1 книга)
 
 * Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия стихий. Душа огня ~ [foksik](users/173/1734575-vkontakte)<sup>121</sup>
 
-* Академия стихий. Танец огня ~ [foksik](users/173/1734575-vkontakte)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>131</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>132</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:13:42_
+_28.01.2017 16:14:33_

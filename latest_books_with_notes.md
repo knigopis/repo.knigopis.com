@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Две короны (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>132</sup>
 * Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
 * Тень. Скрижаль мораны ~ [foksik](users/173/1734575-vkontakte)<sup>129</sup>
 * Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
@@ -30,7 +31,6 @@
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
 * Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
 * Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
-* Зов кукушки ~ [Garri938](users/114/114389869162010721507-google)<sup>30</sup>
 
 
-_28.01.2017 16:13:21_
+_28.01.2017 16:14:33_

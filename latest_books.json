@@ -1,4 +1,16 @@
 {
+    "wnyrubpHVG": {
+        "id": "wnyrubpHVG",
+        "title": "Две короны (книга 1)",
+        "author": "Наталья Жильцова",
+        "notes": "подцикл к серии тень.",
+        "createdAt": "2017-01-28 16:14:33",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 132
+        }
+    },
     "j-ZnQ87EiE": {
         "id": "j-ZnQ87EiE",
         "title": "Тень. Ярость тьмы",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 23
-        }
-    },
-    "UTXTkl3SCm": {
-        "id": "UTXTkl3SCm",
-        "title": "Путь к здоровью, или как победить хронические болезни",
-        "author": "Роберт Арушанов",
-        "notes": "",
-        "createdAt": "2017-01-27 12:15:47",
-        "user": {
-            "id": "459594264-yandex",
-            "nickname": "Elena",
-            "booksCount": 2
         }
     }
 }
