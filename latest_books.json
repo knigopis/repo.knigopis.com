@@ -1,4 +1,16 @@
 {
+    "-u6eHQFuJL": {
+        "id": "-u6eHQFuJL",
+        "title": "На берегу",
+        "author": "Иэн Макьюэн",
+        "notes": "",
+        "createdAt": "2017-01-28 20:55:51",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 4
+        }
+    },
     "R9fGFb99MF": {
         "id": "R9fGFb99MF",
         "title": "Цементный сад",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 170
-        }
-    },
-    "32rXVRqX5T": {
-        "id": "32rXVRqX5T",
-        "title": "Дело заикающегося епископа",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:46:32",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 169
         }
     }
 }
