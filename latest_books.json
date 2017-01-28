@@ -1,4 +1,16 @@
 {
+    "hGz02XbI1c": {
+        "id": "hGz02XbI1c",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-01-28 19:00:59",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 2
+        }
+    },
     "FCL3eEvp0f": {
         "id": "FCL3eEvp0f",
         "title": "Нe рычите на собаку!",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 153
-        }
-    },
-    "6H8UMYqF8S": {
-        "id": "6H8UMYqF8S",
-        "title": "Хребет Мира",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзрит Уоррен. Темные тропы книга 2",
-        "createdAt": "2017-01-28 16:34:50",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 152
         }
     }
 }
