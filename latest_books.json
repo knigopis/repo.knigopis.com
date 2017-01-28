@@ -1,4 +1,16 @@
 {
+    "KJjLetLPVN": {
+        "id": "KJjLetLPVN",
+        "title": "Алые паруса",
+        "author": "Александр Грин",
+        "notes": "",
+        "createdAt": "2017-01-28 22:39:17",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 53
+        }
+    },
     "dA7E0oYk_v": {
         "id": "dA7E0oYk_v",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 24
-        }
-    },
-    "8CGZErutb0": {
-        "id": "8CGZErutb0",
-        "title": "Гарри Поттер и Тайная комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-01-28 21:22:07",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 23
         }
     }
 }
