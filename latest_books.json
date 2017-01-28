@@ -1,4 +1,16 @@
 {
+    "oEwadhKhxe": {
+        "id": "oEwadhKhxe",
+        "title": "451 по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-01-28 21:13:20",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 13
+        }
+    },
     "ZLS2EUwUv-": {
         "id": "ZLS2EUwUv-",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 179
-        }
-    },
-    "biayoa5I3T": {
-        "id": "biayoa5I3T",
-        "title": "Нашествие тьмы",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:51:37",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 178
         }
     }
 }
