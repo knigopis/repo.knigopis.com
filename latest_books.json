@@ -1,4 +1,16 @@
 {
+    "J2dzDXlsAm": {
+        "id": "J2dzDXlsAm",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-28 16:27:28",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 146
+        }
+    },
     "K4Wj41JMfM": {
         "id": "K4Wj41JMfM",
         "title": "Дело нервного соучастника",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 118
-        }
-    },
-    "3KLs631Cxf": {
-        "id": "3KLs631Cxf",
-        "title": "ВШБ. Книгоходцы особого назначения",
-        "author": "Милена Завойчинская",
-        "notes": "книга 3",
-        "createdAt": "2017-01-28 15:49:36",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 117
         }
     }
 }
