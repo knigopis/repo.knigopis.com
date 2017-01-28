@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
+    > Дзирт Уоррен
+
 * Друзья познаются в беде ~ [foksik](users/173/1734575-vkontakte)<sup>158</sup>
     > Дзирт Уоррен
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дзрит Уоррен. Клинки охотника. книга 3
 
 * Одинокий дроу ~ [foksik](users/173/1734575-vkontakte)<sup>155</sup>
-    > Дзирт Уоррен. Клинки охотника книга 2
 
 * Тысяча орков ~ [foksik](users/173/1734575-vkontakte)<sup>154</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 
-* Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>158</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>159</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:42:00_
+_28.01.2017 16:42:20_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
 * Друзья познаются в беде ~ [foksik](users/173/1734575-vkontakte)<sup>158</sup>
 * Два меча ~ [foksik](users/173/1734575-vkontakte)<sup>156</sup>
 * Одинокий дроу ~ [foksik](users/173/1734575-vkontakte)<sup>155</sup>
@@ -30,7 +31,6 @@
 * Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
 * Полуночный замок (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>125</sup>
 * Сила Ведьмы ~ [foksik](users/173/1734575-vkontakte)<sup>124</sup>
-* Академия стихий. Покорение огня ~ [foksik](users/173/1734575-vkontakte)<sup>123</sup>
 
 
-_28.01.2017 16:42:00_
+_28.01.2017 16:42:20_
