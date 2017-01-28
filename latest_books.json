@@ -1,4 +1,16 @@
 {
+    "lo7cqH3lsJ": {
+        "id": "lo7cqH3lsJ",
+        "title": "ВШБ. Хроники книгоходцев",
+        "author": "Милена Завойчинская",
+        "notes": "книга  5",
+        "createdAt": "2017-01-28 15:50:45",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 119
+        }
+    },
     "HlySt7A9eh": {
         "id": "HlySt7A9eh",
         "title": "Поселок",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "napodhvate",
             "booksCount": 6
-        }
-    },
-    "au4-C6C7km": {
-        "id": "au4-C6C7km",
-        "title": "Мастер и Маргарита",
-        "author": "М.Булгаков",
-        "notes": "",
-        "createdAt": "2017-01-25 00:22:21",
-        "user": {
-            "id": "585811540906733201-mailru",
-            "nickname": "napodhvate",
-            "booksCount": 5
         }
     }
 }
