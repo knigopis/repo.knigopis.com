@@ -1,4 +1,16 @@
 {
+    "0uCFvMMTc5": {
+        "id": "0uCFvMMTc5",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-01-28 21:18:29",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 19
+        }
+    },
     "DTInV9LGpa": {
         "id": "DTInV9LGpa",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 5
-        }
-    },
-    "zGUVF6FscL": {
-        "id": "zGUVF6FscL",
-        "title": "1984",
-        "author": "Дж.Оруэлл",
-        "notes": "",
-        "createdAt": "2017-01-28 19:01:24",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 4
         }
     }
 }
