@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
 * Тень. Скрижаль мораны ~ [foksik](users/173/1734575-vkontakte)<sup>129</sup>
 * Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
 * Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
@@ -30,7 +31,6 @@
 * Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
 * Жизнь взаймы ~ [sonics](users/588/5880221-vkontakte)<sup>41</sup>
 * Зов кукушки ~ [Garri938](users/114/114389869162010721507-google)<sup>30</sup>
-* Замок на песке ~ [Garri938](users/114/114389869162010721507-google)<sup>29</sup>
 
 
-_28.01.2017 16:12:51_
+_28.01.2017 16:13:21_

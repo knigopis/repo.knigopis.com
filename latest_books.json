@@ -1,4 +1,16 @@
 {
+    "szhdia8yGO": {
+        "id": "szhdia8yGO",
+        "title": "Тень. Узор тьмы",
+        "author": "Наталья Жильцова",
+        "notes": "ведьма и архивампир",
+        "createdAt": "2017-01-28 16:13:21",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 130
+        }
+    },
     "_t5_56TsPn": {
         "id": "_t5_56TsPn",
         "title": "Тень. Скрижаль мораны",
@@ -345,18 +357,6 @@
             "id": "459594264-yandex",
             "nickname": "MyasoedovaEA",
             "booksCount": 2
-        }
-    },
-    "WJS_RfbOW_": {
-        "id": "WJS_RfbOW_",
-        "title": "Все что должно разрешиться",
-        "author": "Захар Прилепин",
-        "notes": "",
-        "createdAt": "2017-01-26 18:54:22",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 6
         }
     }
 }
