@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jewashot](users/199/199946725-vkontakte)<sup>0</sup> 
 [vadim tykmakov](users/166/16680343937491159654-mailru)<sup>11</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>41</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>30</sup> 
-[id_n0ne](users/182/18203635-vkontakte)<sup>0</sup> 
 
 
-_28.01.2017 19:05:26_
+_28.01.2017 20:15:16_
