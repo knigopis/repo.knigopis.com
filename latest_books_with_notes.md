@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
 * Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
 * Дело музыкальных колокольчиков ~ [foksik](users/173/1734575-vkontakte)<sup>143</sup>
 * Дело искривленной свечи ~ [foksik](users/173/1734575-vkontakte)<sup>142</sup>
@@ -30,7 +31,6 @@
 * ВШБ. Магия книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>115</sup>
 * Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
 * Академия магического права. Брюнетка в осаде ~ [foksik](users/173/1734575-vkontakte)<sup>113</sup>
-* Академия магического права. Брюнетка в защите ~ [foksik](users/173/1734575-vkontakte)<sup>112</sup>
 
 
-_28.01.2017 16:26:56_
+_28.01.2017 16:27:23_
