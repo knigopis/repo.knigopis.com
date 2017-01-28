@@ -1,4 +1,16 @@
 {
+    "NWzuZgT1bM": {
+        "id": "NWzuZgT1bM",
+        "title": "Властелин колец",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2017-01-28 21:51:15",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 40
+        }
+    },
     "vI96FHcYop": {
         "id": "vI96FHcYop",
         "title": "Хоббит, или Туда и обратно",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 11
-        }
-    },
-    "c_f3w4HDZz": {
-        "id": "c_f3w4HDZz",
-        "title": "Мастер и Маргатира",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-01-28 21:09:16",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 10
         }
     }
 }
