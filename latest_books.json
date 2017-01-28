@@ -1,4 +1,16 @@
 {
+    "yWxhOtul7g": {
+        "id": "yWxhOtul7g",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-01-28 20:49:58",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 1
+        }
+    },
     "QQOhgNWPKq": {
         "id": "QQOhgNWPKq",
         "title": "Я — легенда",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 167
-        }
-    },
-    "38c8_KTDum": {
-        "id": "38c8_KTDum",
-        "title": "Дело о любопытной новобрачной",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:45:19",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 166
         }
     }
 }
