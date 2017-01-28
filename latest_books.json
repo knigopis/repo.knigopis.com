@@ -1,4 +1,16 @@
 {
+    "Y9geW4tHI9": {
+        "id": "Y9geW4tHI9",
+        "title": "Гранатовый браслет",
+        "author": "Куприн",
+        "notes": "",
+        "createdAt": "2017-01-28 16:48:16",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 172
+        }
+    },
     "4soiqtVSE5": {
         "id": "4soiqtVSE5",
         "title": "Собака которая выла",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 142
-        }
-    },
-    "NZknxEe2E5": {
-        "id": "NZknxEe2E5",
-        "title": "Адвокат Перри Мейсон",
-        "author": "Эрл Стенли",
-        "notes": "",
-        "createdAt": "2017-01-28 16:25:05",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 141
         }
     }
 }
