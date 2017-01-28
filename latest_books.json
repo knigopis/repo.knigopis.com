@@ -1,4 +1,16 @@
 {
+    "3KLs631Cxf": {
+        "id": "3KLs631Cxf",
+        "title": "ВШБ. Книгоходцы особого назначения",
+        "author": "Милена Завойчинская",
+        "notes": "книга 3",
+        "createdAt": "2017-01-28 15:49:36",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 117
+        }
+    },
     "pqOygnNplA": {
         "id": "pqOygnNplA",
         "title": "ВШБ. Боевая практика книгоходцев",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "вадим тукмаков",
             "booksCount": 3
-        }
-    },
-    "sYFY-MWqcr": {
-        "id": "sYFY-MWqcr",
-        "title": "1984",
-        "author": "Дж.Оруэлл",
-        "notes": "",
-        "createdAt": "2017-01-25 00:19:22",
-        "user": {
-            "id": "585811540906733201-mailru",
-            "nickname": "вадим тукмаков",
-            "booksCount": 2
         }
     }
 }

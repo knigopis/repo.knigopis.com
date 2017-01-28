@@ -1,4 +1,16 @@
 {
+    "3KLs631Cxf": {
+        "id": "3KLs631Cxf",
+        "title": "ВШБ. Книгоходцы особого назначения",
+        "author": "Милена Завойчинская",
+        "notes": "книга 3",
+        "createdAt": "2017-01-28 15:49:36",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 117
+        }
+    },
     "pqOygnNplA": {
         "id": "pqOygnNplA",
         "title": "ВШБ. Боевая практика книгоходцев",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 7
-        }
-    },
-    "AYOSxZU9A9": {
-        "id": "AYOSxZU9A9",
-        "title": "Фауст",
-        "author": "Иоганн Вольфганг фон Гёте",
-        "notes": "не дочитала",
-        "createdAt": "2017-01-08 10:10:47",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 6
         }
     }
 }
