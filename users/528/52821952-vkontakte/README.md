@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>48</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>49</sup>
 ---
 
 ## 2016
@@ -148,6 +148,10 @@
 
 
 ## 2013
+
+### Шесть Наполеонов
+Артур Конан Дойл
+
 
 ### Пять зёрнышек апельсина
 Артур Конан Дойл

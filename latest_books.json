@@ -1,4 +1,16 @@
 {
+    "qNDoY6oeDR": {
+        "id": "qNDoY6oeDR",
+        "title": "Шесть Наполеонов",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-01-28 22:28:24",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 49
+        }
+    },
     "MMxZfY4T03": {
         "id": "MMxZfY4T03",
         "title": "Пять зёрнышек апельсина",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 20
-        }
-    },
-    "0uCFvMMTc5": {
-        "id": "0uCFvMMTc5",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-01-28 21:18:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 19
         }
     }
 }
