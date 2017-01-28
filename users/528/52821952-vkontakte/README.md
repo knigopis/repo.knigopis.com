@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>21</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>22</sup>
 ---
 
 ## 2016
@@ -113,6 +113,13 @@
 
 ### Повесть о Настоящем Человеке
 Борис Полевой
+
+
+
+## 2008
+
+### Гарри Поттер и философский камень
+Джоан Роулинг
 
 
 

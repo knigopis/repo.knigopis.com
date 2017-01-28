@@ -1,4 +1,16 @@
 {
+    "GNAWYpm66Y": {
+        "id": "GNAWYpm66Y",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-01-28 21:21:41",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 22
+        }
+    },
     "OhslRc4OSB": {
         "id": "OhslRc4OSB",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 8
-        }
-    },
-    "PBsygUjlbw": {
-        "id": "PBsygUjlbw",
-        "title": "Записки юного врача. Морфий",
-        "author": "М.Булгаков",
-        "notes": "",
-        "createdAt": "2017-01-28 19:02:30",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 7
         }
     }
 }
