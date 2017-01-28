@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело о полусонной жене ~ [foksik](users/173/1734575-vkontakte)<sup>150</sup>
+    > Перри Мейсон
+
 * Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
     > Перри Мейсон
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перри Мейсон
 
 * Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
-    > Перри Мейсон
 
 * Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Иржина. Случайное не случайно ~ [foksik](users/173/1734575-vkontakte)<sup>138</sup>
 
-* Иржина. Все не так как кажется ~ [foksik](users/173/1734575-vkontakte)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>149</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>150</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:28:17_
+_28.01.2017 16:28:38_
