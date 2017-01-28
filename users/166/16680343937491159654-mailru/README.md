@@ -1,4 +1,4 @@
-# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>6</sup>
+# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>7</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Нe рычите на собаку!
 Прайор Карен
 > [2017-01-28] 
+
+
+### Записки юного врача. Морфий
+М.Булгаков
+> [2017-01-20] 
 
 
 ### Хлеб с ветчиной
