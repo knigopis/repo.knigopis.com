@@ -1,4 +1,16 @@
 {
+    "A0iKRg-IjC": {
+        "id": "A0iKRg-IjC",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-01-28 21:42:07",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 35
+        }
+    },
     "xllIOf4zYt": {
         "id": "xllIOf4zYt",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 6
-        }
-    },
-    "m-FgcaJmYp": {
-        "id": "m-FgcaJmYp",
-        "title": "Повесть о Настоящем Человеке",
-        "author": "Юорис Полевой",
-        "notes": "",
-        "createdAt": "2017-01-28 20:56:43",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 5
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>34</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>35</sup>
 ---
 
 ## 2016
@@ -67,6 +67,11 @@
 ### Марсианин
 Энди Вейер
 > [2015-08] 
+
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2015-07] 
 
 
 ### Гордость и предубеждение
