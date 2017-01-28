@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Два меча ~ [foksik](users/173/1734575-vkontakte)<sup>156</sup>
 * Одинокий дроу ~ [foksik](users/173/1734575-vkontakte)<sup>155</sup>
 * Тысяча орков ~ [foksik](users/173/1734575-vkontakte)<sup>154</sup>
 * Море мечей ~ [foksik](users/173/1734575-vkontakte)<sup>153</sup>
@@ -30,7 +31,6 @@
 * Сила Ведьмы ~ [foksik](users/173/1734575-vkontakte)<sup>124</sup>
 * Академия стихий. Покорение огня ~ [foksik](users/173/1734575-vkontakte)<sup>123</sup>
 * Академия стихий. Испытание огня ~ [foksik](users/173/1734575-vkontakte)<sup>122</sup>
-* Академия стихий. Душа огня ~ [foksik](users/173/1734575-vkontakte)<sup>121</sup>
 
 
-_28.01.2017 16:37:50_
+_28.01.2017 16:38:48_
