@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 0,
+        "updatedAt": "2017-01-28 20:37:44"
+    },
     "199946725-vkontakte": {
         "id": "199946725-vkontakte",
         "nickname": "jewashot",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 41,
         "updatedAt": "2017-01-19 19:06:04"
-    },
-    "114389869162010721507-google": {
-        "id": "114389869162010721507-google",
-        "nickname": "Garri938",
-        "booksCount": 30,
-        "updatedAt": "2017-01-19 16:06:36"
     }
 }
