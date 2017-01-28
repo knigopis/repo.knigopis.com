@@ -1,4 +1,16 @@
 {
+    "HlySt7A9eh": {
+        "id": "HlySt7A9eh",
+        "title": "Поселок",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2017-01-28 15:50:40",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 239
+        }
+    },
     "te19Wanu4-": {
         "id": "te19Wanu4-",
         "title": "ВШБ. Книгоходцы и тайна механического бога",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "napodhvate",
             "booksCount": 5
-        }
-    },
-    "zP8GuDe_bA": {
-        "id": "zP8GuDe_bA",
-        "title": "Хлеб с ветчиной",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-01-25 00:21:26",
-        "user": {
-            "id": "585811540906733201-mailru",
-            "nickname": "napodhvate",
-            "booksCount": 4
         }
     }
 }

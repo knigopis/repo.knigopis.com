@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>118</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>23</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>238</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
 [cheeky](users/100/100000019595884-facebook)<sup>0</sup> 
 [Кариона](users/401/401225211-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 15:50:17_
+_28.01.2017 15:50:40_
