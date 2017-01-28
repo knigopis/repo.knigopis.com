@@ -1,4 +1,16 @@
 {
+    "biayoa5I3T": {
+        "id": "biayoa5I3T",
+        "title": "Нашествие тьмы",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:51:37",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 178
+        }
+    },
     "x4MHC_BNKp": {
         "id": "x4MHC_BNKp",
         "title": "Беззвездная ночь",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 144
-        }
-    },
-    "-fOGEujoxo": {
-        "id": "-fOGEujoxo",
-        "title": "Дело музыкальных колокольчиков",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон (детектив)",
-        "createdAt": "2017-01-28 16:26:32",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 143
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нашествие тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>178</sup>
 * Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
 * Проклятие рубина ~ [foksik](users/173/1734575-vkontakte)<sup>176</sup>
 * Серебряные стрелы ~ [foksik](users/173/1734575-vkontakte)<sup>175</sup>
@@ -30,7 +31,6 @@
 * Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
 * Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
 * Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
-* Дело музыкальных колокольчиков ~ [foksik](users/173/1734575-vkontakte)<sup>143</sup>
 
 
-_28.01.2017 16:51:18_
+_28.01.2017 16:51:38_
