@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Иржина. Предначертанного не избежать ~ [foksik](users/173/1734575-vkontakte)<sup>139</sup>
+    > книга 3
+
 * Иржина. Случайное не случайно ~ [foksik](users/173/1734575-vkontakte)<sup>138</sup>
     > книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга 1
 
 * Дом на перекрестке. Под небом четырех миров ~ [foksik](users/173/1734575-vkontakte)<sup>136</sup>
-    > книга 3
 
 * Дом на перекрестке. Резиденция феи ~ [foksik](users/173/1734575-vkontakte)<sup>135</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тень. Скрижаль мораны ~ [foksik](users/173/1734575-vkontakte)<sup>129</sup>
 
-* Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>138</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>139</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:20:55_
+_28.01.2017 16:21:32_

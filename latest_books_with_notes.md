@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Иржина. Предначертанного не избежать ~ [foksik](users/173/1734575-vkontakte)<sup>139</sup>
 * Иржина. Случайное не случайно ~ [foksik](users/173/1734575-vkontakte)<sup>138</sup>
 * Иржина. Все не так как кажется ~ [foksik](users/173/1734575-vkontakte)<sup>137</sup>
 * Дом на перекрестке. Под небом четырех миров ~ [foksik](users/173/1734575-vkontakte)<sup>136</sup>
@@ -30,7 +31,6 @@
 * Неизвестная война: тайная история США ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 * Жареные зеленые помидоры в кафе «Полустанок» ~ [Беска](users/157/1577468-vkontakte)<sup>23</sup>
 * Десять негритят ~ [olegessenin](users/390/3901448-vkontakte)<sup>4</sup>
-* Возлюбленная ~ [Беска](users/157/1577468-vkontakte)<sup>22</sup>
 
 
-_28.01.2017 16:20:55_
+_28.01.2017 16:21:32_
