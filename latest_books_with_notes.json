@@ -1,4 +1,16 @@
 {
+    "RvBJyqTed5": {
+        "id": "RvBJyqTed5",
+        "title": "Антимаг (книга 2)",
+        "author": "Жильцова Наталья",
+        "notes": "цикл Темные королевства",
+        "createdAt": "2017-01-28 16:09:42",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 126
+        }
+    },
     "I-FU-LBdIu": {
         "id": "I-FU-LBdIu",
         "title": "Полуночный замок (книга 1)",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 90
-        }
-    },
-    "Ejg0NiQkSU": {
-        "id": "Ejg0NiQkSU",
-        "title": "Понедельник начинается в субботу",
-        "author": "А. Стругацкий, Б. Стругацкий",
-        "notes": "9/10",
-        "createdAt": "2017-01-16 13:48:18",
-        "user": {
-            "id": "101033677091232972633-google",
-            "nickname": "Narjih",
-            "booksCount": 67
         }
     }
 }

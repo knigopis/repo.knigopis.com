@@ -1,4 +1,16 @@
 {
+    "RvBJyqTed5": {
+        "id": "RvBJyqTed5",
+        "title": "Антимаг (книга 2)",
+        "author": "Жильцова Наталья",
+        "notes": "цикл Темные королевства",
+        "createdAt": "2017-01-28 16:09:42",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 126
+        }
+    },
     "I-FU-LBdIu": {
         "id": "I-FU-LBdIu",
         "title": "Полуночный замок (книга 1)",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 238
-        }
-    },
-    "sjkCxTnCLs": {
-        "id": "sjkCxTnCLs",
-        "title": "Не кричите на детей",
-        "author": "Даниэль Новара",
-        "notes": "",
-        "createdAt": "2017-01-26 03:53:33",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 237
         }
     }
 }

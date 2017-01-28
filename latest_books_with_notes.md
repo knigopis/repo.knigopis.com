@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
 * Полуночный замок (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>125</sup>
 * Сила Ведьмы ~ [foksik](users/173/1734575-vkontakte)<sup>124</sup>
 * Академия стихий. Покорение огня ~ [foksik](users/173/1734575-vkontakte)<sup>123</sup>
@@ -30,7 +31,6 @@
 * Замок на песке ~ [Garri938](users/114/114389869162010721507-google)<sup>29</sup>
 * Мемуары гейши ~ [Garka](users/115/115753719718250012620-google)<sup>133</sup>
 * Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
-* Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
 
 
-_28.01.2017 16:09:09_
+_28.01.2017 16:09:43_
