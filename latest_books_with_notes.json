@@ -1,4 +1,16 @@
 {
+    "2s03IzrgWS": {
+        "id": "2s03IzrgWS",
+        "title": "Дело о мрачной девушке",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:44:34",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 164
+        }
+    },
     "0lU5E_a4Iv": {
         "id": "0lU5E_a4Iv",
         "title": "Дело о бархатных коготках",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 130
-        }
-    },
-    "_t5_56TsPn": {
-        "id": "_t5_56TsPn",
-        "title": "Тень. Скрижаль мораны",
-        "author": "Наталья Жильцова",
-        "notes": "Тень и архивампир. книга 2",
-        "createdAt": "2017-01-28 16:12:51",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 129
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "2s03IzrgWS": {
+        "id": "2s03IzrgWS",
+        "title": "Дело о мрачной девушке",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:44:34",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 164
+        }
+    },
     "0lU5E_a4Iv": {
         "id": "0lU5E_a4Iv",
         "title": "Дело о бархатных коготках",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 134
-        }
-    },
-    "Y4FXO_kZYL": {
-        "id": "Y4FXO_kZYL",
-        "title": "Две короны. Турнир",
-        "author": "Наталья Жильцова",
-        "notes": "подцикл к серии тень. книга 2",
-        "createdAt": "2017-01-28 16:15:02",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 133
         }
     }
 }
