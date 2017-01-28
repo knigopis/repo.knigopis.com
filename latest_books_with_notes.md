@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия стихий. Испытание огня ~ [foksik](users/173/1734575-vkontakte)<sup>122</sup>
 * Академия стихий. Душа огня ~ [foksik](users/173/1734575-vkontakte)<sup>121</sup>
 * Академия стихий. Танец огня ~ [foksik](users/173/1734575-vkontakte)<sup>120</sup>
 * ВШБ. Хроники книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>119</sup>
@@ -30,7 +31,6 @@
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
 * Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
 * В основном безвредна ~ [Garka](users/115/115753719718250012620-google)<sup>132</sup>
-* Старик ~ [Беска](users/157/1577468-vkontakte)<sup>19</sup>
 
 
-_28.01.2017 15:54:09_
+_28.01.2017 15:54:44_
