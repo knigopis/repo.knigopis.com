@@ -1,4 +1,16 @@
 {
+    "0V6xHvZMoJ": {
+        "id": "0V6xHvZMoJ",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-01-28 21:16:49",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 17
+        }
+    },
     "Ae_rvbRDcm": {
         "id": "Ae_rvbRDcm",
         "title": "Десять нигритят",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 3
-        }
-    },
-    "hGz02XbI1c": {
-        "id": "hGz02XbI1c",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-01-28 19:00:59",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 2
         }
     }
 }
