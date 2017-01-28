@@ -1,4 +1,16 @@
 {
+    "q4FElc6VC7": {
+        "id": "q4FElc6VC7",
+        "title": "Проклятие рубина",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:50:04",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 176
+        }
+    },
     "K8EFLAU47n": {
         "id": "K8EFLAU47n",
         "title": "Серебряные стрелы",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 147
-        }
-    },
-    "K4Wj41JMfM": {
-        "id": "K4Wj41JMfM",
-        "title": "Дело нервного соучастника",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:27:23",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 145
         }
     }
 }

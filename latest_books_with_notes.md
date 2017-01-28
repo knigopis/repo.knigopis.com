@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Проклятие рубина ~ [foksik](users/173/1734575-vkontakte)<sup>176</sup>
 * Серебряные стрелы ~ [foksik](users/173/1734575-vkontakte)<sup>175</sup>
 * Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
@@ -30,7 +31,6 @@
 * Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
 * Дело музыкальных колокольчиков ~ [foksik](users/173/1734575-vkontakte)<sup>143</sup>
 * Дело искривленной свечи ~ [foksik](users/173/1734575-vkontakte)<sup>142</sup>
-* Не время для драконов ~ [foksik](users/173/1734575-vkontakte)<sup>140</sup>
 
 
-_28.01.2017 16:49:32_
+_28.01.2017 16:50:05_
