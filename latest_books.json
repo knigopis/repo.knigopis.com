@@ -1,4 +1,16 @@
 {
+    "v8YmAVYyZg": {
+        "id": "v8YmAVYyZg",
+        "title": "Почтамт",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-01-28 19:05:26",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 11
+        }
+    },
     "YFrqrFphvo": {
         "id": "YFrqrFphvo",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 162
-        }
-    },
-    "pOCBmPoNMA": {
-        "id": "pOCBmPoNMA",
-        "title": "Король пиратов",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:43:19",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 161
         }
     }
 }
