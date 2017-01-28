@@ -62,7 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
+[pkisarov001](users/311/311057796-yandex)<sup>21</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>23</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
@@ -94,4 +94,4 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>1</sup> 
 
 
-_28.01.2017 08:07:00_
+_28.01.2017 08:07:05_
