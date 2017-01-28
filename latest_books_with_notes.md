@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
 * Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
 * Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
 * Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
@@ -30,7 +31,6 @@
 * Две короны (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>132</sup>
 * Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
 * Тень. Скрижаль мораны ~ [foksik](users/173/1734575-vkontakte)<sup>129</sup>
-* Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
 
 
-_28.01.2017 16:43:40_
+_28.01.2017 16:44:15_

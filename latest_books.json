@@ -1,4 +1,16 @@
 {
+    "0lU5E_a4Iv": {
+        "id": "0lU5E_a4Iv",
+        "title": "Дело о бархатных коготках",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:44:15",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 163
+        }
+    },
     "B2DoHHy_2k": {
         "id": "B2DoHHy_2k",
         "title": "Король призраков",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 133
-        }
-    },
-    "wnyrubpHVG": {
-        "id": "wnyrubpHVG",
-        "title": "Две короны (книга 1)",
-        "author": "Наталья Жильцова",
-        "notes": "подцикл к серии тень.",
-        "createdAt": "2017-01-28 16:14:33",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 132
         }
     }
 }
