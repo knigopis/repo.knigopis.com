@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>40</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>41</sup>
 ---
 
 ## 2016
@@ -166,6 +166,10 @@
 
 
 ## 2009
+
+### Сильмариллион
+Джон Рональд Руэл Толкин
+
 
 ### Властелин колец
 Джон Рональд Руэл Толкин
