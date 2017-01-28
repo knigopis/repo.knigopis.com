@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
+    > Дзирт  Уоррен
+
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
     > Перри Мейсон
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перри Мейсон
 
 * Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
-    > Перри Мейсон
 
 * Дело о коте привратника ~ [foksik](users/173/1734575-vkontakte)<sup>168</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
 
-* Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>173</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>174</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:48:41_
+_28.01.2017 16:49:04_
