@@ -1,4 +1,16 @@
 {
+    "Jf-2f23hC-": {
+        "id": "Jf-2f23hC-",
+        "title": "Отчего вы не буддист",
+        "author": "Дзонгсар Кхьенце",
+        "notes": "",
+        "createdAt": "2017-01-28 20:16:37",
+        "user": {
+            "id": "199946725-vkontakte",
+            "nickname": "jewashot",
+            "booksCount": 1
+        }
+    },
     "v8YmAVYyZg": {
         "id": "v8YmAVYyZg",
         "title": "Почтамт",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 163
-        }
-    },
-    "B2DoHHy_2k": {
-        "id": "B2DoHHy_2k",
-        "title": "Король призраков",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:43:40",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 162
         }
     }
 }
