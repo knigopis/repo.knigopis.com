@@ -1,4 +1,16 @@
 {
+    "CTabe1VYw6": {
+        "id": "CTabe1VYw6",
+        "title": "Мёртвые души",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2017-01-28 23:40:45",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 59
+        }
+    },
     "YtlOoQBila": {
         "id": "YtlOoQBila",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 30
-        }
-    },
-    "VQ6wCkoV1X": {
-        "id": "VQ6wCkoV1X",
-        "title": "Темные тайны",
-        "author": "Гиллиан Флинн",
-        "notes": "",
-        "createdAt": "2017-01-28 21:26:23",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 29
         }
     }
 }

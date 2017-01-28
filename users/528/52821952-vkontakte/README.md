@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>58</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>59</sup>
 ---
 
 ## 2016
@@ -208,6 +208,10 @@
 
 
 ## 2010
+
+### Мёртвые души
+Николай Гоголь
+
 
 ### Ромео и Джульетта
 Уильям Шекспир
