@@ -1,4 +1,16 @@
 {
+    "YFrqrFphvo": {
+        "id": "YFrqrFphvo",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-01-28 19:04:52",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 10
+        }
+    },
     "LgdKQVdhti": {
         "id": "LgdKQVdhti",
         "title": "Пир",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 161
-        }
-    },
-    "68oah0GA9f": {
-        "id": "68oah0GA9f",
-        "title": "Дорога патриарха",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:42:55",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 160
         }
     }
 }
