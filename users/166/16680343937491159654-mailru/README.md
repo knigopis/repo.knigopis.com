@@ -1,4 +1,4 @@
-# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>5</sup>
+# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>6</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Нe рычите на собаку!
 Прайор Карен
 > [2017-01-28] 
+
+
+### Хлеб с ветчиной
+Чарльз Буковски
+> [2017-01-17] 
 
 
 ### Женщины

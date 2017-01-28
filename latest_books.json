@@ -1,4 +1,16 @@
 {
+    "LLvJY1P9Pf": {
+        "id": "LLvJY1P9Pf",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-01-28 19:01:48",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 6
+        }
+    },
     "DsuBlY3EsX": {
         "id": "DsuBlY3EsX",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 157
-        }
-    },
-    "dc3NzZNhQR": {
-        "id": "dc3NzZNhQR",
-        "title": "Два меча",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзрит Уоррен. Клинки охотника. книга 3",
-        "createdAt": "2017-01-28 16:38:47",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 156
         }
     }
 }
