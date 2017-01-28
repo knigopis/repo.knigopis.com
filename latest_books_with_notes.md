@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
 * Нашествие тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>178</sup>
 * Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
 * Проклятие рубина ~ [foksik](users/173/1734575-vkontakte)<sup>176</sup>
@@ -30,7 +31,6 @@
 * Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 * Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
 * Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
-* Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
 
 
-_28.01.2017 16:51:38_
+_28.01.2017 16:51:56_
