@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>30</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>31</sup>
 ---
 
 ## 2016
@@ -89,6 +89,11 @@
 ### Вино из Одуванчиков
 Рэй Брэдбери
 > [2014-07] 
+
+
+### Облачный Атлас
+Дэвид Митчелл
+> [2014-06] 
 
 
 ### Невидимки
