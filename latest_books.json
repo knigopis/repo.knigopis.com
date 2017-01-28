@@ -1,4 +1,16 @@
 {
+    "iRVhaEI5mY": {
+        "id": "iRVhaEI5mY",
+        "title": "ВШБ. Магия книгоходцев",
+        "author": "Милена Завойчинская",
+        "notes": "женское фэнтази )) книга 1",
+        "createdAt": "2017-01-28 15:48:11",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 115
+        }
+    },
     "IF_-1zenYZ": {
         "id": "IF_-1zenYZ",
         "title": "Академия магического права. Брюнетка в бою",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "вадим тукмаков",
             "booksCount": 1
-        }
-    },
-    "UIY3nWXb_j": {
-        "id": "UIY3nWXb_j",
-        "title": "Ставок больше нет.",
-        "author": "Жан Поль Сартр",
-        "notes": "Грустно.",
-        "createdAt": "2017-01-23 15:24:21",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 48
         }
     }
 }

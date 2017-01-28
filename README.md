@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ВШБ. Магия книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>115</sup>
+    > женское фэнтази )) книга 1
+
 * Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
     > книга 4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга 3
 
 * Академия магического права. Брюнетка в защите ~ [foksik](users/173/1734575-vkontakte)<sup>112</sup>
-    > книга  2
 
 * Доброе утро каждый день: Как рано вставать и все успевать ~ [Иван](users/111/111223381196748176136-google)<sup>3</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ставок больше нет. ~ [Ангелина](users/837/83788782-vkontakte)<sup>48</sup>
 
-* Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>114</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>115</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 15:46:13_
+_28.01.2017 15:48:11_
