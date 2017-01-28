@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>33</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>34</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### На берегу
 Иэн Макьюэн
 > [2016-10] 
+
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+> [2016-04] 
 
 
 ### Магическая уборка

@@ -1,4 +1,16 @@
 {
+    "xllIOf4zYt": {
+        "id": "xllIOf4zYt",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-01-28 21:40:58",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 34
+        }
+    },
     "Ckl12O-fnX": {
         "id": "Ckl12O-fnX",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 5
-        }
-    },
-    "-u6eHQFuJL": {
-        "id": "-u6eHQFuJL",
-        "title": "На берегу",
-        "author": "Иэн Макьюэн",
-        "notes": "",
-        "createdAt": "2017-01-28 20:55:51",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 4
         }
     }
 }
