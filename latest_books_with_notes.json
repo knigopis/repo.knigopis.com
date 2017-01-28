@@ -1,4 +1,16 @@
 {
+    "qnnSlf2OxY": {
+        "id": "qnnSlf2OxY",
+        "title": "Дело о фальшивом глазе",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:45:44",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 167
+        }
+    },
     "38c8_KTDum": {
         "id": "38c8_KTDum",
         "title": "Дело о любопытной новобрачной",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 134
-        }
-    },
-    "Y4FXO_kZYL": {
-        "id": "Y4FXO_kZYL",
-        "title": "Две короны. Турнир",
-        "author": "Наталья Жильцова",
-        "notes": "подцикл к серии тень. книга 2",
-        "createdAt": "2017-01-28 16:15:02",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 133
         }
     }
 }
