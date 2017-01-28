@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>46</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>47</sup>
 ---
 
 ## 2016
@@ -148,6 +148,10 @@
 
 
 ## 2013
+
+### Скандал в Богемии
+Артур Конан Дойл
+
 
 ### Пёстрая лента
 Артур Конан Дойл
