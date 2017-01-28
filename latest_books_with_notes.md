@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сила Ведьмы ~ [foksik](users/173/1734575-vkontakte)<sup>124</sup>
 * Академия стихий. Покорение огня ~ [foksik](users/173/1734575-vkontakte)<sup>123</sup>
 * Академия стихий. Испытание огня ~ [foksik](users/173/1734575-vkontakte)<sup>122</sup>
 * Академия стихий. Душа огня ~ [foksik](users/173/1734575-vkontakte)<sup>121</sup>
@@ -30,7 +31,6 @@
 * Теория коммуникации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
 * Понедельник начинается в субботу ~ [Narjih](users/101/101033677091232972633-google)<sup>67</sup>
 * Последний коммунист ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>69</sup>
-* Пикник на обочине ~ [Narjih](users/101/101033677091232972633-google)<sup>66</sup>
 
 
-_28.01.2017 15:55:24_
+_28.01.2017 16:03:26_
