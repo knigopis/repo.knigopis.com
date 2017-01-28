@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>14</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>15</sup>
 ---
 
 ## 2016
@@ -65,6 +65,10 @@
 
 
 ## 2012
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Евгений Онегин
 Александр Пушкин

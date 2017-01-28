@@ -1,4 +1,16 @@
 {
+    "uHvmFiPRdZ": {
+        "id": "uHvmFiPRdZ",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2017-01-28 21:14:42",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 15
+        }
+    },
     "q7cukMOfZo": {
         "id": "q7cukMOfZo",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 1
-        }
-    },
-    "OYCjy2_rvD": {
-        "id": "OYCjy2_rvD",
-        "title": "Путь к рассвету",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:52:57",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 180
         }
     }
 }
