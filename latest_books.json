@@ -1,4 +1,16 @@
 {
+    "VQ6wCkoV1X": {
+        "id": "VQ6wCkoV1X",
+        "title": "Темные тайны",
+        "author": "Гиллиан Флинн",
+        "notes": "",
+        "createdAt": "2017-01-28 21:26:23",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 29
+        }
+    },
     "w7SI097bp_": {
         "id": "w7SI097bp_",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 12
-        }
-    },
-    "8YRnOPaUkH": {
-        "id": "8YRnOPaUkH",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2017-01-28 20:19:36",
-        "user": {
-            "id": "199946725-vkontakte",
-            "nickname": "jewashot",
-            "booksCount": 3
         }
     }
 }
