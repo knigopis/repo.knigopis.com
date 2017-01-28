@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тысяча орков ~ [foksik](users/173/1734575-vkontakte)<sup>154</sup>
 * Море мечей ~ [foksik](users/173/1734575-vkontakte)<sup>153</sup>
 * Хребет Мира ~ [foksik](users/173/1734575-vkontakte)<sup>152</sup>
 * Незримый клинок ~ [foksik](users/173/1734575-vkontakte)<sup>151</sup>
@@ -30,7 +31,6 @@
 * Академия стихий. Испытание огня ~ [foksik](users/173/1734575-vkontakte)<sup>122</sup>
 * Академия стихий. Душа огня ~ [foksik](users/173/1734575-vkontakte)<sup>121</sup>
 * Академия стихий. Танец огня ~ [foksik](users/173/1734575-vkontakte)<sup>120</sup>
-* ВШБ. Хроники книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>119</sup>
 
 
-_28.01.2017 16:35:23_
+_28.01.2017 16:36:58_
