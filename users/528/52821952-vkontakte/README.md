@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>51</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>52</sup>
 ---
 
 ## 2016
@@ -198,6 +198,10 @@
 
 
 ## 2009
+
+### Тарас Бульба
+Николай Гоголь
+
 
 ### Сильмариллион
 Джон Рональд Руэл Толкин
