@@ -1,4 +1,16 @@
 {
+    "pmmYZmA0kU": {
+        "id": "pmmYZmA0kU",
+        "title": "Мастер и Маргарита",
+        "author": "М.Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-28 19:03:18",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 8
+        }
+    },
     "PBsygUjlbw": {
         "id": "PBsygUjlbw",
         "title": "Записки юного врача. Морфий",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 159
-        }
-    },
-    "05X6cLiBXV": {
-        "id": "05X6cLiBXV",
-        "title": "Друзья познаются в беде",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:42:00",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 158
         }
     }
 }
