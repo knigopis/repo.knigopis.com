@@ -1,4 +1,16 @@
 {
+    "8YRnOPaUkH": {
+        "id": "8YRnOPaUkH",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2017-01-28 20:19:36",
+        "user": {
+            "id": "199946725-vkontakte",
+            "nickname": "jewashot",
+            "booksCount": 3
+        }
+    },
     "2Ru7I5Rwjp": {
         "id": "2Ru7I5Rwjp",
         "title": "И ботаники делают бизнес",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 165
-        }
-    },
-    "2s03IzrgWS": {
-        "id": "2s03IzrgWS",
-        "title": "Дело о мрачной девушке",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:44:34",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 164
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [jewashot](http://vk.com/id199946725)<sup>2</sup>
+# List of books read by [jewashot](http://vk.com/id199946725)<sup>3</sup>
 ---
 
 ## 2017
@@ -14,6 +14,11 @@
 ### И ботаники делают бизнес
 Максим Котин
 > [2016-12-01] 
+
+
+### Стив Джобс
+Уолтер Айзексон
+> [2016-09-10] 
 
 
 
