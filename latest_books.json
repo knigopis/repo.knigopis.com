@@ -1,4 +1,16 @@
 {
+    "CXF0ouhMKU": {
+        "id": "CXF0ouhMKU",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-01-28 21:37:16",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 32
+        }
+    },
     "1LctOy18Zf": {
         "id": "1LctOy18Zf",
         "title": "Облачный Атлас",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 3
-        }
-    },
-    "4OmGDvA9ta": {
-        "id": "4OmGDvA9ta",
-        "title": "Марсианин",
-        "author": "Энди Вейер",
-        "notes": "",
-        "createdAt": "2017-01-28 20:54:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 2
         }
     }
 }
