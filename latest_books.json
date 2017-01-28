@@ -1,4 +1,16 @@
 {
+    "q7cukMOfZo": {
+        "id": "q7cukMOfZo",
+        "title": "Евгений Онегин",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2017-01-28 21:14:00",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 14
+        }
+    },
     "oEwadhKhxe": {
         "id": "oEwadhKhxe",
         "title": "451 по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 180
-        }
-    },
-    "Sr-ljmfs3r": {
-        "id": "Sr-ljmfs3r",
-        "title": "Темное наследие",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:51:56",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 179
         }
     }
 }
