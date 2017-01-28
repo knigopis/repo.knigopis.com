@@ -1,4 +1,16 @@
 {
+    "68oah0GA9f": {
+        "id": "68oah0GA9f",
+        "title": "Дорога патриарха",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:42:55",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 160
+        }
+    },
     "DZradpW_QP": {
         "id": "DZradpW_QP",
         "title": "Служитель кристалла",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 130
-        }
-    },
-    "_t5_56TsPn": {
-        "id": "_t5_56TsPn",
-        "title": "Тень. Скрижаль мораны",
-        "author": "Наталья Жильцова",
-        "notes": "Тень и архивампир. книга 2",
-        "createdAt": "2017-01-28 16:12:51",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 129
         }
     }
 }
