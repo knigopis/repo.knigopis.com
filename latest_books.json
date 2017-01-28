@@ -1,4 +1,16 @@
 {
+    "l5u-aKBapp": {
+        "id": "l5u-aKBapp",
+        "title": "Дело искривленной свечи",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:25:59",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 142
+        }
+    },
     "NZknxEe2E5": {
         "id": "NZknxEe2E5",
         "title": "Адвокат Перри Мейсон",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 114
-        }
-    },
-    "bwu54x54Ww": {
-        "id": "bwu54x54Ww",
-        "title": "Академия магического права. Брюнетка в осаде",
-        "author": "Жильцова Наталья",
-        "notes": "книга 3",
-        "createdAt": "2017-01-28 15:45:46",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 113
         }
     }
 }
