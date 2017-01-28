@@ -1,4 +1,16 @@
 {
+    "xs8BfonY_G": {
+        "id": "xs8BfonY_G",
+        "title": "Невидимки",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-01-28 21:29:09",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 30
+        }
+    },
     "VQ6wCkoV1X": {
         "id": "VQ6wCkoV1X",
         "title": "Темные тайны",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 1
-        }
-    },
-    "QQOhgNWPKq": {
-        "id": "QQOhgNWPKq",
-        "title": "Я — легенда",
-        "author": "Ричард Мэтисон",
-        "notes": "",
-        "createdAt": "2017-01-28 20:47:27",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 12
         }
     }
 }
