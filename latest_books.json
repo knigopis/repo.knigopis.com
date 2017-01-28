@@ -1,4 +1,16 @@
 {
+    "WVDH5mfd54": {
+        "id": "WVDH5mfd54",
+        "title": "Дом на перекрестке",
+        "author": "Милена Завойчинская",
+        "notes": "книга 1",
+        "createdAt": "2017-01-28 16:16:46",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 134
+        }
+    },
     "Y4FXO_kZYL": {
         "id": "Y4FXO_kZYL",
         "title": "Две короны. Турнир",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiya",
             "booksCount": 26
-        }
-    },
-    "7yVwJGSP7F": {
-        "id": "7yVwJGSP7F",
-        "title": "Двенадцать стульев",
-        "author": "Ильф Петров",
-        "notes": "",
-        "createdAt": "2017-01-27 12:39:06",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiya",
-            "booksCount": 25
         }
     }
 }

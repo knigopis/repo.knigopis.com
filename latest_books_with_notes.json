@@ -1,4 +1,16 @@
 {
+    "WVDH5mfd54": {
+        "id": "WVDH5mfd54",
+        "title": "Дом на перекрестке",
+        "author": "Милена Завойчинская",
+        "notes": "книга 1",
+        "createdAt": "2017-01-28 16:16:46",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 134
+        }
+    },
     "Y4FXO_kZYL": {
         "id": "Y4FXO_kZYL",
         "title": "Две короны. Турнир",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 16
-        }
-    },
-    "8kHBuiSW4S": {
-        "id": "8kHBuiSW4S",
-        "title": "Мы казачьего рода",
-        "author": "Борис Алмазов",
-        "notes": "ст 79 про состояние казачества на Дону в период Дмитрия Донского\nст 83 описание первых атаманов\nст 163 Раскол на Дону",
-        "createdAt": "2017-01-20 11:18:54",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 15
         }
     }
 }

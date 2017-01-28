@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дом на перекрестке ~ [foksik](users/173/1734575-vkontakte)<sup>134</sup>
 * Две короны. Турнир ~ [foksik](users/173/1734575-vkontakte)<sup>133</sup>
 * Две короны (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>132</sup>
 * Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
@@ -30,7 +31,6 @@
 * Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
 * Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
 * Казачья драма ~ [mfevralev](users/140/140966150-vkontakte)<sup>16</sup>
-* Мы казачьего рода ~ [mfevralev](users/140/140966150-vkontakte)<sup>15</sup>
 
 
-_28.01.2017 16:15:02_
+_28.01.2017 16:16:46_
