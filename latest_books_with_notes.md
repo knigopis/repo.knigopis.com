@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия магического права. Брюнетка в осаде ~ [foksik](users/173/1734575-vkontakte)<sup>113</sup>
 * Академия магического права. Брюнетка в защите ~ [foksik](users/173/1734575-vkontakte)<sup>112</sup>
 * Доброе утро каждый день: Как рано вставать и все успевать ~ [Иван](users/111/111223381196748176136-google)<sup>3</sup>
 * Неизвестная война: тайная история США ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
 * Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
 * Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
-* Тайная история "Звездных войн" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>90</sup>
 
 
-_28.01.2017 15:45:09_
+_28.01.2017 15:45:47_

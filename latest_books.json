@@ -1,4 +1,16 @@
 {
+    "bwu54x54Ww": {
+        "id": "bwu54x54Ww",
+        "title": "Академия магического права. Брюнетка в осаде",
+        "author": "Жильцова Наталья",
+        "notes": "книга 3",
+        "createdAt": "2017-01-28 15:45:46",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 113
+        }
+    },
     "n2Mb4Lo-0B": {
         "id": "n2Mb4Lo-0B",
         "title": "Академия магического права. Брюнетка в защите",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 47
-        }
-    },
-    "7lnVunXqh5": {
-        "id": "7lnVunXqh5",
-        "title": "Интим",
-        "author": "Жан Поль Сартр",
-        "notes": "",
-        "createdAt": "2017-01-23 15:22:48",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 46
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "bwu54x54Ww": {
+        "id": "bwu54x54Ww",
+        "title": "Академия магического права. Брюнетка в осаде",
+        "author": "Жильцова Наталья",
+        "notes": "книга 3",
+        "createdAt": "2017-01-28 15:45:46",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 113
+        }
+    },
     "n2Mb4Lo-0B": {
         "id": "n2Mb4Lo-0B",
         "title": "Академия магического права. Брюнетка в защите",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 29
-        }
-    },
-    "T5fWaDaUj4": {
-        "id": "T5fWaDaUj4",
-        "title": "Тайная история \"Звездных войн\"",
-        "author": "Майкл Камински",
-        "notes": "в процессе",
-        "createdAt": "2017-01-06 17:13:33",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 90
         }
     }
 }
