@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
 * Академия магического права. Брюнетка в осаде ~ [foksik](users/173/1734575-vkontakte)<sup>113</sup>
 * Академия магического права. Брюнетка в защите ~ [foksik](users/173/1734575-vkontakte)<sup>112</sup>
 * Доброе утро каждый день: Как рано вставать и все успевать ~ [Иван](users/111/111223381196748176136-google)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
 * Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
 * Я была на войне ~ [exulted](users/100/100599204551896265722-google)<sup>30</sup>
-* Systematic Trading ~ [exulted](users/100/100599204551896265722-google)<sup>29</sup>
 
 
-_28.01.2017 15:45:47_
+_28.01.2017 15:46:13_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
+    > книга 4
+
 * Академия магического права. Брюнетка в осаде ~ [foksik](users/173/1734575-vkontakte)<sup>113</sup>
     > книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга  2
 
 * Доброе утро каждый день: Как рано вставать и все успевать ~ [Иван](users/111/111223381196748176136-google)<sup>3</sup>
-    > Много воды. Повторений. Главное правило! Кто рано встал у того и тапки! Квартальная система. Отчетность. "Нулевле равновесие" Семь стратегий раннего утра: 1.Главные цели; 2. Квартальная система; 3. Опорные привычки; 4. Идеальный распорядок; 5. Принципы продуктивности; 6. Показатель прогресса; 7. Уровень профи.
 
 * Неизвестная война: тайная история США ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
 
-* Цимла ~ [mfevralev](users/140/140966150-vkontakte)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>113</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>114</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 15:45:47_
+_28.01.2017 15:46:13_

@@ -1,4 +1,16 @@
 {
+    "IF_-1zenYZ": {
+        "id": "IF_-1zenYZ",
+        "title": "Академия магического права. Брюнетка в бою",
+        "author": "Жильцова Наталья",
+        "notes": "книга 4",
+        "createdAt": "2017-01-28 15:46:13",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 114
+        }
+    },
     "bwu54x54Ww": {
         "id": "bwu54x54Ww",
         "title": "Академия магического права. Брюнетка в осаде",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 30
-        }
-    },
-    "hEC_NGdRBJ": {
-        "id": "hEC_NGdRBJ",
-        "title": "Systematic Trading",
-        "author": "Robert Carver",
-        "notes": "ISBN 9780857194459",
-        "createdAt": "2017-01-07 12:19:48",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 29
         }
     }
 }
