@@ -1,4 +1,16 @@
 {
+    "j-ZnQ87EiE": {
+        "id": "j-ZnQ87EiE",
+        "title": "Тень. Ярость тьмы",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-01-28 16:13:41",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 131
+        }
+    },
     "szhdia8yGO": {
         "id": "szhdia8yGO",
         "title": "Тень. Узор тьмы",
@@ -344,18 +356,6 @@
         "user": {
             "id": "459594264-yandex",
             "nickname": "Elena",
-            "booksCount": 2
-        }
-    },
-    "7kxx1sjw9w": {
-        "id": "7kxx1sjw9w",
-        "title": "Один день из жизни Ивана Денисовича",
-        "author": "А.И. Солженицын",
-        "notes": "",
-        "createdAt": "2017-01-27 06:10:35",
-        "user": {
-            "id": "459594264-yandex",
-            "nickname": "MyasoedovaEA",
             "booksCount": 2
         }
     }
