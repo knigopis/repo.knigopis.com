@@ -1,4 +1,16 @@
 {
+    "B2DoHHy_2k": {
+        "id": "B2DoHHy_2k",
+        "title": "Король призраков",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:43:40",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 162
+        }
+    },
     "pOCBmPoNMA": {
         "id": "pOCBmPoNMA",
         "title": "Король пиратов",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 132
-        }
-    },
-    "j-ZnQ87EiE": {
-        "id": "j-ZnQ87EiE",
-        "title": "Тень. Ярость тьмы",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-01-28 16:13:41",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 131
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
 * Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
 * Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
 * Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
@@ -30,7 +31,6 @@
 * Тень. Узор тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>130</sup>
 * Тень. Скрижаль мораны ~ [foksik](users/173/1734575-vkontakte)<sup>129</sup>
 * Тень. Проклятие некроманта ~ [foksik](users/173/1734575-vkontakte)<sup>128</sup>
-* Антимаг (книга 2) ~ [foksik](users/173/1734575-vkontakte)<sup>126</sup>
 
 
-_28.01.2017 16:43:19_
+_28.01.2017 16:43:40_

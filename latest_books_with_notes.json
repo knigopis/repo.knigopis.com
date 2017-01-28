@@ -1,4 +1,16 @@
 {
+    "B2DoHHy_2k": {
+        "id": "B2DoHHy_2k",
+        "title": "Король призраков",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:43:40",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 162
+        }
+    },
     "pOCBmPoNMA": {
         "id": "pOCBmPoNMA",
         "title": "Король пиратов",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 128
-        }
-    },
-    "RvBJyqTed5": {
-        "id": "RvBJyqTed5",
-        "title": "Антимаг (книга 2)",
-        "author": "Жильцова Наталья",
-        "notes": "цикл Темные королевства",
-        "createdAt": "2017-01-28 16:09:42",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 126
         }
     }
 }
