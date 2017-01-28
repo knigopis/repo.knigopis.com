@@ -1,4 +1,16 @@
 {
+    "2Ru7I5Rwjp": {
+        "id": "2Ru7I5Rwjp",
+        "title": "И ботаники делают бизнес",
+        "author": "Максим Котин",
+        "notes": "",
+        "createdAt": "2017-01-28 20:17:47",
+        "user": {
+            "id": "199946725-vkontakte",
+            "nickname": "jewashot",
+            "booksCount": 2
+        }
+    },
     "Jf-2f23hC-": {
         "id": "Jf-2f23hC-",
         "title": "Отчего вы не буддист",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 164
-        }
-    },
-    "0lU5E_a4Iv": {
-        "id": "0lU5E_a4Iv",
-        "title": "Дело о бархатных коготках",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:44:15",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 163
         }
     }
 }
