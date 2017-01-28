@@ -1,7 +1,12 @@
-# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>11</sup>
+# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>12</sup>
 ---
 
 ## 2017
+
+### Я — легенда
+Ричард Мэтисон
+> [2017-01-30] 
+
 
 ### Почтамт
 Чарльз Буковски

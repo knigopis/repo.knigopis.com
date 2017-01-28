@@ -1,4 +1,16 @@
 {
+    "QQOhgNWPKq": {
+        "id": "QQOhgNWPKq",
+        "title": "Я — легенда",
+        "author": "Ричард Мэтисон",
+        "notes": "",
+        "createdAt": "2017-01-28 20:47:27",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 12
+        }
+    },
     "8YRnOPaUkH": {
         "id": "8YRnOPaUkH",
         "title": "Стив Джобс",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 166
-        }
-    },
-    "ch0rMKtjoT": {
-        "id": "ch0rMKtjoT",
-        "title": "Дело о счастливых ножках",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:44:54",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 165
         }
     }
 }
