@@ -1,4 +1,10 @@
 {
+    "199946725-vkontakte": {
+        "id": "199946725-vkontakte",
+        "nickname": "jewashot",
+        "booksCount": 0,
+        "updatedAt": "2017-01-28 20:15:15"
+    },
     "16680343937491159654-mailru": {
         "id": "16680343937491159654-mailru",
         "nickname": "vadim tykmakov",
@@ -172,11 +178,5 @@
         "nickname": "Garri938",
         "booksCount": 30,
         "updatedAt": "2017-01-19 16:06:36"
-    },
-    "18203635-vkontakte": {
-        "id": "18203635-vkontakte",
-        "nickname": "id_n0ne",
-        "booksCount": 0,
-        "updatedAt": "2017-01-19 10:50:28"
     }
 }
