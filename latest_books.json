@@ -1,4 +1,16 @@
 {
+    "wSZrSV_QpI": {
+        "id": "wSZrSV_QpI",
+        "title": "Колодец мрака (книга 3)",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-01-28 16:11:13",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 127
+        }
+    },
     "RvBJyqTed5": {
         "id": "RvBJyqTed5",
         "title": "Антимаг (книга 2)",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 4
-        }
-    },
-    "Hy6KdCBUUd": {
-        "id": "Hy6KdCBUUd",
-        "title": "Цена свободы",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-01-26 03:54:26",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 238
         }
     }
 }
