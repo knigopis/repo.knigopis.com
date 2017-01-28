@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>26</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>27</sup>
 ---
 
 ## 2016
@@ -117,6 +117,10 @@
 
 
 ## 2008
+
+### Гарри Поттер и Принц-Полукровка
+Джоан Роулинг
+
 
 ### Гарри Поттер и Орден Феникса
 Джоан Роулинг
