@@ -1,4 +1,10 @@
 {
+    "1734575-vkontakte": {
+        "id": "1734575-vkontakte",
+        "nickname": "foksik",
+        "booksCount": 111,
+        "updatedAt": "2017-01-28 15:42:18"
+    },
     "111223381196748176136-google": {
         "id": "111223381196748176136-google",
         "nickname": "Иван",
@@ -172,11 +178,5 @@
         "nickname": "retina",
         "booksCount": 1,
         "updatedAt": "2017-01-18 19:54:28"
-    },
-    "107233253672325058205-google": {
-        "id": "107233253672325058205-google",
-        "nickname": "345mhz",
-        "booksCount": 1,
-        "updatedAt": "2017-01-18 18:28:46"
     }
 }

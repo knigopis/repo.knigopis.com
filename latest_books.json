@@ -1,4 +1,16 @@
 {
+    "qihedeTXIX": {
+        "id": "qihedeTXIX",
+        "title": "Академия магического права. Брюнетка в законе",
+        "author": "Жильцова Наталья",
+        "notes": "",
+        "createdAt": "2017-01-28 15:42:18",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 111
+        }
+    },
     "vbHr1MMNzF": {
         "id": "vbHr1MMNzF",
         "title": "Доброе утро каждый день: Как рано вставать и все успевать",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 45
-        }
-    },
-    "2ZVgyJtykN": {
-        "id": "2ZVgyJtykN",
-        "title": "мастер и маргарита",
-        "author": "булгаков",
-        "notes": "",
-        "createdAt": "2017-01-23 14:11:46",
-        "user": {
-            "id": "140832989-vkontakte",
-            "nickname": "TanyaSoldatova",
-            "booksCount": 1
         }
     }
 }
