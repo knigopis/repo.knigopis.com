@@ -1,4 +1,16 @@
 {
+    "K8EFLAU47n": {
+        "id": "K8EFLAU47n",
+        "title": "Серебряные стрелы",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:49:31",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 175
+        }
+    },
     "ntzy65VnlS": {
         "id": "ntzy65VnlS",
         "title": "Магический кристалл",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 140
-        }
-    },
-    "CDaHndGZ4K": {
-        "id": "CDaHndGZ4K",
-        "title": "Иржина. Предначертанного не избежать",
-        "author": "Милена Завойчинская",
-        "notes": "книга 3",
-        "createdAt": "2017-01-28 16:21:32",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 139
         }
     }
 }
