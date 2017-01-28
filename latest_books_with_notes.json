@@ -1,4 +1,16 @@
 {
+    "ZpD3WJARQH": {
+        "id": "ZpD3WJARQH",
+        "title": "Иржина. Все не так как кажется",
+        "author": "Милена Завойчинская",
+        "notes": "книга 1",
+        "createdAt": "2017-01-28 16:20:28",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 137
+        }
+    },
     "m6xrB25KpR": {
         "id": "m6xrB25KpR",
         "title": "Дом на перекрестке. Под небом четырех миров",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 48
-        }
-    },
-    "ZKVrOORJ5N": {
-        "id": "ZKVrOORJ5N",
-        "title": "Возвращение к звездам",
-        "author": "Сергей Переслегин",
-        "notes": "http://www.ozon.ru/context/detail/id/5183227/\n\nв процессе",
-        "createdAt": "2017-01-23 08:51:02",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 91
         }
     }
 }

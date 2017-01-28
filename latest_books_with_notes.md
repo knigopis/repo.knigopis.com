@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Иржина. Все не так как кажется ~ [foksik](users/173/1734575-vkontakte)<sup>137</sup>
 * Дом на перекрестке. Под небом четырех миров ~ [foksik](users/173/1734575-vkontakte)<sup>136</sup>
 * Дом на перекрестке. Резиденция феи ~ [foksik](users/173/1734575-vkontakte)<sup>135</sup>
 * Дом на перекрестке ~ [foksik](users/173/1734575-vkontakte)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Десять негритят ~ [olegessenin](users/390/3901448-vkontakte)<sup>4</sup>
 * Возлюбленная ~ [Беска](users/157/1577468-vkontakte)<sup>22</sup>
 * Ставок больше нет. ~ [Ангелина](users/837/83788782-vkontakte)<sup>48</sup>
-* Возвращение к звездам ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup>
 
 
-_28.01.2017 16:18:29_
+_28.01.2017 16:20:28_
