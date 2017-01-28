@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
 * Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
 * Дело о коте привратника ~ [foksik](users/173/1734575-vkontakte)<sup>168</sup>
 * Дело о фальшивом глазе ~ [foksik](users/173/1734575-vkontakte)<sup>167</sup>
@@ -30,7 +31,6 @@
 * Иржина. Предначертанного не избежать ~ [foksik](users/173/1734575-vkontakte)<sup>139</sup>
 * Иржина. Случайное не случайно ~ [foksik](users/173/1734575-vkontakte)<sup>138</sup>
 * Иржина. Все не так как кажется ~ [foksik](users/173/1734575-vkontakte)<sup>137</sup>
-* Дом на перекрестке. Под небом четырех миров ~ [foksik](users/173/1734575-vkontakte)<sup>136</sup>
 
 
-_28.01.2017 16:46:32_
+_28.01.2017 16:46:53_
