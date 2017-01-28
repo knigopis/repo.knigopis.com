@@ -1,4 +1,16 @@
 {
+    "jZ73lPvO2J": {
+        "id": "jZ73lPvO2J",
+        "title": "Толстый и тонкий",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2017-01-28 22:34:17",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 51
+        }
+    },
     "zBhREq9Yk5": {
         "id": "zBhREq9Yk5",
         "title": "Дубровский",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 22
-        }
-    },
-    "OhslRc4OSB": {
-        "id": "OhslRc4OSB",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2017-01-28 21:20:25",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 21
         }
     }
 }
