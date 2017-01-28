@@ -1,4 +1,16 @@
 {
+    "gILqE1dtvH": {
+        "id": "gILqE1dtvH",
+        "title": "Вино из Одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-01-28 21:19:05",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 20
+        }
+    },
     "0uCFvMMTc5": {
         "id": "0uCFvMMTc5",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 6
-        }
-    },
-    "DsuBlY3EsX": {
-        "id": "DsuBlY3EsX",
-        "title": "Женщины",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-01-28 19:01:38",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 5
         }
     }
 }
