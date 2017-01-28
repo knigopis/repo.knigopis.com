@@ -1,4 +1,16 @@
 {
+    "hhHcQ2jijA": {
+        "id": "hhHcQ2jijA",
+        "title": "Пёстрая лента",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-01-28 22:22:35",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 46
+        }
+    },
     "rKDJjjJPKy": {
         "id": "rKDJjjJPKy",
         "title": "Этюд в багровых тонах",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 17
-        }
-    },
-    "Ae_rvbRDcm": {
-        "id": "Ae_rvbRDcm",
-        "title": "Десять нигритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-01-28 21:15:22",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 16
         }
     }
 }
