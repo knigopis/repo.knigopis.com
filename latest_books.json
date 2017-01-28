@@ -1,4 +1,16 @@
 {
+    "ZLS2EUwUv-": {
+        "id": "ZLS2EUwUv-",
+        "title": "Трое в лодке, не считая собаки",
+        "author": "Джером К. Джером",
+        "notes": "",
+        "createdAt": "2017-01-28 21:12:15",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 12
+        }
+    },
     "rtF0yEiPj3": {
         "id": "rtF0yEiPj3",
         "title": "Как привести дела в порядок: Искусство продуктивности без стресса",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 178
-        }
-    },
-    "x4MHC_BNKp": {
-        "id": "x4MHC_BNKp",
-        "title": "Беззвездная ночь",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:51:18",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 177
         }
     }
 }
