@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>36</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>37</sup>
 ---
 
 ## 2016
@@ -100,6 +100,11 @@
 
 
 ## 2014
+
+### Побег из Шоушенка
+Стивен Кинг
+> [2014-11] 
+
 
 ### Старик и море
 Эрнест Хэмингуэй
