@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело о любопытной новобрачной ~ [foksik](users/173/1734575-vkontakte)<sup>166</sup>
+    > Перри Мейсон
+
 * Дело о счастливых ножках ~ [foksik](users/173/1734575-vkontakte)<sup>165</sup>
     > Перри Мейсон
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перри Мейсон
 
 * Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
-    > Перри Мейсон
 
 * Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Два меча ~ [foksik](users/173/1734575-vkontakte)<sup>156</sup>
 
-* Одинокий дроу ~ [foksik](users/173/1734575-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>165</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>166</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:44:54_
+_28.01.2017 16:45:20_

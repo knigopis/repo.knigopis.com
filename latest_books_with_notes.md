@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело о любопытной новобрачной ~ [foksik](users/173/1734575-vkontakte)<sup>166</sup>
 * Дело о счастливых ножках ~ [foksik](users/173/1734575-vkontakte)<sup>165</sup>
 * Дело о мрачной девушке ~ [foksik](users/173/1734575-vkontakte)<sup>164</sup>
 * Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
@@ -30,7 +31,6 @@
 * Дом на перекрестке. Резиденция феи ~ [foksik](users/173/1734575-vkontakte)<sup>135</sup>
 * Дом на перекрестке ~ [foksik](users/173/1734575-vkontakte)<sup>134</sup>
 * Две короны. Турнир ~ [foksik](users/173/1734575-vkontakte)<sup>133</sup>
-* Две короны (книга 1) ~ [foksik](users/173/1734575-vkontakte)<sup>132</sup>
 
 
-_28.01.2017 16:44:54_
+_28.01.2017 16:45:20_
