@@ -1,4 +1,16 @@
 {
+    "Y4FXO_kZYL": {
+        "id": "Y4FXO_kZYL",
+        "title": "Две короны. Турнир",
+        "author": "Наталья Жильцова",
+        "notes": "подцикл к серии тень. книга 2",
+        "createdAt": "2017-01-28 16:15:02",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 133
+        }
+    },
     "wnyrubpHVG": {
         "id": "wnyrubpHVG",
         "title": "Две короны (книга 1)",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 15
-        }
-    },
-    "o88FhE0Aui": {
-        "id": "o88FhE0Aui",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Хорошая книга. Очень грустная.",
-        "createdAt": "2017-01-19 19:06:04",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 41
         }
     }
 }
