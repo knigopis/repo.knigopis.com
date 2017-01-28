@@ -1,4 +1,16 @@
 {
+    "c_f3w4HDZz": {
+        "id": "c_f3w4HDZz",
+        "title": "Мастер и Маргатира",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-01-28 21:09:16",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 10
+        }
+    },
     "J2ef5Z9bXK": {
         "id": "J2ef5Z9bXK",
         "title": "Убийство в \"Восточном экспрессе\"",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 176
-        }
-    },
-    "K8EFLAU47n": {
-        "id": "K8EFLAU47n",
-        "title": "Серебряные стрелы",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:49:31",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 175
         }
     }
 }
