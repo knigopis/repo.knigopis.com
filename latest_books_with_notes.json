@@ -1,4 +1,16 @@
 {
+    "I-FU-LBdIu": {
+        "id": "I-FU-LBdIu",
+        "title": "Полуночный замок (книга 1)",
+        "author": "Жильцова Наталья",
+        "notes": "цикл темные королевства",
+        "createdAt": "2017-01-28 16:09:09",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 125
+        }
+    },
     "s5d4oDv0Df": {
         "id": "s5d4oDv0Df",
         "title": "Сила Ведьмы",
@@ -345,18 +357,6 @@
             "id": "101033677091232972633-google",
             "nickname": "Narjih",
             "booksCount": 67
-        }
-    },
-    "MPhM_6O-Z4": {
-        "id": "MPhM_6O-Z4",
-        "title": "Последний коммунист",
-        "author": "Залотуха Валерий",
-        "notes": "Лихие 90-е....Да уж!",
-        "createdAt": "2017-01-15 12:42:34",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 69
         }
     }
 }
