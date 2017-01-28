@@ -1,4 +1,4 @@
-# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>8</sup>
+# List of books read by [vadim tykmakov](https://my.mail.ru/mail/tuell95/)<sup>9</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Мастер и Маргарита
 М.Булгаков
 > [2017-01-25] 
+
+
+### Пир
+Владимир Сорокин
+> [2017-01-24] 
 
 
 ### Записки юного врача. Морфий

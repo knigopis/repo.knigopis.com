@@ -1,4 +1,16 @@
 {
+    "LgdKQVdhti": {
+        "id": "LgdKQVdhti",
+        "title": "Пир",
+        "author": "Владимир Сорокин",
+        "notes": "",
+        "createdAt": "2017-01-28 19:03:59",
+        "user": {
+            "id": "16680343937491159654-mailru",
+            "nickname": "vadim tykmakov",
+            "booksCount": 9
+        }
+    },
     "pmmYZmA0kU": {
         "id": "pmmYZmA0kU",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 160
-        }
-    },
-    "DZradpW_QP": {
-        "id": "DZradpW_QP",
-        "title": "Служитель кристалла",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:42:20",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 159
         }
     }
 }
