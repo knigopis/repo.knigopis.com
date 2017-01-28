@@ -1,4 +1,16 @@
 {
+    "OhslRc4OSB": {
+        "id": "OhslRc4OSB",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-01-28 21:20:25",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 21
+        }
+    },
     "gILqE1dtvH": {
         "id": "gILqE1dtvH",
         "title": "Вино из Одуванчиков",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 7
-        }
-    },
-    "LLvJY1P9Pf": {
-        "id": "LLvJY1P9Pf",
-        "title": "Хлеб с ветчиной",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-01-28 19:01:48",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 6
         }
     }
 }
