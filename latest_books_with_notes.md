@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 * Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
 * Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
 * Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
@@ -30,7 +31,6 @@
 * ВШБ. Книгоходцы особого назначения ~ [foksik](users/173/1734575-vkontakte)<sup>117</sup>
 * ВШБ. Боевая практика книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>116</sup>
 * ВШБ. Магия книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>115</sup>
-* Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
 
 
-_28.01.2017 16:27:53_
+_28.01.2017 16:28:17_

@@ -1,4 +1,16 @@
 {
+    "7g10-x5XzP": {
+        "id": "7g10-x5XzP",
+        "title": "Дело о длинноногих блондинках",
+        "author": "Эрл Стенли",
+        "notes": "Перри Мейсон",
+        "createdAt": "2017-01-28 16:28:17",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 149
+        }
+    },
     "TF4x1tNABK": {
         "id": "TF4x1tNABK",
         "title": "Дело о девушке с обложки",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 119
-        }
-    },
-    "HlySt7A9eh": {
-        "id": "HlySt7A9eh",
-        "title": "Поселок",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-01-28 15:50:40",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 239
         }
     }
 }
