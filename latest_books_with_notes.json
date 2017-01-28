@@ -1,4 +1,16 @@
 {
+    "x4MHC_BNKp": {
+        "id": "x4MHC_BNKp",
+        "title": "Беззвездная ночь",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:51:18",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 177
+        }
+    },
     "q4FElc6VC7": {
         "id": "q4FElc6VC7",
         "title": "Проклятие рубина",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 143
-        }
-    },
-    "l5u-aKBapp": {
-        "id": "l5u-aKBapp",
-        "title": "Дело искривленной свечи",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:25:59",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 142
         }
     }
 }

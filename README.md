@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
+    > Дзирт Уоррен
+
 * Проклятие рубина ~ [foksik](users/173/1734575-vkontakte)<sup>176</sup>
     > Дзирт Уоррен
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дзирт Уоррен
 
 * Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
-    > Дзирт  Уоррен
 
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело о любопытной новобрачной ~ [foksik](users/173/1734575-vkontakte)<sup>166</sup>
 
-* Дело о счастливых ножках ~ [foksik](users/173/1734575-vkontakte)<sup>165</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>176</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>177</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:50:05_
+_28.01.2017 16:51:18_
