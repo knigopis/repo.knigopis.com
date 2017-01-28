@@ -1,4 +1,4 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>21</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>22</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 ### Крестовый поход на Восток: Жертвы Второй Мировой.
 Юрий Мухин
 > [2015-03] 
+
+
+### Большой подлог: краткий курс фальсификации истории
+Шумейко И.
 
 
 ### Миф о красном терроре.

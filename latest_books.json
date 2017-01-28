@@ -1,4 +1,16 @@
 {
+    "Oli7OqeS3K": {
+        "id": "Oli7OqeS3K",
+        "title": "Большой подлог: краткий курс фальсификации истории",
+        "author": "Шумейко И.",
+        "notes": "",
+        "createdAt": "2017-01-28 08:36:21",
+        "user": {
+            "id": "311057796-yandex",
+            "nickname": "pkisarov001",
+            "booksCount": 22
+        }
+    },
     "SHLs5rYlVG": {
         "id": "SHLs5rYlVG",
         "title": "Неизвестная война: тайная история США",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 88
-        }
-    },
-    "ZKVrOORJ5N": {
-        "id": "ZKVrOORJ5N",
-        "title": "Возвращение к звездам",
-        "author": "Сергей Переслегин",
-        "notes": "http://www.ozon.ru/context/detail/id/5183227/\n\nв процессе",
-        "createdAt": "2017-01-23 08:51:02",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 91
         }
     }
 }
