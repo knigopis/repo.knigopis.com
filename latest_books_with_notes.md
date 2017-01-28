@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Незримый клинок ~ [foksik](users/173/1734575-vkontakte)<sup>151</sup>
 * Дело о полусонной жене ~ [foksik](users/173/1734575-vkontakte)<sup>150</sup>
 * Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 * Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
@@ -30,7 +31,6 @@
 * ВШБ. Хроники книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>119</sup>
 * ВШБ. Книгоходцы и тайна механического бога ~ [foksik](users/173/1734575-vkontakte)<sup>118</sup>
 * ВШБ. Книгоходцы особого назначения ~ [foksik](users/173/1734575-vkontakte)<sup>117</sup>
-* ВШБ. Боевая практика книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>116</sup>
 
 
-_28.01.2017 16:28:38_
+_28.01.2017 16:34:01_

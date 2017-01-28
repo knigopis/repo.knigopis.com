@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Незримый клинок ~ [foksik](users/173/1734575-vkontakte)<sup>151</sup>
+    > Сага о Дзирт Урроне. Трилогия Темные тропы книга 1
+
 * Дело о полусонной жене ~ [foksik](users/173/1734575-vkontakte)<sup>150</sup>
     > Перри Мейсон
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перри Мейсон
 
 * Дело о девушке с обложки ~ [foksik](users/173/1734575-vkontakte)<sup>148</sup>
-    > Перри Мейсон
 
 * Дело нервного соучастника ~ [foksik](users/173/1734575-vkontakte)<sup>145</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Иржина. Предначертанного не избежать ~ [foksik](users/173/1734575-vkontakte)<sup>139</sup>
 
-* Иржина. Случайное не случайно ~ [foksik](users/173/1734575-vkontakte)<sup>138</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>150</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>151</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:28:38_
+_28.01.2017 16:34:01_
