@@ -1,4 +1,16 @@
 {
+    "05X6cLiBXV": {
+        "id": "05X6cLiBXV",
+        "title": "Друзья познаются в беде",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзирт Уоррен",
+        "createdAt": "2017-01-28 16:42:00",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 158
+        }
+    },
     "4Drhlm2Rns": {
         "id": "4Drhlm2Rns",
         "title": "Король Орков",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 128
-        }
-    },
-    "wSZrSV_QpI": {
-        "id": "wSZrSV_QpI",
-        "title": "Колодец мрака (книга 3)",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-01-28 16:11:13",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 127
         }
     }
 }
