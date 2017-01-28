@@ -1,4 +1,16 @@
 {
+    "J2ef5Z9bXK": {
+        "id": "J2ef5Z9bXK",
+        "title": "Убийство в \"Восточном экспрессе\"",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-01-28 21:07:40",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 14
+        }
+    },
     "Z9bfIiyjt0": {
         "id": "Z9bfIiyjt0",
         "title": "Место назначения неизвестно",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 175
-        }
-    },
-    "ntzy65VnlS": {
-        "id": "ntzy65VnlS",
-        "title": "Магический кристалл",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт  Уоррен",
-        "createdAt": "2017-01-28 16:49:03",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 174
         }
     }
 }
