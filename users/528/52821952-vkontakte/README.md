@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>32</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>33</sup>
 ---
 
 ## 2016
@@ -85,6 +85,11 @@
 
 
 ## 2014
+
+### Старик и море
+Эрнест Хэмингуэй
+> [2014-07] 
+
 
 ### Вино из Одуванчиков
 Рэй Брэдбери

@@ -1,4 +1,16 @@
 {
+    "Ckl12O-fnX": {
+        "id": "Ckl12O-fnX",
+        "title": "Старик и море",
+        "author": "Эрнест Хэмингуэй",
+        "notes": "",
+        "createdAt": "2017-01-28 21:39:42",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 33
+        }
+    },
     "CXF0ouhMKU": {
         "id": "CXF0ouhMKU",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 4
-        }
-    },
-    "R9fGFb99MF": {
-        "id": "R9fGFb99MF",
-        "title": "Цементный сад",
-        "author": "Иэн Макьюэн",
-        "notes": "",
-        "createdAt": "2017-01-28 20:55:06",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 3
         }
     }
 }
