@@ -1,4 +1,16 @@
 {
+    "te19Wanu4-": {
+        "id": "te19Wanu4-",
+        "title": "ВШБ. Книгоходцы и тайна механического бога",
+        "author": "Милена Завойчинская",
+        "notes": "книга 4",
+        "createdAt": "2017-01-28 15:50:17",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 118
+        }
+    },
     "3KLs631Cxf": {
         "id": "3KLs631Cxf",
         "title": "ВШБ. Книгоходцы особого назначения",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "napodhvate",
             "booksCount": 4
-        }
-    },
-    "25sZA0LYk5": {
-        "id": "25sZA0LYk5",
-        "title": "Женщины",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-01-25 00:20:12",
-        "user": {
-            "id": "585811540906733201-mailru",
-            "nickname": "вадим тукмаков",
-            "booksCount": 3
         }
     }
 }

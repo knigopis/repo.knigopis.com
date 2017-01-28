@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ВШБ. Книгоходцы и тайна механического бога ~ [foksik](users/173/1734575-vkontakte)<sup>118</sup>
+    > книга 4
+
 * ВШБ. Книгоходцы особого назначения ~ [foksik](users/173/1734575-vkontakte)<sup>117</sup>
     > книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > книга 2
 
 * ВШБ. Магия книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>115</sup>
-    > женское фэнтази )) книга 1
 
 * Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жареные зеленые помидоры в кафе «Полустанок» ~ [Беска](users/157/1577468-vkontakte)<sup>23</sup>
 
-* Десять негритят ~ [olegessenin](users/390/3901448-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>117</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>118</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 15:49:36_
+_28.01.2017 15:50:17_
