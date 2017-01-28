@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ВШБ. Боевая практика книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>116</sup>
 * ВШБ. Магия книгоходцев ~ [foksik](users/173/1734575-vkontakte)<sup>115</sup>
 * Академия магического права. Брюнетка в бою ~ [foksik](users/173/1734575-vkontakte)<sup>114</sup>
 * Академия магического права. Брюнетка в осаде ~ [foksik](users/173/1734575-vkontakte)<sup>113</sup>
@@ -30,7 +31,6 @@
 * Божественная комедия ~ [Garka](users/115/115753719718250012620-google)<sup>131</sup>
 * Ночной поезд на Лиссабон ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>7</sup>
 * Фауст ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>6</sup>
-* Война и мир ~ [inna.besprozvannykh](users/733/73323849-yandex)<sup>3</sup>
 
 
-_28.01.2017 15:48:11_
+_28.01.2017 15:48:54_

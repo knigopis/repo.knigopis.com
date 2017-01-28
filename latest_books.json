@@ -1,4 +1,16 @@
 {
+    "pqOygnNplA": {
+        "id": "pqOygnNplA",
+        "title": "ВШБ. Боевая практика книгоходцев",
+        "author": "Милена Завойчинская",
+        "notes": "книга 2",
+        "createdAt": "2017-01-28 15:48:54",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 116
+        }
+    },
     "iRVhaEI5mY": {
         "id": "iRVhaEI5mY",
         "title": "ВШБ. Магия книгоходцев",
@@ -345,18 +357,6 @@
             "id": "585811540906733201-mailru",
             "nickname": "вадим тукмаков",
             "booksCount": 2
-        }
-    },
-    "zudEUf0XXW": {
-        "id": "zudEUf0XXW",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-01-25 00:18:29",
-        "user": {
-            "id": "585811540906733201-mailru",
-            "nickname": "вадим тукмаков",
-            "booksCount": 1
         }
     }
 }

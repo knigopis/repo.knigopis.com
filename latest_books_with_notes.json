@@ -1,4 +1,16 @@
 {
+    "pqOygnNplA": {
+        "id": "pqOygnNplA",
+        "title": "ВШБ. Боевая практика книгоходцев",
+        "author": "Милена Завойчинская",
+        "notes": "книга 2",
+        "createdAt": "2017-01-28 15:48:54",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 116
+        }
+    },
     "iRVhaEI5mY": {
         "id": "iRVhaEI5mY",
         "title": "ВШБ. Магия книгоходцев",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 6
-        }
-    },
-    "daeW5RMIdm": {
-        "id": "daeW5RMIdm",
-        "title": "Война и мир",
-        "author": "Лев Николаевич Толстой",
-        "notes": "перечитывала в 2012",
-        "createdAt": "2017-01-08 10:09:20",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 3
         }
     }
 }
