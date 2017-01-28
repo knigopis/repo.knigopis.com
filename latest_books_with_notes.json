@@ -1,4 +1,16 @@
 {
+    "6H8UMYqF8S": {
+        "id": "6H8UMYqF8S",
+        "title": "Хребет Мира",
+        "author": "Роберт Сальваторе",
+        "notes": "Дзрит Уоррен. Темные тропы книга 2",
+        "createdAt": "2017-01-28 16:34:50",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 152
+        }
+    },
     "ZIJqOQYp-r": {
         "id": "ZIJqOQYp-r",
         "title": "Незримый клинок",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 118
-        }
-    },
-    "3KLs631Cxf": {
-        "id": "3KLs631Cxf",
-        "title": "ВШБ. Книгоходцы особого назначения",
-        "author": "Милена Завойчинская",
-        "notes": "книга 3",
-        "createdAt": "2017-01-28 15:49:36",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 117
         }
     }
 }
