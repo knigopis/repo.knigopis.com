@@ -1,4 +1,16 @@
 {
+    "8CGZErutb0": {
+        "id": "8CGZErutb0",
+        "title": "Гарри Поттер и Тайная комната",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-01-28 21:22:07",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 23
+        }
+    },
     "GNAWYpm66Y": {
         "id": "GNAWYpm66Y",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "16680343937491159654-mailru",
             "nickname": "vadim tykmakov",
             "booksCount": 9
-        }
-    },
-    "pmmYZmA0kU": {
-        "id": "pmmYZmA0kU",
-        "title": "Мастер и Маргарита",
-        "author": "М.Булгаков",
-        "notes": "",
-        "createdAt": "2017-01-28 19:03:18",
-        "user": {
-            "id": "16680343937491159654-mailru",
-            "nickname": "vadim tykmakov",
-            "booksCount": 8
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>22</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>23</sup>
 ---
 
 ## 2016
@@ -117,6 +117,10 @@
 
 
 ## 2008
+
+### Гарри Поттер и Тайная комната
+Джоан Роулинг
+
 
 ### Гарри Поттер и философский камень
 Джоан Роулинг
