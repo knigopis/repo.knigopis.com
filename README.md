@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело немого партнера ~ [foksik](users/173/1734575-vkontakte)<sup>144</sup>
+    > Перри Мейсон
+
 * Дело музыкальных колокольчиков ~ [foksik](users/173/1734575-vkontakte)<sup>143</sup>
     > Перри Мейсон (детектив)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перри Мейсон
 
 * Не время для драконов ~ [foksik](users/173/1734575-vkontakte)<sup>140</sup>
-    > не понравилась
 
 * Иржина. Предначертанного не избежать ~ [foksik](users/173/1734575-vkontakte)<sup>139</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дом на перекрестке ~ [foksik](users/173/1734575-vkontakte)<sup>134</sup>
 
-* Две короны. Турнир ~ [foksik](users/173/1734575-vkontakte)<sup>133</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>143</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>144</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>1</sup> 
 
 
-_28.01.2017 16:26:32_
+_28.01.2017 16:26:56_
