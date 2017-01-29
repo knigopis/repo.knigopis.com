@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
+    > Такое хорошее начало и такой неудачный конец. Очень импонировала Тесс.
+
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
     > П - остановка задачи
     > Л - иквидация
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > С нее все и началось)
 
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
-    > Дзирт Уоррен
 
 * Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
 
-* Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>92</sup> 
 [youno](users/302/302928912-vkontakte)<sup>3</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>63</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>17</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
-[aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 
 
-_29.01.2017 15:52:53_
+_29.01.2017 16:59:51_

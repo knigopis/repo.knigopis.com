@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 61,
+        "updatedAt": "2017-01-29 16:59:51"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Wind's Scream",
         "booksCount": 0,
         "updatedAt": "2017-01-20 19:25:02"
-    },
-    "8156510-vkontakte": {
-        "id": "8156510-vkontakte",
-        "nickname": "aglovlyuk",
-        "booksCount": 0,
-        "updatedAt": "2017-01-20 18:35:30"
     }
 }
