@@ -1,4 +1,16 @@
 {
+    "C3QyusfWl0": {
+        "id": "C3QyusfWl0",
+        "title": "Алмазный Меч, Деревянный Меч, Том 2",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:03:01",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 5
+        }
+    },
     "WF3JTA0PXa": {
         "id": "WF3JTA0PXa",
         "title": "Алмазный Меч, Деревянный Меч, Том 1",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 40
-        }
-    },
-    "vI96FHcYop": {
-        "id": "vI96FHcYop",
-        "title": "Хоббит, или Туда и обратно",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-01-28 21:51:00",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 39
         }
     }
 }

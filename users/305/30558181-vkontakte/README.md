@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>4</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>5</sup>
 ---
 
 ## Other years
+
+### Алмазный Меч, Деревянный Меч, Том 2
+Ник Перумов
+
 
 ### Алмазный Меч, Деревянный Меч, Том 1
 Ник Перумов
