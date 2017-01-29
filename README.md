@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[youno](users/302/302928912-vkontakte)<sup>1</sup> 
+[youno](users/302/302928912-vkontakte)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>63</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>47</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 
 
-_29.01.2017 14:06:33_
+_29.01.2017 14:07:21_

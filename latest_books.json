@@ -1,4 +1,16 @@
 {
+    "FP_eOyumjC": {
+        "id": "FP_eOyumjC",
+        "title": "И ботаники делают бизнес",
+        "author": "Максим Котин",
+        "notes": "[2016-12-01]\nСтив Джобс  \nУолтер Айзексон\n[2016-09-10]",
+        "createdAt": "2017-01-29 14:07:21",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 2
+        }
+    },
     "D4sjpShJzO": {
         "id": "D4sjpShJzO",
         "title": "Отчего вы не буддист",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 22
-        }
-    },
-    "kDDauOV_ME": {
-        "id": "kDDauOV_ME",
-        "title": "Гибель богов-2. Книга четвертая. Асгард Возрождённый",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:08:12",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 21
         }
     }
 }
