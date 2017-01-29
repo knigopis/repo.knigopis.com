@@ -1,4 +1,16 @@
 {
+    "W4ty7neSDq": {
+        "id": "W4ty7neSDq",
+        "title": "Кровь эльфов",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2017-01-29 10:22:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 37
+        }
+    },
     "pESHNzuCAn": {
         "id": "pESHNzuCAn",
         "title": "Меч Предназначения",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 8
-        }
-    },
-    "BAXAuoWwFn": {
-        "id": "BAXAuoWwFn",
-        "title": "Странствия мага. Том 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:03:23",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 7
         }
     }
 }
