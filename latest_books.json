@@ -1,4 +1,16 @@
 {
+    "8HX8qRCcZV": {
+        "id": "8HX8qRCcZV",
+        "title": "Гибель богов: Хроники Хьерварда. Том 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:01:38",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 1
+        }
+    },
     "bAdV7aAzx0": {
         "id": "bAdV7aAzx0",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 36
-        }
-    },
-    "A0iKRg-IjC": {
-        "id": "A0iKRg-IjC",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-01-28 21:42:07",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 35
         }
     }
 }
