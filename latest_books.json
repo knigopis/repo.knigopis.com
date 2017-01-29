@@ -1,4 +1,16 @@
 {
+    "NQidQSumQw": {
+        "id": "NQidQSumQw",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-01-29 00:31:32",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 62
+        }
+    },
     "o3Q3NRGqqS": {
         "id": "o3Q3NRGqqS",
         "title": "Загадочная история Бенджамина Баттона",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 33
-        }
-    },
-    "CXF0ouhMKU": {
-        "id": "CXF0ouhMKU",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-01-28 21:37:16",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 32
         }
     }
 }

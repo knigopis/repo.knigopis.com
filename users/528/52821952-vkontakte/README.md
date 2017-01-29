@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>61</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>62</sup>
 ---
 
 ## 2016
@@ -143,6 +143,10 @@
 ### Облачный Атлас
 Дэвид Митчелл
 > [2014-06] 
+
+
+### Жизнь взаймы
+Эрих Мария Ремарк
 
 
 ### Код да Винчи
