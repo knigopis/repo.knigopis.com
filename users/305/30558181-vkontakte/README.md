@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>29</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>30</sup>
 ---
 
 ## Other years
+
+### Карты судьбы
+Роджер Желязны
+
 
 ### Владения Хаоса
 Роджер Желязны
