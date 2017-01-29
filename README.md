@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
+    > П - остановка задачи
+    > Л - иквидация
+    > А - втоматизация
+    > Н - овая жизнь
+
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
     > С нее все и началось)
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > Дзирт Уоррен
 
 * Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
-    > Дзирт Уоррен
 
 * Нашествие тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>178</sup>
 
@@ -26,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
 
-* Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>47</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>62</sup> 
@@ -40,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
-[Иван](users/111/111223381196748176136-google)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>23</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 
 
-_29.01.2017 11:22:42_
+_29.01.2017 13:47:44_

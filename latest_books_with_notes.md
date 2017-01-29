@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
 * Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
@@ -30,7 +31,6 @@
 * Хребет Мира ~ [foksik](users/173/1734575-vkontakte)<sup>152</sup>
 * Незримый клинок ~ [foksik](users/173/1734575-vkontakte)<sup>151</sup>
 * Дело о полусонной жене ~ [foksik](users/173/1734575-vkontakte)<sup>150</sup>
-* Дело о длинноногих блондинках ~ [foksik](users/173/1734575-vkontakte)<sup>149</sup>
 
 
-_29.01.2017 08:18:27_
+_29.01.2017 13:47:44_

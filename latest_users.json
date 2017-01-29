@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 8,
+        "updatedAt": "2017-01-29 13:47:44"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -40,12 +46,6 @@
         "nickname": "HXT",
         "booksCount": 239,
         "updatedAt": "2017-01-28 15:50:40"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 3,
-        "updatedAt": "2017-01-28 10:37:38"
     },
     "311057796-yandex": {
         "id": "311057796-yandex",
