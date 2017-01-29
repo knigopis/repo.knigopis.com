@@ -1,4 +1,16 @@
 {
+    "u3iG7seG0a": {
+        "id": "u3iG7seG0a",
+        "title": "Владычица Озера",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2017-01-29 10:30:05",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 41
+        }
+    },
     "ahNQDzlzAk": {
         "id": "ahNQDzlzAk",
         "title": "Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 12
-        }
-    },
-    "HueKec8G9L": {
-        "id": "HueKec8G9L",
-        "title": "Война мага. Том 1. Дебют",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:04:09",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 11
         }
     }
 }
