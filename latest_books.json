@@ -1,4 +1,16 @@
 {
+    "TfWavhYj-4": {
+        "id": "TfWavhYj-4",
+        "title": "Гибель Богов-2. Книга третья. Пепел Асгарда",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:08:03",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 20
+        }
+    },
     "d-s4R4_IUf": {
         "id": "d-s4R4_IUf",
         "title": "Гибель богов-2. Книга вторая. Удерживая небо",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 55
-        }
-    },
-    "g-KJhZUHmO": {
-        "id": "g-KJhZUHmO",
-        "title": "Ромео и Джульетта",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-01-28 22:41:20",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 54
         }
     }
 }
