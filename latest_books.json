@@ -1,4 +1,16 @@
 {
+    "d-s4R4_IUf": {
+        "id": "d-s4R4_IUf",
+        "title": "Гибель богов-2. Книга вторая. Удерживая небо",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:07:56",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 19
+        }
+    },
     "K_utFudOJa": {
         "id": "K_utFudOJa",
         "title": "Гибель Богов-2. Книга первая. Память пламени",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 54
-        }
-    },
-    "KJjLetLPVN": {
-        "id": "KJjLetLPVN",
-        "title": "Алые паруса",
-        "author": "Александр Грин",
-        "notes": "",
-        "createdAt": "2017-01-28 22:39:17",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 53
         }
     }
 }
