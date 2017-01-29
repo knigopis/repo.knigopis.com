@@ -1,4 +1,16 @@
 {
+    "nBlRjU-w_P": {
+        "id": "nBlRjU-w_P",
+        "title": "Мировой кинематограф в инфографике",
+        "author": "Карен Кризанович",
+        "notes": "",
+        "createdAt": "2017-01-29 00:06:31",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 60
+        }
+    },
     "CTabe1VYw6": {
         "id": "CTabe1VYw6",
         "title": "Мёртвые души",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 31
-        }
-    },
-    "xs8BfonY_G": {
-        "id": "xs8BfonY_G",
-        "title": "Невидимки",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-01-28 21:29:09",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 30
         }
     }
 }

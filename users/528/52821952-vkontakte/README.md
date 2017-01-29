@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>59</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>60</sup>
 ---
 
 ## 2016
+
+### Мировой кинематограф в инфографике
+Карен Кризанович
+> [2016-12] 
+
 
 ### Цементный сад
 Иэн Макьюэн
