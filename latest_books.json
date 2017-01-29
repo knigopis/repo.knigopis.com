@@ -1,4 +1,16 @@
 {
+    "wnScuszjfC": {
+        "id": "wnScuszjfC",
+        "title": "Ответный удар",
+        "author": "Йон Колфер",
+        "notes": "Артемис Фаул",
+        "createdAt": "2017-01-29 14:08:54",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 49
+        }
+    },
     "94IyTcznPp": {
         "id": "94IyTcznPp",
         "title": "Миссия в Арктику",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 25
-        }
-    },
-    "RISd0LbANp": {
-        "id": "RISd0LbANp",
-        "title": "Девять принцев Амбера",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2017-01-29 10:18:46",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 24
         }
     }
 }
