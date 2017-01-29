@@ -1,4 +1,16 @@
 {
+    "DNmgCvcJGk": {
+        "id": "DNmgCvcJGk",
+        "title": "Властелин Колец. Часть 1. Братство Кольца",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2017-01-29 10:31:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 45
+        }
+    },
     "ifgxWKPLqI": {
         "id": "ifgxWKPLqI",
         "title": "Хоббит, или туда и обратно",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 16
-        }
-    },
-    "Aezqj8k0rH": {
-        "id": "Aezqj8k0rH",
-        "title": "Вернуть посох",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:05:57",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 15
         }
     }
 }

@@ -1,5 +1,12 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>44</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>45</sup>
 ---
+
+## 2017
+
+### Властелин Колец. Часть 1. Братство Кольца
+Джон Рональд Руэл Толкин
+
+
 
 ## 2016
 
