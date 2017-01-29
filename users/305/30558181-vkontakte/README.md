@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>17</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>18</sup>
 ---
 
 ## Other years
+
+### Гибель Богов-2. Книга первая. Память пламени
+Ник Перумов
+
 
 ### Тысяча лет Хрофта. Книга 2. Молодой маг Хедин
 Ник Перумов
