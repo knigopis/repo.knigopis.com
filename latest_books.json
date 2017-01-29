@@ -1,4 +1,16 @@
 {
+    "BAXAuoWwFn": {
+        "id": "BAXAuoWwFn",
+        "title": "Странствия мага. Том 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:03:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 7
+        }
+    },
     "D5tmiPfcOi": {
         "id": "D5tmiPfcOi",
         "title": "Рождение мага",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 42
-        }
-    },
-    "meXzBkXf_n": {
-        "id": "meXzBkXf_n",
-        "title": "Сильмариллион",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-01-28 21:51:32",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 41
         }
     }
 }

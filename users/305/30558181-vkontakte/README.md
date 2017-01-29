@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>6</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>7</sup>
 ---
 
 ## Other years
+
+### Странствия мага. Том 1
+Ник Перумов
+
 
 ### Рождение мага
 Ник Перумов
