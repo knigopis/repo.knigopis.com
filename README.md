@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>0</sup> 
 [Lynthy](users/105/105478879380432387317-google)<sup>3</sup> 
 [krys4d](users/120/120448101637152-facebook)<sup>1</sup> 
 [Gibeka](users/100/100893165099912551761-google)<sup>1</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mrtdvltshn](users/291/29152388-vkontakte)<sup>0</sup> 
 [Klimentev](users/104/104202610850481913650-google)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>487</sup> 
-[it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 
 
-_29.01.2017 19:44:32_
+_29.01.2017 21:06:08_
