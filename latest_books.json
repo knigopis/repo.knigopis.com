@@ -1,4 +1,16 @@
 {
+    "HueKec8G9L": {
+        "id": "HueKec8G9L",
+        "title": "Война мага. Том 1. Дебют",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:04:09",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 11
+        }
+    },
     "wYl0QUREsE": {
         "id": "wYl0QUREsE",
         "title": "Одиночество мага. Том 2",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 46
-        }
-    },
-    "rKDJjjJPKy": {
-        "id": "rKDJjjJPKy",
-        "title": "Этюд в багровых тонах",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-01-28 22:20:17",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 45
         }
     }
 }

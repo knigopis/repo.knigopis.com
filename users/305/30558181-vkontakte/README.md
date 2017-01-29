@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>10</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>11</sup>
 ---
 
 ## Other years
+
+### Война мага. Том 1. Дебют
+Ник Перумов
+
 
 ### Одиночество мага. Том 2
 Ник Перумов
