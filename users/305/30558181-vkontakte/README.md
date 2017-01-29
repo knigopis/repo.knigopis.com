@@ -1,5 +1,12 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>35</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>36</sup>
 ---
+
+## 2016
+
+### Меч Предназначения
+Анджей Сапковский
+
+
 
 ## Other years
 
