@@ -1,4 +1,16 @@
 {
+    "WF3JTA0PXa": {
+        "id": "WF3JTA0PXa",
+        "title": "Алмазный Меч, Деревянный Меч, Том 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:02:53",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 4
+        }
+    },
     "O79Uip_Jsp": {
         "id": "O79Uip_Jsp",
         "title": "Земля без радости",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 39
-        }
-    },
-    "4Mq1YVFmCM": {
-        "id": "4Mq1YVFmCM",
-        "title": "Падение дома Ашеров",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-01-28 21:45:28",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 38
         }
     }
 }
