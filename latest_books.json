@@ -1,4 +1,16 @@
 {
+    "UsVu1gU7B_": {
+        "id": "UsVu1gU7B_",
+        "title": "Динка прощается с детством",
+        "author": "Валентина Осеева",
+        "notes": "",
+        "createdAt": "2017-01-29 15:27:31",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 74
+        }
+    },
     "6yCGKBXZOt": {
         "id": "6yCGKBXZOt",
         "title": "Динка",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 1
-        }
-    },
-    "rlB0IlfWbG": {
-        "id": "rlB0IlfWbG",
-        "title": "Результативный тайм-менеджмент",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2017-01-29 13:57:46",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 63
         }
     }
 }

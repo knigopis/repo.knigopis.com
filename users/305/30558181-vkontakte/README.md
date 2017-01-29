@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>73</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>74</sup>
 ---
 
 ## 2017
@@ -247,6 +247,10 @@
 
 
 ## Other years
+
+### Динка прощается с детством
+Валентина Осеева
+
 
 ### Динка
 Валентина Осеева
