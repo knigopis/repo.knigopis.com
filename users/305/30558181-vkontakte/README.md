@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>31</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>32</sup>
 ---
 
 ## Other years
+
+### Знак Хаоса
+Роджер Желязны
+
 
 ### Кровь Амбера
 Роджер Желязны

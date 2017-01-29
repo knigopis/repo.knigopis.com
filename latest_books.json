@@ -1,4 +1,16 @@
 {
+    "lXcvM4RVxU": {
+        "id": "lXcvM4RVxU",
+        "title": "Знак Хаоса",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:20:45",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 32
+        }
+    },
     "0jTBP78avT": {
         "id": "0jTBP78avT",
         "title": "Кровь Амбера",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 3
-        }
-    },
-    "-0xtpDkl_w": {
-        "id": "-0xtpDkl_w",
-        "title": "Воин Великой Тьмы",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:02:14",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 2
         }
     }
 }
