@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>56</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>57</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Опасная тропа
+Эрин Хантер
+> Коты-Воители
+
 
 ### Бушующая стихия
 Эрин Хантер
