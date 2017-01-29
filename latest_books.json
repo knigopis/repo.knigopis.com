@@ -1,4 +1,16 @@
 {
+    "0X843hwirL": {
+        "id": "0X843hwirL",
+        "title": "Агония",
+        "author": "Эмма Клейтон",
+        "notes": "2-я книга \"The Whisper\" ещё не переведена на русский язык",
+        "createdAt": "2017-01-29 15:38:58",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 83
+        }
+    },
     "Vn-TFx2vn5": {
         "id": "Vn-TFx2vn5",
         "title": "Приключения Кати",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 54
-        }
-    },
-    "wvUZ4h_oD3": {
-        "id": "wvUZ4h_oD3",
-        "title": "Аграмонт",
-        "author": "Валерия Спиранде",
-        "notes": "",
-        "createdAt": "2017-01-29 14:32:39",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 53
         }
     }
 }
