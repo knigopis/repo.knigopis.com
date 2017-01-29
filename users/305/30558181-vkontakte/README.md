@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>53</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>54</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Стань диким!
+Эрин Хантер
+> Коты-Воители
+
 
 ### Аграмонт
 Валерия Спиранде

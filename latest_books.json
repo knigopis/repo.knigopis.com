@@ -1,4 +1,16 @@
 {
+    "EkhEzO88oZ": {
+        "id": "EkhEzO88oZ",
+        "title": "Стань диким!",
+        "author": "Эрин Хантер",
+        "notes": "Коты-Воители",
+        "createdAt": "2017-01-29 14:35:40",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 54
+        }
+    },
     "wvUZ4h_oD3": {
         "id": "wvUZ4h_oD3",
         "title": "Аграмонт",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 30
-        }
-    },
-    "PoFp_UO5Qc": {
-        "id": "PoFp_UO5Qc",
-        "title": "Владения Хаоса",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2017-01-29 10:20:12",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 29
         }
     }
 }
