@@ -1,4 +1,16 @@
 {
+    "kE2-D_kAAX": {
+        "id": "kE2-D_kAAX",
+        "title": "Пикник на обочине",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-01-29 19:41:49",
+        "user": {
+            "id": "105478879380432387317-google",
+            "nickname": "Lynthy",
+            "booksCount": 1
+        }
+    },
     "BeixBdIt7q": {
         "id": "BeixBdIt7q",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 67
-        }
-    },
-    "u8jyxi64j0": {
-        "id": "u8jyxi64j0",
-        "title": "Нина и тайный глаз Атлантиды",
-        "author": "Муни Витчер",
-        "notes": "Нина",
-        "createdAt": "2017-01-29 15:03:07",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 66
         }
     }
 }
