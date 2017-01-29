@@ -1,4 +1,16 @@
 {
+    "RISd0LbANp": {
+        "id": "RISd0LbANp",
+        "title": "Девять принцев Амбера",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:18:46",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 24
+        }
+    },
     "iyLgGOkHdf": {
         "id": "iyLgGOkHdf",
         "title": "Гибель Богов-2. Книга пятая. Хедин, враг мой. Том 2. «...Тот против нас!»",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 59
-        }
-    },
-    "YtlOoQBila": {
-        "id": "YtlOoQBila",
-        "title": "Гранатовый браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2017-01-28 22:52:51",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 58
         }
     }
 }

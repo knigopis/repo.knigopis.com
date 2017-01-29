@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>23</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>24</sup>
 ---
 
 ## Other years
+
+### Девять принцев Амбера
+Роджер Желязны
+
 
 ### Гибель Богов-2: Хедин, враг мой «...Тот против нас!». Том 6
 Ник Перумов
