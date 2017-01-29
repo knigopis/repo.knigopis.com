@@ -1,4 +1,16 @@
 {
+    "w6sPjVxfaL": {
+        "id": "w6sPjVxfaL",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2017-01-29 14:07:54",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 3
+        }
+    },
     "FP_eOyumjC": {
         "id": "FP_eOyumjC",
         "title": "И ботаники делают бизнес",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 23
-        }
-    },
-    "hbMfZuRWj5": {
-        "id": "hbMfZuRWj5",
-        "title": "Гибель Богов-2. Книга пятая. Хедин, враг мой. Том 1. «Кто не с нами...»",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:08:23",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 22
         }
     }
 }
