@@ -1,4 +1,16 @@
 {
+    "j-k2CyMAbU": {
+        "id": "j-k2CyMAbU",
+        "title": "Крещение огнем",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2017-01-29 10:22:34",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 39
+        }
+    },
     "C9hHtSdFNU": {
         "id": "C9hHtSdFNU",
         "title": "Час Презрения",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 10
-        }
-    },
-    "4p0ffNI2IF": {
-        "id": "4p0ffNI2IF",
-        "title": "Одиночество мага. Том 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:03:50",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 9
         }
     }
 }

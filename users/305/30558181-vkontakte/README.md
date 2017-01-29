@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>38</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>39</sup>
 ---
 
 ## 2016
+
+### Крещение огнем
+Анджей Сапковский
+
 
 ### Час Презрения
 Анджей Сапковский
