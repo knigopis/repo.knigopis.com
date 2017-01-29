@@ -1,4 +1,10 @@
 {
+    "120448101637152-facebook": {
+        "id": "120448101637152-facebook",
+        "nickname": "krys4d",
+        "booksCount": 0,
+        "updatedAt": "2017-01-29 18:11:27"
+    },
     "100893165099912551761-google": {
         "id": "100893165099912551761-google",
         "nickname": "Gibeka",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 17,
         "updatedAt": "2017-01-21 20:38:12"
-    },
-    "3211454-vkontakte": {
-        "id": "3211454-vkontakte",
-        "nickname": "myyspecht",
-        "booksCount": 0,
-        "updatedAt": "2017-01-21 14:25:21"
     }
 }
