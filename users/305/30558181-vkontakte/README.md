@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>69</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>70</sup>
 ---
 
 ## 2017
@@ -247,6 +247,10 @@
 
 
 ## Other years
+
+### Волшебница с острова гроз
+Тамара Крюкова
+
 
 ### Загадка Деда Мороза
 Антон Иванов

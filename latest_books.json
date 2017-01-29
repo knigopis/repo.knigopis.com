@@ -1,4 +1,16 @@
 {
+    "trEO39ui2y": {
+        "id": "trEO39ui2y",
+        "title": "Волшебница с острова гроз",
+        "author": "Тамара Крюкова",
+        "notes": "",
+        "createdAt": "2017-01-29 15:13:43",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 70
+        }
+    },
     "w72kLkgISX": {
         "id": "w72kLkgISX",
         "title": "Загадка Деда Мороза",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 46
-        }
-    },
-    "DNmgCvcJGk": {
-        "id": "DNmgCvcJGk",
-        "title": "Властелин Колец. Часть 1. Братство Кольца",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-01-29 10:31:33",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 45
         }
     }
 }
