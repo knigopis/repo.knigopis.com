@@ -1,4 +1,16 @@
 {
+    "8ttTHmf_WL": {
+        "id": "8ttTHmf_WL",
+        "title": "Владения хаоса",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:19:41",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 28
+        }
+    },
     "F3SWv9Ka13": {
         "id": "F3SWv9Ka13",
         "title": "Рука Оберона",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 67
-        }
-    },
-    "NQidQSumQw": {
-        "id": "NQidQSumQw",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-01-29 00:31:32",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 62
         }
     }
 }
