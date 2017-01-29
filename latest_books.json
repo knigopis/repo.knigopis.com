@@ -1,4 +1,16 @@
 {
+    "EYTEL6ZWsP": {
+        "id": "EYTEL6ZWsP",
+        "title": "Мальчик и тьма",
+        "author": "С. В. Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-01-29 19:43:25",
+        "user": {
+            "id": "105478879380432387317-google",
+            "nickname": "Lynthy",
+            "booksCount": 2
+        }
+    },
     "kE2-D_kAAX": {
         "id": "kE2-D_kAAX",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 68
-        }
-    },
-    "nUJF6Sgjja": {
-        "id": "nUJF6Sgjja",
-        "title": "Побег",
-        "author": "Джин Дюпро",
-        "notes": "Город Эмбер",
-        "createdAt": "2017-01-29 15:05:05",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 67
         }
     }
 }

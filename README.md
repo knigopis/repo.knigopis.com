@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lynthy](users/105/105478879380432387317-google)<sup>1</sup> 
+[Lynthy](users/105/105478879380432387317-google)<sup>2</sup> 
 [krys4d](users/120/120448101637152-facebook)<sup>1</sup> 
 [Gibeka](users/100/100893165099912551761-google)<sup>1</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>61</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [it-moth](users/100/100001185091151-facebook)<sup>0</sup> 
 
 
-_29.01.2017 19:41:49_
+_29.01.2017 19:43:25_
