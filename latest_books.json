@@ -1,4 +1,16 @@
 {
+    "Wct_-1LnIl": {
+        "id": "Wct_-1LnIl",
+        "title": "Война мага: Конец игры. Том 4",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:05:44",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 14
+        }
+    },
     "RdQmpdjX_E": {
         "id": "RdQmpdjX_E",
         "title": "Война мага: Эндшпиль. Том 3",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 49
-        }
-    },
-    "MMxZfY4T03": {
-        "id": "MMxZfY4T03",
-        "title": "Пять зёрнышек апельсина",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-01-28 22:26:16",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 48
         }
     }
 }

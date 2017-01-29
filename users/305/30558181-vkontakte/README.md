@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>13</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>14</sup>
 ---
 
 ## Other years
+
+### Война мага: Конец игры. Том 4
+Ник Перумов
+
 
 ### Война мага: Эндшпиль. Том 3
 Ник Перумов
