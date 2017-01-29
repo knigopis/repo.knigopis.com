@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>30</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>31</sup>
 ---
 
 ## Other years
+
+### Кровь Амбера
+Роджер Желязны
+
 
 ### Карты судьбы
 Роджер Желязны

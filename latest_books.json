@@ -1,4 +1,16 @@
 {
+    "0jTBP78avT": {
+        "id": "0jTBP78avT",
+        "title": "Кровь Амбера",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:20:37",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 31
+        }
+    },
     "Dv0H9nmEkv": {
         "id": "Dv0H9nmEkv",
         "title": "Карты судьбы",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 2
-        }
-    },
-    "8HX8qRCcZV": {
-        "id": "8HX8qRCcZV",
-        "title": "Гибель богов: Хроники Хьерварда. Том 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:01:38",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 1
         }
     }
 }
