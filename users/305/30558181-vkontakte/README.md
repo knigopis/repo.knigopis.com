@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>55</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>56</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Бушующая стихия
+Эрин Хантер
+> Коты-Воители
+
 
 ### Огонь и лед
 Эрин Хантер
