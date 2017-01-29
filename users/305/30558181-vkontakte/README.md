@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>89</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>90</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Тайна Тёмных холмов. Том 1
+Патрик Кэрмен
+> Земля Элиона
+
 
 ### Последний дракон
 Лине Кобербёль
