@@ -1,4 +1,16 @@
 {
+    "uf6L32h2w3": {
+        "id": "uf6L32h2w3",
+        "title": "Северное сияние",
+        "author": "Филип Пулман",
+        "notes": "Тёмные начала",
+        "createdAt": "2017-01-29 15:42:13",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 85
+        }
+    },
     "nnxRlDpN75": {
         "id": "nnxRlDpN75",
         "title": "Дети непогоды",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 56
-        }
-    },
-    "cyfsRu6N69": {
-        "id": "cyfsRu6N69",
-        "title": "Огонь и лед",
-        "author": "Эрин Хантер",
-        "notes": "Коты-Воители",
-        "createdAt": "2017-01-29 14:35:57",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 55
         }
     }
 }
