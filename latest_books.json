@@ -1,4 +1,16 @@
 {
+    "_B_jVW4Tje": {
+        "id": "_B_jVW4Tje",
+        "title": "Чудесный нож",
+        "author": "Филип Пулман",
+        "notes": "Тёмные начала",
+        "createdAt": "2017-01-29 15:42:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 86
+        }
+    },
     "uf6L32h2w3": {
         "id": "uf6L32h2w3",
         "title": "Северное сияние",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 57
-        }
-    },
-    "G2drmhCk6r": {
-        "id": "G2drmhCk6r",
-        "title": "Бушующая стихия",
-        "author": "Эрин Хантер",
-        "notes": "Коты-Воители",
-        "createdAt": "2017-01-29 14:37:24",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 56
         }
     }
 }
