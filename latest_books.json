@@ -1,4 +1,16 @@
 {
+    "EB0ThQdhlX": {
+        "id": "EB0ThQdhlX",
+        "title": "Хлорофилия",
+        "author": "Андрей Рублёв",
+        "notes": "",
+        "createdAt": "2017-01-29 11:21:19",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 46
+        }
+    },
     "DNmgCvcJGk": {
         "id": "DNmgCvcJGk",
         "title": "Властелин Колец. Часть 1. Братство Кольца",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 17
-        }
-    },
-    "gYDQwwRgts": {
-        "id": "gYDQwwRgts",
-        "title": "Тысяча лет Хрофта. Книга 1. Боргильдова битва",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:06:49",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 16
         }
     }
 }
