@@ -1,4 +1,16 @@
 {
+    "kDDauOV_ME": {
+        "id": "kDDauOV_ME",
+        "title": "Гибель богов-2. Книга четвертая. Асгард Возрождённый",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:08:12",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 21
+        }
+    },
     "TfWavhYj-4": {
         "id": "TfWavhYj-4",
         "title": "Гибель Богов-2. Книга третья. Пепел Асгарда",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 56
-        }
-    },
-    "rlBsFbMA5B": {
-        "id": "rlBsFbMA5B",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2017-01-28 22:47:36",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 55
         }
     }
 }

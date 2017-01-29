@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>20</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>21</sup>
 ---
 
 ## Other years
+
+### Гибель богов-2. Книга четвертая. Асгард Возрождённый
+Ник Перумов
+
 
 ### Гибель Богов-2. Книга третья. Пепел Асгарда
 Ник Перумов
