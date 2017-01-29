@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>63</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>47</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myyspecht](users/321/3211454-vkontakte)<sup>0</sup> 
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
-[Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
 
 
-_29.01.2017 13:57:46_
+_29.01.2017 14:06:09_
