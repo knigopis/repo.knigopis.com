@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>63</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>64</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Нина и загадка восьмой ноты
+Муни Витчер
+> Нина
+
 
 ### Нина - девочка Шестой Луны
 Муни Витчер
