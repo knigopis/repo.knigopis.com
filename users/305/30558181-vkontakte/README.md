@@ -1,7 +1,11 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>46</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>47</sup>
 ---
 
 ## 2017
+
+### Солярис
+Станислав Лем
+
 
 ### Хлорофилия
 Андрей Рублёв
