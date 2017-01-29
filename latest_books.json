@@ -1,4 +1,16 @@
 {
+    "-0xtpDkl_w": {
+        "id": "-0xtpDkl_w",
+        "title": "Воин Великой Тьмы",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:02:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 2
+        }
+    },
     "8HX8qRCcZV": {
         "id": "8HX8qRCcZV",
         "title": "Гибель богов: Хроники Хьерварда. Том 1",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 37
-        }
-    },
-    "9lLwBkWfu-": {
-        "id": "9lLwBkWfu-",
-        "title": "Зов кукушки",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-01-28 21:43:03",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 36
         }
     }
 }
