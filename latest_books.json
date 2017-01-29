@@ -1,4 +1,16 @@
 {
+    "F3SWv9Ka13": {
+        "id": "F3SWv9Ka13",
+        "title": "Рука Оберона",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:19:31",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 27
+        }
+    },
     "Mo0Xo2elzh": {
         "id": "Mo0Xo2elzh",
         "title": "Знак Единорога",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 62
-        }
-    },
-    "o3Q3NRGqqS": {
-        "id": "o3Q3NRGqqS",
-        "title": "Загадочная история Бенджамина Баттона",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-01-29 00:21:15",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 61
         }
     }
 }

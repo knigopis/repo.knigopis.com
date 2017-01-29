@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>26</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>27</sup>
 ---
 
 ## Other years
+
+### Рука Оберона
+Роджер Желязны
+
 
 ### Знак Единорога
 Роджер Желязны
