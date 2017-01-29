@@ -1,4 +1,16 @@
 {
+    "Zf0wvNjvwd": {
+        "id": "Zf0wvNjvwd",
+        "title": "Противостояние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-01-29 17:25:23",
+        "user": {
+            "id": "100893165099912551761-google",
+            "nickname": "Gibeka",
+            "booksCount": 1
+        }
+    },
     "SUKgmjrO_A": {
         "id": "SUKgmjrO_A",
         "title": "Тесс из рода дЭрбервилей",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 65
-        }
-    },
-    "0x5USSlFOw": {
-        "id": "0x5USSlFOw",
-        "title": "Нина и загадка восьмой ноты",
-        "author": "Муни Витчер",
-        "notes": "Нина",
-        "createdAt": "2017-01-29 15:02:44",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 64
         }
     }
 }
