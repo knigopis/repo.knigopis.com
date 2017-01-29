@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mistal](users/305/30558181-vkontakte)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>62</sup> 
 [vadim tykmakov](users/166/16680343937491159654-mailru)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Wind's Scream](users/290/29027836-vkontakte)<sup>0</sup> 
 [aglovlyuk](users/815/8156510-vkontakte)<sup>0</sup> 
 [Sandra](users/242/242184576223760-facebook)<sup>2</sup> 
-[Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 
 
-_29.01.2017 08:18:27_
+_29.01.2017 08:33:00_
