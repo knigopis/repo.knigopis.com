@@ -1,4 +1,16 @@
 {
+    "XvMUasorss": {
+        "id": "XvMUasorss",
+        "title": "Рыцарь Теней",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:20:54",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 33
+        }
+    },
     "lXcvM4RVxU": {
         "id": "lXcvM4RVxU",
         "title": "Знак Хаоса",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 4
-        }
-    },
-    "O79Uip_Jsp": {
-        "id": "O79Uip_Jsp",
-        "title": "Земля без радости",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:02:25",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 3
         }
     }
 }
