@@ -1,4 +1,16 @@
 {
+    "czArHVRghN": {
+        "id": "czArHVRghN",
+        "title": "Золотой жук",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2017-01-29 15:32:07",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 75
+        }
+    },
     "UsVu1gU7B_": {
         "id": "UsVu1gU7B_",
         "title": "Динка прощается с детством",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 2
-        }
-    },
-    "D4sjpShJzO": {
-        "id": "D4sjpShJzO",
-        "title": "Отчего вы не буддист",
-        "author": "Дзонгсар Кхьенце",
-        "notes": "",
-        "createdAt": "2017-01-29 14:06:33",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 1
         }
     }
 }
