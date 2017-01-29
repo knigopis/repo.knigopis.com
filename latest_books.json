@@ -1,4 +1,16 @@
 {
+    "ipn2TexuOA": {
+        "id": "ipn2TexuOA",
+        "title": "Маг полуночи",
+        "author": "Дмитрий Емец",
+        "notes": "Мефодий Буслаев",
+        "createdAt": "2017-01-29 15:15:07",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 72
+        }
+    },
     "ytZtVZuT7F": {
         "id": "ytZtVZuT7F",
         "title": "Чёрный альбатрос",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 8
-        }
-    },
-    "laoZx5091o": {
-        "id": "laoZx5091o",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-01-29 11:22:42",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 47
         }
     }
 }
