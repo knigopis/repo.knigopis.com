@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>9</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>10</sup>
 ---
 
 ## Other years
+
+### Одиночество мага. Том 2
+Ник Перумов
+
 
 ### Одиночество мага. Том 1
 Ник Перумов
