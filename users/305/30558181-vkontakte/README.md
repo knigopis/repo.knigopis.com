@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>5</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>6</sup>
 ---
 
 ## Other years
+
+### Рождение мага
+Ник Перумов
+
 
 ### Алмазный Меч, Деревянный Меч, Том 2
 Ник Перумов

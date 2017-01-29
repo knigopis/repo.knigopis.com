@@ -1,4 +1,16 @@
 {
+    "D5tmiPfcOi": {
+        "id": "D5tmiPfcOi",
+        "title": "Рождение мага",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:03:12",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 6
+        }
+    },
     "C3QyusfWl0": {
         "id": "C3QyusfWl0",
         "title": "Алмазный Меч, Деревянный Меч, Том 2",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 41
-        }
-    },
-    "NWzuZgT1bM": {
-        "id": "NWzuZgT1bM",
-        "title": "Властелин колец",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-01-28 21:51:15",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 40
         }
     }
 }
