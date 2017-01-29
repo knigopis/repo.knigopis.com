@@ -1,4 +1,16 @@
 {
+    "gYDQwwRgts": {
+        "id": "gYDQwwRgts",
+        "title": "Тысяча лет Хрофта. Книга 1. Боргильдова битва",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:06:49",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 16
+        }
+    },
     "Aezqj8k0rH": {
         "id": "Aezqj8k0rH",
         "title": "Вернуть посох",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 51
-        }
-    },
-    "zBhREq9Yk5": {
-        "id": "zBhREq9Yk5",
-        "title": "Дубровский",
-        "author": "Пушкин Александр",
-        "notes": "",
-        "createdAt": "2017-01-28 22:32:33",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 50
         }
     }
 }
