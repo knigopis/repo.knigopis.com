@@ -1,4 +1,16 @@
 {
+    "cyfsRu6N69": {
+        "id": "cyfsRu6N69",
+        "title": "Огонь и лед",
+        "author": "Эрин Хантер",
+        "notes": "Коты-Воители",
+        "createdAt": "2017-01-29 14:35:57",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 55
+        }
+    },
     "EkhEzO88oZ": {
         "id": "EkhEzO88oZ",
         "title": "Стань диким!",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 31
-        }
-    },
-    "Dv0H9nmEkv": {
-        "id": "Dv0H9nmEkv",
-        "title": "Карты судьбы",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2017-01-29 10:20:26",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 30
         }
     }
 }
