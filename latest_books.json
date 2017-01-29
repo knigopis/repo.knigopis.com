@@ -1,4 +1,16 @@
 {
+    "3Bi31YLBuo": {
+        "id": "3Bi31YLBuo",
+        "title": "Унесённые ветром. Том 1",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-01-29 15:33:09",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 77
+        }
+    },
     "JyRJs22ND8": {
         "id": "JyRJs22ND8",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 48
-        }
-    },
-    "w6sPjVxfaL": {
-        "id": "w6sPjVxfaL",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2017-01-29 14:07:54",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 3
         }
     }
 }
