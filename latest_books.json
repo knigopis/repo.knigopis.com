@@ -1,4 +1,16 @@
 {
+    "Vn-TFx2vn5": {
+        "id": "Vn-TFx2vn5",
+        "title": "Приключения Кати",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2017-01-29 15:35:34",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 82
+        }
+    },
     "_HyCx5xcH7": {
         "id": "_HyCx5xcH7",
         "title": "Пиппи Длинный чулок",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 53
-        }
-    },
-    "kVsNTj3je9": {
-        "id": "kVsNTj3je9",
-        "title": "Шныр: пегас, лев и кентавр",
-        "author": "Дмитрий Емец",
-        "notes": "Школа наряльщиков",
-        "createdAt": "2017-01-29 14:26:30",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 52
         }
     }
 }
