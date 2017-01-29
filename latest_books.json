@@ -1,4 +1,16 @@
 {
+    "0Y-edufESI": {
+        "id": "0Y-edufESI",
+        "title": "Унесённые ветром. Том 2",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-01-29 15:33:20",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 78
+        }
+    },
     "3Bi31YLBuo": {
         "id": "3Bi31YLBuo",
         "title": "Унесённые ветром. Том 1",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 49
-        }
-    },
-    "94IyTcznPp": {
-        "id": "94IyTcznPp",
-        "title": "Миссия в Арктику",
-        "author": "Йон Колфер",
-        "notes": "Артемис Фаул",
-        "createdAt": "2017-01-29 14:08:27",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 48
         }
     }
 }
