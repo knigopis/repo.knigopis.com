@@ -1,4 +1,16 @@
 {
+    "4EVzxuG9yp": {
+        "id": "4EVzxuG9yp",
+        "title": "Странствия мага. Том 2",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:03:38",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 8
+        }
+    },
     "BAXAuoWwFn": {
         "id": "BAXAuoWwFn",
         "title": "Странствия мага. Том 1",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 43
-        }
-    },
-    "5gzU1N3fRc": {
-        "id": "5gzU1N3fRc",
-        "title": "Утраченный символ",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-01-28 21:53:10",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 42
         }
     }
 }
