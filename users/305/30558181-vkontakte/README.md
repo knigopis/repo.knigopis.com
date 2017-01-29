@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>87</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>88</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Чудесный дар
+Лине Кобербёль
+> Дина
+
 
 ### Янтарный телескоп
 Филип Пулман
