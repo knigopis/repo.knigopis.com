@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>68</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>69</sup>
 ---
 
 ## 2017
@@ -247,6 +247,10 @@
 
 
 ## Other years
+
+### Загадка Деда Мороза
+Антон Иванов
+
 
 ### Люди Искры
 Джин Дюпро
