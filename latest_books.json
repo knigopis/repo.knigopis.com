@@ -1,4 +1,16 @@
 {
+    "JyRJs22ND8": {
+        "id": "JyRJs22ND8",
+        "title": "Дракула",
+        "author": "Брэм Стокер",
+        "notes": "",
+        "createdAt": "2017-01-29 15:32:40",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 76
+        }
+    },
     "czArHVRghN": {
         "id": "czArHVRghN",
         "title": "Золотой жук",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 3
-        }
-    },
-    "FP_eOyumjC": {
-        "id": "FP_eOyumjC",
-        "title": "И ботаники делают бизнес",
-        "author": "Максим Котин",
-        "notes": "[2016-12-01]\nСтив Джобс  \nУолтер Айзексон\n[2016-09-10]",
-        "createdAt": "2017-01-29 14:07:21",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 2
         }
     }
 }
