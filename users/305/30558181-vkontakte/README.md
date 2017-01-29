@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>33</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>34</sup>
 ---
 
 ## Other years
+
+### Принц Хаоса
+Роджер Желязны
+
 
 ### Рыцарь Теней
 Роджер Желязны

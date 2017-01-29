@@ -1,4 +1,16 @@
 {
+    "980JrDPPR2": {
+        "id": "980JrDPPR2",
+        "title": "Принц Хаоса",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:21:06",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 34
+        }
+    },
     "XvMUasorss": {
         "id": "XvMUasorss",
         "title": "Рыцарь Теней",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 5
-        }
-    },
-    "WF3JTA0PXa": {
-        "id": "WF3JTA0PXa",
-        "title": "Алмазный Меч, Деревянный Меч, Том 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:02:53",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 4
         }
     }
 }
