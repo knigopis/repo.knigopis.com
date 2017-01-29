@@ -1,4 +1,10 @@
 {
+    "105478879380432387317-google": {
+        "id": "105478879380432387317-google",
+        "nickname": "Lynthy",
+        "booksCount": 0,
+        "updatedAt": "2017-01-29 19:40:21"
+    },
     "120448101637152-facebook": {
         "id": "120448101637152-facebook",
         "nickname": "krys4d",
@@ -172,11 +178,5 @@
         "nickname": "it-moth",
         "booksCount": 0,
         "updatedAt": "2017-01-22 10:33:35"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 17,
-        "updatedAt": "2017-01-21 20:38:12"
     }
 }
