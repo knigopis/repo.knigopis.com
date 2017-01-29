@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>43</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>44</sup>
 ---
 
 ## 2016
+
+### Хоббит, или туда и обратно
+Джон Рональд Руэл Толкин
+
 
 ### Дорога без возврата
 Анджей Сапковский
