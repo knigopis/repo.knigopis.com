@@ -1,4 +1,16 @@
 {
+    "RdQmpdjX_E": {
+        "id": "RdQmpdjX_E",
+        "title": "Война мага: Эндшпиль. Том 3",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:05:12",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 13
+        }
+    },
     "I3h0ZuQROU": {
         "id": "I3h0ZuQROU",
         "title": "Война мага. Том 2. Миттельшпиль",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 48
-        }
-    },
-    "MYhFguCEHw": {
-        "id": "MYhFguCEHw",
-        "title": "Скандал в Богемии",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-01-28 22:23:23",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 47
         }
     }
 }
