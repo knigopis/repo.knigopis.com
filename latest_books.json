@@ -1,4 +1,16 @@
 {
+    "bAdV7aAzx0": {
+        "id": "bAdV7aAzx0",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "С нее все и началось)",
+        "createdAt": "2017-01-29 08:18:26",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 68
+        }
+    },
     "HMfDk3NORw": {
         "id": "HMfDk3NORw",
         "title": "Утопия",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 35
-        }
-    },
-    "xllIOf4zYt": {
-        "id": "xllIOf4zYt",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-01-28 21:40:58",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 34
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
+    > С нее все и началось)
+
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
     > Дзирт Уоррен
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дзирт Уоррен
 
 * Нашествие тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>178</sup>
-    > Дзирт Уоррен
 
 * Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
 
-* Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>67</sup> 
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>62</sup> 
 [vadim tykmakov](users/166/16680343937491159654-mailru)<sup>12</sup> 
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aigerim](users/157/157708568-vkontakte)<sup>1</sup> 
 
 
-_29.01.2017 08:17:41_
+_29.01.2017 08:18:27_
