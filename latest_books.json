@@ -1,4 +1,16 @@
 {
+    "_HyCx5xcH7": {
+        "id": "_HyCx5xcH7",
+        "title": "Пиппи Длинный чулок",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2017-01-29 15:35:15",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 81
+        }
+    },
     "aFvgg5MDZq": {
         "id": "aFvgg5MDZq",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 52
-        }
-    },
-    "td_eQwbDOJ": {
-        "id": "td_eQwbDOJ",
-        "title": "Арсенал Эволюции",
-        "author": "Андрей Моргиль",
-        "notes": "",
-        "createdAt": "2017-01-29 14:22:00",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 51
         }
     }
 }
