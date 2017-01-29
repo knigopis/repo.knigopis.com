@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>83</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>84</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Дети непогоды
+Павел Марушкин
+> Каюкер и Ухадакер
+
 
 ### Агония
 Эмма Клейтон
