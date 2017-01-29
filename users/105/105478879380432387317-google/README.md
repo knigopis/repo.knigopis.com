@@ -1,7 +1,7 @@
-# List of books read by [Lynthy](https://plus.google.com/105478879380432387317)<sup>3</sup>
+# List of books read by Lynthy<sup>3</sup>
 ---
 
-## 2017
+## 2016
 
 ### Мой любимый Sputnik
 Харуки Мураками
