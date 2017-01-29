@@ -1,5 +1,13 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>62</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>63</sup>
 ---
+
+## 2017
+
+### Результативный тайм-менеджмент
+Брайан Трейси
+> [2017-01-29] 
+
+
 
 ## 2016
 

@@ -1,4 +1,16 @@
 {
+    "rlB0IlfWbG": {
+        "id": "rlB0IlfWbG",
+        "title": "Результативный тайм-менеджмент",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2017-01-29 13:57:46",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 63
+        }
+    },
     "_zRqVaOrHd": {
         "id": "_zRqVaOrHd",
         "title": "Как работать по 4 часа в неделю и при этом не торчать в офисе \"от звонка до звонка\", жить где угодно и богатеть",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 20
-        }
-    },
-    "d-s4R4_IUf": {
-        "id": "d-s4R4_IUf",
-        "title": "Гибель богов-2. Книга вторая. Удерживая небо",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:07:56",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 19
         }
     }
 }

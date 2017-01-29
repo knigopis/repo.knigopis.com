@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 63,
+        "updatedAt": "2017-01-29 13:57:46"
+    },
     "111223381196748176136-google": {
         "id": "111223381196748176136-google",
         "nickname": "Иван",
@@ -16,12 +22,6 @@
         "nickname": "victoria_spilioti",
         "booksCount": 68,
         "updatedAt": "2017-01-29 08:18:26"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 62,
-        "updatedAt": "2017-01-29 00:31:32"
     },
     "16680343937491159654-mailru": {
         "id": "16680343937491159654-mailru",
