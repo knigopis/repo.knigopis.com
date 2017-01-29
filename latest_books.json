@@ -1,4 +1,16 @@
 {
+    "6yCGKBXZOt": {
+        "id": "6yCGKBXZOt",
+        "title": "Динка",
+        "author": "Валентина Осеева",
+        "notes": "",
+        "createdAt": "2017-01-29 15:27:00",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 73
+        }
+    },
     "ipn2TexuOA": {
         "id": "ipn2TexuOA",
         "title": "Маг полуночи",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 63
-        }
-    },
-    "_zRqVaOrHd": {
-        "id": "_zRqVaOrHd",
-        "title": "Как работать по 4 часа в неделю и при этом не торчать в офисе \"от звонка до звонка\", жить где угодно и богатеть",
-        "author": "Тимоти Феррис",
-        "notes": "П - остановка задачи\nЛ - иквидация\nА - втоматизация\nН - овая жизнь",
-        "createdAt": "2017-01-29 13:47:44",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 8
         }
     }
 }
