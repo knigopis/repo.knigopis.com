@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тринадцатая сказка ~ [Беска](users/157/1577468-vkontakte)<sup>24</sup>
+    > Джен Эйр+Эмма+грозовой перевал+близнецы+призраки = сказка, которая захватывает, но скучная.
+
 * Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
     > Такое хорошее начало и такой неудачный конец. Очень импонировала Тесс.
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Н - овая жизнь
 
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
-    > С нее все и началось)
 
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Серебряные стрелы ~ [foksik](users/173/1734575-vkontakte)<sup>175</sup>
 
-* Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>24</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>0</sup> 
 [Lynthy](users/105/105478879380432387317-google)<sup>3</sup> 
 [krys4d](users/120/120448101637152-facebook)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [deku](users/384/384194935-vkontakte)<sup>27</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>23</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>487</sup> 
 
 
-_29.01.2017 21:06:08_
+_29.01.2017 22:26:31_

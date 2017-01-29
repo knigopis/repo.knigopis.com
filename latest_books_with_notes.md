@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тринадцатая сказка ~ [Беска](users/157/1577468-vkontakte)<sup>24</sup>
 * Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Тысяча орков ~ [foksik](users/173/1734575-vkontakte)<sup>154</sup>
 * Море мечей ~ [foksik](users/173/1734575-vkontakte)<sup>153</sup>
 * Хребет Мира ~ [foksik](users/173/1734575-vkontakte)<sup>152</sup>
-* Незримый клинок ~ [foksik](users/173/1734575-vkontakte)<sup>151</sup>
 
 
-_29.01.2017 16:59:51_
+_29.01.2017 22:26:31_
