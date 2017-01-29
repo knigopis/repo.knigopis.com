@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>86</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>87</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Янтарный телескоп
+Филип Пулман
+> Тёмные начала
+
 
 ### Чудесный нож
 Филип Пулман
