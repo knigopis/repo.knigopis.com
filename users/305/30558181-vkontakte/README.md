@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>67</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>68</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Люди Искры
+Джин Дюпро
+> Город Эмбер
+
 
 ### Побег
 Джин Дюпро

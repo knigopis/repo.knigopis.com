@@ -1,4 +1,16 @@
 {
+    "u-N1E0XvMf": {
+        "id": "u-N1E0XvMf",
+        "title": "Люди Искры",
+        "author": "Джин Дюпро",
+        "notes": "Город Эмбер",
+        "createdAt": "2017-01-29 15:05:35",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 68
+        }
+    },
     "nUJF6Sgjja": {
         "id": "nUJF6Sgjja",
         "title": "Побег",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 44
-        }
-    },
-    "f-qkRN8d3s": {
-        "id": "f-qkRN8d3s",
-        "title": "Дорога без возврата",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2017-01-29 10:30:29",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 43
         }
     }
 }
