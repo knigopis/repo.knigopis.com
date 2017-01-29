@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>41</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>42</sup>
 ---
 
 ## 2016
+
+### Сезон гроз
+Анджей Сапковский
+
 
 ### Владычица Озера
 Анджей Сапковский
