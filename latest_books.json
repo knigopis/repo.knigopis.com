@@ -1,4 +1,16 @@
 {
+    "qWLJDaracf": {
+        "id": "qWLJDaracf",
+        "title": "Мой любимый Sputnik",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-01-29 19:44:32",
+        "user": {
+            "id": "105478879380432387317-google",
+            "nickname": "Lynthy",
+            "booksCount": 3
+        }
+    },
     "EYTEL6ZWsP": {
         "id": "EYTEL6ZWsP",
         "title": "Мальчик и тьма",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 69
-        }
-    },
-    "u-N1E0XvMf": {
-        "id": "u-N1E0XvMf",
-        "title": "Люди Искры",
-        "author": "Джин Дюпро",
-        "notes": "Город Эмбер",
-        "createdAt": "2017-01-29 15:05:35",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 68
         }
     }
 }
