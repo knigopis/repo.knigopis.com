@@ -1,4 +1,16 @@
 {
+    "ygjowah1EL": {
+        "id": "ygjowah1EL",
+        "title": "Тысяча лет Хрофта. Книга 2. Молодой маг Хедин",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:07:03",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 17
+        }
+    },
     "gYDQwwRgts": {
         "id": "gYDQwwRgts",
         "title": "Тысяча лет Хрофта. Книга 1. Боргильдова битва",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 52
-        }
-    },
-    "jZ73lPvO2J": {
-        "id": "jZ73lPvO2J",
-        "title": "Толстый и тонкий",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2017-01-28 22:34:17",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 51
         }
     }
 }

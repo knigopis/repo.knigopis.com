@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>16</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>17</sup>
 ---
 
 ## Other years
+
+### Тысяча лет Хрофта. Книга 2. Молодой маг Хедин
+Ник Перумов
+
 
 ### Тысяча лет Хрофта. Книга 1. Боргильдова битва
 Ник Перумов
