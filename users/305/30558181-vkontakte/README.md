@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>24</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>25</sup>
 ---
 
 ## Other years
+
+### Ружья Авалона
+Роджер Желязны
+
 
 ### Девять принцев Амбера
 Роджер Желязны

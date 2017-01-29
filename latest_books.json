@@ -1,4 +1,16 @@
 {
+    "itvOaatlNH": {
+        "id": "itvOaatlNH",
+        "title": "Ружья Авалона",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:19:08",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 25
+        }
+    },
     "RISd0LbANp": {
         "id": "RISd0LbANp",
         "title": "Девять принцев Амбера",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 60
-        }
-    },
-    "CTabe1VYw6": {
-        "id": "CTabe1VYw6",
-        "title": "Мёртвые души",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2017-01-28 23:40:45",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 59
         }
     }
 }
