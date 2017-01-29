@@ -1,4 +1,16 @@
 {
+    "PoFp_UO5Qc": {
+        "id": "PoFp_UO5Qc",
+        "title": "Владения Хаоса",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-01-29 10:20:12",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 29
+        }
+    },
     "8ttTHmf_WL": {
         "id": "8ttTHmf_WL",
         "title": "Владения хаоса",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 68
-        }
-    },
-    "HMfDk3NORw": {
-        "id": "HMfDk3NORw",
-        "title": "Утопия",
-        "author": "Томас Мор",
-        "notes": "",
-        "createdAt": "2017-01-29 08:17:41",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 67
         }
     }
 }
