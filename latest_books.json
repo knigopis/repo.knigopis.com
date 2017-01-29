@@ -1,4 +1,16 @@
 {
+    "2EDT53Q3EH": {
+        "id": "2EDT53Q3EH",
+        "title": "Повелитель иллюзий",
+        "author": "Татьяна Леванова",
+        "notes": "Сквозняки",
+        "createdAt": "2017-01-29 14:57:51",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 61
+        }
+    },
     "2avTe72K4X": {
         "id": "2avTe72K4X",
         "title": "Первая миссия",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 37
-        }
-    },
-    "pESHNzuCAn": {
-        "id": "pESHNzuCAn",
-        "title": "Меч Предназначения",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2017-01-29 10:22:05",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 36
         }
     }
 }
