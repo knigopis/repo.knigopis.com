@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>57</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>58</sup>
 ---
 
 ## 2017
@@ -247,6 +247,11 @@
 
 
 ## Other years
+
+### Рунная магия
+Джоанн Харис
+> 2-я книга "Рунный свет" ещё не переведена на русский язык
+
 
 ### Опасная тропа
 Эрин Хантер
