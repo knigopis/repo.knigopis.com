@@ -1,7 +1,11 @@
-# List of books read by [Mistal](http://vk.com/id30558181)<sup>37</sup>
+# List of books read by [Mistal](http://vk.com/id30558181)<sup>38</sup>
 ---
 
 ## 2016
+
+### Час Презрения
+Анджей Сапковский
+
 
 ### Кровь эльфов
 Анджей Сапковский
