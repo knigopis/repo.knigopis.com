@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>78</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>79</sup>
 ---
 
 ## 2017
@@ -247,6 +247,10 @@
 
 
 ## Other years
+
+### Красное и чёрное
+Стендаль
+
 
 ### Унесённые ветром. Том 2
 Маргарет Митчелл

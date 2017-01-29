@@ -1,4 +1,16 @@
 {
+    "XfO3wYmPvv": {
+        "id": "XfO3wYmPvv",
+        "title": "Красное и чёрное",
+        "author": "Стендаль",
+        "notes": "",
+        "createdAt": "2017-01-29 15:34:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 79
+        }
+    },
     "0Y-edufESI": {
         "id": "0Y-edufESI",
         "title": "Унесённые ветром. Том 2",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 50
-        }
-    },
-    "wnScuszjfC": {
-        "id": "wnScuszjfC",
-        "title": "Ответный удар",
-        "author": "Йон Колфер",
-        "notes": "Артемис Фаул",
-        "createdAt": "2017-01-29 14:08:54",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 49
         }
     }
 }
