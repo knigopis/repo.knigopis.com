@@ -1,4 +1,16 @@
 {
+    "oKVVjkxaJW": {
+        "id": "oKVVjkxaJW",
+        "title": "Затерянный мир",
+        "author": "Йон Колфер",
+        "notes": "Артемис Фаул",
+        "createdAt": "2017-01-29 14:09:28",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 50
+        }
+    },
     "wnScuszjfC": {
         "id": "wnScuszjfC",
         "title": "Ответный удар",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 26
-        }
-    },
-    "itvOaatlNH": {
-        "id": "itvOaatlNH",
-        "title": "Ружья Авалона",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2017-01-29 10:19:08",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 25
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>49</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>50</sup>
 ---
 
 ## 2017
@@ -129,6 +129,11 @@
 
 
 ## Other years
+
+### Затерянный мир
+Йон Колфер
+> Артемис Фаул
+
 
 ### Ответный удар
 Йон Колфер
