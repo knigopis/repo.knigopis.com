@@ -1,4 +1,16 @@
 {
+    "D4sjpShJzO": {
+        "id": "D4sjpShJzO",
+        "title": "Отчего вы не буддист",
+        "author": "Дзонгсар Кхьенце",
+        "notes": "",
+        "createdAt": "2017-01-29 14:06:33",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 1
+        }
+    },
     "rlB0IlfWbG": {
         "id": "rlB0IlfWbG",
         "title": "Результативный тайм-менеджмент",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "Mistal",
             "booksCount": 21
-        }
-    },
-    "TfWavhYj-4": {
-        "id": "TfWavhYj-4",
-        "title": "Гибель Богов-2. Книга третья. Пепел Асгарда",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-01-29 10:08:03",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "Mistal",
-            "booksCount": 20
         }
     }
 }
