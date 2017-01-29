@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>47</sup>
+# List of books read by [EsterHani](http://vk.com/id30558181)<sup>48</sup>
 ---
 
 ## 2017
@@ -129,6 +129,11 @@
 
 
 ## Other years
+
+### Миссия в Арктику
+Йон Колфер
+> Артемис Фаул
+
 
 ### Гибель Богов-2: Хедин, враг мой «...Тот против нас!». Том 6
 Ник Перумов
