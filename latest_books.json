@@ -1,4 +1,16 @@
 {
+    "4p0ffNI2IF": {
+        "id": "4p0ffNI2IF",
+        "title": "Одиночество мага. Том 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-01-29 10:03:50",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "Mistal",
+            "booksCount": 9
+        }
+    },
     "4EVzxuG9yp": {
         "id": "4EVzxuG9yp",
         "title": "Странствия мага. Том 2",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 44
-        }
-    },
-    "ZSvdmMBXup": {
-        "id": "ZSvdmMBXup",
-        "title": "Ангелы и демоны",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-01-28 21:53:45",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 43
         }
     }
 }
