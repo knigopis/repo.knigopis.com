@@ -1,7 +1,12 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>14</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>15</sup>
 ---
 
 ## 2017
+
+### Преступление и наказание
+Федор Михайлович Достоевский
+> [2017-01] Впервые опубликовано : 1866
+
 
 ### Повелитель мух
 Уильям Голдинг
