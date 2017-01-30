@@ -1,4 +1,10 @@
 {
+    "100632786848817999592-google": {
+        "id": "100632786848817999592-google",
+        "nickname": "Semmi Colins ",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 12:42:30"
+    },
     "112221849148277132186-google": {
         "id": "112221849148277132186-google",
         "nickname": "Infinity",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 88,
         "updatedAt": "2017-01-23 13:07:11"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 91,
-        "updatedAt": "2017-01-23 08:51:02"
     }
 }
