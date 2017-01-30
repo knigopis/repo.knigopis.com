@@ -1,4 +1,4 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>12</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>13</sup>
 ---
 
 ## 2017
@@ -43,6 +43,12 @@
 ### Призраки
 Чак паланик
 > Впервые опубликовано : 3 мая 2005
+
+
+
+## 2014
+
+### Серия С.Т.А.Л.К.Е.Р.
 
 
 

@@ -1,4 +1,16 @@
 {
+    "WLS4H-O5ZW": {
+        "id": "WLS4H-O5ZW",
+        "title": "Серия С.Т.А.Л.К.Е.Р.",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-01-30 13:07:33",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 13
+        }
+    },
     "1ZTjOEq_Ro": {
         "id": "1ZTjOEq_Ro",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 85
-        }
-    },
-    "nnxRlDpN75": {
-        "id": "nnxRlDpN75",
-        "title": "Дети непогоды",
-        "author": "Павел Марушкин",
-        "notes": "Каюкер и Ухадакер",
-        "createdAt": "2017-01-29 15:40:02",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 84
         }
     }
 }
