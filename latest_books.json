@@ -1,4 +1,16 @@
 {
+    "MXV2L686Yc": {
+        "id": "MXV2L686Yc",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "Впервые опубликовано : октябрь 1953",
+        "createdAt": "2017-01-30 12:54:17",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 3
+        }
+    },
     "uY_siCD0Pk": {
         "id": "uY_siCD0Pk",
         "title": "12 обручів Андрухович",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 75
-        }
-    },
-    "UsVu1gU7B_": {
-        "id": "UsVu1gU7B_",
-        "title": "Динка прощается с детством",
-        "author": "Валентина Осеева",
-        "notes": "",
-        "createdAt": "2017-01-29 15:27:31",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 74
         }
     }
 }
