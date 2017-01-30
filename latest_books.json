@@ -1,4 +1,16 @@
 {
+    "zeF9sN05J6": {
+        "id": "zeF9sN05J6",
+        "title": "Результативный Тайм-Менеджмент",
+        "author": "Брайн Трейси",
+        "notes": "Кратко. Содержательно. Есть небольшие повторы в принципах.",
+        "createdAt": "2017-01-30 14:59:10",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 9
+        }
+    },
     "TM3Cd39o0t": {
         "id": "TM3Cd39o0t",
         "title": "Улица Ангела",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 88
-        }
-    },
-    "8wMVw9rAO2": {
-        "id": "8wMVw9rAO2",
-        "title": "Янтарный телескоп",
-        "author": "Филип Пулман",
-        "notes": "Тёмные начала",
-        "createdAt": "2017-01-29 15:42:33",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 87
         }
     }
 }
