@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>489</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>5</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>488</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 
 
-_30.01.2017 17:24:03_
+_30.01.2017 18:20:38_
