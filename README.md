@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Иван](users/111/111223381196748176136-google)<sup>7</sup> 
+[Иван](users/111/111223381196748176136-google)<sup>6</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>488</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 
 
-_30.01.2017 14:59:35_
+_30.01.2017 14:59:46_
