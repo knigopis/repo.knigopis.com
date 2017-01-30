@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
 [EvaCross](users/101/101087736502737132131-google)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>88</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>91</sup> 
-[mrtdvltshn](users/291/29152388-vkontakte)<sup>0</sup> 
 
 
-_30.01.2017 07:39:56_
+_30.01.2017 09:00:19_
