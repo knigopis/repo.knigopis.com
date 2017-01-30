@@ -1,4 +1,16 @@
 {
+    "GSyVxFrowk": {
+        "id": "GSyVxFrowk",
+        "title": "Призраки",
+        "author": "Чак паланик",
+        "notes": "Впервые опубликовано : 3 мая 2005",
+        "createdAt": "2017-01-30 12:59:21",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 6
+        }
+    },
     "0ieyTs3w6t": {
         "id": "0ieyTs3w6t",
         "title": "Страна Чудес без тормозов и Конец Света",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 78
-        }
-    },
-    "3Bi31YLBuo": {
-        "id": "3Bi31YLBuo",
-        "title": "Унесённые ветром. Том 1",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2017-01-29 15:33:09",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 77
         }
     }
 }
