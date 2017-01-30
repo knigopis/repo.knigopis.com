@@ -1,7 +1,12 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>11</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>12</sup>
 ---
 
 ## 2017
+
+### Повелитель мух
+Уильям Голдинг
+> [2017-01] Впервые опубликовано : 1954
+
 
 ### Дом в котором
 Мариам Петросян
