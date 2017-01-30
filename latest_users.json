@@ -1,4 +1,10 @@
 {
+    "72927449-vkontakte": {
+        "id": "72927449-vkontakte",
+        "nickname": "rm_cor",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 21:53:17"
+    },
     "101924645-vkontakte": {
         "id": "101924645-vkontakte",
         "nickname": "valeriy_kolosov",
@@ -172,11 +178,5 @@
         "nickname": "Кариона",
         "booksCount": 2,
         "updatedAt": "2017-01-25 11:40:33"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 48,
-        "updatedAt": "2017-01-23 15:24:21"
     }
 }
