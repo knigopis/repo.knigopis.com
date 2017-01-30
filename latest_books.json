@@ -1,4 +1,16 @@
 {
+    "zmyt2e3I9a": {
+        "id": "zmyt2e3I9a",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2017-01-30 16:16:10",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "deku",
+            "booksCount": 28
+        }
+    },
     "zeF9sN05J6": {
         "id": "zeF9sN05J6",
         "title": "Результативный Тайм-Менеджмент",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 89
-        }
-    },
-    "zHp_RtIBxV": {
-        "id": "zHp_RtIBxV",
-        "title": "Чудесный дар",
-        "author": "Лине Кобербёль",
-        "notes": "Дина",
-        "createdAt": "2017-01-29 15:44:33",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 88
         }
     }
 }

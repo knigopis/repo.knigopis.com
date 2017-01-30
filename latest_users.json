@@ -1,4 +1,10 @@
 {
+    "384194935-vkontakte": {
+        "id": "384194935-vkontakte",
+        "nickname": "deku",
+        "booksCount": 28,
+        "updatedAt": "2017-01-30 16:16:10"
+    },
     "317314037-vkontakte": {
         "id": "317314037-vkontakte",
         "nickname": "hawkeyepierce89",
@@ -130,12 +136,6 @@
         "nickname": "pkisarov001",
         "booksCount": 22,
         "updatedAt": "2017-01-28 08:36:21"
-    },
-    "384194935-vkontakte": {
-        "id": "384194935-vkontakte",
-        "nickname": "deku",
-        "booksCount": 27,
-        "updatedAt": "2017-01-27 13:00:25"
     },
     "459594264-yandex": {
         "id": "459594264-yandex",

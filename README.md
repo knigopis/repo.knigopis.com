@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>5</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>488</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
-[deku](users/384/384194935-vkontakte)<sup>27</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 
 
-_30.01.2017 15:20:12_
+_30.01.2017 16:16:10_
