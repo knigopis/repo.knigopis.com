@@ -1,7 +1,12 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>7</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>8</sup>
 ---
 
 ## 2016
+
+### Человек невидимка
+Герберт Уеллс
+> [2016-12] Первое исполнение : 1991
+
 
 ### 120 дней Содома
 Маркиз де Сад
