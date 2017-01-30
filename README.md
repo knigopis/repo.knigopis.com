@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>5</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>92</sup> 
 [youno](users/302/302928912-vkontakte)<sup>3</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>63</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 [vadim tykmakov](users/166/16680343937491159654-mailru)<sup>12</sup> 
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 
 
-_30.01.2017 16:16:10_
+_30.01.2017 17:24:03_

@@ -1,4 +1,16 @@
 {
+    "MybAZ5aTOi": {
+        "id": "MybAZ5aTOi",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-01-30 17:24:03",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 64
+        }
+    },
     "zmyt2e3I9a": {
         "id": "zmyt2e3I9a",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 90
-        }
-    },
-    "1Z9_Asm3K9": {
-        "id": "1Z9_Asm3K9",
-        "title": "Последний дракон",
-        "author": "Лине Кобербёль",
-        "notes": "Дина",
-        "createdAt": "2017-01-29 15:49:36",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 89
         }
     }
 }
