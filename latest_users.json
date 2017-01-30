@@ -1,4 +1,10 @@
 {
+    "101924645-vkontakte": {
+        "id": "101924645-vkontakte",
+        "nickname": "valeriy_kolosov",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 21:51:41"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 48,
         "updatedAt": "2017-01-23 15:24:21"
-    },
-    "140832989-vkontakte": {
-        "id": "140832989-vkontakte",
-        "nickname": "TanyaSoldatova",
-        "booksCount": 1,
-        "updatedAt": "2017-01-23 14:11:46"
     }
 }
