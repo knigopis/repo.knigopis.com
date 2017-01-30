@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>5</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>488</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Кариона](users/401/401225211-vkontakte)<sup>2</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
-[Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
 
 
-_30.01.2017 14:59:54_
+_30.01.2017 15:20:12_
