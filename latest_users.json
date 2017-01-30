@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 488,
+        "updatedAt": "2017-01-30 13:29:45"
+    },
     "100632786848817999592-google": {
         "id": "100632786848817999592-google",
         "nickname": "Semmi Colins ",
@@ -172,11 +178,5 @@
         "nickname": "Progenitor",
         "booksCount": 0,
         "updatedAt": "2017-01-23 13:43:06"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 88,
-        "updatedAt": "2017-01-23 13:07:11"
     }
 }

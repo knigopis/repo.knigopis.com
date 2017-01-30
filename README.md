@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>488</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>48</sup> 
 [TanyaSoldatova](users/140/140832989-vkontakte)<sup>1</sup> 
 [Progenitor](users/310/310433527-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>88</sup> 
 
 
-_30.01.2017 13:11:51_
+_30.01.2017 13:29:45_
