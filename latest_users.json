@@ -1,4 +1,10 @@
 {
+    "101087736502737132131-google": {
+        "id": "101087736502737132131-google",
+        "nickname": "EvaCross",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 06:29:59"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "Klimentev",
         "booksCount": 1,
         "updatedAt": "2017-01-22 17:06:37"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 487,
-        "updatedAt": "2017-01-22 12:03:08"
     }
 }
