@@ -1,4 +1,10 @@
 {
+    "317314037-vkontakte": {
+        "id": "317314037-vkontakte",
+        "nickname": "hawkeyepierce89",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 15:20:11"
+    },
     "111223381196748176136-google": {
         "id": "111223381196748176136-google",
         "nickname": "Иван",
@@ -172,11 +178,5 @@
         "nickname": "TanyaSoldatova",
         "booksCount": 1,
         "updatedAt": "2017-01-23 14:11:46"
-    },
-    "310433527-vkontakte": {
-        "id": "310433527-vkontakte",
-        "nickname": "Progenitor",
-        "booksCount": 0,
-        "updatedAt": "2017-01-23 13:43:06"
     }
 }
