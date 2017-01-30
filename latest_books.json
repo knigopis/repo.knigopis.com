@@ -1,4 +1,16 @@
 {
+    "uY_siCD0Pk": {
+        "id": "uY_siCD0Pk",
+        "title": "12 обручів Андрухович",
+        "author": "Юрій Андрухович",
+        "notes": "Уперше опубліковано: 2003",
+        "createdAt": "2017-01-30 12:52:45",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 2
+        }
+    },
     "__iASclQjg": {
         "id": "__iASclQjg",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 74
-        }
-    },
-    "6yCGKBXZOt": {
-        "id": "6yCGKBXZOt",
-        "title": "Динка",
-        "author": "Валентина Осеева",
-        "notes": "",
-        "createdAt": "2017-01-29 15:27:00",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 73
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>1</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>2</sup>
 ---
+
+## 2013
+
+### 12 обручів Андрухович
+Юрій Андрухович
+> Уперше опубліковано: 2003
+
+
 
 ## 2012
 
