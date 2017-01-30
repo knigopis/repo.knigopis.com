@@ -1,4 +1,10 @@
 {
+    "112221849148277132186-google": {
+        "id": "112221849148277132186-google",
+        "nickname": "Infinity",
+        "booksCount": 0,
+        "updatedAt": "2017-01-30 09:00:18"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 91,
         "updatedAt": "2017-01-23 08:51:02"
-    },
-    "29152388-vkontakte": {
-        "id": "29152388-vkontakte",
-        "nickname": "mrtdvltshn",
-        "booksCount": 0,
-        "updatedAt": "2017-01-22 20:45:37"
     }
 }
