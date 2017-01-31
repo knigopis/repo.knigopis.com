@@ -1,4 +1,16 @@
 {
+    "CfIUrMAkNT": {
+        "id": "CfIUrMAkNT",
+        "title": "Капитан Сорви-голова",
+        "author": "Луи Буссенар",
+        "notes": "",
+        "createdAt": "2017-01-31 14:57:00",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 490
+        }
+    },
     "mWO4Qy3K-K": {
         "id": "mWO4Qy3K-K",
         "title": "Девушка в поезде",
@@ -345,18 +357,6 @@
             "id": "105478879380432387317-google",
             "nickname": "Lynthy",
             "booksCount": 2
-        }
-    },
-    "kE2-D_kAAX": {
-        "id": "kE2-D_kAAX",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-01-29 19:41:49",
-        "user": {
-            "id": "105478879380432387317-google",
-            "nickname": "Lynthy",
-            "booksCount": 1
         }
     }
 }

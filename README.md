@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>490</sup> 
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
 [T](users/128/1285226392222771641-mailru)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [butler](users/405/405976511-vkontakte)<sup>0</sup> 
 [rm_cor](users/729/72927449-vkontakte)<sup>0</sup> 
 [valeriy_kolosov](users/101/101924645-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>489</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 
 
-_31.01.2017 13:46:55_
+_31.01.2017 14:57:00_
