@@ -1,4 +1,10 @@
 {
+    "405976511-vkontakte": {
+        "id": "405976511-vkontakte",
+        "nickname": "butler",
+        "booksCount": 0,
+        "updatedAt": "2017-01-31 01:56:24"
+    },
     "72927449-vkontakte": {
         "id": "72927449-vkontakte",
         "nickname": "rm_cor",
@@ -172,11 +178,5 @@
         "nickname": "cheeky",
         "booksCount": 0,
         "updatedAt": "2017-01-25 15:05:45"
-    },
-    "401225211-vkontakte": {
-        "id": "401225211-vkontakte",
-        "nickname": "Кариона",
-        "booksCount": 2,
-        "updatedAt": "2017-01-25 11:40:33"
     }
 }
