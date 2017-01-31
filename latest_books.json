@@ -1,4 +1,16 @@
 {
+    "VFFAGqM1Sr": {
+        "id": "VFFAGqM1Sr",
+        "title": "Ночь живых мертвецов",
+        "author": "Джон Руссо",
+        "notes": "",
+        "createdAt": "2017-01-31 12:13:11",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 97
+        }
+    },
     "q3F-a70uSx": {
         "id": "q3F-a70uSx",
         "title": "Поймал - отпустил",
@@ -344,18 +356,6 @@
         "user": {
             "id": "120448101637152-facebook",
             "nickname": "krys4d",
-            "booksCount": 1
-        }
-    },
-    "Zf0wvNjvwd": {
-        "id": "Zf0wvNjvwd",
-        "title": "Противостояние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-01-29 17:25:23",
-        "user": {
-            "id": "100893165099912551761-google",
-            "nickname": "Gibeka",
             "booksCount": 1
         }
     }
