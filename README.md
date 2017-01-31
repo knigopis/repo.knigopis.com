@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[butler](users/405/405976511-vkontakte)<sup>0</sup> 
 [rm_cor](users/729/72927449-vkontakte)<sup>0</sup> 
 [valeriy_kolosov](users/101/101924645-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>489</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
 [napodhvate](users/585/585811540906733201-mailru)<sup>8</sup> 
 [cheeky](users/100/100000019595884-facebook)<sup>0</sup> 
-[Кариона](users/401/401225211-vkontakte)<sup>2</sup> 
 
 
-_30.01.2017 21:53:18_
+_31.01.2017 01:56:24_
