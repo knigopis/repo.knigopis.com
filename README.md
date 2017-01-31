@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
+    > очень добрая, веселая, озорная, интересная сказка. Вернулась в детство, улыбнулась и поняла, что жить - стоит!
+
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
     > 7 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая глава очень нудная, а в целом - не плохо
 
 * Результативный Тайм-Менеджмент ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
-    > Кратко. Содержательно. Есть небольшие повторы в принципах.
 
 * Перекрестки сумерек ~ [Garka](users/115/115753719718250012620-google)<sup>134</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
 
-* Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>490</sup> 
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
 [EvaCross](users/101/101087736502737132131-google)<sup>1</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>24</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>0</sup> 
 [Lynthy](users/105/105478879380432387317-google)<sup>3</sup> 
 [krys4d](users/120/120448101637152-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 
 
-_31.01.2017 14:57:00_
+_31.01.2017 22:03:02_

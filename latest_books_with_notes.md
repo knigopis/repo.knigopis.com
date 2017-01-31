@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
 * Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
 * Результативный Тайм-Менеджмент ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
 * Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
 * Друзья познаются в беде ~ [foksik](users/173/1734575-vkontakte)<sup>158</sup>
-* Два меча ~ [foksik](users/173/1734575-vkontakte)<sup>156</sup>
 
 
-_31.01.2017 12:19:27_
+_31.01.2017 22:03:02_
