@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
 * Результативный Тайм-Менеджмент ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 * Перекрестки сумерек ~ [Garka](users/115/115753719718250012620-google)<sup>134</sup>
 * Тринадцатая сказка ~ [Беска](users/157/1577468-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Друзья познаются в беде ~ [foksik](users/173/1734575-vkontakte)<sup>158</sup>
 * Два меча ~ [foksik](users/173/1734575-vkontakte)<sup>156</sup>
 * Одинокий дроу ~ [foksik](users/173/1734575-vkontakte)<sup>155</sup>
-* Тысяча орков ~ [foksik](users/173/1734575-vkontakte)<sup>154</sup>
 
 
-_30.01.2017 14:59:10_
+_31.01.2017 09:55:10_
