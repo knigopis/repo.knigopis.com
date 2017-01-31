@@ -1,4 +1,16 @@
 {
+    "q3F-a70uSx": {
+        "id": "q3F-a70uSx",
+        "title": "Поймал - отпустил",
+        "author": "Лоуренс Блок",
+        "notes": "",
+        "createdAt": "2017-01-31 12:08:53",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 96
+        }
+    },
     "0GC63AJpe8": {
         "id": "0GC63AJpe8",
         "title": "Почтамт.",
@@ -345,18 +357,6 @@
             "id": "100893165099912551761-google",
             "nickname": "Gibeka",
             "booksCount": 1
-        }
-    },
-    "SUKgmjrO_A": {
-        "id": "SUKgmjrO_A",
-        "title": "Тесс из рода дЭрбервилей",
-        "author": "Томас Харди",
-        "notes": "Такое хорошее начало и такой неудачный конец. Очень импонировала Тесс.",
-        "createdAt": "2017-01-29 16:59:51",
-        "user": {
-            "id": "106304994652616315178-google",
-            "nickname": "Euphoria",
-            "booksCount": 61
         }
     }
 }

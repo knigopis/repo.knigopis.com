@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>96</sup> 
 [T](users/128/1285226392222771641-mailru)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>49</sup> 
 [butler](users/405/405976511-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 [Elena](users/459/459594264-yandex)<sup>2</sup> 
-[olegessenin](users/390/3901448-vkontakte)<sup>6</sup> 
 
 
-_31.01.2017 11:18:01_
+_31.01.2017 12:08:53_

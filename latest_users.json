@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 96,
+        "updatedAt": "2017-01-31 12:08:53"
+    },
     "1285226392222771641-mailru": {
         "id": "1285226392222771641-mailru",
         "nickname": "T",
@@ -172,11 +178,5 @@
         "nickname": "Elena",
         "booksCount": 2,
         "updatedAt": "2017-01-27 12:15:47"
-    },
-    "3901448-vkontakte": {
-        "id": "3901448-vkontakte",
-        "nickname": "olegessenin",
-        "booksCount": 6,
-        "updatedAt": "2017-01-26 18:54:22"
     }
 }
