@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
 * Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
 * Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
 * Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
-* Друзья познаются в беде ~ [foksik](users/173/1734575-vkontakte)<sup>158</sup>
 
 
-_31.01.2017 22:03:02_
+_01.02.2017 23:21:49_

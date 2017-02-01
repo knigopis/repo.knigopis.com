@@ -1,4 +1,16 @@
 {
+    "4zgZ7r5ZeH": {
+        "id": "4zgZ7r5ZeH",
+        "title": "Поллианна",
+        "author": "Элинор Портер",
+        "notes": "очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!",
+        "createdAt": "2017-02-01 23:21:49",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 26
+        }
+    },
     "yE4D6MfZaI": {
         "id": "yE4D6MfZaI",
         "title": "От хорошего к великому",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 134
-        }
-    },
-    "DV3EkWSy-f": {
-        "id": "DV3EkWSy-f",
-        "title": "Любовь как закладная жизни",
-        "author": "Горовая Ольга",
-        "notes": "",
-        "createdAt": "2017-01-30 06:32:16",
-        "user": {
-            "id": "101087736502737132131-google",
-            "nickname": "EvaCross",
-            "booksCount": 1
         }
     }
 }

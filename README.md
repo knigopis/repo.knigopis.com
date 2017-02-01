@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
+    > очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!
+
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
     > очень добрая, веселая, озорная, интересная сказка. Вернулась в детство, улыбнулась и поняла, что жить - стоит!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7 из 10
 
 * Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
-    > Первая глава очень нудная, а в целом - не плохо
 
 * Результативный Тайм-Менеджмент ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
 
-* Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>26</sup> 
 [youno](users/302/302928912-vkontakte)<sup>4</sup> 
 [Май Мастер](users/102/102220851636735847600-google)<sup>1</sup> 
 [Светлана Гредякина](users/147/14774538313933771045-mailru)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>490</sup> 
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
 
 
-_01.02.2017 19:23:33_
+_01.02.2017 23:21:49_
