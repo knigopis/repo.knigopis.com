@@ -1,4 +1,16 @@
 {
+    "yE4D6MfZaI": {
+        "id": "yE4D6MfZaI",
+        "title": "От хорошего к великому",
+        "author": "Джим Коллинз",
+        "notes": "",
+        "createdAt": "2017-02-01 19:23:33",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 4
+        }
+    },
     "lwPXvqFNqj": {
         "id": "lwPXvqFNqj",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "101087736502737132131-google",
             "nickname": "EvaCross",
             "booksCount": 1
-        }
-    },
-    "q1j_bmVvPQ": {
-        "id": "q1j_bmVvPQ",
-        "title": "Тринадцатая сказка",
-        "author": "Диана Сеттерфилд",
-        "notes": "Джен Эйр+Эмма+грозовой перевал+близнецы+призраки = сказка, которая захватывает, но скучная.",
-        "createdAt": "2017-01-29 22:26:31",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 24
         }
     }
 }

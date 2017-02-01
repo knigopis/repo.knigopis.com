@@ -1,4 +1,10 @@
 {
+    "302928912-vkontakte": {
+        "id": "302928912-vkontakte",
+        "nickname": "youno",
+        "booksCount": 4,
+        "updatedAt": "2017-02-01 19:23:33"
+    },
     "102220851636735847600-google": {
         "id": "102220851636735847600-google",
         "nickname": "Май Мастер",
@@ -148,12 +154,6 @@
         "nickname": "EsterHani",
         "booksCount": 92,
         "updatedAt": "2017-01-29 15:52:53"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 3,
-        "updatedAt": "2017-01-29 14:07:54"
     },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",
