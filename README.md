@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Светлана Гредякина](users/147/14774538313933771045-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>490</sup> 
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>239</sup> 
-[pkisarov001](users/311/311057796-yandex)<sup>22</sup> 
 
 
-_31.01.2017 22:03:02_
+_01.02.2017 16:53:31_
