@@ -1,4 +1,16 @@
 {
+    "lwPXvqFNqj": {
+        "id": "lwPXvqFNqj",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "Антиутопия",
+        "createdAt": "2017-02-01 18:26:59",
+        "user": {
+            "id": "102220851636735847600-google",
+            "nickname": "Май Мастер",
+            "booksCount": 1
+        }
+    },
     "rQK-4HMoTs": {
         "id": "rQK-4HMoTs",
         "title": "Вафельное сердце",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 24
-        }
-    },
-    "qWLJDaracf": {
-        "id": "qWLJDaracf",
-        "title": "Мой любимый Sputnik",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-01-29 19:44:32",
-        "user": {
-            "id": "105478879380432387317-google",
-            "nickname": "Lynthy",
-            "booksCount": 3
         }
     }
 }
