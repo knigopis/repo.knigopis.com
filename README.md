@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Май Мастер](users/102/102220851636735847600-google)<sup>0</sup> 
 [Светлана Гредякина](users/147/14774538313933771045-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>25</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>490</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vadim tykmakov](users/166/16680343937491159654-mailru)<sup>12</sup> 
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>180</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>239</sup> 
 
 
-_01.02.2017 16:53:31_
+_01.02.2017 18:25:57_
