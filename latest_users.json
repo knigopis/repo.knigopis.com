@@ -1,4 +1,10 @@
 {
+    "85303248-vkontakte": {
+        "id": "85303248-vkontakte",
+        "nickname": "yulyaignatowa",
+        "booksCount": 0,
+        "updatedAt": "2017-02-02 18:23:38"
+    },
     "111223381196748176136-google": {
         "id": "111223381196748176136-google",
         "nickname": "Иван",
@@ -172,11 +178,5 @@
         "nickname": "vadim tykmakov",
         "booksCount": 12,
         "updatedAt": "2017-01-28 20:47:27"
-    },
-    "199946725-vkontakte": {
-        "id": "199946725-vkontakte",
-        "nickname": "jewashot",
-        "booksCount": 3,
-        "updatedAt": "2017-01-28 20:19:36"
     }
 }
