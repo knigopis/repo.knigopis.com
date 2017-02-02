@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>491</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>6</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>4</sup> 
 [Май Мастер](users/102/102220851636735847600-google)<sup>1</sup> 
 [Светлана Гредякина](users/147/14774538313933771045-mailru)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>490</sup> 
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
 [T](users/128/1285226392222771641-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 
 
-_02.02.2017 19:01:52_
+_02.02.2017 20:39:45_

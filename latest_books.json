@@ -1,4 +1,16 @@
 {
+    "VIdcudEHLt": {
+        "id": "VIdcudEHLt",
+        "title": "Монт-Ориоль",
+        "author": "Ги Де Мопассан",
+        "notes": "",
+        "createdAt": "2017-02-02 20:39:45",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 491
+        }
+    },
     "xgkgMZ_-bp": {
         "id": "xgkgMZ_-bp",
         "title": "Час Тишины",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 2
-        }
-    },
-    "__iASclQjg": {
-        "id": "__iASclQjg",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Девід Селінджер",
-        "notes": "Впервые опубликовано : 16 июля 1951",
-        "createdAt": "2017-01-30 12:45:01",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 1
         }
     }
 }
