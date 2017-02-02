@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>6</sup> 
 [irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>92</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
-[vadim tykmakov](users/166/16680343937491159654-mailru)<sup>12</sup> 
 
 
-_02.02.2017 18:23:39_
+_02.02.2017 19:01:52_
