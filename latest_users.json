@@ -1,4 +1,10 @@
 {
+    "106080443295631078644-google": {
+        "id": "106080443295631078644-google",
+        "nickname": "ES",
+        "booksCount": 0,
+        "updatedAt": "2017-02-02 19:01:51"
+    },
     "85303248-vkontakte": {
         "id": "85303248-vkontakte",
         "nickname": "yulyaignatowa",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 68,
         "updatedAt": "2017-01-29 08:18:26"
-    },
-    "16680343937491159654-mailru": {
-        "id": "16680343937491159654-mailru",
-        "nickname": "vadim tykmakov",
-        "booksCount": 12,
-        "updatedAt": "2017-01-28 20:47:27"
     }
 }
