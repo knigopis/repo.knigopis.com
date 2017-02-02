@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 6,
+        "updatedAt": "2017-02-02 14:44:22"
+    },
     "113680059831396460315-google": {
         "id": "113680059831396460315-google",
         "nickname": "irretelis",
@@ -94,12 +100,6 @@
         "nickname": "hawkeyepierce89",
         "booksCount": 0,
         "updatedAt": "2017-01-30 15:20:11"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 5,
-        "updatedAt": "2017-01-30 14:59:54"
     },
     "100632786848817999592-google": {
         "id": "100632786848817999592-google",

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
 * Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
 * Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
-* Служитель кристалла ~ [foksik](users/173/1734575-vkontakte)<sup>159</sup>
 
 
-_01.02.2017 23:21:49_
+_02.02.2017 14:44:22_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
+    > Описание кратко и понятно. Опсинаие действий в форме советов. Всего советов 35.
+
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
     > очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень добрая, веселая, озорная, интересная сказка. Вернулась в детство, улыбнулась и поняла, что жить - стоит!
 
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
-    > 7 из 10
 
 * Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 
-* 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>6</sup> 
 [irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>26</sup> 
 [youno](users/302/302928912-vkontakte)<sup>4</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
-[Иван](users/111/111223381196748176136-google)<sup>5</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [jewashot](users/199/199946725-vkontakte)<sup>3</sup> 
 
 
-_02.02.2017 08:46:41_
+_02.02.2017 14:44:22_

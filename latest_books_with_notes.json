@@ -1,4 +1,16 @@
 {
+    "xgkgMZ_-bp": {
+        "id": "xgkgMZ_-bp",
+        "title": "Час Тишины",
+        "author": "Дэвид Хорсагер",
+        "notes": "Описание кратко и понятно. Опсинаие действий в форме советов. Всего советов 35.",
+        "createdAt": "2017-02-02 14:44:22",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 6
+        }
+    },
     "4zgZ7r5ZeH": {
         "id": "4zgZ7r5ZeH",
         "title": "Поллианна",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 160
-        }
-    },
-    "DZradpW_QP": {
-        "id": "DZradpW_QP",
-        "title": "Служитель кристалла",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:42:20",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 159
         }
     }
 }
