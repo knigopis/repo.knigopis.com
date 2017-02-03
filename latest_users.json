@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 295,
+        "updatedAt": "2017-02-03 21:01:01"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Lynthy",
         "booksCount": 3,
         "updatedAt": "2017-01-29 19:44:32"
-    },
-    "120448101637152-facebook": {
-        "id": "120448101637152-facebook",
-        "nickname": "krys4d",
-        "booksCount": 1,
-        "updatedAt": "2017-01-29 18:14:17"
     }
 }

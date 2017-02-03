@@ -1,4 +1,16 @@
 {
+    "9qttfLXTb8": {
+        "id": "9qttfLXTb8",
+        "title": "Светлая и тёмный",
+        "author": "Ольга Гусейнова",
+        "notes": "",
+        "createdAt": "2017-02-03 21:01:01",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 295
+        }
+    },
     "bLPiwYZbBv": {
         "id": "bLPiwYZbBv",
         "title": "Наш затерянный мир",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 488
-        }
-    },
-    "G0zhFdemOK": {
-        "id": "G0zhFdemOK",
-        "title": "Преступление и наказание",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "Впервые опубликовано : 1866",
-        "createdAt": "2017-01-30 13:11:51",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 15
         }
     }
 }
