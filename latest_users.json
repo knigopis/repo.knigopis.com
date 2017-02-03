@@ -1,4 +1,10 @@
 {
+    "314964649-yandex": {
+        "id": "314964649-yandex",
+        "nickname": "Arrrghh",
+        "booksCount": 0,
+        "updatedAt": "2017-02-03 19:17:02"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Gibeka",
         "booksCount": 1,
         "updatedAt": "2017-01-29 17:25:23"
-    },
-    "106304994652616315178-google": {
-        "id": "106304994652616315178-google",
-        "nickname": "Euphoria",
-        "booksCount": 61,
-        "updatedAt": "2017-01-29 16:59:51"
     }
 }
