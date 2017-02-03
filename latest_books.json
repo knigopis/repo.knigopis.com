@@ -1,4 +1,16 @@
 {
+    "GQm-P6BaJR": {
+        "id": "GQm-P6BaJR",
+        "title": "Сказки Барда Бидля",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-02-03 07:44:39",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 492
+        }
+    },
     "VIdcudEHLt": {
         "id": "VIdcudEHLt",
         "title": "Монт-Ориоль",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 3
-        }
-    },
-    "uY_siCD0Pk": {
-        "id": "uY_siCD0Pk",
-        "title": "12 обручів Андрухович",
-        "author": "Юрій Андрухович",
-        "notes": "Уперше опубліковано: 2003",
-        "createdAt": "2017-01-30 12:52:45",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 2
         }
     }
 }

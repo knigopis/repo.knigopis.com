@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>491</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>492</sup>
 ---
 
 ## 2017
+
+### Сказки Барда Бидля
+Джоан Роулинг
+> [2017-01] 
+
 
 ### Монт-Ориоль
 Ги Де Мопассан
