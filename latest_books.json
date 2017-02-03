@@ -1,4 +1,16 @@
 {
+    "ivGlAwfPzN": {
+        "id": "ivGlAwfPzN",
+        "title": "Мост короля Людовика Святого",
+        "author": "Торнтон Уайлдер",
+        "notes": "",
+        "createdAt": "2017-02-03 10:35:57",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 493
+        }
+    },
     "-iTWOtA0fj": {
         "id": "-iTWOtA0fj",
         "title": "Красное и черное",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 5
-        }
-    },
-    "k5-fSKyNWh": {
-        "id": "k5-fSKyNWh",
-        "title": "Послемрак",
-        "author": "Харуки Мураками",
-        "notes": "Впервые опубликовано : 7 сентября 2004",
-        "createdAt": "2017-01-30 12:56:04",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 4
         }
     }
 }
