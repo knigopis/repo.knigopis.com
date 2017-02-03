@@ -1,4 +1,10 @@
 {
+    "152183909-vkontakte": {
+        "id": "152183909-vkontakte",
+        "nickname": "Maelys Stendhal",
+        "booksCount": 4,
+        "updatedAt": "2017-02-03 08:31:48"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 92,
         "updatedAt": "2017-01-29 15:52:53"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 68,
-        "updatedAt": "2017-01-29 08:18:26"
     }
 }

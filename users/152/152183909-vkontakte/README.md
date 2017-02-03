@@ -1,7 +1,12 @@
-# List of books read by [d.molokoedova](http://vk.com/id152183909)<sup>3</sup>
+# List of books read by [Maelys Stendhal](http://vk.com/id152183909)<sup>4</sup>
 ---
 
 ## 2017
+
+### Красное и черное
+Стендаль
+> [2017-02-02] 
+
 
 ### Поющие в терновнике
 Колин Маккалоу

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>492</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Gibeka](users/100/100893165099912551761-google)<sup>1</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>61</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>92</sup> 
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup> 
 
 
-_03.02.2017 07:44:40_
+_03.02.2017 08:31:48_
