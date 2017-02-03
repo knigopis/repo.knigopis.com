@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 240,
+        "updatedAt": "2017-02-03 14:11:00"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Euphoria",
         "booksCount": 61,
         "updatedAt": "2017-01-29 16:59:51"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 92,
-        "updatedAt": "2017-01-29 15:52:53"
     }
 }
