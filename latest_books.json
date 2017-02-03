@@ -1,4 +1,16 @@
 {
+    "hFH16yDykB": {
+        "id": "hFH16yDykB",
+        "title": "Короткие рассказы из Хогвартса о героизме, лишениях и опасных хобби",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-02-03 17:26:53",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 496
+        }
+    },
     "4Q-u_rxGDg": {
         "id": "4Q-u_rxGDg",
         "title": "Молот ведьм",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 9
-        }
-    },
-    "Yu087JGzZ-": {
-        "id": "Yu087JGzZ-",
-        "title": "Человек невидимка",
-        "author": "Герберт Уеллс",
-        "notes": "Первое исполнение : 1991",
-        "createdAt": "2017-01-30 13:01:16",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 8
         }
     }
 }
