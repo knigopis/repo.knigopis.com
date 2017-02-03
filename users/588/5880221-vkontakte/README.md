@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>41</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>42</sup>
 ---
 
 ## 2017
+
+### Наш затерянный мир
+Литвин
+> [2017-02-03] 
+
 
 ### Жизнь взаймы
 Эрих Мария Ремарк

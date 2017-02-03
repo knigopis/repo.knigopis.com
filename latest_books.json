@@ -1,4 +1,16 @@
 {
+    "bLPiwYZbBv": {
+        "id": "bLPiwYZbBv",
+        "title": "Наш затерянный мир",
+        "author": "Литвин",
+        "notes": "",
+        "createdAt": "2017-02-03 20:06:54",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 42
+        }
+    },
     "i19djefsJ6": {
         "id": "i19djefsJ6",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 15
-        }
-    },
-    "FCHKl1E_qV": {
-        "id": "FCHKl1E_qV",
-        "title": "Серия С.Т.А.Л.К.Е.Р.",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-01-30 13:07:38",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 14
         }
     }
 }
