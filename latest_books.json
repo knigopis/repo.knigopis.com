@@ -1,4 +1,16 @@
 {
+    "i19djefsJ6": {
+        "id": "i19djefsJ6",
+        "title": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-02-03 19:18:18",
+        "user": {
+            "id": "314964649-yandex",
+            "nickname": "Arrrghh",
+            "booksCount": 1
+        }
+    },
     "khD0jR_G5n": {
         "id": "khD0jR_G5n",
         "title": "Короткие рассказы из Хогвартса о власти, политике и назойливых полтергейстах",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 14
-        }
-    },
-    "1ZTjOEq_Ro": {
-        "id": "1ZTjOEq_Ro",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "Впервые опубликовано : 1954",
-        "createdAt": "2017-01-30 13:06:15",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 12
         }
     }
 }
