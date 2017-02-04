@@ -1,4 +1,16 @@
 {
+    "72qVtNqUu4": {
+        "id": "72qVtNqUu4",
+        "title": "Обитель",
+        "author": "Прилепин Захар",
+        "notes": "",
+        "createdAt": "2017-02-04 18:13:40",
+        "user": {
+            "id": "1606575652891411-facebook",
+            "nickname": "Larisa Larisa",
+            "booksCount": 17
+        }
+    },
     "iMKobvvGzQ": {
         "id": "iMKobvvGzQ",
         "title": "Искренне Ваш Шурик",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 97
-        }
-    },
-    "q3F-a70uSx": {
-        "id": "q3F-a70uSx",
-        "title": "Поймал - отпустил",
-        "author": "Лоуренс Блок",
-        "notes": "",
-        "createdAt": "2017-01-31 12:08:53",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 96
         }
     }
 }
