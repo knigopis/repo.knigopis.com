@@ -1,4 +1,10 @@
 {
+    "1606575652891411-facebook": {
+        "id": "1606575652891411-facebook",
+        "nickname": "Larisa Larisa",
+        "booksCount": 13,
+        "updatedAt": "2017-02-04 18:09:15"
+    },
     "216683763-vkontakte": {
         "id": "216683763-vkontakte",
         "nickname": "kosmos_anya",
@@ -172,11 +178,5 @@
         "nickname": "Semmi Colins ",
         "booksCount": 15,
         "updatedAt": "2017-01-30 13:11:51"
-    },
-    "112221849148277132186-google": {
-        "id": "112221849148277132186-google",
-        "nickname": "Infinity",
-        "booksCount": 0,
-        "updatedAt": "2017-01-30 09:00:18"
     }
 }

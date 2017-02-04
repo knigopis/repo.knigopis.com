@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Larisa Larisa](users/160/1606575652891411-facebook)<sup>13</sup> 
 [kosmos_anya](users/216/216683763-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
-[Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 
 
-_04.02.2017 17:09:23_
+_04.02.2017 18:09:15_

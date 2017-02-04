@@ -1,4 +1,16 @@
 {
+    "_tDfgsbPky": {
+        "id": "_tDfgsbPky",
+        "title": "Год в Провансе",
+        "author": "Питер Мэйл",
+        "notes": "",
+        "createdAt": "2017-02-04 18:09:15",
+        "user": {
+            "id": "1606575652891411-facebook",
+            "nickname": "Larisa Larisa",
+            "booksCount": 13
+        }
+    },
     "32zsgL21wn": {
         "id": "32zsgL21wn",
         "title": "Драматическая медицина (Опыты врачей на себе)",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 489
-        }
-    },
-    "MybAZ5aTOi": {
-        "id": "MybAZ5aTOi",
-        "title": "Автостопом по галактике",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2017-01-30 17:24:03",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 64
         }
     }
 }
