@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>134</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>135</sup>
 ---
 
 ## 2017
+
+### Драматическая медицина (Опыты врачей на себе)
+Глязер Гуго
+> [2017-02-03] 
+
 
 ### Перекрестки сумерек
 Джордан, Роберт

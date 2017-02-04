@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>295</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>134</sup> 
 [EvaCross](users/101/101087736502737132131-google)<sup>1</sup> 
 
 
-_04.02.2017 04:31:08_
+_04.02.2017 16:58:59_

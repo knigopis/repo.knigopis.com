@@ -1,4 +1,16 @@
 {
+    "32zsgL21wn": {
+        "id": "32zsgL21wn",
+        "title": "Драматическая медицина (Опыты врачей на себе)",
+        "author": "Глязер Гуго",
+        "notes": "",
+        "createdAt": "2017-02-04 16:58:59",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 135
+        }
+    },
     "C_pb_wmJxt": {
         "id": "C_pb_wmJxt",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 64
-        }
-    },
-    "zmyt2e3I9a": {
-        "id": "zmyt2e3I9a",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2017-01-30 16:16:10",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "deku",
-            "booksCount": 28
         }
     }
 }
