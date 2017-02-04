@@ -1,4 +1,4 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>22</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>23</sup>
 ---
 
 ## 2017
@@ -28,6 +28,9 @@
 
 Айзек Азимов - Приход ночи
 > [2016-11] Рассказ
+
+
+Даниел Киз - Таинственная история Билли Миллигана
 
 
 О.Генри - Дары волхвов
