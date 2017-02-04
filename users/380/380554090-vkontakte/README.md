@@ -1,7 +1,10 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>7</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>8</sup>
 ---
 
 ## 2016
+
+Рей Бредбери - 451° по Фаренгейту
+
 
 Айзек Азимов - Конец Вечности
 
