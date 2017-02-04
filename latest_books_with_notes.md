@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
 * Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
 * Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Дело о любопытной новобрачной ~ [foksik](users/173/1734575-vkontakte)<sup>166</sup>
 * Дело о счастливых ножках ~ [foksik](users/173/1734575-vkontakte)<sup>165</sup>
 * Дело о мрачной девушке ~ [foksik](users/173/1734575-vkontakte)<sup>164</sup>
-* Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
 
 
-_04.02.2017 18:39:04_
+_04.02.2017 18:42:00_

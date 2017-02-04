@@ -1,4 +1,16 @@
 {
+    "W7rh7DdX34": {
+        "id": "W7rh7DdX34",
+        "title": "Вокруг света за 80 дней",
+        "author": "Жюль Верн",
+        "notes": "\"Он знал, что в жизни поневоле приходится, как говорят, тереться между людей, а так как трение замедляет движение, то он держался в стороне от всех\".",
+        "createdAt": "2017-02-04 18:42:00",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 70
+        }
+    },
     "5tTQ9g7zyW": {
         "id": "5tTQ9g7zyW",
         "title": "Воскресение",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 490
-        }
-    },
-    "mWO4Qy3K-K": {
-        "id": "mWO4Qy3K-K",
-        "title": "Девушка в поезде",
-        "author": "Хокинс Пола",
-        "notes": "7 из 10",
-        "createdAt": "2017-01-31 12:19:27",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 98
         }
     }
 }
