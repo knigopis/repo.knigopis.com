@@ -1,4 +1,4 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>20</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>21</sup>
 ---
 
 ## 2017
@@ -13,6 +13,10 @@
 
 
 ## 2016
+
+Ирина Каверина - Forex - это просто
+> [2016-12] 
+
 
 Радислав Гандапас - Камасутра для оратора
 > [2016-12] 
