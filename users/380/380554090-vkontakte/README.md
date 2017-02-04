@@ -1,4 +1,4 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>9</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>10</sup>
 ---
 
 ## 2016
@@ -26,6 +26,10 @@
 
 
 ## 2014
+
+Аллен Карр - Лёгкий способ бросить курить
+> (Не помогло)
+
 
 Карен Хорни - Невротическая личность нашего времени
 
