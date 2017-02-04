@@ -1,4 +1,4 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>13</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>14</sup>
 ---
 
 ## 2017
@@ -9,6 +9,10 @@
 
 
 ## 2016
+
+Стивен Кони - Семь навыков высокоэффективных людей
+> [2016-12] (Помогло)
+
 
 Джордж Оруэлл - 1964
 
