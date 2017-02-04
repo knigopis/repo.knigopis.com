@@ -1,4 +1,10 @@
 {
+    "219259003-vkontakte": {
+        "id": "219259003-vkontakte",
+        "nickname": "victoria_spilioti",
+        "booksCount": 69,
+        "updatedAt": "2017-02-04 18:39:04"
+    },
     "1606575652891411-facebook": {
         "id": "1606575652891411-facebook",
         "nickname": "Larisa Larisa",
@@ -172,11 +178,5 @@
         "nickname": "hawkeyepierce89",
         "booksCount": 0,
         "updatedAt": "2017-01-30 15:20:11"
-    },
-    "100632786848817999592-google": {
-        "id": "100632786848817999592-google",
-        "nickname": "Semmi Colins ",
-        "booksCount": 15,
-        "updatedAt": "2017-01-30 13:11:51"
     }
 }
