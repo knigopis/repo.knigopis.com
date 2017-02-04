@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Дело о мрачной девушке ~ [foksik](users/173/1734575-vkontakte)<sup>164</sup>
 * Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
 * Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
-* Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
 
 
-_04.02.2017 03:46:00_
+_04.02.2017 18:10:51_

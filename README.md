@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
+    > Аудио
+
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
     > Восполнил пробел и прочитал этот замечательный блокпастер. Написано действительно интересно, сюжет захватывает, интересная продуманная вселенная и зашкаливающее количество пафоса (в хорошем смысле этого слова).
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Описание кратко и понятно. Опсинаие действий в форме советов. Всего советов 35.
 
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
-    > очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!
 
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тринадцатая сказка ~ [Беска](users/157/1577468-vkontakte)<sup>24</sup>
 
-* Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Larisa Larisa](users/160/1606575652891411-facebook)<sup>13</sup> 
+[Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup> 
 [kosmos_anya](users/216/216683763-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>15</sup> 
 
 
-_04.02.2017 18:09:15_
+_04.02.2017 18:10:51_
