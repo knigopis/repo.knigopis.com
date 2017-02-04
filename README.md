@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>295</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
 [EvaCross](users/101/101087736502737132131-google)<sup>1</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>0</sup> 
-[Lynthy](users/105/105478879380432387317-google)<sup>3</sup> 
 
 
-_03.02.2017 21:01:01_
+_04.02.2017 03:43:45_
