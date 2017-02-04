@@ -1,7 +1,10 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>5</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>6</sup>
 ---
 
 ## 2015
+
+Ричард Докинз - Бог как иллюзия
+
 
 Федор Достоевский - Игрок
 
