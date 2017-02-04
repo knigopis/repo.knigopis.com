@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Дело о бархатных коготках ~ [foksik](users/173/1734575-vkontakte)<sup>163</sup>
 * Король призраков ~ [foksik](users/173/1734575-vkontakte)<sup>162</sup>
 * Король пиратов ~ [foksik](users/173/1734575-vkontakte)<sup>161</sup>
-* Дорога патриарха ~ [foksik](users/173/1734575-vkontakte)<sup>160</sup>
 
 
-_02.02.2017 14:44:22_
+_04.02.2017 03:46:00_

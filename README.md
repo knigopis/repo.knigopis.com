@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
+    > Восполнил пробел и прочитал этот замечательный блокпастер. Написано действительно интересно, сюжет захватывает, интересная продуманная вселенная и зашкаливающее количество пафоса (в хорошем смысле этого слова).
+
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
     > Описание кратко и понятно. Опсинаие действий в форме советов. Всего советов 35.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!
 
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
-    > очень добрая, веселая, озорная, интересная сказка. Вернулась в детство, улыбнулась и поняла, что жить - стоит!
 
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
 
-* Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>138</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>295</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Infinity](users/112/112221849148277132186-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>134</sup> 
 [EvaCross](users/101/101087736502737132131-google)<sup>1</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>0</sup> 
 
 
-_04.02.2017 03:45:03_
+_04.02.2017 03:46:00_

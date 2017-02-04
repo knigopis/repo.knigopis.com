@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 138,
+        "updatedAt": "2017-02-04 03:46:00"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -172,11 +178,5 @@
         "nickname": "EvaCross",
         "booksCount": 1,
         "updatedAt": "2017-01-30 06:32:16"
-    },
-    "254448176-yandex": {
-        "id": "254448176-yandex",
-        "nickname": "Len4e91",
-        "booksCount": 0,
-        "updatedAt": "2017-01-29 21:06:06"
     }
 }
