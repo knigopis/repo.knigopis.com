@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 0,
+        "updatedAt": "2017-02-04 03:43:44"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 0,
         "updatedAt": "2017-01-29 21:06:06"
-    },
-    "105478879380432387317-google": {
-        "id": "105478879380432387317-google",
-        "nickname": "Lynthy",
-        "booksCount": 3,
-        "updatedAt": "2017-01-29 19:44:32"
     }
 }
