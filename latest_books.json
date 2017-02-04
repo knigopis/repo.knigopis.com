@@ -1,4 +1,16 @@
 {
+    "OzJmyRbbuq": {
+        "id": "OzJmyRbbuq",
+        "title": "Право первой ночи",
+        "author": "Юлия Архарова",
+        "notes": "",
+        "createdAt": "2017-02-04 20:58:56",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 296
+        }
+    },
     "W7rh7DdX34": {
         "id": "W7rh7DdX34",
         "title": "Вокруг света за 80 дней",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 25
-        }
-    },
-    "CfIUrMAkNT": {
-        "id": "CfIUrMAkNT",
-        "title": "Капитан Сорви-голова",
-        "author": "Луи Буссенар",
-        "notes": "",
-        "createdAt": "2017-01-31 14:57:00",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 490
         }
     }
 }
