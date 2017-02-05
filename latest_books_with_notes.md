@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 * Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
 * Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
 * Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Дело о фальшивом глазе ~ [foksik](users/173/1734575-vkontakte)<sup>167</sup>
 * Дело о любопытной новобрачной ~ [foksik](users/173/1734575-vkontakte)<sup>166</sup>
 * Дело о счастливых ножках ~ [foksik](users/173/1734575-vkontakte)<sup>165</sup>
-* Дело о мрачной девушке ~ [foksik](users/173/1734575-vkontakte)<sup>164</sup>
 
 
-_04.02.2017 18:42:00_
+_05.02.2017 15:47:12_
