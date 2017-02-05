@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
+[Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>242</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rm_cor](users/729/72927449-vkontakte)<sup>0</sup> 
 
 
-_05.02.2017 16:31:47_
+_05.02.2017 16:31:54_
