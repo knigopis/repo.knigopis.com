@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Fake](users/178/178468540-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [T](users/128/1285226392222771641-mailru)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>49</sup> 
 [butler](users/405/405976511-vkontakte)<sup>0</sup> 
-[rm_cor](users/729/72927449-vkontakte)<sup>0</sup> 
 
 
-_05.02.2017 16:31:54_
+_05.02.2017 19:07:20_
