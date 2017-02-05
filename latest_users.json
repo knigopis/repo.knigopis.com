@@ -1,4 +1,10 @@
 {
+    "178468540-vkontakte": {
+        "id": "178468540-vkontakte",
+        "nickname": "Fake",
+        "booksCount": 0,
+        "updatedAt": "2017-02-05 19:07:19"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "butler",
         "booksCount": 0,
         "updatedAt": "2017-01-31 01:58:18"
-    },
-    "72927449-vkontakte": {
-        "id": "72927449-vkontakte",
-        "nickname": "rm_cor",
-        "booksCount": 0,
-        "updatedAt": "2017-01-30 21:53:17"
     }
 }
