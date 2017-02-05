@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>93</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>297</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup> 
 [Larisa Larisa](users/160/1606575652891411-facebook)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [valeriy_kolosov](users/101/101924645-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
-[hawkeyepierce89](users/317/317314037-vkontakte)<sup>0</sup> 
 
 
-_04.02.2017 20:59:47_
+_05.02.2017 06:10:21_

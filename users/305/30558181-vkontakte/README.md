@@ -1,7 +1,11 @@
-# List of books read by [EsterHani](http://vk.com/id30558181)<sup>92</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>93</sup>
 ---
 
 ## 2017
+
+### Возвращение со звезд
+Станислав Лем
+
 
 ### Солярис
 Станислав Лем
