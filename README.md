@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dragonfly](users/109/109475351013352061791-google)<sup>1</sup> 
+[Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>242</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>93</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [valeriy_kolosov](users/101/101924645-vkontakte)<sup>0</sup> 
 
 
-_05.02.2017 16:00:44_
+_05.02.2017 16:01:12_
