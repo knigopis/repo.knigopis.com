@@ -1,4 +1,16 @@
 {
+    "d6ha7BvGRq": {
+        "id": "d6ha7BvGRq",
+        "title": "",
+        "author": "",
+        "notes": "Собака Баскервилей",
+        "createdAt": "2017-02-05 16:00:44",
+        "user": {
+            "id": "109475351013352061791-google",
+            "nickname": "Dragonfly",
+            "booksCount": 1
+        }
+    },
     "dfcz3B2tlw": {
         "id": "dfcz3B2tlw",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "152183909-vkontakte",
             "nickname": "Maelys Stendhal",
             "booksCount": 4
-        }
-    },
-    "GQm-P6BaJR": {
-        "id": "GQm-P6BaJR",
-        "title": "Сказки Барда Бидля",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-02-03 07:44:39",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 492
         }
     }
 }
