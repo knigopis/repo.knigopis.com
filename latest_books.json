@@ -1,4 +1,16 @@
 {
+    "a0Ytr7j_LN": {
+        "id": "a0Ytr7j_LN",
+        "title": "Творчество",
+        "author": "Эмиль Золя",
+        "notes": "",
+        "createdAt": "2017-02-05 22:03:35",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 500
+        }
+    },
     "XZ6X5uF3n-": {
         "id": "XZ6X5uF3n-",
         "title": "Умри завтра",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 495
-        }
-    },
-    "wf8WZnajO4": {
-        "id": "wf8WZnajO4",
-        "title": "Нашла коса на камень (из Записок Желтоплюша)",
-        "author": "Уильям Теккерей",
-        "notes": "",
-        "createdAt": "2017-02-03 11:52:23",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 494
         }
     }
 }

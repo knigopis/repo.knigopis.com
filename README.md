@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>500</sup> 
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>499</sup> 
 [Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [butler](users/405/405976511-vkontakte)<sup>0</sup> 
 
 
-_05.02.2017 19:07:20_
+_05.02.2017 22:03:36_

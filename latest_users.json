@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 500,
+        "updatedAt": "2017-02-05 22:03:35"
+    },
     "178468540-vkontakte": {
         "id": "178468540-vkontakte",
         "nickname": "Fake",
@@ -88,12 +94,6 @@
         "nickname": "Arrrghh",
         "booksCount": 0,
         "updatedAt": "2017-02-03 19:18:37"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 499,
-        "updatedAt": "2017-02-03 18:54:05"
     },
     "152183909-vkontakte": {
         "id": "152183909-vkontakte",
