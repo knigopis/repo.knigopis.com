@@ -1,12 +1,5 @@
-# Список прочитанных книг пользователя [Beaviska](https://www.facebook.com/app_scoped_user_id/10202544960024508/)<sup>24</sup>
+# Список прочитанных книг пользователя [Beaviska](https://www.facebook.com/app_scoped_user_id/10202544960024508/)<sup>23</sup>
 ---
-
-## 2017
-
-### Умри завтра
-Питер Джеймс
-
-
 
 ## 2016
 
