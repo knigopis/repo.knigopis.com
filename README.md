@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>241</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>93</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>297</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>499</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>240</sup> 
 [Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [deku](users/384/384194935-vkontakte)<sup>28</sup> 
 
 
-_05.02.2017 06:10:21_
+_05.02.2017 07:02:18_

@@ -1,4 +1,16 @@
 {
+    "qDhVQhapRS": {
+        "id": "qDhVQhapRS",
+        "title": "Боргильдова битва",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-02-05 07:02:17",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 241
+        }
+    },
     "hrYz_cEZtK": {
         "id": "hrYz_cEZtK",
         "title": "Возвращение со звезд",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 26
-        }
-    },
-    "yE4D6MfZaI": {
-        "id": "yE4D6MfZaI",
-        "title": "От хорошего к великому",
-        "author": "Джим Коллинз",
-        "notes": "",
-        "createdAt": "2017-02-01 19:23:33",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 4
         }
     }
 }
