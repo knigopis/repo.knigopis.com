@@ -1,4 +1,16 @@
 {
+    "AYoI8aO2Yb": {
+        "id": "AYoI8aO2Yb",
+        "title": "Жизньыза",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-02-05 15:45:18",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 25
+        }
+    },
     "uhx8dTYLcl": {
         "id": "uhx8dTYLcl",
         "title": "Предатель",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 491
-        }
-    },
-    "xgkgMZ_-bp": {
-        "id": "xgkgMZ_-bp",
-        "title": "Час Тишины",
-        "author": "Дэвид Хорсагер",
-        "notes": "Описание кратко и понятно. Опсинаие действий в форме советов. Всего советов 35.",
-        "createdAt": "2017-02-02 14:44:22",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 6
         }
     }
 }

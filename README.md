@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>25</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>242</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>93</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>297</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rm_cor](users/729/72927449-vkontakte)<sup>0</sup> 
 [valeriy_kolosov](users/101/101924645-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>64</sup> 
-[deku](users/384/384194935-vkontakte)<sup>28</sup> 
 
 
-_05.02.2017 07:02:47_
+_05.02.2017 15:45:19_
