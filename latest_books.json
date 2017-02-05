@@ -1,4 +1,16 @@
 {
+    "uhx8dTYLcl": {
+        "id": "uhx8dTYLcl",
+        "title": "Предатель",
+        "author": "Олег Дивов",
+        "notes": "",
+        "createdAt": "2017-02-05 07:02:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 242
+        }
+    },
     "qDhVQhapRS": {
         "id": "qDhVQhapRS",
         "title": "Боргильдова битва",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 6
-        }
-    },
-    "4zgZ7r5ZeH": {
-        "id": "4zgZ7r5ZeH",
-        "title": "Поллианна",
-        "author": "Элинор Портер",
-        "notes": "очень позитивная, радостная, веселая, трогательная. Да. Читать и думать. Чувствовать и жить!",
-        "createdAt": "2017-02-01 23:21:49",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 26
         }
     }
 }
