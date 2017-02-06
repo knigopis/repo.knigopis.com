@@ -1,4 +1,10 @@
 {
+    "5622196-vkontakte": {
+        "id": "5622196-vkontakte",
+        "nickname": "slavanaum",
+        "booksCount": 0,
+        "updatedAt": "2017-02-06 12:56:39"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "T",
         "booksCount": 0,
         "updatedAt": "2017-01-31 11:18:00"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 49,
-        "updatedAt": "2017-01-31 09:55:10"
     }
 }
