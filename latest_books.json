@@ -1,4 +1,16 @@
 {
+    "pck4QnZLsF": {
+        "id": "pck4QnZLsF",
+        "title": "газета Казак 2013г.№5(Краснощеков) №6(П.Карташов.зав.отделом окружного исполкома)",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-02-06 15:25:26",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 19
+        }
+    },
     "_9tSCBqcYM": {
         "id": "_9tSCBqcYM",
         "title": "Донские генералы",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 138
-        }
-    },
-    "9qttfLXTb8": {
-        "id": "9qttfLXTb8",
-        "title": "Светлая и тёмный",
-        "author": "Ольга Гусейнова",
-        "notes": "",
-        "createdAt": "2017-02-03 21:01:01",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 295
         }
     }
 }
