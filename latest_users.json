@@ -1,4 +1,10 @@
 {
+    "44047555-vkontakte": {
+        "id": "44047555-vkontakte",
+        "nickname": "faralika",
+        "booksCount": 0,
+        "updatedAt": "2017-02-06 19:09:28"
+    },
     "250390719-vkontakte": {
         "id": "250390719-vkontakte",
         "nickname": "hddolly",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 26,
         "updatedAt": "2017-02-01 23:21:49"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 4,
-        "updatedAt": "2017-02-01 19:23:33"
     }
 }
