@@ -1,4 +1,10 @@
 {
+    "384194935-vkontakte": {
+        "id": "384194935-vkontakte",
+        "nickname": "raikiri",
+        "booksCount": 29,
+        "updatedAt": "2017-02-06 15:05:57"
+    },
     "5622196-vkontakte": {
         "id": "5622196-vkontakte",
         "nickname": "slavanaum",
@@ -172,11 +178,5 @@
         "nickname": "konstage",
         "booksCount": 0,
         "updatedAt": "2017-01-31 13:46:54"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 98,
-        "updatedAt": "2017-01-31 12:19:27"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "wGd3ZoODQP": {
+        "id": "wGd3ZoODQP",
+        "title": "Мертвые души том 1,2",
+        "author": "Н. Гоголь",
+        "notes": "",
+        "createdAt": "2017-02-06 15:05:57",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiri",
+            "booksCount": 29
+        }
+    },
     "SfAeIL3Tfc": {
         "id": "SfAeIL3Tfc",
         "title": "Расколотое я",
@@ -345,18 +357,6 @@
             "id": "314964649-yandex",
             "nickname": "Arrrghh",
             "booksCount": 1
-        }
-    },
-    "khD0jR_G5n": {
-        "id": "khD0jR_G5n",
-        "title": "Короткие рассказы из Хогвартса о власти, политике и назойливых полтергейстах",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-02-03 18:54:05",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 499
         }
     }
 }
