@@ -1,4 +1,16 @@
 {
+    "h-b4pnwsBn": {
+        "id": "h-b4pnwsBn",
+        "title": "Ревизор",
+        "author": "Н. Гоголь",
+        "notes": "",
+        "createdAt": "2017-02-06 15:06:13",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiri",
+            "booksCount": 30
+        }
+    },
     "wGd3ZoODQP": {
         "id": "wGd3ZoODQP",
         "title": "Мертвые души том 1,2",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 42
-        }
-    },
-    "i19djefsJ6": {
-        "id": "i19djefsJ6",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-02-03 19:18:18",
-        "user": {
-            "id": "314964649-yandex",
-            "nickname": "Arrrghh",
-            "booksCount": 1
         }
     }
 }
