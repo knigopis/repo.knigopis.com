@@ -1,4 +1,16 @@
 {
+    "SfAeIL3Tfc": {
+        "id": "SfAeIL3Tfc",
+        "title": "Расколотое я",
+        "author": "Лейнг Рональд Девид",
+        "notes": "Замечательная книга о душе и шизофрении",
+        "createdAt": "2017-02-06 14:02:40",
+        "user": {
+            "id": "5622196-vkontakte",
+            "nickname": "slavanaum",
+            "booksCount": 3
+        }
+    },
     "iaEq4nfGF3": {
         "id": "iaEq4nfGF3",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 499
-        }
-    },
-    "5JowmP478o": {
-        "id": "5JowmP478o",
-        "title": "Квиддич с древности до наших дней",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-02-03 17:53:09",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 498
         }
     }
 }

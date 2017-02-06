@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
 [Elena](users/459/459594264-yandex)<sup>3</sup> 
-[slavanaum](users/562/5622196-vkontakte)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>500</sup> 
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
 
 
-_06.02.2017 13:58:20_
+_06.02.2017 14:02:40_
