@@ -1,4 +1,10 @@
 {
+    "250390719-vkontakte": {
+        "id": "250390719-vkontakte",
+        "nickname": "hddolly",
+        "booksCount": 0,
+        "updatedAt": "2017-02-06 19:05:48"
+    },
     "35080115-vkontakte": {
         "id": "35080115-vkontakte",
         "nickname": "otakukeeper",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 4,
         "updatedAt": "2017-02-01 19:23:33"
-    },
-    "102220851636735847600-google": {
-        "id": "102220851636735847600-google",
-        "nickname": "Май Мастер",
-        "booksCount": 1,
-        "updatedAt": "2017-02-01 18:26:59"
     }
 }
