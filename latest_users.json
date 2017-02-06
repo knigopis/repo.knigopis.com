@@ -1,4 +1,10 @@
 {
+    "35080115-vkontakte": {
+        "id": "35080115-vkontakte",
+        "nickname": "otakukeeper",
+        "booksCount": 2,
+        "updatedAt": "2017-02-06 18:09:46"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "Май Мастер",
         "booksCount": 1,
         "updatedAt": "2017-02-01 18:26:59"
-    },
-    "14774538313933771045-mailru": {
-        "id": "14774538313933771045-mailru",
-        "nickname": "Светлана Гредякина",
-        "booksCount": 0,
-        "updatedAt": "2017-02-01 16:53:30"
     }
 }

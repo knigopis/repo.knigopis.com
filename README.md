@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[otakukeeper](users/350/35080115-vkontakte)<sup>2</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>19</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>30</sup> 
 [slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>26</sup> 
 [youno](users/302/302928912-vkontakte)<sup>4</sup> 
 [Май Мастер](users/102/102220851636735847600-google)<sup>1</sup> 
-[Светлана Гредякина](users/147/14774538313933771045-mailru)<sup>0</sup> 
 
 
-_06.02.2017 15:25:26_
+_06.02.2017 18:09:46_
