@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
 [otakukeeper](users/350/35080115-vkontakte)<sup>2</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>19</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Иван](users/111/111223381196748176136-google)<sup>6</sup> 
 [irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>26</sup> 
-[youno](users/302/302928912-vkontakte)<sup>4</sup> 
 
 
-_06.02.2017 19:05:50_
+_06.02.2017 19:09:28_
