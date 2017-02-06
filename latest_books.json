@@ -1,4 +1,16 @@
 {
+    "ch3pBDapzu": {
+        "id": "ch3pBDapzu",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-02-06 01:59:41",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 65
+        }
+    },
     "a0Ytr7j_LN": {
         "id": "a0Ytr7j_LN",
         "title": "Творчество",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 240
-        }
-    },
-    "RvBM9ZdKq4": {
-        "id": "RvBM9ZdKq4",
-        "title": "Мистер Дьюсэйс в Париже (из Записок Желтоплюша)",
-        "author": "Уильям Теккерей",
-        "notes": "",
-        "createdAt": "2017-02-03 11:54:24",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 495
         }
     }
 }

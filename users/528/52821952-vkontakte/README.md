@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>64</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>65</sup>
 ---
 
 ## 2017
+
+### Убийство Роджера Экройда
+Агата Кристи
+> [2017-02-05] 
+
 
 ### Результативный тайм-менеджмент
 Брайан Трейси
