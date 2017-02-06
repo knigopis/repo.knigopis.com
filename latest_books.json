@@ -1,4 +1,16 @@
 {
+    "iaEq4nfGF3": {
+        "id": "iaEq4nfGF3",
+        "title": "До встречи с тобой",
+        "author": "Джорджо Мойес",
+        "notes": "",
+        "createdAt": "2017-02-06 13:58:20",
+        "user": {
+            "id": "459594264-yandex",
+            "nickname": "Elena",
+            "booksCount": 3
+        }
+    },
     "sslai33ocL": {
         "id": "sslai33ocL",
         "title": "Когда дыхание растворяется в воздухе",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 498
-        }
-    },
-    "XzXcrmrFKi": {
-        "id": "XzXcrmrFKi",
-        "title": "Гарри Поттер: предыстория",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-02-03 17:27:49",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 497
         }
     }
 }

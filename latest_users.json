@@ -1,4 +1,10 @@
 {
+    "459594264-yandex": {
+        "id": "459594264-yandex",
+        "nickname": "Elena",
+        "booksCount": 3,
+        "updatedAt": "2017-02-06 13:58:20"
+    },
     "5622196-vkontakte": {
         "id": "5622196-vkontakte",
         "nickname": "slavanaum",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 98,
         "updatedAt": "2017-01-31 12:19:27"
-    },
-    "1285226392222771641-mailru": {
-        "id": "1285226392222771641-mailru",
-        "nickname": "T",
-        "booksCount": 0,
-        "updatedAt": "2017-01-31 11:18:00"
     }
 }
