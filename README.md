@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slavanaum](users/562/5622196-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>500</sup> 
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [konstage](users/164/1647931-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup> 
 [T](users/128/1285226392222771641-mailru)<sup>0</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>49</sup> 
 
 
-_06.02.2017 01:59:41_
+_06.02.2017 12:56:42_
