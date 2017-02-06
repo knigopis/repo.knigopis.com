@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 18,
+        "updatedAt": "2017-02-06 15:23:43"
+    },
     "384194935-vkontakte": {
         "id": "384194935-vkontakte",
         "nickname": "raikiri",
@@ -172,11 +178,5 @@
         "nickname": "Светлана Гредякина",
         "booksCount": 0,
         "updatedAt": "2017-02-01 16:53:30"
-    },
-    "1647931-vkontakte": {
-        "id": "1647931-vkontakte",
-        "nickname": "konstage",
-        "booksCount": 0,
-        "updatedAt": "2017-01-31 13:46:54"
     }
 }
