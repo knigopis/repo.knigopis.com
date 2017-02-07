@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Серебряные стрелы ~ [foksik](users/173/1734575-vkontakte)<sup>175</sup>
 * Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
-* Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
 
 
-_07.02.2017 17:52:26_
+_07.02.2017 17:54:50_

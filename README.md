@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
+    > ISBN: 978-5-17-082554-7
+
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
     > ASIN: B006ZL9C8E
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Грязь
 
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
-    > Как продовать услуги.
 
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 
-* Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>31</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>32</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 
 
-_07.02.2017 17:52:26_
+_07.02.2017 17:54:50_

@@ -1,4 +1,16 @@
 {
+    "KN1BvXDTer": {
+        "id": "KN1BvXDTer",
+        "title": "Между Европой и Азией. История Российского государства. Семнадцатый век.",
+        "author": "Акунин Борис",
+        "notes": "ISBN: 978-5-17-082554-7",
+        "createdAt": "2017-02-07 17:54:50",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 32
+        }
+    },
     "P2afrcJHtw": {
         "id": "P2afrcJHtw",
         "title": "Savage Continent: Europe in the Aftermath of World War II",
@@ -345,18 +357,6 @@
             "id": "1606575652891411-facebook",
             "nickname": "Larisa Larisa",
             "booksCount": 17
-        }
-    },
-    "iMKobvvGzQ": {
-        "id": "iMKobvvGzQ",
-        "title": "Искренне Ваш Шурик",
-        "author": "Улицкая Людмила",
-        "notes": "",
-        "createdAt": "2017-02-04 18:13:19",
-        "user": {
-            "id": "1606575652891411-facebook",
-            "nickname": "Larisa Larisa",
-            "booksCount": 16
         }
     }
 }
