@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
+    > Как продовать услуги.
+
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
     > В книге автор создает версию мира, в котором люди почти всегда счастливы. Мир, в котором прогресс достиг некоторого фиксированного уровня, позволяющий утолить все потребности человека. Люди умирают не старея. Размножение контролируется искусственным выведением, нравственные устои формируются гипнозом в состоянии сна. В этом мире нет ограничений на секс, он доступен в любом возрасте и с любым партнером. Семей нет. Отцов и матерей нет. В этот мир попадает Дикарь - человек, выросший в резервации, где сохранилось многое привычное нам.
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Книга краткой очерк о Корнилове, Краснове, Врангеле,Деникине, Юдениче
 
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
-    > Нудновато. Не пошла книга и поэтому только половина (целая половина!)
 
 * Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 
-* Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>7</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
@@ -65,8 +66,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
-[Иван](users/111/111223381196748176136-google)<sup>6</sup> 
 [irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
 
 
-_07.02.2017 04:22:52_
+_07.02.2017 05:32:35_

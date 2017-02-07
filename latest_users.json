@@ -1,4 +1,10 @@
 {
+    "111223381196748176136-google": {
+        "id": "111223381196748176136-google",
+        "nickname": "Иван",
+        "booksCount": 7,
+        "updatedAt": "2017-02-07 05:32:35"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -166,12 +172,6 @@
         "nickname": "yulyaignatowa",
         "booksCount": 0,
         "updatedAt": "2017-02-02 18:23:38"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 6,
-        "updatedAt": "2017-02-02 14:44:22"
     },
     "113680059831396460315-google": {
         "id": "113680059831396460315-google",

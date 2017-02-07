@@ -1,4 +1,16 @@
 {
+    "1EX__ESbuI": {
+        "id": "1EX__ESbuI",
+        "title": "Продавая незримое. Руководство по современному маркетингу услуг",
+        "author": "Гарри Беквит",
+        "notes": "Как продовать услуги.",
+        "createdAt": "2017-02-07 05:32:35",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 7
+        }
+    },
     "jnvS7P2pVM": {
         "id": "jnvS7P2pVM",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "1606575652891411-facebook",
             "nickname": "Larisa Larisa",
             "booksCount": 13
-        }
-    },
-    "32zsgL21wn": {
-        "id": "32zsgL21wn",
-        "title": "Драматическая медицина (Опыты врачей на себе)",
-        "author": "Глязер Гуго",
-        "notes": "",
-        "createdAt": "2017-02-04 16:58:59",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 135
         }
     }
 }

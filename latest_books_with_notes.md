@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
 * Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
 * Дело о коте привратника ~ [foksik](users/173/1734575-vkontakte)<sup>168</sup>
-* Дело о фальшивом глазе ~ [foksik](users/173/1734575-vkontakte)<sup>167</sup>
 
 
-_07.02.2017 04:22:52_
+_07.02.2017 05:32:35_
