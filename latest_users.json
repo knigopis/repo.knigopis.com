@@ -1,4 +1,10 @@
 {
+    "145607147-vkontakte": {
+        "id": "145607147-vkontakte",
+        "nickname": "Maksim",
+        "booksCount": 0,
+        "updatedAt": "2017-02-07 19:01:49"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Maelys Stendhal",
         "booksCount": 4,
         "updatedAt": "2017-02-03 08:31:48"
-    },
-    "106080443295631078644-google": {
-        "id": "106080443295631078644-google",
-        "nickname": "ES",
-        "booksCount": 0,
-        "updatedAt": "2017-02-02 19:01:51"
     }
 }
