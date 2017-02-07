@@ -1,4 +1,10 @@
 {
+    "10391886-vkontakte": {
+        "id": "10391886-vkontakte",
+        "nickname": "pamir7289",
+        "booksCount": 0,
+        "updatedAt": "2017-02-07 19:46:11"
+    },
     "145607147-vkontakte": {
         "id": "145607147-vkontakte",
         "nickname": "Maksim",
@@ -172,11 +178,5 @@
         "nickname": "Arrrghh",
         "booksCount": 0,
         "updatedAt": "2017-02-03 19:18:37"
-    },
-    "152183909-vkontakte": {
-        "id": "152183909-vkontakte",
-        "nickname": "Maelys Stendhal",
-        "booksCount": 4,
-        "updatedAt": "2017-02-03 08:31:48"
     }
 }
