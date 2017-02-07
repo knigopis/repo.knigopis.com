@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
+    > Грязь
+
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
     > Как продовать услуги.
 
@@ -15,8 +18,6 @@ Do not use pull requests to make changes here.
     > "В натуральном виде счастье всегда выглядит убого рядом с цветистыми прикрасами несчастья. И, разумеется, стабильность куда менее колоритна, чем нестабильность. А удовлетворенность совершенно лишена романтики сражений со злым роком, нет здесь красочной борьбы с соблазном, нет ореола гибельных сомнений и страстей. Счастье лишено грандиозных эффектов."
 
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
-    > 14-149 Мыныческие бой.
-    > Книга краткой очерк о Корнилове, Краснове, Врангеле,Деникине, Юдениче
 
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 
@@ -30,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 
-* Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>7</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
@@ -66,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
 [ES](users/106/106080443295631078644-google)<sup>0</sup> 
 [yulyaignatowa](users/853/85303248-vkontakte)<sup>0</sup> 
-[irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
 
 
-_07.02.2017 13:27:51_
+_07.02.2017 17:31:03_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
 * Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
 * Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
-* Дело о коте привратника ~ [foksik](users/173/1734575-vkontakte)<sup>168</sup>
 
 
-_07.02.2017 05:32:35_
+_07.02.2017 17:31:03_

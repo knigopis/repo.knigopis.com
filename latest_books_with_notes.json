@@ -1,4 +1,16 @@
 {
+    "rXst6YgTfq": {
+        "id": "rXst6YgTfq",
+        "title": "Западня",
+        "author": "Э.Золя",
+        "notes": "Грязь",
+        "createdAt": "2017-02-07 17:31:03",
+        "user": {
+            "id": "3211454-vkontakte",
+            "nickname": "myyspecht",
+            "booksCount": 1
+        }
+    },
     "1EX__ESbuI": {
         "id": "1EX__ESbuI",
         "title": "Продавая незримое. Руководство по современному маркетингу услуг",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 169
-        }
-    },
-    "8JLw4fx63Y": {
-        "id": "8JLw4fx63Y",
-        "title": "Дело о коте привратника",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:46:04",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 168
         }
     }
 }
