@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>30</sup>
+# Список прочитанных книг пользователя exulted<sup>31</sup>
 ---
 
 ## 2017
+
+### Savage Continent: Europe in the Aftermath of World War II
+Keith Lowe
+> [2017-02-04] ASIN: B006ZL9C8E
+
 
 ### Я была на войне
 Матвеева Мария Ивановна

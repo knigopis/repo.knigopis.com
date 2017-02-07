@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 31,
+        "updatedAt": "2017-02-07 17:52:26"
+    },
     "3211454-vkontakte": {
         "id": "3211454-vkontakte",
         "nickname": "myyspecht",
@@ -172,11 +178,5 @@
         "nickname": "ES",
         "booksCount": 0,
         "updatedAt": "2017-02-02 19:01:51"
-    },
-    "85303248-vkontakte": {
-        "id": "85303248-vkontakte",
-        "nickname": "yulyaignatowa",
-        "booksCount": 0,
-        "updatedAt": "2017-02-02 18:23:38"
     }
 }

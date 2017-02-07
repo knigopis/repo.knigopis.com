@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
 * Собака которая выла ~ [foksik](users/173/1734575-vkontakte)<sup>171</sup>
 * Дело о племяннице лунатика ~ [foksik](users/173/1734575-vkontakte)<sup>170</sup>
-* Дело заикающегося епископа ~ [foksik](users/173/1734575-vkontakte)<sup>169</sup>
 
 
-_07.02.2017 17:31:03_
+_07.02.2017 17:52:26_
