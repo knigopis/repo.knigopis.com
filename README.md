@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>32</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
 [Maelys Stendhal](users/152/152183909-vkontakte)<sup>4</sup> 
-[ES](users/106/106080443295631078644-google)<sup>0</sup> 
 
 
-_07.02.2017 17:54:50_
+_07.02.2017 19:01:51_
