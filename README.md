@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>7</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
 [Elena](users/459/459594264-yandex)<sup>3</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>500</sup> 
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [irretelis](users/113/113680059831396460315-google)<sup>0</sup> 
 
 
-_07.02.2017 05:32:35_
+_07.02.2017 13:27:51_

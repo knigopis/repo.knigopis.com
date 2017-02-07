@@ -1,4 +1,16 @@
 {
+    "qfJpMK3ID_": {
+        "id": "qfJpMK3ID_",
+        "title": "Кошки-мышки",
+        "author": "Гюнтер Грасс",
+        "notes": "",
+        "createdAt": "2017-02-07 13:27:50",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 501
+        }
+    },
     "1EX__ESbuI": {
         "id": "1EX__ESbuI",
         "title": "Продавая незримое. Руководство по современному маркетингу услуг",
@@ -345,18 +357,6 @@
             "id": "1606575652891411-facebook",
             "nickname": "Larisa Larisa",
             "booksCount": 14
-        }
-    },
-    "_tDfgsbPky": {
-        "id": "_tDfgsbPky",
-        "title": "Год в Провансе",
-        "author": "Питер Мэйл",
-        "notes": "",
-        "createdAt": "2017-02-04 18:09:15",
-        "user": {
-            "id": "1606575652891411-facebook",
-            "nickname": "Larisa Larisa",
-            "booksCount": 13
         }
     }
 }
