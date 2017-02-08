@@ -1,4 +1,10 @@
 {
+    "269883500-twitter": {
+        "id": "269883500-twitter",
+        "nickname": "chapleeen",
+        "booksCount": 0,
+        "updatedAt": "2017-02-08 21:01:44"
+    },
     "3211454-vkontakte": {
         "id": "3211454-vkontakte",
         "nickname": "myyspecht",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 23,
         "updatedAt": "2017-02-04 04:31:08"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 138,
-        "updatedAt": "2017-02-04 03:46:00"
     }
 }
