@@ -1,4 +1,16 @@
 {
+    "F98zFFyqgv": {
+        "id": "F98zFFyqgv",
+        "title": "",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-02-08 21:02:47",
+        "user": {
+            "id": "269883500-twitter",
+            "nickname": "chapleeen",
+            "booksCount": 1
+        }
+    },
     "_H15FEM36P": {
         "id": "_H15FEM36P",
         "title": "Жутко громко и запредельно близко",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 241
-        }
-    },
-    "hrYz_cEZtK": {
-        "id": "hrYz_cEZtK",
-        "title": "Возвращение со звезд",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-02-05 06:10:21",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 93
         }
     }
 }
