@@ -48,6 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[chapleeen](users/269/269883500-twitter)<sup>0</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kosmos_anya](users/216/216683763-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
-[lucius](users/838/83820536-yandex)<sup>138</sup> 
 
 
-_08.02.2017 16:40:22_
+_08.02.2017 21:01:45_
