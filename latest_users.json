@@ -1,4 +1,10 @@
 {
+    "73529875-vkontakte": {
+        "id": "73529875-vkontakte",
+        "nickname": "Татьяна",
+        "booksCount": 1,
+        "updatedAt": "2017-02-08 12:00:20"
+    },
     "111223381196748176136-google": {
         "id": "111223381196748176136-google",
         "nickname": "Иван",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 42,
         "updatedAt": "2017-02-03 20:06:54"
-    },
-    "314964649-yandex": {
-        "id": "314964649-yandex",
-        "nickname": "Arrrghh",
-        "booksCount": 0,
-        "updatedAt": "2017-02-03 19:18:37"
     }
 }

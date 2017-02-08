@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
+    > Очень понравилась! Как и первая ее книга "Крылья", так и эта держала до конца. Читается на одном дыхании. Захватывает, постоянно сменяющиеся события и перипетии сюжета не дают заскучать.
+
 * Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
     > релаксации тела
     > умственная релаксация
@@ -27,7 +30,6 @@ Do not use pull requests to make changes here.
     > Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.
 
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
-    > ISBN: 978-5-17-082554-7
 
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 
@@ -41,13 +43,12 @@ Do not use pull requests to make changes here.
 
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 
-* Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>42</sup> 
-[Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
 
 
-_08.02.2017 08:46:10_
+_08.02.2017 12:00:20_
