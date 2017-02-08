@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 * Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
 * Проклятие рубина ~ [foksik](users/173/1734575-vkontakte)<sup>176</sup>
 * Серебряные стрелы ~ [foksik](users/173/1734575-vkontakte)<sup>175</sup>
-* Магический кристалл ~ [foksik](users/173/1734575-vkontakte)<sup>174</sup>
 
 
-_08.02.2017 08:19:41_
+_08.02.2017 08:46:10_

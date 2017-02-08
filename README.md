@@ -5,6 +5,24 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
+    > релаксации тела
+    > умственная релаксация
+    > представление мысленных образов
+    > визуализации двери в незримый мир
+    > управляемое воображение
+    > использование аффирмаций
+    > визуализация белого света
+    > расширение горизонтов сознания
+    > чувство любви к вселенной
+    > все планы действий и упражнения
+    > 
+    > Вселенский банк
+    > Курорт вечной жизни
+    > Вселенский Храм мудрости
+    > Вселенский рынок
+    > вход в город
+
 * Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
     > Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.
 
@@ -12,7 +30,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-082554-7
 
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
-    > ASIN: B006ZL9C8E
 
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
 
@@ -26,14 +43,12 @@ Do not use pull requests to make changes here.
 
 * Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
 
-* Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Иван](users/111/111223381196748176136-google)<sup>8</sup> 
+[Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>32</sup> 
@@ -65,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
 
 
-_08.02.2017 08:19:41_
+_08.02.2017 08:46:10_
