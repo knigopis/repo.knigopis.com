@@ -48,13 +48,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[myyspecht](users/321/3211454-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>32</sup> 
-[myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
@@ -80,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
 
 
-_08.02.2017 13:01:09_
+_08.02.2017 16:40:16_
