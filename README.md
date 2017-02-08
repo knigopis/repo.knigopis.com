@@ -48,7 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[myyspecht](users/321/3211454-vkontakte)<sup>2</sup> 
+[myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
@@ -80,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
 
 
-_08.02.2017 16:40:16_
+_08.02.2017 16:40:22_
