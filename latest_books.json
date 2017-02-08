@@ -1,4 +1,16 @@
 {
+    "25MYddqjic": {
+        "id": "25MYddqjic",
+        "title": "Северное сияние",
+        "author": "Филип Пулман",
+        "notes": "",
+        "createdAt": "2017-02-08 13:01:08",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 89
+        }
+    },
     "LE0tmGgRrQ": {
         "id": "LE0tmGgRrQ",
         "title": "Гончие Лилит",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 297
-        }
-    },
-    "OzJmyRbbuq": {
-        "id": "OzJmyRbbuq",
-        "title": "Право первой ночи",
-        "author": "Юлия Архарова",
-        "notes": "",
-        "createdAt": "2017-02-04 20:58:56",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 296
         }
     }
 }

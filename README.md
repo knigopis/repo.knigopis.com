@@ -48,6 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>138</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>42</sup> 
 
 
-_08.02.2017 12:03:20_
+_08.02.2017 13:01:09_
