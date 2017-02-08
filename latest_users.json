@@ -1,4 +1,10 @@
 {
+    "311057796-yandex": {
+        "id": "311057796-yandex",
+        "nickname": "pkisarov001",
+        "booksCount": 23,
+        "updatedAt": "2017-02-08 21:54:19"
+    },
     "227702070-vkontakte": {
         "id": "227702070-vkontakte",
         "nickname": "ycat2013",
@@ -172,11 +178,5 @@
         "nickname": "kosmos_anya",
         "booksCount": 0,
         "updatedAt": "2017-02-04 17:09:22"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 135,
-        "updatedAt": "2017-02-04 16:58:59"
     }
 }

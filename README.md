@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
+    > Знали ли вы, что беспроводной факс применялся еще в Первую Мировую Войну? Что современные снаряды НАТО изобрели в 30-е годы а потом "забыли"? Автор сквозь призму своего мистического мировоззрения обосновывает идею об управлении историей через торможение прогресса в сфере вооружений.
+
 * Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
     > Очень понравилась! Как и первая ее книга "Крылья", так и эта держала до конца. Читается на одном дыхании. Захватывает, постоянно сменяющиеся события и перипетии сюжета не дают заскучать.
 
@@ -27,7 +30,6 @@ Do not use pull requests to make changes here.
     > вход в город
 
 * Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
-    > Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.
 
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
 
@@ -41,13 +43,12 @@ Do not use pull requests to make changes here.
 
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
 
-* Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pkisarov001](users/311/311057796-yandex)<sup>23</sup> 
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup> 
 [Larisa Larisa](users/160/1606575652891411-facebook)<sup>17</sup> 
 [kosmos_anya](users/216/216683763-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>135</sup> 
 
 
-_08.02.2017 21:29:07_
+_08.02.2017 21:54:19_
