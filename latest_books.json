@@ -1,4 +1,16 @@
 {
+    "CbtItdZhGl": {
+        "id": "CbtItdZhGl",
+        "title": "Думай и богатей!",
+        "author": "Наполеон Хилл",
+        "notes": "Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.",
+        "createdAt": "2017-02-08 08:19:41",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 8
+        }
+    },
     "KN1BvXDTer": {
         "id": "KN1BvXDTer",
         "title": "Между Европой и Азией. История Российского государства. Семнадцатый век.",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 69
-        }
-    },
-    "72qVtNqUu4": {
-        "id": "72qVtNqUu4",
-        "title": "Обитель",
-        "author": "Прилепин Захар",
-        "notes": "",
-        "createdAt": "2017-02-04 18:13:40",
-        "user": {
-            "id": "1606575652891411-facebook",
-            "nickname": "Larisa Larisa",
-            "booksCount": 17
         }
     }
 }

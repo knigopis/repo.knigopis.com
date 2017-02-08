@@ -1,4 +1,16 @@
 {
+    "CbtItdZhGl": {
+        "id": "CbtItdZhGl",
+        "title": "Думай и богатей!",
+        "author": "Наполеон Хилл",
+        "notes": "Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.",
+        "createdAt": "2017-02-08 08:19:41",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 8
+        }
+    },
     "KN1BvXDTer": {
         "id": "KN1BvXDTer",
         "title": "Между Европой и Азией. История Российского государства. Семнадцатый век.",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 174
-        }
-    },
-    "4soiqtVSE5": {
-        "id": "4soiqtVSE5",
-        "title": "Собака которая выла",
-        "author": "Эрл Стенли",
-        "notes": "Перри Мейсон",
-        "createdAt": "2017-01-28 16:47:13",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 171
         }
     }
 }

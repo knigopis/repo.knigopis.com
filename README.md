@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
+    > Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.
+
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
     > ISBN: 978-5-17-082554-7
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B006ZL9C8E
 
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
-    > Грязь
 
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
 
-* Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>8</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>32</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
-[Иван](users/111/111223381196748176136-google)<sup>7</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Arrrghh](users/314/314964649-yandex)<sup>0</sup> 
 
 
-_07.02.2017 19:46:11_
+_08.02.2017 08:19:41_
