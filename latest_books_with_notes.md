@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
 * Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Как работать по 4 часа в неделю и при этом не торчать в офисе "от звонка до звонка", жить где угодно и богатеть ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 * 451 градус по Фаренгейту ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>68</sup>
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
-* Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
 
 
-_09.02.2017 18:19:42_
+_09.02.2017 22:19:32_
