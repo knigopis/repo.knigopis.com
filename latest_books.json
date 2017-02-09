@@ -1,4 +1,16 @@
 {
+    "NLGAHmPlGZ": {
+        "id": "NLGAHmPlGZ",
+        "title": "Псы Тиндала",
+        "author": "Фрэнк Белнап Лонг",
+        "notes": "",
+        "createdAt": "2017-02-09 23:33:43",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 101
+        }
+    },
     "SNUdWFIlDB": {
         "id": "SNUdWFIlDB",
         "title": "Хозяйка пансиона",
@@ -345,18 +357,6 @@
             "id": "5622196-vkontakte",
             "nickname": "slavanaum",
             "booksCount": 1
-        }
-    },
-    "ch3pBDapzu": {
-        "id": "ch3pBDapzu",
-        "title": "Убийство Роджера Экройда",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-02-06 01:59:41",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 65
         }
     }
 }
