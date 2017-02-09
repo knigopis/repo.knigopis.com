@@ -48,7 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Пчёлка](users/703/70343728-vkontakte)<sup>1</sup> 
+[Пчёлка](users/703/70343728-vkontakte)<sup>0</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>23</sup> 
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
@@ -80,4 +80,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Larisa Larisa](users/160/1606575652891411-facebook)<sup>17</sup> 
 
 
-_09.02.2017 03:23:00_
+_09.02.2017 03:24:23_
