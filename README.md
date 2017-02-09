@@ -48,6 +48,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KitKat](users/106/106703315109940761280-google)<sup>0</sup> 
 [Пчёлка](users/703/70343728-vkontakte)<sup>2</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>23</sup> 
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
@@ -77,7 +78,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>93</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>297</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup> 
-[Larisa Larisa](users/160/1606575652891411-facebook)<sup>17</sup> 
 
 
-_09.02.2017 03:38:26_
+_09.02.2017 10:35:26_
