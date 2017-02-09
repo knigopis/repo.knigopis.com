@@ -1,4 +1,10 @@
 {
+    "70343728-vkontakte": {
+        "id": "70343728-vkontakte",
+        "nickname": "Пчёлка",
+        "booksCount": 0,
+        "updatedAt": "2017-02-09 03:17:28"
+    },
     "311057796-yandex": {
         "id": "311057796-yandex",
         "nickname": "pkisarov001",
@@ -172,11 +178,5 @@
         "nickname": "Larisa Larisa",
         "booksCount": 17,
         "updatedAt": "2017-02-04 18:13:40"
-    },
-    "216683763-vkontakte": {
-        "id": "216683763-vkontakte",
-        "nickname": "kosmos_anya",
-        "booksCount": 0,
-        "updatedAt": "2017-02-04 17:09:22"
     }
 }
