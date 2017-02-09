@@ -1,4 +1,10 @@
 {
+    "106703315109940761280-google": {
+        "id": "106703315109940761280-google",
+        "nickname": "KitKat",
+        "booksCount": 0,
+        "updatedAt": "2017-02-09 10:35:25"
+    },
     "70343728-vkontakte": {
         "id": "70343728-vkontakte",
         "nickname": "Пчёлка",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 70,
         "updatedAt": "2017-02-04 18:42:00"
-    },
-    "1606575652891411-facebook": {
-        "id": "1606575652891411-facebook",
-        "nickname": "Larisa Larisa",
-        "booksCount": 17,
-        "updatedAt": "2017-02-04 18:13:40"
     }
 }
