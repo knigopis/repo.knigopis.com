@@ -1,4 +1,16 @@
 {
+    "y-WMEM_XqI": {
+        "id": "y-WMEM_XqI",
+        "title": "Король Чума",
+        "author": "Эдгар Алан По",
+        "notes": "",
+        "createdAt": "2017-02-09 22:18:29",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 99
+        }
+    },
     "JhbZlZsJ_-": {
         "id": "JhbZlZsJ_-",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 500
-        }
-    },
-    "XZ6X5uF3n-": {
-        "id": "XZ6X5uF3n-",
-        "title": "Умри завтра",
-        "author": "Питер Джеймс",
-        "notes": "",
-        "createdAt": "2017-02-05 16:31:47",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 24
         }
     }
 }
