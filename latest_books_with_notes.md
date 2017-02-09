@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 * Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
 * Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Путь к рассвету ~ [foksik](users/173/1734575-vkontakte)<sup>180</sup>
 * Темное наследие ~ [foksik](users/173/1734575-vkontakte)<sup>179</sup>
 * Нашествие тьмы ~ [foksik](users/173/1734575-vkontakte)<sup>178</sup>
-* Беззвездная ночь ~ [foksik](users/173/1734575-vkontakte)<sup>177</sup>
 
 
-_08.02.2017 21:54:19_
+_09.02.2017 16:25:59_

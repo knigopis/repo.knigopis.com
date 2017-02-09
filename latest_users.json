@@ -1,4 +1,10 @@
 {
+    "100003094239547-facebook": {
+        "id": "100003094239547-facebook",
+        "nickname": "igor1980",
+        "booksCount": 8,
+        "updatedAt": "2017-02-09 16:25:59"
+    },
     "106703315109940761280-google": {
         "id": "106703315109940761280-google",
         "nickname": "KitKat",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 297,
         "updatedAt": "2017-02-04 20:59:47"
-    },
-    "219259003-vkontakte": {
-        "id": "219259003-vkontakte",
-        "nickname": "victoria_spilioti",
-        "booksCount": 70,
-        "updatedAt": "2017-02-04 18:42:00"
     }
 }
