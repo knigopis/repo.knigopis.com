@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 136,
+        "updatedAt": "2017-02-09 18:19:41"
+    },
     "100003094239547-facebook": {
         "id": "100003094239547-facebook",
         "nickname": "igor1980",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 93,
         "updatedAt": "2017-02-05 06:10:21"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 297,
-        "updatedAt": "2017-02-04 20:59:47"
     }
 }
