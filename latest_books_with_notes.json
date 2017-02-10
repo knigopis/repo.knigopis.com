@@ -1,4 +1,16 @@
 {
+    "7VsnuuX-PM": {
+        "id": "7VsnuuX-PM",
+        "title": "Террор",
+        "author": "Дэн Симмонс",
+        "notes": "Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.",
+        "createdAt": "2017-02-10 13:18:58",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 13
+        }
+    },
     "SNUdWFIlDB": {
         "id": "SNUdWFIlDB",
         "title": "Хозяйка пансиона",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 68
-        }
-    },
-    "OYCjy2_rvD": {
-        "id": "OYCjy2_rvD",
-        "title": "Путь к рассвету",
-        "author": "Роберт Сальваторе",
-        "notes": "Дзирт Уоррен",
-        "createdAt": "2017-01-28 16:52:57",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 180
         }
     }
 }

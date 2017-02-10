@@ -1,4 +1,16 @@
 {
+    "7VsnuuX-PM": {
+        "id": "7VsnuuX-PM",
+        "title": "Террор",
+        "author": "Дэн Симмонс",
+        "notes": "Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.",
+        "createdAt": "2017-02-10 13:18:58",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 13
+        }
+    },
     "NLGAHmPlGZ": {
         "id": "NLGAHmPlGZ",
         "title": "Псы Тиндала",
@@ -345,18 +357,6 @@
             "id": "5622196-vkontakte",
             "nickname": "slavanaum",
             "booksCount": 2
-        }
-    },
-    "09AZAl0mTr": {
-        "id": "09AZAl0mTr",
-        "title": "Мила и Муслим: Музыка для двоих. Мемуары",
-        "author": "Людмила Караева",
-        "notes": "",
-        "createdAt": "2017-02-06 13:09:59",
-        "user": {
-            "id": "5622196-vkontakte",
-            "nickname": "slavanaum",
-            "booksCount": 1
         }
     }
 }

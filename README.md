@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
+    > Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.
+
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
     > 5 из 10
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Повествование ведется от лица маленькой девочки. Стоит прочесть книгу, чтобы взглянуть на  приходящие события в провинциальном городке глазами детей и в очередной раз недоумевать, почему людей судят только за то, что у них другая религия, другие взгляды на жизнь или другой цвет кожи.
 
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
-    > Неплохая книга для начинающих программистов либо для самоучек со стажем, которые хотят развиваться в правильном направлении, а не как попало. Есть 15-20 дельных советов, ради которых стоило прочитать данную книгу. Читая данную книгу, я преследовал несколько целей: занять своё время чем-то полезным по дороге на работу, повысить уровень английского и читать с пользой, а не ради развлечения.
 
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 
-* Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
 [lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>26</sup> 
 
 
-_10.02.2017 05:08:07_
+_10.02.2017 13:18:58_
