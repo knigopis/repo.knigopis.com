@@ -1,4 +1,10 @@
 {
+    "100007627924096-facebook": {
+        "id": "100007627924096-facebook",
+        "nickname": "lektorovich",
+        "booksCount": 0,
+        "updatedAt": "2017-02-10 05:08:05"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 26,
         "updatedAt": "2017-02-05 15:47:12"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 242,
-        "updatedAt": "2017-02-05 07:02:47"
     }
 }
