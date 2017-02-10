@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>8</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>23</sup> 
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>242</sup> 
 
 
-_09.02.2017 23:33:43_
+_10.02.2017 05:08:07_
