@@ -1,4 +1,16 @@
 {
+    "L1TxafCuuE": {
+        "id": "L1TxafCuuE",
+        "title": "Страх и отвращение в Лас-Вегасе",
+        "author": "Хантер Стоктон Томпсон",
+        "notes": "",
+        "createdAt": "2017-02-10 23:01:32",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 24
+        }
+    },
     "7VsnuuX-PM": {
         "id": "7VsnuuX-PM",
         "title": "Террор",
@@ -345,18 +357,6 @@
             "id": "459594264-yandex",
             "nickname": "Elena",
             "booksCount": 3
-        }
-    },
-    "sslai33ocL": {
-        "id": "sslai33ocL",
-        "title": "Когда дыхание растворяется в воздухе",
-        "author": "Пол Каланити",
-        "notes": "Пол Каланити – талантливый врач-нейрохирург, который написал книгу о своем неизлечимом раке и последних минутах своей жизни.",
-        "createdAt": "2017-02-06 13:12:49",
-        "user": {
-            "id": "5622196-vkontakte",
-            "nickname": "slavanaum",
-            "booksCount": 2
         }
     }
 }

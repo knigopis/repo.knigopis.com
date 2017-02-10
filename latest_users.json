@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 24,
+        "updatedAt": "2017-02-10 23:01:32"
+    },
     "117124011531379579265-google": {
         "id": "117124011531379579265-google",
         "nickname": "pimanocci",
@@ -166,12 +172,6 @@
         "nickname": "Fake",
         "booksCount": 0,
         "updatedAt": "2017-02-05 19:07:19"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 23,
-        "updatedAt": "2017-02-05 16:31:54"
     },
     "109475351013352061791-google": {
         "id": "109475351013352061791-google",
