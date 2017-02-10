@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
+[Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
 [lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 
 
-_10.02.2017 23:02:55_
+_10.02.2017 23:03:06_
