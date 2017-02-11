@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stvmxm](users/436/4366644796-twitter)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elena](users/459/459594264-yandex)<sup>3</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
 [Fake](users/178/178468540-vkontakte)<sup>0</sup> 
-[Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 
 
-_11.02.2017 07:59:09_
+_11.02.2017 10:49:31_
