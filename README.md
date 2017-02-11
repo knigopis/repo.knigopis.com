@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
+    > ASIN: B00QJ29DPQ
+
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
     > Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 5 из 10
 
 * Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
-    > США времён Великой депрессии, южный штат Алабама. Расовые  предрассудки, не смотря на отмену рабства, все еще доминируют в обществе. К тому же "приличные люди из хороших семей" в штыки воспринимают любые отклонения от привычного им поведения других людей. 
-    > Повествование ведется от лица маленькой девочки. Стоит прочесть книгу, чтобы взглянуть на  приходящие события в провинциальном городке глазами детей и в очередной раз недоумевать, почему людей судят только за то, что у них другая религия, другие взгляды на жизнь или другой цвет кожи.
 
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
 
-* Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
 [lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
@@ -51,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>32</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dragonfly](users/109/109475351013352061791-google)<sup>2</sup> 
 
 
-_10.02.2017 23:03:06_
+_11.02.2017 07:59:09_

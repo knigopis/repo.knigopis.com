@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>32</sup>
+# Список прочитанных книг пользователя exulted<sup>33</sup>
 ---
 
 ## 2017
+
+### The Sea Wolves: A History of the Vikings
+Lars Brownworth
+> [2017-02-11] ASIN: B00QJ29DPQ
+
 
 ### Savage Continent: Europe in the Aftermath of World War II
 Keith Lowe

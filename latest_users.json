@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 33,
+        "updatedAt": "2017-02-11 07:59:08"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -100,12 +106,6 @@
         "nickname": "Maksim",
         "booksCount": 0,
         "updatedAt": "2017-02-07 19:01:49"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 32,
-        "updatedAt": "2017-02-07 17:54:50"
     },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",

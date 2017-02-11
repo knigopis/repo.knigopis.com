@@ -1,4 +1,16 @@
 {
+    "5xg1_iWJ2i": {
+        "id": "5xg1_iWJ2i",
+        "title": "The Sea Wolves: A History of the Vikings",
+        "author": "Lars Brownworth",
+        "notes": "ASIN: B00QJ29DPQ",
+        "createdAt": "2017-02-11 07:59:08",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 33
+        }
+    },
     "oG17u6LPSA": {
         "id": "oG17u6LPSA",
         "title": "Страх и отвращение в Лас-Вегасе",
@@ -344,18 +356,6 @@
         "user": {
             "id": "5622196-vkontakte",
             "nickname": "slavanaum",
-            "booksCount": 3
-        }
-    },
-    "iaEq4nfGF3": {
-        "id": "iaEq4nfGF3",
-        "title": "До встречи с тобой",
-        "author": "Джорджо Мойес",
-        "notes": "",
-        "createdAt": "2017-02-06 13:58:20",
-        "user": {
-            "id": "459594264-yandex",
-            "nickname": "Elena",
             "booksCount": 3
         }
     }
