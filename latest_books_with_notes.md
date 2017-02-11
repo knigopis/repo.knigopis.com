@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Результативный Тайм-Менеджмент ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 * Перекрестки сумерек ~ [Garka](users/115/115753719718250012620-google)<sup>134</sup>
 * Тринадцатая сказка ~ [Беска](users/157/1577468-vkontakte)<sup>24</sup>
-* Тесс из рода дЭрбервилей ~ [Euphoria](users/106/106304994652616315178-google)<sup>61</sup>
 
 
-_11.02.2017 16:05:50_
+_11.02.2017 16:43:54_

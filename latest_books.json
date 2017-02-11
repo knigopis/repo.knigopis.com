@@ -1,4 +1,16 @@
 {
+    "xiDPvMELYf": {
+        "id": "xiDPvMELYf",
+        "title": "Тайна старинного меда и чем питались наши предки",
+        "author": "Галимов И. З.",
+        "notes": "Берите ответственность за свое здоровье. Перезашлаковка.\nВосстановление питания!",
+        "createdAt": "2017-02-11 16:43:54",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 44
+        }
+    },
     "J2hh4IuZ-H": {
         "id": "J2hh4IuZ-H",
         "title": "Есть ли у вас время на успех?",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 18
-        }
-    },
-    "h-b4pnwsBn": {
-        "id": "h-b4pnwsBn",
-        "title": "Ревизор",
-        "author": "Н. Гоголь",
-        "notes": "",
-        "createdAt": "2017-02-06 15:06:13",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiri",
-            "booksCount": 30
         }
     }
 }

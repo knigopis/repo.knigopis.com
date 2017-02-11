@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
+    > Берите ответственность за свое здоровье. Перезашлаковка.
+    > Восстановление питания!
+
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
     > Простая мотивирующая книга как и сотни других.
     > Жизнь простая, но не легкая.
@@ -18,7 +22,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00QJ29DPQ
 
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
-    > Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.
 
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
 
@@ -32,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 
-* Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>43</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>44</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
@@ -71,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
 
 
-_11.02.2017 16:05:50_
+_11.02.2017 16:43:54_
