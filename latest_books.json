@@ -1,4 +1,16 @@
 {
+    "DZZ_w2-S4y": {
+        "id": "DZZ_w2-S4y",
+        "title": "Пикник на обочине",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-02-11 10:50:12",
+        "user": {
+            "id": "4366644796-twitter",
+            "nickname": "stvmxm",
+            "booksCount": 1
+        }
+    },
     "5xg1_iWJ2i": {
         "id": "5xg1_iWJ2i",
         "title": "The Sea Wolves: A History of the Vikings",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiri",
             "booksCount": 29
-        }
-    },
-    "SfAeIL3Tfc": {
-        "id": "SfAeIL3Tfc",
-        "title": "Расколотое я",
-        "author": "Лейнг Рональд Девид",
-        "notes": "Замечательная книга о душе и шизофрении",
-        "createdAt": "2017-02-06 14:02:40",
-        "user": {
-            "id": "5622196-vkontakte",
-            "nickname": "slavanaum",
-            "booksCount": 3
         }
     }
 }
