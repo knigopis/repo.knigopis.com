@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 43,
+        "updatedAt": "2017-02-11 16:05:50"
+    },
     "4366644796-twitter": {
         "id": "4366644796-twitter",
         "nickname": "stvmxm",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 65,
         "updatedAt": "2017-02-06 01:59:41"
-    },
-    "178468540-vkontakte": {
-        "id": "178468540-vkontakte",
-        "nickname": "Fake",
-        "booksCount": 0,
-        "updatedAt": "2017-02-05 19:07:19"
     }
 }

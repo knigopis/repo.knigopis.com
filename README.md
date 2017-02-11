@@ -5,6 +5,15 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
+    > Простая мотивирующая книга как и сотни других.
+    > Жизнь простая, но не легкая.
+    > 1. Определить цель. Чего вы хотите в жизни. Принять решение. Управление - это ключ к нашей жизни.
+    > 2. Время - ключ к вашему успеху.
+    > 3. Получение правильной инфы
+    > 4. Цели имеют смысл и они должны быть адекватные и достижимые со сроками,  а также записаны. Цельтесь изначально высоко.
+    > Все зависит  только от вас.
+
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
     > ASIN: B00QJ29DPQ
 
@@ -12,7 +21,6 @@ Do not use pull requests to make changes here.
     > Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.
 
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
-    > 5 из 10
 
 * Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
 
@@ -26,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 
-* Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>43</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
@@ -62,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
 [Elena](users/459/459594264-yandex)<sup>3</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
-[Fake](users/178/178468540-vkontakte)<sup>0</sup> 
 
 
-_11.02.2017 10:50:12_
+_11.02.2017 16:05:50_
