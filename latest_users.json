@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 0,
+        "updatedAt": "2017-02-12 14:25:52"
+    },
     "333274180-vkontakte": {
         "id": "333274180-vkontakte",
         "nickname": "stenya",
@@ -172,11 +178,5 @@
         "nickname": "raikiri",
         "booksCount": 30,
         "updatedAt": "2017-02-06 15:06:13"
-    },
-    "5622196-vkontakte": {
-        "id": "5622196-vkontakte",
-        "nickname": "slavanaum",
-        "booksCount": 3,
-        "updatedAt": "2017-02-06 14:02:40"
     }
 }
