@@ -1,4 +1,10 @@
 {
+    "333274180-vkontakte": {
+        "id": "333274180-vkontakte",
+        "nickname": "stenya",
+        "booksCount": 0,
+        "updatedAt": "2017-02-12 13:10:12"
+    },
     "100554758027116246692-google": {
         "id": "100554758027116246692-google",
         "nickname": "Un-gern",
@@ -172,11 +178,5 @@
         "nickname": "slavanaum",
         "booksCount": 3,
         "updatedAt": "2017-02-06 14:02:40"
-    },
-    "459594264-yandex": {
-        "id": "459594264-yandex",
-        "nickname": "Elena",
-        "booksCount": 3,
-        "updatedAt": "2017-02-06 13:58:20"
     }
 }
