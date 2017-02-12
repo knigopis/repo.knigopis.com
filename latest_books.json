@@ -1,4 +1,16 @@
 {
+    "Az8bu9JVg5": {
+        "id": "Az8bu9JVg5",
+        "title": "И ботаники делают бизнес",
+        "author": "Максим Котин",
+        "notes": "",
+        "createdAt": "2017-02-12 13:11:03",
+        "user": {
+            "id": "333274180-vkontakte",
+            "nickname": "stenya",
+            "booksCount": 1
+        }
+    },
     "xiDPvMELYf": {
         "id": "xiDPvMELYf",
         "title": "Тайна старинного меда и чем питались наши предки",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 19
-        }
-    },
-    "_9tSCBqcYM": {
-        "id": "_9tSCBqcYM",
-        "title": "Донские генералы",
-        "author": "Венков,шишков",
-        "notes": "14-149 Мыныческие бой.\nКнига краткой очерк о Корнилове, Краснове, Врангеле,Деникине, Юдениче",
-        "createdAt": "2017-02-06 15:23:43",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 18
         }
     }
 }
