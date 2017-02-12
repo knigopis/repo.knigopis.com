@@ -1,4 +1,16 @@
 {
+    "IF4wi02G2b": {
+        "id": "IF4wi02G2b",
+        "title": "Беглецы. Неземное сияние",
+        "author": "Крауч Блейк",
+        "notes": "Фантастика.  Ерунда, но бывает и хуже.",
+        "createdAt": "2017-02-12 14:29:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 1
+        }
+    },
     "Az8bu9JVg5": {
         "id": "Az8bu9JVg5",
         "title": "И ботаники делают бизнес",
@@ -345,18 +357,6 @@
             "id": "35080115-vkontakte",
             "nickname": "otakukeeper",
             "booksCount": 2
-        }
-    },
-    "pck4QnZLsF": {
-        "id": "pck4QnZLsF",
-        "title": "газета Казак 2013г.№5(Краснощеков) №6(П.Карташов.зав.отделом окружного исполкома)",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-02-06 15:25:26",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 19
         }
     }
 }
