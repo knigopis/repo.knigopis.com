@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stenya](users/333/333274180-vkontakte)<sup>0</sup> 
 [Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>19</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>30</sup> 
 [slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
-[Elena](users/459/459594264-yandex)<sup>3</sup> 
 
 
-_12.02.2017 12:10:17_
+_12.02.2017 13:10:13_
