@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [raikiri](users/384/384194935-vkontakte)<sup>30</sup> 
 [slavanaum](users/562/5622196-vkontakte)<sup>3</sup> 
 [Elena](users/459/459594264-yandex)<sup>3</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>65</sup> 
 
 
-_11.02.2017 16:43:54_
+_12.02.2017 12:10:17_
