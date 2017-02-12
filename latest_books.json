@@ -1,4 +1,16 @@
 {
+    "ujXt3gv9Nq": {
+        "id": "ujXt3gv9Nq",
+        "title": "Бумажный занавес,  стеклянная корона",
+        "author": "Михалкова",
+        "notes": "",
+        "createdAt": "2017-02-12 14:31:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 2
+        }
+    },
     "IF4wi02G2b": {
         "id": "IF4wi02G2b",
         "title": "Беглецы. Неземное сияние",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 51
-        }
-    },
-    "8MRF2XzgHc": {
-        "id": "8MRF2XzgHc",
-        "title": "Кхарн Пожиратель Миров",
-        "author": "Энтони Рейнольдс",
-        "notes": "",
-        "createdAt": "2017-02-06 18:09:46",
-        "user": {
-            "id": "35080115-vkontakte",
-            "nickname": "otakukeeper",
-            "booksCount": 2
         }
     }
 }
