@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
 [Wretched](users/402/402906582-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>502</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
-[otakukeeper](users/350/35080115-vkontakte)<sup>2</sup> 
 
 
-_14.02.2017 13:52:33_
+_14.02.2017 14:24:01_
