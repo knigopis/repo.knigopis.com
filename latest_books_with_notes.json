@@ -1,4 +1,16 @@
 {
+    "fu344fkEuR": {
+        "id": "fu344fkEuR",
+        "title": "Этногенез и биосфера Земли",
+        "author": "Лев Гумилев",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/24205483/",
+        "createdAt": "2017-02-14 23:55:48",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 93
+        }
+    },
     "998QZFJne2": {
         "id": "998QZFJne2",
         "title": "Вторая Мировая война",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 49
-        }
-    },
-    "zeF9sN05J6": {
-        "id": "zeF9sN05J6",
-        "title": "Результативный Тайм-Менеджмент",
-        "author": "Брайн Трейси",
-        "notes": "Кратко. Содержательно. Есть небольшие повторы в принципах.",
-        "createdAt": "2017-01-30 14:59:10",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 9
         }
     }
 }

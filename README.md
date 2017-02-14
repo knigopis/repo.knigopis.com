@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/24205483/
+
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
     > классика в процессе :)
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > Достаточно легко. Немного дурманяще, как будто вино читаешь. Такое приятное послевкусие, сам вкус сначала не особо понимаешь, но потом распробуешь и тянешь
 
 * Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
-    > Берите ответственность за свое здоровье. Перезашлаковка.
-    > Восстановление питания!
 
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 
-* Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
 [birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
 [Wretched](users/402/402906582-vkontakte)<sup>0</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 
 
-_14.02.2017 23:49:46_
+_14.02.2017 23:55:48_
