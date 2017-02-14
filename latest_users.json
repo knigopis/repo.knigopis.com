@@ -1,4 +1,10 @@
 {
+    "118063907048531198648-google": {
+        "id": "118063907048531198648-google",
+        "nickname": "Эдуард",
+        "booksCount": 0,
+        "updatedAt": "2017-02-14 14:24:49"
+    },
     "10453036-vkontakte": {
         "id": "10453036-vkontakte",
         "nickname": "birchenko",
@@ -172,11 +178,5 @@
         "nickname": "faralika",
         "booksCount": 0,
         "updatedAt": "2017-02-06 19:09:28"
-    },
-    "250390719-vkontakte": {
-        "id": "250390719-vkontakte",
-        "nickname": "hddolly",
-        "booksCount": 0,
-        "updatedAt": "2017-02-06 19:05:48"
     }
 }
