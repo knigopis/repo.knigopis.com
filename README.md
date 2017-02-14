@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
+    > Достаточно легко. Немного дурманяще, как будто вино читаешь. Такое приятное послевкусие, сам вкус сначала не особо понимаешь, но потом распробуешь и тянешь
+
 * Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
     > Берите ответственность за свое здоровье. Перезашлаковка.
     > Восстановление питания!
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Все зависит  только от вас.
 
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
-    > ASIN: B00QJ29DPQ
 
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
 
-* Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>27</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>2</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>1</sup> 
 [Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
 [otakukeeper](users/350/35080115-vkontakte)<sup>2</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>19</sup> 
-[raikiri](users/384/384194935-vkontakte)<sup>30</sup> 
 
 
-_12.02.2017 14:31:01_
+_14.02.2017 04:07:47_
