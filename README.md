@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
+    > классика в процессе :)
+
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
     > Достаточно легко. Немного дурманяще, как будто вино читаешь. Такое приятное послевкусие, сам вкус сначала не особо понимаешь, но потом распробуешь и тянешь
 
@@ -13,13 +16,6 @@ Do not use pull requests to make changes here.
     > Восстановление питания!
 
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
-    > Простая мотивирующая книга как и сотни других.
-    > Жизнь простая, но не легкая.
-    > 1. Определить цель. Чего вы хотите в жизни. Принять решение. Управление - это ключ к нашей жизни.
-    > 2. Время - ключ к вашему успеху.
-    > 3. Получение правильной инфы
-    > 4. Цели имеют смысл и они должны быть адекватные и достижимые со сроками,  а также записаны. Цельтесь изначально высоко.
-    > Все зависит  только от вас.
 
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
 
@@ -33,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 
-* Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
 [birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
 [Wretched](users/402/402906582-vkontakte)<sup>0</sup> 
@@ -69,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
-[faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 
 
-_14.02.2017 14:24:49_
+_14.02.2017 23:49:46_
