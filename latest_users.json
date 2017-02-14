@@ -1,4 +1,10 @@
 {
+    "10453036-vkontakte": {
+        "id": "10453036-vkontakte",
+        "nickname": "birchenko",
+        "booksCount": 0,
+        "updatedAt": "2017-02-14 14:24:01"
+    },
     "402906582-vkontakte": {
         "id": "402906582-vkontakte",
         "nickname": "Wretched",
@@ -172,11 +178,5 @@
         "nickname": "hddolly",
         "booksCount": 0,
         "updatedAt": "2017-02-06 19:05:48"
-    },
-    "35080115-vkontakte": {
-        "id": "35080115-vkontakte",
-        "nickname": "otakukeeper",
-        "booksCount": 2,
-        "updatedAt": "2017-02-06 18:09:46"
     }
 }
