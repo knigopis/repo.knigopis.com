@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>501</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>502</sup>
 ---
 
 ## 2017
+
+### Фауст
+Иоганн Вольфганг Гете
+> [2017-02] 
+
 
 ### Кошки-мышки
 Гюнтер Грасс

@@ -1,4 +1,16 @@
 {
+    "hml1uxc1gV": {
+        "id": "hml1uxc1gV",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг Гете",
+        "notes": "",
+        "createdAt": "2017-02-14 09:02:58",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 502
+        }
+    },
     "XAHDDZClxT": {
         "id": "XAHDDZClxT",
         "title": "Ежевичное вино",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 501
-        }
-    },
-    "1EX__ESbuI": {
-        "id": "1EX__ESbuI",
-        "title": "Продавая незримое. Руководство по современному маркетингу услуг",
-        "author": "Гарри Беквит",
-        "notes": "Как продовать услуги.",
-        "createdAt": "2017-02-07 05:32:35",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 7
         }
     }
 }

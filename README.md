@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>502</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>2</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>501</sup> 
 [rNix](users/115/115622071-twitter)<sup>51</sup> 
 [faralika](users/440/44047555-vkontakte)<sup>0</sup> 
 [hddolly](users/250/250390719-vkontakte)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>19</sup> 
 
 
-_14.02.2017 04:07:47_
+_14.02.2017 09:02:58_
