@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 243,
+        "updatedAt": "2017-02-15 04:12:56"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Maksim",
         "booksCount": 0,
         "updatedAt": "2017-02-07 19:01:49"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 51,
-        "updatedAt": "2017-02-07 04:22:52"
     }
 }

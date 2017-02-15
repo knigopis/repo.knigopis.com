@@ -1,4 +1,16 @@
 {
+    "7k9BJKPUps": {
+        "id": "7k9BJKPUps",
+        "title": "Девятый",
+        "author": "Андрей Каменистый",
+        "notes": "",
+        "createdAt": "2017-02-15 04:12:56",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 243
+        }
+    },
     "fu344fkEuR": {
         "id": "fu344fkEuR",
         "title": "Этногенез и биосфера Земли",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 32
-        }
-    },
-    "P2afrcJHtw": {
-        "id": "P2afrcJHtw",
-        "title": "Savage Continent: Europe in the Aftermath of World War II",
-        "author": "Keith Lowe",
-        "notes": "ASIN: B006ZL9C8E",
-        "createdAt": "2017-02-07 17:52:26",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 31
         }
     }
 }

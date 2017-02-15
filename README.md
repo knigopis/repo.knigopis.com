@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>243</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
 [birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
 [pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 [Maksim](users/145/145607147-vkontakte)<sup>0</sup> 
-[rNix](users/115/115622071-twitter)<sup>51</sup> 
 
 
-_14.02.2017 23:55:48_
+_15.02.2017 04:12:56_
