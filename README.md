@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[boweldisruptor](users/164/16427535-vkontakte)<sup>3</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>5</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>23</sup> 
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
-[myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
 
 
-_16.02.2017 15:30:48_
+_16.02.2017 23:38:19_
