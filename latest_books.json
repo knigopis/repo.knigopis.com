@@ -1,4 +1,16 @@
 {
+    "hB02ymtJXN": {
+        "id": "hB02ymtJXN",
+        "title": "Дао Дэ Цзин",
+        "author": "Лао Цзы",
+        "notes": "",
+        "createdAt": "2017-02-16 12:02:01",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 5
+        }
+    },
     "j8OOjwXucb": {
         "id": "j8OOjwXucb",
         "title": "Один триллион долларов",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 9
-        }
-    },
-    "CbtItdZhGl": {
-        "id": "CbtItdZhGl",
-        "title": "Думай и богатей!",
-        "author": "Наполеон Хилл",
-        "notes": "Масло масленое. Вера. Намерение. Стремление. Сознание. Подсознание. Воображение. Секс и любовь.",
-        "createdAt": "2017-02-08 08:19:41",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 8
         }
     }
 }
