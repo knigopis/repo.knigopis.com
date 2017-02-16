@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>243</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 [Татьяна](users/735/73529875-vkontakte)<sup>1</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>9</sup> 
-[pamir7289](users/103/10391886-vkontakte)<sup>0</sup> 
 
 
-_16.02.2017 04:53:29_
+_16.02.2017 09:03:45_
