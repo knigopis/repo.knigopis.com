@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sanech_ka](users/667/6673635-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>5</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 [yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
 [myyspecht](users/321/3211454-vkontakte)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>89</sup> 
 
 
-_16.02.2017 12:02:01_
+_16.02.2017 15:29:42_
