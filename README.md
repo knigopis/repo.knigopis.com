@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup> 
+[boweldisruptor](users/164/16427535-vkontakte)<sup>7</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>5</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
 
 
-_16.02.2017 23:40:12_
+_16.02.2017 23:40:37_
