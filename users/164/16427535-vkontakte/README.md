@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя [boweldisruptor](http://vk.com/id16427535)<sup>8</sup>
+# Список прочитанных книг пользователя [boweldisruptor](http://vk.com/id16427535)<sup>9</sup>
 ---
 
 ## 2017
@@ -30,6 +30,10 @@ Terry Pratchett
 
 
 ## Прочие года
+
+### Myth-adventures 1-10
+R. Asprin
+
 
 ### Дверь в лето
 Р. Хайнлайн
