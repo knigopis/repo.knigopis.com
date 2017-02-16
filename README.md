@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
+    > Читал в классе 7-9
+
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > классика в процессе :)
 
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
-    > Достаточно легко. Немного дурманяще, как будто вино читаешь. Такое приятное послевкусие, сам вкус сначала не особо понимаешь, но потом распробуешь и тянешь
 
 * Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
 
-* Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[boweldisruptor](users/164/16427535-vkontakte)<sup>5</sup> 
+[boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>5</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chapleeen](users/269/269883500-twitter)<sup>1</sup> 
 
 
-_16.02.2017 23:39:29_
+_16.02.2017 23:40:12_

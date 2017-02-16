@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 * Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>98</sup>
-* Почтамт. ~ [Ангелина](users/837/83788782-vkontakte)<sup>49</sup>
 
 
-_14.02.2017 23:55:48_
+_16.02.2017 23:40:12_
