@@ -1,4 +1,16 @@
 {
+    "Ad7P0kJJPi": {
+        "id": "Ad7P0kJJPi",
+        "title": "Смерть автора",
+        "author": "Ролан Барт",
+        "notes": "",
+        "createdAt": "2017-02-16 23:39:05",
+        "user": {
+            "id": "16427535-vkontakte",
+            "nickname": "boweldisruptor",
+            "booksCount": 4
+        }
+    },
     "CDkz9Qa9Gn": {
         "id": "CDkz9Qa9Gn",
         "title": "Лекции о современной философии",
@@ -345,18 +357,6 @@
             "id": "3211454-vkontakte",
             "nickname": "myyspecht",
             "booksCount": 2
-        }
-    },
-    "25MYddqjic": {
-        "id": "25MYddqjic",
-        "title": "Северное сияние",
-        "author": "Филип Пулман",
-        "notes": "",
-        "createdAt": "2017-02-08 13:01:08",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 89
         }
     }
 }
