@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
+    > Сначала не хотел читать, потому что на момент выхода книги Месси было только 26 лет. Можно сказать жизнь только начинается. Вот лет через 25 напишут очередную биографию, тогда уже да. А так книга для тех, кто хочет немного поближе узнать Месси как человека, потому что футболист он величайший для своего времени.
+
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
     > Читал в классе 7-9
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/24205483/
 
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
-    > классика в процессе :)
 
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
 
-* Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>5</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Пчёлка](users/703/70343728-vkontakte)<sup>2</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>23</sup> 
 [ycat2013](users/227/227702070-vkontakte)<sup>0</sup> 
-[chapleeen](users/269/269883500-twitter)<sup>1</sup> 
 
 
-_16.02.2017 23:42:55_
+_17.02.2017 01:00:24_
