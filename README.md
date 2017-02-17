@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thinker73](users/366/366497970-yandex)<sup>2</sup> 
+[thinker73](users/366/366497970-yandex)<sup>3</sup> 
 [uhanich](users/178/178240024-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Пчёлка](users/703/70343728-vkontakte)<sup>2</sup> 
 
 
-_17.02.2017 15:55:26_
+_17.02.2017 15:57:36_
