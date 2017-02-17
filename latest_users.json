@@ -1,4 +1,10 @@
 {
+    "366497970-yandex": {
+        "id": "366497970-yandex",
+        "nickname": "thinker73",
+        "booksCount": 2,
+        "updatedAt": "2017-02-17 15:55:26"
+    },
     "178240024-vkontakte": {
         "id": "178240024-vkontakte",
         "nickname": "uhanich",
@@ -172,11 +178,5 @@
         "nickname": "Пчёлка",
         "booksCount": 2,
         "updatedAt": "2017-02-09 03:38:26"
-    },
-    "311057796-yandex": {
-        "id": "311057796-yandex",
-        "nickname": "pkisarov001",
-        "booksCount": 23,
-        "updatedAt": "2017-02-08 21:54:19"
     }
 }
