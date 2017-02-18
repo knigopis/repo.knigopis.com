@@ -1,4 +1,16 @@
 {
+    "6sURxVumDH": {
+        "id": "6sURxVumDH",
+        "title": "Малькольм Макдауэлл",
+        "author": "Гении и аутсайдеры",
+        "notes": "Книга о хитросплетениях современного мира и возможностях человека в нем. Устанавливает эмпирические законы между успехом и везением людей в определенных жизненных ситуациях. 5/5",
+        "createdAt": "2017-02-18 10:42:42",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 7
+        }
+    },
     "kxUU2lC2Ur": {
         "id": "kxUU2lC2Ur",
         "title": "Сильмариллион",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 100
-        }
-    },
-    "y-WMEM_XqI": {
-        "id": "y-WMEM_XqI",
-        "title": "Король Чума",
-        "author": "Эдгар Алан По",
-        "notes": "",
-        "createdAt": "2017-02-09 22:18:29",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 99
         }
     }
 }

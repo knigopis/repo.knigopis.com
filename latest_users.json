@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 7,
+        "updatedAt": "2017-02-18 10:42:42"
+    },
     "366497970-yandex": {
         "id": "366497970-yandex",
         "nickname": "thinker73",
@@ -172,11 +178,5 @@
         "nickname": "KitKat",
         "booksCount": 0,
         "updatedAt": "2017-02-09 10:35:25"
-    },
-    "70343728-vkontakte": {
-        "id": "70343728-vkontakte",
-        "nickname": "Пчёлка",
-        "booksCount": 2,
-        "updatedAt": "2017-02-09 03:38:26"
     }
 }

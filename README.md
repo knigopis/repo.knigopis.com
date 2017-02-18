@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
+    > Книга о хитросплетениях современного мира и возможностях человека в нем. Устанавливает эмпирические законы между успехом и везением людей в определенных жизненных ситуациях. 5/5
+
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
     > Сначала не хотел читать, потому что на момент выхода книги Месси было только 26 лет. Можно сказать жизнь только начинается. Вот лет через 25 напишут очередную биографию, тогда уже да. А так книга для тех, кто хочет немного поближе узнать Месси как человека, потому что футболист он величайший для своего времени.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Читал в классе 7-9
 
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/24205483/
 
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
 
-* Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
 [uhanich](users/178/178240024-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>8</sup> 
 [KitKat](users/106/106703315109940761280-google)<sup>0</sup> 
-[Пчёлка](users/703/70343728-vkontakte)<sup>2</sup> 
 
 
-_17.02.2017 15:57:36_
+_18.02.2017 10:42:42_

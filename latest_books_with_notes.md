@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
@@ -30,7 +31,6 @@
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 * Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
-* Вафельное сердце ~ [Беска](users/157/1577468-vkontakte)<sup>25</sup>
 
 
-_17.02.2017 01:00:24_
+_18.02.2017 10:42:42_
