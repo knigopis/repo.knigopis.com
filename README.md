@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[оби](users/344/344776025-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
 [uhanich](users/178/178240024-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>8</sup> 
-[KitKat](users/106/106703315109940761280-google)<sup>0</sup> 
 
 
-_18.02.2017 10:42:42_
+_18.02.2017 21:42:38_
