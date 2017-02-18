@@ -1,4 +1,10 @@
 {
+    "344776025-vkontakte": {
+        "id": "344776025-vkontakte",
+        "nickname": "оби",
+        "booksCount": 0,
+        "updatedAt": "2017-02-18 21:42:36"
+    },
     "3901448-vkontakte": {
         "id": "3901448-vkontakte",
         "nickname": "olegessenin",
@@ -172,11 +178,5 @@
         "nickname": "igor1980",
         "booksCount": 8,
         "updatedAt": "2017-02-09 16:25:59"
-    },
-    "106703315109940761280-google": {
-        "id": "106703315109940761280-google",
-        "nickname": "KitKat",
-        "booksCount": 0,
-        "updatedAt": "2017-02-09 10:35:25"
     }
 }
