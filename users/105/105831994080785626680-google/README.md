@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>2</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>3</sup>
 ---
 
 ## 2017
+
+### Ириска и звезда забвения
+Панов
+> [2017-02] Почти сказка  для взрослых
+
 
 ### Бумажный занавес,  стеклянная корона
 Михалкова

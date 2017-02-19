@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>3</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Wretched](users/402/402906582-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>502</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>2</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>1</sup> 
 [Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 
 
-_19.02.2017 07:04:51_
+_19.02.2017 08:49:32_

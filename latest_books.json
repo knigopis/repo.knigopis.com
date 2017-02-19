@@ -1,4 +1,16 @@
 {
+    "JzAJWcSkjX": {
+        "id": "JzAJWcSkjX",
+        "title": "Ириска и звезда забвения",
+        "author": "Панов",
+        "notes": "Почти сказка  для взрослых",
+        "createdAt": "2017-02-19 08:49:32",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 3
+        }
+    },
     "_4eJPvhHYH": {
         "id": "_4eJPvhHYH",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 25
-        }
-    },
-    "7VsnuuX-PM": {
-        "id": "7VsnuuX-PM",
-        "title": "Террор",
-        "author": "Дэн Симмонс",
-        "notes": "Почемуто считается ужасами. На самом деле узнал многое из быта полярников и эскимосом. Познавательно.",
-        "createdAt": "2017-02-10 13:18:58",
-        "user": {
-            "id": "117124011531379579265-google",
-            "nickname": "pimanocci",
-            "booksCount": 13
         }
     }
 }
