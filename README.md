@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miatka](users/351/35140437-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>3</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
 [lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 
 
-_19.02.2017 08:49:32_
+_19.02.2017 09:04:21_
