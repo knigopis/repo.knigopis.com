@@ -1,0 +1,6 @@
+# Wish list of books by [miatka](http://vk.com/id35140437)
+---
+
+### `100` Волшебная гора
+Томас Манн
+
