@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
 * Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
-* Поллианна ~ [Беска](users/157/1577468-vkontakte)<sup>26</sup>
 
 
-_18.02.2017 10:42:42_
+_19.02.2017 14:54:46_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
+    > Четыре кода. Типы людей. Как распозновать людей.
+
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
     > Книга о хитросплетениях современного мира и возможностях человека в нем. Устанавливает эмпирические законы между успехом и везением людей в определенных жизненных ситуациях. 5/5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Сначала не хотел читать, потому что на момент выхода книги Месси было только 26 лет. Можно сказать жизнь только начинается. Вот лет через 25 напишут очередную биографию, тогда уже да. А так книга для тех, кто хочет немного поближе узнать Месси как человека, потому что футболист он величайший для своего времени.
 
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
-    > Читал в классе 7-9
 
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
 
-* Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Иван](users/111/111223381196748176136-google)<sup>10</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 [bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
-[Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
 
 
-_19.02.2017 14:23:51_
+_19.02.2017 14:54:46_
