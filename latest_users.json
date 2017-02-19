@@ -1,4 +1,10 @@
 {
+    "35140437-vkontakte": {
+        "id": "35140437-vkontakte",
+        "nickname": "miatka",
+        "booksCount": 0,
+        "updatedAt": "2017-02-19 09:04:20"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 101,
         "updatedAt": "2017-02-09 23:33:43"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 136,
-        "updatedAt": "2017-02-09 18:19:41"
     }
 }
