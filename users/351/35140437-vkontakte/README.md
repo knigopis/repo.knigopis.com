@@ -1,10 +1,3 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>1</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>0</sup>
 ---
-
-## 2013
-
-### Анжелика/Маркиза ангелов
-Анн и Серж Голон
-
-
 
