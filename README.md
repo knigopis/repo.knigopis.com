@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 [bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 
 
-_19.02.2017 15:09:12_
+_19.02.2017 17:23:25_

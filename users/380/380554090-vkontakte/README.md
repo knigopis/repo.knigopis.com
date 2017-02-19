@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>23</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>24</sup>
 ---
 
 ## 2017
+
+### Солярис
+Станислав Лем
+> [2017-02-19] 
+
 
 Даниел Киз - Цветы для Элджернона
 > [2017-02-02] 
