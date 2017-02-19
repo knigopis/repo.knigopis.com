@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bogdan.kovaljov](users/164/164599744044947-facebook)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>24</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>13</sup> 
-[lektorovich](users/100/100007627924096-facebook)<sup>0</sup> 
 
 
-_19.02.2017 10:14:40_
+_19.02.2017 11:56:45_
