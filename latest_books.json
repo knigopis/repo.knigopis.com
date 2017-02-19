@@ -1,4 +1,16 @@
 {
+    "e-9kW2R3AU": {
+        "id": "e-9kW2R3AU",
+        "title": "Анжелика/Маркиза ангелов",
+        "author": "Анн и Серж Голон",
+        "notes": "",
+        "createdAt": "2017-02-19 09:12:27",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 1
+        }
+    },
     "JzAJWcSkjX": {
         "id": "JzAJWcSkjX",
         "title": "Ириска и звезда забвения",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 33
-        }
-    },
-    "oG17u6LPSA": {
-        "id": "oG17u6LPSA",
-        "title": "Страх и отвращение в Лас-Вегасе",
-        "author": "Хантер Стоктон Томпсон",
-        "notes": "",
-        "createdAt": "2017-02-10 23:02:55",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 25
         }
     }
 }

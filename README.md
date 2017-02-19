@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miatka](users/351/35140437-vkontakte)<sup>0</sup> 
+[miatka](users/351/35140437-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>3</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>101</sup> 
 
 
-_19.02.2017 09:04:21_
+_19.02.2017 09:12:27_
