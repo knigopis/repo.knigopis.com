@@ -1,4 +1,10 @@
 {
+    "339516889-yandex": {
+        "id": "339516889-yandex",
+        "nickname": "ya.dementia1",
+        "booksCount": 0,
+        "updatedAt": "2017-02-19 14:23:50"
+    },
     "164599744044947-facebook": {
         "id": "164599744044947-facebook",
         "nickname": "bogdan.kovaljov",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 24,
         "updatedAt": "2017-02-10 23:03:05"
-    },
-    "117124011531379579265-google": {
-        "id": "117124011531379579265-google",
-        "nickname": "pimanocci",
-        "booksCount": 13,
-        "updatedAt": "2017-02-10 13:18:58"
     }
 }
