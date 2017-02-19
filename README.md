@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
+[Александр В](users/112/112935638984319130182-googleplus)<sup>2</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>136</sup> 
 
 
-_19.02.2017 07:04:10_
+_19.02.2017 07:04:37_
