@@ -1,11 +1,7 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>3</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>2</sup>
 ---
 
 ## 2013
-
-### Анжелика и король
-Анн и Серж Голон
-
 
 ### Путь в Версаль
 Анн и Серж Голон
