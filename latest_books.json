@@ -1,4 +1,16 @@
 {
+    "7c3MC8QyTd": {
+        "id": "7c3MC8QyTd",
+        "title": "Путь в Версаль",
+        "author": "Анн и Серж Голон",
+        "notes": "",
+        "createdAt": "2017-02-19 09:12:47",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 2
+        }
+    },
     "e-9kW2R3AU": {
         "id": "e-9kW2R3AU",
         "title": "Анжелика/Маркиза ангелов",
@@ -345,18 +357,6 @@
             "id": "4366644796-twitter",
             "nickname": "stvmxm",
             "booksCount": 1
-        }
-    },
-    "5xg1_iWJ2i": {
-        "id": "5xg1_iWJ2i",
-        "title": "The Sea Wolves: A History of the Vikings",
-        "author": "Lars Brownworth",
-        "notes": "ASIN: B00QJ29DPQ",
-        "createdAt": "2017-02-11 07:59:08",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 33
         }
     }
 }
