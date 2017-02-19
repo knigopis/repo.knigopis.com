@@ -1,4 +1,4 @@
-# List of books read by [Александр В](https://plus.google.com/112935638984319130182)<sup>2</sup>
+# List of books read by [Александр В](https://plus.google.com/112935638984319130182)<sup>1</sup>
 ---
 
 ## 2017
@@ -6,8 +6,6 @@
 ### Три товарища
 Эрих Мария Ремарк
 > [2017-02] 
-
-
 
 
 
