@@ -1,4 +1,10 @@
 {
+    "112935638984319130182-googleplus": {
+        "id": "112935638984319130182-googleplus",
+        "nickname": "Александр В",
+        "booksCount": 0,
+        "updatedAt": "2017-02-19 06:59:18"
+    },
     "344776025-vkontakte": {
         "id": "344776025-vkontakte",
         "nickname": "оби",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 136,
         "updatedAt": "2017-02-09 18:19:41"
-    },
-    "100003094239547-facebook": {
-        "id": "100003094239547-facebook",
-        "nickname": "igor1980",
-        "booksCount": 8,
-        "updatedAt": "2017-02-09 16:25:59"
     }
 }
