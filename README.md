@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Иван](users/111/111223381196748176136-google)<sup>10</sup> 
+[Иван](users/111/111223381196748176136-google)<sup>11</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 [bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>33</sup> 
 
 
-_19.02.2017 14:54:46_
+_19.02.2017 15:09:12_

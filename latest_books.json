@@ -1,4 +1,16 @@
 {
+    "AhO5XTd9o9": {
+        "id": "AhO5XTd9o9",
+        "title": "Управление интеллектом по методу Сильва",
+        "author": "Хосе Сильва, Берт Голдман",
+        "notes": "",
+        "createdAt": "2017-02-19 15:09:12",
+        "user": {
+            "id": "111223381196748176136-google",
+            "nickname": "Иван",
+            "booksCount": 11
+        }
+    },
     "nyRUOqcoTS": {
         "id": "nyRUOqcoTS",
         "title": "Я читаю ваши мысли",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 2
-        }
-    },
-    "IF4wi02G2b": {
-        "id": "IF4wi02G2b",
-        "title": "Беглецы. Неземное сияние",
-        "author": "Крауч Блейк",
-        "notes": "Фантастика.  Ерунда, но бывает и хуже.",
-        "createdAt": "2017-02-12 14:29:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 1
         }
     }
 }
