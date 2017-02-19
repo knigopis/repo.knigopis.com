@@ -1,4 +1,10 @@
 {
+    "164599744044947-facebook": {
+        "id": "164599744044947-facebook",
+        "nickname": "bogdan.kovaljov",
+        "booksCount": 0,
+        "updatedAt": "2017-02-19 11:56:44"
+    },
     "35140437-vkontakte": {
         "id": "35140437-vkontakte",
         "nickname": "miatka",
@@ -172,11 +178,5 @@
         "nickname": "pimanocci",
         "booksCount": 13,
         "updatedAt": "2017-02-10 13:18:58"
-    },
-    "100007627924096-facebook": {
-        "id": "100007627924096-facebook",
-        "nickname": "lektorovich",
-        "booksCount": 0,
-        "updatedAt": "2017-02-10 05:08:05"
     }
 }
