@@ -1,4 +1,16 @@
 {
+    "npTZaALN6i": {
+        "id": "npTZaALN6i",
+        "title": "День триффидов",
+        "author": "Джон Уиндем",
+        "notes": "",
+        "createdAt": "2017-02-19 22:13:07",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 6
+        }
+    },
     "Und2OwdCCl": {
         "id": "Und2OwdCCl",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 502
-        }
-    },
-    "XAHDDZClxT": {
-        "id": "XAHDDZClxT",
-        "title": "Ежевичное вино",
-        "author": "Харрис Джоанн",
-        "notes": "Достаточно легко. Немного дурманяще, как будто вино читаешь. Такое приятное послевкусие, сам вкус сначала не особо понимаешь, но потом распробуешь и тянешь",
-        "createdAt": "2017-02-14 04:07:47",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 27
         }
     }
 }

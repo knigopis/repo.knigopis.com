@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>6</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
-[youno](users/302/302928912-vkontakte)<sup>5</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 [yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 
 
-_19.02.2017 17:23:25_
+_19.02.2017 22:13:07_

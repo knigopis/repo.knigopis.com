@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>5</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>6</sup>
 ---
 
 ## 2017
+
+### День триффидов
+Джон Уиндем
+> [2017-02-20] 
+
 
 ### Дао Дэ Цзин
 Лао Цзы
