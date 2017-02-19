@@ -1,4 +1,16 @@
 {
+    "jkdimFL1WN": {
+        "id": "jkdimFL1WN",
+        "title": "Анжелика и король",
+        "author": "Анн и Серж Голон",
+        "notes": "",
+        "createdAt": "2017-02-19 09:13:10",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 3
+        }
+    },
     "7c3MC8QyTd": {
         "id": "7c3MC8QyTd",
         "title": "Путь в Версаль",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 43
-        }
-    },
-    "DZZ_w2-S4y": {
-        "id": "DZZ_w2-S4y",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-02-11 10:50:12",
-        "user": {
-            "id": "4366644796-twitter",
-            "nickname": "stvmxm",
-            "booksCount": 1
         }
     }
 }
