@@ -1,4 +1,16 @@
 {
+    "49_VcJElC4": {
+        "id": "49_VcJElC4",
+        "title": "Все начальники делают это",
+        "author": "Брюс Тулган",
+        "notes": "",
+        "createdAt": "2017-02-20 08:29:57",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 245
+        }
+    },
     "bqL8LHuSkU": {
         "id": "bqL8LHuSkU",
         "title": "Девятый2. На руинах Мальрока",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 93
-        }
-    },
-    "998QZFJne2": {
-        "id": "998QZFJne2",
-        "title": "Вторая Мировая война",
-        "author": "Б.Лиддел-Гарт",
-        "notes": "классика в процессе :)",
-        "createdAt": "2017-02-14 23:49:45",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 92
         }
     }
 }
