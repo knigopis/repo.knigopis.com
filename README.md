@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>244</sup> 
 [youno](users/302/302928912-vkontakte)<sup>6</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 [yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>243</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
 [birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 
 
-_19.02.2017 22:13:07_
+_20.02.2017 07:07:31_

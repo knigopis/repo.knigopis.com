@@ -1,4 +1,16 @@
 {
+    "bqL8LHuSkU": {
+        "id": "bqL8LHuSkU",
+        "title": "Девятый2. На руинах Мальрока",
+        "author": "Андрей Каменистый",
+        "notes": "",
+        "createdAt": "2017-02-20 07:07:31",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 244
+        }
+    },
     "npTZaALN6i": {
         "id": "npTZaALN6i",
         "title": "День триффидов",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 92
-        }
-    },
-    "hml1uxc1gV": {
-        "id": "hml1uxc1gV",
-        "title": "Фауст",
-        "author": "Иоганн Вольфганг Гете",
-        "notes": "",
-        "createdAt": "2017-02-14 09:02:58",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 502
         }
     }
 }
