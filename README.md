@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dinameet](users/457/45786870-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>245</sup> 
 [youno](users/302/302928912-vkontakte)<sup>6</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stenya](users/333/333274180-vkontakte)<sup>1</sup> 
 [Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>44</sup> 
-[stvmxm](users/436/4366644796-twitter)<sup>1</sup> 
 
 
-_20.02.2017 08:29:57_
+_20.02.2017 17:06:18_

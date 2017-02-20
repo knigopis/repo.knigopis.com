@@ -1,4 +1,10 @@
 {
+    "45786870-vkontakte": {
+        "id": "45786870-vkontakte",
+        "nickname": "dinameet",
+        "booksCount": 1,
+        "updatedAt": "2017-02-20 17:06:18"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 44,
         "updatedAt": "2017-02-11 16:43:54"
-    },
-    "4366644796-twitter": {
-        "id": "4366644796-twitter",
-        "nickname": "stvmxm",
-        "booksCount": 1,
-        "updatedAt": "2017-02-11 10:50:12"
     }
 }

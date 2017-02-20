@@ -1,4 +1,16 @@
 {
+    "WVrCF4ZpfK": {
+        "id": "WVrCF4ZpfK",
+        "title": "Пикник на обочине",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-02-20 17:06:18",
+        "user": {
+            "id": "45786870-vkontakte",
+            "nickname": "dinameet",
+            "booksCount": 1
+        }
+    },
     "49_VcJElC4": {
         "id": "49_VcJElC4",
         "title": "Все начальники делают это",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 243
-        }
-    },
-    "fu344fkEuR": {
-        "id": "fu344fkEuR",
-        "title": "Этногенез и биосфера Земли",
-        "author": "Лев Гумилев",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/24205483/",
-        "createdAt": "2017-02-14 23:55:48",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 93
         }
     }
 }
