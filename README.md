@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lordcommander](users/249/249316148-vkontakte)<sup>0</sup> 
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>245</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>502</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>1</sup> 
-[Un-gern](users/100/100554758027116246692-google)<sup>0</sup> 
 
 
-_21.02.2017 11:04:44_
+_21.02.2017 15:49:27_
