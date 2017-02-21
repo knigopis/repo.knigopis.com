@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anyzaya](users/113/113067458098031017098-google)<sup>0</sup> 
+[anyzaya](users/113/113067458098031017098-google)<sup>1</sup> 
 [lordcommander](users/249/249316148-vkontakte)<sup>0</sup> 
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
 
 
-_21.02.2017 18:54:10_
+_21.02.2017 18:55:00_

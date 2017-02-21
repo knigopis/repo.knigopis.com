@@ -1,4 +1,16 @@
 {
+    "et0IuNv5DM": {
+        "id": "et0IuNv5DM",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2017-02-21 18:55:00",
+        "user": {
+            "id": "113067458098031017098-google",
+            "nickname": "anyzaya",
+            "booksCount": 1
+        }
+    },
     "K1hNOkFIcG": {
         "id": "K1hNOkFIcG",
         "title": "Приемы объектно-ориентированного проектирования. Паттерны проектирования.",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 5
-        }
-    },
-    "j8OOjwXucb": {
-        "id": "j8OOjwXucb",
-        "title": "Один триллион долларов",
-        "author": "Андреас Эшбах",
-        "notes": "",
-        "createdAt": "2017-02-16 04:53:29",
-        "user": {
-            "id": "317314037-vkontakte",
-            "nickname": "hawkeyepierce89",
-            "booksCount": 1
         }
     }
 }
