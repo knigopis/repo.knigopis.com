@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
@@ -30,7 +31,6 @@
 * Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
 * Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 * Дюна ~ [lucius](users/838/83820536-yandex)<sup>138</sup>
-* Час Тишины ~ [Иван](users/111/111223381196748176136-google)<sup>6</sup>
 
 
-_19.02.2017 14:54:46_
+_22.02.2017 08:01:45_

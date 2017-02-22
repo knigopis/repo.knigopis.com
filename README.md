@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
+    > Сказка про любовь. Все в стиле Вильмонт
+
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
     > Четыре кода. Типы людей. Как распозновать людей.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о хитросплетениях современного мира и возможностях человека в нем. Устанавливает эмпирические законы между успехом и везением людей в определенных жизненных ситуациях. 5/5
 
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
-    > Сначала не хотел читать, потому что на момент выхода книги Месси было только 26 лет. Можно сказать жизнь только начинается. Вот лет через 25 напишут очередную биографию, тогда уже да. А так книга для тех, кто хочет немного поближе узнать Месси как человека, потому что футболист он величайший для своего времени.
 
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
 
-* The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>4</sup> 
 [anyzaya](users/113/113067458098031017098-google)<sup>1</sup> 
 [lordcommander](users/249/249316148-vkontakte)<sup>0</sup> 
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>3</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>27</sup> 
 
 
-_21.02.2017 18:55:00_
+_22.02.2017 08:01:45_
