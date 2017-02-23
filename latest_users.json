@@ -1,4 +1,10 @@
 {
+    "1390208307860185935-mailru": {
+        "id": "1390208307860185935-mailru",
+        "nickname": "AnnaLain",
+        "booksCount": 0,
+        "updatedAt": "2017-02-23 12:27:38"
+    },
     "107974099098301623019-google": {
         "id": "107974099098301623019-google",
         "nickname": "redcrayon",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 93,
         "updatedAt": "2017-02-14 23:55:48"
-    },
-    "118063907048531198648-google": {
-        "id": "118063907048531198648-google",
-        "nickname": "Эдуард",
-        "booksCount": 0,
-        "updatedAt": "2017-02-14 14:24:49"
     }
 }
