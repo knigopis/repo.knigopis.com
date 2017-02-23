@@ -1,4 +1,10 @@
 {
+    "207406718-vkontakte": {
+        "id": "207406718-vkontakte",
+        "nickname": "sashabran",
+        "booksCount": 0,
+        "updatedAt": "2017-02-23 09:39:24"
+    },
     "709075507430735873-twitter": {
         "id": "709075507430735873-twitter",
         "nickname": "8979323846_",
@@ -172,11 +178,5 @@
         "nickname": "birchenko",
         "booksCount": 0,
         "updatedAt": "2017-02-14 14:24:01"
-    },
-    "402906582-vkontakte": {
-        "id": "402906582-vkontakte",
-        "nickname": "Wretched",
-        "booksCount": 0,
-        "updatedAt": "2017-02-14 13:52:31"
     }
 }
