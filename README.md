@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
 [sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
 [8979323846_](users/709/709075507430735873-twitter)<sup>0</sup> 
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
-[birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
 
 
-_23.02.2017 09:39:24_
+_23.02.2017 10:34:04_
