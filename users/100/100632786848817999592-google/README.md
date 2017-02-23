@@ -1,7 +1,12 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>15</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>16</sup>
 ---
 
 ## 2017
+
+### О дивный новый мир
+Олдос Хаксли
+> [2017-02] Впервые опубликовано : 1932
+
 
 ### Преступление и наказание
 Федор Михайлович Достоевский

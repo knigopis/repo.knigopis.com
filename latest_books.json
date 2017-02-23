@@ -1,4 +1,16 @@
 {
+    "2usAf6wy36": {
+        "id": "2usAf6wy36",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "Впервые опубликовано : 1932",
+        "createdAt": "2017-02-23 17:00:08",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 16
+        }
+    },
     "XTwMcrLALk": {
         "id": "XTwMcrLALk",
         "title": "Неугомонный убийца",
@@ -345,18 +357,6 @@
             "id": "16427535-vkontakte",
             "nickname": "boweldisruptor",
             "booksCount": 8
-        }
-    },
-    "SZnm6fwqcB": {
-        "id": "SZnm6fwqcB",
-        "title": "Трилогия о Бэйне",
-        "author": "Дрю Карпишин",
-        "notes": "",
-        "createdAt": "2017-02-16 23:40:37",
-        "user": {
-            "id": "16427535-vkontakte",
-            "nickname": "boweldisruptor",
-            "booksCount": 7
         }
     }
 }

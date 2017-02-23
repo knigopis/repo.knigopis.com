@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 * Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
-* Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
 
 
-_23.02.2017 14:55:35_
+_23.02.2017 17:00:08_

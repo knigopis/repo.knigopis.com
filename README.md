@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
+    > Впервые опубликовано : 1932
+
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
     > Книга о мужчине, ухаживающем за садом своей жены и решившим её там закопать.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Написание книги или авторский стиль написания героев, сама непредсказуемость их поведения и их характеров 6 из 10
 
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
-    > Сказка про любовь. Все в стиле Вильмонт
 
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
 
-* Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
 [redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 [yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
-[hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
 
 
-_23.02.2017 14:55:35_
+_23.02.2017 17:00:08_
