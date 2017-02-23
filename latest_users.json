@@ -1,4 +1,10 @@
 {
+    "107974099098301623019-google": {
+        "id": "107974099098301623019-google",
+        "nickname": "redcrayon",
+        "booksCount": 0,
+        "updatedAt": "2017-02-23 10:34:04"
+    },
     "207406718-vkontakte": {
         "id": "207406718-vkontakte",
         "nickname": "sashabran",
@@ -172,11 +178,5 @@
         "nickname": "Эдуард",
         "booksCount": 0,
         "updatedAt": "2017-02-14 14:24:49"
-    },
-    "10453036-vkontakte": {
-        "id": "10453036-vkontakte",
-        "nickname": "birchenko",
-        "booksCount": 0,
-        "updatedAt": "2017-02-14 14:24:01"
     }
 }
