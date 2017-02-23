@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
 [8979323846_](users/709/709075507430735873-twitter)<sup>0</sup> 
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [Эдуард](users/118/118063907048531198648-google)<sup>0</sup> 
 [birchenko](users/104/10453036-vkontakte)<sup>0</sup> 
-[Wretched](users/402/402906582-vkontakte)<sup>0</sup> 
 
 
-_23.02.2017 09:32:01_
+_23.02.2017 09:39:24_
