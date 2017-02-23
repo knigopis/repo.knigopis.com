@@ -1,4 +1,10 @@
 {
+    "709075507430735873-twitter": {
+        "id": "709075507430735873-twitter",
+        "nickname": "8979323846_",
+        "booksCount": 0,
+        "updatedAt": "2017-02-23 09:31:59"
+    },
     "116724485485289737307-google": {
         "id": "116724485485289737307-google",
         "nickname": "amedvedev",
@@ -172,11 +178,5 @@
         "nickname": "Wretched",
         "booksCount": 0,
         "updatedAt": "2017-02-14 13:52:31"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 502,
-        "updatedAt": "2017-02-14 09:02:58"
     }
 }
