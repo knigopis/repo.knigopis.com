@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
+    > Книга о мужчине, ухаживающем за садом своей жены и решившим её там закопать.
+
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
     > Сюжет 5 из 10
     > Атмосфера 7,5 из 10
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Сказка про любовь. Все в стиле Вильмонт
 
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
-    > Четыре кода. Типы людей. Как распозновать людей.
 
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
 
-* Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
 [redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
 [sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
 
 
-_23.02.2017 14:53:46_
+_23.02.2017 14:55:35_

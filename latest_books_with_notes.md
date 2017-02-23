@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 * Вокруг света за 80 дней ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>70</sup>
 * Воскресение ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>69</sup>
-* Жили-были старик со старухой ~ [Larisa Larisa](users/160/1606575652891411-facebook)<sup>14</sup>
 
 
-_23.02.2017 14:53:46_
+_23.02.2017 14:55:35_
