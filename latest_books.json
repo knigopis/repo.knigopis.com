@@ -1,4 +1,16 @@
 {
+    "vlfu8hA5TM": {
+        "id": "vlfu8hA5TM",
+        "title": "123432",
+        "author": "234",
+        "notes": "",
+        "createdAt": "2017-02-23 10:36:00",
+        "user": {
+            "id": "107974099098301623019-google",
+            "nickname": "redcrayon",
+            "booksCount": 1
+        }
+    },
     "hn_xIijpO3": {
         "id": "hn_xIijpO3",
         "title": "Русь за трапезой",
@@ -345,18 +357,6 @@
             "id": "16427535-vkontakte",
             "nickname": "boweldisruptor",
             "booksCount": 4
-        }
-    },
-    "CDkz9Qa9Gn": {
-        "id": "CDkz9Qa9Gn",
-        "title": "Лекции о современной философии",
-        "author": "Мераб Мамардашвили",
-        "notes": "",
-        "createdAt": "2017-02-16 23:38:19",
-        "user": {
-            "id": "16427535-vkontakte",
-            "nickname": "boweldisruptor",
-            "booksCount": 3
         }
     }
 }
