@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
+    > Сюжет 5 из 10
+    > Атмосфера 7,5 из 10
+    > Написание книги или авторский стиль написания героев, сама непредсказуемость их поведения и их характеров 6 из 10
+
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
     > Сказка про любовь. Все в стиле Вильмонт
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Четыре кода. Типы людей. Как распозновать людей.
 
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
-    > Книга о хитросплетениях современного мира и возможностях человека в нем. Устанавливает эмпирические законы между успехом и везением людей в определенных жизненных ситуациях. 5/5
 
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
 
-* Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup> 
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
 [redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
 [sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 [yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 
 
-_23.02.2017 12:27:49_
+_23.02.2017 14:53:46_
