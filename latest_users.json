@@ -1,4 +1,10 @@
 {
+    "104705173317718063513-google": {
+        "id": "104705173317718063513-google",
+        "nickname": "TalRaash",
+        "booksCount": 0,
+        "updatedAt": "2017-02-24 22:31:06"
+    },
     "27419240-vkontakte": {
         "id": "27419240-vkontakte",
         "nickname": "dolgij_roman",
@@ -172,11 +178,5 @@
         "nickname": "thinker73",
         "booksCount": 3,
         "updatedAt": "2017-02-17 15:57:36"
-    },
-    "178240024-vkontakte": {
-        "id": "178240024-vkontakte",
-        "nickname": "uhanich",
-        "booksCount": 0,
-        "updatedAt": "2017-02-17 13:36:23"
     }
 }
