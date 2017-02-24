@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiri](users/384/384194935-vkontakte)<sup>31</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [uhanich](users/178/178240024-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
-[sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 
 
-_24.02.2017 10:46:51_
+_24.02.2017 13:41:53_
