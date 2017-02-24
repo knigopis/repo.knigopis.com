@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>33</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
 [uhanich](users/178/178240024-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
-[boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
 
 
-_24.02.2017 13:42:55_
+_24.02.2017 19:09:37_
