@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>93</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>94</sup>
 ---
 
 ## 2017
+
+### Властелин Колец: Две твердыни. Часть 2
+Джон Рональд Руэл Толкин
+> Властелин Колец
+
 
 ### Возвращение со звезд
 Станислав Лем

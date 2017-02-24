@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
+    > Властелин Колец
+
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
     > Впервые опубликовано : 1932
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о мужчине, ухаживающем за садом своей жены и решившим её там закопать.
 
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
-    > Сюжет 5 из 10
-    > Атмосфера 7,5 из 10
-    > Написание книги или авторский стиль написания героев, сама непредсказуемость их поведения и их характеров 6 из 10
 
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 
-* Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup> 
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
-[lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
 
 
-_24.02.2017 09:06:21_
+_24.02.2017 10:46:19_
