@@ -1,4 +1,16 @@
 {
+    "hJPJ8ULTV6": {
+        "id": "hJPJ8ULTV6",
+        "title": "Агата Кристи",
+        "author": "Часы",
+        "notes": "",
+        "createdAt": "2017-02-24 13:42:27",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiri",
+            "booksCount": 32
+        }
+    },
     "jZ9mzLeHG4": {
         "id": "jZ9mzLeHG4",
         "title": "Охота за матерью",
@@ -345,18 +357,6 @@
             "id": "366497970-yandex",
             "nickname": "thinker73",
             "booksCount": 3
-        }
-    },
-    "MPESi-8oRL": {
-        "id": "MPESi-8oRL",
-        "title": "Властелиин колец",
-        "author": "Дж. Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2017-02-17 15:55:26",
-        "user": {
-            "id": "366497970-yandex",
-            "nickname": "thinker73",
-            "booksCount": 2
         }
     }
 }
