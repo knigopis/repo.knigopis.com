@@ -1,4 +1,10 @@
 {
+    "27419240-vkontakte": {
+        "id": "27419240-vkontakte",
+        "nickname": "dolgij_roman",
+        "booksCount": 0,
+        "updatedAt": "2017-02-24 19:10:08"
+    },
     "248080973233-odnoklassniki": {
         "id": "248080973233-odnoklassniki",
         "nickname": "Галюня",
@@ -172,11 +178,5 @@
         "nickname": "uhanich",
         "booksCount": 0,
         "updatedAt": "2017-02-17 13:36:23"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 70,
-        "updatedAt": "2017-02-17 01:00:24"
     }
 }
