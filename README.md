@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TalRaash](users/104/104705173317718063513-google)<sup>0</sup> 
+[TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
 [dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
 [Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
 
 
-_24.02.2017 22:31:07_
+_24.02.2017 22:37:56_
