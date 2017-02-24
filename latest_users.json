@@ -1,4 +1,10 @@
 {
+    "101863019157295982820-google": {
+        "id": "101863019157295982820-google",
+        "nickname": "Zetsubou",
+        "booksCount": 0,
+        "updatedAt": "2017-02-24 09:06:19"
+    },
     "100632786848817999592-google": {
         "id": "100632786848817999592-google",
         "nickname": "Semmi Colins ",
@@ -172,11 +178,5 @@
         "nickname": "lovenstaff",
         "booksCount": 0,
         "updatedAt": "2017-02-16 09:37:01"
-    },
-    "258576792-vkontakte": {
-        "id": "258576792-vkontakte",
-        "nickname": "yakupova_anastasia",
-        "booksCount": 0,
-        "updatedAt": "2017-02-16 09:03:43"
     }
 }
