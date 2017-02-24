@@ -1,4 +1,16 @@
 {
+    "it9IUC8BwD": {
+        "id": "it9IUC8BwD",
+        "title": "Властелин Колец: Возвращение Короля. Часть 3",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "Властелин Колец",
+        "createdAt": "2017-02-24 10:46:51",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 95
+        }
+    },
     "NZtsRikfBE": {
         "id": "NZtsRikfBE",
         "title": "Властелин Колец: Две твердыни. Часть 2",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 70
-        }
-    },
-    "dncxFCxCRL": {
-        "id": "dncxFCxCRL",
-        "title": "Myth-adventures 1-10",
-        "author": "R. Asprin",
-        "notes": "",
-        "createdAt": "2017-02-16 23:42:55",
-        "user": {
-            "id": "16427535-vkontakte",
-            "nickname": "boweldisruptor",
-            "booksCount": 9
         }
     }
 }

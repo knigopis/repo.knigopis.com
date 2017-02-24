@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 * О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
 * Донские генералы ~ [mfevralev](users/140/140966150-vkontakte)<sup>18</sup>
-* Жизнь взаймы ~ [Eji_tyan](users/235/2352103981-twitter)<sup>26</sup>
 
 
-_24.02.2017 10:46:19_
+_24.02.2017 10:46:51_

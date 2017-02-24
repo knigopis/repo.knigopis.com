@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
+    > Властелин Колец
+
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
     > Властелин Колец
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Впервые опубликовано : 1932
 
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
-    > Книга о мужчине, ухаживающем за садом своей жены и решившим её там закопать.
 
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
 
-* Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 
 
-_24.02.2017 10:46:19_
+_24.02.2017 10:46:51_

@@ -1,4 +1,16 @@
 {
+    "it9IUC8BwD": {
+        "id": "it9IUC8BwD",
+        "title": "Властелин Колец: Возвращение Короля. Часть 3",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "Властелин Колец",
+        "createdAt": "2017-02-24 10:46:51",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 95
+        }
+    },
     "NZtsRikfBE": {
         "id": "NZtsRikfBE",
         "title": "Властелин Колец: Две твердыни. Часть 2",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 18
-        }
-    },
-    "dfcz3B2tlw": {
-        "id": "dfcz3B2tlw",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Нудновато. Не пошла книга и поэтому только половина (целая половина!)",
-        "createdAt": "2017-02-05 15:47:12",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 26
         }
     }
 }
