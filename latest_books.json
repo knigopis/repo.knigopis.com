@@ -1,4 +1,16 @@
 {
+    "-Gss9sr0M1": {
+        "id": "-Gss9sr0M1",
+        "title": "Джеймс Х. Чейз",
+        "author": "Лапа в бутылке",
+        "notes": "",
+        "createdAt": "2017-02-24 13:42:55",
+        "user": {
+            "id": "384194935-vkontakte",
+            "nickname": "raikiri",
+            "booksCount": 33
+        }
+    },
     "hJPJ8ULTV6": {
         "id": "hJPJ8ULTV6",
         "title": "Агата Кристи",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 7
-        }
-    },
-    "kxUU2lC2Ur": {
-        "id": "kxUU2lC2Ur",
-        "title": "Сильмариллион",
-        "author": "Дж. Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2017-02-17 15:57:36",
-        "user": {
-            "id": "366497970-yandex",
-            "nickname": "thinker73",
-            "booksCount": 3
         }
     }
 }
