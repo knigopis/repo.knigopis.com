@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [boweldisruptor](users/164/16427535-vkontakte)<sup>9</sup> 
 [sanech_ka](users/667/6673635-vkontakte)<sup>1</sup> 
 [lovenstaff](users/151/151833122-vkontakte)<sup>0</sup> 
-[yakupova_anastasia](users/258/258576792-vkontakte)<sup>0</sup> 
 
 
-_23.02.2017 17:00:08_
+_24.02.2017 09:06:21_
