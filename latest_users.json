@@ -1,4 +1,10 @@
 {
+    "248080973233-odnoklassniki": {
+        "id": "248080973233-odnoklassniki",
+        "nickname": "Галюня",
+        "booksCount": 0,
+        "updatedAt": "2017-02-24 19:09:35"
+    },
     "384194935-vkontakte": {
         "id": "384194935-vkontakte",
         "nickname": "raikiri",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 70,
         "updatedAt": "2017-02-17 01:00:24"
-    },
-    "16427535-vkontakte": {
-        "id": "16427535-vkontakte",
-        "nickname": "boweldisruptor",
-        "booksCount": 9,
-        "updatedAt": "2017-02-16 23:42:55"
     }
 }
