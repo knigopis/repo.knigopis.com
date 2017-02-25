@@ -9,3 +9,7 @@
 Айн Рэнд
 > http://www.ozon.ru/context/detail/id/4432885/
 
+### `30` Мы живые
+Айн Рэнд
+> http://www.ozon.ru/context/detail/id/5670121/
+
