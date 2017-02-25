@@ -1,4 +1,16 @@
 {
+    "DkDmh0b1_Q": {
+        "id": "DkDmh0b1_Q",
+        "title": "Как развить силу воли",
+        "author": "Уолтер Мишел",
+        "notes": "Полезная информация для саморазвития. Куча интересной информации относительно психологии личности.",
+        "createdAt": "2017-02-25 07:41:37",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 8
+        }
+    },
     "lsBlZgtgEY": {
         "id": "lsBlZgtgEY",
         "title": "Роза и червь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 3
-        }
-    },
-    "_4eJPvhHYH": {
-        "id": "_4eJPvhHYH",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-02-19 07:04:37",
-        "user": {
-            "id": "112935638984319130182-googleplus",
-            "nickname": "Александр В",
-            "booksCount": 2
         }
     }
 }

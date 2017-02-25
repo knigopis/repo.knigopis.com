@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как развить силу воли ~ [olegessenin](users/390/3901448-vkontakte)<sup>8</sup>
+    > Полезная информация для саморазвития. Куча интересной информации относительно психологии личности.
+
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
     > Властелин Колец
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Властелин Колец
 
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
-    > Впервые опубликовано : 1932
 
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 
-* Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>8</sup> 
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
 [dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
 [Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
-[olegessenin](users/390/3901448-vkontakte)<sup>7</sup> 
 [thinker73](users/366/366497970-yandex)<sup>3</sup> 
 
 
-_24.02.2017 22:37:56_
+_25.02.2017 07:41:37_
