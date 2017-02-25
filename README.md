@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[reginalefler](users/664/66414701-vkontakte)<sup>0</sup> 
 [vaness](users/547/5475694-vkontakte)<sup>1</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>8</sup> 
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [Александр В](users/112/112935638984319130182-googleplus)<sup>1</sup> 
-[оби](users/344/344776025-vkontakte)<sup>0</sup> 
 
 
-_25.02.2017 08:37:46_
+_25.02.2017 16:17:38_
