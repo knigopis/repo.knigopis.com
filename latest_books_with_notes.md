@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
 * Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
 * Как развить силу воли ~ [olegessenin](users/390/3901448-vkontakte)<sup>8</sup>
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
-* Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
 
 
-_25.02.2017 16:49:23_
+_25.02.2017 17:37:12_

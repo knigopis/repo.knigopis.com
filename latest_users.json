@@ -1,4 +1,10 @@
 {
+    "100003094239547-facebook": {
+        "id": "100003094239547-facebook",
+        "nickname": "igor1980",
+        "booksCount": 9,
+        "updatedAt": "2017-02-25 17:37:12"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "bogdan.kovaljov",
         "booksCount": 2,
         "updatedAt": "2017-02-19 11:59:24"
-    },
-    "35140437-vkontakte": {
-        "id": "35140437-vkontakte",
-        "nickname": "miatka",
-        "booksCount": 1,
-        "updatedAt": "2017-02-19 10:14:40"
     }
 }
