@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 27,
+        "updatedAt": "2017-02-25 16:34:44"
+    },
     "66414701-vkontakte": {
         "id": "66414701-vkontakte",
         "nickname": "reginalefler",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 0,
         "updatedAt": "2017-02-19 09:27:13"
-    },
-    "112935638984319130182-googleplus": {
-        "id": "112935638984319130182-googleplus",
-        "nickname": "Александр В",
-        "booksCount": 1,
-        "updatedAt": "2017-02-19 07:04:51"
     }
 }

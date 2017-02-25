@@ -1,4 +1,16 @@
 {
+    "ZcbBzirjW-": {
+        "id": "ZcbBzirjW-",
+        "title": "Бытие",
+        "author": "Библия",
+        "notes": "",
+        "createdAt": "2017-02-25 16:34:44",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 27
+        }
+    },
     "MeyM_qH_9R": {
         "id": "MeyM_qH_9R",
         "title": "45 татуировок менеджера. Правила российского руководителя",
@@ -345,18 +357,6 @@
             "id": "35140437-vkontakte",
             "nickname": "miatka",
             "booksCount": 2
-        }
-    },
-    "e-9kW2R3AU": {
-        "id": "e-9kW2R3AU",
-        "title": "Анжелика/Маркиза ангелов",
-        "author": "Анн и Серж Голон",
-        "notes": "",
-        "createdAt": "2017-02-19 09:12:27",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 1
         }
     }
 }
