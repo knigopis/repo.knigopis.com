@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 137,
+        "updatedAt": "2017-02-25 16:49:23"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "miatka",
         "booksCount": 1,
         "updatedAt": "2017-02-19 10:14:40"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 0,
-        "updatedAt": "2017-02-19 09:27:13"
     }
 }

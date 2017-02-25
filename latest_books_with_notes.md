@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
 * Как развить силу воли ~ [olegessenin](users/390/3901448-vkontakte)<sup>8</sup>
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 * Западня ~ [myyspecht](users/321/3211454-vkontakte)<sup>1</sup>
 * Продавая незримое. Руководство по современному маркетингу услуг ~ [Иван](users/111/111223381196748176136-google)<sup>7</sup>
-* О дивный новый мир ~ [rNix](users/115/115622071-twitter)<sup>51</sup>
 
 
-_25.02.2017 07:41:37_
+_25.02.2017 16:49:23_

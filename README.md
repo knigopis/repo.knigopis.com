@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
+    > Одиннадцатая книга цикла "Колесо времени".  Практически вся книга посвящена сражениям, что не удивительно в преддверии Тармон Гайдон. Перрин сокрушает Шайдо, Мэт наносит удары шончан, Илэйн борется за трон Андора не только с конкурентами на стенах Кэймлина, но и с Черными Айя, Ранд пленит одну из Отрекшихся... Эгвейн в свою очередь вынуждена вести войну находясь в плену Белой башни.
+
 * Как развить силу воли ~ [olegessenin](users/390/3901448-vkontakte)<sup>8</sup>
     > Полезная информация для саморазвития. Куча интересной информации относительно психологии личности.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Властелин Колец
 
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
-    > Властелин Колец
 
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 
-* Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>137</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [reginalefler](users/664/66414701-vkontakte)<sup>0</sup> 
 [vaness](users/547/5475694-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 [bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>1</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 
 
-_25.02.2017 16:34:44_
+_25.02.2017 16:49:23_
