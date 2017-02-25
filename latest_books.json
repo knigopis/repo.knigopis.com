@@ -1,4 +1,16 @@
 {
+    "MeyM_qH_9R": {
+        "id": "MeyM_qH_9R",
+        "title": "45 татуировок менеджера. Правила российского руководителя",
+        "author": "Максим Батырев",
+        "notes": "",
+        "createdAt": "2017-02-25 08:37:46",
+        "user": {
+            "id": "5475694-vkontakte",
+            "nickname": "vaness",
+            "booksCount": 1
+        }
+    },
     "DkDmh0b1_Q": {
         "id": "DkDmh0b1_Q",
         "title": "Как развить силу воли",
@@ -345,18 +357,6 @@
             "id": "35140437-vkontakte",
             "nickname": "miatka",
             "booksCount": 1
-        }
-    },
-    "JzAJWcSkjX": {
-        "id": "JzAJWcSkjX",
-        "title": "Ириска и звезда забвения",
-        "author": "Панов",
-        "notes": "Почти сказка  для взрослых",
-        "createdAt": "2017-02-19 08:49:32",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 3
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vaness](users/547/5475694-vkontakte)<sup>0</sup> 
+[vaness](users/547/5475694-vkontakte)<sup>1</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>8</sup> 
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
 [dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [оби](users/344/344776025-vkontakte)<sup>0</sup> 
 
 
-_25.02.2017 07:55:50_
+_25.02.2017 08:37:46_
