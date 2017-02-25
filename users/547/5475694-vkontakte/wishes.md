@@ -5,3 +5,7 @@
 Айн Рэнд, Питер Карнавас
 > http://www.ozon.ru/context/detail/id/3094337/
 
+### `40` Источник (комплект из 2 книг)
+Айн Рэнд
+> http://www.ozon.ru/context/detail/id/4432885/
+
