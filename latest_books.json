@@ -1,4 +1,16 @@
 {
+    "pBywlFSMra": {
+        "id": "pBywlFSMra",
+        "title": "Економіка ХХ1",
+        "author": "Олексій Геращенко",
+        "notes": "",
+        "createdAt": "2017-02-26 18:35:18",
+        "user": {
+            "id": "102340590821783704774-google",
+            "nickname": "Michaelmp",
+            "booksCount": 1
+        }
+    },
     "ieTccgogHU": {
         "id": "ieTccgogHU",
         "title": "Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.)",
@@ -345,18 +357,6 @@
             "id": "164599744044947-facebook",
             "nickname": "bogdan.kovaljov",
             "booksCount": 2
-        }
-    },
-    "a4Kics419T": {
-        "id": "a4Kics419T",
-        "title": "Чужак",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2017-02-19 10:14:40",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 1
         }
     }
 }
