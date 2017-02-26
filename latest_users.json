@@ -1,4 +1,10 @@
 {
+    "102340590821783704774-google": {
+        "id": "102340590821783704774-google",
+        "nickname": "Michaelmp",
+        "booksCount": 0,
+        "updatedAt": "2017-02-26 18:06:33"
+    },
     "100003094239547-facebook": {
         "id": "100003094239547-facebook",
         "nickname": "igor1980",
@@ -172,11 +178,5 @@
         "nickname": "ya.dementia1",
         "booksCount": 0,
         "updatedAt": "2017-02-19 14:23:50"
-    },
-    "164599744044947-facebook": {
-        "id": "164599744044947-facebook",
-        "nickname": "bogdan.kovaljov",
-        "booksCount": 2,
-        "updatedAt": "2017-02-19 11:59:24"
     }
 }
