@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Michaelmp](users/102/102340590821783704774-google)<sup>0</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>137</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
-[bogdan.kovaljov](users/164/164599744044947-facebook)<sup>2</sup> 
 
 
-_25.02.2017 17:37:12_
+_26.02.2017 18:06:35_
