@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>246</sup> 
 [Michaelmp](users/102/102340590821783704774-google)<sup>1</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>137</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [lordcommander](users/249/249316148-vkontakte)<sup>0</sup> 
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>245</sup> 
 [youno](users/302/302928912-vkontakte)<sup>6</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
 [ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 
 
-_26.02.2017 18:35:18_
+_26.02.2017 20:39:05_

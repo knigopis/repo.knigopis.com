@@ -1,4 +1,16 @@
 {
+    "vQJkSdFphH": {
+        "id": "vQJkSdFphH",
+        "title": "Девятый-3. Рождение победителя",
+        "author": "Андрей Каменистый",
+        "notes": "",
+        "createdAt": "2017-02-26 20:39:05",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 246
+        }
+    },
     "pBywlFSMra": {
         "id": "pBywlFSMra",
         "title": "Економіка ХХ1",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 10
-        }
-    },
-    "UuHuSezBTB": {
-        "id": "UuHuSezBTB",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-02-19 11:59:24",
-        "user": {
-            "id": "164599744044947-facebook",
-            "nickname": "bogdan.kovaljov",
-            "booksCount": 2
         }
     }
 }
