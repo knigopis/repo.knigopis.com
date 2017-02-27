@@ -1,4 +1,10 @@
 {
+    "58150658-vkontakte": {
+        "id": "58150658-vkontakte",
+        "nickname": "dr.virtuozov",
+        "booksCount": 8,
+        "updatedAt": "2017-02-27 18:54:41"
+    },
     "49dc69d6d985a820-liveid": {
         "id": "49dc69d6d985a820-liveid",
         "nickname": "submerged",
@@ -172,11 +178,5 @@
         "nickname": "1",
         "booksCount": 0,
         "updatedAt": "2017-02-21 11:04:43"
-    },
-    "45786870-vkontakte": {
-        "id": "45786870-vkontakte",
-        "nickname": "dinameet",
-        "booksCount": 1,
-        "updatedAt": "2017-02-20 17:06:18"
     }
 }
