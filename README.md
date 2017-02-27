@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>247</sup> 
 [Michaelmp](users/102/102340590821783704774-google)<sup>1</sup> 
 [igor1980](users/100/100003094239547-facebook)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>6</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 [Иван](users/111/111223381196748176136-google)<sup>11</sup> 
-[ya.dementia1](users/339/339516889-yandex)<sup>0</sup> 
 
 
-_26.02.2017 20:40:11_
+_27.02.2017 00:10:08_
