@@ -1,4 +1,16 @@
 {
+    "tduNKDIRJ1": {
+        "id": "tduNKDIRJ1",
+        "title": "Задача трех тел 1-2",
+        "author": "Лю Цысинь",
+        "notes": "",
+        "createdAt": "2017-02-27 09:18:30",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 41
+        }
+    },
     "8whkekq_o1": {
         "id": "8whkekq_o1",
         "title": "Девятый-4. Адмирал Южных морей.",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 24
-        }
-    },
-    "AhO5XTd9o9": {
-        "id": "AhO5XTd9o9",
-        "title": "Управление интеллектом по методу Сильва",
-        "author": "Хосе Сильва, Берт Голдман",
-        "notes": "",
-        "createdAt": "2017-02-19 15:09:12",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 11
         }
     }
 }

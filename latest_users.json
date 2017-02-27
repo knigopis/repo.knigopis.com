@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 41,
+        "updatedAt": "2017-02-27 09:18:30"
+    },
     "262728606-vkontakte": {
         "id": "262728606-vkontakte",
         "nickname": "bidarejze",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 24,
         "updatedAt": "2017-02-19 17:23:25"
-    },
-    "111223381196748176136-google": {
-        "id": "111223381196748176136-google",
-        "nickname": "Иван",
-        "booksCount": 11,
-        "updatedAt": "2017-02-19 15:09:12"
     }
 }
