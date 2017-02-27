@@ -1,4 +1,16 @@
 {
+    "5z6Pceg_3X": {
+        "id": "5z6Pceg_3X",
+        "title": "Темный Эвери",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-02-27 09:18:58",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 42
+        }
+    },
     "tduNKDIRJ1": {
         "id": "tduNKDIRJ1",
         "title": "Задача трех тел 1-2",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 6
-        }
-    },
-    "Und2OwdCCl": {
-        "id": "Und2OwdCCl",
-        "title": "Солярис",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-02-19 17:23:25",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 24
         }
     }
 }
