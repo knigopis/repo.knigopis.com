@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>43</sup> 
 [bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>247</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
 [dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
 [Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
-[raikiri](users/384/384194935-vkontakte)<sup>33</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 
 
-_27.02.2017 09:20:48_
+_27.02.2017 13:15:38_
