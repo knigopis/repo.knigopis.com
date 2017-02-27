@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged.in](users/471/471364154-yandex)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>43</sup> 
 [bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
 [dinameet](users/457/45786870-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>6</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>24</sup> 
 
 
-_27.02.2017 13:15:38_
+_27.02.2017 17:05:19_
