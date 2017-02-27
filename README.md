@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dr.virtuozov](users/581/58150658-vkontakte)<sup>9</sup> 
+[dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
 [submerged.in](users/471/471364154-yandex)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [1](users/108/108136612068109501636-google)<sup>0</sup> 
 
 
-_27.02.2017 18:55:11_
+_27.02.2017 19:08:39_
