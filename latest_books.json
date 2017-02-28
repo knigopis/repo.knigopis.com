@@ -1,4 +1,16 @@
 {
+    "d8Ww_EFdO-": {
+        "id": "d8Ww_EFdO-",
+        "title": "Властелин колец (Трилогия)",
+        "author": "Дж. Р. Р. Толкин",
+        "notes": "",
+        "createdAt": "2017-02-28 21:10:04",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged",
+            "booksCount": 1
+        }
+    },
     "0E99G9vHao": {
         "id": "0E99G9vHao",
         "title": "На Западном фронте без перемен",
@@ -344,18 +356,6 @@
         "user": {
             "id": "113067458098031017098-google",
             "nickname": "anyzaya",
-            "booksCount": 1
-        }
-    },
-    "K1hNOkFIcG": {
-        "id": "K1hNOkFIcG",
-        "title": "Приемы объектно-ориентированного проектирования. Паттерны проектирования.",
-        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
-        "notes": "https://www.goodreads.com/review/list/65213268?shelf=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0",
-        "createdAt": "2017-02-21 11:00:34",
-        "user": {
-            "id": "108136612068109501636-google",
-            "nickname": "1",
             "booksCount": 1
         }
     }

@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged](users/471/471364154-yandex)<sup>1</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 [Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
 [myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
 [dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
-[submerged.in](users/471/471364154-yandex)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>43</sup> 
 [bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
 
 
-_28.02.2017 19:03:00_
+_28.02.2017 21:10:04_
