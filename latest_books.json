@@ -1,4 +1,16 @@
 {
+    "0E99G9vHao": {
+        "id": "0E99G9vHao",
+        "title": "На Западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-02-28 19:03:00",
+        "user": {
+            "id": "241453083-vkontakte",
+            "nickname": "Nyansta",
+            "booksCount": 1
+        }
+    },
     "sYSsP4CRep": {
         "id": "sYSsP4CRep",
         "title": "Совершенный код",
@@ -344,18 +356,6 @@
         "user": {
             "id": "108136612068109501636-google",
             "nickname": "1",
-            "booksCount": 1
-        }
-    },
-    "WVrCF4ZpfK": {
-        "id": "WVrCF4ZpfK",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-02-20 17:06:18",
-        "user": {
-            "id": "45786870-vkontakte",
-            "nickname": "dinameet",
             "booksCount": 1
         }
     }
