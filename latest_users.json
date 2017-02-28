@@ -1,4 +1,10 @@
 {
+    "73362173-vkontakte": {
+        "id": "73362173-vkontakte",
+        "nickname": "myxomatoz",
+        "booksCount": 0,
+        "updatedAt": "2017-02-28 14:34:59"
+    },
     "58150658-vkontakte": {
         "id": "58150658-vkontakte",
         "nickname": "dr.virtuozov",
@@ -172,11 +178,5 @@
         "nickname": "lordcommander",
         "booksCount": 0,
         "updatedAt": "2017-02-21 15:49:25"
-    },
-    "108136612068109501636-google": {
-        "id": "108136612068109501636-google",
-        "nickname": "1",
-        "booksCount": 0,
-        "updatedAt": "2017-02-21 11:04:43"
     }
 }
