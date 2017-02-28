@@ -1,4 +1,10 @@
 {
+    "241453083-vkontakte": {
+        "id": "241453083-vkontakte",
+        "nickname": "Nyansta",
+        "booksCount": 0,
+        "updatedAt": "2017-02-28 19:01:30"
+    },
     "2180163884-twitter": {
         "id": "2180163884-twitter",
         "nickname": "Lis_Verde",
@@ -172,11 +178,5 @@
         "nickname": "amedvedev",
         "booksCount": 1,
         "updatedAt": "2017-02-22 16:12:36"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 4,
-        "updatedAt": "2017-02-22 08:01:45"
     }
 }
