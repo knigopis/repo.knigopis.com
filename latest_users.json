@@ -1,4 +1,10 @@
 {
+    "100942626501645498652-google": {
+        "id": "100942626501645498652-google",
+        "nickname": "Zosya",
+        "booksCount": 0,
+        "updatedAt": "2017-02-28 14:41:10"
+    },
     "73362173-vkontakte": {
         "id": "73362173-vkontakte",
         "nickname": "myxomatoz",
@@ -172,11 +178,5 @@
         "nickname": "anyzaya",
         "booksCount": 1,
         "updatedAt": "2017-02-21 18:55:00"
-    },
-    "249316148-vkontakte": {
-        "id": "249316148-vkontakte",
-        "nickname": "lordcommander",
-        "booksCount": 0,
-        "updatedAt": "2017-02-21 15:49:25"
     }
 }
