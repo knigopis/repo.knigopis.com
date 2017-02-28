@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[submerged](users/471/471364154-yandex)<sup>1</sup> 
+[submerged](users/471/471364154-yandex)<sup>2</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 [Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
 
 
-_28.02.2017 21:10:04_
+_28.02.2017 21:10:29_
