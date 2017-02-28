@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
 [myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
 [dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>4</sup> 
 [anyzaya](users/113/113067458098031017098-google)<sup>1</sup> 
-[lordcommander](users/249/249316148-vkontakte)<sup>0</sup> 
 
 
-_28.02.2017 14:35:00_
+_28.02.2017 14:41:11_
