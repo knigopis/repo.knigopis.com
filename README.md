@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 [Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
 [myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
 [8979323846_](users/709/709075507430735873-twitter)<sup>0</sup> 
 [amedvedev](users/116/116724485485289737307-google)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>4</sup> 
 
 
-_28.02.2017 16:36:57_
+_28.02.2017 19:01:31_
