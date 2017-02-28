@@ -1,4 +1,10 @@
 {
+    "2180163884-twitter": {
+        "id": "2180163884-twitter",
+        "nickname": "Lis_Verde",
+        "booksCount": 0,
+        "updatedAt": "2017-02-28 16:36:56"
+    },
     "100942626501645498652-google": {
         "id": "100942626501645498652-google",
         "nickname": "Zosya",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 4,
         "updatedAt": "2017-02-22 08:01:45"
-    },
-    "113067458098031017098-google": {
-        "id": "113067458098031017098-google",
-        "nickname": "anyzaya",
-        "booksCount": 1,
-        "updatedAt": "2017-02-21 18:55:00"
     }
 }
