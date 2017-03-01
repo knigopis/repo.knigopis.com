@@ -1,7 +1,12 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>2</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>3</sup>
 ---
 
 ## 2017
+
+### Обитаемый остров
+Аркадий и Борис Стругацкие
+> [2017-02] 
+
 
 ### За миллиард лет до конца света
 Аркадий и Борис Стругацкие
