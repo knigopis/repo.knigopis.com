@@ -1,7 +1,13 @@
-# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>16</sup>
+# List of books read by [Semmi Colins ](https://plus.google.com/100632786848817999592)<sup>17</sup>
 ---
 
 ## 2017
+
+### Волхв (Маг)
+Джон Фаулз
+> [2017-03-01] 1965
+>  (англ. The Magus; в другом переводе «Маг»)
+
 
 ### О дивный новый мир
 Олдос Хаксли

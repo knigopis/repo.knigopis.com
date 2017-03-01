@@ -1,4 +1,16 @@
 {
+    "gJViFBs7OX": {
+        "id": "gJViFBs7OX",
+        "title": "Волхв (Маг)",
+        "author": "Джон Фаулз",
+        "notes": "1965\n (англ. The Magus; в другом переводе «Маг»)",
+        "createdAt": "2017-03-01 00:53:13",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 17
+        }
+    },
     "bTmqmooHpq": {
         "id": "bTmqmooHpq",
         "title": "ГКН 8",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 32
-        }
-    },
-    "P2afrcJHtw": {
-        "id": "P2afrcJHtw",
-        "title": "Savage Continent: Europe in the Aftermath of World War II",
-        "author": "Keith Lowe",
-        "notes": "ASIN: B006ZL9C8E",
-        "createdAt": "2017-02-07 17:52:26",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 31
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
 * Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
 * Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
@@ -30,7 +31,6 @@
 * Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 * Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 * Между Европой и Азией. История Российского государства. Семнадцатый век. ~ [exulted](users/100/100599204551896265722-google)<sup>32</sup>
-* Savage Continent: Europe in the Aftermath of World War II ~ [exulted](users/100/100599204551896265722-google)<sup>31</sup>
 
 
-_27.02.2017 09:20:48_
+_01.03.2017 00:53:13_

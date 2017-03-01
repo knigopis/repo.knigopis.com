@@ -1,4 +1,16 @@
 {
+    "gJViFBs7OX": {
+        "id": "gJViFBs7OX",
+        "title": "Волхв (Маг)",
+        "author": "Джон Фаулз",
+        "notes": "1965\n (англ. The Magus; в другом переводе «Маг»)",
+        "createdAt": "2017-03-01 00:53:13",
+        "user": {
+            "id": "100632786848817999592-google",
+            "nickname": "Semmi Colins ",
+            "booksCount": 17
+        }
+    },
     "to0m1Hkjlg": {
         "id": "to0m1Hkjlg",
         "title": "Мечты роботов (Сборник рассказов, состоящий из двух частей и эссе)",
@@ -344,18 +356,6 @@
         "user": {
             "id": "107974099098301623019-google",
             "nickname": "redcrayon",
-            "booksCount": 1
-        }
-    },
-    "hn_xIijpO3": {
-        "id": "hn_xIijpO3",
-        "title": "Русь за трапезой",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-02-22 16:12:36",
-        "user": {
-            "id": "116724485485289737307-google",
-            "nickname": "amedvedev",
             "booksCount": 1
         }
     }
