@@ -1,4 +1,16 @@
 {
+    "1mbU_PqGeC": {
+        "id": "1mbU_PqGeC",
+        "title": "За миллиард лет до конца света",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-03-01 20:17:47",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 2
+        }
+    },
     "gJViFBs7OX": {
         "id": "gJViFBs7OX",
         "title": "Волхв (Маг)",
@@ -344,18 +356,6 @@
         "user": {
             "id": "1390208307860185935-mailru",
             "nickname": "AnnaLain",
-            "booksCount": 1
-        }
-    },
-    "vlfu8hA5TM": {
-        "id": "vlfu8hA5TM",
-        "title": "123432",
-        "author": "234",
-        "notes": "",
-        "createdAt": "2017-02-23 10:36:00",
-        "user": {
-            "id": "107974099098301623019-google",
-            "nickname": "redcrayon",
             "booksCount": 1
         }
     }

@@ -1,4 +1,10 @@
 {
+    "35140437-vkontakte": {
+        "id": "35140437-vkontakte",
+        "nickname": "miatka",
+        "booksCount": 2,
+        "updatedAt": "2017-03-01 20:17:47"
+    },
     "386369337-vkontakte": {
         "id": "386369337-vkontakte",
         "nickname": "dajanavera",
@@ -172,11 +178,5 @@
         "nickname": "AnnaLain",
         "booksCount": 1,
         "updatedAt": "2017-02-23 12:27:49"
-    },
-    "107974099098301623019-google": {
-        "id": "107974099098301623019-google",
-        "nickname": "redcrayon",
-        "booksCount": 0,
-        "updatedAt": "2017-02-23 10:36:26"
     }
 }

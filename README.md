@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miatka](users/351/35140437-vkontakte)<sup>2</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
-[redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
 
 
-_01.03.2017 17:42:26_
+_01.03.2017 20:17:47_
