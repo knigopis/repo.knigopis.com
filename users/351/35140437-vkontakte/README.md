@@ -1,7 +1,12 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>3</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>4</sup>
 ---
 
 ## 2017
+
+### Жук в муравейнике
+Аркадий и Борис Стругацкие
+> [2017-02] аудиокнигой
+
 
 ### Обитаемый остров
 Аркадий и Борис Стругацкие

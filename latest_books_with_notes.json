@@ -1,4 +1,16 @@
 {
+    "mPkFuoNz8v": {
+        "id": "mPkFuoNz8v",
+        "title": "Жук в муравейнике",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "аудиокнигой",
+        "createdAt": "2017-03-01 20:19:23",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 4
+        }
+    },
     "gJViFBs7OX": {
         "id": "gJViFBs7OX",
         "title": "Волхв (Маг)",
@@ -345,18 +357,6 @@
             "id": "111223381196748176136-google",
             "nickname": "Иван",
             "booksCount": 8
-        }
-    },
-    "KN1BvXDTer": {
-        "id": "KN1BvXDTer",
-        "title": "Между Европой и Азией. История Российского государства. Семнадцатый век.",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-082554-7",
-        "createdAt": "2017-02-07 17:54:50",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 32
         }
     }
 }
