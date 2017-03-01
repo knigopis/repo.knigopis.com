@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
+    > аудиокнигой
+
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
     > аудиокнигой
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     >  (англ. The Magus; в другом переводе «Маг»)
 
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
-    > Очередная глава о приключениях Росгарда, Великого Навигатора Альгоры.
-    > С учетом моего залпового чтения литрпг, гкн, барлиону и ичж можно смело перечитывать заного ибо все смешалось в кучу
 
 * Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
 
-* Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miatka](users/351/35140437-vkontakte)<sup>4</sup> 
+[miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
 
 
-_01.03.2017 20:19:23_
+_01.03.2017 20:19:44_

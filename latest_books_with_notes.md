@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
@@ -30,7 +31,6 @@
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 * Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
 * Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
-* Думай и богатей! ~ [Иван](users/111/111223381196748176136-google)<sup>8</sup>
 
 
-_01.03.2017 20:19:23_
+_01.03.2017 20:19:44_

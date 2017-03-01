@@ -1,4 +1,16 @@
 {
+    "F0h3PHe-F_": {
+        "id": "F0h3PHe-F_",
+        "title": "Волны гасят ветер",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "аудиокнигой",
+        "createdAt": "2017-03-01 20:19:44",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 5
+        }
+    },
     "mPkFuoNz8v": {
         "id": "mPkFuoNz8v",
         "title": "Жук в муравейнике",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 16
-        }
-    },
-    "XTwMcrLALk": {
-        "id": "XTwMcrLALk",
-        "title": "Неугомонный убийца",
-        "author": "Том Макферсон",
-        "notes": "Книга о мужчине, ухаживающем за садом своей жены и решившим её там закопать.",
-        "createdAt": "2017-02-23 14:55:35",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 103
         }
     }
 }

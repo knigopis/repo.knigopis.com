@@ -1,7 +1,12 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>4</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>5</sup>
 ---
 
 ## 2017
+
+### Волны гасят ветер
+Аркадий и Борис Стругацкие
+> [2017-03] аудиокнигой
+
 
 ### Жук в муравейнике
 Аркадий и Борис Стругацкие
