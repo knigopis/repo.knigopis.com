@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 [sonbaker](users/370/370437264-vkontakte)<sup>0</sup> 
 [submerged](users/471/471364154-yandex)<sup>3</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AnnaLain](users/139/1390208307860185935-mailru)<sup>1</sup> 
 [redcrayon](users/107/107974099098301623019-google)<sup>0</sup> 
 [sashabran](users/207/207406718-vkontakte)<sup>0</sup> 
-[8979323846_](users/709/709075507430735873-twitter)<sup>0</sup> 
 
 
-_01.03.2017 00:53:13_
+_01.03.2017 07:43:43_
