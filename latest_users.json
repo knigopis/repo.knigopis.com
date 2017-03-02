@@ -1,4 +1,10 @@
 {
+    "137875876-vkontakte": {
+        "id": "137875876-vkontakte",
+        "nickname": "don_fenix",
+        "booksCount": 0,
+        "updatedAt": "2017-03-02 06:28:18"
+    },
     "35140437-vkontakte": {
         "id": "35140437-vkontakte",
         "nickname": "miatka",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 103,
         "updatedAt": "2017-02-23 14:55:35"
-    },
-    "1390208307860185935-mailru": {
-        "id": "1390208307860185935-mailru",
-        "nickname": "AnnaLain",
-        "booksCount": 1,
-        "updatedAt": "2017-02-23 12:27:49"
     }
 }
