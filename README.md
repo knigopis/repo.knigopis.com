@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Bagugus](users/106/106584244159462150750-google)<sup>0</sup> 
+[Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 
 
-_02.03.2017 18:41:12_
+_02.03.2017 18:59:53_

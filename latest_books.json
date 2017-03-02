@@ -1,4 +1,16 @@
 {
+    "-7VTk5UBEX": {
+        "id": "-7VTk5UBEX",
+        "title": "уук",
+        "author": "кинг",
+        "notes": "",
+        "createdAt": "2017-03-02 18:59:53",
+        "user": {
+            "id": "106584244159462150750-google",
+            "nickname": "Bagugus",
+            "booksCount": 1
+        }
+    },
     "LdpzntHYOB": {
         "id": "LdpzntHYOB",
         "title": "Добрые предзнаменования",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 95
-        }
-    },
-    "NZtsRikfBE": {
-        "id": "NZtsRikfBE",
-        "title": "Властелин Колец: Две твердыни. Часть 2",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "Властелин Колец",
-        "createdAt": "2017-02-24 10:46:19",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 94
         }
     }
 }
