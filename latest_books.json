@@ -1,4 +1,16 @@
 {
+    "LdpzntHYOB": {
+        "id": "LdpzntHYOB",
+        "title": "Добрые предзнаменования",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2017-03-02 12:40:27",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 90
+        }
+    },
     "F0h3PHe-F_": {
         "id": "F0h3PHe-F_",
         "title": "Волны гасят ветер",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 94
-        }
-    },
-    "2usAf6wy36": {
-        "id": "2usAf6wy36",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "Впервые опубликовано : 1932",
-        "createdAt": "2017-02-23 17:00:08",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 16
         }
     }
 }

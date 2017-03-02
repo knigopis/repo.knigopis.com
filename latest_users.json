@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 90,
+        "updatedAt": "2017-03-02 12:40:27"
+    },
     "137875876-vkontakte": {
         "id": "137875876-vkontakte",
         "nickname": "don_fenix",
@@ -172,11 +178,5 @@
         "nickname": "Zetsubou",
         "booksCount": 0,
         "updatedAt": "2017-02-24 09:06:19"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 103,
-        "updatedAt": "2017-02-23 14:55:35"
     }
 }

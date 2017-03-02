@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [Zetsubou](users/101/101863019157295982820-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup> 
 
 
-_02.03.2017 06:28:20_
+_02.03.2017 12:40:27_
