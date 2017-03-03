@@ -1,4 +1,10 @@
 {
+    "84372212-vkontakte": {
+        "id": "84372212-vkontakte",
+        "nickname": "Виктория",
+        "booksCount": 0,
+        "updatedAt": "2017-03-03 17:45:11"
+    },
     "41187135-vkontakte": {
         "id": "41187135-vkontakte",
         "nickname": "Zanoooza",
@@ -172,11 +178,5 @@
         "nickname": "olegessenin",
         "booksCount": 8,
         "updatedAt": "2017-02-25 07:41:37"
-    },
-    "104705173317718063513-google": {
-        "id": "104705173317718063513-google",
-        "nickname": "TalRaash",
-        "booksCount": 1,
-        "updatedAt": "2017-02-24 22:37:56"
     }
 }
