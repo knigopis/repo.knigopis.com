@@ -1,4 +1,10 @@
 {
+    "1299464500121936-facebook": {
+        "id": "1299464500121936-facebook",
+        "nickname": "Helena",
+        "booksCount": 0,
+        "updatedAt": "2017-03-03 08:29:20"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "dolgij_roman",
         "booksCount": 1,
         "updatedAt": "2017-02-24 19:10:41"
-    },
-    "248080973233-odnoklassniki": {
-        "id": "248080973233-odnoklassniki",
-        "nickname": "Галюня",
-        "booksCount": 0,
-        "updatedAt": "2017-02-24 19:09:35"
     }
 }
