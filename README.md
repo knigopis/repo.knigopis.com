@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
 [Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>28</sup> 
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vaness](users/547/5475694-vkontakte)<sup>1</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>8</sup> 
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
-[dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
 
 
-_03.03.2017 08:29:22_
+_03.03.2017 17:43:52_
