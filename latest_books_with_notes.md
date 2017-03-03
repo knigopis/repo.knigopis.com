@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
 * Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
-* Небесная 911 ~ [Иван](users/111/111223381196748176136-google)<sup>9</sup>
 
 
-_01.03.2017 20:19:44_
+_03.03.2017 06:52:41_

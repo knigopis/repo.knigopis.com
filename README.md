@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
+    > Это Диккенс. Тут уже нечего добавить. Сначала начала читать, плевалась от наивности, но потом прочитала о том, как надо читать книги и все изменилось. Напрочь. Совсем изменилось отношение к книге и к Диккенсу в частности. Фатализм, наивность, мораль, трудолюбие, благодарность, слезы, справедливость и много другое - все это одни и те же кирпичики его произведений. Он полностью человек своей эпохи.
+
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
     > аудиокнигой
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > аудиокнигой
 
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
-    > 1965
-    >  (англ. The Magus; в другом переводе «Маг»)
 
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
 
-* О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>28</sup> 
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TalRaash](users/104/104705173317718063513-google)<sup>1</sup> 
 [dolgij_roman](users/274/27419240-vkontakte)<sup>1</sup> 
 [Галюня](users/248/248080973233-odnoklassniki)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 
 
-_02.03.2017 18:59:53_
+_03.03.2017 06:52:41_
