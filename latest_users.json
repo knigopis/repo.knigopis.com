@@ -1,4 +1,10 @@
 {
+    "41187135-vkontakte": {
+        "id": "41187135-vkontakte",
+        "nickname": "Zanoooza",
+        "booksCount": 0,
+        "updatedAt": "2017-03-03 17:43:49"
+    },
     "1299464500121936-facebook": {
         "id": "1299464500121936-facebook",
         "nickname": "Helena",
@@ -172,11 +178,5 @@
         "nickname": "TalRaash",
         "booksCount": 1,
         "updatedAt": "2017-02-24 22:37:56"
-    },
-    "27419240-vkontakte": {
-        "id": "27419240-vkontakte",
-        "nickname": "dolgij_roman",
-        "booksCount": 1,
-        "updatedAt": "2017-02-24 19:10:41"
     }
 }
