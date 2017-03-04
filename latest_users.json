@@ -1,4 +1,10 @@
 {
+    "179481296-vkontakte": {
+        "id": "179481296-vkontakte",
+        "nickname": "polly_noise",
+        "booksCount": 0,
+        "updatedAt": "2017-03-04 21:10:56"
+    },
     "192594353-yandex": {
         "id": "192594353-yandex",
         "nickname": "il.sospetto",
@@ -172,11 +178,5 @@
         "nickname": "reginalefler",
         "booksCount": 0,
         "updatedAt": "2017-02-25 16:17:36"
-    },
-    "5475694-vkontakte": {
-        "id": "5475694-vkontakte",
-        "nickname": "vaness",
-        "booksCount": 1,
-        "updatedAt": "2017-02-25 08:37:46"
     }
 }
