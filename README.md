@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
 [Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
 [Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>137</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [reginalefler](users/664/66414701-vkontakte)<sup>0</sup> 
-[vaness](users/547/5475694-vkontakte)<sup>1</sup> 
 
 
-_04.03.2017 15:52:14_
+_04.03.2017 21:10:57_
