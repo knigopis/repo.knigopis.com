@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ann Rott](users/108/108774233915925319546-google)<sup>0</sup> 
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
 [Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [igor1980](users/100/100003094239547-facebook)<sup>9</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>137</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
-[reginalefler](users/664/66414701-vkontakte)<sup>0</sup> 
 
 
-_04.03.2017 21:10:57_
+_05.03.2017 09:10:13_
