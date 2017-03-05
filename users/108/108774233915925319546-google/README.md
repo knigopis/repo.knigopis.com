@@ -1,5 +1,13 @@
-# List of books read by [Ann Rott](https://plus.google.com/108774233915925319546)<sup>1</sup>
+# List of books read by [Ann Rott](https://plus.google.com/108774233915925319546)<sup>2</sup>
 ---
+
+## 2016
+
+### Искусство любить
+Эрих Фромм
+> [2016-05] Довольно сложно для меня. Не всё поняла. Надо перечитать
+
+
 
 ## 2013
 

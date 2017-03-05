@@ -1,4 +1,16 @@
 {
+    "bx-m7TuaGN": {
+        "id": "bx-m7TuaGN",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "Довольно сложно для меня. Не всё поняла. Надо перечитать",
+        "createdAt": "2017-03-05 09:13:24",
+        "user": {
+            "id": "108774233915925319546-google",
+            "nickname": "Ann Rott",
+            "booksCount": 2
+        }
+    },
     "jp_Kbddxje": {
         "id": "jp_Kbddxje",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiri",
             "booksCount": 33
-        }
-    },
-    "hJPJ8ULTV6": {
-        "id": "hJPJ8ULTV6",
-        "title": "Агата Кристи",
-        "author": "Часы",
-        "notes": "",
-        "createdAt": "2017-02-24 13:42:27",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiri",
-            "booksCount": 32
         }
     }
 }
