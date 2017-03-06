@@ -1,4 +1,16 @@
 {
+    "Z1K89y2yMc": {
+        "id": "Z1K89y2yMc",
+        "title": "Сон номер 9",
+        "author": "Митчел Дэвид",
+        "notes": "",
+        "createdAt": "2017-03-06 06:16:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 5
+        }
+    },
     "bx-m7TuaGN": {
         "id": "bx-m7TuaGN",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "27419240-vkontakte",
             "nickname": "dolgij_roman",
             "booksCount": 1
-        }
-    },
-    "-Gss9sr0M1": {
-        "id": "-Gss9sr0M1",
-        "title": "Джеймс Х. Чейз",
-        "author": "Лапа в бутылке",
-        "notes": "",
-        "createdAt": "2017-02-24 13:42:55",
-        "user": {
-            "id": "384194935-vkontakte",
-            "nickname": "raikiri",
-            "booksCount": 33
         }
     }
 }

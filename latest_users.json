@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 5,
+        "updatedAt": "2017-03-06 06:16:58"
+    },
     "108774233915925319546-google": {
         "id": "108774233915925319546-google",
         "nickname": "Ann Rott",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 137,
         "updatedAt": "2017-02-25 16:49:23"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 27,
-        "updatedAt": "2017-02-25 16:34:44"
     }
 }
