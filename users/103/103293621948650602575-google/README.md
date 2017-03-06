@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>48</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>49</sup>
 ---
 
 ## 2017
@@ -181,6 +181,10 @@
 
 
 ## 2014
+
+### Великан-эгоист
+Оскар Уайльд
+
 
 ### Соловей и Роза
 Оскар Уайльд
