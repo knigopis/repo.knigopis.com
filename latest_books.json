@@ -1,4 +1,16 @@
 {
+    "L8UNnJozLA": {
+        "id": "L8UNnJozLA",
+        "title": "Гарри Поттер и Тайная Комната",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-03-06 08:56:47",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 10
+        }
+    },
     "afvSb0S6NB": {
         "id": "afvSb0S6NB",
         "title": "Гарри Поттер и Философский Камень",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 41
-        }
-    },
-    "8whkekq_o1": {
-        "id": "8whkekq_o1",
-        "title": "Девятый-4. Адмирал Южных морей.",
-        "author": "Андрей Каменистый",
-        "notes": "",
-        "createdAt": "2017-02-26 20:40:11",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 247
         }
     }
 }
