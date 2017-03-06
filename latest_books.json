@@ -1,4 +1,16 @@
 {
+    "JbvZjih_nh": {
+        "id": "JbvZjih_nh",
+        "title": "Лекарство от Смерти",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-03-06 08:55:14",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 5
+        }
+    },
     "gVfoaCty-P": {
         "id": "gVfoaCty-P",
         "title": "Испытание Огнем",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 137
-        }
-    },
-    "ZcbBzirjW-": {
-        "id": "ZcbBzirjW-",
-        "title": "Бытие",
-        "author": "Библия",
-        "notes": "",
-        "createdAt": "2017-02-25 16:34:44",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 27
         }
     }
 }

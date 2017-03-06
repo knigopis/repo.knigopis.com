@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>4</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>5</sup>
 ---
 
 ## 2015
+
+### Лекарство от Смерти
+Джеймс Дэшнер
+> [2015-02] 
+
 
 ### Испытание Огнем
 Джеймс Дэшнер
