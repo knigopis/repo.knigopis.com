@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>42</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>43</sup>
 ---
 
 ## 2017
@@ -215,6 +215,13 @@
 
 ### 451 Градус по Фаренгейту
 Рэй Брэдбери
+
+
+
+## 2012
+
+### Оскар и Розовая Дама
+Эрик-Эммануэль Шмитт
 
 
 
