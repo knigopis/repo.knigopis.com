@@ -1,4 +1,16 @@
 {
+    "ISuufD6uCS": {
+        "id": "ISuufD6uCS",
+        "title": "Сотня",
+        "author": "Кэсс Морган",
+        "notes": "",
+        "createdAt": "2017-03-06 08:58:16",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 15
+        }
+    },
     "jG1Fc7tRsr": {
         "id": "jG1Fc7tRsr",
         "title": "Бесконечное Море",
@@ -345,18 +357,6 @@
             "id": "241453083-vkontakte",
             "nickname": "Nyansta",
             "booksCount": 1
-        }
-    },
-    "sYSsP4CRep": {
-        "id": "sYSsP4CRep",
-        "title": "Совершенный код",
-        "author": "Стив Макконнелл",
-        "notes": "",
-        "createdAt": "2017-02-27 19:08:55",
-        "user": {
-            "id": "58150658-vkontakte",
-            "nickname": "dr.virtuozov",
-            "booksCount": 8
         }
     }
 }
