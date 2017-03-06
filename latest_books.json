@@ -1,4 +1,16 @@
 {
+    "YKUoL_LsYZ": {
+        "id": "YKUoL_LsYZ",
+        "title": "Волшебные твари и где их искать",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-03-06 09:00:02",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 21
+        }
+    },
     "uonHssPSyo": {
         "id": "uonHssPSyo",
         "title": "Гарри Поттер и Узник Азкабана",
@@ -345,18 +357,6 @@
             "id": "35140437-vkontakte",
             "nickname": "miatka",
             "booksCount": 3
-        }
-    },
-    "1mbU_PqGeC": {
-        "id": "1mbU_PqGeC",
-        "title": "За миллиард лет до конца света",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-03-01 20:17:47",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 2
         }
     }
 }
