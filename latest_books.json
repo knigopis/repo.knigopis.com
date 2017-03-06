@@ -1,4 +1,16 @@
 {
+    "8k8YaZMNEC": {
+        "id": "8k8YaZMNEC",
+        "title": "Повелитель Мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-03-06 08:57:13",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 11
+        }
+    },
     "L8UNnJozLA": {
         "id": "L8UNnJozLA",
         "title": "Гарри Поттер и Тайная Комната",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 42
-        }
-    },
-    "tduNKDIRJ1": {
-        "id": "tduNKDIRJ1",
-        "title": "Задача трех тел 1-2",
-        "author": "Лю Цысинь",
-        "notes": "",
-        "createdAt": "2017-02-27 09:18:30",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 41
         }
     }
 }
