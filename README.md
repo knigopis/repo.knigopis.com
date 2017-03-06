@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Брусникина](users/374/374307269-vkontakte)<sup>2</sup> 
+[Брусникина](users/374/374307269-vkontakte)<sup>3</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>247</sup> 
 
 
-_06.03.2017 16:32:27_
+_06.03.2017 16:33:32_
