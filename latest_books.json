@@ -1,4 +1,16 @@
 {
+    "VR1jdRaofn": {
+        "id": "VR1jdRaofn",
+        "title": "Игра Престолов",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2017-03-06 09:02:22",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 29
+        }
+    },
     "PLZekvRhYB": {
         "id": "PLZekvRhYB",
         "title": "Город Костей",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 5
-        }
-    },
-    "bx-m7TuaGN": {
-        "id": "bx-m7TuaGN",
-        "title": "Искусство любить",
-        "author": "Эрих Фромм",
-        "notes": "Довольно сложно для меня. Не всё поняла. Надо перечитать",
-        "createdAt": "2017-03-05 09:13:24",
-        "user": {
-            "id": "108774233915925319546-google",
-            "nickname": "Ann Rott",
-            "booksCount": 2
         }
     }
 }
