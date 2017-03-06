@@ -1,4 +1,16 @@
 {
+    "ydgEIjs5VG": {
+        "id": "ydgEIjs5VG",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:25:00",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 46
+        }
+    },
     "Y_flEGb7zw": {
         "id": "Y_flEGb7zw",
         "title": "Ходячий Замок",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 17
-        }
-    },
-    "F8CQUcYk0W": {
-        "id": "F8CQUcYk0W",
-        "title": "О Дивный Новый Мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2017-03-06 08:58:29",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 16
         }
     }
 }
