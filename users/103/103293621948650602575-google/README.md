@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>43</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>44</sup>
 ---
 
 ## 2017
@@ -219,6 +219,10 @@
 
 
 ## 2012
+
+### Призрак Оперы
+Гастон Леру
+
 
 ### Оскар и Розовая Дама
 Эрик-Эммануэль Шмитт
