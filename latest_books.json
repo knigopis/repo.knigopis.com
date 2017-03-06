@@ -1,4 +1,16 @@
 {
+    "f4RmKzh4cD": {
+        "id": "f4RmKzh4cD",
+        "title": "Маленькие Люди",
+        "author": "Артур Мейчен",
+        "notes": "",
+        "createdAt": "2017-03-06 08:55:46",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 8
+        }
+    },
     "7kKMZImoGf": {
         "id": "7kKMZImoGf",
         "title": "Белые Люди",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 246
-        }
-    },
-    "pBywlFSMra": {
-        "id": "pBywlFSMra",
-        "title": "Економіка ХХ1",
-        "author": "Олексій Геращенко",
-        "notes": "",
-        "createdAt": "2017-02-26 18:35:18",
-        "user": {
-            "id": "102340590821783704774-google",
-            "nickname": "Michaelmp",
-            "booksCount": 1
         }
     }
 }
