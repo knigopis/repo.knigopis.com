@@ -1,4 +1,16 @@
 {
+    "De2gsHDcd3": {
+        "id": "De2gsHDcd3",
+        "title": "Битва Королей",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2017-03-06 09:03:11",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 31
+        }
+    },
     "CTGPaFLow5": {
         "id": "CTGPaFLow5",
         "title": "Возвращение со Звёзд",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 2
-        }
-    },
-    "s27D6aTj4J": {
-        "id": "s27D6aTj4J",
-        "title": "История с Кладбищем",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-06 08:53:33",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 1
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>30</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>31</sup>
 ---
+
+## 2017
+
+### Битва Королей
+Джордж Мартин
+> [2017-10] 
+
+
 
 ## 2016
 
