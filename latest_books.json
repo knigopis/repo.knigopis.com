@@ -1,4 +1,16 @@
 {
+    "EbHNEyoUnl": {
+        "id": "EbHNEyoUnl",
+        "title": "Свободное Падение",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-03-06 08:59:30",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 19
+        }
+    },
     "U-tUiOOg8H": {
         "id": "U-tUiOOg8H",
         "title": "Питер Пэн",
@@ -345,18 +357,6 @@
             "id": "100632786848817999592-google",
             "nickname": "Semmi Colins ",
             "booksCount": 17
-        }
-    },
-    "to0m1Hkjlg": {
-        "id": "to0m1Hkjlg",
-        "title": "Мечты роботов (Сборник рассказов, состоящий из двух частей и эссе)",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2017-02-28 21:11:12",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged",
-            "booksCount": 3
         }
     }
 }
