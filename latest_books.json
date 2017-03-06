@@ -1,4 +1,16 @@
 {
+    "CTGPaFLow5": {
+        "id": "CTGPaFLow5",
+        "title": "Возвращение со Звёзд",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2017-03-06 09:02:53",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 30
+        }
+    },
     "VR1jdRaofn": {
         "id": "VR1jdRaofn",
         "title": "Игра Престолов",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 1
-        }
-    },
-    "Z1K89y2yMc": {
-        "id": "Z1K89y2yMc",
-        "title": "Сон номер 9",
-        "author": "Митчел Дэвид",
-        "notes": "",
-        "createdAt": "2017-03-06 06:16:58",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 5
         }
     }
 }

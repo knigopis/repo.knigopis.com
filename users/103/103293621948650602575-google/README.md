@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>29</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>30</sup>
 ---
 
 ## 2016
+
+### Возвращение со Звёзд
+Станислав Лем
+> [2016-10] 
+
 
 ### Игра Престолов
 Джордж Мартин
