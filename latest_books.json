@@ -1,4 +1,16 @@
 {
+    "A27LyUDGDb": {
+        "id": "A27LyUDGDb",
+        "title": "Буря Мечей",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2017-03-06 09:04:56",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 33
+        }
+    },
     "ok8gS3MIq4": {
         "id": "ok8gS3MIq4",
         "title": "Сказка Сказок",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 4
-        }
-    },
-    "qCyJKz4Osf": {
-        "id": "qCyJKz4Osf",
-        "title": "Но молоко, к счастью...",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-06 08:54:04",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 3
         }
     }
 }
