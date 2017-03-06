@@ -1,4 +1,28 @@
 {
+    "E9Czb0G-TE": {
+        "id": "E9Czb0G-TE",
+        "title": "\"Сталкер\"",
+        "author": "Стругацкие",
+        "notes": "Это Стругацкие. Этим всё сказано",
+        "createdAt": "2017-03-06 16:41:34",
+        "user": {
+            "id": "374307269-vkontakte",
+            "nickname": "Брусникина",
+            "booksCount": 8
+        }
+    },
+    "oxMWWTxBcW": {
+        "id": "oxMWWTxBcW",
+        "title": "\"Ареал. Обречённые\"",
+        "author": "Сергей Сергеевич Тармашев",
+        "notes": "",
+        "createdAt": "2017-03-06 16:39:28",
+        "user": {
+            "id": "374307269-vkontakte",
+            "nickname": "Брусникина",
+            "booksCount": 7
+        }
+    },
     "S_rjLX27BD": {
         "id": "S_rjLX27BD",
         "title": "Ареал. Цена алчности",
@@ -333,30 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 39
-        }
-    },
-    "JpTCvvCuVX": {
-        "id": "JpTCvvCuVX",
-        "title": "451 Градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-03-06 09:21:41",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 38
-        }
-    },
-    "J0-nsS-o76": {
-        "id": "J0-nsS-o76",
-        "title": "Звездная Пыль",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-06 09:21:29",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 37
         }
     }
 }
