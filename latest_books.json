@@ -1,4 +1,16 @@
 {
+    "-lCyAKh1aD": {
+        "id": "-lCyAKh1aD",
+        "title": "Гарри Поттер и Принц-полукровка",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-03-06 09:01:00",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 24
+        }
+    },
     "xNSBEurDvR": {
         "id": "xNSBEurDvR",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 90
-        }
-    },
-    "F0h3PHe-F_": {
-        "id": "F0h3PHe-F_",
-        "title": "Волны гасят ветер",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "аудиокнигой",
-        "createdAt": "2017-03-01 20:19:44",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 5
         }
     }
 }
