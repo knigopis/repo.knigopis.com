@@ -1,4 +1,16 @@
 {
+    "JpTCvvCuVX": {
+        "id": "JpTCvvCuVX",
+        "title": "451 Градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-06 09:21:41",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 38
+        }
+    },
     "J0-nsS-o76": {
         "id": "J0-nsS-o76",
         "title": "Звездная Пыль",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 9
-        }
-    },
-    "f4RmKzh4cD": {
-        "id": "f4RmKzh4cD",
-        "title": "Маленькие Люди",
-        "author": "Артур Мейчен",
-        "notes": "",
-        "createdAt": "2017-03-06 08:55:46",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 8
         }
     }
 }
