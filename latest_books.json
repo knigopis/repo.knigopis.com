@@ -1,4 +1,16 @@
 {
+    "qCyJKz4Osf": {
+        "id": "qCyJKz4Osf",
+        "title": "Но молоко, к счастью...",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2017-03-06 08:54:04",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 3
+        }
+    },
     "aYsi0QL18R": {
         "id": "aYsi0QL18R",
         "title": "Одд и Ледяные Великаны",
@@ -345,18 +357,6 @@
             "id": "5475694-vkontakte",
             "nickname": "vaness",
             "booksCount": 1
-        }
-    },
-    "DkDmh0b1_Q": {
-        "id": "DkDmh0b1_Q",
-        "title": "Как развить силу воли",
-        "author": "Уолтер Мишел",
-        "notes": "Полезная информация для саморазвития. Куча интересной информации относительно психологии личности.",
-        "createdAt": "2017-02-25 07:41:37",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 8
         }
     }
 }
