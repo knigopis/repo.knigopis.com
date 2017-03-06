@@ -1,4 +1,16 @@
 {
+    "xWHBZQQO44": {
+        "id": "xWHBZQQO44",
+        "title": "Помощник Вампира",
+        "author": "Даррен Шэн",
+        "notes": "",
+        "createdAt": "2017-03-06 09:39:31",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 56
+        }
+    },
     "pkPC2EmXUM": {
         "id": "pkPC2EmXUM",
         "title": "Цирк Уродов",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 27
-        }
-    },
-    "hjaMIAcEcG": {
-        "id": "hjaMIAcEcG",
-        "title": "Стихи, афоризмы и парадоксы",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:01:26",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 26
         }
     }
 }
