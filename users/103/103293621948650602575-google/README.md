@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>54</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>55</sup>
 ---
 
 ## 2017
@@ -240,6 +240,10 @@
 
 
 ## 2013
+
+### Цирк Уродов
+Даррен Шэн
+
 
 ### Кентервильское Привидение
 Оскар Уайльд
