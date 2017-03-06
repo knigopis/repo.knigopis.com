@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>52</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>53</sup>
 ---
 
 ## 2017
@@ -236,6 +236,10 @@
 
 
 ## 2013
+
+### Кентервильское привидение
+Оскар Уайльд
+
 
 ### Цветы для Элджернона
 Дэниел Киз

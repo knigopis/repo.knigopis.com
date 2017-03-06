@@ -1,4 +1,16 @@
 {
+    "kYUZ5bGhtc": {
+        "id": "kYUZ5bGhtc",
+        "title": "Кентервильское привидение",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:27:26",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 53
+        }
+    },
     "W5DEBSSHjl": {
         "id": "W5DEBSSHjl",
         "title": "Мальчик-звезда",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 24
-        }
-    },
-    "xNSBEurDvR": {
-        "id": "xNSBEurDvR",
-        "title": "Гарри Поттер и Орден Феникса",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-03-06 09:00:33",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 23
         }
     }
 }
