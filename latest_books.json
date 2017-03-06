@@ -1,4 +1,16 @@
 {
+    "hjaMIAcEcG": {
+        "id": "hjaMIAcEcG",
+        "title": "Стихи, афоризмы и парадоксы",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:01:26",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 26
+        }
+    },
     "SNPxwPgAto": {
         "id": "SNPxwPgAto",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 28
-        }
-    },
-    "-7VTk5UBEX": {
-        "id": "-7VTk5UBEX",
-        "title": "уук",
-        "author": "кинг",
-        "notes": "",
-        "createdAt": "2017-03-02 18:59:53",
-        "user": {
-            "id": "106584244159462150750-google",
-            "nickname": "Bagugus",
-            "booksCount": 1
         }
     }
 }

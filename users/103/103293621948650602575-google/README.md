@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>25</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>26</sup>
 ---
 
 ## 2016
+
+### Стихи, афоризмы и парадоксы
+Оскар Уайльд
+> [2016-04] 
+
 
 ### 1984
 Джордж Оруэлл
