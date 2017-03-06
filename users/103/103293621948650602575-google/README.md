@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>1</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>2</sup>
 ---
 
 ## 2015
+
+### Одд и Ледяные Великаны
+Нил Гейман
+> [2015-01] 
+
 
 ### История с Кладбищем
 Нил Гейман
