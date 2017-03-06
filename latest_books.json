@@ -1,4 +1,16 @@
 {
+    "S_rjLX27BD": {
+        "id": "S_rjLX27BD",
+        "title": "Ареал. Цена алчности",
+        "author": "Сергей Сергеевич Тармашев",
+        "notes": "",
+        "createdAt": "2017-03-06 16:37:46",
+        "user": {
+            "id": "374307269-vkontakte",
+            "nickname": "Брусникина",
+            "booksCount": 6
+        }
+    },
     "t7SgGohhTC": {
         "id": "t7SgGohhTC",
         "title": "\"Ареал. Заражение\"",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 37
-        }
-    },
-    "7axl69YueV": {
-        "id": "7axl69YueV",
-        "title": "Океан в Конце Дороги",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-06 09:21:21",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 36
         }
     }
 }
