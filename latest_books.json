@@ -1,4 +1,16 @@
 {
+    "35DnjD3-AK": {
+        "id": "35DnjD3-AK",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-03-06 09:22:21",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 42
+        }
+    },
     "0MsMmnyRBy": {
         "id": "0MsMmnyRBy",
         "title": "Герой Нашего Времени",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 13
-        }
-    },
-    "TkZv0-p2kn": {
-        "id": "TkZv0-p2kn",
-        "title": "Ученик Монстролога",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-03-06 08:57:27",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 12
         }
     }
 }
