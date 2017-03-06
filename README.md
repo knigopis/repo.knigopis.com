@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
+    > Про любовь. К жизни, к птицам, к женщинам, к земле, словам. Ко всему. Живому и неживому. Вообще ко всему, что только составляет смысл жизни человека. Про разное отношение к жизни у разных народов. Одни идут по течению жизни, а другие - берут нахрапом. Но что получает каждый из нас? что получается вообще?
+
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
     > Это Диккенс. Тут уже нечего добавить. Сначала начала читать, плевалась от наивности, но потом прочитала о том, как надо читать книги и все изменилось. Напрочь. Совсем изменилось отношение к книге и к Диккенсу в частности. Фатализм, наивность, мораль, трудолюбие, благодарность, слезы, справедливость и много другое - все это одни и те же кирпичики его произведений. Он полностью человек своей эпохи.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > аудиокнигой
 
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
-    > аудиокнигой
 
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 
@@ -26,14 +28,13 @@ Do not use pull requests to make changes here.
 
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 
-* Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Брусникина](users/374/374307269-vkontakte)<sup>10</sup> 
+[Беска](users/157/1577468-vkontakte)<sup>29</sup> 
+[Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>5</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
 [Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
 [Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>28</sup> 
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>247</sup> 
 
 
-_06.03.2017 16:44:49_
+_06.03.2017 18:47:26_

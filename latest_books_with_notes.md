@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
 * Becoming a Better Programer (O'REILLY) ~ [igor1980](users/100/100003094239547-facebook)<sup>8</sup>
 * Странная история оружия ~ [pkisarov001](users/311/311057796-yandex)<sup>23</sup>
-* Гончие Лилит ~ [Татьяна](users/735/73529875-vkontakte)<sup>1</sup>
 
 
-_03.03.2017 06:52:41_
+_06.03.2017 18:47:26_

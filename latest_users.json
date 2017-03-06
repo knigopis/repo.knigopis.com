@@ -1,9 +1,15 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 29,
+        "updatedAt": "2017-03-06 18:47:26"
+    },
     "374307269-vkontakte": {
         "id": "374307269-vkontakte",
         "nickname": "Брусникина",
-        "booksCount": 10,
-        "updatedAt": "2017-03-06 16:44:49"
+        "booksCount": 12,
+        "updatedAt": "2017-03-06 16:48:25"
     },
     "311057796-yandex": {
         "id": "311057796-yandex",
@@ -58,12 +64,6 @@
         "nickname": "Helena",
         "booksCount": 0,
         "updatedAt": "2017-03-03 08:29:20"
-    },
-    "1577468-vkontakte": {
-        "id": "1577468-vkontakte",
-        "nickname": "Беска",
-        "booksCount": 28,
-        "updatedAt": "2017-03-03 06:52:41"
     },
     "106584244159462150750-google": {
         "id": "106584244159462150750-google",
