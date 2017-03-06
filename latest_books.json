@@ -1,4 +1,16 @@
 {
+    "TkZv0-p2kn": {
+        "id": "TkZv0-p2kn",
+        "title": "Ученик Монстролога",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-03-06 08:57:27",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 12
+        }
+    },
     "8k8YaZMNEC": {
         "id": "8k8YaZMNEC",
         "title": "Повелитель Мух",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 43
-        }
-    },
-    "5z6Pceg_3X": {
-        "id": "5z6Pceg_3X",
-        "title": "Темный Эвери",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-02-27 09:18:58",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 42
         }
     }
 }
