@@ -1,4 +1,16 @@
 {
+    "0MsMmnyRBy": {
+        "id": "0MsMmnyRBy",
+        "title": "Герой Нашего Времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2017-03-06 09:22:09",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 41
+        }
+    },
     "MLhlBnFlf0": {
         "id": "MLhlBnFlf0",
         "title": "Вельд",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 12
-        }
-    },
-    "8k8YaZMNEC": {
-        "id": "8k8YaZMNEC",
-        "title": "Повелитель Мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-03-06 08:57:13",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 11
         }
     }
 }
