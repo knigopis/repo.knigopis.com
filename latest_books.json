@@ -1,4 +1,16 @@
 {
+    "F8CQUcYk0W": {
+        "id": "F8CQUcYk0W",
+        "title": "О Дивный Новый Мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-03-06 08:58:29",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 16
+        }
+    },
     "ISuufD6uCS": {
         "id": "ISuufD6uCS",
         "title": "Сотня",
@@ -344,18 +356,6 @@
         "user": {
             "id": "471364154-yandex",
             "nickname": "submerged",
-            "booksCount": 1
-        }
-    },
-    "0E99G9vHao": {
-        "id": "0E99G9vHao",
-        "title": "На Западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-02-28 19:03:00",
-        "user": {
-            "id": "241453083-vkontakte",
-            "nickname": "Nyansta",
             "booksCount": 1
         }
     }
