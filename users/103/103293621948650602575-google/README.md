@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>31</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>32</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Битва Королей
 Джордж Мартин
 > [2017-10] 
+
+
+### Сказка Сказок
+Джамбаттиста Базиле
+> [2017-09] 
 
 
 

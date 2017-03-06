@@ -1,4 +1,16 @@
 {
+    "ok8gS3MIq4": {
+        "id": "ok8gS3MIq4",
+        "title": "Сказка Сказок",
+        "author": "Джамбаттиста Базиле",
+        "notes": "",
+        "createdAt": "2017-03-06 09:03:45",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 32
+        }
+    },
     "De2gsHDcd3": {
         "id": "De2gsHDcd3",
         "title": "Битва Королей",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 3
-        }
-    },
-    "aYsi0QL18R": {
-        "id": "aYsi0QL18R",
-        "title": "Одд и Ледяные Великаны",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-06 08:53:50",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 2
         }
     }
 }
