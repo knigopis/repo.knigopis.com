@@ -1,4 +1,16 @@
 {
+    "gVfoaCty-P": {
+        "id": "gVfoaCty-P",
+        "title": "Испытание Огнем",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-03-06 08:54:53",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 4
+        }
+    },
     "qCyJKz4Osf": {
         "id": "qCyJKz4Osf",
         "title": "Но молоко, к счастью...",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 27
-        }
-    },
-    "MeyM_qH_9R": {
-        "id": "MeyM_qH_9R",
-        "title": "45 татуировок менеджера. Правила российского руководителя",
-        "author": "Максим Батырев",
-        "notes": "",
-        "createdAt": "2017-02-25 08:37:46",
-        "user": {
-            "id": "5475694-vkontakte",
-            "nickname": "vaness",
-            "booksCount": 1
         }
     }
 }
