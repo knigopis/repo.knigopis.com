@@ -1,4 +1,16 @@
 {
+    "MLhlBnFlf0": {
+        "id": "MLhlBnFlf0",
+        "title": "Вельд",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-06 09:21:59",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 40
+        }
+    },
     "qGJhAEWfSQ": {
         "id": "qGJhAEWfSQ",
         "title": "Ревун",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 11
-        }
-    },
-    "L8UNnJozLA": {
-        "id": "L8UNnJozLA",
-        "title": "Гарри Поттер и Тайная Комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-03-06 08:56:47",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 10
         }
     }
 }
