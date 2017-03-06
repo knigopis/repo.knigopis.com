@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>60</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>61</sup>
 ---
 
 ## 2017
@@ -244,6 +244,10 @@
 
 
 ## 2013
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Гора Вампиров
 Даррен Шэн

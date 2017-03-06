@@ -1,4 +1,16 @@
 {
+    "cx_jGAmY-8": {
+        "id": "cx_jGAmY-8",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:54:26",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 61
+        }
+    },
     "-qH-Q5SRr0": {
         "id": "-qH-Q5SRr0",
         "title": "Северное Сияние",
@@ -165,18 +177,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 47
-        }
-    },
-    "ydgEIjs5VG": {
-        "id": "ydgEIjs5VG",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:25:00",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 46
         }
     },
     "Y_flEGb7zw": {
