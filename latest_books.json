@@ -1,4 +1,16 @@
 {
+    "8WpSTDJYsW": {
+        "id": "8WpSTDJYsW",
+        "title": "Счастливый Принц",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:28:10",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 54
+        }
+    },
     "kYUZ5bGhtc": {
         "id": "kYUZ5bGhtc",
         "title": "Кентервильское привидение",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 25
-        }
-    },
-    "-lCyAKh1aD": {
-        "id": "-lCyAKh1aD",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-03-06 09:01:00",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 24
         }
     }
 }
