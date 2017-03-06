@@ -1,4 +1,16 @@
 {
+    "fkGfB3wuOo": {
+        "id": "fkGfB3wuOo",
+        "title": "5-ая Волна",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-03-06 08:57:42",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 13
+        }
+    },
     "TkZv0-p2kn": {
         "id": "TkZv0-p2kn",
         "title": "Ученик Монстролога",
@@ -345,18 +357,6 @@
             "id": "384194935-vkontakte",
             "nickname": "raikiri",
             "booksCount": 34
-        }
-    },
-    "bTmqmooHpq": {
-        "id": "bTmqmooHpq",
-        "title": "ГКН 8",
-        "author": "Михайлов Дем",
-        "notes": "Очередная глава о приключениях Росгарда, Великого Навигатора Альгоры.\nС учетом моего залпового чтения литрпг, гкн, барлиону и ичж можно смело перечитывать заного ибо все смешалось в кучу",
-        "createdAt": "2017-02-27 09:20:48",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 43
         }
     }
 }
