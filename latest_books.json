@@ -1,4 +1,16 @@
 {
+    "uonHssPSyo": {
+        "id": "uonHssPSyo",
+        "title": "Гарри Поттер и Узник Азкабана",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-03-06 08:59:48",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 20
+        }
+    },
     "EbHNEyoUnl": {
         "id": "EbHNEyoUnl",
         "title": "Свободное Падение",
@@ -345,18 +357,6 @@
             "id": "35140437-vkontakte",
             "nickname": "miatka",
             "booksCount": 2
-        }
-    },
-    "gJViFBs7OX": {
-        "id": "gJViFBs7OX",
-        "title": "Волхв (Маг)",
-        "author": "Джон Фаулз",
-        "notes": "1965\n (англ. The Magus; в другом переводе «Маг»)",
-        "createdAt": "2017-03-01 00:53:13",
-        "user": {
-            "id": "100632786848817999592-google",
-            "nickname": "Semmi Colins ",
-            "booksCount": 17
         }
     }
 }
