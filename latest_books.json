@@ -1,4 +1,16 @@
 {
+    "J0-nsS-o76": {
+        "id": "J0-nsS-o76",
+        "title": "Звездная Пыль",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2017-03-06 09:21:29",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 37
+        }
+    },
     "7axl69YueV": {
         "id": "7axl69YueV",
         "title": "Океан в Конце Дороги",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 8
-        }
-    },
-    "7kKMZImoGf": {
-        "id": "7kKMZImoGf",
-        "title": "Белые Люди",
-        "author": "Артур Мейчен",
-        "notes": "",
-        "createdAt": "2017-03-06 08:55:35",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 7
         }
     }
 }
