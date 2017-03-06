@@ -1,4 +1,16 @@
 {
+    "GT7QlNsU8l": {
+        "id": "GT7QlNsU8l",
+        "title": "Пикник на обочине",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2017-03-06 16:32:27",
+        "user": {
+            "id": "374307269-vkontakte",
+            "nickname": "Брусникина",
+            "booksCount": 2
+        }
+    },
     "8E--cfzsHe": {
         "id": "8E--cfzsHe",
         "title": "13 причин \"почему\"",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 34
-        }
-    },
-    "A27LyUDGDb": {
-        "id": "A27LyUDGDb",
-        "title": "Буря Мечей",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2017-03-06 09:04:56",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 33
         }
     }
 }
