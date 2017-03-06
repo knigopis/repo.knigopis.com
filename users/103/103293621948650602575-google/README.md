@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>26</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>27</sup>
 ---
 
 ## 2016
+
+### Гарри Поттер и Дары Смерти
+Джоан Роулинг
+> [2016-05] 
+
 
 ### Стихи, афоризмы и парадоксы
 Оскар Уайльд
