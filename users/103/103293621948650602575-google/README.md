@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>58</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>59</sup>
 ---
 
 ## 2017
@@ -271,6 +271,10 @@
 
 
 ## 2012
+
+### Перси Джексон и Похититель Молний
+Рик Риордан
+
 
 ### Призрак Оперы
 Гастон Леру
