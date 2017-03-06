@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>57</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>58</sup>
 ---
 
 ## 2017
@@ -240,6 +240,10 @@
 
 
 ## 2013
+
+### Гора Вампиров
+Даррен Шэн
+
 
 ### Туннели Крови
 Даррен Шэн
