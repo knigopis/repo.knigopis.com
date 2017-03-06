@@ -1,4 +1,16 @@
 {
+    "eJyUumuZvC": {
+        "id": "eJyUumuZvC",
+        "title": "Тюремная Исповедь",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-06 09:25:11",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 47
+        }
+    },
     "ydgEIjs5VG": {
         "id": "ydgEIjs5VG",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 18
-        }
-    },
-    "2SrQ_zxR2Y": {
-        "id": "2SrQ_zxR2Y",
-        "title": "Страна Слепых",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2017-03-06 08:58:41",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 17
         }
     }
 }
