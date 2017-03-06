@@ -1,4 +1,16 @@
 {
+    "aRcgOjLrjq": {
+        "id": "aRcgOjLrjq",
+        "title": "Над пропастью во ржи",
+        "author": "Сэлинджер Дж.Д.",
+        "notes": "",
+        "createdAt": "2017-03-06 16:44:49",
+        "user": {
+            "id": "374307269-vkontakte",
+            "nickname": "Брусникина",
+            "booksCount": 10
+        }
+    },
     "QIB6F3DOAe": {
         "id": "QIB6F3DOAe",
         "title": "Дом в котором",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 41
-        }
-    },
-    "MLhlBnFlf0": {
-        "id": "MLhlBnFlf0",
-        "title": "Вельд",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-03-06 09:21:59",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 40
         }
     }
 }
