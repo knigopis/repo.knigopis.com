@@ -1,4 +1,10 @@
 {
+    "311057796-yandex": {
+        "id": "311057796-yandex",
+        "nickname": "pkisarov001",
+        "booksCount": 24,
+        "updatedAt": "2017-03-06 10:35:54"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Mira R",
@@ -172,11 +178,5 @@
         "nickname": "Michaelmp",
         "booksCount": 1,
         "updatedAt": "2017-02-26 18:35:18"
-    },
-    "100003094239547-facebook": {
-        "id": "100003094239547-facebook",
-        "nickname": "igor1980",
-        "booksCount": 9,
-        "updatedAt": "2017-02-25 17:37:12"
     }
 }

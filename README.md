@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>5</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>247</sup> 
 [Michaelmp](users/102/102340590821783704774-google)<sup>1</sup> 
-[igor1980](users/100/100003094239547-facebook)<sup>9</sup> 
 
 
-_06.03.2017 09:54:26_
+_06.03.2017 10:35:54_

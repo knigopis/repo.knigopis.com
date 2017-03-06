@@ -1,7 +1,12 @@
-# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>23</sup>
+# List of books read by [pkisarov001](http://openid.yandex.ru/pkisarov001/)<sup>24</sup>
 ---
 
 ## 2017
+
+### Геракл - праотец славян или невероятная история русского народа
+Леонид Гурченко
+> [2017-03] 
+
 
 ### Странная история оружия
 Андрей Георгиевич Купцов
