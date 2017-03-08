@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>49</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>50</sup>
 ---
 
 ## Other years
+
+### ПАЛОМНИЧЕСТВО В СТРАНУ ВОСТОКА
+ГЕРМАН ГЕССЕ
+
 
 ### РОСХАЛЬДЕ
 ГЕРМАН ГЕССЕ
