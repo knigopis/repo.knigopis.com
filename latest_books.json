@@ -1,4 +1,16 @@
 {
+    "V78okI9H9a": {
+        "id": "V78okI9H9a",
+        "title": "Морфий",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-03-08 11:24:06",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 6
+        }
+    },
     "O_guop2OFn": {
         "id": "O_guop2OFn",
         "title": "Одиночество в сети",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 53
-        }
-    },
-    "W5DEBSSHjl": {
-        "id": "W5DEBSSHjl",
-        "title": "Мальчик-звезда",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:27:12",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 52
         }
     }
 }
