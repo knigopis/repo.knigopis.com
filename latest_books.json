@@ -1,4 +1,16 @@
 {
+    "LEtAaDLHIi": {
+        "id": "LEtAaDLHIi",
+        "title": "САМЫЙ БОГАТЫЙ ЧЕЛОВЕК В ВАВИЛОНЕ",
+        "author": "ДЖОРДЖ КЛЕЙСОН",
+        "notes": "",
+        "createdAt": "2017-03-08 13:21:59",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 25
+        }
+    },
     "COAEv0IcqQ": {
         "id": "COAEv0IcqQ",
         "title": "СЕМЬ НАВЫКОВ ВЫСОКОЭФФЕКТИВНЫХ ЛЮДЕЙ",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 8
-        }
-    },
-    "KGSkS410Kf": {
-        "id": "KGSkS410Kf",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-03-08 11:24:54",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 7
         }
     }
 }
