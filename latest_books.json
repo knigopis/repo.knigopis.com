@@ -1,4 +1,16 @@
 {
+    "2u2G_JiF6r": {
+        "id": "2u2G_JiF6r",
+        "title": "ЖЕМЧУЖИНА ВОСТОКА",
+        "author": "ГЕНРИ ХАГГАРД",
+        "notes": "",
+        "createdAt": "2017-03-08 12:55:30",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 4
+        }
+    },
     "UcEcFtyMhs": {
         "id": "UcEcFtyMhs",
         "title": "ДУМАЙ И БОГАТЕЙ",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 24
-        }
-    },
-    "cx_jGAmY-8": {
-        "id": "cx_jGAmY-8",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:54:26",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 61
         }
     }
 }
