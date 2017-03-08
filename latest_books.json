@@ -1,4 +1,16 @@
 {
+    "W1XUzowaWJ": {
+        "id": "W1XUzowaWJ",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-03-08 11:18:49",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 5
+        }
+    },
     "sn3ugS3kUO": {
         "id": "sn3ugS3kUO",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 51
-        }
-    },
-    "_HlswGDAmw": {
-        "id": "_HlswGDAmw",
-        "title": "День Рождения Инфанты",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:26:33",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 50
         }
     }
 }
