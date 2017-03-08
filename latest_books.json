@@ -1,4 +1,16 @@
 {
+    "b3v0BzJ4PF": {
+        "id": "b3v0BzJ4PF",
+        "title": "ОСТРОВ ДОКТОРА МОРО",
+        "author": "ГЕРБЕРТ УЭЛЛС",
+        "notes": "",
+        "createdAt": "2017-03-08 12:56:02",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 7
+        }
+    },
     "mM5klzAJDL": {
         "id": "mM5klzAJDL",
         "title": "ПЕРВЫЕ ЛЮДИ НА ЛУНЕ",
@@ -345,18 +357,6 @@
             "id": "374307269-vkontakte",
             "nickname": "Брусникина",
             "booksCount": 3
-        }
-    },
-    "GT7QlNsU8l": {
-        "id": "GT7QlNsU8l",
-        "title": "Пикник на обочине",
-        "author": "Стругацкие",
-        "notes": "",
-        "createdAt": "2017-03-06 16:32:27",
-        "user": {
-            "id": "374307269-vkontakte",
-            "nickname": "Брусникина",
-            "booksCount": 2
         }
     }
 }
