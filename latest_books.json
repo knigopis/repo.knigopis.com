@@ -1,4 +1,16 @@
 {
+    "7GBu5L1w2p": {
+        "id": "7GBu5L1w2p",
+        "title": "ТИТАН",
+        "author": "ТЕОДОР ДРАЙЗЕР",
+        "notes": "",
+        "createdAt": "2017-03-08 13:25:23",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 44
+        }
+    },
     "hjgv2TIK_a": {
         "id": "hjgv2TIK_a",
         "title": "ФИНАНСИСТ",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 15
-        }
-    },
-    "ZrrsQF2vaD": {
-        "id": "ZrrsQF2vaD",
-        "title": "ВАСИЛИЙ ТЁРКИН",
-        "author": "АЛЕКСАНДР ТВАРДОВСКИЙ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:19:03",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 14
         }
     }
 }
