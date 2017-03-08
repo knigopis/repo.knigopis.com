@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>10</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>11</sup>
 ---
 
 ## Other years
+
+### СТРАХ И ОТВРАЩЕНИЕ В ЛАС-ВЕГАСЕ
+ХАНТЕР ТОМПСОН
+
 
 ### ЧЕЛОВЕК-НЕВИДИМКА
 ГЕРБЕРТ УЭЛЛС

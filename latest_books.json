@@ -1,4 +1,16 @@
 {
+    "0H_z3V99rx": {
+        "id": "0H_z3V99rx",
+        "title": "СТРАХ И ОТВРАЩЕНИЕ В ЛАС-ВЕГАСЕ",
+        "author": "ХАНТЕР ТОМПСОН",
+        "notes": "",
+        "createdAt": "2017-03-08 13:18:30",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 11
+        }
+    },
     "zaqF1yN_52": {
         "id": "zaqF1yN_52",
         "title": "ЧЕЛОВЕК-НЕВИДИМКА",
@@ -345,18 +357,6 @@
             "id": "374307269-vkontakte",
             "nickname": "Брусникина",
             "booksCount": 9
-        }
-    },
-    "E9Czb0G-TE": {
-        "id": "E9Czb0G-TE",
-        "title": "\"Сталкер\"",
-        "author": "Стругацкие",
-        "notes": "Это Стругацкие. Этим всё сказано",
-        "createdAt": "2017-03-06 16:41:34",
-        "user": {
-            "id": "374307269-vkontakte",
-            "nickname": "Брусникина",
-            "booksCount": 8
         }
     }
 }
