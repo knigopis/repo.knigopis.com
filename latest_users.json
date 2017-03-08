@@ -1,4 +1,10 @@
 {
+    "1427317190926206-facebook": {
+        "id": "1427317190926206-facebook",
+        "nickname": "luckydim11",
+        "booksCount": 0,
+        "updatedAt": "2017-03-08 12:52:20"
+    },
     "200601396-vkontakte": {
         "id": "200601396-vkontakte",
         "nickname": "Милашечка",
@@ -172,11 +178,5 @@
         "nickname": "raikiri",
         "booksCount": 34,
         "updatedAt": "2017-02-27 13:15:38"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 43,
-        "updatedAt": "2017-02-27 09:20:48"
     }
 }
