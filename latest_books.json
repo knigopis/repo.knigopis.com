@@ -1,4 +1,16 @@
 {
+    "jHFpmiLsro": {
+        "id": "jHFpmiLsro",
+        "title": "erg",
+        "author": "5tg5",
+        "notes": "g5tgr",
+        "createdAt": "2017-03-08 19:43:13",
+        "user": {
+            "id": "16366623-vkontakte",
+            "nickname": "parafeks",
+            "booksCount": 1
+        }
+    },
     "DgNkQCjfKi": {
         "id": "DgNkQCjfKi",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 35
-        }
-    },
-    "vBrbHNdJyl": {
-        "id": "vBrbHNdJyl",
-        "title": "РОБИНЗОН КРУЗО",
-        "author": "ДАНИЕЛЬ ДЕФО",
-        "notes": "",
-        "createdAt": "2017-03-08 13:23:28",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 34
         }
     }
 }
