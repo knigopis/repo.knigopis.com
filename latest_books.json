@@ -1,4 +1,16 @@
 {
+    "zaqF1yN_52": {
+        "id": "zaqF1yN_52",
+        "title": "ЧЕЛОВЕК-НЕВИДИМКА",
+        "author": "ГЕРБЕРТ УЭЛЛС",
+        "notes": "",
+        "createdAt": "2017-03-08 13:18:21",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 10
+        }
+    },
     "0PRaDPdK_D": {
         "id": "0PRaDPdK_D",
         "title": "ВОЙНА МИРОВ",
@@ -345,18 +357,6 @@
             "id": "374307269-vkontakte",
             "nickname": "Брусникина",
             "booksCount": 8
-        }
-    },
-    "oxMWWTxBcW": {
-        "id": "oxMWWTxBcW",
-        "title": "\"Ареал. Обречённые\"",
-        "author": "Сергей Сергеевич Тармашев",
-        "notes": "",
-        "createdAt": "2017-03-06 16:39:28",
-        "user": {
-            "id": "374307269-vkontakte",
-            "nickname": "Брусникина",
-            "booksCount": 7
         }
     }
 }
