@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>23</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>24</sup>
 ---
 
 ## Other years
+
+### СЕМЬ НАВЫКОВ ВЫСОКОЭФФЕКТИВНЫХ ЛЮДЕЙ
+СТИВЕН КОВИ
+
 
 ### КОМИТЕТ 300
 ДЖОН КОУЛМАН

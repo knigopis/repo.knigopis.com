@@ -1,4 +1,16 @@
 {
+    "COAEv0IcqQ": {
+        "id": "COAEv0IcqQ",
+        "title": "СЕМЬ НАВЫКОВ ВЫСОКОЭФФЕКТИВНЫХ ЛЮДЕЙ",
+        "author": "СТИВЕН КОВИ",
+        "notes": "",
+        "createdAt": "2017-03-08 13:21:22",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 24
+        }
+    },
     "YhurZfO-hr": {
         "id": "YhurZfO-hr",
         "title": "КОМИТЕТ 300",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 7
-        }
-    },
-    "V78okI9H9a": {
-        "id": "V78okI9H9a",
-        "title": "Морфий",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-03-08 11:24:06",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 6
         }
     }
 }
