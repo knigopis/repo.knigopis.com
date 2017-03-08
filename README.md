@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[parafeks](users/163/16366623-vkontakte)<sup>0</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>4</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>12</sup> 
 [Elena](users/459/459594264-yandex)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 [Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
 [myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
-[dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 
 
-_08.03.2017 15:19:04_
+_08.03.2017 19:42:30_
