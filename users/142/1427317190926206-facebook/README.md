@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>44</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>45</sup>
 ---
 
 ## Other years
+
+### СТОИК
+ТЕОДОР ДРАЙЗЕР
+
 
 ### ТИТАН
 ТЕОДОР ДРАЙЗЕР
