@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>13</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>14</sup>
 ---
 
 ## Other years
+
+### ВАСИЛИЙ ТЁРКИН
+АЛЕКСАНДР ТВАРДОВСКИЙ
+
 
 ### ЯРМАРКА ТЩЕСЛАВИЯ
 УИЛЬЯМ ТЕККЕРЕЙ
