@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Милашечка](users/200/200601396-vkontakte)<sup>0</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>2</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>29</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>43</sup> 
-[bidarejze](users/262/262728606-vkontakte)<sup>0</sup> 
 
 
-_08.03.2017 09:51:42_
+_08.03.2017 11:12:02_
