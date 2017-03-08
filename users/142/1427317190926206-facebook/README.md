@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>30</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>31</sup>
 ---
 
 ## Other years
+
+### ЧУМА
+АЛЬБЕР КАМЮ
+
 
 ### КАК ЗАВОЕВЫВАТЬ ДРУЗЕЙ И ОКАЗЫВАТЬ ВЛИЯНИЕ НА ЛЮДЕЙ
 ДЕЙЛ КАРНЕГИ
