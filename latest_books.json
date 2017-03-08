@@ -1,4 +1,16 @@
 {
+    "O_guop2OFn": {
+        "id": "O_guop2OFn",
+        "title": "Одиночество в сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2017-03-08 11:22:43",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 5
+        }
+    },
     "W1XUzowaWJ": {
         "id": "W1XUzowaWJ",
         "title": "Хлеб с ветчиной",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 52
-        }
-    },
-    "_btoV0a99x": {
-        "id": "_btoV0a99x",
-        "title": "Замечательная Ракета",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:26:49",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 51
         }
     }
 }
