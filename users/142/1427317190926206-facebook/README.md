@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>48</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>49</sup>
 ---
 
 ## Other years
+
+### РОСХАЛЬДЕ
+ГЕРМАН ГЕССЕ
+
 
 ### СТЕПНОЙ ВОЛК
 ГЕРМАН ГЕССЕ
