@@ -1,4 +1,16 @@
 {
+    "0PRaDPdK_D": {
+        "id": "0PRaDPdK_D",
+        "title": "ВОЙНА МИРОВ",
+        "author": "ГЕРБЕРТ УЭЛЛС",
+        "notes": "",
+        "createdAt": "2017-03-08 13:18:11",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 9
+        }
+    },
     "c-9bCB0LmX": {
         "id": "c-9bCB0LmX",
         "title": "МАШИНА ВРЕМЕНИ",
@@ -345,18 +357,6 @@
             "id": "374307269-vkontakte",
             "nickname": "Брусникина",
             "booksCount": 7
-        }
-    },
-    "S_rjLX27BD": {
-        "id": "S_rjLX27BD",
-        "title": "Ареал. Цена алчности",
-        "author": "Сергей Сергеевич Тармашев",
-        "notes": "",
-        "createdAt": "2017-03-06 16:37:46",
-        "user": {
-            "id": "374307269-vkontakte",
-            "nickname": "Брусникина",
-            "booksCount": 6
         }
     }
 }
