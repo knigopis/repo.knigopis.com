@@ -1,4 +1,10 @@
 {
+    "459594264-yandex": {
+        "id": "459594264-yandex",
+        "nickname": "Elena",
+        "booksCount": 4,
+        "updatedAt": "2017-03-08 13:57:11"
+    },
     "1427317190926206-facebook": {
         "id": "1427317190926206-facebook",
         "nickname": "dmkq",
@@ -172,11 +178,5 @@
         "nickname": "dr.virtuozov",
         "booksCount": 8,
         "updatedAt": "2017-02-27 19:08:55"
-    },
-    "49dc69d6d985a820-liveid": {
-        "id": "49dc69d6d985a820-liveid",
-        "nickname": "submerged",
-        "booksCount": 0,
-        "updatedAt": "2017-02-27 17:10:39"
     }
 }
