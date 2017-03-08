@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>51</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>52</sup>
 ---
 
 ## Other years
+
+### ФАУСТ
+ИОГАНН ГЕТЕ
+
 
 ### ГРАФ МОНТЕ-КРИСТО
 АЛЕКСАНДР ДЮМА
