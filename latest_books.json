@@ -1,4 +1,16 @@
 {
+    "05x2ZkAnum": {
+        "id": "05x2ZkAnum",
+        "title": "HYGGE. СЕКРЕТЫ ДАТСКОГО СЧАСТЬЯ",
+        "author": "МАЙК ВИКИНГ",
+        "notes": "",
+        "createdAt": "2017-03-08 13:31:21",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 57
+        }
+    },
     "9Iej9kRcdD": {
         "id": "9Iej9kRcdD",
         "title": "ЭСХИЛ",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 28
-        }
-    },
-    "IZJLEreGZI": {
-        "id": "IZJLEreGZI",
-        "title": "КВАДРАНТ ДЕНЕЖНОГО ПОТОКА",
-        "author": "РОБЕРТ КИЙОСАКИ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:22:17",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 27
         }
     }
 }
