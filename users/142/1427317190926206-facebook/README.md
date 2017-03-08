@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>40</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>41</sup>
 ---
 
 ## Other years
+
+### СОЛЯРИС
+СТАНИСЛАВ ЛЕМ
+
 
 ### ДЮНА
 ФРЭНК ГЕРБЕРТ
