@@ -1,4 +1,16 @@
 {
+    "rrgtC94ByC": {
+        "id": "rrgtC94ByC",
+        "title": "",
+        "author": "Набоков",
+        "notes": "+",
+        "createdAt": "2017-03-08 09:46:07",
+        "user": {
+            "id": "39868741-vkontakte",
+            "nickname": "Christina",
+            "booksCount": 1
+        }
+    },
     "wh_XbmkQGx": {
         "id": "wh_XbmkQGx",
         "title": "Книга птиц Восточной Африки",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 45
-        }
-    },
-    "7t5WriDE-A": {
-        "id": "7t5WriDE-A",
-        "title": "Призрак Оперы",
-        "author": "Гастон Леру",
-        "notes": "",
-        "createdAt": "2017-03-06 09:23:11",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 44
         }
     }
 }
