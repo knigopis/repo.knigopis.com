@@ -1,4 +1,16 @@
 {
+    "9Iej9kRcdD": {
+        "id": "9Iej9kRcdD",
+        "title": "ЭСХИЛ",
+        "author": "ТРАГЕДИИ/ПЬЕСЫ",
+        "notes": "ПЕРСЫ\nПРОСИТЕЛЬНИЦЫ\nСЕМЕРО ПРОТИВ ФИВ\nПРОМЕТЕЙ ПРИКОВАННЫЙ\n\nОРЕСТЕЯ:\nАГАМЕМНОН\nХОЭФОРЫ (ЖЕРТВА У ГРОБА/ПЛАКАЛЬЩИЦЫ)\nЭВМЕНИДЫ",
+        "createdAt": "2017-03-08 13:30:22",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 56
+        }
+    },
     "Q5Fq3HNdFM": {
         "id": "Q5Fq3HNdFM",
         "title": "РАЗМЫШЛЕНИЯ/К САМОМУ СЕБЕ",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 27
-        }
-    },
-    "ioL9XUgQQs": {
-        "id": "ioL9XUgQQs",
-        "title": "БОГАТЫЙ ПАПА, БЕДНЫЙ ПАПА",
-        "author": "РОБЕРТ КИЙОСАКИ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:22:08",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 26
         }
     }
 }
