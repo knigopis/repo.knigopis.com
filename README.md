@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[luckydim11](users/142/1427317190926206-facebook)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>11</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>2</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>29</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
 [raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>43</sup> 
 
 
-_08.03.2017 11:31:01_
+_08.03.2017 12:52:20_
