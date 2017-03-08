@@ -1,4 +1,16 @@
 {
+    "HgzesWDYco": {
+        "id": "HgzesWDYco",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-03-08 11:17:39",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 3
+        }
+    },
     "lJRmyGrOoS": {
         "id": "lJRmyGrOoS",
         "title": "Спасение",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 49
-        }
-    },
-    "ASSevbkbhd": {
-        "id": "ASSevbkbhd",
-        "title": "Соловей и Роза",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:25:57",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 48
         }
     }
 }
