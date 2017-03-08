@@ -1,4 +1,16 @@
 {
+    "IZJLEreGZI": {
+        "id": "IZJLEreGZI",
+        "title": "КВАДРАНТ ДЕНЕЖНОГО ПОТОКА",
+        "author": "РОБЕРТ КИЙОСАКИ",
+        "notes": "",
+        "createdAt": "2017-03-08 13:22:17",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 27
+        }
+    },
     "ioL9XUgQQs": {
         "id": "ioL9XUgQQs",
         "title": "БОГАТЫЙ ПАПА, БЕДНЫЙ ПАПА",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 10
-        }
-    },
-    "Tn7QCFB2w9": {
-        "id": "Tn7QCFB2w9",
-        "title": "Шантарам",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "",
-        "createdAt": "2017-03-08 11:27:04",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 9
         }
     }
 }
