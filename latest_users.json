@@ -1,4 +1,10 @@
 {
+    "16366623-vkontakte": {
+        "id": "16366623-vkontakte",
+        "nickname": "parafeks",
+        "booksCount": 0,
+        "updatedAt": "2017-03-08 19:42:29"
+    },
     "39868741-vkontakte": {
         "id": "39868741-vkontakte",
         "nickname": "Christina",
@@ -172,11 +178,5 @@
         "nickname": "myxomatoz",
         "booksCount": 0,
         "updatedAt": "2017-02-28 14:34:59"
-    },
-    "58150658-vkontakte": {
-        "id": "58150658-vkontakte",
-        "nickname": "dr.virtuozov",
-        "booksCount": 8,
-        "updatedAt": "2017-02-27 19:08:55"
     }
 }
