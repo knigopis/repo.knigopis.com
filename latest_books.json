@@ -1,4 +1,16 @@
 {
+    "6yzom6KS3Y": {
+        "id": "6yzom6KS3Y",
+        "title": "ДАР МИДАСА",
+        "author": "РОБЕРТ КИЙОСАКИ И ДОНАЛЬД ТРАМП",
+        "notes": "",
+        "createdAt": "2017-03-08 13:22:26",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 28
+        }
+    },
     "IZJLEreGZI": {
         "id": "IZJLEreGZI",
         "title": "КВАДРАНТ ДЕНЕЖНОГО ПОТОКА",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 11
-        }
-    },
-    "_sVVaqlu5t": {
-        "id": "_sVVaqlu5t",
-        "title": "Мне тебя обещали",
-        "author": "Эльчин Сафарли",
-        "notes": "",
-        "createdAt": "2017-03-08 11:28:46",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 10
         }
     }
 }

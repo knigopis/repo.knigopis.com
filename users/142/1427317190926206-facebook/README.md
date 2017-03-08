@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>27</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>28</sup>
 ---
 
 ## Other years
+
+### ДАР МИДАСА
+РОБЕРТ КИЙОСАКИ И ДОНАЛЬД ТРАМП
+
 
 ### КВАДРАНТ ДЕНЕЖНОГО ПОТОКА
 РОБЕРТ КИЙОСАКИ
