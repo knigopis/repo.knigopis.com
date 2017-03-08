@@ -1,4 +1,16 @@
 {
+    "KGSkS410Kf": {
+        "id": "KGSkS410Kf",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-03-08 11:24:54",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 7
+        }
+    },
     "V78okI9H9a": {
         "id": "V78okI9H9a",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 54
-        }
-    },
-    "kYUZ5bGhtc": {
-        "id": "kYUZ5bGhtc",
-        "title": "Кентервильское привидение",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:27:26",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 53
         }
     }
 }
