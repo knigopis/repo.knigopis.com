@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stenya](users/333/333274180-vkontakte)<sup>2</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>7</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>11</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
 [dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 [submerged](users/49d/49dc69d6d985a820-liveid)<sup>0</sup> 
-[raikiri](users/384/384194935-vkontakte)<sup>34</sup> 
 
 
-_08.03.2017 12:56:02_
+_08.03.2017 13:17:22_

@@ -1,4 +1,10 @@
 {
+    "333274180-vkontakte": {
+        "id": "333274180-vkontakte",
+        "nickname": "stenya",
+        "booksCount": 2,
+        "updatedAt": "2017-03-08 13:17:22"
+    },
     "1427317190926206-facebook": {
         "id": "1427317190926206-facebook",
         "nickname": "dmkq",
@@ -172,11 +178,5 @@
         "nickname": "submerged",
         "booksCount": 0,
         "updatedAt": "2017-02-27 17:10:39"
-    },
-    "384194935-vkontakte": {
-        "id": "384194935-vkontakte",
-        "nickname": "raikiri",
-        "booksCount": 34,
-        "updatedAt": "2017-02-27 13:15:38"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [stenya](http://vk.com/id333274180)<sup>1</sup>
+# List of books read by [stenya](http://vk.com/id333274180)<sup>2</sup>
 ---
 
 ## 2017
+
+### Одиссея капитана Блада
+Рафаэль Сабатини
+> [2017-03-01] 
+
 
 ### И ботаники делают бизнес
 Максим Котин
