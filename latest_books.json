@@ -1,4 +1,16 @@
 {
+    "sn3ugS3kUO": {
+        "id": "sn3ugS3kUO",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-03-08 11:18:08",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 4
+        }
+    },
     "HgzesWDYco": {
         "id": "HgzesWDYco",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 50
-        }
-    },
-    "PCUWVY-Idc": {
-        "id": "PCUWVY-Idc",
-        "title": "Великан-эгоист",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-06 09:26:09",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 49
         }
     }
 }
