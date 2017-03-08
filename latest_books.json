@@ -1,4 +1,16 @@
 {
+    "6MS3B_THBK": {
+        "id": "6MS3B_THBK",
+        "title": "ВЕТКА САКУРЫ",
+        "author": "ВСЕВОЛОД ОВЧИННИКОВ",
+        "notes": "",
+        "createdAt": "2017-03-08 13:23:49",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 36
+        }
+    },
     "Q4yaS0MYeV": {
         "id": "Q4yaS0MYeV",
         "title": "ПОВЕЛИТЕЛЬ МУХ",
@@ -345,18 +357,6 @@
             "id": "333274180-vkontakte",
             "nickname": "stenya",
             "booksCount": 2
-        }
-    },
-    "b3v0BzJ4PF": {
-        "id": "b3v0BzJ4PF",
-        "title": "ОСТРОВ ДОКТОРА МОРО",
-        "author": "ГЕРБЕРТ УЭЛЛС",
-        "notes": "",
-        "createdAt": "2017-03-08 12:56:02",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 7
         }
     }
 }
