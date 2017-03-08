@@ -1,4 +1,16 @@
 {
+    "6hd5RPxCye": {
+        "id": "6hd5RPxCye",
+        "title": "ВСАДНИК БЕЗ ГОЛОВЫ",
+        "author": "ТОМАС МАЙН РИД",
+        "notes": "",
+        "createdAt": "2017-03-08 13:19:31",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 17
+        }
+    },
     "V2m-pyL2BV": {
         "id": "V2m-pyL2BV",
         "title": "МОРСКОЙ ВОЛЧОНОК",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 1
-        }
-    },
-    "m50JZaZ4Fj": {
-        "id": "m50JZaZ4Fj",
-        "title": "",
-        "author": "Дойл",
-        "notes": "",
-        "createdAt": "2017-03-08 09:51:42",
-        "user": {
-            "id": "39868741-vkontakte",
-            "nickname": "Christina",
-            "booksCount": 2
         }
     }
 }
