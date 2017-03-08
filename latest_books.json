@@ -1,4 +1,16 @@
 {
+    "eZPm835PeE": {
+        "id": "eZPm835PeE",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "Никогда не смотрите фильм",
+        "createdAt": "2017-03-08 14:58:33",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 12
+        }
+    },
     "W4q5iACZze": {
         "id": "W4q5iACZze",
         "title": "Никогде",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 32
-        }
-    },
-    "6dv51SHfp4": {
-        "id": "6dv51SHfp4",
-        "title": "ЧУМА",
-        "author": "АЛЬБЕР КАМЮ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:22:59",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 31
         }
     }
 }
