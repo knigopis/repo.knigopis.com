@@ -1,4 +1,10 @@
 {
+    "39868741-vkontakte": {
+        "id": "39868741-vkontakte",
+        "nickname": "Christina",
+        "booksCount": 3,
+        "updatedAt": "2017-03-08 15:18:12"
+    },
     "200601396-vkontakte": {
         "id": "200601396-vkontakte",
         "nickname": "Милашечка",
@@ -22,12 +28,6 @@
         "nickname": "stenya",
         "booksCount": 2,
         "updatedAt": "2017-03-08 13:17:22"
-    },
-    "39868741-vkontakte": {
-        "id": "39868741-vkontakte",
-        "nickname": "Christina",
-        "booksCount": 2,
-        "updatedAt": "2017-03-08 09:51:42"
     },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",

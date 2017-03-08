@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Christina](users/398/39868741-vkontakte)<sup>3</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>12</sup> 
 [Elena](users/459/459594264-yandex)<sup>5</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>58</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>2</sup> 
-[Christina](users/398/39868741-vkontakte)<sup>2</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>29</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dr.virtuozov](users/581/58150658-vkontakte)<sup>8</sup> 
 
 
-_08.03.2017 14:58:33_
+_08.03.2017 15:18:12_
