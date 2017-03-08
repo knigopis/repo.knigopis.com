@@ -1,4 +1,16 @@
 {
+    "DgNkQCjfKi": {
+        "id": "DgNkQCjfKi",
+        "title": "Поющие в терновнике",
+        "author": "К. Маккалоу",
+        "notes": "",
+        "createdAt": "2017-03-08 15:19:04",
+        "user": {
+            "id": "39868741-vkontakte",
+            "nickname": "Christina",
+            "booksCount": 4
+        }
+    },
     "KVpSOEzh2u": {
         "id": "KVpSOEzh2u",
         "title": "Тим",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 34
-        }
-    },
-    "H2tswBA3w-": {
-        "id": "H2tswBA3w-",
-        "title": "СЧАСТЛИВЫМИ НЕ РОЖДАЮТСЯ",
-        "author": "ЛЕОНИД ЖУХОВИЦКИЙ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:23:18",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 33
         }
     }
 }
