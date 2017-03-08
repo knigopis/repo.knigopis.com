@@ -1,7 +1,11 @@
-# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>28</sup>
+# List of books read by [dmkq](https://www.facebook.com/app_scoped_user_id/1427317190926206/)<sup>29</sup>
 ---
 
 ## Other years
+
+### НАД КУКУШКИНЫМ ГНЕЗДОМ
+КЕН КИЗИ
+
 
 ### ДАР МИДАСА
 РОБЕРТ КИЙОСАКИ И ДОНАЛЬД ТРАМП
