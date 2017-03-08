@@ -1,4 +1,16 @@
 {
+    "lPOK1mpZUB": {
+        "id": "lPOK1mpZUB",
+        "title": "О ГИЛЬГАМЕШЕ (О ВСЁ ВИДАВШЕМ)",
+        "author": "ЭПОС",
+        "notes": "",
+        "createdAt": "2017-03-08 13:36:14",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 58
+        }
+    },
     "05x2ZkAnum": {
         "id": "05x2ZkAnum",
         "title": "HYGGE. СЕКРЕТЫ ДАТСКОГО СЧАСТЬЯ",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 29
-        }
-    },
-    "6yzom6KS3Y": {
-        "id": "6yzom6KS3Y",
-        "title": "ДАР МИДАСА",
-        "author": "РОБЕРТ КИЙОСАКИ И ДОНАЛЬД ТРАМП",
-        "notes": "",
-        "createdAt": "2017-03-08 13:22:26",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 28
         }
     }
 }
