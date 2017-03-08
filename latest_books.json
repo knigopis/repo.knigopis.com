@@ -1,4 +1,16 @@
 {
+    "h_FjXMIGMF": {
+        "id": "h_FjXMIGMF",
+        "title": "НАД ПРОПАСТЬЮ ВО РЖИ",
+        "author": "ДЖЕРОМ СЭЛИНДЖЕР",
+        "notes": "",
+        "createdAt": "2017-03-08 13:19:11",
+        "user": {
+            "id": "1427317190926206-facebook",
+            "nickname": "dmkq",
+            "booksCount": 15
+        }
+    },
     "ZrrsQF2vaD": {
         "id": "ZrrsQF2vaD",
         "title": "ВАСИЛИЙ ТЁРКИН",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 29
-        }
-    },
-    "PB_JWkXuFq": {
-        "id": "PB_JWkXuFq",
-        "title": "\"Маленький принц\"",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-03-06 16:48:25",
-        "user": {
-            "id": "374307269-vkontakte",
-            "nickname": "Брусникина",
-            "booksCount": 12
         }
     }
 }
