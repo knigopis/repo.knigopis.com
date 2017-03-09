@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miatka](users/351/35140437-vkontakte)<sup>6</sup> 
+[miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup> 
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 
 
-_09.03.2017 14:53:19_
+_09.03.2017 14:53:38_
