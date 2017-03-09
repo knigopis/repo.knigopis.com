@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kervian](users/244/244559736-vkontakte)<sup>0</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>4</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 [Zosya](users/100/100942626501645498652-google)<sup>0</sup> 
-[myxomatoz](users/733/73362173-vkontakte)<sup>0</sup> 
 
 
-_08.03.2017 19:54:28_
+_09.03.2017 00:57:52_
