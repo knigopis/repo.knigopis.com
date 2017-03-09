@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
+    > Отличная, весёлая книга. Но авторский слог для меня пока утомителен - как будто тебе дали кусочки паззла и ты всё это добро собираешь. Надеюсь, что скоро привыкну к пратчеттовскому языку.
+
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
     > аудиокнига
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Живость персонажей 9,5 из 10
 
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
-    > 10 из 10
 
 *  ~ [Elena](users/459/459594264-yandex)<sup>4</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
 
-* Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 [sonbaker](users/370/370437264-vkontakte)<sup>0</sup> 
-[submerged](users/471/471364154-yandex)<sup>3</sup> 
 
 
-_09.03.2017 15:38:00_
+_09.03.2017 16:31:07_

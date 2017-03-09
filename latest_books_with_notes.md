@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
@@ -30,7 +31,6 @@
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
-* Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
 
 
-_09.03.2017 14:53:19_
+_09.03.2017 16:31:07_
