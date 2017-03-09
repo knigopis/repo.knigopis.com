@@ -1,4 +1,10 @@
 {
+    "100008019136904-facebook": {
+        "id": "100008019136904-facebook",
+        "nickname": "Vadimos",
+        "booksCount": 0,
+        "updatedAt": "2017-03-09 14:18:08"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Nyansta",
         "booksCount": 1,
         "updatedAt": "2017-02-28 19:03:00"
-    },
-    "2180163884-twitter": {
-        "id": "2180163884-twitter",
-        "nickname": "Lis_Verde",
-        "booksCount": 0,
-        "updatedAt": "2017-02-28 16:36:56"
     }
 }
