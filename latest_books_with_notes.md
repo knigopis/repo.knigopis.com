@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
 * Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
 * Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
 * Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
-* Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
 
 
-_09.03.2017 17:20:08_
+_09.03.2017 17:51:13_

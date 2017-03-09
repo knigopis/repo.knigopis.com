@@ -1,4 +1,16 @@
 {
+    "UEHMw5n_u4": {
+        "id": "UEHMw5n_u4",
+        "title": "Один из близнецов",
+        "author": "Амброз Бирз",
+        "notes": "1 из 10",
+        "createdAt": "2017-03-09 17:51:13",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 108
+        }
+    },
     "W9aKqS3Ho4": {
         "id": "W9aKqS3Ho4",
         "title": "Король эльфов",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 45
-        }
-    },
-    "7GBu5L1w2p": {
-        "id": "7GBu5L1w2p",
-        "title": "ТИТАН",
-        "author": "ТЕОДОР ДРАЙЗЕР",
-        "notes": "",
-        "createdAt": "2017-03-08 13:25:23",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 44
         }
     }
 }

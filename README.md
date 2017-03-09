@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
+    > 1 из 10
+
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
     > 9 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6,5 из 10
 
 * Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
-    > Действие книги происходит в начале XVII века, в Японии. Голландский корабль с английским капитаном на борту терпит крушение у берегов одного из Японских островов, а дальше... Очень интересно показано столкновение культур: самобытная Япония, католики и дерзкая Англия, представленная единолично Джоном Блэкторном. Книга очень понравилась, надеюсь продолжение будет не хуже.
 
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
 
-* Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 
 
-_09.03.2017 17:20:08_
+_09.03.2017 17:51:13_
