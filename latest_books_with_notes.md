@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
 * Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
 * Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
@@ -30,7 +31,6 @@
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
 * Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 * Вторая Мировая война ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>92</sup>
-* Ежевичное вино ~ [Беска](users/157/1577468-vkontakte)<sup>27</sup>
 
 
-_09.03.2017 17:51:13_
+_09.03.2017 23:00:23_
