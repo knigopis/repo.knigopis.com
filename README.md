@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup> 
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonbaker](users/370/370437264-vkontakte)<sup>0</sup> 
 [submerged](users/471/471364154-yandex)<sup>3</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
-[Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 
 
-_09.03.2017 08:58:17_
+_09.03.2017 14:18:10_
