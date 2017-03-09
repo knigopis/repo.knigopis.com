@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Рин](users/417/417570094-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 [sonbaker](users/370/370437264-vkontakte)<sup>0</sup> 
 [submerged](users/471/471364154-yandex)<sup>3</sup> 
-[Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 
 
-_09.03.2017 14:53:38_
+_09.03.2017 15:38:00_
