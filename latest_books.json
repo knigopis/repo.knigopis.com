@@ -1,4 +1,16 @@
 {
+    "QqJ7tuG06v": {
+        "id": "QqJ7tuG06v",
+        "title": "Обезьянья лапка",
+        "author": "Уильям Джекобс",
+        "notes": "6,5 из 10",
+        "createdAt": "2017-03-09 17:13:41",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 106
+        }
+    },
     "lpanBil-lJ": {
         "id": "lpanBil-lJ",
         "title": "Сёгун. Книга 1",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 43
-        }
-    },
-    "lJ9FNH61DY": {
-        "id": "lJ9FNH61DY",
-        "title": "НОЧЬ В ЛИССАБОНЕ",
-        "author": "ЭРИХ МАРИЯ РЕМАРК",
-        "notes": "",
-        "createdAt": "2017-03-08 13:25:07",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 42
         }
     }
 }
