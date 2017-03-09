@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
@@ -30,7 +31,6 @@
 * Тайна старинного меда и чем питались наши предки ~ [sonics](users/588/5880221-vkontakte)<sup>44</sup>
 * Есть ли у вас время на успех? ~ [sonics](users/588/5880221-vkontakte)<sup>43</sup>
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
-* Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
 
 
-_09.03.2017 16:31:07_
+_09.03.2017 16:46:00_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
+    > Действие книги происходит в начале XVII века, в Японии. Голландский корабль с английским капитаном на борту терпит крушение у берегов одного из Японских островов, а дальше... Очень интересно показано столкновение культур: самобытная Япония, католики и дерзкая Англия, представленная единолично Джоном Блэкторном. Книга очень понравилась, надеюсь продолжение будет не хуже.
+
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
     > Отличная, весёлая книга. Но авторский слог для меня пока утомителен - как будто тебе дали кусочки паззла и ты всё это добро собираешь. Надеюсь, что скоро привыкну к пратчеттовскому языку.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > аудиокнига
 
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
-    > 7,5 из 10
-    > Сюжет 6
-    > Живость персонажей 9,5 из 10
 
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 
-* ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
-[sonbaker](users/370/370437264-vkontakte)<sup>0</sup> 
 
 
-_09.03.2017 16:31:07_
+_09.03.2017 16:46:00_
