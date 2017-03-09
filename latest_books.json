@@ -1,4 +1,16 @@
 {
+    "R2PwzmUFxT": {
+        "id": "R2PwzmUFxT",
+        "title": "Сова",
+        "author": "Самюэль Бьорк",
+        "notes": "7,5 из 10\nСюжет 6\nЖивость персонажей 9,5 из 10",
+        "createdAt": "2017-03-09 08:58:16",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 105
+        }
+    },
     "ibM9cl8VNT": {
         "id": "ibM9cl8VNT",
         "title": "Caledon Local 21",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 39
-        }
-    },
-    "MdjV6sO1W3": {
-        "id": "MdjV6sO1W3",
-        "title": "ТЕНЬ ВЕТРА",
-        "author": "КАРЛОС РУИС САФОН",
-        "notes": "",
-        "createdAt": "2017-03-08 13:24:10",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 38
         }
     }
 }

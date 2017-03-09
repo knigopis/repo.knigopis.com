@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
+    > 7,5 из 10
+    > Сюжет 6
+    > Живость персонажей 9,5 из 10
+
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
     > 10 из 10
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Можно многого хотеть, идти к этому и добиваться. Есть внутреннее чувство...что-то есть такое за пределами понимания. И вот это должно вот-вот с тобой произойти. Волшебный мир существует в головах. И должен быть человек, с которым интересно, весело и ты понимаешь, что с ним ты идешь вперед. С котороым все идет так, как надо.
 
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
-    > Про любовь. К жизни, к птицам, к женщинам, к земле, словам. Ко всему. Живому и неживому. Вообще ко всему, что только составляет смысл жизни человека. Про разное отношение к жизни у разных народов. Одни идут по течению жизни, а другие - берут нахрапом. Но что получает каждый из нас? что получается вообще?
 
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 
@@ -26,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
 
-* Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup> 
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>4</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lis_Verde](users/218/2180163884-twitter)<sup>0</sup> 
 
 
-_09.03.2017 08:55:28_
+_09.03.2017 08:58:17_

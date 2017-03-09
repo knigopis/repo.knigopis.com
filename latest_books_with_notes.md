@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
 *  ~ [Elena](users/459/459594264-yandex)<sup>4</sup>
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * The Sea Wolves: A History of the Vikings ~ [exulted](users/100/100599204551896265722-google)<sup>33</sup>
 * Террор ~ [pimanocci](users/117/117124011531379579265-google)<sup>13</sup>
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
-* Убить пересмешника ~ [Garka](users/115/115753719718250012620-google)<sup>136</sup>
 
 
-_09.03.2017 08:55:28_
+_09.03.2017 08:58:17_
