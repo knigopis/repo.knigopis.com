@@ -1,4 +1,16 @@
 {
+    "W9aKqS3Ho4": {
+        "id": "W9aKqS3Ho4",
+        "title": "Король эльфов",
+        "author": "Джон Конноли",
+        "notes": "9 из 10",
+        "createdAt": "2017-03-09 17:20:08",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 107
+        }
+    },
     "QqJ7tuG06v": {
         "id": "QqJ7tuG06v",
         "title": "Обезьянья лапка",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 44
-        }
-    },
-    "hjgv2TIK_a": {
-        "id": "hjgv2TIK_a",
-        "title": "ФИНАНСИСТ",
-        "author": "ТЕОДОР ДРАЙЗЕР",
-        "notes": "",
-        "createdAt": "2017-03-08 13:25:16",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 43
         }
     }
 }

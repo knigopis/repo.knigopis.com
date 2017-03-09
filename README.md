@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
+    > 9 из 10
+
 * Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
     > 6,5 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Действие книги происходит в начале XVII века, в Японии. Голландский корабль с английским капитаном на борту терпит крушение у берегов одного из Японских островов, а дальше... Очень интересно показано столкновение культур: самобытная Япония, католики и дерзкая Англия, представленная единолично Джоном Блэкторном. Книга очень понравилась, надеюсь продолжение будет не хуже.
 
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
-    > Отличная, весёлая книга. Но авторский слог для меня пока утомителен - как будто тебе дали кусочки паззла и ты всё это добро собираешь. Надеюсь, что скоро привыкну к пратчеттовскому языку.
 
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 
-* Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 
 
-_09.03.2017 17:13:41_
+_09.03.2017 17:20:08_
