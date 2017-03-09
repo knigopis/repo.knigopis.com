@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
+    > аудиокнига
+
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
     > 7,5 из 10
     > Сюжет 6
@@ -14,13 +17,10 @@ Do not use pull requests to make changes here.
     > 10 из 10
 
 *  ~ [Elena](users/459/459594264-yandex)<sup>4</sup>
-    > Можно многого хотеть, идти к этому и добиваться. Есть внутреннее чувство...что-то есть такое за пределами понимания. И вот это должно вот-вот с тобой произойти. Волшебный мир существует в головах. И должен быть человек, с которым интересно, весело и ты понимаешь, что с ним ты идешь вперед. С котороым все идет так, как надо.
 
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
 
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
-
-* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
 
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 
@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup> 
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
-[miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nyansta](users/241/241453083-vkontakte)<sup>1</sup> 
 
 
-_09.03.2017 14:18:10_
+_09.03.2017 14:53:19_

@@ -1,4 +1,10 @@
 {
+    "35140437-vkontakte": {
+        "id": "35140437-vkontakte",
+        "nickname": "miatka",
+        "booksCount": 6,
+        "updatedAt": "2017-03-09 14:53:19"
+    },
     "100008019136904-facebook": {
         "id": "100008019136904-facebook",
         "nickname": "Vadimos",
@@ -136,12 +142,6 @@
         "nickname": "don_fenix",
         "booksCount": 0,
         "updatedAt": "2017-03-02 06:28:18"
-    },
-    "35140437-vkontakte": {
-        "id": "35140437-vkontakte",
-        "nickname": "miatka",
-        "booksCount": 5,
-        "updatedAt": "2017-03-01 20:19:44"
     },
     "386369337-vkontakte": {
         "id": "386369337-vkontakte",

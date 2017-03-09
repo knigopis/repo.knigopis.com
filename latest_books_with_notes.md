@@ -1,12 +1,12 @@
 # List of the latest books with notes
 ---
 
+* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
 *  ~ [Elena](users/459/459594264-yandex)<sup>4</sup>
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
-* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>5</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
@@ -33,4 +33,4 @@
 * Хозяйка пансиона ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>100</sup>
 
 
-_09.03.2017 08:58:17_
+_09.03.2017 14:53:19_

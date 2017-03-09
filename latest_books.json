@@ -1,4 +1,16 @@
 {
+    "_AglbK1yCw": {
+        "id": "_AglbK1yCw",
+        "title": "Волны гасят ветер",
+        "author": "А и Б. Стругацкие",
+        "notes": "аудиокнига",
+        "createdAt": "2017-03-09 14:53:19",
+        "user": {
+            "id": "35140437-vkontakte",
+            "nickname": "miatka",
+            "booksCount": 6
+        }
+    },
     "R2PwzmUFxT": {
         "id": "R2PwzmUFxT",
         "title": "Сова",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 40
-        }
-    },
-    "HtYBLaSqvr": {
-        "id": "HtYBLaSqvr",
-        "title": "СТАРИК И МОРЕ",
-        "author": "ЭРНЕСТ ХЕМИНГУЭЙ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:24:18",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 39
         }
     }
 }
