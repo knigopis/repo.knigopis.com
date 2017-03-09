@@ -1,4 +1,10 @@
 {
+    "417570094-vkontakte": {
+        "id": "417570094-vkontakte",
+        "nickname": "Рин",
+        "booksCount": 0,
+        "updatedAt": "2017-03-09 15:38:00"
+    },
     "35140437-vkontakte": {
         "id": "35140437-vkontakte",
         "nickname": "miatka",
@@ -172,11 +178,5 @@
         "nickname": "submerged",
         "booksCount": 3,
         "updatedAt": "2017-02-28 21:11:12"
-    },
-    "241453083-vkontakte": {
-        "id": "241453083-vkontakte",
-        "nickname": "Nyansta",
-        "booksCount": 1,
-        "updatedAt": "2017-02-28 19:03:00"
     }
 }
