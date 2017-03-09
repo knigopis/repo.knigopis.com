@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 104,
+        "updatedAt": "2017-03-09 08:55:27"
+    },
     "244559736-vkontakte": {
         "id": "244559736-vkontakte",
         "nickname": "kervian",
@@ -172,11 +178,5 @@
         "nickname": "Lis_Verde",
         "booksCount": 0,
         "updatedAt": "2017-02-28 16:36:56"
-    },
-    "100942626501645498652-google": {
-        "id": "100942626501645498652-google",
-        "nickname": "Zosya",
-        "booksCount": 0,
-        "updatedAt": "2017-02-28 14:41:10"
     }
 }

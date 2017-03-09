@@ -1,4 +1,16 @@
 {
+    "ibM9cl8VNT": {
+        "id": "ibM9cl8VNT",
+        "title": "Caledon Local 21",
+        "author": "Элиот",
+        "notes": "10 из 10",
+        "createdAt": "2017-03-09 08:55:27",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 104
+        }
+    },
     "gSU0H9ynb-": {
         "id": "gSU0H9ynb-",
         "title": "Любовь без поцелуев",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 38
-        }
-    },
-    "XshKHBJFRE": {
-        "id": "XshKHBJFRE",
-        "title": "КОРНИ ДУБА",
-        "author": "ВСЕВОЛОД ОВЧИННИКОВ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:23:57",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 37
         }
     }
 }
