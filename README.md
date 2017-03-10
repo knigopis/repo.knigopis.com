@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
+    > 1 из 10
+
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
     > 9 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень своеобразно. Некоторые вещи совершенно мной не поняты, а некоторое кажется простым и понятным. Хотя, тут точно не одно двойное дно, и не один скелет. Но Остается хорошее приятное чувство после прочтения.
 
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
-    > 7 из 10
 
 * Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 
-* Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 
 
-_10.03.2017 11:48:08_
+_10.03.2017 12:25:04_

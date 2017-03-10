@@ -1,4 +1,16 @@
 {
+    "BOLNEYoqfx": {
+        "id": "BOLNEYoqfx",
+        "title": "Тайная комната",
+        "author": "Тырин Михаил",
+        "notes": "1 из 10",
+        "createdAt": "2017-03-10 12:25:04",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 112
+        }
+    },
     "MtARi89Aag": {
         "id": "MtARi89Aag",
         "title": "Перекурщики",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 54
-        }
-    },
-    "pjbf58A-6i": {
-        "id": "pjbf58A-6i",
-        "title": "ИЛИАДА",
-        "author": "ГОМЕР",
-        "notes": "",
-        "createdAt": "2017-03-08 13:28:17",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 53
         }
     }
 }

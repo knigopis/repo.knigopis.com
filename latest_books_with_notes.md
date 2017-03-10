@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
 * Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
@@ -30,7 +31,6 @@
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
 * Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
-* Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 
 
-_10.03.2017 11:48:08_
+_10.03.2017 12:25:04_
