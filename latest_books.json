@@ -1,4 +1,16 @@
 {
+    "c-kBW9p7v6": {
+        "id": "c-kBW9p7v6",
+        "title": "Подходящая кандидатура",
+        "author": "Чарльз Бронстоун",
+        "notes": "7 из 10",
+        "createdAt": "2017-03-10 00:33:30",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 110
+        }
+    },
     "5hHtoidYSN": {
         "id": "5hHtoidYSN",
         "title": "Добро пожаловать в мёртвый дом",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 47
-        }
-    },
-    "Izl7CFKosb": {
-        "id": "Izl7CFKosb",
-        "title": "СИДДХАРТХА",
-        "author": "ГЕРМАН ГЕССЕ.",
-        "notes": "",
-        "createdAt": "2017-03-08 13:25:40",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 46
         }
     }
 }

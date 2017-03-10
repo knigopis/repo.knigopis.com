@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
+    > 7 из 10
+
 * Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
     > 3 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1 из 10
 
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
-    > 9 из 10
 
 * Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
 
-*  ~ [Elena](users/459/459594264-yandex)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 
 
-_09.03.2017 23:00:23_
+_10.03.2017 00:33:30_

@@ -1,4 +1,16 @@
 {
+    "c-kBW9p7v6": {
+        "id": "c-kBW9p7v6",
+        "title": "Подходящая кандидатура",
+        "author": "Чарльз Бронстоун",
+        "notes": "7 из 10",
+        "createdAt": "2017-03-10 00:33:30",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 110
+        }
+    },
     "5hHtoidYSN": {
         "id": "5hHtoidYSN",
         "title": "Добро пожаловать в мёртвый дом",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 93
-        }
-    },
-    "998QZFJne2": {
-        "id": "998QZFJne2",
-        "title": "Вторая Мировая война",
-        "author": "Б.Лиддел-Гарт",
-        "notes": "классика в процессе :)",
-        "createdAt": "2017-02-14 23:49:45",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 92
         }
     }
 }
