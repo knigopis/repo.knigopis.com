@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
+    > 9 из 10
+
 * Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
     > очень своеобразно. Некоторые вещи совершенно мной не поняты, а некоторое кажется простым и понятным. Хотя, тут точно не одно двойное дно, и не один скелет. Но Остается хорошее приятное чувство после прочтения.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7 из 10
 
 * Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
-    > 3 из 10
 
 * Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
 
@@ -26,16 +28,14 @@ Do not use pull requests to make changes here.
 
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 
-* Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 
 
-_10.03.2017 07:11:26_
+_10.03.2017 11:48:08_
