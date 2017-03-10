@@ -1,5 +1,13 @@
-# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>45</sup>
+# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>46</sup>
 ---
+
+## 2017
+
+### Mastering Chef Provisioning
+Earl Waud
+> [2017-01-20] 
+
+
 
 ## 2016
 

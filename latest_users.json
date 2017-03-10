@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 46,
+        "updatedAt": "2017-03-10 07:09:42"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "simant13",
         "booksCount": 0,
         "updatedAt": "2017-03-01 07:43:41"
-    },
-    "100632786848817999592-google": {
-        "id": "100632786848817999592-google",
-        "nickname": "Semmi Colins ",
-        "booksCount": 17,
-        "updatedAt": "2017-03-01 00:53:13"
     }
 }

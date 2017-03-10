@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>46</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
 [simant13](users/153/153982695-vkontakte)<sup>0</sup> 
-[Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 
 
-_10.03.2017 05:16:06_
+_10.03.2017 07:09:42_
