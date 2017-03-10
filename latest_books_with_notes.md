@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
 * Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
 * Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
@@ -30,7 +31,6 @@
 * Малькольм Макдауэлл ~ [olegessenin](users/390/3901448-vkontakte)<sup>7</sup>
 * Месси. Исключительная биография. ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>70</sup>
 * Ведьмак, все книги ~ [boweldisruptor](users/164/16427535-vkontakte)<sup>6</sup>
-* Этногенез и биосфера Земли ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup>
 
 
-_10.03.2017 00:33:30_
+_10.03.2017 05:16:06_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
+    > очень своеобразно. Некоторые вещи совершенно мной не поняты, а некоторое кажется простым и понятным. Хотя, тут точно не одно двойное дно, и не один скелет. Но Остается хорошее приятное чувство после прочтения.
+
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
     > 7 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 3 из 10
 
 * Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
-    > 1 из 10
 
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
 
-* Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elena](users/459/459594264-yandex)<sup>5</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>58</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>2</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>29</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup> 
 
 
-_10.03.2017 00:33:30_
+_10.03.2017 05:16:06_
