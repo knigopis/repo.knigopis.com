@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>46</sup>
+# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>47</sup>
 ---
 
 ## 2017
+
+### Азазель
+Б. Акунин
+> [2017-02-20] 
+
 
 ### Mastering Chef Provisioning
 Earl Waud
