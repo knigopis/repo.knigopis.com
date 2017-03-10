@@ -1,4 +1,16 @@
 {
+    "6e6bohcbRO": {
+        "id": "6e6bohcbRO",
+        "title": "Турецкий гамбит",
+        "author": "Б. Акунин",
+        "notes": "",
+        "createdAt": "2017-03-10 07:10:54",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 48
+        }
+    },
     "4ArD19feNp": {
         "id": "4ArD19feNp",
         "title": "Азазель",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 51
-        }
-    },
-    "qU2DLjKNn7": {
-        "id": "qU2DLjKNn7",
-        "title": "ПАЛОМНИЧЕСТВО В СТРАНУ ВОСТОКА",
-        "author": "ГЕРМАН ГЕССЕ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:26:15",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 50
         }
     }
 }
