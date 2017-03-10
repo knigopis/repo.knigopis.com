@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>33</sup>
+# Список прочитанных книг пользователя exulted<sup>34</sup>
 ---
 
 ## 2017
+
+### Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend
+Joseph P. Farrell
+> [2017-03-01] ASIN: B00F55BWBG
+
 
 ### The Sea Wolves: A History of the Vikings
 Lars Brownworth

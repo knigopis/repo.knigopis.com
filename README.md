@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
+    > ASIN: B00F55BWBG
+
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
     > 1 из 10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9 из 10
 
 * Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
-    > очень своеобразно. Некоторые вещи совершенно мной не поняты, а некоторое кажется простым и понятным. Хотя, тут точно не одно двойное дно, и не один скелет. Но Остается хорошее приятное чувство после прочтения.
 
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
 
-* Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>34</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 [don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
 [dajanavera](users/386/386369337-vkontakte)<sup>0</sup> 
-[simant13](users/153/153982695-vkontakte)<sup>0</sup> 
 
 
-_10.03.2017 12:25:04_
+_10.03.2017 20:08:53_

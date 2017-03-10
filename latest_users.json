@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 34,
+        "updatedAt": "2017-03-10 20:08:53"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "dajanavera",
         "booksCount": 0,
         "updatedAt": "2017-03-01 17:42:24"
-    },
-    "153982695-vkontakte": {
-        "id": "153982695-vkontakte",
-        "nickname": "simant13",
-        "booksCount": 0,
-        "updatedAt": "2017-03-01 07:43:41"
     }
 }
