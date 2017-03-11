@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Buchwurm](users/100/100001175351667-facebook)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>250</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>34</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>90</sup> 
-[don_fenix](users/137/137875876-vkontakte)<sup>0</sup> 
 
 
-_11.03.2017 16:57:29_
+_11.03.2017 17:13:22_
