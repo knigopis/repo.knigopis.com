@@ -1,4 +1,16 @@
 {
+    "xLsf-pqjjn": {
+        "id": "xLsf-pqjjn",
+        "title": "Девятый 5. Сердце для стража",
+        "author": "Андрей Каменистый",
+        "notes": "",
+        "createdAt": "2017-03-11 16:53:58",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 248
+        }
+    },
     "Oc2PZUFY_p": {
         "id": "Oc2PZUFY_p",
         "title": "Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 56
-        }
-    },
-    "Q5Fq3HNdFM": {
-        "id": "Q5Fq3HNdFM",
-        "title": "РАЗМЫШЛЕНИЯ/К САМОМУ СЕБЕ",
-        "author": "МАРК АВРЕЛИЙ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:28:48",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 55
         }
     }
 }
