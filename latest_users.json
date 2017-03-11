@@ -1,4 +1,10 @@
 {
+    "100001175351667-facebook": {
+        "id": "100001175351667-facebook",
+        "nickname": "Buchwurm",
+        "booksCount": 0,
+        "updatedAt": "2017-03-11 17:13:21"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 90,
         "updatedAt": "2017-03-02 12:40:27"
-    },
-    "137875876-vkontakte": {
-        "id": "137875876-vkontakte",
-        "nickname": "don_fenix",
-        "booksCount": 0,
-        "updatedAt": "2017-03-02 06:28:18"
     }
 }
