@@ -1,4 +1,16 @@
 {
+    "bG6wg06RTE": {
+        "id": "bG6wg06RTE",
+        "title": "Ваш официальный бизнес на Амазон",
+        "author": "Андрей Полищук",
+        "notes": "",
+        "createdAt": "2017-03-11 16:57:29",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 250
+        }
+    },
     "axugw1KIIy": {
         "id": "axugw1KIIy",
         "title": "Девятый 6. Тайны ордена",
@@ -345,18 +357,6 @@
             "id": "1427317190926206-facebook",
             "nickname": "dmkq",
             "booksCount": 58
-        }
-    },
-    "05x2ZkAnum": {
-        "id": "05x2ZkAnum",
-        "title": "HYGGE. СЕКРЕТЫ ДАТСКОГО СЧАСТЬЯ",
-        "author": "МАЙК ВИКИНГ",
-        "notes": "",
-        "createdAt": "2017-03-08 13:31:21",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 57
         }
     }
 }
