@@ -1,4 +1,10 @@
 {
+    "404035163-vkontakte": {
+        "id": "404035163-vkontakte",
+        "nickname": "kristayak",
+        "booksCount": 0,
+        "updatedAt": "2017-03-12 10:47:20"
+    },
     "100001175351667-facebook": {
         "id": "100001175351667-facebook",
         "nickname": "Buchwurm",
@@ -172,11 +178,5 @@
         "nickname": "Bagugus",
         "booksCount": 1,
         "updatedAt": "2017-03-02 18:59:53"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 90,
-        "updatedAt": "2017-03-02 12:40:27"
     }
 }
