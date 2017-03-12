@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 6,
+        "updatedAt": "2017-03-12 18:41:22"
+    },
     "17455474-vkontakte": {
         "id": "17455474-vkontakte",
         "nickname": "lukinykhav",
@@ -136,12 +142,6 @@
         "nickname": "Mira R",
         "booksCount": 61,
         "updatedAt": "2017-03-06 09:54:26"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 5,
-        "updatedAt": "2017-03-06 06:16:58"
     },
     "108774233915925319546-google": {
         "id": "108774233915925319546-google",

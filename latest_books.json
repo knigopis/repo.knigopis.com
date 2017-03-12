@@ -1,4 +1,16 @@
 {
+    "28aIPu7K5i": {
+        "id": "28aIPu7K5i",
+        "title": "Анафем",
+        "author": "Стивенсон Нил",
+        "notes": "фантастика с  философским уклоном. новояз",
+        "createdAt": "2017-03-12 18:41:22",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 6
+        }
+    },
     "bG6wg06RTE": {
         "id": "bG6wg06RTE",
         "title": "Ваш официальный бизнес на Амазон",
@@ -345,18 +357,6 @@
             "id": "459594264-yandex",
             "nickname": "Elena",
             "booksCount": 4
-        }
-    },
-    "lPOK1mpZUB": {
-        "id": "lPOK1mpZUB",
-        "title": "О ГИЛЬГАМЕШЕ (О ВСЁ ВИДАВШЕМ)",
-        "author": "ЭПОС",
-        "notes": "",
-        "createdAt": "2017-03-08 13:36:14",
-        "user": {
-            "id": "1427317190926206-facebook",
-            "nickname": "dmkq",
-            "booksCount": 58
         }
     }
 }

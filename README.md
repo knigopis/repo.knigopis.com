@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
+    > фантастика с  философским уклоном. новояз
+
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
     > ASIN: B00F55BWBG
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 1 из 10
 
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
-    > 9 из 10
 
 * Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
 
-* Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
 [lukinykhav](users/174/17455474-vkontakte)<sup>0</sup> 
 [kristayak](users/404/404035163-vkontakte)<sup>0</sup> 
 [Buchwurm](users/100/100001175351667-facebook)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>5</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>2</sup> 
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
 
 
-_12.03.2017 15:50:17_
+_12.03.2017 18:41:22_

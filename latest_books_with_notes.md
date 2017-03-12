@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
 * А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
-* Я читаю ваши мысли ~ [Иван](users/111/111223381196748176136-google)<sup>10</sup>
 
 
-_10.03.2017 20:08:53_
+_12.03.2017 18:41:22_

@@ -1,4 +1,16 @@
 {
+    "28aIPu7K5i": {
+        "id": "28aIPu7K5i",
+        "title": "Анафем",
+        "author": "Стивенсон Нил",
+        "notes": "фантастика с  философским уклоном. новояз",
+        "createdAt": "2017-03-12 18:41:22",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 6
+        }
+    },
     "Oc2PZUFY_p": {
         "id": "Oc2PZUFY_p",
         "title": "Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 4
-        }
-    },
-    "nyRUOqcoTS": {
-        "id": "nyRUOqcoTS",
-        "title": "Я читаю ваши мысли",
-        "author": "Лиллиан Гласс",
-        "notes": "Четыре кода. Типы людей. Как распозновать людей.",
-        "createdAt": "2017-02-19 14:54:46",
-        "user": {
-            "id": "111223381196748176136-google",
-            "nickname": "Иван",
-            "booksCount": 10
         }
     }
 }
