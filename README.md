@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kristayak](users/404/404035163-vkontakte)<sup>0</sup> 
 [Buchwurm](users/100/100001175351667-facebook)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>250</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>34</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
 [Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
 [Bagugus](users/106/106584244159462150750-google)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>90</sup> 
 
 
-_11.03.2017 17:13:22_
+_12.03.2017 10:47:21_
