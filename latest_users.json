@@ -1,4 +1,10 @@
 {
+    "17455474-vkontakte": {
+        "id": "17455474-vkontakte",
+        "nickname": "lukinykhav",
+        "booksCount": 0,
+        "updatedAt": "2017-03-12 15:50:14"
+    },
     "404035163-vkontakte": {
         "id": "404035163-vkontakte",
         "nickname": "kristayak",
@@ -172,11 +178,5 @@
         "nickname": "Helena",
         "booksCount": 0,
         "updatedAt": "2017-03-03 08:29:20"
-    },
-    "106584244159462150750-google": {
-        "id": "106584244159462150750-google",
-        "nickname": "Bagugus",
-        "booksCount": 1,
-        "updatedAt": "2017-03-02 18:59:53"
     }
 }
