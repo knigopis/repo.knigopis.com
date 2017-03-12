@@ -1,4 +1,10 @@
 {
+    "67028882-vkontakte": {
+        "id": "67028882-vkontakte",
+        "nickname": "oldsport",
+        "booksCount": 0,
+        "updatedAt": "2017-03-12 21:54:01"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Zanoooza",
         "booksCount": 0,
         "updatedAt": "2017-03-03 17:43:49"
-    },
-    "1299464500121936-facebook": {
-        "id": "1299464500121936-facebook",
-        "nickname": "Helena",
-        "booksCount": 0,
-        "updatedAt": "2017-03-03 08:29:20"
     }
 }
