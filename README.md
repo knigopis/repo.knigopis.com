@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[oldsport](users/670/67028882-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
 [lukinykhav](users/174/17455474-vkontakte)<sup>0</sup> 
 [kristayak](users/404/404035163-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
 [Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
 [Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
-[Helena](users/129/1299464500121936-facebook)<sup>0</sup> 
 
 
-_12.03.2017 18:41:22_
+_12.03.2017 21:54:03_
