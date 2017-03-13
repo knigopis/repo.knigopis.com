@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ann Rott](users/108/108774233915925319546-google)<sup>2</sup> 
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
-[Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
 
 
-_13.03.2017 13:52:19_
+_13.03.2017 15:15:10_
