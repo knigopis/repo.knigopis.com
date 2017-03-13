@@ -1,4 +1,16 @@
 {
+    "xg2jg43wyY": {
+        "id": "xg2jg43wyY",
+        "title": "Ведьмак: Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2017-03-13 15:38:16",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 3
+        }
+    },
     "aYt6ty3fj0": {
         "id": "aYt6ty3fj0",
         "title": "Дунайский лоцман",
@@ -345,18 +357,6 @@
             "id": "16366623-vkontakte",
             "nickname": "parafeks",
             "booksCount": 1
-        }
-    },
-    "DgNkQCjfKi": {
-        "id": "DgNkQCjfKi",
-        "title": "Поющие в терновнике",
-        "author": "К. Маккалоу",
-        "notes": "",
-        "createdAt": "2017-03-08 15:19:04",
-        "user": {
-            "id": "39868741-vkontakte",
-            "nickname": "Christina",
-            "booksCount": 4
         }
     }
 }
