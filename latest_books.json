@@ -1,4 +1,16 @@
 {
+    "agBuyYML5W": {
+        "id": "agBuyYML5W",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-03-13 19:50:06",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 25
+        }
+    },
     "TT00wtyY__": {
         "id": "TT00wtyY__",
         "title": "Ловушка",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 48
-        }
-    },
-    "4ArD19feNp": {
-        "id": "4ArD19feNp",
-        "title": "Азазель",
-        "author": "Б. Акунин",
-        "notes": "",
-        "createdAt": "2017-03-10 07:10:17",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 47
         }
     }
 }
