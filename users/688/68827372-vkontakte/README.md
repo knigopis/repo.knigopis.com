@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>23</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>24</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 ### Дело о тяжёлом чемоданчике
 Гарднер Эрл Стэнли
 > [2017-03] 
+
+
+### Ловушка
+Чейз
+> [2017-02] 
 
 
 

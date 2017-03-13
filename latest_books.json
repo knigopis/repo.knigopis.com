@@ -1,4 +1,16 @@
 {
+    "TT00wtyY__": {
+        "id": "TT00wtyY__",
+        "title": "Ловушка",
+        "author": "Чейз",
+        "notes": "",
+        "createdAt": "2017-03-13 19:49:42",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 24
+        }
+    },
     "k0GycAut39": {
         "id": "k0GycAut39",
         "title": "Досье \"Одесса\"",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 47
-        }
-    },
-    "p4fcTZYvx6": {
-        "id": "p4fcTZYvx6",
-        "title": "Mastering Chef Provisioning",
-        "author": "Earl Waud",
-        "notes": "",
-        "createdAt": "2017-03-10 07:09:42",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 46
         }
     }
 }
