@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>28</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>29</sup>
 ---
 
 ## 2017
@@ -30,6 +30,11 @@
 ### Ловушка
 Чейз
 > [2017-02] 
+
+
+### Земля Санникова
+Обручев Владимир Анатольевич
+> [2017-01] 
 
 
 ### Плутония
