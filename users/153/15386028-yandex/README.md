@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>5</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>6</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Ведьмак: Час Презрения
+Анджей Сапковский
+> [2016-08] Книга 4
+
 
 ### Ведьмак: Кровь эльфов
 Анджей Сапковский

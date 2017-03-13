@@ -1,4 +1,16 @@
 {
+    "kSxvFFMpQu": {
+        "id": "kSxvFFMpQu",
+        "title": "Ведьмак: Час Презрения",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 4",
+        "createdAt": "2017-03-13 15:47:09",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 6
+        }
+    },
     "G5rULfipTF": {
         "id": "G5rULfipTF",
         "title": "Ведьмак: Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 104
-        }
-    },
-    "gSU0H9ynb-": {
-        "id": "gSU0H9ynb-",
-        "title": "Любовь без поцелуев",
-        "author": "Poluork / Ficbook.net",
-        "notes": "Стас/Макс/детский дом",
-        "createdAt": "2017-03-08 19:54:28",
-        "user": {
-            "id": "16366623-vkontakte",
-            "nickname": "parafeks",
-            "booksCount": 3
         }
     }
 }
