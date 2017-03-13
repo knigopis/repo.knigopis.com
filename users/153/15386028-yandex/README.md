@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>7</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>8</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Ведьмак: Башня Ласточки
+Анджей Сапковский
+> [2016-11] Книга 6
+
 
 ### Ведьмак: Крещение огнем
 Анджей Сапковский
