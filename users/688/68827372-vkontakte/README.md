@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>31</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>30</sup>
 ---
 
 ## 2017
@@ -103,10 +103,6 @@
 
 
 ## 2014
-
-### Мастер и Маргарита
-Михаил Булгаков
-
 
 ### Думай и богатей
 Наполеон Хилл
