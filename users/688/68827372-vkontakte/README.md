@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>26</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>27</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 ### Дело о тяжёлом чемоданчике
 Гарднер Эрл Стэнли
 > [2017-03] 
+
+
+### Открытая дверь
+Чейз
+> [2017-02] 
 
 
 ### Отпусти меня

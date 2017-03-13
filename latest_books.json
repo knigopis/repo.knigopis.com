@@ -1,4 +1,16 @@
 {
+    "9MYE_lzVQ5": {
+        "id": "9MYE_lzVQ5",
+        "title": "Открытая дверь",
+        "author": "Чейз",
+        "notes": "",
+        "createdAt": "2017-03-13 19:51:45",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 27
+        }
+    },
     "4FnhuGPBdf": {
         "id": "4FnhuGPBdf",
         "title": "Отпусти меня",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 111
-        }
-    },
-    "cqAdmuCoT7": {
-        "id": "cqAdmuCoT7",
-        "title": "Хватит быть славным парнем! Как добиться желаемого в любви, работе и жизни",
-        "author": "Роберт Гловер",
-        "notes": "",
-        "createdAt": "2017-03-10 07:11:26",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 49
         }
     }
 }
