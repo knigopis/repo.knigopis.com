@@ -1,4 +1,16 @@
 {
+    "Erwdr9TCTQ": {
+        "id": "Erwdr9TCTQ",
+        "title": "Ведьмак: Меч Предназначения",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2017-03-13 15:41:44",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 4
+        }
+    },
     "xg2jg43wyY": {
         "id": "xg2jg43wyY",
         "title": "Ведьмак: Последнее желание",
@@ -345,18 +357,6 @@
             "id": "16366623-vkontakte",
             "nickname": "parafeks",
             "booksCount": 2
-        }
-    },
-    "jHFpmiLsro": {
-        "id": "jHFpmiLsro",
-        "title": "erg",
-        "author": "5tg5",
-        "notes": "g5tgr",
-        "createdAt": "2017-03-08 19:43:13",
-        "user": {
-            "id": "16366623-vkontakte",
-            "nickname": "parafeks",
-            "booksCount": 1
         }
     }
 }

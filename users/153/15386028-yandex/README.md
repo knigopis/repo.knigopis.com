@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>3</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>4</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Ведьмак: Меч Предназначения
+Анджей Сапковский
+> [2016-10] 
+
 
 ### Ведьмак: Последнее желание
 Анджей Сапковский
