@@ -1,4 +1,16 @@
 {
+    "RuTqc782Na": {
+        "id": "RuTqc782Na",
+        "title": "Ведьмак: Владычица озера",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 7",
+        "createdAt": "2017-03-13 15:50:10",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 9
+        }
+    },
     "vcbqDtZQUN": {
         "id": "vcbqDtZQUN",
         "title": "Ведьмак: Башня Ласточки",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 57
-        }
-    },
-    "_AglbK1yCw": {
-        "id": "_AglbK1yCw",
-        "title": "Волны гасят ветер",
-        "author": "А и Б. Стругацкие",
-        "notes": "аудиокнига",
-        "createdAt": "2017-03-09 14:53:19",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 6
         }
     }
 }

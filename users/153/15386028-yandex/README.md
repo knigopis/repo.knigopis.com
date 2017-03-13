@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>8</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>9</sup>
 ---
 
 ## 2017
@@ -15,6 +15,11 @@
 
 
 ## 2016
+
+### Ведьмак: Владычица озера
+Анджей Сапковский
+> [2016-12] Книга 7
+
 
 ### Ведьмак: Башня Ласточки
 Анджей Сапковский
