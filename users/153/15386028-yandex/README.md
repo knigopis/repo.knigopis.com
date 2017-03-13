@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>4</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>5</sup>
 ---
 
 ## 2017
@@ -24,6 +24,11 @@
 ### Ведьмак: Последнее желание
 Анджей Сапковский
 > [2016-10] 
+
+
+### Ведьмак: Кровь эльфов
+Анджей Сапковский
+> [2016-08] Книга 3
 
 
 
