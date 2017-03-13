@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
 * Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 * Я путешествую одна ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>102</sup>
-* А я дура пятая ~ [Chiffi](users/105/105831994080785626680-google)<sup>4</sup>
 
 
-_12.03.2017 18:41:22_
+_13.03.2017 13:52:19_

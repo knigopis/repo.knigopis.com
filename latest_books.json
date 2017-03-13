@@ -1,4 +1,16 @@
 {
+    "cq_2mpfdKO": {
+        "id": "cq_2mpfdKO",
+        "title": "Сильмариллион",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "Властелин Колец",
+        "createdAt": "2017-03-13 13:52:19",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 96
+        }
+    },
     "WHT-9fdf1z": {
         "id": "WHT-9fdf1z",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 12
-        }
-    },
-    "W4q5iACZze": {
-        "id": "W4q5iACZze",
-        "title": "Никогде",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-03-08 14:00:51",
-        "user": {
-            "id": "459594264-yandex",
-            "nickname": "Elena",
-            "booksCount": 5
         }
     }
 }

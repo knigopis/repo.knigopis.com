@@ -1,4 +1,16 @@
 {
+    "cq_2mpfdKO": {
+        "id": "cq_2mpfdKO",
+        "title": "Сильмариллион",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "Властелин Колец",
+        "createdAt": "2017-03-13 13:52:19",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 96
+        }
+    },
     "28aIPu7K5i": {
         "id": "28aIPu7K5i",
         "title": "Анафем",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 102
-        }
-    },
-    "qtHm8n5C_F": {
-        "id": "qtHm8n5C_F",
-        "title": "А я дура пятая",
-        "author": "Вильмонт Екатерина",
-        "notes": "Сказка про любовь. Все в стиле Вильмонт",
-        "createdAt": "2017-02-22 08:01:45",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 4
         }
     }
 }

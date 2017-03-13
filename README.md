@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
+    > Властелин Колец
+
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
     > фантастика с  философским уклоном. новояз
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00F55BWBG
 
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
-    > 1 из 10
 
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
 
-* Обезьянья лапка ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
 [lukinykhav](users/174/17455474-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 [il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
 [Виктория](users/843/84372212-vkontakte)<sup>0</sup> 
-[Zanoooza](users/411/41187135-vkontakte)<sup>0</sup> 
 
 
-_12.03.2017 21:54:51_
+_13.03.2017 13:52:19_
