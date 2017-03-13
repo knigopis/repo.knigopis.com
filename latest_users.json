@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 21,
+        "updatedAt": "2017-03-13 19:42:15"
+    },
     "15386028-yandex": {
         "id": "15386028-yandex",
         "nickname": "Derek777",
@@ -172,11 +178,5 @@
         "nickname": "polly_noise",
         "booksCount": 0,
         "updatedAt": "2017-03-04 21:10:56"
-    },
-    "192594353-yandex": {
-        "id": "192594353-yandex",
-        "nickname": "il.sospetto",
-        "booksCount": 0,
-        "updatedAt": "2017-03-04 15:52:11"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>21</sup> 
 [Derek777](users/153/15386028-yandex)<sup>14</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>2</sup> 
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
-[il.sospetto](users/192/192594353-yandex)<sup>0</sup> 
 
 
-_13.03.2017 16:52:16_
+_13.03.2017 19:42:15_

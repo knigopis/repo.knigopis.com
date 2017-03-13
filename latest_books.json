@@ -1,4 +1,16 @@
 {
+    "t6_-Kgw5vp": {
+        "id": "t6_-Kgw5vp",
+        "title": "Не родись красивой. Помощник президента.",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-03-13 19:42:15",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 21
+        }
+    },
     "gpUCHfYg6L": {
         "id": "gpUCHfYg6L",
         "title": "Робинзоны космоса",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 110
-        }
-    },
-    "5hHtoidYSN": {
-        "id": "5hHtoidYSN",
-        "title": "Добро пожаловать в мёртвый дом",
-        "author": "Роберт Лоуренс Стайн",
-        "notes": "3 из 10",
-        "createdAt": "2017-03-09 23:00:23",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 109
         }
     }
 }
