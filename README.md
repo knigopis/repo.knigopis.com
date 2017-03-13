@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[antasiar](users/688/68827372-vkontakte)<sup>30</sup> 
+[antasiar](users/688/68827372-vkontakte)<sup>31</sup> 
 [Derek777](users/153/15386028-yandex)<sup>14</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [polly_noise](users/179/179481296-vkontakte)<sup>0</sup> 
 
 
-_13.03.2017 19:53:37_
+_13.03.2017 19:54:00_

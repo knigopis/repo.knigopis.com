@@ -1,4 +1,16 @@
 {
+    "PIjYKr508-": {
+        "id": "PIjYKr508-",
+        "title": "Фаворит",
+        "author": "Дик Фрэнсис",
+        "notes": "",
+        "createdAt": "2017-03-13 19:54:00",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 31
+        }
+    },
     "RJsbqVcCHF": {
         "id": "RJsbqVcCHF",
         "title": "Ведомство страха",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 249
-        }
-    },
-    "xLsf-pqjjn": {
-        "id": "xLsf-pqjjn",
-        "title": "Девятый 5. Сердце для стража",
-        "author": "Андрей Каменистый",
-        "notes": "",
-        "createdAt": "2017-03-11 16:53:58",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 248
         }
     }
 }
