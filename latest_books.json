@@ -1,4 +1,16 @@
 {
+    "6MAN0_h0yz": {
+        "id": "6MAN0_h0yz",
+        "title": "Череп на рукаве",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-03-14 19:49:40",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 33
+        }
+    },
     "xbO_Lq-t4L": {
         "id": "xbO_Lq-t4L",
         "title": "Ревизор",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 4
-        }
-    },
-    "xg2jg43wyY": {
-        "id": "xg2jg43wyY",
-        "title": "Ведьмак: Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2017-03-13 15:38:16",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 3
         }
     }
 }
