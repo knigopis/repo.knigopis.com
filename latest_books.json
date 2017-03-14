@@ -1,4 +1,16 @@
 {
+    "g3v4ffJ2hg": {
+        "id": "g3v4ffJ2hg",
+        "title": "Ночная стража",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2017-03-14 12:03:42",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 91
+        }
+    },
     "VQa_HRsZQs": {
         "id": "VQa_HRsZQs",
         "title": "Лунный зверь",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 96
-        }
-    },
-    "WHT-9fdf1z": {
-        "id": "WHT-9fdf1z",
-        "title": "Герой нашего времени",
-        "author": "Лермонтов",
-        "notes": "",
-        "createdAt": "2017-03-12 21:54:51",
-        "user": {
-            "id": "67028882-vkontakte",
-            "nickname": "oldsport",
-            "booksCount": 1
         }
     }
 }
