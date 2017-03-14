@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 1,
+        "updatedAt": "2017-03-14 08:07:30"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -16,12 +22,6 @@
         "nickname": "hajime_mei",
         "booksCount": 1,
         "updatedAt": "2017-03-14 05:40:13"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 0,
-        "updatedAt": "2017-03-14 05:17:58"
     },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",

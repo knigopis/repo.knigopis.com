@@ -1,4 +1,16 @@
 {
+    "VQa_HRsZQs": {
+        "id": "VQa_HRsZQs",
+        "title": "Лунный зверь",
+        "author": "Гарри Килворт",
+        "notes": "",
+        "createdAt": "2017-03-14 08:07:30",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 1
+        }
+    },
     "jTGaEmGxzF": {
         "id": "jTGaEmGxzF",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "67028882-vkontakte",
             "nickname": "oldsport",
             "booksCount": 1
-        }
-    },
-    "28aIPu7K5i": {
-        "id": "28aIPu7K5i",
-        "title": "Анафем",
-        "author": "Стивенсон Нил",
-        "notes": "фантастика с  философским уклоном. новояз",
-        "createdAt": "2017-03-12 18:41:22",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 6
         }
     }
 }
