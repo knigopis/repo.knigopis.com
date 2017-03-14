@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmitriev.ivashka](users/457/45795901-vkontakte)<sup>0</sup> 
 [AlexanderZay](users/111/111509705189100053263-google)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>91</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
 [Christina](users/398/39868741-vkontakte)<sup>4</sup> 
-[Милашечка](users/200/200601396-vkontakte)<sup>12</sup> 
 
 
-_14.03.2017 18:01:33_
+_14.03.2017 18:05:52_
