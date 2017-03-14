@@ -1,4 +1,16 @@
 {
+    "07z_yeb5jD": {
+        "id": "07z_yeb5jD",
+        "title": "Над пропастью во ржи",
+        "author": "Сэлинджер Джером Дейвид",
+        "notes": "",
+        "createdAt": "2017-03-14 05:17:50",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 1
+        }
+    },
     "PIjYKr508-": {
         "id": "PIjYKr508-",
         "title": "Фаворит",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 250
-        }
-    },
-    "axugw1KIIy": {
-        "id": "axugw1KIIy",
-        "title": "Девятый 6. Тайны ордена",
-        "author": "Андрей Каменистый",
-        "notes": "",
-        "createdAt": "2017-03-11 16:56:33",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 249
         }
     }
 }

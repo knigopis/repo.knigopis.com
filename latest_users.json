@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 1,
+        "updatedAt": "2017-03-14 05:17:50"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "Ann Rott",
         "booksCount": 2,
         "updatedAt": "2017-03-05 09:13:24"
-    },
-    "179481296-vkontakte": {
-        "id": "179481296-vkontakte",
-        "nickname": "polly_noise",
-        "booksCount": 0,
-        "updatedAt": "2017-03-04 21:10:56"
     }
 }
