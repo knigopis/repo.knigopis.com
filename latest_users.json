@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 31,
+        "updatedAt": "2017-03-14 19:48:09"
+    },
     "45795901-vkontakte": {
         "id": "45795901-vkontakte",
         "nickname": "dmitriev.ivashka",
@@ -52,12 +58,6 @@
         "nickname": "hajime_mei",
         "booksCount": 1,
         "updatedAt": "2017-03-14 05:40:13"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 30,
-        "updatedAt": "2017-03-13 19:58:25"
     },
     "15386028-yandex": {
         "id": "15386028-yandex",
