@@ -1,11 +1,3 @@
-# List of books read by geyski<sup>1</sup>
+# List of books read by geyski<sup>0</sup>
 ---
-
-## 2015
-
-### Лунный зверь
-Гарри Килворт
-> [2015-12-18] 
-
-
 
