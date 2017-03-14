@@ -1,4 +1,16 @@
 {
+    "jTGaEmGxzF": {
+        "id": "jTGaEmGxzF",
+        "title": "Мастер и Маргарита",
+        "author": "Булгаков",
+        "notes": "Одна из любимых книг",
+        "createdAt": "2017-03-14 05:40:13",
+        "user": {
+            "id": "335968601-vkontakte",
+            "nickname": "hajime_mei",
+            "booksCount": 1
+        }
+    },
     "07z_yeb5jD": {
         "id": "07z_yeb5jD",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 6
-        }
-    },
-    "bG6wg06RTE": {
-        "id": "bG6wg06RTE",
-        "title": "Ваш официальный бизнес на Амазон",
-        "author": "Андрей Полищук",
-        "notes": "",
-        "createdAt": "2017-03-11 16:57:29",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 250
         }
     }
 }

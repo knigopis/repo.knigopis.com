@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hajime_mei](users/335/335968601-vkontakte)<sup>0</sup> 
+[hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>30</sup> 
 [Derek777](users/153/15386028-yandex)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 
 
-_14.03.2017 05:38:11_
+_14.03.2017 05:40:13_
