@@ -1,4 +1,10 @@
 {
+    "111509705189100053263-google": {
+        "id": "111509705189100053263-google",
+        "nickname": "AlexanderZay",
+        "booksCount": 0,
+        "updatedAt": "2017-03-14 18:01:32"
+    },
     "317314037-vkontakte": {
         "id": "317314037-vkontakte",
         "nickname": "hawkeyepierce89",
@@ -172,11 +178,5 @@
         "nickname": "Милашечка",
         "booksCount": 12,
         "updatedAt": "2017-03-08 14:58:33"
-    },
-    "459594264-yandex": {
-        "id": "459594264-yandex",
-        "nickname": "Elena",
-        "booksCount": 5,
-        "updatedAt": "2017-03-08 14:00:51"
     }
 }
