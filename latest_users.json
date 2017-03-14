@@ -1,4 +1,10 @@
 {
+    "45795901-vkontakte": {
+        "id": "45795901-vkontakte",
+        "nickname": "dmitriev.ivashka",
+        "booksCount": 0,
+        "updatedAt": "2017-03-14 18:05:52"
+    },
     "111509705189100053263-google": {
         "id": "111509705189100053263-google",
         "nickname": "AlexanderZay",
@@ -172,11 +178,5 @@
         "nickname": "Christina",
         "booksCount": 4,
         "updatedAt": "2017-03-08 15:19:04"
-    },
-    "200601396-vkontakte": {
-        "id": "200601396-vkontakte",
-        "nickname": "Милашечка",
-        "booksCount": 12,
-        "updatedAt": "2017-03-08 14:58:33"
     }
 }
