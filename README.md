@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>1</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>30</sup> 
 [Derek777](users/153/15386028-yandex)<sup>14</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ann Rott](users/108/108774233915925319546-google)<sup>2</sup> 
 
 
-_14.03.2017 05:17:50_
+_14.03.2017 05:17:59_
