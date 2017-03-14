@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
 [hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stenya](users/333/333274180-vkontakte)<sup>2</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>24</sup> 
-[Mira R](users/103/103293621948650602575-google)<sup>61</sup> 
 
 
-_14.03.2017 05:40:13_
+_14.03.2017 05:57:46_
