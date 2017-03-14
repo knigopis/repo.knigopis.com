@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tvou_vizg](users/399/399207464-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>0</sup> 
 [IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Elena](users/459/459594264-yandex)<sup>5</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>58</sup> 
 [stenya](users/333/333274180-vkontakte)<sup>2</sup> 
-[Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 
 
-_14.03.2017 08:08:06_
+_14.03.2017 08:10:32_
