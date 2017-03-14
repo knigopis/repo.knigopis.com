@@ -1,4 +1,10 @@
 {
+    "317314037-vkontakte": {
+        "id": "317314037-vkontakte",
+        "nickname": "hawkeyepierce89",
+        "booksCount": 2,
+        "updatedAt": "2017-03-14 17:23:35"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Elena",
         "booksCount": 5,
         "updatedAt": "2017-03-08 14:00:51"
-    },
-    "1427317190926206-facebook": {
-        "id": "1427317190926206-facebook",
-        "nickname": "dmkq",
-        "booksCount": 58,
-        "updatedAt": "2017-03-08 13:36:14"
     }
 }
