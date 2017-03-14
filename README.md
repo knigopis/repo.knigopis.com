@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>1</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>0</sup> 
 [IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
 [hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Брусникина](users/374/374307269-vkontakte)<sup>12</sup> 
 
 
-_14.03.2017 08:07:30_
+_14.03.2017 08:08:06_
