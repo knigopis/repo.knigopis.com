@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 0,
+        "updatedAt": "2017-03-14 06:00:00"
+    },
     "2457849566-twitter": {
         "id": "2457849566-twitter",
         "nickname": "IolantaNorth",
@@ -172,11 +178,5 @@
         "nickname": "Брусникина",
         "booksCount": 12,
         "updatedAt": "2017-03-06 16:48:25"
-    },
-    "311057796-yandex": {
-        "id": "311057796-yandex",
-        "nickname": "pkisarov001",
-        "booksCount": 24,
-        "updatedAt": "2017-03-06 10:35:54"
     }
 }
