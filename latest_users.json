@@ -1,4 +1,10 @@
 {
+    "399207464-vkontakte": {
+        "id": "399207464-vkontakte",
+        "nickname": "tvou_vizg",
+        "booksCount": 0,
+        "updatedAt": "2017-03-14 08:10:32"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "stenya",
         "booksCount": 2,
         "updatedAt": "2017-03-08 13:17:22"
-    },
-    "374307269-vkontakte": {
-        "id": "374307269-vkontakte",
-        "nickname": "Брусникина",
-        "booksCount": 12,
-        "updatedAt": "2017-03-06 16:48:25"
     }
 }
