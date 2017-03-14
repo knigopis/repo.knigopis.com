@@ -1,4 +1,10 @@
 {
+    "2457849566-twitter": {
+        "id": "2457849566-twitter",
+        "nickname": "IolantaNorth",
+        "booksCount": 0,
+        "updatedAt": "2017-03-14 05:57:45"
+    },
     "335968601-vkontakte": {
         "id": "335968601-vkontakte",
         "nickname": "hajime_mei",
@@ -172,11 +178,5 @@
         "nickname": "pkisarov001",
         "booksCount": 24,
         "updatedAt": "2017-03-06 10:35:54"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Mira R",
-        "booksCount": 61,
-        "updatedAt": "2017-03-06 09:54:26"
     }
 }
