@@ -1,4 +1,16 @@
 {
+    "6JNvf3Tc_G": {
+        "id": "6JNvf3Tc_G",
+        "title": "Месть Звездного Луча",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:51:21",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 35
+        }
+    },
     "_zSyXnnwew": {
         "id": "_zSyXnnwew",
         "title": "Тайна Щербатой",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 6
-        }
-    },
-    "ny5Ohozn-a": {
-        "id": "ny5Ohozn-a",
-        "title": "Границы бесконечности",
-        "author": "Буджолд Лоис Макмастер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:41:48",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 5
         }
     }
 }

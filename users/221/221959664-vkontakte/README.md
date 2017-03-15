@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>34</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>35</sup>
 ---
 
 ## 2016
+
+### Месть Звездного Луча
+Эрин Хантер
+> [2016-08-19] 
+
 
 ### Тайна Щербатой
 Эрин Хантер
