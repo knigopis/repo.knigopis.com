@@ -1,4 +1,16 @@
 {
+    "NVnhCcsUaU": {
+        "id": "NVnhCcsUaU",
+        "title": "Звездный свет",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:45:27",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 15
+        }
+    },
     "sNyTC9QfBk": {
         "id": "sNyTC9QfBk",
         "title": "Рассвет",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 31
-        }
-    },
-    "RJsbqVcCHF": {
-        "id": "RJsbqVcCHF",
-        "title": "Ведомство страха",
-        "author": "Грэм Грин",
-        "notes": "",
-        "createdAt": "2017-03-13 19:53:37",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 30
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>14</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>15</sup>
 ---
 
 ## 2016
+
+### Звездный свет
+Эрин Хантер
+> [2016-06-28] 
+
 
 ### Рассвет
 Эрин Хантер
