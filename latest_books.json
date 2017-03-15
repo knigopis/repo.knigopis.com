@@ -1,4 +1,16 @@
 {
+    "8DYF3WoLQ0": {
+        "id": "8DYF3WoLQ0",
+        "title": "КиберЗолушка",
+        "author": "Мейер Мариса",
+        "notes": "",
+        "createdAt": "2017-03-15 06:00:19",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 55
+        }
+    },
     "d1Zf1JILgj": {
         "id": "d1Zf1JILgj",
         "title": "Лед-15",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 26
-        }
-    },
-    "nnEpwlVvHn": {
-        "id": "nnEpwlVvHn",
-        "title": "Долгое эхо",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:48:00",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 25
         }
     }
 }
