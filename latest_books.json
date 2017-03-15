@@ -1,4 +1,16 @@
 {
+    "vrEavcYOZ6": {
+        "id": "vrEavcYOZ6",
+        "title": "Четвертый оруженосец",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:47:46",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 24
+        }
+    },
     "xiSahKXAu3": {
         "id": "xiSahKXAu3",
         "title": "Восход солнца",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 2
-        }
-    },
-    "If3w4ZsabL": {
-        "id": "If3w4ZsabL",
-        "title": "Атлант расправил плечи",
-        "author": "Айн Рэнд",
-        "notes": "Кто такой Джон Голт?",
-        "createdAt": "2017-03-14 23:55:39",
-        "user": {
-            "id": "1724160371208898-facebook",
-            "nickname": "Crazy",
-            "booksCount": 1
         }
     }
 }
