@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>47</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>48</sup>
 ---
 
 ## 2016
+
+### Секреты племен
+Эрин Хантер
+> [2016-09-09] 
+
 
 ### Герои племен
 Эрин Хантер
