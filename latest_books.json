@@ -1,4 +1,16 @@
 {
+    "CxqPqRdGdS": {
+        "id": "CxqPqRdGdS",
+        "title": "Бешеная",
+        "author": "Александр Бушков",
+        "notes": "",
+        "createdAt": "2017-03-15 20:02:51",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 39
+        }
+    },
     "xW-kzeHeRy": {
         "id": "xW-kzeHeRy",
         "title": "Последний человек из Атлантиды",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 66
-        }
-    },
-    "M9xiFu_skg": {
-        "id": "M9xiFu_skg",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер Джером Дэвид",
-        "notes": "",
-        "createdAt": "2017-03-15 06:05:05",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 65
         }
     }
 }
