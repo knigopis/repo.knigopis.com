@@ -1,4 +1,16 @@
 {
+    "kSmRCsWxU2": {
+        "id": "kSmRCsWxU2",
+        "title": "Знак трех",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:46:11",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 18
+        }
+    },
     "fHLgjhll69": {
         "id": "fHLgjhll69",
         "title": "Закат",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 91
-        }
-    },
-    "jTGaEmGxzF": {
-        "id": "jTGaEmGxzF",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "Одна из любимых книг",
-        "createdAt": "2017-03-14 05:40:13",
-        "user": {
-            "id": "335968601-vkontakte",
-            "nickname": "hajime_mei",
-            "booksCount": 1
         }
     }
 }
