@@ -1,4 +1,16 @@
 {
+    "-XmkEv6K3o": {
+        "id": "-XmkEv6K3o",
+        "title": "Разрушители",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:09:36",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 46
+        }
+    },
     "Jbs1Me5Gld": {
         "id": "Jbs1Me5Gld",
         "title": "Штурмовой вариант",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 73
-        }
-    },
-    "vA16MNkv5J": {
-        "id": "vA16MNkv5J",
-        "title": "Черный Флаг",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:07:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 72
         }
     }
 }
