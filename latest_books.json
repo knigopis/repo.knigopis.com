@@ -1,4 +1,16 @@
 {
+    "Mt3v280NMS": {
+        "id": "Mt3v280NMS",
+        "title": "Город Эмбер:побег",
+        "author": "Дюпо Джин",
+        "notes": "",
+        "createdAt": "2017-03-15 05:56:35",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 49
+        }
+    },
     "mHGrmFD-ZA": {
         "id": "mHGrmFD-ZA",
         "title": "Секреты племен",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 20
-        }
-    },
-    "h5_ESob5rA": {
-        "id": "h5_ESob5rA",
-        "title": "Темная река",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:46:25",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 19
         }
     }
 }
