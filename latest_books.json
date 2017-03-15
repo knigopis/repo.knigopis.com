@@ -1,4 +1,16 @@
 {
+    "AUm6wIn-Mj": {
+        "id": "AUm6wIn-Mj",
+        "title": "Красная Шапочка",
+        "author": "Мейер Мариса",
+        "notes": "",
+        "createdAt": "2017-03-15 06:00:38",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 56
+        }
+    },
     "8DYF3WoLQ0": {
         "id": "8DYF3WoLQ0",
         "title": "КиберЗолушка",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 27
-        }
-    },
-    "PvlXEYM1w5": {
-        "id": "PvlXEYM1w5",
-        "title": "Голоса в ночи",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:48:21",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 26
         }
     }
 }

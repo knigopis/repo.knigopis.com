@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>55</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>56</sup>
 ---
 
 ## 2016
+
+### Красная Шапочка
+Мейер Мариса
+> [2016-11-16] 
+
 
 ### КиберЗолушка
 Мейер Мариса
