@@ -1,4 +1,16 @@
 {
+    "609PhRcI1S": {
+        "id": "609PhRcI1S",
+        "title": "Гражданский спецназ",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:11:32",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 50
+        }
+    },
     "eixSmTbYgS": {
         "id": "eixSmTbYgS",
         "title": "Нас учили рисковать",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 77
-        }
-    },
-    "G4ziQd1eyc": {
-        "id": "G4ziQd1eyc",
-        "title": "Бесконечное море",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-03-15 06:08:30",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 76
         }
     }
 }

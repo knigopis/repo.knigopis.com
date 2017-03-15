@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>49</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>50</sup>
 ---
 
 ## 2017
@@ -82,6 +82,10 @@
 
 ### Верная подруга
 > [2016-09] 
+
+
+### Гражданский спецназ
+Альберт Байкалов
 
 
 ### Нас учили рисковать
