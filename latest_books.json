@@ -1,4 +1,16 @@
 {
+    "_9tL_rtNQL": {
+        "id": "_9tL_rtNQL",
+        "title": "Капкан для Бешеной",
+        "author": "Александр Бушков",
+        "notes": "",
+        "createdAt": "2017-03-15 20:03:17",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 40
+        }
+    },
     "CxqPqRdGdS": {
         "id": "CxqPqRdGdS",
         "title": "Бешеная",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 67
-        }
-    },
-    "pMvDAgXoN8": {
-        "id": "pMvDAgXoN8",
-        "title": "Страна радости",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-15 06:05:27",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 66
         }
     }
 }
