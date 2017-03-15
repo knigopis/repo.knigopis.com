@@ -1,4 +1,16 @@
 {
+    "-GPa5fHtQi": {
+        "id": "-GPa5fHtQi",
+        "title": "Ярость Когтя",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:53:18",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 40
+        }
+    },
     "YqicxJe5TC": {
         "id": "YqicxJe5TC",
         "title": "Путешествие Тучезвезда",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 11
-        }
-    },
-    "p0gnbili1E": {
-        "id": "p0gnbili1E",
-        "title": "Опасная тропа",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:43:36",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 10
         }
     }
 }
