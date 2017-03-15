@@ -1,4 +1,16 @@
 {
+    "eixSmTbYgS": {
+        "id": "eixSmTbYgS",
+        "title": "Нас учили рисковать",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:11:01",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 49
+        }
+    },
     "OG8NWuCDm-": {
         "id": "OG8NWuCDm-",
         "title": "Под грифом «Любой ценой»",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 76
-        }
-    },
-    "6P8YH3w4lB": {
-        "id": "6P8YH3w4lB",
-        "title": "5-волна",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-03-15 06:08:14",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 75
         }
     }
 }

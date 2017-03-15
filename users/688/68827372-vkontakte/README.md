@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>48</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>49</sup>
 ---
 
 ## 2017
@@ -82,6 +82,10 @@
 
 ### Верная подруга
 > [2016-09] 
+
+
+### Нас учили рисковать
+Альберт Байкалов
 
 
 ### Под грифом «Любой ценой»
