@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>30</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>31</sup>
 ---
 
 ## 2016
+
+### Пророчество Синей Звезды
+Эрин Хантер
+> [2016-08-11] 
+
 
 ### Миссия Огнезвезда
 Эрин Хантер
