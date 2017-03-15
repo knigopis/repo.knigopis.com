@@ -1,4 +1,16 @@
 {
+    "N8H7SJMJA3": {
+        "id": "N8H7SJMJA3",
+        "title": "В одном строю с победой",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:12:29",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 52
+        }
+    },
     "b716LogpVm": {
         "id": "b716LogpVm",
         "title": "Взрыв в честь президента",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 79
-        }
-    },
-    "PrexmDzuo2": {
-        "id": "PrexmDzuo2",
-        "title": "Северное сияние",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-03-15 06:09:12",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 78
         }
     }
 }
