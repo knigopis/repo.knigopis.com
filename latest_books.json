@@ -1,4 +1,16 @@
 {
+    "6P8YH3w4lB": {
+        "id": "6P8YH3w4lB",
+        "title": "5-волна",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-03-15 06:08:14",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 75
+        }
+    },
     "UlWHyYEWum": {
         "id": "UlWHyYEWum",
         "title": "Из глубины",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 46
-        }
-    },
-    "py5IClOrQt": {
-        "id": "py5IClOrQt",
-        "title": "Прощание Горелого",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:54:57",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 45
         }
     }
 }
