@@ -1,4 +1,16 @@
 {
+    "Jbs1Me5Gld": {
+        "id": "Jbs1Me5Gld",
+        "title": "Штурмовой вариант",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:09:05",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 45
+        }
+    },
     "eNaH8Vh5xO": {
         "id": "eNaH8Vh5xO",
         "title": "Огневой контакт",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 72
-        }
-    },
-    "Rg-3QyKe1P": {
-        "id": "Rg-3QyKe1P",
-        "title": "Покинутый",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:07:01",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 71
         }
     }
 }
