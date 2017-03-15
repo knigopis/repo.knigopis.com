@@ -1,4 +1,16 @@
 {
+    "wUmKTufpeG": {
+        "id": "wUmKTufpeG",
+        "title": "Плата за обман",
+        "author": "Анна Владимирская, Петр Владимирский",
+        "notes": "",
+        "createdAt": "2017-03-15 20:18:02",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 58
+        }
+    },
     "sutzUNHdWz": {
         "id": "sutzUNHdWz",
         "title": "Объяснение в ненависти",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 85
-        }
-    },
-    "zcWQJItImE": {
-        "id": "zcWQJItImE",
-        "title": "Мой лучший враг",
-        "author": "Эли Фрей",
-        "notes": "",
-        "createdAt": "2017-03-15 06:11:54",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 84
         }
     }
 }
