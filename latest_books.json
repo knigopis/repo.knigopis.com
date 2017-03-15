@@ -1,4 +1,16 @@
 {
+    "gnSjSJaoS3": {
+        "id": "gnSjSJaoS3",
+        "title": "Длинные тени",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:47:10",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 22
+        }
+    },
     "6LouL8T0jX": {
         "id": "6LouL8T0jX",
         "title": "Затмение",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 33
-        }
-    },
-    "xbO_Lq-t4L": {
-        "id": "xbO_Lq-t4L",
-        "title": "Ревизор",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2017-03-14 19:48:45",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 32
         }
     }
 }
