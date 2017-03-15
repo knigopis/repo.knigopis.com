@@ -1,4 +1,16 @@
 {
+    "eNaH8Vh5xO": {
+        "id": "eNaH8Vh5xO",
+        "title": "Огневой контакт",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:08:34",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 44
+        }
+    },
     "_qTkVu0Jdd": {
         "id": "_qTkVu0Jdd",
         "title": "Танец Бешеной",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 71
-        }
-    },
-    "zjBg82ZS6n": {
-        "id": "zjBg82ZS6n",
-        "title": "Откровения",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:06:44",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 70
         }
     }
 }
