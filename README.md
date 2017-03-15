@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Crazy](users/172/1724160371208898-facebook)<sup>5</sup> 
+[Crazy](users/172/1724160371208898-facebook)<sup>6</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>33</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>0</sup> 
 [AlexanderZay](users/111/111509705189100053263-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
 
 
-_15.03.2017 00:27:37_
+_15.03.2017 00:28:40_
