@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>43</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>44</sup>
 ---
 
 ## 2016
+
+### Проклятие Гусохвоста
+Эрин Хантер
+> [2016-09-06] 
+
 
 ### Месть Кленовницы
 Эрин Хантер
