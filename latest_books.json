@@ -1,4 +1,16 @@
 {
+    "lZcuCrX56O": {
+        "id": "lZcuCrX56O",
+        "title": "Жуков. Мастер побед или кровавый палач?",
+        "author": "Алекс Громов, Александр Громов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:01:13",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 37
+        }
+    },
     "0vzTFPzHEx": {
         "id": "0vzTFPzHEx",
         "title": "Как управлять своим временем",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 64
-        }
-    },
-    "IlDdUkS-cB": {
-        "id": "IlDdUkS-cB",
-        "title": "Кто-то другой",
-        "author": "Бенаквиста Тонино",
-        "notes": "",
-        "createdAt": "2017-03-15 06:03:40",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 63
         }
     }
 }
