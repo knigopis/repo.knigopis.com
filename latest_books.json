@@ -1,4 +1,16 @@
 {
+    "bjkYmnUXTS": {
+        "id": "bjkYmnUXTS",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2017-03-15 06:11:31",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 83
+        }
+    },
     "rCqRK2a_qH": {
         "id": "rCqRK2a_qH",
         "title": "Однажды на севере",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 54
-        }
-    },
-    "AhP4s0Haic": {
-        "id": "AhP4s0Haic",
-        "title": "Стопроцентно лунный мальчик",
-        "author": "Стивен Танни",
-        "notes": "",
-        "createdAt": "2017-03-15 05:58:35",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 53
         }
     }
 }
