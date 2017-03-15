@@ -1,4 +1,16 @@
 {
+    "OG8NWuCDm-": {
+        "id": "OG8NWuCDm-",
+        "title": "Под грифом «Любой ценой»",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:10:32",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 48
+        }
+    },
     "yCFHqrMHnu": {
         "id": "yCFHqrMHnu",
         "title": "Радикальный удар",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 75
-        }
-    },
-    "UlWHyYEWum": {
-        "id": "UlWHyYEWum",
-        "title": "Из глубины",
-        "author": "Линкольд Чайлд",
-        "notes": "",
-        "createdAt": "2017-03-15 06:07:56",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 74
         }
     }
 }
