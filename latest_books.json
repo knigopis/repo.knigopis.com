@@ -1,4 +1,16 @@
 {
+    "Pgj-Ysi5U0": {
+        "id": "Pgj-Ysi5U0",
+        "title": "Чудесный нож",
+        "author": "Пулман Филип",
+        "notes": "",
+        "createdAt": "2017-03-15 06:09:28",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 79
+        }
+    },
     "PrexmDzuo2": {
         "id": "PrexmDzuo2",
         "title": "Северное сияние",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 50
-        }
-    },
-    "Mt3v280NMS": {
-        "id": "Mt3v280NMS",
-        "title": "Город Эмбер:побег",
-        "author": "Дюпо Джин",
-        "notes": "",
-        "createdAt": "2017-03-15 05:56:35",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 49
         }
     }
 }
