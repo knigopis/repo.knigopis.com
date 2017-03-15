@@ -1,4 +1,16 @@
 {
+    "LHJqHEjlDF": {
+        "id": "LHJqHEjlDF",
+        "title": "Город Эмбер:Люди искры",
+        "author": "Дюпо Джин",
+        "notes": "",
+        "createdAt": "2017-03-15 05:57:07",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 50
+        }
+    },
     "Mt3v280NMS": {
         "id": "Mt3v280NMS",
         "title": "Город Эмбер:побег",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 21
-        }
-    },
-    "-EDo2EVTEi": {
-        "id": "-EDo2EVTEi",
-        "title": "Отверженные",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:46:41",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 20
         }
     }
 }
