@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>72</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>73</sup>
 ---
 
 ## 2017
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2017-02-09] 
+
 
 ### Черный Флаг
 Оливер Боуден

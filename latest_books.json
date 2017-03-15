@@ -1,4 +1,16 @@
 {
+    "GTHZOhG01b": {
+        "id": "GTHZOhG01b",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-15 06:07:39",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 73
+        }
+    },
     "vA16MNkv5J": {
         "id": "vA16MNkv5J",
         "title": "Черный Флаг",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 44
-        }
-    },
-    "IXiYdFV3R5": {
-        "id": "IXiYdFV3R5",
-        "title": "Месть Кленовницы",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:54:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 43
         }
     }
 }
