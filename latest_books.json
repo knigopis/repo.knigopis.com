@@ -1,4 +1,16 @@
 {
+    "0vzTFPzHEx": {
+        "id": "0vzTFPzHEx",
+        "title": "Как управлять своим временем",
+        "author": "А. Вронский",
+        "notes": "",
+        "createdAt": "2017-03-15 20:00:29",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 36
+        }
+    },
     "aVdNtJQdIG": {
         "id": "aVdNtJQdIG",
         "title": "История философии в кратком изложении",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 63
-        }
-    },
-    "GuXSGVmsZs": {
-        "id": "GuXSGVmsZs",
-        "title": "Клуб бездомных мечтатилей",
-        "author": "Лиз Мюррей",
-        "notes": "",
-        "createdAt": "2017-03-15 06:02:57",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 62
         }
     }
 }
