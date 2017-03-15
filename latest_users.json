@@ -1,4 +1,10 @@
 {
+    "105966239678473224939-google": {
+        "id": "105966239678473224939-google",
+        "nickname": "Jay_Unicorn",
+        "booksCount": 0,
+        "updatedAt": "2017-03-15 19:47:45"
+    },
     "322948100-yandex": {
         "id": "322948100-yandex",
         "nickname": "eterniel",
@@ -172,11 +178,5 @@
         "nickname": "Рин",
         "booksCount": 0,
         "updatedAt": "2017-03-09 15:38:00"
-    },
-    "35140437-vkontakte": {
-        "id": "35140437-vkontakte",
-        "nickname": "miatka",
-        "booksCount": 5,
-        "updatedAt": "2017-03-09 14:53:38"
     }
 }
