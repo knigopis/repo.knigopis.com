@@ -1,4 +1,16 @@
 {
+    "hlIwb-aFdX": {
+        "id": "hlIwb-aFdX",
+        "title": "Слепая ярость",
+        "author": "Сергей Майдуков",
+        "notes": "",
+        "createdAt": "2017-03-15 13:03:45",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 34
+        }
+    },
     "S7ayVfWAgd": {
         "id": "S7ayVfWAgd",
         "title": "Магия моего мозга.",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 60
-        }
-    },
-    "Y1UapYSSka": {
-        "id": "Y1UapYSSka",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-15 06:01:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 59
         }
     }
 }

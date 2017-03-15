@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>33</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>34</sup>
 ---
 
 ## 2017
+
+### Слепая ярость
+Сергей Майдуков
+> [2017-03-15] 
+
 
 ### Не родись красивой. Помощник президента.
 > [2017-03-13] 

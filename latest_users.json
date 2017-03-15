@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 34,
+        "updatedAt": "2017-03-15 13:03:45"
+    },
     "194247311-yandex": {
         "id": "194247311-yandex",
         "nickname": "ya.sneg-snow",
@@ -22,12 +28,6 @@
         "nickname": "Crazy",
         "booksCount": 7,
         "updatedAt": "2017-03-15 00:29:30"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 33,
-        "updatedAt": "2017-03-14 19:49:40"
     },
     "45795901-vkontakte": {
         "id": "45795901-vkontakte",
