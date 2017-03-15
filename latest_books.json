@@ -1,4 +1,16 @@
 {
+    "5yPV2FJRYL": {
+        "id": "5yPV2FJRYL",
+        "title": "Знамение Луны",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:48:40",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 27
+        }
+    },
     "PvlXEYM1w5": {
         "id": "PvlXEYM1w5",
         "title": "Голоса в ночи",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 5
-        }
-    },
-    "ScuFxRb_os": {
-        "id": "ScuFxRb_os",
-        "title": "Игра в бисер",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2017-03-15 00:22:13",
-        "user": {
-            "id": "1724160371208898-facebook",
-            "nickname": "Crazy",
-            "booksCount": 4
         }
     }
 }
