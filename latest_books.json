@@ -1,4 +1,16 @@
 {
+    "AhP4s0Haic": {
+        "id": "AhP4s0Haic",
+        "title": "Стопроцентно лунный мальчик",
+        "author": "Стивен Танни",
+        "notes": "",
+        "createdAt": "2017-03-15 05:58:35",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 53
+        }
+    },
     "t_ZxI_0zjs": {
         "id": "t_ZxI_0zjs",
         "title": "Ржавые цветы",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 24
-        }
-    },
-    "xiSahKXAu3": {
-        "id": "xiSahKXAu3",
-        "title": "Восход солнца",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:47:29",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 23
         }
     }
 }
