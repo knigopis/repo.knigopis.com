@@ -1,4 +1,16 @@
 {
+    "xiSahKXAu3": {
+        "id": "xiSahKXAu3",
+        "title": "Восход солнца",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:47:29",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 23
+        }
+    },
     "gnSjSJaoS3": {
         "id": "gnSjSJaoS3",
         "title": "Длинные тени",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 1
-        }
-    },
-    "6MAN0_h0yz": {
-        "id": "6MAN0_h0yz",
-        "title": "Череп на рукаве",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-03-14 19:49:40",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 33
         }
     }
 }
