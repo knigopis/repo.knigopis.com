@@ -1,4 +1,4 @@
-# List of books read by [Crazy](https://www.facebook.com/app_scoped_user_id/1724160371208898/)<sup>3</sup>
+# List of books read by [Crazy](https://www.facebook.com/app_scoped_user_id/1724160371208898/)<sup>4</sup>
 ---
 
 ## 2017
@@ -6,6 +6,10 @@
 ### Атлант расправил плечи
 Айн Рэнд
 > [2017-03] Кто такой Джон Голт?
+
+
+### Игра в бисер
+Герман Гессе
 
 
 ### Таинственная история Миллигана

@@ -1,4 +1,16 @@
 {
+    "ScuFxRb_os": {
+        "id": "ScuFxRb_os",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2017-03-15 00:22:13",
+        "user": {
+            "id": "1724160371208898-facebook",
+            "nickname": "Crazy",
+            "booksCount": 4
+        }
+    },
     "tv9ZbZrdTr": {
         "id": "tv9ZbZrdTr",
         "title": "Таинственная история Миллигана",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 8
-        }
-    },
-    "vBDUaTuuO6": {
-        "id": "vBDUaTuuO6",
-        "title": "Ведьмак: Крещение огнем",
-        "author": "Анджей Сапковский",
-        "notes": "Книга 5",
-        "createdAt": "2017-03-13 15:48:56",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 7
         }
     }
 }
