@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>33</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>34</sup>
 ---
 
 ## 2016
+
+### Тайна Щербатой
+Эрин Хантер
+> [2016-08-18] 
+
 
 ### Обещание Метеора
 Эрин Хантер
