@@ -1,4 +1,16 @@
 {
+    "xW-kzeHeRy": {
+        "id": "xW-kzeHeRy",
+        "title": "Последний человек из Атлантиды",
+        "author": "Александр Беляев",
+        "notes": "",
+        "createdAt": "2017-03-15 20:01:48",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 38
+        }
+    },
     "lZcuCrX56O": {
         "id": "lZcuCrX56O",
         "title": "Жуков. Мастер побед или кровавый палач?",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 65
-        }
-    },
-    "-nDf_T4Ta4": {
-        "id": "-nDf_T4Ta4",
-        "title": "Смертельный рай",
-        "author": "Линкольд Чайлд",
-        "notes": "",
-        "createdAt": "2017-03-15 06:04:29",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 64
         }
     }
 }
