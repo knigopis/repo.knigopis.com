@@ -1,4 +1,10 @@
 {
+    "194247311-yandex": {
+        "id": "194247311-yandex",
+        "nickname": "ya.sneg-snow",
+        "booksCount": 0,
+        "updatedAt": "2017-03-15 09:36:06"
+    },
     "874082822732697-facebook": {
         "id": "874082822732697-facebook",
         "nickname": "Klems",
@@ -172,11 +178,5 @@
         "nickname": "Vadimos",
         "booksCount": 0,
         "updatedAt": "2017-03-09 14:18:08"
-    },
-    "244559736-vkontakte": {
-        "id": "244559736-vkontakte",
-        "nickname": "kervian",
-        "booksCount": 0,
-        "updatedAt": "2017-03-09 00:57:49"
     }
 }
