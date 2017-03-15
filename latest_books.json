@@ -1,4 +1,16 @@
 {
+    "5itPCy2kJq": {
+        "id": "5itPCy2kJq",
+        "title": "Закон племен",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:55:25",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 46
+        }
+    },
     "py5IClOrQt": {
         "id": "py5IClOrQt",
         "title": "Прощание Горелого",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 17
-        }
-    },
-    "es4GfMmQ0J": {
-        "id": "es4GfMmQ0J",
-        "title": "Сумерки",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:45:40",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 16
         }
     }
 }
