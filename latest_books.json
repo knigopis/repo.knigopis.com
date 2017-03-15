@@ -1,4 +1,16 @@
 {
+    "XOChL8luR5": {
+        "id": "XOChL8luR5",
+        "title": "Восход луны",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:44:51",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 13
+        }
+    },
     "vFLP07vAYb": {
         "id": "vFLP07vAYb",
         "title": "Полночь",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 29
-        }
-    },
-    "W7RpJBWg-C": {
-        "id": "W7RpJBWg-C",
-        "title": "Плутония",
-        "author": "Обручев Владимир Анатольевич",
-        "notes": "",
-        "createdAt": "2017-03-13 19:52:28",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 28
         }
     }
 }
