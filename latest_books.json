@@ -1,4 +1,16 @@
 {
+    "SMviLAxihS": {
+        "id": "SMviLAxihS",
+        "title": "Янтарный телескоп",
+        "author": "Пулман Филип",
+        "notes": "",
+        "createdAt": "2017-03-15 06:09:49",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 80
+        }
+    },
     "Pgj-Ysi5U0": {
         "id": "Pgj-Ysi5U0",
         "title": "Чудесный нож",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 51
-        }
-    },
-    "LHJqHEjlDF": {
-        "id": "LHJqHEjlDF",
-        "title": "Город Эмбер:Люди искры",
-        "author": "Дюпо Джин",
-        "notes": "",
-        "createdAt": "2017-03-15 05:57:07",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 50
         }
     }
 }
