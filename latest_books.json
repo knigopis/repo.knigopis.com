@@ -1,4 +1,16 @@
 {
+    "PvlXEYM1w5": {
+        "id": "PvlXEYM1w5",
+        "title": "Голоса в ночи",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:48:21",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 26
+        }
+    },
     "nnEpwlVvHn": {
         "id": "nnEpwlVvHn",
         "title": "Долгое эхо",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 4
-        }
-    },
-    "tv9ZbZrdTr": {
-        "id": "tv9ZbZrdTr",
-        "title": "Таинственная история Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-03-15 00:21:04",
-        "user": {
-            "id": "1724160371208898-facebook",
-            "nickname": "Crazy",
-            "booksCount": 3
         }
     }
 }
