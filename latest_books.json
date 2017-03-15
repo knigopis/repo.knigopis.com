@@ -1,4 +1,16 @@
 {
+    "Zj_iuCBaQO": {
+        "id": "Zj_iuCBaQO",
+        "title": "Песчинка в небе",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2017-03-15 05:40:30",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 3
+        }
+    },
     "Pd1ocWievT": {
         "id": "Pd1ocWievT",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 13
-        }
-    },
-    "OYwRJHFh6D": {
-        "id": "OYwRJHFh6D",
-        "title": "Львы Эльдорадо",
-        "author": "Франсис Карсак",
-        "notes": "Немного затянуто. 6 из 10.",
-        "createdAt": "2017-03-13 16:31:24",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 12
         }
     }
 }
