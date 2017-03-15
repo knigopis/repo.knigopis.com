@@ -1,4 +1,16 @@
 {
+    "xXfU1CF7wL": {
+        "id": "xXfU1CF7wL",
+        "title": "Пророк",
+        "author": "Андрей Воронин",
+        "notes": "В Ельске царила тяжелая, гнетущая атмосфера - в городе появился снайпер, который по одному убивает ОМОНовцев, недавно вернувшихся из Чечни. Кто в мирном городе приговорил к смерти солдат, которых она пощадила на войне?",
+        "createdAt": "2017-03-15 20:15:09",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 54
+        }
+    },
     "7qkjXwigOB": {
         "id": "7qkjXwigOB",
         "title": "Пророк. Голос ангела",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 81
-        }
-    },
-    "SMviLAxihS": {
-        "id": "SMviLAxihS",
-        "title": "Янтарный телескоп",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-03-15 06:09:49",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 80
         }
     }
 }

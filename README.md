@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
+    > В Ельске царила тяжелая, гнетущая атмосфера - в городе появился снайпер, который по одному убивает ОМОНовцев, недавно вернувшихся из Чечни. Кто в мирном городе приговорил к смерти солдат, которых она пощадила на войне?
+
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
     > Властелин Колец
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > фантастика с  философским уклоном. новояз
 
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
-    > ASIN: B00F55BWBG
 
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Один из близнецов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>108</sup>
 
-* Король эльфов ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[antasiar](users/688/68827372-vkontakte)<sup>53</sup> 
+[antasiar](users/688/68827372-vkontakte)<sup>54</sup> 
 [Jay_Unicorn](users/105/105966239678473224939-google)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>1</sup> 
 [ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
 
 
-_15.03.2017 20:14:32_
+_15.03.2017 20:15:09_
