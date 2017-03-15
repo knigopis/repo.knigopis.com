@@ -1,4 +1,16 @@
 {
+    "IlDdUkS-cB": {
+        "id": "IlDdUkS-cB",
+        "title": "Кто-то другой",
+        "author": "Бенаквиста Тонино",
+        "notes": "",
+        "createdAt": "2017-03-15 06:03:40",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 63
+        }
+    },
     "GuXSGVmsZs": {
         "id": "GuXSGVmsZs",
         "title": "Клуб бездомных мечтатилей",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 34
-        }
-    },
-    "rTyXCijM2C": {
-        "id": "rTyXCijM2C",
-        "title": "Обещание Метеора",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:50:43",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 33
         }
     }
 }
