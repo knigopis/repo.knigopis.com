@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>6</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>7</sup>
 ---
 
 ## 2016
+
+### Огонь и лед
+Эрин Хантер
+> [2016-05-26] 
+
 
 ### Стань диким
 Эрин Хантер
