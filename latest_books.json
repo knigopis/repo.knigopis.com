@@ -1,4 +1,16 @@
 {
+    "TWEUnr0j-M": {
+        "id": "TWEUnr0j-M",
+        "title": "Бушующая стихия",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:43:22",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 9
+        }
+    },
     "qlQdGSq2u4": {
         "id": "qlQdGSq2u4",
         "title": "Лес секретов",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 25
-        }
-    },
-    "TT00wtyY__": {
-        "id": "TT00wtyY__",
-        "title": "Ловушка",
-        "author": "Чейз",
-        "notes": "",
-        "createdAt": "2017-03-13 19:49:42",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 24
         }
     }
 }
