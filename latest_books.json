@@ -1,4 +1,16 @@
 {
+    "4ht6cdYZBG": {
+        "id": "4ht6cdYZBG",
+        "title": "Забытый воин",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:48:56",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 28
+        }
+    },
     "5yPV2FJRYL": {
         "id": "5yPV2FJRYL",
         "title": "Знамение Луны",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 6
-        }
-    },
-    "uazcMZHKHp": {
-        "id": "uazcMZHKHp",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2017-03-15 00:27:37",
-        "user": {
-            "id": "1724160371208898-facebook",
-            "nickname": "Crazy",
-            "booksCount": 5
         }
     }
 }

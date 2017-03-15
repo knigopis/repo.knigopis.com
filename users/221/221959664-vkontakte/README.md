@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>27</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>28</sup>
 ---
 
 ## 2016
+
+### Забытый воин
+Эрин Хантер
+> [2016-08-03] 
+
 
 ### Знамение Луны
 Эрин Хантер
