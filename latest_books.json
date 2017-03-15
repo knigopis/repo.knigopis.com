@@ -1,4 +1,16 @@
 {
+    "U1nYhgJHwO": {
+        "id": "U1nYhgJHwO",
+        "title": "Лунный зверь",
+        "author": "Гарри Килворт",
+        "notes": "",
+        "createdAt": "2017-03-15 05:39:31",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 1
+        }
+    },
     "bOLnVDvwti": {
         "id": "bOLnVDvwti",
         "title": "Учение дона Хуана",
@@ -141,18 +153,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 91
-        }
-    },
-    "VQa_HRsZQs": {
-        "id": "VQa_HRsZQs",
-        "title": "Лунный зверь",
-        "author": "Гарри Килворт",
-        "notes": "",
-        "createdAt": "2017-03-14 08:07:30",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 1
         }
     },
     "jTGaEmGxzF": {

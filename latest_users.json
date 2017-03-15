@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 1,
+        "updatedAt": "2017-03-15 05:39:31"
+    },
     "1724160371208898-facebook": {
         "id": "1724160371208898-facebook",
         "nickname": "Crazy",
@@ -40,12 +46,6 @@
         "nickname": "tvou_vizg",
         "booksCount": 0,
         "updatedAt": "2017-03-14 08:10:32"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 0,
-        "updatedAt": "2017-03-14 08:08:06"
     },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
