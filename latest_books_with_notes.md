@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
 * Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 * Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
 * О дивный новый мир ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>16</sup>
-* Неугомонный убийца ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>103</sup>
 
 
-_15.03.2017 20:15:09_
+_15.03.2017 20:15:57_
