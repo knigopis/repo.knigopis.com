@@ -1,4 +1,16 @@
 {
+    "7qkjXwigOB": {
+        "id": "7qkjXwigOB",
+        "title": "Пророк. Голос ангела",
+        "author": "Андрей Воронин",
+        "notes": "",
+        "createdAt": "2017-03-15 20:14:32",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 53
+        }
+    },
     "N8H7SJMJA3": {
         "id": "N8H7SJMJA3",
         "title": "В одном строю с победой",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 80
-        }
-    },
-    "Pgj-Ysi5U0": {
-        "id": "Pgj-Ysi5U0",
-        "title": "Чудесный нож",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-03-15 06:09:28",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 79
         }
     }
 }
