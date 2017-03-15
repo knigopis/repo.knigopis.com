@@ -1,4 +1,16 @@
 {
+    "ReX-Gyi--g": {
+        "id": "ReX-Gyi--g",
+        "title": "На то и волки",
+        "author": "Александр Бушков",
+        "notes": "",
+        "createdAt": "2017-03-15 20:04:58",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 42
+        }
+    },
     "BcSW721dna": {
         "id": "BcSW721dna",
         "title": "На то и волки - 2",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 69
-        }
-    },
-    "pUTzct_U-R": {
-        "id": "pUTzct_U-R",
-        "title": "Братство",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:06:12",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 68
         }
     }
 }
