@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>35</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>36</sup>
 ---
 
 ## 2016
+
+### Гроза Ежевичной Звезды
+Эрин Хантер
+> [2016-08-21] 
+
 
 ### Месть Звездного Луча
 Эрин Хантер

@@ -1,4 +1,16 @@
 {
+    "OuiR_QESdQ": {
+        "id": "OuiR_QESdQ",
+        "title": "Гроза Ежевичной Звезды",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:51:47",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 36
+        }
+    },
     "6JNvf3Tc_G": {
         "id": "6JNvf3Tc_G",
         "title": "Месть Звездного Луча",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 7
-        }
-    },
-    "LGJorjfwU7": {
-        "id": "LGJorjfwU7",
-        "title": "Стань диким",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:42:15",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 6
         }
     }
 }
