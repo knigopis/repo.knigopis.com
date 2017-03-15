@@ -1,4 +1,16 @@
 {
+    "nnEpwlVvHn": {
+        "id": "nnEpwlVvHn",
+        "title": "Долгое эхо",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:48:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 25
+        }
+    },
     "vrEavcYOZ6": {
         "id": "vrEavcYOZ6",
         "title": "Четвертый оруженосец",
@@ -345,18 +357,6 @@
             "id": "1724160371208898-facebook",
             "nickname": "Crazy",
             "booksCount": 3
-        }
-    },
-    "qAtoFVgZZu": {
-        "id": "qAtoFVgZZu",
-        "title": "Вся королевская рать",
-        "author": "Роберт Пенн Уоррен",
-        "notes": "политик Вилли Старк",
-        "createdAt": "2017-03-15 00:19:42",
-        "user": {
-            "id": "1724160371208898-facebook",
-            "nickname": "Crazy",
-            "booksCount": 2
         }
     }
 }

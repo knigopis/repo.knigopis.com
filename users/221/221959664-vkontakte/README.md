@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>24</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>25</sup>
 ---
 
 ## 2016
+
+### Долгое эхо
+Эрин Хантер
+> [2016-07-26] 
+
 
 ### Четвертый оруженосец
 Эрин Хантер
