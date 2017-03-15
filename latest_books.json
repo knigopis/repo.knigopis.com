@@ -1,4 +1,16 @@
 {
+    "_qTkVu0Jdd": {
+        "id": "_qTkVu0Jdd",
+        "title": "Танец Бешеной",
+        "author": "Александр Бушков",
+        "notes": "",
+        "createdAt": "2017-03-15 20:05:28",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 43
+        }
+    },
     "ReX-Gyi--g": {
         "id": "ReX-Gyi--g",
         "title": "На то и волки",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 70
-        }
-    },
-    "BDSf6oSlBJ": {
-        "id": "BDSf6oSlBJ",
-        "title": "Тайный крестовый поход",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:06:32",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 69
         }
     }
 }

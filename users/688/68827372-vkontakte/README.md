@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>42</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>43</sup>
 ---
 
 ## 2017
@@ -81,6 +81,10 @@
 
 ### Верная подруга
 > [2016-09] 
+
+
+### Танец Бешеной
+Александр Бушков
 
 
 ### Капкан для Бешеной
