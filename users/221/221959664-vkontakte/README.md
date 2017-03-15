@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>51</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>52</sup>
 ---
 
 ## 2016
+
+### Ржавые цветы
+Анастасия Титаренко
+> [2016-10-09] 
+
 
 ### Город Эмбер:предсказание
 Дюпо Джин
