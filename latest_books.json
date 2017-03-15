@@ -1,4 +1,16 @@
 {
+    "BcSW721dna": {
+        "id": "BcSW721dna",
+        "title": "На то и волки - 2",
+        "author": "Александр Бушков",
+        "notes": "",
+        "createdAt": "2017-03-15 20:04:19",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 41
+        }
+    },
     "_9tL_rtNQL": {
         "id": "_9tL_rtNQL",
         "title": "Капкан для Бешеной",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 68
-        }
-    },
-    "8IAVKIJctv": {
-        "id": "8IAVKIJctv",
-        "title": "Возрождение",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-03-15 06:05:59",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 67
         }
     }
 }

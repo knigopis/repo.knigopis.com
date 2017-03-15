@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>40</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>41</sup>
 ---
 
 ## 2017
@@ -163,6 +163,13 @@
 
 ### 451 градус по Фаренгейту
 Брэдбери, Рэй
+
+
+
+## 1992
+
+### На то и волки - 2
+Александр Бушков
 
 
 
