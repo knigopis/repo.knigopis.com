@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>42</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>43</sup>
 ---
 
 ## 2016
+
+### Месть Кленовницы
+Эрин Хантер
+> [2016-09-04] 
+
 
 ### Мольчание Голубки
 Эрин Хантер
