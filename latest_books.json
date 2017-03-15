@@ -1,4 +1,16 @@
 {
+    "vFLP07vAYb": {
+        "id": "vFLP07vAYb",
+        "title": "Полночь",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:44:31",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 12
+        }
+    },
     "a0h6RHIMAL": {
         "id": "a0h6RHIMAL",
         "title": "Битва за лес",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 28
-        }
-    },
-    "9MYE_lzVQ5": {
-        "id": "9MYE_lzVQ5",
-        "title": "Открытая дверь",
-        "author": "Чейз",
-        "notes": "",
-        "createdAt": "2017-03-13 19:51:45",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 27
         }
     }
 }
