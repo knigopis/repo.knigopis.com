@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Jay_Unicorn](users/105/105966239678473224939-google)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>1</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>34</sup> 
 [ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
-[miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 
 
-_15.03.2017 14:22:27_
+_15.03.2017 19:47:47_
