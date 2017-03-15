@@ -1,4 +1,16 @@
 {
+    "cOF0XjLmGB": {
+        "id": "cOF0XjLmGB",
+        "title": "Желание Листвички",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:53:40",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 41
+        }
+    },
     "-GPa5fHtQi": {
         "id": "-GPa5fHtQi",
         "title": "Ярость Когтя",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 12
-        }
-    },
-    "a0h6RHIMAL": {
-        "id": "a0h6RHIMAL",
-        "title": "Битва за лес",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:43:52",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 11
         }
     }
 }
