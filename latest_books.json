@@ -1,4 +1,16 @@
 {
+    "l_nv8XUO0k": {
+        "id": "l_nv8XUO0k",
+        "title": "Город Эмбер:предсказание",
+        "author": "Дюпо Джин",
+        "notes": "",
+        "createdAt": "2017-03-15 05:57:30",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 51
+        }
+    },
     "LHJqHEjlDF": {
         "id": "LHJqHEjlDF",
         "title": "Город Эмбер:Люди искры",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 22
-        }
-    },
-    "6LouL8T0jX": {
-        "id": "6LouL8T0jX",
-        "title": "Затмение",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:46:53",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 21
         }
     }
 }
