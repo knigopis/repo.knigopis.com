@@ -1,4 +1,16 @@
 {
+    "ny5Ohozn-a": {
+        "id": "ny5Ohozn-a",
+        "title": "Границы бесконечности",
+        "author": "Буджолд Лоис Макмастер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:41:48",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 5
+        }
+    },
     "aBIOuNXWF0": {
         "id": "aBIOuNXWF0",
         "title": "Звезды как пыль",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 21
-        }
-    },
-    "gpUCHfYg6L": {
-        "id": "gpUCHfYg6L",
-        "title": "Робинзоны космоса",
-        "author": "Франсис Карсак",
-        "notes": "Сумбурное. но интересное. 7 из 10.",
-        "createdAt": "2017-03-13 16:52:16",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 14
         }
     }
 }
