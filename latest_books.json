@@ -1,4 +1,16 @@
 {
+    "pMvDAgXoN8": {
+        "id": "pMvDAgXoN8",
+        "title": "Страна радости",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-15 06:05:27",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 66
+        }
+    },
     "M9xiFu_skg": {
         "id": "M9xiFu_skg",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 37
-        }
-    },
-    "OuiR_QESdQ": {
-        "id": "OuiR_QESdQ",
-        "title": "Гроза Ежевичной Звезды",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:51:47",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 36
         }
     }
 }
