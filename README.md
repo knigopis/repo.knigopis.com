@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eterniel](users/322/322948100-yandex)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>34</sup> 
 [ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
 [Klems](users/874/874082822732697-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 [Рин](users/417/417570094-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
-[Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 
 
-_15.03.2017 13:03:45_
+_15.03.2017 14:21:45_
