@@ -1,4 +1,16 @@
 {
+    "SMeGuzrWHZ": {
+        "id": "SMeGuzrWHZ",
+        "title": "Брут",
+        "author": "Анна Берне",
+        "notes": "",
+        "createdAt": "2017-03-15 20:16:45",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 56
+        }
+    },
     "0_e5B218hY": {
         "id": "0_e5B218hY",
         "title": "Пророк. Кровавые жернова",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 83
-        }
-    },
-    "rCqRK2a_qH": {
-        "id": "rCqRK2a_qH",
-        "title": "Однажды на севере",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-03-15 06:10:55",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 82
         }
     }
 }

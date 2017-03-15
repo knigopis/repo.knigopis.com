@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>55</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>56</sup>
 ---
 
 ## 2017
@@ -142,6 +142,10 @@
 
 
 ## 2015
+
+### Брут
+Анна Берне
+
 
 ### Пророк. Кровавые жернова
 Андрей Воронин
