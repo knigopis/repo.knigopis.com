@@ -1,4 +1,16 @@
 {
+    "S7ayVfWAgd": {
+        "id": "S7ayVfWAgd",
+        "title": "Магия моего мозга.",
+        "author": "Мессинг В.",
+        "notes": "",
+        "createdAt": "2017-03-15 09:38:39",
+        "user": {
+            "id": "194247311-yandex",
+            "nickname": "ya.sneg-snow",
+            "booksCount": 1
+        }
+    },
     "NKn5JDGNfs": {
         "id": "NKn5JDGNfs",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 59
-        }
-    },
-    "KmoWXjkpUp": {
-        "id": "KmoWXjkpUp",
-        "title": "Белоснежка",
-        "author": "Мейер Мариса",
-        "notes": "",
-        "createdAt": "2017-03-15 06:01:08",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 58
         }
     }
 }

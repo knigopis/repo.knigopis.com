@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
+[ya.sneg-snow](users/194/194247311-yandex)<sup>1</sup> 
 [Klems](users/874/874082822732697-facebook)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>87</sup> 
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 
 
-_15.03.2017 09:36:08_
+_15.03.2017 09:38:39_
