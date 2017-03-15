@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>9</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>10</sup>
 ---
 
 ## 2016
+
+### Опасная тропа
+Эрин Хантер
+> [2016-06-04] 
+
 
 ### Бушующая стихия
 Эрин Хантер
