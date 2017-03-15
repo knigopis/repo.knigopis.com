@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>61</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>62</sup>
 ---
 
 ## 2016
+
+### Клуб бездомных мечтатилей
+Лиз Мюррей
+> [2016-12-21] 
+
 
 ### Хорошо быть тихоней
 Стивен Чбоски

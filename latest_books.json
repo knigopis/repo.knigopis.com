@@ -1,4 +1,16 @@
 {
+    "GuXSGVmsZs": {
+        "id": "GuXSGVmsZs",
+        "title": "Клуб бездомных мечтатилей",
+        "author": "Лиз Мюррей",
+        "notes": "",
+        "createdAt": "2017-03-15 06:02:57",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 62
+        }
+    },
     "hXBmiIjby5": {
         "id": "hXBmiIjby5",
         "title": "Хорошо быть тихоней",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 33
-        }
-    },
-    "E5ezCSi1fv": {
-        "id": "E5ezCSi1fv",
-        "title": "Судьба Небесного племени",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:50:22",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 32
         }
     }
 }
