@@ -1,4 +1,16 @@
 {
+    "es4GfMmQ0J": {
+        "id": "es4GfMmQ0J",
+        "title": "Сумерки",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:45:40",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 16
+        }
+    },
     "NVnhCcsUaU": {
         "id": "NVnhCcsUaU",
         "title": "Звездный свет",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 1
-        }
-    },
-    "PIjYKr508-": {
-        "id": "PIjYKr508-",
-        "title": "Фаворит",
-        "author": "Дик Фрэнсис",
-        "notes": "",
-        "createdAt": "2017-03-13 19:54:00",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 31
         }
     }
 }
