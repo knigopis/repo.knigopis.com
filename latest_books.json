@@ -1,4 +1,16 @@
 {
+    "PBZmS1jzCt": {
+        "id": "PBZmS1jzCt",
+        "title": "Герои племен",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:55:43",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 47
+        }
+    },
     "5itPCy2kJq": {
         "id": "5itPCy2kJq",
         "title": "Закон племен",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 18
-        }
-    },
-    "fHLgjhll69": {
-        "id": "fHLgjhll69",
-        "title": "Закат",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:45:57",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 17
         }
     }
 }
