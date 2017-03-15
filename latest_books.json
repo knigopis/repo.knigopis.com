@@ -1,4 +1,16 @@
 {
+    "nXrFe7F5Gm": {
+        "id": "nXrFe7F5Gm",
+        "title": "Идеальная химия",
+        "author": "Симона Элькелес",
+        "notes": "",
+        "createdAt": "2017-03-15 06:13:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 86
+        }
+    },
     "fhYM8uaeZx": {
         "id": "fhYM8uaeZx",
         "title": "Народ, или когда мы были дельфинами",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 57
-        }
-    },
-    "AUm6wIn-Mj": {
-        "id": "AUm6wIn-Mj",
-        "title": "Красная Шапочка",
-        "author": "Мейер Мариса",
-        "notes": "",
-        "createdAt": "2017-03-15 06:00:38",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 56
         }
     }
 }
