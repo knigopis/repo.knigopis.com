@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Klems](users/874/874082822732697-facebook)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>87</sup> 
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>33</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miatka](users/351/35140437-vkontakte)<sup>5</sup> 
 [Vadimos](users/100/100008019136904-facebook)<sup>0</sup> 
 [kervian](users/244/244559736-vkontakte)<sup>0</sup> 
-[parafeks](users/163/16366623-vkontakte)<sup>3</sup> 
 
 
-_15.03.2017 06:13:33_
+_15.03.2017 08:15:03_
