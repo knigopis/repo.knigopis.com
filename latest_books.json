@@ -1,4 +1,16 @@
 {
+    "zjBg82ZS6n": {
+        "id": "zjBg82ZS6n",
+        "title": "Откровения",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-03-15 06:06:44",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 70
+        }
+    },
     "BDSf6oSlBJ": {
         "id": "BDSf6oSlBJ",
         "title": "Тайный крестовый поход",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 41
-        }
-    },
-    "-GPa5fHtQi": {
-        "id": "-GPa5fHtQi",
-        "title": "Ярость Когтя",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:53:18",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 40
         }
     }
 }
