@@ -1,4 +1,16 @@
 {
+    "Pd1ocWievT": {
+        "id": "Pd1ocWievT",
+        "title": "Автостопом по галактике",
+        "author": "Сэлинджер Джером Дейвид",
+        "notes": "",
+        "createdAt": "2017-03-15 05:39:58",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 2
+        }
+    },
     "U1nYhgJHwO": {
         "id": "U1nYhgJHwO",
         "title": "Лунный зверь",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 12
-        }
-    },
-    "G5GAODVXfF": {
-        "id": "G5GAODVXfF",
-        "title": "Евгений Онегин",
-        "author": "А.С.Пушкин",
-        "notes": "Отвратительнейший персонаж.Презирающий людей повеса. Неспособный на нормальные чувства. Разбалованный. 1 из 10.",
-        "createdAt": "2017-03-13 16:05:31",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 11
         }
     }
 }
