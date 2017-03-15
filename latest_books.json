@@ -1,4 +1,16 @@
 {
+    "G4ziQd1eyc": {
+        "id": "G4ziQd1eyc",
+        "title": "Бесконечное море",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-03-15 06:08:30",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 76
+        }
+    },
     "6P8YH3w4lB": {
         "id": "6P8YH3w4lB",
         "title": "5-волна",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 47
-        }
-    },
-    "5itPCy2kJq": {
-        "id": "5itPCy2kJq",
-        "title": "Закон племен",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:55:25",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 46
         }
     }
 }
