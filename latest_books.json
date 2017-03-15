@@ -1,4 +1,16 @@
 {
+    "aBIOuNXWF0": {
+        "id": "aBIOuNXWF0",
+        "title": "Звезды как пыль",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2017-03-15 05:40:52",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 4
+        }
+    },
     "Zj_iuCBaQO": {
         "id": "Zj_iuCBaQO",
         "title": "Песчинка в небе",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 14
-        }
-    },
-    "CfU_Xcn3Wu": {
-        "id": "CfU_Xcn3Wu",
-        "title": "Франсис Карсак",
-        "author": "Бегство земли",
-        "notes": "Великолепное произведение. 10 из 10",
-        "createdAt": "2017-03-13 16:33:20",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 13
         }
     }
 }
