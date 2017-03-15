@@ -1,4 +1,16 @@
 {
+    "uazcMZHKHp": {
+        "id": "uazcMZHKHp",
+        "title": "Чайка по имени Джонатан Ливингстон",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2017-03-15 00:27:37",
+        "user": {
+            "id": "1724160371208898-facebook",
+            "nickname": "Crazy",
+            "booksCount": 5
+        }
+    },
     "ScuFxRb_os": {
         "id": "ScuFxRb_os",
         "title": "Игра в бисер",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 9
-        }
-    },
-    "vcbqDtZQUN": {
-        "id": "vcbqDtZQUN",
-        "title": "Ведьмак: Башня Ласточки",
-        "author": "Анджей Сапковский",
-        "notes": "Книга 6",
-        "createdAt": "2017-03-13 15:49:32",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 8
         }
     }
 }
