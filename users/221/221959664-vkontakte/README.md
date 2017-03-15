@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>20</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>21</sup>
 ---
 
 ## 2016
+
+### Затмение
+Эрин Хантер
+> [2016-07-15] 
+
 
 ### Отверженные
 Эрин Хантер

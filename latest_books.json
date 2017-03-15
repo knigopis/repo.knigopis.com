@@ -1,4 +1,16 @@
 {
+    "6LouL8T0jX": {
+        "id": "6LouL8T0jX",
+        "title": "Затмение",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:46:53",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 21
+        }
+    },
     "-EDo2EVTEi": {
         "id": "-EDo2EVTEi",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 32
-        }
-    },
-    "Pz7ptl0PnT": {
-        "id": "Pz7ptl0PnT",
-        "title": "Овод",
-        "author": "Э.Л. Войнич",
-        "notes": "",
-        "createdAt": "2017-03-14 19:48:09",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 31
         }
     }
 }
