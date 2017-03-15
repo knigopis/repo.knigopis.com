@@ -1,4 +1,16 @@
 {
+    "sNyTC9QfBk": {
+        "id": "sNyTC9QfBk",
+        "title": "Рассвет",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:45:08",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 14
+        }
+    },
     "XOChL8luR5": {
         "id": "XOChL8luR5",
         "title": "Восход луны",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 30
-        }
-    },
-    "NIc14JGguu": {
-        "id": "NIc14JGguu",
-        "title": "Земля Санникова",
-        "author": "Обручев Владимир Анатольевич",
-        "notes": "",
-        "createdAt": "2017-03-13 19:52:44",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 29
         }
     }
 }
