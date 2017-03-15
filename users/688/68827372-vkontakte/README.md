@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>56</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>57</sup>
 ---
 
 ## 2017
@@ -142,6 +142,10 @@
 
 
 ## 2015
+
+### Объяснение в ненависти
+Анна Владимирская, Петр Владимирский
+
 
 ### Брут
 Анна Берне

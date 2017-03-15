@@ -1,4 +1,16 @@
 {
+    "sutzUNHdWz": {
+        "id": "sutzUNHdWz",
+        "title": "Объяснение в ненависти",
+        "author": "Анна Владимирская, Петр Владимирский",
+        "notes": "",
+        "createdAt": "2017-03-15 20:17:36",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 57
+        }
+    },
     "SMeGuzrWHZ": {
         "id": "SMeGuzrWHZ",
         "title": "Брут",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 84
-        }
-    },
-    "bjkYmnUXTS": {
-        "id": "bjkYmnUXTS",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2017-03-15 06:11:31",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 83
         }
     }
 }
