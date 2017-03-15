@@ -1,4 +1,16 @@
 {
+    "yCFHqrMHnu": {
+        "id": "yCFHqrMHnu",
+        "title": "Радикальный удар",
+        "author": "Альберт Байкалов",
+        "notes": "",
+        "createdAt": "2017-03-15 20:10:04",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 47
+        }
+    },
     "-XmkEv6K3o": {
         "id": "-XmkEv6K3o",
         "title": "Разрушители",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 74
-        }
-    },
-    "GTHZOhG01b": {
-        "id": "GTHZOhG01b",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-15 06:07:39",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 73
         }
     }
 }
