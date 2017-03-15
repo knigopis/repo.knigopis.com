@@ -1,4 +1,16 @@
 {
+    "pUTzct_U-R": {
+        "id": "pUTzct_U-R",
+        "title": "Братство",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-03-15 06:06:12",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 68
+        }
+    },
     "8IAVKIJctv": {
         "id": "8IAVKIJctv",
         "title": "Возрождение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 39
-        }
-    },
-    "POJxoR2Uln": {
-        "id": "POJxoR2Uln",
-        "title": "Знамение Невидимой Звезды",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-03-15 05:52:39",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 38
         }
     }
 }
