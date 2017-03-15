@@ -1,4 +1,16 @@
 {
+    "bOLnVDvwti": {
+        "id": "bOLnVDvwti",
+        "title": "Учение дона Хуана",
+        "author": "Кастанеда, Карлос",
+        "notes": "",
+        "createdAt": "2017-03-15 00:29:30",
+        "user": {
+            "id": "1724160371208898-facebook",
+            "nickname": "Crazy",
+            "booksCount": 7
+        }
+    },
     "r8739pbzKE": {
         "id": "r8739pbzKE",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 11
-        }
-    },
-    "sq6mZ3aWZm": {
-        "id": "sq6mZ3aWZm",
-        "title": "Ведьмак: Сезон гроз",
-        "author": "Анджей Сапковский",
-        "notes": "Книга 8",
-        "createdAt": "2017-03-13 15:50:58",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 10
         }
     }
 }
