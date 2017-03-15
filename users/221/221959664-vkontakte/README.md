@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>80</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>81</sup>
 ---
 
 ## 2017
+
+### Оксфорд Лиры:Лира и птицы
+Пулман Филип
+> [2017-02-27] 
+
 
 ### Янтарный телескоп
 Пулман Филип
