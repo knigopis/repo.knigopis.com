@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>68</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>69</sup>
 ---
 
 ## 2017
+
+### Тайный крестовый поход
+Оливер Боуден
+> [2017-01-29] 
+
 
 ### Братство
 Оливер Боуден
