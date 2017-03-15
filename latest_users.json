@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 35,
+        "updatedAt": "2017-03-15 19:59:51"
+    },
     "105966239678473224939-google": {
         "id": "105966239678473224939-google",
         "nickname": "Jay_Unicorn",
@@ -10,12 +16,6 @@
         "nickname": "eterniel",
         "booksCount": 1,
         "updatedAt": "2017-03-15 14:22:27"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 34,
-        "updatedAt": "2017-03-15 13:03:45"
     },
     "194247311-yandex": {
         "id": "194247311-yandex",
