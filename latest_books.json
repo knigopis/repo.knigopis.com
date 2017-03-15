@@ -1,4 +1,16 @@
 {
+    "-EDo2EVTEi": {
+        "id": "-EDo2EVTEi",
+        "title": "Отверженные",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:46:41",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 20
+        }
+    },
     "h5_ESob5rA": {
         "id": "h5_ESob5rA",
         "title": "Темная река",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 31
-        }
-    },
-    "sEJpZXdJbH": {
-        "id": "sEJpZXdJbH",
-        "title": "Таинственный противник",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-03-14 17:23:35",
-        "user": {
-            "id": "317314037-vkontakte",
-            "nickname": "hawkeyepierce89",
-            "booksCount": 2
         }
     }
 }
