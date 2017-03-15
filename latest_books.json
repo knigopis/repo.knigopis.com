@@ -1,4 +1,16 @@
 {
+    "qlQdGSq2u4": {
+        "id": "qlQdGSq2u4",
+        "title": "Лес секретов",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:42:53",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 8
+        }
+    },
     "LK_vJtKqT8": {
         "id": "LK_vJtKqT8",
         "title": "Огонь и лед",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 24
-        }
-    },
-    "k0GycAut39": {
-        "id": "k0GycAut39",
-        "title": "Досье \"Одесса\"",
-        "author": "Фредерик Форсайт",
-        "notes": "",
-        "createdAt": "2017-03-13 19:49:13",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 23
         }
     }
 }
