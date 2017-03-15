@@ -1,4 +1,16 @@
 {
+    "LGJorjfwU7": {
+        "id": "LGJorjfwU7",
+        "title": "Стань диким",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-03-15 05:42:15",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 6
+        }
+    },
     "ny5Ohozn-a": {
         "id": "ny5Ohozn-a",
         "title": "Границы бесконечности",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 22
-        }
-    },
-    "t6_-Kgw5vp": {
-        "id": "t6_-Kgw5vp",
-        "title": "Не родись красивой. Помощник президента.",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-13 19:42:15",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 21
         }
     }
 }
