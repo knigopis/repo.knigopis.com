@@ -1,4 +1,16 @@
 {
+    "uRP379n_xZ": {
+        "id": "uRP379n_xZ",
+        "title": "Всё лето в один день",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-16 09:34:47",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 14
+        }
+    },
     "jvwTP-Iwl8": {
         "id": "jvwTP-Iwl8",
         "title": "Ярость",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 44
-        }
-    },
-    "_qTkVu0Jdd": {
-        "id": "_qTkVu0Jdd",
-        "title": "Танец Бешеной",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2017-03-15 20:05:28",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 43
         }
     }
 }
