@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [Derek777](users/153/15386028-yandex)<sup>21</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>250</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>34</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 
 
-_16.03.2017 18:27:24_
+_16.03.2017 18:49:10_
