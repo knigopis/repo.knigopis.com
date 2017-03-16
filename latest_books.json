@@ -1,4 +1,16 @@
 {
+    "62TvYnxvEd": {
+        "id": "62TvYnxvEd",
+        "title": "Осиная фабрика",
+        "author": "Йэн Бэнкс",
+        "notes": "",
+        "createdAt": "2017-03-16 11:18:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 44
+        }
+    },
     "NSUNrrpYMT": {
         "id": "NSUNrrpYMT",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 15
-        }
-    },
-    "uRP379n_xZ": {
-        "id": "uRP379n_xZ",
-        "title": "Всё лето в один день",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-03-16 09:34:47",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 14
         }
     }
 }
