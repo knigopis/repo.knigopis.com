@@ -1,4 +1,16 @@
 {
+    "wXVAV1Z5Dv": {
+        "id": "wXVAV1Z5Dv",
+        "title": "Десять негритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-03-16 09:40:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 21
+        }
+    },
     "oXYlReClpt": {
         "id": "oXYlReClpt",
         "title": "Полицейский из библиотеки",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 51
-        }
-    },
-    "609PhRcI1S": {
-        "id": "609PhRcI1S",
-        "title": "Гражданский спецназ",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:11:32",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 50
         }
     }
 }
