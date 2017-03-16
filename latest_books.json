@@ -1,4 +1,16 @@
 {
+    "IoVT8I30qb": {
+        "id": "IoVT8I30qb",
+        "title": "Молодой король",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-16 09:22:21",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 8
+        }
+    },
     "0YALXm75sA": {
         "id": "0YALXm75sA",
         "title": "Рыбак и его душа",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 38
-        }
-    },
-    "lZcuCrX56O": {
-        "id": "lZcuCrX56O",
-        "title": "Жуков. Мастер побед или кровавый палач?",
-        "author": "Алекс Громов, Александр Громов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:01:13",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 37
         }
     }
 }
