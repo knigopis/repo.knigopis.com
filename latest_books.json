@@ -1,4 +1,16 @@
 {
+    "Q_nEcR6PHC": {
+        "id": "Q_nEcR6PHC",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-16 09:33:35",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 12
+        }
+    },
     "nvtiIfkbMO": {
         "id": "nvtiIfkbMO",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 42
-        }
-    },
-    "BcSW721dna": {
-        "id": "BcSW721dna",
-        "title": "На то и волки - 2",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2017-03-15 20:04:19",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 41
         }
     }
 }
