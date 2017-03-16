@@ -1,4 +1,16 @@
 {
+    "WhB7XF1VOH": {
+        "id": "WhB7XF1VOH",
+        "title": "Машина времени",
+        "author": "Герберт Дж. Уэлс",
+        "notes": "",
+        "createdAt": "2017-03-16 09:16:06",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 5
+        }
+    },
     "Y4ThVmgxUB": {
         "id": "Y4ThVmgxUB",
         "title": "Чёрный принц",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 35
-        }
-    },
-    "Tn3LUcCQnH": {
-        "id": "Tn3LUcCQnH",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-15 14:22:27",
-        "user": {
-            "id": "322948100-yandex",
-            "nickname": "eterniel",
-            "booksCount": 1
         }
     }
 }
