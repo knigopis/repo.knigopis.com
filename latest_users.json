@@ -1,4 +1,10 @@
 {
+    "15386028-yandex": {
+        "id": "15386028-yandex",
+        "nickname": "Derek777",
+        "booksCount": 15,
+        "updatedAt": "2017-03-16 16:34:25"
+    },
     "16366623-vkontakte": {
         "id": "16366623-vkontakte",
         "nickname": "parafeks",
@@ -106,12 +112,6 @@
         "nickname": "hajime_mei",
         "booksCount": 1,
         "updatedAt": "2017-03-14 05:40:13"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 14,
-        "updatedAt": "2017-03-13 16:52:16"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

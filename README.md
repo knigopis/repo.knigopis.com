@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>15</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>50</sup> 
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tvou_vizg](users/399/399207464-vkontakte)<sup>0</sup> 
 [IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
 [hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
-[Derek777](users/153/15386028-yandex)<sup>14</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 
 
-_16.03.2017 12:42:50_
+_16.03.2017 16:34:25_
