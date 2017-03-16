@@ -1,4 +1,4 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>29</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>30</sup>
 ---
 
 ## 2013
@@ -13,6 +13,10 @@
 
 
 ## 2012
+
+### Бочонок амонтильядо
+Эдгар По
+
 
 ### Мисо-суп
 Мураками Рю
