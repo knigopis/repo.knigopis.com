@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 59,
+        "updatedAt": "2017-03-16 19:18:57"
+    },
     "367175136-vkontakte": {
         "id": "367175136-vkontakte",
         "nickname": "i_am_john_snow",
@@ -46,12 +52,6 @@
         "nickname": "Этерниел 13",
         "booksCount": 0,
         "updatedAt": "2017-03-16 06:28:23"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 58,
-        "updatedAt": "2017-03-15 20:18:02"
     },
     "105966239678473224939-google": {
         "id": "105966239678473224939-google",

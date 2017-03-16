@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>59</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [Derek777](users/153/15386028-yandex)<sup>21</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>58</sup> 
 [Jay_Unicorn](users/105/105966239678473224939-google)<sup>0</sup> 
 [ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
 [Klems](users/874/874082822732697-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 
 
-_16.03.2017 18:50:23_
+_16.03.2017 19:18:57_

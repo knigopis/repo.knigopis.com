@@ -1,4 +1,16 @@
 {
+    "MPrg-f3TPi": {
+        "id": "MPrg-f3TPi",
+        "title": "Дети подземелья",
+        "author": "Владимир Короленко",
+        "notes": "",
+        "createdAt": "2017-03-16 19:18:56",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 59
+        }
+    },
     "By2M1-6597": {
         "id": "By2M1-6597",
         "title": "Ветра зимы",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 32
-        }
-    },
-    "-oDddpmpMf": {
-        "id": "-oDddpmpMf",
-        "title": "Убийство на улице Морг",
-        "author": "Эдгар По",
-        "notes": "",
-        "createdAt": "2017-03-16 11:07:07",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 31
         }
     }
 }
