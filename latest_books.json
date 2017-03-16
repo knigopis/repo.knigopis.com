@@ -1,4 +1,16 @@
 {
+    "jvwTP-Iwl8": {
+        "id": "jvwTP-Iwl8",
+        "title": "Ярость",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:33:58",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 13
+        }
+    },
     "Q_nEcR6PHC": {
         "id": "Q_nEcR6PHC",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 43
-        }
-    },
-    "ReX-Gyi--g": {
-        "id": "ReX-Gyi--g",
-        "title": "На то и волки",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2017-03-15 20:04:58",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 42
         }
     }
 }

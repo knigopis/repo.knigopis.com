@@ -1,7 +1,11 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>12</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>13</sup>
 ---
 
 ## 2012
+
+### Ярость
+Стивен Кинг
+
 
 ### Марсианские хроники
 Рэй Брэдбери
