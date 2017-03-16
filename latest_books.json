@@ -1,4 +1,16 @@
 {
+    "-oDddpmpMf": {
+        "id": "-oDddpmpMf",
+        "title": "Убийство на улице Морг",
+        "author": "Эдгар По",
+        "notes": "",
+        "createdAt": "2017-03-16 11:07:07",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 31
+        }
+    },
     "qNa_bXlaZl": {
         "id": "qNa_bXlaZl",
         "title": "Бочонок амонтильядо",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 2
-        }
-    },
-    "mMONAthXZl": {
-        "id": "mMONAthXZl",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Д.Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-03-16 09:11:13",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 1
         }
     }
 }
