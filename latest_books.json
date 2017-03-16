@@ -1,4 +1,16 @@
 {
+    "VHeMu2_epb": {
+        "id": "VHeMu2_epb",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-03-16 06:26:27",
+        "user": {
+            "id": "16501172616331031425-mailru",
+            "nickname": "Этерниел 13",
+            "booksCount": 1
+        }
+    },
     "wUmKTufpeG": {
         "id": "wUmKTufpeG",
         "title": "Плата за обман",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 86
-        }
-    },
-    "fhYM8uaeZx": {
-        "id": "fhYM8uaeZx",
-        "title": "Народ, или когда мы были дельфинами",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2017-03-15 06:12:31",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 85
         }
     }
 }
