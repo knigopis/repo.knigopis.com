@@ -1,4 +1,16 @@
 {
+    "oZp2OKh6US": {
+        "id": "oZp2OKh6US",
+        "title": "Как все было",
+        "author": "Джулиан Барнс",
+        "notes": "Как-то странно все. Немного все обычно. Да, у каждого своя правда, так что не открыли ничего нового.",
+        "createdAt": "2017-03-16 18:27:24",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 31
+        }
+    },
     "YOsZpn5YnG": {
         "id": "YOsZpn5YnG",
         "title": "Хроники Маджипура",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 30
-        }
-    },
-    "Zd7rkZzPdB": {
-        "id": "Zd7rkZzPdB",
-        "title": "Мисо-суп",
-        "author": "Мураками Рю",
-        "notes": "",
-        "createdAt": "2017-03-16 11:05:24",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 29
         }
     }
 }

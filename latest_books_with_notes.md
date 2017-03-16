@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
 * Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
 * Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
 * Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Нож сновидений ~ [Garka](users/115/115753719718250012620-google)<sup>137</sup>
 * Как развить силу воли ~ [olegessenin](users/390/3901448-vkontakte)<sup>8</sup>
 * Властелин Колец: Возвращение Короля. Часть 3 ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
-* Властелин Колец: Две твердыни. Часть 2 ~ [EsterHani](users/305/30558181-vkontakte)<sup>94</sup>
 
 
-_16.03.2017 12:42:50_
+_16.03.2017 18:27:24_

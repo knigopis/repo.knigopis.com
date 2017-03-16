@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
+    > Как-то странно все. Немного все обычно. Да, у каждого своя правда, так что не открыли ничего нового.
+
 * Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
     > Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Благодаря феноменальным способностям советнику патриарха Алексею Холмогорову удается разгадать тайну подмосковной деревни Погост и спасти людей от наваждения и колдовства.
 
 * Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
-    > В Ельске царила тяжелая, гнетущая атмосфера - в городе появился снайпер, который по одному убивает ОМОНовцев, недавно вернувшихся из Чечни. Кто в мирном городе приговорил к смерти солдат, которых она пощадила на войне?
 
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
 
-* Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [Derek777](users/153/15386028-yandex)<sup>21</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>50</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>34</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 
 
-_16.03.2017 17:05:04_
+_16.03.2017 18:27:24_
