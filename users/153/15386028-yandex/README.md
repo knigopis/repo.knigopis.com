@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>19</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>20</sup>
 ---
 
 ## 2017
@@ -79,6 +79,11 @@
 ### Ведьмак: Кровь эльфов
 Анджей Сапковский
 > [2016-08] Книга 3
+
+
+### Полет лошади
+Ларри Нивен
+> [2016-07] сыровато. 4 из 10
 
 
 ### Человек в лабиринте

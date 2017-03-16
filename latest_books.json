@@ -1,4 +1,16 @@
 {
+    "70gwK55BI3": {
+        "id": "70gwK55BI3",
+        "title": "Полет лошади",
+        "author": "Ларри Нивен",
+        "notes": "сыровато. 4 из 10",
+        "createdAt": "2017-03-16 16:56:03",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 20
+        }
+    },
     "C6GuJfvdaY": {
         "id": "C6GuJfvdaY",
         "title": "Человек в лабиринте",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 28
-        }
-    },
-    "WYLhrmRdNt": {
-        "id": "WYLhrmRdNt",
-        "title": "Дневник",
-        "author": "Анна Франк",
-        "notes": "",
-        "createdAt": "2017-03-16 11:03:59",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 27
         }
     }
 }
