@@ -1,4 +1,16 @@
 {
+    "jJ7j6Pv0-m": {
+        "id": "jJ7j6Pv0-m",
+        "title": "Бегущий человек",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 11:08:54",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 34
+        }
+    },
     "q7dgTrLI0A": {
         "id": "q7dgTrLI0A",
         "title": "Сентиментальное путешествие по Франции и Италии",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 5
-        }
-    },
-    "Y4ThVmgxUB": {
-        "id": "Y4ThVmgxUB",
-        "title": "Чёрный принц",
-        "author": "Айрис Мёрдок",
-        "notes": "",
-        "createdAt": "2017-03-16 09:14:32",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 4
         }
     }
 }
