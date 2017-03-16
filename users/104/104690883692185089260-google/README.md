@@ -1,4 +1,4 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>28</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>29</sup>
 ---
 
 ## 2013
@@ -13,6 +13,10 @@
 
 
 ## 2012
+
+### Мисо-суп
+Мураками Рю
+
 
 ### 11 минут
 Коэльо Пауло

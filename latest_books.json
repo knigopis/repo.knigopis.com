@@ -1,4 +1,16 @@
 {
+    "Zd7rkZzPdB": {
+        "id": "Zd7rkZzPdB",
+        "title": "Мисо-суп",
+        "author": "Мураками Рю",
+        "notes": "",
+        "createdAt": "2017-03-16 11:05:24",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 29
+        }
+    },
     "HmzuuDzXdv": {
         "id": "HmzuuDzXdv",
         "title": "11 минут",
@@ -345,18 +357,6 @@
             "id": "16501172616331031425-mailru",
             "nickname": "Этерниел 13",
             "booksCount": 1
-        }
-    },
-    "wUmKTufpeG": {
-        "id": "wUmKTufpeG",
-        "title": "Плата за обман",
-        "author": "Анна Владимирская, Петр Владимирский",
-        "notes": "",
-        "createdAt": "2017-03-15 20:18:02",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 58
         }
     }
 }
