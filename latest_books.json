@@ -1,4 +1,16 @@
 {
+    "EpLqWdLYbh": {
+        "id": "EpLqWdLYbh",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-16 09:12:11",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 2
+        }
+    },
     "mMONAthXZl": {
         "id": "mMONAthXZl",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "194247311-yandex",
             "nickname": "ya.sneg-snow",
             "booksCount": 1
-        }
-    },
-    "NKn5JDGNfs": {
-        "id": "NKn5JDGNfs",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-15 06:13:33",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 87
         }
     }
 }
