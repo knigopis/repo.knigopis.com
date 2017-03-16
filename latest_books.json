@@ -1,4 +1,16 @@
 {
+    "ImoHurIyj-": {
+        "id": "ImoHurIyj-",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2017-03-16 09:20:42",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 6
+        }
+    },
     "WhB7XF1VOH": {
         "id": "WhB7XF1VOH",
         "title": "Машина времени",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 36
-        }
-    },
-    "aVdNtJQdIG": {
-        "id": "aVdNtJQdIG",
-        "title": "История философии в кратком изложении",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-15 19:59:51",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 35
         }
     }
 }
