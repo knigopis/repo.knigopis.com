@@ -1,4 +1,16 @@
 {
+    "qDcUdP-dcP": {
+        "id": "qDcUdP-dcP",
+        "title": "Век нерешительности",
+        "author": "Фредерик Пол",
+        "notes": "нудно и неинтересно. 3 из 10.",
+        "createdAt": "2017-03-16 16:36:25",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 16
+        }
+    },
     "7jTaL5LOby": {
         "id": "7jTaL5LOby",
         "title": "Проклятие волков",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 24
-        }
-    },
-    "8XhyoJoZYz": {
-        "id": "8XhyoJoZYz",
-        "title": "Кэрри",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-16 09:41:43",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 23
         }
     }
 }
