@@ -1,4 +1,16 @@
 {
+    "Yo3KN62oGz": {
+        "id": "Yo3KN62oGz",
+        "title": "Куджо",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:38:01",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 18
+        }
+    },
     "YLyS0Jx8Lq": {
         "id": "YLyS0Jx8Lq",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 48
-        }
-    },
-    "yCFHqrMHnu": {
-        "id": "yCFHqrMHnu",
-        "title": "Радикальный удар",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:10:04",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 47
         }
     }
 }
