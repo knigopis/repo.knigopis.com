@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>138</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>57</sup> 
 
 
-_16.03.2017 06:30:07_
+_16.03.2017 08:59:08_
