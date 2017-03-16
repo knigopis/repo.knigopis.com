@@ -1,4 +1,16 @@
 {
+    "OBf0bmXDVm": {
+        "id": "OBf0bmXDVm",
+        "title": "Соловей и роза",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-16 09:23:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 9
+        }
+    },
     "IoVT8I30qb": {
         "id": "IoVT8I30qb",
         "title": "Молодой король",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 39
-        }
-    },
-    "xW-kzeHeRy": {
-        "id": "xW-kzeHeRy",
-        "title": "Последний человек из Атлантиды",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2017-03-15 20:01:48",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 38
         }
     }
 }
