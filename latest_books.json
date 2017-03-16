@@ -1,4 +1,16 @@
 {
+    "EzCQJkeHq0": {
+        "id": "EzCQJkeHq0",
+        "title": "Побег из Шоушенка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:38:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 19
+        }
+    },
     "Yo3KN62oGz": {
         "id": "Yo3KN62oGz",
         "title": "Куджо",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 49
-        }
-    },
-    "OG8NWuCDm-": {
-        "id": "OG8NWuCDm-",
-        "title": "Под грифом «Любой ценой»",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:10:32",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 48
         }
     }
 }
