@@ -1,4 +1,4 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>20</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>21</sup>
 ---
 
 ## 2017
@@ -104,6 +104,11 @@
 ### Ведьмак: Последнее желание
 Анджей Сапковский
 > [2016-06] Книга 1
+
+
+### Хроники Маджипура
+Роберт Сильверберг
+> [2016-04] приключенческий сборник. 7 из 10.
 
 
 

@@ -1,4 +1,16 @@
 {
+    "YOsZpn5YnG": {
+        "id": "YOsZpn5YnG",
+        "title": "Хроники Маджипура",
+        "author": "Роберт Сильверберг",
+        "notes": "приключенческий сборник. 7 из 10.",
+        "createdAt": "2017-03-16 17:05:04",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 21
+        }
+    },
     "70gwK55BI3": {
         "id": "70gwK55BI3",
         "title": "Полет лошади",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 29
-        }
-    },
-    "HmzuuDzXdv": {
-        "id": "HmzuuDzXdv",
-        "title": "11 минут",
-        "author": "Коэльо Пауло",
-        "notes": "",
-        "createdAt": "2017-03-16 11:04:45",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 28
         }
     }
 }
