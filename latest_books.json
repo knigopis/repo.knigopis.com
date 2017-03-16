@@ -1,4 +1,16 @@
 {
+    "HmzuuDzXdv": {
+        "id": "HmzuuDzXdv",
+        "title": "11 минут",
+        "author": "Коэльо Пауло",
+        "notes": "",
+        "createdAt": "2017-03-16 11:04:45",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 28
+        }
+    },
     "WYLhrmRdNt": {
         "id": "WYLhrmRdNt",
         "title": "Дневник",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 58
-        }
-    },
-    "sutzUNHdWz": {
-        "id": "sutzUNHdWz",
-        "title": "Объяснение в ненависти",
-        "author": "Анна Владимирская, Петр Владимирский",
-        "notes": "",
-        "createdAt": "2017-03-15 20:17:36",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 57
         }
     }
 }
