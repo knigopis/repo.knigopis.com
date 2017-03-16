@@ -1,4 +1,16 @@
 {
+    "C6GuJfvdaY": {
+        "id": "C6GuJfvdaY",
+        "title": "Человек в лабиринте",
+        "author": "Роберт Силверберг",
+        "notes": "замечательно.8 из 10.",
+        "createdAt": "2017-03-16 16:54:07",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 19
+        }
+    },
     "MaRzN-ZXDX": {
         "id": "MaRzN-ZXDX",
         "title": "Ночные крылья",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 27
-        }
-    },
-    "CyDipBLYbk": {
-        "id": "CyDipBLYbk",
-        "title": "Парфюмер",
-        "author": "Зюцкинд Патрик",
-        "notes": "",
-        "createdAt": "2017-03-16 11:03:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 26
         }
     }
 }
