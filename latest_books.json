@@ -1,4 +1,16 @@
 {
+    "8XhyoJoZYz": {
+        "id": "8XhyoJoZYz",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:41:43",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 23
+        }
+    },
     "m2yx49UPhj": {
         "id": "m2yx49UPhj",
         "title": "Самоубийство без всяких причин",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 53
-        }
-    },
-    "N8H7SJMJA3": {
-        "id": "N8H7SJMJA3",
-        "title": "В одном строю с победой",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:12:29",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 52
         }
     }
 }
