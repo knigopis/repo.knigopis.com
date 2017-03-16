@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>59</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Buchwurm](users/100/100001175351667-facebook)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>250</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>34</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 
 
-_16.03.2017 19:18:57_
+_16.03.2017 20:46:15_
