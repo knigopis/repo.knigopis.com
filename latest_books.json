@@ -1,4 +1,16 @@
 {
+    "Y4ThVmgxUB": {
+        "id": "Y4ThVmgxUB",
+        "title": "Чёрный принц",
+        "author": "Айрис Мёрдок",
+        "notes": "",
+        "createdAt": "2017-03-16 09:14:32",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 4
+        }
+    },
     "6x_DVYgLVw": {
         "id": "6x_DVYgLVw",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "322948100-yandex",
             "nickname": "eterniel",
             "booksCount": 1
-        }
-    },
-    "hlIwb-aFdX": {
-        "id": "hlIwb-aFdX",
-        "title": "Слепая ярость",
-        "author": "Сергей Майдуков",
-        "notes": "",
-        "createdAt": "2017-03-15 13:03:45",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 34
         }
     }
 }
