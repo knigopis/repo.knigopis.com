@@ -1,4 +1,16 @@
 {
+    "YLyS0Jx8Lq": {
+        "id": "YLyS0Jx8Lq",
+        "title": "Убить пересмешника",
+        "author": "Ли Харпер",
+        "notes": "",
+        "createdAt": "2017-03-16 09:37:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 17
+        }
+    },
     "TwJYmk8da4": {
         "id": "TwJYmk8da4",
         "title": "Сердца в Атлантиде",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 47
-        }
-    },
-    "-XmkEv6K3o": {
-        "id": "-XmkEv6K3o",
-        "title": "Разрушители",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:09:36",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 46
         }
     }
 }
