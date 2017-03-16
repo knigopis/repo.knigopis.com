@@ -1,4 +1,10 @@
 {
+    "4342425-vkontakte": {
+        "id": "4342425-vkontakte",
+        "nickname": "rayne_174",
+        "booksCount": 0,
+        "updatedAt": "2017-03-16 08:59:06"
+    },
     "322948100-yandex": {
         "id": "322948100-yandex",
         "nickname": "eterniel",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 138,
         "updatedAt": "2017-03-09 16:46:00"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 57,
-        "updatedAt": "2017-03-09 16:31:07"
     }
 }
