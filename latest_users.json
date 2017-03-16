@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 51,
+        "updatedAt": "2017-03-16 22:23:45"
+    },
     "311057796-yandex": {
         "id": "311057796-yandex",
         "nickname": "pkisarov001",
@@ -34,12 +40,6 @@
         "nickname": "parafeks",
         "booksCount": 4,
         "updatedAt": "2017-03-16 12:42:50"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 50,
-        "updatedAt": "2017-03-16 11:29:34"
     },
     "4342425-vkontakte": {
         "id": "4342425-vkontakte",
