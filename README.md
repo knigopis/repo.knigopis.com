@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
+    > Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.
+
 * Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
     > Благодаря феноменальным способностям советнику патриарха Алексею Холмогорову удается разгадать тайну подмосковной деревни Погост и спасти людей от наваждения и колдовства.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В Ельске царила тяжелая, гнетущая атмосфера - в городе появился снайпер, который по одному убивает ОМОНовцев, недавно вернувшихся из Чечни. Кто в мирном городе приговорил к смерти солдат, которых она пощадила на войне?
 
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
-    > Властелин Колец
 
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Подходящая кандидатура ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>110</sup>
 
-* Добро пожаловать в мёртвый дом ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>109</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>50</sup> 
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>49</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>30</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>138</sup> 
 
 
-_16.03.2017 11:29:34_
+_16.03.2017 12:42:50_

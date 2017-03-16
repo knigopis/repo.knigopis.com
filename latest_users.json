@@ -1,4 +1,10 @@
 {
+    "16366623-vkontakte": {
+        "id": "16366623-vkontakte",
+        "nickname": "parafeks",
+        "booksCount": 4,
+        "updatedAt": "2017-03-16 12:42:50"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 30,
         "updatedAt": "2017-03-10 05:16:06"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 138,
-        "updatedAt": "2017-03-09 16:46:00"
     }
 }
