@@ -1,4 +1,10 @@
 {
+    "367175136-vkontakte": {
+        "id": "367175136-vkontakte",
+        "nickname": "i_am_john_snow",
+        "booksCount": 0,
+        "updatedAt": "2017-03-16 18:49:08"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 112,
         "updatedAt": "2017-03-10 12:25:04"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 49,
-        "updatedAt": "2017-03-10 07:11:26"
     }
 }
