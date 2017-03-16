@@ -1,4 +1,16 @@
 {
+    "nvtiIfkbMO": {
+        "id": "nvtiIfkbMO",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:25:24",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 11
+        }
+    },
     "e2J41fN3Ii": {
         "id": "e2J41fN3Ii",
         "title": "День рождения инфанты",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 41
-        }
-    },
-    "_9tL_rtNQL": {
-        "id": "_9tL_rtNQL",
-        "title": "Капкан для Бешеной",
-        "author": "Александр Бушков",
-        "notes": "",
-        "createdAt": "2017-03-15 20:03:17",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 40
         }
     }
 }
