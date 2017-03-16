@@ -1,4 +1,16 @@
 {
+    "yyxSwi27Yq": {
+        "id": "yyxSwi27Yq",
+        "title": "Ребекка",
+        "author": "Дафна Дюморье",
+        "notes": "",
+        "createdAt": "2017-03-16 11:18:50",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 45
+        }
+    },
     "62TvYnxvEd": {
         "id": "62TvYnxvEd",
         "title": "Осиная фабрика",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 16
-        }
-    },
-    "CaVHr3p8mO": {
-        "id": "CaVHr3p8mO",
-        "title": "Долгий путь",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-16 09:35:17",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 15
         }
     }
 }
