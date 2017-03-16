@@ -1,4 +1,16 @@
 {
+    "By2M1-6597": {
+        "id": "By2M1-6597",
+        "title": "Ветра зимы",
+        "author": "Джордж Мартин",
+        "notes": "ЖДУУУУУ!",
+        "createdAt": "2017-03-16 18:49:53",
+        "user": {
+            "id": "367175136-vkontakte",
+            "nickname": "i_am_john_snow",
+            "booksCount": 1
+        }
+    },
     "oZp2OKh6US": {
         "id": "oZp2OKh6US",
         "title": "Как все было",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 31
-        }
-    },
-    "qNa_bXlaZl": {
-        "id": "qNa_bXlaZl",
-        "title": "Бочонок амонтильядо",
-        "author": "Эдгар По",
-        "notes": "",
-        "createdAt": "2017-03-16 11:06:37",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 30
         }
     }
 }
