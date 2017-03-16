@@ -1,4 +1,4 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>26</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>27</sup>
 ---
 
 ## 2013
@@ -13,6 +13,10 @@
 
 
 ## 2012
+
+### Дневник
+Анна Франк
+
 
 ### Парфюмер
 Зюцкинд Патрик

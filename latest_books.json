@@ -1,4 +1,16 @@
 {
+    "WYLhrmRdNt": {
+        "id": "WYLhrmRdNt",
+        "title": "Дневник",
+        "author": "Анна Франк",
+        "notes": "",
+        "createdAt": "2017-03-16 11:03:59",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 27
+        }
+    },
     "CyDipBLYbk": {
         "id": "CyDipBLYbk",
         "title": "Парфюмер",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 57
-        }
-    },
-    "SMeGuzrWHZ": {
-        "id": "SMeGuzrWHZ",
-        "title": "Брут",
-        "author": "Анна Берне",
-        "notes": "",
-        "createdAt": "2017-03-15 20:16:45",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 56
         }
     }
 }
