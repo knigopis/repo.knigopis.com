@@ -1,4 +1,4 @@
-# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>36</sup>
+# List of books read by [Йолант](https://plus.google.com/104690883692185089260)<sup>37</sup>
 ---
 
 ## 2013
@@ -21,6 +21,10 @@
 
 
 ## 2012
+
+### Салимов удел
+Стивен Кинг
+
 
 ### Обломов
 Иван Гончаров
