@@ -1,4 +1,16 @@
 {
+    "CaVHr3p8mO": {
+        "id": "CaVHr3p8mO",
+        "title": "Долгий путь",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-16 09:35:17",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 15
+        }
+    },
     "uRP379n_xZ": {
         "id": "uRP379n_xZ",
         "title": "Всё лето в один день",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 45
-        }
-    },
-    "eNaH8Vh5xO": {
-        "id": "eNaH8Vh5xO",
-        "title": "Огневой контакт",
-        "author": "Альберт Байкалов",
-        "notes": "",
-        "createdAt": "2017-03-15 20:08:34",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 44
         }
     }
 }
