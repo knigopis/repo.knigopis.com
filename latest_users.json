@@ -1,4 +1,10 @@
 {
+    "16501172616331031425-mailru": {
+        "id": "16501172616331031425-mailru",
+        "nickname": "Этерниел 13",
+        "booksCount": 0,
+        "updatedAt": "2017-03-16 06:23:42"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 57,
         "updatedAt": "2017-03-09 16:31:07"
-    },
-    "417570094-vkontakte": {
-        "id": "417570094-vkontakte",
-        "nickname": "Рин",
-        "booksCount": 0,
-        "updatedAt": "2017-03-09 15:38:00"
     }
 }
