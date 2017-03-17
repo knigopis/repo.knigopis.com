@@ -1,4 +1,10 @@
 {
+    "342483886-vkontakte": {
+        "id": "342483886-vkontakte",
+        "nickname": "Duxi",
+        "booksCount": 0,
+        "updatedAt": "2017-03-17 11:52:35"
+    },
     "374307269-vkontakte": {
         "id": "374307269-vkontakte",
         "nickname": "Брусникина",
@@ -172,11 +178,5 @@
         "nickname": "Buchwurm",
         "booksCount": 0,
         "updatedAt": "2017-03-11 17:13:21"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 250,
-        "updatedAt": "2017-03-11 16:57:29"
     }
 }
