@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>60</sup> 
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
 [Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>51</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>59</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [Derek777](users/153/15386028-yandex)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lukinykhav](users/174/17455474-vkontakte)<sup>0</sup> 
 
 
-_17.03.2017 15:03:20_
+_17.03.2017 19:15:16_

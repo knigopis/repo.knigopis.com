@@ -1,4 +1,16 @@
 {
+    "pazwU0UJU8": {
+        "id": "pazwU0UJU8",
+        "title": "Моя милая распутница",
+        "author": "Ли Уилкинсон",
+        "notes": "",
+        "createdAt": "2017-03-17 19:15:16",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 60
+        }
+    },
     "dkQgI0EDby": {
         "id": "dkQgI0EDby",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 42
-        }
-    },
-    "WengvZHkXl": {
-        "id": "WengvZHkXl",
-        "title": "Труп",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-16 11:13:50",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 41
         }
     }
 }

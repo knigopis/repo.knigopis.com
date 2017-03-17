@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>59</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>60</sup>
 ---
 
 ## 2017
+
+### Моя милая распутница
+Ли Уилкинсон
+> [2017-03-17] 
+
 
 ### Слепая ярость
 Сергей Майдуков
