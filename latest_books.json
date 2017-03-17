@@ -1,4 +1,16 @@
 {
+    "3399jgaz6A": {
+        "id": "3399jgaz6A",
+        "title": "Кафка на пляже",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-03-17 11:56:32",
+        "user": {
+            "id": "342483886-vkontakte",
+            "nickname": "Duxi",
+            "booksCount": 3
+        }
+    },
     "cckUNEIonp": {
         "id": "cckUNEIonp",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 38
-        }
-    },
-    "kMqTwKMi2_": {
-        "id": "kMqTwKMi2_",
-        "title": "Салимов удел",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-16 11:11:29",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 37
         }
     }
 }
