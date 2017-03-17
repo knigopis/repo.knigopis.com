@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
 [Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>6</sup> 
 [lukinykhav](users/174/17455474-vkontakte)<sup>0</sup> 
-[kristayak](users/404/404035163-vkontakte)<sup>0</sup> 
 
 
-_17.03.2017 14:32:21_
+_17.03.2017 15:03:20_
