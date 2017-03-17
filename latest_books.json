@@ -1,4 +1,16 @@
 {
+    "dkQgI0EDby": {
+        "id": "dkQgI0EDby",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-17 14:32:21",
+        "user": {
+            "id": "117838096423941527847-google",
+            "nickname": "Senarium",
+            "booksCount": 2
+        }
+    },
     "D6f7DKwtbi": {
         "id": "D6f7DKwtbi",
         "title": "«Все грани мира»",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 41
-        }
-    },
-    "nQZxV_MQuo": {
-        "id": "nQZxV_MQuo",
-        "title": "Зелёная миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-16 11:13:37",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 40
         }
     }
 }
