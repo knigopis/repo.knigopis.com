@@ -1,4 +1,10 @@
 {
+    "76995116-vkontakte": {
+        "id": "76995116-vkontakte",
+        "nickname": "aleksey___vladimirovich",
+        "booksCount": 0,
+        "updatedAt": "2017-03-17 15:03:18"
+    },
     "117838096423941527847-google": {
         "id": "117838096423941527847-google",
         "nickname": "Senarium",
@@ -172,11 +178,5 @@
         "nickname": "lukinykhav",
         "booksCount": 0,
         "updatedAt": "2017-03-12 15:50:14"
-    },
-    "404035163-vkontakte": {
-        "id": "404035163-vkontakte",
-        "nickname": "kristayak",
-        "booksCount": 0,
-        "updatedAt": "2017-03-12 10:47:20"
     }
 }
