@@ -1,4 +1,16 @@
 {
+    "hXA6bY4SQ_": {
+        "id": "hXA6bY4SQ_",
+        "title": "Братья карамазовы",
+        "author": "Фёдор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2017-03-17 11:55:02",
+        "user": {
+            "id": "342483886-vkontakte",
+            "nickname": "Duxi",
+            "booksCount": 1
+        }
+    },
     "YWvyYkjnd-": {
         "id": "YWvyYkjnd-",
         "title": "\"Ареал. Вычеркнутые из жизни\"",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 36
-        }
-    },
-    "IsWac8tNXy": {
-        "id": "IsWac8tNXy",
-        "title": "Обломов",
-        "author": "Иван Гончаров",
-        "notes": "",
-        "createdAt": "2017-03-16 11:10:02",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 35
         }
     }
 }
