@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
+    > Книга захватывает, заставляет всерьёз волноваться за героев. Местами напряжённые моменты разбавляются лёгким и слегка наивным юмором, что ничуть не портить книгу и лучше подчёркивает сюжет
+
 * Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
     > Как-то странно все. Немного все обычно. Да, у каждого своя правда, так что не открыли ничего нового.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.
 
 * Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
-    > Благодаря феноменальным способностям советнику патриарха Алексею Холмогорову удается разгадать тайну подмосковной деревни Погост и спасти людей от наваждения и колдовства.
 
 * Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
 
-* Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>51</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kristayak](users/404/404035163-vkontakte)<sup>0</sup> 
 [Buchwurm](users/100/100001175351667-facebook)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>250</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>34</sup> 
 
 
-_16.03.2017 22:23:45_
+_17.03.2017 09:06:13_

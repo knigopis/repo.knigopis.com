@@ -1,4 +1,10 @@
 {
+    "374307269-vkontakte": {
+        "id": "374307269-vkontakte",
+        "nickname": "Брусникина",
+        "booksCount": 13,
+        "updatedAt": "2017-03-17 09:06:13"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 250,
         "updatedAt": "2017-03-11 16:57:29"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 34,
-        "updatedAt": "2017-03-10 20:08:53"
     }
 }
