@@ -1,4 +1,10 @@
 {
+    "117838096423941527847-google": {
+        "id": "117838096423941527847-google",
+        "nickname": "Senarium",
+        "booksCount": 0,
+        "updatedAt": "2017-03-17 14:28:49"
+    },
     "342483886-vkontakte": {
         "id": "342483886-vkontakte",
         "nickname": "Duxi",
@@ -172,11 +178,5 @@
         "nickname": "kristayak",
         "booksCount": 0,
         "updatedAt": "2017-03-12 10:47:20"
-    },
-    "100001175351667-facebook": {
-        "id": "100001175351667-facebook",
-        "nickname": "Buchwurm",
-        "booksCount": 0,
-        "updatedAt": "2017-03-11 17:13:21"
     }
 }
