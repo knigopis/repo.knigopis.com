@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>70</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>71</sup>
 ---
 
 ## 2017
@@ -163,6 +163,10 @@
 
 
 ## 2015
+
+### Последний человек из Атлантиды
+Александр Романович Беляев
+
 
 ### Общая социология
 Бабосов Е. М.

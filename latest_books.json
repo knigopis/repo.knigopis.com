@@ -1,4 +1,16 @@
 {
+    "YWRGV5P-MX": {
+        "id": "YWRGV5P-MX",
+        "title": "Последний человек из Атлантиды",
+        "author": "Александр Романович Беляев",
+        "notes": "",
+        "createdAt": "2017-03-18 11:02:46",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 71
+        }
+    },
     "D9hBoln1BI": {
         "id": "D9hBoln1BI",
         "title": "Черчилль",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 16
-        }
-    },
-    "7jTaL5LOby": {
-        "id": "7jTaL5LOby",
-        "title": "Проклятие волков",
-        "author": "Фредерик Пол",
-        "notes": "Превосходно. матрица пополам с терминатором. 10 из 10.",
-        "createdAt": "2017-03-16 16:34:25",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 15
         }
     }
 }
