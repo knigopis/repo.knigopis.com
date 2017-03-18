@@ -1,4 +1,16 @@
 {
+    "nFqZrT75M7": {
+        "id": "nFqZrT75M7",
+        "title": "Голодные Игры: Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-03-18 18:43:07",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 65
+        }
+    },
     "m_Z-RnckGn": {
         "id": "m_Z-RnckGn",
         "title": "Голодные Игры: И Вспыхнет Пламя",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 79
-        }
-    },
-    "Cs-MW5BQwa": {
-        "id": "Cs-MW5BQwa",
-        "title": "Призрак",
-        "author": "Фредерик Пол",
-        "notes": "5 из 10.",
-        "createdAt": "2017-03-18 11:27:40",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 24
         }
     }
 }
