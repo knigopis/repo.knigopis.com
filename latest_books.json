@@ -1,4 +1,16 @@
 {
+    "oUtrsCAOPj": {
+        "id": "oUtrsCAOPj",
+        "title": "Изумрудная Книга",
+        "author": "Керстин Гир",
+        "notes": "",
+        "createdAt": "2017-03-18 18:44:13",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 68
+        }
+    },
     "1sJ97-cDi7": {
         "id": "1sJ97-cDi7",
         "title": "Сапфировая Книга",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 82
-        }
-    },
-    "ph_62J5MMx": {
-        "id": "ph_62J5MMx",
-        "title": "Дожить до рассвета",
-        "author": "Василий Быков",
-        "notes": "",
-        "createdAt": "2017-03-18 11:38:27",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 81
         }
     }
 }
