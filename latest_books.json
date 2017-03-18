@@ -1,4 +1,16 @@
 {
+    "OFXq2fDuHY": {
+        "id": "OFXq2fDuHY",
+        "title": "Сотников",
+        "author": "Василий Быков",
+        "notes": "",
+        "createdAt": "2017-03-18 11:39:14",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 84
+        }
+    },
     "dy34Q0Lbmo": {
         "id": "dy34Q0Lbmo",
         "title": "Обелиск",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 60
-        }
-    },
-    "dkQgI0EDby": {
-        "id": "dkQgI0EDby",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-03-17 14:32:21",
-        "user": {
-            "id": "117838096423941527847-google",
-            "nickname": "Senarium",
-            "booksCount": 2
         }
     }
 }
