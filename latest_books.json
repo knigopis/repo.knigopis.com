@@ -1,4 +1,16 @@
 {
+    "ph_62J5MMx": {
+        "id": "ph_62J5MMx",
+        "title": "Дожить до рассвета",
+        "author": "Василий Быков",
+        "notes": "",
+        "createdAt": "2017-03-18 11:38:27",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 81
+        }
+    },
     "RBJiVd7MXB": {
         "id": "RBJiVd7MXB",
         "title": "В тумане",
@@ -345,18 +357,6 @@
             "id": "342483886-vkontakte",
             "nickname": "Duxi",
             "booksCount": 4
-        }
-    },
-    "3399jgaz6A": {
-        "id": "3399jgaz6A",
-        "title": "Кафка на пляже",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-03-17 11:56:32",
-        "user": {
-            "id": "342483886-vkontakte",
-            "nickname": "Duxi",
-            "booksCount": 3
         }
     }
 }
