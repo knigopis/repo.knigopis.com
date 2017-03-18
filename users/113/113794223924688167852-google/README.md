@@ -1,12 +1,7 @@
-# List of books read by Victoria<sup>29</sup>
+# List of books read by Victoria<sup>28</sup>
 ---
 
 ## 2017
-
-### Сборник "Мисс Марпл"
-Агата Кристи
-> [2017-01-05] 
-
 
 ### Сборник "Мисс Марпл"
 Агата Кристи
