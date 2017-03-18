@@ -1,4 +1,16 @@
 {
+    "e1GyrsCt-Z": {
+        "id": "e1GyrsCt-Z",
+        "title": "Сборник \"Мисс Марпл\"",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-03-18 11:18:20",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 29
+        }
+    },
     "5EfiYCtxlT": {
         "id": "5EfiYCtxlT",
         "title": "Загадай число",
@@ -345,18 +357,6 @@
             "id": "311057796-yandex",
             "nickname": "pkisarov001",
             "booksCount": 25
-        }
-    },
-    "MPrg-f3TPi": {
-        "id": "MPrg-f3TPi",
-        "title": "Дети подземелья",
-        "author": "Владимир Короленко",
-        "notes": "",
-        "createdAt": "2017-03-16 19:18:56",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 59
         }
     }
 }

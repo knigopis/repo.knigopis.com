@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Victoria](users/113/113794223924688167852-google)<sup>27</sup> 
+[Victoria](users/113/113794223924688167852-google)<sup>29</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>78</sup> 
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
 [victoria](users/646/64674343-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 
 
-_18.03.2017 11:17:19_
+_18.03.2017 11:18:20_
