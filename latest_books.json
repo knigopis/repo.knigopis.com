@@ -1,4 +1,16 @@
 {
+    "5ox_0_FYbn": {
+        "id": "5ox_0_FYbn",
+        "title": "Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-03-18 18:46:27",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 70
+        }
+    },
     "boTaMFbWmz": {
         "id": "boTaMFbWmz",
         "title": "Голодные Игры: И Вспыхнет Пламя",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 83
-        }
-    },
-    "oRzuzv-x7o": {
-        "id": "oRzuzv-x7o",
-        "title": "Знак беды",
-        "author": "Василий Быков",
-        "notes": "",
-        "createdAt": "2017-03-18 11:38:50",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 82
         }
     }
 }
