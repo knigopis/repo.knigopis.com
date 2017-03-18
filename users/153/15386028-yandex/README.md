@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>22</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>23</sup>
 ---
 
 ## 2017
+
+### Дедушка-шалун
+Фредерик Пол
+> [2017-03-18] Дебил-бессмертный. 3 из 10.
+
 
 ### Звездный отец
 Фредерик Пол
