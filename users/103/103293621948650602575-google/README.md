@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>65</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>66</sup>
 ---
 
 ## 2017
@@ -264,6 +264,11 @@
 
 
 ## 2013
+
+### Рубиновая Книга
+Керстин Гир
+> [2013-09] 
+
 
 ### Гора Вампиров
 Даррен Шэн
