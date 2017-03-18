@@ -1,4 +1,16 @@
 {
+    "Z6VLioqzzv": {
+        "id": "Z6VLioqzzv",
+        "title": "Декамерон",
+        "author": "Джованни Бокаччо",
+        "notes": "",
+        "createdAt": "2017-03-18 11:07:53",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 74
+        }
+    },
     "abEls92I3Z": {
         "id": "abEls92I3Z",
         "title": "Принципы построения богатства",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 19
-        }
-    },
-    "MaRzN-ZXDX": {
-        "id": "MaRzN-ZXDX",
-        "title": "Ночные крылья",
-        "author": "Роберт Силверберг",
-        "notes": "Задумка интересная, но противно.6 из 10.",
-        "createdAt": "2017-03-16 16:52:29",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 18
         }
     }
 }
