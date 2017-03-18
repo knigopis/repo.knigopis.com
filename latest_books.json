@@ -1,4 +1,16 @@
 {
+    "oRzuzv-x7o": {
+        "id": "oRzuzv-x7o",
+        "title": "Знак беды",
+        "author": "Василий Быков",
+        "notes": "",
+        "createdAt": "2017-03-18 11:38:50",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 82
+        }
+    },
     "ph_62J5MMx": {
         "id": "ph_62J5MMx",
         "title": "Дожить до рассвета",
@@ -345,18 +357,6 @@
             "id": "117838096423941527847-google",
             "nickname": "Senarium",
             "booksCount": 1
-        }
-    },
-    "2heKCwDddn": {
-        "id": "2heKCwDddn",
-        "title": "Процесс",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-03-17 12:02:19",
-        "user": {
-            "id": "342483886-vkontakte",
-            "nickname": "Duxi",
-            "booksCount": 4
         }
     }
 }
