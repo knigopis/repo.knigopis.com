@@ -1,4 +1,16 @@
 {
+    "-3U37gFgCi": {
+        "id": "-3U37gFgCi",
+        "title": "Верная подруга",
+        "author": "Дженни Адамс",
+        "notes": "",
+        "createdAt": "2017-03-18 10:52:24",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 64
+        }
+    },
     "0V8wRPMv2R": {
         "id": "0V8wRPMv2R",
         "title": "Чурила Плёнкович. Былина",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 46
-        }
-    },
-    "yyxSwi27Yq": {
-        "id": "yyxSwi27Yq",
-        "title": "Ребекка",
-        "author": "Дафна Дюморье",
-        "notes": "",
-        "createdAt": "2017-03-16 11:18:50",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 45
         }
     }
 }
