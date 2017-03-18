@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>79</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>80</sup>
 ---
 
 ## 2017
@@ -328,6 +328,10 @@
 
 
 ## 1989
+
+### В тумане
+Василий Быков
+
 
 ### Альпийская баллада
 Василий Быков
