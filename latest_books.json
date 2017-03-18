@@ -1,4 +1,16 @@
 {
+    "yB6zvO-MbS": {
+        "id": "yB6zvO-MbS",
+        "title": "Альпийская баллада",
+        "author": "Василий Быков",
+        "notes": "",
+        "createdAt": "2017-03-18 11:37:44",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 79
+        }
+    },
     "Cs-MW5BQwa": {
         "id": "Cs-MW5BQwa",
         "title": "Призрак",
@@ -345,18 +357,6 @@
             "id": "342483886-vkontakte",
             "nickname": "Duxi",
             "booksCount": 2
-        }
-    },
-    "hXA6bY4SQ_": {
-        "id": "hXA6bY4SQ_",
-        "title": "Братья карамазовы",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-03-17 11:55:02",
-        "user": {
-            "id": "342483886-vkontakte",
-            "nickname": "Duxi",
-            "booksCount": 1
         }
     }
 }
