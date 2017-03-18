@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Mira R",
+        "booksCount": 62,
+        "updatedAt": "2017-03-18 18:41:18"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "hajime_mei",
         "booksCount": 1,
         "updatedAt": "2017-03-14 05:40:13"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 96,
-        "updatedAt": "2017-03-13 13:52:19"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mira R](users/103/103293621948650602575-google)<sup>62</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>104</sup> 
 [Derek777](users/153/15386028-yandex)<sup>24</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tvou_vizg](users/399/399207464-vkontakte)<sup>0</sup> 
 [IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
 [hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 
 
-_18.03.2017 12:21:11_
+_18.03.2017 18:41:18_
