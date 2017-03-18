@@ -1,4 +1,16 @@
 {
+    "YMoqmw73eW": {
+        "id": "YMoqmw73eW",
+        "title": "Почему вы глупы, бедны и больны...",
+        "author": "Рэн Гейдж",
+        "notes": "",
+        "createdAt": "2017-03-18 11:49:09",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 89
+        }
+    },
     "_ixeZFAMgj": {
         "id": "_ixeZFAMgj",
         "title": "Величайший секрет как делать деньги",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 65
-        }
-    },
-    "-3U37gFgCi": {
-        "id": "-3U37gFgCi",
-        "title": "Верная подруга",
-        "author": "Дженни Адамс",
-        "notes": "",
-        "createdAt": "2017-03-18 10:52:24",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 64
         }
     }
 }
