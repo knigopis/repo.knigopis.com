@@ -1,4 +1,16 @@
 {
+    "cKhgSfdrnp": {
+        "id": "cKhgSfdrnp",
+        "title": "Тайм-драйв: как успевать жить и работать",
+        "author": "Глеб Архангельский",
+        "notes": "",
+        "createdAt": "2017-03-18 10:56:24",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 68
+        }
+    },
     "PMouWCglbK": {
         "id": "PMouWCglbK",
         "title": "Общая социология",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 50
-        }
-    },
-    "Q5ANN9lzOI": {
-        "id": "Q5ANN9lzOI",
-        "title": "Изгоняющий дьявола",
-        "author": "Уильям П. Блэтти",
-        "notes": "",
-        "createdAt": "2017-03-16 11:28:26",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 49
         }
     }
 }
