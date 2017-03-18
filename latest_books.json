@@ -1,4 +1,16 @@
 {
+    "LOwr3hVJ8w": {
+        "id": "LOwr3hVJ8w",
+        "title": "Изгнание из рая",
+        "author": "Джемма Дамиани",
+        "notes": "",
+        "createdAt": "2017-03-18 12:00:26",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 98
+        }
+    },
     "gC5U4i6r3_": {
         "id": "gC5U4i6r3_",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 74
-        }
-    },
-    "abEls92I3Z": {
-        "id": "abEls92I3Z",
-        "title": "Принципы построения богатства",
-        "author": "Глен Бленд",
-        "notes": "",
-        "createdAt": "2017-03-18 11:07:00",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 73
         }
     }
 }
