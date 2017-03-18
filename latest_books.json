@@ -1,4 +1,16 @@
 {
+    "rILnKojJF2": {
+        "id": "rILnKojJF2",
+        "title": "\"Альфа\" - смерть террору",
+        "author": "Михаил Болтунов",
+        "notes": "",
+        "createdAt": "2017-03-18 11:08:55",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 75
+        }
+    },
     "Z6VLioqzzv": {
         "id": "Z6VLioqzzv",
         "title": "Декамерон",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 20
-        }
-    },
-    "C6GuJfvdaY": {
-        "id": "C6GuJfvdaY",
-        "title": "Человек в лабиринте",
-        "author": "Роберт Силверберг",
-        "notes": "замечательно.8 из 10.",
-        "createdAt": "2017-03-16 16:54:07",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 19
         }
     }
 }
