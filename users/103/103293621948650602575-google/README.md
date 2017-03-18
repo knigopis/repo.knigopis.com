@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>68</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>67</sup>
 ---
 
 ## 2017
@@ -181,11 +181,6 @@
 
 
 ## 2014
-
-### Дивергент
-Вероника Рот
-> [2014-03] 
-
 
 ### Сойка-пересмешница
 Сьюзен Коллинз
