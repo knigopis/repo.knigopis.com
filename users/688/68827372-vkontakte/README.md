@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>86</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>87</sup>
 ---
 
 ## 2017
@@ -294,6 +294,10 @@
 
 
 ## 2010
+
+### Кремлёвские жёны
+Лариса Васильева
+
 
 ### Тайм-драйв: как успевать жить и работать
 Глеб Архангельский

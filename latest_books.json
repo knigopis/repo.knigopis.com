@@ -1,4 +1,16 @@
 {
+    "8JTFswhqiG": {
+        "id": "8JTFswhqiG",
+        "title": "Кремлёвские жёны",
+        "author": "Лариса Васильева",
+        "notes": "",
+        "createdAt": "2017-03-18 11:43:35",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 87
+        }
+    },
     "Kt5q3YrTv1": {
         "id": "Kt5q3YrTv1",
         "title": "Ночь на острове любви",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 63
-        }
-    },
-    "bc5hE1XAW2": {
-        "id": "bc5hE1XAW2",
-        "title": "Данила Ловчанин. Былина",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-18 10:50:48",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 62
         }
     }
 }
