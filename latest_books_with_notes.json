@@ -1,4 +1,16 @@
 {
+    "fb2AzGoUwa": {
+        "id": "fb2AzGoUwa",
+        "title": "Сёгун. Книга 2",
+        "author": "Клавелл, Джеймс",
+        "notes": "Продолжение ни капли не разочаровало.",
+        "createdAt": "2017-03-18 19:08:04",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 139
+        }
+    },
     "YWvyYkjnd-": {
         "id": "YWvyYkjnd-",
         "title": "\"Ареал. Вычеркнутые из жизни\"",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 137
-        }
-    },
-    "DkDmh0b1_Q": {
-        "id": "DkDmh0b1_Q",
-        "title": "Как развить силу воли",
-        "author": "Уолтер Мишел",
-        "notes": "Полезная информация для саморазвития. Куча интересной информации относительно психологии личности.",
-        "createdAt": "2017-02-25 07:41:37",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 8
         }
     }
 }

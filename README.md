@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
+    > Продолжение ни капли не разочаровало.
+
 * "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
     > Книга захватывает, заставляет всерьёз волноваться за героев. Местами напряжённые моменты разбавляются лёгким и слегка наивным юмором, что ничуть не портить книгу и лучше подчёркивает сюжет
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Как-то странно все. Немного все обычно. Да, у каждого своя правда, так что не открыли ничего нового.
 
 * Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
-    > Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.
 
 * Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 
-* Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>68</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>104</sup> 
 [Derek777](users/153/15386028-yandex)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>91</sup> 
 [tvou_vizg](users/399/399207464-vkontakte)<sup>0</sup> 
 [IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
-[hajime_mei](users/335/335968601-vkontakte)<sup>1</sup> 
 
 
-_18.03.2017 18:47:17_
+_18.03.2017 19:08:04_

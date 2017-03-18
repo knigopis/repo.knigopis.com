@@ -1,4 +1,16 @@
 {
+    "fb2AzGoUwa": {
+        "id": "fb2AzGoUwa",
+        "title": "Сёгун. Книга 2",
+        "author": "Клавелл, Джеймс",
+        "notes": "Продолжение ни капли не разочаровало.",
+        "createdAt": "2017-03-18 19:08:04",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 139
+        }
+    },
     "bYmPSGqCYc": {
         "id": "bYmPSGqCYc",
         "title": "Дивергент",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 84
-        }
-    },
-    "dy34Q0Lbmo": {
-        "id": "dy34Q0Lbmo",
-        "title": "Обелиск",
-        "author": "Василий Быков",
-        "notes": "",
-        "createdAt": "2017-03-18 11:39:02",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 83
         }
     }
 }
