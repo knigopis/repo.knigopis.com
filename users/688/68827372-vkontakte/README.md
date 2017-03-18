@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>96</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>97</sup>
 ---
 
 ## 2017
@@ -187,6 +187,10 @@
 
 
 ## 2015
+
+### Собор Парижской Богоматери
+Виктор Гюго
+
 
 ### Шинель
 Николай Васильевич Гоголь

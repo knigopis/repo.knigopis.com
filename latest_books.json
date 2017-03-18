@@ -1,4 +1,16 @@
 {
+    "gC5U4i6r3_": {
+        "id": "gC5U4i6r3_",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2017-03-18 11:58:55",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 97
+        }
+    },
     "87jpxShE2j": {
         "id": "87jpxShE2j",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 73
-        }
-    },
-    "lNBM29Qy35": {
-        "id": "lNBM29Qy35",
-        "title": "Самоучитель совершенной личности",
-        "author": "Рами Блект",
-        "notes": "",
-        "createdAt": "2017-03-18 11:04:58",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 72
         }
     }
 }
