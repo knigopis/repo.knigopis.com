@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>22</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>28</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>78</sup> 
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
-[Derek777](users/153/15386028-yandex)<sup>21</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 
 
-_18.03.2017 11:18:34_
+_18.03.2017 11:25:10_

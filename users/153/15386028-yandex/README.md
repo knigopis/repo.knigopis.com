@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>21</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>22</sup>
 ---
 
 ## 2017
+
+### Звездный отец
+Фредерик Пол
+> [2017-03-18] 6 из 10.
+
 
 ### Необыкновенные приключения экспедиции Барсака
 Жюль Верн
