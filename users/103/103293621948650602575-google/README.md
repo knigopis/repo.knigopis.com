@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>66</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>67</sup>
 ---
 
 ## 2017
@@ -264,6 +264,11 @@
 
 
 ## 2013
+
+### Сапфировая Книга
+Керстин Гир
+> [2013-09] 
+
 
 ### Рубиновая Книга
 Керстин Гир
