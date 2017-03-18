@@ -1,4 +1,16 @@
 {
+    "lNBM29Qy35": {
+        "id": "lNBM29Qy35",
+        "title": "Самоучитель совершенной личности",
+        "author": "Рами Блект",
+        "notes": "",
+        "createdAt": "2017-03-18 11:04:58",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 72
+        }
+    },
     "YWRGV5P-MX": {
         "id": "YWRGV5P-MX",
         "title": "Последний человек из Атлантиды",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 17
-        }
-    },
-    "qDcUdP-dcP": {
-        "id": "qDcUdP-dcP",
-        "title": "Век нерешительности",
-        "author": "Фредерик Пол",
-        "notes": "нудно и неинтересно. 3 из 10.",
-        "createdAt": "2017-03-16 16:36:25",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 16
         }
     }
 }
