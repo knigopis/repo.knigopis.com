@@ -1,4 +1,10 @@
 {
+    "64674343-vkontakte": {
+        "id": "64674343-vkontakte",
+        "nickname": "victoria",
+        "booksCount": 0,
+        "updatedAt": "2017-03-18 11:04:09"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 6,
         "updatedAt": "2017-03-12 18:41:22"
-    },
-    "17455474-vkontakte": {
-        "id": "17455474-vkontakte",
-        "nickname": "lukinykhav",
-        "booksCount": 0,
-        "updatedAt": "2017-03-12 15:50:14"
     }
 }
