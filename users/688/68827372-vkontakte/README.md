@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>75</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>76</sup>
 ---
 
 ## 2017
@@ -175,6 +175,10 @@
 
 
 ## 2015
+
+### Целина
+Леонид Ильич Брежнев
+
 
 ### Последний человек из Атлантиды
 Александр Романович Беляев
