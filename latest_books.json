@@ -1,4 +1,16 @@
 {
+    "7wXGM2vmpA": {
+        "id": "7wXGM2vmpA",
+        "title": "Опыт предпринимателя",
+        "author": "Владимир Довгань",
+        "notes": "",
+        "createdAt": "2017-03-18 12:20:39",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 103
+        }
+    },
     "-xsiZ4XL0Z": {
         "id": "-xsiZ4XL0Z",
         "title": "Изгнанница. Клятва рыцаря",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 28
-        }
-    },
-    "IZJsowL7_u": {
-        "id": "IZJsowL7_u",
-        "title": "Быль беспредела или синдром Николая II",
-        "author": "Игорь Бунич",
-        "notes": "",
-        "createdAt": "2017-03-18 11:12:28",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 78
         }
     }
 }

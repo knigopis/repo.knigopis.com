@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>102</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>103</sup>
 ---
 
 ## 2017
@@ -343,6 +343,10 @@
 
 
 ## 2012
+
+### Опыт предпринимателя
+Владимир Довгань
+
 
 ### Эта странная жизнь
 Даниил Гранин
