@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[antasiar](users/688/68827372-vkontakte)<sup>76</sup> 
+[antasiar](users/688/68827372-vkontakte)<sup>77</sup> 
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
 [victoria](users/646/64674343-vkontakte)<sup>0</sup> 
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [oldsport](users/670/67028882-vkontakte)<sup>1</sup> 
 
 
-_18.03.2017 11:09:30_
+_18.03.2017 11:11:02_
