@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>92</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>93</sup>
 ---
 
 ## 2017
@@ -303,6 +303,13 @@
 
 ### Мастер и Маргарита
 Булгаков Михаил
+
+
+
+## 2012
+
+### Эта странная жизнь
+Даниил Гранин
 
 
 
