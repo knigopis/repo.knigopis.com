@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>82</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>83</sup>
 ---
 
 ## 2017
@@ -328,6 +328,10 @@
 
 
 ## 1989
+
+### Обелиск
+Василий Быков
+
 
 ### Знак беды
 Василий Быков
