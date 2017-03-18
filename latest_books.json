@@ -1,4 +1,16 @@
 {
+    "87jpxShE2j": {
+        "id": "87jpxShE2j",
+        "title": "Отверженные",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2017-03-18 11:58:14",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 96
+        }
+    },
     "mUO0eHvjn2": {
         "id": "mUO0eHvjn2",
         "title": "Цена гостайны - девять жизней",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 72
-        }
-    },
-    "YWRGV5P-MX": {
-        "id": "YWRGV5P-MX",
-        "title": "Последний человек из Атлантиды",
-        "author": "Александр Романович Беляев",
-        "notes": "",
-        "createdAt": "2017-03-18 11:02:46",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 71
         }
     }
 }
