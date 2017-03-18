@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>66</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>67</sup>
 ---
 
 ## 2017
@@ -159,6 +159,10 @@
 
 
 ## 2015
+
+### Общая социология
+Бабосов Е. М.
+
 
 ### Плата за обман
 Анна Владимирская, Петр Владимирский
