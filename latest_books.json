@@ -1,4 +1,16 @@
 {
+    "D9hBoln1BI": {
+        "id": "D9hBoln1BI",
+        "title": "Черчилль",
+        "author": "Франсуа Бедарида",
+        "notes": "",
+        "createdAt": "2017-03-18 11:00:21",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 70
+        }
+    },
     "_qJNMAqiB5": {
         "id": "_qJNMAqiB5",
         "title": "Формула времени. Тайм-менеджмент на Outlook",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 15
-        }
-    },
-    "4bnwJ-T8HO": {
-        "id": "4bnwJ-T8HO",
-        "title": "Маскарад на семь персон",
-        "author": "Олег Рой",
-        "notes": "Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.",
-        "createdAt": "2017-03-16 12:42:50",
-        "user": {
-            "id": "16366623-vkontakte",
-            "nickname": "parafeks",
-            "booksCount": 4
         }
     }
 }
