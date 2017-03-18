@@ -1,4 +1,16 @@
 {
+    "Kt5q3YrTv1": {
+        "id": "Kt5q3YrTv1",
+        "title": "Ночь на острове любви",
+        "author": "Майя Бэнкс",
+        "notes": "",
+        "createdAt": "2017-03-18 11:42:13",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 86
+        }
+    },
     "Lo74mX0sOq": {
         "id": "Lo74mX0sOq",
         "title": "По велению сердца",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 62
-        }
-    },
-    "GEjExejceF": {
-        "id": "GEjExejceF",
-        "title": "Бой Добрыни с Ильёй Муромцем. Былина",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-18 10:50:18",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 61
         }
     }
 }
