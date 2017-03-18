@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>23</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>24</sup>
 ---
 
 ## 2017
+
+### Призрак
+Фредерик Пол
+> [2017-03-18] 5 из 10.
+
 
 ### Дедушка-шалун
 Фредерик Пол
