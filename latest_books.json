@@ -1,4 +1,16 @@
 {
+    "abEls92I3Z": {
+        "id": "abEls92I3Z",
+        "title": "Принципы построения богатства",
+        "author": "Глен Бленд",
+        "notes": "",
+        "createdAt": "2017-03-18 11:07:00",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 73
+        }
+    },
     "lNBM29Qy35": {
         "id": "lNBM29Qy35",
         "title": "Самоучитель совершенной личности",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 18
-        }
-    },
-    "0FaiNy4GHN": {
-        "id": "0FaiNy4GHN",
-        "title": "Чума Мидаса",
-        "author": "Фредерик Пол",
-        "notes": "сумбурно. есть необдуманные моменты. сыровато. 5 из 10.",
-        "createdAt": "2017-03-16 16:38:24",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 17
         }
     }
 }
