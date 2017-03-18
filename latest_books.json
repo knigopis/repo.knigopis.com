@@ -1,4 +1,16 @@
 {
+    "gEVTKGz-xx": {
+        "id": "gEVTKGz-xx",
+        "title": "Где розы, там шипы",
+        "author": "Люси Дейн",
+        "notes": "",
+        "createdAt": "2017-03-18 12:01:03",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 99
+        }
+    },
     "LOwr3hVJ8w": {
         "id": "LOwr3hVJ8w",
         "title": "Изгнание из рая",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 75
-        }
-    },
-    "Z6VLioqzzv": {
-        "id": "Z6VLioqzzv",
-        "title": "Декамерон",
-        "author": "Джованни Бокаччо",
-        "notes": "",
-        "createdAt": "2017-03-18 11:07:53",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 74
         }
     }
 }
