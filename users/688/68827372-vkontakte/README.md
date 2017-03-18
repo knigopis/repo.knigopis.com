@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>91</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>92</sup>
 ---
 
 ## 2017
@@ -276,6 +276,10 @@
 
 
 ## 2014
+
+### Раиса. Памяти Раисы Максимовны Горбачёвой
+Раиса Горбачёва, Михаил Горбачёв
+
 
 ### Чурила Плёнкович. Былина
 
