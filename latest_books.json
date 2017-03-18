@@ -1,4 +1,16 @@
 {
+    "o6dejhYG8x": {
+        "id": "o6dejhYG8x",
+        "title": "Прекрасное безрассудство",
+        "author": "Ширли Джамп",
+        "notes": "",
+        "createdAt": "2017-03-18 12:01:51",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 100
+        }
+    },
     "gEVTKGz-xx": {
         "id": "gEVTKGz-xx",
         "title": "Где розы, там шипы",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 76
-        }
-    },
-    "rILnKojJF2": {
-        "id": "rILnKojJF2",
-        "title": "\"Альфа\" - смерть террору",
-        "author": "Михаил Болтунов",
-        "notes": "",
-        "createdAt": "2017-03-18 11:08:55",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 75
         }
     }
 }

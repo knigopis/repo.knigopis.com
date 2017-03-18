@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>99</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>100</sup>
 ---
 
 ## 2017
@@ -87,6 +87,10 @@
 
 ### Верная подруга
 > [2016-09] 
+
+
+### Прекрасное безрассудство
+Ширли Джамп
 
 
 ### Где розы, там шипы
