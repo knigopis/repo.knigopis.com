@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>87</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>88</sup>
 ---
 
 ## 2017
@@ -183,6 +183,10 @@
 
 
 ## 2015
+
+### Величайший секрет как делать деньги
+Джо Витале
+
 
 ### Быль беспредела или синдром Николая II
 Игорь Бунич

@@ -1,4 +1,16 @@
 {
+    "_ixeZFAMgj": {
+        "id": "_ixeZFAMgj",
+        "title": "Величайший секрет как делать деньги",
+        "author": "Джо Витале",
+        "notes": "",
+        "createdAt": "2017-03-18 11:44:45",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 88
+        }
+    },
     "8JTFswhqiG": {
         "id": "8JTFswhqiG",
         "title": "Кремлёвские жёны",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 64
-        }
-    },
-    "0V8wRPMv2R": {
-        "id": "0V8wRPMv2R",
-        "title": "Чурила Плёнкович. Былина",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-18 10:51:10",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 63
         }
     }
 }
