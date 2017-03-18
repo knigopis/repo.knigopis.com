@@ -1,4 +1,16 @@
 {
+    "atfmr2929d": {
+        "id": "atfmr2929d",
+        "title": "Аплодисменты",
+        "author": "Людмила Гурченко",
+        "notes": "",
+        "createdAt": "2017-03-18 11:55:49",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 94
+        }
+    },
     "Jpc5_AvYVZ": {
         "id": "Jpc5_AvYVZ",
         "title": "Эта странная жизнь",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 70
-        }
-    },
-    "_qJNMAqiB5": {
-        "id": "_qJNMAqiB5",
-        "title": "Формула времени. Тайм-менеджмент на Outlook",
-        "author": "Глеб Архангельский",
-        "notes": "",
-        "createdAt": "2017-03-18 10:57:38",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 69
         }
     }
 }
