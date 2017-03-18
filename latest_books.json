@@ -1,4 +1,16 @@
 {
+    "-xsiZ4XL0Z": {
+        "id": "-xsiZ4XL0Z",
+        "title": "Изгнанница. Клятва рыцаря",
+        "author": "Рикарда Джордан",
+        "notes": "",
+        "createdAt": "2017-03-18 12:03:13",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 102
+        }
+    },
     "iEWHwP5lve": {
         "id": "iEWHwP5lve",
         "title": "Чувства в заточении",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 78
-        }
-    },
-    "nY5SakadNM": {
-        "id": "nY5SakadNM",
-        "title": "Белая гвардия",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-03-18 11:11:02",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 77
         }
     }
 }

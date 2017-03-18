@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>101</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>102</sup>
 ---
 
 ## 2017
@@ -87,6 +87,10 @@
 
 ### Верная подруга
 > [2016-09] 
+
+
+### Изгнанница. Клятва рыцаря
+Рикарда Джордан
 
 
 ### Чувства в заточении
