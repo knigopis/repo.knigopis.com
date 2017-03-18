@@ -1,4 +1,16 @@
 {
+    "0V8wRPMv2R": {
+        "id": "0V8wRPMv2R",
+        "title": "Чурила Плёнкович. Былина",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-03-18 10:51:10",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 63
+        }
+    },
     "bc5hE1XAW2": {
         "id": "bc5hE1XAW2",
         "title": "Данила Ловчанин. Былина",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 45
-        }
-    },
-    "62TvYnxvEd": {
-        "id": "62TvYnxvEd",
-        "title": "Осиная фабрика",
-        "author": "Йэн Бэнкс",
-        "notes": "",
-        "createdAt": "2017-03-16 11:18:16",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 44
         }
     }
 }
