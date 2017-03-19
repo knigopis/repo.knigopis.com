@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>34</sup>
+# Список прочитанных книг пользователя exulted<sup>35</sup>
 ---
 
 ## 2017
+
+### Сердце Пармы
+Иванов Алексе
+> [2017-03-19] литрес
+
 
 ### Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend
 Joseph P. Farrell

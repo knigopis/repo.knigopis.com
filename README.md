@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
+    > литрес
+
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
     > Продолжение ни капли не разочаровало.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга захватывает, заставляет всерьёз волноваться за героев. Местами напряжённые моменты разбавляются лёгким и слегка наивным юмором, что ничуть не портить книгу и лучше подчёркивает сюжет
 
 * Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
-    > Как-то странно все. Немного все обычно. Да, у каждого своя правда, так что не открыли ничего нового.
 
 * Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
 
-* Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>35</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>505</sup> 
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
 [Klems](users/874/874082822732697-facebook)<sup>0</sup> 
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
-[dmitriev.ivashka](users/457/45795901-vkontakte)<sup>0</sup> 
 
 
-_19.03.2017 10:46:13_
+_19.03.2017 12:29:32_

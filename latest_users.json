@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 35,
+        "updatedAt": "2017-03-19 12:29:32"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Crazy",
         "booksCount": 7,
         "updatedAt": "2017-03-15 00:29:30"
-    },
-    "45795901-vkontakte": {
-        "id": "45795901-vkontakte",
-        "nickname": "dmitriev.ivashka",
-        "booksCount": 0,
-        "updatedAt": "2017-03-14 18:05:52"
     }
 }
