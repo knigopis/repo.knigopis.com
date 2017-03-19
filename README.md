@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>68</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>104</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>91</sup> 
 [tvou_vizg](users/399/399207464-vkontakte)<sup>0</sup> 
-[IolantaNorth](users/245/2457849566-twitter)<sup>0</sup> 
 
 
-_18.03.2017 19:08:04_
+_19.03.2017 03:55:40_
