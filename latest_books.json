@@ -1,4 +1,16 @@
 {
+    "jXiIg1nOKf": {
+        "id": "jXiIg1nOKf",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-03-19 06:20:37",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 89
+        }
+    },
     "imwZkiYXAu": {
         "id": "imwZkiYXAu",
         "title": "Девятнадцать минут",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 88
-        }
-    },
-    "8JTFswhqiG": {
-        "id": "8JTFswhqiG",
-        "title": "Кремлёвские жёны",
-        "author": "Лариса Васильева",
-        "notes": "",
-        "createdAt": "2017-03-18 11:43:35",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 87
         }
     }
 }
