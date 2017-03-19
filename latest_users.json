@@ -1,4 +1,10 @@
 {
+    "107235589178771063989-google": {
+        "id": "107235589178771063989-google",
+        "nickname": "dmitry",
+        "booksCount": 0,
+        "updatedAt": "2017-03-19 06:00:00"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "hawkeyepierce89",
         "booksCount": 2,
         "updatedAt": "2017-03-14 17:23:35"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 91,
-        "updatedAt": "2017-03-14 12:03:42"
     }
 }
