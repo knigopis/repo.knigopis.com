@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>52</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>35</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>505</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
 [Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>51</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
 
 
-_19.03.2017 12:29:32_
+_19.03.2017 13:07:07_
