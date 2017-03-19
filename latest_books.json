@@ -1,4 +1,16 @@
 {
+    "ygPmkZ-kW7": {
+        "id": "ygPmkZ-kW7",
+        "title": "Крауч-Энд (сборник)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-19 13:10:50",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 60
+        }
+    },
     "Rd9zlixjFr": {
         "id": "Rd9zlixjFr",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 100
-        }
-    },
-    "gEVTKGz-xx": {
-        "id": "gEVTKGz-xx",
-        "title": "Где розы, там шипы",
-        "author": "Люси Дейн",
-        "notes": "",
-        "createdAt": "2017-03-18 12:01:03",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 99
         }
     }
 }

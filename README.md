@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>59</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>60</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>35</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>505</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
 
 
-_19.03.2017 13:10:28_
+_19.03.2017 13:10:50_
