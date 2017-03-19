@@ -1,4 +1,16 @@
 {
+    "kw1yaLls7n": {
+        "id": "kw1yaLls7n",
+        "title": "Заклятие параноика (сборник)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-19 13:10:01",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 57
+        }
+    },
     "qc7gTkzymd": {
         "id": "qc7gTkzymd",
         "title": "Страна радости",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 97
-        }
-    },
-    "87jpxShE2j": {
-        "id": "87jpxShE2j",
-        "title": "Отверженные",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2017-03-18 11:58:14",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 96
         }
     }
 }
