@@ -1,4 +1,10 @@
 {
+    "339786161-vkontakte": {
+        "id": "339786161-vkontakte",
+        "nickname": "Антон Шевченко",
+        "booksCount": 105,
+        "updatedAt": "2017-03-19 18:24:46"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "Klems",
         "booksCount": 0,
         "updatedAt": "2017-03-15 08:15:02"
-    },
-    "1724160371208898-facebook": {
-        "id": "1724160371208898-facebook",
-        "nickname": "Crazy",
-        "booksCount": 7,
-        "updatedAt": "2017-03-15 00:29:30"
     }
 }
