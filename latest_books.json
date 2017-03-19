@@ -1,4 +1,16 @@
 {
+    "0gT5pinDFG": {
+        "id": "0gT5pinDFG",
+        "title": "Тот, кто хочет выжить (сборник)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-19 13:15:10",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 66
+        }
+    },
     "4rHzd0VGIi": {
         "id": "4rHzd0VGIi",
         "title": "Сезон дождя (сборник)",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 66
-        }
-    },
-    "nFqZrT75M7": {
-        "id": "nFqZrT75M7",
-        "title": "Голодные Игры: Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-03-18 18:43:07",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 65
         }
     }
 }
