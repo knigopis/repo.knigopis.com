@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>504</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>505</sup>
 ---
 
 ## 2017
+
+### Про Федота-стрельца, удалого молодца
+Леонид Филатов
+> [2017-03] 
+
 
 ### Енот и я
 Евгений Коган

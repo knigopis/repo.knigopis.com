@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>505</sup> 
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>89</sup> 
 [dmitry](users/107/107235589178771063989-google)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>504</sup> 
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexanderZay](users/111/111509705189100053263-google)<sup>0</sup> 
 
 
-_19.03.2017 07:23:14_
+_19.03.2017 07:41:03_
