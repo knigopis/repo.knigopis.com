@@ -1,4 +1,10 @@
 {
+    "323691055-vkontakte": {
+        "id": "323691055-vkontakte",
+        "nickname": "makedon",
+        "booksCount": 0,
+        "updatedAt": "2017-03-19 07:23:13"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "AlexanderZay",
         "booksCount": 0,
         "updatedAt": "2017-03-14 18:01:32"
-    },
-    "317314037-vkontakte": {
-        "id": "317314037-vkontakte",
-        "nickname": "hawkeyepierce89",
-        "booksCount": 2,
-        "updatedAt": "2017-03-14 17:23:35"
     }
 }
