@@ -1,4 +1,16 @@
 {
+    "PIavoppQ_d": {
+        "id": "PIavoppQ_d",
+        "title": "Дары волхвов",
+        "author": "О'Генри",
+        "notes": "",
+        "createdAt": "2017-03-19 04:18:00",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 503
+        }
+    },
     "fb2AzGoUwa": {
         "id": "fb2AzGoUwa",
         "title": "Сёгун. Книга 2",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 85
-        }
-    },
-    "OFXq2fDuHY": {
-        "id": "OFXq2fDuHY",
-        "title": "Сотников",
-        "author": "Василий Быков",
-        "notes": "",
-        "createdAt": "2017-03-18 11:39:14",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 84
         }
     }
 }
