@@ -1,4 +1,16 @@
 {
+    "Jfu2tGIKPi": {
+        "id": "Jfu2tGIKPi",
+        "title": "После заката (сборник)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-19 13:14:28",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 64
+        }
+    },
     "HmdXtevGHc": {
         "id": "HmdXtevGHc",
         "title": "Полная тьма, ни одной звезды (сборник)",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 104
-        }
-    },
-    "7wXGM2vmpA": {
-        "id": "7wXGM2vmpA",
-        "title": "Опыт предпринимателя",
-        "author": "Владимир Довгань",
-        "notes": "",
-        "createdAt": "2017-03-18 12:20:39",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 103
         }
     }
 }
