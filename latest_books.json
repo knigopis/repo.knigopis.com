@@ -1,4 +1,16 @@
 {
+    "KGiQo-Yacs": {
+        "id": "KGiQo-Yacs",
+        "title": "Ночная смена (сборник)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-03-19 13:11:11",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 61
+        }
+    },
     "ygPmkZ-kW7": {
         "id": "ygPmkZ-kW7",
         "title": "Крауч-Энд (сборник)",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 101
-        }
-    },
-    "o6dejhYG8x": {
-        "id": "o6dejhYG8x",
-        "title": "Прекрасное безрассудство",
-        "author": "Ширли Джамп",
-        "notes": "",
-        "createdAt": "2017-03-18 12:01:51",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 100
         }
     }
 }
