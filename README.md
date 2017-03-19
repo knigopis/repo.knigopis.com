@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>505</sup> 
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Klems](users/874/874082822732697-facebook)<sup>0</sup> 
 [Crazy](users/172/1724160371208898-facebook)<sup>7</sup> 
 [dmitriev.ivashka](users/457/45795901-vkontakte)<sup>0</sup> 
-[AlexanderZay](users/111/111509705189100053263-google)<sup>0</sup> 
 
 
-_19.03.2017 07:41:03_
+_19.03.2017 10:46:13_

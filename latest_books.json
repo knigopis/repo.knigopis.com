@@ -1,4 +1,16 @@
 {
+    "wenNqau2pv": {
+        "id": "wenNqau2pv",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-03-19 10:46:13",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 97
+        }
+    },
     "qVP_1mK_k1": {
         "id": "qVP_1mK_k1",
         "title": "Про Федота-стрельца, удалого молодца",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 90
-        }
-    },
-    "YMoqmw73eW": {
-        "id": "YMoqmw73eW",
-        "title": "Почему вы глупы, бедны и больны...",
-        "author": "Рэн Гейдж",
-        "notes": "",
-        "createdAt": "2017-03-18 11:49:09",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 89
         }
     }
 }
