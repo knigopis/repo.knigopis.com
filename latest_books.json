@@ -1,4 +1,16 @@
 {
+    "Rd9zlixjFr": {
+        "id": "Rd9zlixjFr",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-03-19 13:10:28",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 59
+        }
+    },
     "_YlLFjpR38": {
         "id": "_YlLFjpR38",
         "title": "Команда скелетов (сборник)",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 99
-        }
-    },
-    "LOwr3hVJ8w": {
-        "id": "LOwr3hVJ8w",
-        "title": "Изгнание из рая",
-        "author": "Джемма Дамиани",
-        "notes": "",
-        "createdAt": "2017-03-18 12:00:26",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 98
         }
     }
 }
