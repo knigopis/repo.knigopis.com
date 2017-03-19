@@ -1,4 +1,10 @@
 {
+    "90113106-vkontakte": {
+        "id": "90113106-vkontakte",
+        "nickname": "Darya",
+        "booksCount": 0,
+        "updatedAt": "2017-03-19 03:55:38"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "tvou_vizg",
         "booksCount": 0,
         "updatedAt": "2017-03-14 08:10:32"
-    },
-    "2457849566-twitter": {
-        "id": "2457849566-twitter",
-        "nickname": "IolantaNorth",
-        "booksCount": 0,
-        "updatedAt": "2017-03-14 05:57:45"
     }
 }
