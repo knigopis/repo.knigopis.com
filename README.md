@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
-[Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 
 
-_20.03.2017 17:15:28_
+_20.03.2017 17:26:46_
