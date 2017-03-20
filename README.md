@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
+    > Сценарий фильма "Прибытие"  основан на этом рассказе. Фильм не смотрел. 
+    > Сам рассказ немного трудноват из-за большого количества лингвистических терминов. Не было желания копаться в словарях. А так интересно рассказано про принцип Ферма и типы мышления. Может ещё раз перечитаю уже со словарём.
+
 * Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
     > литрес
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Продолжение ни капли не разочаровало.
 
 * "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
-    > Книга захватывает, заставляет всерьёз волноваться за героев. Местами напряжённые моменты разбавляются лёгким и слегка наивным юмором, что ничуть не портить книгу и лучше подчёркивает сюжет
 
 * Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
 
-* Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>67</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Jay_Unicorn](users/105/105966239678473224939-google)<sup>0</sup> 
-[ya.sneg-snow](users/194/194247311-yandex)<sup>0</sup> 
 
 
-_19.03.2017 19:25:45_
+_20.03.2017 14:26:34_

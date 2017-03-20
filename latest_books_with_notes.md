@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
 * Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
 * "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 * ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
-* Объектно-ориентированное мышление (Библиотека программиста) - 2014 - (304 стр.) ~ [igor1980](users/100/100003094239547-facebook)<sup>9</sup>
 
 
-_19.03.2017 12:29:32_
+_20.03.2017 14:26:34_
