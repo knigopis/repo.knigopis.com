@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofie](users/485/48568611-vkontakte)<sup>72</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
-[rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 
 
-_20.03.2017 18:21:53_
+_20.03.2017 22:34:30_

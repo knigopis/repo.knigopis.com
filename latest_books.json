@@ -1,4 +1,16 @@
 {
+    "5O5c1ZIAIO": {
+        "id": "5O5c1ZIAIO",
+        "title": "Крепость королей. Проклятие.",
+        "author": "Оливер Пётч",
+        "notes": "",
+        "createdAt": "2017-03-20 22:34:30",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 72
+        }
+    },
     "EIDg1KEFik": {
         "id": "EIDg1KEFik",
         "title": "Угол падения",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 139
-        }
-    },
-    "bYmPSGqCYc": {
-        "id": "bYmPSGqCYc",
-        "title": "Дивергент",
-        "author": "Вероника Рот",
-        "notes": "",
-        "createdAt": "2017-03-18 18:47:17",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 68
         }
     }
 }
