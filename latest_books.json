@@ -1,4 +1,16 @@
 {
+    "obdBExG4GU": {
+        "id": "obdBExG4GU",
+        "title": "Крепость королей. Расплата",
+        "author": "Оливер Пётч",
+        "notes": "",
+        "createdAt": "2017-03-20 22:34:58",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 73
+        }
+    },
     "5O5c1ZIAIO": {
         "id": "5O5c1ZIAIO",
         "title": "Крепость королей. Проклятие.",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 503
-        }
-    },
-    "fb2AzGoUwa": {
-        "id": "fb2AzGoUwa",
-        "title": "Сёгун. Книга 2",
-        "author": "Клавелл, Джеймс",
-        "notes": "Продолжение ни капли не разочаровало.",
-        "createdAt": "2017-03-18 19:08:04",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 139
         }
     }
 }
