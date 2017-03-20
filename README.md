@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
+    > Виски, вино, пиво и ебля.
+
 * История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
     > Сценарий фильма "Прибытие"  основан на этом рассказе. Фильм не смотрел. 
     > Сам рассказ немного трудноват из-за большого количества лингвистических терминов. Не было желания копаться в словарях. А так интересно рассказано про принцип Ферма и типы мышления. Может ещё раз перечитаю уже со словарём.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > литрес
 
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
-    > Продолжение ни капли не разочаровало.
 
 * "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 
-* Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
 [eterniel](users/322/322948100-yandex)<sup>0</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
-[Jay_Unicorn](users/105/105966239678473224939-google)<sup>0</sup> 
 
 
-_20.03.2017 14:26:34_
+_20.03.2017 17:15:28_

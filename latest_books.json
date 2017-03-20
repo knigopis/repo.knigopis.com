@@ -1,4 +1,16 @@
 {
+    "V5x5au-GMG": {
+        "id": "V5x5au-GMG",
+        "title": "Записки старого козла",
+        "author": "Чарльз Буковски.",
+        "notes": "Виски, вино, пиво и ебля.",
+        "createdAt": "2017-03-20 17:15:28",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 50
+        }
+    },
     "ygIS7nO5RC": {
         "id": "ygIS7nO5RC",
         "title": "История твоей жизни",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 70
-        }
-    },
-    "boTaMFbWmz": {
-        "id": "boTaMFbWmz",
-        "title": "Голодные Игры: И Вспыхнет Пламя",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-03-18 18:45:39",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 69
         }
     }
 }

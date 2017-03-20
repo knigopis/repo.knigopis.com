@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
 * История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
 * Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
@@ -30,7 +31,6 @@
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
 * Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
-* ГКН 8 ~ [Tr](users/122/12282474-vkontakte)<sup>43</sup>
 
 
-_20.03.2017 14:26:34_
+_20.03.2017 17:15:28_
