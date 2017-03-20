@@ -1,4 +1,16 @@
 {
+    "fI6SGQUyda": {
+        "id": "fI6SGQUyda",
+        "title": "Земляной ключ",
+        "author": "Медведев Владимир",
+        "notes": "Фантастический рассказ о том, как из-под земли на дачном участке начали появляться предметы и мёртвые существа, которые потом оживали. Жутковато!",
+        "createdAt": "2017-03-20 23:55:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 72
+        }
+    },
     "EIDg1KEFik": {
         "id": "EIDg1KEFik",
         "title": "Угол падения",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 28
-        }
-    },
-    "mPkFuoNz8v": {
-        "id": "mPkFuoNz8v",
-        "title": "Жук в муравейнике",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "аудиокнигой",
-        "createdAt": "2017-03-01 20:19:23",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 4
         }
     }
 }

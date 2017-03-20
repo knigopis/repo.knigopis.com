@@ -1,4 +1,16 @@
 {
+    "fI6SGQUyda": {
+        "id": "fI6SGQUyda",
+        "title": "Земляной ключ",
+        "author": "Медведев Владимир",
+        "notes": "Фантастический рассказ о том, как из-под земли на дачном участке начали появляться предметы и мёртвые существа, которые потом оживали. Жутковато!",
+        "createdAt": "2017-03-20 23:55:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 72
+        }
+    },
     "tNa2x2PMwi": {
         "id": "tNa2x2PMwi",
         "title": "Дочь палача",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 88
-        }
-    },
-    "lRFX9ig3Ur": {
-        "id": "lRFX9ig3Ur",
-        "title": "Енот и я",
-        "author": "Евгений Коган",
-        "notes": "",
-        "createdAt": "2017-03-19 05:52:48",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 504
         }
     }
 }
