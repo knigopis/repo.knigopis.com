@@ -1,4 +1,16 @@
 {
+    "tNa2x2PMwi": {
+        "id": "tNa2x2PMwi",
+        "title": "Дочь палача",
+        "author": "Оливер Пётч",
+        "notes": "",
+        "createdAt": "2017-03-20 22:35:28",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 74
+        }
+    },
     "obdBExG4GU": {
         "id": "obdBExG4GU",
         "title": "Крепость королей. Расплата",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 504
-        }
-    },
-    "PIavoppQ_d": {
-        "id": "PIavoppQ_d",
-        "title": "Дары волхвов",
-        "author": "О'Генри",
-        "notes": "",
-        "createdAt": "2017-03-19 04:18:00",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 503
         }
     }
 }
