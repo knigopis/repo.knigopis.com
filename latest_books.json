@@ -1,4 +1,16 @@
 {
+    "EIDg1KEFik": {
+        "id": "EIDg1KEFik",
+        "title": "Угол падения",
+        "author": "Андреева Наталья",
+        "notes": "Категорически люди обычно отрицают  только то, что было на самом деле.",
+        "createdAt": "2017-03-20 18:21:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 7
+        }
+    },
     "V5x5au-GMG": {
         "id": "V5x5au-GMG",
         "title": "Записки старого козла",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 68
-        }
-    },
-    "5ox_0_FYbn": {
-        "id": "5ox_0_FYbn",
-        "title": "Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-03-18 18:46:27",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 70
         }
     }
 }

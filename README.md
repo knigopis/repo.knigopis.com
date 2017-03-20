@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
+    > Категорически люди обычно отрицают  только то, что было на самом деле.
+
 * Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
     > Виски, вино, пиво и ебля.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Сам рассказ немного трудноват из-за большого количества лингвистических терминов. Не было желания копаться в словарях. А так интересно рассказано про принцип Ферма и типы мышления. Может ещё раз перечитаю уже со словарём.
 
 * Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
-    > литрес
 
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Пророк ~ [antasiar](users/688/68827372-vkontakte)<sup>54</sup>
 
-* Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 [parafeks](users/163/16366623-vkontakte)<sup>4</sup> 
 [rayne_174](users/434/4342425-vkontakte)<sup>0</sup> 
-[eterniel](users/322/322948100-yandex)<sup>0</sup> 
 
 
-_20.03.2017 17:26:46_
+_20.03.2017 18:21:53_

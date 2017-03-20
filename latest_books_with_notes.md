@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
 * Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
 * История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
 * Сердце Пармы ~ [exulted](users/100/100599204551896265722-google)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Книга птиц Восточной Африки ~ [Беска](users/157/1577468-vkontakte)<sup>29</sup>
 * Дэвид Копперфилд ~ [Беска](users/157/1577468-vkontakte)<sup>28</sup>
 * Жук в муравейнике ~ [miatka](users/351/35140437-vkontakte)<sup>4</sup>
-* Волхв (Маг) ~ [Semmi Colins ](users/100/100632786848817999592-google)<sup>17</sup>
 
 
-_20.03.2017 17:15:28_
+_20.03.2017 18:21:53_

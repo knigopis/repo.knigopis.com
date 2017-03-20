@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 7,
+        "updatedAt": "2017-03-20 18:21:53"
+    },
     "2463393-vkontakte": {
         "id": "2463393-vkontakte",
         "nickname": "joker666",
@@ -172,11 +178,5 @@
         "nickname": "rayne_174",
         "booksCount": 0,
         "updatedAt": "2017-03-16 08:59:06"
-    },
-    "322948100-yandex": {
-        "id": "322948100-yandex",
-        "nickname": "eterniel",
-        "booksCount": 0,
-        "updatedAt": "2017-03-16 06:30:07"
     }
 }
