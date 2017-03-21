@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 36,
+        "updatedAt": "2017-03-21 20:38:10"
+    },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",
         "nickname": "Neccochi",
@@ -58,12 +64,6 @@
         "nickname": "Йолант",
         "booksCount": 67,
         "updatedAt": "2017-03-19 13:15:41"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 35,
-        "updatedAt": "2017-03-19 12:29:32"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
