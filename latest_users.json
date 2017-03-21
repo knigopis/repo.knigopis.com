@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 90,
+        "updatedAt": "2017-03-21 06:10:38"
+    },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",
         "nickname": "Мари ^^",
@@ -76,12 +82,6 @@
         "nickname": "makedon",
         "booksCount": 0,
         "updatedAt": "2017-03-19 07:23:13"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 89,
-        "updatedAt": "2017-03-19 06:20:37"
     },
     "107235589178771063989-google": {
         "id": "107235589178771063989-google",
