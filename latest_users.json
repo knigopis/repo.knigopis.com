@@ -1,4 +1,10 @@
 {
+    "12601720503917094896-mailru": {
+        "id": "12601720503917094896-mailru",
+        "nickname": "Мари ^^",
+        "booksCount": 0,
+        "updatedAt": "2017-03-21 06:02:24"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 31,
         "updatedAt": "2017-03-16 18:27:24"
-    },
-    "16366623-vkontakte": {
-        "id": "16366623-vkontakte",
-        "nickname": "parafeks",
-        "booksCount": 4,
-        "updatedAt": "2017-03-16 12:42:50"
     }
 }
