@@ -1,4 +1,16 @@
 {
+    "dU4Qu-HHis": {
+        "id": "dU4Qu-HHis",
+        "title": "Покоритель Зари",
+        "author": "Льюис Клайв",
+        "notes": "",
+        "createdAt": "2017-03-21 06:11:15",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 92
+        }
+    },
     "jw9CE7ldsW": {
         "id": "jw9CE7ldsW",
         "title": "Принц Каспиан",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 97
-        }
-    },
-    "qVP_1mK_k1": {
-        "id": "qVP_1mK_k1",
-        "title": "Про Федота-стрельца, удалого молодца",
-        "author": "Леонид Филатов",
-        "notes": "",
-        "createdAt": "2017-03-19 07:41:02",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 505
         }
     }
 }
