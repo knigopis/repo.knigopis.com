@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>505</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>506</sup>
 ---
 
 ## 2017
+
+### Кот без дураков
+Прэтчетт Терри
+> [2017-03] 
+
 
 ### Про Федота-стрельца, удалого молодца
 Леонид Филатов
