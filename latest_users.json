@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 105,
+        "updatedAt": "2017-03-22 19:22:25"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -106,12 +112,6 @@
         "nickname": "Mira R",
         "booksCount": 68,
         "updatedAt": "2017-03-18 18:47:17"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 104,
-        "updatedAt": "2017-03-18 12:21:11"
     },
     "15386028-yandex": {
         "id": "15386028-yandex",

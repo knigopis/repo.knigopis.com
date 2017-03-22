@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>105</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>506</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>68</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>104</sup> 
 [Derek777](users/153/15386028-yandex)<sup>24</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>28</sup> 
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 
 
-_22.03.2017 11:00:56_
+_22.03.2017 19:22:26_

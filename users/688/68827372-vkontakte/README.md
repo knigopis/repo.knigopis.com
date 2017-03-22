@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>104</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>105</sup>
 ---
 
 ## 2017
+
+### Стать звездой нелегко
+Людмила Леонидова
+> [2017-03-22] 
+
 
 ### Моя милая распутница
 Ли Уилкинсон
