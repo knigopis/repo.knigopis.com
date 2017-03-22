@@ -1,4 +1,16 @@
 {
+    "urSkSSoo6e": {
+        "id": "urSkSSoo6e",
+        "title": "Война и мир",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2017-03-22 04:24:59",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 19
+        }
+    },
     "KtOsuCJbLm": {
         "id": "KtOsuCJbLm",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 71
-        }
-    },
-    "RMBaQdEfv0": {
-        "id": "RMBaQdEfv0",
-        "title": "Изучаем  PHP и MySQL",
-        "author": "Мишель Е. Дэвис и Джон А. Филлипс",
-        "notes": "",
-        "createdAt": "2017-03-19 18:28:27",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 106
         }
     }
 }
