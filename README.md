@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
+    > в процессе (ну ОООЧЕНЬ много воды, видно, что советская книга)
+    > 
+    > https://www.ozon.ru/context/detail/id/21498344/
+
 * Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
     > Фантастический рассказ о том, как из-под земли на дачном участке начали появляться предметы и мёртвые существа, которые потом оживали. Жутковато!
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Категорически люди обычно отрицают  только то, что было на самом деле.
 
 * Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
-    > Виски, вино, пиво и ебля.
 
 * История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
 
-* Пророк. Кровавые жернова ~ [antasiar](users/688/68827372-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>105</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>506</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>32</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>31</sup> 
 
 
-_22.03.2017 19:22:26_
+_22.03.2017 20:34:09_
