@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
+    > Решил познакомиться с творчеством писателя. Автор уделяет много внимания деталям и описанию героев. Сюжет простой.
+    > Желания дальнейшего знакомства пока нет. Видимо не моё.
+
 * Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
     > в процессе (ну ОООЧЕНЬ много воды, видно, что советская книга)
     > 
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Фантастический рассказ о том, как из-под земли на дачном участке начали появляться предметы и мёртвые существа, которые потом оживали. Жутковато!
 
 * Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
-    > Категорически люди обычно отрицают  только то, что было на самом деле.
 
 * Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
 
@@ -28,20 +31,18 @@ Do not use pull requests to make changes here.
 
 * Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
 
-* Маскарад на семь персон ~ [parafeks](users/163/16366623-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>105</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>506</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [i_am_john_snow](users/367/367175136-vkontakte)<sup>0</sup> 
 
 
-_22.03.2017 20:34:09_
+_23.03.2017 01:48:58_
