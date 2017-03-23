@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>105</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>106</sup>
 ---
 
 ## 2017
+
+### Вслед за солнцем
+Триш Уайли
+> [2017-03-23] 
+
 
 ### Стать звездой нелегко
 Людмила Леонидова
