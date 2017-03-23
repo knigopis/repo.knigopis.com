@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 58,
+        "updatedAt": "2017-03-23 19:35:57"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "Duxi",
         "booksCount": 4,
         "updatedAt": "2017-03-17 12:02:19"
-    },
-    "374307269-vkontakte": {
-        "id": "374307269-vkontakte",
-        "nickname": "Брусникина",
-        "booksCount": 13,
-        "updatedAt": "2017-03-17 09:06:13"
     }
 }

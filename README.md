@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кот без прикрас ~ [joan789](users/240/2401650-vkontakte)<sup>58</sup>
+    > Слушала аудиокнигу. Затем перечитала в текстовом виде. Моё мнение - именно с этой книги и следует привыкать к Пратчетту. Потому что книга лёгкая, весёлая и о наших шкодливых любимцах ^^ Я как-то даже стерпела пренебрежительное отношение автора к собакам. Хотя, возможно, я становлюсь терпимее с возрастом.
+
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
     > Решил познакомиться с творчеством писателя. Автор уделяет много внимания деталям и описанию героев. Сюжет простой.
     > Желания дальнейшего знакомства пока нет. Видимо не моё.
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/21498344/
 
 * Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
-    > Фантастический рассказ о том, как из-под земли на дачном участке начали появляться предметы и мёртвые существа, которые потом оживали. Жутковато!
 
 * Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
 
-* Как все было ~ [Беска](users/157/1577468-vkontakte)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>32</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>507</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
 [Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
-[Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
 
 
-_23.03.2017 19:29:03_
+_23.03.2017 19:35:57_
