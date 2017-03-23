@@ -36,11 +36,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>507</sup> 
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>105</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>506</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 
 
-_23.03.2017 04:26:27_
+_23.03.2017 09:29:48_
