@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 32,
+        "updatedAt": "2017-03-23 17:30:58"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Брусникина",
         "booksCount": 13,
         "updatedAt": "2017-03-17 09:06:13"
-    },
-    "311057796-yandex": {
-        "id": "311057796-yandex",
-        "nickname": "pkisarov001",
-        "booksCount": 25,
-        "updatedAt": "2017-03-16 20:46:15"
     }
 }

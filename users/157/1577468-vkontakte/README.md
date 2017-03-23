@@ -1,7 +1,12 @@
-# List of books read by [Беска](http://vk.com/id1577468)<sup>31</sup>
+# List of books read by [Беска](http://vk.com/id1577468)<sup>32</sup>
 ---
 
 ## 2017
+
+### Кондуит и Швамбрания
+Лев Кассиль
+> [2017-03-23] 
+
 
 ### Как все было
 Джулиан Барнс

@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>32</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>507</sup> 
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
 [Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
 [Брусникина](users/374/374307269-vkontakte)<sup>13</sup> 
-[pkisarov001](users/311/311057796-yandex)<sup>25</sup> 
 
 
-_23.03.2017 09:29:48_
+_23.03.2017 17:30:58_
