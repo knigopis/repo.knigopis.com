@@ -1,4 +1,10 @@
 {
+    "1389223397787225-facebook": {
+        "id": "1389223397787225-facebook",
+        "nickname": "katrinzetathefirst",
+        "booksCount": 0,
+        "updatedAt": "2017-03-23 04:26:26"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "pkisarov001",
         "booksCount": 25,
         "updatedAt": "2017-03-16 20:46:15"
-    },
-    "367175136-vkontakte": {
-        "id": "367175136-vkontakte",
-        "nickname": "i_am_john_snow",
-        "booksCount": 0,
-        "updatedAt": "2017-03-16 18:50:21"
     }
 }
