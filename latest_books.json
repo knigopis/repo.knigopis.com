@@ -1,4 +1,16 @@
 {
+    "_DMy3-nc_K": {
+        "id": "_DMy3-nc_K",
+        "title": "S.T.A.L.K.E.R Точка падения",
+        "author": "Юрий Бурносов",
+        "notes": "",
+        "createdAt": "2017-03-24 07:13:54",
+        "user": {
+            "id": "414040473-vkontakte",
+            "nickname": "Койнов Александр",
+            "booksCount": 4
+        }
+    },
     "IgMSSia3sG": {
         "id": "IgMSSia3sG",
         "title": "Контрольный выброс",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 15
-        }
-    },
-    "woCRWKrWaQ": {
-        "id": "woCRWKrWaQ",
-        "title": "Десантно-штурмовая бригада. Непридуманный Афган",
-        "author": "Шейнин Артем",
-        "notes": "",
-        "createdAt": "2017-03-21 20:38:10",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 36
         }
     }
 }

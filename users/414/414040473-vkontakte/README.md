@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>3</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>4</sup>
 ---
 
 ## 2016
+
+### S.T.A.L.K.E.R Точка падения
+Юрий Бурносов
+
 
 ### S.T.A.L.K.E.R Контрольный выброс
 Андрей Ливадный
