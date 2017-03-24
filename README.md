@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[koynovaleksandr](users/414/414040473-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>32</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria](users/646/64674343-vkontakte)<sup>0</sup> 
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 [Senarium](users/117/117838096423941527847-google)<sup>2</sup> 
-[Duxi](users/342/342483886-vkontakte)<sup>4</sup> 
 
 
-_23.03.2017 19:35:57_
+_24.03.2017 06:46:31_
