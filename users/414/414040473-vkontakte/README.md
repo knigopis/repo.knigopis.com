@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>9</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>10</sup>
 ---
 
 ## 2016
+
+### S.T.A.L.K.E.R Бумеранг
+Сергей Палий
+
 
 ### S.T.A.L.K.E.R Каратели
 Александр Шакилов
