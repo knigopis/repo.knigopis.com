@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>11</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>12</sup>
 ---
 
 ## 2016
+
+### S.T.A.L.K.E.R Ловчий желаний
+Сергей Вольнов
+
 
 ### S.T.A.L.K.E.R Воины зоны
 Алексей Бобл
