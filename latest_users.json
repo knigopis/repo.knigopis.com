@@ -1,4 +1,10 @@
 {
+    "16501172616331031425-mailru": {
+        "id": "16501172616331031425-mailru",
+        "nickname": "Этерниел 13",
+        "booksCount": 1,
+        "updatedAt": "2017-03-24 09:18:24"
+    },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
         "nickname": "Койнов Александр",
@@ -172,11 +178,5 @@
         "nickname": "aleksey___vladimirovich",
         "booksCount": 0,
         "updatedAt": "2017-03-17 15:03:18"
-    },
-    "117838096423941527847-google": {
-        "id": "117838096423941527847-google",
-        "nickname": "Senarium",
-        "booksCount": 2,
-        "updatedAt": "2017-03-17 14:32:21"
     }
 }
