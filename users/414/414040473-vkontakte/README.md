@@ -1,7 +1,11 @@
-# List of books read by [koynovaleksandr](http://vk.com/id414040473)<sup>2</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>3</sup>
 ---
 
 ## 2016
+
+### Контрольный выброс
+Андрей Ливадный
+
 
 ### Варкрафт
 Кристи Голден
