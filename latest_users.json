@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "koynovaleksandr",
+        "booksCount": 0,
+        "updatedAt": "2017-03-24 06:46:29"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "Senarium",
         "booksCount": 2,
         "updatedAt": "2017-03-17 14:32:21"
-    },
-    "342483886-vkontakte": {
-        "id": "342483886-vkontakte",
-        "nickname": "Duxi",
-        "booksCount": 4,
-        "updatedAt": "2017-03-17 12:02:19"
     }
 }
