@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>5</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>6</sup>
 ---
 
 ## 2016
+
+### S.T.A.L.K.E.R Остальное-судьба
+Михаил Успенский
+
 
 ### S.T.A.L.K.E.R Игра в поддавки
 Александр Митич
