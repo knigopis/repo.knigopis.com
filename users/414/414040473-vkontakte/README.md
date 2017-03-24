@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>10</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>11</sup>
 ---
 
 ## 2016
+
+### S.T.A.L.K.E.R Воины зоны
+Алексей Бобл
+
 
 ### S.T.A.L.K.E.R Бумеранг
 Сергей Палий
