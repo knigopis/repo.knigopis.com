@@ -1,7 +1,11 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>12</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>13</sup>
 ---
 
 ## 2016
+
+### Кваzи
+Сергей Лукьяненко
+
 
 ### S.T.A.L.K.E.R Ловчий желаний
 Сергей Вольнов
