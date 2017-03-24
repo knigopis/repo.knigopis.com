@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Этерниел 13](users/165/16501172616331031425-mailru)<sup>2</sup> 
+[Этерниел 13](users/165/16501172616331031425-mailru)<sup>1</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_24.03.2017 09:20:17_
+_24.03.2017 09:21:12_
