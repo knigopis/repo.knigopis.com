@@ -1,4 +1,16 @@
 {
+    "sepGwlpdGp": {
+        "id": "sepGwlpdGp",
+        "title": "Семнадцатый век. Между Европой и Азией",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-03-25 09:38:38",
+        "user": {
+            "id": "107233253672325058205-google",
+            "nickname": "345mhz",
+            "booksCount": 4
+        }
+    },
     "CJ40HB_YDs": {
         "id": "CJ40HB_YDs",
         "title": "От Ивана III до Бориса Годунова. Между Азией и Европой",
@@ -345,18 +357,6 @@
             "id": "16501172616331031425-mailru",
             "nickname": "Этерниел 13",
             "booksCount": 1
-        }
-    },
-    "yp2zkRK_GA": {
-        "id": "yp2zkRK_GA",
-        "title": "Помпеи",
-        "author": "Роберт Харрис",
-        "notes": "",
-        "createdAt": "2017-03-24 07:44:47",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 16
         }
     }
 }
