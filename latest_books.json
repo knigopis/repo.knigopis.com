@@ -1,4 +1,16 @@
 {
+    "l-T2Pq2MOw": {
+        "id": "l-T2Pq2MOw",
+        "title": "Спящее убийство",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 14",
+        "createdAt": "2017-03-25 08:07:33",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 91
+        }
+    },
     "B2KyofWBe5": {
         "id": "B2KyofWBe5",
         "title": "Немезида",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 13
-        }
-    },
-    "qxJFHp0Smj": {
-        "id": "qxJFHp0Smj",
-        "title": "S.T.A.L.K.E.R Ловчий желаний",
-        "author": "Сергей Вольнов",
-        "notes": "",
-        "createdAt": "2017-03-24 07:18:55",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 12
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Спящее убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>91</sup>
+    > Мисс Марпл 14
+
 * Немезида ~ [Йолант](users/104/104690883692185089260-google)<sup>90</sup>
     > Мисс Марпл 13
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мисс Марпл 12
 
 * Карибская тайна ~ [Йолант](users/104/104690883692185089260-google)<sup>88</sup>
-    > Мисс Марпл 11
 
 * Разбилось зеркало, звеня... ~ [Йолант](users/104/104690883692185089260-google)<sup>87</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Каникулы в Лимстоке ~ [Йолант](users/104/104690883692185089260-google)<sup>82</sup>
 
-* Труп в библиотеке ~ [Йолант](users/104/104690883692185089260-google)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>90</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>91</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 08:07:03_
+_25.03.2017 08:07:34_
