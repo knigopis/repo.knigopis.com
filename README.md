@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>68</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>67</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
 [dmitry](users/107/107235589178771063989-google)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_24.03.2017 09:21:15_
+_25.03.2017 07:39:53_
