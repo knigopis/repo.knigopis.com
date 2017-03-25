@@ -1,4 +1,16 @@
 {
+    "CJ40HB_YDs": {
+        "id": "CJ40HB_YDs",
+        "title": "От Ивана III до Бориса Годунова. Между Азией и Европой",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-03-25 09:38:24",
+        "user": {
+            "id": "107233253672325058205-google",
+            "nickname": "345mhz",
+            "booksCount": 3
+        }
+    },
     "tkDtyPTSy3": {
         "id": "tkDtyPTSy3",
         "title": "Ордынский период. Часть Азии",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 16
-        }
-    },
-    "7Z4grlfK_L": {
-        "id": "7Z4grlfK_L",
-        "title": "Красавица",
-        "author": "Тори Хейден",
-        "notes": "",
-        "createdAt": "2017-03-24 07:44:30",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 15
         }
     }
 }
