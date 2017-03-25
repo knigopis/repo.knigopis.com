@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 139,
+        "updatedAt": "2017-03-25 12:50:37"
+    },
     "872361436199401-facebook": {
         "id": "872361436199401-facebook",
         "nickname": "genrih59",
@@ -172,11 +178,5 @@
         "nickname": "Derek777",
         "booksCount": 24,
         "updatedAt": "2017-03-18 11:27:40"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 28,
-        "updatedAt": "2017-03-18 11:18:34"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
+    > Замечательная книга, знания веками концентрировались. Представляет собой краткие советы по искусству ведения войны. Особую ценность заключается в том что книгу можно спроектировать на другие жизненные ситуации, и для современных реалий в том числе. С первого раза все толком не продумал, буду еще перечитывать.
+
 * Спящее убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>91</sup>
     > Мисс Марпл 14
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мисс Марпл 13
 
 * Отель "Бертрам" ~ [Йолант](users/104/104690883692185089260-google)<sup>89</sup>
-    > Мисс Марпл 12
 
 * Карибская тайна ~ [Йолант](users/104/104690883692185089260-google)<sup>88</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Объявлено убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>83</sup>
 
-* Каникулы в Лимстоке ~ [Йолант](users/104/104690883692185089260-google)<sup>82</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>508</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 [Derek777](users/153/15386028-yandex)<sup>24</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>28</sup> 
 
 
-_25.03.2017 11:16:16_
+_25.03.2017 12:50:37_
