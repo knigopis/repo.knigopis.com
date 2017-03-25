@@ -1,4 +1,16 @@
 {
+    "Jw5dqfXfTm": {
+        "id": "Jw5dqfXfTm",
+        "title": "Полное погружение",
+        "author": "Эрин Даттон",
+        "notes": "Лесбийский роман",
+        "createdAt": "2017-03-25 07:41:45",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 70
+        }
+    },
     "Uvc4VselwS": {
         "id": "Uvc4VselwS",
         "title": "Кот без прикрас",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 105
-        }
-    },
-    "ibM9cl8VNT": {
-        "id": "ibM9cl8VNT",
-        "title": "Caledon Local 21",
-        "author": "Элиот",
-        "notes": "10 из 10",
-        "createdAt": "2017-03-09 08:55:27",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 104
         }
     }
 }

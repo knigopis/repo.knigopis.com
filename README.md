@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полное погружение ~ [Йолант](users/104/104690883692185089260-google)<sup>70</sup>
+    > Лесбийский роман
+
 * Кот без прикрас ~ [joan789](users/240/2401650-vkontakte)<sup>58</sup>
     > Слушала аудиокнигу. Затем перечитала в текстовом виде. Моё мнение - именно с этой книги и следует привыкать к Пратчетту. Потому что книга лёгкая, весёлая и о наших шкодливых любимцах ^^ Я как-то даже стерпела пренебрежительное отношение автора к собакам. Хотя, возможно, я становлюсь терпимее с возрастом.
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Желания дальнейшего знакомства пока нет. Видимо не моё.
 
 * Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
-    > в процессе (ну ОООЧЕНЬ много воды, видно, что советская книга)
-    > 
-    > https://www.ozon.ru/context/detail/id/21498344/
 
 * Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
 
@@ -29,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сёгун. Книга 2 ~ [Garka](users/115/115753719718250012620-google)<sup>139</sup>
 
-* "Ареал. Вычеркнутые из жизни" ~ [Брусникина](users/374/374307269-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>69</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>70</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 07:40:39_
+_25.03.2017 07:41:45_

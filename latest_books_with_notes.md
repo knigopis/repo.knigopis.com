@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Полное погружение ~ [Йолант](users/104/104690883692185089260-google)<sup>70</sup>
 * Кот без прикрас ~ [joan789](users/240/2401650-vkontakte)<sup>58</sup>
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
 * Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
@@ -30,7 +31,6 @@
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
 * Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
-* Caledon Local 21 ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>104</sup>
 
 
-_23.03.2017 19:35:57_
+_25.03.2017 07:41:45_
