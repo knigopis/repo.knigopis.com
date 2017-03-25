@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 [souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
 [Derek777](users/153/15386028-yandex)<sup>27</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>66</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
-[dmitry](users/107/107235589178771063989-google)<sup>0</sup> 
 
 
-_25.03.2017 17:38:44_
+_25.03.2017 17:40:03_
