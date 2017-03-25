@@ -1,4 +1,16 @@
 {
+    "VBRj8Tlcxy": {
+        "id": "VBRj8Tlcxy",
+        "title": "Труп в библиотеке",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 03",
+        "createdAt": "2017-03-25 08:00:45",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 81
+        }
+    },
     "bjSf43Zbwn": {
         "id": "bjSf43Zbwn",
         "title": "Тринадцать загадочных случаев",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 30
-        }
-    },
-    "c-kBW9p7v6": {
-        "id": "c-kBW9p7v6",
-        "title": "Подходящая кандидатура",
-        "author": "Чарльз Бронстоун",
-        "notes": "7 из 10",
-        "createdAt": "2017-03-10 00:33:30",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 110
         }
     }
 }
