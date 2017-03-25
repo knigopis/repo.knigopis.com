@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[345mhz](users/107/107233253672325058205-google)<sup>2</sup> 
 [345mhz](users/100/100057153114799209630-google)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>92</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>24</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>28</sup> 
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
-[victoria](users/646/64674343-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 09:36:40_
+_25.03.2017 09:37:57_

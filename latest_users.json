@@ -1,4 +1,10 @@
 {
+    "107233253672325058205-google": {
+        "id": "107233253672325058205-google",
+        "nickname": "345mhz",
+        "booksCount": 2,
+        "updatedAt": "2017-03-25 09:37:57"
+    },
     "100057153114799209630-google": {
         "id": "100057153114799209630-google",
         "nickname": "345mhz",
@@ -172,11 +178,5 @@
         "nickname": "Виктория Евгеньева",
         "booksCount": 0,
         "updatedAt": "2017-03-18 11:05:50"
-    },
-    "64674343-vkontakte": {
-        "id": "64674343-vkontakte",
-        "nickname": "victoria",
-        "booksCount": 0,
-        "updatedAt": "2017-03-18 11:04:09"
     }
 }
