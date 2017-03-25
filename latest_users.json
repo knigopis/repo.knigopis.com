@@ -1,4 +1,10 @@
 {
+    "souffle_masha-lastfm": {
+        "id": "souffle_masha-lastfm",
+        "nickname": "souffle_masha",
+        "booksCount": 0,
+        "updatedAt": "2017-03-25 17:38:43"
+    },
     "15386028-yandex": {
         "id": "15386028-yandex",
         "nickname": "Derek777",
@@ -172,11 +178,5 @@
         "nickname": "dmitry",
         "booksCount": 0,
         "updatedAt": "2017-03-19 06:00:00"
-    },
-    "90113106-vkontakte": {
-        "id": "90113106-vkontakte",
-        "nickname": "Darya",
-        "booksCount": 0,
-        "updatedAt": "2017-03-19 03:55:38"
     }
 }
