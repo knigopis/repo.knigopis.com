@@ -1,4 +1,16 @@
 {
+    "B2KyofWBe5": {
+        "id": "B2KyofWBe5",
+        "title": "Немезида",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 13",
+        "createdAt": "2017-03-25 08:07:03",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 90
+        }
+    },
     "CRSWfjOEQy": {
         "id": "CRSWfjOEQy",
         "title": "Отель \"Бертрам\"",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 12
-        }
-    },
-    "zZoUnrbgJ3": {
-        "id": "zZoUnrbgJ3",
-        "title": "S.T.A.L.K.E.R Воины зоны",
-        "author": "Алексей Бобл",
-        "notes": "",
-        "createdAt": "2017-03-24 07:18:17",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 11
         }
     }
 }

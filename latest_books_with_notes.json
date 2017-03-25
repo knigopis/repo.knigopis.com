@@ -1,4 +1,16 @@
 {
+    "B2KyofWBe5": {
+        "id": "B2KyofWBe5",
+        "title": "Немезида",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 13",
+        "createdAt": "2017-03-25 08:07:03",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 90
+        }
+    },
     "CRSWfjOEQy": {
         "id": "CRSWfjOEQy",
         "title": "Отель \"Бертрам\"",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 31
-        }
-    },
-    "4bnwJ-T8HO": {
-        "id": "4bnwJ-T8HO",
-        "title": "Маскарад на семь персон",
-        "author": "Олег Рой",
-        "notes": "Встреча выпускников, один самый бедный стал богатым. Аудиокнига. Такое. Но под работу слушалось норм. Предсказуемый финал.",
-        "createdAt": "2017-03-16 12:42:50",
-        "user": {
-            "id": "16366623-vkontakte",
-            "nickname": "parafeks",
-            "booksCount": 4
         }
     }
 }

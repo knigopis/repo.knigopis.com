@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Немезида ~ [Йолант](users/104/104690883692185089260-google)<sup>90</sup>
+    > Мисс Марпл 13
+
 * Отель "Бертрам" ~ [Йолант](users/104/104690883692185089260-google)<sup>89</sup>
     > Мисс Марпл 12
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мисс Марпл 11
 
 * Разбилось зеркало, звеня... ~ [Йолант](users/104/104690883692185089260-google)<sup>87</sup>
-    > Мисс Марпл 10
 
 * В 4.50 из Паддингтона ~ [Йолант](users/104/104690883692185089260-google)<sup>86</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Труп в библиотеке ~ [Йолант](users/104/104690883692185089260-google)<sup>81</sup>
 
-* Тринадцать загадочных случаев ~ [Йолант](users/104/104690883692185089260-google)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>89</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>90</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 08:06:29_
+_25.03.2017 08:07:03_
