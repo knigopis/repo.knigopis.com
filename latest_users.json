@@ -1,4 +1,10 @@
 {
+    "872361436199401-facebook": {
+        "id": "872361436199401-facebook",
+        "nickname": "genrih59",
+        "booksCount": 20,
+        "updatedAt": "2017-03-25 11:15:53"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 28,
         "updatedAt": "2017-03-18 11:18:34"
-    },
-    "10205921887061811730-mailru": {
-        "id": "10205921887061811730-mailru",
-        "nickname": "Виктория Евгеньева",
-        "booksCount": 0,
-        "updatedAt": "2017-03-18 11:05:50"
     }
 }
