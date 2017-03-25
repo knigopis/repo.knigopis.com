@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>68</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>69</sup>
 ---
 
 ## 2017
+
+### Багровый Пик
+Нэнси Холдер
+> [2017-03-25] 
+
 
 ### Тринадцатая Сказка
 Диана Сеттерфилд

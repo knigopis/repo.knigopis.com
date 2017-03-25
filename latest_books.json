@@ -1,4 +1,16 @@
 {
+    "7cGnDNksd-": {
+        "id": "7cGnDNksd-",
+        "title": "Багровый Пик",
+        "author": "Нэнси Холдер",
+        "notes": "",
+        "createdAt": "2017-03-25 10:07:22",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 69
+        }
+    },
     "sepGwlpdGp": {
         "id": "sepGwlpdGp",
         "title": "Семнадцатый век. Между Европой и Азией",
@@ -345,18 +357,6 @@
             "id": "16501172616331031425-mailru",
             "nickname": "Этерниел 13",
             "booksCount": 2
-        }
-    },
-    "BkmT4s_v2a": {
-        "id": "BkmT4s_v2a",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-03-24 09:18:24",
-        "user": {
-            "id": "16501172616331031425-mailru",
-            "nickname": "Этерниел 13",
-            "booksCount": 1
         }
     }
 }
