@@ -1,4 +1,16 @@
 {
+    "bjSf43Zbwn": {
+        "id": "bjSf43Zbwn",
+        "title": "Тринадцать загадочных случаев",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 02",
+        "createdAt": "2017-03-25 07:59:52",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 80
+        }
+    },
     "tw7ql13_Bn": {
         "id": "tw7ql13_Bn",
         "title": "Убийство в доме викария",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "koynovaleksandr",
             "booksCount": 2
-        }
-    },
-    "cH2MOND9F3": {
-        "id": "cH2MOND9F3",
-        "title": "Варкрафт Дуротан",
-        "author": "Кристи Голден",
-        "notes": "",
-        "createdAt": "2017-03-24 06:47:45",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "koynovaleksandr",
-            "booksCount": 1
         }
     }
 }
