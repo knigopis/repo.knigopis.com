@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство в доме викария ~ [Йолант](users/104/104690883692185089260-google)<sup>79</sup>
+    > Мисс Марпл 01
+
 * Академия родная ~ [Йолант](users/104/104690883692185089260-google)<sup>76</sup>
     > Книга о военно-медицинской академии глазами студента
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лесбийский "любовный роман"
 
 * Следствие ведёт Хантер ~ [Йолант](users/104/104690883692185089260-google)<sup>74</sup>
-    > Лесбийский детектив
 
 * За хвойной стеной ~ [Йолант](users/104/104690883692185089260-google)<sup>73</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
 
-* Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>78</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>79</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 07:58:08_
+_25.03.2017 07:59:15_
