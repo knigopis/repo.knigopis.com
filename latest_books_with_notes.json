@@ -1,4 +1,16 @@
 {
+    "BO7hNwebr0": {
+        "id": "BO7hNwebr0",
+        "title": "Средний пол",
+        "author": "Джеффри Евгенидис",
+        "notes": "Очень интересное творение о феномене интерсексуальности и интерсекс-людей.",
+        "createdAt": "2017-03-25 07:50:22",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 72
+        }
+    },
     "U3wiVKnJQt": {
         "id": "U3wiVKnJQt",
         "title": "Пока я жива",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 57
-        }
-    },
-    "_AglbK1yCw": {
-        "id": "_AglbK1yCw",
-        "title": "Волны гасят ветер",
-        "author": "А и Б. Стругацкие",
-        "notes": "аудиокнига",
-        "createdAt": "2017-03-09 14:53:19",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 6
         }
     }
 }

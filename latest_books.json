@@ -1,4 +1,16 @@
 {
+    "BO7hNwebr0": {
+        "id": "BO7hNwebr0",
+        "title": "Средний пол",
+        "author": "Джеффри Евгенидис",
+        "notes": "Очень интересное творение о феномене интерсексуальности и интерсекс-людей.",
+        "createdAt": "2017-03-25 07:50:22",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 72
+        }
+    },
     "U3wiVKnJQt": {
         "id": "U3wiVKnJQt",
         "title": "Пока я жива",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 105
-        }
-    },
-    "PCIjpX42QR": {
-        "id": "PCIjpX42QR",
-        "title": "Кот без дураков",
-        "author": "Прэтчетт Терри",
-        "notes": "",
-        "createdAt": "2017-03-22 11:00:55",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 506
         }
     }
 }
