@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>65</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>66</sup>
 ---
 
 ## 2017
+
+### Цветы для Элджернона
+Дэниел Киз
+> [2017-03-25] 
+
 
 ### Убийство Роджера Экройда
 Агата Кристи

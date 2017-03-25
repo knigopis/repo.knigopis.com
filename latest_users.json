@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 66,
+        "updatedAt": "2017-03-25 14:58:29"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 139,
         "updatedAt": "2017-03-18 19:08:04"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 24,
-        "updatedAt": "2017-03-18 11:27:40"
     }
 }

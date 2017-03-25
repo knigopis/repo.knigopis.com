@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>66</sup> 
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>508</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dmitry](users/107/107235589178771063989-google)<sup>0</sup> 
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>139</sup> 
-[Derek777](users/153/15386028-yandex)<sup>24</sup> 
 
 
-_25.03.2017 12:50:37_
+_25.03.2017 14:58:29_
