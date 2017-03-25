@@ -1,4 +1,16 @@
 {
+    "5O0QKzlhM9": {
+        "id": "5O0QKzlhM9",
+        "title": "Последние дела мисс Марпл (сборник)",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-03-25 08:08:00",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 92
+        }
+    },
     "l-T2Pq2MOw": {
         "id": "l-T2Pq2MOw",
         "title": "Спящее убийство",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 14
-        }
-    },
-    "jySEUCk4hi": {
-        "id": "jySEUCk4hi",
-        "title": "Кваzи",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-03-24 07:19:29",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 13
         }
     }
 }
