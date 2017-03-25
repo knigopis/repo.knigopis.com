@@ -1,4 +1,16 @@
 {
+    "H6LzqOqtYw": {
+        "id": "H6LzqOqtYw",
+        "title": "Женщины (2 раз)",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-03-25 11:16:16",
+        "user": {
+            "id": "872361436199401-facebook",
+            "nickname": "genrih59",
+            "booksCount": 21
+        }
+    },
     "QN_2bkKURc": {
         "id": "QN_2bkKURc",
         "title": "Макулатура",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 70
-        }
-    },
-    "k87Xp9pXwJ": {
-        "id": "k87Xp9pXwJ",
-        "title": "35 кило надежды",
-        "author": "Анна Гавальда",
-        "notes": "",
-        "createdAt": "2017-03-25 07:40:39",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 69
         }
     }
 }
