@@ -1,4 +1,16 @@
 {
+    "B5vcCKATnP": {
+        "id": "B5vcCKATnP",
+        "title": "Объявлено убийство",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 05",
+        "createdAt": "2017-03-25 08:02:31",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 83
+        }
+    },
     "Ozg_-k4rWW": {
         "id": "Ozg_-k4rWW",
         "title": "Каникулы в Лимстоке",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 112
-        }
-    },
-    "MtARi89Aag": {
-        "id": "MtARi89Aag",
-        "title": "Перекурщики",
-        "author": "Стивен Кинг",
-        "notes": "9 из 10",
-        "createdAt": "2017-03-10 11:48:07",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 111
         }
     }
 }
