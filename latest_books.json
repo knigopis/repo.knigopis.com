@@ -1,4 +1,16 @@
 {
+    "jV4e3kBvrq": {
+        "id": "jV4e3kBvrq",
+        "title": "Пережить зиму в Стокгольме",
+        "author": "Агнета Плейель",
+        "notes": "",
+        "createdAt": "2017-03-25 10:28:40",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 508
+        }
+    },
     "7cGnDNksd-": {
         "id": "7cGnDNksd-",
         "title": "Багровый Пик",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 68
-        }
-    },
-    "ZWwJ6wbXeS": {
-        "id": "ZWwJ6wbXeS",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-03-24 09:20:17",
-        "user": {
-            "id": "16501172616331031425-mailru",
-            "nickname": "Этерниел 13",
-            "booksCount": 2
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>507</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>508</sup>
 ---
 
 ## 2017
+
+### Пережить зиму в Стокгольме
+Агнета Плейель
+> [2017-03] 
+
 
 ### Повести покойного Ивана Петровича Белкина
 Александр Пушкин

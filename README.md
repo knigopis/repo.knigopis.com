@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>508</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>69</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 [345mhz](users/100/100057153114799209630-google)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>32</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>507</sup> 
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория Евгеньева](users/102/10205921887061811730-mailru)<sup>0</sup> 
 
 
-_25.03.2017 10:07:22_
+_25.03.2017 10:28:41_
