@@ -1,4 +1,16 @@
 {
+    "f7YEmKpxEU": {
+        "id": "f7YEmKpxEU",
+        "title": "Криминальные аборты",
+        "author": "Андрей Ломачинский",
+        "notes": "",
+        "createdAt": "2017-03-25 07:58:08",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 78
+        }
+    },
     "I48R9M19I3": {
         "id": "I48R9M19I3",
         "title": "Курьезы военной медицины и экспертизы",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 58
-        }
-    },
-    "fQ7sSkuUdu": {
-        "id": "fQ7sSkuUdu",
-        "title": "Вслед за солнцем",
-        "author": "Триш Уайли",
-        "notes": "",
-        "createdAt": "2017-03-23 19:29:03",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 106
         }
     }
 }
