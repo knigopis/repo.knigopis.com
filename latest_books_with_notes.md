@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Каникулы в Лимстоке ~ [Йолант](users/104/104690883692185089260-google)<sup>82</sup>
 * Труп в библиотеке ~ [Йолант](users/104/104690883692185089260-google)<sup>81</sup>
 * Тринадцать загадочных случаев ~ [Йолант](users/104/104690883692185089260-google)<sup>80</sup>
 * Убийство в доме викария ~ [Йолант](users/104/104690883692185089260-google)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
 * Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 * Перекурщики ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>111</sup>
-* Восток, Запад ~ [Беска](users/157/1577468-vkontakte)<sup>30</sup>
 
 
-_25.03.2017 08:00:46_
+_25.03.2017 08:01:35_
