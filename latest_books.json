@@ -1,4 +1,16 @@
 {
+    "CRSWfjOEQy": {
+        "id": "CRSWfjOEQy",
+        "title": "Отель \"Бертрам\"",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 12",
+        "createdAt": "2017-03-25 08:06:29",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 89
+        }
+    },
     "uwn1G7OeUe": {
         "id": "uwn1G7OeUe",
         "title": "Карибская тайна",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 11
-        }
-    },
-    "fthXzmaY_i": {
-        "id": "fthXzmaY_i",
-        "title": "S.T.A.L.K.E.R Бумеранг",
-        "author": "Сергей Палий",
-        "notes": "",
-        "createdAt": "2017-03-24 07:17:47",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 10
         }
     }
 }
