@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
 * Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
 * Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
@@ -30,7 +31,6 @@
 * Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
 * Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
 * Записки старого козла ~ [Ангелина](users/837/83788782-vkontakte)<sup>50</sup>
-* История твоей жизни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>71</sup>
 
 
-_25.03.2017 15:26:42_
+_25.03.2017 15:30:30_
