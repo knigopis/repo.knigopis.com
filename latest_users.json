@@ -1,4 +1,10 @@
 {
+    "15386028-yandex": {
+        "id": "15386028-yandex",
+        "nickname": "Derek777",
+        "booksCount": 25,
+        "updatedAt": "2017-03-25 15:21:51"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Darya",
         "booksCount": 0,
         "updatedAt": "2017-03-19 03:55:38"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 139,
-        "updatedAt": "2017-03-18 19:08:04"
     }
 }

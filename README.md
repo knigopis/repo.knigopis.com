@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
+    > Короткий. Идея воздушного пространства между Землёй и Луной. фантастика 1780 года. 5 из 10.
+
 * Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
     > Замечательная книга, знания веками концентрировались. Представляет собой краткие советы по искусству ведения войны. Особую ценность заключается в том что книгу можно спроектировать на другие жизненные ситуации, и для современных реалий в том числе. С первого раза все толком не продумал, буду еще перечитывать.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мисс Марпл 14
 
 * Немезида ~ [Йолант](users/104/104690883692185089260-google)<sup>90</sup>
-    > Мисс Марпл 13
 
 * Отель "Бертрам" ~ [Йолант](users/104/104690883692185089260-google)<sup>89</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Игра зеркал ~ [Йолант](users/104/104690883692185089260-google)<sup>84</sup>
 
-* Объявлено убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>25</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>66</sup> 
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [makedon](users/323/323691055-vkontakte)<sup>0</sup> 
 [dmitry](users/107/107235589178771063989-google)<sup>0</sup> 
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>139</sup> 
 
 
-_25.03.2017 14:58:29_
+_25.03.2017 15:21:51_
