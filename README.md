@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
+    > Короткий. Выдумки на тему кометы Галлея. 1825 г. 5 из 10
+
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
     > Короткий. Идея воздушного пространства между Землёй и Луной. фантастика 1780 года. 5 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Замечательная книга, знания веками концентрировались. Представляет собой краткие советы по искусству ведения войны. Особую ценность заключается в том что книгу можно спроектировать на другие жизненные ситуации, и для современных реалий в том числе. С первого раза все толком не продумал, буду еще перечитывать.
 
 * Спящее убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>91</sup>
-    > Мисс Марпл 14
 
 * Немезида ~ [Йолант](users/104/104690883692185089260-google)<sup>90</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зернышки в кармане ~ [Йолант](users/104/104690883692185089260-google)<sup>85</sup>
 
-* Игра зеркал ~ [Йолант](users/104/104690883692185089260-google)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>25</sup> 
+[Derek777](users/153/15386028-yandex)<sup>26</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>66</sup> 
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Darya](users/901/90113106-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 15:21:51_
+_25.03.2017 15:26:42_
