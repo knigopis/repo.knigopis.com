@@ -1,4 +1,16 @@
 {
+    "A_lmRx8NW2": {
+        "id": "A_lmRx8NW2",
+        "title": "Следствие ведёт Хантер",
+        "author": "Джерри Хилл",
+        "notes": "Лесбийский детектив",
+        "createdAt": "2017-03-25 07:53:04",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 74
+        }
+    },
     "iNpFfjI3r7": {
         "id": "iNpFfjI3r7",
         "title": "За хвойной стеной",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 73
-        }
-    },
-    "XqvqCKDoff": {
-        "id": "XqvqCKDoff",
-        "title": "Хрестоматия по возрастной и педагогической психологии",
-        "author": "",
-        "notes": "в процессе (ну ОООЧЕНЬ много воды, видно, что советская книга)\n\nhttps://www.ozon.ru/context/detail/id/21498344/",
-        "createdAt": "2017-03-22 20:34:09",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 94
         }
     }
 }
