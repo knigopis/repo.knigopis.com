@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В 4.50 из Паддингтона ~ [Йолант](users/104/104690883692185089260-google)<sup>86</sup>
+    > Мисс Марпл 08
+
 * Зернышки в кармане ~ [Йолант](users/104/104690883692185089260-google)<sup>85</sup>
     > Мисс Марпл 07
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мисс Марпл 06. Также "Фокус с зеркалами".
 
 * Объявлено убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>83</sup>
-    > Мисс Марпл 05
 
 * Каникулы в Лимстоке ~ [Йолант](users/104/104690883692185089260-google)<sup>82</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я больше не одна ~ [Йолант](users/104/104690883692185089260-google)<sup>75</sup>
 
-* Следствие ведёт Хантер ~ [Йолант](users/104/104690883692185089260-google)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>85</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>86</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aleksey___vladimirovich](users/769/76995116-vkontakte)<sup>0</sup> 
 
 
-_25.03.2017 08:03:59_
+_25.03.2017 08:04:32_
