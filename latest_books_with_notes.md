@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пока я жива ~ [Йолант](users/104/104690883692185089260-google)<sup>71</sup>
 * Полное погружение ~ [Йолант](users/104/104690883692185089260-google)<sup>70</sup>
 * Кот без прикрас ~ [joan789](users/240/2401650-vkontakte)<sup>58</sup>
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
@@ -30,7 +31,6 @@
 * Сёгун. Книга 1 ~ [Garka](users/115/115753719718250012620-google)<sup>138</sup>
 * Цвет волшебства ~ [joan789](users/240/2401650-vkontakte)<sup>57</sup>
 * Волны гасят ветер ~ [miatka](users/351/35140437-vkontakte)<sup>6</sup>
-* Сова ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>105</sup>
 
 
-_25.03.2017 07:41:45_
+_25.03.2017 07:46:46_
