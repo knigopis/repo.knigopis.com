@@ -1,4 +1,16 @@
 {
+    "TVSxBnDS2U": {
+        "id": "TVSxBnDS2U",
+        "title": "Игра зеркал",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 06. Также \"Фокус с зеркалами\".",
+        "createdAt": "2017-03-25 08:03:31",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 84
+        }
+    },
     "B5vcCKATnP": {
         "id": "B5vcCKATnP",
         "title": "Объявлено убийство",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 34
-        }
-    },
-    "BOLNEYoqfx": {
-        "id": "BOLNEYoqfx",
-        "title": "Тайная комната",
-        "author": "Тырин Михаил",
-        "notes": "1 из 10",
-        "createdAt": "2017-03-10 12:25:04",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 112
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Игра зеркал ~ [Йолант](users/104/104690883692185089260-google)<sup>84</sup>
 * Объявлено убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>83</sup>
 * Каникулы в Лимстоке ~ [Йолант](users/104/104690883692185089260-google)<sup>82</sup>
 * Труп в библиотеке ~ [Йолант](users/104/104690883692185089260-google)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Сильмариллион ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 * Анафем ~ [Chiffi](users/105/105831994080785626680-google)<sup>6</sup>
 * Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend ~ [exulted](users/100/100599204551896265722-google)<sup>34</sup>
-* Тайная комната ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>112</sup>
 
 
-_25.03.2017 08:02:31_
+_25.03.2017 08:03:31_
