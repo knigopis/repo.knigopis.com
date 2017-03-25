@@ -1,4 +1,16 @@
 {
+    "uwn1G7OeUe": {
+        "id": "uwn1G7OeUe",
+        "title": "Карибская тайна",
+        "author": "Агата Кристи",
+        "notes": "Мисс Марпл 11",
+        "createdAt": "2017-03-25 08:05:49",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 88
+        }
+    },
     "dZ-iIyo_Mw": {
         "id": "dZ-iIyo_Mw",
         "title": "Разбилось зеркало, звеня...",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 10
-        }
-    },
-    "9viB3v7Mnh": {
-        "id": "9viB3v7Mnh",
-        "title": "S.T.A.L.K.E.R Каратели",
-        "author": "Александр Шакилов",
-        "notes": "",
-        "createdAt": "2017-03-24 07:17:11",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 9
         }
     }
 }
