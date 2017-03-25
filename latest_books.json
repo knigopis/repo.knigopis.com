@@ -1,4 +1,16 @@
 {
+    "9w_YK5F8qL": {
+        "id": "9w_YK5F8qL",
+        "title": "Академия родная",
+        "author": "Андрей Ломачинский",
+        "notes": "Книга о военно-медицинской академии глазами студента",
+        "createdAt": "2017-03-25 07:56:42",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 76
+        }
+    },
     "nOxmoDYB1I": {
         "id": "nOxmoDYB1I",
         "title": "Я больше не одна",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 32
-        }
-    },
-    "MYcsOLR_JY": {
-        "id": "MYcsOLR_JY",
-        "title": "Повести покойного Ивана Петровича Белкина",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2017-03-23 09:29:47",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 507
         }
     }
 }
