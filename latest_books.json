@@ -1,4 +1,16 @@
 {
+    "iNpFfjI3r7": {
+        "id": "iNpFfjI3r7",
+        "title": "За хвойной стеной",
+        "author": "Джерри Хилл",
+        "notes": "Лесбийский \"женский любовный роман\"",
+        "createdAt": "2017-03-25 07:52:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 73
+        }
+    },
     "BO7hNwebr0": {
         "id": "BO7hNwebr0",
         "title": "Средний пол",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 94
-        }
-    },
-    "januLfqGJK": {
-        "id": "januLfqGJK",
-        "title": "Стать звездой нелегко",
-        "author": "Людмила Леонидова",
-        "notes": "",
-        "createdAt": "2017-03-22 19:22:25",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 105
         }
     }
 }
