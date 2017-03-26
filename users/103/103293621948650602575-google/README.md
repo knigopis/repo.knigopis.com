@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>69</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>70</sup>
 ---
 
 ## 2017
+
+### Показания Рэндольфа Картера (рассказ)
+Говард Лавкрафт
+> [2017-03-25] 
+
 
 ### Багровый Пик
 Нэнси Холдер
