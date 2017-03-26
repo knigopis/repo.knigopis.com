@@ -1,12 +1,3 @@
-# List of books read by [Reydzi](http://vk.com/id72921911)<sup>1</sup>
+# List of books read by [Reydzi](http://vk.com/id72921911)<sup>0</sup>
 ---
-
-## 2015
-
-### Граф Монте-Кристо
-Александр Дюма
-> [2015-01] Любимая книга. 
-> "Ждать и надеяться, ждать...и надеяться!"
-
-
 
