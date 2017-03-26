@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 509,
+        "updatedAt": "2017-03-26 11:22:17"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Mira R",
@@ -40,12 +46,6 @@
         "nickname": "genrih59",
         "booksCount": 21,
         "updatedAt": "2017-03-25 11:16:16"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 508,
-        "updatedAt": "2017-03-25 10:28:40"
     },
     "107233253672325058205-google": {
         "id": "107233253672325058205-google",

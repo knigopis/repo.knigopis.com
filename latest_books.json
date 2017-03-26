@@ -1,4 +1,16 @@
 {
+    "Khyj6aUAzR": {
+        "id": "Khyj6aUAzR",
+        "title": "О, я от призраков больна",
+        "author": "Алан Брэдли",
+        "notes": "",
+        "createdAt": "2017-03-26 11:22:17",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 509
+        }
+    },
     "FvuBbptfO4": {
         "id": "FvuBbptfO4",
         "title": "Показания Рэндольфа Картера (рассказ)",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 77
-        }
-    },
-    "9w_YK5F8qL": {
-        "id": "9w_YK5F8qL",
-        "title": "Академия родная",
-        "author": "Андрей Ломачинский",
-        "notes": "Книга о военно-медицинской академии глазами студента",
-        "createdAt": "2017-03-25 07:56:42",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 76
         }
     }
 }
