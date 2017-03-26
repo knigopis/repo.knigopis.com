@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[aleks_kud](users/479/4794559699-twitter)<sup>0</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>509</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 
 
-_26.03.2017 11:52:05_
+_26.03.2017 13:52:50_
