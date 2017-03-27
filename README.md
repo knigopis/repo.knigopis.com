@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>0</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>509</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
-[Антон Шевченко](users/339/339786161-vkontakte)<sup>106</sup> 
 
 
-_26.03.2017 13:54:15_
+_27.03.2017 19:53:57_
