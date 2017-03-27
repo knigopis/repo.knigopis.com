@@ -1,4 +1,10 @@
 {
+    "2977673085170791915-mailru": {
+        "id": "2977673085170791915-mailru",
+        "nickname": "Игорь Михайлов",
+        "booksCount": 0,
+        "updatedAt": "2017-03-27 19:53:56"
+    },
     "4794559699-twitter": {
         "id": "4794559699-twitter",
         "nickname": "inerren",
@@ -172,11 +178,5 @@
         "nickname": "eleen",
         "booksCount": 0,
         "updatedAt": "2017-03-19 19:25:44"
-    },
-    "339786161-vkontakte": {
-        "id": "339786161-vkontakte",
-        "nickname": "Антон Шевченко",
-        "booksCount": 106,
-        "updatedAt": "2017-03-19 18:28:27"
     }
 }
