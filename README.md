@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>0</sup> 
+[Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>509</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 
 
-_27.03.2017 19:53:57_
+_27.03.2017 19:58:36_
