@@ -62,7 +62,7 @@
 Сергей Палий
 
 
-### Zona Incognita
+### S.T.A.L.K.E.R Zona Incognita
 Сергей Вольнов
 
 
