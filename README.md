@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>510</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>18</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 
 
-_28.03.2017 19:09:24_
+_28.03.2017 20:18:03_
