@@ -1,4 +1,16 @@
 {
+    "5--idnUPvX": {
+        "id": "5--idnUPvX",
+        "title": "Письма незнакомке",
+        "author": "Андре Моруа",
+        "notes": "",
+        "createdAt": "2017-03-28 19:09:24",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 33
+        }
+    },
     "M-_DJuZWBn": {
         "id": "M-_DJuZWBn",
         "title": "Сказка о самоубийстве",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 85
-        }
-    },
-    "TVSxBnDS2U": {
-        "id": "TVSxBnDS2U",
-        "title": "Игра зеркал",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 06. Также \"Фокус с зеркалами\".",
-        "createdAt": "2017-03-25 08:03:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 84
         }
     }
 }
