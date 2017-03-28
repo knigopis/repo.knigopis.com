@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>92</sup> 
 [Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/100/100057153114799209630-google)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>92</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>16</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 
 
-_28.03.2017 12:00:27_
+_28.03.2017 14:17:46_
