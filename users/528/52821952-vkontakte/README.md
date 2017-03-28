@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>66</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>67</sup>
 ---
 
 ## 2017
+
+### Шестое чувство
+Агата Кристи
+> [2017-03-29] Аудиокнига
+
 
 ### Цветы для Элджернона
 Дэниел Киз

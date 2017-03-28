@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 67,
+        "updatedAt": "2017-03-28 22:13:38"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -70,12 +76,6 @@
         "nickname": "Derek777",
         "booksCount": 27,
         "updatedAt": "2017-03-25 15:30:30"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 66,
-        "updatedAt": "2017-03-25 14:58:29"
     },
     "83820536-yandex": {
         "id": "83820536-yandex",

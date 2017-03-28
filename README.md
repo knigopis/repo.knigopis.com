@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
+    > Аудиокнига
+
 * Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
     > Короткий. Открытие происхождения кратеров на Луне. 1882 г. 5 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Выдумки на тему кометы Галлея. 1825 г. 5 из 10
 
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
-    > Короткий. Идея воздушного пространства между Землёй и Луной. фантастика 1780 года. 5 из 10.
 
 * Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Разбилось зеркало, звеня... ~ [Йолант](users/104/104690883692185089260-google)<sup>87</sup>
 
-* В 4.50 из Паддингтона ~ [Йолант](users/104/104690883692185089260-google)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>67</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>510</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 [souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
 [Derek777](users/153/15386028-yandex)<sup>27</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>66</sup> 
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_28.03.2017 20:18:03_
+_28.03.2017 22:13:38_
