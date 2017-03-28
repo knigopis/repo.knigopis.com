@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>509</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>510</sup>
 ---
 
 ## 2017
+
+### Сказка о самоубийстве
+Александр Полярный
+> [2017-03] 
+
 
 ### О, я от призраков больна
 Алан Брэдли

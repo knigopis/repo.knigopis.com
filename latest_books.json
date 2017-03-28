@@ -1,4 +1,16 @@
 {
+    "M-_DJuZWBn": {
+        "id": "M-_DJuZWBn",
+        "title": "Сказка о самоубийстве",
+        "author": "Александр Полярный",
+        "notes": "",
+        "createdAt": "2017-03-28 16:05:55",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 510
+        }
+    },
     "CAIUy3P6lb": {
         "id": "CAIUy3P6lb",
         "title": "Бумеранг",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 84
-        }
-    },
-    "B5vcCKATnP": {
-        "id": "B5vcCKATnP",
-        "title": "Объявлено убийство",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 05",
-        "createdAt": "2017-03-25 08:02:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 83
         }
     }
 }

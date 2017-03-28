@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>510</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>92</sup> 
 [Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>509</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 [souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
 
 
-_28.03.2017 14:19:23_
+_28.03.2017 16:05:55_

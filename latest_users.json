@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 510,
+        "updatedAt": "2017-03-28 16:05:55"
+    },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
         "nickname": "Койнов Александр",
@@ -28,12 +34,6 @@
         "nickname": "Reydzi",
         "booksCount": 0,
         "updatedAt": "2017-03-26 11:52:05"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 509,
-        "updatedAt": "2017-03-26 11:22:17"
     },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
