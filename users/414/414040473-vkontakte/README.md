@@ -1,4 +1,4 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>17</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>18</sup>
 ---
 
 ## 2016
@@ -57,6 +57,10 @@
 
 
 ## 2015
+
+### Бумеранг
+Сергей Палий
+
 
 ### Zona Incognita
 Сергей Вольнов
