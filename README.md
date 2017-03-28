@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>92</sup> 
 [Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>50</sup> 
-[eleen](users/100/100002213456036-facebook)<sup>0</sup> 
 
 
-_27.03.2017 19:58:36_
+_28.03.2017 12:00:27_
