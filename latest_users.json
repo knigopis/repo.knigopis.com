@@ -1,4 +1,10 @@
 {
+    "16237346307809983184-mailru": {
+        "id": "16237346307809983184-mailru",
+        "nickname": "Stanislav Sukharev",
+        "booksCount": 0,
+        "updatedAt": "2017-03-29 08:13:00"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 7,
         "updatedAt": "2017-03-20 18:21:53"
-    },
-    "2463393-vkontakte": {
-        "id": "2463393-vkontakte",
-        "nickname": "joker666",
-        "booksCount": 0,
-        "updatedAt": "2017-03-20 17:26:45"
     }
 }
