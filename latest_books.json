@@ -1,4 +1,16 @@
 {
+    "1hDurm20c8": {
+        "id": "1hDurm20c8",
+        "title": "Басни",
+        "author": "Иван Крылов",
+        "notes": "Небольшие истории с глубоким смыслом.",
+        "createdAt": "2017-03-29 03:14:00",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 41
+        }
+    },
     "NziSfrv7l0": {
         "id": "NziSfrv7l0",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 508
-        }
-    },
-    "7cGnDNksd-": {
-        "id": "7cGnDNksd-",
-        "title": "Багровый Пик",
-        "author": "Нэнси Холдер",
-        "notes": "",
-        "createdAt": "2017-03-25 10:07:22",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 69
         }
     }
 }

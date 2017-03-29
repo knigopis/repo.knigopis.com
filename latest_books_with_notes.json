@@ -1,4 +1,16 @@
 {
+    "1hDurm20c8": {
+        "id": "1hDurm20c8",
+        "title": "Басни",
+        "author": "Иван Крылов",
+        "notes": "Небольшие истории с глубоким смыслом.",
+        "createdAt": "2017-03-29 03:14:00",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 41
+        }
+    },
     "NziSfrv7l0": {
         "id": "NziSfrv7l0",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 74
-        }
-    },
-    "iNpFfjI3r7": {
-        "id": "iNpFfjI3r7",
-        "title": "За хвойной стеной",
-        "author": "Джерри Хилл",
-        "notes": "Лесбийский \"женский любовный роман\"",
-        "createdAt": "2017-03-25 07:52:19",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 73
         }
     }
 }

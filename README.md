@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Басни ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup>
+    > Небольшие истории с глубоким смыслом.
+
 * Гранатовый браслет ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>40</sup>
     > Трогательная история о любви молодого парня к женатой девушке, которой он подарил гранатовый браслет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Булгаков некоторое время работал врачом, о чем он и рассказал в своей книге.
 
 * Сказка о рыбаке и рыбке ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup>
-    > Сказка о доброте, бескорыстности и жадности.
 
 * Обломов ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>37</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
 
-* Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Neccochi](users/126/12601720503917094896-mailru)<sup>40</sup> 
+[Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 03:13:36_
+_29.03.2017 03:14:00_
