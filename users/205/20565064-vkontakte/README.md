@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>512</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>513</sup>
 ---
 
 ## 2017
+
+### Диего и Фрида
+Жан-Мари Леклезио
+> [2017-03] 
+
 
 ### Ледяной дракон
 Джордж Мартин

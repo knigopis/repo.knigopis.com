@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>513</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>512</sup> 
 [Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>43</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 
 
-_29.03.2017 13:58:27_
+_29.03.2017 15:05:12_

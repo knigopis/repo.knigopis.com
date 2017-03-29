@@ -1,4 +1,16 @@
 {
+    "45SBoEyecG": {
+        "id": "45SBoEyecG",
+        "title": "Диего и Фрида",
+        "author": "Жан-Мари Леклезио",
+        "notes": "",
+        "createdAt": "2017-03-29 15:05:11",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 513
+        }
+    },
     "4G1O0MTQzd": {
         "id": "4G1O0MTQzd",
         "title": "Ледяной дракон",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 25
-        }
-    },
-    "Hhn6Bm_TfL": {
-        "id": "Hhn6Bm_TfL",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-03-25 14:58:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 66
         }
     }
 }
