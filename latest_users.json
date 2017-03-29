@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "Койнов Александр",
+        "booksCount": 17,
+        "updatedAt": "2017-03-29 13:58:26"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -34,12 +40,6 @@
         "nickname": "Беска",
         "booksCount": 33,
         "updatedAt": "2017-03-28 19:09:24"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 18,
-        "updatedAt": "2017-03-28 14:19:23"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
