@@ -1,4 +1,16 @@
 {
+    "mom-Cul6K7": {
+        "id": "mom-Cul6K7",
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "notes": "Булгаков некоторое время работал врачом, о чем он и рассказал в своей книге.",
+        "createdAt": "2017-03-29 03:12:54",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 39
+        }
+    },
     "MHZlrNGdqo": {
         "id": "MHZlrNGdqo",
         "title": "Сказка о рыбаке и рыбке",
@@ -345,18 +357,6 @@
             "id": "107233253672325058205-google",
             "nickname": "345mhz",
             "booksCount": 4
-        }
-    },
-    "CJ40HB_YDs": {
-        "id": "CJ40HB_YDs",
-        "title": "От Ивана III до Бориса Годунова. Между Азией и Европой",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-25 09:38:24",
-        "user": {
-            "id": "107233253672325058205-google",
-            "nickname": "345mhz",
-            "booksCount": 3
         }
     }
 }
