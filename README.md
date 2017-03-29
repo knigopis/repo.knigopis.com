@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
+    > Повесть о самой светлой и невинной любви.
+
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
     > Аудиокнига
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Открытие происхождения кратеров на Луне. 1882 г. 5 из 10.
 
 * Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
-    > Короткий. Выдумки на тему кометы Галлея. 1825 г. 5 из 10
 
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Карибская тайна ~ [Йолант](users/104/104690883692185089260-google)<sup>88</sup>
 
-* Разбилось зеркало, звеня... ~ [Йолант](users/104/104690883692185089260-google)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
-[Neccochi](users/126/12601720503917094896-mailru)<sup>32</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>74</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_28.03.2017 22:16:30_
+_29.03.2017 03:08:22_

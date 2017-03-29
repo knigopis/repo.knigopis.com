@@ -1,4 +1,4 @@
-# List of books read by [Neccochi](https://my.mail.ru/mail/neco-kyn/)<sup>32</sup>
+# List of books read by [Neccochi](https://my.mail.ru/mail/neco-kyn/)<sup>33</sup>
 ---
 
 ## 2017
@@ -249,6 +249,11 @@
 
 
 ## 2006
+
+### Ася
+Иван Сергеевич Тургенев
+> [2006-02-03] Повесть о самой светлой и невинной любви.
+
 
 ### Путешествие Гулливера
 Джонатан Свифт

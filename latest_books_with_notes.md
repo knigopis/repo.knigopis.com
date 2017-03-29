@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
 * Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
 * Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
 * Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
 * Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
-* Угол падения ~ [Chiffi](users/105/105831994080785626680-google)<sup>7</sup>
 
 
-_28.03.2017 22:13:38_
+_29.03.2017 03:08:22_
