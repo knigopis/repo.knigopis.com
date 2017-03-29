@@ -1,4 +1,16 @@
 {
+    "5o2P_fK9gm": {
+        "id": "5o2P_fK9gm",
+        "title": "Судьба человека",
+        "author": "Михаил Шолохов",
+        "notes": "Реальная история о человеке, которого однажды повстречал автор.",
+        "createdAt": "2017-03-29 03:10:17",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 35
+        }
+    },
     "JMjqGqwYMS": {
         "id": "JMjqGqwYMS",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 73
-        }
-    },
-    "XqvqCKDoff": {
-        "id": "XqvqCKDoff",
-        "title": "Хрестоматия по возрастной и педагогической психологии",
-        "author": "",
-        "notes": "в процессе (ну ОООЧЕНЬ много воды, видно, что советская книга)\n\nhttps://www.ozon.ru/context/detail/id/21498344/",
-        "createdAt": "2017-03-22 20:34:09",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 94
         }
     }
 }
