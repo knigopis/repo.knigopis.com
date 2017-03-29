@@ -1,4 +1,16 @@
 {
+    "MHZlrNGdqo": {
+        "id": "MHZlrNGdqo",
+        "title": "Сказка о рыбаке и рыбке",
+        "author": "Александр Сергеевич Пушкин",
+        "notes": "Сказка о доброте, бескорыстности и жадности.",
+        "createdAt": "2017-03-29 03:12:20",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 38
+        }
+    },
     "NNqpfUYjZF": {
         "id": "NNqpfUYjZF",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "107233253672325058205-google",
             "nickname": "345mhz",
             "booksCount": 3
-        }
-    },
-    "tkDtyPTSy3": {
-        "id": "tkDtyPTSy3",
-        "title": "Ордынский период. Часть Азии",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-03-25 09:37:57",
-        "user": {
-            "id": "107233253672325058205-google",
-            "nickname": "345mhz",
-            "booksCount": 2
         }
     }
 }

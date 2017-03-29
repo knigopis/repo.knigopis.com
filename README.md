@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сказка о рыбаке и рыбке ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup>
+    > Сказка о доброте, бескорыстности и жадности.
+
 * Обломов ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>37</sup>
     > О судьбе и предназначении человека.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История о женщине, имение которой может быть продано за долги, но она не может распрощаться с вишневым садом, с которым связаны многие воспоминания.
 
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
-    > Реальная история о человеке, которого однажды повстречал автор.
 
 * Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
 
-* Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Neccochi](users/126/12601720503917094896-mailru)<sup>37</sup> 
+[Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 03:11:35_
+_29.03.2017 03:12:20_
