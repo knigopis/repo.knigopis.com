@@ -1,4 +1,4 @@
-# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>18</sup>
+# List of books read by [Койнов Александр](http://vk.com/id414040473)<sup>17</sup>
 ---
 
 ## 2016
@@ -57,10 +57,6 @@
 
 
 ## 2015
-
-### S.T.A.L.K.E.R Бумеранг
-Сергей Палий
-
 
 ### S.T.A.L.K.E.R Zona Incognita
 Сергей Вольнов
