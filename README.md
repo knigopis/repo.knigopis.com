@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вишневый сад ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>36</sup>
+    > История о женщине, имение которой может быть продано за долги, но она не может распрощаться с вишневым садом, с которым связаны многие воспоминания.
+
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
     > Реальная история о человеке, которого однажды повстречал автор.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лучшая история о нереальном эксперименте гениального доктора.
 
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
-    > Повесть о самой светлой и невинной любви.
 
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Спящее убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>91</sup>
 
-* Немезида ~ [Йолант](users/104/104690883692185089260-google)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup> 
+[Neccochi](users/126/12601720503917094896-mailru)<sup>36</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 03:10:17_
+_29.03.2017 03:10:59_
