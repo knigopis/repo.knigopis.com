@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Детство.Отрочество.Юность. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>42</sup>
+    > Псевдо-автобиографическая трилогия Льва Толстого.
+
 * Басни ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup>
     > Небольшие истории с глубоким смыслом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Трогательная история о любви молодого парня к женатой девушке, которой он подарил гранатовый браслет.
 
 * Записки юного врача ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>39</sup>
-    > Булгаков некоторое время работал врачом, о чем он и рассказал в своей книге.
 
 * Сказка о рыбаке и рыбке ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
 
-* Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup> 
+[Neccochi](users/126/12601720503917094896-mailru)<sup>42</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 03:14:00_
+_29.03.2017 03:23:00_

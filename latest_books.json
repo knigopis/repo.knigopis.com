@@ -1,4 +1,16 @@
 {
+    "BdDNVt3T7w": {
+        "id": "BdDNVt3T7w",
+        "title": "Детство.Отрочество.Юность.",
+        "author": "Лев Николаевич Толстой",
+        "notes": "Псевдо-автобиографическая трилогия Льва Толстого.",
+        "createdAt": "2017-03-29 03:23:00",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 42
+        }
+    },
     "1hDurm20c8": {
         "id": "1hDurm20c8",
         "title": "Басни",
@@ -345,18 +357,6 @@
             "id": "872361436199401-facebook",
             "nickname": "genrih59",
             "booksCount": 20
-        }
-    },
-    "jV4e3kBvrq": {
-        "id": "jV4e3kBvrq",
-        "title": "Пережить зиму в Стокгольме",
-        "author": "Агнета Плейель",
-        "notes": "",
-        "createdAt": "2017-03-25 10:28:40",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 508
         }
     }
 }
