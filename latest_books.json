@@ -1,4 +1,16 @@
 {
+    "OhfflOx1Dm": {
+        "id": "OhfflOx1Dm",
+        "title": "Покровские ворота",
+        "author": "Леонид Зорин",
+        "notes": "",
+        "createdAt": "2017-03-29 07:53:26",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 511
+        }
+    },
     "EUXredc9nn": {
         "id": "EUXredc9nn",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 139
-        }
-    },
-    "H6LzqOqtYw": {
-        "id": "H6LzqOqtYw",
-        "title": "Женщины (2 раз)",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-03-25 11:16:16",
-        "user": {
-            "id": "872361436199401-facebook",
-            "nickname": "genrih59",
-            "booksCount": 21
         }
     }
 }
