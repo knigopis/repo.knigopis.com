@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
 * Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Кот без прикрас ~ [joan789](users/240/2401650-vkontakte)<sup>58</sup>
 * Жить всё труднее ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup>
 * Хрестоматия по возрастной и педагогической психологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
-* Земляной ключ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>72</sup>
 
 
-_29.03.2017 03:08:22_
+_29.03.2017 03:09:16_

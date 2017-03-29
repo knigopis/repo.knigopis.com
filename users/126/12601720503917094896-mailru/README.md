@@ -1,4 +1,4 @@
-# List of books read by [Neccochi](https://my.mail.ru/mail/neco-kyn/)<sup>33</sup>
+# List of books read by [Neccochi](https://my.mail.ru/mail/neco-kyn/)<sup>34</sup>
 ---
 
 ## 2017
@@ -187,6 +187,11 @@
 
 
 ## 2010
+
+### Собачье сердце
+Михаил Булгаков
+> [2010-05-04] Лучшая история о нереальном эксперименте гениального доктора.
+
 
 ### Мертвые души
 Николай Васильевич Гоголь

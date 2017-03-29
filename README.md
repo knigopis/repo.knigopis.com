@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
+    > Лучшая история о нереальном эксперименте гениального доктора.
+
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
     > Повесть о самой светлой и невинной любви.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Аудиокнига
 
 * Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
-    > Короткий. Открытие происхождения кратеров на Луне. 1882 г. 5 из 10.
 
 * Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отель "Бертрам" ~ [Йолант](users/104/104690883692185089260-google)<sup>89</sup>
 
-* Карибская тайна ~ [Йолант](users/104/104690883692185089260-google)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup> 
+[Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 03:08:22_
+_29.03.2017 03:09:16_
