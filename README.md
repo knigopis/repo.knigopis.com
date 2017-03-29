@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>511</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>43</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>74</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
-[joker666](users/246/2463393-vkontakte)<sup>0</sup> 
 
 
-_29.03.2017 07:53:26_
+_29.03.2017 08:13:00_
