@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сельский врач ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup>
+    > Всё смешалось...кони, люди...Некоторые моменты в рассказе трудно воспринимать. Попробуем другие произведения.
+
 * Детство.Отрочество.Юность. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>42</sup>
     > Псевдо-автобиографическая трилогия Льва Толстого.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Небольшие истории с глубоким смыслом.
 
 * Гранатовый браслет ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>40</sup>
-    > Трогательная история о любви молодого парня к женатой девушке, которой он подарил гранатовый браслет.
 
 * Записки юного врача ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>39</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 
-* Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
 [Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 
 
-_29.03.2017 15:05:12_
+_29.03.2017 15:25:20_
