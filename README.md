@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[beiner](users/118/118330474331574680123-google)<sup>0</sup> 
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>0</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 [345mhz](users/100/100057153114799209630-google)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>92</sup> 
-[Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 
 
-_30.03.2017 20:55:04_
+_30.03.2017 21:45:08_
