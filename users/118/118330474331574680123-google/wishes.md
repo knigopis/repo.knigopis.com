@@ -1,6 +1,11 @@
 # Wish list of books by [beiner](https://plus.google.com/118330474331574680123)
 ---
 
+### `50` The Buddha is still teaching
+Jack Kornfield
+> Contemporary buddhist wisdom
+> Sonya Esman
+
 ### `6` Самый богатый человека в Вавилоне
 Клейтон Джордж
 
