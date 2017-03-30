@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>100</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>99</sup>
 ---
 
 ## 2017
@@ -446,11 +446,6 @@
 
 
 ### Бушующая стихия
-Эрин Хантер
-> Коты-Воители: Воители
-
-
-### Огонь и лед
 Эрин Хантер
 > Коты-Воители: Воители
 
