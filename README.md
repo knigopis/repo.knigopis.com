@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
+    > Цикл "Воители"
+    > Книга 2
+
 * Коты-Воители: Стань диким! ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
     > Цикл "Воители"
     > Книга 1
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Часть 3
 
 * Повелитель мух ~ [rNix](users/115/115622071-twitter)<sup>52</sup>
-    > Книга о выживании детей без взрослых на острове. В книге показано, как организуется племя, какие трудности испытывает при выполнении совместных задач, а также, как сложно бывает одному донести мысль до остальных. В племени два лидера, их противостояние набирает обороты. Жалости нет.
 
 * Сельский врач ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Сказка о рыбаке и рыбке ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup>
 
-* Обломов ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 
 
-_30.03.2017 08:37:20_
+_30.03.2017 08:37:53_

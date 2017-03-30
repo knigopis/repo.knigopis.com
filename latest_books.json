@@ -1,4 +1,16 @@
 {
+    "eULmzTm6pL": {
+        "id": "eULmzTm6pL",
+        "title": "Коты-Воители: Огонь и лёд",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 2",
+        "createdAt": "2017-03-30 08:37:53",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 99
+        }
+    },
     "0toNUJjgu-": {
         "id": "0toNUJjgu-",
         "title": "Коты-Воители: Стань диким!",
@@ -345,18 +357,6 @@
             "id": "72921911-vkontakte",
             "nickname": "Reydzi",
             "booksCount": 1
-        }
-    },
-    "Khyj6aUAzR": {
-        "id": "Khyj6aUAzR",
-        "title": "О, я от призраков больна",
-        "author": "Алан Брэдли",
-        "notes": "",
-        "createdAt": "2017-03-26 11:22:17",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 509
         }
     }
 }
