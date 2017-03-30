@@ -1,4 +1,16 @@
 {
+    "QvMHrAcORL": {
+        "id": "QvMHrAcORL",
+        "title": "Белое на черном",
+        "author": "Рубен Давид Гонсалес Гальего",
+        "notes": "",
+        "createdAt": "2017-03-30 21:55:00",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 5
+        }
+    },
     "4yj3xM0smp": {
         "id": "4yj3xM0smp",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 68
-        }
-    },
-    "qGYBp7pmo4": {
-        "id": "qGYBp7pmo4",
-        "title": "Шестое чувство",
-        "author": "Агата Кристи",
-        "notes": "Аудиокнига",
-        "createdAt": "2017-03-28 22:13:38",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 67
         }
     }
 }
