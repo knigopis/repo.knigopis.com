@@ -1,4 +1,10 @@
 {
+    "1427317190926206-facebook": {
+        "id": "1427317190926206-facebook",
+        "nickname": "dmkq",
+        "booksCount": 57,
+        "updatedAt": "2017-03-30 13:02:17"
+    },
     "200601396-vkontakte": {
         "id": "200601396-vkontakte",
         "nickname": "Милашечка",
@@ -172,11 +178,5 @@
         "nickname": "antasiar",
         "booksCount": 106,
         "updatedAt": "2017-03-23 19:29:03"
-    },
-    "1389223397787225-facebook": {
-        "id": "1389223397787225-facebook",
-        "nickname": "katrinzetathefirst",
-        "booksCount": 0,
-        "updatedAt": "2017-03-23 04:26:26"
     }
 }
