@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>97</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>96</sup>
 ---
 
 ## 2017
@@ -282,8 +282,6 @@
 ### Город Эмбер: Предсказание
 Джин Дюпро
 > Книга 3
-
-
 
 
 ### Десятый город
