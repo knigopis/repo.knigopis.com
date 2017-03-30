@@ -1,4 +1,10 @@
 {
+    "200601396-vkontakte": {
+        "id": "200601396-vkontakte",
+        "nickname": "Милашечка",
+        "booksCount": 13,
+        "updatedAt": "2017-03-30 12:33:23"
+    },
     "190338334-vkontakte": {
         "id": "190338334-vkontakte",
         "nickname": "Vania",
@@ -172,11 +178,5 @@
         "nickname": "katrinzetathefirst",
         "booksCount": 0,
         "updatedAt": "2017-03-23 04:26:26"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 94,
-        "updatedAt": "2017-03-22 20:34:09"
     }
 }

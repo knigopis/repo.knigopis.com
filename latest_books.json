@@ -1,4 +1,16 @@
 {
+    "hg6fAsTNoF": {
+        "id": "hg6fAsTNoF",
+        "title": "Полуночный танец дракона",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-03-30 12:33:23",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 13
+        }
+    },
     "wWYoZV1zAx": {
         "id": "wWYoZV1zAx",
         "title": "Мухобойная Хлеборезка",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 17
-        }
-    },
-    "FXh9-KmyXN": {
-        "id": "FXh9-KmyXN",
-        "title": "Семейная реликвия",
-        "author": "Розамунда Пилчер",
-        "notes": "",
-        "createdAt": "2017-03-28 12:00:26",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 92
         }
     }
 }
