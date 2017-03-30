@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nikita](users/100/100684315-vkontakte)<sup>0</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>92</sup> 
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 
 
-_30.03.2017 13:02:17_
+_30.03.2017 19:43:44_
