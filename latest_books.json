@@ -1,4 +1,16 @@
 {
+    "0toNUJjgu-": {
+        "id": "0toNUJjgu-",
+        "title": "Коты-Воители: Стань диким!",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 1",
+        "createdAt": "2017-03-30 08:37:20",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "-ld1eI8oJa": {
         "id": "-ld1eI8oJa",
         "title": "Коты-воители: Лес секретов",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 509
-        }
-    },
-    "FvuBbptfO4": {
-        "id": "FvuBbptfO4",
-        "title": "Показания Рэндольфа Картера (рассказ)",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2017-03-26 08:17:29",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 70
         }
     }
 }
