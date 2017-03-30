@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vania](users/190/190338334-vkontakte)<sup>0</sup> 
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
 [katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 
 
-_30.03.2017 10:02:50_
+_30.03.2017 11:52:06_
