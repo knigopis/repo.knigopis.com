@@ -1,4 +1,16 @@
 {
+    "-ld1eI8oJa": {
+        "id": "-ld1eI8oJa",
+        "title": "Коты-воители: Лес секретов",
+        "author": "Эрин Хантер",
+        "notes": "Часть 3",
+        "createdAt": "2017-03-30 08:24:13",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "NNTvzf1XfS": {
         "id": "NNTvzf1XfS",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 80
-        }
-    },
-    "tw7ql13_Bn": {
-        "id": "tw7ql13_Bn",
-        "title": "Убийство в доме викария",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 01",
-        "createdAt": "2017-03-25 07:59:15",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 79
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>97</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
 ---
 
 ## 2017
+
+### Коты-воители: Лес секретов
+Эрин Хантер
+> Часть 3
+
 
 ### 1984
 Джордж Оруэлл
