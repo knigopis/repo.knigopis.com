@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Hellgiss](users/106/106805009126778959980-google)<sup>0</sup> 
+[Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>0</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 
 
-_30.03.2017 20:53:02_
+_30.03.2017 20:55:04_

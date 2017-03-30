@@ -1,4 +1,16 @@
 {
+    "Y31WG0j97N": {
+        "id": "Y31WG0j97N",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-03-30 20:55:04",
+        "user": {
+            "id": "106805009126778959980-google",
+            "nickname": "Hellgiss",
+            "booksCount": 1
+        }
+    },
     "hg6fAsTNoF": {
         "id": "hg6fAsTNoF",
         "title": "Полуночный танец дракона",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 18
-        }
-    },
-    "TPhpIEPwfS": {
-        "id": "TPhpIEPwfS",
-        "title": "Zona Incognita",
-        "author": "Сергей Вольнов",
-        "notes": "",
-        "createdAt": "2017-03-28 14:17:46",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 17
         }
     }
 }
