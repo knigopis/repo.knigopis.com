@@ -1,4 +1,16 @@
 {
+    "U7QR5KB3kH": {
+        "id": "U7QR5KB3kH",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-03-30 21:52:09",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 3
+        }
+    },
     "ysQOxUJfBy": {
         "id": "ysQOxUJfBy",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 50
-        }
-    },
-    "5--idnUPvX": {
-        "id": "5--idnUPvX",
-        "title": "Письма незнакомке",
-        "author": "Андре Моруа",
-        "notes": "",
-        "createdAt": "2017-03-28 19:09:24",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 33
         }
     }
 }
