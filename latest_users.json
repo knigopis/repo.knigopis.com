@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 52,
+        "updatedAt": "2017-03-30 01:19:12"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Sofie",
         "booksCount": 74,
         "updatedAt": "2017-03-20 22:35:28"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 7,
-        "updatedAt": "2017-03-20 18:21:53"
     }
 }

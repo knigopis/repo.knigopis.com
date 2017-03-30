@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель мух ~ [rNix](users/115/115622071-twitter)<sup>52</sup>
+    > Книга о выживании детей без взрослых на острове. В книге показано, как организуется племя, какие трудности испытывает при выполнении совместных задач, а также, как сложно бывает одному донести мысль до остальных. В племени два лидера, их противостояние набирает обороты. Жалости нет.
+
 * Сельский врач ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup>
     > Всё смешалось...кони, люди...Некоторые моменты в рассказе трудно воспринимать. Попробуем другие произведения.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Псевдо-автобиографическая трилогия Льва Толстого.
 
 * Басни ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup>
-    > Небольшие истории с глубоким смыслом.
 
 * Гранатовый браслет ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>40</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
 
-* Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>52</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>74</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>7</sup> 
 
 
-_29.03.2017 15:25:20_
+_30.03.2017 01:19:12_
