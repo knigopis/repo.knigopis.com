@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Этерниел 13](users/165/16501172616331031425-mailru)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>58</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>106</sup> 
-[katrinzetathefirst](users/138/1389223397787225-facebook)<sup>0</sup> 
 
 
-_30.03.2017 12:33:23_
+_30.03.2017 13:02:17_
