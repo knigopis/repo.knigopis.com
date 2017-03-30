@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 93,
+        "updatedAt": "2017-03-30 23:17:15"
+    },
     "118330474331574680123-google": {
         "id": "118330474331574680123-google",
         "nickname": "beiner",
@@ -172,11 +178,5 @@
         "nickname": "345mhz",
         "booksCount": 0,
         "updatedAt": "2017-03-25 09:36:39"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 92,
-        "updatedAt": "2017-03-25 08:08:00"
     }
 }
