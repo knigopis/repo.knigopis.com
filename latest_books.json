@@ -1,4 +1,16 @@
 {
+    "XeWIXO_N0i": {
+        "id": "XeWIXO_N0i",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-03-30 21:50:54",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 1
+        }
+    },
     "Y31WG0j97N": {
         "id": "Y31WG0j97N",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 510
-        }
-    },
-    "CAIUy3P6lb": {
-        "id": "CAIUy3P6lb",
-        "title": "Бумеранг",
-        "author": "Сергей Палий",
-        "notes": "",
-        "createdAt": "2017-03-28 14:19:23",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 18
         }
     }
 }
