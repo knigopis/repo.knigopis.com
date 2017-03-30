@@ -1,4 +1,16 @@
 {
+    "BVmlBHi-37": {
+        "id": "BVmlBHi-37",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2017-03-30 21:56:17",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 6
+        }
+    },
     "QvMHrAcORL": {
         "id": "QvMHrAcORL",
         "title": "Белое на черном",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 33
-        }
-    },
-    "ijhj1YRSuA": {
-        "id": "ijhj1YRSuA",
-        "title": "Дары волхвов",
-        "author": "О'Генри",
-        "notes": "",
-        "createdAt": "2017-03-28 22:16:30",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 68
         }
     }
 }
