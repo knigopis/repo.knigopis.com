@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mg901](users/112/112661510199640943702-google)<sup>0</sup> 
+[mg901](users/112/112661510199640943702-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>36</sup> 
 
 
-_30.03.2017 10:01:53_
+_30.03.2017 10:02:50_

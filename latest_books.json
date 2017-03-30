@@ -1,4 +1,16 @@
 {
+    "wWYoZV1zAx": {
+        "id": "wWYoZV1zAx",
+        "title": "Мухобойная Хлеборезка",
+        "author": "Федот Луговой",
+        "notes": "Так себе...",
+        "createdAt": "2017-03-30 10:02:50",
+        "user": {
+            "id": "112661510199640943702-google",
+            "nickname": "mg901",
+            "booksCount": 1
+        }
+    },
     "_rFhLzXCYD": {
         "id": "_rFhLzXCYD",
         "title": "Город Эмбер: Предсказание",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 92
-        }
-    },
-    "fwQNNjOAD9": {
-        "id": "fwQNNjOAD9",
-        "title": "Сага о Рунном Посохе",
-        "author": "Майкл Муркок",
-        "notes": "",
-        "createdAt": "2017-03-27 19:58:36",
-        "user": {
-            "id": "2977673085170791915-mailru",
-            "nickname": "Игорь Михайлов",
-            "booksCount": 1
         }
     }
 }
