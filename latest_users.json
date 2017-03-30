@@ -1,4 +1,10 @@
 {
+    "106805009126778959980-google": {
+        "id": "106805009126778959980-google",
+        "nickname": "Hellgiss",
+        "booksCount": 0,
+        "updatedAt": "2017-03-30 20:53:01"
+    },
     "100684315-vkontakte": {
         "id": "100684315-vkontakte",
         "nickname": "Nikita",
@@ -172,11 +178,5 @@
         "nickname": "Этерниел 13",
         "booksCount": 0,
         "updatedAt": "2017-03-24 09:21:15"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 58,
-        "updatedAt": "2017-03-23 19:35:57"
     }
 }
