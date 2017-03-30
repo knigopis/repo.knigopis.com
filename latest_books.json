@@ -1,4 +1,16 @@
 {
+    "ysQOxUJfBy": {
+        "id": "ysQOxUJfBy",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-03-30 21:51:45",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 2
+        }
+    },
     "XeWIXO_N0i": {
         "id": "XeWIXO_N0i",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 33
-        }
-    },
-    "M-_DJuZWBn": {
-        "id": "M-_DJuZWBn",
-        "title": "Сказка о самоубийстве",
-        "author": "Александр Полярный",
-        "notes": "",
-        "createdAt": "2017-03-28 16:05:55",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 510
         }
     }
 }
