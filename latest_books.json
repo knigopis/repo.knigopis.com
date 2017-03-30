@@ -1,4 +1,16 @@
 {
+    "4yj3xM0smp": {
+        "id": "4yj3xM0smp",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-03-30 21:53:08",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 4
+        }
+    },
     "U7QR5KB3kH": {
         "id": "U7QR5KB3kH",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 67
-        }
-    },
-    "RF9UXoaenn": {
-        "id": "RF9UXoaenn",
-        "title": "Смотритель. Орден желтого флага",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2017-03-28 20:18:03",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 50
         }
     }
 }
