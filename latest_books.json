@@ -1,4 +1,16 @@
 {
+    "AakhRfSbJW": {
+        "id": "AakhRfSbJW",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-03-30 21:58:23",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 8
+        }
+    },
     "p0P7VAyRve": {
         "id": "p0P7VAyRve",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 35
-        }
-    },
-    "JMjqGqwYMS": {
-        "id": "JMjqGqwYMS",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "Лучшая история о нереальном эксперименте гениального доктора.",
-        "createdAt": "2017-03-29 03:09:15",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 34
         }
     }
 }
