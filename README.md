@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
+    > Цикл "Воители"
+    > Книга 3
+
 * Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
     > Цикл "Воители"
     > Книга 2
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Книга 1
 
 * Коты-воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-    > Часть 3
 
 * Повелитель мух ~ [rNix](users/115/115622071-twitter)<sup>52</sup>
 
@@ -28,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Записки юного врача ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>39</sup>
 
-* Сказка о рыбаке и рыбке ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>100</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 
 
-_30.03.2017 08:37:53_
+_30.03.2017 08:38:18_

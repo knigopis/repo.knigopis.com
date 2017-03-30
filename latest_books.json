@@ -1,4 +1,16 @@
 {
+    "wbC1m6k5fc": {
+        "id": "wbC1m6k5fc",
+        "title": "Коты-Воители: Лес секретов",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 3",
+        "createdAt": "2017-03-30 08:38:18",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 100
+        }
+    },
     "eULmzTm6pL": {
         "id": "eULmzTm6pL",
         "title": "Коты-Воители: Огонь и лёд",
@@ -344,18 +356,6 @@
         "user": {
             "id": "4794559699-twitter",
             "nickname": "inerren",
-            "booksCount": 1
-        }
-    },
-    "rX7xDf0VJL": {
-        "id": "rX7xDf0VJL",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "Любимая книга. \n\"Ждать и надеяться, ждать...и не надеяться!\"",
-        "createdAt": "2017-03-26 11:47:30",
-        "user": {
-            "id": "72921911-vkontakte",
-            "nickname": "Reydzi",
             "booksCount": 1
         }
     }

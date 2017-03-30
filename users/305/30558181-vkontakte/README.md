@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>99</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>100</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Лес секретов
+Эрин Хантер
+> Цикл "Воители"
+> Книга 3
+
 
 ### Коты-Воители: Огонь и лёд
 Эрин Хантер
