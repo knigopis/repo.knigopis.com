@@ -1,4 +1,16 @@
 {
+    "_rFhLzXCYD": {
+        "id": "_rFhLzXCYD",
+        "title": "Город Эмбер: Предсказание",
+        "author": "Джин Дюпро",
+        "notes": "Книга 3",
+        "createdAt": "2017-03-30 08:42:36",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "wbC1m6k5fc": {
         "id": "wbC1m6k5fc",
         "title": "Коты-Воители: Лес секретов",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 84
-        }
-    },
-    "B5vcCKATnP": {
-        "id": "B5vcCKATnP",
-        "title": "Объявлено убийство",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 05",
-        "createdAt": "2017-03-25 08:02:31",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 83
         }
     }
 }

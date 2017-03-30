@@ -1,4 +1,16 @@
 {
+    "_rFhLzXCYD": {
+        "id": "_rFhLzXCYD",
+        "title": "Город Эмбер: Предсказание",
+        "author": "Джин Дюпро",
+        "notes": "Книга 3",
+        "createdAt": "2017-03-30 08:42:36",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "wbC1m6k5fc": {
         "id": "wbC1m6k5fc",
         "title": "Коты-Воители: Лес секретов",
@@ -344,18 +356,6 @@
         "user": {
             "id": "2977673085170791915-mailru",
             "nickname": "Игорь Михайлов",
-            "booksCount": 1
-        }
-    },
-    "OCCyTFEytb": {
-        "id": "OCCyTFEytb",
-        "title": "ричард 50",
-        "author": "орловский",
-        "notes": "",
-        "createdAt": "2017-03-26 13:54:15",
-        "user": {
-            "id": "4794559699-twitter",
-            "nickname": "inerren",
             "booksCount": 1
         }
     }
