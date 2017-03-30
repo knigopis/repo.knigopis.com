@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>92</sup> 
 
 
-_30.03.2017 08:44:48_
+_30.03.2017 08:44:58_
