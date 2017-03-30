@@ -1,4 +1,10 @@
 {
+    "190338334-vkontakte": {
+        "id": "190338334-vkontakte",
+        "nickname": "Vania",
+        "booksCount": 0,
+        "updatedAt": "2017-03-30 11:52:04"
+    },
     "112661510199640943702-google": {
         "id": "112661510199640943702-google",
         "nickname": "mg901",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 94,
         "updatedAt": "2017-03-22 20:34:09"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 36,
-        "updatedAt": "2017-03-21 20:38:10"
     }
 }
