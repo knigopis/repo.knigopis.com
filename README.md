@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 
 
-_31.03.2017 08:34:34_
+_31.03.2017 16:16:12_
