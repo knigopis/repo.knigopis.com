@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
+    > Цикл "Воители"
+    > Книга 4
+
 * Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
     > Рассказывается о времени, в течении которого, автор работал на железной дороге.
     > 18612 - Февральск
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
-    > Цикл "Воители"
-    > Книга 3
 
 * Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Детство.Отрочество.Юность. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>42</sup>
 
-* Басни ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 
 
-_31.03.2017 16:16:12_
+_31.03.2017 16:55:10_

@@ -1,4 +1,16 @@
 {
+    "nvDAM3mP3L": {
+        "id": "nvDAM3mP3L",
+        "title": "Коты-Воители: Бушующая стихия",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 4",
+        "createdAt": "2017-03-31 16:55:10",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 97
+        }
+    },
     "BPJA-7pwMI": {
         "id": "BPJA-7pwMI",
         "title": "Русский рассказ",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 86
-        }
-    },
-    "Mnt_iYZ_T7": {
-        "id": "Mnt_iYZ_T7",
-        "title": "Зернышки в кармане",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 07",
-        "createdAt": "2017-03-25 08:03:58",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 85
         }
     }
 }
