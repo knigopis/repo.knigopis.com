@@ -1,4 +1,16 @@
 {
+    "cWfe8zN7Ku": {
+        "id": "cWfe8zN7Ku",
+        "title": "Дети из камеры хранения",
+        "author": "Рю Мураками",
+        "notes": "",
+        "createdAt": "2017-03-31 07:29:39",
+        "user": {
+            "id": "141879993-vkontakte",
+            "nickname": "kvisha11",
+            "booksCount": 1
+        }
+    },
     "AakhRfSbJW": {
         "id": "AakhRfSbJW",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 36
-        }
-    },
-    "5o2P_fK9gm": {
-        "id": "5o2P_fK9gm",
-        "title": "Судьба человека",
-        "author": "Михаил Шолохов",
-        "notes": "Реальная история о человеке, которого однажды повстречал автор.",
-        "createdAt": "2017-03-29 03:10:17",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 35
         }
     }
 }
