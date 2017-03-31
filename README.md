@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
+    > Рассказывается о времени, в течении которого, автор работал на железной дороге.
+    > 18612 - Февральск
+
 * Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
     > Книга 3
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
-    > Цикл "Воители"
-    > Книга 2
 
 * Коты-Воители: Стань диким! ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Басни ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>41</sup>
 
-* Гранатовый браслет ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>513</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
 [Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 
 
-_31.03.2017 07:29:39_
+_31.03.2017 08:34:34_
