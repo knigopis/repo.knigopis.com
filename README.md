@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
+    > Про гражданскую войну на Дону. Рассказ Батраки напоминает про д Федю.
+
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
     > Цикл "Воители"
     > Книга 4
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 18612 - Февральск
 
 * Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-    > Книга 3
 
 * Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Сельский врач ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup>
 
-* Детство.Отрочество.Юность. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>27</sup> 
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
-[345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
 
 
-_31.03.2017 16:55:10_
+_31.03.2017 19:32:32_
