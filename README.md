@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kvisha11](users/141/141879993-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>139</sup> 
 [genrih59](users/872/872361436199401-facebook)<sup>21</sup> 
 [345mhz](users/107/107233253672325058205-google)<sup>4</sup> 
-[345mhz](users/100/100057153114799209630-google)<sup>0</sup> 
 
 
-_30.03.2017 23:17:15_
+_31.03.2017 07:28:59_
