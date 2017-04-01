@@ -1,4 +1,16 @@
 {
+    "fLbF9ndpo3": {
+        "id": "fLbF9ndpo3",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-04-01 13:56:44",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 12
+        }
+    },
     "yVg590qSKT": {
         "id": "yVg590qSKT",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 100
-        }
-    },
-    "eULmzTm6pL": {
-        "id": "eULmzTm6pL",
-        "title": "Коты-Воители: Огонь и лёд",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 2",
-        "createdAt": "2017-03-30 08:37:53",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 99
         }
     }
 }
