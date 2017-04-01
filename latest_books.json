@@ -1,4 +1,16 @@
 {
+    "eeo7eKaCy6": {
+        "id": "eeo7eKaCy6",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-01 13:47:34",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 1
+        }
+    },
     "63HnUI6h32": {
         "id": "63HnUI6h32",
         "title": "Серебряные коньки",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 41
-        }
-    },
-    "NziSfrv7l0": {
-        "id": "NziSfrv7l0",
-        "title": "Гранатовый браслет",
-        "author": "Александр Куприн",
-        "notes": "Трогательная история о любви молодого парня к женатой девушке, которой он подарил гранатовый браслет.",
-        "createdAt": "2017-03-29 03:13:36",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 40
         }
     }
 }
