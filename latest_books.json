@@ -1,4 +1,16 @@
 {
+    "ZGu1hBEDOo": {
+        "id": "ZGu1hBEDOo",
+        "title": "Бег",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-04-01 14:17:50",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 32
+        }
+    },
     "i1MDBKe0vc": {
         "id": "i1MDBKe0vc",
         "title": "Судьба человека",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 3
-        }
-    },
-    "5iYWbMm5_Z": {
-        "id": "5iYWbMm5_Z",
-        "title": "Чувство и чувствительность",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-04-01 13:48:19",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 2
         }
     }
 }
