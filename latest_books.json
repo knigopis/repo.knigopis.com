@@ -1,4 +1,16 @@
 {
+    "EuSz_ZI_h9": {
+        "id": "EuSz_ZI_h9",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-04-01 14:04:05",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 24
+        }
+    },
     "L9tSYDEwOd": {
         "id": "L9tSYDEwOd",
         "title": "Ночь в Лиссабоне",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 8
-        }
-    },
-    "p0P7VAyRve": {
-        "id": "p0P7VAyRve",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-03-30 21:57:25",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 7
         }
     }
 }
