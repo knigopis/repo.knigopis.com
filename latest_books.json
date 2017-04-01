@@ -1,4 +1,16 @@
 {
+    "DYGSVwmlzi": {
+        "id": "DYGSVwmlzi",
+        "title": "12 стульев",
+        "author": "Илья Ильф, Евгений Петров",
+        "notes": "",
+        "createdAt": "2017-04-01 13:57:08",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 14
+        }
+    },
     "c4NmUSulq7": {
         "id": "c4NmUSulq7",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "112661510199640943702-google",
             "nickname": "mg901",
             "booksCount": 1
-        }
-    },
-    "_rFhLzXCYD": {
-        "id": "_rFhLzXCYD",
-        "title": "Город Эмбер: Предсказание",
-        "author": "Джин Дюпро",
-        "notes": "Книга 3",
-        "createdAt": "2017-03-30 08:42:36",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
