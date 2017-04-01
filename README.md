@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
+    > не самая лучшая  часть Тайного Города. Хотя,  про Ладогу (Лудяное и Ледовое побоище) было интересно
+
 * Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
     > Про гражданскую войну на Дону. Рассказ Батраки напоминает про д Федю.
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Книга 4
 
 * Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
-    > Рассказывается о времени, в течении которого, автор работал на железной дороге.
-    > 18612 - Февральск
 
 * Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Повелитель мух ~ [rNix](users/115/115622071-twitter)<sup>52</sup>
 
-* Сельский врач ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>34</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 [souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
 [Derek777](users/153/15386028-yandex)<sup>27</sup> 
-[lucius](users/838/83820536-yandex)<sup>139</sup> 
 
 
-_01.04.2017 14:17:50_
+_01.04.2017 15:10:08_
