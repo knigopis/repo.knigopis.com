@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>27</sup>
+# List of books read by hengehok<sup>28</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 
 
 ## Other years
+
+### Герой нашего времени
+М.Ю.Лермонтов
+
 
 ### Лев Толстой
 Воскресение

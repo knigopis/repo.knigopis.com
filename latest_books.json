@@ -1,4 +1,16 @@
 {
+    "_VdzonMLML": {
+        "id": "_VdzonMLML",
+        "title": "Герой нашего времени",
+        "author": "М.Ю.Лермонтов",
+        "notes": "",
+        "createdAt": "2017-04-01 14:10:49",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 28
+        }
+    },
     "NagDfHyr53": {
         "id": "NagDfHyr53",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 20
-        }
-    },
-    "nvDAM3mP3L": {
-        "id": "nvDAM3mP3L",
-        "title": "Коты-Воители: Бушующая стихия",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 4",
-        "createdAt": "2017-03-31 16:55:10",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 97
         }
     }
 }
