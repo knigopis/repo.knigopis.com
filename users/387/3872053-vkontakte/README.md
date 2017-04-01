@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>10</sup>
+# List of books read by hengehok<sup>11</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 
 
 ## Other years
+
+### О дивный новый мир
+Олдос Хаксли
+
 
 ### Вокруг света за 80 дней
 Жюль Верн

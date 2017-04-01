@@ -1,4 +1,16 @@
 {
+    "yVg590qSKT": {
+        "id": "yVg590qSKT",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-04-01 13:56:27",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 11
+        }
+    },
     "BthgtyqEwy": {
         "id": "BthgtyqEwy",
         "title": "Вокруг света за 80 дней",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 99
-        }
-    },
-    "0toNUJjgu-": {
-        "id": "0toNUJjgu-",
-        "title": "Коты-Воители: Стань диким!",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 1",
-        "createdAt": "2017-03-30 08:37:20",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
