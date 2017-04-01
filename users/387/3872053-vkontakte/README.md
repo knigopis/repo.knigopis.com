@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>29</sup>
+# List of books read by hengehok<sup>30</sup>
 ---
 
 ## 2017
@@ -46,6 +46,11 @@
 
 
 ## Other years
+
+### Повесть о настоящем человеке
+Борис Полевой
+> про летчика Мересьева
+
 
 ### А зори здесь тихие
 Борис Васильев

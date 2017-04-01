@@ -1,4 +1,16 @@
 {
+    "xkE7wfSvYB": {
+        "id": "xkE7wfSvYB",
+        "title": "Повесть о настоящем человеке",
+        "author": "Борис Полевой",
+        "notes": "про летчика Мересьева",
+        "createdAt": "2017-04-01 14:14:37",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 30
+        }
+    },
     "-JTM3nm8I4": {
         "id": "-JTM3nm8I4",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 1
-        }
-    },
-    "63HnUI6h32": {
-        "id": "63HnUI6h32",
-        "title": "Серебряные коньки",
-        "author": "Мери Мейпс Додж",
-        "notes": "",
-        "createdAt": "2017-03-31 20:02:32",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 34
         }
     }
 }
