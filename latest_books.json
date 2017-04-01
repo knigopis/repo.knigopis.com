@@ -1,4 +1,16 @@
 {
+    "as3FFv-g8u": {
+        "id": "as3FFv-g8u",
+        "title": "Преступление и наказание",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-01 13:59:56",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 16
+        }
+    },
     "Gh6xGblcPo": {
         "id": "Gh6xGblcPo",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "106805009126778959980-google",
             "nickname": "Hellgiss",
             "booksCount": 1
-        }
-    },
-    "hg6fAsTNoF": {
-        "id": "hg6fAsTNoF",
-        "title": "Полуночный танец дракона",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-03-30 12:33:23",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 13
         }
     }
 }
