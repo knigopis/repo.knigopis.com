@@ -1,4 +1,16 @@
 {
+    "MSatrX2oJc": {
+        "id": "MSatrX2oJc",
+        "title": "Последнее письмо от твоего любимого",
+        "author": "Джоджо Моейс",
+        "notes": "",
+        "createdAt": "2017-04-01 13:51:51",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 5
+        }
+    },
     "JK3rqsc1UB": {
         "id": "JK3rqsc1UB",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 512
-        }
-    },
-    "OhfflOx1Dm": {
-        "id": "OhfflOx1Dm",
-        "title": "Покровские ворота",
-        "author": "Леонид Зорин",
-        "notes": "",
-        "createdAt": "2017-03-29 07:53:26",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 511
         }
     }
 }
