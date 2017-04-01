@@ -1,4 +1,16 @@
 {
+    "xgBL0Wwf_T": {
+        "id": "xgBL0Wwf_T",
+        "title": "Игрок",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-01 14:00:06",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 17
+        }
+    },
     "as3FFv-g8u": {
         "id": "as3FFv-g8u",
         "title": "Преступление и наказание",
@@ -344,18 +356,6 @@
         "user": {
             "id": "118330474331574680123-google",
             "nickname": "beiner",
-            "booksCount": 1
-        }
-    },
-    "Y31WG0j97N": {
-        "id": "Y31WG0j97N",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-03-30 20:55:04",
-        "user": {
-            "id": "106805009126778959980-google",
-            "nickname": "Hellgiss",
             "booksCount": 1
         }
     }
