@@ -1,4 +1,16 @@
 {
+    "5iYWbMm5_Z": {
+        "id": "5iYWbMm5_Z",
+        "title": "Чувство и чувствительность",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-01 13:48:19",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 2
+        }
+    },
     "eeo7eKaCy6": {
         "id": "eeo7eKaCy6",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 42
-        }
-    },
-    "1hDurm20c8": {
-        "id": "1hDurm20c8",
-        "title": "Басни",
-        "author": "Иван Крылов",
-        "notes": "Небольшие истории с глубоким смыслом.",
-        "createdAt": "2017-03-29 03:14:00",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 41
         }
     }
 }
