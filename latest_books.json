@@ -1,4 +1,16 @@
 {
+    "0CE7NjvmqF": {
+        "id": "0CE7NjvmqF",
+        "title": "Лев Толстой",
+        "author": "Воскресение",
+        "notes": "Нехлюдов, Катюша Маслова",
+        "createdAt": "2017-04-01 14:09:58",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 26
+        }
+    },
     "U6dsHEmsEo": {
         "id": "U6dsHEmsEo",
         "title": "Черный обелиск",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 75
-        }
-    },
-    "cWfe8zN7Ku": {
-        "id": "cWfe8zN7Ku",
-        "title": "Дети из камеры хранения",
-        "author": "Рю Мураками",
-        "notes": "",
-        "createdAt": "2017-03-31 07:29:39",
-        "user": {
-            "id": "141879993-vkontakte",
-            "nickname": "kvisha11",
-            "booksCount": 1
         }
     }
 }
