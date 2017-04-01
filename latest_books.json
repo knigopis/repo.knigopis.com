@@ -1,4 +1,16 @@
 {
+    "oKuPzFikOf": {
+        "id": "oKuPzFikOf",
+        "title": "Война и мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-04-01 13:50:35",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 3
+        }
+    },
     "5iYWbMm5_Z": {
         "id": "5iYWbMm5_Z",
         "title": "Чувство и чувствительность",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 43
-        }
-    },
-    "BdDNVt3T7w": {
-        "id": "BdDNVt3T7w",
-        "title": "Детство.Отрочество.Юность.",
-        "author": "Лев Николаевич Толстой",
-        "notes": "Псевдо-автобиографическая трилогия Льва Толстого.",
-        "createdAt": "2017-03-29 03:23:00",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 42
         }
     }
 }
