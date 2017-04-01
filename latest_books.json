@@ -1,4 +1,16 @@
 {
+    "K0u1zXir6j": {
+        "id": "K0u1zXir6j",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "про смертельно больную девушку и гонщика (гонщик погиб)",
+        "createdAt": "2017-04-01 14:02:54",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 22
+        }
+    },
     "vaU8v0TlqV": {
         "id": "vaU8v0TlqV",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 6
-        }
-    },
-    "QvMHrAcORL": {
-        "id": "QvMHrAcORL",
-        "title": "Белое на черном",
-        "author": "Рубен Давид Гонсалес Гальего",
-        "notes": "",
-        "createdAt": "2017-03-30 21:55:00",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 5
         }
     }
 }
