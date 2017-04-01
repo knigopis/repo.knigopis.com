@@ -1,4 +1,16 @@
 {
+    "Gh6xGblcPo": {
+        "id": "Gh6xGblcPo",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-04-01 13:59:33",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 15
+        }
+    },
     "DYGSVwmlzi": {
         "id": "DYGSVwmlzi",
         "title": "12 стульев",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 13
-        }
-    },
-    "wWYoZV1zAx": {
-        "id": "wWYoZV1zAx",
-        "title": "Мухобойная Хлеборезка",
-        "author": "Федот Луговой",
-        "notes": "Так себе...",
-        "createdAt": "2017-03-30 10:02:50",
-        "user": {
-            "id": "112661510199640943702-google",
-            "nickname": "mg901",
-            "booksCount": 1
         }
     }
 }
