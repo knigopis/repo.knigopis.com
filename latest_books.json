@@ -1,4 +1,16 @@
 {
+    "-09J3RvZIA": {
+        "id": "-09J3RvZIA",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-04-01 13:53:43",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 7
+        }
+    },
     "_vaMTyJhOb": {
         "id": "_vaMTyJhOb",
         "title": "Не верю. Не надеюсь. Люблю (Там, где заканчивается радуга)",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 74
-        }
-    },
-    "45SBoEyecG": {
-        "id": "45SBoEyecG",
-        "title": "Диего и Фрида",
-        "author": "Жан-Мари Леклезио",
-        "notes": "",
-        "createdAt": "2017-03-29 15:05:11",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 513
         }
     }
 }
