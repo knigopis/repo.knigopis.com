@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>30</sup>
+# List of books read by hengehok<sup>31</sup>
 ---
 
 ## 2017
@@ -46,6 +46,11 @@
 
 
 ## Other years
+
+### Судьба человека
+Михаил Шолохов
+> про плен
+
 
 ### Повесть о настоящем человеке
 Борис Полевой

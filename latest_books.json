@@ -1,4 +1,16 @@
 {
+    "i1MDBKe0vc": {
+        "id": "i1MDBKe0vc",
+        "title": "Судьба человека",
+        "author": "Михаил Шолохов",
+        "notes": "про плен",
+        "createdAt": "2017-04-01 14:15:02",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 31
+        }
+    },
     "xkE7wfSvYB": {
         "id": "xkE7wfSvYB",
         "title": "Повесть о настоящем человеке",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 2
-        }
-    },
-    "eeo7eKaCy6": {
-        "id": "eeo7eKaCy6",
-        "title": "Гордость и предубеждение",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-04-01 13:47:34",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 1
         }
     }
 }
