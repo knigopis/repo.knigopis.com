@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>24</sup>
+# List of books read by hengehok<sup>25</sup>
 ---
 
 ## 2017
@@ -41,6 +41,11 @@
 
 
 ## Other years
+
+### Черный обелиск
+Эрих Мария Ремарк
+> гробовщики
+
 
 ### Граф Монте-Кристо
 Александр Дюма

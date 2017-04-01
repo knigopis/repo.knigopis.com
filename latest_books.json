@@ -1,4 +1,16 @@
 {
+    "U6dsHEmsEo": {
+        "id": "U6dsHEmsEo",
+        "title": "Черный обелиск",
+        "author": "Эрих Мария Ремарк",
+        "notes": "гробовщики",
+        "createdAt": "2017-04-01 14:04:38",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 25
+        }
+    },
     "EuSz_ZI_h9": {
         "id": "EuSz_ZI_h9",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "141879993-vkontakte",
             "nickname": "kvisha11",
             "booksCount": 1
-        }
-    },
-    "AakhRfSbJW": {
-        "id": "AakhRfSbJW",
-        "title": "Анна Каренина",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2017-03-30 21:58:23",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 8
         }
     }
 }
