@@ -1,4 +1,16 @@
 {
+    "6EaVx-SJdk": {
+        "id": "6EaVx-SJdk",
+        "title": "20 тысяч лье под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-04-01 13:55:29",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 8
+        }
+    },
     "-09J3RvZIA": {
         "id": "-09J3RvZIA",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 52
-        }
-    },
-    "kLn0qXcEyN": {
-        "id": "kLn0qXcEyN",
-        "title": "Сельский врач",
-        "author": "Кафка Франц",
-        "notes": "Всё смешалось...кони, люди...Некоторые моменты в рассказе трудно воспринимать. Попробуем другие произведения.",
-        "createdAt": "2017-03-29 15:25:20",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 74
         }
     }
 }
