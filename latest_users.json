@@ -1,4 +1,10 @@
 {
+    "3872053-vkontakte": {
+        "id": "3872053-vkontakte",
+        "nickname": "hengehok",
+        "booksCount": 0,
+        "updatedAt": "2017-04-01 13:36:27"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 139,
         "updatedAt": "2017-03-25 12:50:37"
-    },
-    "872361436199401-facebook": {
-        "id": "872361436199401-facebook",
-        "nickname": "genrih59",
-        "booksCount": 21,
-        "updatedAt": "2017-03-25 11:16:16"
     }
 }
