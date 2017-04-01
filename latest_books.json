@@ -1,4 +1,16 @@
 {
+    "vaU8v0TlqV": {
+        "id": "vaU8v0TlqV",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-01 14:02:03",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 21
+        }
+    },
     "alxzJT3ryS": {
         "id": "alxzJT3ryS",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 5
-        }
-    },
-    "4yj3xM0smp": {
-        "id": "4yj3xM0smp",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-03-30 21:53:08",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 4
         }
     }
 }
