@@ -1,4 +1,4 @@
-# List of books read by hengehok<sup>28</sup>
+# List of books read by hengehok<sup>29</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 
 
 ## Other years
+
+### А зори здесь тихие
+Борис Васильев
+
 
 ### Герой нашего времени
 М.Ю.Лермонтов

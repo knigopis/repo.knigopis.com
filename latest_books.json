@@ -1,4 +1,16 @@
 {
+    "-JTM3nm8I4": {
+        "id": "-JTM3nm8I4",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2017-04-01 14:12:41",
+        "user": {
+            "id": "3872053-vkontakte",
+            "nickname": "hengehok",
+            "booksCount": 29
+        }
+    },
     "_VdzonMLML": {
         "id": "_VdzonMLML",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 34
-        }
-    },
-    "Sz-yKGLeeZ": {
-        "id": "Sz-yKGLeeZ",
-        "title": "Донские рассказы",
-        "author": "Шолохов",
-        "notes": "Про гражданскую войну на Дону. Рассказ Батраки напоминает про д Федю.",
-        "createdAt": "2017-03-31 19:32:32",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 20
         }
     }
 }
