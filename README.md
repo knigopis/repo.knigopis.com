@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
-[souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
 
 
-_02.04.2017 05:55:22_
+_02.04.2017 10:11:35_
