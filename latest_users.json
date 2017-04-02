@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 140,
+        "updatedAt": "2017-04-02 05:55:22"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "souffle_masha",
         "booksCount": 0,
         "updatedAt": "2017-03-25 17:38:43"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 27,
-        "updatedAt": "2017-03-25 15:30:30"
     }
 }

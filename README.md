@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
+    > Книга очень понравилась. Восточная стратегия войны за власть и культура  Японии завораживает. Тем более интересно читать, зная что книга отчасти основана на реальных исторических событиях.
+
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
     > не самая лучшая  часть Тайного Города. Хотя,  про Ладогу (Лудяное и Ледовое побоище) было интересно
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Про гражданскую войну на Дону. Рассказ Батраки напоминает про д Федю.
 
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
-    > Цикл "Воители"
-    > Книга 4
 
 * Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
-* Повелитель мух ~ [rNix](users/115/115622071-twitter)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>140</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>34</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 [souffle_masha](users/sou/souffle_masha-lastfm)<sup>0</sup> 
-[Derek777](users/153/15386028-yandex)<sup>27</sup> 
 
 
-_01.04.2017 15:10:08_
+_02.04.2017 05:55:22_
