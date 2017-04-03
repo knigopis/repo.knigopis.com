@@ -1,4 +1,16 @@
 {
+    "Wmp1dwGa1h": {
+        "id": "Wmp1dwGa1h",
+        "title": "Небесные жители",
+        "author": "Жан-Мари Леклезио",
+        "notes": "",
+        "createdAt": "2017-04-03 06:01:23",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 514
+        }
+    },
     "0SueS1ODII": {
         "id": "0SueS1ODII",
         "title": "Сёгун. Книга 3",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 6
-        }
-    },
-    "MSatrX2oJc": {
-        "id": "MSatrX2oJc",
-        "title": "Последнее письмо от твоего любимого",
-        "author": "Джоджо Моейс",
-        "notes": "",
-        "createdAt": "2017-04-01 13:51:51",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 5
         }
     }
 }
