@@ -1,4 +1,16 @@
 {
+    "iL886-bJAw": {
+        "id": "iL886-bJAw",
+        "title": "Особые заслуги",
+        "author": "Ионна Хмелевская",
+        "notes": "",
+        "createdAt": "2017-04-04 18:09:31",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 52
+        }
+    },
     "5MNADfaYsp": {
         "id": "5MNADfaYsp",
         "title": "Дом с привидениями",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 23
-        }
-    },
-    "MXkcopK_h1": {
-        "id": "MXkcopK_h1",
-        "title": "Таймлесс: Сапфировая книга",
-        "author": "Керстин Гир",
-        "notes": "",
-        "createdAt": "2017-04-04 17:41:40",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 22
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>51</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>52</sup>
 ---
 
 ## 2017
@@ -175,6 +175,11 @@
 ### Сердце волка
 Мишель Пейвер
 > [2014-09] 
+
+
+### Особые заслуги
+Ионна Хмелевская
+> [2014-08] 
 
 
 ### Дом с привидениями
