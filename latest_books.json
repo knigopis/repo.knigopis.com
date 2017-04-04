@@ -1,4 +1,16 @@
 {
+    "UL6m8SjIFH": {
+        "id": "UL6m8SjIFH",
+        "title": "Остров сокровищ",
+        "author": "Роберт Льюис Стивенсон",
+        "notes": "",
+        "createdAt": "2017-04-04 18:04:41",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 47
+        }
+    },
     "Kmftq5y9Fm": {
         "id": "Kmftq5y9Fm",
         "title": "Черная стрела",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 18
-        }
-    },
-    "dotmsi4mDR": {
-        "id": "dotmsi4mDR",
-        "title": "Тайна украденной рукописи",
-        "author": "Анна Устинова",
-        "notes": "",
-        "createdAt": "2017-04-04 17:33:32",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 17
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>46</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>47</sup>
 ---
 
 ## 2017
@@ -243,6 +243,11 @@
 ### Черная стрела
 Роберт Льюис Стивенсон
 > [2013-11] 
+
+
+### Остров сокровищ
+Роберт Льюис Стивенсон
+> [2013-10] 
 
 
 
