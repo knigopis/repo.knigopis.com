@@ -1,4 +1,16 @@
 {
+    "xXU34_OgoC": {
+        "id": "xXU34_OgoC",
+        "title": "Лунный камень",
+        "author": "Уилки Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-04 17:09:29",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 2
+        }
+    },
     "RP7aNIKoii": {
         "id": "RP7aNIKoii",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 8
-        }
-    },
-    "-09J3RvZIA": {
-        "id": "-09J3RvZIA",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2017-04-01 13:53:43",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 7
         }
     }
 }
