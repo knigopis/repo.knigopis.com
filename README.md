@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>53</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>514</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
-[Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
 
 
-_04.04.2017 18:09:47_
+_04.04.2017 18:10:11_
