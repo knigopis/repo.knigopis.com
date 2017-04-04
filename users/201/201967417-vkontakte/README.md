@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>42</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>43</sup>
 ---
 
 ## 2017
@@ -180,6 +180,11 @@
 ### Брат волк
 Мишель Пейвер
 > [2014-08] 
+
+
+### Гарри Поттер и кубок огня
+Джоан Роулинг
+> [2014-04] 
 
 
 ### Гарри поттер и узник Азкабана
