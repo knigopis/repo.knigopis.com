@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>34</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>35</sup>
 ---
 
 ## 2017
@@ -180,6 +180,11 @@
 ### Брат волк
 Мишель Пейвер
 > [2014-08] 
+
+
+### Стань диким!
+Эрин Хантер
+> [2014-01] 
 
 
 

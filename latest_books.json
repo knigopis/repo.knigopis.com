@@ -1,4 +1,16 @@
 {
+    "_GoWPzH4NL": {
+        "id": "_GoWPzH4NL",
+        "title": "Стань диким!",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:53:24",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 35
+        }
+    },
     "hacVK4VvSb": {
         "id": "hacVK4VvSb",
         "title": "Всадник без головы",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 6
-        }
-    },
-    "RG5KGPhubC": {
-        "id": "RG5KGPhubC",
-        "title": "Волчица и пряности 1",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:12:54",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 5
         }
     }
 }
