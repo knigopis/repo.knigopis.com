@@ -1,4 +1,16 @@
 {
+    "SJflGTn51X": {
+        "id": "SJflGTn51X",
+        "title": "Изгнанник",
+        "author": "Мишель Пейвер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:43:06",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 24
+        }
+    },
     "4MhEAOwUmW": {
         "id": "4MhEAOwUmW",
         "title": "Таймлесс: Изумрудная книга",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 30
-        }
-    },
-    "-JTM3nm8I4": {
-        "id": "-JTM3nm8I4",
-        "title": "А зори здесь тихие",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2017-04-01 14:12:41",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 29
         }
     }
 }
