@@ -1,4 +1,16 @@
 {
+    "zqRCTQ0dB0": {
+        "id": "zqRCTQ0dB0",
+        "title": "Опасная тропа",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:57:45",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 39
+        }
+    },
     "Yo7gw03ovK": {
         "id": "Yo7gw03ovK",
         "title": "Бушующая стихия",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 10
-        }
-    },
-    "kTRmgB88iC": {
-        "id": "kTRmgB88iC",
-        "title": "Волчица и пряности том 5",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:14:32",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 9
         }
     }
 }
