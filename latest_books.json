@@ -1,4 +1,16 @@
 {
+    "Yo7gw03ovK": {
+        "id": "Yo7gw03ovK",
+        "title": "Бушующая стихия",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:57:29",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 38
+        }
+    },
     "3s0kuK3gCR": {
         "id": "3s0kuK3gCR",
         "title": "Лес секретов",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 9
-        }
-    },
-    "cRw0foHFWJ": {
-        "id": "cRw0foHFWJ",
-        "title": "Волчица и пряности том 4",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:14:16",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 8
         }
     }
 }
