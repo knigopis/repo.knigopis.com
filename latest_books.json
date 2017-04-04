@@ -1,4 +1,16 @@
 {
+    "dotmsi4mDR": {
+        "id": "dotmsi4mDR",
+        "title": "Тайна украденной рукописи",
+        "author": "Анна Устинова",
+        "notes": "",
+        "createdAt": "2017-04-04 17:33:32",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 17
+        }
+    },
     "kkpFjpkSIb": {
         "id": "kkpFjpkSIb",
         "title": "Тайна коварной русалки",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 23
-        }
-    },
-    "K0u1zXir6j": {
-        "id": "K0u1zXir6j",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "про смертельно больную девушку и гонщика (гонщик погиб)",
-        "createdAt": "2017-04-01 14:02:54",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 22
         }
     }
 }

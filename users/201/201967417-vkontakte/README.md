@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>16</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>17</sup>
 ---
 
 ## 2017
@@ -73,6 +73,11 @@
 
 
 ## 2015
+
+### Тайна украденной рукописи
+Анна Устинова
+> [2015-12] 
+
 
 ### Тайна коварной русалки
 Анна Устинова
