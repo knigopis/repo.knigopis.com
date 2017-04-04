@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>4</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>5</sup>
 ---
 
 ## 2017
@@ -24,6 +24,11 @@
 ### А зори здесь тихие...
 Борис Васильев
 > [2016-07-28] 
+
+
+### Волчица и пряности 1
+Исуна Хасэкура
+> [2016-06] 
 
 
 

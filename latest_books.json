@@ -1,4 +1,16 @@
 {
+    "RG5KGPhubC": {
+        "id": "RG5KGPhubC",
+        "title": "Волчица и пряности 1",
+        "author": "Исуна Хасэкура",
+        "notes": "",
+        "createdAt": "2017-04-04 17:12:54",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 5
+        }
+    },
     "Odot2KXJp5": {
         "id": "Odot2KXJp5",
         "title": "А зори здесь тихие...",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 11
-        }
-    },
-    "BthgtyqEwy": {
-        "id": "BthgtyqEwy",
-        "title": "Вокруг света за 80 дней",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-04-01 13:56:05",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 10
         }
     }
 }
