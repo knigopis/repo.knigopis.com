@@ -1,4 +1,16 @@
 {
+    "XO1tzOzqsp": {
+        "id": "XO1tzOzqsp",
+        "title": "Занимательная Греция",
+        "author": "Михаил Гаспаров",
+        "notes": "",
+        "createdAt": "2017-04-04 17:16:34",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 12
+        }
+    },
     "FsFLCfqe1g": {
         "id": "FsFLCfqe1g",
         "title": "Сердца трех",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 18
-        }
-    },
-    "xgBL0Wwf_T": {
-        "id": "xgBL0Wwf_T",
-        "title": "Игрок",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-01 14:00:06",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 17
         }
     }
 }
