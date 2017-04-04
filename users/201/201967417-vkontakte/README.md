@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>10</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>11</sup>
 ---
 
 ## 2017
@@ -14,6 +14,11 @@
 ### Лунный камень
 Уилки Коллинз
 > [2016-11-18] 
+
+
+### Сердца трех
+Джек Лондон
+> [2016-10-08] 
 
 
 ### Война миров

@@ -1,4 +1,16 @@
 {
+    "FsFLCfqe1g": {
+        "id": "FsFLCfqe1g",
+        "title": "Сердца трех",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-04 17:15:26",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 11
+        }
+    },
     "NVVNu_ewyh": {
         "id": "NVVNu_ewyh",
         "title": "Волчица и пряности том 6",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 17
-        }
-    },
-    "as3FFv-g8u": {
-        "id": "as3FFv-g8u",
-        "title": "Преступление и наказание",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-01 13:59:56",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 16
         }
     }
 }
