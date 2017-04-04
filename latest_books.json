@@ -1,4 +1,16 @@
 {
+    "hd53ZV45hA": {
+        "id": "hd53ZV45hA",
+        "title": "В поисках йети",
+        "author": "Альберто Мелис",
+        "notes": "",
+        "createdAt": "2017-04-04 17:49:31",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 30
+        }
+    },
     "jp8PqMEQqg": {
         "id": "jp8PqMEQqg",
         "title": "Пожиратель душ",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 1
-        }
-    },
-    "Wmp1dwGa1h": {
-        "id": "Wmp1dwGa1h",
-        "title": "Небесные жители",
-        "author": "Жан-Мари Леклезио",
-        "notes": "",
-        "createdAt": "2017-04-03 06:01:23",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 514
         }
     }
 }
