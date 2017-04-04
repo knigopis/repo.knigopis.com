@@ -1,4 +1,16 @@
 {
+    "1klT_YMZtO": {
+        "id": "1klT_YMZtO",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-04 17:35:27",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 18
+        }
+    },
     "dotmsi4mDR": {
         "id": "dotmsi4mDR",
         "title": "Тайна украденной рукописи",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 24
-        }
-    },
-    "L9tSYDEwOd": {
-        "id": "L9tSYDEwOd",
-        "title": "Ночь в Лиссабоне",
-        "author": "Эрих Мария Ремарк",
-        "notes": "про Елену и ее мужа, плен, отдали билеты до Америки",
-        "createdAt": "2017-04-01 14:03:45",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 23
         }
     }
 }

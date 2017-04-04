@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>17</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>18</sup>
 ---
 
 ## 2017
@@ -92,6 +92,11 @@
 ### Тайна пропавшего академика
 Анна Устинова
 > [2015-08] 
+
+
+### Голодные игры
+Сьюзен Коллинз
+> [2015-07] 
 
 
 
