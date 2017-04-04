@@ -1,4 +1,16 @@
 {
+    "Odot2KXJp5": {
+        "id": "Odot2KXJp5",
+        "title": "А зори здесь тихие...",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2017-04-04 17:11:20",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 4
+        }
+    },
     "8eMeECHH0S": {
         "id": "8eMeECHH0S",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 10
-        }
-    },
-    "pMHw9G0Xr7": {
-        "id": "pMHw9G0Xr7",
-        "title": "Таинственный остров",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-04-01 13:55:41",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 9
         }
     }
 }
