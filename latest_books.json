@@ -1,4 +1,16 @@
 {
+    "dJoNZBhPHh": {
+        "id": "dJoNZBhPHh",
+        "title": "Жемчужина дракона",
+        "author": "Альберто Мелис",
+        "notes": "",
+        "createdAt": "2017-04-04 17:50:40",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 32
+        }
+    },
     "K2YKCTGAcz": {
         "id": "K2YKCTGAcz",
         "title": "Тайна озера Лох-Несс",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 3
-        }
-    },
-    "xXU34_OgoC": {
-        "id": "xXU34_OgoC",
-        "title": "Лунный камень",
-        "author": "Уилки Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-04 17:09:29",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 2
         }
     }
 }

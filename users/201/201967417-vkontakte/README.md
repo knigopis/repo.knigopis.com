@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>31</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>32</sup>
 ---
 
 ## 2017
@@ -141,6 +141,11 @@
 
 
 ## 2014
+
+### Жемчужина дракона
+Альберто Мелис
+> [2014-10] 
+
 
 ### Тайна озера Лох-Несс
 Альберто Мелис
