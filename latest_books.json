@@ -1,4 +1,16 @@
 {
+    "NVVNu_ewyh": {
+        "id": "NVVNu_ewyh",
+        "title": "Волчица и пряности том 6",
+        "author": "Исуна Хасэкура",
+        "notes": "",
+        "createdAt": "2017-04-04 17:14:46",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 10
+        }
+    },
     "kTRmgB88iC": {
         "id": "kTRmgB88iC",
         "title": "Волчица и пряности том 5",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 16
-        }
-    },
-    "Gh6xGblcPo": {
-        "id": "Gh6xGblcPo",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-04-01 13:59:33",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 15
         }
     }
 }
