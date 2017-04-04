@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>44</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>45</sup>
 ---
 
 ## 2017
@@ -180,6 +180,11 @@
 ### Брат волк
 Мишель Пейвер
 > [2014-08] 
+
+
+### Гарри Поттер и дары смерти
+Джоан Роулинг
+> [2014-05] 
 
 
 ### Гарри Поттер и Орден феникса
