@@ -1,4 +1,16 @@
 {
+    "hIzVH1Je2E": {
+        "id": "hIzVH1Je2E",
+        "title": "Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-04 17:37:09",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 20
+        }
+    },
     "-Vy7kB8k6y": {
         "id": "-Vy7kB8k6y",
         "title": "И вспыхнет пламя",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 26
-        }
-    },
-    "U6dsHEmsEo": {
-        "id": "U6dsHEmsEo",
-        "title": "Черный обелиск",
-        "author": "Эрих Мария Ремарк",
-        "notes": "гробовщики",
-        "createdAt": "2017-04-01 14:04:38",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 25
         }
     }
 }
