@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 25,
+        "updatedAt": "2017-04-04 22:35:39"
+    },
     "201967417-vkontakte": {
         "id": "201967417-vkontakte",
         "nickname": "scarteslett",
@@ -172,11 +178,5 @@
         "nickname": "inerren",
         "booksCount": 1,
         "updatedAt": "2017-03-26 13:54:15"
-    },
-    "72921911-vkontakte": {
-        "id": "72921911-vkontakte",
-        "nickname": "Reydzi",
-        "booksCount": 0,
-        "updatedAt": "2017-03-26 11:52:05"
     }
 }

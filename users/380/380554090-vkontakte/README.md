@@ -1,7 +1,11 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>24</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>25</sup>
 ---
 
 ## 2017
+
+Уильям Шекспир
+> [2017-04-05] 
+
 
 ### Солярис
 Станислав Лем

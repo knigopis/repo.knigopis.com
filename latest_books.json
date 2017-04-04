@@ -1,4 +1,16 @@
 {
+    "YOxK5UtS2i": {
+        "id": "YOxK5UtS2i",
+        "title": "",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-04-04 22:35:39",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 25
+        }
+    },
     "vzy1vbCqXY": {
         "id": "vzy1vbCqXY",
         "title": "Кривой домишко",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 26
-        }
-    },
-    "NdeDwIL2Xn": {
-        "id": "NdeDwIL2Xn",
-        "title": "Клятвопреступник",
-        "author": "Мишель Пейвер",
-        "notes": "",
-        "createdAt": "2017-04-04 17:43:29",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 25
         }
     }
 }
