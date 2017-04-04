@@ -1,4 +1,16 @@
 {
+    "PaIhDPtlob": {
+        "id": "PaIhDPtlob",
+        "title": "Охота на духов",
+        "author": "Мишель Пейвер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:44:06",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 26
+        }
+    },
     "NdeDwIL2Xn": {
         "id": "NdeDwIL2Xn",
         "title": "Клятвопреступник",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 32
-        }
-    },
-    "i1MDBKe0vc": {
-        "id": "i1MDBKe0vc",
-        "title": "Судьба человека",
-        "author": "Михаил Шолохов",
-        "notes": "про плен",
-        "createdAt": "2017-04-01 14:15:02",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 31
         }
     }
 }
