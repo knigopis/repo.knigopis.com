@@ -1,4 +1,16 @@
 {
+    "cV26A7rgqZ": {
+        "id": "cV26A7rgqZ",
+        "title": "Волшебный единорог",
+        "author": "Альберто Мелис",
+        "notes": "",
+        "createdAt": "2017-04-04 17:50:54",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 33
+        }
+    },
     "dJoNZBhPHh": {
         "id": "dJoNZBhPHh",
         "title": "Жемчужина дракона",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 4
-        }
-    },
-    "8eMeECHH0S": {
-        "id": "8eMeECHH0S",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2017-04-04 17:10:03",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 3
         }
     }
 }
