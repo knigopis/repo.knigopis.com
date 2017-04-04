@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>45</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>46</sup>
 ---
 
 ## 2017
@@ -238,6 +238,11 @@
 ### Стань диким!
 Эрин Хантер
 > [2013-12] 
+
+
+### Черная стрела
+Роберт Льюис Стивенсон
+> [2013-11] 
 
 
 
