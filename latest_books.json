@@ -1,4 +1,16 @@
 {
+    "yPlBWDQzNK": {
+        "id": "yPlBWDQzNK",
+        "title": "Тайна заброшенной часовни",
+        "author": "Анна Устинова",
+        "notes": "",
+        "createdAt": "2017-04-04 17:31:46",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 15
+        }
+    },
     "57Zjd4ZdiP": {
         "id": "57Zjd4ZdiP",
         "title": "Тайна пропавшего академика",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 21
-        }
-    },
-    "alxzJT3ryS": {
-        "id": "alxzJT3ryS",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "любимое",
-        "createdAt": "2017-04-01 14:01:53",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 20
         }
     }
 }

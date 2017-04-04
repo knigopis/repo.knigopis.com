@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>14</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>15</sup>
 ---
 
 ## 2017
@@ -73,6 +73,11 @@
 
 
 ## 2015
+
+### Тайна заброшенной часовни
+Анна Устинова
+> [2015-08] 
+
 
 ### Тайна пропавшего академика
 Анна Устинова
