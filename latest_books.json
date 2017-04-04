@@ -1,4 +1,16 @@
 {
+    "kkpFjpkSIb": {
+        "id": "kkpFjpkSIb",
+        "title": "Тайна коварной русалки",
+        "author": "Анна Устинова",
+        "notes": "",
+        "createdAt": "2017-04-04 17:32:12",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 16
+        }
+    },
     "yPlBWDQzNK": {
         "id": "yPlBWDQzNK",
         "title": "Тайна заброшенной часовни",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 22
-        }
-    },
-    "vaU8v0TlqV": {
-        "id": "vaU8v0TlqV",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-01 14:02:03",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 21
         }
     }
 }
