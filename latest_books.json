@@ -1,4 +1,16 @@
 {
+    "ykArHOARy7": {
+        "id": "ykArHOARy7",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-04-04 17:58:41",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 40
+        }
+    },
     "zqRCTQ0dB0": {
         "id": "zqRCTQ0dB0",
         "title": "Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 11
-        }
-    },
-    "NVVNu_ewyh": {
-        "id": "NVVNu_ewyh",
-        "title": "Волчица и пряности том 6",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:14:46",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 10
         }
     }
 }
