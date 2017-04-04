@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[scarteslett](users/201/201967417-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>514</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inerren](users/479/4794559699-twitter)<sup>1</sup> 
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>70</sup> 
-[pascaltrening](users/116/1168869274-facebook)<sup>0</sup> 
 
 
-_03.04.2017 06:01:24_
+_04.04.2017 17:05:22_
