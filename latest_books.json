@@ -1,4 +1,16 @@
 {
+    "cRw0foHFWJ": {
+        "id": "cRw0foHFWJ",
+        "title": "Волчица и пряности том 4",
+        "author": "Исуна Хасэкура",
+        "notes": "",
+        "createdAt": "2017-04-04 17:14:16",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 8
+        }
+    },
     "DGOKCnRHAI": {
         "id": "DGOKCnRHAI",
         "title": "Волчица и пряности том 3",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 14
-        }
-    },
-    "c4NmUSulq7": {
-        "id": "c4NmUSulq7",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-01 13:56:46",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 13
         }
     }
 }
