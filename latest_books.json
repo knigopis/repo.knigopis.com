@@ -1,4 +1,16 @@
 {
+    "Acs0UpPMfd": {
+        "id": "Acs0UpPMfd",
+        "title": "Одиссея капитана Блада",
+        "author": "Рафаэль Сабатини",
+        "notes": "",
+        "createdAt": "2017-04-04 18:05:54",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 48
+        }
+    },
     "UL6m8SjIFH": {
         "id": "UL6m8SjIFH",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 19
-        }
-    },
-    "1klT_YMZtO": {
-        "id": "1klT_YMZtO",
-        "title": "Голодные игры",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-04 17:35:27",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 18
         }
     }
 }
