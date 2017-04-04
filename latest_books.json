@@ -1,4 +1,16 @@
 {
+    "wOWnvvBB7V": {
+        "id": "wOWnvvBB7V",
+        "title": "Сокровища",
+        "author": "Иоанна Хмелевская",
+        "notes": "",
+        "createdAt": "2017-04-04 18:09:47",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 53
+        }
+    },
     "iL886-bJAw": {
         "id": "iL886-bJAw",
         "title": "Особые заслуги",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 24
-        }
-    },
-    "4MhEAOwUmW": {
-        "id": "4MhEAOwUmW",
-        "title": "Таймлесс: Изумрудная книга",
-        "author": "Керстин Гир",
-        "notes": "",
-        "createdAt": "2017-04-04 17:42:11",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 23
         }
     }
 }
