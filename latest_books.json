@@ -1,4 +1,16 @@
 {
+    "K2YKCTGAcz": {
+        "id": "K2YKCTGAcz",
+        "title": "Тайна озера Лох-Несс",
+        "author": "Альберто Мелис",
+        "notes": "",
+        "createdAt": "2017-04-04 17:50:20",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 31
+        }
+    },
     "hd53ZV45hA": {
         "id": "hd53ZV45hA",
         "title": "В поисках йети",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 2
-        }
-    },
-    "RP7aNIKoii": {
-        "id": "RP7aNIKoii",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "Очень понравилась",
-        "createdAt": "2017-04-04 17:06:12",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 1
         }
     }
 }
