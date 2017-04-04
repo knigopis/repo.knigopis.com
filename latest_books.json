@@ -1,4 +1,16 @@
 {
+    "vzy1vbCqXY": {
+        "id": "vzy1vbCqXY",
+        "title": "Кривой домишко",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-04-04 18:11:22",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 54
+        }
+    },
     "wOWnvvBB7V": {
         "id": "wOWnvvBB7V",
         "title": "Сокровища",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 25
-        }
-    },
-    "SJflGTn51X": {
-        "id": "SJflGTn51X",
-        "title": "Изгнанник",
-        "author": "Мишель Пейвер",
-        "notes": "",
-        "createdAt": "2017-04-04 17:43:06",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 24
         }
     }
 }

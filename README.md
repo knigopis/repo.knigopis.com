@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
 [vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
-[scarteslett](users/201/201967417-vkontakte)<sup>53</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>514</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Reydzi](users/729/72921911-vkontakte)<sup>0</sup> 
 
 
-_04.04.2017 18:10:11_
+_04.04.2017 18:11:22_
