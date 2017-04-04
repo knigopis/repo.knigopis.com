@@ -1,4 +1,10 @@
 {
+    "201967417-vkontakte": {
+        "id": "201967417-vkontakte",
+        "nickname": "scarteslett",
+        "booksCount": 0,
+        "updatedAt": "2017-04-04 17:05:19"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Mira R",
         "booksCount": 70,
         "updatedAt": "2017-03-26 08:17:29"
-    },
-    "1168869274-facebook": {
-        "id": "1168869274-facebook",
-        "nickname": "pascaltrening",
-        "booksCount": 0,
-        "updatedAt": "2017-03-25 17:40:02"
     }
 }
