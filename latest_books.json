@@ -1,4 +1,16 @@
 {
+    "3s0kuK3gCR": {
+        "id": "3s0kuK3gCR",
+        "title": "Лес секретов",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:57:00",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 37
+        }
+    },
     "tDhlq6jn34": {
         "id": "tDhlq6jn34",
         "title": "Огонь и лед",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 8
-        }
-    },
-    "DGOKCnRHAI": {
-        "id": "DGOKCnRHAI",
-        "title": "Волчица и пряности том 3",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:13:53",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 7
         }
     }
 }
