@@ -1,4 +1,16 @@
 {
+    "tDhlq6jn34": {
+        "id": "tDhlq6jn34",
+        "title": "Огонь и лед",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:53:46",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 36
+        }
+    },
     "_GoWPzH4NL": {
         "id": "_GoWPzH4NL",
         "title": "Стань диким!",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 7
-        }
-    },
-    "uyQdW-86TK": {
-        "id": "uyQdW-86TK",
-        "title": "Волчица и пряности том 2",
-        "author": "Исуна Хасэкура",
-        "notes": "",
-        "createdAt": "2017-04-04 17:13:23",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 6
         }
     }
 }
