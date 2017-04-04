@@ -1,4 +1,16 @@
 {
+    "DGOKCnRHAI": {
+        "id": "DGOKCnRHAI",
+        "title": "Волчица и пряности том 3",
+        "author": "Исуна Хасэкура",
+        "notes": "",
+        "createdAt": "2017-04-04 17:13:53",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 7
+        }
+    },
     "uyQdW-86TK": {
         "id": "uyQdW-86TK",
         "title": "Волчица и пряности том 2",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 13
-        }
-    },
-    "fLbF9ndpo3": {
-        "id": "fLbF9ndpo3",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-04-01 13:56:44",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 12
         }
     }
 }
