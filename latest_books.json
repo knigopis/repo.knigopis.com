@@ -1,4 +1,16 @@
 {
+    "-Vy7kB8k6y": {
+        "id": "-Vy7kB8k6y",
+        "title": "И вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-04 17:36:12",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 19
+        }
+    },
     "1klT_YMZtO": {
         "id": "1klT_YMZtO",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 25
-        }
-    },
-    "EuSz_ZI_h9": {
-        "id": "EuSz_ZI_h9",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2017-04-01 14:04:05",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 24
         }
     }
 }
