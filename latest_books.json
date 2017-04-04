@@ -1,4 +1,16 @@
 {
+    "hacVK4VvSb": {
+        "id": "hacVK4VvSb",
+        "title": "Всадник без головы",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2017-04-04 17:51:15",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 34
+        }
+    },
     "cV26A7rgqZ": {
         "id": "cV26A7rgqZ",
         "title": "Волшебный единорог",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 5
-        }
-    },
-    "Odot2KXJp5": {
-        "id": "Odot2KXJp5",
-        "title": "А зори здесь тихие...",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2017-04-04 17:11:20",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 4
         }
     }
 }
