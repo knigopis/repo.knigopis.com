@@ -1,4 +1,16 @@
 {
+    "JiJYK4_v1v": {
+        "id": "JiJYK4_v1v",
+        "title": "Удачи капитана Блада",
+        "author": "Рафаэль Сабатини",
+        "notes": "",
+        "createdAt": "2017-04-04 18:06:34",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 50
+        }
+    },
     "k63sWVFsE4": {
         "id": "k63sWVFsE4",
         "title": "Хроника капитана Блада",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 21
-        }
-    },
-    "hIzVH1Je2E": {
-        "id": "hIzVH1Je2E",
-        "title": "Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-04 17:37:09",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 20
         }
     }
 }

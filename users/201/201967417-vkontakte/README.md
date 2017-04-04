@@ -1,7 +1,12 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>49</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>50</sup>
 ---
 
 ## 2017
+
+### Удачи капитана Блада
+Рафаэль Сабатини
+> [2017-07] 
+
 
 ### Унесенные ветром
 Маргарет Митчелл
