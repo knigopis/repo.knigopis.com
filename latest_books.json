@@ -1,4 +1,16 @@
 {
+    "k63sWVFsE4": {
+        "id": "k63sWVFsE4",
+        "title": "Хроника капитана Блада",
+        "author": "Рафаэль Сабатини",
+        "notes": "",
+        "createdAt": "2017-04-04 18:06:14",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 49
+        }
+    },
     "Acs0UpPMfd": {
         "id": "Acs0UpPMfd",
         "title": "Одиссея капитана Блада",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 20
-        }
-    },
-    "-Vy7kB8k6y": {
-        "id": "-Vy7kB8k6y",
-        "title": "И вспыхнет пламя",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-04 17:36:12",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 19
         }
     }
 }
