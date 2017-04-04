@@ -1,4 +1,16 @@
 {
+    "MXkcopK_h1": {
+        "id": "MXkcopK_h1",
+        "title": "Таймлесс: Сапфировая книга",
+        "author": "Керстин Гир",
+        "notes": "",
+        "createdAt": "2017-04-04 17:41:40",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 22
+        }
+    },
     "JkRXOy9Zvs": {
         "id": "JkRXOy9Zvs",
         "title": "Таймлесс: Рубиновая книга",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 28
-        }
-    },
-    "NagDfHyr53": {
-        "id": "NagDfHyr53",
-        "title": "Капитанская дочка",
-        "author": "А.С.Пушкин",
-        "notes": "",
-        "createdAt": "2017-04-01 14:10:30",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 27
         }
     }
 }
