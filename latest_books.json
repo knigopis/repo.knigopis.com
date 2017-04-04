@@ -1,4 +1,16 @@
 {
+    "8eMeECHH0S": {
+        "id": "8eMeECHH0S",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2017-04-04 17:10:03",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 3
+        }
+    },
     "xXU34_OgoC": {
         "id": "xXU34_OgoC",
         "title": "Лунный камень",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 9
-        }
-    },
-    "6EaVx-SJdk": {
-        "id": "6EaVx-SJdk",
-        "title": "20 тысяч лье под водой",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-04-01 13:55:29",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 8
         }
     }
 }
