@@ -1,4 +1,16 @@
 {
+    "eyXLJ6V036": {
+        "id": "eyXLJ6V036",
+        "title": "Илиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2017-04-04 17:17:16",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 13
+        }
+    },
     "XO1tzOzqsp": {
         "id": "XO1tzOzqsp",
         "title": "Занимательная Греция",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 19
-        }
-    },
-    "UwsTU-vaK5": {
-        "id": "UwsTU-vaK5",
-        "title": "Униженные и оскорбленные",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "любимое у Достоевского",
-        "createdAt": "2017-04-01 14:00:27",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 18
         }
     }
 }
