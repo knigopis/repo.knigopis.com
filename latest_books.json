@@ -1,4 +1,16 @@
 {
+    "57Zjd4ZdiP": {
+        "id": "57Zjd4ZdiP",
+        "title": "Тайна пропавшего академика",
+        "author": "Анна Устинова",
+        "notes": "",
+        "createdAt": "2017-04-04 17:31:17",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 14
+        }
+    },
     "eyXLJ6V036": {
         "id": "eyXLJ6V036",
         "title": "Илиада",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 20
-        }
-    },
-    "6HdH1K0KGs": {
-        "id": "6HdH1K0KGs",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-04-01 14:01:23",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 19
         }
     }
 }
