@@ -1,4 +1,10 @@
 {
+    "183010201-vkontakte": {
+        "id": "183010201-vkontakte",
+        "nickname": "vk.astreloff",
+        "booksCount": 0,
+        "updatedAt": "2017-04-04 18:10:11"
+    },
     "201967417-vkontakte": {
         "id": "201967417-vkontakte",
         "nickname": "scarteslett",
@@ -172,11 +178,5 @@
         "nickname": "Reydzi",
         "booksCount": 0,
         "updatedAt": "2017-03-26 11:52:05"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Mira R",
-        "booksCount": 70,
-        "updatedAt": "2017-03-26 08:17:29"
     }
 }
