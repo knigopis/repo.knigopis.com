@@ -1,4 +1,16 @@
 {
+    "RP7aNIKoii": {
+        "id": "RP7aNIKoii",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "Очень понравилась",
+        "createdAt": "2017-04-04 17:06:12",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 1
+        }
+    },
     "Wmp1dwGa1h": {
         "id": "Wmp1dwGa1h",
         "title": "Небесные жители",
@@ -345,18 +357,6 @@
             "id": "3872053-vkontakte",
             "nickname": "hengehok",
             "booksCount": 7
-        }
-    },
-    "_vaMTyJhOb": {
-        "id": "_vaMTyJhOb",
-        "title": "Не верю. Не надеюсь. Люблю (Там, где заканчивается радуга)",
-        "author": "Сесилия Ахерн",
-        "notes": "",
-        "createdAt": "2017-04-01 13:52:45",
-        "user": {
-            "id": "3872053-vkontakte",
-            "nickname": "hengehok",
-            "booksCount": 6
         }
     }
 }
