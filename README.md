@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[taratai](users/101/101010932180085732378-googleplus)<sup>0</sup> 
+[taratai](users/101/101010932180085732378-googleplus)<sup>1</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>17</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>92</sup> 
 
 
-_05.04.2017 08:59:41_
+_05.04.2017 09:01:02_
