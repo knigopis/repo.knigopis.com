@@ -1,4 +1,10 @@
 {
+    "101010932180085732378-googleplus": {
+        "id": "101010932180085732378-googleplus",
+        "nickname": "taratai",
+        "booksCount": 0,
+        "updatedAt": "2017-04-05 08:59:41"
+    },
     "395967588-vkontakte": {
         "id": "395967588-vkontakte",
         "nickname": "ilona26g_va",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 92,
         "updatedAt": "2017-03-28 12:00:26"
-    },
-    "2977673085170791915-mailru": {
-        "id": "2977673085170791915-mailru",
-        "nickname": "Игорь Михайлов",
-        "booksCount": 1,
-        "updatedAt": "2017-03-27 19:58:36"
     }
 }
