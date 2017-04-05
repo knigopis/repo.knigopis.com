@@ -1,4 +1,10 @@
 {
+    "395967588-vkontakte": {
+        "id": "395967588-vkontakte",
+        "nickname": "ilona26g_va",
+        "booksCount": 0,
+        "updatedAt": "2017-04-05 08:45:32"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -172,11 +178,5 @@
         "nickname": "Игорь Михайлов",
         "booksCount": 1,
         "updatedAt": "2017-03-27 19:58:36"
-    },
-    "4794559699-twitter": {
-        "id": "4794559699-twitter",
-        "nickname": "inerren",
-        "booksCount": 1,
-        "updatedAt": "2017-03-26 13:54:15"
     }
 }
