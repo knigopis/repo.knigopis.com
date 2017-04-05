@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[taratai](users/101/101010932180085732378-googleplus)<sup>0</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>17</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>92</sup> 
-[Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
 
 
-_05.04.2017 08:58:17_
+_05.04.2017 08:59:41_
