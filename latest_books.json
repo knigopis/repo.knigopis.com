@@ -1,4 +1,16 @@
 {
+    "sKkjFZHIJK": {
+        "id": "sKkjFZHIJK",
+        "title": "Поющие в терновнике",
+        "author": "К.Маккалоу",
+        "notes": "",
+        "createdAt": "2017-04-05 08:52:05",
+        "user": {
+            "id": "395967588-vkontakte",
+            "nickname": "ilona26g_va",
+            "booksCount": 9
+        }
+    },
     "su5eazcZ_c": {
         "id": "su5eazcZ_c",
         "title": "Последний день приговоренного к смерти",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 33
-        }
-    },
-    "dJoNZBhPHh": {
-        "id": "dJoNZBhPHh",
-        "title": "Жемчужина дракона",
-        "author": "Альберто Мелис",
-        "notes": "",
-        "createdAt": "2017-04-04 17:50:40",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 32
         }
     }
 }
