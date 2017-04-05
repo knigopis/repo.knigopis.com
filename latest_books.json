@@ -1,4 +1,16 @@
 {
+    "LerXLQe4IU": {
+        "id": "LerXLQe4IU",
+        "title": "Цифровая крепость",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-04-05 08:58:17",
+        "user": {
+            "id": "395967588-vkontakte",
+            "nickname": "ilona26g_va",
+            "booksCount": 17
+        }
+    },
     "AL2u8okG3y": {
         "id": "AL2u8okG3y",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 41
-        }
-    },
-    "ykArHOARy7": {
-        "id": "ykArHOARy7",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-04 17:58:41",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 40
         }
     }
 }
