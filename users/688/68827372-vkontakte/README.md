@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>106</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>107</sup>
 ---
 
 ## 2017
+
+### Следующая остановка - жизнь
+Татьяна Успенская-Ошанина
+> [2017-04-05] 
+
 
 ### Вслед за солнцем
 Триш Уайли
