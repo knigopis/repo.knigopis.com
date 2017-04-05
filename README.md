@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ilona26g_va](users/395/395967588-vkontakte)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
 [vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>50</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>92</sup> 
 [Игорь Михайлов](users/297/2977673085170791915-mailru)<sup>1</sup> 
-[inerren](users/479/4794559699-twitter)<sup>1</sup> 
 
 
-_04.04.2017 22:35:39_
+_05.04.2017 08:45:35_
