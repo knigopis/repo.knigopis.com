@@ -1,4 +1,16 @@
 {
+    "DgALB9hMdu": {
+        "id": "DgALB9hMdu",
+        "title": "Коты-Воители: Опасная тропа",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 5",
+        "createdAt": "2017-04-06 19:19:07",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "bocXwtsHfF": {
         "id": "bocXwtsHfF",
         "title": "В мире безмолвия",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 46
-        }
-    },
-    "nYLjW1Qwau": {
-        "id": "nYLjW1Qwau",
-        "title": "Гарри Поттер и дары смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-04 18:01:38",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 45
         }
     }
 }

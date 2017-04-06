@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>97</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Опасная тропа
+Эрин Хантер
+> Цикл "Воители"
+> Книга 5
+
 
 ### Коты-Воители: Бушующая стихия
 Эрин Хантер

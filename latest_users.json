@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 98,
+        "updatedAt": "2017-04-06 19:19:07"
+    },
     "1577468-vkontakte": {
         "id": "1577468-vkontakte",
         "nickname": "Беска",
@@ -82,12 +88,6 @@
         "nickname": "mfevralev",
         "booksCount": 20,
         "updatedAt": "2017-03-31 19:32:32"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 97,
-        "updatedAt": "2017-03-31 16:55:10"
     },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",

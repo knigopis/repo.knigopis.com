@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
+    > Цикл "Воители"
+    > Книга 5
+
 * Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
     > Книга очень понравилась. Восточная стратегия войны за власть и культура  Японии завораживает. Тем более интересно читать, зная что книга отчасти основана на реальных исторических событиях.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > не самая лучшая  часть Тайного Города. Хотя,  про Ладогу (Лудяное и Ледовое побоище) было интересно
 
 * Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
-    > Про гражданскую войну на Дону. Рассказ Батраки напоминает про д Федю.
 
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Стань диким! ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
-* Коты-воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>93</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
@@ -47,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 
 
-_06.04.2017 13:51:59_
+_06.04.2017 19:19:07_
