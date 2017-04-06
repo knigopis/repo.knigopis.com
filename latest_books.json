@@ -1,4 +1,16 @@
 {
+    "8oZvKH90qB": {
+        "id": "8oZvKH90qB",
+        "title": "Доводы рассудка",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-06 09:59:38",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 93
+        }
+    },
     "aF9nOTGRW2": {
         "id": "aF9nOTGRW2",
         "title": "Следующая остановка - жизнь",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 44
-        }
-    },
-    "iGmJkPZDsK": {
-        "id": "iGmJkPZDsK",
-        "title": "Гарри Поттер и кубок огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-04 18:00:55",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 43
         }
     }
 }
