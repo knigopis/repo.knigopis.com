@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Nikita](users/100/100684315-vkontakte)<sup>5</sup> 
+[Nikita](users/100/100684315-vkontakte)<sup>6</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>515</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>43</sup> 
 
 
-_07.04.2017 14:56:29_
+_07.04.2017 14:57:04_

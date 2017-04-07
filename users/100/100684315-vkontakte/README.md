@@ -1,4 +1,4 @@
-# List of books read by [Nikita](http://vk.com/id100684315)<sup>5</sup>
+# List of books read by [Nikita](http://vk.com/id100684315)<sup>6</sup>
 ---
 
 ## 2015
@@ -6,6 +6,10 @@
 ### «Муранча»
 Руслан Мельников
 > [2015-01] 
+
+
+### Лекарство от смерти
+Джеймс Дэшнер
 
 
 

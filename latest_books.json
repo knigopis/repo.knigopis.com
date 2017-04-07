@@ -1,4 +1,16 @@
 {
+    "tjN0qYjYkZ": {
+        "id": "tjN0qYjYkZ",
+        "title": "Лекарство от смерти",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-04-07 14:57:04",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 6
+        }
+    },
     "TsNOCmVwvm": {
         "id": "TsNOCmVwvm",
         "title": "Испытание огнём",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 11
-        }
-    },
-    "p78Oj8ZwmE": {
-        "id": "p78Oj8ZwmE",
-        "title": "тридцатитетняя женщина",
-        "author": "Оноре де Бальзак",
-        "notes": "",
-        "createdAt": "2017-04-07 12:38:32",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 10
         }
     }
 }
