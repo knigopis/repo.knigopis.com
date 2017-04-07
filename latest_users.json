@@ -1,4 +1,10 @@
 {
+    "100684315-vkontakte": {
+        "id": "100684315-vkontakte",
+        "nickname": "Nikita",
+        "booksCount": 1,
+        "updatedAt": "2017-04-07 14:52:15"
+    },
     "403474839-vkontakte": {
         "id": "403474839-vkontakte",
         "nickname": "Анастасия",
@@ -124,12 +130,6 @@
         "nickname": "Hellgiss",
         "booksCount": 1,
         "updatedAt": "2017-03-30 20:55:04"
-    },
-    "100684315-vkontakte": {
-        "id": "100684315-vkontakte",
-        "nickname": "Nikita",
-        "booksCount": 0,
-        "updatedAt": "2017-03-30 19:43:42"
     },
     "1427317190926206-facebook": {
         "id": "1427317190926206-facebook",

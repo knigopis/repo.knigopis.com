@@ -1,4 +1,16 @@
 {
+    "pCfBHH8KYH": {
+        "id": "pCfBHH8KYH",
+        "title": "«Бегущий в лабиринте» («The Maze Runner»)",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-04-07 14:52:15",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 1
+        }
+    },
     "raEpkgSSr3": {
         "id": "raEpkgSSr3",
         "title": "Собор Парижской Богоматери",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 6
-        }
-    },
-    "m8ShWQbvQ1": {
-        "id": "m8ShWQbvQ1",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-04-07 12:35:35",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 5
         }
     }
 }
