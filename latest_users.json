@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "id.lina.ruhr",
+        "booksCount": 0,
+        "updatedAt": "2017-04-07 15:13:47"
+    },
     "10155308984397048-facebook": {
         "id": "10155308984397048-facebook",
         "nickname": "AlexWay",
@@ -172,11 +178,5 @@
         "nickname": "Койнов Александр",
         "booksCount": 17,
         "updatedAt": "2017-03-29 13:58:26"
-    },
-    "16237346307809983184-mailru": {
-        "id": "16237346307809983184-mailru",
-        "nickname": "Stanislav Sukharev",
-        "booksCount": 0,
-        "updatedAt": "2017-03-29 08:13:00"
     }
 }
