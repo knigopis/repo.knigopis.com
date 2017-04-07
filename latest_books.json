@@ -1,4 +1,16 @@
 {
+    "fXkreO-AeM": {
+        "id": "fXkreO-AeM",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2017-04-07 14:53:53",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 3
+        }
+    },
     "SfROi2RmWJ": {
         "id": "SfROi2RmWJ",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 8
-        }
-    },
-    "UGJ0BKYFpW": {
-        "id": "UGJ0BKYFpW",
-        "title": "Азазель",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-04-07 12:36:47",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 7
         }
     }
 }
