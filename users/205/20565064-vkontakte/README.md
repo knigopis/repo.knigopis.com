@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>514</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>515</sup>
 ---
 
 ## 2017
+
+### Лето перед закатом
+Дорис Лессинг
+> [2017-04] 
+
 
 ### Небесные жители
 Жан-Мари Леклезио

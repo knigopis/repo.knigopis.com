@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>515</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>93</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
 [vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>514</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>68</sup> 
 
 
-_06.04.2017 19:19:07_
+_07.04.2017 04:13:38_

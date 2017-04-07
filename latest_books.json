@@ -1,4 +1,16 @@
 {
+    "mGAHv_Hsgk": {
+        "id": "mGAHv_Hsgk",
+        "title": "Лето перед закатом",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2017-04-07 04:13:37",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 515
+        }
+    },
     "DgALB9hMdu": {
         "id": "DgALB9hMdu",
         "title": "Коты-Воители: Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 47
-        }
-    },
-    "Kmftq5y9Fm": {
-        "id": "Kmftq5y9Fm",
-        "title": "Черная стрела",
-        "author": "Роберт Льюис Стивенсон",
-        "notes": "",
-        "createdAt": "2017-04-04 18:03:59",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 46
         }
     }
 }
