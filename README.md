@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[id.lina.ruhr](users/143/143278479-vkontakte)<sup>0</sup> 
+[Лина Кауфман](users/143/143278479-vkontakte)<sup>1</sup> 
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
 
 
-_07.04.2017 15:13:47_
+_07.04.2017 15:37:28_
