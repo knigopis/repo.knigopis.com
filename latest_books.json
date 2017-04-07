@@ -1,4 +1,16 @@
 {
+    "TsNOCmVwvm": {
+        "id": "TsNOCmVwvm",
+        "title": "Испытание огнём",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-04-07 14:56:29",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 5
+        }
+    },
     "NQ-ImWthYr": {
         "id": "NQ-ImWthYr",
         "title": "«Муранча»",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 10
-        }
-    },
-    "amjoGPbowv": {
-        "id": "amjoGPbowv",
-        "title": "красное и черное",
-        "author": "Фредерик Стендаль",
-        "notes": "",
-        "createdAt": "2017-04-07 12:37:49",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 9
         }
     }
 }

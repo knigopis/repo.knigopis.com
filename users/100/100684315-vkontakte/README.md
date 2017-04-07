@@ -1,4 +1,4 @@
-# List of books read by [Nikita](http://vk.com/id100684315)<sup>4</sup>
+# List of books read by [Nikita](http://vk.com/id100684315)<sup>5</sup>
 ---
 
 ## 2015
@@ -19,6 +19,11 @@
 ### Пикник на обочине
 А. Стругацкий, Б. Стругацкий
 > [2013-11] 
+
+
+### Испытание огнём
+Джеймс Дэшнер
+> [2013-08] 
 
 
 ### «Бегущий в лабиринте» («The Maze Runner»)
