@@ -1,4 +1,10 @@
 {
+    "317314037-vkontakte": {
+        "id": "317314037-vkontakte",
+        "nickname": "hawkeyepierce89",
+        "booksCount": 3,
+        "updatedAt": "2017-04-07 17:17:00"
+    },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
         "nickname": "Лина Кауфман",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 52,
         "updatedAt": "2017-03-30 01:19:12"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 17,
-        "updatedAt": "2017-03-29 13:58:26"
     }
 }
