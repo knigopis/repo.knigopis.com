@@ -1,4 +1,16 @@
 {
+    "fGF2F4Ra2U": {
+        "id": "fGF2F4Ra2U",
+        "title": "Будущее (роман)",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2017-04-07 15:00:47",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 9
+        }
+    },
     "iMas_KEbP6": {
         "id": "iMas_KEbP6",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 14
-        }
-    },
-    "0ZmaGE7dII": {
-        "id": "0ZmaGE7dII",
-        "title": "Дубровский",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2017-04-07 12:40:12",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 13
         }
     }
 }
