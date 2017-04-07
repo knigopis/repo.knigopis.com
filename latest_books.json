@@ -1,4 +1,16 @@
 {
+    "NQ-ImWthYr": {
+        "id": "NQ-ImWthYr",
+        "title": "«Муранча»",
+        "author": "Руслан Мельников",
+        "notes": "",
+        "createdAt": "2017-04-07 14:55:28",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 4
+        }
+    },
     "fXkreO-AeM": {
         "id": "fXkreO-AeM",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 9
-        }
-    },
-    "MCmhcnaVKb": {
-        "id": "MCmhcnaVKb",
-        "title": "Множественные личности Билли Миллигана",
-        "author": "Даниел киз",
-        "notes": "",
-        "createdAt": "2017-04-07 12:37:23",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 8
         }
     }
 }
