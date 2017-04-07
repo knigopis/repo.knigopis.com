@@ -1,4 +1,16 @@
 {
+    "3t6IbQvVFR": {
+        "id": "3t6IbQvVFR",
+        "title": "Унесенный ветром",
+        "author": "Метельский Николай Александрович",
+        "notes": "",
+        "createdAt": "2017-04-07 15:04:02",
+        "user": {
+            "id": "10155308984397048-facebook",
+            "nickname": "AlexWay",
+            "booksCount": 1
+        }
+    },
     "MKW2cGkOrh": {
         "id": "MKW2cGkOrh",
         "title": "«Игра престолов» (Game of Thrones)",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 16
-        }
-    },
-    "ERxzQb--ST": {
-        "id": "ERxzQb--ST",
-        "title": "Королек птичка певчая",
-        "author": "Гюнтекин Решад",
-        "notes": "",
-        "createdAt": "2017-04-07 12:41:27",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 15
         }
     }
 }
