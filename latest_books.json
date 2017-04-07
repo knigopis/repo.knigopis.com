@@ -1,4 +1,16 @@
 {
+    "zZOtfEHOtj": {
+        "id": "zZOtfEHOtj",
+        "title": "над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-04-07 12:46:02",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 21
+        }
+    },
     "5evHy_Au7s": {
         "id": "5evHy_Au7s",
         "title": "Пышка",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 17
-        }
-    },
-    "AL2u8okG3y": {
-        "id": "AL2u8okG3y",
-        "title": "Инферно",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-04-05 08:57:52",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 16
         }
     }
 }
