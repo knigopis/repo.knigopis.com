@@ -1,4 +1,16 @@
 {
+    "zhfGQbt4XY": {
+        "id": "zhfGQbt4XY",
+        "title": "Горе от ума",
+        "author": "Грибоедов",
+        "notes": "",
+        "createdAt": "2017-04-07 12:47:59",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 25
+        }
+    },
     "8HVk_Susyz": {
         "id": "8HVk_Susyz",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 35
-        }
-    },
-    "8oZvKH90qB": {
-        "id": "8oZvKH90qB",
-        "title": "Доводы рассудка",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-04-06 09:59:38",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 93
         }
     }
 }
