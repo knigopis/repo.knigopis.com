@@ -1,4 +1,16 @@
 {
+    "RQJUUbWCzJ": {
+        "id": "RQJUUbWCzJ",
+        "title": "гарри поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-04-07 12:28:32",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 1
+        }
+    },
     "lhidTvsXFY": {
         "id": "lhidTvsXFY",
         "title": "Хорошие жены",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 50
-        }
-    },
-    "k63sWVFsE4": {
-        "id": "k63sWVFsE4",
-        "title": "Хроника капитана Блада",
-        "author": "Рафаэль Сабатини",
-        "notes": "",
-        "createdAt": "2017-04-04 18:06:14",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 49
         }
     }
 }

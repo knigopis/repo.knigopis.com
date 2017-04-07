@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Анастасия](users/403/403474839-vkontakte)<sup>0</sup> 
+[Анастасия](users/403/403474839-vkontakte)<sup>1</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>515</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>43</sup> 
 
 
-_07.04.2017 12:27:07_
+_07.04.2017 12:28:32_
