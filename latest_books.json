@@ -1,4 +1,16 @@
 {
+    "uF6iMx3nwS": {
+        "id": "uF6iMx3nwS",
+        "title": "Вишневый сад",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2017-04-07 12:48:50",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 27
+        }
+    },
     "hGJQgP6VfW": {
         "id": "hGJQgP6VfW",
         "title": "Убийство на улице Морг",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 515
-        }
-    },
-    "DgALB9hMdu": {
-        "id": "DgALB9hMdu",
-        "title": "Коты-Воители: Опасная тропа",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 5",
-        "createdAt": "2017-04-06 19:19:07",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
