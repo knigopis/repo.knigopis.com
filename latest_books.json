@@ -1,4 +1,16 @@
 {
+    "hGJQgP6VfW": {
+        "id": "hGJQgP6VfW",
+        "title": "Убийство на улице Морг",
+        "author": "Эдгар По",
+        "notes": "",
+        "createdAt": "2017-04-07 12:48:28",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 26
+        }
+    },
     "zhfGQbt4XY": {
         "id": "zhfGQbt4XY",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 98
-        }
-    },
-    "bocXwtsHfF": {
-        "id": "bocXwtsHfF",
-        "title": "В мире безмолвия",
-        "author": "Жак-Ив Кусто, Фредерик Дюма",
-        "notes": "",
-        "createdAt": "2017-04-06 13:51:58",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 35
         }
     }
 }
