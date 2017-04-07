@@ -1,4 +1,16 @@
 {
+    "C0Keuyjw5l": {
+        "id": "C0Keuyjw5l",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2017-04-07 12:51:35",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 31
+        }
+    },
     "dXmxl1R-Kv": {
         "id": "dXmxl1R-Kv",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 2
-        }
-    },
-    "RQJUUbWCzJ": {
-        "id": "RQJUUbWCzJ",
-        "title": "гарри поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-07 12:28:32",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 1
         }
     }
 }
