@@ -1,4 +1,4 @@
-# List of books read by [Nikita](http://vk.com/id100684315)<sup>9</sup>
+# List of books read by [Nikita](http://vk.com/id100684315)<sup>10</sup>
 ---
 
 ## 2017
@@ -49,6 +49,10 @@
 ### «Бегущий в лабиринте» («The Maze Runner»)
 Джеймс Дэшнер
 > [2013-07] 
+
+
+### «Игра престолов» (Game of Thrones)
+Джордж Р. Р. Мартин
 
 
 

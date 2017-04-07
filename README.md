@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
 [AlexWay](users/101/10155308984397048-facebook)<sup>0</sup> 
-[Nikita](users/100/100684315-vkontakte)<sup>9</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>515</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
 
 
-_07.04.2017 15:01:31_
+_07.04.2017 15:03:21_

@@ -1,4 +1,16 @@
 {
+    "MKW2cGkOrh": {
+        "id": "MKW2cGkOrh",
+        "title": "«Игра престолов» (Game of Thrones)",
+        "author": "Джордж Р. Р. Мартин",
+        "notes": "",
+        "createdAt": "2017-04-07 15:03:21",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 10
+        }
+    },
     "fGF2F4Ra2U": {
         "id": "fGF2F4Ra2U",
         "title": "Будущее (роман)",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 15
-        }
-    },
-    "qVEXr92U2h": {
-        "id": "qVEXr92U2h",
-        "title": "Богач бедняк",
-        "author": "Ирвин Шоу",
-        "notes": "",
-        "createdAt": "2017-04-07 12:40:52",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 14
         }
     }
 }
