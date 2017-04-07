@@ -1,4 +1,16 @@
 {
+    "UMGTSYShL1": {
+        "id": "UMGTSYShL1",
+        "title": "Чувство и разум",
+        "author": "Джейн Остен",
+        "notes": "",
+        "createdAt": "2017-04-07 12:50:21",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 29
+        }
+    },
     "XSHhNoQgcZ": {
         "id": "XSHhNoQgcZ",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 19
-        }
-    },
-    "nUk6WaIMFk": {
-        "id": "nUk6WaIMFk",
-        "title": "Маленькие женщины",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "",
-        "createdAt": "2017-04-07 11:54:34",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 18
         }
     }
 }
