@@ -1,4 +1,16 @@
 {
+    "UGJ0BKYFpW": {
+        "id": "UGJ0BKYFpW",
+        "title": "Азазель",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-04-07 12:36:47",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 7
+        }
+    },
     "xOdcbG2pQ-": {
         "id": "xOdcbG2pQ-",
         "title": "Дама с камелиями",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 1
-        }
-    },
-    "YOxK5UtS2i": {
-        "id": "YOxK5UtS2i",
-        "title": "",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-04-04 22:35:39",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 25
         }
     }
 }
