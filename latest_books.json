@@ -1,4 +1,16 @@
 {
+    "1JDCX8RZ-w": {
+        "id": "1JDCX8RZ-w",
+        "title": "черный кот",
+        "author": "Эдгар По",
+        "notes": "",
+        "createdAt": "2017-04-07 15:40:05",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 2
+        }
+    },
     "zl4441RiSa": {
         "id": "zl4441RiSa",
         "title": "Тихий Океан",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 18
-        }
-    },
-    "ORwTLEPmjN": {
-        "id": "ORwTLEPmjN",
-        "title": "Книжный вор",
-        "author": "Маркус Зузак",
-        "notes": "",
-        "createdAt": "2017-04-07 12:42:31",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 17
         }
     }
 }
