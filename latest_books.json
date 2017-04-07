@@ -1,4 +1,16 @@
 {
+    "8HVk_Susyz": {
+        "id": "8HVk_Susyz",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-04-07 12:47:38",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 24
+        }
+    },
     "w1whlUGOm1": {
         "id": "w1whlUGOm1",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 93
-        }
-    },
-    "aF9nOTGRW2": {
-        "id": "aF9nOTGRW2",
-        "title": "Следующая остановка - жизнь",
-        "author": "Татьяна Успенская-Ошанина",
-        "notes": "",
-        "createdAt": "2017-04-05 19:37:40",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 107
         }
     }
 }
