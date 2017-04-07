@@ -1,4 +1,16 @@
 {
+    "p78Oj8ZwmE": {
+        "id": "p78Oj8ZwmE",
+        "title": "тридцатитетняя женщина",
+        "author": "Оноре де Бальзак",
+        "notes": "",
+        "createdAt": "2017-04-07 12:38:32",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 10
+        }
+    },
     "amjoGPbowv": {
         "id": "amjoGPbowv",
         "title": "красное и черное",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 4
-        }
-    },
-    "bAEkI-z02e": {
-        "id": "bAEkI-z02e",
-        "title": "Парфюмер",
-        "author": "Патрик Зюськинд",
-        "notes": "",
-        "createdAt": "2017-04-05 08:48:58",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 3
         }
     }
 }
