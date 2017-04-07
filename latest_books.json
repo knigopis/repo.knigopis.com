@@ -1,4 +1,16 @@
 {
+    "SfROi2RmWJ": {
+        "id": "SfROi2RmWJ",
+        "title": "Пикник на обочине",
+        "author": "А. Стругацкий, Б. Стругацкий",
+        "notes": "",
+        "createdAt": "2017-04-07 14:53:02",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 2
+        }
+    },
     "pCfBHH8KYH": {
         "id": "pCfBHH8KYH",
         "title": "«Бегущий в лабиринте» («The Maze Runner»)",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 7
-        }
-    },
-    "xOdcbG2pQ-": {
-        "id": "xOdcbG2pQ-",
-        "title": "Дама с камелиями",
-        "author": "Александр Дюма младший",
-        "notes": "",
-        "createdAt": "2017-04-07 12:36:15",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 6
         }
     }
 }

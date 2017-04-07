@@ -1,7 +1,12 @@
-# List of books read by [Nikita](http://vk.com/id100684315)<sup>1</sup>
+# List of books read by [Nikita](http://vk.com/id100684315)<sup>2</sup>
 ---
 
 ## 2013
+
+### Пикник на обочине
+А. Стругацкий, Б. Стругацкий
+> [2013-11] 
+
 
 ### «Бегущий в лабиринте» («The Maze Runner»)
 Джеймс Дэшнер
