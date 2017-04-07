@@ -1,4 +1,16 @@
 {
+    "raEpkgSSr3": {
+        "id": "raEpkgSSr3",
+        "title": "Собор Парижской Богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2017-04-07 12:53:07",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 34
+        }
+    },
     "oQxJ0WOpIX": {
         "id": "oQxJ0WOpIX",
         "title": "Джен Эйр",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 5
-        }
-    },
-    "2MeMBkra4h": {
-        "id": "2MeMBkra4h",
-        "title": "гарри поттер и кубок огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-07 12:34:56",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 4
         }
     }
 }
