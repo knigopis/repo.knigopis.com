@@ -1,4 +1,16 @@
 {
+    "lhidTvsXFY": {
+        "id": "lhidTvsXFY",
+        "title": "Хорошие жены",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "",
+        "createdAt": "2017-04-07 11:54:59",
+        "user": {
+            "id": "395967588-vkontakte",
+            "nickname": "ilona26g_va",
+            "booksCount": 19
+        }
+    },
     "nUk6WaIMFk": {
         "id": "nUk6WaIMFk",
         "title": "Маленькие женщины",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 49
-        }
-    },
-    "Acs0UpPMfd": {
-        "id": "Acs0UpPMfd",
-        "title": "Одиссея капитана Блада",
-        "author": "Рафаэль Сабатини",
-        "notes": "",
-        "createdAt": "2017-04-04 18:05:54",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 48
         }
     }
 }
