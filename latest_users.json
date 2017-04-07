@@ -1,4 +1,10 @@
 {
+    "10155308984397048-facebook": {
+        "id": "10155308984397048-facebook",
+        "nickname": "AlexWay",
+        "booksCount": 0,
+        "updatedAt": "2017-04-07 15:01:30"
+    },
     "100684315-vkontakte": {
         "id": "100684315-vkontakte",
         "nickname": "Nikita",
@@ -172,11 +178,5 @@
         "nickname": "Stanislav Sukharev",
         "booksCount": 0,
         "updatedAt": "2017-03-29 08:13:00"
-    },
-    "12601720503917094896-mailru": {
-        "id": "12601720503917094896-mailru",
-        "nickname": "Neccochi",
-        "booksCount": 43,
-        "updatedAt": "2017-03-29 03:23:41"
     }
 }
