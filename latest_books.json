@@ -1,4 +1,16 @@
 {
+    "9qHXKciOFW": {
+        "id": "9qHXKciOFW",
+        "title": "гарри поттер и тайная комната",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-04-07 12:29:49",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 2
+        }
+    },
     "RQJUUbWCzJ": {
         "id": "RQJUUbWCzJ",
         "title": "гарри поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 51
-        }
-    },
-    "JiJYK4_v1v": {
-        "id": "JiJYK4_v1v",
-        "title": "Удачи капитана Блада",
-        "author": "Рафаэль Сабатини",
-        "notes": "",
-        "createdAt": "2017-04-04 18:06:34",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 50
         }
     }
 }
