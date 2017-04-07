@@ -1,4 +1,16 @@
 {
+    "iMas_KEbP6": {
+        "id": "iMas_KEbP6",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-04-07 14:59:17",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 8
+        }
+    },
     "z5t_wpiUHR": {
         "id": "z5t_wpiUHR",
         "title": "Свинцовый закат",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 13
-        }
-    },
-    "xrwVlAdwrd": {
-        "id": "xrwVlAdwrd",
-        "title": "Гранатовый браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2017-04-07 12:39:41",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 12
         }
     }
 }
