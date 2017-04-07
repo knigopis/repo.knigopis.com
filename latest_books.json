@@ -1,4 +1,16 @@
 {
+    "z5t_wpiUHR": {
+        "id": "z5t_wpiUHR",
+        "title": "Свинцовый закат",
+        "author": "Роман Глушков",
+        "notes": "",
+        "createdAt": "2017-04-07 14:58:02",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 7
+        }
+    },
     "tjN0qYjYkZ": {
         "id": "tjN0qYjYkZ",
         "title": "Лекарство от смерти",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 12
-        }
-    },
-    "49JrhhxX1q": {
-        "id": "49JrhhxX1q",
-        "title": "Собака на сене",
-        "author": "Лпе де Вега",
-        "notes": "",
-        "createdAt": "2017-04-07 12:38:55",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 11
         }
     }
 }
