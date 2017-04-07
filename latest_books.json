@@ -1,4 +1,16 @@
 {
+    "AXf06uoxdO": {
+        "id": "AXf06uoxdO",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2017-04-07 12:42:10",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 16
+        }
+    },
     "ERxzQb--ST": {
         "id": "ERxzQb--ST",
         "title": "Королек птичка певчая",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 12
-        }
-    },
-    "96SzlE02O6": {
-        "id": "96SzlE02O6",
-        "title": "Птичка певчая",
-        "author": "Р.Н.Гюнтекин",
-        "notes": "",
-        "createdAt": "2017-04-05 08:53:53",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 11
         }
     }
 }
