@@ -1,4 +1,10 @@
 {
+    "403474839-vkontakte": {
+        "id": "403474839-vkontakte",
+        "nickname": "Анастасия",
+        "booksCount": 0,
+        "updatedAt": "2017-04-07 12:27:06"
+    },
     "395967588-vkontakte": {
         "id": "395967588-vkontakte",
         "nickname": "ilona26g_va",
@@ -172,11 +178,5 @@
         "nickname": "Neccochi",
         "booksCount": 43,
         "updatedAt": "2017-03-29 03:23:41"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 68,
-        "updatedAt": "2017-03-28 22:16:30"
     }
 }
