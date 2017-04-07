@@ -1,4 +1,16 @@
 {
+    "qVEXr92U2h": {
+        "id": "qVEXr92U2h",
+        "title": "Богач бедняк",
+        "author": "Ирвин Шоу",
+        "notes": "",
+        "createdAt": "2017-04-07 12:40:52",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 14
+        }
+    },
     "0ZmaGE7dII": {
         "id": "0ZmaGE7dII",
         "title": "Дубровский",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 10
-        }
-    },
-    "sKkjFZHIJK": {
-        "id": "sKkjFZHIJK",
-        "title": "Поющие в терновнике",
-        "author": "К.Маккалоу",
-        "notes": "",
-        "createdAt": "2017-04-05 08:52:05",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 9
         }
     }
 }
