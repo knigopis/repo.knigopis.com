@@ -1,4 +1,16 @@
 {
+    "XSHhNoQgcZ": {
+        "id": "XSHhNoQgcZ",
+        "title": "Преступление и наказание",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-07 12:49:39",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 28
+        }
+    },
     "uF6iMx3nwS": {
         "id": "uF6iMx3nwS",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 18
-        }
-    },
-    "mGAHv_Hsgk": {
-        "id": "mGAHv_Hsgk",
-        "title": "Лето перед закатом",
-        "author": "Дорис Лессинг",
-        "notes": "",
-        "createdAt": "2017-04-07 04:13:37",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 515
         }
     }
 }
