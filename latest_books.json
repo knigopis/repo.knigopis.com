@@ -1,4 +1,16 @@
 {
+    "amjoGPbowv": {
+        "id": "amjoGPbowv",
+        "title": "красное и черное",
+        "author": "Фредерик Стендаль",
+        "notes": "",
+        "createdAt": "2017-04-07 12:37:49",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 9
+        }
+    },
     "MCmhcnaVKb": {
         "id": "MCmhcnaVKb",
         "title": "Множественные личности Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 3
-        }
-    },
-    "aHLyBXujtM": {
-        "id": "aHLyBXujtM",
-        "title": "Жизнь взаймы",
-        "author": "Э.М.Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-05 08:48:06",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 2
         }
     }
 }
