@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexWay](users/101/10155308984397048-facebook)<sup>0</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>9</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>52</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>17</sup> 
 [Stanislav Sukharev](users/162/16237346307809983184-mailru)<sup>0</sup> 
-[Neccochi](users/126/12601720503917094896-mailru)<sup>43</sup> 
 
 
-_07.04.2017 15:00:47_
+_07.04.2017 15:01:31_
