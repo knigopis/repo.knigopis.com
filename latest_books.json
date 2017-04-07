@@ -1,4 +1,16 @@
 {
+    "0ZmaGE7dII": {
+        "id": "0ZmaGE7dII",
+        "title": "Дубровский",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2017-04-07 12:40:12",
+        "user": {
+            "id": "403474839-vkontakte",
+            "nickname": "Анастасия",
+            "booksCount": 13
+        }
+    },
     "xrwVlAdwrd": {
         "id": "xrwVlAdwrd",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "395967588-vkontakte",
             "nickname": "ilona26g_va",
             "booksCount": 9
-        }
-    },
-    "su5eazcZ_c": {
-        "id": "su5eazcZ_c",
-        "title": "Последний день приговоренного к смерти",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2017-04-05 08:51:27",
-        "user": {
-            "id": "395967588-vkontakte",
-            "nickname": "ilona26g_va",
-            "booksCount": 8
         }
     }
 }
