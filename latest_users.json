@@ -1,4 +1,10 @@
 {
+    "1103426989-twitter": {
+        "id": "1103426989-twitter",
+        "nickname": "talkmexdown",
+        "booksCount": 0,
+        "updatedAt": "2017-04-08 19:12:16"
+    },
     "48568611-vkontakte": {
         "id": "48568611-vkontakte",
         "nickname": "Sofie",
@@ -172,11 +178,5 @@
         "nickname": "dmkq",
         "booksCount": 57,
         "updatedAt": "2017-03-30 13:02:17"
-    },
-    "190338334-vkontakte": {
-        "id": "190338334-vkontakte",
-        "nickname": "Vania",
-        "booksCount": 0,
-        "updatedAt": "2017-03-30 11:52:04"
     }
 }
