@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>3</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
-[rNix](users/115/115622071-twitter)<sup>52</sup> 
 
 
-_07.04.2017 17:17:00_
+_08.04.2017 00:30:38_
