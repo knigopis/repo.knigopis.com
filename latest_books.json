@@ -1,4 +1,16 @@
 {
+    "922j6V1_Mg": {
+        "id": "922j6V1_Mg",
+        "title": "Любовь и дружба",
+        "author": "Джейн Остен",
+        "notes": "",
+        "createdAt": "2017-04-08 12:14:13",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 14
+        }
+    },
     "p60JKw-eDl": {
         "id": "p60JKw-eDl",
         "title": "Светопреставление",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 20
-        }
-    },
-    "wSd0ArDeYB": {
-        "id": "wSd0ArDeYB",
-        "title": "Собака Баскервилей",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-04-07 12:43:34",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 19
         }
     }
 }

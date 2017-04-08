@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
 [Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>3</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
@@ -61,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
-[Милашечка](users/200/200601396-vkontakte)<sup>13</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
 [mg901](users/112/112661510199640943702-google)<sup>1</sup> 
 
 
-_08.04.2017 00:30:38_
+_08.04.2017 12:14:13_
