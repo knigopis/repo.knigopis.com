@@ -1,4 +1,16 @@
 {
+    "uPw1D-LNeZ": {
+        "id": "uPw1D-LNeZ",
+        "title": "Коты-Воители: Битва за лес",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 6",
+        "createdAt": "2017-04-08 20:25:02",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 99
+        }
+    },
     "DgALB9hMdu": {
         "id": "DgALB9hMdu",
         "title": "Коты-Воители: Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 91
-        }
-    },
-    "B2KyofWBe5": {
-        "id": "B2KyofWBe5",
-        "title": "Немезида",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 13",
-        "createdAt": "2017-03-25 08:07:03",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 90
         }
     }
 }

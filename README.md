@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
+    > Цикл "Воители"
+    > Книга 6
+
 * Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
     > Цикл "Воители"
     > Книга 5
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга очень понравилась. Восточная стратегия войны за власть и культура  Японии завораживает. Тем более интересно читать, зная что книга отчасти основана на реальных исторических событиях.
 
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
-    > не самая лучшая  часть Тайного Города. Хотя,  про Ладогу (Лудяное и Ледовое побоище) было интересно
 
 * Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 
-* Коты-Воители: Стань диким! ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
@@ -45,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>515</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>93</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 
 
-_08.04.2017 19:12:18_
+_08.04.2017 20:25:03_

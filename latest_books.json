@@ -1,4 +1,16 @@
 {
+    "uPw1D-LNeZ": {
+        "id": "uPw1D-LNeZ",
+        "title": "Коты-Воители: Битва за лес",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Воители\"\nКнига 6",
+        "createdAt": "2017-04-08 20:25:02",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 99
+        }
+    },
     "BfMPdyPHwN": {
         "id": "BfMPdyPHwN",
         "title": "Дочь палача и черный монах",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 22
-        }
-    },
-    "zZOtfEHOtj": {
-        "id": "zZOtfEHOtj",
-        "title": "над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-04-07 12:46:02",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 21
         }
     }
 }

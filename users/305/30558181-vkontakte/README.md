@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>99</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Битва за лес
+Эрин Хантер
+> Цикл "Воители"
+> Книга 6
+
 
 ### Коты-Воители: Опасная тропа
 Эрин Хантер
