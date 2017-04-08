@@ -1,4 +1,10 @@
 {
+    "48568611-vkontakte": {
+        "id": "48568611-vkontakte",
+        "nickname": "Sofie",
+        "booksCount": 75,
+        "updatedAt": "2017-04-08 16:25:47"
+    },
     "200601396-vkontakte": {
         "id": "200601396-vkontakte",
         "nickname": "Милашечка",
@@ -172,11 +178,5 @@
         "nickname": "Vania",
         "booksCount": 0,
         "updatedAt": "2017-03-30 11:52:04"
-    },
-    "112661510199640943702-google": {
-        "id": "112661510199640943702-google",
-        "nickname": "mg901",
-        "booksCount": 1,
-        "updatedAt": "2017-03-30 10:02:50"
     }
 }

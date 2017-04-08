@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
 [Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 [Vania](users/190/190338334-vkontakte)<sup>0</sup> 
-[mg901](users/112/112661510199640943702-google)<sup>1</sup> 
 
 
-_08.04.2017 12:14:13_
+_08.04.2017 16:25:47_
