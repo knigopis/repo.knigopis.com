@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>96</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>95</sup>
 ---
 
 ## 2017
@@ -354,10 +354,6 @@
 
 
 ### Приключения Кати
-Астрид Линдгрен
-
-
-### Пиппи Длинный чулок
 Астрид Линдгрен
 
 
