@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>95</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>94</sup>
 ---
 
 ## 2017
@@ -351,10 +351,6 @@
 Эмма Клейтон
 > Книга 1
 > 2-я книга "The Whisper" ещё не переведена на русский язык
-
-
-### Приключения Кати
-Астрид Линдгрен
 
 
 ### Унесённые ветром
