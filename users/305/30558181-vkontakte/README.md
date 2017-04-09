@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>99</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
 ---
 
 ## 2017
@@ -377,10 +377,6 @@
 
 ### Дракула
 Брэм Стокер
-
-
-### Золотой жук
-Эдгар Аллан По
 
 
 ### Динка прощается с детством
