@@ -1,4 +1,16 @@
 {
+    "4OPGkamrPO": {
+        "id": "4OPGkamrPO",
+        "title": "Охотник Дарт \\ 3. Покинутый город",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:04:10",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 18
+        }
+    },
     "pejHubSNhp": {
         "id": "pejHubSNhp",
         "title": "Охотник Дарт \\ 2. Пустоши демонов",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 6
-        }
-    },
-    "TsNOCmVwvm": {
-        "id": "TsNOCmVwvm",
-        "title": "Испытание огнём",
-        "author": "Джеймс Дэшнер",
-        "notes": "",
-        "createdAt": "2017-04-07 14:56:29",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 5
         }
     }
 }
