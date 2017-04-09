@@ -1,4 +1,16 @@
 {
+    "cUkmKXcil0": {
+        "id": "cUkmKXcil0",
+        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 7. Сквозь вражеский строй",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 10:49:42",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 7
+        }
+    },
     "Ew19UiaWBT": {
         "id": "Ew19UiaWBT",
         "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 6. Запределье",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 29
-        }
-    },
-    "XSHhNoQgcZ": {
-        "id": "XSHhNoQgcZ",
-        "title": "Преступление и наказание",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-07 12:49:39",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 28
         }
     }
 }
