@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gil](users/101/101934994962487087520-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
-[dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 
 
-_09.04.2017 06:47:40_
+_09.04.2017 10:35:30_
