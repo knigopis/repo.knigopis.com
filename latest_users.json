@@ -1,4 +1,10 @@
 {
+    "66370451-twitter": {
+        "id": "66370451-twitter",
+        "nickname": "Rodislav14",
+        "booksCount": 0,
+        "updatedAt": "2017-04-09 19:31:30"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 93,
         "updatedAt": "2017-03-30 23:17:15"
-    },
-    "118330474331574680123-google": {
-        "id": "118330474331574680123-google",
-        "nickname": "beiner",
-        "booksCount": 8,
-        "updatedAt": "2017-03-30 21:58:23"
     }
 }
