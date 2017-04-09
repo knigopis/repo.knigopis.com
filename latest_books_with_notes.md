@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 * Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 * Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
@@ -30,7 +31,6 @@
 * Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
 * Два дни в жизни земного шара ~ [Derek777](users/153/15386028-yandex)<sup>26</sup>
 * Новейшее путешествие, сочиненное в городе Белеве ~ [Derek777](users/153/15386028-yandex)<sup>25</sup>
-* Искусство войны ~ [lucius](users/838/83820536-yandex)<sup>139</sup>
 
 
-_09.04.2017 16:03:23_
+_09.04.2017 16:05:21_

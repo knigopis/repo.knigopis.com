@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
+    > Фильм, вышедший по книге, вполне ей соответствует, юмор, колкости, технические детали - присутствуют.
+
 * Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
     > Вторая книга с историями из жизни Ричарда Фейнмана
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Книга 6
 
 * Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-    > Цикл "Воители"
-    > Книга 5
 
 * Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
-* Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>44</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>45</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
 
 
-_09.04.2017 16:03:23_
+_09.04.2017 16:05:21_
