@@ -1,4 +1,16 @@
 {
+    "vGCD26gWoA": {
+        "id": "vGCD26gWoA",
+        "title": "Изгой \\ 2. Темные времена",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 11:22:40",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 10
+        }
+    },
     "e_l4KzVAnq": {
         "id": "e_l4KzVAnq",
         "title": "Изгой \\ 1. Крепость надежды",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 32
-        }
-    },
-    "C0Keuyjw5l": {
-        "id": "C0Keuyjw5l",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2017-04-07 12:51:35",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 31
         }
     }
 }

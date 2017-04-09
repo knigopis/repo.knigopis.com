@@ -1,4 +1,4 @@
-# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>9</sup>
+# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>10</sup>
 ---
 
 ## 2017
@@ -38,6 +38,10 @@
 
 
 ## 2016
+
+### Изгой \ 2. Темные времена
+Дем Михайлов
+
 
 ### Изгой \ 1. Крепость надежды
 Дем Михайлов
