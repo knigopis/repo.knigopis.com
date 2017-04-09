@@ -1,4 +1,16 @@
 {
+    "kgLW-0uTqk": {
+        "id": "kgLW-0uTqk",
+        "title": "Одержимый \\ 3. Рыцарь Империи",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:07:45",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 22
+        }
+    },
     "MPctN7QDyr": {
         "id": "MPctN7QDyr",
         "title": "Одержимый \\ 2. Защитник Империи",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 10
-        }
-    },
-    "fGF2F4Ra2U": {
-        "id": "fGF2F4Ra2U",
-        "title": "Будущее (роман)",
-        "author": "Дмитрий Глуховский",
-        "notes": "",
-        "createdAt": "2017-04-07 15:00:47",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 9
         }
     }
 }
