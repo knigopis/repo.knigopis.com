@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Gil](users/101/101934994962487087520-google)<sup>15</sup> 
+[Gil](users/101/101934994962487087520-google)<sup>16</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 
 
-_09.04.2017 11:27:31_
+_09.04.2017 12:02:07_
