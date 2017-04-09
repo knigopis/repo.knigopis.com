@@ -1,4 +1,16 @@
 {
+    "5scSvbMpjz": {
+        "id": "5scSvbMpjz",
+        "title": "Одержимый \\ 1. Страж Империи",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:05:58",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 20
+        }
+    },
     "vos6e5zZXB": {
         "id": "vos6e5zZXB",
         "title": "Охотник Дарт \\ 4. Лорд Пустошей",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 8
-        }
-    },
-    "z5t_wpiUHR": {
-        "id": "z5t_wpiUHR",
-        "title": "Свинцовый закат",
-        "author": "Роман Глушков",
-        "notes": "",
-        "createdAt": "2017-04-07 14:58:02",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 7
         }
     }
 }
