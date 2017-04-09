@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>97</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>96</sup>
 ---
 
 ## 2017
@@ -359,10 +359,6 @@
 
 ### Пиппи Длинный чулок
 Астрид Линдгрен
-
-
-### Красное и чёрное
-Стендаль
 
 
 ### Унесённые ветром
