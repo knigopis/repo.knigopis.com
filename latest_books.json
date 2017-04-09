@@ -1,4 +1,16 @@
 {
+    "wghOHkn1wY": {
+        "id": "wghOHkn1wY",
+        "title": "Изгой \\ 3. Наследие некроманта",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 11:23:37",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 11
+        }
+    },
     "vGCD26gWoA": {
         "id": "vGCD26gWoA",
         "title": "Изгой \\ 2. Темные времена",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 33
-        }
-    },
-    "cCY99NT5t-": {
-        "id": "cCY99NT5t-",
-        "title": "100 лет одиночества",
-        "author": "Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-04-07 12:52:09",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 32
         }
     }
 }
