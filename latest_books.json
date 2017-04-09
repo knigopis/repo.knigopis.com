@@ -1,4 +1,16 @@
 {
+    "0h5DDhAvHi": {
+        "id": "0h5DDhAvHi",
+        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 8. Великий Поход",
+        "author": "Дем Михайлов",
+        "notes": "с 1 по 17 главу",
+        "createdAt": "2017-04-09 10:50:35",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 8
+        }
+    },
     "cUkmKXcil0": {
         "id": "cUkmKXcil0",
         "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 7. Сквозь вражеский строй",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 30
-        }
-    },
-    "UMGTSYShL1": {
-        "id": "UMGTSYShL1",
-        "title": "Чувство и разум",
-        "author": "Джейн Остен",
-        "notes": "",
-        "createdAt": "2017-04-07 12:50:21",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 29
         }
     }
 }
