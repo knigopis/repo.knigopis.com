@@ -1,4 +1,4 @@
-# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>14</sup>
+# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>15</sup>
 ---
 
 ## 2017
@@ -38,6 +38,10 @@
 
 
 ## 2016
+
+### Изгой \ 7. Кровь и пламя
+Дем Михайлов
+
 
 ### Изгой \ 6. Кровавая весна
 Дем Михайлов

@@ -1,4 +1,16 @@
 {
+    "tcD61BOpTk": {
+        "id": "tcD61BOpTk",
+        "title": "Изгой \\ 7. Кровь и пламя",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 11:27:31",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 15
+        }
+    },
     "KIYD20wB2C": {
         "id": "KIYD20wB2C",
         "title": "Изгой \\ 6. Кровавая весна",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 3
-        }
-    },
-    "SfROi2RmWJ": {
-        "id": "SfROi2RmWJ",
-        "title": "Пикник на обочине",
-        "author": "А. Стругацкий, Б. Стругацкий",
-        "notes": "",
-        "createdAt": "2017-04-07 14:53:02",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 2
         }
     }
 }
