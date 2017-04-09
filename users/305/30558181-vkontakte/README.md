@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>97</sup>
 ---
 
 ## 2017
@@ -373,10 +373,6 @@
 ### Унесённые ветром
 Маргарет Митчелл
 > Том 1
-
-
-### Дракула
-Брэм Стокер
 
 
 ### Динка прощается с детством
