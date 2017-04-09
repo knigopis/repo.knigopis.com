@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dmkq](users/142/1427317190926206-facebook)<sup>57</sup> 
 
 
-_08.04.2017 20:25:03_
+_09.04.2017 06:46:53_
