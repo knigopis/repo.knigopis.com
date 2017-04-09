@@ -1,4 +1,16 @@
 {
+    "pejHubSNhp": {
+        "id": "pejHubSNhp",
+        "title": "Охотник Дарт \\ 2. Пустоши демонов",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:03:05",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 17
+        }
+    },
     "56wXbLANXV": {
         "id": "56wXbLANXV",
         "title": "Охотник Дарт \\ 1. Замок Древних",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 5
-        }
-    },
-    "NQ-ImWthYr": {
-        "id": "NQ-ImWthYr",
-        "title": "«Муранча»",
-        "author": "Руслан Мельников",
-        "notes": "",
-        "createdAt": "2017-04-07 14:55:28",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 4
         }
     }
 }
