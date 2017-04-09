@@ -1,4 +1,16 @@
 {
+    "60Qs_lHmSz": {
+        "id": "60Qs_lHmSz",
+        "title": "Одержимый \\ 4. Драконоборец империи",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:08:37",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 23
+        }
+    },
     "kgLW-0uTqk": {
         "id": "kgLW-0uTqk",
         "title": "Одержимый \\ 3. Рыцарь Империи",
@@ -345,18 +357,6 @@
             "id": "10155308984397048-facebook",
             "nickname": "AlexWay",
             "booksCount": 1
-        }
-    },
-    "MKW2cGkOrh": {
-        "id": "MKW2cGkOrh",
-        "title": "«Игра престолов» (Game of Thrones)",
-        "author": "Джордж Р. Р. Мартин",
-        "notes": "",
-        "createdAt": "2017-04-07 15:03:21",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 10
         }
     }
 }
