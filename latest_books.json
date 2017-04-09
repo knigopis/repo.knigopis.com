@@ -1,4 +1,16 @@
 {
+    "SyVUv-lQqu": {
+        "id": "SyVUv-lQqu",
+        "title": "Какое тебе дело о том, что думают другие",
+        "author": "",
+        "notes": "Вторая книга с историями из жизни Ричарда Фейнмана",
+        "createdAt": "2017-04-09 16:03:23",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 44
+        }
+    },
     "MB12sbcqiB": {
         "id": "MB12sbcqiB",
         "title": "Одержимый \\ 5. Девятый герцог империи",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 2
-        }
-    },
-    "zl4441RiSa": {
-        "id": "zl4441RiSa",
-        "title": "Тихий Океан",
-        "author": "Алекша Нович",
-        "notes": "До сих пор интересно как зовут Черныша",
-        "createdAt": "2017-04-07 15:37:28",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 1
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 44,
+        "updatedAt": "2017-04-09 16:03:23"
+    },
     "101934994962487087520-google": {
         "id": "101934994962487087520-google",
         "nickname": "Gil",
@@ -172,11 +178,5 @@
         "nickname": "beiner",
         "booksCount": 8,
         "updatedAt": "2017-03-30 21:58:23"
-    },
-    "106805009126778959980-google": {
-        "id": "106805009126778959980-google",
-        "nickname": "Hellgiss",
-        "booksCount": 1,
-        "updatedAt": "2017-03-30 20:55:04"
     }
 }

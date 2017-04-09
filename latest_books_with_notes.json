@@ -1,4 +1,16 @@
 {
+    "SyVUv-lQqu": {
+        "id": "SyVUv-lQqu",
+        "title": "Какое тебе дело о том, что думают другие",
+        "author": "",
+        "notes": "Вторая книга с историями из жизни Ричарда Фейнмана",
+        "createdAt": "2017-04-09 16:03:23",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 44
+        }
+    },
     "uPw1D-LNeZ": {
         "id": "uPw1D-LNeZ",
         "title": "Коты-Воители: Битва за лес",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 139
-        }
-    },
-    "l-T2Pq2MOw": {
-        "id": "l-T2Pq2MOw",
-        "title": "Спящее убийство",
-        "author": "Агата Кристи",
-        "notes": "Мисс Марпл 14",
-        "createdAt": "2017-03-25 08:07:33",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 91
         }
     }
 }

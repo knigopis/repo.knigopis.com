@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
+    > Вторая книга с историями из жизни Ричарда Фейнмана
+
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
     > Цикл "Воители"
     > Книга 6
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 5
 
 * Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
-    > Книга очень понравилась. Восточная стратегия войны за власть и культура  Японии завораживает. Тем более интересно читать, зная что книга отчасти основана на реальных исторических событиях.
 
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
 
-* Коты-Воители: Огонь и лёд ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>44</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>8</sup> 
-[Hellgiss](users/106/106805009126778959980-google)<sup>1</sup> 
 
 
-_09.04.2017 12:14:48_
+_09.04.2017 16:03:23_
