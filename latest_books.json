@@ -1,4 +1,16 @@
 {
+    "bCSh55UacE": {
+        "id": "bCSh55UacE",
+        "title": "Новый Завет",
+        "author": "Бог",
+        "notes": "",
+        "createdAt": "2017-04-09 19:32:03",
+        "user": {
+            "id": "66370451-twitter",
+            "nickname": "Rodislav14",
+            "booksCount": 1
+        }
+    },
     "Nu79mIRPL6": {
         "id": "Nu79mIRPL6",
         "title": "Марсианин",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 14
-        }
-    },
-    "p60JKw-eDl": {
-        "id": "p60JKw-eDl",
-        "title": "Светопреставление",
-        "author": "Александр Беляев",
-        "notes": "",
-        "createdAt": "2017-04-07 17:17:00",
-        "user": {
-            "id": "317314037-vkontakte",
-            "nickname": "hawkeyepierce89",
-            "booksCount": 3
         }
     }
 }

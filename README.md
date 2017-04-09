@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rodislav14](users/663/66370451-twitter)<sup>0</sup> 
+[Rodislav14](users/663/66370451-twitter)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>45</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 
 
-_09.04.2017 19:31:34_
+_09.04.2017 19:32:03_
