@@ -1,4 +1,16 @@
 {
+    "MPctN7QDyr": {
+        "id": "MPctN7QDyr",
+        "title": "Одержимый \\ 2. Защитник Империи",
+        "author": "Андрей Буревой",
+        "notes": "",
+        "createdAt": "2017-04-09 12:07:02",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 21
+        }
+    },
     "5scSvbMpjz": {
         "id": "5scSvbMpjz",
         "title": "Одержимый \\ 1. Страж Империи",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 9
-        }
-    },
-    "iMas_KEbP6": {
-        "id": "iMas_KEbP6",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-04-07 14:59:17",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 8
         }
     }
 }
