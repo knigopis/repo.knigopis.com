@@ -1,4 +1,16 @@
 {
+    "br6IB9UFNG": {
+        "id": "br6IB9UFNG",
+        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 2. Судьба клана",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 10:39:51",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 2
+        }
+    },
     "4WQP1GhHTo": {
         "id": "4WQP1GhHTo",
         "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 1. Господство кланов",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 24
-        }
-    },
-    "w1whlUGOm1": {
-        "id": "w1whlUGOm1",
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "notes": "",
-        "createdAt": "2017-04-07 12:47:01",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 23
         }
     }
 }
