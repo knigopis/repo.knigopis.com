@@ -1,4 +1,16 @@
 {
+    "4WQP1GhHTo": {
+        "id": "4WQP1GhHTo",
+        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 1. Господство кланов",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 10:38:30",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 1
+        }
+    },
     "uPw1D-LNeZ": {
         "id": "uPw1D-LNeZ",
         "title": "Коты-Воители: Битва за лес",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 23
-        }
-    },
-    "1k4AZFoNlt": {
-        "id": "1k4AZFoNlt",
-        "title": "Заводной апельсин",
-        "author": "Берджесс",
-        "notes": "",
-        "createdAt": "2017-04-07 12:46:33",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 22
         }
     }
 }
