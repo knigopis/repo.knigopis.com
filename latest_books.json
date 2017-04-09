@@ -1,4 +1,16 @@
 {
+    "N2SxUwafIJ": {
+        "id": "N2SxUwafIJ",
+        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 3. Ярость богов",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-09 10:42:24",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 3
+        }
+    },
     "br6IB9UFNG": {
         "id": "br6IB9UFNG",
         "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 2. Судьба клана",
@@ -345,18 +357,6 @@
             "id": "403474839-vkontakte",
             "nickname": "Анастасия",
             "booksCount": 25
-        }
-    },
-    "8HVk_Susyz": {
-        "id": "8HVk_Susyz",
-        "title": "Граф Монте-Кристо",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2017-04-07 12:47:38",
-        "user": {
-            "id": "403474839-vkontakte",
-            "nickname": "Анастасия",
-            "booksCount": 24
         }
     }
 }
