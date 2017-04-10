@@ -1,4 +1,16 @@
 {
+    "nuZpfqiafy": {
+        "id": "nuZpfqiafy",
+        "title": "Гарри Поттер",
+        "author": "Джоан Роллинг",
+        "notes": "КНига",
+        "createdAt": "2017-04-10 23:33:43",
+        "user": {
+            "id": "581971778624196-facebook",
+            "nickname": "Emberlin",
+            "booksCount": 1
+        }
+    },
     "D3DlG-yPxt": {
         "id": "D3DlG-yPxt",
         "title": "Пробная",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 99
-        }
-    },
-    "BfMPdyPHwN": {
-        "id": "BfMPdyPHwN",
-        "title": "Дочь палача и черный монах",
-        "author": "Оливер Пётч",
-        "notes": "",
-        "createdAt": "2017-04-08 16:25:47",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 75
         }
     }
 }
