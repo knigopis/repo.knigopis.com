@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Emberlin](users/581/581971778624196-facebook)<sup>0</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>45</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 [kvisha11](users/141/141879993-vkontakte)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>93</sup> 
 
 
-_09.04.2017 19:32:17_
+_10.04.2017 23:32:47_
