@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
 [taratai](users/101/101010932180085732378-googleplus)<sup>1</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
-[scarteslett](users/201/201967417-vkontakte)<sup>54</sup> 
 [vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 
 
-_11.04.2017 16:10:16_
+_11.04.2017 18:31:29_

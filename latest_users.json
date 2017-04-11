@@ -1,4 +1,10 @@
 {
+    "201967417-vkontakte": {
+        "id": "201967417-vkontakte",
+        "nickname": "scarteslett",
+        "booksCount": 55,
+        "updatedAt": "2017-04-11 18:31:29"
+    },
     "113826235431340935361-google": {
         "id": "113826235431340935361-google",
         "nickname": "Lana8823",
@@ -130,12 +136,6 @@
         "nickname": "idsimonbell",
         "booksCount": 25,
         "updatedAt": "2017-04-04 22:35:39"
-    },
-    "201967417-vkontakte": {
-        "id": "201967417-vkontakte",
-        "nickname": "scarteslett",
-        "booksCount": 54,
-        "updatedAt": "2017-04-04 18:11:22"
     },
     "183010201-vkontakte": {
         "id": "183010201-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "cM5l2N3SUJ": {
+        "id": "cM5l2N3SUJ",
+        "title": "Этюд в багровых тонах",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-04-11 18:31:29",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 55
+        }
+    },
     "_HaMJvdkho": {
         "id": "_HaMJvdkho",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 2
-        }
-    },
-    "4WQP1GhHTo": {
-        "id": "4WQP1GhHTo",
-        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 1. Господство кланов",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 10:38:30",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 1
         }
     }
 }
