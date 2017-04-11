@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 
 
-_11.04.2017 18:31:29_
+_11.04.2017 23:22:29_
