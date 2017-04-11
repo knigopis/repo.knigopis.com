@@ -1,4 +1,10 @@
 {
+    "16458319-vkontakte": {
+        "id": "16458319-vkontakte",
+        "nickname": "umop_apisdn",
+        "booksCount": 0,
+        "updatedAt": "2017-04-11 23:22:27"
+    },
     "201967417-vkontakte": {
         "id": "201967417-vkontakte",
         "nickname": "scarteslett",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 20,
         "updatedAt": "2017-03-31 19:32:32"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 74,
-        "updatedAt": "2017-03-31 16:16:11"
     }
 }
