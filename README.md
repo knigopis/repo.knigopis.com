@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lana8823](users/113/113826235431340935361-google)<sup>0</sup> 
+[Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>45</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>74</sup> 
 
 
-_11.04.2017 14:20:39_
+_11.04.2017 16:10:16_

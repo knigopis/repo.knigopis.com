@@ -1,4 +1,16 @@
 {
+    "_HaMJvdkho": {
+        "id": "_HaMJvdkho",
+        "title": "",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-11 16:10:16",
+        "user": {
+            "id": "113826235431340935361-google",
+            "nickname": "Lana8823",
+            "booksCount": 1
+        }
+    },
     "nuZpfqiafy": {
         "id": "nuZpfqiafy",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 1
-        }
-    },
-    "uPw1D-LNeZ": {
-        "id": "uPw1D-LNeZ",
-        "title": "Коты-Воители: Битва за лес",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 6",
-        "createdAt": "2017-04-08 20:25:02",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 99
         }
     }
 }
