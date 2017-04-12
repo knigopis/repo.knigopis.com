@@ -1,4 +1,4 @@
-# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>4</sup>
+# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>5</sup>
 ---
 
 ## 2017
@@ -15,6 +15,21 @@ Onikage Spanner
 > “Save my dungeon. By the way, if the dungeon core is destroyed, you’ll also go down with me as the dungeon master.”
 > 
 > A dungeon with a single room. Moreover, one already controlled by bandits. This is a [Checkmate] no matter how you look at it. Guess there’s nothing to do but somehow get out of this situation so that I can [Not Work]!!
+
+
+### Everyone Else is a Returnee
+Toika
+> [2017-03] 7/10 Аннотация:
+> Left out during elementary school picnic.
+> 
+> Left out during middle school camp.
+> 
+> Left out during high school trip.
+> 
+> I finally became a college student and what? I’m left out from the entire humanity?
+> 
+> Yu IlHan who protects the earth alone while everybody’s away in other worlds.
+> His legend starts after humanity comes back and meets the Great Cataclysm!
 
 
 ### Release that Witch
