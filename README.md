@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lazy Alex](users/113/113945124059684992236-google)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>140</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 [hengehok](users/387/3872053-vkontakte)<sup>32</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
 
 
-_12.04.2017 14:55:08_
+_12.04.2017 18:28:21_
