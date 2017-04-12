@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
+    > Левраны, Деймы, круговерть миров и времени, антисимметрин. Поначалу трудно понять что к чему, но к концу все разъясняется
+
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
     > Цикл "Новое пророчество"
     > Книга 7
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Фильм, вышедший по книге, вполне ей соответствует, юмор, колкости, технические детали - присутствуют.
 
 * Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
-    > Вторая книга с историями из жизни Ричарда Фейнмана
 
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 
@@ -27,20 +29,18 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
-* Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>46</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>45</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
 
 
-_12.04.2017 10:40:04_
+_12.04.2017 14:55:08_
