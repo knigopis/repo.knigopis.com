@@ -1,7 +1,18 @@
-# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>2</sup>
+# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>3</sup>
 ---
 
 ## 2017
+
+### Release that Witch
+Er Mu
+> [2017-03] 7/10 Заметки: немного замудрена, немного чернухи.
+> Аннотация:
+> Cheng Yan transmigrated only to end up in a medieval Europe like world, becoming Roland, a Royal Prince. But this world doesn’t seem to be the same as his former world, despite some similarities. Witches are real and they actually can use magic?
+> 
+> Follow Roland’s battle for the throne against his siblings. Will he be able to win, even though the king already declared him to be a hopeless case and with the worst starting situation? With his knowledge of modern technologies and the help of the witches, who are known as devils’ servants and are hunted by the the Holy Church, he might have a fighting chance.
+> 
+> Now, let his journey begin.
+
 
 ### Moon-led Journey Across Another World
 Azumi Kei
