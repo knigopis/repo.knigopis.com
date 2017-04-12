@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 95,
+        "updatedAt": "2017-04-12 10:40:04"
+    },
     "16458319-vkontakte": {
         "id": "16458319-vkontakte",
         "nickname": "umop_apisdn",
@@ -40,12 +46,6 @@
         "nickname": "Gil",
         "booksCount": 24,
         "updatedAt": "2017-04-09 12:14:48"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 94,
-        "updatedAt": "2017-04-09 06:47:40"
     },
     "1103426989-twitter": {
         "id": "1103426989-twitter",

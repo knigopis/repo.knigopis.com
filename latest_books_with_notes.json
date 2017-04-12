@@ -1,4 +1,16 @@
 {
+    "1tIPj6yFZv": {
+        "id": "1tIPj6yFZv",
+        "title": "Коты-Воители: Полночь",
+        "author": "",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 7",
+        "createdAt": "2017-04-12 10:40:04",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 95
+        }
+    },
     "Nu79mIRPL6": {
         "id": "Nu79mIRPL6",
         "title": "Марсианин",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 26
-        }
-    },
-    "hEWz38OzGU": {
-        "id": "hEWz38OzGU",
-        "title": "Новейшее путешествие, сочиненное в городе Белеве",
-        "author": "Василий Левшин",
-        "notes": "Короткий. Идея воздушного пространства между Землёй и Луной. фантастика 1780 года. 5 из 10.",
-        "createdAt": "2017-03-25 15:21:51",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 25
         }
     }
 }

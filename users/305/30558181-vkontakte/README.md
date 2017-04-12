@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>94</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>95</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Полночь
+> Цикл "Новое пророчество"
+> Книга 7
+
 
 ### Коты-Воители: Битва за лес
 Эрин Хантер

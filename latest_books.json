@@ -1,4 +1,16 @@
 {
+    "1tIPj6yFZv": {
+        "id": "1tIPj6yFZv",
+        "title": "Коты-Воители: Полночь",
+        "author": "",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 7",
+        "createdAt": "2017-04-12 10:40:04",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 95
+        }
+    },
     "cM5l2N3SUJ": {
         "id": "cM5l2N3SUJ",
         "title": "Этюд в багровых тонах",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 3
-        }
-    },
-    "br6IB9UFNG": {
-        "id": "br6IB9UFNG",
-        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 2. Судьба клана",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 10:39:51",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 2
         }
     }
 }

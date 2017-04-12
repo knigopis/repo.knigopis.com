@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
+    > Цикл "Новое пророчество"
+    > Книга 7
+
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
     > Фильм, вышедший по книге, вполне ей соответствует, юмор, колкости, технические детали - присутствуют.
 
@@ -12,8 +16,6 @@ Do not use pull requests to make changes here.
     > Вторая книга с историями из жизни Ричарда Фейнмана
 
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
-    > Цикл "Воители"
-    > Книга 6
 
 * Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 
-* Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>45</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>24</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>94</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>20</sup> 
 
 
-_11.04.2017 23:22:29_
+_12.04.2017 10:40:04_
