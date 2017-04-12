@@ -1,4 +1,16 @@
 {
+    "wmNrMAC54-": {
+        "id": "wmNrMAC54-",
+        "title": "Moon-led Journey Across Another World",
+        "author": "Azumi Kei",
+        "notes": "6,5/10 Аннотация: \nHigh school student Misumi Makoto is called into a fantasy world by the god Tsukuyomi, in order to be a hero. However, powerful others in this world aren’t as thrilled to have him there, and kick him to the edge of the world. Tsukuyomi declares that Makoto is free to find his own way after Makoto is abandoned by the other Goddess.",
+        "createdAt": "2017-04-12 18:38:21",
+        "user": {
+            "id": "113945124059684992236-google",
+            "nickname": "Lazy Alex",
+            "booksCount": 2
+        }
+    },
     "zcq5nB9eOa": {
         "id": "zcq5nB9eOa",
         "title": "My Pet Is a Holy Maiden",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 6
-        }
-    },
-    "R549cQzAKB": {
-        "id": "R549cQzAKB",
-        "title": "Мир Вальдиры \\ Господство клана Неспящих \\ 5. Ультиматум",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 10:48:34",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 5
         }
     }
 }

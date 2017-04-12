@@ -1,5 +1,14 @@
-# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>1</sup>
+# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>2</sup>
 ---
+
+## 2017
+
+### Moon-led Journey Across Another World
+Azumi Kei
+> [2017-02] 6,5/10 Аннотация: 
+> High school student Misumi Makoto is called into a fantasy world by the god Tsukuyomi, in order to be a hero. However, powerful others in this world aren’t as thrilled to have him there, and kick him to the edge of the world. Tsukuyomi declares that Makoto is free to find his own way after Makoto is abandoned by the other Goddess.
+
+
 
 ## 2016
 
