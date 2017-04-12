@@ -1,7 +1,21 @@
-# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>3</sup>
+# List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>4</sup>
 ---
 
 ## 2017
+
+### Lazy Dungeon Master
+Onikage Spanner
+> [2017-04] 6,5/10 Аннотация:
+> “Hey, hurry up and massacre those bandits!”
+> 
+> “No way, I don’t want to work…”
+> 
+> Spending my daily life in leisure, that was my pastime—until I was summoned into another world and met a blonde loli introducing herself as Dungeon Core No. 695.
+> 
+> “Save my dungeon. By the way, if the dungeon core is destroyed, you’ll also go down with me as the dungeon master.”
+> 
+> A dungeon with a single room. Moreover, one already controlled by bandits. This is a [Checkmate] no matter how you look at it. Guess there’s nothing to do but somehow get out of this situation so that I can [Not Work]!!
+
 
 ### Release that Witch
 Er Mu
