@@ -1,7 +1,7 @@
 # List of books read by [Lazy Alex](https://plus.google.com/113945124059684992236)<sup>1</sup>
 ---
 
-## 2017
+## 2016
 
 ### My Pet Is a Holy Maiden
 Muku Bunchou
