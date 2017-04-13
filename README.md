@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
 [taratai](users/101/101010932180085732378-googleplus)<sup>1</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
-[vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
 
 
-_13.04.2017 07:15:24_
+_13.04.2017 11:01:14_
