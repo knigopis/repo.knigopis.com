@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ренессанс ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup>
 * Вселенная, жизнь, разум ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
 * Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
@@ -30,7 +31,6 @@
 * Вишневый сад ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>36</sup>
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
 * Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
-* Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
 
 
-_13.04.2017 12:05:50_
+_13.04.2017 13:29:16_
