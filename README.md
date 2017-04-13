@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Опасная тропа ~ [Йолант](users/104/104690883692185089260-google)<sup>95</sup>
+    > Мод Силвер №3
+
 * Дело закрыто ~ [Йолант](users/104/104690883692185089260-google)<sup>94</sup>
     > Мод Силвер №2
 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Правда будет написана кровью!
 
 * Вселенная, жизнь, разум ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
-    > в процессе
 
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
 
@@ -29,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 
-* Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>94</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>95</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 19:34:49_
+_13.04.2017 19:35:43_

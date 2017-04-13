@@ -1,4 +1,16 @@
 {
+    "wn3WcaKsIf": {
+        "id": "wn3WcaKsIf",
+        "title": "Опасная тропа",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №3",
+        "createdAt": "2017-04-13 19:35:43",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 95
+        }
+    },
     "HDxcil-K6j": {
         "id": "HDxcil-K6j",
         "title": "Дело закрыто",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 20
-        }
-    },
-    "vos6e5zZXB": {
-        "id": "vos6e5zZXB",
-        "title": "Охотник Дарт \\ 4. Лорд Пустошей",
-        "author": "Андрей Буревой",
-        "notes": "",
-        "createdAt": "2017-04-09 12:05:02",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 19
         }
     }
 }
