@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 93,
+        "updatedAt": "2017-04-13 19:34:07"
+    },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
         "nickname": "Койнов Александр",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 35,
         "updatedAt": "2017-04-06 13:51:58"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 93,
-        "updatedAt": "2017-04-06 09:59:38"
     }
 }

@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>93</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>515</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>93</sup> 
 
 
-_13.04.2017 13:29:16_
+_13.04.2017 19:34:07_
