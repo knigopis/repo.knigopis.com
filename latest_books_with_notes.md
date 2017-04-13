@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дело закрыто ~ [Йолант](users/104/104690883692185089260-google)<sup>94</sup>
 * Ренессанс ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup>
 * Вселенная, жизнь, разум ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
@@ -30,7 +31,6 @@
 * Обломов ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>37</sup>
 * Вишневый сад ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>36</sup>
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
-* Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 
 
-_13.04.2017 13:29:16_
+_13.04.2017 19:34:49_
