@@ -1,4 +1,16 @@
 {
+    "MQ38gHDYoH": {
+        "id": "MQ38gHDYoH",
+        "title": "Монах, который продал Феррари",
+        "author": "Робин Шарма",
+        "notes": "Гениальная книга, которую следует периодически перечитывать/переслушивать.",
+        "createdAt": "2017-04-13 06:39:11",
+        "user": {
+            "id": "100004984741055-facebook",
+            "nickname": "Художник",
+            "booksCount": 1
+        }
+    },
     "2hRobuy4QW": {
         "id": "2hRobuy4QW",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 12
-        }
-    },
-    "wghOHkn1wY": {
-        "id": "wghOHkn1wY",
-        "title": "Изгой \\ 3. Наследие некроманта",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 11:23:37",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 11
         }
     }
 }

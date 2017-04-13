@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Художник](users/100/100004984741055-facebook)<sup>0</sup> 
+[Художник](users/100/100004984741055-facebook)<sup>1</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>8</sup> 
 
 
-_13.04.2017 06:38:04_
+_13.04.2017 06:39:11_
