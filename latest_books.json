@@ -1,4 +1,16 @@
 {
+    "Sx-wCRQWjq": {
+        "id": "Sx-wCRQWjq",
+        "title": "Дело Уильяма Смита",
+        "author": "Патриция Вентворт",
+        "notes": "",
+        "createdAt": "2017-04-13 19:55:36",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 106
+        }
+    },
     "j2KyYx9DGt": {
         "id": "j2KyYx9DGt",
         "title": "Кольцо вечности",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 55
-        }
-    },
-    "_HaMJvdkho": {
-        "id": "_HaMJvdkho",
-        "title": "",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-11 16:10:16",
-        "user": {
-            "id": "113826235431340935361-google",
-            "nickname": "Lana8823",
-            "booksCount": 1
         }
     }
 }
