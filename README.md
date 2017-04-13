@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Часы бьют двенадцать ~ [Йолант](users/104/104690883692185089260-google)<sup>99</sup>
+    > Мод Силвер №7
+
 * Мисс Силвер вмешивается ~ [Йолант](users/104/104690883692185089260-google)<sup>98</sup>
     > Мод Силвер №6
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мод Силвер №5
 
 * На краю пропасти ~ [Йолант](users/104/104690883692185089260-google)<sup>96</sup>
-    > Мод Силвер №4
 
 * Опасная тропа ~ [Йолант](users/104/104690883692185089260-google)<sup>95</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
 
-* Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>98</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>99</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 19:37:56_
+_13.04.2017 19:38:43_
