@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup> 
 [Художник](users/100/100004984741055-facebook)<sup>1</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 [vk.astreloff](users/183/183010201-vkontakte)<sup>0</sup> 
 [m_natalie_s](users/203/203813879-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>140</sup> 
 
 
-_13.04.2017 06:44:28_
+_13.04.2017 07:01:53_
