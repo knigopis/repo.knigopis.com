@@ -1,4 +1,10 @@
 {
+    "20364039-vkontakte": {
+        "id": "20364039-vkontakte",
+        "nickname": "Alendiya",
+        "booksCount": 0,
+        "updatedAt": "2017-04-13 11:01:11"
+    },
     "35140437-vkontakte": {
         "id": "35140437-vkontakte",
         "nickname": "miatka",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 25,
         "updatedAt": "2017-04-04 22:35:39"
-    },
-    "183010201-vkontakte": {
-        "id": "183010201-vkontakte",
-        "nickname": "vk.astreloff",
-        "booksCount": 0,
-        "updatedAt": "2017-04-04 18:10:11"
     }
 }
