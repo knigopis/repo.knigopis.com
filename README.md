@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Светящееся пятно ~ [Йолант](users/104/104690883692185089260-google)<sup>104</sup>
+    > Мод Силвер №12
+
 * Убийство в поместье Леттеров ~ [Йолант](users/104/104690883692185089260-google)<sup>103</sup>
     > Мод Силвер №11
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мод Силвер №9
 
 * Ключ ~ [Йолант](users/104/104690883692185089260-google)<sup>100</sup>
-    > Мод Силвер №8
 
 * Часы бьют двенадцать ~ [Йолант](users/104/104690883692185089260-google)<sup>99</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело закрыто ~ [Йолант](users/104/104690883692185089260-google)<sup>94</sup>
 
-* Ренессанс ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>103</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>104</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 19:45:59_
+_13.04.2017 19:46:35_
