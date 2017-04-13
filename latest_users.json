@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "Койнов Александр",
+        "booksCount": 18,
+        "updatedAt": "2017-04-13 13:22:23"
+    },
     "115838243207229578974-google": {
         "id": "115838243207229578974-google",
         "nickname": "Sergei",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 93,
         "updatedAt": "2017-04-06 09:59:38"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 107,
-        "updatedAt": "2017-04-05 19:37:40"
     }
 }

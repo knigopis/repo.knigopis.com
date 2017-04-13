@@ -1,4 +1,16 @@
 {
+    "VBwDRjb4OA": {
+        "id": "VBwDRjb4OA",
+        "title": "Тайный крестовый поход",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-04-13 13:22:23",
+        "user": {
+            "id": "414040473-vkontakte",
+            "nickname": "Койнов Александр",
+            "booksCount": 18
+        }
+    },
     "LaskHvuxDO": {
         "id": "LaskHvuxDO",
         "title": "Вселенная, жизнь, разум",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 16
-        }
-    },
-    "tcD61BOpTk": {
-        "id": "tcD61BOpTk",
-        "title": "Изгой \\ 7. Кровь и пламя",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 11:27:31",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 15
         }
     }
 }
