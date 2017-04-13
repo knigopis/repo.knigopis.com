@@ -1,4 +1,10 @@
 {
+    "317314037-vkontakte": {
+        "id": "317314037-vkontakte",
+        "nickname": "hawkeyepierce89",
+        "booksCount": 4,
+        "updatedAt": "2017-04-13 01:11:59"
+    },
     "113945124059684992236-google": {
         "id": "113945124059684992236-google",
         "nickname": "Lazy Alex",
@@ -76,12 +82,6 @@
         "nickname": "Kirill7777",
         "booksCount": 0,
         "updatedAt": "2017-04-08 00:30:35"
-    },
-    "317314037-vkontakte": {
-        "id": "317314037-vkontakte",
-        "nickname": "hawkeyepierce89",
-        "booksCount": 3,
-        "updatedAt": "2017-04-07 17:17:00"
     },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
