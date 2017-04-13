@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вселенная, жизнь, разум ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
+    > в процессе
+
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
     > Врач Кузнецов возвращался домой после работы. В подземном переходе к нему пристал оборванный бомж с удивительно красивой голубоглазой девочкой лет пяти. Кузнецов дал бродяге крупную купюру. Тот раскланялся. А девочка вдруг сказала «папа». Кого она имела в виду, Владимир понял на следующий день, когда решил проверить, где теперь та странная парочка. Девочка была все там же, а рядом с ней на полу валялся труп бомжа. Владимир вызвал полицию и скорую. Ночью он случайно выглянул в окно и снова увидел на качелях ту же девочку. Выглянувшая из-за туч луна вдруг осветила омерзительное зрелище…
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Левраны, Деймы, круговерть миров и времени, антисимметрин. Поначалу трудно понять что к чему, но к концу все разъясняется
 
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
-    > Цикл "Новое пророчество"
-    > Книга 7
 
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
 
-* Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>93</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
 [taratai](users/101/101010932180085732378-googleplus)<sup>1</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>25</sup> 
 
 
-_13.04.2017 11:01:14_
+_13.04.2017 12:05:50_

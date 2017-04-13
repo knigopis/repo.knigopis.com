@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вселенная, жизнь, разум ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup>
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
 * Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Судьба человека ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>35</sup>
 * Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
-* Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
 
 
-_13.04.2017 06:44:28_
+_13.04.2017 12:05:50_

@@ -1,4 +1,16 @@
 {
+    "LaskHvuxDO": {
+        "id": "LaskHvuxDO",
+        "title": "Вселенная, жизнь, разум",
+        "author": "И.С.Шкловский",
+        "notes": "в процессе",
+        "createdAt": "2017-04-13 12:05:50",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 94
+        }
+    },
     "fIh28nEN7l": {
         "id": "fIh28nEN7l",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 15
-        }
-    },
-    "KIYD20wB2C": {
-        "id": "KIYD20wB2C",
-        "title": "Изгой \\ 6. Кровавая весна",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-09 11:27:03",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 14
         }
     }
 }

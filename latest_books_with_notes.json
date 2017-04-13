@@ -1,4 +1,16 @@
 {
+    "LaskHvuxDO": {
+        "id": "LaskHvuxDO",
+        "title": "Вселенная, жизнь, разум",
+        "author": "И.С.Шкловский",
+        "notes": "в процессе",
+        "createdAt": "2017-04-13 12:05:50",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 94
+        }
+    },
     "T6hnEisJmG": {
         "id": "T6hnEisJmG",
         "title": "Пуповина",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 33
-        }
-    },
-    "qGYBp7pmo4": {
-        "id": "qGYBp7pmo4",
-        "title": "Шестое чувство",
-        "author": "Агата Кристи",
-        "notes": "Аудиокнига",
-        "createdAt": "2017-03-28 22:13:38",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 67
         }
     }
 }
