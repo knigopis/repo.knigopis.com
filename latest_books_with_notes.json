@@ -1,4 +1,16 @@
 {
+    "vfpqNWPk9l": {
+        "id": "vfpqNWPk9l",
+        "title": "Огненное колесо",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №16",
+        "createdAt": "2017-04-13 19:58:08",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 108
+        }
+    },
     "IKFt1JAY80": {
         "id": "IKFt1JAY80",
         "title": "Мисс Силвер приехала погостить",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 99
-        }
-    },
-    "0toNUJjgu-": {
-        "id": "0toNUJjgu-",
-        "title": "Коты-Воители: Стань диким!",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 1",
-        "createdAt": "2017-03-30 08:37:20",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
