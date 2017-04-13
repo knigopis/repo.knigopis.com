@@ -1,4 +1,4 @@
-# List of books read by [hawkeyepierce89](http://vk.com/id317314037)<sup>4</sup>
+# List of books read by [hawkeyepierce89](http://vk.com/id317314037)<sup>5</sup>
 ---
 
 ## 2017
@@ -20,6 +20,10 @@
 
 
 ## 2012
+
+### 1984
+Джордж Оруэлл
+
 
 ### Один триллион долларов
 Андреас Эшбах
