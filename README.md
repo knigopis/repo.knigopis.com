@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Китайская Шаль ~ [Йолант](users/104/104690883692185089260-google)<sup>97</sup>
+    > Мод Силвер №5
+
 * На краю пропасти ~ [Йолант](users/104/104690883692185089260-google)<sup>96</sup>
     > Мод Силвер №4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мод Силвер №3
 
 * Дело закрыто ~ [Йолант](users/104/104690883692185089260-google)<sup>94</sup>
-    > Мод Силвер №2
 
 * Ренессанс ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 
-* Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>96</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>97</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 19:36:16_
+_13.04.2017 19:36:44_
