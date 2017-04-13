@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Gil](users/101/101934994962487087520-google)<sup>25</sup> 
+[Gil](users/101/101934994962487087520-google)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 21:48:35_
+_13.04.2017 21:52:15_
