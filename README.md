@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gil](users/101/101934994962487087520-google)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
-[Gil](users/101/101934994962487087520-google)<sup>24</sup> 
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 
 
-_13.04.2017 19:58:08_
+_13.04.2017 21:48:35_
