@@ -1,7 +1,11 @@
-# List of books read by [miatka](http://vk.com/id35140437)<sup>5</sup>
+# List of books read by [miatka](http://vk.com/id35140437)<sup>6</sup>
 ---
 
 ## 2017
+
+Лукьяненко
+> [2017-04-13] 
+
 
 ### Волны гасят ветер
 А и Б. Стругацкие

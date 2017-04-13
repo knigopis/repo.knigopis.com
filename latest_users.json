@@ -1,4 +1,10 @@
 {
+    "35140437-vkontakte": {
+        "id": "35140437-vkontakte",
+        "nickname": "miatka",
+        "booksCount": 6,
+        "updatedAt": "2017-04-13 07:15:24"
+    },
     "114387294992022174503-google": {
         "id": "114387294992022174503-google",
         "nickname": "Анна Холмс ",
@@ -172,11 +178,5 @@
         "nickname": "vk.astreloff",
         "booksCount": 0,
         "updatedAt": "2017-04-04 18:10:11"
-    },
-    "203813879-vkontakte": {
-        "id": "203813879-vkontakte",
-        "nickname": "m_natalie_s",
-        "booksCount": 0,
-        "updatedAt": "2017-04-02 10:11:33"
     }
 }
