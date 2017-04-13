@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
 * Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Собачье сердце ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>34</sup>
 * Ася ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>33</sup>
 * Шестое чувство ~ [Apprentice ](users/528/52821952-vkontakte)<sup>67</sup>
-* Путешествие в космическом пространстве ~ [Derek777](users/153/15386028-yandex)<sup>27</sup>
 
 
-_12.04.2017 14:55:08_
+_13.04.2017 06:44:28_

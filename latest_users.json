@@ -1,4 +1,10 @@
 {
+    "12601720503917094896-mailru": {
+        "id": "12601720503917094896-mailru",
+        "nickname": "Neccochi",
+        "booksCount": 44,
+        "updatedAt": "2017-04-13 06:44:28"
+    },
     "100004984741055-facebook": {
         "id": "100004984741055-facebook",
         "nickname": "Художник",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 140,
         "updatedAt": "2017-04-02 05:55:22"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 8,
-        "updatedAt": "2017-04-01 15:10:08"
     }
 }
