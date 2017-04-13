@@ -1,4 +1,16 @@
 {
+    "hyyq6s31Ve": {
+        "id": "hyyq6s31Ve",
+        "title": "На краю пропасти",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №4",
+        "createdAt": "2017-04-13 19:36:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 96
+        }
+    },
     "wn3WcaKsIf": {
         "id": "wn3WcaKsIf",
         "title": "Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 21
-        }
-    },
-    "5scSvbMpjz": {
-        "id": "5scSvbMpjz",
-        "title": "Одержимый \\ 1. Страж Империи",
-        "author": "Андрей Буревой",
-        "notes": "",
-        "createdAt": "2017-04-09 12:05:58",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 20
         }
     }
 }
