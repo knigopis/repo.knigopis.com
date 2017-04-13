@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>93</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>107</sup> 
-[taratai](users/101/101010932180085732378-googleplus)<sup>1</sup> 
 
 
-_13.04.2017 12:05:50_
+_13.04.2017 13:14:45_
