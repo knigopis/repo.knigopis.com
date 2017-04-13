@@ -1,4 +1,16 @@
 {
+    "3d6Aq5eB2L": {
+        "id": "3d6Aq5eB2L",
+        "title": "Ренессанс",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-04-13 13:23:01",
+        "user": {
+            "id": "414040473-vkontakte",
+            "nickname": "Койнов Александр",
+            "booksCount": 19
+        }
+    },
     "VBwDRjb4OA": {
         "id": "VBwDRjb4OA",
         "title": "Тайный крестовый поход",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 17
-        }
-    },
-    "56wXbLANXV": {
-        "id": "56wXbLANXV",
-        "title": "Охотник Дарт \\ 1. Замок Древних",
-        "author": "Андрей Буревой",
-        "notes": "",
-        "createdAt": "2017-04-09 12:02:07",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 16
         }
     }
 }
