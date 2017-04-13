@@ -1,4 +1,16 @@
 {
+    "hy_BZr-ukT": {
+        "id": "hy_BZr-ukT",
+        "title": "Возвращение странницы",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №9",
+        "createdAt": "2017-04-13 19:39:39",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 101
+        }
+    },
     "g_0CC1uRX5": {
         "id": "g_0CC1uRX5",
         "title": "Ключ",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 45
-        }
-    },
-    "SyVUv-lQqu": {
-        "id": "SyVUv-lQqu",
-        "title": "Какое тебе дело о том, что думают другие",
-        "author": "",
-        "notes": "Вторая книга с историями из жизни Ричарда Фейнмана",
-        "createdAt": "2017-04-09 16:03:23",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 44
         }
     }
 }

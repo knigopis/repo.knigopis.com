@@ -1,4 +1,16 @@
 {
+    "hy_BZr-ukT": {
+        "id": "hy_BZr-ukT",
+        "title": "Возвращение странницы",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №9",
+        "createdAt": "2017-04-13 19:39:39",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 101
+        }
+    },
     "g_0CC1uRX5": {
         "id": "g_0CC1uRX5",
         "title": "Ключ",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 42
-        }
-    },
-    "1hDurm20c8": {
-        "id": "1hDurm20c8",
-        "title": "Басни",
-        "author": "Иван Крылов",
-        "notes": "Небольшие истории с глубоким смыслом.",
-        "createdAt": "2017-03-29 03:14:00",
-        "user": {
-            "id": "12601720503917094896-mailru",
-            "nickname": "Neccochi",
-            "booksCount": 41
         }
     }
 }
