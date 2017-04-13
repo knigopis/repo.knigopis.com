@@ -1,4 +1,16 @@
 {
+    "RSWo7Lm5nm": {
+        "id": "RSWo7Lm5nm",
+        "title": "Убийство в поместье Леттеров",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №11",
+        "createdAt": "2017-04-13 19:45:59",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 103
+        }
+    },
     "cfRQ-GQH2_": {
         "id": "cfRQ-GQH2_",
         "title": "Приют пилигрима",
@@ -345,18 +357,6 @@
             "id": "66370451-twitter",
             "nickname": "Rodislav14",
             "booksCount": 2
-        }
-    },
-    "bCSh55UacE": {
-        "id": "bCSh55UacE",
-        "title": "Новый Завет",
-        "author": "Бог",
-        "notes": "",
-        "createdAt": "2017-04-09 19:32:03",
-        "user": {
-            "id": "66370451-twitter",
-            "nickname": "Rodislav14",
-            "booksCount": 1
         }
     }
 }
