@@ -1,4 +1,16 @@
 {
+    "rwyWuvWi0t": {
+        "id": "rwyWuvWi0t",
+        "title": "Мисс Силвер вмешивается",
+        "author": "Патриция Вентворт",
+        "notes": "Мод Силвер №6",
+        "createdAt": "2017-04-13 19:37:56",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 98
+        }
+    },
     "b23eCZqydc": {
         "id": "b23eCZqydc",
         "title": "Китайская Шаль",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 23
-        }
-    },
-    "kgLW-0uTqk": {
-        "id": "kgLW-0uTqk",
-        "title": "Одержимый \\ 3. Рыцарь Империи",
-        "author": "Андрей Буревой",
-        "notes": "",
-        "createdAt": "2017-04-09 12:07:45",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 22
         }
     }
 }
