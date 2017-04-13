@@ -1,4 +1,10 @@
 {
+    "100004984741055-facebook": {
+        "id": "100004984741055-facebook",
+        "nickname": "Художник",
+        "booksCount": 0,
+        "updatedAt": "2017-04-13 06:38:01"
+    },
     "317314037-vkontakte": {
         "id": "317314037-vkontakte",
         "nickname": "hawkeyepierce89",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 8,
         "updatedAt": "2017-04-01 15:10:08"
-    },
-    "3872053-vkontakte": {
-        "id": "3872053-vkontakte",
-        "nickname": "hengehok",
-        "booksCount": 32,
-        "updatedAt": "2017-04-01 14:17:50"
     }
 }
