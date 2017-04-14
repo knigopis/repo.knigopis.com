@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>94</sup> 
-[Gil](users/101/101934994962487087520-google)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 
 
-_14.04.2017 12:02:41_
+_14.04.2017 13:08:56_
