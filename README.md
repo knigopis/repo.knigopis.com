@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>94</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
-[ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
 
 
-_14.04.2017 13:08:56_
+_14.04.2017 13:10:40_
