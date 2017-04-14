@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>94</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
 [Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 [ilona26g_va](users/395/395967588-vkontakte)<sup>19</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>515</sup> 
 
 
-_14.04.2017 08:37:04_
+_14.04.2017 12:02:41_
