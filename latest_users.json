@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 9,
+        "updatedAt": "2017-04-14 20:18:11"
+    },
     "228946117-vkontakte": {
         "id": "228946117-vkontakte",
         "nickname": "kotik_i_tortik",
@@ -172,11 +178,5 @@
         "nickname": "Nikita",
         "booksCount": 10,
         "updatedAt": "2017-04-07 15:03:21"
-    },
-    "403474839-vkontakte": {
-        "id": "403474839-vkontakte",
-        "nickname": "Анастасия",
-        "booksCount": 34,
-        "updatedAt": "2017-04-07 12:53:07"
     }
 }

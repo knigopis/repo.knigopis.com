@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
+    > Очаровательный детектив. Интересный сюжет, приятный язык,  платиновые чемоданные ручки))))
+
 * Огненное колесо ~ [Йолант](users/104/104690883692185089260-google)<sup>108</sup>
     > Мод Силвер №16
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мод Силвер №15
 
 * Кольцо вечности ~ [Йолант](users/104/104690883692185089260-google)<sup>105</sup>
-    > Мод Силвер №13
 
 * Светящееся пятно ~ [Йолант](users/104/104690883692185089260-google)<sup>104</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мисс Силвер вмешивается ~ [Йолант](users/104/104690883692185089260-google)<sup>98</sup>
 
-* Китайская Шаль ~ [Йолант](users/104/104690883692185089260-google)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
-[Анастасия](users/403/403474839-vkontakte)<sup>34</sup> 
 
 
-_14.04.2017 13:10:40_
+_14.04.2017 20:18:12_

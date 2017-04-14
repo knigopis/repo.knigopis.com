@@ -1,4 +1,16 @@
 {
+    "qQqzt-8x-u": {
+        "id": "qQqzt-8x-u",
+        "title": "Эндшпиль Маккабрея",
+        "author": "Бонфильоли Кирил",
+        "notes": "Очаровательный детектив. Интересный сюжет, приятный язык,  платиновые чемоданные ручки))))",
+        "createdAt": "2017-04-14 20:18:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 9
+        }
+    },
     "SyVfKVjQ89": {
         "id": "SyVfKVjQ89",
         "title": "Мир Вальдиры \\ Кроу \\ 1. Кроу",
@@ -345,18 +357,6 @@
             "id": "113945124059684992236-google",
             "nickname": "Lazy Alex",
             "booksCount": 3
-        }
-    },
-    "wmNrMAC54-": {
-        "id": "wmNrMAC54-",
-        "title": "Moon-led Journey Across Another World",
-        "author": "Azumi Kei",
-        "notes": "6,5/10 Аннотация: \nHigh school student Misumi Makoto is called into a fantasy world by the god Tsukuyomi, in order to be a hero. However, powerful others in this world aren’t as thrilled to have him there, and kick him to the edge of the world. Tsukuyomi declares that Makoto is free to find his own way after Makoto is abandoned by the other Goddess.",
-        "createdAt": "2017-04-12 18:38:21",
-        "user": {
-            "id": "113945124059684992236-google",
-            "nickname": "Lazy Alex",
-            "booksCount": 2
         }
     }
 }
