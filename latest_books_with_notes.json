@@ -1,4 +1,16 @@
 {
+    "XR0JMx3nmN": {
+        "id": "XR0JMx3nmN",
+        "title": "Коты-Воители: Восход луны",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 8",
+        "createdAt": "2017-04-15 19:59:46",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 96
+        }
+    },
     "7prfyelF_A": {
         "id": "7prfyelF_A",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 75
-        }
-    },
-    "_rFhLzXCYD": {
-        "id": "_rFhLzXCYD",
-        "title": "Город Эмбер: Предсказание",
-        "author": "Джин Дюпро",
-        "notes": "Книга 3",
-        "createdAt": "2017-03-30 08:42:36",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }

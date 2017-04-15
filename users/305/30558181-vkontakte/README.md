@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>95</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>96</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Восход луны
+Эрин Хантер
+> Цикл "Новое пророчество"
+> Книга 8
+
 
 ### Коты-Воители: Полночь
 > Цикл "Новое пророчество"

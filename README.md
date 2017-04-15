@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
+    > Цикл "Новое пророчество"
+    > Книга 8
+
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
     > Концовка показалась мне довольно смазанной, но наводит на какие-то собственные размышления. Обилие названий брендов ввело меня в смятение, но потом стало понятно, к чему ведет автор. Это просто потребительство, которое ни к чему хорошему не приводит
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Очаровательный детектив. Интересный сюжет, приятный язык,  платиновые чемоданные ручки))))
 
 * Огненное колесо ~ [Йолант](users/104/104690883692185089260-google)<sup>108</sup>
-    > Мод Силвер №16
 
 * Мисс Силвер приехала погостить ~ [Йолант](users/104/104690883692185089260-google)<sup>107</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ключ ~ [Йолант](users/104/104690883692185089260-google)<sup>100</sup>
 
-* Часы бьют двенадцать ~ [Йолант](users/104/104690883692185089260-google)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
@@ -51,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>95</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
 
 
-_15.04.2017 09:07:18_
+_15.04.2017 19:59:46_
