@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
 * Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
 * Огненное колесо ~ [Йолант](users/104/104690883692185089260-google)<sup>108</sup>
 * Мисс Силвер приехала погостить ~ [Йолант](users/104/104690883692185089260-google)<sup>107</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 * Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 * Город Эмбер: Предсказание ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-* Коты-Воители: Лес секретов ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
 
 
-_14.04.2017 20:18:12_
+_15.04.2017 09:07:18_

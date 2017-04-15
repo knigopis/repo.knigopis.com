@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
+    > Концовка показалась мне довольно смазанной, но наводит на какие-то собственные размышления. Обилие названий брендов ввело меня в смятение, но потом стало понятно, к чему ведет автор. Это просто потребительство, которое ни к чему хорошему не приводит
+
 * Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
     > Очаровательный детектив. Интересный сюжет, приятный язык,  платиновые чемоданные ручки))))
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мод Силвер №16
 
 * Мисс Силвер приехала погостить ~ [Йолант](users/104/104690883692185089260-google)<sup>107</sup>
-    > Мод Силвер №15
 
 * Кольцо вечности ~ [Йолант](users/104/104690883692185089260-google)<sup>105</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Часы бьют двенадцать ~ [Йолант](users/104/104690883692185089260-google)<sup>99</sup>
 
-* Мисс Силвер вмешивается ~ [Йолант](users/104/104690883692185089260-google)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
 [AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
-[Nikita](users/100/100684315-vkontakte)<sup>10</sup> 
 
 
-_14.04.2017 20:18:12_
+_15.04.2017 09:07:18_

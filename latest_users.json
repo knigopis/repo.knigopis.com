@@ -1,4 +1,10 @@
 {
+    "106304994652616315178-google": {
+        "id": "106304994652616315178-google",
+        "nickname": "Euphoria",
+        "booksCount": 62,
+        "updatedAt": "2017-04-15 09:07:18"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "AlexWay",
         "booksCount": 1,
         "updatedAt": "2017-04-07 15:04:02"
-    },
-    "100684315-vkontakte": {
-        "id": "100684315-vkontakte",
-        "nickname": "Nikita",
-        "booksCount": 10,
-        "updatedAt": "2017-04-07 15:03:21"
     }
 }
