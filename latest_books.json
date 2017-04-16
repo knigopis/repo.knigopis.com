@@ -1,4 +1,16 @@
 {
+    "ibikXlVf7s": {
+        "id": "ibikXlVf7s",
+        "title": "Абба, или чай с Молоком",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:51:07",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 49
+        }
+    },
     "ZT1bYvb0Oj": {
         "id": "ZT1bYvb0Oj",
         "title": "Билет в кино, или великая иллюзия",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 20
-        }
-    },
-    "l_7CeF532f": {
-        "id": "l_7CeF532f",
-        "title": "Кумир и поклонницы",
-        "author": "Мэг Кэбот",
-        "notes": "",
-        "createdAt": "2017-04-16 22:30:47",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 19
         }
     }
 }
