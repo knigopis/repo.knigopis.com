@@ -1,4 +1,16 @@
 {
+    "vTY2fO6lbg": {
+        "id": "vTY2fO6lbg",
+        "title": "Загадка ловких мошенников",
+        "author": "А. Иванов А. Устинова",
+        "notes": "",
+        "createdAt": "2017-04-16 23:34:10",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 109
+        }
+    },
     "SagTglpTz6": {
         "id": "SagTglpTz6",
         "title": "Тайна ведьминого озера",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 79
-        }
-    },
-    "ZIc0CKf8mk": {
-        "id": "ZIc0CKf8mk",
-        "title": "Ван Вон- Хантер",
-        "author": "Майк Шварк и Рон Каульферш",
-        "notes": "",
-        "createdAt": "2017-04-16 23:21:16",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 78
         }
     }
 }
