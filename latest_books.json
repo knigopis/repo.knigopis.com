@@ -1,4 +1,16 @@
 {
+    "Dx0N9KHx99": {
+        "id": "Dx0N9KHx99",
+        "title": "Секрет маленького отеля",
+        "author": "Екатерина Вильмонт",
+        "notes": "",
+        "createdAt": "2017-04-16 23:22:08",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 81
+        }
+    },
     "31-ix_hG8h": {
         "id": "31-ix_hG8h",
         "title": "Секрет зеленой обезьянки",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 52
-        }
-    },
-    "ZHwP891sBR": {
-        "id": "ZHwP891sBR",
-        "title": "Смертельный номер, или Барышня и хулиган.",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:52:31",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 51
         }
     }
 }
