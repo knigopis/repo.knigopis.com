@@ -1,4 +1,16 @@
 {
+    "-EKPyywPUk": {
+        "id": "-EKPyywPUk",
+        "title": "Коты - воители. Темная река",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 23:01:29",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 70
+        }
+    },
     "ACI3gQW5-P": {
         "id": "ACI3gQW5-P",
         "title": "Коты - воители. Закат",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 41
-        }
-    },
-    "V6D6PaoDDm": {
-        "id": "V6D6PaoDDm",
-        "title": "Бегущий в Ночи, или история одной любви",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:41:43",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 40
         }
     }
 }
