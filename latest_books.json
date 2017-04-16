@@ -1,4 +1,16 @@
 {
+    "MZBNjCHixY": {
+        "id": "MZBNjCHixY",
+        "title": "Принцесса на вечеринке",
+        "author": "Мэг Кэбот",
+        "notes": "",
+        "createdAt": "2017-04-16 22:31:19",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 20
+        }
+    },
     "l_7CeF532f": {
         "id": "l_7CeF532f",
         "title": "Кумир и поклонницы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 9
-        }
-    },
-    "SyVfKVjQ89": {
-        "id": "SyVfKVjQ89",
-        "title": "Мир Вальдиры \\ Кроу \\ 1. Кроу",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-14 13:08:56",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 27
         }
     }
 }
