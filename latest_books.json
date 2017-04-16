@@ -1,4 +1,16 @@
 {
+    "3Xn2aA5bGv": {
+        "id": "3Xn2aA5bGv",
+        "title": "Самая главная роль",
+        "author": "Анна Воронова",
+        "notes": "",
+        "createdAt": "2017-04-16 22:35:42",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 30
+        }
+    },
     "9AlfOt67cT": {
         "id": "9AlfOt67cT",
         "title": "Бал под пальмами",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 1
-        }
-    },
-    "98KwHhjm2J": {
-        "id": "98KwHhjm2J",
-        "title": "Хоббит или Туда и Обратно",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-04-16 13:36:46",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 77
         }
     }
 }
