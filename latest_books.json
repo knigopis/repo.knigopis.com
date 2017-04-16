@@ -1,4 +1,16 @@
 {
+    "m8eos7IJhq": {
+        "id": "m8eos7IJhq",
+        "title": "Артур и запретный город",
+        "author": "Люк Бессон",
+        "notes": "2 книга",
+        "createdAt": "2017-04-16 22:39:13",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 35
+        }
+    },
     "MHJErlaUTF": {
         "id": "MHJErlaUTF",
         "title": "Капкан на оборотня",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 6
-        }
-    },
-    "ii-rpmugS9": {
-        "id": "ii-rpmugS9",
-        "title": "Вики – ангел",
-        "author": "Жаклин Уилсон",
-        "notes": "",
-        "createdAt": "2017-04-16 22:05:13",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 5
         }
     }
 }
