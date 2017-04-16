@@ -1,4 +1,16 @@
 {
+    "6UppGaeint": {
+        "id": "6UppGaeint",
+        "title": "Коты - воители. Лес секретов.",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 22:58:03",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 64
+        }
+    },
     "beZzt_k4bN": {
         "id": "beZzt_k4bN",
         "title": "Коты - воители. Стань диким!",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 35
-        }
-    },
-    "MHJErlaUTF": {
-        "id": "MHJErlaUTF",
-        "title": "Капкан на оборотня",
-        "author": "Эдуард Веркин",
-        "notes": "",
-        "createdAt": "2017-04-16 22:38:18",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 34
         }
     }
 }
