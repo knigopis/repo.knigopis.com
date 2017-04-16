@@ -1,4 +1,16 @@
 {
+    "ues2rRjpNL": {
+        "id": "ues2rRjpNL",
+        "title": "Чужие игры",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:53:13",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 54
+        }
+    },
     "vILXx7BM5M": {
         "id": "vILXx7BM5M",
         "title": "Ты лучше всех",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 25
-        }
-    },
-    "EOkOI4n3BS": {
-        "id": "EOkOI4n3BS",
-        "title": "Беглянка",
-        "author": "Френсин Паскаль",
-        "notes": "",
-        "createdAt": "2017-04-16 22:33:27",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 24
         }
     }
 }
