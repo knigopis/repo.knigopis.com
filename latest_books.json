@@ -1,4 +1,16 @@
 {
+    "98KwHhjm2J": {
+        "id": "98KwHhjm2J",
+        "title": "Хоббит или Туда и Обратно",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2017-04-16 13:36:46",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 77
+        }
+    },
     "WrejBUmVs2": {
         "id": "WrejBUmVs2",
         "title": "Техану: последняя книга о Земноморье",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 18
-        }
-    },
-    "LaskHvuxDO": {
-        "id": "LaskHvuxDO",
-        "title": "Вселенная, жизнь, разум",
-        "author": "И.С.Шкловский",
-        "notes": "в процессе",
-        "createdAt": "2017-04-13 12:05:50",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 94
         }
     }
 }
