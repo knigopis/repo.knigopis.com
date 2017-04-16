@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>56</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>57</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Я не такая, или Чай вдвоем
+Вера и Марина Воробей
+> [2012-05] 
+
 
 ### Золотые слезы
 Вера и Марина Воробей
