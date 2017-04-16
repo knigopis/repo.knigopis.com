@@ -1,4 +1,16 @@
 {
+    "1jS1n1XgIT": {
+        "id": "1jS1n1XgIT",
+        "title": "Друг в зеркале, или липкая паутина любви.",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:45:45",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 47
+        }
+    },
     "0hj5CHRsWL": {
         "id": "0hj5CHRsWL",
         "title": "Рисуй меня ночью",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 18
-        }
-    },
-    "8HBZ18J6jx": {
-        "id": "8HBZ18J6jx",
-        "title": "Принцесса в центре внимания.",
-        "author": "Мэг Кэбот",
-        "notes": "",
-        "createdAt": "2017-04-16 22:29:30",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 17
         }
     }
 }
