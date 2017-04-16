@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>132</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>133</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Тут могут вадица тигры
+Стивен Кинг
+> [2013-02] Команда Скелетов
+
 
 ### Мгла
 Стивен Кинг
