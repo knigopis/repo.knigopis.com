@@ -1,4 +1,16 @@
 {
+    "vlrwy69PMy": {
+        "id": "vlrwy69PMy",
+        "title": "Коты - воители. Звездный свет",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 23:00:42",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 68
+        }
+    },
     "zNIbBS43pB": {
         "id": "zNIbBS43pB",
         "title": "Коты - воители. Полночь.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 39
-        }
-    },
-    "KoIzN04i4X": {
-        "id": "KoIzN04i4X",
-        "title": "Не такая как все",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:40:38",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 38
         }
     }
 }
