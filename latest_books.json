@@ -1,4 +1,16 @@
 {
+    "Dg5ApaRxgU": {
+        "id": "Dg5ApaRxgU",
+        "title": "5 апельсиновых зернышек",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:26:50",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 90
+        }
+    },
     "bgGxfGB9A5": {
         "id": "bgGxfGB9A5",
         "title": "Союз рыжих",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 60
-        }
-    },
-    "TTYR1bYDyP": {
-        "id": "TTYR1bYDyP",
-        "title": "Дневник Барби, или Веселая распродажа",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:55:36",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 59
         }
     }
 }
