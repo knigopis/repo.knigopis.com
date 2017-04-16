@@ -1,4 +1,16 @@
 {
+    "qyhC3gjeOH": {
+        "id": "qyhC3gjeOH",
+        "title": "Волшебник Земноморья",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-04-16 13:30:06",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 73
+        }
+    },
     "4t6q1BeMju": {
         "id": "4t6q1BeMju",
         "title": "Слово для Мира и Леса одно",
@@ -345,18 +357,6 @@
             "id": "100004984741055-facebook",
             "nickname": "Художник",
             "booksCount": 1
-        }
-    },
-    "2hRobuy4QW": {
-        "id": "2hRobuy4QW",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-04-13 01:12:16",
-        "user": {
-            "id": "317314037-vkontakte",
-            "nickname": "hawkeyepierce89",
-            "booksCount": 5
         }
     }
 }
