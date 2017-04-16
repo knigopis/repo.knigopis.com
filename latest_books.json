@@ -1,4 +1,16 @@
 {
+    "cB6POxFJW6": {
+        "id": "cB6POxFJW6",
+        "title": "Джонт",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:44:02",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 137
+        }
+    },
     "_tI7FMH5p2": {
         "id": "_tI7FMH5p2",
         "title": "короткий путь мисс Тодд",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 108
-        }
-    },
-    "4PXbbBj6HC": {
-        "id": "4PXbbBj6HC",
-        "title": "Загадка театральной премьеры",
-        "author": "А. Иванов, А. Устинова",
-        "notes": "",
-        "createdAt": "2017-04-16 23:33:24",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 107
         }
     }
 }
