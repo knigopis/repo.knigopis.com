@@ -1,4 +1,16 @@
 {
+    "Loerbesq2I": {
+        "id": "Loerbesq2I",
+        "title": "плот",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:44:40",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 140
+        }
+    },
     "h8UZnm6uYb": {
         "id": "h8UZnm6uYb",
         "title": "параноид",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 111
-        }
-    },
-    "R-Cr2n1SoG": {
-        "id": "R-Cr2n1SoG",
-        "title": "Загадка неуловимого доктора",
-        "author": "А. Иванов А. Устинова",
-        "notes": "",
-        "createdAt": "2017-04-16 23:34:38",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 110
         }
     }
 }
