@@ -1,4 +1,16 @@
 {
+    "Tp1yfbi2qE": {
+        "id": "Tp1yfbi2qE",
+        "title": "Гробницы Атуана",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-04-16 13:35:38",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 74
+        }
+    },
     "qyhC3gjeOH": {
         "id": "qyhC3gjeOH",
         "title": "Волшебник Земноморья",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 44
-        }
-    },
-    "MQ38gHDYoH": {
-        "id": "MQ38gHDYoH",
-        "title": "Монах, который продал Феррари",
-        "author": "Робин Шарма",
-        "notes": "Гениальная книга, которую следует периодически перечитывать/переслушивать.",
-        "createdAt": "2017-04-13 06:39:11",
-        "user": {
-            "id": "100004984741055-facebook",
-            "nickname": "Художник",
-            "booksCount": 1
         }
     }
 }
