@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>131</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>132</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Мгла
+Стивен Кинг
+> [2013-02] Команда Скелетов
+
 
 ### Чудеса в кастрюльке
 Дарья Донцова

@@ -1,4 +1,16 @@
 {
+    "3orXf8p85B": {
+        "id": "3orXf8p85B",
+        "title": "Мгла",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:42:20",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 132
+        }
+    },
     "E1L_2gTHQj": {
         "id": "E1L_2gTHQj",
         "title": "Чудеса в кастрюльке",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 103
-        }
-    },
-    "KoUw2_KnmC": {
-        "id": "KoUw2_KnmC",
-        "title": "Ведьма.100 чародейских способов найти общий язык с родителями.",
-        "author": "Джон Рагман",
-        "notes": "",
-        "createdAt": "2017-04-16 23:31:41",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 102
         }
     }
 }
