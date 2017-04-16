@@ -1,4 +1,16 @@
 {
+    "k-dAYrlkj7": {
+        "id": "k-dAYrlkj7",
+        "title": "Быть или не быть?",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:52:50",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 52
+        }
+    },
     "ZHwP891sBR": {
         "id": "ZHwP891sBR",
         "title": "Смертельный номер, или Барышня и хулиган.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 23
-        }
-    },
-    "6zSX1ZTbYY": {
-        "id": "6zSX1ZTbYY",
-        "title": "Соперницы",
-        "author": "Френсин Паскаль",
-        "notes": "",
-        "createdAt": "2017-04-16 22:32:41",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 22
         }
     }
 }
