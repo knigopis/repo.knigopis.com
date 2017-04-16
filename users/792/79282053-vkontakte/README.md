@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>86</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>87</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Алое кольцо
+Артур Конан-Доль
+> [2012-03] Гениальный сыщик Шерлок Холмс
+
 
 ### The Tarof café
 Санг Сун Пак
