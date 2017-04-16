@@ -1,4 +1,16 @@
 {
+    "bgGxfGB9A5": {
+        "id": "bgGxfGB9A5",
+        "title": "Союз рыжих",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:26:26",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 89
+        }
+    },
     "2dVWJETaL7": {
         "id": "2dVWJETaL7",
         "title": "История жилички под вуалью",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 59
-        }
-    },
-    "KZiBMD1Qht": {
-        "id": "KZiBMD1Qht",
-        "title": "Принц на белом коне, или Жертва эксперимента.",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:55:03",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 58
         }
     }
 }
