@@ -1,4 +1,16 @@
 {
+    "9AlfOt67cT": {
+        "id": "9AlfOt67cT",
+        "title": "Бал под пальмами",
+        "author": "Анна Антонова",
+        "notes": "",
+        "createdAt": "2017-04-16 22:35:21",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 29
+        }
+    },
     "lrhUwpx1KW": {
         "id": "lrhUwpx1KW",
         "title": "Непримеримые",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 77
-        }
-    },
-    "WrejBUmVs2": {
-        "id": "WrejBUmVs2",
-        "title": "Техану: последняя книга о Земноморье",
-        "author": "Урсула Ле Гуин",
-        "notes": "",
-        "createdAt": "2017-04-16 13:36:14",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 76
         }
     }
 }
