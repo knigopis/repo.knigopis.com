@@ -1,4 +1,16 @@
 {
+    "Td6Mgs2bSX": {
+        "id": "Td6Mgs2bSX",
+        "title": "Летние каникулы любви",
+        "author": "ТАТЬЯНА ТРОНИНА",
+        "notes": "",
+        "createdAt": "2017-04-16 22:04:37",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 4
+        }
+    },
     "YxFFlyTxKw": {
         "id": "YxFFlyTxKw",
         "title": "Что сказал покойник",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 95
-        }
-    },
-    "HDxcil-K6j": {
-        "id": "HDxcil-K6j",
-        "title": "Дело закрыто",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №2",
-        "createdAt": "2017-04-13 19:34:49",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 94
         }
     }
 }
