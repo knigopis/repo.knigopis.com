@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>5</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>6</sup>
 ---
 
 ## 2017
@@ -23,6 +23,10 @@
 
 
 ## 2009
+
+### Девчонки в погоне за модой
+Жаклин Уилсон
+
 
 ### Вики – ангел
 Жаклин Уилсон
