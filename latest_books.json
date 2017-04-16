@@ -1,4 +1,16 @@
 {
+    "qaVs_zVw2H": {
+        "id": "qaVs_zVw2H",
+        "title": "Таблетки для рыжего кота",
+        "author": "Мэг Кэбот",
+        "notes": "",
+        "createdAt": "2017-04-16 22:31:38",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 21
+        }
+    },
     "MZBNjCHixY": {
         "id": "MZBNjCHixY",
         "title": "Принцесса на вечеринке",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 62
-        }
-    },
-    "qQqzt-8x-u": {
-        "id": "qQqzt-8x-u",
-        "title": "Эндшпиль Маккабрея",
-        "author": "Бонфильоли Кирил",
-        "notes": "Очаровательный детектив. Интересный сюжет, приятный язык,  платиновые чемоданные ручки))))",
-        "createdAt": "2017-04-14 20:18:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 9
         }
     }
 }
