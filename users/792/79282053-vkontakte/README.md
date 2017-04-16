@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>52</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>53</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Ты лучше всех
+Вера и Марина Воробей
+> [2012-03] 
+
 
 ### Быть или не быть?
 Вера и Марина Воробей
