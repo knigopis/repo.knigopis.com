@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>24</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>25</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Омут любви
+Френсин Паскаль
+> [2010-07] 
+
 
 ### Беглянка
 Френсин Паскаль
