@@ -1,4 +1,16 @@
 {
+    "UGUpmVtzEZ": {
+        "id": "UGUpmVtzEZ",
+        "title": "Плохие девочки",
+        "author": "Жаклин Уилсон",
+        "notes": "",
+        "createdAt": "2017-04-16 22:27:58",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 15
+        }
+    },
     "AZow67EQGz": {
         "id": "AZow67EQGz",
         "title": "Девчонки в поисках любви",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 106
-        }
-    },
-    "j2KyYx9DGt": {
-        "id": "j2KyYx9DGt",
-        "title": "Кольцо вечности",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №13",
-        "createdAt": "2017-04-13 19:54:52",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 105
         }
     }
 }
