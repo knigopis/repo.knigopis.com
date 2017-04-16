@@ -1,4 +1,16 @@
 {
+    "kmDZ2SjqWS": {
+        "id": "kmDZ2SjqWS",
+        "title": "Дорожные работы",
+        "author": "Стивен Кинг",
+        "notes": "под псевдонимом Ричард Бахман",
+        "createdAt": "2017-04-16 23:47:46",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 154
+        }
+    },
     "HALyMSeYYk": {
         "id": "HALyMSeYYk",
         "title": "Пляска смерти",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 125
-        }
-    },
-    "MTMxCOCl-R": {
-        "id": "MTMxCOCl-R",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:39:24",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 124
         }
     }
 }
