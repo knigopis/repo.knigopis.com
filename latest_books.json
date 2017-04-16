@@ -1,4 +1,16 @@
 {
+    "WrejBUmVs2": {
+        "id": "WrejBUmVs2",
+        "title": "Техану: последняя книга о Земноморье",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-04-16 13:36:14",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 76
+        }
+    },
     "86kb3Gqt5P": {
         "id": "86kb3Gqt5P",
         "title": "На Последнем Берегу",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 94
-        }
-    },
-    "fIh28nEN7l": {
-        "id": "fIh28nEN7l",
-        "title": "",
-        "author": "Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-04-13 07:15:24",
-        "user": {
-            "id": "35140437-vkontakte",
-            "nickname": "miatka",
-            "booksCount": 6
         }
     }
 }
