@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>66</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>67</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Коты - воители. Полночь.
+Эрин Хантер
+> [2012-12] 
+
 
 ### Коты - воители. Битва за лес.
 Эрин Хантер

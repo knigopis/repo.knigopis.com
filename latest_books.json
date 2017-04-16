@@ -1,4 +1,16 @@
 {
+    "zNIbBS43pB": {
+        "id": "zNIbBS43pB",
+        "title": "Коты - воители. Полночь.",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 23:00:18",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 67
+        }
+    },
     "rpUiMGS9Di": {
         "id": "rpUiMGS9Di",
         "title": "Коты - воители. Битва за лес.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 38
-        }
-    },
-    "zrC_qZoRVw": {
-        "id": "zrC_qZoRVw",
-        "title": "День всех влюбленных",
-        "author": "Светлана Лубенец",
-        "notes": "",
-        "createdAt": "2017-04-16 22:40:13",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 37
         }
     }
 }
