@@ -1,4 +1,16 @@
 {
+    "KwrpMtsIHd": {
+        "id": "KwrpMtsIHd",
+        "title": "Нина и загадка Восьмой Ноты.",
+        "author": "Муни Витчер",
+        "notes": "Книга Вторая",
+        "createdAt": "2017-04-16 23:02:39",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 72
+        }
+    },
     "x0ua43w3iB": {
         "id": "x0ua43w3iB",
         "title": "Нина – девочка Шестой Луны.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 43
-        }
-    },
-    "vwn8VcuIol": {
-        "id": "vwn8VcuIol",
-        "title": "Красивая жизнь",
-        "author": "Вера и Марина Воробой",
-        "notes": "",
-        "createdAt": "2017-04-16 22:42:47",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 42
         }
     }
 }
