@@ -1,4 +1,16 @@
 {
+    "nP7OUr9HVO": {
+        "id": "nP7OUr9HVO",
+        "title": "Нина и заклятье Пернатого Змея.",
+        "author": "Муни Витчер",
+        "notes": "Книга третья",
+        "createdAt": "2017-04-16 23:03:05",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 73
+        }
+    },
     "KwrpMtsIHd": {
         "id": "KwrpMtsIHd",
         "title": "Нина и загадка Восьмой Ноты.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 44
-        }
-    },
-    "2W9j5zpr2u": {
-        "id": "2W9j5zpr2u",
-        "title": "Фальшивая нота",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:43:12",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 43
         }
     }
 }
