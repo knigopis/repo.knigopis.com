@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>16</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>17</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Принцесса в центре внимания.
+Мэг Кэбот
+> [2010-01] 
+
 
 ### костя + ника
 Тамара Крюкова
