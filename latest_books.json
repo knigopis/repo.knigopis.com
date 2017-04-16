@@ -1,4 +1,16 @@
 {
+    "fDUvYQAUlB": {
+        "id": "fDUvYQAUlB",
+        "title": "Спасти Элвиса",
+        "author": "Эдуард Веркин",
+        "notes": "",
+        "createdAt": "2017-04-16 22:37:57",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 33
+        }
+    },
     "TSqCCn0eEW": {
         "id": "TSqCCn0eEW",
         "title": "Хрустальный ключ",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 4
-        }
-    },
-    "YxFFlyTxKw": {
-        "id": "YxFFlyTxKw",
-        "title": "Что сказал покойник",
-        "author": "Иоанна Хмелевская",
-        "notes": "",
-        "createdAt": "2017-04-16 22:01:48",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 3
         }
     }
 }
