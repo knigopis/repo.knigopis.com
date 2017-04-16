@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/792/79282053-vkontakte)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
 [Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
 
 
-_16.04.2017 13:36:46_
+_16.04.2017 21:50:14_
