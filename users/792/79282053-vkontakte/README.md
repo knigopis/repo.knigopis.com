@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>68</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>69</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Коты - воители. Закат
+Эрин Хантер
+> [2013-02] 
+
 
 ### Коты - воители. Звездный свет
 Эрин Хантер

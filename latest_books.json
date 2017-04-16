@@ -1,4 +1,16 @@
 {
+    "ACI3gQW5-P": {
+        "id": "ACI3gQW5-P",
+        "title": "Коты - воители. Закат",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 23:01:07",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 69
+        }
+    },
     "vlrwy69PMy": {
         "id": "vlrwy69PMy",
         "title": "Коты - воители. Звездный свет",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 40
-        }
-    },
-    "tMW2VL-oUm": {
-        "id": "tMW2VL-oUm",
-        "title": "Не надо меня прощать",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:41:05",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 39
         }
     }
 }
