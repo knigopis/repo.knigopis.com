@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>129</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>130</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Психоз
+Роберт Блох
+> [2013-01] 
+
 
 ### Дети кукурузы
 Стивен Кинг
