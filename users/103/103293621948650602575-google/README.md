@@ -1,4 +1,4 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>71</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>72</sup>
 ---
 
 ## 2017
@@ -339,6 +339,10 @@
 
 
 ## 2011
+
+### Слово для Мира и Леса одно
+Урсула Ле Гуин
+
 
 ### Ходячий Замок
 Диана Уинн Джонс
