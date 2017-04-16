@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>134</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>135</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### каникулы
+Стивен Кинг
+> [2013-02] Команда Скелетов
+
 
 ### Обезьяна
 Стивен Кинг
