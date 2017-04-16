@@ -1,4 +1,16 @@
 {
+    "WY9CUliIHK": {
+        "id": "WY9CUliIHK",
+        "title": "Дорогая сестра",
+        "author": "Френсин Паскаль",
+        "notes": "",
+        "createdAt": "2017-04-16 22:33:54",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 26
+        }
+    },
     "llEN_1PXpb": {
         "id": "llEN_1PXpb",
         "title": "Омут любви",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 74
-        }
-    },
-    "qyhC3gjeOH": {
-        "id": "qyhC3gjeOH",
-        "title": "Волшебник Земноморья",
-        "author": "Урсула Ле Гуин",
-        "notes": "",
-        "createdAt": "2017-04-16 13:30:06",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 73
         }
     }
 }
