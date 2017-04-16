@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>151</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>152</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Пролив
+Стивен Кинг
+> [2013-03] Команда Скелетов
+
 
 ### Баллада о гибкой пуле
 Стивен Кинг

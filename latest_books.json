@@ -1,4 +1,16 @@
 {
+    "m3OOsB4SK3": {
+        "id": "m3OOsB4SK3",
+        "title": "Пролив",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:47:03",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 152
+        }
+    },
     "HvmbXBZjrJ": {
         "id": "HvmbXBZjrJ",
         "title": "Баллада о гибкой пуле",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 123
-        }
-    },
-    "dTh__5JPyo": {
-        "id": "dTh__5JPyo",
-        "title": "\"Вор!\" - сказал кот. \"Кровь!\" - сказал кот. \"Яд!\" - сказал кот.",
-        "author": "ЛУИЗА МАНРО ФОУЛИ",
-        "notes": "",
-        "createdAt": "2017-04-16 23:38:48",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 122
         }
     }
 }
