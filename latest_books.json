@@ -1,4 +1,16 @@
 {
+    "KQwFgsHn53": {
+        "id": "KQwFgsHn53",
+        "title": "телепат",
+        "author": "Тамара Крюкова",
+        "notes": "",
+        "createdAt": "2017-04-16 22:36:23",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 31
+        }
+    },
     "3Xn2aA5bGv": {
         "id": "3Xn2aA5bGv",
         "title": "Самая главная роль",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 2
-        }
-    },
-    "cI3yKLs4PZ": {
-        "id": "cI3yKLs4PZ",
-        "title": "Ритуал",
-        "author": "Марина и Сергей Дяченко",
-        "notes": "",
-        "createdAt": "2017-04-16 21:56:05",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 1
         }
     }
 }
