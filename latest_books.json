@@ -1,4 +1,16 @@
 {
+    "EOkOI4n3BS": {
+        "id": "EOkOI4n3BS",
+        "title": "Беглянка",
+        "author": "Френсин Паскаль",
+        "notes": "",
+        "createdAt": "2017-04-16 22:33:27",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 24
+        }
+    },
     "XYpZNoGtNz": {
         "id": "XYpZNoGtNz",
         "title": "Ревность и обман",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 72
-        }
-    },
-    "BgH3nCNi8b": {
-        "id": "BgH3nCNi8b",
-        "title": "Властелин Колец",
-        "author": "Джон Р.Р. Толкин",
-        "notes": "",
-        "createdAt": "2017-04-16 13:28:57",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 71
         }
     }
 }
