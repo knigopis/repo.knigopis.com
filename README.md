@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mira R](users/103/103293621948650602575-google)<sup>71</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>14</sup> 
 [Kirill7777](users/104/104871900858705020296-google)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>2</sup> 
-[AlexWay](users/101/10155308984397048-facebook)<sup>1</sup> 
 
 
-_15.04.2017 19:59:46_
+_16.04.2017 13:28:57_
