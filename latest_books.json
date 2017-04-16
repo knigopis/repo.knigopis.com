@@ -1,4 +1,16 @@
 {
+    "lrhUwpx1KW": {
+        "id": "lrhUwpx1KW",
+        "title": "Непримеримые",
+        "author": "Вера Иванова",
+        "notes": "",
+        "createdAt": "2017-04-16 22:34:51",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 28
+        }
+    },
     "QDFFnVcvhb": {
         "id": "QDFFnVcvhb",
         "title": "Волшебные каникулы",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 76
-        }
-    },
-    "86kb3Gqt5P": {
-        "id": "86kb3Gqt5P",
-        "title": "На Последнем Берегу",
-        "author": "Урсула Ле Гуин",
-        "notes": "",
-        "createdAt": "2017-04-16 13:36:00",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 75
         }
     }
 }
