@@ -1,4 +1,16 @@
 {
+    "BS0i7tiJiA": {
+        "id": "BS0i7tiJiA",
+        "title": "Три дня без веры или Прыжок с балкона.",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:53:52",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 55
+        }
+    },
     "ues2rRjpNL": {
         "id": "ues2rRjpNL",
         "title": "Чужие игры",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 26
-        }
-    },
-    "llEN_1PXpb": {
-        "id": "llEN_1PXpb",
-        "title": "Омут любви",
-        "author": "Френсин Паскаль",
-        "notes": "",
-        "createdAt": "2017-04-16 22:33:38",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 25
         }
     }
 }
