@@ -1,4 +1,16 @@
 {
+    "lvxv_d-Ahv": {
+        "id": "lvxv_d-Ahv",
+        "title": "желтое лицо",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:29:54",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 97
+        }
+    },
     "So4-Mc9HyN": {
         "id": "So4-Mc9HyN",
         "title": "голубой карбункул",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 67
-        }
-    },
-    "rpUiMGS9Di": {
-        "id": "rpUiMGS9Di",
-        "title": "Коты - воители. Битва за лес.",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-16 22:59:49",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 66
         }
     }
 }
