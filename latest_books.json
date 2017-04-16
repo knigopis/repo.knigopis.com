@@ -1,4 +1,16 @@
 {
+    "rpUiMGS9Di": {
+        "id": "rpUiMGS9Di",
+        "title": "Коты - воители. Битва за лес.",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-16 22:59:49",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 66
+        }
+    },
     "3Pr9Mxsn7G": {
         "id": "3Pr9Mxsn7G",
         "title": "Коты - воители. Бушующая стихия",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 37
-        }
-    },
-    "4YrS_cPXiR": {
-        "id": "4YrS_cPXiR",
-        "title": "Артур и война двух миров",
-        "author": "Люк Бессон",
-        "notes": "4 книга",
-        "createdAt": "2017-04-16 22:39:44",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 36
         }
     }
 }
