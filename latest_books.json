@@ -1,4 +1,16 @@
 {
+    "ipu8TG6FD_": {
+        "id": "ipu8TG6FD_",
+        "title": "Сын олигарха.",
+        "author": "О. Дзюба",
+        "notes": "",
+        "createdAt": "2017-04-16 23:19:58",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 75
+        }
+    },
     "ou4-40yRts": {
         "id": "ou4-40yRts",
         "title": "Нина и Тайный глаз Атлантиды.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 46
-        }
-    },
-    "X_JG66KNaK": {
-        "id": "X_JG66KNaK",
-        "title": "Я тебе верю",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:45:08",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 45
         }
     }
 }

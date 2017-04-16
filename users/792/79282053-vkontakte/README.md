@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>74</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>75</sup>
 ---
 
 ## 2017
@@ -19,6 +19,14 @@
 ### Что сказал покойник
 Иоанна Хмелевская
 > [2016-07] 
+
+
+
+## 2012
+
+### Сын олигарха.
+О. Дзюба
+> [2012-01] 
 
 
 
