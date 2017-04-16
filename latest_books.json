@@ -1,4 +1,16 @@
 {
+    "h8UZnm6uYb": {
+        "id": "h8UZnm6uYb",
+        "title": "параноид",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:44:31",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 139
+        }
+    },
     "iTnvexkt5k": {
         "id": "iTnvexkt5k",
         "title": "свадьба",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 110
-        }
-    },
-    "vTY2fO6lbg": {
-        "id": "vTY2fO6lbg",
-        "title": "Загадка ловких мошенников",
-        "author": "А. Иванов А. Устинова",
-        "notes": "",
-        "createdAt": "2017-04-16 23:34:10",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 109
         }
     }
 }
