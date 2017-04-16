@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>152</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>153</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Пляска смерти
+Стивен Кинг
+> [2013-04] 
+
 
 ### Пролив
 Стивен Кинг

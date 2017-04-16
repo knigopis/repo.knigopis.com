@@ -1,4 +1,16 @@
 {
+    "HALyMSeYYk": {
+        "id": "HALyMSeYYk",
+        "title": "Пляска смерти",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-16 23:47:21",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 153
+        }
+    },
     "m3OOsB4SK3": {
         "id": "m3OOsB4SK3",
         "title": "Пролив",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 124
-        }
-    },
-    "ysqLVpl6SU": {
-        "id": "ysqLVpl6SU",
-        "title": "Блейз",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:39:08",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 123
         }
     }
 }
