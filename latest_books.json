@@ -1,4 +1,16 @@
 {
+    "XYpZNoGtNz": {
+        "id": "XYpZNoGtNz",
+        "title": "Ревность и обман",
+        "author": "Френсин Паскаль",
+        "notes": "",
+        "createdAt": "2017-04-16 22:33:08",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 23
+        }
+    },
     "6zSX1ZTbYY": {
         "id": "6zSX1ZTbYY",
         "title": "Соперницы",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 71
-        }
-    },
-    "XR0JMx3nmN": {
-        "id": "XR0JMx3nmN",
-        "title": "Коты-Воители: Восход луны",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 8",
-        "createdAt": "2017-04-15 19:59:46",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 96
         }
     }
 }
