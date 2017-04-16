@@ -1,4 +1,16 @@
 {
+    "QI9KWj3O0y": {
+        "id": "QI9KWj3O0y",
+        "title": "Клуб предсказательниц \u000bпропавшая девочка",
+        "author": "Дотти эндерле",
+        "notes": "",
+        "createdAt": "2017-04-16 23:21:28",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 79
+        }
+    },
     "ZIc0CKf8mk": {
         "id": "ZIc0CKf8mk",
         "title": "Ван Вон- Хантер",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 50
-        }
-    },
-    "ibikXlVf7s": {
-        "id": "ibikXlVf7s",
-        "title": "Абба, или чай с Молоком",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:51:07",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 49
         }
     }
 }
