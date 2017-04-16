@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>44</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>45</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Я тебе верю
+Вера и Марина Воробей
+> [2012-04] 
+
 
 ### Боря + Лена = Л…
 Вера и Марина Воробей
