@@ -1,4 +1,16 @@
 {
+    "KoIzN04i4X": {
+        "id": "KoIzN04i4X",
+        "title": "Не такая как все",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:40:38",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 38
+        }
+    },
     "zrC_qZoRVw": {
         "id": "zrC_qZoRVw",
         "title": "День всех влюбленных",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 9
-        }
-    },
-    "OC7NTAcgxO": {
-        "id": "OC7NTAcgxO",
-        "title": "костя + ника",
-        "author": "Тамара Крюкова",
-        "notes": "",
-        "createdAt": "2017-04-16 22:07:41",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 8
         }
     }
 }
