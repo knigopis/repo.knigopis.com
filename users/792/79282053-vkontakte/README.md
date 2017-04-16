@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>105</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>106</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Загадка школьного подвала
+А. Иванов, А. Устинова
+> [2012-06] 
+
 
 ### Зеркало загадок
 Юстейн Гордер
