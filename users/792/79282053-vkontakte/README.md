@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>85</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>86</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### The Tarof café
+Санг Сун Пак
+> [2012-03] глава № 2
+
 
 ### The Tarof café
 Санг Сун Пак
