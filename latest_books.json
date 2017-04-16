@@ -1,4 +1,16 @@
 {
+    "E1L_2gTHQj": {
+        "id": "E1L_2gTHQj",
+        "title": "Чудеса в кастрюльке",
+        "author": "Дарья Донцова",
+        "notes": "",
+        "createdAt": "2017-04-16 23:41:46",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 131
+        }
+    },
     "nZW9CSdn4L": {
         "id": "nZW9CSdn4L",
         "title": "Психоз",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 102
-        }
-    },
-    "NpJJ-EFoVx": {
-        "id": "NpJJ-EFoVx",
-        "title": "Остров а море",
-        "author": "Анника Тор",
-        "notes": "",
-        "createdAt": "2017-04-16 23:31:18",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 101
         }
     }
 }
