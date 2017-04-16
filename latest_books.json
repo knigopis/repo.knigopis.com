@@ -1,4 +1,16 @@
 {
+    "R-Cr2n1SoG": {
+        "id": "R-Cr2n1SoG",
+        "title": "Загадка неуловимого доктора",
+        "author": "А. Иванов А. Устинова",
+        "notes": "",
+        "createdAt": "2017-04-16 23:34:38",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 110
+        }
+    },
     "vTY2fO6lbg": {
         "id": "vTY2fO6lbg",
         "title": "Загадка ловких мошенников",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 80
-        }
-    },
-    "QI9KWj3O0y": {
-        "id": "QI9KWj3O0y",
-        "title": "Клуб предсказательниц \u000bпропавшая девочка",
-        "author": "Дотти эндерле",
-        "notes": "",
-        "createdAt": "2017-04-16 23:21:28",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 79
         }
     }
 }
