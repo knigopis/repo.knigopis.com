@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>41</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>42</sup>
 ---
 
 ## 2017
@@ -19,6 +19,14 @@
 ### Что сказал покойник
 Иоанна Хмелевская
 > [2016-07] 
+
+
+
+## 2012
+
+### Красивая жизнь
+Вера и Марина Воробой
+> [2012-01] 
 
 
 
