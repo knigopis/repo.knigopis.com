@@ -1,4 +1,16 @@
 {
+    "wcAvq28jWH": {
+        "id": "wcAvq28jWH",
+        "title": "три студента",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:28:02",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 93
+        }
+    },
     "L3I6l2IgDH": {
         "id": "L3I6l2IgDH",
         "title": "пляшущие человечки",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 63
-        }
-    },
-    "HO-MhNpGsz": {
-        "id": "HO-MhNpGsz",
-        "title": "Журавль в небе",
-        "author": "Таня Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:56:40",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 62
         }
     }
 }
