@@ -1,4 +1,16 @@
 {
+    "JdAF6vcmwf": {
+        "id": "JdAF6vcmwf",
+        "title": "Общаться успешно. КАК?",
+        "author": "Билл Свитман.",
+        "notes": "Искусство эффективно говорить и слушать.",
+        "createdAt": "2017-04-16 23:37:21",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 118
+        }
+    },
     "jnCG2p5u-V": {
         "id": "jnCG2p5u-V",
         "title": "Загадка почтового голубя",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 89
-        }
-    },
-    "2dVWJETaL7": {
-        "id": "2dVWJETaL7",
-        "title": "История жилички под вуалью",
-        "author": "Артур Конан-Доль",
-        "notes": "Гениальный сыщик Шерлок Холмс",
-        "createdAt": "2017-04-16 23:25:41",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 88
         }
     }
 }
