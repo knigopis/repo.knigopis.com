@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>104</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>105</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Зеркало загадок
+Юстейн Гордер
+> [2012-05] 
+
 
 ### Если хочешь быть счастливой…
 Анна Еланская
