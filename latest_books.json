@@ -1,4 +1,16 @@
 {
+    "2dVWJETaL7": {
+        "id": "2dVWJETaL7",
+        "title": "История жилички под вуалью",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:25:41",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 88
+        }
+    },
     "GMh7Amj80R": {
         "id": "GMh7Amj80R",
         "title": "Алое кольцо",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 58
-        }
-    },
-    "E7NFqmbzRZ": {
-        "id": "E7NFqmbzRZ",
-        "title": "Я не такая, или Чай вдвоем",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:54:43",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 57
         }
     }
 }
