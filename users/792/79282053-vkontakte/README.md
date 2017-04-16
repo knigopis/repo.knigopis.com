@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>140</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>141</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Волшебный подарок
+Стивен Кинг
+> [2013-02] Команда Скелетов
+
 
 ### плот
 Стивен Кинг
