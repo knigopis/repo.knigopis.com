@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>147</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>148</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Искусство выживания
+Стивен Кинг
+> [2013-03] Команда Скелетов
+
 
 ### Для Оуэна
 Стивен Кинг

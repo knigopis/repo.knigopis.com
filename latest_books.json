@@ -1,4 +1,16 @@
 {
+    "ouFSSm2WiR": {
+        "id": "ouFSSm2WiR",
+        "title": "Искусство выживания",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:46:19",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 148
+        }
+    },
     "DpH_YMxh51": {
         "id": "DpH_YMxh51",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 119
-        }
-    },
-    "JdAF6vcmwf": {
-        "id": "JdAF6vcmwf",
-        "title": "Общаться успешно. КАК?",
-        "author": "Билл Свитман.",
-        "notes": "Искусство эффективно говорить и слушать.",
-        "createdAt": "2017-04-16 23:37:21",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 118
         }
     }
 }
