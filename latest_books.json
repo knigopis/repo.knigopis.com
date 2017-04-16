@@ -1,4 +1,16 @@
 {
+    "beZzt_k4bN": {
+        "id": "beZzt_k4bN",
+        "title": "Коты - воители. Стань диким!",
+        "author": "Эрин Хантер",
+        "notes": "Первая книга серии «Коты-воители»",
+        "createdAt": "2017-04-16 22:57:42",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 63
+        }
+    },
     "HO-MhNpGsz": {
         "id": "HO-MhNpGsz",
         "title": "Журавль в небе",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 34
-        }
-    },
-    "fDUvYQAUlB": {
-        "id": "fDUvYQAUlB",
-        "title": "Спасти Элвиса",
-        "author": "Эдуард Веркин",
-        "notes": "",
-        "createdAt": "2017-04-16 22:37:57",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 33
         }
     }
 }
