@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>124</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>125</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### 1408
+Стивен Кинг
+> [2012-12] 
+
 
 ### Кладбище домашних животных
 Стивен Кинг
