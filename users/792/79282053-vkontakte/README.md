@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>18</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>19</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Кумир и поклонницы
+Мэг Кэбот
+> [2010-03] 
+
 
 ### Принцесса ждет
 Мэг Кэбот
