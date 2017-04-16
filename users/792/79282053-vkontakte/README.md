@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>155</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>156</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Мареновая роза
+Стивен Кинг
+> [2013-04] 
+
 
 ### Бессоница
 Стивен Кинг
