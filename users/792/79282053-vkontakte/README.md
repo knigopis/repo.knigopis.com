@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>123</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>124</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Кладбище домашних животных
+Стивен Кинг
+> [2012-11] 
+
 
 ### Блейз
 Стивен Кинг
