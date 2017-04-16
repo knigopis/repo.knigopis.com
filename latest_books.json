@@ -1,4 +1,16 @@
 {
+    "HvmbXBZjrJ": {
+        "id": "HvmbXBZjrJ",
+        "title": "Баллада о гибкой пуле",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:46:53",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 151
+        }
+    },
     "Uo6qczyrnn": {
         "id": "Uo6qczyrnn",
         "title": "Пока мамы нет дома",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 122
-        }
-    },
-    "hirP96XN1D": {
-        "id": "hirP96XN1D",
-        "title": "Ромео и Джульетта",
-        "author": "В. Шекспир",
-        "notes": "",
-        "createdAt": "2017-04-16 23:38:26",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 121
         }
     }
 }
