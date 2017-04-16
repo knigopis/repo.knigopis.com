@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>126</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>127</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Низкие люди в желтых плащах. Сердца в Атлантиде.
+Стивен Кинг
+> [2012-12] 
+
 
 ### мясорубка
 Стивен Кинг

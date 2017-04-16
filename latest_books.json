@@ -1,4 +1,16 @@
 {
+    "mDkXBJcm1Z": {
+        "id": "mDkXBJcm1Z",
+        "title": "Низкие люди в желтых плащах. Сердца в Атлантиде.",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-16 23:40:21",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 127
+        }
+    },
     "tDB-1dHRyA": {
         "id": "tDB-1dHRyA",
         "title": "мясорубка",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 98
-        }
-    },
-    "lvxv_d-Ahv": {
-        "id": "lvxv_d-Ahv",
-        "title": "желтое лицо",
-        "author": "Артур Конан-Доль",
-        "notes": "Гениальный сыщик Шерлок Холмс",
-        "createdAt": "2017-04-16 23:29:54",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 97
         }
     }
 }
