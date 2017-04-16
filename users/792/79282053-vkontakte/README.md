@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>75</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>76</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Гламур в шоколаде
+Ирина Молчанова
+> [2012-01] 
+
 
 ### Сын олигарха.
 О. Дзюба
