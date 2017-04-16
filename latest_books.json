@@ -1,4 +1,16 @@
 {
+    "1D8BUHqslu": {
+        "id": "1D8BUHqslu",
+        "title": "Найти и перепрятать",
+        "author": "Ангелина Чацкая",
+        "notes": "",
+        "createdAt": "2017-04-16 23:37:45",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 119
+        }
+    },
     "JdAF6vcmwf": {
         "id": "JdAF6vcmwf",
         "title": "Общаться успешно. КАК?",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 90
-        }
-    },
-    "bgGxfGB9A5": {
-        "id": "bgGxfGB9A5",
-        "title": "Союз рыжих",
-        "author": "Артур Конан-Доль",
-        "notes": "Гениальный сыщик Шерлок Холмс",
-        "createdAt": "2017-04-16 23:26:26",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 89
         }
     }
 }

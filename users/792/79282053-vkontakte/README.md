@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>118</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>119</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Найти и перепрятать
+Ангелина Чацкая
+> [2012-10] 
+
 
 ### Общаться успешно. КАК?
 Билл Свитман.
