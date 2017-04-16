@@ -1,4 +1,16 @@
 {
+    "uLwBT9FpzV": {
+        "id": "uLwBT9FpzV",
+        "title": "кукловод",
+        "author": "Анна Дубчак",
+        "notes": "",
+        "createdAt": "2017-04-16 23:31:01",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 100
+        }
+    },
     "O1AU8x-wJW": {
         "id": "O1AU8x-wJW",
         "title": "Ведьма. Сердце саламандры",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 70
-        }
-    },
-    "ACI3gQW5-P": {
-        "id": "ACI3gQW5-P",
-        "title": "Коты - воители. Закат",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-16 23:01:07",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 69
         }
     }
 }
