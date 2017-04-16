@@ -1,4 +1,16 @@
 {
+    "c_BRCZZK0e": {
+        "id": "c_BRCZZK0e",
+        "title": "Секрет коричневых ампул.",
+        "author": "Екатерина Вильмонт.",
+        "notes": "",
+        "createdAt": "2017-04-16 23:23:02",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 83
+        }
+    },
     "ND20kbrPEY": {
         "id": "ND20kbrPEY",
         "title": "Екатерина Вильмонт",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 54
-        }
-    },
-    "vILXx7BM5M": {
-        "id": "vILXx7BM5M",
-        "title": "Ты лучше всех",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:53:01",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 53
         }
     }
 }
