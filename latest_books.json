@@ -1,4 +1,16 @@
 {
+    "tMW2VL-oUm": {
+        "id": "tMW2VL-oUm",
+        "title": "Не надо меня прощать",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:41:05",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 39
+        }
+    },
     "KoIzN04i4X": {
         "id": "KoIzN04i4X",
         "title": "Не такая как все",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 10
-        }
-    },
-    "zvxiroYcth": {
-        "id": "zvxiroYcth",
-        "title": "Девчонки гуляют допоздна",
-        "author": "Жаклин Уилсон",
-        "notes": "",
-        "createdAt": "2017-04-16 22:09:47",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 9
         }
     }
 }
