@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>17</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>18</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Принцесса ждет
+Мэг Кэбот
+> [2010-02] 
+
 
 ### Принцесса в центре внимания.
 Мэг Кэбот
