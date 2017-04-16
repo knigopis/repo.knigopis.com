@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>33</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>34</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2011
+
+### Капкан на оборотня
+Эдуард Веркин
+> [2011-05] 
+
 
 ### Спасти Элвиса
 Эдуард Веркин
