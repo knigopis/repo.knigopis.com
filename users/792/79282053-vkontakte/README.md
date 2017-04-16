@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>64</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>65</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Коты - воители. Бушующая стихия
+Эрин Хантер
+> [2012-10] 
+
 
 ### Коты - воители. Лес секретов.
 Эрин Хантер
