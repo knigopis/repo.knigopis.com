@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>26</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>27</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Волшебные каникулы
+Вера Иванова
+> [2010-09] 
+
 
 ### Дорогая сестра
 Френсин Паскаль
