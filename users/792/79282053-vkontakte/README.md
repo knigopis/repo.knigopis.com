@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>76</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>77</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### 1000 отговорок в школе, дома и везде
+Геральд Бош.
+> [2012-01] 
+
 
 ### Гламур в шоколаде
 Ирина Молчанова
