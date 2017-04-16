@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>55</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>56</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Золотые слезы
+Вера и Марина Воробей
+> [2012-04] 
+
 
 ### Три дня без веры или Прыжок с балкона.
 Вера и Марина Воробей

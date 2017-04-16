@@ -1,4 +1,16 @@
 {
+    "2qYhq4yyIq": {
+        "id": "2qYhq4yyIq",
+        "title": "Золотые слезы",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:54:11",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 56
+        }
+    },
     "BS0i7tiJiA": {
         "id": "BS0i7tiJiA",
         "title": "Три дня без веры или Прыжок с балкона.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 27
-        }
-    },
-    "WY9CUliIHK": {
-        "id": "WY9CUliIHK",
-        "title": "Дорогая сестра",
-        "author": "Френсин Паскаль",
-        "notes": "",
-        "createdAt": "2017-04-16 22:33:54",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 26
         }
     }
 }
