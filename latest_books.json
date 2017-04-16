@@ -1,4 +1,16 @@
 {
+    "cI3yKLs4PZ": {
+        "id": "cI3yKLs4PZ",
+        "title": "Ритуал",
+        "author": "Марина и Сергей Дяченко",
+        "notes": "",
+        "createdAt": "2017-04-16 21:56:05",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 1
+        }
+    },
     "98KwHhjm2J": {
         "id": "98KwHhjm2J",
         "title": "Хоббит или Туда и Обратно",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 19
-        }
-    },
-    "VBwDRjb4OA": {
-        "id": "VBwDRjb4OA",
-        "title": "Тайный крестовый поход",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-04-13 13:22:23",
-        "user": {
-            "id": "414040473-vkontakte",
-            "nickname": "Койнов Александр",
-            "booksCount": 18
         }
     }
 }
