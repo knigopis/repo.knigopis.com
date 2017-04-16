@@ -1,4 +1,16 @@
 {
+    "FDBpEsAfAN": {
+        "id": "FDBpEsAfAN",
+        "title": "Трудно быть храбрым",
+        "author": "Екатерина Вильмонт",
+        "notes": "",
+        "createdAt": "2017-04-16 23:23:17",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 84
+        }
+    },
     "c_BRCZZK0e": {
         "id": "c_BRCZZK0e",
         "title": "Секрет коричневых ампул.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 55
-        }
-    },
-    "ues2rRjpNL": {
-        "id": "ues2rRjpNL",
-        "title": "Чужие игры",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:53:13",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 54
         }
     }
 }

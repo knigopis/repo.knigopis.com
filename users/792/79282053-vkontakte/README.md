@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>83</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>84</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Трудно быть храбрым
+Екатерина Вильмонт
+> [2012-03] 
+
 
 ### Секрет коричневых ампул.
 Екатерина Вильмонт.
