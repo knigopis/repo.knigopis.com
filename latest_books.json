@@ -1,4 +1,16 @@
 {
+    "ZHwP891sBR": {
+        "id": "ZHwP891sBR",
+        "title": "Смертельный номер, или Барышня и хулиган.",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:52:31",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 51
+        }
+    },
     "KMUTJ0-9hM": {
         "id": "KMUTJ0-9hM",
         "title": "Я тебя не вижу или потерянные ключи",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 22
-        }
-    },
-    "qaVs_zVw2H": {
-        "id": "qaVs_zVw2H",
-        "title": "Таблетки для рыжего кота",
-        "author": "Мэг Кэбот",
-        "notes": "",
-        "createdAt": "2017-04-16 22:31:38",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 21
         }
     }
 }
