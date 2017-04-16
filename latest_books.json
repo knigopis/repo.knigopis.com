@@ -1,4 +1,16 @@
 {
+    "rvgzYyyVZo": {
+        "id": "rvgzYyyVZo",
+        "title": "Бессоница",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-16 23:48:03",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 155
+        }
+    },
     "kmDZ2SjqWS": {
         "id": "kmDZ2SjqWS",
         "title": "Дорожные работы",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 126
-        }
-    },
-    "zT2-f9fgdI": {
-        "id": "zT2-f9fgdI",
-        "title": "1408",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:39:51",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 125
         }
     }
 }
