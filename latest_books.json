@@ -1,4 +1,16 @@
 {
+    "sL5oTo08yP": {
+        "id": "sL5oTo08yP",
+        "title": "Глаза дракона",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-16 23:50:33",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 157
+        }
+    },
     "ynCYRkohRB": {
         "id": "ynCYRkohRB",
         "title": "Мареновая роза",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 128
-        }
-    },
-    "mDkXBJcm1Z": {
-        "id": "mDkXBJcm1Z",
-        "title": "Низкие люди в желтых плащах. Сердца в Атлантиде.",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:40:21",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 127
         }
     }
 }
