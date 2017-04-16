@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>148</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>149</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2013
+
+### Грузовик дяди Отто
+Стивен Кинг
+> [2013-03] Команда Скелетов
+
 
 ### Искусство выживания
 Стивен Кинг
