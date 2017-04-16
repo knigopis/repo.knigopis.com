@@ -1,4 +1,16 @@
 {
+    "f0fxBlJDxg": {
+        "id": "f0fxBlJDxg",
+        "title": "Жаклин Уилсон",
+        "author": "Жаклин Уилсон",
+        "notes": "",
+        "createdAt": "2017-04-16 22:06:24",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 7
+        }
+    },
     "U7dYTXENal": {
         "id": "U7dYTXENal",
         "title": "Девчонки в погоне за модой",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 98
-        }
-    },
-    "b23eCZqydc": {
-        "id": "b23eCZqydc",
-        "title": "Китайская Шаль",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №5",
-        "createdAt": "2017-04-13 19:36:44",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 97
         }
     }
 }
