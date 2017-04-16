@@ -1,4 +1,16 @@
 {
+    "myEIjurzxu": {
+        "id": "myEIjurzxu",
+        "title": "Обезьяна",
+        "author": "Стивен Кинг",
+        "notes": "Команда Скелетов",
+        "createdAt": "2017-04-16 23:43:19",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 134
+        }
+    },
     "dVza42Vuya": {
         "id": "dVza42Vuya",
         "title": "Тут могут вадица тигры",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 105
-        }
-    },
-    "JHcZ8o_Fxc": {
-        "id": "JHcZ8o_Fxc",
-        "title": "Если хочешь быть счастливой…",
-        "author": "Анна Еланская",
-        "notes": "Тесты для девочек",
-        "createdAt": "2017-04-16 23:32:25",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 104
         }
     }
 }
