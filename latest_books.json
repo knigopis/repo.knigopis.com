@@ -1,4 +1,16 @@
 {
+    "0hj5CHRsWL": {
+        "id": "0hj5CHRsWL",
+        "title": "Рисуй меня ночью",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:45:27",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 46
+        }
+    },
     "X_JG66KNaK": {
         "id": "X_JG66KNaK",
         "title": "Я тебе верю",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 17
-        }
-    },
-    "BjAwJSENxA": {
-        "id": "BjAwJSENxA",
-        "title": "Отчаянная девчонка",
-        "author": "Мэг Кэбот",
-        "notes": "",
-        "createdAt": "2017-04-16 22:28:25",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 16
         }
     }
 }
