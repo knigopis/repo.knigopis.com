@@ -1,4 +1,16 @@
 {
+    "x0ua43w3iB": {
+        "id": "x0ua43w3iB",
+        "title": "Нина – девочка Шестой Луны.",
+        "author": "Муни Витчер",
+        "notes": "Книга первая",
+        "createdAt": "2017-04-16 23:02:12",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 71
+        }
+    },
     "-EKPyywPUk": {
         "id": "-EKPyywPUk",
         "title": "Коты - воители. Темная река",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 42
-        }
-    },
-    "q2njhZ3rwR": {
-        "id": "q2njhZ3rwR",
-        "title": "Запоздалое раскаяние",
-        "author": "Вера и Марина Воробей",
-        "notes": "",
-        "createdAt": "2017-04-16 22:42:28",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 41
         }
     }
 }
