@@ -1,4 +1,16 @@
 {
+    "TTYR1bYDyP": {
+        "id": "TTYR1bYDyP",
+        "title": "Дневник Барби, или Веселая распродажа",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:55:36",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 59
+        }
+    },
     "KZiBMD1Qht": {
         "id": "KZiBMD1Qht",
         "title": "Принц на белом коне, или Жертва эксперимента.",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 30
-        }
-    },
-    "9AlfOt67cT": {
-        "id": "9AlfOt67cT",
-        "title": "Бал под пальмами",
-        "author": "Анна Антонова",
-        "notes": "",
-        "createdAt": "2017-04-16 22:35:21",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 29
         }
     }
 }
