@@ -1,4 +1,16 @@
 {
+    "V6D6PaoDDm": {
+        "id": "V6D6PaoDDm",
+        "title": "Бегущий в Ночи, или история одной любви",
+        "author": "Вера и Марина Воробей",
+        "notes": "",
+        "createdAt": "2017-04-16 22:41:43",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 40
+        }
+    },
     "tMW2VL-oUm": {
         "id": "tMW2VL-oUm",
         "title": "Не надо меня прощать",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 11
-        }
-    },
-    "32jYN2WaZL": {
-        "id": "32jYN2WaZL",
-        "title": "Новый старт",
-        "author": "Жаклин Уилсон",
-        "notes": "",
-        "createdAt": "2017-04-16 22:20:09",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 10
         }
     }
 }
