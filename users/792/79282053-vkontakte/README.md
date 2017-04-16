@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>98</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>99</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2012
+
+### Ведьма. Сердце саламандры
+Лене Кааберол
+> [2012-04] 
+
 
 ### случай с переводчиком
 Артур Конан-Доль
