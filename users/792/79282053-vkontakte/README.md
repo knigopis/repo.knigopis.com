@@ -1,4 +1,4 @@
-# List of books read by [Victoria](http://vk.com/id79282053)<sup>21</sup>
+# List of books read by [Victoria](http://vk.com/id79282053)<sup>22</sup>
 ---
 
 ## 2017
@@ -23,6 +23,11 @@
 
 
 ## 2010
+
+### Соперницы
+Френсин Паскаль
+> [2010-06] 
+
 
 ### Таблетки для рыжего кота
 Мэг Кэбот
