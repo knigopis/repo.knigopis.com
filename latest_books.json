@@ -1,4 +1,16 @@
 {
+    "So4-Mc9HyN": {
+        "id": "So4-Mc9HyN",
+        "title": "голубой карбункул",
+        "author": "Артур Конан-Доль",
+        "notes": "Гениальный сыщик Шерлок Холмс",
+        "createdAt": "2017-04-16 23:29:06",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 96
+        }
+    },
     "HRWUFqHQwV": {
         "id": "HRWUFqHQwV",
         "title": "черный доктор",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 66
-        }
-    },
-    "3Pr9Mxsn7G": {
-        "id": "3Pr9Mxsn7G",
-        "title": "Коты - воители. Бушующая стихия",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-16 22:59:15",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 65
         }
     }
 }
