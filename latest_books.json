@@ -1,4 +1,16 @@
 {
+    "WNiOamFMYZ": {
+        "id": "WNiOamFMYZ",
+        "title": "Дети кукурузы",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-16 23:40:52",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 129
+        }
+    },
     "Fah9eX5eG2": {
         "id": "Fah9eX5eG2",
         "title": "Побег из Шоушенка.\u000bРита Хейуорт, или Побег из Шоушенка",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 100
-        }
-    },
-    "O1AU8x-wJW": {
-        "id": "O1AU8x-wJW",
-        "title": "Ведьма. Сердце саламандры",
-        "author": "Лене Кааберол",
-        "notes": "",
-        "createdAt": "2017-04-16 23:30:43",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 99
         }
     }
 }
