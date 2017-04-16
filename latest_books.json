@@ -1,4 +1,16 @@
 {
+    "zrC_qZoRVw": {
+        "id": "zrC_qZoRVw",
+        "title": "День всех влюбленных",
+        "author": "Светлана Лубенец",
+        "notes": "",
+        "createdAt": "2017-04-16 22:40:13",
+        "user": {
+            "id": "79282053-vkontakte",
+            "nickname": "Victoria",
+            "booksCount": 37
+        }
+    },
     "4YrS_cPXiR": {
         "id": "4YrS_cPXiR",
         "title": "Артур и война двух миров",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 8
-        }
-    },
-    "f0fxBlJDxg": {
-        "id": "f0fxBlJDxg",
-        "title": "Жаклин Уилсон",
-        "author": "Жаклин Уилсон",
-        "notes": "",
-        "createdAt": "2017-04-16 22:06:24",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 7
         }
     }
 }
