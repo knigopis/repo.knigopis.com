@@ -1,4 +1,4 @@
-# List of books read by [TryKote](http://vk.com/id145737651)<sup>3</sup>
+# List of books read by [TryKote](http://vk.com/id145737651)<sup>2</sup>
 ---
 
 ## Other years
@@ -7,10 +7,6 @@
 Эрин Хантер
 
 
-
-
-### Коты-Воители: Восход луны
-Эрин Хантер
 
 
 
