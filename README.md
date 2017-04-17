@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[alpha_number_one](users/145/145737651-vkontakte)<sup>0</sup> 
+[alpha_number_one](users/145/145737651-vkontakte)<sup>1</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>2</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 
 
-_17.04.2017 16:47:58_
+_17.04.2017 16:48:41_

@@ -1,4 +1,16 @@
 {
+    "MQ-xFHsqzW": {
+        "id": "MQ-xFHsqzW",
+        "title": "Коты-Воители: Восход луны",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-17 16:48:41",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "alpha_number_one",
+            "booksCount": 1
+        }
+    },
     "Uhf4YRqrfT": {
         "id": "Uhf4YRqrfT",
         "title": "«СОВЕТЫ ДРУГА. 11 УРОКОВ ПО ДОСТИЖЕНИЮ УСПЕХА»",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 133
-        }
-    },
-    "3orXf8p85B": {
-        "id": "3orXf8p85B",
-        "title": "Мгла",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:42:20",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 132
         }
     }
 }
