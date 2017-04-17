@@ -1,7 +1,11 @@
-# List of books read by [TryKote](http://vk.com/id145737651)<sup>6</sup>
+# List of books read by [TryKote](http://vk.com/id145737651)<sup>7</sup>
 ---
 
 ## Other years
+
+### Коты-Воители: Лес секретов
+Эрин Хантер
+
 
 ### Коты-Воители: Бушующая стихия
 Эрин Хантер
