@@ -1,7 +1,11 @@
-# List of books read by [TryKote](http://vk.com/id145737651)<sup>4</sup>
+# List of books read by [TryKote](http://vk.com/id145737651)<sup>5</sup>
 ---
 
 ## Other years
+
+### Коты-Воители: Опасная тропа
+Эрин Хантер
+
 
 ### Коты-Воители: Битва за лес
 Эрин Хантер
