@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>9</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>2</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 [Emberlin](users/581/581971778624196-facebook)<sup>1</sup> 
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
-[talkmexdown](users/110/1103426989-twitter)<sup>0</sup> 
 
 
-_17.04.2017 16:50:55_
+_17.04.2017 16:56:45_
