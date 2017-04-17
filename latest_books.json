@@ -1,4 +1,16 @@
 {
+    "GZg6ia5gKT": {
+        "id": "GZg6ia5gKT",
+        "title": "Коты-Воители: Стань диким!",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-17 16:50:55",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 9
+        }
+    },
     "KLj34xi9wY": {
         "id": "KLj34xi9wY",
         "title": "Коты-Воители: Огонь и лёд",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 141
-        }
-    },
-    "Loerbesq2I": {
-        "id": "Loerbesq2I",
-        "title": "плот",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:44:40",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 140
         }
     }
 }

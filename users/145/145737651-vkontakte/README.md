@@ -1,7 +1,11 @@
-# List of books read by [TryKote](http://vk.com/id145737651)<sup>8</sup>
+# List of books read by [TryKote](http://vk.com/id145737651)<sup>9</sup>
 ---
 
 ## Other years
+
+### Коты-Воители: Стань диким!
+Эрин Хантер
+
 
 ### Коты-Воители: Огонь и лёд
 Эрин Хантер
