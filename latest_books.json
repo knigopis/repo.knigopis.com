@@ -1,4 +1,16 @@
 {
+    "C4WTT01tMF": {
+        "id": "C4WTT01tMF",
+        "title": "Коты-Воители: Полночь",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-17 16:50:18",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 3
+        }
+    },
     "IfwrbRrXbW": {
         "id": "IfwrbRrXbW",
         "title": "Коты-Воители: Восход луны",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 135
-        }
-    },
-    "myEIjurzxu": {
-        "id": "myEIjurzxu",
-        "title": "Обезьяна",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:43:19",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 134
         }
     }
 }
