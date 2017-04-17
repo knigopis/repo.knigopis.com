@@ -1,4 +1,16 @@
 {
+    "L6NTG22S0m": {
+        "id": "L6NTG22S0m",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-17 16:48:44",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "alpha_number_one",
+            "booksCount": 2
+        }
+    },
     "MQ-xFHsqzW": {
         "id": "MQ-xFHsqzW",
         "title": "Коты-Воители: Восход луны",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 134
-        }
-    },
-    "dVza42Vuya": {
-        "id": "dVza42Vuya",
-        "title": "Тут могут вадица тигры",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:42:51",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 133
         }
     }
 }
