@@ -1,4 +1,16 @@
 {
+    "rFmEp0o18k": {
+        "id": "rFmEp0o18k",
+        "title": "Коты-Воители: Бушующая стихия",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-17 16:50:39",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 6
+        }
+    },
     "-ZxW5dgpgO": {
         "id": "-ZxW5dgpgO",
         "title": "Коты-Воители: Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 138
-        }
-    },
-    "cB6POxFJW6": {
-        "id": "cB6POxFJW6",
-        "title": "Джонт",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:44:02",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 137
         }
     }
 }
