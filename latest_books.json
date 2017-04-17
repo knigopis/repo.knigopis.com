@@ -1,4 +1,16 @@
 {
+    "SHRqhLjAFC": {
+        "id": "SHRqhLjAFC",
+        "title": "Конец Атлантиды",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2017-04-17 17:01:04",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 12
+        }
+    },
     "Du_4OHtVwI": {
         "id": "Du_4OHtVwI",
         "title": "Город без памяти",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 144
-        }
-    },
-    "QeDWMMGC7l": {
-        "id": "QeDWMMGC7l",
-        "title": "песчаный мир",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:45:22",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 143
         }
     }
 }
