@@ -1,4 +1,16 @@
 {
+    "smLdayERe4": {
+        "id": "smLdayERe4",
+        "title": "Коты-Воители: Битва за лес",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-17 16:50:26",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 4
+        }
+    },
     "C4WTT01tMF": {
         "id": "C4WTT01tMF",
         "title": "Коты-Воители: Полночь",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 136
-        }
-    },
-    "lKhXYrIXAt": {
-        "id": "lKhXYrIXAt",
-        "title": "каникулы",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:43:33",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 135
         }
     }
 }
