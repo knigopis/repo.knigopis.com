@@ -1,4 +1,16 @@
 {
+    "5d_QtO5_lL": {
+        "id": "5d_QtO5_lL",
+        "title": "Обретение крыльев",
+        "author": "Сью Монк Кидд",
+        "notes": "",
+        "createdAt": "2017-04-17 05:10:02",
+        "user": {
+            "id": "11152548-vkontakte",
+            "nickname": "Оксана",
+            "booksCount": 1
+        }
+    },
     "OvNoKMS0Xf": {
         "id": "OvNoKMS0Xf",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 130
-        }
-    },
-    "WNiOamFMYZ": {
-        "id": "WNiOamFMYZ",
-        "title": "Дети кукурузы",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:40:52",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 129
         }
     }
 }
