@@ -1,4 +1,16 @@
 {
+    "WWJ0jnc2b2": {
+        "id": "WWJ0jnc2b2",
+        "title": "«СТРАТЕГИЯ ЖИЗНИ»",
+        "author": "Клейтон Кристенсен, Джеймс Оллворт, Карен Диллон",
+        "notes": "",
+        "createdAt": "2017-04-17 15:28:13",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 1
+        }
+    },
     "5d_QtO5_lL": {
         "id": "5d_QtO5_lL",
         "title": "Обретение крыльев",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 131
-        }
-    },
-    "nZW9CSdn4L": {
-        "id": "nZW9CSdn4L",
-        "title": "Психоз",
-        "author": "Роберт Блох",
-        "notes": "",
-        "createdAt": "2017-04-16 23:41:19",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 130
         }
     }
 }

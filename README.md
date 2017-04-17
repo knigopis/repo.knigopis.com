@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>0</sup> 
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>1</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>75</sup> 
 
 
-_17.04.2017 15:24:40_
+_17.04.2017 15:28:13_
