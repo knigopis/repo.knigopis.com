@@ -1,7 +1,11 @@
-# List of books read by [TryKote](http://vk.com/id145737651)<sup>9</sup>
+# List of books read by [TryKote](http://vk.com/id145737651)<sup>10</sup>
 ---
 
 ## Other years
+
+### Подземная лодка
+Кир Булычев
+
 
 ### Коты-Воители: Стань диким!
 Эрин Хантер

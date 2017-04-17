@@ -1,4 +1,16 @@
 {
+    "z0tYTDh9Fy": {
+        "id": "z0tYTDh9Fy",
+        "title": "Подземная лодка",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2017-04-17 16:59:57",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 10
+        }
+    },
     "GZg6ia5gKT": {
         "id": "GZg6ia5gKT",
         "title": "Коты-Воители: Стань диким!",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 142
-        }
-    },
-    "QiqxH_8FaC": {
-        "id": "QiqxH_8FaC",
-        "title": "Волшебный подарок",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:44:58",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 141
         }
     }
 }
