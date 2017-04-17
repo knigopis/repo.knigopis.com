@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[TryKote](users/145/145737651-vkontakte)<sup>13</sup> 
+[TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>2</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rodislav14](users/663/66370451-twitter)<sup>2</sup> 
 
 
-_17.04.2017 17:02:53_
+_17.04.2017 17:03:51_
