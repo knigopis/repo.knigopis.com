@@ -1,4 +1,16 @@
 {
+    "KLj34xi9wY": {
+        "id": "KLj34xi9wY",
+        "title": "Коты-Воители: Огонь и лёд",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-04-17 16:50:50",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 8
+        }
+    },
     "nGabTeHTvB": {
         "id": "nGabTeHTvB",
         "title": "Коты-Воители: Лес секретов",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 140
-        }
-    },
-    "h8UZnm6uYb": {
-        "id": "h8UZnm6uYb",
-        "title": "параноид",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:44:31",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 139
         }
     }
 }
