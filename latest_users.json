@@ -1,4 +1,10 @@
 {
+    "96505467-vkontakte": {
+        "id": "96505467-vkontakte",
+        "nickname": "olioshko",
+        "booksCount": 0,
+        "updatedAt": "2017-04-17 16:56:44"
+    },
     "145737651-vkontakte": {
         "id": "145737651-vkontakte",
         "nickname": "TryKote",
@@ -172,11 +178,5 @@
         "nickname": "Rodislav14",
         "booksCount": 2,
         "updatedAt": "2017-04-09 19:32:17"
-    },
-    "1103426989-twitter": {
-        "id": "1103426989-twitter",
-        "nickname": "talkmexdown",
-        "booksCount": 0,
-        "updatedAt": "2017-04-08 19:12:16"
     }
 }
