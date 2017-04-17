@@ -1,4 +1,10 @@
 {
+    "423302481-vkontakte": {
+        "id": "423302481-vkontakte",
+        "nickname": "vladimir_balykov_ua",
+        "booksCount": 0,
+        "updatedAt": "2017-04-17 15:24:37"
+    },
     "11152548-vkontakte": {
         "id": "11152548-vkontakte",
         "nickname": "Оксана",
@@ -172,11 +178,5 @@
         "nickname": "Sofie",
         "booksCount": 75,
         "updatedAt": "2017-04-08 16:25:47"
-    },
-    "200601396-vkontakte": {
-        "id": "200601396-vkontakte",
-        "nickname": "Милашечка",
-        "booksCount": 14,
-        "updatedAt": "2017-04-08 12:14:13"
     }
 }
