@@ -1,4 +1,10 @@
 {
+    "145737651-vkontakte": {
+        "id": "145737651-vkontakte",
+        "nickname": "alpha_number_one",
+        "booksCount": 0,
+        "updatedAt": "2017-04-17 16:47:57"
+    },
     "423302481-vkontakte": {
         "id": "423302481-vkontakte",
         "nickname": "vladimir_balykov_ua",
@@ -172,11 +178,5 @@
         "nickname": "talkmexdown",
         "booksCount": 0,
         "updatedAt": "2017-04-08 19:12:16"
-    },
-    "48568611-vkontakte": {
-        "id": "48568611-vkontakte",
-        "nickname": "Sofie",
-        "booksCount": 75,
-        "updatedAt": "2017-04-08 16:25:47"
     }
 }
