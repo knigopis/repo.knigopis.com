@@ -1,4 +1,16 @@
 {
+    "Uhf4YRqrfT": {
+        "id": "Uhf4YRqrfT",
+        "title": "«СОВЕТЫ ДРУГА. 11 УРОКОВ ПО ДОСТИЖЕНИЮ УСПЕХА»",
+        "author": "Энтони Роббинс",
+        "notes": "[Минск: Попурри, 2007] \nISBN 0-684-80056-X, 978-985-483-998-1",
+        "createdAt": "2017-04-17 15:29:22",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 2
+        }
+    },
     "WWJ0jnc2b2": {
         "id": "WWJ0jnc2b2",
         "title": "«СТРАТЕГИЯ ЖИЗНИ»",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 132
-        }
-    },
-    "E1L_2gTHQj": {
-        "id": "E1L_2gTHQj",
-        "title": "Чудеса в кастрюльке",
-        "author": "Дарья Донцова",
-        "notes": "",
-        "createdAt": "2017-04-16 23:41:46",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 131
         }
     }
 }
