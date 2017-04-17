@@ -1,4 +1,10 @@
 {
+    "198055405-yandex": {
+        "id": "198055405-yandex",
+        "nickname": "telenkov.ad",
+        "booksCount": 0,
+        "updatedAt": "2017-04-17 20:05:49"
+    },
     "145737651-vkontakte": {
         "id": "145737651-vkontakte",
         "nickname": "TryKote",
@@ -172,11 +178,5 @@
         "nickname": "Emberlin",
         "booksCount": 1,
         "updatedAt": "2017-04-10 23:33:43"
-    },
-    "66370451-twitter": {
-        "id": "66370451-twitter",
-        "nickname": "Rodislav14",
-        "booksCount": 2,
-        "updatedAt": "2017-04-09 19:32:17"
     }
 }
