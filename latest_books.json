@@ -1,4 +1,16 @@
 {
+    "xfBwnxLl1W": {
+        "id": "xfBwnxLl1W",
+        "title": "Путешествие Алисы",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2017-04-17 17:02:53",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 13
+        }
+    },
     "SHRqhLjAFC": {
         "id": "SHRqhLjAFC",
         "title": "Конец Атлантиды",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 145
-        }
-    },
-    "OD3EFqztJN": {
-        "id": "OD3EFqztJN",
-        "title": "зеркало Дефйвера",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:45:45",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 144
         }
     }
 }
