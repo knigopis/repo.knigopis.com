@@ -1,4 +1,16 @@
 {
+    "LuVLDtKi3S": {
+        "id": "LuVLDtKi3S",
+        "title": "Зверобой",
+        "author": "Джеймс Фенимор Купер",
+        "notes": "",
+        "createdAt": "2017-04-18 11:02:07",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 23
+        }
+    },
     "ec0A8tE56F": {
         "id": "ec0A8tE56F",
         "title": "Странник по звездам",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 11
-        }
-    },
-    "z0tYTDh9Fy": {
-        "id": "z0tYTDh9Fy",
-        "title": "Подземная лодка",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-04-17 16:59:57",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 10
         }
     }
 }
