@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[d_eka](users/177/17743905-vkontakte)<sup>0</sup> 
+[d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 
 
-_18.04.2017 06:17:59_
+_18.04.2017 06:22:48_
