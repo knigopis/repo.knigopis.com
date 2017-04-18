@@ -1,4 +1,16 @@
 {
+    "PjU1Ye8Clq": {
+        "id": "PjU1Ye8Clq",
+        "title": "Физика невозможного",
+        "author": "2014",
+        "notes": "",
+        "createdAt": "2017-04-18 09:08:21",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 4
+        }
+    },
     "gAX8ovRdDJ": {
         "id": "gAX8ovRdDJ",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 152
-        }
-    },
-    "HvmbXBZjrJ": {
-        "id": "HvmbXBZjrJ",
-        "title": "Баллада о гибкой пуле",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:46:53",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 151
         }
     }
 }
