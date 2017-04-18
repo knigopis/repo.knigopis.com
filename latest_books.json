@@ -1,4 +1,16 @@
 {
+    "hmg1TrCR0R": {
+        "id": "hmg1TrCR0R",
+        "title": "Крестный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2017-04-18 09:55:22",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 19
+        }
+    },
     "41EKVOXMde": {
         "id": "41EKVOXMde",
         "title": "Не спешу",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 7
-        }
-    },
-    "rFmEp0o18k": {
-        "id": "rFmEp0o18k",
-        "title": "Коты-Воители: Бушующая стихия",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:39",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 6
         }
     }
 }
