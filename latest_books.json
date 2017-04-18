@@ -1,4 +1,16 @@
 {
+    "rq5mW1hGxj": {
+        "id": "rq5mW1hGxj",
+        "title": "Затерянный мир",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-04-18 11:02:54",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 24
+        }
+    },
     "LuVLDtKi3S": {
         "id": "LuVLDtKi3S",
         "title": "Зверобой",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 12
-        }
-    },
-    "Du_4OHtVwI": {
-        "id": "Du_4OHtVwI",
-        "title": "Город без памяти",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-04-17 17:00:45",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 11
         }
     }
 }
