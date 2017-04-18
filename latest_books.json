@@ -1,4 +1,16 @@
 {
+    "xJjueWmxv-": {
+        "id": "xJjueWmxv-",
+        "title": "Морской Волк",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-18 09:11:59",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 10
+        }
+    },
     "x9m56v_AWn": {
         "id": "x9m56v_AWn",
         "title": "Зов Предков",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 158
-        }
-    },
-    "sL5oTo08yP": {
-        "id": "sL5oTo08yP",
-        "title": "Глаза дракона",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:50:33",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 157
         }
     }
 }
