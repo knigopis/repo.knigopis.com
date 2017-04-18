@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>32</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>33</sup>
 ---
 
 ## 2017
+
+### Черновик
+Сергей Лукьяненко
+> [2017-04-19] 
+
 
 ### Таящийся у порога
 Г. Ф. Лавкрафт
