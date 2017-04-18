@@ -1,4 +1,10 @@
 {
+    "17743905-vkontakte": {
+        "id": "17743905-vkontakte",
+        "nickname": "d_eka",
+        "booksCount": 0,
+        "updatedAt": "2017-04-18 06:17:57"
+    },
     "198055405-yandex": {
         "id": "198055405-yandex",
         "nickname": "telenkov.ad",
@@ -172,11 +178,5 @@
         "nickname": "Lana8823",
         "booksCount": 1,
         "updatedAt": "2017-04-11 16:10:16"
-    },
-    "581971778624196-facebook": {
-        "id": "581971778624196-facebook",
-        "nickname": "Emberlin",
-        "booksCount": 1,
-        "updatedAt": "2017-04-10 23:33:43"
     }
 }
