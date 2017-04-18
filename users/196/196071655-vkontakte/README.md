@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>24</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>25</sup>
 ---
 
 ## 2017
@@ -48,6 +48,10 @@
 
 
 ## 2014
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Зверобой
 Джеймс Фенимор Купер

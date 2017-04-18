@@ -1,4 +1,16 @@
 {
+    "EVZ8I-0EPj": {
+        "id": "EVZ8I-0EPj",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2017-04-18 11:03:47",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 25
+        }
+    },
     "rq5mW1hGxj": {
         "id": "rq5mW1hGxj",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 13
-        }
-    },
-    "SHRqhLjAFC": {
-        "id": "SHRqhLjAFC",
-        "title": "Конец Атлантиды",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-04-17 17:01:04",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 12
         }
     }
 }
