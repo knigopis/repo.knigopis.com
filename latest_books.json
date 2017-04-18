@@ -1,4 +1,16 @@
 {
+    "RHTYRvMsSg": {
+        "id": "RHTYRvMsSg",
+        "title": "Плохой отец",
+        "author": "Алексей Шолохов",
+        "notes": "отличный рассказ",
+        "createdAt": "2017-04-18 09:49:02",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 45
+        }
+    },
     "rfmjks00NX": {
         "id": "rfmjks00NX",
         "title": "10000 лье под водой",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 5
-        }
-    },
-    "smLdayERe4": {
-        "id": "smLdayERe4",
-        "title": "Коты-Воители: Битва за лес",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:26",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 4
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
 * Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
 * Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
 * Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
-* Русский рассказ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 
 
-_15.04.2017 19:59:46_
+_18.04.2017 09:49:03_

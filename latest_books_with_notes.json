@@ -1,4 +1,16 @@
 {
+    "RHTYRvMsSg": {
+        "id": "RHTYRvMsSg",
+        "title": "Плохой отец",
+        "author": "Алексей Шолохов",
+        "notes": "отличный рассказ",
+        "createdAt": "2017-04-18 09:49:02",
+        "user": {
+            "id": "12601720503917094896-mailru",
+            "nickname": "Neccochi",
+            "booksCount": 45
+        }
+    },
     "XR0JMx3nmN": {
         "id": "XR0JMx3nmN",
         "title": "Коты-Воители: Восход луны",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 97
-        }
-    },
-    "BPJA-7pwMI": {
-        "id": "BPJA-7pwMI",
-        "title": "Русский рассказ",
-        "author": "Кафка Франц",
-        "notes": "Рассказывается о времени, в течении которого, автор работал на железной дороге.\n18612 - Февральск",
-        "createdAt": "2017-03-31 08:34:34",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 75
         }
     }
 }
