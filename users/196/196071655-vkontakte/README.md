@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>25</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>26</sup>
 ---
 
 ## 2017
@@ -106,6 +106,10 @@
 
 
 ## 2012
+
+### Дело белки
+Александр Даган
+
 
 ### Гарри Поттер
 Джоан Роулинг
