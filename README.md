@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[viktory_91](users/421/42152838-vkontakte)<sup>0</sup> 
 [d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
-[Lana8823](users/113/113826235431340935361-google)<sup>1</sup> 
 
 
-_18.04.2017 06:22:48_
+_18.04.2017 07:00:48_
