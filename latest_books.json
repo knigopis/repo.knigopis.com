@@ -1,4 +1,16 @@
 {
+    "MpvFIbVxFw": {
+        "id": "MpvFIbVxFw",
+        "title": "Поселок",
+        "author": "Кир Булычев",
+        "notes": "",
+        "createdAt": "2017-04-18 07:01:18",
+        "user": {
+            "id": "42152838-vkontakte",
+            "nickname": "viktory_91",
+            "booksCount": 1
+        }
+    },
     "NocWuEoPw2": {
         "id": "NocWuEoPw2",
         "title": "Двадцать четыре часа из жизни женщины",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 148
-        }
-    },
-    "DpH_YMxh51": {
-        "id": "DpH_YMxh51",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-16 23:46:07",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 147
         }
     }
 }
