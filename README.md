@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>0</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
 [d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
-[scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
 
 
-_18.04.2017 07:01:18_
+_18.04.2017 09:05:24_
