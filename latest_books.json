@@ -1,4 +1,16 @@
 {
+    "bMuXb5z59F": {
+        "id": "bMuXb5z59F",
+        "title": "Евгений Онегин",
+        "author": "А. С. Пушкин",
+        "notes": "",
+        "createdAt": "2017-04-18 12:21:48",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 31
+        }
+    },
     "c4icWTi-nA": {
         "id": "c4icWTi-nA",
         "title": "Отравленный пояс",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 3
-        }
-    },
-    "r96XA_c0Og": {
-        "id": "r96XA_c0Og",
-        "title": "Таинственный остров",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-04-18 09:07:20",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 2
         }
     }
 }
