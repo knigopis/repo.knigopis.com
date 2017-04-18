@@ -1,4 +1,16 @@
 {
+    "snejCMLh1H": {
+        "id": "snejCMLh1H",
+        "title": "Психопаты",
+        "author": "А. П. Чехлв",
+        "notes": "",
+        "createdAt": "2017-04-18 09:59:49",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 21
+        }
+    },
     "myDfUqbXio": {
         "id": "myDfUqbXio",
         "title": "Драма на охоте",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 9
-        }
-    },
-    "KLj34xi9wY": {
-        "id": "KLj34xi9wY",
-        "title": "Коты-Воители: Огонь и лёд",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:50",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 8
         }
     }
 }
