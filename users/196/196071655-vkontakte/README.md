@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>21</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>22</sup>
 ---
 
 ## 2017
@@ -48,6 +48,10 @@
 
 
 ## 2014
+
+### Странник по звездам
+Джек Лондон
+
 
 ### Психопаты
 А. П. Чехлв

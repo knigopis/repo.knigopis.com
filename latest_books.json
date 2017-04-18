@@ -1,4 +1,16 @@
 {
+    "ec0A8tE56F": {
+        "id": "ec0A8tE56F",
+        "title": "Странник по звездам",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-18 11:01:21",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 22
+        }
+    },
     "snejCMLh1H": {
         "id": "snejCMLh1H",
         "title": "Психопаты",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 10
-        }
-    },
-    "GZg6ia5gKT": {
-        "id": "GZg6ia5gKT",
-        "title": "Коты-Воители: Стань диким!",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:55",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 9
         }
     }
 }
