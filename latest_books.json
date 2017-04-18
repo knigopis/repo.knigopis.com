@@ -1,4 +1,16 @@
 {
+    "gAX8ovRdDJ": {
+        "id": "gAX8ovRdDJ",
+        "title": "1984",
+        "author": "Джордж Оруел",
+        "notes": "",
+        "createdAt": "2017-04-18 09:07:52",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 3
+        }
+    },
     "r96XA_c0Og": {
         "id": "r96XA_c0Og",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 151
-        }
-    },
-    "Uo6qczyrnn": {
-        "id": "Uo6qczyrnn",
-        "title": "Пока мамы нет дома",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:46:42",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 150
         }
     }
 }
