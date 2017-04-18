@@ -1,4 +1,16 @@
 {
+    "myDfUqbXio": {
+        "id": "myDfUqbXio",
+        "title": "Драма на охоте",
+        "author": "А. По. Чехов",
+        "notes": "",
+        "createdAt": "2017-04-18 09:59:22",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 20
+        }
+    },
     "hmg1TrCR0R": {
         "id": "hmg1TrCR0R",
         "title": "Крестный отец",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 8
-        }
-    },
-    "nGabTeHTvB": {
-        "id": "nGabTeHTvB",
-        "title": "Коты-Воители: Лес секретов",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:44",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 7
         }
     }
 }
