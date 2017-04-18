@@ -1,4 +1,16 @@
 {
+    "_UzT6YU1nP": {
+        "id": "_UzT6YU1nP",
+        "title": "Кирза",
+        "author": "Вадим Чекунов",
+        "notes": "",
+        "createdAt": "2017-04-18 11:04:48",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 27
+        }
+    },
     "1XeAe7xzAl": {
         "id": "1XeAe7xzAl",
         "title": "Дело белки",
@@ -345,18 +357,6 @@
             "id": "17743905-vkontakte",
             "nickname": "d_eka",
             "booksCount": 1
-        }
-    },
-    "1NYweqQaGE": {
-        "id": "1NYweqQaGE",
-        "title": "Сто лет тому вперёд",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-04-17 17:03:51",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 14
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>26</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>27</sup>
 ---
 
 ## 2017
@@ -106,6 +106,10 @@
 
 
 ## 2012
+
+### Кирза
+Вадим Чекунов
+
 
 ### Дело белки
 Александр Даган
