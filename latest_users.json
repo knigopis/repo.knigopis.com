@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 0,
+        "updatedAt": "2017-04-18 09:05:21"
+    },
     "42152838-vkontakte": {
         "id": "42152838-vkontakte",
         "nickname": "viktory_91",
@@ -172,11 +178,5 @@
         "nickname": "umop_apisdn",
         "booksCount": 0,
         "updatedAt": "2017-04-11 23:22:27"
-    },
-    "201967417-vkontakte": {
-        "id": "201967417-vkontakte",
-        "nickname": "scarteslett",
-        "booksCount": 55,
-        "updatedAt": "2017-04-11 18:31:29"
     }
 }
