@@ -1,4 +1,16 @@
 {
+    "YhlcBWzT9H": {
+        "id": "YhlcBWzT9H",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-04-18 13:02:44",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 95
+        }
+    },
     "4q92ZhDoJZ": {
         "id": "4q92ZhDoJZ",
         "title": "Дубровский",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 5
-        }
-    },
-    "PjU1Ye8Clq": {
-        "id": "PjU1Ye8Clq",
-        "title": "Физика невозможного",
-        "author": "2014",
-        "notes": "",
-        "createdAt": "2017-04-18 09:08:21",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 4
         }
     }
 }

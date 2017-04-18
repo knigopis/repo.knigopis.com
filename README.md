@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>32</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>94</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 
 
-_18.04.2017 12:22:16_
+_18.04.2017 13:02:44_

@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 95,
+        "updatedAt": "2017-04-18 13:02:44"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -100,12 +106,6 @@
         "nickname": "Nikolaj",
         "booksCount": 0,
         "updatedAt": "2017-04-14 12:02:39"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 94,
-        "updatedAt": "2017-04-14 08:37:03"
     },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
