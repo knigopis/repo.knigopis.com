@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>28</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>29</sup>
 ---
 
 ## 2017
@@ -95,6 +95,10 @@
 
 
 ## 2013
+
+### День когда земля вскрикнула
+Артур Конан Дойл
+
 
 ### Страна Джунглей
 Кристофер Стюарт

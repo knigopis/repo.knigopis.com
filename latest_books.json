@@ -1,4 +1,16 @@
 {
+    "U9z-LEFHiN": {
+        "id": "U9z-LEFHiN",
+        "title": "День когда земля вскрикнула",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-04-18 12:18:57",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 29
+        }
+    },
     "cQ9raI868s": {
         "id": "cQ9raI868s",
         "title": "Страна Джунглей",
@@ -344,18 +356,6 @@
         "user": {
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
-            "booksCount": 1
-        }
-    },
-    "MpvFIbVxFw": {
-        "id": "MpvFIbVxFw",
-        "title": "Поселок",
-        "author": "Кир Булычев",
-        "notes": "",
-        "createdAt": "2017-04-18 07:01:18",
-        "user": {
-            "id": "42152838-vkontakte",
-            "nickname": "viktory_91",
             "booksCount": 1
         }
     }
