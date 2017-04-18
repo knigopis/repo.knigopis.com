@@ -1,4 +1,16 @@
 {
+    "lldMehLIry": {
+        "id": "lldMehLIry",
+        "title": "Путешествие к центру земли",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-04-18 09:06:32",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 1
+        }
+    },
     "MpvFIbVxFw": {
         "id": "MpvFIbVxFw",
         "title": "Поселок",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 149
-        }
-    },
-    "ouFSSm2WiR": {
-        "id": "ouFSSm2WiR",
-        "title": "Искусство выживания",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:46:19",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 148
         }
     }
 }
