@@ -1,4 +1,16 @@
 {
+    "x9m56v_AWn": {
+        "id": "x9m56v_AWn",
+        "title": "Зов Предков",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-18 09:11:28",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 9
+        }
+    },
     "wE9FMJ3CRZ": {
         "id": "wE9FMJ3CRZ",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 157
-        }
-    },
-    "ynCYRkohRB": {
-        "id": "ynCYRkohRB",
-        "title": "Мареновая роза",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:49:49",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 156
         }
     }
 }
