@@ -1,4 +1,16 @@
 {
+    "rfmjks00NX": {
+        "id": "rfmjks00NX",
+        "title": "10000 лье под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-04-18 09:47:17",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 17
+        }
+    },
     "ipd7aCbNX8": {
         "id": "ipd7aCbNX8",
         "title": "Таящийся у порога",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 4
-        }
-    },
-    "C4WTT01tMF": {
-        "id": "C4WTT01tMF",
-        "title": "Коты-Воители: Полночь",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-17 16:50:18",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 3
         }
     }
 }
