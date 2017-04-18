@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>6</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>7</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
 [d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 
 
-_18.04.2017 09:09:51_
+_18.04.2017 09:10:21_

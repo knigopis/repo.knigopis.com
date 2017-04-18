@@ -1,4 +1,16 @@
 {
+    "egtOj4LLBF": {
+        "id": "egtOj4LLBF",
+        "title": "Призраки",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-04-18 09:10:21",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 7
+        }
+    },
     "FhSGX9261Y": {
         "id": "FhSGX9261Y",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 155
-        }
-    },
-    "kmDZ2SjqWS": {
-        "id": "kmDZ2SjqWS",
-        "title": "Дорожные работы",
-        "author": "Стивен Кинг",
-        "notes": "под псевдонимом Ричард Бахман",
-        "createdAt": "2017-04-16 23:47:46",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 154
         }
     }
 }
