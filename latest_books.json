@@ -1,4 +1,16 @@
 {
+    "f_Hf2NkZ9u": {
+        "id": "f_Hf2NkZ9u",
+        "title": "Гарри Поттер",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-04-18 09:13:08",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 12
+        }
+    },
     "0KXoMUty8k": {
         "id": "0KXoMUty8k",
         "title": "Отцы и Дети",
@@ -344,18 +356,6 @@
         "user": {
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
-            "booksCount": 1
-        }
-    },
-    "5d_QtO5_lL": {
-        "id": "5d_QtO5_lL",
-        "title": "Обретение крыльев",
-        "author": "Сью Монк Кидд",
-        "notes": "",
-        "createdAt": "2017-04-17 05:10:02",
-        "user": {
-            "id": "11152548-vkontakte",
-            "nickname": "Оксана",
             "booksCount": 1
         }
     }
