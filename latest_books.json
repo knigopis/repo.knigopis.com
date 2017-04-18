@@ -1,4 +1,16 @@
 {
+    "xYrba1GDIO": {
+        "id": "xYrba1GDIO",
+        "title": "Марсианин",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2017-04-18 09:20:45",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 13
+        }
+    },
     "f_Hf2NkZ9u": {
         "id": "f_Hf2NkZ9u",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 2
-        }
-    },
-    "WWJ0jnc2b2": {
-        "id": "WWJ0jnc2b2",
-        "title": "«СТРАТЕГИЯ ЖИЗНИ»",
-        "author": "Клейтон Кристенсен, Джеймс Оллворт, Карен Диллон",
-        "notes": "",
-        "createdAt": "2017-04-17 15:28:13",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 1
         }
     }
 }
