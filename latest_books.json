@@ -1,4 +1,16 @@
 {
+    "r96XA_c0Og": {
+        "id": "r96XA_c0Og",
+        "title": "Таинственный остров",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-04-18 09:07:20",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 2
+        }
+    },
     "lldMehLIry": {
         "id": "lldMehLIry",
         "title": "Путешествие к центру земли",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 150
-        }
-    },
-    "2APmrk04Yo": {
-        "id": "2APmrk04Yo",
-        "title": "Грузовик дяди Отто",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:46:30",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 149
         }
     }
 }
