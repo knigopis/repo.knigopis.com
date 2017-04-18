@@ -1,7 +1,11 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>15</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>16</sup>
 ---
 
 ## 2017
+
+### Таящийся у порога
+Г. Ф. Лавкрафт
+
 
 ### Физика невозможного
 2014

@@ -1,4 +1,16 @@
 {
+    "ipd7aCbNX8": {
+        "id": "ipd7aCbNX8",
+        "title": "Таящийся у порога",
+        "author": "Г. Ф. Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-04-18 09:45:26",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 16
+        }
+    },
     "oPVy42pQzH": {
         "id": "oPVy42pQzH",
         "title": "Звонок",
@@ -341,18 +353,6 @@
         "author": "",
         "notes": "",
         "createdAt": "2017-04-17 16:50:18",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 3
-        }
-    },
-    "IfwrbRrXbW": {
-        "id": "IfwrbRrXbW",
-        "title": "Коты-Воители: Восход луны",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-04-17 16:49:34",
         "user": {
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
