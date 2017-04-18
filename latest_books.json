@@ -1,4 +1,16 @@
 {
+    "YwwFbXJqOq": {
+        "id": "YwwFbXJqOq",
+        "title": "Жизнь Пи",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2017-04-18 09:44:11",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 14
+        }
+    },
     "xYrba1GDIO": {
         "id": "xYrba1GDIO",
         "title": "Марсианин",
@@ -344,18 +356,6 @@
         "user": {
             "id": "145737651-vkontakte",
             "nickname": "alpha_number_one",
-            "booksCount": 2
-        }
-    },
-    "Uhf4YRqrfT": {
-        "id": "Uhf4YRqrfT",
-        "title": "«СОВЕТЫ ДРУГА. 11 УРОКОВ ПО ДОСТИЖЕНИЮ УСПЕХА»",
-        "author": "Энтони Роббинс",
-        "notes": "[Минск: Попурри, 2007] \nISBN 0-684-80056-X, 978-985-483-998-1",
-        "createdAt": "2017-04-17 15:29:22",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
             "booksCount": 2
         }
     }
