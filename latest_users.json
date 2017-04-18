@@ -1,4 +1,10 @@
 {
+    "42152838-vkontakte": {
+        "id": "42152838-vkontakte",
+        "nickname": "viktory_91",
+        "booksCount": 0,
+        "updatedAt": "2017-04-18 07:00:48"
+    },
     "17743905-vkontakte": {
         "id": "17743905-vkontakte",
         "nickname": "d_eka",
@@ -172,11 +178,5 @@
         "nickname": "scarteslett",
         "booksCount": 55,
         "updatedAt": "2017-04-11 18:31:29"
-    },
-    "113826235431340935361-google": {
-        "id": "113826235431340935361-google",
-        "nickname": "Lana8823",
-        "booksCount": 1,
-        "updatedAt": "2017-04-11 16:10:16"
     }
 }
