@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>29</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>30</sup>
 ---
 
 ## 2017
@@ -95,6 +95,10 @@
 
 
 ## 2013
+
+### Отравленный пояс
+Артур Конан Дойл
+
 
 ### День когда земля вскрикнула
 Артур Конан Дойл

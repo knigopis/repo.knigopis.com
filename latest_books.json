@@ -1,4 +1,16 @@
 {
+    "c4icWTi-nA": {
+        "id": "c4icWTi-nA",
+        "title": "Отравленный пояс",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-04-18 12:19:29",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 30
+        }
+    },
     "U9z-LEFHiN": {
         "id": "U9z-LEFHiN",
         "title": "День когда земля вскрикнула",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 2
-        }
-    },
-    "lldMehLIry": {
-        "id": "lldMehLIry",
-        "title": "Путешествие к центру земли",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-04-18 09:06:32",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 1
         }
     }
 }
