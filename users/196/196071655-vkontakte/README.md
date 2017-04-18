@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>27</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>28</sup>
 ---
 
 ## 2017
@@ -95,6 +95,10 @@
 
 
 ## 2013
+
+### Страна Джунглей
+Кристофер Стюарт
+
 
 ### Затерянный мир
 Артур Конан Дойл
