@@ -1,4 +1,16 @@
 {
+    "oPVy42pQzH": {
+        "id": "oPVy42pQzH",
+        "title": "Звонок",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2017-04-18 09:44:30",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 15
+        }
+    },
     "YwwFbXJqOq": {
         "id": "YwwFbXJqOq",
         "title": "Жизнь Пи",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 3
-        }
-    },
-    "L6NTG22S0m": {
-        "id": "L6NTG22S0m",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-17 16:48:44",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "alpha_number_one",
-            "booksCount": 2
         }
     }
 }
