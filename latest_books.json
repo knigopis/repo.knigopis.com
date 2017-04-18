@@ -1,4 +1,16 @@
 {
+    "4q92ZhDoJZ": {
+        "id": "4q92ZhDoJZ",
+        "title": "Дубровский",
+        "author": "А. С. Пушкин",
+        "notes": "",
+        "createdAt": "2017-04-18 12:22:16",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 32
+        }
+    },
     "bMuXb5z59F": {
         "id": "bMuXb5z59F",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 4
-        }
-    },
-    "gAX8ovRdDJ": {
-        "id": "gAX8ovRdDJ",
-        "title": "1984",
-        "author": "Джордж Оруел",
-        "notes": "",
-        "createdAt": "2017-04-18 09:07:52",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 3
         }
     }
 }

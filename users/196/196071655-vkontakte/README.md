@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>31</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>32</sup>
 ---
 
 ## 2017
@@ -122,6 +122,10 @@
 
 
 ## 2012
+
+### Дубровский
+А. С. Пушкин
+
 
 ### Кирза
 Вадим Чекунов
