@@ -1,4 +1,16 @@
 {
+    "FhSGX9261Y": {
+        "id": "FhSGX9261Y",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-04-18 09:09:51",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 6
+        }
+    },
     "1AAYw0PmhJ": {
         "id": "1AAYw0PmhJ",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 154
-        }
-    },
-    "HALyMSeYYk": {
-        "id": "HALyMSeYYk",
-        "title": "Пляска смерти",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-04-16 23:47:21",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 153
         }
     }
 }
