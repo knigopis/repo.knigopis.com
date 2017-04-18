@@ -1,4 +1,16 @@
 {
+    "1AAYw0PmhJ": {
+        "id": "1AAYw0PmhJ",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2017-04-18 09:09:14",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 5
+        }
+    },
     "PjU1Ye8Clq": {
         "id": "PjU1Ye8Clq",
         "title": "Физика невозможного",
@@ -345,18 +357,6 @@
             "id": "79282053-vkontakte",
             "nickname": "Victoria",
             "booksCount": 153
-        }
-    },
-    "m3OOsB4SK3": {
-        "id": "m3OOsB4SK3",
-        "title": "Пролив",
-        "author": "Стивен Кинг",
-        "notes": "Команда Скелетов",
-        "createdAt": "2017-04-16 23:47:03",
-        "user": {
-            "id": "79282053-vkontakte",
-            "nickname": "Victoria",
-            "booksCount": 152
         }
     }
 }
