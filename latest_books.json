@@ -1,4 +1,16 @@
 {
+    "NQVqjyvYWr": {
+        "id": "NQVqjyvYWr",
+        "title": "Мир Вальдиры \\ Кроу \\ 2. Суровые земли",
+        "author": "Дем Михайлов",
+        "notes": "",
+        "createdAt": "2017-04-19 07:31:54",
+        "user": {
+            "id": "101934994962487087520-google",
+            "nickname": "Gil",
+            "booksCount": 26
+        }
+    },
     "FwsrAhUlpB": {
         "id": "FwsrAhUlpB",
         "title": "Императорский безумец",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 55
-        }
-    },
-    "-DUBf34A5c": {
-        "id": "-DUBf34A5c",
-        "title": "Беглый Огонь",
-        "author": "Зорич А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:40:56",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 54
         }
     }
 }
