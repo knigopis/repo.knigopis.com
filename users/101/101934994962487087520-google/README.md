@@ -1,12 +1,7 @@
-# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>27</sup>
+# List of books read by [Gil](https://plus.google.com/u/0/101934994962487087520/)<sup>26</sup>
 ---
 
 ## 2017
-
-### Мир Вальдиры \ Кроу \ 1. Кроу
-Дем Михайлов
-> [2017-04-11] 
-
 
 ### Мир Вальдиры \ Кроу \ 1. Кроу
 Дем Михайлов
