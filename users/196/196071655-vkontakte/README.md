@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>50</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>51</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2010
+
+### Воины Зоны
+Бобл А.
+
 
 ### Контрольный выброс
 Ливадный А.

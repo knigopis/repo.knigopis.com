@@ -1,4 +1,16 @@
 {
+    "xjnJC1oY5e": {
+        "id": "xjnJC1oY5e",
+        "title": "Воины Зоны",
+        "author": "Бобл А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:39:13",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 51
+        }
+    },
     "no5-frrFIu": {
         "id": "no5-frrFIu",
         "title": "Контрольный выброс",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 23
-        }
-    },
-    "ec0A8tE56F": {
-        "id": "ec0A8tE56F",
-        "title": "Странник по звездам",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-04-18 11:01:21",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 22
         }
     }
 }
