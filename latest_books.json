@@ -1,4 +1,16 @@
 {
+    "yjr3Uw6nHX": {
+        "id": "yjr3Uw6nHX",
+        "title": "В зоне тумана",
+        "author": "Гравицкий А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:42:35",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 56
+        }
+    },
     "4QTeX6jGk_": {
         "id": "4QTeX6jGk_",
         "title": "Бумеранг",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 28
-        }
-    },
-    "_UzT6YU1nP": {
-        "id": "_UzT6YU1nP",
-        "title": "Кирза",
-        "author": "Вадим Чекунов",
-        "notes": "",
-        "createdAt": "2017-04-18 11:04:48",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 27
         }
     }
 }
