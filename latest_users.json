@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 517,
+        "updatedAt": "2017-04-19 11:35:12"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -28,12 +34,6 @@
         "nickname": "Gil",
         "booksCount": 27,
         "updatedAt": "2017-04-19 07:32:22"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 516,
-        "updatedAt": "2017-04-19 07:02:42"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",

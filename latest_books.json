@@ -1,4 +1,16 @@
 {
+    "8eaO5pb6T7": {
+        "id": "8eaO5pb6T7",
+        "title": "Деды",
+        "author": "Яан Кросс",
+        "notes": "",
+        "createdAt": "2017-04-19 11:35:12",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 517
+        }
+    },
     "QYxwCfep_j": {
         "id": "QYxwCfep_j",
         "title": "Коты-Воители: Рассвет",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 65
-        }
-    },
-    "KJjKPEciCz": {
-        "id": "KJjKPEciCz",
-        "title": "Полураспад",
-        "author": "Зорич А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:47:44",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 64
         }
     }
 }
