@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>67</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>68</sup>
 ---
 
 ## 2017
@@ -127,6 +127,10 @@
 
 
 ## 2012
+
+### Точка падения
+Бурнусов Ю.
+
 
 ### Сердце Дезертира
 Степанов А.
