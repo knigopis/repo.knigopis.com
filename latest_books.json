@@ -1,4 +1,16 @@
 {
+    "KtOK1ZA8gd": {
+        "id": "KtOK1ZA8gd",
+        "title": "Сердце Дезертира",
+        "author": "Степанов А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:49:34",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 67
+        }
+    },
     "bMicgvHFyv": {
         "id": "bMicgvHFyv",
         "title": "Хозяин Янтаря",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 38
-        }
-    },
-    "R5iu4auz_0": {
-        "id": "R5iu4auz_0",
-        "title": "Дом на болоте",
-        "author": "Калугин А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:25:42",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 37
         }
     }
 }
