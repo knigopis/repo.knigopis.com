@@ -1,4 +1,16 @@
 {
+    "SLwU60Lmf_": {
+        "id": "SLwU60Lmf_",
+        "title": "Пуля-Квант",
+        "author": "Бобл А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:52:51",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 70
+        }
+    },
     "1zrE4290BS": {
         "id": "1zrE4290BS",
         "title": "Слепое пятно",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 41
-        }
-    },
-    "aaRVMshYBv": {
-        "id": "aaRVMshYBv",
-        "title": "Линия огня",
-        "author": "Орехов В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:34:00",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 40
         }
     }
 }

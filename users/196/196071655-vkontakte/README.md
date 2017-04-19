@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>69</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>70</sup>
 ---
 
 ## 2017
@@ -127,6 +127,10 @@
 
 
 ## 2012
+
+### Пуля-Квант
+Бобл А.
+
 
 ### Слепое пятно
 Ночкин В.
