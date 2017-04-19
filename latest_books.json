@@ -1,4 +1,16 @@
 {
+    "Krr6jOhNOg": {
+        "id": "Krr6jOhNOg",
+        "title": "Пустые земли",
+        "author": "Калугин А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:39:24",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 52
+        }
+    },
     "xjnJC1oY5e": {
         "id": "xjnJC1oY5e",
         "title": "Воины Зоны",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 24
-        }
-    },
-    "LuVLDtKi3S": {
-        "id": "LuVLDtKi3S",
-        "title": "Зверобой",
-        "author": "Джеймс Фенимор Купер",
-        "notes": "",
-        "createdAt": "2017-04-18 11:02:07",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 23
         }
     }
 }
