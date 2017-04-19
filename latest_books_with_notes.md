@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
 * Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
-* Коты-Воители: Бушующая стихия ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
 
-_18.04.2017 09:49:03_
+_19.04.2017 11:06:26_

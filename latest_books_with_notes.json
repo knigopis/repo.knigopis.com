@@ -1,4 +1,16 @@
 {
+    "QYxwCfep_j": {
+        "id": "QYxwCfep_j",
+        "title": "Коты-Воители: Рассвет",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 9",
+        "createdAt": "2017-04-19 11:06:26",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 97
+        }
+    },
     "RHTYRvMsSg": {
         "id": "RHTYRvMsSg",
         "title": "Плохой отец",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 20
-        }
-    },
-    "nvDAM3mP3L": {
-        "id": "nvDAM3mP3L",
-        "title": "Коты-Воители: Бушующая стихия",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 4",
-        "createdAt": "2017-03-31 16:55:10",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 97
         }
     }
 }

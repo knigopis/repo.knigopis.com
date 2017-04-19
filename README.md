@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
+    > Цикл "Новое пророчество"
+    > Книга 9
+
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
     > отличный рассказ
 
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 8
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
-    > Концовка показалась мне довольно смазанной, но наводит на какие-то собственные размышления. Обилие названий брендов ввело меня в смятение, но потом стало понятно, к чему ведет автор. Это просто потребительство, которое ни к чему хорошему не приводит
 
 * Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Убийство в поместье Леттеров ~ [Йолант](users/104/104690883692185089260-google)<sup>103</sup>
 
-* Возвращение странницы ~ [Йолант](users/104/104690883692185089260-google)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>3</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
@@ -49,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>96</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 09:57:01_
+_19.04.2017 11:06:26_

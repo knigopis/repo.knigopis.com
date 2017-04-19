@@ -1,4 +1,16 @@
 {
+    "QYxwCfep_j": {
+        "id": "QYxwCfep_j",
+        "title": "Коты-Воители: Рассвет",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 9",
+        "createdAt": "2017-04-19 11:06:26",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 97
+        }
+    },
     "BTMBr03c36": {
         "id": "BTMBr03c36",
         "title": "Гарри Поттер и Дары Смерти",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 64
-        }
-    },
-    "3-P2pITZlH": {
-        "id": "3-P2pITZlH",
-        "title": "Полет кондора",
-        "author": "Лещенко В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:47:10",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 63
         }
     }
 }
