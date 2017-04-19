@@ -1,4 +1,16 @@
 {
+    "8nzBSLELoV": {
+        "id": "8nzBSLELoV",
+        "title": "Прятки на осевой",
+        "author": "Васильев В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:56:37",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 77
+        }
+    },
     "PagKMZ1Iuu": {
         "id": "PagKMZ1Iuu",
         "title": "Монохром",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 48
-        }
-    },
-    "In5pQCNjOs": {
-        "id": "In5pQCNjOs",
-        "title": "Чистое небо",
-        "author": "Сборник",
-        "notes": "",
-        "createdAt": "2017-04-19 06:37:20",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 47
         }
     }
 }

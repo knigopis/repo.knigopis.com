@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>76</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>77</sup>
 ---
 
 ## 2017
@@ -127,6 +127,10 @@
 
 
 ## 2012
+
+### Прятки на осевой
+Васильев В.
+
 
 ### Монохром
 Палий С.
