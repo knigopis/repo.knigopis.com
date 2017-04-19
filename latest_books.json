@@ -1,4 +1,16 @@
 {
+    "tVBjZW9Rsj": {
+        "id": "tVBjZW9Rsj",
+        "title": "Дезертир",
+        "author": "Степанов А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:07:26",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 36
+        }
+    },
     "E999y-tGmY": {
         "id": "E999y-tGmY",
         "title": "Зона поражения",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 9
-        }
-    },
-    "wE9FMJ3CRZ": {
-        "id": "wE9FMJ3CRZ",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-04-18 09:11:09",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 8
         }
     }
 }
