@@ -1,4 +1,10 @@
 {
+    "20460190-vkontakte": {
+        "id": "20460190-vkontakte",
+        "nickname": "A_B_C",
+        "booksCount": 0,
+        "updatedAt": "2017-04-19 07:37:36"
+    },
     "101934994962487087520-google": {
         "id": "101934994962487087520-google",
         "nickname": "Gil",
@@ -172,11 +178,5 @@
         "nickname": "Lazy Alex",
         "booksCount": 5,
         "updatedAt": "2017-04-12 18:43:14"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 46,
-        "updatedAt": "2017-04-12 14:55:08"
     }
 }
