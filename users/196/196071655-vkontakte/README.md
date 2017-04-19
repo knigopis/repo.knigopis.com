@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>84</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>85</sup>
 ---
 
 ## 2017
@@ -127,6 +127,9 @@
 
 
 ## 2012
+
+### Гарри Поттер и Кубок Огня
+
 
 ### Гарри Поттер и Узник Азкабана
 
