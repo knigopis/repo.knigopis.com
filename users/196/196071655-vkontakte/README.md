@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>57</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>58</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Зов Припяти
+Сборник
+
 
 ### Горизонт Событий
 Недоруб С.

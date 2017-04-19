@@ -1,4 +1,16 @@
 {
+    "YcAy-sj2YD": {
+        "id": "YcAy-sj2YD",
+        "title": "Зов Припяти",
+        "author": "Сборник",
+        "notes": "",
+        "createdAt": "2017-04-19 06:43:48",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 58
+        }
+    },
     "0oHCdVBfxi": {
         "id": "0oHCdVBfxi",
         "title": "Горизонт Событий",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 30
-        }
-    },
-    "U9z-LEFHiN": {
-        "id": "U9z-LEFHiN",
-        "title": "День когда земля вскрикнула",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-04-18 12:18:57",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 29
         }
     }
 }
