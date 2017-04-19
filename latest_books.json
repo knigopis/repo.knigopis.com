@@ -1,4 +1,16 @@
 {
+    "hvOrJfnwaJ": {
+        "id": "hvOrJfnwaJ",
+        "title": "Свинцовый закат",
+        "author": "Глушков Р.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:38:13",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 49
+        }
+    },
     "JkPlgcPtGE": {
         "id": "JkPlgcPtGE",
         "title": "Тринадцатый сектор",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 21
-        }
-    },
-    "myDfUqbXio": {
-        "id": "myDfUqbXio",
-        "title": "Драма на охоте",
-        "author": "А. По. Чехов",
-        "notes": "",
-        "createdAt": "2017-04-18 09:59:22",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 20
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>48</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>49</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2010
+
+### Свинцовый закат
+Глушков Р.
+
 
 ### Тринадцатый сектор
 Шалыгин В.
