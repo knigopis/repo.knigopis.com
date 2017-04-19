@@ -1,4 +1,16 @@
 {
+    "Wn2k72iH_U": {
+        "id": "Wn2k72iH_U",
+        "title": "Каратели",
+        "author": "Шакилов А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:44:53",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 60
+        }
+    },
     "yJSk5Xc2gM": {
         "id": "yJSk5Xc2gM",
         "title": "Игра в поддавки",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 32
-        }
-    },
-    "bMuXb5z59F": {
-        "id": "bMuXb5z59F",
-        "title": "Евгений Онегин",
-        "author": "А. С. Пушкин",
-        "notes": "",
-        "createdAt": "2017-04-18 12:21:48",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 31
         }
     }
 }

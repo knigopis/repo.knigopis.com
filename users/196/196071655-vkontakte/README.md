@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>59</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>60</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Каратели
+Шакилов А.
+
 
 ### Игра в поддавки
 Митич А.
