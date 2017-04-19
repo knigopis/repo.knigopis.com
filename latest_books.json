@@ -1,4 +1,16 @@
 {
+    "yJSk5Xc2gM": {
+        "id": "yJSk5Xc2gM",
+        "title": "Игра в поддавки",
+        "author": "Митич А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:44:32",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 59
+        }
+    },
     "YcAy-sj2YD": {
         "id": "YcAy-sj2YD",
         "title": "Зов Припяти",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 31
-        }
-    },
-    "c4icWTi-nA": {
-        "id": "c4icWTi-nA",
-        "title": "Отравленный пояс",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-04-18 12:19:29",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 30
         }
     }
 }
