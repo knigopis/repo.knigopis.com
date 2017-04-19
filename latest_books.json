@@ -1,4 +1,16 @@
 {
+    "JkPlgcPtGE": {
+        "id": "JkPlgcPtGE",
+        "title": "Тринадцатый сектор",
+        "author": "Шалыгин В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:37:49",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 48
+        }
+    },
     "In5pQCNjOs": {
         "id": "In5pQCNjOs",
         "title": "Чистое небо",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 20
-        }
-    },
-    "hmg1TrCR0R": {
-        "id": "hmg1TrCR0R",
-        "title": "Крестный отец",
-        "author": "Марио Пьюзо",
-        "notes": "",
-        "createdAt": "2017-04-18 09:55:22",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 19
         }
     }
 }

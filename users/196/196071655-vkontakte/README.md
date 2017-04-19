@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>47</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>48</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2010
+
+### Тринадцатый сектор
+Шалыгин В.
+
 
 ### Чистое небо
 Сборник
