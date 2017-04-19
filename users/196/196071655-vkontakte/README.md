@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>71</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>72</sup>
 ---
 
 ## 2017
@@ -127,6 +127,10 @@
 
 
 ## 2012
+
+### Связаные Зоной
+Ежи Тумановский, Роман Куликов
+
 
 ### Змеёныш
 Левицкий А., Жаков Л.
