@@ -1,4 +1,10 @@
 {
+    "101934994962487087520-google": {
+        "id": "101934994962487087520-google",
+        "nickname": "Gil",
+        "booksCount": 26,
+        "updatedAt": "2017-04-19 07:31:28"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -100,12 +106,6 @@
         "nickname": "kotik_i_tortik",
         "booksCount": 0,
         "updatedAt": "2017-04-14 13:10:40"
-    },
-    "101934994962487087520-google": {
-        "id": "101934994962487087520-google",
-        "nickname": "Gil",
-        "booksCount": 27,
-        "updatedAt": "2017-04-14 13:08:56"
     },
     "1586184555042536-facebook": {
         "id": "1586184555042536-facebook",
