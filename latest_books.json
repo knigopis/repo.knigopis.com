@@ -1,4 +1,16 @@
 {
+    "8a3js9_SfM": {
+        "id": "8a3js9_SfM",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-19 15:42:37",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 21
+        }
+    },
     "LCq6KdbjEz": {
         "id": "LCq6KdbjEz",
         "title": "Важные годы",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 70
-        }
-    },
-    "1zrE4290BS": {
-        "id": "1zrE4290BS",
-        "title": "Слепое пятно",
-        "author": "Ночкин В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:52:32",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 69
         }
     }
 }
