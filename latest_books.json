@@ -1,4 +1,16 @@
 {
+    "mlzI3mlADz": {
+        "id": "mlzI3mlADz",
+        "title": "Гарри Поттер и Тайная комната",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-19 09:54:58",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 83
+        }
+    },
     "ElL0Ps1uRN": {
         "id": "ElL0Ps1uRN",
         "title": "«ПОЛНОТА ЧЕЛОВЕЧЕСКОЙ ЖИЗНИ»",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 58
-        }
-    },
-    "0oHCdVBfxi": {
-        "id": "0oHCdVBfxi",
-        "title": "Горизонт Событий",
-        "author": "Недоруб С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:43:16",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 57
         }
     }
 }

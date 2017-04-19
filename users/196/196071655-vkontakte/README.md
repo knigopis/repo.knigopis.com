@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>82</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>83</sup>
 ---
 
 ## 2017
@@ -127,6 +127,9 @@
 
 
 ## 2012
+
+### Гарри Поттер и Тайная комната
+
 
 ### Прятки на осевой
 Васильев В.

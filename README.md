@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>83</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>3</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>516</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>82</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 09:04:49_
+_19.04.2017 09:54:59_
