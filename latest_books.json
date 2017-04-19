@@ -1,4 +1,16 @@
 {
+    "KFJmwIRe74": {
+        "id": "KFJmwIRe74",
+        "title": "Тени Чернобыля",
+        "author": "Сборник",
+        "notes": "",
+        "createdAt": "2017-04-19 05:50:58",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 34
+        }
+    },
     "DhiI9LeQPC": {
         "id": "DhiI9LeQPC",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 7
-        }
-    },
-    "FhSGX9261Y": {
-        "id": "FhSGX9261Y",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-04-18 09:09:51",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 6
         }
     }
 }
