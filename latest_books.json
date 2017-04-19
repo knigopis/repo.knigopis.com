@@ -1,4 +1,16 @@
 {
+    "l3ZocPl3--": {
+        "id": "l3ZocPl3--",
+        "title": "Сектор обстрела",
+        "author": "Орехов В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:59:25",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 82
+        }
+    },
     "uy-dd8NCHt": {
         "id": "uy-dd8NCHt",
         "title": "Константа связи",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 53
-        }
-    },
-    "Krr6jOhNOg": {
-        "id": "Krr6jOhNOg",
-        "title": "Пустые земли",
-        "author": "Калугин А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:39:24",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 52
         }
     }
 }
