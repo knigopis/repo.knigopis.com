@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>38</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>39</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Мечта на поражение
+Калугин А.
+
 
 ### Обратный отсчет
 Шалыгин В.
