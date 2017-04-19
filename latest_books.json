@@ -1,4 +1,16 @@
 {
+    "uy-dd8NCHt": {
+        "id": "uy-dd8NCHt",
+        "title": "Константа связи",
+        "author": "Слюсаренко С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:59:01",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 81
+        }
+    },
     "4EkbUNtA43": {
         "id": "4EkbUNtA43",
         "title": "Охотники за счастьем",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 52
-        }
-    },
-    "xjnJC1oY5e": {
-        "id": "xjnJC1oY5e",
-        "title": "Воины Зоны",
-        "author": "Бобл А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:39:13",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 51
         }
     }
 }

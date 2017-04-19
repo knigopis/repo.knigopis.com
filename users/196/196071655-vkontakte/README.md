@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>80</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>81</sup>
 ---
 
 ## 2017
@@ -198,6 +198,10 @@
 
 
 ## 2011
+
+### Константа связи
+Слюсаренко С.
+
 
 ### Охотники за счастьем
 Вороненко А.
