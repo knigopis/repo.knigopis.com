@@ -1,4 +1,16 @@
 {
+    "KJjKPEciCz": {
+        "id": "KJjKPEciCz",
+        "title": "Полураспад",
+        "author": "Зорич А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:47:44",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 64
+        }
+    },
     "3-P2pITZlH": {
         "id": "3-P2pITZlH",
         "title": "Полет кондора",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 35
-        }
-    },
-    "KFJmwIRe74": {
-        "id": "KFJmwIRe74",
-        "title": "Тени Чернобыля",
-        "author": "Сборник",
-        "notes": "",
-        "createdAt": "2017-04-19 05:50:58",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 34
         }
     }
 }
