@@ -1,4 +1,16 @@
 {
+    "EXQMxS8rHa": {
+        "id": "EXQMxS8rHa",
+        "title": "Выбор оружия",
+        "author": "Левицкий А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:34:33",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 41
+        }
+    },
     "aaRVMshYBv": {
         "id": "aaRVMshYBv",
         "title": "Линия огня",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 14
-        }
-    },
-    "xYrba1GDIO": {
-        "id": "xYrba1GDIO",
-        "title": "Марсианин",
-        "author": "-",
-        "notes": "",
-        "createdAt": "2017-04-18 09:20:45",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 13
         }
     }
 }

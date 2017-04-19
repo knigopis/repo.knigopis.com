@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>40</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>41</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Выбор оружия
+Левицкий А.
+
 
 ### Линия огня
 Орехов В.
