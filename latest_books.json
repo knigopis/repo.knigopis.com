@@ -1,4 +1,16 @@
 {
+    "no5-frrFIu": {
+        "id": "no5-frrFIu",
+        "title": "Контрольный выброс",
+        "author": "Ливадный А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:38:44",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 50
+        }
+    },
     "hvOrJfnwaJ": {
         "id": "hvOrJfnwaJ",
         "title": "Свинцовый закат",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 22
-        }
-    },
-    "snejCMLh1H": {
-        "id": "snejCMLh1H",
-        "title": "Психопаты",
-        "author": "А. П. Чехлв",
-        "notes": "",
-        "createdAt": "2017-04-18 09:59:49",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 21
         }
     }
 }
