@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 * Сёгун. Книга 3 ~ [Garka](users/115/115753719718250012620-google)<sup>140</sup>
 * Доказательство силы ~ [Chiffi](users/105/105831994080785626680-google)<sup>8</sup>
-* Донские рассказы ~ [mfevralev](users/140/140966150-vkontakte)<sup>20</sup>
 
 
-_19.04.2017 11:06:26_
+_19.04.2017 19:14:14_

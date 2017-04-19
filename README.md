@@ -5,6 +5,21 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
+    > 6 Храм в Саркеле в 808
+    > стр 76 10 пгк 24 ушел
+    > стр 118 занятие казаками Сальских степей
+    > стр 140 казачья реформа 1801
+    > стр 142 война 1812
+    > стр 151 война кавказкая
+    > стр 160 война в Польше 1830
+    > стр 170 реформа в войске 1835
+    > стр 173 Крымская война
+    > стр 183 Ставрапольск край
+    > стр 189 война на Балканах 1835
+    > стр 195 казачий семейный уклад
+    > стр 203 название газет на Дону
+
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
     > Цикл "Новое пророчество"
     > Книга 9
@@ -13,8 +28,6 @@ Do not use pull requests to make changes here.
     > отличный рассказ
 
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
-    > Цикл "Новое пророчество"
-    > Книга 8
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
 
@@ -28,13 +41,12 @@ Do not use pull requests to make changes here.
 
 * Светящееся пятно ~ [Йолант](users/104/104690883692185089260-google)<sup>104</sup>
 
-* Убийство в поместье Леттеров ~ [Йолант](users/104/104690883692185089260-google)<sup>103</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>519</sup> 
@@ -64,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 [Художник](users/100/100004984741055-facebook)<sup>1</sup> 
-[hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
 
 
-_19.04.2017 17:46:18_
+_19.04.2017 19:14:14_
