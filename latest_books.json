@@ -1,4 +1,16 @@
 {
+    "iE52EQHpi8": {
+        "id": "iE52EQHpi8",
+        "title": "Сердце Зоны",
+        "author": "Левицкий А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:34:58",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 42
+        }
+    },
     "EXQMxS8rHa": {
         "id": "EXQMxS8rHa",
         "title": "Выбор оружия",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 15
-        }
-    },
-    "YwwFbXJqOq": {
-        "id": "YwwFbXJqOq",
-        "title": "Жизнь Пи",
-        "author": "-",
-        "notes": "",
-        "createdAt": "2017-04-18 09:44:11",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 14
         }
     }
 }
