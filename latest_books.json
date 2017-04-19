@@ -1,4 +1,16 @@
 {
+    "bMicgvHFyv": {
+        "id": "bMicgvHFyv",
+        "title": "Хозяин Янтаря",
+        "author": "Шакилов А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:48:45",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 66
+        }
+    },
     "7wdmj-TxNC": {
         "id": "7wdmj-TxNC",
         "title": "Сага Смерти: Мгла",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 37
-        }
-    },
-    "tVBjZW9Rsj": {
-        "id": "tVBjZW9Rsj",
-        "title": "Дезертир",
-        "author": "Степанов А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:07:26",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 36
         }
     }
 }

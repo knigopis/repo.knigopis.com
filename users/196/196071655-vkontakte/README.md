@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>65</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>66</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Хозяин Янтаря
+Шакилов А.
+
 
 ### Сага Смерти: Мгла
 Левицкий А.
