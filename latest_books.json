@@ -1,4 +1,16 @@
 {
+    "0oHCdVBfxi": {
+        "id": "0oHCdVBfxi",
+        "title": "Горизонт Событий",
+        "author": "Недоруб С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:43:16",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 57
+        }
+    },
     "yjr3Uw6nHX": {
         "id": "yjr3Uw6nHX",
         "title": "В зоне тумана",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 29
-        }
-    },
-    "cQ9raI868s": {
-        "id": "cQ9raI868s",
-        "title": "Страна Джунглей",
-        "author": "Кристофер Стюарт",
-        "notes": "",
-        "createdAt": "2017-04-18 11:05:26",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 28
         }
     }
 }

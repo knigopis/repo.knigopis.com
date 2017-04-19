@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>56</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>57</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Горизонт Событий
+Недоруб С.
+
 
 ### В зоне тумана
 Гравицкий А.
