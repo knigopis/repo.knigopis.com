@@ -1,4 +1,16 @@
 {
+    "Eeudk-UPMv": {
+        "id": "Eeudk-UPMv",
+        "title": "Гарри Поттер и Принц полукровка",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-19 09:56:43",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 87
+        }
+    },
     "LsfTdWoLM5": {
         "id": "LsfTdWoLM5",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 62
-        }
-    },
-    "0lPllTUS3p": {
-        "id": "0lPllTUS3p",
-        "title": "Кубатура сферы",
-        "author": "Слюсаренко С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:45:24",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 61
         }
     }
 }

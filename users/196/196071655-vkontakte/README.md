@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>86</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>87</sup>
 ---
 
 ## 2017
@@ -127,6 +127,9 @@
 
 
 ## 2012
+
+### Гарри Поттер и Принц полукровка
+
 
 ### Гарри Поттер и Орден Феникса
 
