@@ -1,4 +1,16 @@
 {
+    "ZbWs9HEhwz": {
+        "id": "ZbWs9HEhwz",
+        "title": "Пищевая цепочка",
+        "author": "Ночкин В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:55:07",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 74
+        }
+    },
     "9r2gezCRhb": {
         "id": "9r2gezCRhb",
         "title": "Тайна Полтергейста",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 45
-        }
-    },
-    "0zupZurtfB": {
-        "id": "0zupZurtfB",
-        "title": "Черный Ангел",
-        "author": "Шалыгин В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:36:01",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 44
         }
     }
 }
