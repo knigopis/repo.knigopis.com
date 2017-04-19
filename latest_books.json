@@ -1,4 +1,16 @@
 {
+    "GoV208Y6rv": {
+        "id": "GoV208Y6rv",
+        "title": "Охотники на мутантов",
+        "author": "Левицкий А., Жаков Л.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:40:01",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 53
+        }
+    },
     "Krr6jOhNOg": {
         "id": "Krr6jOhNOg",
         "title": "Пустые земли",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 25
-        }
-    },
-    "rq5mW1hGxj": {
-        "id": "rq5mW1hGxj",
-        "title": "Затерянный мир",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-04-18 11:02:54",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 24
         }
     }
 }
