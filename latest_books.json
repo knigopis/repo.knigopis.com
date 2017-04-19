@@ -1,4 +1,16 @@
 {
+    "zmb8Ae-LtU": {
+        "id": "zmb8Ae-LtU",
+        "title": "Змеёныш",
+        "author": "Левицкий А., Жаков Л.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:53:11",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 71
+        }
+    },
     "SLwU60Lmf_": {
         "id": "SLwU60Lmf_",
         "title": "Пуля-Квант",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 42
-        }
-    },
-    "EXQMxS8rHa": {
-        "id": "EXQMxS8rHa",
-        "title": "Выбор оружия",
-        "author": "Левицкий А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:34:33",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 41
         }
     }
 }
