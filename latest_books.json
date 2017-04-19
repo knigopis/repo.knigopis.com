@@ -1,4 +1,16 @@
 {
+    "7wdmj-TxNC": {
+        "id": "7wdmj-TxNC",
+        "title": "Сага Смерти: Мгла",
+        "author": "Левицкий А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:48:24",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 65
+        }
+    },
     "KJjKPEciCz": {
         "id": "KJjKPEciCz",
         "title": "Полураспад",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 36
-        }
-    },
-    "E999y-tGmY": {
-        "id": "E999y-tGmY",
-        "title": "Зона поражения",
-        "author": "Орехов В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:06:59",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 35
         }
     }
 }
