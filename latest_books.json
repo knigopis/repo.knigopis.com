@@ -1,4 +1,16 @@
 {
+    "1zrE4290BS": {
+        "id": "1zrE4290BS",
+        "title": "Слепое пятно",
+        "author": "Ночкин В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:52:32",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 69
+        }
+    },
     "lHDJW2sACY": {
         "id": "lHDJW2sACY",
         "title": "Точка падения",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 40
-        }
-    },
-    "7wNEhYt6Bv": {
-        "id": "7wNEhYt6Bv",
-        "title": "Мечта на поражение",
-        "author": "Калугин А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:33:23",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 39
         }
     }
 }
