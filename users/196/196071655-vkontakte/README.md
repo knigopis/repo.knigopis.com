@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>44</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>45</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Эпицентр удачи
+Янковский Д.
+
 
 ### Черный Ангел
 Шалыгин В.
