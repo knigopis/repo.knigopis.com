@@ -1,4 +1,16 @@
 {
+    "9r2gezCRhb": {
+        "id": "9r2gezCRhb",
+        "title": "Тайна Полтергейста",
+        "author": "Ночкин В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:54:34",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 73
+        }
+    },
     "DHefOHaf8P": {
         "id": "DHefOHaf8P",
         "title": "Связаные Зоной",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 44
-        }
-    },
-    "g_hmlsFE7P": {
-        "id": "g_hmlsFE7P",
-        "title": "Холодная кровь",
-        "author": "Глушков Р.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:35:34",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 43
         }
     }
 }
