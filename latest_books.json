@@ -1,4 +1,16 @@
 {
+    "-DUBf34A5c": {
+        "id": "-DUBf34A5c",
+        "title": "Беглый Огонь",
+        "author": "Зорич А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:40:56",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 54
+        }
+    },
     "GoV208Y6rv": {
         "id": "GoV208Y6rv",
         "title": "Охотники на мутантов",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 26
-        }
-    },
-    "EVZ8I-0EPj": {
-        "id": "EVZ8I-0EPj",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2017-04-18 11:03:47",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 25
         }
     }
 }
