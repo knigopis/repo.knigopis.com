@@ -1,4 +1,16 @@
 {
+    "FwsrAhUlpB": {
+        "id": "FwsrAhUlpB",
+        "title": "Императорский безумец",
+        "author": "Яан Кросс",
+        "notes": "",
+        "createdAt": "2017-04-19 07:02:42",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 516
+        }
+    },
     "l3ZocPl3--": {
         "id": "l3ZocPl3--",
         "title": "Сектор обстрела",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 54
-        }
-    },
-    "GoV208Y6rv": {
-        "id": "GoV208Y6rv",
-        "title": "Охотники на мутантов",
-        "author": "Левицкий А., Жаков Л.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:40:01",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 53
         }
     }
 }

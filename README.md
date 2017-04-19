@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>516</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>82</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>46</sup> 
-[umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 
 
-_19.04.2017 06:59:25_
+_19.04.2017 07:02:43_
