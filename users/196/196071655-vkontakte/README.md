@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>62</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>63</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Полет кондора
+Лещенко В.
+
 
 ### Ловчий желаний
 Вольнов С.

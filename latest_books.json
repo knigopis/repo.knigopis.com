@@ -1,4 +1,16 @@
 {
+    "3-P2pITZlH": {
+        "id": "3-P2pITZlH",
+        "title": "Полет кондора",
+        "author": "Лещенко В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:47:10",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 63
+        }
+    },
     "2-SUXJdVW-": {
         "id": "2-SUXJdVW-",
         "title": "Ловчий желаний",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 34
-        }
-    },
-    "DhiI9LeQPC": {
-        "id": "DhiI9LeQPC",
-        "title": "Черновик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-04-18 19:35:14",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 33
         }
     }
 }
