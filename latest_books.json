@@ -1,4 +1,16 @@
 {
+    "EtUNhCuK5O": {
+        "id": "EtUNhCuK5O",
+        "title": "Моллой",
+        "author": "Сэмюэль Беккет",
+        "notes": "",
+        "createdAt": "2017-04-19 15:20:42",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 519
+        }
+    },
     "Q7jTdyCEUz": {
         "id": "Q7jTdyCEUz",
         "title": "Маленький Виппер",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 67
-        }
-    },
-    "bMicgvHFyv": {
-        "id": "bMicgvHFyv",
-        "title": "Хозяин Янтаря",
-        "author": "Шакилов А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:48:45",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 66
         }
     }
 }
