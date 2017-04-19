@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>42</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>43</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Холодная кровь
+Глушков Р.
+
 
 ### Сердце Зоны
 Левицкий А.
