@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>39</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>40</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Линия огня
+Орехов В.
+
 
 ### Мечта на поражение
 Калугин А.
