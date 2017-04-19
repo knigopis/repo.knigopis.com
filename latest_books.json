@@ -1,4 +1,16 @@
 {
+    "0zupZurtfB": {
+        "id": "0zupZurtfB",
+        "title": "Черный Ангел",
+        "author": "Шалыгин В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:36:01",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 44
+        }
+    },
     "g_hmlsFE7P": {
         "id": "g_hmlsFE7P",
         "title": "Холодная кровь",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 17
-        }
-    },
-    "ipd7aCbNX8": {
-        "id": "ipd7aCbNX8",
-        "title": "Таящийся у порога",
-        "author": "Г. Ф. Лавкрафт",
-        "notes": "",
-        "createdAt": "2017-04-18 09:45:26",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 16
         }
     }
 }
