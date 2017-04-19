@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>54</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>55</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2011
+
+### Бумеранг
+Палий С.
+
 
 ### Беглый Огонь
 Зорич А.

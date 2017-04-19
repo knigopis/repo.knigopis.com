@@ -1,4 +1,16 @@
 {
+    "4QTeX6jGk_": {
+        "id": "4QTeX6jGk_",
+        "title": "Бумеранг",
+        "author": "Палий С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:42:12",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 55
+        }
+    },
     "-DUBf34A5c": {
         "id": "-DUBf34A5c",
         "title": "Беглый Огонь",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 27
-        }
-    },
-    "1XeAe7xzAl": {
-        "id": "1XeAe7xzAl",
-        "title": "Дело белки",
-        "author": "Александр Даган",
-        "notes": "",
-        "createdAt": "2017-04-18 11:04:27",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 26
         }
     }
 }
