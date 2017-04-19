@@ -1,4 +1,16 @@
 {
+    "wdfFjLbKOC": {
+        "id": "wdfFjLbKOC",
+        "title": "Лунь",
+        "author": "Клочков С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:55:49",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 75
+        }
+    },
     "ZbWs9HEhwz": {
         "id": "ZbWs9HEhwz",
         "title": "Пищевая цепочка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 46
-        }
-    },
-    "ck_Kc2Jvx7": {
-        "id": "ck_Kc2Jvx7",
-        "title": "Эпицентр удачи",
-        "author": "Янковский Д.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:36:30",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 45
         }
     }
 }
