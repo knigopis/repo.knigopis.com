@@ -1,4 +1,16 @@
 {
+    "BTMBr03c36": {
+        "id": "BTMBr03c36",
+        "title": "Гарри Поттер и Дары Смерти",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-19 09:57:01",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 88
+        }
+    },
     "Eeudk-UPMv": {
         "id": "Eeudk-UPMv",
         "title": "Гарри Поттер и Принц полукровка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 63
-        }
-    },
-    "2-SUXJdVW-": {
-        "id": "2-SUXJdVW-",
-        "title": "Ловчий желаний",
-        "author": "Вольнов С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:46:06",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 62
         }
     }
 }

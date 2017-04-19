@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>87</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>3</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 09:56:43_
+_19.04.2017 09:57:01_

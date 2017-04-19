@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>87</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>88</sup>
 ---
 
 ## 2017
@@ -127,6 +127,9 @@
 
 
 ## 2012
+
+### Гарри Поттер и Дары Смерти
+
 
 ### Гарри Поттер и Принц полукровка
 
