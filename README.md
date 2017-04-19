@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>519</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>9</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
 
 
-_19.04.2017 15:43:53_
+_19.04.2017 17:46:18_
