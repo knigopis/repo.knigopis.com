@@ -1,4 +1,16 @@
 {
+    "4WDkqxu9l5": {
+        "id": "4WDkqxu9l5",
+        "title": "Христос приземлился в Гродно",
+        "author": "Владимир Короткевич",
+        "notes": "",
+        "createdAt": "2017-04-19 15:43:53",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 23
+        }
+    },
     "5iGyOpBfSw": {
         "id": "5iGyOpBfSw",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 72
-        }
-    },
-    "zmb8Ae-LtU": {
-        "id": "zmb8Ae-LtU",
-        "title": "Змеёныш",
-        "author": "Левицкий А., Жаков Л.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:53:11",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 71
         }
     }
 }

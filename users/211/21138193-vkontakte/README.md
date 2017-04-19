@@ -1,7 +1,12 @@
-# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>22</sup>
+# List of books read by [dimapropolsky](http://vk.com/id21138193)<sup>23</sup>
 ---
 
 ## 2017
+
+### Христос приземлился в Гродно
+Владимир Короткевич
+> [2017-04-14] 
+
 
 ### Алхимик
 Пауло Коэльо
