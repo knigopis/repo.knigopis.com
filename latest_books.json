@@ -1,4 +1,16 @@
 {
+    "4EkbUNtA43": {
+        "id": "4EkbUNtA43",
+        "title": "Охотники за счастьем",
+        "author": "Вороненко А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:58:08",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 80
+        }
+    },
     "Tq-X2ibr-J": {
         "id": "Tq-X2ibr-J",
         "title": "Зачистка",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 51
-        }
-    },
-    "no5-frrFIu": {
-        "id": "no5-frrFIu",
-        "title": "Контрольный выброс",
-        "author": "Ливадный А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:38:44",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 50
         }
     }
 }
