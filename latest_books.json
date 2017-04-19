@@ -1,4 +1,16 @@
 {
+    "Q7jTdyCEUz": {
+        "id": "Q7jTdyCEUz",
+        "title": "Маленький Виппер",
+        "author": "Яан Кросс",
+        "notes": "",
+        "createdAt": "2017-04-19 11:35:28",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 518
+        }
+    },
     "8eaO5pb6T7": {
         "id": "8eaO5pb6T7",
         "title": "Деды",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 66
-        }
-    },
-    "7wdmj-TxNC": {
-        "id": "7wdmj-TxNC",
-        "title": "Сага Смерти: Мгла",
-        "author": "Левицкий А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:48:24",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 65
         }
     }
 }

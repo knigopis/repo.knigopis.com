@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/205/20565064-vkontakte)<sup>517</sup> 
+[Janet](users/205/20565064-vkontakte)<sup>518</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>3</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 11:35:13_
+_19.04.2017 11:35:28_
