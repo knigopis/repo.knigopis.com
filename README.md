@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>3</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>516</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>2</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 07:37:36_
+_19.04.2017 09:04:49_

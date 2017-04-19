@@ -1,4 +1,10 @@
 {
+    "423302481-vkontakte": {
+        "id": "423302481-vkontakte",
+        "nickname": "vladimir_balykov_ua",
+        "booksCount": 3,
+        "updatedAt": "2017-04-19 09:04:49"
+    },
     "20460190-vkontakte": {
         "id": "20460190-vkontakte",
         "nickname": "A_B_C",
@@ -64,12 +70,6 @@
         "nickname": "olioshko",
         "booksCount": 0,
         "updatedAt": "2017-04-17 16:56:44"
-    },
-    "423302481-vkontakte": {
-        "id": "423302481-vkontakte",
-        "nickname": "vladimir_balykov_ua",
-        "booksCount": 2,
-        "updatedAt": "2017-04-17 15:29:22"
     },
     "11152548-vkontakte": {
         "id": "11152548-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "ElL0Ps1uRN": {
+        "id": "ElL0Ps1uRN",
+        "title": "«ПОЛНОТА ЧЕЛОВЕЧЕСКОЙ ЖИЗНИ»",
+        "author": "Джон Пауэлл",
+        "notes": "[М.: Общедоступный православный университет, «Дом Марии», 1993] \nISBN 5-854499-004-0",
+        "createdAt": "2017-04-19 09:04:49",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 3
+        }
+    },
     "9KqalHI0tJ": {
         "id": "9KqalHI0tJ",
         "title": "Мир Вальдиры \\ Сточные воды Альгоры \\ 1. Сточные воды Альгоры",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 57
-        }
-    },
-    "yjr3Uw6nHX": {
-        "id": "yjr3Uw6nHX",
-        "title": "В зоне тумана",
-        "author": "Гравицкий А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:42:35",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 56
         }
     }
 }
