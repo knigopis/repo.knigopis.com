@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>61</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>62</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [umop_apisdn](users/164/16458319-vkontakte)<sup>0</sup> 
 
 
-_19.04.2017 06:45:24_
+_19.04.2017 06:46:06_

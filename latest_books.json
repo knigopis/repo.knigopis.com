@@ -1,4 +1,16 @@
 {
+    "2-SUXJdVW-": {
+        "id": "2-SUXJdVW-",
+        "title": "Ловчий желаний",
+        "author": "Вольнов С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:46:06",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 62
+        }
+    },
     "0lPllTUS3p": {
         "id": "0lPllTUS3p",
         "title": "Кубатура сферы",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 33
-        }
-    },
-    "YhlcBWzT9H": {
-        "id": "YhlcBWzT9H",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-04-18 13:02:44",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 95
         }
     }
 }
