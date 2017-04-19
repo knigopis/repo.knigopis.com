@@ -1,4 +1,16 @@
 {
+    "R5iu4auz_0": {
+        "id": "R5iu4auz_0",
+        "title": "Дом на болоте",
+        "author": "Калугин А.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:25:42",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 37
+        }
+    },
     "tVBjZW9Rsj": {
         "id": "tVBjZW9Rsj",
         "title": "Дезертир",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 10
-        }
-    },
-    "x9m56v_AWn": {
-        "id": "x9m56v_AWn",
-        "title": "Зов Предков",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-04-18 09:11:28",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 9
         }
     }
 }
