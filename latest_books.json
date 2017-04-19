@@ -1,4 +1,16 @@
 {
+    "E999y-tGmY": {
+        "id": "E999y-tGmY",
+        "title": "Зона поражения",
+        "author": "Орехов В.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:06:59",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 35
+        }
+    },
     "KFJmwIRe74": {
         "id": "KFJmwIRe74",
         "title": "Тени Чернобыля",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 8
-        }
-    },
-    "egtOj4LLBF": {
-        "id": "egtOj4LLBF",
-        "title": "Призраки",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-04-18 09:10:21",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 7
         }
     }
 }

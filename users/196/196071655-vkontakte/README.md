@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>34</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>35</sup>
 ---
 
 ## 2017
@@ -154,6 +154,10 @@
 
 
 ## 2009
+
+### Зона поражения
+Орехов В.
+
 
 ### Тени Чернобыля
 Сборник
