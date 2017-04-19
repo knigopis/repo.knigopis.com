@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>77</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>78</sup>
 ---
 
 ## 2017
@@ -198,6 +198,10 @@
 
 
 ## 2011
+
+### Клад Стервятника
+Зорич А., Челяев С.
+
 
 ### Хозяин Янтаря
 Шакилов А.

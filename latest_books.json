@@ -1,4 +1,16 @@
 {
+    "VKZCCh-RUI": {
+        "id": "VKZCCh-RUI",
+        "title": "Клад Стервятника",
+        "author": "Зорич А., Челяев С.",
+        "notes": "",
+        "createdAt": "2017-04-19 06:57:13",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 78
+        }
+    },
     "8nzBSLELoV": {
         "id": "8nzBSLELoV",
         "title": "Прятки на осевой",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 49
-        }
-    },
-    "JkPlgcPtGE": {
-        "id": "JkPlgcPtGE",
-        "title": "Тринадцатый сектор",
-        "author": "Шалыгин В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:37:49",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 48
         }
     }
 }
