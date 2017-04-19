@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dimapropolsky](users/211/21138193-vkontakte)<sup>19</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>519</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 [Художник](users/100/100004984741055-facebook)<sup>1</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>5</sup> 
-[Lazy Alex](users/113/113945124059684992236-google)<sup>5</sup> 
 
 
-_19.04.2017 15:20:42_
+_19.04.2017 15:41:32_

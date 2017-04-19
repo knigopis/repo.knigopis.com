@@ -1,4 +1,16 @@
 {
+    "aGLWP-qyw1": {
+        "id": "aGLWP-qyw1",
+        "title": "Марсианин",
+        "author": "Энди Вейер",
+        "notes": "",
+        "createdAt": "2017-04-19 15:41:32",
+        "user": {
+            "id": "21138193-vkontakte",
+            "nickname": "dimapropolsky",
+            "booksCount": 19
+        }
+    },
     "EtUNhCuK5O": {
         "id": "EtUNhCuK5O",
         "title": "Моллой",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 68
-        }
-    },
-    "KtOK1ZA8gd": {
-        "id": "KtOK1ZA8gd",
-        "title": "Сердце Дезертира",
-        "author": "Степанов А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:49:34",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 67
         }
     }
 }
