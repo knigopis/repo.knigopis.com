@@ -1,4 +1,10 @@
 {
+    "7660958-vkontakte": {
+        "id": "7660958-vkontakte",
+        "nickname": "getoutaway",
+        "booksCount": 0,
+        "updatedAt": "2017-04-20 03:56:09"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "Анна Холмс ",
         "booksCount": 0,
         "updatedAt": "2017-04-13 07:01:52"
-    },
-    "100004984741055-facebook": {
-        "id": "100004984741055-facebook",
-        "nickname": "Художник",
-        "booksCount": 1,
-        "updatedAt": "2017-04-13 06:39:11"
     }
 }
