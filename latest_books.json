@@ -1,4 +1,16 @@
 {
+    "a47TraQC5l": {
+        "id": "a47TraQC5l",
+        "title": "Продавец обуви",
+        "author": "Фил Найт",
+        "notes": "",
+        "createdAt": "2017-04-20 03:56:56",
+        "user": {
+            "id": "7660958-vkontakte",
+            "nickname": "getoutaway",
+            "booksCount": 1
+        }
+    },
     "GGCXLjJeQc": {
         "id": "GGCXLjJeQc",
         "title": "Путь воинов христовых",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 75
-        }
-    },
-    "ZbWs9HEhwz": {
-        "id": "ZbWs9HEhwz",
-        "title": "Пищевая цепочка",
-        "author": "Ночкин В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:55:07",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 74
         }
     }
 }
