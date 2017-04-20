@@ -1,4 +1,16 @@
 {
+    "MYXDcBb6Gv": {
+        "id": "MYXDcBb6Gv",
+        "title": "Ожерелье Планет Ойкумены",
+        "author": "Урсула Ле Гуин",
+        "notes": "В процессе",
+        "createdAt": "2017-04-20 22:48:34",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 95
+        }
+    },
     "1d89N6C0kE": {
         "id": "1d89N6C0kE",
         "title": "«СКОРОСТЬ ДОВЕРИЯ. ТО, ЧТО МЕНЯЕТ ВСЁ»",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 77
-        }
-    },
-    "PagKMZ1Iuu": {
-        "id": "PagKMZ1Iuu",
-        "title": "Монохром",
-        "author": "Палий С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:56:08",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 76
         }
     }
 }

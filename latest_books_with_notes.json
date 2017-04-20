@@ -1,4 +1,16 @@
 {
+    "MYXDcBb6Gv": {
+        "id": "MYXDcBb6Gv",
+        "title": "Ожерелье Планет Ойкумены",
+        "author": "Урсула Ле Гуин",
+        "notes": "В процессе",
+        "createdAt": "2017-04-20 22:48:34",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 95
+        }
+    },
     "GGCXLjJeQc": {
         "id": "GGCXLjJeQc",
         "title": "Путь воинов христовых",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 140
-        }
-    },
-    "N0HNXCnbbO": {
-        "id": "N0HNXCnbbO",
-        "title": "Доказательство силы",
-        "author": "Панов Вадим",
-        "notes": "не самая лучшая  часть Тайного Города. Хотя,  про Ладогу (Лудяное и Ледовое побоище) было интересно",
-        "createdAt": "2017-04-01 15:10:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 8
         }
     }
 }

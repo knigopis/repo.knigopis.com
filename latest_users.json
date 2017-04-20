@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 95,
+        "updatedAt": "2017-04-20 22:48:34"
+    },
     "423302481-vkontakte": {
         "id": "423302481-vkontakte",
         "nickname": "vladimir_balykov_ua",
@@ -154,12 +160,6 @@
         "nickname": "Sergei",
         "booksCount": 0,
         "updatedAt": "2017-04-13 13:14:44"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 94,
-        "updatedAt": "2017-04-13 12:05:50"
     },
     "20364039-vkontakte": {
         "id": "20364039-vkontakte",

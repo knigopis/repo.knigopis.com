@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
+    > В процессе
+
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
     > 6 Храм в Саркеле в 808
     > стр 76 10 пгк 24 ушел
@@ -25,7 +28,6 @@ Do not use pull requests to make changes here.
     > Книга 9
 
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
-    > отличный рассказ
 
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 
@@ -39,13 +41,12 @@ Do not use pull requests to make changes here.
 
 * Кольцо вечности ~ [Йолант](users/104/104690883692185089260-google)<sup>105</sup>
 
-* Светящееся пятно ~ [Йолант](users/104/104690883692185089260-google)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>4</sup> 
 [getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
@@ -72,10 +73,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>94</sup> 
 [Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 
 
-_20.04.2017 08:06:38_
+_20.04.2017 22:48:35_
