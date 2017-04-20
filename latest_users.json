@@ -1,4 +1,10 @@
 {
+    "423302481-vkontakte": {
+        "id": "423302481-vkontakte",
+        "nickname": "vladimir_balykov_ua",
+        "booksCount": 4,
+        "updatedAt": "2017-04-20 08:06:38"
+    },
     "7660958-vkontakte": {
         "id": "7660958-vkontakte",
         "nickname": "getoutaway",
@@ -40,12 +46,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 88,
         "updatedAt": "2017-04-19 09:57:01"
-    },
-    "423302481-vkontakte": {
-        "id": "423302481-vkontakte",
-        "nickname": "vladimir_balykov_ua",
-        "booksCount": 3,
-        "updatedAt": "2017-04-19 09:04:49"
     },
     "20460190-vkontakte": {
         "id": "20460190-vkontakte",

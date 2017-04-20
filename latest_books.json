@@ -1,4 +1,16 @@
 {
+    "1d89N6C0kE": {
+        "id": "1d89N6C0kE",
+        "title": "«СКОРОСТЬ ДОВЕРИЯ. ТО, ЧТО МЕНЯЕТ ВСЁ»",
+        "author": "Стивен Кови мл., Ребекка Меррилл",
+        "notes": "[М.: Альпина Паблишер, 2010] \nISBN 978-5-9614-1040-2",
+        "createdAt": "2017-04-20 08:06:38",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 4
+        }
+    },
     "a47TraQC5l": {
         "id": "a47TraQC5l",
         "title": "Продавец обуви",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 76
-        }
-    },
-    "wdfFjLbKOC": {
-        "id": "wdfFjLbKOC",
-        "title": "Лунь",
-        "author": "Клочков С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:55:49",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 75
         }
     }
 }
