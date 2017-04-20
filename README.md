@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[getoutaway](users/766/7660958-vkontakte)<sup>0</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 [miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
-[Художник](users/100/100004984741055-facebook)<sup>1</sup> 
 
 
-_19.04.2017 19:14:14_
+_20.04.2017 03:56:12_
