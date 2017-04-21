@@ -1,4 +1,16 @@
 {
+    "tPqkDM2KqB": {
+        "id": "tPqkDM2KqB",
+        "title": "Долорес Клейборн",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-04-21 10:44:32",
+        "user": {
+            "id": "39077651-vkontakte",
+            "nickname": "evgenevnapoli",
+            "booksCount": 1
+        }
+    },
     "pmb7lPrFoP": {
         "id": "pmb7lPrFoP",
         "title": "Коты-Воители: Звёздный свет",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 80
-        }
-    },
-    "Tq-X2ibr-J": {
-        "id": "Tq-X2ibr-J",
-        "title": "Зачистка",
-        "author": "Гравицкий А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:57:39",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 79
         }
     }
 }
