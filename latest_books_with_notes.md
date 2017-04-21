@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 * Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
 * Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
-* Коты-Воители: Опасная тропа ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
 
-_21.04.2017 10:38:14_
+_21.04.2017 17:58:28_

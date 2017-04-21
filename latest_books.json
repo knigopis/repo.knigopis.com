@@ -1,4 +1,16 @@
 {
+    "sV9DXtK-2g": {
+        "id": "sV9DXtK-2g",
+        "title": "Ожерелье Королевы",
+        "author": "Александр Дюма",
+        "notes": "Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)\nБазир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)",
+        "createdAt": "2017-04-21 17:58:28",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 45
+        }
+    },
     "0EtKv9E2qT": {
         "id": "0EtKv9E2qT",
         "title": "Возлюби ближнего своего",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 82
-        }
-    },
-    "uy-dd8NCHt": {
-        "id": "uy-dd8NCHt",
-        "title": "Константа связи",
-        "author": "Слюсаренко С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:59:01",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 81
         }
     }
 }

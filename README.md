@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
+    > Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)
+    > Базир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)
+
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
     > Цикл "Новое пророчество"
     > Книга 10
@@ -13,19 +17,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
-    > 6 Храм в Саркеле в 808
-    > стр 76 10 пгк 24 ушел
-    > стр 118 занятие казаками Сальских степей
-    > стр 140 казачья реформа 1801
-    > стр 142 война 1812
-    > стр 151 война кавказкая
-    > стр 160 война в Польше 1830
-    > стр 170 реформа в войске 1835
-    > стр 173 Крымская война
-    > стр 183 Ставрапольск край
-    > стр 189 война на Балканах 1835
-    > стр 195 казачий семейный уклад
-    > стр 203 название газет на Дону
 
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
@@ -39,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Огненное колесо ~ [Йолант](users/104/104690883692185089260-google)<sup>108</sup>
 
-* Мисс Силвер приехала погостить ~ [Йолант](users/104/104690883692185089260-google)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>45</sup> 
 [Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
@@ -75,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
-[Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
 
 
-_21.04.2017 16:04:40_
+_21.04.2017 17:58:28_
