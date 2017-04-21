@@ -1,4 +1,16 @@
 {
+    "pmb7lPrFoP": {
+        "id": "pmb7lPrFoP",
+        "title": "Коты-Воители: Звёздный свет",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 10",
+        "createdAt": "2017-04-21 10:38:13",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 98
+        }
+    },
     "jQxXQvSghX": {
         "id": "jQxXQvSghX",
         "title": "Первый глоток пива и прочие мелкие радости жизни",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 79
-        }
-    },
-    "VKZCCh-RUI": {
-        "id": "VKZCCh-RUI",
-        "title": "Клад Стервятника",
-        "author": "Зорич А., Челяев С.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:57:13",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 78
         }
     }
 }

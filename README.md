@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
+    > Цикл "Новое пророчество"
+    > Книга 10
+
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
     > В процессе
 
@@ -24,8 +28,6 @@ Do not use pull requests to make changes here.
     > стр 203 название газет на Дону
 
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
-    > Цикл "Новое пророчество"
-    > Книга 9
 
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 
@@ -39,13 +41,12 @@ Do not use pull requests to make changes here.
 
 * Мисс Силвер приехала погостить ~ [Йолант](users/104/104690883692185089260-google)<sup>107</sup>
 
-* Кольцо вечности ~ [Йолант](users/104/104690883692185089260-google)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>520</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>4</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>97</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Анна Холмс ](users/114/114387294992022174503-google)<sup>0</sup> 
 
 
-_21.04.2017 09:17:22_
+_21.04.2017 10:38:14_
