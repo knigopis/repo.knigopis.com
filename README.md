@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>520</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
 [Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 [Alendiya](users/203/20364039-vkontakte)<sup>0</sup> 
-[miatka](users/351/35140437-vkontakte)<sup>6</sup> 
 
 
-_21.04.2017 11:24:47_
+_21.04.2017 16:04:40_
