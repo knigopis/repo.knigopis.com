@@ -1,4 +1,16 @@
 {
+    "0EtKv9E2qT": {
+        "id": "0EtKv9E2qT",
+        "title": "Возлюби ближнего своего",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-21 11:24:47",
+        "user": {
+            "id": "39077651-vkontakte",
+            "nickname": "evgenevnapoli",
+            "booksCount": 2
+        }
+    },
     "tPqkDM2KqB": {
         "id": "tPqkDM2KqB",
         "title": "Долорес Клейборн",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 81
-        }
-    },
-    "4EkbUNtA43": {
-        "id": "4EkbUNtA43",
-        "title": "Охотники за счастьем",
-        "author": "Вороненко А.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:58:08",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 80
         }
     }
 }
