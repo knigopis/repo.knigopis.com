@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>519</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>520</sup>
 ---
 
 ## 2017
+
+### Первый глоток пива и прочие мелкие радости жизни
+Филипп Делерм
+> [2017-04] 
+
 
 ### Моллой
 Сэмюэль Беккет
