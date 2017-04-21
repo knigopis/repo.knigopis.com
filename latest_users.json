@@ -1,4 +1,10 @@
 {
+    "38514219-vkontakte": {
+        "id": "38514219-vkontakte",
+        "nickname": "merkuts",
+        "booksCount": 0,
+        "updatedAt": "2017-04-21 20:28:22"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Койнов Александр",
         "booksCount": 19,
         "updatedAt": "2017-04-13 13:29:16"
-    },
-    "115838243207229578974-google": {
-        "id": "115838243207229578974-google",
-        "nickname": "Sergei",
-        "booksCount": 0,
-        "updatedAt": "2017-04-13 13:14:44"
     }
 }
