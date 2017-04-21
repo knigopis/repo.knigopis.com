@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>45</sup> 
 [Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>19</sup> 
-[Sergei](users/115/115838243207229578974-google)<sup>0</sup> 
 
 
-_21.04.2017 17:58:28_
+_21.04.2017 20:28:25_
