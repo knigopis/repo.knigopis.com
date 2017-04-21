@@ -1,4 +1,10 @@
 {
+    "39077651-vkontakte": {
+        "id": "39077651-vkontakte",
+        "nickname": "evgenevnapoli",
+        "booksCount": 0,
+        "updatedAt": "2017-04-21 10:43:24"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "miatka",
         "booksCount": 6,
         "updatedAt": "2017-04-13 07:15:24"
-    },
-    "114387294992022174503-google": {
-        "id": "114387294992022174503-google",
-        "nickname": "Анна Холмс ",
-        "booksCount": 0,
-        "updatedAt": "2017-04-13 07:01:52"
     }
 }
