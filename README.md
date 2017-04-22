@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Juniell](users/138/138380800-vkontakte)<sup>0</sup> 
 [Kiriko](users/103/103574531484841086587-google)<sup>0</sup> 
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>45</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>108</sup> 
 
 
-_21.04.2017 21:04:42_
+_22.04.2017 19:15:47_
