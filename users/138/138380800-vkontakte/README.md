@@ -1,4 +1,4 @@
-# List of books read by [Juniell](http://vk.com/id138380800)<sup>3</sup>
+# List of books read by [Juniell](http://vk.com/id138380800)<sup>2</sup>
 ---
 
 ## 2016
@@ -9,10 +9,6 @@
 
 
 ## 2015
-
-### "451 градус по Фаренгейту"
-Рэй Брэдбери
-
 
 ### "451 градус по Фаренгейту"
 Рэй Брэдбери
