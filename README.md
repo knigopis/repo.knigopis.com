@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Juniell](users/138/138380800-vkontakte)<sup>3</sup> 
+[Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
 [Kiriko](users/103/103574531484841086587-google)<sup>0</sup> 
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>45</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 
 
-_22.04.2017 19:18:20_
+_22.04.2017 19:18:24_
