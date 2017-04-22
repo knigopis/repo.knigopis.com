@@ -1,4 +1,16 @@
 {
+    "eV6a0rOn4D": {
+        "id": "eV6a0rOn4D",
+        "title": "\"Лавр\"",
+        "author": "Евгений Водолазкин",
+        "notes": "",
+        "createdAt": "2017-04-22 19:16:32",
+        "user": {
+            "id": "138380800-vkontakte",
+            "nickname": "Juniell",
+            "booksCount": 1
+        }
+    },
     "sV9DXtK-2g": {
         "id": "sV9DXtK-2g",
         "title": "Ожерелье Королевы",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 516
-        }
-    },
-    "l3ZocPl3--": {
-        "id": "l3ZocPl3--",
-        "title": "Сектор обстрела",
-        "author": "Орехов В.",
-        "notes": "",
-        "createdAt": "2017-04-19 06:59:25",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 82
         }
     }
 }
