@@ -1,4 +1,16 @@
 {
+    "KSNurHDn4c": {
+        "id": "KSNurHDn4c",
+        "title": "\"451 градус по Фаренгейту\"",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-04-22 19:18:06",
+        "user": {
+            "id": "138380800-vkontakte",
+            "nickname": "Juniell",
+            "booksCount": 4
+        }
+    },
     "eV6a0rOn4D": {
         "id": "eV6a0rOn4D",
         "title": "\"Лавр\"",
@@ -345,18 +357,6 @@
             "id": "101934994962487087520-google",
             "nickname": "Gil",
             "booksCount": 26
-        }
-    },
-    "FwsrAhUlpB": {
-        "id": "FwsrAhUlpB",
-        "title": "Императорский безумец",
-        "author": "Яан Кросс",
-        "notes": "",
-        "createdAt": "2017-04-19 07:02:42",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 516
         }
     }
 }
