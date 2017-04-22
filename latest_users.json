@@ -1,4 +1,10 @@
 {
+    "118295716267928844957-google": {
+        "id": "118295716267928844957-google",
+        "nickname": "corpse",
+        "booksCount": 0,
+        "updatedAt": "2017-04-22 20:27:57"
+    },
     "138380800-vkontakte": {
         "id": "138380800-vkontakte",
         "nickname": "Juniell",
@@ -172,11 +178,5 @@
         "nickname": "kotik_i_tortik",
         "booksCount": 0,
         "updatedAt": "2017-04-14 13:10:40"
-    },
-    "1586184555042536-facebook": {
-        "id": "1586184555042536-facebook",
-        "nickname": "Nikolaj",
-        "booksCount": 0,
-        "updatedAt": "2017-04-14 12:02:39"
     }
 }
