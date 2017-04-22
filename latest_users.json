@@ -1,4 +1,10 @@
 {
+    "138380800-vkontakte": {
+        "id": "138380800-vkontakte",
+        "nickname": "Juniell",
+        "booksCount": 0,
+        "updatedAt": "2017-04-22 19:15:44"
+    },
     "103574531484841086587-google": {
         "id": "103574531484841086587-google",
         "nickname": "Kiriko",
@@ -172,11 +178,5 @@
         "nickname": "Nikolaj",
         "booksCount": 0,
         "updatedAt": "2017-04-14 12:02:39"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 108,
-        "updatedAt": "2017-04-13 19:58:08"
     }
 }
