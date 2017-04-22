@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
 [Kiriko](users/103/103574531484841086587-google)<sup>0</sup> 
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 [kotik_i_tortik](users/228/228946117-vkontakte)<sup>0</sup> 
-[Nikolaj](users/158/1586184555042536-facebook)<sup>0</sup> 
 
 
-_22.04.2017 19:18:24_
+_22.04.2017 20:27:58_
