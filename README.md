@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
+    > Очень интересный взгляд на историю России. Теории выдвигаются не с пустого места, все подкреплено ссылками на исторические документы.
+
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
     > Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.
 
 * Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
-    > Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10
 
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 
-* Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
-[Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 
 
-_23.04.2017 09:49:47_
+_23.04.2017 14:31:50_

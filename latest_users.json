@@ -1,4 +1,16 @@
 {
+    "425258261-vkontakte": {
+        "id": "425258261-vkontakte",
+        "nickname": "Мелисса",
+        "booksCount": 0,
+        "updatedAt": "2017-04-23 15:33:30"
+    },
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 141,
+        "updatedAt": "2017-04-23 14:31:50"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -166,17 +178,5 @@
         "nickname": "olioshko",
         "booksCount": 0,
         "updatedAt": "2017-04-17 16:56:44"
-    },
-    "11152548-vkontakte": {
-        "id": "11152548-vkontakte",
-        "nickname": "Оксана",
-        "booksCount": 1,
-        "updatedAt": "2017-04-17 05:10:02"
-    },
-    "79282053-vkontakte": {
-        "id": "79282053-vkontakte",
-        "nickname": "Victoria",
-        "booksCount": 158,
-        "updatedAt": "2017-04-16 23:51:44"
     }
 }
