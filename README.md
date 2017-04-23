@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
-[Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 
 
-_23.04.2017 14:31:50_
+_23.04.2017 15:33:32_
