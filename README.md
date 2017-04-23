@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
-[Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 
 
-_23.04.2017 09:35:06_
+_23.04.2017 09:47:39_

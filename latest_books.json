@@ -1,4 +1,16 @@
 {
+    "kb6w8QgaCY": {
+        "id": "kb6w8QgaCY",
+        "title": "",
+        "author": "Джерома К. Джерома",
+        "notes": "",
+        "createdAt": "2017-04-23 09:47:39",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 28
+        }
+    },
     "Oyuar-awr-": {
         "id": "Oyuar-awr-",
         "title": "Гора звезды",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 85
-        }
-    },
-    "7O7un4HRt4": {
-        "id": "7O7un4HRt4",
-        "title": "Гарри Поттер и Узник Азкабана",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-19 09:55:27",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 84
         }
     }
 }
