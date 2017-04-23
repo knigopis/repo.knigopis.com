@@ -1,4 +1,16 @@
 {
+    "Vq40fK_SLR": {
+        "id": "Vq40fK_SLR",
+        "title": "На Луне",
+        "author": "Константин Циолковский",
+        "notes": "Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.",
+        "createdAt": "2017-04-23 09:23:53",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 29
+        }
+    },
     "EZaNTVyU6K": {
         "id": "EZaNTVyU6K",
         "title": "Красная звезда",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 83
-        }
-    },
-    "ElL0Ps1uRN": {
-        "id": "ElL0Ps1uRN",
-        "title": "«ПОЛНОТА ЧЕЛОВЕЧЕСКОЙ ЖИЗНИ»",
-        "author": "Джон Пауэлл",
-        "notes": "[М.: Общедоступный православный университет, «Дом Марии», 1993] \nISBN 5-854499-004-0",
-        "createdAt": "2017-04-19 09:04:49",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 3
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>28</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>29</sup>
 ---
 
 ## 2017
+
+### На Луне
+Константин Циолковский
+> [2017-04-16] Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.
+
 
 ### Красная звезда
 Александр Богданов

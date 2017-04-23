@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
+    > Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.
+
 * Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
     > Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Базир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)
 
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-    > Цикл "Новое пророчество"
-    > Книга 10
 
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
 
-* Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>28</sup> 
+[Derek777](users/153/15386028-yandex)<sup>29</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 
 
-_23.04.2017 09:07:11_
+_23.04.2017 09:23:53_
