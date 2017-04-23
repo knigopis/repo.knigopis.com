@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
+    > Книга о совести и христианской сущности русской души. О смысле жизни , аде , рае и Вере
+
 * Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
     > Очень интересный взгляд на историю России. Теории выдвигаются не с пустого места, все подкреплено ссылками на исторические документы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.
 
 * На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
-    > Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.
 
 * Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
-* Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
-[olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 
 
-_23.04.2017 15:49:20_
+_23.04.2017 17:06:10_

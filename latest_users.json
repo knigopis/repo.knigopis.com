@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 9,
+        "updatedAt": "2017-04-23 17:06:10"
+    },
     "423302481-vkontakte": {
         "id": "423302481-vkontakte",
         "nickname": "vladimir_balykov_ua",
@@ -172,11 +178,5 @@
         "nickname": "TryKote",
         "booksCount": 14,
         "updatedAt": "2017-04-17 17:03:51"
-    },
-    "96505467-vkontakte": {
-        "id": "96505467-vkontakte",
-        "nickname": "olioshko",
-        "booksCount": 0,
-        "updatedAt": "2017-04-17 16:56:44"
     }
 }

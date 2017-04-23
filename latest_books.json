@@ -1,4 +1,16 @@
 {
+    "tM2OvlFs2b": {
+        "id": "tM2OvlFs2b",
+        "title": "Братья Карамазовы",
+        "author": "Ф. Достоевский",
+        "notes": "Книга о совести и христианской сущности русской души. О смысле жизни , аде , рае и Вере",
+        "createdAt": "2017-04-23 17:06:10",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 9
+        }
+    },
     "-goC0DUl-v": {
         "id": "-goC0DUl-v",
         "title": "«ПЕРЕЛОМНЫЙ МОМЕНТ. КАК НЕЗНАЧИТЕЛЬНЫЕ ИЗМЕНЕНИЯ ПРИВОДЯТ К ГЛОБАЛЬНЫМ ПЕРЕМЕНАМ»",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 88
-        }
-    },
-    "Eeudk-UPMv": {
-        "id": "Eeudk-UPMv",
-        "title": "Гарри Поттер и Принц полукровка",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-19 09:56:43",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 87
         }
     }
 }
