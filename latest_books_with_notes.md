@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
 * Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 * Какое тебе дело о том, что думают другие ~ [Tr](users/122/12282474-vkontakte)<sup>44</sup>
-* Коты-Воители: Битва за лес ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
 
 
-_21.04.2017 17:58:28_
+_23.04.2017 09:07:11_

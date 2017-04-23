@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
+    > Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10
+
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
     > Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)
     > Базир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 10
 
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
-    > В процессе
 
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
 
-* Огненное колесо ~ [Йолант](users/104/104690883692185089260-google)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>28</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оксана](users/111/11152548-vkontakte)<sup>1</sup> 
 [Victoria](users/792/79282053-vkontakte)<sup>158</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
-[Euphoria](users/106/106304994652616315178-google)<sup>62</sup> 
 
 
-_22.04.2017 23:47:35_
+_23.04.2017 09:07:11_

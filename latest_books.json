@@ -1,4 +1,16 @@
 {
+    "EZaNTVyU6K": {
+        "id": "EZaNTVyU6K",
+        "title": "Красная звезда",
+        "author": "Александр богданов",
+        "notes": "Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10",
+        "createdAt": "2017-04-23 09:07:11",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 28
+        }
+    },
     "H4kQZyNy7D": {
         "id": "H4kQZyNy7D",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 3
-        }
-    },
-    "9KqalHI0tJ": {
-        "id": "9KqalHI0tJ",
-        "title": "Мир Вальдиры \\ Сточные воды Альгоры \\ 1. Сточные воды Альгоры",
-        "author": "Дем Михайлов",
-        "notes": "",
-        "createdAt": "2017-04-19 07:32:22",
-        "user": {
-            "id": "101934994962487087520-google",
-            "nickname": "Gil",
-            "booksCount": 27
         }
     }
 }

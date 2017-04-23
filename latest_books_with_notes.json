@@ -1,4 +1,16 @@
 {
+    "EZaNTVyU6K": {
+        "id": "EZaNTVyU6K",
+        "title": "Красная звезда",
+        "author": "Александр богданов",
+        "notes": "Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10",
+        "createdAt": "2017-04-23 09:07:11",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 28
+        }
+    },
     "sV9DXtK-2g": {
         "id": "sV9DXtK-2g",
         "title": "Ожерелье Королевы",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 44
-        }
-    },
-    "uPw1D-LNeZ": {
-        "id": "uPw1D-LNeZ",
-        "title": "Коты-Воители: Битва за лес",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Воители\"\nКнига 6",
-        "createdAt": "2017-04-08 20:25:02",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 99
         }
     }
 }
