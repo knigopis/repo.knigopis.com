@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
 * На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
 * Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Пуповина ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>44</sup>
 * Чужие пространства ~ [Tr](users/122/12282474-vkontakte)<sup>46</sup>
 * Коты-Воители: Полночь ~ [EsterHani](users/305/30558181-vkontakte)<sup>95</sup>
-* Марсианин ~ [Tr](users/122/12282474-vkontakte)<sup>45</sup>
 
 
-_23.04.2017 09:23:53_
+_23.04.2017 09:35:06_

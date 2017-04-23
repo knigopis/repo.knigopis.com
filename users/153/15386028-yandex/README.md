@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>29</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>30</sup>
 ---
 
 ## 2017
+
+### Гора звезды
+Валерий Брюсов
+> [2017-04-23] Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.
+
 
 ### На Луне
 Константин Циолковский

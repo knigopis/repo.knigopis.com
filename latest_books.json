@@ -1,4 +1,16 @@
 {
+    "Oyuar-awr-": {
+        "id": "Oyuar-awr-",
+        "title": "Гора звезды",
+        "author": "Валерий Брюсов",
+        "notes": "Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.",
+        "createdAt": "2017-04-23 09:35:06",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 30
+        }
+    },
     "Vq40fK_SLR": {
         "id": "Vq40fK_SLR",
         "title": "На Луне",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 84
-        }
-    },
-    "mlzI3mlADz": {
-        "id": "mlzI3mlADz",
-        "title": "Гарри Поттер и Тайная комната",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-19 09:54:58",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 83
         }
     }
 }

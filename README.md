@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
+    > Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.
+
 * На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
     > Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Марсианский коммунизм. сношение с марсианкой.революция на земле 1908. 4 из 10
 
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
-    > Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)
-    > Базир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)
 
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 
-*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>29</sup> 
+[Derek777](users/153/15386028-yandex)<sup>30</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>77</sup> 
 
 
-_23.04.2017 09:23:53_
+_23.04.2017 09:35:06_
