@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>520</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>4</sup> 
 [getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olioshko](users/965/96505467-vkontakte)<sup>0</sup> 
 
 
-_23.04.2017 15:33:32_
+_23.04.2017 15:49:20_
