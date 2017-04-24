@@ -1,4 +1,10 @@
 {
+    "104163471263700572245-google": {
+        "id": "104163471263700572245-google",
+        "nickname": "Savamoti",
+        "booksCount": 0,
+        "updatedAt": "2017-04-24 15:56:01"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "Neccochi",
         "booksCount": 45,
         "updatedAt": "2017-04-18 09:49:02"
-    },
-    "42152838-vkontakte": {
-        "id": "42152838-vkontakte",
-        "nickname": "viktory_91",
-        "booksCount": 1,
-        "updatedAt": "2017-04-18 07:01:18"
     }
 }
