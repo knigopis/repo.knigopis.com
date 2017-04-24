@@ -1,4 +1,16 @@
 {
+    "BlSbBDMWtq": {
+        "id": "BlSbBDMWtq",
+        "title": "Гамлет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-04-24 03:51:02",
+        "user": {
+            "id": "269147776-vkontakte",
+            "nickname": "anastasiavikernes",
+            "booksCount": 1
+        }
+    },
     "tM2OvlFs2b": {
         "id": "tM2OvlFs2b",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 97
-        }
-    },
-    "BTMBr03c36": {
-        "id": "BTMBr03c36",
-        "title": "Гарри Поттер и Дары Смерти",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-19 09:57:01",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 88
         }
     }
 }
