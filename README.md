@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Первая красотка в городе. ~ [Ангелина](users/837/83788782-vkontakte)<sup>51</sup>
+    > Господи, ну наконец-то я закончила читать его рассказы.2 месячный запой вместе с ним был как тяжек, так и прекрасен. 
+    > По одной книге в  год нужно читать, чтоб не спиться.
+
 * Коты-Воители: Сумеркм ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
     > Цикл "Новое пророчество"
     > Книга 11
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга о совести и христианской сущности русской души. О смысле жизни , аде , рае и Вере
 
 * Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
-    > Очень интересный взгляд на историю России. Теории выдвигаются не с пустого места, все подкреплено ссылками на исторические документы.
 
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
 
-* Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>522</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
@@ -63,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
-[d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 
 
-_24.04.2017 12:41:57_
+_24.04.2017 14:21:19_
