@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>522</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup> 
-[viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
 
 
-_24.04.2017 14:21:19_
+_24.04.2017 15:56:02_
