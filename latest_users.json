@@ -1,4 +1,10 @@
 {
+    "269147776-vkontakte": {
+        "id": "269147776-vkontakte",
+        "nickname": "anastasiavikernes",
+        "booksCount": 0,
+        "updatedAt": "2017-04-24 03:49:38"
+    },
     "3901448-vkontakte": {
         "id": "3901448-vkontakte",
         "nickname": "olegessenin",
@@ -172,11 +178,5 @@
         "nickname": "telenkov.ad",
         "booksCount": 0,
         "updatedAt": "2017-04-17 20:05:49"
-    },
-    "145737651-vkontakte": {
-        "id": "145737651-vkontakte",
-        "nickname": "TryKote",
-        "booksCount": 14,
-        "updatedAt": "2017-04-17 17:03:51"
     }
 }
