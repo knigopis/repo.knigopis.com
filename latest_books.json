@@ -1,4 +1,16 @@
 {
+    "rUgyv6gUQT": {
+        "id": "rUgyv6gUQT",
+        "title": "Осень в Петербурге",
+        "author": "Джозеф Максвел Кутзее",
+        "notes": "",
+        "createdAt": "2017-04-24 06:18:13",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 521
+        }
+    },
     "qwOR_AINOc": {
         "id": "qwOR_AINOc",
         "title": "Два Веронца",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 518
-        }
-    },
-    "8eaO5pb6T7": {
-        "id": "8eaO5pb6T7",
-        "title": "Деды",
-        "author": "Яан Кросс",
-        "notes": "",
-        "createdAt": "2017-04-19 11:35:12",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 517
         }
     }
 }
