@@ -1,4 +1,16 @@
 {
+    "qwOR_AINOc": {
+        "id": "qwOR_AINOc",
+        "title": "Два Веронца",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-04-24 03:52:10",
+        "user": {
+            "id": "269147776-vkontakte",
+            "nickname": "anastasiavikernes",
+            "booksCount": 2
+        }
+    },
     "BlSbBDMWtq": {
         "id": "BlSbBDMWtq",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 517
-        }
-    },
-    "QYxwCfep_j": {
-        "id": "QYxwCfep_j",
-        "title": "Коты-Воители: Рассвет",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 9",
-        "createdAt": "2017-04-19 11:06:26",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 97
         }
     }
 }
