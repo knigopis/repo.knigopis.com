@@ -1,4 +1,16 @@
 {
+    "Y74ibW_UMJ": {
+        "id": "Y74ibW_UMJ",
+        "title": "Коты-Воители: Сумеркм",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 11",
+        "createdAt": "2017-04-24 10:49:16",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 99
+        }
+    },
     "rUgyv6gUQT": {
         "id": "rUgyv6gUQT",
         "title": "Осень в Петербурге",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 519
-        }
-    },
-    "Q7jTdyCEUz": {
-        "id": "Q7jTdyCEUz",
-        "title": "Маленький Виппер",
-        "author": "Яан Кросс",
-        "notes": "",
-        "createdAt": "2017-04-19 11:35:28",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 518
         }
     }
 }

@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>98</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>99</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Сумеркм
+Эрин Хантер
+> Цикл "Новое пророчество"
+> Книга 11
+
 
 ### Коты-Воители: Звёздный свет
 Эрин Хантер

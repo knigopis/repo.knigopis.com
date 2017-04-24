@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Сумеркм ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
+    > Цикл "Новое пророчество"
+    > Книга 11
+
 * Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
     > Книга о совести и христианской сущности русской души. О смысле жизни , аде , рае и Вере
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Очень интересный взгляд на историю России. Теории выдвигаются не с пустого места, все подкреплено ссылками на исторические документы.
 
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
-    > Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.
 
 * На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
 
-* Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>521</sup> 
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
@@ -49,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>45</sup> 
 [Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>98</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
 [getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 
 
-_24.04.2017 06:18:13_
+_24.04.2017 10:49:16_
