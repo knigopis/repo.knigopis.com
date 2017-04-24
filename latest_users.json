@@ -1,4 +1,10 @@
 {
+    "19482065-yandex": {
+        "id": "19482065-yandex",
+        "nickname": "duzorg",
+        "booksCount": 0,
+        "updatedAt": "2017-04-24 12:41:56"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "d_eka",
         "booksCount": 1,
         "updatedAt": "2017-04-18 06:22:48"
-    },
-    "198055405-yandex": {
-        "id": "198055405-yandex",
-        "nickname": "telenkov.ad",
-        "booksCount": 0,
-        "updatedAt": "2017-04-17 20:05:49"
     }
 }
