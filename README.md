@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anastasiavikernes](users/269/269147776-vkontakte)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [viktory_91](users/421/42152838-vkontakte)<sup>1</sup> 
 [d_eka](users/177/17743905-vkontakte)<sup>1</sup> 
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
-[TryKote](users/145/145737651-vkontakte)<sup>14</sup> 
 
 
-_23.04.2017 17:06:10_
+_24.04.2017 03:49:40_
