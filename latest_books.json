@@ -1,4 +1,16 @@
 {
+    "ds9yUmFcYO": {
+        "id": "ds9yUmFcYO",
+        "title": "Глаза голубой собаки",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2017-04-24 11:22:29",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 522
+        }
+    },
     "Y74ibW_UMJ": {
         "id": "Y74ibW_UMJ",
         "title": "Коты-Воители: Сумеркм",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 19
-        }
-    },
-    "EtUNhCuK5O": {
-        "id": "EtUNhCuK5O",
-        "title": "Моллой",
-        "author": "Сэмюэль Беккет",
-        "notes": "",
-        "createdAt": "2017-04-19 15:20:42",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 519
         }
     }
 }

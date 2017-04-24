@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>522</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>521</sup> 
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [telenkov.ad](users/198/198055405-yandex)<sup>0</sup> 
 
 
-_24.04.2017 10:49:16_
+_24.04.2017 11:22:30_

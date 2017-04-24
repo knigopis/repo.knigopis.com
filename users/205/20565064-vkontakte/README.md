@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>521</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>522</sup>
 ---
 
 ## 2017
+
+### Глаза голубой собаки
+Габриэль Гарсиа Маркес
+> [2017-04] 
+
 
 ### Осень в Петербурге
 Джозеф Максвел Кутзее
