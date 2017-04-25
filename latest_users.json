@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 113,
+        "updatedAt": "2017-04-25 10:51:25"
+    },
     "104163471263700572245-google": {
         "id": "104163471263700572245-google",
         "nickname": "Savamoti",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 95,
         "updatedAt": "2017-04-18 13:02:44"
-    },
-    "12601720503917094896-mailru": {
-        "id": "12601720503917094896-mailru",
-        "nickname": "Neccochi",
-        "booksCount": 45,
-        "updatedAt": "2017-04-18 09:49:02"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "NdSPbQ7XIr": {
+        "id": "NdSPbQ7XIr",
+        "title": "Милые кости",
+        "author": "Элис Сиболд",
+        "notes": "",
+        "createdAt": "2017-04-25 10:51:25",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 113
+        }
+    },
     "lqjokc_vnG": {
         "id": "lqjokc_vnG",
         "title": "Первая красотка в городе.",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 21
-        }
-    },
-    "LCq6KdbjEz": {
-        "id": "LCq6KdbjEz",
-        "title": "Важные годы",
-        "author": "Мэг Джей",
-        "notes": "",
-        "createdAt": "2017-04-19 15:42:05",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 20
         }
     }
 }
