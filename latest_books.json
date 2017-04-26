@@ -1,4 +1,16 @@
 {
+    "R-WMjp3gyY": {
+        "id": "R-WMjp3gyY",
+        "title": "Passionate Programmer / Программист-фанатик (2015)",
+        "author": "Чед Фаулер",
+        "notes": "",
+        "createdAt": "2017-04-26 09:11:29",
+        "user": {
+            "id": "870467263091830-facebook",
+            "nickname": "djkkir",
+            "booksCount": 2
+        }
+    },
     "NgnJywmXLK": {
         "id": "NgnJywmXLK",
         "title": "Design Patterns via C#",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 10
-        }
-    },
-    "4WDkqxu9l5": {
-        "id": "4WDkqxu9l5",
-        "title": "Христос приземлился в Гродно",
-        "author": "Владимир Короткевич",
-        "notes": "",
-        "createdAt": "2017-04-19 15:43:53",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 23
         }
     }
 }
