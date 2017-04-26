@@ -1,4 +1,10 @@
 {
+    "783885219308986369-twitter": {
+        "id": "783885219308986369-twitter",
+        "nickname": "dashingmitchell",
+        "booksCount": 0,
+        "updatedAt": "2017-04-26 15:06:22"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 88,
         "updatedAt": "2017-04-19 09:57:01"
-    },
-    "20460190-vkontakte": {
-        "id": "20460190-vkontakte",
-        "nickname": "A_B_C",
-        "booksCount": 0,
-        "updatedAt": "2017-04-19 07:37:36"
     }
 }
