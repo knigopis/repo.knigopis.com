@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>523</sup> 
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>113</sup> 
 [Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>522</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
 
 
-_26.04.2017 06:37:25_
+_26.04.2017 08:07:06_

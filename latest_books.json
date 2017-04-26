@@ -1,4 +1,16 @@
 {
+    "x2kN9sB9-k": {
+        "id": "x2kN9sB9-k",
+        "title": "Внутренняя сторона ветра",
+        "author": "Милорад Павич",
+        "notes": "",
+        "createdAt": "2017-04-26 08:07:05",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 523
+        }
+    },
     "NdSPbQ7XIr": {
         "id": "NdSPbQ7XIr",
         "title": "Милые кости",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 22
-        }
-    },
-    "8a3js9_SfM": {
-        "id": "8a3js9_SfM",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-19 15:42:37",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 21
         }
     }
 }

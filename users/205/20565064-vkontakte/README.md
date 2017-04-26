@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>522</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>523</sup>
 ---
 
 ## 2017
+
+### Внутренняя сторона ветра
+Милорад Павич
+> [2017-04] 
+
 
 ### Глаза голубой собаки
 Габриэль Гарсиа Маркес
