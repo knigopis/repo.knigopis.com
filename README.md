@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>113</sup> 
 [Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>88</sup> 
 [A_B_C](users/204/20460190-vkontakte)<sup>0</sup> 
 [Gil](users/101/101934994962487087520-google)<sup>27</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>95</sup> 
 
 
-_25.04.2017 10:51:26_
+_26.04.2017 06:37:25_
