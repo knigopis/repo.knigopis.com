@@ -1,4 +1,16 @@
 {
+    "EExwO75AtV": {
+        "id": "EExwO75AtV",
+        "title": "Программирование под Android",
+        "author": "Брайан Харди, Билл Филлипс",
+        "notes": "",
+        "createdAt": "2017-04-26 09:14:17",
+        "user": {
+            "id": "870467263091830-facebook",
+            "nickname": "djkkir",
+            "booksCount": 3
+        }
+    },
     "R-WMjp3gyY": {
         "id": "R-WMjp3gyY",
         "title": "Passionate Programmer / Программист-фанатик (2015)",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 21
-        }
-    },
-    "RTD5dhPOUJ": {
-        "id": "RTD5dhPOUJ",
-        "title": "Гамбит Маккабрея",
-        "author": "Бонфильоли Кирил",
-        "notes": "",
-        "createdAt": "2017-04-19 17:46:18",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 10
         }
     }
 }

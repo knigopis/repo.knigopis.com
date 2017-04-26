@@ -1,5 +1,13 @@
-# List of books read by [djkkir](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>2</sup>
+# List of books read by [djkkir](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>3</sup>
 ---
+
+## 2017
+
+### Программирование под Android
+Брайан Харди, Билл Филлипс
+> [2017-01] 
+
+
 
 ## 2016
 
