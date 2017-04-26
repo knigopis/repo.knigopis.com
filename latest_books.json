@@ -1,4 +1,16 @@
 {
+    "NgnJywmXLK": {
+        "id": "NgnJywmXLK",
+        "title": "Design Patterns via C#",
+        "author": "Александор Шевчук...",
+        "notes": "",
+        "createdAt": "2017-04-26 09:09:06",
+        "user": {
+            "id": "870467263091830-facebook",
+            "nickname": "djkkir",
+            "booksCount": 1
+        }
+    },
     "x2kN9sB9-k": {
         "id": "x2kN9sB9-k",
         "title": "Внутренняя сторона ветра",
@@ -345,18 +357,6 @@
             "id": "21138193-vkontakte",
             "nickname": "dimapropolsky",
             "booksCount": 23
-        }
-    },
-    "5iGyOpBfSw": {
-        "id": "5iGyOpBfSw",
-        "title": "Алхимик",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2017-04-19 15:43:09",
-        "user": {
-            "id": "21138193-vkontakte",
-            "nickname": "dimapropolsky",
-            "booksCount": 22
         }
     }
 }
