@@ -1,4 +1,4 @@
-# List of books read by [djkkir](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>3</sup>
+# List of books read by [Kirill_Dodonov](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>4</sup>
 ---
 
 ## 2017
@@ -19,6 +19,14 @@
 ### Design Patterns via C#
 Александор Шевчук...
 > [2016-02-02] 
+
+
+
+## 2015
+
+### Thinking in Java (4th Edition)
+Bruce Eckel
+> [2015-06-01] 
 
 
 
