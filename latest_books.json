@@ -1,4 +1,16 @@
 {
+    "ALXBr-wm30": {
+        "id": "ALXBr-wm30",
+        "title": "Белая лошадь - горе не мое",
+        "author": "Наталья Соломко",
+        "notes": "",
+        "createdAt": "2017-04-26 13:44:11",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 524
+        }
+    },
     "dDV6Wowx78": {
         "id": "dDV6Wowx78",
         "title": "Thinking in Java (4th Edition)",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 4
-        }
-    },
-    "a47TraQC5l": {
-        "id": "a47TraQC5l",
-        "title": "Продавец обуви",
-        "author": "Фил Найт",
-        "notes": "",
-        "createdAt": "2017-04-20 03:56:56",
-        "user": {
-            "id": "7660958-vkontakte",
-            "nickname": "getoutaway",
-            "booksCount": 1
         }
     }
 }
