@@ -1,4 +1,10 @@
 {
+    "870467263091830-facebook": {
+        "id": "870467263091830-facebook",
+        "nickname": "djkkir",
+        "booksCount": 0,
+        "updatedAt": "2017-04-26 09:07:19"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "A_B_C",
         "booksCount": 0,
         "updatedAt": "2017-04-19 07:37:36"
-    },
-    "101934994962487087520-google": {
-        "id": "101934994962487087520-google",
-        "nickname": "Gil",
-        "booksCount": 27,
-        "updatedAt": "2017-04-19 07:32:22"
     }
 }
