@@ -1,4 +1,10 @@
 {
+    "100804790935781057955-google": {
+        "id": "100804790935781057955-google",
+        "nickname": "akornev79",
+        "booksCount": 0,
+        "updatedAt": "2017-04-26 06:37:23"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Gil",
         "booksCount": 27,
         "updatedAt": "2017-04-19 07:32:22"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 95,
-        "updatedAt": "2017-04-18 13:02:44"
     }
 }
