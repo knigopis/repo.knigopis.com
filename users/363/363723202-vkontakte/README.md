@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>67</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>68</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Три чашки чая
+Грег Мортенсон
+
 
 ### Почему мы хотим, чтобы вы были богатыми
 Кийосаки, Трамп
