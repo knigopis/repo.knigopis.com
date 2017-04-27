@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>78</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>79</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Открытое письмо молодому человеку о науке жить
+Андре Моруа
+
 
 ### Записки судмедэксперта
 ...
