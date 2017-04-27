@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>38</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>39</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Сердца трех
+Джек Лондон
+
 
 ### Гроздь гнева
 Джон Стейнбек
