@@ -1,4 +1,16 @@
 {
+    "pjooA3S6h9": {
+        "id": "pjooA3S6h9",
+        "title": "Время жить и время умирать",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 15:02:24",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 46
+        }
+    },
     "p49-4Yi_4H": {
         "id": "p49-4Yi_4H",
         "title": "Черный обелиск",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 17
-        }
-    },
-    "icToMF-zQs": {
-        "id": "icToMF-zQs",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-04-27 14:46:39",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 16
         }
     }
 }
