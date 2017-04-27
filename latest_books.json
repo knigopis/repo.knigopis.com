@@ -1,4 +1,16 @@
 {
+    "iBcvGcNksT": {
+        "id": "iBcvGcNksT",
+        "title": "Волоколамское шоссе",
+        "author": "Александр Бек",
+        "notes": "",
+        "createdAt": "2017-04-27 14:41:00",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 3
+        }
+    },
     "YQyI8Mo-p4": {
         "id": "YQyI8Mo-p4",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 28
-        }
-    },
-    "H4kQZyNy7D": {
-        "id": "H4kQZyNy7D",
-        "title": "",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2017-04-22 23:47:35",
-        "user": {
-            "id": "396788383-instagram",
-            "nickname": "romi.mi.mi",
-            "booksCount": 1
         }
     }
 }
