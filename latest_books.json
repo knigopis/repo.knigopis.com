@@ -1,4 +1,16 @@
 {
+    "nm-_-qB9h0": {
+        "id": "nm-_-qB9h0",
+        "title": "Книжный вор",
+        "author": "Зузак",
+        "notes": "",
+        "createdAt": "2017-04-27 14:53:38",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 28
+        }
+    },
     "5PsPlOjZK2": {
         "id": "5PsPlOjZK2",
         "title": "Тысяча сияющих солнц",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 100
-        }
-    },
-    "9RcBs_HYVe": {
-        "id": "9RcBs_HYVe",
-        "title": "Лекарство от смерти",
-        "author": "Д.Дэшнер",
-        "notes": "Концовка смазанная, хочется продолжения, если честно. И чувства главного героя, Томаса, так и остались для меня загадкой.",
-        "createdAt": "2017-04-27 08:35:40",
-        "user": {
-            "id": "37278708-vkontakte",
-            "nickname": "winna",
-            "booksCount": 5
         }
     }
 }
