@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>96</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>100</sup> 
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>10</sup> 
-[dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
 
 
-_27.04.2017 10:04:22_
+_27.04.2017 11:53:17_

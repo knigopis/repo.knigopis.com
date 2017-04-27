@@ -1,4 +1,16 @@
 {
+    "zNKf0sTD-j": {
+        "id": "zNKf0sTD-j",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-04-27 11:53:17",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 96
+        }
+    },
     "OJw386UoYz": {
         "id": "OJw386UoYz",
         "title": "Коты-Воители: Закат",
@@ -345,18 +357,6 @@
             "id": "138380800-vkontakte",
             "nickname": "Juniell",
             "booksCount": 1
-        }
-    },
-    "sV9DXtK-2g": {
-        "id": "sV9DXtK-2g",
-        "title": "Ожерелье Королевы",
-        "author": "Александр Дюма",
-        "notes": "Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)\nБазир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)",
-        "createdAt": "2017-04-21 17:58:28",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 45
         }
     }
 }
