@@ -1,4 +1,16 @@
 {
+    "itNTRouq-p": {
+        "id": "itNTRouq-p",
+        "title": "Униженные и оскорбленные",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-27 14:54:36",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 30
+        }
+    },
     "1JN_ZkJj_M": {
         "id": "1JN_ZkJj_M",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 1
-        }
-    },
-    "zNKf0sTD-j": {
-        "id": "zNKf0sTD-j",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-04-27 11:53:17",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 96
         }
     }
 }
