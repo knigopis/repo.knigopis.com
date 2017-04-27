@@ -1,4 +1,16 @@
 {
+    "snOhtss2mr": {
+        "id": "snOhtss2mr",
+        "title": "Маленькие женщины",
+        "author": "Луиза Мэй Олкотт",
+        "notes": "",
+        "createdAt": "2017-04-27 15:01:13",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 43
+        }
+    },
     "CzAIE5rKJm": {
         "id": "CzAIE5rKJm",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 14
-        }
-    },
-    "GRAduMTYuU": {
-        "id": "GRAduMTYuU",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-27 14:44:41",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 13
         }
     }
 }
