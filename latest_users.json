@@ -1,4 +1,10 @@
 {
+    "363723202-vkontakte": {
+        "id": "363723202-vkontakte",
+        "nickname": "Narik",
+        "booksCount": 0,
+        "updatedAt": "2017-04-27 14:35:36"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 21,
         "updatedAt": "2017-04-19 19:14:14"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 10,
-        "updatedAt": "2017-04-19 17:46:18"
     }
 }
