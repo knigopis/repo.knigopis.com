@@ -1,4 +1,16 @@
 {
+    "buG2Xoiy_W": {
+        "id": "buG2Xoiy_W",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 14:43:49",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 9
+        }
+    },
     "wEFaDljNme": {
         "id": "wEFaDljNme",
         "title": "Парфюмер. История одного убийцы",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 9
-        }
-    },
-    "-goC0DUl-v": {
-        "id": "-goC0DUl-v",
-        "title": "«ПЕРЕЛОМНЫЙ МОМЕНТ. КАК НЕЗНАЧИТЕЛЬНЫЕ ИЗМЕНЕНИЯ ПРИВОДЯТ К ГЛОБАЛЬНЫМ ПЕРЕМЕНАМ»",
-        "author": "Малкольм Гладуэлл",
-        "notes": "[М.: Альпина Паблишер, 2016] \nISBN 978-5-9614-5833-6",
-        "createdAt": "2017-04-23 15:49:20",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 5
         }
     }
 }
