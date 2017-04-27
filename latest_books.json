@@ -1,4 +1,16 @@
 {
+    "RJZNPAtjgb": {
+        "id": "RJZNPAtjgb",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 14:44:12",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 11
+        }
+    },
     "1L2KDLSKLQ": {
         "id": "1L2KDLSKLQ",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "269147776-vkontakte",
             "nickname": "anastasiavikernes",
             "booksCount": 2
-        }
-    },
-    "BlSbBDMWtq": {
-        "id": "BlSbBDMWtq",
-        "title": "Гамлет",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-04-24 03:51:02",
-        "user": {
-            "id": "269147776-vkontakte",
-            "nickname": "anastasiavikernes",
-            "booksCount": 1
         }
     }
 }
