@@ -1,4 +1,16 @@
 {
+    "pccAJRpwdO": {
+        "id": "pccAJRpwdO",
+        "title": "Голодные игры",
+        "author": "Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-27 15:13:17",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 73
+        }
+    },
     "7-36Q_haM1": {
         "id": "7-36Q_haM1",
         "title": "Чтец",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 44
-        }
-    },
-    "snOhtss2mr": {
-        "id": "snOhtss2mr",
-        "title": "Маленькие женщины",
-        "author": "Луиза Мэй Олкотт",
-        "notes": "",
-        "createdAt": "2017-04-27 15:01:13",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 43
         }
     }
 }
