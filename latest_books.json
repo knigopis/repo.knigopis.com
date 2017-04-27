@@ -1,4 +1,16 @@
 {
+    "yStVIIlyNV": {
+        "id": "yStVIIlyNV",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-04-27 14:45:20",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 14
+        }
+    },
     "GRAduMTYuU": {
         "id": "GRAduMTYuU",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 522
-        }
-    },
-    "Y74ibW_UMJ": {
-        "id": "Y74ibW_UMJ",
-        "title": "Коты-Воители: Сумеркм",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 11",
-        "createdAt": "2017-04-24 10:49:16",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 99
         }
     }
 }
