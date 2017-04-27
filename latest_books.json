@@ -1,4 +1,16 @@
 {
+    "xN8WKxP9wN": {
+        "id": "xN8WKxP9wN",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-04-27 14:46:51",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 17
+        }
+    },
     "icToMF-zQs": {
         "id": "icToMF-zQs",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 523
-        }
-    },
-    "NdSPbQ7XIr": {
-        "id": "NdSPbQ7XIr",
-        "title": "Милые кости",
-        "author": "Элис Сиболд",
-        "notes": "",
-        "createdAt": "2017-04-25 10:51:25",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 113
         }
     }
 }
