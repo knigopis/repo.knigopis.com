@@ -1,4 +1,16 @@
 {
+    "pOK6fM13Ty": {
+        "id": "pOK6fM13Ty",
+        "title": "О дивный новый мир",
+        "author": "Хаксли",
+        "notes": "",
+        "createdAt": "2017-04-27 14:47:10",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 18
+        }
+    },
     "xN8WKxP9wN": {
         "id": "xN8WKxP9wN",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "djkkir",
             "booksCount": 1
-        }
-    },
-    "x2kN9sB9-k": {
-        "id": "x2kN9sB9-k",
-        "title": "Внутренняя сторона ветра",
-        "author": "Милорад Павич",
-        "notes": "",
-        "createdAt": "2017-04-26 08:07:05",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 523
         }
     }
 }
