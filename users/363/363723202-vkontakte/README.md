@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>34</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>35</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Сто лет одиночества
+Габриэль Гарсия Маркес
+
 
 ### Бойцовский клуб
 Чак Паланик

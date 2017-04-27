@@ -1,4 +1,16 @@
 {
+    "3VNiwhd416": {
+        "id": "3VNiwhd416",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-04-27 14:56:27",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 35
+        }
+    },
     "FalBYxp7gX": {
         "id": "FalBYxp7gX",
         "title": "Искра жизни",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 6
-        }
-    },
-    "WIPCSShdm0": {
-        "id": "WIPCSShdm0",
-        "title": "Гарри Поттер",
-        "author": "Дж. К. Роулинг",
-        "notes": "",
-        "createdAt": "2017-04-27 14:42:12",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 5
         }
     }
 }
