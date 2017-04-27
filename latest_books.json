@@ -1,4 +1,16 @@
 {
+    "2ugszIMwEe": {
+        "id": "2ugszIMwEe",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбэри",
+        "notes": "",
+        "createdAt": "2017-04-27 14:48:08",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 19
+        }
+    },
     "pOK6fM13Ty": {
         "id": "pOK6fM13Ty",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "djkkir",
             "booksCount": 2
-        }
-    },
-    "NgnJywmXLK": {
-        "id": "NgnJywmXLK",
-        "title": "Design Patterns via C#",
-        "author": "Александор Шевчук...",
-        "notes": "",
-        "createdAt": "2017-04-26 09:09:06",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "djkkir",
-            "booksCount": 1
         }
     }
 }
