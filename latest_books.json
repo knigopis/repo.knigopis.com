@@ -1,4 +1,16 @@
 {
+    "4rTsQQvtk7": {
+        "id": "4rTsQQvtk7",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-27 14:50:33",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 20
+        }
+    },
     "2ugszIMwEe": {
         "id": "2ugszIMwEe",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "djkkir",
             "booksCount": 3
-        }
-    },
-    "R-WMjp3gyY": {
-        "id": "R-WMjp3gyY",
-        "title": "Passionate Programmer / Программист-фанатик (2015)",
-        "author": "Чед Фаулер",
-        "notes": "",
-        "createdAt": "2017-04-26 09:11:29",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "djkkir",
-            "booksCount": 2
         }
     }
 }

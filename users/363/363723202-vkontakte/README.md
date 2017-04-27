@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>19</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>20</sup>
 ---
 
 ## 2017
@@ -36,6 +36,10 @@
 ### Джейн Эйр
 Щарлотта Бронте
 > [2015-04] 
+
+
+### Мартин Иден
+Джек Лондон
 
 
 ### О дивный новый мир
