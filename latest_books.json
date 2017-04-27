@@ -1,4 +1,16 @@
 {
+    "y4PXHiP8Fo": {
+        "id": "y4PXHiP8Fo",
+        "title": "Милый друг",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2017-04-27 15:05:28",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 55
+        }
+    },
     "fSuny1wNDr": {
         "id": "fSuny1wNDr",
         "title": "Первый учитель",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 26
-        }
-    },
-    "tvw-VsnodO": {
-        "id": "tvw-VsnodO",
-        "title": "Бегущий за ветром",
-        "author": "Халед Хоссейни",
-        "notes": "",
-        "createdAt": "2017-04-27 14:52:37",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 25
         }
     }
 }
