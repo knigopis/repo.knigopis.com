@@ -1,4 +1,16 @@
 {
+    "GRAduMTYuU": {
+        "id": "GRAduMTYuU",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 14:44:41",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 13
+        }
+    },
     "wKg-5lW--H": {
         "id": "wKg-5lW--H",
         "title": "Ночь в Лиссабоне",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 99
-        }
-    },
-    "rUgyv6gUQT": {
-        "id": "rUgyv6gUQT",
-        "title": "Осень в Петербурге",
-        "author": "Джозеф Максвел Кутзее",
-        "notes": "",
-        "createdAt": "2017-04-24 06:18:13",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 521
         }
     }
 }
