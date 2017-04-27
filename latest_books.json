@@ -1,4 +1,16 @@
 {
+    "9QYNy_blO4": {
+        "id": "9QYNy_blO4",
+        "title": "Доводы рассудка",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-27 15:08:24",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 62
+        }
+    },
     "-1XqbbDUYl": {
         "id": "-1XqbbDUYl",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 33
-        }
-    },
-    "6w75JAkDq5": {
-        "id": "6w75JAkDq5",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-27 14:54:55",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 32
         }
     }
 }
