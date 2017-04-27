@@ -1,4 +1,16 @@
 {
+    "R04DFQdz0u": {
+        "id": "R04DFQdz0u",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2017-04-27 15:07:23",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 59
+        }
+    },
     "7XfVv70RLN": {
         "id": "7XfVv70RLN",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 30
-        }
-    },
-    "1JN_ZkJj_M": {
-        "id": "1JN_ZkJj_M",
-        "title": "Братья Карамазовы",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-27 14:54:12",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 29
         }
     }
 }
