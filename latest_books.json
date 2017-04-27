@@ -1,4 +1,16 @@
 {
+    "YQyI8Mo-p4": {
+        "id": "YQyI8Mo-p4",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-04-27 14:37:49",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 2
+        }
+    },
     "nsfYG1HXvC": {
         "id": "nsfYG1HXvC",
         "title": "Восхождение к отцу",
@@ -345,18 +357,6 @@
             "id": "396788383-instagram",
             "nickname": "romi.mi.mi",
             "booksCount": 1
-        }
-    },
-    "KSNurHDn4c": {
-        "id": "KSNurHDn4c",
-        "title": "\"451 градус по Фаренгейту\"",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-04-22 19:18:06",
-        "user": {
-            "id": "138380800-vkontakte",
-            "nickname": "Juniell",
-            "booksCount": 4
         }
     }
 }

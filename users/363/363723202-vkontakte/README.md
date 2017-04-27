@@ -1,7 +1,12 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>1</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>2</sup>
 ---
 
 ## 2017
+
+### Скотный двор
+Джордж Оруэлл
+> [2017-04-27] 
+
 
 ### Восхождение к отцу
 Бахытжан Момыш-улы
