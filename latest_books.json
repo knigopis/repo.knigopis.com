@@ -1,4 +1,16 @@
 {
+    "rAz3m9yoUO": {
+        "id": "rAz3m9yoUO",
+        "title": "Последнее лето Клингзора",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2017-04-27 15:18:49",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 80
+        }
+    },
     "5PrYlefA5q": {
         "id": "5PrYlefA5q",
         "title": "Открытое письмо молодому человеку о науке жить",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 51
-        }
-    },
-    "WaOgTBpePY": {
-        "id": "WaOgTBpePY",
-        "title": "Материнское поле",
-        "author": "Айтматов",
-        "notes": "",
-        "createdAt": "2017-04-27 15:03:57",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 50
         }
     }
 }
