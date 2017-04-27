@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Закат ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
+    > Цикл "Новое пророчество"
+    > Книга 12
+
 * Первая красотка в городе. ~ [Ангелина](users/837/83788782-vkontakte)<sup>51</sup>
     > Господи, ну наконец-то я закончила читать его рассказы.2 месячный запой вместе с ним был как тяжек, так и прекрасен. 
     > По одной книге в  год нужно читать, чтоб не спиться.
@@ -14,7 +18,6 @@ Do not use pull requests to make changes here.
     > Книга 11
 
 * Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
-    > Книга о совести и христианской сущности русской души. О смысле жизни , аде , рае и Вере
 
 * Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 
-* Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>100</sup> 
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>524</sup> 
@@ -44,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>99</sup> 
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
 
 
-_27.04.2017 08:35:40_
+_27.04.2017 10:04:22_

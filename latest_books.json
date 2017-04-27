@@ -1,4 +1,16 @@
 {
+    "OJw386UoYz": {
+        "id": "OJw386UoYz",
+        "title": "Коты-Воители: Закат",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 12",
+        "createdAt": "2017-04-27 10:04:22",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 100
+        }
+    },
     "9RcBs_HYVe": {
         "id": "9RcBs_HYVe",
         "title": "Лекарство от смерти",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 45
-        }
-    },
-    "0EtKv9E2qT": {
-        "id": "0EtKv9E2qT",
-        "title": "Возлюби ближнего своего",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-21 11:24:47",
-        "user": {
-            "id": "39077651-vkontakte",
-            "nickname": "evgenevnapoli",
-            "booksCount": 2
         }
     }
 }
