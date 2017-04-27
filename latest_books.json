@@ -1,4 +1,16 @@
 {
+    "3x4Y0keL0e": {
+        "id": "3x4Y0keL0e",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2017-04-27 14:43:01",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 7
+        }
+    },
     "ZymU_EE4x_": {
         "id": "ZymU_EE4x_",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 141
-        }
-    },
-    "kb6w8QgaCY": {
-        "id": "kb6w8QgaCY",
-        "title": "",
-        "author": "Джерома К. Джерома",
-        "notes": "",
-        "createdAt": "2017-04-23 09:47:39",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 28
         }
     }
 }
