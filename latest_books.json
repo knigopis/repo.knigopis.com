@@ -1,4 +1,16 @@
 {
+    "9w_AbS4xUg": {
+        "id": "9w_AbS4xUg",
+        "title": "Испытание огнем",
+        "author": "Д.Дэшнер",
+        "notes": "",
+        "createdAt": "2017-04-27 08:34:24",
+        "user": {
+            "id": "37278708-vkontakte",
+            "nickname": "winna",
+            "booksCount": 4
+        }
+    },
     "46kDfCLgPP": {
         "id": "46kDfCLgPP",
         "title": "Бегущий в лабиринте",
@@ -345,18 +357,6 @@
             "id": "39077651-vkontakte",
             "nickname": "evgenevnapoli",
             "booksCount": 1
-        }
-    },
-    "pmb7lPrFoP": {
-        "id": "pmb7lPrFoP",
-        "title": "Коты-Воители: Звёздный свет",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 10",
-        "createdAt": "2017-04-21 10:38:13",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
