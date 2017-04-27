@@ -1,4 +1,16 @@
 {
+    "FalBYxp7gX": {
+        "id": "FalBYxp7gX",
+        "title": "Искра жизни",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 14:55:55",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 34
+        }
+    },
     "RsP7OeuiPP": {
         "id": "RsP7OeuiPP",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 5
-        }
-    },
-    "iBcvGcNksT": {
-        "id": "iBcvGcNksT",
-        "title": "Волоколамское шоссе",
-        "author": "Александр Бек",
-        "notes": "",
-        "createdAt": "2017-04-27 14:41:00",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 3
         }
     }
 }
