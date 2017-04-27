@@ -1,4 +1,16 @@
 {
+    "gjSe96rXSr": {
+        "id": "gjSe96rXSr",
+        "title": "Плаха",
+        "author": "Айтматов",
+        "notes": "",
+        "createdAt": "2017-04-27 14:51:24",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 23
+        }
+    },
     "Zf1s_zGCVy": {
         "id": "Zf1s_zGCVy",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "37278708-vkontakte",
             "nickname": "winna",
             "booksCount": 1
-        }
-    },
-    "ALXBr-wm30": {
-        "id": "ALXBr-wm30",
-        "title": "Белая лошадь - горе не мое",
-        "author": "Наталья Соломко",
-        "notes": "",
-        "createdAt": "2017-04-26 13:44:11",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 524
         }
     }
 }
