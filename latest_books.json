@@ -1,4 +1,16 @@
 {
+    "5dzE0Pz02s": {
+        "id": "5dzE0Pz02s",
+        "title": "Записки судмедэксперта",
+        "author": "...",
+        "notes": "",
+        "createdAt": "2017-04-27 15:17:14",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 78
+        }
+    },
     "OaE2Gc6aF8": {
         "id": "OaE2Gc6aF8",
         "title": "Время деньги",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 49
-        }
-    },
-    "aAa-hv8lF8": {
-        "id": "aAa-hv8lF8",
-        "title": "Колыбельная",
-        "author": "Паланик",
-        "notes": "",
-        "createdAt": "2017-04-27 15:02:54",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 48
         }
     }
 }
