@@ -1,4 +1,16 @@
 {
+    "bGWwXFWe94": {
+        "id": "bGWwXFWe94",
+        "title": "Любовь живет три года",
+        "author": "Бегдебер",
+        "notes": "",
+        "createdAt": "2017-04-27 15:03:17",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 49
+        }
+    },
     "aAa-hv8lF8": {
         "id": "aAa-hv8lF8",
         "title": "Колыбельная",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 20
-        }
-    },
-    "2ugszIMwEe": {
-        "id": "2ugszIMwEe",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбэри",
-        "notes": "",
-        "createdAt": "2017-04-27 14:48:08",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 19
         }
     }
 }
