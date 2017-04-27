@@ -1,4 +1,16 @@
 {
+    "ZymU_EE4x_": {
+        "id": "ZymU_EE4x_",
+        "title": "Джейн Эйр",
+        "author": "Щарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-04-27 14:42:41",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 6
+        }
+    },
     "WIPCSShdm0": {
         "id": "WIPCSShdm0",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 28
-        }
-    },
-    "Oyuar-awr-": {
-        "id": "Oyuar-awr-",
-        "title": "Гора звезды",
-        "author": "Валерий Брюсов",
-        "notes": "Короткий. Рабы бывших марсиан в пустыне. котловина с горой. все погибли. тупняк. 3 из 10.",
-        "createdAt": "2017-04-23 09:35:06",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 30
         }
     }
 }
