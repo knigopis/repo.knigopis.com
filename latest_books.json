@@ -1,4 +1,16 @@
 {
+    "C_fXLZQ9md": {
+        "id": "C_fXLZQ9md",
+        "title": "Достижение Максимума",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2017-04-27 15:14:07",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 75
+        }
+    },
     "BqZgtQDvAr": {
         "id": "BqZgtQDvAr",
         "title": "П.Ш.",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 46
-        }
-    },
-    "p49-4Yi_4H": {
-        "id": "p49-4Yi_4H",
-        "title": "Черный обелиск",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-27 15:01:57",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 45
         }
     }
 }
