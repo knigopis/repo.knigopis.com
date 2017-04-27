@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>73</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>74</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### П.Ш.
+Дмитрий Хара
+
 
 ### Чтец
 Шлинк

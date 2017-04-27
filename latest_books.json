@@ -1,4 +1,16 @@
 {
+    "BqZgtQDvAr": {
+        "id": "BqZgtQDvAr",
+        "title": "П.Ш.",
+        "author": "Дмитрий Хара",
+        "notes": "",
+        "createdAt": "2017-04-27 15:13:43",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 74
+        }
+    },
     "pccAJRpwdO": {
         "id": "pccAJRpwdO",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 45
-        }
-    },
-    "8ORfj9xSnO": {
-        "id": "8ORfj9xSnO",
-        "title": "Собачье сердце",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2017-04-27 15:01:33",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 44
         }
     }
 }
