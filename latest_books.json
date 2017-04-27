@@ -1,4 +1,16 @@
 {
+    "WIPCSShdm0": {
+        "id": "WIPCSShdm0",
+        "title": "Гарри Поттер",
+        "author": "Дж. К. Роулинг",
+        "notes": "",
+        "createdAt": "2017-04-27 14:42:12",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 5
+        }
+    },
     "n2_y1RJgPy": {
         "id": "n2_y1RJgPy",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 30
-        }
-    },
-    "Vq40fK_SLR": {
-        "id": "Vq40fK_SLR",
-        "title": "На Луне",
-        "author": "Константин Циолковский",
-        "notes": "Короткий. Сон про исследование Луны двумя мальчишками. 5 из 10.",
-        "createdAt": "2017-04-23 09:23:53",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 29
         }
     }
 }
