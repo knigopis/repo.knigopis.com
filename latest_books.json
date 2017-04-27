@@ -1,4 +1,16 @@
 {
+    "5O4Hx1BYFc": {
+        "id": "5O4Hx1BYFc",
+        "title": "Чувство и чувствительность",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-27 15:08:41",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 63
+        }
+    },
     "9QYNy_blO4": {
         "id": "9QYNy_blO4",
         "title": "Доводы рассудка",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 34
-        }
-    },
-    "RsP7OeuiPP": {
-        "id": "RsP7OeuiPP",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-04-27 14:55:22",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 33
         }
     }
 }
