@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>41</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>42</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Цветы для Элджернона
+Дэниэл Киз
+
 
 ### Сердца трех
 Джек Лондон
