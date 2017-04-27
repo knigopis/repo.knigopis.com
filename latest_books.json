@@ -1,4 +1,16 @@
 {
+    "UVpg9fspAa": {
+        "id": "UVpg9fspAa",
+        "title": "Пегий пес, бегущий краем моря",
+        "author": "Айтматов",
+        "notes": "",
+        "createdAt": "2017-04-27 15:04:15",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 51
+        }
+    },
     "WaOgTBpePY": {
         "id": "WaOgTBpePY",
         "title": "Материнское поле",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 22
-        }
-    },
-    "OLIA74EbWM": {
-        "id": "OLIA74EbWM",
-        "title": "Морской волк",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-04-27 14:50:54",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 21
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>50</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>51</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Пегий пес, бегущий краем моря
+Айтматов
+
 
 ### Материнское поле
 Айтматов
