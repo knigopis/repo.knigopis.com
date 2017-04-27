@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[winna](users/372/37278708-vkontakte)<sup>4</sup> 
+[winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>524</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>4</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dimapropolsky](users/211/21138193-vkontakte)<sup>23</sup> 
 
 
-_27.04.2017 08:34:24_
+_27.04.2017 08:35:40_
