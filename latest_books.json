@@ -1,4 +1,16 @@
 {
+    "1JN_ZkJj_M": {
+        "id": "1JN_ZkJj_M",
+        "title": "Братья Карамазовы",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-27 14:54:12",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 29
+        }
+    },
     "nm-_-qB9h0": {
         "id": "nm-_-qB9h0",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 96
-        }
-    },
-    "OJw386UoYz": {
-        "id": "OJw386UoYz",
-        "title": "Коты-Воители: Закат",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 12",
-        "createdAt": "2017-04-27 10:04:22",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 100
         }
     }
 }
