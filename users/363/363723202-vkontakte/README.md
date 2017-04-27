@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>30</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>31</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Побег из Шоушенка
+Кинг
+
 
 ### Униженные и оскорбленные
 Достоевский
