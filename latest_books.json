@@ -1,4 +1,16 @@
 {
+    "5PsPlOjZK2": {
+        "id": "5PsPlOjZK2",
+        "title": "Тысяча сияющих солнц",
+        "author": "Халед Хоссейни",
+        "notes": "",
+        "createdAt": "2017-04-27 14:53:19",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 27
+        }
+    },
     "8CznfUQOr_": {
         "id": "8CznfUQOr_",
         "title": "и эхо летит по горам",
@@ -345,18 +357,6 @@
             "id": "37278708-vkontakte",
             "nickname": "winna",
             "booksCount": 5
-        }
-    },
-    "9w_AbS4xUg": {
-        "id": "9w_AbS4xUg",
-        "title": "Испытание огнем",
-        "author": "Д.Дэшнер",
-        "notes": "",
-        "createdAt": "2017-04-27 08:34:24",
-        "user": {
-            "id": "37278708-vkontakte",
-            "nickname": "winna",
-            "booksCount": 4
         }
     }
 }

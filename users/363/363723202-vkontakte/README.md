@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>26</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>27</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Тысяча сияющих солнц
+Халед Хоссейни
+
 
 ### и эхо летит по горам
 Халед Хоссейни
