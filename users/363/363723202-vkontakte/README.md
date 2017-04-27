@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>71</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>72</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Чтец
+Шлинк
+
 
 ### Дары Волхов
 О. Генри
