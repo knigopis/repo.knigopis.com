@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>75</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>76</sup>
 ---
 
 ## 2017
@@ -15,6 +15,10 @@
 
 
 ## 2016
+
+### Кыпчаки
+Мурад Аджи
+
 
 ### Достижение Максимума
 Брайан Трейси
