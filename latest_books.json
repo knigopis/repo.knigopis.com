@@ -1,4 +1,16 @@
 {
+    "Hm7_yh6yyk": {
+        "id": "Hm7_yh6yyk",
+        "title": "Ребекка",
+        "author": "Дафна дю Морье",
+        "notes": "",
+        "createdAt": "2017-04-27 15:05:48",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 56
+        }
+    },
     "y4PXHiP8Fo": {
         "id": "y4PXHiP8Fo",
         "title": "Милый друг",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 27
-        }
-    },
-    "8CznfUQOr_": {
-        "id": "8CznfUQOr_",
-        "title": "и эхо летит по горам",
-        "author": "Халед Хоссейни",
-        "notes": "",
-        "createdAt": "2017-04-27 14:52:54",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 26
         }
     }
 }
