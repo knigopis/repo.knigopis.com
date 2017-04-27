@@ -1,4 +1,16 @@
 {
+    "MWE8IQBu5i": {
+        "id": "MWE8IQBu5i",
+        "title": "Мулей",
+        "author": "Эрленд Лу",
+        "notes": "",
+        "createdAt": "2017-04-27 15:06:03",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 57
+        }
+    },
     "Hm7_yh6yyk": {
         "id": "Hm7_yh6yyk",
         "title": "Ребекка",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 28
-        }
-    },
-    "5PsPlOjZK2": {
-        "id": "5PsPlOjZK2",
-        "title": "Тысяча сияющих солнц",
-        "author": "Халед Хоссейни",
-        "notes": "",
-        "createdAt": "2017-04-27 14:53:19",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 27
         }
     }
 }
