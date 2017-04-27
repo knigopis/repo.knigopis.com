@@ -1,4 +1,16 @@
 {
+    "XHe784G5dp": {
+        "id": "XHe784G5dp",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-04-27 14:46:13",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 15
+        }
+    },
     "yStVIIlyNV": {
         "id": "yStVIIlyNV",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 51
-        }
-    },
-    "ds9yUmFcYO": {
-        "id": "ds9yUmFcYO",
-        "title": "Глаза голубой собаки",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-04-24 11:22:29",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 522
         }
     }
 }
