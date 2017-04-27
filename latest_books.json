@@ -1,4 +1,16 @@
 {
+    "-1XqbbDUYl": {
+        "id": "-1XqbbDUYl",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-04-27 15:08:10",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 61
+        }
+    },
     "0PwegnQj3p": {
         "id": "0PwegnQj3p",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 32
-        }
-    },
-    "4OMHYbffkx": {
-        "id": "4OMHYbffkx",
-        "title": "Побег из Шоушенка",
-        "author": "Кинг",
-        "notes": "",
-        "createdAt": "2017-04-27 14:54:53",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 31
         }
     }
 }
