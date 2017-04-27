@@ -1,4 +1,16 @@
 {
+    "OLIA74EbWM": {
+        "id": "OLIA74EbWM",
+        "title": "Морской волк",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-04-27 14:50:54",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 21
+        }
+    },
     "4rTsQQvtk7": {
         "id": "4rTsQQvtk7",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "Kirill_Dodonov",
             "booksCount": 4
-        }
-    },
-    "EExwO75AtV": {
-        "id": "EExwO75AtV",
-        "title": "Программирование под Android",
-        "author": "Брайан Харди, Билл Филлипс",
-        "notes": "",
-        "createdAt": "2017-04-26 09:14:17",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "djkkir",
-            "booksCount": 3
         }
     }
 }
