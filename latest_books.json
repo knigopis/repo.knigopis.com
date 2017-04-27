@@ -1,4 +1,16 @@
 {
+    "0PwegnQj3p": {
+        "id": "0PwegnQj3p",
+        "title": "Пролетая над гнездом кукушки",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2017-04-27 15:07:48",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 60
+        }
+    },
     "R04DFQdz0u": {
         "id": "R04DFQdz0u",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 31
-        }
-    },
-    "itNTRouq-p": {
-        "id": "itNTRouq-p",
-        "title": "Униженные и оскорбленные",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-27 14:54:36",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 30
         }
     }
 }
