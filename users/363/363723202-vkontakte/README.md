@@ -1,4 +1,4 @@
-# List of books read by [Narik](http://vk.com/id363723202)<sup>44</sup>
+# List of books read by [Narik](http://vk.com/id363723202)<sup>45</sup>
 ---
 
 ## 2017
@@ -160,6 +160,10 @@
 
 
 ## 2014
+
+### Черный обелиск
+Эрих Мария Ремарк
+
 
 ### Мастер и Маргарита
 Михаил Булгаков

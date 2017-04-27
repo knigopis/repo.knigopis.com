@@ -1,4 +1,16 @@
 {
+    "p49-4Yi_4H": {
+        "id": "p49-4Yi_4H",
+        "title": "Черный обелиск",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-04-27 15:01:57",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 45
+        }
+    },
     "8ORfj9xSnO": {
         "id": "8ORfj9xSnO",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 16
-        }
-    },
-    "XHe784G5dp": {
-        "id": "XHe784G5dp",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-04-27 14:46:13",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 15
         }
     }
 }
