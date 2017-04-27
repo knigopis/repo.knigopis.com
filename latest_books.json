@@ -1,4 +1,16 @@
 {
+    "kv0iMUOges": {
+        "id": "kv0iMUOges",
+        "title": "Жена путешественника во времени",
+        "author": "Одри Ниффенеггер",
+        "notes": "",
+        "createdAt": "2017-04-27 15:00:05",
+        "user": {
+            "id": "363723202-vkontakte",
+            "nickname": "Narik",
+            "booksCount": 41
+        }
+    },
     "PkA-kLDj3E": {
         "id": "PkA-kLDj3E",
         "title": "Форрест Гамп",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 12
-        }
-    },
-    "RJZNPAtjgb": {
-        "id": "RJZNPAtjgb",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-04-27 14:44:12",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 11
         }
     }
 }
