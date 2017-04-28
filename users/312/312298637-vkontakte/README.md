@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>49</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>50</sup>
 ---
 
 ## 2017
@@ -85,6 +85,10 @@
 
 
 ## 2016
+
+### Я ненавижу оборотней
+Катерина Полянская
+
 
 ### Правила поведения под столом
 Екатерина Богданова

@@ -1,4 +1,16 @@
 {
+    "y7T6b3TN0h": {
+        "id": "y7T6b3TN0h",
+        "title": "Я ненавижу оборотней",
+        "author": "Катерина Полянская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:18:24",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 50
+        }
+    },
     "qDYgGJZrmO": {
         "id": "qDYgGJZrmO",
         "title": "Правила поведения под столом",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 21
-        }
-    },
-    "lKXA4d1g8W": {
-        "id": "lKXA4d1g8W",
-        "title": "Брюнетка в бою",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:54:39",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 20
         }
     }
 }
