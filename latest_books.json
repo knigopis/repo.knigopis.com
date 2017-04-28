@@ -1,4 +1,16 @@
 {
+    "lKXA4d1g8W": {
+        "id": "lKXA4d1g8W",
+        "title": "Брюнетка в бою",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:54:39",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 20
+        }
+    },
     "KeFXrfacFW": {
         "id": "KeFXrfacFW",
         "title": "Брюнетка в засаде",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 73
-        }
-    },
-    "7-36Q_haM1": {
-        "id": "7-36Q_haM1",
-        "title": "Чтец",
-        "author": "Шлинк",
-        "notes": "",
-        "createdAt": "2017-04-27 15:12:53",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 72
         }
     }
 }
