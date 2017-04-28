@@ -1,4 +1,16 @@
 {
+    "fSFiejq4Lw": {
+        "id": "fSFiejq4Lw",
+        "title": "До встречи с тобой",
+        "author": "Джоджо Мойес",
+        "notes": "",
+        "createdAt": "2017-04-28 13:54:30",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 70
+        }
+    },
     "6Qj-Tawye7": {
         "id": "6Qj-Tawye7",
         "title": "Его Тьма",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 41
-        }
-    },
-    "59pTHbFiGS": {
-        "id": "59pTHbFiGS",
-        "title": "Наследница черного озера",
-        "author": "Ева Никольская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:10:33",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 40
         }
     }
 }

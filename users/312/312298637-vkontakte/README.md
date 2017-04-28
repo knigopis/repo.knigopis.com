@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>69</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>70</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### До встречи с тобой
+Джоджо Мойес
+
 
 ### Охота снежной королевы
 Олег Рой, Екатерина Неволина
