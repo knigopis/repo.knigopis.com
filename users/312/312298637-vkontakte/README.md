@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>46</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>47</sup>
 ---
 
 ## 2017
@@ -85,6 +85,10 @@
 
 
 ## 2016
+
+### Обман
+Галина Долгова
+
 
 ### Шаг
 Галина Долгова
