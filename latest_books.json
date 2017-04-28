@@ -1,4 +1,16 @@
 {
+    "3TC19F8gfY": {
+        "id": "3TC19F8gfY",
+        "title": "Дневник Бриджит Джонс",
+        "author": "Хелен Филдинг",
+        "notes": "",
+        "createdAt": "2017-04-28 13:57:11",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 71
+        }
+    },
     "fSFiejq4Lw": {
         "id": "fSFiejq4Lw",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 42
-        }
-    },
-    "DnufSuDJza": {
-        "id": "DnufSuDJza",
-        "title": "Красавица и её чудовище",
-        "author": "Ева Никольская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:10:56",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 41
         }
     }
 }

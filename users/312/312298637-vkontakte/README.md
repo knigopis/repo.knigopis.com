@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>70</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>71</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### Дневник Бриджит Джонс
+Хелен Филдинг
+
 
 ### До встречи с тобой
 Джоджо Мойес
