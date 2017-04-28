@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>45</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>46</sup>
 ---
 
 ## 2017
@@ -85,6 +85,10 @@
 
 
 ## 2016
+
+### Шаг
+Галина Долгова
+
 
 ### Звериный подарок
 Юлия Шолох
