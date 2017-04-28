@@ -1,4 +1,16 @@
 {
+    "-oZDduWDfW": {
+        "id": "-oZDduWDfW",
+        "title": "Звериный подарок",
+        "author": "Юлия Шолох",
+        "notes": "",
+        "createdAt": "2017-04-28 13:13:12",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 45
+        }
+    },
     "dbf8WIgSgh": {
         "id": "dbf8WIgSgh",
         "title": "Пять разбитых сердец",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 16
-        }
-    },
-    "jy-obPdcsC": {
-        "id": "jy-obPdcsC",
-        "title": "Сила ведьмы",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:53:44",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 15
         }
     }
 }

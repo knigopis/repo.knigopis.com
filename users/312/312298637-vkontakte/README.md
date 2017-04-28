@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>44</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>45</sup>
 ---
 
 ## 2017
@@ -85,6 +85,10 @@
 
 
 ## 2016
+
+### Звериный подарок
+Юлия Шолох
+
 
 ### Пять разбитых сердец
 Ева Никольская
