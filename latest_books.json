@@ -1,4 +1,16 @@
 {
+    "UVKNAaqfYK": {
+        "id": "UVKNAaqfYK",
+        "title": "Семь подземных королей",
+        "author": "Александр Волков",
+        "notes": "",
+        "createdAt": "2017-04-28 13:32:09",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 55
+        }
+    },
     "Wkb_cStbYZ": {
         "id": "Wkb_cStbYZ",
         "title": "Виолетта. Жила-была... лич",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 26
-        }
-    },
-    "JNcUAf2upe": {
-        "id": "JNcUAf2upe",
-        "title": "Замок оборотня",
-        "author": "Елена Звездная",
-        "notes": "",
-        "createdAt": "2017-04-28 12:58:39",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 25
         }
     }
 }
