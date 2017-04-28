@@ -1,4 +1,16 @@
 {
+    "sGI9qsWRCs": {
+        "id": "sGI9qsWRCs",
+        "title": "Замуж за Черного Властелина",
+        "author": "Юлия Славачевская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:08:09",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 36
+        }
+    },
     "mL1FxyBixf": {
         "id": "mL1FxyBixf",
         "title": "За гранью грань",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 7
-        }
-    },
-    "3cgxUTxPyo": {
-        "id": "3cgxUTxPyo",
-        "title": "Колодец мрака",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:51:15",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 6
         }
     }
 }
