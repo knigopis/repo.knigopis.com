@@ -1,4 +1,16 @@
 {
+    "jy-obPdcsC": {
+        "id": "jy-obPdcsC",
+        "title": "Сила ведьмы",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:53:44",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 15
+        }
+    },
     "tJaYWhtt5J": {
         "id": "tJaYWhtt5J",
         "title": "Ярость Тьмы",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 68
-        }
-    },
-    "9jSxxAVHIz": {
-        "id": "9jSxxAVHIz",
-        "title": "Почему мы хотим, чтобы вы были богатыми",
-        "author": "Кийосаки, Трамп",
-        "notes": "",
-        "createdAt": "2017-04-27 15:10:51",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 67
         }
     }
 }
