@@ -1,4 +1,16 @@
 {
+    "8tO3Atj74u": {
+        "id": "8tO3Atj74u",
+        "title": "Принцесса в академии",
+        "author": "Варя Медная",
+        "notes": "",
+        "createdAt": "2017-04-28 13:05:33",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 33
+        }
+    },
     "1ELTCdjjqR": {
         "id": "1ELTCdjjqR",
         "title": "Дрянная девчонка в академии",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 4
-        }
-    },
-    "BnjCtvrk3T": {
-        "id": "BnjCtvrk3T",
-        "title": "Город стекла",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2017-04-28 12:48:22",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 3
         }
     }
 }
