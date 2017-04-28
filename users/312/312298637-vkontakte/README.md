@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>41</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>42</sup>
 ---
 
 ## 2017
@@ -168,6 +168,10 @@
 
 
 ## 2015
+
+### Мой огненный и снежный зверь
+Ева Никольская
+
 
 ### Красавица и её чудовище
 Ева Никольская
