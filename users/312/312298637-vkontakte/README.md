@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>72</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>73</sup>
 ---
 
 ## 2017
@@ -257,6 +257,10 @@
 
 
 ## 2015
+
+### Голодные игры
+Сьюзан Коллинз
+
 
 ### Друзья поневоле
 Ковальчук Анастасия

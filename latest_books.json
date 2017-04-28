@@ -1,4 +1,16 @@
 {
+    "Z04EkkWGRQ": {
+        "id": "Z04EkkWGRQ",
+        "title": "Голодные игры",
+        "author": "Сьюзан Коллинз",
+        "notes": "",
+        "createdAt": "2017-04-28 14:02:28",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 73
+        }
+    },
     "CKLqrxyqMN": {
         "id": "CKLqrxyqMN",
         "title": "На грани безумия",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 44
-        }
-    },
-    "ZePlgoliSC": {
-        "id": "ZePlgoliSC",
-        "title": "Азартные игры волшебников",
-        "author": "Ева Никольская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:11:22",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 43
         }
     }
 }
