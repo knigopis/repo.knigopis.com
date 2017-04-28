@@ -1,4 +1,16 @@
 {
+    "xqlczk-yhf": {
+        "id": "xqlczk-yhf",
+        "title": "Тяжело быть студентом",
+        "author": "Маргарита Блинова",
+        "notes": "",
+        "createdAt": "2017-04-28 13:03:49",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 29
+        }
+    },
     "IRw6T9rx9k": {
         "id": "IRw6T9rx9k",
         "title": "Высшая правовая магическая академия. Оперативные будни",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 46
-        }
-    },
-    "1DYyAEtB7D": {
-        "id": "1DYyAEtB7D",
-        "title": "Клейн и Вагнер",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2017-04-27 15:19:10",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 81
         }
     }
 }
