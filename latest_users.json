@@ -1,4 +1,10 @@
 {
+    "12601720503917094896-mailru": {
+        "id": "12601720503917094896-mailru",
+        "nickname": "Neccochi",
+        "booksCount": 46,
+        "updatedAt": "2017-04-28 06:38:21"
+    },
     "363723202-vkontakte": {
         "id": "363723202-vkontakte",
         "nickname": "Narik",
@@ -172,11 +178,5 @@
         "nickname": "getoutaway",
         "booksCount": 1,
         "updatedAt": "2017-04-20 03:56:56"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 21,
-        "updatedAt": "2017-04-19 19:14:14"
     }
 }

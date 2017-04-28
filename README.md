@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не та дверь ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup>
+    > Все началось с обычного похода в парикмахерскую. Пятилетний Женя привычно сел в кресло напротив зеркала, глянул на свое отражение, затем - на парикмахершу и… похолодел от ужаса. Перед ним стояла настоящая ведьма. Отвратительная, злобная, страшная старуха. Остро заточенные ножницы в ее руке лязгнули. Трупный смрад хлынул на ребенка. Но почему его бабушка, Елизавета Петровна, приведшая малыша на стрижку, ничего не замечает? Почему отец Жени воспринял рассказ сына с юмором? Неужели взрослые уже настолько огрубели и ослепли, что не ощущают могильного холода всего в шаге от себя?
+
 * Коты-Воители: Закат ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
     > Цикл "Новое пророчество"
     > Книга 12
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > По одной книге в  год нужно читать, чтоб не спиться.
 
 * Коты-Воители: Сумеркм ~ [EsterHani](users/305/30558181-vkontakte)<sup>99</sup>
-    > Цикл "Новое пророчество"
-    > Книга 11
 
 * Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
 
@@ -29,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
 
-* Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>96</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>100</sup> 
@@ -65,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
 [getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>21</sup> 
 
 
-_27.04.2017 15:19:10_
+_28.04.2017 06:38:21_
