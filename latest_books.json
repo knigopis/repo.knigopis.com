@@ -1,4 +1,16 @@
 {
+    "tOlGhhtUNB": {
+        "id": "tOlGhhtUNB",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-04-28 13:25:14",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 52
+        }
+    },
     "1BgEG9JlDu": {
         "id": "1BgEG9JlDu",
         "title": "Жена на полставки",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 23
-        }
-    },
-    "g26XoyR_Lt": {
-        "id": "g26XoyR_Lt",
-        "title": "Игра со зверем. Шах королю",
-        "author": "Алена Алексина",
-        "notes": "",
-        "createdAt": "2017-04-28 12:56:05",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 22
         }
     }
 }

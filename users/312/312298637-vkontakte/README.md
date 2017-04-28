@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>51</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>52</sup>
 ---
 
 ## 2017
@@ -89,6 +89,10 @@
 
 
 ## 2016
+
+### Цветы для Элджернона
+Дэниел Киз
+
 
 ### Я ненавижу оборотней
 Катерина Полянская
