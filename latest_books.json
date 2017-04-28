@@ -1,4 +1,16 @@
 {
+    "nf_KIk7tul": {
+        "id": "nf_KIk7tul",
+        "title": "Танец Огня",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:52:04",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 7
+        }
+    },
     "3cgxUTxPyo": {
         "id": "3cgxUTxPyo",
         "title": "Колодец мрака",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 60
-        }
-    },
-    "R04DFQdz0u": {
-        "id": "R04DFQdz0u",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2017-04-27 15:07:23",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 59
         }
     }
 }
