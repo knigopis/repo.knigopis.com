@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>56</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>57</sup>
 ---
 
 ## 2017
@@ -93,6 +93,10 @@
 
 
 ## 2016
+
+### Как достать ректора
+Лика Верх
+
 
 ### Цветы для Элджернона
 Дэниел Киз
