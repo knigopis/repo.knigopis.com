@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>74</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>75</sup>
 ---
 
 ## 2017
@@ -261,6 +261,10 @@
 
 
 ## 2015
+
+### Отбор
+Кира Касс
+
 
 ### Голодные игры
 Сьюзан Коллинз

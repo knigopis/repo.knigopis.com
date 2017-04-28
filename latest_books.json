@@ -1,4 +1,16 @@
 {
+    "0Gxzxdlnan": {
+        "id": "0Gxzxdlnan",
+        "title": "Отбор",
+        "author": "Кира Касс",
+        "notes": "",
+        "createdAt": "2017-04-28 14:05:31",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 75
+        }
+    },
     "X0Mw1QXdVE": {
         "id": "X0Mw1QXdVE",
         "title": "И вспыхнет пламя",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 46
-        }
-    },
-    "-oZDduWDfW": {
-        "id": "-oZDduWDfW",
-        "title": "Звериный подарок",
-        "author": "Юлия Шолох",
-        "notes": "",
-        "createdAt": "2017-04-28 13:13:12",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 45
         }
     }
 }
