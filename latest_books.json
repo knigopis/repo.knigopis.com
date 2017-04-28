@@ -1,4 +1,16 @@
 {
+    "ky5O7xRrXv": {
+        "id": "ky5O7xRrXv",
+        "title": "Парадокс Прада",
+        "author": "Джули Кеннер",
+        "notes": "",
+        "createdAt": "2017-04-28 13:44:55",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 61
+        }
+    },
     "OAYx9JDyyp": {
         "id": "OAYx9JDyyp",
         "title": "Охота снежной королевы",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 32
-        }
-    },
-    "CQoULMhpz3": {
-        "id": "CQoULMhpz3",
-        "title": "Леди-дракон",
-        "author": "Ольга Пашнина",
-        "notes": "",
-        "createdAt": "2017-04-28 13:04:29",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 31
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>60</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>61</sup>
 ---
 
 ## 2017
@@ -228,6 +228,10 @@
 
 
 ## 2015
+
+### Парадокс Прада
+Джули Кеннер
+
 
 ### Виолетта. Жила-была... лич
 Елена Кароль
