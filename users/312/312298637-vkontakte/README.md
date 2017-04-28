@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>65</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>66</sup>
 ---
 
 ## 2017
@@ -241,6 +241,10 @@
 
 
 ## 2015
+
+### 50 дней до моего самоубийства
+Крамер Стейс
+
 
 ### Клан волчицы
 Майте Карранса

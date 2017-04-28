@@ -1,4 +1,16 @@
 {
+    "XeWwLqQDbx": {
+        "id": "XeWwLqQDbx",
+        "title": "50 дней до моего самоубийства",
+        "author": "Крамер Стейс",
+        "notes": "",
+        "createdAt": "2017-04-28 13:48:24",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 66
+        }
+    },
     "m7BFpmcKJt": {
         "id": "m7BFpmcKJt",
         "title": "Кукла советника",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 37
-        }
-    },
-    "sGI9qsWRCs": {
-        "id": "sGI9qsWRCs",
-        "title": "Замуж за Черного Властелина",
-        "author": "Юлия Славачевская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:08:09",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 36
         }
     }
 }
