@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>50</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>51</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 ### Янтарь и Льдянка
 Дарья Снежная
 > [2017-01] 
+
+
+### Жена на полставки
+Кристина Зимняя
 
 
 ### За гранью грань
