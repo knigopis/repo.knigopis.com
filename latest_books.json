@@ -1,4 +1,16 @@
 {
+    "CQoULMhpz3": {
+        "id": "CQoULMhpz3",
+        "title": "Леди-дракон",
+        "author": "Ольга Пашнина",
+        "notes": "",
+        "createdAt": "2017-04-28 13:04:29",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 31
+        }
+    },
     "cBKoU3a677": {
         "id": "cBKoU3a677",
         "title": "Опасно быть студентом",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 2
-        }
-    },
-    "FQ6_3CrFHd": {
-        "id": "FQ6_3CrFHd",
-        "title": "Город костей",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2017-04-28 12:47:44",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 1
         }
     }
 }
