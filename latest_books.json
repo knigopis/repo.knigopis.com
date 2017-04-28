@@ -1,4 +1,16 @@
 {
+    "ab0R9TBntm": {
+        "id": "ab0R9TBntm",
+        "title": "Две короны",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:54:06",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 16
+        }
+    },
     "jy-obPdcsC": {
         "id": "jy-obPdcsC",
         "title": "Сила ведьмы",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 69
-        }
-    },
-    "fve-2syyAW": {
-        "id": "fve-2syyAW",
-        "title": "Три чашки чая",
-        "author": "Грег Мортенсон",
-        "notes": "",
-        "createdAt": "2017-04-27 15:11:22",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 68
         }
     }
 }
