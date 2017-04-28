@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>75</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>76</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### Элита
+Кира Касс
+
 
 ### И вспыхнет пламя
 Сьюзан Коллинз

@@ -1,4 +1,16 @@
 {
+    "s9WenV9lUy": {
+        "id": "s9WenV9lUy",
+        "title": "Элита",
+        "author": "Кира Касс",
+        "notes": "",
+        "createdAt": "2017-04-28 14:05:40",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 76
+        }
+    },
     "0Gxzxdlnan": {
         "id": "0Gxzxdlnan",
         "title": "Отбор",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 47
-        }
-    },
-    "DlqPQLpwzj": {
-        "id": "DlqPQLpwzj",
-        "title": "Шаг",
-        "author": "Галина Долгова",
-        "notes": "",
-        "createdAt": "2017-04-28 13:14:59",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 46
         }
     }
 }
