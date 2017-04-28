@@ -1,4 +1,16 @@
 {
+    "7gQ0iGrsEW": {
+        "id": "7gQ0iGrsEW",
+        "title": "Одинокая блондинка желает познакомиться",
+        "author": "Юлия Славачевская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:09:05",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 38
+        }
+    },
     "dO-DKuaQ7A": {
         "id": "dO-DKuaQ7A",
         "title": "Замужем за Черным Властелином",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 9
-        }
-    },
-    "48kH5pCjH1": {
-        "id": "48kH5pCjH1",
-        "title": "Душа Огня",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:52:14",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 8
         }
     }
 }
