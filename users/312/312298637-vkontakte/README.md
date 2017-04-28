@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>55</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>56</sup>
 ---
 
 ## 2017
@@ -235,6 +235,10 @@
 
 
 ## 2012
+
+### Дочь Гингемы
+Сухинов Сергей
+
 
 ### Семь подземных королей
 Александр Волков

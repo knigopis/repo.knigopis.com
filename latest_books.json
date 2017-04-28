@@ -1,4 +1,16 @@
 {
+    "f7b9zFpO90": {
+        "id": "f7b9zFpO90",
+        "title": "Дочь Гингемы",
+        "author": "Сухинов Сергей",
+        "notes": "",
+        "createdAt": "2017-04-28 13:34:15",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 56
+        }
+    },
     "UVKNAaqfYK": {
         "id": "UVKNAaqfYK",
         "title": "Семь подземных королей",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 27
-        }
-    },
-    "gHAhl7gGJw": {
-        "id": "gHAhl7gGJw",
-        "title": "Телохранительница его темнейшинства",
-        "author": "Арьяр Ирмата",
-        "notes": "",
-        "createdAt": "2017-04-28 12:59:27",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 26
         }
     }
 }
