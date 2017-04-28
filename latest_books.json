@@ -1,4 +1,16 @@
 {
+    "YUleySc6ss": {
+        "id": "YUleySc6ss",
+        "title": "Академия попаданцев",
+        "author": "Мария Болталова, Екатерина Флат",
+        "notes": "",
+        "createdAt": "2017-04-28 12:57:48",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 24
+        }
+    },
     "E_ZNpb8F_q": {
         "id": "E_ZNpb8F_q",
         "title": "Урок первый: Не проклинай своего директора",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 77
-        }
-    },
-    "Sl4iOEG1p5": {
-        "id": "Sl4iOEG1p5",
-        "title": "Кыпчаки",
-        "author": "Мурад Аджи",
-        "notes": "",
-        "createdAt": "2017-04-27 15:14:39",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 76
         }
     }
 }
