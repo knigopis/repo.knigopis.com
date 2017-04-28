@@ -1,4 +1,16 @@
 {
+    "gzMoPATmlp": {
+        "id": "gzMoPATmlp",
+        "title": "Единственная",
+        "author": "Кира Касс",
+        "notes": "",
+        "createdAt": "2017-04-28 14:05:50",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 77
+        }
+    },
     "s9WenV9lUy": {
         "id": "s9WenV9lUy",
         "title": "Элита",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 48
-        }
-    },
-    "rG8Oa_oeIN": {
-        "id": "rG8Oa_oeIN",
-        "title": "Обман",
-        "author": "Галина Долгова",
-        "notes": "",
-        "createdAt": "2017-04-28 13:15:20",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 47
         }
     }
 }

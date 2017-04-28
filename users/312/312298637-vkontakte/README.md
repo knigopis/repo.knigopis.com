@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>76</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>77</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### Единственная
+Кира Касс
+
 
 ### Элита
 Кира Касс
