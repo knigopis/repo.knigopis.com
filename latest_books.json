@@ -1,4 +1,16 @@
 {
+    "59pTHbFiGS": {
+        "id": "59pTHbFiGS",
+        "title": "Наследница черного озера",
+        "author": "Ева Никольская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:10:33",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 40
+        }
+    },
     "ewcaYev1ny": {
         "id": "ewcaYev1ny",
         "title": "Заверните коня, принц не нужен",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 11
-        }
-    },
-    "sfoslfWQ3P": {
-        "id": "sfoslfWQ3P",
-        "title": "Покорение огня",
-        "author": "Анна Гаврилова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:52:38",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 10
         }
     }
 }

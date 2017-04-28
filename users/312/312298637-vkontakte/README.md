@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>39</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>40</sup>
 ---
 
 ## 2017
@@ -85,6 +85,10 @@
 
 
 ## 2016
+
+### Наследница черного озера
+Ева Никольская
+
 
 ### Заверните коня, принц не нужен
 Юлия Славачевская
