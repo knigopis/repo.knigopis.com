@@ -1,4 +1,16 @@
 {
+    "dbf8WIgSgh": {
+        "id": "dbf8WIgSgh",
+        "title": "Пять разбитых сердец",
+        "author": "Ева Никольская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:11:34",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 44
+        }
+    },
     "ZePlgoliSC": {
         "id": "ZePlgoliSC",
         "title": "Азартные игры волшебников",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 15
-        }
-    },
-    "tJaYWhtt5J": {
-        "id": "tJaYWhtt5J",
-        "title": "Ярость Тьмы",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:53:31",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 14
         }
     }
 }
