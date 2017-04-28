@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>52</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>53</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 ### Янтарь и Льдянка
 Дарья Снежная
 > [2017-01] 
+
+
+### Мой лучший враг
+Эли Фрей
 
 
 ### Жена на полставки

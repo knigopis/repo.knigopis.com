@@ -1,4 +1,16 @@
 {
+    "ckR04Mf8D5": {
+        "id": "ckR04Mf8D5",
+        "title": "Мой лучший враг",
+        "author": "Эли Фрей",
+        "notes": "",
+        "createdAt": "2017-04-28 13:26:06",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 53
+        }
+    },
     "tOlGhhtUNB": {
         "id": "tOlGhhtUNB",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 24
-        }
-    },
-    "E_ZNpb8F_q": {
-        "id": "E_ZNpb8F_q",
-        "title": "Урок первый: Не проклинай своего директора",
-        "author": "Елена Звездная",
-        "notes": "",
-        "createdAt": "2017-04-28 12:57:16",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 23
         }
     }
 }
