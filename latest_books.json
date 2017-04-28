@@ -1,4 +1,16 @@
 {
+    "dO-DKuaQ7A": {
+        "id": "dO-DKuaQ7A",
+        "title": "Замужем за Черным Властелином",
+        "author": "Юлия Славачевская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:08:26",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 37
+        }
+    },
     "sGI9qsWRCs": {
         "id": "sGI9qsWRCs",
         "title": "Замуж за Черного Властелина",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 8
-        }
-    },
-    "nf_KIk7tul": {
-        "id": "nf_KIk7tul",
-        "title": "Танец Огня",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:52:04",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 7
         }
     }
 }
