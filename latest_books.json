@@ -1,4 +1,16 @@
 {
+    "71FTXIVj5K": {
+        "id": "71FTXIVj5K",
+        "title": "Леди-кошка",
+        "author": "Олег Рой, Екатерина Неволина",
+        "notes": "",
+        "createdAt": "2017-04-28 13:44:07",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 58
+        }
+    },
     "VX2kOQMLmN": {
         "id": "VX2kOQMLmN",
         "title": "Как достать ректора",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 29
-        }
-    },
-    "IRw6T9rx9k": {
-        "id": "IRw6T9rx9k",
-        "title": "Высшая правовая магическая академия. Оперативные будни",
-        "author": "Маргарита Гришаева",
-        "notes": "",
-        "createdAt": "2017-04-28 13:02:41",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 28
         }
     }
 }
