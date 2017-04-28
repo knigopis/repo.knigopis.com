@@ -1,4 +1,16 @@
 {
+    "A44e7zfZQa": {
+        "id": "A44e7zfZQa",
+        "title": "Повелительница Тьмы",
+        "author": "Ковальчук Анастасия",
+        "notes": "",
+        "createdAt": "2017-04-28 13:49:13",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 67
+        }
+    },
     "XeWwLqQDbx": {
         "id": "XeWwLqQDbx",
         "title": "50 дней до моего самоубийства",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 38
-        }
-    },
-    "dO-DKuaQ7A": {
-        "id": "dO-DKuaQ7A",
-        "title": "Замужем за Черным Властелином",
-        "author": "Юлия Славачевская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:08:26",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 37
         }
     }
 }

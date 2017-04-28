@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>66</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>67</sup>
 ---
 
 ## 2017
@@ -241,6 +241,10 @@
 
 
 ## 2015
+
+### Повелительница Тьмы
+Ковальчук Анастасия
+
 
 ### 50 дней до моего самоубийства
 Крамер Стейс
