@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>73</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>74</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### И вспыхнет пламя
+Сьюзан Коллинз
+
 
 ### На грани безумия
 Хелен Филдинг
