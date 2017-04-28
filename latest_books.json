@@ -1,4 +1,16 @@
 {
+    "ZePlgoliSC": {
+        "id": "ZePlgoliSC",
+        "title": "Азартные игры волшебников",
+        "author": "Ева Никольская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:11:22",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 43
+        }
+    },
     "IY8aWnkzxv": {
         "id": "IY8aWnkzxv",
         "title": "Мой огненный и снежный зверь",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 14
-        }
-    },
-    "dOwlitg36Z": {
-        "id": "dOwlitg36Z",
-        "title": "Узоры Тьмы",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-04-28 12:53:23",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 13
         }
     }
 }
