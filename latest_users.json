@@ -1,4 +1,10 @@
 {
+    "312298637-vkontakte": {
+        "id": "312298637-vkontakte",
+        "nickname": "kverta",
+        "booksCount": 0,
+        "updatedAt": "2017-04-28 12:46:18"
+    },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",
         "nickname": "Neccochi",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 95,
         "updatedAt": "2017-04-20 22:48:34"
-    },
-    "7660958-vkontakte": {
-        "id": "7660958-vkontakte",
-        "nickname": "getoutaway",
-        "booksCount": 1,
-        "updatedAt": "2017-04-20 03:56:56"
     }
 }
