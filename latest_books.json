@@ -1,4 +1,16 @@
 {
+    "Wkb_cStbYZ": {
+        "id": "Wkb_cStbYZ",
+        "title": "Виолетта. Жила-была... лич",
+        "author": "Елена Кароль",
+        "notes": "",
+        "createdAt": "2017-04-28 13:30:08",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 54
+        }
+    },
     "ckR04Mf8D5": {
         "id": "ckR04Mf8D5",
         "title": "Мой лучший враг",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 25
-        }
-    },
-    "YUleySc6ss": {
-        "id": "YUleySc6ss",
-        "title": "Академия попаданцев",
-        "author": "Мария Болталова, Екатерина Флат",
-        "notes": "",
-        "createdAt": "2017-04-28 12:57:48",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 24
         }
     }
 }

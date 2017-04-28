@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>53</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>54</sup>
 ---
 
 ## 2017
@@ -212,6 +212,10 @@
 
 
 ## 2015
+
+### Виолетта. Жила-была... лич
+Елена Кароль
+
 
 ### Мой огненный и снежный зверь
 Ева Никольская
