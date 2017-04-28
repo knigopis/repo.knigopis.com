@@ -1,4 +1,16 @@
 {
+    "1ELTCdjjqR": {
+        "id": "1ELTCdjjqR",
+        "title": "Дрянная девчонка в академии",
+        "author": "Катерина Полянская",
+        "notes": "",
+        "createdAt": "2017-04-28 13:04:56",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 32
+        }
+    },
     "CQoULMhpz3": {
         "id": "CQoULMhpz3",
         "title": "Леди-дракон",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 3
-        }
-    },
-    "JG1Mn-YQA6": {
-        "id": "JG1Mn-YQA6",
-        "title": "Город праха",
-        "author": "Кассандра Клэр",
-        "notes": "",
-        "createdAt": "2017-04-28 12:48:12",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 2
         }
     }
 }
