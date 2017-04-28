@@ -1,4 +1,16 @@
 {
+    "CKLqrxyqMN": {
+        "id": "CKLqrxyqMN",
+        "title": "На грани безумия",
+        "author": "Хелен Филдинг",
+        "notes": "",
+        "createdAt": "2017-04-28 13:58:09",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 72
+        }
+    },
     "3TC19F8gfY": {
         "id": "3TC19F8gfY",
         "title": "Дневник Бриджит Джонс",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 43
-        }
-    },
-    "IY8aWnkzxv": {
-        "id": "IY8aWnkzxv",
-        "title": "Мой огненный и снежный зверь",
-        "author": "Ева Никольская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:11:08",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 42
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>71</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>72</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### На грани безумия
+Хелен Филдинг
+
 
 ### Дневник Бриджит Джонс
 Хелен Филдинг
