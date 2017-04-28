@@ -1,4 +1,16 @@
 {
+    "pVRG9q07HO": {
+        "id": "pVRG9q07HO",
+        "title": "Бедные люди",
+        "author": "Федор Михайлович Достоевский",
+        "notes": "",
+        "createdAt": "2017-04-28 18:45:18",
+        "user": {
+            "id": "1268205236629508-facebook",
+            "nickname": "Ed_Wood",
+            "booksCount": 1
+        }
+    },
     "nR9oHFT_f9": {
         "id": "nR9oHFT_f9",
         "title": "Пирог из горького миндаля",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 50
-        }
-    },
-    "qDYgGJZrmO": {
-        "id": "qDYgGJZrmO",
-        "title": "Правила поведения под столом",
-        "author": "Екатерина Богданова",
-        "notes": "",
-        "createdAt": "2017-04-28 13:17:34",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 49
         }
     }
 }

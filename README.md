@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ed_Wood](users/126/1268205236629508-facebook)<sup>0</sup> 
+[Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>11</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>77</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 
 
-_28.04.2017 18:44:25_
+_28.04.2017 18:45:18_
