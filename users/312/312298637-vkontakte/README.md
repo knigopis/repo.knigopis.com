@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>21</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>22</sup>
 ---
 
 ## 2017
@@ -51,6 +51,10 @@
 
 
 ## 2016
+
+### Игра со зверем. Шах королю
+Алена Алексина
+
 
 ### Игра со зверем. Ход пешкой
 Алена Алексина

@@ -1,4 +1,16 @@
 {
+    "g26XoyR_Lt": {
+        "id": "g26XoyR_Lt",
+        "title": "Игра со зверем. Шах королю",
+        "author": "Алена Алексина",
+        "notes": "",
+        "createdAt": "2017-04-28 12:56:05",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 22
+        }
+    },
     "v9OhNDFBeJ": {
         "id": "v9OhNDFBeJ",
         "title": "Игра со зверем. Ход пешкой",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 75
-        }
-    },
-    "BqZgtQDvAr": {
-        "id": "BqZgtQDvAr",
-        "title": "П.Ш.",
-        "author": "Дмитрий Хара",
-        "notes": "",
-        "createdAt": "2017-04-27 15:13:43",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 74
         }
     }
 }
