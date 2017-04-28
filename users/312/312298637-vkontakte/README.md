@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>40</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>41</sup>
 ---
 
 ## 2017
@@ -168,6 +168,10 @@
 
 
 ## 2015
+
+### Красавица и её чудовище
+Ева Никольская
+
 
 ### Замужем за Черным Властелином
 Юлия Славачевская
