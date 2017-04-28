@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>64</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>65</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 ### Янтарь и Льдянка
 Дарья Снежная
 > [2017-01] 
+
+
+### Кукла советника
+Елена Литвиенко
 
 
 ### Крылья

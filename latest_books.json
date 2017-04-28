@@ -1,4 +1,16 @@
 {
+    "m7BFpmcKJt": {
+        "id": "m7BFpmcKJt",
+        "title": "Кукла советника",
+        "author": "Елена Литвиенко",
+        "notes": "",
+        "createdAt": "2017-04-28 13:47:22",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 65
+        }
+    },
     "LLzRLxJHGp": {
         "id": "LLzRLxJHGp",
         "title": "Крылья",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 36
-        }
-    },
-    "mL1FxyBixf": {
-        "id": "mL1FxyBixf",
-        "title": "За гранью грань",
-        "author": "Ольга Романовская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:06:57",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 35
         }
     }
 }
