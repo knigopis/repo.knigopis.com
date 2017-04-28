@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>58</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>59</sup>
 ---
 
 ## 2017
@@ -93,6 +93,10 @@
 
 
 ## 2016
+
+### Цирк кошмаров
+Олег Рой, Екатерина Неволина
+
 
 ### Леди-кошка
 Олег Рой, Екатерина Неволина

@@ -1,4 +1,16 @@
 {
+    "UvK4_u53rM": {
+        "id": "UvK4_u53rM",
+        "title": "Цирк кошмаров",
+        "author": "Олег Рой, Екатерина Неволина",
+        "notes": "",
+        "createdAt": "2017-04-28 13:44:15",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 59
+        }
+    },
     "71FTXIVj5K": {
         "id": "71FTXIVj5K",
         "title": "Леди-кошка",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 30
-        }
-    },
-    "xqlczk-yhf": {
-        "id": "xqlczk-yhf",
-        "title": "Тяжело быть студентом",
-        "author": "Маргарита Блинова",
-        "notes": "",
-        "createdAt": "2017-04-28 13:03:49",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 29
         }
     }
 }
