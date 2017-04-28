@@ -1,4 +1,16 @@
 {
+    "Vd9B6GG_4S": {
+        "id": "Vd9B6GG_4S",
+        "title": "Присвоенная",
+        "author": "Нина Бархат, Марина Багирова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:50:22",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 4
+        }
+    },
     "BnjCtvrk3T": {
         "id": "BnjCtvrk3T",
         "title": "Город стекла",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 57
-        }
-    },
-    "Hm7_yh6yyk": {
-        "id": "Hm7_yh6yyk",
-        "title": "Ребекка",
-        "author": "Дафна дю Морье",
-        "notes": "",
-        "createdAt": "2017-04-27 15:05:48",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 56
         }
     }
 }
