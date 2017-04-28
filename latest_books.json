@@ -1,4 +1,16 @@
 {
+    "6Qj-Tawye7": {
+        "id": "6Qj-Tawye7",
+        "title": "Его Тьма",
+        "author": "Екатерина Флат",
+        "notes": "",
+        "createdAt": "2017-04-28 13:52:10",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 69
+        }
+    },
     "vGZ15OWuvp": {
         "id": "vGZ15OWuvp",
         "title": "Друзья поневоле",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 40
-        }
-    },
-    "ewcaYev1ny": {
-        "id": "ewcaYev1ny",
-        "title": "Заверните коня, принц не нужен",
-        "author": "Юлия Славачевская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:09:20",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 39
         }
     }
 }

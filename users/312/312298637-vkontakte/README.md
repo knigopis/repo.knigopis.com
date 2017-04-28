@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>68</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>69</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 ### Янтарь и Льдянка
 Дарья Снежная
 > [2017-01] 
+
+
+### Его Тьма
+Екатерина Флат
 
 
 ### Кукла советника
