@@ -1,7 +1,12 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>25</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>26</sup>
 ---
 
 ## 2017
+
+### Телохранительница его темнейшинства
+Арьяр Ирмата
+> [2017-04] 
+
 
 ### Две короны
 Наталья Жильцова

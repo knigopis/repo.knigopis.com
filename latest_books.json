@@ -1,4 +1,16 @@
 {
+    "gHAhl7gGJw": {
+        "id": "gHAhl7gGJw",
+        "title": "Телохранительница его темнейшинства",
+        "author": "Арьяр Ирмата",
+        "notes": "",
+        "createdAt": "2017-04-28 12:59:27",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 26
+        }
+    },
     "JNcUAf2upe": {
         "id": "JNcUAf2upe",
         "title": "Замок оборотня",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 79
-        }
-    },
-    "5dzE0Pz02s": {
-        "id": "5dzE0Pz02s",
-        "title": "Записки судмедэксперта",
-        "author": "...",
-        "notes": "",
-        "createdAt": "2017-04-27 15:17:14",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 78
         }
     }
 }
