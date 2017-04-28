@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kverta](users/312/312298637-vkontakte)<sup>0</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>96</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 [evgenevnapoli](users/390/39077651-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup> 
-[getoutaway](users/766/7660958-vkontakte)<sup>1</sup> 
 
 
-_28.04.2017 06:38:21_
+_28.04.2017 12:46:20_
