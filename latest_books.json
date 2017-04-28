@@ -1,4 +1,16 @@
 {
+    "E6HEgkg8bM": {
+        "id": "E6HEgkg8bM",
+        "title": "Клан волчицы",
+        "author": "Майте Карранса",
+        "notes": "",
+        "createdAt": "2017-04-28 13:45:17",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 62
+        }
+    },
     "ky5O7xRrXv": {
         "id": "ky5O7xRrXv",
         "title": "Парадокс Прада",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 33
-        }
-    },
-    "1ELTCdjjqR": {
-        "id": "1ELTCdjjqR",
-        "title": "Дрянная девчонка в академии",
-        "author": "Катерина Полянская",
-        "notes": "",
-        "createdAt": "2017-04-28 13:04:56",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 32
         }
     }
 }
