@@ -1,7 +1,12 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>13</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>14</sup>
 ---
 
 ## 2017
+
+### Ярость Тьмы
+Наталья Жильцова
+> [2017-04] 
+
 
 ### Присвоенная
 Нина Бархат, Марина Багирова

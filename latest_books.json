@@ -1,4 +1,16 @@
 {
+    "tJaYWhtt5J": {
+        "id": "tJaYWhtt5J",
+        "title": "Ярость Тьмы",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:53:31",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 14
+        }
+    },
     "dOwlitg36Z": {
         "id": "dOwlitg36Z",
         "title": "Узоры Тьмы",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 67
-        }
-    },
-    "HRtd5IhOVL": {
-        "id": "HRtd5IhOVL",
-        "title": "Процесс",
-        "author": "Кафка",
-        "notes": "",
-        "createdAt": "2017-04-27 15:10:12",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 66
         }
     }
 }
