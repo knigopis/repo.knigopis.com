@@ -1,4 +1,16 @@
 {
+    "BnjCtvrk3T": {
+        "id": "BnjCtvrk3T",
+        "title": "Город стекла",
+        "author": "Кассандра Клэр",
+        "notes": "",
+        "createdAt": "2017-04-28 12:48:22",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 3
+        }
+    },
     "JG1Mn-YQA6": {
         "id": "JG1Mn-YQA6",
         "title": "Город праха",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 56
-        }
-    },
-    "y4PXHiP8Fo": {
-        "id": "y4PXHiP8Fo",
-        "title": "Милый друг",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2017-04-27 15:05:28",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 55
         }
     }
 }
