@@ -1,4 +1,16 @@
 {
+    "48kH5pCjH1": {
+        "id": "48kH5pCjH1",
+        "title": "Душа Огня",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:52:14",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 8
+        }
+    },
     "nf_KIk7tul": {
         "id": "nf_KIk7tul",
         "title": "Танец Огня",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 61
-        }
-    },
-    "0PwegnQj3p": {
-        "id": "0PwegnQj3p",
-        "title": "Пролетая над гнездом кукушки",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-04-27 15:07:48",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 60
         }
     }
 }
