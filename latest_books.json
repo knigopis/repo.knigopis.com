@@ -1,4 +1,16 @@
 {
+    "mqsFiWVYJM": {
+        "id": "mqsFiWVYJM",
+        "title": "Полуночный замок",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:51:01",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 5
+        }
+    },
     "Vd9B6GG_4S": {
         "id": "Vd9B6GG_4S",
         "title": "Присвоенная",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 58
-        }
-    },
-    "MWE8IQBu5i": {
-        "id": "MWE8IQBu5i",
-        "title": "Мулей",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2017-04-27 15:06:03",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 57
         }
     }
 }
