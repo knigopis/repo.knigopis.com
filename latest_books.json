@@ -1,4 +1,16 @@
 {
+    "E_ZNpb8F_q": {
+        "id": "E_ZNpb8F_q",
+        "title": "Урок первый: Не проклинай своего директора",
+        "author": "Елена Звездная",
+        "notes": "",
+        "createdAt": "2017-04-28 12:57:16",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 23
+        }
+    },
     "g26XoyR_Lt": {
         "id": "g26XoyR_Lt",
         "title": "Игра со зверем. Шах королю",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 76
-        }
-    },
-    "C_fXLZQ9md": {
-        "id": "C_fXLZQ9md",
-        "title": "Достижение Максимума",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2017-04-27 15:14:07",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 75
         }
     }
 }
