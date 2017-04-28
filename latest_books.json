@@ -1,4 +1,16 @@
 {
+    "4Lz8jp8Gmd": {
+        "id": "4Lz8jp8Gmd",
+        "title": "Проклятие некроманта",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-04-28 12:52:56",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 11
+        }
+    },
     "sfoslfWQ3P": {
         "id": "sfoslfWQ3P",
         "title": "Покорение огня",
@@ -345,18 +357,6 @@
             "id": "363723202-vkontakte",
             "nickname": "Narik",
             "booksCount": 64
-        }
-    },
-    "5O4Hx1BYFc": {
-        "id": "5O4Hx1BYFc",
-        "title": "Чувство и чувствительность",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-04-27 15:08:41",
-        "user": {
-            "id": "363723202-vkontakte",
-            "nickname": "Narik",
-            "booksCount": 63
         }
     }
 }
