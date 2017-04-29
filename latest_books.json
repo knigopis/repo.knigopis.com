@@ -1,4 +1,16 @@
 {
+    "L7zlQfTInj": {
+        "id": "L7zlQfTInj",
+        "title": "Бен-Гур",
+        "author": "Уоллес. Л",
+        "notes": "",
+        "createdAt": "2017-04-29 14:49:42",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 190
+        }
+    },
     "bgoW_8OTxf": {
         "id": "bgoW_8OTxf",
         "title": "Новые эльфы",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 60
-        }
-    },
-    "UvK4_u53rM": {
-        "id": "UvK4_u53rM",
-        "title": "Цирк кошмаров",
-        "author": "Олег Рой, Екатерина Неволина",
-        "notes": "",
-        "createdAt": "2017-04-28 13:44:15",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 59
         }
     }
 }
