@@ -1,4 +1,10 @@
 {
+    "734766532438417408-twitter": {
+        "id": "734766532438417408-twitter",
+        "nickname": "canonnist",
+        "booksCount": 0,
+        "updatedAt": "2017-04-29 07:05:17"
+    },
     "1268205236629508-facebook": {
         "id": "1268205236629508-facebook",
         "nickname": "Ed_Wood",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 45,
         "updatedAt": "2017-04-21 17:58:28"
-    },
-    "862102507195473-facebook": {
-        "id": "862102507195473-facebook",
-        "nickname": "Виктория",
-        "booksCount": 0,
-        "updatedAt": "2017-04-21 16:04:39"
     }
 }
