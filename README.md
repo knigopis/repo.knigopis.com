@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>11</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>77</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kiriko](users/103/103574531484841086587-google)<sup>0</sup> 
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>45</sup> 
-[Виктория](users/862/862102507195473-facebook)<sup>0</sup> 
 
 
-_28.04.2017 18:45:18_
+_29.04.2017 07:05:20_
