@@ -1,4 +1,16 @@
 {
+    "qmERBPVR-_": {
+        "id": "qmERBPVR-_",
+        "title": "Записки охотника",
+        "author": "Тургенев",
+        "notes": "",
+        "createdAt": "2017-04-29 14:44:16",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 183
+        }
+    },
     "iyKAWnoUPD": {
         "id": "iyKAWnoUPD",
         "title": "Гранатовый браслет",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 53
-        }
-    },
-    "tOlGhhtUNB": {
-        "id": "tOlGhhtUNB",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-04-28 13:25:14",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 52
         }
     }
 }
