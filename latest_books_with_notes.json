@@ -1,4 +1,16 @@
 {
+    "bgoW_8OTxf": {
+        "id": "bgoW_8OTxf",
+        "title": "Новые эльфы",
+        "author": "Мясоедов В.",
+        "notes": "Серия 10 книг",
+        "createdAt": "2017-04-29 14:48:58",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 189
+        }
+    },
     "nR9oHFT_f9": {
         "id": "nR9oHFT_f9",
         "title": "Пирог из горького миндаля",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 97
-        }
-    },
-    "hyyq6s31Ve": {
-        "id": "hyyq6s31Ve",
-        "title": "На краю пропасти",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №4",
-        "createdAt": "2017-04-13 19:36:16",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 96
         }
     }
 }

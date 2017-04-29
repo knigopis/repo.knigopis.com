@@ -1,4 +1,16 @@
 {
+    "bgoW_8OTxf": {
+        "id": "bgoW_8OTxf",
+        "title": "Новые эльфы",
+        "author": "Мясоедов В.",
+        "notes": "Серия 10 книг",
+        "createdAt": "2017-04-29 14:48:58",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 189
+        }
+    },
     "mTmvEGMPtT": {
         "id": "mTmvEGMPtT",
         "title": "Дитя магии",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 59
-        }
-    },
-    "71FTXIVj5K": {
-        "id": "71FTXIVj5K",
-        "title": "Леди-кошка",
-        "author": "Олег Рой, Екатерина Неволина",
-        "notes": "",
-        "createdAt": "2017-04-28 13:44:07",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 58
         }
     }
 }
