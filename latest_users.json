@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 12,
+        "updatedAt": "2017-04-29 16:34:37"
+    },
     "1734575-vkontakte": {
         "id": "1734575-vkontakte",
         "nickname": "foksik",
@@ -16,12 +22,6 @@
         "nickname": "Ed_Wood",
         "booksCount": 1,
         "updatedAt": "2017-04-28 18:45:18"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 11,
-        "updatedAt": "2017-04-28 18:37:24"
     },
     "312298637-vkontakte": {
         "id": "312298637-vkontakte",

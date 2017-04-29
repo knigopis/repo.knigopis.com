@@ -1,4 +1,16 @@
 {
+    "HgxK0mBOkp": {
+        "id": "HgxK0mBOkp",
+        "title": "Бриллиантовый шепот",
+        "author": "Завелевич Ольга",
+        "notes": "История двух семей во времена революции и Отечественной войны",
+        "createdAt": "2017-04-29 16:34:37",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 12
+        }
+    },
     "vuYuakfwgJ": {
         "id": "vuYuakfwgJ",
         "title": "Архимаг",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 99
-        }
-    },
-    "rwyWuvWi0t": {
-        "id": "rwyWuvWi0t",
-        "title": "Мисс Силвер вмешивается",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №6",
-        "createdAt": "2017-04-13 19:37:56",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 98
         }
     }
 }

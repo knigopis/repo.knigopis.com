@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бриллиантовый шепот ~ [Chiffi](users/105/105831994080785626680-google)<sup>12</sup>
+    > История двух семей во времена революции и Отечественной войны
+
 * Архимаг ~ [foksik](users/173/1734575-vkontakte)<sup>191</sup>
     > Серия - 10 книг
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Серия 10 книг
 
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>11</sup>
-    > очень трогательный детектив
 
 * Не та дверь ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
 
-* Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 [canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>11</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>77</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 
 
-_29.04.2017 14:50:37_
+_29.04.2017 16:34:37_
