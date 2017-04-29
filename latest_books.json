@@ -1,4 +1,16 @@
 {
+    "iyKAWnoUPD": {
+        "id": "iyKAWnoUPD",
+        "title": "Гранатовый браслет",
+        "author": "Куприн",
+        "notes": "",
+        "createdAt": "2017-04-29 14:43:42",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 182
+        }
+    },
     "64vHAK2dPr": {
         "id": "64vHAK2dPr",
         "title": "Сделать выбор",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 52
-        }
-    },
-    "1BgEG9JlDu": {
-        "id": "1BgEG9JlDu",
-        "title": "Жена на полставки",
-        "author": "Кристина Зимняя",
-        "notes": "",
-        "createdAt": "2017-04-28 13:18:49",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 51
         }
     }
 }
