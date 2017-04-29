@@ -1,4 +1,16 @@
 {
+    "9I5BbEg_e8": {
+        "id": "9I5BbEg_e8",
+        "title": "Лучший из миров",
+        "author": "Колпакова Н.",
+        "notes": "",
+        "createdAt": "2017-04-29 14:47:39",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 187
+        }
+    },
     "TgiyVmoA4y": {
         "id": "TgiyVmoA4y",
         "title": "Дом на перекрестке. Под небом четырех миров",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 57
-        }
-    },
-    "f7b9zFpO90": {
-        "id": "f7b9zFpO90",
-        "title": "Дочь Гингемы",
-        "author": "Сухинов Сергей",
-        "notes": "",
-        "createdAt": "2017-04-28 13:34:15",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 56
         }
     }
 }
