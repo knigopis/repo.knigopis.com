@@ -1,4 +1,16 @@
 {
+    "3ia10OFBQG": {
+        "id": "3ia10OFBQG",
+        "title": "Резиденция феи",
+        "author": "Звездная Е",
+        "notes": "",
+        "createdAt": "2017-04-29 14:46:32",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 185
+        }
+    },
     "t07tQeK-x7": {
         "id": "t07tQeK-x7",
         "title": "Дом на перекрестке",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 55
-        }
-    },
-    "Wkb_cStbYZ": {
-        "id": "Wkb_cStbYZ",
-        "title": "Виолетта. Жила-была... лич",
-        "author": "Елена Кароль",
-        "notes": "",
-        "createdAt": "2017-04-28 13:30:08",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 54
         }
     }
 }
