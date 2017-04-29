@@ -1,4 +1,10 @@
 {
+    "1734575-vkontakte": {
+        "id": "1734575-vkontakte",
+        "nickname": "foksik",
+        "booksCount": 181,
+        "updatedAt": "2017-04-29 14:43:14"
+    },
     "734766532438417408-twitter": {
         "id": "734766532438417408-twitter",
         "nickname": "canonnist",
@@ -172,11 +178,5 @@
         "nickname": "merkuts",
         "booksCount": 0,
         "updatedAt": "2017-04-21 20:28:22"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 45,
-        "updatedAt": "2017-04-21 17:58:28"
     }
 }
