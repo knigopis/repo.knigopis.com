@@ -1,4 +1,16 @@
 {
+    "vuYuakfwgJ": {
+        "id": "vuYuakfwgJ",
+        "title": "Архимаг",
+        "author": "Рудазов",
+        "notes": "Серия - 10 книг",
+        "createdAt": "2017-04-29 14:50:37",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 191
+        }
+    },
     "bgoW_8OTxf": {
         "id": "bgoW_8OTxf",
         "title": "Новые эльфы",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 98
-        }
-    },
-    "b23eCZqydc": {
-        "id": "b23eCZqydc",
-        "title": "Китайская Шаль",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №5",
-        "createdAt": "2017-04-13 19:36:44",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 97
         }
     }
 }

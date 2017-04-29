@@ -1,4 +1,16 @@
 {
+    "vuYuakfwgJ": {
+        "id": "vuYuakfwgJ",
+        "title": "Архимаг",
+        "author": "Рудазов",
+        "notes": "Серия - 10 книг",
+        "createdAt": "2017-04-29 14:50:37",
+        "user": {
+            "id": "1734575-vkontakte",
+            "nickname": "foksik",
+            "booksCount": 191
+        }
+    },
     "L7zlQfTInj": {
         "id": "L7zlQfTInj",
         "title": "Бен-Гур",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 61
-        }
-    },
-    "OAYx9JDyyp": {
-        "id": "OAYx9JDyyp",
-        "title": "Охота снежной королевы",
-        "author": "Олег Рой, Екатерина Неволина",
-        "notes": "",
-        "createdAt": "2017-04-28 13:44:25",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 60
         }
     }
 }

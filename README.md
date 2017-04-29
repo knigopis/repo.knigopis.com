@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Архимаг ~ [foksik](users/173/1734575-vkontakte)<sup>191</sup>
+    > Серия - 10 книг
+
 * Новые эльфы ~ [foksik](users/173/1734575-vkontakte)<sup>189</sup>
     > Серия 10 книг
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > очень трогательный детектив
 
 * Не та дверь ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup>
-    > Все началось с обычного похода в парикмахерскую. Пятилетний Женя привычно сел в кресло напротив зеркала, глянул на свое отражение, затем - на парикмахершу и… похолодел от ужаса. Перед ним стояла настоящая ведьма. Отвратительная, злобная, страшная старуха. Остро заточенные ножницы в ее руке лязгнули. Трупный смрад хлынул на ребенка. Но почему его бабушка, Елизавета Петровна, приведшая малыша на стрижку, ничего не замечает? Почему отец Жени воспринял рассказ сына с юмором? Неужели взрослые уже настолько огрубели и ослепли, что не ощущают могильного холода всего в шаге от себя?
 
 * Коты-Воители: Закат ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
 
-* На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[foksik](users/173/1734575-vkontakte)<sup>190</sup> 
+[foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 [canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [merkuts](users/385/38514219-vkontakte)<sup>0</sup> 
 
 
-_29.04.2017 14:49:42_
+_29.04.2017 14:50:37_
