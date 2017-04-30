@@ -1,4 +1,10 @@
 {
+    "110215084470395017436-google": {
+        "id": "110215084470395017436-google",
+        "nickname": "felton69",
+        "booksCount": 0,
+        "updatedAt": "2017-04-30 20:58:06"
+    },
     "7896728489653516386-mailru": {
         "id": "7896728489653516386-mailru",
         "nickname": "Серега",
@@ -172,11 +178,5 @@
         "nickname": "romi.mi.mi",
         "booksCount": 1,
         "updatedAt": "2017-04-22 23:47:35"
-    },
-    "118295716267928844957-google": {
-        "id": "118295716267928844957-google",
-        "nickname": "corpse",
-        "booksCount": 0,
-        "updatedAt": "2017-04-22 20:27:57"
     }
 }
