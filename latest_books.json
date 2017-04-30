@@ -1,4 +1,16 @@
 {
+    "SASSW00isz": {
+        "id": "SASSW00isz",
+        "title": "Право на Спящую Красавицу",
+        "author": "Энн Райс",
+        "notes": "",
+        "createdAt": "2017-04-30 09:30:38",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 79
+        }
+    },
     "oOlbMqDwML": {
         "id": "oOlbMqDwML",
         "title": "Белоснежка и волшебный меч",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 67
-        }
-    },
-    "XeWwLqQDbx": {
-        "id": "XeWwLqQDbx",
-        "title": "50 дней до моего самоубийства",
-        "author": "Крамер Стейс",
-        "notes": "",
-        "createdAt": "2017-04-28 13:48:24",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 66
         }
     }
 }
