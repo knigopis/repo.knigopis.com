@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>524</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>525</sup>
 ---
 
 ## 2017
+
+### Бесчестье
+Джон Максвелл Кутзее
+> [2017-04] 
+
 
 ### Белая лошадь - горе не мое
 Наталья Соломко
