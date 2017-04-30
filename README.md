@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>83</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>526</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>89</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
-[Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
 
 
-_30.04.2017 10:07:26_
+_30.04.2017 12:32:39_
