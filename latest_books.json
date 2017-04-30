@@ -1,4 +1,16 @@
 {
+    "bipuM50S8D": {
+        "id": "bipuM50S8D",
+        "title": "Спасение Красавицы",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-04-30 09:30:56",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 81
+        }
+    },
     "r10p5sNCk_": {
         "id": "r10p5sNCk_",
         "title": "Наказание Красавицы",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 69
-        }
-    },
-    "vGZ15OWuvp": {
-        "id": "vGZ15OWuvp",
-        "title": "Друзья поневоле",
-        "author": "Ковальчук Анастасия",
-        "notes": "",
-        "createdAt": "2017-04-28 13:50:10",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 68
         }
     }
 }
