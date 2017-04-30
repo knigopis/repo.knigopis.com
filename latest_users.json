@@ -1,4 +1,10 @@
 {
+    "7896728489653516386-mailru": {
+        "id": "7896728489653516386-mailru",
+        "nickname": "Серега",
+        "booksCount": 0,
+        "updatedAt": "2017-04-30 12:32:37"
+    },
     "312298637-vkontakte": {
         "id": "312298637-vkontakte",
         "nickname": "kverta",
@@ -172,11 +178,5 @@
         "nickname": "corpse",
         "booksCount": 0,
         "updatedAt": "2017-04-22 20:27:57"
-    },
-    "138380800-vkontakte": {
-        "id": "138380800-vkontakte",
-        "nickname": "Juniell",
-        "booksCount": 2,
-        "updatedAt": "2017-04-22 19:18:23"
     }
 }
