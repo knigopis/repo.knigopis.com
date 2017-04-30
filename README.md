@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kverta](users/312/312298637-vkontakte)<sup>81</sup> 
+[kverta](users/312/312298637-vkontakte)<sup>82</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>526</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>89</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
 
 
-_30.04.2017 09:30:56_
+_30.04.2017 09:58:39_

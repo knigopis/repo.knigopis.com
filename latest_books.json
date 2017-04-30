@@ -1,4 +1,16 @@
 {
+    "1aHOrvo98U": {
+        "id": "1aHOrvo98U",
+        "title": "Графиня по вызову",
+        "author": "Ольга Куно",
+        "notes": "",
+        "createdAt": "2017-04-30 09:58:39",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 82
+        }
+    },
     "bipuM50S8D": {
         "id": "bipuM50S8D",
         "title": "Спасение Красавицы",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 70
-        }
-    },
-    "6Qj-Tawye7": {
-        "id": "6Qj-Tawye7",
-        "title": "Его Тьма",
-        "author": "Екатерина Флат",
-        "notes": "",
-        "createdAt": "2017-04-28 13:52:10",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 69
         }
     }
 }

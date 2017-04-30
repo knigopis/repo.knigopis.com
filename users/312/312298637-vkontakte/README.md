@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>81</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>82</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 ### Янтарь и Льдянка
 Дарья Снежная
 > [2017-01] 
+
+
+### Графиня по вызову
+Ольга Куно
 
 
 ### Спасение Красавицы
