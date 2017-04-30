@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>525</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>526</sup>
 ---
 
 ## 2017
+
+### Год зайца
+Паасилинна Арто
+> [2017-04] 
+
 
 ### Бесчестье
 Джон Максвелл Кутзее

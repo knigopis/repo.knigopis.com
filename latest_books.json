@@ -1,4 +1,16 @@
 {
+    "3nl1yUPC9G": {
+        "id": "3nl1yUPC9G",
+        "title": "Год зайца",
+        "author": "Паасилинна Арто",
+        "notes": "",
+        "createdAt": "2017-04-30 05:33:08",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 526
+        }
+    },
     "JaZVEdAIjk": {
         "id": "JaZVEdAIjk",
         "title": "Бесчестье",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 65
-        }
-    },
-    "LLzRLxJHGp": {
-        "id": "LLzRLxJHGp",
-        "title": "Крылья",
-        "author": "Кристина Старк",
-        "notes": "",
-        "createdAt": "2017-04-28 13:46:17",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 64
         }
     }
 }
