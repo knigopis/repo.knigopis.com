@@ -1,4 +1,10 @@
 {
+    "312298637-vkontakte": {
+        "id": "312298637-vkontakte",
+        "nickname": "kverta",
+        "booksCount": 78,
+        "updatedAt": "2017-04-30 09:15:21"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -40,12 +46,6 @@
         "nickname": "Ed_Wood",
         "booksCount": 1,
         "updatedAt": "2017-04-28 18:45:18"
-    },
-    "312298637-vkontakte": {
-        "id": "312298637-vkontakte",
-        "nickname": "kverta",
-        "booksCount": 77,
-        "updatedAt": "2017-04-28 14:05:50"
     },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",

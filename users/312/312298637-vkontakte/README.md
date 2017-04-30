@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>77</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>78</sup>
 ---
 
 ## 2017
@@ -320,6 +320,10 @@
 
 
 ## 2012
+
+### Белоснежка и волшебный меч
+Софья Прокофьева
+
 
 ### Дочь Гингемы
 Сухинов Сергей

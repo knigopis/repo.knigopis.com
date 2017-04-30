@@ -1,4 +1,16 @@
 {
+    "oOlbMqDwML": {
+        "id": "oOlbMqDwML",
+        "title": "Белоснежка и волшебный меч",
+        "author": "Софья Прокофьева",
+        "notes": "",
+        "createdAt": "2017-04-30 09:15:21",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 78
+        }
+    },
     "3nl1yUPC9G": {
         "id": "3nl1yUPC9G",
         "title": "Год зайца",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 66
-        }
-    },
-    "m7BFpmcKJt": {
-        "id": "m7BFpmcKJt",
-        "title": "Кукла советника",
-        "author": "Елена Литвиенко",
-        "notes": "",
-        "createdAt": "2017-04-28 13:47:22",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 65
         }
     }
 }

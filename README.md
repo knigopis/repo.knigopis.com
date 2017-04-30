@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kverta](users/312/312298637-vkontakte)<sup>78</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>526</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>89</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 [canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
-[kverta](users/312/312298637-vkontakte)<sup>77</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>96</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
 
 
-_30.04.2017 05:33:09_
+_30.04.2017 09:15:21_
