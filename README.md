@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>83</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>526</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
-[corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 
 
-_30.04.2017 12:32:39_
+_30.04.2017 20:58:09_
