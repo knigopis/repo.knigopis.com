@@ -1,4 +1,4 @@
-# List of books read by [kverta](http://vk.com/id312298637)<sup>79</sup>
+# List of books read by [kverta](http://vk.com/id312298637)<sup>80</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2016
+
+### Наказание Красавицы
+Энн Райс
+
 
 ### Право на Спящую Красавицу
 Энн Райс

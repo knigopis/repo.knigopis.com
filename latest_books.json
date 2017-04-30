@@ -1,4 +1,16 @@
 {
+    "r10p5sNCk_": {
+        "id": "r10p5sNCk_",
+        "title": "Наказание Красавицы",
+        "author": "Энн Райс",
+        "notes": "",
+        "createdAt": "2017-04-30 09:30:49",
+        "user": {
+            "id": "312298637-vkontakte",
+            "nickname": "kverta",
+            "booksCount": 80
+        }
+    },
     "SASSW00isz": {
         "id": "SASSW00isz",
         "title": "Право на Спящую Красавицу",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 68
-        }
-    },
-    "A44e7zfZQa": {
-        "id": "A44e7zfZQa",
-        "title": "Повелительница Тьмы",
-        "author": "Ковальчук Анастасия",
-        "notes": "",
-        "createdAt": "2017-04-28 13:49:13",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 67
         }
     }
 }
