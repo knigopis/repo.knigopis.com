@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>89</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [romi.mi.mi](users/396/396788383-instagram)<sup>1</sup> 
 [corpse](users/118/118295716267928844957-google)<sup>0</sup> 
 [Juniell](users/138/138380800-vkontakte)<sup>2</sup> 
-[Kiriko](users/103/103574531484841086587-google)<sup>0</sup> 
 
 
-_29.04.2017 22:12:16_
+_30.04.2017 03:02:43_

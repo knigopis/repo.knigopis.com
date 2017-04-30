@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>88</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>89</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Черновик
 Сергей Лукьяненко
 > [2017-04-19] 
+
+
+### Чистовик
+Сергей Лукьяненко
+> [2017-04-01] 
 
 
 ### Таящийся у порога

@@ -1,4 +1,16 @@
 {
+    "eCaPgi2awj": {
+        "id": "eCaPgi2awj",
+        "title": "Чистовик",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-04-30 03:02:43",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 89
+        }
+    },
     "HgxK0mBOkp": {
         "id": "HgxK0mBOkp",
         "title": "Бриллиантовый шепот",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 63
-        }
-    },
-    "E6HEgkg8bM": {
-        "id": "E6HEgkg8bM",
-        "title": "Клан волчицы",
-        "author": "Майте Карранса",
-        "notes": "",
-        "createdAt": "2017-04-28 13:45:17",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 62
         }
     }
 }
