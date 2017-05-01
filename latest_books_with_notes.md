@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
 * «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
 * «МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>12</sup>
 * «ПУТЬ. КАК ЖИТЬ ПО-ХРИСТИАНСКИ СЕГОДНЯ, РЕАЛЬНО ИЗМЕНЯЯ ЖИЗНЬ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
 * Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>62</sup>
-* Эндшпиль Маккабрея ~ [Chiffi](users/105/105831994080785626680-google)<sup>9</sup>
 
 
-_01.05.2017 16:21:48_
+_01.05.2017 16:23:01_

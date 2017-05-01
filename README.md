@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
+    > [М.: Манн, Иванов и Фербер; 2016]
+
 * «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
     > [СПб.: Виссон, 2010]
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > [М.: Манн, Иванов и Фербер, 2016]
 
 * «ПУТЬ. КАК ЖИТЬ ПО-ХРИСТИАНСКИ СЕГОДНЯ, РЕАЛЬНО ИЗМЕНЯЯ ЖИЗНЬ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>11</sup>
-    > [М.: Эксмо, 2010]
 
 * «12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>10</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бриллиантовый шепот ~ [Chiffi](users/105/105831994080785626680-google)<sup>12</sup>
 
-* Архимаг ~ [foksik](users/173/1734575-vkontakte)<sup>191</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup> 
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_01.05.2017 16:21:48_
+_01.05.2017 16:23:01_
