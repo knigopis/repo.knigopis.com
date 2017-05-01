@@ -1,4 +1,16 @@
 {
+    "gKzbOf_ay0": {
+        "id": "gKzbOf_ay0",
+        "title": "«ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ»",
+        "author": "Джим Коллинз",
+        "notes": "[М.: Манн, Иванов и Фербер, 2014]",
+        "createdAt": "2017-05-01 16:15:24",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 9
+        }
+    },
     "XZrW8xTbUJ": {
         "id": "XZrW8xTbUJ",
         "title": "«БУДЬ ЛУЧШЕЙ ВЕРСИЕЙ СЕБЯ. КАК ОБЫЧНЫЕ ЛЮДИ СТАНОВЯТСЯ ВЫДАЮЩИМИСЯ»",
@@ -345,18 +357,6 @@
             "id": "1268205236629508-facebook",
             "nickname": "Ed_Wood",
             "booksCount": 1
-        }
-    },
-    "nR9oHFT_f9": {
-        "id": "nR9oHFT_f9",
-        "title": "Пирог из горького миндаля",
-        "author": "Михалкова Елена",
-        "notes": "очень трогательный детектив",
-        "createdAt": "2017-04-28 18:37:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 11
         }
     }
 }
