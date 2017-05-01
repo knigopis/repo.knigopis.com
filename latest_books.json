@@ -1,4 +1,16 @@
 {
+    "GodGBHgwOy": {
+        "id": "GodGBHgwOy",
+        "title": "Программирование на Java для детей, родителей, дедушек и бабушек",
+        "author": "Яков Файн",
+        "notes": "",
+        "createdAt": "2017-05-01 13:18:26",
+        "user": {
+            "id": "870467263091830-facebook",
+            "nickname": "Kirill_Dodonov",
+            "booksCount": 7
+        }
+    },
     "hT8Qd5UcQE": {
         "id": "hT8Qd5UcQE",
         "title": "Java8 Полное руководство Девятое издание",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 75
-        }
-    },
-    "X0Mw1QXdVE": {
-        "id": "X0Mw1QXdVE",
-        "title": "И вспыхнет пламя",
-        "author": "Сьюзан Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-28 14:02:39",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 74
         }
     }
 }

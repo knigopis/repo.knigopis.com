@@ -1,7 +1,12 @@
-# List of books read by [Kirill_Dodonov](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>6</sup>
+# List of books read by [Kirill_Dodonov](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>7</sup>
 ---
 
 ## 2017
+
+### Программирование на Java для детей, родителей, дедушек и бабушек
+Яков Файн
+> [2017-01] 
+
 
 ### Программирование под Android
 Брайан Харди, Билл Филлипс
