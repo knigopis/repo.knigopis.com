@@ -1,4 +1,10 @@
 {
+    "1178574968926770-facebook": {
+        "id": "1178574968926770-facebook",
+        "nickname": "Efox",
+        "booksCount": 0,
+        "updatedAt": "2017-05-01 01:51:09"
+    },
     "110215084470395017436-google": {
         "id": "110215084470395017436-google",
         "nickname": "felton69",
@@ -172,11 +178,5 @@
         "nickname": "Derek777",
         "booksCount": 30,
         "updatedAt": "2017-04-23 09:35:06"
-    },
-    "396788383-instagram": {
-        "id": "396788383-instagram",
-        "nickname": "romi.mi.mi",
-        "booksCount": 1,
-        "updatedAt": "2017-04-22 23:47:35"
     }
 }
