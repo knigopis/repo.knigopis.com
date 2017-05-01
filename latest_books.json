@@ -1,4 +1,16 @@
 {
+    "Occ4I8BvHP": {
+        "id": "Occ4I8BvHP",
+        "title": "Франсуаза Саган",
+        "author": "Немного солнца в холодной воде",
+        "notes": "",
+        "createdAt": "2017-05-01 07:30:01",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 527
+        }
+    },
     "WilBX0vA2e": {
         "id": "WilBX0vA2e",
         "title": "Приворотное зелье",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 72
-        }
-    },
-    "3TC19F8gfY": {
-        "id": "3TC19F8gfY",
-        "title": "Дневник Бриджит Джонс",
-        "author": "Хелен Филдинг",
-        "notes": "",
-        "createdAt": "2017-04-28 13:57:11",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 71
         }
     }
 }
