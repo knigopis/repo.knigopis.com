@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Kirill_Dodonov](users/870/870467263091830-facebook)<sup>5</sup> 
+[Kirill_Dodonov](users/870/870467263091830-facebook)<sup>6</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_01.05.2017 13:15:40_
+_01.05.2017 13:17:19_

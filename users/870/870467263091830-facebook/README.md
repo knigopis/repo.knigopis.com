@@ -1,4 +1,4 @@
-# List of books read by [Kirill_Dodonov](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>5</sup>
+# List of books read by [Kirill_Dodonov](https://www.facebook.com/app_scoped_user_id/870467263091830/)<sup>6</sup>
 ---
 
 ## 2017
@@ -10,6 +10,11 @@
 
 
 ## 2016
+
+### Java8 Полное руководство Девятое издание
+Герберт Шилдт
+> [2016-06] 
+
 
 ### Spring в действии / Spring in Action третье издание М2013
 Крейг Уоллс

@@ -1,4 +1,16 @@
 {
+    "hT8Qd5UcQE": {
+        "id": "hT8Qd5UcQE",
+        "title": "Java8 Полное руководство Девятое издание",
+        "author": "Герберт Шилдт",
+        "notes": "",
+        "createdAt": "2017-05-01 13:17:18",
+        "user": {
+            "id": "870467263091830-facebook",
+            "nickname": "Kirill_Dodonov",
+            "booksCount": 6
+        }
+    },
     "2GwlWmY_yX": {
         "id": "2GwlWmY_yX",
         "title": "Spring в действии / Spring in Action третье издание М2013",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 74
-        }
-    },
-    "Z04EkkWGRQ": {
-        "id": "Z04EkkWGRQ",
-        "title": "Голодные игры",
-        "author": "Сьюзан Коллинз",
-        "notes": "",
-        "createdAt": "2017-04-28 14:02:28",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 73
         }
     }
 }
