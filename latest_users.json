@@ -1,4 +1,10 @@
 {
+    "423302481-vkontakte": {
+        "id": "423302481-vkontakte",
+        "nickname": "vladimir_balykov_ua",
+        "booksCount": 6,
+        "updatedAt": "2017-05-01 16:06:34"
+    },
     "870467263091830-facebook": {
         "id": "870467263091830-facebook",
         "nickname": "Kirill_Dodonov",
@@ -148,12 +154,6 @@
         "nickname": "olegessenin",
         "booksCount": 9,
         "updatedAt": "2017-04-23 17:06:10"
-    },
-    "423302481-vkontakte": {
-        "id": "423302481-vkontakte",
-        "nickname": "vladimir_balykov_ua",
-        "booksCount": 5,
-        "updatedAt": "2017-04-23 15:49:20"
     },
     "425258261-vkontakte": {
         "id": "425258261-vkontakte",

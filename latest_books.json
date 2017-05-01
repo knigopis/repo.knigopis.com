@@ -1,4 +1,16 @@
 {
+    "e_ZckMpOYq": {
+        "id": "e_ZckMpOYq",
+        "title": "«ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1",
+        "author": "Сет Годин",
+        "notes": "[М.: Альпина Паблишер, 2011]\nISBN 978-5-9614-1667-1",
+        "createdAt": "2017-05-01 16:06:34",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 6
+        }
+    },
     "GodGBHgwOy": {
         "id": "GodGBHgwOy",
         "title": "Программирование на Java для детей, родителей, дедушек и бабушек",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 76
-        }
-    },
-    "0Gxzxdlnan": {
-        "id": "0Gxzxdlnan",
-        "title": "Отбор",
-        "author": "Кира Касс",
-        "notes": "",
-        "createdAt": "2017-04-28 14:05:31",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 75
         }
     }
 }

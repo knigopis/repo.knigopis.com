@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1 ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>6</sup>
+    > [М.: Альпина Паблишер, 2011]
+    > ISBN 978-5-9614-1667-1
+
 * Бриллиантовый шепот ~ [Chiffi](users/105/105831994080785626680-google)<sup>12</sup>
     > История двух семей во времена революции и Отечественной войны
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Серия - 10 книг
 
 * Новые эльфы ~ [foksik](users/173/1734575-vkontakte)<sup>189</sup>
-    > Серия 10 книг
 
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>11</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
 
-* Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>6</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
@@ -58,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>5</sup> 
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_01.05.2017 13:18:26_
+_01.05.2017 16:06:34_
