@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>10</sup>
+    > [М: Манн, Иванов и Фербер, 2014]
+
 * «ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>9</sup>
     > [М.: Манн, Иванов и Фербер, 2014]
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > [М.: Манн, Иванов и Фербер, 2015]
 
 * «ИНКУБАТОР TWITTER. ПОДЛИННАЯ ИСТОРИЯ ДЕНЕГ, ВЛАСТИ, ДРУЖБЫ И ПРЕДАТЕЛЬСТВА» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>7</sup>
-    > [М.: Азбука Бизнес, Азбука-Аттикус, 2015]
 
 * «ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1 ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>6</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Не та дверь ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup>
 
-* Коты-Воители: Закат ~ [EsterHani](users/305/30558181-vkontakte)<sup>100</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>9</sup> 
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>10</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_01.05.2017 16:15:24_
+_01.05.2017 16:16:38_

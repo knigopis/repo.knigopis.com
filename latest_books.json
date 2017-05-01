@@ -1,4 +1,16 @@
 {
+    "l4WJpsmNgi": {
+        "id": "l4WJpsmNgi",
+        "title": "«12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ»",
+        "author": "Брайан Моран, Майкл Леннингтон",
+        "notes": "[М: Манн, Иванов и Фербер, 2014]",
+        "createdAt": "2017-05-01 16:16:38",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 10
+        }
+    },
     "gKzbOf_ay0": {
         "id": "gKzbOf_ay0",
         "title": "«ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ»",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 181
-        }
-    },
-    "pVRG9q07HO": {
-        "id": "pVRG9q07HO",
-        "title": "Бедные люди",
-        "author": "Федор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-04-28 18:45:18",
-        "user": {
-            "id": "1268205236629508-facebook",
-            "nickname": "Ed_Wood",
-            "booksCount": 1
         }
     }
 }
