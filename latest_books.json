@@ -1,4 +1,16 @@
 {
+    "rKL_MnXUmp": {
+        "id": "rKL_MnXUmp",
+        "title": "«НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ»",
+        "author": "Джон Элдридж",
+        "notes": "[СПб.: Виссон, 2010]",
+        "createdAt": "2017-05-01 16:21:48",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 13
+        }
+    },
     "nsR0VDqDPf": {
         "id": "nsR0VDqDPf",
         "title": "«МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ»",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 184
-        }
-    },
-    "qmERBPVR-_": {
-        "id": "qmERBPVR-_",
-        "title": "Записки охотника",
-        "author": "Тургенев",
-        "notes": "",
-        "createdAt": "2017-04-29 14:44:16",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 183
         }
     }
 }

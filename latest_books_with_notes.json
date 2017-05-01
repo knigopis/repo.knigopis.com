@@ -1,4 +1,16 @@
 {
+    "rKL_MnXUmp": {
+        "id": "rKL_MnXUmp",
+        "title": "«НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ»",
+        "author": "Джон Элдридж",
+        "notes": "[СПб.: Виссон, 2010]",
+        "createdAt": "2017-05-01 16:21:48",
+        "user": {
+            "id": "423302481-vkontakte",
+            "nickname": "vladimir_balykov_ua",
+            "booksCount": 13
+        }
+    },
     "nsR0VDqDPf": {
         "id": "nsR0VDqDPf",
         "title": "«МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ»",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 9
-        }
-    },
-    "vfpqNWPk9l": {
-        "id": "vfpqNWPk9l",
-        "title": "Огненное колесо",
-        "author": "Патриция Вентворт",
-        "notes": "Мод Силвер №16",
-        "createdAt": "2017-04-13 19:58:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 108
         }
     }
 }
