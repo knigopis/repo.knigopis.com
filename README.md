@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>101</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>9</sup> 
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 
 
-_02.05.2017 18:12:06_
+_02.05.2017 18:48:42_
