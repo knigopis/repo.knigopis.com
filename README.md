@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мелисса](users/425/425258261-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
-[Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_02.05.2017 06:13:30_
+_02.05.2017 10:38:27_
