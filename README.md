@@ -5,6 +5,12 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
+    > [Жизнь с Богом, 2008]
+    > 
+    > О ЧЁМ КНИГА
+    > Книга «Почему я боюсь любить?» рассказывает о том, что мешает человеку раскрыть в себе дар - любить и быть любимым, и как устранить преграды на пути к подлинным, глубоким отношениям между людьми.
+
 * «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
     > [М.: Манн, Иванов и Фербер; 2016]
 
@@ -12,7 +18,6 @@ Do not use pull requests to make changes here.
     > [СПб.: Виссон, 2010]
 
 * «МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>12</sup>
-    > [М.: Манн, Иванов и Фербер, 2016]
 
 * «ПУТЬ. КАК ЖИТЬ ПО-ХРИСТИАНСКИ СЕГОДНЯ, РЕАЛЬНО ИЗМЕНЯЯ ЖИЗНЬ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>11</sup>
 
@@ -26,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * «ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1 ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>6</sup>
 
-* Бриллиантовый шепот ~ [Chiffi](users/105/105831994080785626680-google)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup> 
+[vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
@@ -65,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>30</sup> 
 
 
-_01.05.2017 16:23:01_
+_02.05.2017 06:13:30_
