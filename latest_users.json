@@ -1,4 +1,10 @@
 {
+    "135787469-vkontakte": {
+        "id": "135787469-vkontakte",
+        "nickname": "coolbosss",
+        "booksCount": 0,
+        "updatedAt": "2017-05-02 10:38:25"
+    },
     "423302481-vkontakte": {
         "id": "423302481-vkontakte",
         "nickname": "vladimir_balykov_ua",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 27,
         "updatedAt": "2017-04-23 09:49:47"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 30,
-        "updatedAt": "2017-04-23 09:35:06"
     }
 }
