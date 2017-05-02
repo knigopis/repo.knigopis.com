@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
 * (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
 * «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
 * «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
 * Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 * Плохой отец ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>45</sup>
-* Коты-Воители: Восход луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>96</sup>
 
 
-_02.05.2017 06:13:30_
+_02.05.2017 18:12:06_

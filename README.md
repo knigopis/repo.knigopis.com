@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
+    > Цикл "Новое пророчество"
+    > Книга 13
+
 * (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
     > [Жизнь с Богом, 2008]
     > 
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > [М.: Манн, Иванов и Фербер; 2016]
 
 * «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
-    > [СПб.: Виссон, 2010]
 
 * «МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>12</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * «ИНКУБАТОР TWITTER. ПОДЛИННАЯ ИСТОРИЯ ДЕНЕГ, ВЛАСТИ, ДРУЖБЫ И ПРЕДАТЕЛЬСТВА» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>7</sup>
 
-* «ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1 ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>101</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
@@ -53,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>96</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>100</sup> 
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>27</sup> 
 
 
-_02.05.2017 10:38:27_
+_02.05.2017 18:12:06_
