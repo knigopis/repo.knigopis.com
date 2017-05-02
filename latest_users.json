@@ -1,4 +1,10 @@
 {
+    "117046242609775896772-google": {
+        "id": "117046242609775896772-google",
+        "nickname": "Властелин Судьбы",
+        "booksCount": 0,
+        "updatedAt": "2017-05-02 18:48:41"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 141,
         "updatedAt": "2017-04-23 14:31:50"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 27,
-        "updatedAt": "2017-04-23 09:49:47"
     }
 }
