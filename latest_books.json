@@ -1,4 +1,16 @@
 {
+    "F6bQjkuguL": {
+        "id": "F6bQjkuguL",
+        "title": "Полночный детектив",
+        "author": "Леонид Словин",
+        "notes": "",
+        "createdAt": "2017-05-02 19:40:25",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 108
+        }
+    },
     "2JNShKpdx2": {
         "id": "2JNShKpdx2",
         "title": "Коты-Воители: Знак трех",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 188
-        }
-    },
-    "9I5BbEg_e8": {
-        "id": "9I5BbEg_e8",
-        "title": "Лучший из миров",
-        "author": "Колпакова Н.",
-        "notes": "",
-        "createdAt": "2017-04-29 14:47:39",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 187
         }
     }
 }

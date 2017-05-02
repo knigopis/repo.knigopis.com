@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>107</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>108</sup>
 ---
 
 ## 2017
+
+### Полночный детектив
+Леонид Словин
+> [2017-05-02] 
+
 
 ### Следующая остановка - жизнь
 Татьяна Успенская-Ошанина
