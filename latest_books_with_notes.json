@@ -1,4 +1,16 @@
 {
+    "D1C-ZMIfNT": {
+        "id": "D1C-ZMIfNT",
+        "title": "Свет погас",
+        "author": "Редьярд Кипплиг",
+        "notes": "Дик и Мейзи. Прекрасная история о двух подростках. Художники.",
+        "createdAt": "2017-05-03 05:58:39",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 46
+        }
+    },
     "bvAKrKMWm9": {
         "id": "bvAKrKMWm9",
         "title": "Братство",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 21
-        }
-    },
-    "QYxwCfep_j": {
-        "id": "QYxwCfep_j",
-        "title": "Коты-Воители: Рассвет",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 9",
-        "createdAt": "2017-04-19 11:06:26",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 97
         }
     }
 }

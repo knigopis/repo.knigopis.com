@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
 * Братство ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup>
 * Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
 * (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Звёздный свет ~ [EsterHani](users/305/30558181-vkontakte)<sup>98</sup>
 * Ожерелье Планет Ойкумены ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>95</sup>
 * Путь воинов христовых ~ [mfevralev](users/140/140966150-vkontakte)<sup>21</sup>
-* Коты-Воители: Рассвет ~ [EsterHani](users/305/30558181-vkontakte)<sup>97</sup>
 
 
-_03.05.2017 03:35:14_
+_03.05.2017 05:58:39_

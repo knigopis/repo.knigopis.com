@@ -1,4 +1,16 @@
 {
+    "D1C-ZMIfNT": {
+        "id": "D1C-ZMIfNT",
+        "title": "Свет погас",
+        "author": "Редьярд Кипплиг",
+        "notes": "Дик и Мейзи. Прекрасная история о двух подростках. Художники.",
+        "createdAt": "2017-05-03 05:58:39",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 46
+        }
+    },
     "bvAKrKMWm9": {
         "id": "bvAKrKMWm9",
         "title": "Братство",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 190
-        }
-    },
-    "bgoW_8OTxf": {
-        "id": "bgoW_8OTxf",
-        "title": "Новые эльфы",
-        "author": "Мясоедов В.",
-        "notes": "Серия 10 книг",
-        "createdAt": "2017-04-29 14:48:58",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 189
         }
     }
 }
