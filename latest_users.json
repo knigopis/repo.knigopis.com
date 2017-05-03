@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 528,
+        "updatedAt": "2017-05-03 13:45:27"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -46,12 +52,6 @@
         "nickname": "Kirill_Dodonov",
         "booksCount": 7,
         "updatedAt": "2017-05-01 13:18:26"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 527,
-        "updatedAt": "2017-05-01 07:30:01"
     },
     "1178574968926770-facebook": {
         "id": "1178574968926770-facebook",

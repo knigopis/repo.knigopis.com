@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>528</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>108</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>527</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 
 
-_03.05.2017 05:58:39_
+_03.05.2017 13:45:27_

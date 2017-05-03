@@ -1,4 +1,16 @@
 {
+    "V8uQq4vSrk": {
+        "id": "V8uQq4vSrk",
+        "title": "Мартышка",
+        "author": "Франсуа Мориак",
+        "notes": "",
+        "createdAt": "2017-05-03 13:45:27",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 528
+        }
+    },
     "D1C-ZMIfNT": {
         "id": "D1C-ZMIfNT",
         "title": "Свет погас",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 191
-        }
-    },
-    "L7zlQfTInj": {
-        "id": "L7zlQfTInj",
-        "title": "Бен-Гур",
-        "author": "Уоллес. Л",
-        "notes": "",
-        "createdAt": "2017-04-29 14:49:42",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 190
         }
     }
 }
