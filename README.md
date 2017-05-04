@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sevka](users/101/101641083016803975228-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>528</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 [duzorg](users/194/19482065-yandex)<sup>0</sup> 
-[anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 
 
-_04.05.2017 11:34:40_
+_04.05.2017 15:29:47_
