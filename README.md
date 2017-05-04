@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>528</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>96</sup> 
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anastasiavikernes](users/269/269147776-vkontakte)<sup>2</sup> 
 
 
-_03.05.2017 13:45:27_
+_04.05.2017 11:34:40_
