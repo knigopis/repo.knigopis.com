@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
+    > Прочитала до конца. Уже хорошо
+
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
     > ASIN: B01GXZUXPC
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дик и Мейзи. Прекрасная история о двух подростках. Художники.
 
 * Братство ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup>
-    > Более двадцати лет флорентиец Эцио Аудиторе сражался с тамплиерами, главными врагами своего братства. Отомстив убийцам отца и братьев, побывав в главном святилище ассасинов и выслушав послание богини Минервы, он вернулся в родовое гнездо. Но надежда в покое и достатке встретить старость не сбылась - внезапно на замок напали наемники папы Александра VI, заклятого врага Эцио, которого тот однажды опрометчиво пощадил. Потеряв последнего родственника, Аудиторе снова отправляется в Рим. На этот раз не только ради личной мести - он хочет свергнуть тиранию семьи Борджиа и вернуть Вечному городу мир и процветание.
 
 * Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «ПУТЬ. КАК ЖИТЬ ПО-ХРИСТИАНСКИ СЕГОДНЯ, РЕАЛЬНО ИЗМЕНЯЯ ЖИЗНЬ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>11</sup>
 
-* «12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>251</sup> 
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>113</sup> 
-[Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
 
 
-_05.05.2017 06:23:42_
+_05.05.2017 15:19:17_
