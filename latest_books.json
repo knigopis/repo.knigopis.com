@@ -1,4 +1,16 @@
 {
+    "jlkhJzoOhh": {
+        "id": "jlkhJzoOhh",
+        "title": "Quantitative Finance For Dummies",
+        "author": "Steve Bell",
+        "notes": "ASIN: B01GXZUXPC",
+        "createdAt": "2017-05-05 06:23:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 37
+        }
+    },
     "h6fHBxTZd-": {
         "id": "h6fHBxTZd-",
         "title": "Ускорение перемен",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 526
-        }
-    },
-    "JaZVEdAIjk": {
-        "id": "JaZVEdAIjk",
-        "title": "Бесчестье",
-        "author": "Джон Максвелл Кутзее",
-        "notes": "",
-        "createdAt": "2017-04-30 05:32:42",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 525
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
+    > ASIN: B01GXZUXPC
+
 * Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
     > Дик и Мейзи. Прекрасная история о двух подростках. Художники.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Более двадцати лет флорентиец Эцио Аудиторе сражался с тамплиерами, главными врагами своего братства. Отомстив убийцам отца и братьев, побывав в главном святилище ассасинов и выслушав послание богини Минервы, он вернулся в родовое гнездо. Но надежда в покое и достатке встретить старость не сбылась - внезапно на замок напали наемники папы Александра VI, заклятого врага Эцио, которого тот однажды опрометчиво пощадил. Потеряв последнего родственника, Аудиторе снова отправляется в Рим. На этот раз не только ради личной мести - он хочет свергнуть тиранию семьи Борджиа и вернуть Вечному городу мир и процветание.
 
 * Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
-    > Цикл "Новое пророчество"
-    > Книга 13
 
 * (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>10</sup>
 
-* «ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>9</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>251</sup> 
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>113</sup> 
 [Savamoti](users/104/104163471263700572245-google)<sup>0</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>51</sup> 
 
 
-_05.05.2017 03:41:40_
+_05.05.2017 06:23:42_
