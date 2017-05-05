@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 251,
+        "updatedAt": "2017-05-05 03:41:40"
+    },
     "101641083016803975228-google": {
         "id": "101641083016803975228-google",
         "nickname": "Sevka",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 51,
         "updatedAt": "2017-04-24 14:21:19"
-    },
-    "19482065-yandex": {
-        "id": "19482065-yandex",
-        "nickname": "duzorg",
-        "booksCount": 0,
-        "updatedAt": "2017-04-24 12:41:56"
     }
 }

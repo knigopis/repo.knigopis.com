@@ -1,4 +1,16 @@
 {
+    "h6fHBxTZd-": {
+        "id": "h6fHBxTZd-",
+        "title": "Ускорение перемен",
+        "author": "Джон Коттер",
+        "notes": "",
+        "createdAt": "2017-05-05 03:41:40",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 251
+        }
+    },
     "bpx2WfDKN-": {
         "id": "bpx2WfDKN-",
         "title": "Если Наступит Завтра",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 525
-        }
-    },
-    "eCaPgi2awj": {
-        "id": "eCaPgi2awj",
-        "title": "Чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-04-30 03:02:43",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 89
         }
     }
 }
