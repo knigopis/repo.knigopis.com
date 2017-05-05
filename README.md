@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>251</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>113</sup> 
 
 
-_05.05.2017 15:19:17_
+_05.05.2017 19:25:30_

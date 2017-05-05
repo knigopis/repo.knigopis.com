@@ -1,4 +1,16 @@
 {
+    "jM5pYQtmKW": {
+        "id": "jM5pYQtmKW",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рей Брэдбери",
+        "notes": "",
+        "createdAt": "2017-05-05 19:25:30",
+        "user": {
+            "id": "108774233915925319546-google",
+            "nickname": "Ann Rott",
+            "booksCount": 3
+        }
+    },
     "IVnUOwaR8K": {
         "id": "IVnUOwaR8K",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 79
-        }
-    },
-    "oOlbMqDwML": {
-        "id": "oOlbMqDwML",
-        "title": "Белоснежка и волшебный меч",
-        "author": "Софья Прокофьева",
-        "notes": "",
-        "createdAt": "2017-04-30 09:15:21",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 78
         }
     }
 }
