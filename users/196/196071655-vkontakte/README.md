@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>91</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>92</sup>
 ---
 
 ## 2017
@@ -43,6 +43,10 @@
 
 
 ## 2015
+
+### В списках не значился
+Борис Васильев
+
 
 ### Евгений Онегин
 А. С. Пушкин

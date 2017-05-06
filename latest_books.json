@@ -1,4 +1,16 @@
 {
+    "_MtRJHPJRM": {
+        "id": "_MtRJHPJRM",
+        "title": "В списках не значился",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2017-05-06 15:31:46",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 92
+        }
+    },
     "NCelFgNUtX": {
         "id": "NCelFgNUtX",
         "title": "Метро 2034",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 82
-        }
-    },
-    "bipuM50S8D": {
-        "id": "bipuM50S8D",
-        "title": "Спасение Красавицы",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-04-30 09:30:56",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 81
         }
     }
 }
