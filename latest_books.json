@@ -1,4 +1,16 @@
 {
+    "rOV8Ap_Qj_": {
+        "id": "rOV8Ap_Qj_",
+        "title": "Робин Гуд",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-05-06 15:35:07",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 93
+        }
+    },
     "_MtRJHPJRM": {
         "id": "_MtRJHPJRM",
         "title": "В списках не значился",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 83
-        }
-    },
-    "1aHOrvo98U": {
-        "id": "1aHOrvo98U",
-        "title": "Графиня по вызову",
-        "author": "Ольга Куно",
-        "notes": "",
-        "createdAt": "2017-04-30 09:58:39",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 82
         }
     }
 }
