@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>90</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>83</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>89</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 
 
-_05.05.2017 19:25:30_
+_06.05.2017 15:26:18_

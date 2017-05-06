@@ -1,4 +1,16 @@
 {
+    "Y8bC3QDG8K": {
+        "id": "Y8bC3QDG8K",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глушков",
+        "notes": "",
+        "createdAt": "2017-05-06 15:26:18",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 90
+        }
+    },
     "jM5pYQtmKW": {
         "id": "jM5pYQtmKW",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "312298637-vkontakte",
             "nickname": "kverta",
             "booksCount": 80
-        }
-    },
-    "SASSW00isz": {
-        "id": "SASSW00isz",
-        "title": "Право на Спящую Красавицу",
-        "author": "Энн Райс",
-        "notes": "",
-        "createdAt": "2017-04-30 09:30:38",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 79
         }
     }
 }

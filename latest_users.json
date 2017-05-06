@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 90,
+        "updatedAt": "2017-05-06 15:26:18"
+    },
     "108774233915925319546-google": {
         "id": "108774233915925319546-google",
         "nickname": "Ann Rott",
@@ -112,12 +118,6 @@
         "nickname": "kverta",
         "booksCount": 83,
         "updatedAt": "2017-04-30 10:07:26"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 89,
-        "updatedAt": "2017-04-30 03:02:43"
     },
     "1444844975573671-facebook": {
         "id": "1444844975573671-facebook",
