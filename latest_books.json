@@ -1,4 +1,16 @@
 {
+    "KKgL1oKmUz": {
+        "id": "KKgL1oKmUz",
+        "title": "Робин Гуд - Король разбойников",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-05-06 15:37:07",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 94
+        }
+    },
     "rOV8Ap_Qj_": {
         "id": "rOV8Ap_Qj_",
         "title": "Робин Гуд",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 527
-        }
-    },
-    "WilBX0vA2e": {
-        "id": "WilBX0vA2e",
-        "title": "Приворотное зелье",
-        "author": "Малиновская Елена",
-        "notes": "",
-        "createdAt": "2017-04-30 10:07:26",
-        "user": {
-            "id": "312298637-vkontakte",
-            "nickname": "kverta",
-            "booksCount": 83
         }
     }
 }
