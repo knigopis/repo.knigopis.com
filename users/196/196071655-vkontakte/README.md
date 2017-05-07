@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>95</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>96</sup>
 ---
 
 ## 2017
@@ -246,6 +246,10 @@
 
 
 ## 2011
+
+### Зелёная Миля
+Стивен Кинг
+
 
 ### Сектор обстрела
 Орехов В.

@@ -1,4 +1,16 @@
 {
+    "1jTiIaCZjw": {
+        "id": "1jTiIaCZjw",
+        "title": "Зелёная Миля",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-07 09:26:30",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 96
+        }
+    },
     "oHDUSr3_rG": {
         "id": "oHDUSr3_rG",
         "title": "Туман",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "Kirill_Dodonov",
             "booksCount": 6
-        }
-    },
-    "2GwlWmY_yX": {
-        "id": "2GwlWmY_yX",
-        "title": "Spring в действии / Spring in Action третье издание М2013",
-        "author": "Крейг Уоллс",
-        "notes": "",
-        "createdAt": "2017-05-01 13:15:40",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "Kirill_Dodonov",
-            "booksCount": 5
         }
     }
 }
