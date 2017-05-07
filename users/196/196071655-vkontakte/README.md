@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>94</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>95</sup>
 ---
 
 ## 2017
+
+### Туман
+Стивен Кинг
+> [2017-05-07] 
+
 
 ### Чистовик
 Сергей Лукьяненко

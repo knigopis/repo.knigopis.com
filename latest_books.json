@@ -1,4 +1,16 @@
 {
+    "oHDUSr3_rG": {
+        "id": "oHDUSr3_rG",
+        "title": "Туман",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-07 09:25:13",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 95
+        }
+    },
     "KKgL1oKmUz": {
         "id": "KKgL1oKmUz",
         "title": "Робин Гуд - Король разбойников",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "Kirill_Dodonov",
             "booksCount": 5
-        }
-    },
-    "Occ4I8BvHP": {
-        "id": "Occ4I8BvHP",
-        "title": "Франсуаза Саган",
-        "author": "Немного солнца в холодной воде",
-        "notes": "",
-        "createdAt": "2017-05-01 07:30:01",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 527
         }
     }
 }
