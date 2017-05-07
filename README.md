@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>96</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>528</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>108</sup> 
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>101</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 
 
-_07.05.2017 09:26:30_
+_07.05.2017 18:25:53_

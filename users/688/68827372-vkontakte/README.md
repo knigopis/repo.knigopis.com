@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>108</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>109</sup>
 ---
 
 ## 2017
+
+### На углу, у Патриарших...
+Анатолий Степанов, Эдуард Хруцкий
+> [2017-05-07] 
+
 
 ### Полночный детектив
 Леонид Словин

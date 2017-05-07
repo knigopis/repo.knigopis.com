@@ -1,4 +1,16 @@
 {
+    "Y3v8asMwrs": {
+        "id": "Y3v8asMwrs",
+        "title": "На углу, у Патриарших...",
+        "author": "Анатолий Степанов, Эдуард Хруцкий",
+        "notes": "",
+        "createdAt": "2017-05-07 18:25:53",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 109
+        }
+    },
     "1jTiIaCZjw": {
         "id": "1jTiIaCZjw",
         "title": "Зелёная Миля",
@@ -345,18 +357,6 @@
             "id": "870467263091830-facebook",
             "nickname": "Kirill_Dodonov",
             "booksCount": 7
-        }
-    },
-    "hT8Qd5UcQE": {
-        "id": "hT8Qd5UcQE",
-        "title": "Java8 Полное руководство Девятое издание",
-        "author": "Герберт Шилдт",
-        "notes": "",
-        "createdAt": "2017-05-01 13:17:18",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "Kirill_Dodonov",
-            "booksCount": 6
         }
     }
 }
