@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>109</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>96</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 [winna](users/372/37278708-vkontakte)<sup>5</sup> 
 [dashingmitchell](users/783/783885219308986369-twitter)<sup>0</sup> 
-[akornev79](users/100/100804790935781057955-google)<sup>0</sup> 
 
 
-_07.05.2017 18:25:53_
+_07.05.2017 18:32:06_

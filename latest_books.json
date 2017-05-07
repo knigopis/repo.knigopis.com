@@ -1,4 +1,16 @@
 {
+    "ATq9unwhXN": {
+        "id": "ATq9unwhXN",
+        "title": "Рольф в лесах",
+        "author": "Эрнест Сетон-Томпсон",
+        "notes": "",
+        "createdAt": "2017-05-07 18:32:06",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 109
+        }
+    },
     "Y3v8asMwrs": {
         "id": "Y3v8asMwrs",
         "title": "На углу, у Патриарших...",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 6
-        }
-    },
-    "GodGBHgwOy": {
-        "id": "GodGBHgwOy",
-        "title": "Программирование на Java для детей, родителей, дедушек и бабушек",
-        "author": "Яков Файн",
-        "notes": "",
-        "createdAt": "2017-05-01 13:18:26",
-        "user": {
-            "id": "870467263091830-facebook",
-            "nickname": "Kirill_Dodonov",
-            "booksCount": 7
         }
     }
 }
