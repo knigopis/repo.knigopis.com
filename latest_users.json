@@ -1,4 +1,10 @@
 {
+    "42198251-vkontakte": {
+        "id": "42198251-vkontakte",
+        "nickname": "gella-girl",
+        "booksCount": 0,
+        "updatedAt": "2017-05-08 06:56:01"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "winna",
         "booksCount": 5,
         "updatedAt": "2017-04-27 08:35:40"
-    },
-    "783885219308986369-twitter": {
-        "id": "783885219308986369-twitter",
-        "nickname": "dashingmitchell",
-        "booksCount": 0,
-        "updatedAt": "2017-04-26 15:06:22"
     }
 }
