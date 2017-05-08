@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>529</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>109</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>251</sup> 
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>528</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
 
 
-_08.05.2017 07:03:21_
+_08.05.2017 11:10:50_

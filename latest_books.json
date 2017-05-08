@@ -1,4 +1,16 @@
 {
+    "zBDtBvJBSe": {
+        "id": "zBDtBvJBSe",
+        "title": "Странник играет под сурдинку",
+        "author": "Кнут Гамсун",
+        "notes": "",
+        "createdAt": "2017-05-08 11:10:50",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 529
+        }
+    },
     "kvwB1L0jHV": {
         "id": "kvwB1L0jHV",
         "title": "Песнь о Трое",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 8
-        }
-    },
-    "xHeZ6MR4Bs": {
-        "id": "xHeZ6MR4Bs",
-        "title": "«ИНКУБАТОР TWITTER. ПОДЛИННАЯ ИСТОРИЯ ДЕНЕГ, ВЛАСТИ, ДРУЖБЫ И ПРЕДАТЕЛЬСТВА»",
-        "author": "Ник Билтон",
-        "notes": "[М.: Азбука Бизнес, Азбука-Аттикус, 2015]",
-        "createdAt": "2017-05-01 16:12:44",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 7
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>528</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>529</sup>
 ---
 
 ## 2017
+
+### Странник играет под сурдинку
+Кнут Гамсун
+> [2017-05] 
+
 
 ### Мартышка
 Франсуа Мориак
