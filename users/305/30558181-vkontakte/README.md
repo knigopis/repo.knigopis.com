@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>101</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>102</sup>
 ---
 
 ## 2017
+
+### Коты-Воители:
+Эрин Хантер
+> Цикл "Новое пророчество"
+> Книга 13
+
 
 ### Коты-Воители: Знак трех
 Эрин Хантер

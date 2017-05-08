@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
 * На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
 * Красная звезда ~ [Derek777](users/153/15386028-yandex)<sup>28</sup>
-* Ожерелье Королевы ~ [sonics](users/588/5880221-vkontakte)<sup>45</sup>
 
 
-_08.05.2017 07:03:21_
+_08.05.2017 16:30:52_

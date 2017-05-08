@@ -1,4 +1,16 @@
 {
+    "lOcl6NXrE8": {
+        "id": "lOcl6NXrE8",
+        "title": "Коты-Воители:",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 13",
+        "createdAt": "2017-05-08 16:30:52",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 102
+        }
+    },
     "zBDtBvJBSe": {
         "id": "zBDtBvJBSe",
         "title": "Странник играет под сурдинку",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 9
-        }
-    },
-    "XZrW8xTbUJ": {
-        "id": "XZrW8xTbUJ",
-        "title": "«БУДЬ ЛУЧШЕЙ ВЕРСИЕЙ СЕБЯ. КАК ОБЫЧНЫЕ ЛЮДИ СТАНОВЯТСЯ ВЫДАЮЩИМИСЯ»",
-        "author": "Дэн Вальдшмидт",
-        "notes": "[М.: Манн, Иванов и Фербер, 2015]",
-        "createdAt": "2017-05-01 16:14:13",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 8
         }
     }
 }

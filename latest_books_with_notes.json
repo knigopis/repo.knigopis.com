@@ -1,4 +1,16 @@
 {
+    "lOcl6NXrE8": {
+        "id": "lOcl6NXrE8",
+        "title": "Коты-Воители:",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Новое пророчество\"\nКнига 13",
+        "createdAt": "2017-05-08 16:30:52",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 102
+        }
+    },
     "kvwB1L0jHV": {
         "id": "kvwB1L0jHV",
         "title": "Песнь о Трое",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 28
-        }
-    },
-    "sV9DXtK-2g": {
-        "id": "sV9DXtK-2g",
-        "title": "Ожерелье Королевы",
-        "author": "Александр Дюма",
-        "notes": "Прекрасная книга, интриги, расследования. Наконец-то я ее дочитал :)\nБазир, Олива, Графиня де Ламотт, Шарни, Филипп, Андрэа. Мушкетёры круче :)",
-        "createdAt": "2017-04-21 17:58:28",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 45
         }
     }
 }

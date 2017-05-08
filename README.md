@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
+    > Цикл "Новое пророчество"
+    > Книга 13
+
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
     > Хорошая историческая реконструкция. Еще одна версия троянской войны.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Прочитала до конца. Уже хорошо
 
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
-    > ASIN: B01GXZUXPC
 
 * Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
 
-* «МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>102</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>529</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
@@ -49,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>101</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 
 
-_08.05.2017 14:19:07_
+_08.05.2017 16:30:52_
