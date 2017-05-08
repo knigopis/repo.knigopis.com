@@ -1,4 +1,10 @@
 {
+    "20867638-vkontakte": {
+        "id": "20867638-vkontakte",
+        "nickname": "golubeva_irinka",
+        "booksCount": 0,
+        "updatedAt": "2017-05-08 14:19:05"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Neccochi",
         "booksCount": 46,
         "updatedAt": "2017-04-28 06:38:21"
-    },
-    "363723202-vkontakte": {
-        "id": "363723202-vkontakte",
-        "nickname": "Narik",
-        "booksCount": 81,
-        "updatedAt": "2017-04-27 15:19:10"
     }
 }
