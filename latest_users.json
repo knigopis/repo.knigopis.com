@@ -1,4 +1,10 @@
 {
+    "1168869274-facebook": {
+        "id": "1168869274-facebook",
+        "nickname": "pascaltrening",
+        "booksCount": 1,
+        "updatedAt": "2017-05-08 07:03:21"
+    },
     "42198251-vkontakte": {
         "id": "42198251-vkontakte",
         "nickname": "gella-girl",
@@ -172,11 +178,5 @@
         "nickname": "Narik",
         "booksCount": 81,
         "updatedAt": "2017-04-27 15:19:10"
-    },
-    "37278708-vkontakte": {
-        "id": "37278708-vkontakte",
-        "nickname": "winna",
-        "booksCount": 5,
-        "updatedAt": "2017-04-27 08:35:40"
     }
 }

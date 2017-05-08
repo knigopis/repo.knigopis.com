@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
+    > Хорошая историческая реконструкция. Еще одна версия троянской войны.
+
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
     > Прочитала до конца. Уже хорошо
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B01GXZUXPC
 
 * Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
-    > Дик и Мейзи. Прекрасная история о двух подростках. Художники.
 
 * Братство ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * «МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>12</sup>
 
-* «ПУТЬ. КАК ЖИТЬ ПО-ХРИСТИАНСКИ СЕГОДНЯ, РЕАЛЬНО ИЗМЕНЯЯ ЖИЗНЬ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>109</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 [Narik](users/363/363723202-vkontakte)<sup>81</sup> 
-[winna](users/372/37278708-vkontakte)<sup>5</sup> 
 
 
-_08.05.2017 06:56:03_
+_08.05.2017 07:03:21_

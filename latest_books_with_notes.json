@@ -1,4 +1,16 @@
 {
+    "kvwB1L0jHV": {
+        "id": "kvwB1L0jHV",
+        "title": "Песнь о Трое",
+        "author": "Колин Макклоу",
+        "notes": "Хорошая историческая реконструкция. Еще одна версия троянской войны.",
+        "createdAt": "2017-05-08 07:03:21",
+        "user": {
+            "id": "1168869274-facebook",
+            "nickname": "pascaltrening",
+            "booksCount": 1
+        }
+    },
     "IVnUOwaR8K": {
         "id": "IVnUOwaR8K",
         "title": "Пролетая над гнездом кукушки",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 45
-        }
-    },
-    "pmb7lPrFoP": {
-        "id": "pmb7lPrFoP",
-        "title": "Коты-Воители: Звёздный свет",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 10",
-        "createdAt": "2017-04-21 10:38:13",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 98
         }
     }
 }
