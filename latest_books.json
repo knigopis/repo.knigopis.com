@@ -1,4 +1,16 @@
 {
+    "6op1FLy4Q6": {
+        "id": "6op1FLy4Q6",
+        "title": "не отпускай меня",
+        "author": "кадзуо исигуро",
+        "notes": "Про Хейшлем и бесмысленность жизни",
+        "createdAt": "2017-05-09 12:05:06",
+        "user": {
+            "id": "18209789998000712034-mailru",
+            "nickname": "Полина Чтаева",
+            "booksCount": 1
+        }
+    },
     "Fhj1ezq0jf": {
         "id": "Fhj1ezq0jf",
         "title": "Цветы для миссис Харрис",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 11
-        }
-    },
-    "l4WJpsmNgi": {
-        "id": "l4WJpsmNgi",
-        "title": "«12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ»",
-        "author": "Брайан Моран, Майкл Леннингтон",
-        "notes": "[М: Манн, Иванов и Фербер, 2014]",
-        "createdAt": "2017-05-01 16:16:38",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 10
         }
     }
 }

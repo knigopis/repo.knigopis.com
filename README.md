@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Полина Чтаева](users/182/18209789998000712034-mailru)<sup>0</sup> 
+[Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>530</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 
 
-_09.05.2017 12:04:19_
+_09.05.2017 12:05:06_
