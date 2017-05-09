@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
-[kverta](users/312/312298637-vkontakte)<sup>83</sup> 
 
 
-_09.05.2017 15:19:52_
+_09.05.2017 20:04:43_

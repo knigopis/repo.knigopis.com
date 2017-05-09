@@ -1,4 +1,16 @@
 {
+    "LtIbN7bPTY": {
+        "id": "LtIbN7bPTY",
+        "title": "Колыбель для кошки",
+        "author": "Воннергт Курт",
+        "notes": "",
+        "createdAt": "2017-05-09 20:04:43",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 13
+        }
+    },
     "ZIzOau4uei": {
         "id": "ZIzOau4uei",
         "title": "Мёртвые души",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 20
-        }
-    },
-    "F6bQjkuguL": {
-        "id": "F6bQjkuguL",
-        "title": "Полночный детектив",
-        "author": "Леонид Словин",
-        "notes": "",
-        "createdAt": "2017-05-02 19:40:25",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 108
         }
     }
 }

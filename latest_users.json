@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 13,
+        "updatedAt": "2017-05-09 20:04:43"
+    },
     "111003752220369872386-googleplus": {
         "id": "111003752220369872386-googleplus",
         "nickname": "icantrelate",
@@ -172,11 +178,5 @@
         "nickname": "Серега",
         "booksCount": 0,
         "updatedAt": "2017-04-30 12:32:37"
-    },
-    "312298637-vkontakte": {
-        "id": "312298637-vkontakte",
-        "nickname": "kverta",
-        "booksCount": 83,
-        "updatedAt": "2017-04-30 10:07:26"
     }
 }
