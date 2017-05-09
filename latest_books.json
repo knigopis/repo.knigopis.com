@@ -1,4 +1,16 @@
 {
+    "d8TIxuMUis": {
+        "id": "d8TIxuMUis",
+        "title": "Одиночество в Сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2017-05-09 15:17:45",
+        "user": {
+            "id": "111003752220369872386-googleplus",
+            "nickname": "icantrelate",
+            "booksCount": 2
+        }
+    },
     "GA5FfAPX9m": {
         "id": "GA5FfAPX9m",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 14
-        }
-    },
-    "rKL_MnXUmp": {
-        "id": "rKL_MnXUmp",
-        "title": "«НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ»",
-        "author": "Джон Элдридж",
-        "notes": "[СПб.: Виссон, 2010]",
-        "createdAt": "2017-05-01 16:21:48",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 13
         }
     }
 }

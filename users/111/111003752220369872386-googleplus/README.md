@@ -1,7 +1,11 @@
-# List of books read by icantrelate<sup>1</sup>
+# List of books read by icantrelate<sup>2</sup>
 ---
 
 ## 2017
+
+### Одиночество в Сети
+Януш Леон Вишневский
+
 
 ### 451 градус по Фаренгейту
 Рэй Брэдбери
