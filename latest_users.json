@@ -1,4 +1,10 @@
 {
+    "1931089343792598-facebook": {
+        "id": "1931089343792598-facebook",
+        "nickname": "Эосфор",
+        "booksCount": 0,
+        "updatedAt": "2017-05-09 09:30:08"
+    },
     "65177110-vkontakte": {
         "id": "65177110-vkontakte",
         "nickname": "yl4ikchebotar",
@@ -172,11 +178,5 @@
         "nickname": "canonnist",
         "booksCount": 0,
         "updatedAt": "2017-04-29 07:05:17"
-    },
-    "1268205236629508-facebook": {
-        "id": "1268205236629508-facebook",
-        "nickname": "Ed_Wood",
-        "booksCount": 1,
-        "updatedAt": "2017-04-28 18:45:18"
     }
 }
