@@ -1,4 +1,10 @@
 {
+    "111003752220369872386-googleplus": {
+        "id": "111003752220369872386-googleplus",
+        "nickname": "icantrelate",
+        "booksCount": 0,
+        "updatedAt": "2017-05-09 15:15:44"
+    },
     "104502610850806942588-google": {
         "id": "104502610850806942588-google",
         "nickname": "Zhi",
@@ -172,11 +178,5 @@
         "nickname": "kverta",
         "booksCount": 83,
         "updatedAt": "2017-04-30 10:07:26"
-    },
-    "1444844975573671-facebook": {
-        "id": "1444844975573671-facebook",
-        "nickname": "kalisaaa",
-        "booksCount": 0,
-        "updatedAt": "2017-04-29 22:12:13"
     }
 }
