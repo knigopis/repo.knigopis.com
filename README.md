@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>102</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>529</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 [canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 [Ed_Wood](users/126/1268205236629508-facebook)<sup>1</sup> 
-[Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup> 
 
 
-_08.05.2017 16:30:52_
+_09.05.2017 09:05:03_
