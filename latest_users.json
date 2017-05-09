@@ -1,4 +1,10 @@
 {
+    "65177110-vkontakte": {
+        "id": "65177110-vkontakte",
+        "nickname": "yl4ikchebotar",
+        "booksCount": 0,
+        "updatedAt": "2017-05-09 09:05:01"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Ed_Wood",
         "booksCount": 1,
         "updatedAt": "2017-04-28 18:45:18"
-    },
-    "12601720503917094896-mailru": {
-        "id": "12601720503917094896-mailru",
-        "nickname": "Neccochi",
-        "booksCount": 46,
-        "updatedAt": "2017-04-28 06:38:21"
     }
 }
