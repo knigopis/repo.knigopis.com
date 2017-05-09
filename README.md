@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Полина Чтаева](users/182/18209789998000712034-mailru)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>530</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
 [foksik](users/173/1734575-vkontakte)<sup>191</sup> 
-[canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 
 
-_09.05.2017 11:19:41_
+_09.05.2017 12:04:19_
