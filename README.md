@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Размножение в неволе. Как примирить эротику и быт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup>
+    > Очень интересно. Хотя по-западному на огромное ведро воды еле-еле набирается несколько тезисов, все равно очень интересно.
+    > 
+    > https://www.ozon.ru/context/detail/id/33855662/
+    > 
+    > в процессе
+
 * Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
     > Цикл "Новое пророчество"
     > Книга 13
@@ -13,7 +20,6 @@ Do not use pull requests to make changes here.
     > Хорошая историческая реконструкция. Еще одна версия троянской войны.
 
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
-    > Прочитала до конца. Уже хорошо
 
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
 
@@ -27,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
 
-* «НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>530</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
@@ -63,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kverta](users/312/312298637-vkontakte)<sup>83</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
-[foksik](users/173/1734575-vkontakte)<sup>191</sup> 
 
 
-_09.05.2017 12:05:06_
+_09.05.2017 12:14:20_

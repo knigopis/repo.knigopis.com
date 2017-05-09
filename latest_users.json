@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 96,
+        "updatedAt": "2017-05-09 12:14:19"
+    },
     "18209789998000712034-mailru": {
         "id": "18209789998000712034-mailru",
         "nickname": "Полина Чтаева",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 12,
         "updatedAt": "2017-04-29 16:34:37"
-    },
-    "1734575-vkontakte": {
-        "id": "1734575-vkontakte",
-        "nickname": "foksik",
-        "booksCount": 191,
-        "updatedAt": "2017-04-29 14:50:37"
     }
 }
