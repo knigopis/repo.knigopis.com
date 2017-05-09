@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гончие Бафута ~ [Йолант](users/104/104690883692185089260-google)<sup>110</sup>
+    > Впервые прочитана в 2006-2008.
+
 * Размножение в неволе. Как примирить эротику и быт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup>
     > Очень интересно. Хотя по-западному на огромное ведро воды еле-еле набирается несколько тезисов, все равно очень интересно.
     > 
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > Книга 13
 
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
-    > Хорошая историческая реконструкция. Еще одна версия троянской войны.
 
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
 
@@ -31,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
 
-* «БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>110</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>109</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>96</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 
 
-_09.05.2017 20:04:43_
+_09.05.2017 22:53:41_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гончие Бафута ~ [Йолант](users/104/104690883692185089260-google)<sup>110</sup>
 * Размножение в неволе. Как примирить эротику и быт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup>
 * Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Братья Карамазовы ~ [olegessenin](users/390/3901448-vkontakte)<sup>9</sup>
 * Славянская книга проклятий (переиздание книги "Россия, которой не было") ~ [Garka](users/115/115753719718250012620-google)<sup>141</sup>
 * Гора звезды ~ [Derek777](users/153/15386028-yandex)<sup>30</sup>
-* На Луне ~ [Derek777](users/153/15386028-yandex)<sup>29</sup>
 
 
-_09.05.2017 12:14:20_
+_09.05.2017 22:53:41_
