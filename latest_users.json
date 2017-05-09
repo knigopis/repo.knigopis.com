@@ -1,4 +1,10 @@
 {
+    "18209789998000712034-mailru": {
+        "id": "18209789998000712034-mailru",
+        "nickname": "Полина Чтаева",
+        "booksCount": 0,
+        "updatedAt": "2017-05-09 12:04:17"
+    },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "foksik",
         "booksCount": 191,
         "updatedAt": "2017-04-29 14:50:37"
-    },
-    "734766532438417408-twitter": {
-        "id": "734766532438417408-twitter",
-        "nickname": "canonnist",
-        "booksCount": 0,
-        "updatedAt": "2017-04-29 07:05:17"
     }
 }
