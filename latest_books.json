@@ -1,4 +1,16 @@
 {
+    "Fhj1ezq0jf": {
+        "id": "Fhj1ezq0jf",
+        "title": "Цветы для миссис Харрис",
+        "author": "Пол Гэллико",
+        "notes": "",
+        "createdAt": "2017-05-09 11:19:40",
+        "user": {
+            "id": "20565064-vkontakte",
+            "nickname": "Janet",
+            "booksCount": 530
+        }
+    },
     "lOcl6NXrE8": {
         "id": "lOcl6NXrE8",
         "title": "Коты-Воители:",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 10
-        }
-    },
-    "gKzbOf_ay0": {
-        "id": "gKzbOf_ay0",
-        "title": "«ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ»",
-        "author": "Джим Коллинз",
-        "notes": "[М.: Манн, Иванов и Фербер, 2014]",
-        "createdAt": "2017-05-01 16:15:24",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 9
         }
     }
 }

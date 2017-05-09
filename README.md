@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>530</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>102</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>529</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>109</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [canonnist](users/734/734766532438417408-twitter)<sup>0</sup> 
 
 
-_09.05.2017 09:30:09_
+_09.05.2017 11:19:41_

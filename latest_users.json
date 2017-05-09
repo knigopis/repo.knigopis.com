@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 530,
+        "updatedAt": "2017-05-09 11:19:40"
+    },
     "1931089343792598-facebook": {
         "id": "1931089343792598-facebook",
         "nickname": "Эосфор",
@@ -22,12 +28,6 @@
         "nickname": "golubeva_irinka",
         "booksCount": 0,
         "updatedAt": "2017-05-08 14:19:05"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 529,
-        "updatedAt": "2017-05-08 11:10:50"
     },
     "1168869274-facebook": {
         "id": "1168869274-facebook",
