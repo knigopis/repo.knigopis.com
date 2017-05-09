@@ -1,7 +1,11 @@
-# List of books read by icantrelate<sup>2</sup>
+# List of books read by icantrelate<sup>3</sup>
 ---
 
 ## 2017
+
+### Сказка о самоубийстве
+Полярный
+
 
 ### Одиночество в Сети
 Януш Леон Вишневский

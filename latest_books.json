@@ -1,4 +1,16 @@
 {
+    "zBnosie6SI": {
+        "id": "zBnosie6SI",
+        "title": "Сказка о самоубийстве",
+        "author": "Полярный",
+        "notes": "",
+        "createdAt": "2017-05-09 15:18:57",
+        "user": {
+            "id": "111003752220369872386-googleplus",
+            "nickname": "icantrelate",
+            "booksCount": 3
+        }
+    },
     "d8TIxuMUis": {
         "id": "d8TIxuMUis",
         "title": "Одиночество в Сети",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 15
-        }
-    },
-    "3UwZuvm_1N": {
-        "id": "3UwZuvm_1N",
-        "title": "«БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ»",
-        "author": "Стивен Кови",
-        "notes": "[М.: Манн, Иванов и Фербер; 2016]",
-        "createdAt": "2017-05-01 16:23:01",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 14
         }
     }
 }
