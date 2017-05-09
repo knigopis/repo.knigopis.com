@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>530</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 [kverta](users/312/312298637-vkontakte)<sup>83</sup> 
 [kalisaaa](users/144/1444844975573671-facebook)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>12</sup> 
 
 
-_09.05.2017 12:14:20_
+_09.05.2017 13:39:49_
