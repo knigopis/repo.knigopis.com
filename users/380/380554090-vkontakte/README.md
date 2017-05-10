@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>25</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>26</sup>
 ---
 
 ## 2017
+
+### Фауст
+Иоганн Вольфганг Гёте
+> [2017-05-10] 
+
 
 Уильям Шекспир - Венецианский купец
 > [2017-04-05] 

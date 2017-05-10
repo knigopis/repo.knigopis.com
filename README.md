@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>110</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
-[Серега](users/789/7896728489653516386-mailru)<sup>0</sup> 
 
 
-_09.05.2017 22:53:41_
+_10.05.2017 03:41:19_

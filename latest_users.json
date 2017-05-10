@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 26,
+        "updatedAt": "2017-05-10 03:41:19"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "felton69",
         "booksCount": 0,
         "updatedAt": "2017-04-30 20:58:06"
-    },
-    "7896728489653516386-mailru": {
-        "id": "7896728489653516386-mailru",
-        "nickname": "Серега",
-        "booksCount": 0,
-        "updatedAt": "2017-04-30 12:32:37"
     }
 }

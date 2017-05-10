@@ -1,4 +1,16 @@
 {
+    "wgHLPgvAl8": {
+        "id": "wgHLPgvAl8",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг Гёте",
+        "notes": "",
+        "createdAt": "2017-05-10 03:41:19",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 26
+        }
+    },
     "Bh9oTzNHwT": {
         "id": "Bh9oTzNHwT",
         "title": "Гончие Бафута",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 528
-        }
-    },
-    "D1C-ZMIfNT": {
-        "id": "D1C-ZMIfNT",
-        "title": "Свет погас",
-        "author": "Редьярд Кипплиг",
-        "notes": "Дик и Мейзи. Прекрасная история о двух подростках. Художники.",
-        "createdAt": "2017-05-03 05:58:39",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 46
         }
     }
 }
