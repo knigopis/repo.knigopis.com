@@ -1,4 +1,16 @@
 {
+    "IU2tfYLujn": {
+        "id": "IU2tfYLujn",
+        "title": "Одиночество в Сети",
+        "author": "Януш Леон Вишневский",
+        "notes": "",
+        "createdAt": "2017-05-10 17:07:21",
+        "user": {
+            "id": "100001921022265-facebook",
+            "nickname": "Yevgen",
+            "booksCount": 1
+        }
+    },
     "odJB-prhn_": {
         "id": "odJB-prhn_",
         "title": "О военном искусстве",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 251
-        }
-    },
-    "bpx2WfDKN-": {
-        "id": "bpx2WfDKN-",
-        "title": "Если Наступит Завтра",
-        "author": "Силни Шелдон",
-        "notes": "",
-        "createdAt": "2017-05-04 15:31:12",
-        "user": {
-            "id": "101641083016803975228-google",
-            "nickname": "Sevka",
-            "booksCount": 1
         }
     }
 }
