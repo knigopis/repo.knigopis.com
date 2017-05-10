@@ -1,4 +1,4 @@
-# Список к прочтению пользователя [Nick Volynkin](https://www.linkedin.com/in/nickvolynkin)
+# Wish list of books by [Nick Volynkin](https://www.linkedin.com/in/nickvolynkin)
 ---
 
 ### `70` Maven by Example
@@ -43,8 +43,9 @@ Dan Pilone, Russ Miles
 ### `50` Работа мечты для программиста
 Джон Монган, Ноа Киндлер, Эрик Гижере
 
-### `50` Быстрая разработка программного обеспечения
-Роберт Мартин
+### `50` Цель. Процесс непрерывного улучшения
+Голдраттт Э.
+> management
 
 ### `50` Better Builds with Maven
 John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
@@ -56,17 +57,20 @@ John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
 ### `50` Java in a Nutshell. 6th ed.
 Benjamin J. Evans, David Flanagan
 
-### `50` Карьера программиста. Как устроиться на работу в Google...
-Г. Лакман Макдауэлл
-
 ### `50` Java the complete Reference 9
 Herbert Schildt
 
 ### `50` Программист - прагматик. Путь от подмастерья к мастеру.
 Э. Хант, Д. Томас
 
+### `50` Быстрая разработка программного обеспечения
+Роберт Мартин
+
 ### `50` A Well-Grounded Java Developer
 Benjamin J. Evans, Martijn Verburg
+
+### `50` Карьера программиста. Как устроиться на работу в Google...
+Г. Лакман Макдауэлл
 
 ### `40` The Art of Agile Development
 James Shore, Jane Warden
