@@ -1,4 +1,16 @@
 {
+    "HA6cXUh3eQ": {
+        "id": "HA6cXUh3eQ",
+        "title": "Рассуждение о методе",
+        "author": "Рене Декарт",
+        "notes": "",
+        "createdAt": "2017-05-10 23:54:36",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 107
+        }
+    },
     "IU2tfYLujn": {
         "id": "IU2tfYLujn",
         "title": "Одиночество в Сети",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 37
-        }
-    },
-    "h6fHBxTZd-": {
-        "id": "h6fHBxTZd-",
-        "title": "Ускорение перемен",
-        "author": "Джон Коттер",
-        "notes": "",
-        "createdAt": "2017-05-05 03:41:40",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 251
         }
     }
 }

@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>531</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
-[Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 
 
-_10.05.2017 17:07:21_
+_10.05.2017 23:54:36_
