@@ -58,39 +58,47 @@ Dan Pilone, Russ Miles
 Миямото Мусаси
 > http://www.lib.ru/DO/m6m.txt
 
+### `50` Веб-дизайн
+Якоб Нильсен
+> design
+
 ### `50` Персональное управленческое искусство
 Тарасов В.
 > management
 
-### `50` A Well-Grounded Java Developer
-Benjamin J. Evans, Martijn Verburg
-
-### `50` Профессиональная разработка ПО
-Стив Макконнелл
-
 ### `50` PMI PMBOK 5th Edition
 > management
-
-### `50` Как пасти котов. Наставление для программистов, руководящих другими программистами
-Рейнвотер Дж
-> management
-
-### `50` Java in a Nutshell. 6th ed.
-Benjamin J. Evans, David Flanagan
-
-### `50` Карьера программиста. Как устроиться на работу в Google...
-Г. Лакман Макдауэлл
 
 ### `50` Better Builds with Maven
 John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
 > [Development] [Maven]
 
+### `50` Профессиональная разработка ПО
+Стив Макконнелл
+
+### `50` Как пасти котов. Наставление для программистов, руководящих другими программистами
+Рейнвотер Дж
+> management
+
+### `50` Карьера программиста. Как устроиться на работу в Google...
+Г. Лакман Макдауэлл
+
+### `50` Java in a Nutshell. 6th ed.
+Benjamin J. Evans, David Flanagan
+
 ### `50` Цель-2. Дело не в везенье
 Голдратт Э.
 > management
 
+### `50` Вы или вас
+Фридман А.
+> management
+
 ### `50` Программист - прагматик. Путь от подмастерья к мастеру.
 Э. Хант, Д. Томас
+
+### `50` A Well-Grounded Java Developer
+Benjamin J. Evans, Martijn Verburg
 
 ### `50` Мифический человеко-месяц, или Как создаются программные системы
 Чапел Х., Брукс Ф
@@ -99,16 +107,12 @@ John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
 Фридман А.
 > management
 
-### `50` Java the complete Reference 9
-Herbert Schildt
-
-### `50` Вы или вас
-Фридман А.
-> management
-
 ### `50` Черная книга менеджера
 Панкратов С
 > management
+
+### `50` Java the complete Reference 9
+Herbert Schildt
 
 ### `40` The Art of Agile Development
 James Shore, Jane Warden
