@@ -1,7 +1,12 @@
-# List of books read by [Nikita](http://vk.com/id100684315)<sup>11</sup>
+# List of books read by [Nikita](http://vk.com/id100684315)<sup>12</sup>
 ---
 
 ## 2017
+
+### О военном искусстве
+Сунь-цзы
+> [2017-05-10] 
+
 
 ### О военном искусстве
 Сунь-цзы
