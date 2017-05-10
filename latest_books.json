@@ -1,4 +1,16 @@
 {
+    "Ni2_ArHESA": {
+        "id": "Ni2_ArHESA",
+        "title": "О военном искусстве",
+        "author": "Сунь-цзы",
+        "notes": "",
+        "createdAt": "2017-05-10 12:16:37",
+        "user": {
+            "id": "100684315-vkontakte",
+            "nickname": "Nikita",
+            "booksCount": 11
+        }
+    },
     "UQxti3Smrg": {
         "id": "UQxti3Smrg",
         "title": "Сантехник, его кот, жена и другие подробности",
@@ -345,18 +357,6 @@
             "id": "101641083016803975228-google",
             "nickname": "Sevka",
             "booksCount": 1
-        }
-    },
-    "Cbc41Go3Vi": {
-        "id": "Cbc41Go3Vi",
-        "title": "Жестокое море",
-        "author": "Николас Монсаррат",
-        "notes": "",
-        "createdAt": "2017-05-04 11:34:40",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 97
         }
     }
 }

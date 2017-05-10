@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>531</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>110</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 [Kirill_Dodonov](users/870/870467263091830-facebook)<sup>7</sup> 
 [Efox](users/117/1178574968926770-facebook)<sup>0</sup> 
-[felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 
 
-_10.05.2017 10:25:18_
+_10.05.2017 12:16:37_
