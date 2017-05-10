@@ -21,14 +21,14 @@ Ben Lynn
 > http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
 > http://www-cs-students.stanford.edu/~blynn/gitmagic/book.pdf
 
+### `50` IT-проекты. Фронтовые очерки
+Мараско Джо
+
 ### `50` Работа мечты для программиста
 Джон Монган, Ноа Киндлер, Эрик Гижере
 
 ### `50` Быстрая разработка программного обеспечения
 Роберт Мартин
-
-### `50` IT-проекты. Фронтовые очерки
-Мараско Джо
 
 ### `50` Head First Software Development
 Dan Pilone, Russ Miles
@@ -50,6 +50,10 @@ Dan Pilone, Russ Miles
 ### `50` A Well-Grounded Java Developer
 Benjamin J. Evans, Martijn Verburg
 
+### `50` Better Builds with Maven
+John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
+> [Development] [Maven]
+
 ### `50` Профессиональная разработка ПО
 Стив Макконнелл
 
@@ -59,23 +63,23 @@ Benjamin J. Evans, Martijn Verburg
 ### `50` Java in a Nutshell. 6th ed.
 Benjamin J. Evans, David Flanagan
 
-### `50` Better Builds with Maven
-John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
-> [Development] [Maven]
-
 ### `50` Цель-2. Дело не в везенье
 Голдратт Э.
+> management
+
+### `50` Вы или вас
+Фридман А.
 > management
 
 ### `50` Программист - прагматик. Путь от подмастерья к мастеру.
 Э. Хант, Д. Томас
 
-### `50` Java the complete Reference 9
-Herbert Schildt
-
-### `50` Вы или вас
+### `50` Управление повседневным хаосом
 Фридман А.
 > management
+
+### `50` Java the complete Reference 9
+Herbert Schildt
 
 ### `50` Карьера программиста. Как устроиться на работу в Google...
 Г. Лакман Макдауэлл
