@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>530</sup>
+# List of books read by [Janet](https://vk.com/id20565064)<sup>531</sup>
 ---
 
 ## 2017
+
+### Сантехник, его кот, жена и другие подробности
+Слава Сэ
+> [2017-05] 
+
 
 ### Цветы для миссис Харрис
 Пол Гэллико

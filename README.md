@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>531</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>110</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>530</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>102</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [felton69](users/110/110215084470395017436-google)<sup>0</sup> 
 
 
-_10.05.2017 03:41:19_
+_10.05.2017 10:25:18_

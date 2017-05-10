@@ -1,4 +1,10 @@
 {
+    "20565064-vkontakte": {
+        "id": "20565064-vkontakte",
+        "nickname": "Janet",
+        "booksCount": 531,
+        "updatedAt": "2017-05-10 10:25:18"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -40,12 +46,6 @@
         "nickname": "Полина Чтаева",
         "booksCount": 1,
         "updatedAt": "2017-05-09 12:05:06"
-    },
-    "20565064-vkontakte": {
-        "id": "20565064-vkontakte",
-        "nickname": "Janet",
-        "booksCount": 530,
-        "updatedAt": "2017-05-09 11:19:40"
     },
     "1931089343792598-facebook": {
         "id": "1931089343792598-facebook",
