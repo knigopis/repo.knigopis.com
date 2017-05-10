@@ -21,11 +21,14 @@ Ben Lynn
 > http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
 > http://www-cs-students.stanford.edu/~blynn/gitmagic/book.pdf
 
+### `50` Head First Software Development
+Dan Pilone, Russ Miles
+
 ### `50` IT-проекты. Фронтовые очерки
 Мараско Джо
 
-### `50` Head First Software Development
-Dan Pilone, Russ Miles
+### `50` Работа мечты для программиста
+Джон Монган, Ноа Киндлер, Эрик Гижере
 
 ### `50` Книга Пяти Колец
 Миямото Мусаси
@@ -40,8 +43,8 @@ Dan Pilone, Russ Miles
 ### `50` Сколько стоит программный проект
 Стив Макконнелл
 
-### `50` Работа мечты для программиста
-Джон Монган, Ноа Киндлер, Эрик Гижере
+### `50` Быстрая разработка программного обеспечения
+Роберт Мартин
 
 ### `50` Цель. Процесс непрерывного улучшения
 Голдраттт Э.
@@ -57,20 +60,21 @@ John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
 ### `50` Java in a Nutshell. 6th ed.
 Benjamin J. Evans, David Flanagan
 
+### `50` Цель-2. Дело не в везенье
+Голдратт Э.
+> management
+
 ### `50` Java the complete Reference 9
 Herbert Schildt
 
-### `50` Программист - прагматик. Путь от подмастерья к мастеру.
-Э. Хант, Д. Томас
-
-### `50` Быстрая разработка программного обеспечения
-Роберт Мартин
+### `50` Карьера программиста. Как устроиться на работу в Google...
+Г. Лакман Макдауэлл
 
 ### `50` A Well-Grounded Java Developer
 Benjamin J. Evans, Martijn Verburg
 
-### `50` Карьера программиста. Как устроиться на работу в Google...
-Г. Лакман Макдауэлл
+### `50` Программист - прагматик. Путь от подмастерья к мастеру.
+Э. Хант, Д. Томас
 
 ### `40` The Art of Agile Development
 James Shore, Jane Warden
