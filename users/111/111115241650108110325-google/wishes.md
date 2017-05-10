@@ -1,15 +1,15 @@
 # Wish list of books by [Nick Volynkin](https://www.linkedin.com/in/nickvolynkin)
 ---
 
-### `70` Maven: The Complete Reference
-Tim O'Brien, Manfred Moser, John Casey, Brian Fox, Jason Van Zyl, Eric Redmond, Larry Shatzer
-> [Development] [Maven]
-> http://books.sonatype.com/mvnref-book/reference/public-book.html
-
 ### `70` Maven by Example
 Tim O'Brien, John Casey, Brian Fox, Jason Van, Zyl Juven Xu, Thomas Locher, Dan Fabulich, Eric Redmond, Bruce Snyder
 > [Development] [Maven]
 > http://books.sonatype.com/mvnex-book/reference/public-book.html
+
+### `70` Maven: The Complete Reference
+Tim O'Brien, Manfred Moser, John Casey, Brian Fox, Jason Van Zyl, Eric Redmond, Larry Shatzer
+> [Development] [Maven]
+> http://books.sonatype.com/mvnref-book/reference/public-book.html
 
 ### `60` Жизнь как стартап
 Рид Хоффман, Бен Касноча
@@ -29,6 +29,9 @@ Ben Lynn
 
 ### `50` Быстрая разработка программного обеспечения
 Роберт Мартин
+
+### `50` Джоэл. И снова о программировании
+Джоэл Спольски
 
 ### `50` Head First Software Development
 Dan Pilone, Russ Miles
@@ -54,11 +57,11 @@ Benjamin J. Evans, Martijn Verburg
 John Casey, Vincent Massol, Brett Porter, Carlos Sanchez, Jason van Zyl
 > [Development] [Maven]
 
+### `50` PMI PMBOK 5th Edition
+> management
+
 ### `50` Профессиональная разработка ПО
 Стив Макконнелл
-
-### `50` Джоэл. И снова о программировании
-Джоэл Спольски
 
 ### `50` Java in a Nutshell. 6th ed.
 Benjamin J. Evans, David Flanagan
@@ -71,6 +74,9 @@ Benjamin J. Evans, David Flanagan
 Фридман А.
 > management
 
+### `50` Карьера программиста. Как устроиться на работу в Google...
+Г. Лакман Макдауэлл
+
 ### `50` Программист - прагматик. Путь от подмастерья к мастеру.
 Э. Хант, Д. Томас
 
@@ -80,9 +86,6 @@ Benjamin J. Evans, David Flanagan
 
 ### `50` Java the complete Reference 9
 Herbert Schildt
-
-### `50` Карьера программиста. Как устроиться на работу в Google...
-Г. Лакман Макдауэлл
 
 ### `40` The Art of Agile Development
 James Shore, Jane Warden
