@@ -1,4 +1,10 @@
 {
+    "100001921022265-facebook": {
+        "id": "100001921022265-facebook",
+        "nickname": "Yevgen",
+        "booksCount": 0,
+        "updatedAt": "2017-05-10 17:06:08"
+    },
     "100684315-vkontakte": {
         "id": "100684315-vkontakte",
         "nickname": "Nikita",
@@ -172,11 +178,5 @@
         "nickname": "Kirill_Dodonov",
         "booksCount": 7,
         "updatedAt": "2017-05-01 13:18:26"
-    },
-    "1178574968926770-facebook": {
-        "id": "1178574968926770-facebook",
-        "nickname": "Efox",
-        "booksCount": 0,
-        "updatedAt": "2017-05-01 01:51:09"
     }
 }
