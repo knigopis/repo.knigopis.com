@@ -1,4 +1,16 @@
 {
+    "Clb0liW_tW": {
+        "id": "Clb0liW_tW",
+        "title": "Зоопарк в моём багаже",
+        "author": "Джеральд Даррелл",
+        "notes": "Первое прочтение между 2006 и 2008 годами.",
+        "createdAt": "2017-05-11 16:14:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 111
+        }
+    },
     "v-8Qx3ggss": {
         "id": "v-8Qx3ggss",
         "title": "Откровения",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 90
-        }
-    },
-    "jM5pYQtmKW": {
-        "id": "jM5pYQtmKW",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рей Брэдбери",
-        "notes": "",
-        "createdAt": "2017-05-05 19:25:30",
-        "user": {
-            "id": "108774233915925319546-google",
-            "nickname": "Ann Rott",
-            "booksCount": 3
         }
     }
 }
