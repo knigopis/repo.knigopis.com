@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 97,
+        "updatedAt": "2017-05-11 12:05:01"
+    },
     "339786161-vkontakte": {
         "id": "339786161-vkontakte",
         "nickname": "Антон Шевченко",
@@ -106,12 +112,6 @@
         "nickname": "antasiar",
         "booksCount": 109,
         "updatedAt": "2017-05-07 18:25:53"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 96,
-        "updatedAt": "2017-05-07 09:26:30"
     },
     "108774233915925319546-google": {
         "id": "108774233915925319546-google",

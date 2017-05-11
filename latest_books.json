@@ -1,4 +1,16 @@
 {
+    "zm3Zup-bjE": {
+        "id": "zm3Zup-bjE",
+        "title": "Девушка в поезде",
+        "author": "Пола Хокинс",
+        "notes": "",
+        "createdAt": "2017-05-11 12:05:01",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 97
+        }
+    },
     "HA6cXUh3eQ": {
         "id": "HA6cXUh3eQ",
         "title": "Рассуждение о методе",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 142
-        }
-    },
-    "jlkhJzoOhh": {
-        "id": "jlkhJzoOhh",
-        "title": "Quantitative Finance For Dummies",
-        "author": "Steve Bell",
-        "notes": "ASIN: B01GXZUXPC",
-        "createdAt": "2017-05-05 06:23:42",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 37
         }
     }
 }
