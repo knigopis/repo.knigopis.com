@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Откровения ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup>
+    > Прошли годы, но нисколько не потускнел блестящий ум Наставника, не утратил роковую силу и точность его удар. Эцио Аудиторе отправляется в эпическое путешествие, чтобы найти пропавшую библиотеку Альтаира - а заодно, быть может, и ключ к победе над тамплиерами, заклятыми врагами братства ассасинов. Путь ведет в неспокойный Константинополь, где растущая армия рыцарей ордена Храма угрожает Османской империи. Идя по следам своего великого предшественника Альтаира, Эцио должен в последний раз сокрушить тамплиеров. Ставки непрерывно повышаются, и то, что начиналось как паломничество, превратилось в гонку против времени.
+
 * Гончие Бафута ~ [Йолант](users/104/104690883692185089260-google)<sup>110</sup>
     > Впервые прочитана в 2006-2008.
 
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
-    > Цикл "Новое пророчество"
-    > Книга 13
 
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
 
@@ -31,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
 
-* (7) «ПОЧЕМУ Я БОЮСЬ ЛЮБИТЬ?» ~ [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>97</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
@@ -64,10 +64,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup> 
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 
 
-_11.05.2017 12:05:01_
+_11.05.2017 13:11:57_

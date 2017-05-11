@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "Койнов Александр",
+        "booksCount": 21,
+        "updatedAt": "2017-05-11 13:11:57"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -154,12 +160,6 @@
         "nickname": "sonics",
         "booksCount": 46,
         "updatedAt": "2017-05-03 05:58:39"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 20,
-        "updatedAt": "2017-05-03 03:35:13"
     },
     "117046242609775896772-google": {
         "id": "117046242609775896772-google",
