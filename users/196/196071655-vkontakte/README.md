@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>98</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>99</sup>
 ---
 
 ## 2017
@@ -53,6 +53,10 @@
 
 
 ## 2015
+
+### Изгоняющий дьявола
+Уильям Питер Блэтти
+
 
 ### В списках не значился
 Борис Васильев

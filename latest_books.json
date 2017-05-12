@@ -1,4 +1,16 @@
 {
+    "RbL3tEX5zg": {
+        "id": "RbL3tEX5zg",
+        "title": "Изгоняющий дьявола",
+        "author": "Уильям Питер Блэтти",
+        "notes": "",
+        "createdAt": "2017-05-12 10:28:13",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 99
+        }
+    },
     "038Ke0Bgta": {
         "id": "038Ke0Bgta",
         "title": "Песнь Кали",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 92
-        }
-    },
-    "NCelFgNUtX": {
-        "id": "NCelFgNUtX",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глушков",
-        "notes": "",
-        "createdAt": "2017-05-06 15:27:01",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 91
         }
     }
 }
