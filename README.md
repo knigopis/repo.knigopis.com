@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>99</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>111</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 [Властелин Судьбы](users/117/117046242609775896772-google)<sup>0</sup> 
-[coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 
 
-_12.05.2017 19:55:36_
+_12.05.2017 20:00:39_
