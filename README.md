@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>98</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>111</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>97</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vladimir_balykov_ua](users/423/423302481-vkontakte)<sup>15</sup> 
 
 
-_11.05.2017 16:14:16_
+_12.05.2017 07:01:49_
