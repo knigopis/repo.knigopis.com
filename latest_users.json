@@ -1,4 +1,10 @@
 {
+    "1882525281990290-facebook": {
+        "id": "1882525281990290-facebook",
+        "nickname": "sad little panda",
+        "booksCount": 0,
+        "updatedAt": "2017-05-12 19:14:16"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "coolbosss",
         "booksCount": 0,
         "updatedAt": "2017-05-02 10:38:25"
-    },
-    "423302481-vkontakte": {
-        "id": "423302481-vkontakte",
-        "nickname": "vladimir_balykov_ua",
-        "booksCount": 15,
-        "updatedAt": "2017-05-02 06:13:30"
     }
 }
