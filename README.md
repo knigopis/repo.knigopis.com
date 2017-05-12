@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sad little panda](users/188/1882525281990290-facebook)<sup>1</sup> 
+[sad little panda](users/188/1882525281990290-facebook)<sup>2</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>99</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>111</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [coolbosss](users/135/135787469-vkontakte)<sup>0</sup> 
 
 
-_12.05.2017 19:17:54_
+_12.05.2017 19:37:21_
