@@ -1,4 +1,16 @@
 {
+    "tKD-dsgrj1": {
+        "id": "tKD-dsgrj1",
+        "title": "Ледяной дракон",
+        "author": "Мартин Дж.",
+        "notes": "",
+        "createdAt": "2017-05-12 19:55:36",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 3
+        }
+    },
     "-PmsYKwNTr": {
         "id": "-PmsYKwNTr",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 95
-        }
-    },
-    "KKgL1oKmUz": {
-        "id": "KKgL1oKmUz",
-        "title": "Робин Гуд - Король разбойников",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2017-05-06 15:37:07",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 94
         }
     }
 }
