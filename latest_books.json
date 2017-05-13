@@ -1,4 +1,16 @@
 {
+    "-xsyHoZBv0": {
+        "id": "-xsyHoZBv0",
+        "title": "Сказочник",
+        "author": "Zотов",
+        "notes": "",
+        "createdAt": "2017-05-13 10:25:54",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 5
+        }
+    },
     "YcQpfK6I7v": {
         "id": "YcQpfK6I7v",
         "title": "Мастер и Маргарита",
@@ -344,18 +356,6 @@
         "user": {
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
-            "booksCount": 109
-        }
-    },
-    "Y3v8asMwrs": {
-        "id": "Y3v8asMwrs",
-        "title": "На углу, у Патриарших...",
-        "author": "Анатолий Степанов, Эдуард Хруцкий",
-        "notes": "",
-        "createdAt": "2017-05-07 18:25:53",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
             "booksCount": 109
         }
     }
