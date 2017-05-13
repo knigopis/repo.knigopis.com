@@ -1,4 +1,16 @@
 {
+    "IlDRkkYFMp": {
+        "id": "IlDRkkYFMp",
+        "title": "Ключ из желтого металла",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-05-13 11:03:48",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 24
+        }
+    },
     "4smdqkt6uV": {
         "id": "4smdqkt6uV",
         "title": "Книга одиночеств",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 97
-        }
-    },
-    "HA6cXUh3eQ": {
-        "id": "HA6cXUh3eQ",
-        "title": "Рассуждение о методе",
-        "author": "Рене Декарт",
-        "notes": "",
-        "createdAt": "2017-05-10 23:54:36",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 107
         }
     }
 }
