@@ -1,4 +1,16 @@
 {
+    "iXvRXVpt1W": {
+        "id": "iXvRXVpt1W",
+        "title": "Гнезда Химер. Хроники Хугайды",
+        "author": "Макс Фрай",
+        "notes": "1.5 Мой Рагнарек 1",
+        "createdAt": "2017-05-13 10:43:08",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 21
+        }
+    },
     "NrpbC0Jfbh": {
         "id": "NrpbC0Jfbh",
         "title": "Лабиринт Менина",
@@ -345,18 +357,6 @@
             "id": "100684315-vkontakte",
             "nickname": "Nikita",
             "booksCount": 12
-        }
-    },
-    "UQxti3Smrg": {
-        "id": "UQxti3Smrg",
-        "title": "Сантехник, его кот, жена и другие подробности",
-        "author": "Слава Сэ",
-        "notes": "",
-        "createdAt": "2017-05-10 10:25:18",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 531
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>20</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>21</sup>
 ---
 
 ## 2017
@@ -10,6 +10,11 @@
 
 
 ## 2016
+
+### Гнезда Химер. Хроники Хугайды
+Макс Фрай
+> 1.5 Мой Рагнарек 1
+
 
 ### Лабиринт Менина
 Макс Фрай
