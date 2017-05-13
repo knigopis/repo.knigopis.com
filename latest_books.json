@@ -1,4 +1,16 @@
 {
+    "RcfJ4Ikmqg": {
+        "id": "RcfJ4Ikmqg",
+        "title": "Гнезда Химер. Хроники Оветганны",
+        "author": "Макс Фрай",
+        "notes": "1.5 Мой Рагнарек 2",
+        "createdAt": "2017-05-13 10:43:50",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 22
+        }
+    },
     "iXvRXVpt1W": {
         "id": "iXvRXVpt1W",
         "title": "Гнезда Химер. Хроники Хугайды",
@@ -345,18 +357,6 @@
             "id": "100001921022265-facebook",
             "nickname": "Yevgen",
             "booksCount": 1
-        }
-    },
-    "odJB-prhn_": {
-        "id": "odJB-prhn_",
-        "title": "О военном искусстве",
-        "author": "Сунь-цзы",
-        "notes": "",
-        "createdAt": "2017-05-10 12:17:15",
-        "user": {
-            "id": "100684315-vkontakte",
-            "nickname": "Nikita",
-            "booksCount": 12
         }
     }
 }
