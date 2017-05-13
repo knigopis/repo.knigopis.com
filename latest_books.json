@@ -1,4 +1,16 @@
 {
+    "yd0-feiaK0": {
+        "id": "yd0-feiaK0",
+        "title": "Ад и Рай",
+        "author": "Zотов",
+        "notes": "",
+        "createdAt": "2017-05-13 10:30:02",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 10
+        }
+    },
     "8t6kJaZj03": {
         "id": "8t6kJaZj03",
         "title": "Минус ангел",
@@ -345,18 +357,6 @@
             "id": "18209789998000712034-mailru",
             "nickname": "Полина Чтаева",
             "booksCount": 1
-        }
-    },
-    "Fhj1ezq0jf": {
-        "id": "Fhj1ezq0jf",
-        "title": "Цветы для миссис Харрис",
-        "author": "Пол Гэллико",
-        "notes": "",
-        "createdAt": "2017-05-09 11:19:40",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 530
         }
     }
 }
