@@ -1,4 +1,16 @@
 {
+    "vxiRmzkhk4": {
+        "id": "vxiRmzkhk4",
+        "title": "Простые волшебные вещи",
+        "author": "Макс Фрай",
+        "notes": "1 Лабиринты Ехо 3",
+        "createdAt": "2017-05-13 10:39:10",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 15
+        }
+    },
     "pxZ09x4o1f": {
         "id": "pxZ09x4o1f",
         "title": "Волонтеры вечности",
@@ -345,18 +357,6 @@
             "id": "111003752220369872386-googleplus",
             "nickname": "icantrelate",
             "booksCount": 4
-        }
-    },
-    "zBnosie6SI": {
-        "id": "zBnosie6SI",
-        "title": "Сказка о самоубийстве",
-        "author": "Полярный",
-        "notes": "",
-        "createdAt": "2017-05-09 15:18:57",
-        "user": {
-            "id": "111003752220369872386-googleplus",
-            "nickname": "icantrelate",
-            "booksCount": 3
         }
     }
 }
