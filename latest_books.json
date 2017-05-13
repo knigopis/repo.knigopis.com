@@ -1,4 +1,16 @@
 {
+    "L_sERBs_KA": {
+        "id": "L_sERBs_KA",
+        "title": "Из третьего Мира в первый",
+        "author": "Ли Куан Ю",
+        "notes": "",
+        "createdAt": "2017-05-13 08:15:42",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 252
+        }
+    },
     "tKD-dsgrj1": {
         "id": "tKD-dsgrj1",
         "title": "Ледяной дракон",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 96
-        }
-    },
-    "oHDUSr3_rG": {
-        "id": "oHDUSr3_rG",
-        "title": "Туман",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-05-07 09:25:13",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 95
         }
     }
 }

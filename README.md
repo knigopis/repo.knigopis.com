@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>252</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>3</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>251</sup> 
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 
 
-_13.05.2017 07:37:03_
+_13.05.2017 08:15:43_

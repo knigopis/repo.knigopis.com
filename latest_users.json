@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 252,
+        "updatedAt": "2017-05-13 08:15:42"
+    },
     "712242609159274496-twitter": {
         "id": "712242609159274496-twitter",
         "nickname": "GurenShins_tea",
@@ -154,12 +160,6 @@
         "nickname": "exulted",
         "booksCount": 37,
         "updatedAt": "2017-05-05 06:23:42"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 251,
-        "updatedAt": "2017-05-05 03:41:40"
     },
     "101641083016803975228-google": {
         "id": "101641083016803975228-google",
