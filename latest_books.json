@@ -1,4 +1,16 @@
 {
+    "wAZOqd1Rhs": {
+        "id": "wAZOqd1Rhs",
+        "title": "Чужак",
+        "author": "Макс Фрай",
+        "notes": "1 Лабиринты Ехо 1",
+        "createdAt": "2017-05-13 10:38:16",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 13
+        }
+    },
     "C03DR_u2cG": {
         "id": "C03DR_u2cG",
         "title": "Эль Дьябло",
@@ -345,18 +357,6 @@
             "id": "111003752220369872386-googleplus",
             "nickname": "icantrelate",
             "booksCount": 2
-        }
-    },
-    "GA5FfAPX9m": {
-        "id": "GA5FfAPX9m",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-05-09 15:17:28",
-        "user": {
-            "id": "111003752220369872386-googleplus",
-            "nickname": "icantrelate",
-            "booksCount": 1
         }
     }
 }
