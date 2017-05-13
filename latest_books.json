@@ -1,4 +1,16 @@
 {
+    "RoXui86emo": {
+        "id": "RoXui86emo",
+        "title": "Болтливый мертвец",
+        "author": "Макс Фрай",
+        "notes": "1 Лабиринты Ехо 7",
+        "createdAt": "2017-05-13 10:41:16",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 19
+        }
+    },
     "fq_CJ4vghX": {
         "id": "fq_CJ4vghX",
         "title": "Власть несбывшегося",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 26
-        }
-    },
-    "Bh9oTzNHwT": {
-        "id": "Bh9oTzNHwT",
-        "title": "Гончие Бафута",
-        "author": "Джеральд Даррелл",
-        "notes": "Впервые прочитана в 2006-2008.",
-        "createdAt": "2017-05-09 22:53:41",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 110
         }
     }
 }
