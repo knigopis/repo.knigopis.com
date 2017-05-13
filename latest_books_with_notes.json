@@ -1,4 +1,16 @@
 {
+    "Pi2G0QvZxq": {
+        "id": "Pi2G0QvZxq",
+        "title": "Коты-Воители: Отверженные",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Сила трёх\"\nКнига 15",
+        "createdAt": "2017-05-13 19:40:24",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 103
+        }
+    },
     "qP6AkyLtQr": {
         "id": "qP6AkyLtQr",
         "title": "Поместье зверинец",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 51
-        }
-    },
-    "Y74ibW_UMJ": {
-        "id": "Y74ibW_UMJ",
-        "title": "Коты-Воители: Сумеркм",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 11",
-        "createdAt": "2017-04-24 10:49:16",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 99
         }
     }
 }

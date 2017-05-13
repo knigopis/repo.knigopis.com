@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Отверженные ~ [EsterHani](users/305/30558181-vkontakte)<sup>103</sup>
+    > Цикл "Сила трёх"
+    > Книга 15
+
 * Поместье зверинец ~ [Йолант](users/104/104690883692185089260-google)<sup>112</sup>
     > Впервые прочитана в 2006-2008.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Первое прочтение между 2006 и 2008 годами.
 
 * Откровения ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup>
-    > Прошли годы, но нисколько не потускнел блестящий ум Наставника, не утратил роковую силу и точность его удар. Эцио Аудиторе отправляется в эпическое путешествие, чтобы найти пропавшую библиотеку Альтаира - а заодно, быть может, и ключ к победе над тамплиерами, заклятыми врагами братства ассасинов. Путь ведет в неспокойный Константинополь, где растущая армия рыцарей ордена Храма угрожает Османской империи. Идя по следам своего великого предшественника Альтаира, Эцио должен в последний раз сокрушить тамплиеров. Ставки непрерывно повышаются, и то, что начиналось как паломничество, превратилось в гонку против времени.
 
 * Гончие Бафута ~ [Йолант](users/104/104690883692185089260-google)<sup>110</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
 
-* Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>103</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
@@ -54,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>102</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 
 
-_13.05.2017 13:39:38_
+_13.05.2017 19:40:24_

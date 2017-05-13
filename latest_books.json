@@ -1,4 +1,16 @@
 {
+    "Pi2G0QvZxq": {
+        "id": "Pi2G0QvZxq",
+        "title": "Коты-Воители: Отверженные",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Сила трёх\"\nКнига 15",
+        "createdAt": "2017-05-13 19:40:24",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 103
+        }
+    },
     "6-GVzWvwyP": {
         "id": "6-GVzWvwyP",
         "title": "Записки юного врача",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 1
-        }
-    },
-    "RbL3tEX5zg": {
-        "id": "RbL3tEX5zg",
-        "title": "Изгоняющий дьявола",
-        "author": "Уильям Питер Блэтти",
-        "notes": "",
-        "createdAt": "2017-05-12 10:28:13",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 99
         }
     }
 }
