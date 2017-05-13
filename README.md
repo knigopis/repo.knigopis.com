@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Затмение ~ [EsterHani](users/305/30558181-vkontakte)<sup>104</sup>
+    > Цикл "Сила трёх"
+    > Книга 16
+
 * Коты-Воители: Отверженные ~ [EsterHani](users/305/30558181-vkontakte)<sup>103</sup>
     > Цикл "Сила трёх"
     > Книга 15
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Впервые прочитана в 2006-2008.
 
 * Зоопарк в моём багаже ~ [Йолант](users/104/104690883692185089260-google)<sup>111</sup>
-    > Первое прочтение между 2006 и 2008 годами.
 
 * Откровения ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
 
-* Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>103</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
 
 
-_13.05.2017 19:40:24_
+_13.05.2017 19:41:40_

@@ -1,4 +1,16 @@
 {
+    "bZWzHdjvR0": {
+        "id": "bZWzHdjvR0",
+        "title": "Коты-Воители: Затмение",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Сила трёх\"\nКнига 16",
+        "createdAt": "2017-05-13 19:41:40",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 104
+        }
+    },
     "Pi2G0QvZxq": {
         "id": "Pi2G0QvZxq",
         "title": "Коты-Воители: Отверженные",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 2
-        }
-    },
-    "zXHzeOrSNM": {
-        "id": "zXHzeOrSNM",
-        "title": "#меня зовут лис",
-        "author": "Виксен Ли",
-        "notes": "",
-        "createdAt": "2017-05-12 19:17:54",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 1
         }
     }
 }

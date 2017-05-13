@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>103</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>104</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Затмение
+Эрин Хантер
+> Цикл "Сила трёх"
+> Книга 16
+
 
 ### Коты-Воители: Отверженные
 Эрин Хантер
