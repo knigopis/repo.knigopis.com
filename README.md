@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 [Sevka](users/101/101641083016803975228-google)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>97</sup> 
 
 
-_13.05.2017 12:00:30_
+_13.05.2017 13:39:38_
