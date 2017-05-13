@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sjomk1n](users/243/243975624-vkontakte)<sup>0</sup> 
+[sjomk1n](users/243/243975624-vkontakte)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 
 
-_13.05.2017 20:29:59_
+_13.05.2017 20:55:07_
