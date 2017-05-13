@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>25</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>112</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>24</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>252</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>46</sup> 
 
 
-_13.05.2017 11:06:10_
+_13.05.2017 11:07:06_
