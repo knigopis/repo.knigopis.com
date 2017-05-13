@@ -1,4 +1,10 @@
 {
+    "712242609159274496-twitter": {
+        "id": "712242609159274496-twitter",
+        "nickname": "GurenShins_tea",
+        "booksCount": 0,
+        "updatedAt": "2017-05-13 07:37:01"
+    },
     "13015628898852979311-mailru": {
         "id": "13015628898852979311-mailru",
         "nickname": "Dasha",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 46,
         "updatedAt": "2017-05-03 05:58:39"
-    },
-    "117046242609775896772-google": {
-        "id": "117046242609775896772-google",
-        "nickname": "Властелин Судьбы",
-        "booksCount": 0,
-        "updatedAt": "2017-05-02 18:48:41"
     }
 }
