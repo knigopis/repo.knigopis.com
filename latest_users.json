@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 25,
+        "updatedAt": "2017-05-13 11:47:53"
+    },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",
         "nickname": "sad little panda",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 97,
         "updatedAt": "2017-05-04 11:34:40"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 46,
-        "updatedAt": "2017-05-03 05:58:39"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "wGAlYFJYxb": {
+        "id": "wGAlYFJYxb",
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-13 11:47:53",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 25
+        }
+    },
     "lvbZaqoRPF": {
         "id": "lvbZaqoRPF",
         "title": "о любви и смерти",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 99
-        }
-    },
-    "038Ke0Bgta": {
-        "id": "038Ke0Bgta",
-        "title": "Песнь Кали",
-        "author": "Ден Симмонс",
-        "notes": "",
-        "createdAt": "2017-05-12 07:01:49",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 98
         }
     }
 }
