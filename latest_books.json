@@ -1,4 +1,16 @@
 {
+    "qT95jCE1Nc": {
+        "id": "qT95jCE1Nc",
+        "title": "Демон плюс",
+        "author": "Zотов",
+        "notes": "",
+        "createdAt": "2017-05-13 10:30:22",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 11
+        }
+    },
     "yd0-feiaK0": {
         "id": "yd0-feiaK0",
         "title": "Ад и Рай",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 96
-        }
-    },
-    "6op1FLy4Q6": {
-        "id": "6op1FLy4Q6",
-        "title": "не отпускай меня",
-        "author": "кадзуо исигуро",
-        "notes": "Про Хейшлем и бесмысленность жизни",
-        "createdAt": "2017-05-09 12:05:06",
-        "user": {
-            "id": "18209789998000712034-mailru",
-            "nickname": "Полина Чтаева",
-            "booksCount": 1
         }
     }
 }
