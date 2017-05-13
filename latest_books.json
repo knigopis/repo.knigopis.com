@@ -1,4 +1,16 @@
 {
+    "mY0GNryZ25": {
+        "id": "mY0GNryZ25",
+        "title": "Элемент крови",
+        "author": "Zотов",
+        "notes": "",
+        "createdAt": "2017-05-13 10:27:34",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 8
+        }
+    },
     "ja4MUg-301": {
         "id": "ja4MUg-301",
         "title": "Москау",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 102
-        }
-    },
-    "zBDtBvJBSe": {
-        "id": "zBDtBvJBSe",
-        "title": "Странник играет под сурдинку",
-        "author": "Кнут Гамсун",
-        "notes": "",
-        "createdAt": "2017-05-08 11:10:50",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 529
         }
     }
 }
