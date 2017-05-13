@@ -1,4 +1,4 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>22</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>23</sup>
 ---
 
 ## 2017
@@ -82,6 +82,10 @@ Zотов
 
 
 ## 2014
+
+### Книга одиночеств
+Макс Фрай
+
 
 ### Демон плюс
 Zотов

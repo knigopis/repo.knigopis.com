@@ -1,4 +1,16 @@
 {
+    "4smdqkt6uV": {
+        "id": "4smdqkt6uV",
+        "title": "Книга одиночеств",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-05-13 10:56:05",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 23
+        }
+    },
     "RcfJ4Ikmqg": {
         "id": "RcfJ4Ikmqg",
         "title": "Гнезда Химер. Хроники Оветганны",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 107
-        }
-    },
-    "IU2tfYLujn": {
-        "id": "IU2tfYLujn",
-        "title": "Одиночество в Сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2017-05-10 17:07:21",
-        "user": {
-            "id": "100001921022265-facebook",
-            "nickname": "Yevgen",
-            "booksCount": 1
         }
     }
 }
