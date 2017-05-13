@@ -1,4 +1,16 @@
 {
+    "lvbZaqoRPF": {
+        "id": "lvbZaqoRPF",
+        "title": "о любви и смерти",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-05-13 11:07:35",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 26
+        }
+    },
     "HkdHTtt2MB": {
         "id": "HkdHTtt2MB",
         "title": "НяпиZдинг сенсе",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 98
-        }
-    },
-    "Clb0liW_tW": {
-        "id": "Clb0liW_tW",
-        "title": "Зоопарк в моём багаже",
-        "author": "Джеральд Даррелл",
-        "notes": "Первое прочтение между 2006 и 2008 годами.",
-        "createdAt": "2017-05-11 16:14:16",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 111
         }
     }
 }

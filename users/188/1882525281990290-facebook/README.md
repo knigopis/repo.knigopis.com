@@ -1,4 +1,4 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>25</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>26</sup>
 ---
 
 ## 2017
@@ -10,6 +10,10 @@
 
 
 ## 2016
+
+### о любви и смерти
+Макс Фрай
+
 
 ### НяпиZдинг сенсе
 Макс Фрай
