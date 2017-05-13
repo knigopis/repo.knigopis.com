@@ -1,4 +1,16 @@
 {
+    "8t6kJaZj03": {
+        "id": "8t6kJaZj03",
+        "title": "Минус ангел",
+        "author": "Zотов",
+        "notes": "",
+        "createdAt": "2017-05-13 10:28:05",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 9
+        }
+    },
     "mY0GNryZ25": {
         "id": "mY0GNryZ25",
         "title": "Элемент крови",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 530
-        }
-    },
-    "lOcl6NXrE8": {
-        "id": "lOcl6NXrE8",
-        "title": "Коты-Воители:",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 13",
-        "createdAt": "2017-05-08 16:30:52",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 102
         }
     }
 }
