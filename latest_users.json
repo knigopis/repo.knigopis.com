@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 112,
+        "updatedAt": "2017-05-13 11:06:10"
+    },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",
         "nickname": "sad little panda",
@@ -28,12 +34,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 99,
         "updatedAt": "2017-05-12 10:28:13"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 111,
-        "updatedAt": "2017-05-11 16:14:16"
     },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
