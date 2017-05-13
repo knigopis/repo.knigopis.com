@@ -1,4 +1,16 @@
 {
+    "pxZ09x4o1f": {
+        "id": "pxZ09x4o1f",
+        "title": "Волонтеры вечности",
+        "author": "Макс Фрай",
+        "notes": "1 Лабиринты Ехо 2",
+        "createdAt": "2017-05-13 10:38:37",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 14
+        }
+    },
     "wAZOqd1Rhs": {
         "id": "wAZOqd1Rhs",
         "title": "Чужак",
@@ -345,18 +357,6 @@
             "id": "111003752220369872386-googleplus",
             "nickname": "icantrelate",
             "booksCount": 3
-        }
-    },
-    "d8TIxuMUis": {
-        "id": "d8TIxuMUis",
-        "title": "Одиночество в Сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2017-05-09 15:17:45",
-        "user": {
-            "id": "111003752220369872386-googleplus",
-            "nickname": "icantrelate",
-            "booksCount": 2
         }
     }
 }
