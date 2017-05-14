@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лощина ~ [Йолант](users/104/104690883692185089260-google)<sup>137</sup>
+    > Из цикла "Эркюль Пуаро". Одна из нескольких книг цикла, насыщенная эмоциональными переживаниями героев, серьёзными вопросами на социальные темы в толще слоёв повествования.
+
 * Пять поросят ~ [Йолант](users/104/104690883692185089260-google)<sup>136</sup>
     > Из цикла "Эркюль Пуаро".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Печальный кипарис ~ [Йолант](users/104/104690883692185089260-google)<sup>134</sup>
-    > Из цикла "Эркюль Пуаро".
 
 * Раз, два - пряжку застегни ~ [Йолант](users/104/104690883692185089260-google)<sup>133</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рождественское убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>128</sup>
 
-* Безмолвный свидетель ~ [Йолант](users/104/104690883692185089260-google)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>136</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>137</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:53:13_
+_14.05.2017 14:54:32_
