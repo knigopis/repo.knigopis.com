@@ -1,4 +1,16 @@
 {
+    "C3htCdoc4f": {
+        "id": "C3htCdoc4f",
+        "title": "По ту сторону сна",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-05-14 01:56:29",
+        "user": {
+            "id": "105617470861273678190-google",
+            "nickname": "RIVAI",
+            "booksCount": 3
+        }
+    },
     "1cTxikbLUh": {
         "id": "1cTxikbLUh",
         "title": "В склепе",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 5
-        }
-    },
-    "YcQpfK6I7v": {
-        "id": "YcQpfK6I7v",
-        "title": "Мастер и Маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-13 10:23:48",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 4
         }
     }
 }

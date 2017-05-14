@@ -1,7 +1,12 @@
-# List of books read by [RIVAI](https://plus.google.com/105617470861273678190)<sup>2</sup>
+# List of books read by [RIVAI](https://plus.google.com/105617470861273678190)<sup>3</sup>
 ---
 
 ## 2017
+
+### По ту сторону сна
+Говард Лавкрафт
+> [2017-05-14] 
+
 
 ### В склепе
 Говард Лавкрафт
