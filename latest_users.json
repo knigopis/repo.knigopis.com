@@ -1,4 +1,10 @@
 {
+    "319009295-vkontakte": {
+        "id": "319009295-vkontakte",
+        "nickname": "alchemist118",
+        "booksCount": 0,
+        "updatedAt": "2017-05-14 23:17:03"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -172,11 +178,5 @@
         "nickname": "pascaltrening",
         "booksCount": 1,
         "updatedAt": "2017-05-08 07:03:21"
-    },
-    "42198251-vkontakte": {
-        "id": "42198251-vkontakte",
-        "nickname": "gella-girl",
-        "booksCount": 0,
-        "updatedAt": "2017-05-08 06:56:01"
     }
 }
