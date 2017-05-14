@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ржавый меч царя Гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>159</sup>
+    > Из цикла "Тайный сыск царя Гороха". Книга явно слабее предыдущих в цикле.
+
 * Жениться и обезвредить ~ [Йолант](users/104/104690883692185089260-google)<sup>158</sup>
     > Из цикла "Тайный сыск царя Гороха".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Тайный сыск царя Гороха".
 
 * Дело трезвых скоморохов ~ [Йолант](users/104/104690883692185089260-google)<sup>156</sup>
-    > Из цикла "Тайный сыск царя Гороха".
 
 * Отстрел невест ~ [Йолант](users/104/104690883692185089260-google)<sup>155</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ранние дела Пуаро ~ [Йолант](users/104/104690883692185089260-google)<sup>151</sup>
 
-* Пуаро ведёт следствие ~ [Йолант](users/104/104690883692185089260-google)<sup>150</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>158</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>159</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 
 
-_14.05.2017 19:51:41_
+_14.05.2017 19:52:37_
