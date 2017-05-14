@@ -1,4 +1,16 @@
 {
+    "AlH18j4N60": {
+        "id": "AlH18j4N60",
+        "title": "Тайна голубого поезда",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:37:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 118
+        }
+    },
     "0RL8Z7Wiis": {
         "id": "0RL8Z7Wiis",
         "title": "Большая четвёрка",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 6
-        }
-    },
-    "HgxK0mBOkp": {
-        "id": "HgxK0mBOkp",
-        "title": "Бриллиантовый шепот",
-        "author": "Завелевич Ольга",
-        "notes": "История двух семей во времена революции и Отечественной войны",
-        "createdAt": "2017-04-29 16:34:37",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 12
         }
     }
 }
