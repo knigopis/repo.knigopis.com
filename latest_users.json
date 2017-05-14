@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 36,
+        "updatedAt": "2017-05-14 17:17:23"
+    },
     "241453083-vkontakte": {
         "id": "241453083-vkontakte",
         "nickname": "Nyansta",
@@ -172,11 +178,5 @@
         "nickname": "antasiar",
         "booksCount": 109,
         "updatedAt": "2017-05-07 18:25:53"
-    },
-    "108774233915925319546-google": {
-        "id": "108774233915925319546-google",
-        "nickname": "Ann Rott",
-        "booksCount": 3,
-        "updatedAt": "2017-05-05 19:25:30"
     }
 }

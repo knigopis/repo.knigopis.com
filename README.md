@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>36</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>151</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
-[Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 
 
-_14.05.2017 15:14:01_
+_14.05.2017 17:17:23_

@@ -1,4 +1,16 @@
 {
+    "BFCbCVAfhp": {
+        "id": "BFCbCVAfhp",
+        "title": "Железная пята",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-05-14 17:17:23",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 36
+        }
+    },
     "QPcXqqEBZn": {
         "id": "QPcXqqEBZn",
         "title": "Ранние дела Пуаро",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 123
-        }
-    },
-    "TuEdWkYzj5": {
-        "id": "TuEdWkYzj5",
-        "title": "Трагедия в трёх актах",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:42:17",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 122
         }
     }
 }
