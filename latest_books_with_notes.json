@@ -1,4 +1,16 @@
 {
+    "VAK_0WFFLP": {
+        "id": "VAK_0WFFLP",
+        "title": "Убийство в восточном экспрессе",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:42:44",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 123
+        }
+    },
     "TuEdWkYzj5": {
         "id": "TuEdWkYzj5",
         "title": "Трагедия в трёх актах",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 11
-        }
-    },
-    "l4WJpsmNgi": {
-        "id": "l4WJpsmNgi",
-        "title": "«12 НЕДЕЛЬ В ГОДУ. КАК ЗА 12 НЕДЕЛЬ СДЕЛАТЬ БОЛЬШЕ, ЧЕМ ДРУГИЕ УСПЕВАЮТ ЗА 12 МЕСЯЦЕВ»",
-        "author": "Брайан Моран, Майкл Леннингтон",
-        "notes": "[М: Манн, Иванов и Фербер, 2014]",
-        "createdAt": "2017-05-01 16:16:38",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 10
         }
     }
 }
