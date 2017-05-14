@@ -1,4 +1,16 @@
 {
+    "TuEdWkYzj5": {
+        "id": "TuEdWkYzj5",
+        "title": "Трагедия в трёх актах",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:42:17",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 122
+        }
+    },
     "3L1z1a19_I": {
         "id": "3L1z1a19_I",
         "title": "Смерть лорда Эдвера",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 10
-        }
-    },
-    "gKzbOf_ay0": {
-        "id": "gKzbOf_ay0",
-        "title": "«ОТ ХОРОШЕГО К ВЕЛИКОМУ. ПОЧЕМУ ОДНИ КОМПАНИИ СОВЕРШАЮТ ПРОРЫВ, А ДРУГИЕ НЕТ»",
-        "author": "Джим Коллинз",
-        "notes": "[М.: Манн, Иванов и Фербер, 2014]",
-        "createdAt": "2017-05-01 16:15:24",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 9
         }
     }
 }
