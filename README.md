@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хикори, дикори, док... ~ [Йолант](users/104/104690883692185089260-google)<sup>141</sup>
+    > Из цикла "Эркюль Пуаро". Довольно необычный сюжетный ход, когда один из самых привлекательных героев оказывается преступником.
+
 * После похорон ~ [Йолант](users/104/104690883692185089260-google)<sup>140</sup>
     > Из цикла "Эркюль Пуаро".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Берег удачи ~ [Йолант](users/104/104690883692185089260-google)<sup>138</sup>
-    > Из цикла "Эркюль Пуаро". Ещё одна книга, многое рассказывающая о человеческих отношениях.
 
 * Лощина ~ [Йолант](users/104/104690883692185089260-google)<sup>137</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Свидание со смертью ~ [Йолант](users/104/104690883692185089260-google)<sup>132</sup>
 
-* Родосский треугольник ~ [Йолант](users/104/104690883692185089260-google)<sup>131</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>140</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>141</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:56:28_
+_14.05.2017 14:57:39_
