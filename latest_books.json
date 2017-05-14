@@ -1,4 +1,16 @@
 {
+    "gFs3QjjxZG": {
+        "id": "gFs3QjjxZG",
+        "title": "Загадка Эндхауза",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:38:47",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 120
+        }
+    },
     "b4b6JDKNrA": {
         "id": "b4b6JDKNrA",
         "title": "Подвиги Геракла",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 13
-        }
-    },
-    "C03DR_u2cG": {
-        "id": "C03DR_u2cG",
-        "title": "Эль Дьябло",
-        "author": "Zотов",
-        "notes": "",
-        "createdAt": "2017-05-13 10:30:55",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 12
         }
     }
 }

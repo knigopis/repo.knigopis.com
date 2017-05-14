@@ -1,4 +1,16 @@
 {
+    "gFs3QjjxZG": {
+        "id": "gFs3QjjxZG",
+        "title": "Загадка Эндхауза",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:38:47",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 120
+        }
+    },
     "b4b6JDKNrA": {
         "id": "b4b6JDKNrA",
         "title": "Подвиги Геракла",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 8
-        }
-    },
-    "xHeZ6MR4Bs": {
-        "id": "xHeZ6MR4Bs",
-        "title": "«ИНКУБАТОР TWITTER. ПОДЛИННАЯ ИСТОРИЯ ДЕНЕГ, ВЛАСТИ, ДРУЖБЫ И ПРЕДАТЕЛЬСТВА»",
-        "author": "Ник Билтон",
-        "notes": "[М.: Азбука Бизнес, Азбука-Аттикус, 2015]",
-        "createdAt": "2017-05-01 16:12:44",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 7
         }
     }
 }
