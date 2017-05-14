@@ -1,4 +1,16 @@
 {
+    "k9ftYpql1_": {
+        "id": "k9ftYpql1_",
+        "title": "Карты на стол",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:47:01",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 126
+        }
+    },
     "Fy7kBlcqzG": {
         "id": "Fy7kBlcqzG",
         "title": "Убийство в Месопотамии",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 14
-        }
-    },
-    "rKL_MnXUmp": {
-        "id": "rKL_MnXUmp",
-        "title": "«НЕОБУЗДАННОЕ СЕРДЦЕ. ПОСТИГАЯ ТАЙНЫ МУЖСКОЙ ДУШИ»",
-        "author": "Джон Элдридж",
-        "notes": "[СПб.: Виссон, 2010]",
-        "createdAt": "2017-05-01 16:21:48",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 13
         }
     }
 }
