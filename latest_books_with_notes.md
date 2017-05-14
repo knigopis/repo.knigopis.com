@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Невероятная кража ~ [Йолант](users/104/104690883692185089260-google)<sup>129</sup>
 * Рождественское убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>128</sup>
 * Безмолвный свидетель ~ [Йолант](users/104/104690883692185089260-google)<sup>127</sup>
 * Карты на стол ~ [Йолант](users/104/104690883692185089260-google)<sup>126</sup>
@@ -30,7 +31,6 @@
 * Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
 * Свет погас ~ [sonics](users/588/5880221-vkontakte)<sup>46</sup>
 * Братство ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>20</sup>
-* Коты-Воители: Знак трех ~ [EsterHani](users/305/30558181-vkontakte)<sup>101</sup>
 
 
-_14.05.2017 14:47:57_
+_14.05.2017 14:48:36_

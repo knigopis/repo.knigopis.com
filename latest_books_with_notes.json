@@ -1,4 +1,16 @@
 {
+    "VgabW9FC--": {
+        "id": "VgabW9FC--",
+        "title": "Невероятная кража",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:48:36",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 129
+        }
+    },
     "BF8Ye5sHSL": {
         "id": "BF8Ye5sHSL",
         "title": "Рождественское убийство",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 20
-        }
-    },
-    "2JNShKpdx2": {
-        "id": "2JNShKpdx2",
-        "title": "Коты-Воители: Знак трех",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Новое пророчество\"\nКнига 13",
-        "createdAt": "2017-05-02 18:12:06",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 101
         }
     }
 }
