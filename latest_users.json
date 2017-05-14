@@ -1,4 +1,10 @@
 {
+    "105617470861273678190-google": {
+        "id": "105617470861273678190-google",
+        "nickname": "RIVAI",
+        "booksCount": 0,
+        "updatedAt": "2017-05-14 01:14:13"
+    },
     "243975624-vkontakte": {
         "id": "243975624-vkontakte",
         "nickname": "sjomk1n",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 142,
         "updatedAt": "2017-05-05 15:19:17"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 37,
-        "updatedAt": "2017-05-05 06:23:42"
     }
 }
