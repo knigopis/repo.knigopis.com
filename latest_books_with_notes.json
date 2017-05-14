@@ -1,4 +1,16 @@
 {
+    "b4b6JDKNrA": {
+        "id": "b4b6JDKNrA",
+        "title": "Подвиги Геракла",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:38:19",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 119
+        }
+    },
     "AlH18j4N60": {
         "id": "AlH18j4N60",
         "title": "Тайна голубого поезда",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 7
-        }
-    },
-    "e_ZckMpOYq": {
-        "id": "e_ZckMpOYq",
-        "title": "«ПРОБУЙ – ПОЛУЧИТСЯ! КОГДА ВЫ В ПОСЛЕДНИЙ РАЗ ЧТО-ТО ДЕЛАЛИ ВПЕРВЫЕ?»   [М.: Альпина Паблишер, 2011]  ISBN 978-5-9614-1667-1",
-        "author": "Сет Годин",
-        "notes": "[М.: Альпина Паблишер, 2011]\nISBN 978-5-9614-1667-1",
-        "createdAt": "2017-05-01 16:06:34",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 6
         }
     }
 }

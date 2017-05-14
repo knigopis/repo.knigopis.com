@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Подвиги Геракла ~ [Йолант](users/104/104690883692185089260-google)<sup>119</sup>
+    > Из цикла "Эркюль Пуаро".
+
 * Тайна голубого поезда ~ [Йолант](users/104/104690883692185089260-google)<sup>118</sup>
     > Из цикла "Эркюль Пуаро".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Убийство Роджера Экройда ~ [Йолант](users/104/104690883692185089260-google)<sup>116</sup>
-    > Из цикла "Эркюль Пуаро".
 
 * Убийство на поле для гольфа ~ [Йолант](users/104/104690883692185089260-google)<sup>115</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поместье зверинец ~ [Йолант](users/104/104690883692185089260-google)<sup>112</sup>
 
-* Зоопарк в моём багаже ~ [Йолант](users/104/104690883692185089260-google)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>118</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>119</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:37:55_
+_14.05.2017 14:38:19_
