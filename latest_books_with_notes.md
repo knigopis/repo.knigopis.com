@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Свидание со смертью ~ [Йолант](users/104/104690883692185089260-google)<sup>132</sup>
 * Родосский треугольник ~ [Йолант](users/104/104690883692185089260-google)<sup>131</sup>
 * Разбитое зеркало ~ [Йолант](users/104/104690883692185089260-google)<sup>130</sup>
 * Невероятная кража ~ [Йолант](users/104/104690883692185089260-google)<sup>129</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: ~ [EsterHani](users/305/30558181-vkontakte)<sup>102</sup>
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
 * Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
-* Quantitative Finance For Dummies ~ [exulted](users/100/100599204551896265722-google)<sup>37</sup>
 
 
-_14.05.2017 14:50:10_
+_14.05.2017 14:50:48_

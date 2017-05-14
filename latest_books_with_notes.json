@@ -1,4 +1,16 @@
 {
+    "GBSJYbU0cI": {
+        "id": "GBSJYbU0cI",
+        "title": "Свидание со смертью",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\". Книга, очень многое рассказавшая мне о моей и чужих жизнях.",
+        "createdAt": "2017-05-14 14:50:48",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 132
+        }
+    },
     "-FAObRDMp4": {
         "id": "-FAObRDMp4",
         "title": "Родосский треугольник",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 142
-        }
-    },
-    "jlkhJzoOhh": {
-        "id": "jlkhJzoOhh",
-        "title": "Quantitative Finance For Dummies",
-        "author": "Steve Bell",
-        "notes": "ASIN: B01GXZUXPC",
-        "createdAt": "2017-05-05 06:23:42",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 37
         }
     }
 }

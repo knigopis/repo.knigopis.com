@@ -1,4 +1,16 @@
 {
+    "GBSJYbU0cI": {
+        "id": "GBSJYbU0cI",
+        "title": "Свидание со смертью",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\". Книга, очень многое рассказавшая мне о моей и чужих жизнях.",
+        "createdAt": "2017-05-14 14:50:48",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 132
+        }
+    },
     "-FAObRDMp4": {
         "id": "-FAObRDMp4",
         "title": "Родосский треугольник",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 112
-        }
-    },
-    "IlDRkkYFMp": {
-        "id": "IlDRkkYFMp",
-        "title": "Ключ из желтого металла",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2017-05-13 11:03:48",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 24
         }
     }
 }
