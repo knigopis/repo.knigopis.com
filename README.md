@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[RIVAI](users/105/105617470861273678190-google)<sup>0</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>109</sup> 
 [Ann Rott](users/108/108774233915925319546-google)<sup>3</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>37</sup> 
 
 
-_13.05.2017 20:56:08_
+_14.05.2017 01:14:15_
