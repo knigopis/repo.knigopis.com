@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 113,
+        "updatedAt": "2017-05-14 11:31:35"
+    },
     "105617470861273678190-google": {
         "id": "105617470861273678190-google",
         "nickname": "RIVAI",
@@ -34,12 +40,6 @@
         "nickname": "sad little panda",
         "booksCount": 26,
         "updatedAt": "2017-05-13 11:07:35"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 112,
-        "updatedAt": "2017-05-13 11:06:10"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

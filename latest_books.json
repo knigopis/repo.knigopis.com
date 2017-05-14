@@ -1,4 +1,16 @@
 {
+    "f-XybcR0V2": {
+        "id": "f-XybcR0V2",
+        "title": "Алиса и три капитана",
+        "author": "Кир Булычёв",
+        "notes": "Первое прочтение между 2004 и 2007.",
+        "createdAt": "2017-05-14 11:31:35",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 113
+        }
+    },
     "C3htCdoc4f": {
         "id": "C3htCdoc4f",
         "title": "По ту сторону сна",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 6
-        }
-    },
-    "-xsyHoZBv0": {
-        "id": "-xsyHoZBv0",
-        "title": "Сказочник",
-        "author": "Zотов",
-        "notes": "",
-        "createdAt": "2017-05-13 10:25:54",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 5
         }
     }
 }

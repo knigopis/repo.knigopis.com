@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Алиса и три капитана ~ [Йолант](users/104/104690883692185089260-google)<sup>113</sup>
+    > Первое прочтение между 2004 и 2007.
+
 * Коты-Воители: Затмение ~ [EsterHani](users/305/30558181-vkontakte)<sup>104</sup>
     > Цикл "Сила трёх"
     > Книга 16
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 15
 
 * Поместье зверинец ~ [Йолант](users/104/104690883692185089260-google)<sup>112</sup>
-    > Впервые прочитана в 2006-2008.
 
 * Зоопарк в моём багаже ~ [Йолант](users/104/104690883692185089260-google)<sup>111</sup>
 
@@ -28,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Песнь о Трое ~ [pascaltrening](users/116/1168869274-facebook)<sup>1</sup>
 
-* Пролетая над гнездом кукушки ~ [Garka](users/115/115753719718250012620-google)<sup>142</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>113</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>112</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>252</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 01:56:29_
+_14.05.2017 11:31:35_
