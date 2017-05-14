@@ -1,4 +1,16 @@
 {
+    "clBGR8yjuA": {
+        "id": "clBGR8yjuA",
+        "title": "Печальный кипарис",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:52:26",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 134
+        }
+    },
     "oq4_Fumq6e": {
         "id": "oq4_Fumq6e",
         "title": "Раз, два - пряжку застегни",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 102
-        }
-    },
-    "kvwB1L0jHV": {
-        "id": "kvwB1L0jHV",
-        "title": "Песнь о Трое",
-        "author": "Колин Макклоу",
-        "notes": "Хорошая историческая реконструкция. Еще одна версия троянской войны.",
-        "createdAt": "2017-05-08 07:03:21",
-        "user": {
-            "id": "1168869274-facebook",
-            "nickname": "pascaltrening",
-            "booksCount": 1
         }
     }
 }

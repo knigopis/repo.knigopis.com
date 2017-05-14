@@ -1,4 +1,16 @@
 {
+    "clBGR8yjuA": {
+        "id": "clBGR8yjuA",
+        "title": "Печальный кипарис",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:52:26",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 134
+        }
+    },
     "oq4_Fumq6e": {
         "id": "oq4_Fumq6e",
         "title": "Раз, два - пряжку застегни",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 26
-        }
-    },
-    "HkdHTtt2MB": {
-        "id": "HkdHTtt2MB",
-        "title": "НяпиZдинг сенсе",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2017-05-13 11:07:06",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 25
         }
     }
 }
