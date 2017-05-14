@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 [pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
-[gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 
 
-_14.05.2017 19:54:30_
+_14.05.2017 23:17:06_
