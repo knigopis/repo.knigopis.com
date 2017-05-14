@@ -1,4 +1,16 @@
 {
+    "1cTxikbLUh": {
+        "id": "1cTxikbLUh",
+        "title": "В склепе",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-05-14 01:21:37",
+        "user": {
+            "id": "105617470861273678190-google",
+            "nickname": "RIVAI",
+            "booksCount": 2
+        }
+    },
     "N22MxD09D2": {
         "id": "N22MxD09D2",
         "title": "Retrum. Когда мы были мертвыми",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 4
-        }
-    },
-    "L_sERBs_KA": {
-        "id": "L_sERBs_KA",
-        "title": "Из третьего Мира в первый",
-        "author": "Ли Куан Ю",
-        "notes": "",
-        "createdAt": "2017-05-13 08:15:42",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 252
         }
     }
 }

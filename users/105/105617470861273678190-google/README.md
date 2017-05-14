@@ -1,5 +1,13 @@
-# List of books read by [RIVAI](https://plus.google.com/105617470861273678190)<sup>1</sup>
+# List of books read by [RIVAI](https://plus.google.com/105617470861273678190)<sup>2</sup>
 ---
+
+## 2017
+
+### В склепе
+Говард Лавкрафт
+> [2017-05-14] 
+
+
 
 ## 2014
 
