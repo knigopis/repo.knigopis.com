@@ -1,4 +1,16 @@
 {
+    "BF8Ye5sHSL": {
+        "id": "BF8Ye5sHSL",
+        "title": "Рождественское убийство",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:47:57",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 128
+        }
+    },
     "enZubKVxh-": {
         "id": "enZubKVxh-",
         "title": "Безмолвный свидетель",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 21
-        }
-    },
-    "NrpbC0Jfbh": {
-        "id": "NrpbC0Jfbh",
-        "title": "Лабиринт Менина",
-        "author": "Макс Фрай",
-        "notes": "1 Лабиринты Ехо 8",
-        "createdAt": "2017-05-13 10:41:46",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 20
         }
     }
 }
