@@ -1,4 +1,16 @@
 {
+    "Fy7kBlcqzG": {
+        "id": "Fy7kBlcqzG",
+        "title": "Убийство в Месопотамии",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:46:28",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 125
+        }
+    },
     "1L20sWT7aw": {
         "id": "1L20sWT7aw",
         "title": "Смерть в облаках",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 13
-        }
-    },
-    "nsR0VDqDPf": {
-        "id": "nsR0VDqDPf",
-        "title": "«МАГИЯ УТРА. КАК ПЕРВЫЙ ЧАС ДНЯ ОПРЕДЕЛЯЕТ ВАШ УСПЕХ»",
-        "author": "Хэл Элрод",
-        "notes": "[М.: Манн, Иванов и Фербер, 2016]",
-        "createdAt": "2017-05-01 16:19:50",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 12
         }
     }
 }
