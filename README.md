@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Берег удачи ~ [Йолант](users/104/104690883692185089260-google)<sup>138</sup>
+    > Из цикла "Эркюль Пуаро". Ещё одна книга, многое рассказывающая о человеческих отношениях.
+
 * Лощина ~ [Йолант](users/104/104690883692185089260-google)<sup>137</sup>
     > Из цикла "Эркюль Пуаро". Одна из нескольких книг цикла, насыщенная эмоциональными переживаниями героев, серьёзными вопросами на социальные темы в толще слоёв повествования.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Зло под солнцем ~ [Йолант](users/104/104690883692185089260-google)<sup>135</sup>
-    > Из цикла "Эркюль Пуаро".
 
 * Печальный кипарис ~ [Йолант](users/104/104690883692185089260-google)<sup>134</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Невероятная кража ~ [Йолант](users/104/104690883692185089260-google)<sup>129</sup>
 
-* Рождественское убийство ~ [Йолант](users/104/104690883692185089260-google)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>137</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>138</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:54:32_
+_14.05.2017 14:55:38_
