@@ -1,4 +1,16 @@
 {
+    "_XOLrkXnN2": {
+        "id": "_XOLrkXnN2",
+        "title": "Конец человеческой глупости (Причуда)",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:58:08",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 142
+        }
+    },
     "TGrzsvjEEO": {
         "id": "TGrzsvjEEO",
         "title": "Хикори, дикори, док...",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 113
-        }
-    },
-    "C3htCdoc4f": {
-        "id": "C3htCdoc4f",
-        "title": "По ту сторону сна",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2017-05-14 01:56:29",
-        "user": {
-            "id": "105617470861273678190-google",
-            "nickname": "RIVAI",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "_XOLrkXnN2": {
+        "id": "_XOLrkXnN2",
+        "title": "Конец человеческой глупости (Причуда)",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:58:08",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 142
+        }
+    },
     "TGrzsvjEEO": {
         "id": "TGrzsvjEEO",
         "title": "Хикори, дикори, док...",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 113
-        }
-    },
-    "bZWzHdjvR0": {
-        "id": "bZWzHdjvR0",
-        "title": "Коты-Воители: Затмение",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Сила трёх\"\nКнига 16",
-        "createdAt": "2017-05-13 19:41:40",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 104
         }
     }
 }

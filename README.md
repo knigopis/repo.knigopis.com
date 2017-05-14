@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Конец человеческой глупости (Причуда) ~ [Йолант](users/104/104690883692185089260-google)<sup>142</sup>
+    > Из цикла "Эркюль Пуаро".
+
 * Хикори, дикори, док... ~ [Йолант](users/104/104690883692185089260-google)<sup>141</sup>
     > Из цикла "Эркюль Пуаро". Довольно необычный сюжетный ход, когда один из самых привлекательных героев оказывается преступником.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Смерть мисс Мак-Джинти ~ [Йолант](users/104/104690883692185089260-google)<sup>139</sup>
-    > Из цикла "Эркюль Пуаро".
 
 * Берег удачи ~ [Йолант](users/104/104690883692185089260-google)<sup>138</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Раз, два - пряжку застегни ~ [Йолант](users/104/104690883692185089260-google)<sup>133</sup>
 
-* Свидание со смертью ~ [Йолант](users/104/104690883692185089260-google)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>141</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>142</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:57:39_
+_14.05.2017 14:58:09_
