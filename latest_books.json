@@ -1,4 +1,16 @@
 {
+    "3L1z1a19_I": {
+        "id": "3L1z1a19_I",
+        "title": "Смерть лорда Эдвера",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:39:16",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 121
+        }
+    },
     "gFs3QjjxZG": {
         "id": "gFs3QjjxZG",
         "title": "Загадка Эндхауза",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 14
-        }
-    },
-    "wAZOqd1Rhs": {
-        "id": "wAZOqd1Rhs",
-        "title": "Чужак",
-        "author": "Макс Фрай",
-        "notes": "1 Лабиринты Ехо 1",
-        "createdAt": "2017-05-13 10:38:16",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 13
         }
     }
 }
