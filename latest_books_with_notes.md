@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Загадочное происшествие в Стайлзе ~ [Йолант](users/104/104690883692185089260-google)<sup>114</sup>
 * Алиса и три капитана ~ [Йолант](users/104/104690883692185089260-google)<sup>113</sup>
 * Коты-Воители: Затмение ~ [EsterHani](users/305/30558181-vkontakte)<sup>104</sup>
 * Коты-Воители: Отверженные ~ [EsterHani](users/305/30558181-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Архимаг ~ [foksik](users/173/1734575-vkontakte)<sup>191</sup>
 * Новые эльфы ~ [foksik](users/173/1734575-vkontakte)<sup>189</sup>
 * Пирог из горького миндаля ~ [Chiffi](users/105/105831994080785626680-google)<sup>11</sup>
-* Не та дверь ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>46</sup>
 
 
-_14.05.2017 11:31:35_
+_14.05.2017 14:33:57_
