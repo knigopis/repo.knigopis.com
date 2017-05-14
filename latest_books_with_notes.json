@@ -1,4 +1,16 @@
 {
+    "enZubKVxh-": {
+        "id": "enZubKVxh-",
+        "title": "Безмолвный свидетель",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:47:27",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 127
+        }
+    },
     "k9ftYpql1_": {
         "id": "k9ftYpql1_",
         "title": "Карты на стол",
@@ -345,18 +357,6 @@
             "id": "423302481-vkontakte",
             "nickname": "vladimir_balykov_ua",
             "booksCount": 15
-        }
-    },
-    "3UwZuvm_1N": {
-        "id": "3UwZuvm_1N",
-        "title": "«БЫТЬ, А НЕ КАЗАТЬСЯ. РАЗМЫШЛЕНИЯ ОБ ИСТИННОМ УСПЕХЕ»",
-        "author": "Стивен Кови",
-        "notes": "[М.: Манн, Иванов и Фербер; 2016]",
-        "createdAt": "2017-05-01 16:23:01",
-        "user": {
-            "id": "423302481-vkontakte",
-            "nickname": "vladimir_balykov_ua",
-            "booksCount": 14
         }
     }
 }
