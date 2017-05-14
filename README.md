@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пуаро ведёт следствие ~ [Йолант](users/104/104690883692185089260-google)<sup>150</sup>
+    > Из цикла "Эркюль Пуаро"
+
 * Убийства по алфавиту ~ [Йолант](users/104/104690883692185089260-google)<sup>149</sup>
     > Из цикла "Эркюль Пуаро".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро".
 
 * Вечеринка в хэллоуин ~ [Йолант](users/104/104690883692185089260-google)<sup>147</sup>
-    > Из цикла "Эркюль Пуаро". Кажется, писательница превзошла себя в этой книге, дав столько отсылок к классической литературе, сколько смогла уместить в себе одна её книга.
 
 * Третья девушка ~ [Йолант](users/104/104690883692185089260-google)<sup>146</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Хикори, дикори, док... ~ [Йолант](users/104/104690883692185089260-google)<sup>141</sup>
 
-* После похорон ~ [Йолант](users/104/104690883692185089260-google)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>149</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>150</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 15:02:58_
+_14.05.2017 15:05:42_
