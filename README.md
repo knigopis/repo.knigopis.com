@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Третья девушка ~ [Йолант](users/104/104690883692185089260-google)<sup>146</sup>
+    > Из цикла "Эркюль Пуаро".
+
 * Часы ~ [Йолант](users/104/104690883692185089260-google)<sup>145</sup>
     > Из цикла "Эркюль Пуаро", хотя уж кого-кого, а Эркюля Пуаро тут почти нет, всю детективную работу выполняет молодое поколение энтузиастов и служителей закона.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Эркюль Пуаро", сборник.
 
 * Кошка среди голубей ~ [Йолант](users/104/104690883692185089260-google)<sup>143</sup>
-    > Из цикла "Эркюль Пуаро".
 
 * Конец человеческой глупости (Причуда) ~ [Йолант](users/104/104690883692185089260-google)<sup>142</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лощина ~ [Йолант](users/104/104690883692185089260-google)<sup>137</sup>
 
-* Пять поросят ~ [Йолант](users/104/104690883692185089260-google)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>145</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>146</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 15:00:25_
+_14.05.2017 15:00:51_
