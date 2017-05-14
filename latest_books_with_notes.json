@@ -1,4 +1,16 @@
 {
+    "gab0g84d9b": {
+        "id": "gab0g84d9b",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:36:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 116
+        }
+    },
     "IPMPvd8ggW": {
         "id": "IPMPvd8ggW",
         "title": "Убийство на поле для гольфа",
@@ -345,18 +357,6 @@
             "id": "1734575-vkontakte",
             "nickname": "foksik",
             "booksCount": 191
-        }
-    },
-    "bgoW_8OTxf": {
-        "id": "bgoW_8OTxf",
-        "title": "Новые эльфы",
-        "author": "Мясоедов В.",
-        "notes": "Серия 10 книг",
-        "createdAt": "2017-04-29 14:48:58",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 189
         }
     }
 }

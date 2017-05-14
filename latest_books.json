@@ -1,4 +1,16 @@
 {
+    "gab0g84d9b": {
+        "id": "gab0g84d9b",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:36:55",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 116
+        }
+    },
     "IPMPvd8ggW": {
         "id": "IPMPvd8ggW",
         "title": "Убийство на поле для гольфа",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 9
-        }
-    },
-    "mY0GNryZ25": {
-        "id": "mY0GNryZ25",
-        "title": "Элемент крови",
-        "author": "Zотов",
-        "notes": "",
-        "createdAt": "2017-05-13 10:27:34",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 8
         }
     }
 }
