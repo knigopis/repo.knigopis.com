@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Большая четвёрка ~ [Йолант](users/104/104690883692185089260-google)<sup>117</sup>
+    > Из цикла "Эркюль Пуаро".
+
 * Убийство Роджера Экройда ~ [Йолант](users/104/104690883692185089260-google)<sup>116</sup>
     > Из цикла "Эркюль Пуаро".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Цикл "Эркюль Пуаро".
 
 * Загадочное происшествие в Стайлзе ~ [Йолант](users/104/104690883692185089260-google)<sup>114</sup>
-    > Серия "Эркюль Пуаро".
 
 * Алиса и три капитана ~ [Йолант](users/104/104690883692185089260-google)<sup>113</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Откровения ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup>
 
-* Гончие Бафута ~ [Йолант](users/104/104690883692185089260-google)<sup>110</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>116</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>117</sup> 
 [RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 [sjomk1n](users/243/243975624-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>142</sup> 
 
 
-_14.05.2017 14:36:55_
+_14.05.2017 14:37:26_

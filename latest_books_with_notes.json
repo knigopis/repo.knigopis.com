@@ -1,4 +1,16 @@
 {
+    "0RL8Z7Wiis": {
+        "id": "0RL8Z7Wiis",
+        "title": "Большая четвёрка",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:37:26",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 117
+        }
+    },
     "gab0g84d9b": {
         "id": "gab0g84d9b",
         "title": "Убийство Роджера Экройда",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 12
-        }
-    },
-    "vuYuakfwgJ": {
-        "id": "vuYuakfwgJ",
-        "title": "Архимаг",
-        "author": "Рудазов",
-        "notes": "Серия - 10 книг",
-        "createdAt": "2017-04-29 14:50:37",
-        "user": {
-            "id": "1734575-vkontakte",
-            "nickname": "foksik",
-            "booksCount": 191
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "0RL8Z7Wiis": {
+        "id": "0RL8Z7Wiis",
+        "title": "Большая четвёрка",
+        "author": "Агата Кристи",
+        "notes": "Из цикла \"Эркюль Пуаро\".",
+        "createdAt": "2017-05-14 14:37:26",
+        "user": {
+            "id": "104690883692185089260-google",
+            "nickname": "Йолант",
+            "booksCount": 117
+        }
+    },
     "gab0g84d9b": {
         "id": "gab0g84d9b",
         "title": "Убийство Роджера Экройда",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 10
-        }
-    },
-    "8t6kJaZj03": {
-        "id": "8t6kJaZj03",
-        "title": "Минус ангел",
-        "author": "Zотов",
-        "notes": "",
-        "createdAt": "2017-05-13 10:28:05",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 9
         }
     }
 }
