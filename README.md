@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дело трезвых скоморохов ~ [Йолант](users/104/104690883692185089260-google)<sup>156</sup>
+    > Из цикла "Тайный сыск царя Гороха".
+
 * Отстрел невест ~ [Йолант](users/104/104690883692185089260-google)<sup>155</sup>
     > Из цикла "Тайный сыск царя Гороха".
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Тайный сыск царя Гороха".
 
 * Заговор чёрной мессы ~ [Йолант](users/104/104690883692185089260-google)<sup>153</sup>
-    > Из цикла "Тайный сыск царя Гороха".
 
 * Tайный сыск царя гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>152</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Слоны умеют помнить ~ [Йолант](users/104/104690883692185089260-google)<sup>148</sup>
 
-* Вечеринка в хэллоуин ~ [Йолант](users/104/104690883692185089260-google)<sup>147</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Йолант](users/104/104690883692185089260-google)<sup>155</sup> 
+[Йолант](users/104/104690883692185089260-google)<sup>156</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gella-girl](users/421/42198251-vkontakte)<sup>0</sup> 
 
 
-_14.05.2017 19:50:04_
+_14.05.2017 19:50:36_
