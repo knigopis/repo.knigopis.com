@@ -1,4 +1,16 @@
 {
+    "DI8ncNmImX": {
+        "id": "DI8ncNmImX",
+        "title": "Рассказы об отце Брауне",
+        "author": "Гилберт Честертон",
+        "notes": "8/10",
+        "createdAt": "2017-05-15 10:06:42",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 71
+        }
+    },
     "PPD1AQpgrx": {
         "id": "PPD1AQpgrx",
         "title": "Дневники Принцессы",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 135
-        }
-    },
-    "clBGR8yjuA": {
-        "id": "clBGR8yjuA",
-        "title": "Печальный кипарис",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:52:26",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 134
         }
     }
 }

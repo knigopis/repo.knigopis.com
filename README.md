@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
+    > 8/10
+
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
     > 6/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
-    > Из цикла "Тайный сыск царя Гороха". Кажется слабее предыдущей книги: "Ржавый меч царя Гороха". Ощущение, что цикл явно поисписался.
 
 * Ржавый меч царя Гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>159</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Летучий корабль ~ [Йолант](users/104/104690883692185089260-google)<sup>154</sup>
 
-* Заговор чёрной мессы ~ [Йолант](users/104/104690883692185089260-google)<sup>153</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>70</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 
 
-_15.05.2017 10:05:31_
+_15.05.2017 10:06:42_
