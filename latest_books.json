@@ -1,4 +1,16 @@
 {
+    "NX8pF5B9Zi": {
+        "id": "NX8pF5B9Zi",
+        "title": "Герой",
+        "author": "Роберт Сальваторе",
+        "notes": "",
+        "createdAt": "2017-05-15 20:22:50",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 298
+        }
+    },
     "AEeCVlTgKr": {
         "id": "AEeCVlTgKr",
         "title": "Возможная жизнь",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 143
-        }
-    },
-    "_XOLrkXnN2": {
-        "id": "_XOLrkXnN2",
-        "title": "Конец человеческой глупости (Причуда)",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:58:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 142
         }
     }
 }
