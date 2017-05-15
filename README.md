@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>298</sup> 
 [iolaaa](users/155/15558176-vkontakte)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
-[Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 
 
-_15.05.2017 20:22:51_
+_15.05.2017 22:34:04_
