@@ -1,4 +1,10 @@
 {
+    "15558176-vkontakte": {
+        "id": "15558176-vkontakte",
+        "nickname": "iolaaa",
+        "booksCount": 0,
+        "updatedAt": "2017-05-15 20:18:40"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 96,
         "updatedAt": "2017-05-09 12:14:19"
-    },
-    "18209789998000712034-mailru": {
-        "id": "18209789998000712034-mailru",
-        "nickname": "Полина Чтаева",
-        "booksCount": 1,
-        "updatedAt": "2017-05-09 12:05:06"
     }
 }
