@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 28,
+        "updatedAt": "2017-05-15 11:56:45"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "yl4ikchebotar",
         "booksCount": 0,
         "updatedAt": "2017-05-09 09:05:01"
-    },
-    "20867638-vkontakte": {
-        "id": "20867638-vkontakte",
-        "nickname": "golubeva_irinka",
-        "booksCount": 0,
-        "updatedAt": "2017-05-08 14:19:05"
     }
 }

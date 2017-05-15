@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
 * Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
@@ -30,7 +31,6 @@
 * Берег удачи ~ [Йолант](users/104/104690883692185089260-google)<sup>138</sup>
 * Лощина ~ [Йолант](users/104/104690883692185089260-google)<sup>137</sup>
 * Пять поросят ~ [Йолант](users/104/104690883692185089260-google)<sup>136</sup>
-* Зло под солнцем ~ [Йолант](users/104/104690883692185089260-google)<sup>135</sup>
 
 
-_15.05.2017 10:06:42_
+_15.05.2017 11:56:45_

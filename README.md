@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
+    > Скажем, очень странная книга. Но читается очень легко. На 4 звезды из 5, как по мне.
+
 * Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
     > 8/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 6/10
 
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
-    > 7/10
 
 * Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отстрел невест ~ [Йолант](users/104/104690883692185089260-google)<sup>155</sup>
 
-* Летучий корабль ~ [Йолант](users/104/104690883692185089260-google)<sup>154</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
-[golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 
 
-_15.05.2017 10:06:42_
+_15.05.2017 11:56:45_
