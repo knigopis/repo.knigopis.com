@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
 [nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>252</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>99</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 
 
-_15.05.2017 19:08:22_
+_15.05.2017 19:17:05_
