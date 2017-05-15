@@ -1,4 +1,10 @@
 {
+    "25968795-vkontakte": {
+        "id": "25968795-vkontakte",
+        "nickname": "mur_si",
+        "booksCount": 0,
+        "updatedAt": "2017-05-15 22:34:03"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -172,11 +178,5 @@
         "nickname": "icantrelate",
         "booksCount": 5,
         "updatedAt": "2017-05-09 15:19:52"
-    },
-    "104502610850806942588-google": {
-        "id": "104502610850806942588-google",
-        "nickname": "Zhi",
-        "booksCount": 0,
-        "updatedAt": "2017-05-09 13:39:47"
     }
 }
