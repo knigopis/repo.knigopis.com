@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 4,
+        "updatedAt": "2017-05-15 19:02:54"
+    },
     "87481037-vkontakte": {
         "id": "87481037-vkontakte",
         "nickname": "nord_chan",
@@ -172,11 +178,5 @@
         "nickname": "Полина Чтаева",
         "booksCount": 1,
         "updatedAt": "2017-05-09 12:05:06"
-    },
-    "1931089343792598-facebook": {
-        "id": "1931089343792598-facebook",
-        "nickname": "Эосфор",
-        "booksCount": 0,
-        "updatedAt": "2017-05-09 09:30:08"
     }
 }
