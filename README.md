@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
+    > 6/10
+
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Тайный сыск царя Гороха". Кажется слабее предыдущей книги: "Ржавый меч царя Гороха". Ощущение, что цикл явно поисписался.
 
 * Ржавый меч царя Гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>159</sup>
-    > Из цикла "Тайный сыск царя Гороха". Книга явно слабее предыдущих в цикле.
 
 * Жениться и обезвредить ~ [Йолант](users/104/104690883692185089260-google)<sup>158</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Заговор чёрной мессы ~ [Йолант](users/104/104690883692185089260-google)<sup>153</sup>
 
-* Tайный сыск царя гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>152</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>69</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>70</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
 
 
-_15.05.2017 10:04:54_
+_15.05.2017 10:05:31_

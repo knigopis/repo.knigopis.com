@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>69</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>70</sup>
 ---
 
 ## 2017
@@ -277,6 +277,11 @@
 
 
 ## 2011
+
+### Дневники Принцессы
+Мэг Кэбот
+> 6/10
+
 
 ### Кумир и поклонницы
 Мэг Кэбот

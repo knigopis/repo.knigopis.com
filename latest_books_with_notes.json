@@ -1,4 +1,16 @@
 {
+    "PPD1AQpgrx": {
+        "id": "PPD1AQpgrx",
+        "title": "Дневники Принцессы",
+        "author": "Мэг Кэбот",
+        "notes": "6/10",
+        "createdAt": "2017-05-15 10:05:31",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 70
+        }
+    },
     "IhtqySNCQ0": {
         "id": "IhtqySNCQ0",
         "title": "Кумир и поклонницы",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 134
-        }
-    },
-    "oq4_Fumq6e": {
-        "id": "oq4_Fumq6e",
-        "title": "Раз, два - пряжку застегни",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:51:58",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 133
         }
     }
 }
