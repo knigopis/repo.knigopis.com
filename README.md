@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
-[yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 
 
-_15.05.2017 12:55:14_
+_15.05.2017 13:28:56_
