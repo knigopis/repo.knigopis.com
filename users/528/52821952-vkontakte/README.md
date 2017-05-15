@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>68</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>69</sup>
 ---
 
 ## 2017
@@ -277,6 +277,11 @@
 
 
 ## 2011
+
+### Кумир и поклонницы
+Мэг Кэбот
+> 7/10
+
 
 ### Дары волхвов
 О'Генри

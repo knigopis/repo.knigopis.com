@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
+    > 7/10
+
 * Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
     > Из цикла "Тайный сыск царя Гороха". Кажется слабее предыдущей книги: "Ржавый меч царя Гороха". Ощущение, что цикл явно поисписался.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Из цикла "Тайный сыск царя Гороха". Книга явно слабее предыдущих в цикле.
 
 * Жениться и обезвредить ~ [Йолант](users/104/104690883692185089260-google)<sup>158</sup>
-    > Из цикла "Тайный сыск царя Гороха".
 
 * Опергруппа в Подберёзовке ~ [Йолант](users/104/104690883692185089260-google)<sup>157</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Tайный сыск царя гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>152</sup>
 
-* Цветы для Элджернона ~ [Беска](users/157/1577468-vkontakte)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>69</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Эосфор](users/193/1931089343792598-facebook)<sup>0</sup> 
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 [golubeva_irinka](users/208/20867638-vkontakte)<sup>0</sup> 
-[pascaltrening](users/116/1168869274-facebook)<sup>1</sup> 
 
 
-_14.05.2017 23:17:06_
+_15.05.2017 10:04:54_
