@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>532</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
-[Janet](users/205/20565064-vkontakte)<sup>531</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [yl4ikchebotar](users/651/65177110-vkontakte)<sup>0</sup> 
 
 
-_15.05.2017 11:56:45_
+_15.05.2017 12:55:14_
