@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iolaaa](users/155/15558176-vkontakte)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
-[Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 
 
-_15.05.2017 19:17:05_
+_15.05.2017 20:18:41_
