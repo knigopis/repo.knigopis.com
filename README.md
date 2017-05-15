@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
+    > хочешь знать почему в мире все так плохо, почему люди уничтожают друг друга вместо того, чтобы помогать  http://lurkmore.to/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D1%83%D1%85
+
 * Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
     > Скажем, очень странная книга. Но читается очень легко. На 4 звезды из 5, как по мне.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
-    > 6/10
 
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дело трезвых скоморохов ~ [Йолант](users/104/104690883692185089260-google)<sup>156</sup>
 
-* Отстрел невест ~ [Йолант](users/104/104690883692185089260-google)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
 [nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
@@ -58,11 +59,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 [Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>26</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>13</sup> 
 [icantrelate](users/111/111003752220369872386-googleplus)<sup>5</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>96</sup> 
 [Полина Чтаева](users/182/18209789998000712034-mailru)<sup>1</sup> 
 
 
-_15.05.2017 19:02:54_
+_15.05.2017 19:08:22_
