@@ -1,4 +1,16 @@
 {
+    "sWhegpETPc": {
+        "id": "sWhegpETPc",
+        "title": "Тореадори з Васюківки",
+        "author": "Всеволод Нестайко",
+        "notes": "",
+        "createdAt": "2017-05-16 09:02:12",
+        "user": {
+            "id": "32712003-vkontakte",
+            "nickname": "alessiu",
+            "booksCount": 23
+        }
+    },
     "NX8pF5B9Zi": {
         "id": "NX8pF5B9Zi",
         "title": "Герой",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 144
-        }
-    },
-    "snEYIx7miI": {
-        "id": "snEYIx7miI",
-        "title": "Кошка среди голубей",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:58:35",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 143
         }
     }
 }
