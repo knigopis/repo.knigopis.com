@@ -1,4 +1,4 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>19</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>20</sup>
 ---
 
 ## 2017
@@ -86,6 +86,13 @@
 
 ### Пролетая над гнездом кукушки
 Кен Кизи
+
+
+
+## 2010
+
+### Мертвые души
+Николай Гоголь
 
 
 
