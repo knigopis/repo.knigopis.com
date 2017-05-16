@@ -1,7 +1,11 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>1</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>2</sup>
 ---
 
 ## 2014
+
+### Над пропастью во ржи
+Джером Дэвид Сэлинджер
+
 
 ### Пролетая над гнездом кукушки
 Кен Кизи
