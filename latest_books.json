@@ -1,4 +1,16 @@
 {
+    "1lPrv20PRV": {
+        "id": "1lPrv20PRV",
+        "title": "Записки юного врача",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-16 09:04:21",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 3
+        }
+    },
     "eItz10uzMH": {
         "id": "eItz10uzMH",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 147
-        }
-    },
-    "29oa81I5Qr": {
-        "id": "29oa81I5Qr",
-        "title": "Третья девушка",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 15:00:51",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 146
         }
     }
 }
