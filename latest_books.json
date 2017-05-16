@@ -1,4 +1,16 @@
 {
+    "aXYxX9ccsT": {
+        "id": "aXYxX9ccsT",
+        "title": "Унесённые ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-05-16 12:55:29",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 17
+        }
+    },
     "YA5Ae3cPO_": {
         "id": "YA5Ae3cPO_",
         "title": "Госпожа Бовари",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 159
-        }
-    },
-    "_c4aJLHSb2": {
-        "id": "_c4aJLHSb2",
-        "title": "Жениться и обезвредить",
-        "author": "Андрей Белянин",
-        "notes": "Из цикла \"Тайный сыск царя Гороха\".",
-        "createdAt": "2017-05-14 19:51:41",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 158
         }
     }
 }
