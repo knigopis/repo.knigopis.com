@@ -1,7 +1,11 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>5</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>6</sup>
 ---
 
 ## 2015
+
+### 11/22/36
+Стивен Кинг
+
 
 ### Собачье сердце
 Михаил Булгаков
