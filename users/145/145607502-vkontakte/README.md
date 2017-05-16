@@ -1,4 +1,4 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>13</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>14</sup>
 ---
 
 ## 2017
@@ -9,6 +9,10 @@
 
 
 ## 2016
+
+### Кладбище домашних животных
+Стивен Кинг
+
 
 ### Дневник свекрови
 Мария Метлицкая
