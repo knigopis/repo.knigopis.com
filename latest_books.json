@@ -1,4 +1,16 @@
 {
+    "8oQ1k7K5pL": {
+        "id": "8oQ1k7K5pL",
+        "title": "Дневник свекрови",
+        "author": "Мария Метлицкая",
+        "notes": "",
+        "createdAt": "2017-05-16 09:13:13",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 12
+        }
+    },
     "RLIybJhr0n": {
         "id": "RLIybJhr0n",
         "title": "Город пустых",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 154
-        }
-    },
-    "Ootb-I1GIj": {
-        "id": "Ootb-I1GIj",
-        "title": "Заговор чёрной мессы",
-        "author": "Андрей Белянин",
-        "notes": "Из цикла \"Тайный сыск царя Гороха\".",
-        "createdAt": "2017-05-14 19:49:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 153
         }
     }
 }
