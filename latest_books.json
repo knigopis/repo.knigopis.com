@@ -1,4 +1,16 @@
 {
+    "NzF68WAPKU": {
+        "id": "NzF68WAPKU",
+        "title": "Легкое дыхание",
+        "author": "Иван Бунин",
+        "notes": "",
+        "createdAt": "2017-05-16 13:01:17",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 21
+        }
+    },
     "gcUKDxEBli": {
         "id": "gcUKDxEBli",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 71
-        }
-    },
-    "PPD1AQpgrx": {
-        "id": "PPD1AQpgrx",
-        "title": "Дневники Принцессы",
-        "author": "Мэг Кэбот",
-        "notes": "6/10",
-        "createdAt": "2017-05-15 10:05:31",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 70
         }
     }
 }
