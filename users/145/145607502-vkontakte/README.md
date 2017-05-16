@@ -1,7 +1,11 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>22</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>23</sup>
 ---
 
 ## 2017
+
+### Вероника решает умереть
+Пауло Коэльо
+
 
 ### 11 минут
 Пауло Коэльо

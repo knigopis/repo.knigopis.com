@@ -1,4 +1,16 @@
 {
+    "KWi5Ct-Hdd": {
+        "id": "KWi5Ct-Hdd",
+        "title": "Вероника решает умереть",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2017-05-16 13:04:46",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 23
+        }
+    },
     "SeED--AGFL": {
         "id": "SeED--AGFL",
         "title": "11 минут",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 532
-        }
-    },
-    "YQtV_xb4BN": {
-        "id": "YQtV_xb4BN",
-        "title": "Над пропастью во ржи",
-        "author": "J. D. Salinger",
-        "notes": "Скажем, очень странная книга. Но читается очень легко. На 4 звезды из 5, как по мне.",
-        "createdAt": "2017-05-15 11:56:45",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 28
         }
     }
 }
