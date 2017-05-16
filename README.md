@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>19</sup> 
 [alessiu](users/327/32712003-vkontakte)<sup>23</sup> 
 [mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
-[Nikita](users/100/100684315-vkontakte)<sup>11</sup> 
 
 
-_16.05.2017 12:58:25_
+_16.05.2017 12:58:30_
