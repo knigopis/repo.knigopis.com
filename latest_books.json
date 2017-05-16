@@ -1,4 +1,16 @@
 {
+    "d-EbuhssR4": {
+        "id": "d-EbuhssR4",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-16 09:09:36",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 7
+        }
+    },
     "rZD1jkjDga": {
         "id": "rZD1jkjDga",
         "title": "11/22/36",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 151
-        }
-    },
-    "bTApGegPu6": {
-        "id": "bTApGegPu6",
-        "title": "Пуаро ведёт следствие",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\"",
-        "createdAt": "2017-05-14 15:05:42",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 150
         }
     }
 }
