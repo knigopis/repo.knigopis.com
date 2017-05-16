@@ -1,4 +1,16 @@
 {
+    "SeED--AGFL": {
+        "id": "SeED--AGFL",
+        "title": "11 минут",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2017-05-16 13:04:05",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 22
+        }
+    },
     "NzF68WAPKU": {
         "id": "NzF68WAPKU",
         "title": "Легкое дыхание",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 28
-        }
-    },
-    "DI8ncNmImX": {
-        "id": "DI8ncNmImX",
-        "title": "Рассказы об отце Брауне",
-        "author": "Гилберт Честертон",
-        "notes": "8/10",
-        "createdAt": "2017-05-15 10:06:42",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 71
         }
     }
 }
