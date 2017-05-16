@@ -1,4 +1,16 @@
 {
+    "YA5Ae3cPO_": {
+        "id": "YA5Ae3cPO_",
+        "title": "Госпожа Бовари",
+        "author": "Гюстав Флобер",
+        "notes": "",
+        "createdAt": "2017-05-16 12:54:31",
+        "user": {
+            "id": "145607502-vkontakte",
+            "nickname": "natty1005",
+            "booksCount": 16
+        }
+    },
     "uBPZCB-eMu": {
         "id": "uBPZCB-eMu",
         "title": "Чайка",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 158
-        }
-    },
-    "TDs-Ar9H2q": {
-        "id": "TDs-Ar9H2q",
-        "title": "Опергруппа в Подберёзовке",
-        "author": "Андрей Белянин",
-        "notes": "Из цикла \"Тайный сыск царя Гороха\".",
-        "createdAt": "2017-05-14 19:51:07",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 157
         }
     }
 }
