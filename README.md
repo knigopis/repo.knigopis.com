@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
+    > Книга, состоящая из четырёх малосвязанных друг с другом повестей. Перечитывалась исключительно в желании поностальгировать, в том числе и по потрясающему голосу читавшей дикторки. Читалась как аудиокнига. Имя дикторки определить пока не получилось.
+
 * Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
     > хочешь знать почему в мире все так плохо, почему люди уничтожают друг друга вместо того, чтобы помогать  http://lurkmore.to/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D1%83%D1%85
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Скажем, очень странная книга. Но читается очень легко. На 4 звезды из 5, как по мне.
 
 * Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
-    > 8/10
 
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Опергруппа в Подберёзовке ~ [Йолант](users/104/104690883692185089260-google)<sup>157</sup>
 
-* Дело трезвых скоморохов ~ [Йолант](users/104/104690883692185089260-google)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Йолант](users/104/104690883692185089260-google)<sup>161</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
 [Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
 [alessiu](users/327/32712003-vkontakte)<sup>23</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>160</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 
 
-_16.05.2017 13:04:46_
+_16.05.2017 20:33:19_

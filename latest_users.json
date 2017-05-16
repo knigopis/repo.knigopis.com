@@ -1,4 +1,10 @@
 {
+    "104690883692185089260-google": {
+        "id": "104690883692185089260-google",
+        "nickname": "Йолант",
+        "booksCount": 161,
+        "updatedAt": "2017-05-16 20:33:19"
+    },
     "145607502-vkontakte": {
         "id": "145607502-vkontakte",
         "nickname": "natty1005",
@@ -82,12 +88,6 @@
         "nickname": "alchemist118",
         "booksCount": 0,
         "updatedAt": "2017-05-14 23:17:03"
-    },
-    "104690883692185089260-google": {
-        "id": "104690883692185089260-google",
-        "nickname": "Йолант",
-        "booksCount": 160,
-        "updatedAt": "2017-05-14 19:54:30"
     },
     "9675370869020666520-mailru": {
         "id": "9675370869020666520-mailru",
