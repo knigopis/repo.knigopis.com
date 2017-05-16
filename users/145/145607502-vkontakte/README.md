@@ -1,4 +1,4 @@
-# List of books read by [natty1005](http://vk.com/id145607502)<sup>9</sup>
+# List of books read by [natty1005](http://vk.com/id145607502)<sup>10</sup>
 ---
 
 ## 2016
@@ -13,6 +13,10 @@
 
 
 ## 2015
+
+### Дом странных детей
+Ренсом Риггз
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
