@@ -1,4 +1,16 @@
 {
+    "wzZD7D3b4k": {
+        "id": "wzZD7D3b4k",
+        "title": "Синие линзы",
+        "author": "Дафна дю Морье",
+        "notes": "короткий рассказ, но очень интересный",
+        "createdAt": "2017-05-17 19:40:35",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 15
+        }
+    },
     "1I4rdKPfmx": {
         "id": "1I4rdKPfmx",
         "title": "Звезды на крыльях",
@@ -345,18 +357,6 @@
             "id": "32712003-vkontakte",
             "nickname": "alessiu",
             "booksCount": 23
-        }
-    },
-    "NX8pF5B9Zi": {
-        "id": "NX8pF5B9Zi",
-        "title": "Герой",
-        "author": "Роберт Сальваторе",
-        "notes": "",
-        "createdAt": "2017-05-15 20:22:50",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 298
         }
     }
 }

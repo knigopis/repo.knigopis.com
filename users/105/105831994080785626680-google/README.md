@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>14</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>15</sup>
 ---
 
 ## 2017
+
+### Синие линзы
+Дафна дю Морье
+> [2017-05] короткий рассказ, но очень интересный
+
 
 ### Повелитель мух
 Голдинг Уильям

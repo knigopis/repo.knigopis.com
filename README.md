@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
+    > короткий рассказ, но очень интересный
+
 * Звезды на крыльях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup>
     > Если очистить военные мемуары СССР от эпитетов и оставить фактологию, то можно найти очень много интересного. Бабак воевал рядом с Покрышкиным, если что.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Один из любимейших авторов-натуралистов. Ветеринар, писатель, потрясающий, судя по произведениям, человек с острым умом, потрясающим чувством юмора и самоиронией. Меня, как любителя животных, не оставили равнодушным все его книги.
 
 * Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
-    > Книга, состоящая из четырёх малосвязанных друг с другом повестей. Перечитывалась исключительно в желании поностальгировать, в том числе и по потрясающему голосу читавшей дикторки. Читалась как аудиокнига. Имя дикторки определить пока не получилось.
 
 * Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
 
-* Ржавый меч царя Гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>298</sup> 
 [iolaaa](users/155/15558176-vkontakte)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>14</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
 [nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 
 
-_17.05.2017 06:23:31_
+_17.05.2017 19:40:35_

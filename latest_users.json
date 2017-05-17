@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 15,
+        "updatedAt": "2017-05-17 19:40:35"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -58,12 +64,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 100,
         "updatedAt": "2017-05-15 19:17:05"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 14,
-        "updatedAt": "2017-05-15 19:08:22"
     },
     "471364154-yandex": {
         "id": "471364154-yandex",
