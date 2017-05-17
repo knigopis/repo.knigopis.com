@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 97,
+        "updatedAt": "2017-05-17 06:23:31"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Антон Шевченко",
         "booksCount": 107,
         "updatedAt": "2017-05-10 23:54:36"
-    },
-    "100001921022265-facebook": {
-        "id": "100001921022265-facebook",
-        "nickname": "Yevgen",
-        "booksCount": 1,
-        "updatedAt": "2017-05-10 17:07:21"
     }
 }
