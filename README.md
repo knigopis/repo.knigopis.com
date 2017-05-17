@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
 [Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>252</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yevgen](users/100/100001921022265-facebook)<sup>1</sup> 
 
 
-_16.05.2017 20:36:06_
+_17.05.2017 04:37:13_

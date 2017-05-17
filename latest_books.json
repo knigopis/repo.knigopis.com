@@ -1,4 +1,16 @@
 {
+    "cYVM_2aG8p": {
+        "id": "cYVM_2aG8p",
+        "title": "Команда скелетов( сборник рассказов)",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-17 04:37:12",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 253
+        }
+    },
     "a95cP48t6H": {
         "id": "a95cP48t6H",
         "title": "Кошачьи истории",
@@ -345,18 +357,6 @@
             "id": "15558176-vkontakte",
             "nickname": "iolaaa",
             "booksCount": 1
-        }
-    },
-    "FNRubSx29F": {
-        "id": "FNRubSx29F",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-05-15 19:17:05",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 100
         }
     }
 }

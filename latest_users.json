@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 253,
+        "updatedAt": "2017-05-17 04:37:12"
+    },
     "104690883692185089260-google": {
         "id": "104690883692185089260-google",
         "nickname": "Йолант",
@@ -142,12 +148,6 @@
         "nickname": "sad little panda",
         "booksCount": 26,
         "updatedAt": "2017-05-13 11:07:35"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 252,
-        "updatedAt": "2017-05-13 08:15:42"
     },
     "712242609159274496-twitter": {
         "id": "712242609159274496-twitter",
