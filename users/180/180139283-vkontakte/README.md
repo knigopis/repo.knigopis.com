@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>6</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>7</sup>
 ---
 
 ## 2017
@@ -11,6 +11,10 @@
 ### Маленький лорд Фаунтлерой
 Френсис Бернетт
 > [2017-05] 
+
+
+### 10 негритят
+Агата Кристи
 
 
 ### Убийство в восточном экспрессе
