@@ -1,4 +1,16 @@
 {
+    "BpHhdW2i0m": {
+        "id": "BpHhdW2i0m",
+        "title": "Вокруг Луны",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-05-18 12:40:49",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 23
+        }
+    },
     "2-VSd9op4e": {
         "id": "2-VSd9op4e",
         "title": "С Земли на Луну",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 253
-        }
-    },
-    "a95cP48t6H": {
-        "id": "a95cP48t6H",
-        "title": "Кошачьи истории",
-        "author": "Джеймс Хэрриот",
-        "notes": "",
-        "createdAt": "2017-05-16 20:36:06",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 163
         }
     }
 }
