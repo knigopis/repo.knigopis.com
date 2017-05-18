@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>24</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>25</sup>
 ---
 
 ## 2017
@@ -96,6 +96,10 @@
 ### отель "Бертрам"
 Агата Кристи
 > [2016-11] 
+
+
+### Портрет Дориана Грея
+О. Уальд
 
 
 ### Мышеловка

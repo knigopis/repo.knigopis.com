@@ -1,4 +1,16 @@
 {
+    "yc7ZNKeBBx": {
+        "id": "yc7ZNKeBBx",
+        "title": "Портрет Дориана Грея",
+        "author": "О. Уальд",
+        "notes": "",
+        "createdAt": "2017-05-18 12:42:54",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 25
+        }
+    },
     "gjdRBkKqMH": {
         "id": "gjdRBkKqMH",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 15
-        }
-    },
-    "1I4rdKPfmx": {
-        "id": "1I4rdKPfmx",
-        "title": "Звезды на крыльях",
-        "author": "И.И.Бабак",
-        "notes": "Если очистить военные мемуары СССР от эпитетов и оставить фактологию, то можно найти очень много интересного. Бабак воевал рядом с Покрышкиным, если что.",
-        "createdAt": "2017-05-17 06:23:31",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 97
         }
     }
 }
