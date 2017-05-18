@@ -1,4 +1,16 @@
 {
+    "K-AHfiKhlX": {
+        "id": "K-AHfiKhlX",
+        "title": "Гамлет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-05-18 13:02:43",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 41
+        }
+    },
     "7zvispaHEV": {
         "id": "7zvispaHEV",
         "title": "зов предков",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 12
-        }
-    },
-    "zUT3ZXAPXn": {
-        "id": "zUT3ZXAPXn",
-        "title": "Последний баронет",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-05-18 12:06:41",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 11
         }
     }
 }
