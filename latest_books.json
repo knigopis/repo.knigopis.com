@@ -1,4 +1,16 @@
 {
+    "P5DxEikV_e": {
+        "id": "P5DxEikV_e",
+        "title": "в сумраке зеркала",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:08:19",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 20
+        }
+    },
     "o1P_Mwd2z7": {
         "id": "o1P_Mwd2z7",
         "title": "кукла в примерочной",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 161
-        }
-    },
-    "KWi5Ct-Hdd": {
-        "id": "KWi5Ct-Hdd",
-        "title": "Вероника решает умереть",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2017-05-16 13:04:46",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 23
         }
     }
 }
