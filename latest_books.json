@@ -1,4 +1,16 @@
 {
+    "DtBpd9Ly9v": {
+        "id": "DtBpd9Ly9v",
+        "title": "Приключения Гекльберри Финна",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2017-05-18 13:03:00",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 42
+        }
+    },
     "K-AHfiKhlX": {
         "id": "K-AHfiKhlX",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 13
-        }
-    },
-    "NdoH65vxez": {
-        "id": "NdoH65vxez",
-        "title": "труп в библиотеке",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-05-18 12:06:50",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 12
         }
     }
 }
