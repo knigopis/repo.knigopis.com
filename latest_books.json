@@ -1,4 +1,16 @@
 {
+    "eEFYwUKitT": {
+        "id": "eEFYwUKitT",
+        "title": "Убийство в восточном экспрессе",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:05:23",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 6
+        }
+    },
     "KtT7cL1z7T": {
         "id": "KtT7cL1z7T",
         "title": "Убийство в доме викария",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 10
-        }
-    },
-    "ey6KWniW5v": {
-        "id": "ey6KWniW5v",
-        "title": "Не намагайтеся позбутися книжок",
-        "author": "Умберто Еко, Жан-Клод Кар'єр",
-        "notes": "",
-        "createdAt": "2017-05-16 09:10:41",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 9
         }
     }
 }
