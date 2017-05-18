@@ -1,4 +1,16 @@
 {
+    "ek0oLuEePX": {
+        "id": "ek0oLuEePX",
+        "title": "Маленький лорд Фаунтлерой",
+        "author": "Френсис Бернетт",
+        "notes": "",
+        "createdAt": "2017-05-18 12:02:04",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 1
+        }
+    },
     "NOam8qG6GF": {
         "id": "NOam8qG6GF",
         "title": "Эффект Мадонны",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 5
-        }
-    },
-    "S792OhSrKV": {
-        "id": "S792OhSrKV",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-05-16 09:04:30",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 4
         }
     }
 }
