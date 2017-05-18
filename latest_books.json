@@ -1,4 +1,16 @@
 {
+    "AYdux-heYE": {
+        "id": "AYdux-heYE",
+        "title": "Бермудский треугольник",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:06:28",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 10
+        }
+    },
     "RSVzlVP0Rd": {
         "id": "RSVzlVP0Rd",
         "title": "Мышеловка",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 14
-        }
-    },
-    "VrtIaEVUQu": {
-        "id": "VrtIaEVUQu",
-        "title": "Судьба Шлюха",
-        "author": "Фаина Раневская",
-        "notes": "",
-        "createdAt": "2017-05-16 09:14:41",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 13
         }
     }
 }
