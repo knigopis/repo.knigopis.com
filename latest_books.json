@@ -1,4 +1,16 @@
 {
+    "KtT7cL1z7T": {
+        "id": "KtT7cL1z7T",
+        "title": "Убийство в доме викария",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:04:55",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 5
+        }
+    },
     "nEfaMoZqLR": {
         "id": "nEfaMoZqLR",
         "title": "Убийство Роджера Экройда",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 9
-        }
-    },
-    "vq7Xwldwc4": {
-        "id": "vq7Xwldwc4",
-        "title": "Бег",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-16 09:09:54",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 8
         }
     }
 }
