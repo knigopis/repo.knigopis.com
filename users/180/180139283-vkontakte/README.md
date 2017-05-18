@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>32</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>33</sup>
 ---
 
 ## 2017
@@ -112,6 +112,10 @@
 
 
 ## Other years
+
+### Лев, колдунья и платяной шкаф    Источник: http://www.itmathrepetitor.ru/zametki-uchitelya-spiski-luchshikh-knig/#b1
+Клайв Стэйплз Льюис    Источник: http://www.itmathrepetitor.ru/zametki-uchitelya-spiski-luchshikh-knig/#b1
+
 
 ### Гарри Поттер и принц-полукровка
 Джоан Роулинг
