@@ -1,4 +1,16 @@
 {
+    "nEfaMoZqLR": {
+        "id": "nEfaMoZqLR",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:04:38",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 4
+        }
+    },
     "tx1EzQ98_V": {
         "id": "tx1EzQ98_V",
         "title": "Таинственный сад.",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 8
-        }
-    },
-    "d-EbuhssR4": {
-        "id": "d-EbuhssR4",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-16 09:09:36",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 7
         }
     }
 }
