@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>18</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>19</sup>
 ---
 
 ## 2017
@@ -11,6 +11,10 @@
 ### Маленький лорд Фаунтлерой
 Френсис Бернетт
 > [2017-05] 
+
+
+### кукла в примерочной
+Агата Кристи
 
 
 ### Мисс Марпл рассказывает
