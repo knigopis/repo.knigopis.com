@@ -1,4 +1,16 @@
 {
+    "w_2dS2srJi": {
+        "id": "w_2dS2srJi",
+        "title": "Ужастики",
+        "author": "Роберт Лоуренс Стайн",
+        "notes": "",
+        "createdAt": "2017-05-18 12:57:13",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 39
+        }
+    },
     "POD4gXIlNo": {
         "id": "POD4gXIlNo",
         "title": "Парфюмер",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 10
-        }
-    },
-    "RSVzlVP0Rd": {
-        "id": "RSVzlVP0Rd",
-        "title": "Мышеловка",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-05-18 12:06:11",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 9
         }
     }
 }

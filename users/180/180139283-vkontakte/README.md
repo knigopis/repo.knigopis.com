@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>38</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>39</sup>
 ---
 
 ## 2017
@@ -112,6 +112,10 @@
 
 
 ## Other years
+
+### Ужастики
+Роберт Лоуренс Стайн
+
 
 ### Парфюмер
 Патрик Зюскинд
