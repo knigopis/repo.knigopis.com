@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>47</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>48</sup>
 ---
 
 ## 2017
@@ -112,6 +112,10 @@
 
 
 ## Other years
+
+### Старик Хоттабыч
+Л. И. Лагин
+
 
 ### Волшебник Изумрудного города
 А. М. Волков
