@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>33</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>34</sup>
 ---
 
 ## 2017
@@ -112,6 +112,10 @@
 
 
 ## Other years
+
+### Дневник Трейси Бикер
+Жаклин Уилсон
+
 
 ### Лев, колдунья и платяной шкаф
 Клайв Стэйплз Льюис
