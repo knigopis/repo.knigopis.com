@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miracolo_bella](users/180/180139283-vkontakte)<sup>16</sup> 
+[miracolo_bella](users/180/180139283-vkontakte)<sup>17</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 
 
-_18.05.2017 12:07:30_
+_18.05.2017 12:07:44_
