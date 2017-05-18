@@ -1,4 +1,16 @@
 {
+    "akIsLXdEZg": {
+        "id": "akIsLXdEZg",
+        "title": "Рассказы",
+        "author": "Харви Уильям",
+        "notes": "Августовская жара\nЧерез болота",
+        "createdAt": "2017-05-18 10:38:57",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 77
+        }
+    },
     "Fm4D3ZgCuU": {
         "id": "Fm4D3ZgCuU",
         "title": "Дюна",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 144
-        }
-    },
-    "snEYIx7miI": {
-        "id": "snEYIx7miI",
-        "title": "Кошка среди голубей",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:58:35",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 143
         }
     }
 }
