@@ -1,4 +1,16 @@
 {
+    "NOam8qG6GF": {
+        "id": "NOam8qG6GF",
+        "title": "Эффект Мадонны",
+        "author": "Орен Харари",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/6961924/",
+        "createdAt": "2017-05-18 11:41:26",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 98
+        }
+    },
     "akIsLXdEZg": {
         "id": "akIsLXdEZg",
         "title": "Рассказы",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 145
-        }
-    },
-    "gbwDssmU5K": {
-        "id": "gbwDssmU5K",
-        "title": "Приключение рождественского пудинга",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\", сборник.",
-        "createdAt": "2017-05-14 14:59:11",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 144
         }
     }
 }

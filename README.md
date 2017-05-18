@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/6961924/
+
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
     > Августовская жара
     > Через болота
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Мистический рассказ - Тунгала
 
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
-    > Фантастический рассказ на тему религии и конца света - Тунгала
 
 * Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
 
@@ -27,17 +31,15 @@ Do not use pull requests to make changes here.
 
 * Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
 
-* Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 
 
-_18.05.2017 10:38:57_
+_18.05.2017 11:41:27_
