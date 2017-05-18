@@ -1,4 +1,16 @@
 {
+    "gjdRBkKqMH": {
+        "id": "gjdRBkKqMH",
+        "title": "Белый Клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-05-18 12:41:40",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 24
+        }
+    },
     "BpHhdW2i0m": {
         "id": "BpHhdW2i0m",
         "title": "Вокруг Луны",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 97
-        }
-    },
-    "cYVM_2aG8p": {
-        "id": "cYVM_2aG8p",
-        "title": "Команда скелетов( сборник рассказов)",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-05-17 04:37:12",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 253
         }
     }
 }
