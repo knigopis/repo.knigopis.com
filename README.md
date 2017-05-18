@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
-[Антон Шевченко](users/339/339786161-vkontakte)<sup>107</sup> 
 
 
-_17.05.2017 19:40:35_
+_18.05.2017 08:51:17_
