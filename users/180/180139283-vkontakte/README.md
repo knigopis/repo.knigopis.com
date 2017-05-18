@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>7</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>8</sup>
 ---
 
 ## 2017
@@ -31,6 +31,14 @@
 
 ### Маленькая принцесса. Приключения Сары Кру.
 Френсис Бернетт
+
+
+
+## 2016
+
+### отель "Бертрам"
+Агата Кристи
+> [2016-11] 
 
 
 
