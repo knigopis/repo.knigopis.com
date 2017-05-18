@@ -1,4 +1,16 @@
 {
+    "WSZ7HwmnhP": {
+        "id": "WSZ7HwmnhP",
+        "title": "дело смотрительницы",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:07:30",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 16
+        }
+    },
     "gO7isI5aMs": {
         "id": "gO7isI5aMs",
         "title": "мерка смерти",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 20
-        }
-    },
-    "pHtsHT2WuI": {
-        "id": "pHtsHT2WuI",
-        "title": "Парфюмер",
-        "author": "Патрик Зюскинд",
-        "notes": "",
-        "createdAt": "2017-05-16 12:58:25",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 19
         }
     }
 }
