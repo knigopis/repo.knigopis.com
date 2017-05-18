@@ -1,4 +1,16 @@
 {
+    "J3qtMdFdeM": {
+        "id": "J3qtMdFdeM",
+        "title": "Золотая галера",
+        "author": "Дукай Яцек",
+        "notes": "Фантастический рассказ на тему религии и конца света - Тунгала",
+        "createdAt": "2017-05-18 10:30:19",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 75
+        }
+    },
     "wzZD7D3b4k": {
         "id": "wzZD7D3b4k",
         "title": "Синие линзы",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 1
-        }
-    },
-    "sWhegpETPc": {
-        "id": "sWhegpETPc",
-        "title": "Тореадори з Васюківки",
-        "author": "Всеволод Нестайко",
-        "notes": "",
-        "createdAt": "2017-05-16 09:02:12",
-        "user": {
-            "id": "32712003-vkontakte",
-            "nickname": "alessiu",
-            "booksCount": 23
         }
     }
 }

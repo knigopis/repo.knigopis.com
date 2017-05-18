@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 75,
+        "updatedAt": "2017-05-18 10:30:19"
+    },
     "5425873-vkontakte": {
         "id": "5425873-vkontakte",
         "nickname": "gab_tompson",
@@ -172,11 +178,5 @@
         "nickname": "Dasha",
         "booksCount": 0,
         "updatedAt": "2017-05-12 20:00:39"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 21,
-        "updatedAt": "2017-05-11 13:11:57"
     }
 }

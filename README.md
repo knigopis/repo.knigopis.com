@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
+    > Фантастический рассказ на тему религии и конца света - Тунгала
+
 * Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
     > короткий рассказ, но очень интересный
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Если очистить военные мемуары СССР от эпитетов и оставить фактологию, то можно найти очень много интересного. Бабак воевал рядом с Покрышкиным, если что.
 
 * Собачьи истории ~ [Йолант](users/104/104690883692185089260-google)<sup>162</sup>
-    > Один из любимейших авторов-натуралистов. Ветеринар, писатель, потрясающий, судя по произведениям, человек с острым умом, потрясающим чувством юмора и самоиронией. Меня, как любителя животных, не оставили равнодушным все его книги.
 
 * Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
 
-* Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>21</sup> 
 
 
-_18.05.2017 08:51:17_
+_18.05.2017 10:30:20_
