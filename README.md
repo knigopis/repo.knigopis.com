@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miracolo_bella](users/180/180139283-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
 [GurenShins_tea](users/712/712242609159274496-twitter)<sup>0</sup> 
-[Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 
 
-_18.05.2017 11:41:27_
+_18.05.2017 11:59:08_
