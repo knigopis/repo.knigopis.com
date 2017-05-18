@@ -1,4 +1,16 @@
 {
+    "MRnvDxRgcu": {
+        "id": "MRnvDxRgcu",
+        "title": "Маленькая принцесса. Приключения Сары Кру.",
+        "author": "Френсис Бернетт",
+        "notes": "",
+        "createdAt": "2017-05-18 12:02:43",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 2
+        }
+    },
     "ek0oLuEePX": {
         "id": "ek0oLuEePX",
         "title": "Маленький лорд Фаунтлерой",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 6
-        }
-    },
-    "olVJhY_zec": {
-        "id": "olVJhY_zec",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-16 09:04:51",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 5
         }
     }
 }
