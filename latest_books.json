@@ -1,4 +1,16 @@
 {
+    "ih8LkR6L3B": {
+        "id": "ih8LkR6L3B",
+        "title": "необычайная шутка",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:07:10",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 14
+        }
+    },
     "y5nR4OH9wN": {
         "id": "y5nR4OH9wN",
         "title": "святое место",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 18
-        }
-    },
-    "aXYxX9ccsT": {
-        "id": "aXYxX9ccsT",
-        "title": "Унесённые ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2017-05-16 12:55:29",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 17
         }
     }
 }
