@@ -113,8 +113,8 @@
 
 ## Other years
 
-### Лев, колдунья и платяной шкаф    Источник: http://www.itmathrepetitor.ru/zametki-uchitelya-spiski-luchshikh-knig/#b1
-Клайв Стэйплз Льюис    Источник: http://www.itmathrepetitor.ru/zametki-uchitelya-spiski-luchshikh-knig/#b1
+### Лев, колдунья и платяной шкаф
+Клайв Стэйплз Льюис
 
 
 ### Гарри Поттер и принц-полукровка
