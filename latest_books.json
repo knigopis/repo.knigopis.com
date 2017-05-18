@@ -1,4 +1,16 @@
 {
+    "zUT3ZXAPXn": {
+        "id": "zUT3ZXAPXn",
+        "title": "Последний баронет",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-05-18 12:06:41",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 11
+        }
+    },
     "AYdux-heYE": {
         "id": "AYdux-heYE",
         "title": "Бермудский треугольник",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 15
-        }
-    },
-    "gzEwwOqtNP": {
-        "id": "gzEwwOqtNP",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-05-16 09:15:04",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 14
         }
     }
 }

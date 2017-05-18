@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>10</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>11</sup>
 ---
 
 ## 2017
@@ -11,6 +11,10 @@
 ### Маленький лорд Фаунтлерой
 Френсис Бернетт
 > [2017-05] 
+
+
+### Последний баронет
+Агата Кристи
 
 
 ### Бермудский треугольник
