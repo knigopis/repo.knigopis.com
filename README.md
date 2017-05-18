@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
+    > Мистический рассказ - Тунгала
+
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
     > Фантастический рассказ на тему религии и конца света - Тунгала
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > короткий рассказ, но очень интересный
 
 * Звезды на крыльях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup>
-    > Если очистить военные мемуары СССР от эпитетов и оставить фактологию, то можно найти очень много интересного. Бабак воевал рядом с Покрышкиным, если что.
 
 * Собачьи истории ~ [Йолант](users/104/104690883692185089260-google)<sup>162</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 
-* Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dasha](users/130/13015628898852979311-mailru)<sup>0</sup> 
 
 
-_18.05.2017 10:30:20_
+_18.05.2017 10:36:42_

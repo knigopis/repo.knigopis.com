@@ -1,4 +1,16 @@
 {
+    "Fm4D3ZgCuU": {
+        "id": "Fm4D3ZgCuU",
+        "title": "Дюна",
+        "author": "Кинг Стивен",
+        "notes": "Мистический рассказ - Тунгала",
+        "createdAt": "2017-05-18 10:36:42",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 76
+        }
+    },
     "J3qtMdFdeM": {
         "id": "J3qtMdFdeM",
         "title": "Золотая галера",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 143
-        }
-    },
-    "_XOLrkXnN2": {
-        "id": "_XOLrkXnN2",
-        "title": "Конец человеческой глупости (Причуда)",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 14:58:08",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 142
         }
     }
 }

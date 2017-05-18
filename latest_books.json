@@ -1,4 +1,16 @@
 {
+    "Fm4D3ZgCuU": {
+        "id": "Fm4D3ZgCuU",
+        "title": "Дюна",
+        "author": "Кинг Стивен",
+        "notes": "Мистический рассказ - Тунгала",
+        "createdAt": "2017-05-18 10:36:42",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 76
+        }
+    },
     "J3qtMdFdeM": {
         "id": "J3qtMdFdeM",
         "title": "Золотая галера",
@@ -345,18 +357,6 @@
             "id": "145607502-vkontakte",
             "nickname": "natty1005",
             "booksCount": 2
-        }
-    },
-    "39t3OFdnXi": {
-        "id": "39t3OFdnXi",
-        "title": "Пролетая над гнездом кукушки",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-05-16 09:03:40",
-        "user": {
-            "id": "145607502-vkontakte",
-            "nickname": "natty1005",
-            "booksCount": 1
         }
     }
 }
