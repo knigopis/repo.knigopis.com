@@ -1,4 +1,16 @@
 {
+    "gByjOA3nUB": {
+        "id": "gByjOA3nUB",
+        "title": "Иллиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2017-05-18 13:09:25",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 50
+        }
+    },
     "YJit9CYfGA": {
         "id": "YJit9CYfGA",
         "title": "три толстяка",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 21
-        }
-    },
-    "P5DxEikV_e": {
-        "id": "P5DxEikV_e",
-        "title": "в сумраке зеркала",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-05-18 12:08:19",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 20
         }
     }
 }
