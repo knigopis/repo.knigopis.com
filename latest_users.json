@@ -1,4 +1,10 @@
 {
+    "145737651-vkontakte": {
+        "id": "145737651-vkontakte",
+        "nickname": "TryKote",
+        "booksCount": 15,
+        "updatedAt": "2017-05-19 20:27:42"
+    },
     "187698988-vkontakte": {
         "id": "187698988-vkontakte",
         "nickname": "Witcher",
@@ -172,11 +178,5 @@
         "nickname": "Yon",
         "booksCount": 0,
         "updatedAt": "2017-05-13 13:39:38"
-    },
-    "10202544960024508-facebook": {
-        "id": "10202544960024508-facebook",
-        "nickname": "Beaviska",
-        "booksCount": 25,
-        "updatedAt": "2017-05-13 12:00:29"
     }
 }

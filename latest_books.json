@@ -1,4 +1,16 @@
 {
+    "05bEvca37J": {
+        "id": "05bEvca37J",
+        "title": "Черновик",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-05-19 20:27:42",
+        "user": {
+            "id": "145737651-vkontakte",
+            "nickname": "TryKote",
+            "booksCount": 15
+        }
+    },
     "nl3qEcA5vy": {
         "id": "nl3qEcA5vy",
         "title": "Майндсайт",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 26
-        }
-    },
-    "yc7ZNKeBBx": {
-        "id": "yc7ZNKeBBx",
-        "title": "Портрет Дориана Грея",
-        "author": "О. Уальд",
-        "notes": "",
-        "createdAt": "2017-05-18 12:42:54",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 25
         }
     }
 }
