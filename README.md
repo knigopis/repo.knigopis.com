@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[bsergik](users/108/108664297870274640182-google)<sup>0</sup> 
+[bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
 
 
-_19.05.2017 07:45:52_
+_19.05.2017 07:47:25_

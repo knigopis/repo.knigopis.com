@@ -1,4 +1,16 @@
 {
+    "nl3qEcA5vy": {
+        "id": "nl3qEcA5vy",
+        "title": "Майндсайт",
+        "author": "Дэниэл Сигел",
+        "notes": "",
+        "createdAt": "2017-05-19 07:47:25",
+        "user": {
+            "id": "108664297870274640182-google",
+            "nickname": "bsergik",
+            "booksCount": 1
+        }
+    },
     "1pdeEfdIzI": {
         "id": "1pdeEfdIzI",
         "title": "принц и нищий",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 25
-        }
-    },
-    "gjdRBkKqMH": {
-        "id": "gjdRBkKqMH",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-05-18 12:41:40",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 24
         }
     }
 }
