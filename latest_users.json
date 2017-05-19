@@ -1,4 +1,10 @@
 {
+    "108664297870274640182-google": {
+        "id": "108664297870274640182-google",
+        "nickname": "bsergik",
+        "booksCount": 0,
+        "updatedAt": "2017-05-19 07:45:51"
+    },
     "180139283-vkontakte": {
         "id": "180139283-vkontakte",
         "nickname": "miracolo_bella",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 26,
         "updatedAt": "2017-05-13 11:07:35"
-    },
-    "712242609159274496-twitter": {
-        "id": "712242609159274496-twitter",
-        "nickname": "GurenShins_tea",
-        "booksCount": 0,
-        "updatedAt": "2017-05-13 07:37:01"
     }
 }
