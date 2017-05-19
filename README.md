@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 [Yon](users/103/10348899-vkontakte)<sup>0</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>25</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>26</sup> 
 
 
-_19.05.2017 07:47:25_
+_19.05.2017 10:41:40_
