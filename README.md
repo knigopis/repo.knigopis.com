@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>533</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 [Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
-[RIVAI](users/105/105617470861273678190-google)<sup>3</sup> 
 
 
-_20.05.2017 13:49:11_
+_20.05.2017 16:56:00_
