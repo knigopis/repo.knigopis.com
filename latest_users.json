@@ -1,4 +1,10 @@
 {
+    "134130628-vkontakte": {
+        "id": "134130628-vkontakte",
+        "nickname": "Карина41253",
+        "booksCount": 0,
+        "updatedAt": "2017-05-20 07:26:00"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "sjomk1n",
         "booksCount": 1,
         "updatedAt": "2017-05-13 20:56:08"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 104,
-        "updatedAt": "2017-05-13 19:41:40"
     }
 }
