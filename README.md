@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>532</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>533</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
 [Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>104</sup> 
 
 
-_20.05.2017 06:09:57_
+_20.05.2017 06:14:21_
