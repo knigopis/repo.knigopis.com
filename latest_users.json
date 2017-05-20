@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 25,
+        "updatedAt": "2017-05-20 13:49:11"
+    },
     "134130628-vkontakte": {
         "id": "134130628-vkontakte",
         "nickname": "Карина41253",
@@ -172,11 +178,5 @@
         "nickname": "RIVAI",
         "booksCount": 3,
         "updatedAt": "2017-05-14 01:56:29"
-    },
-    "243975624-vkontakte": {
-        "id": "243975624-vkontakte",
-        "nickname": "sjomk1n",
-        "booksCount": 1,
-        "updatedAt": "2017-05-13 20:56:08"
     }
 }
