@@ -1,4 +1,10 @@
 {
+    "109765015536169874317-google": {
+        "id": "109765015536169874317-google",
+        "nickname": "rinata",
+        "booksCount": 0,
+        "updatedAt": "2017-05-20 16:55:58"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Nyansta",
         "booksCount": 0,
         "updatedAt": "2017-05-14 15:14:01"
-    },
-    "105617470861273678190-google": {
-        "id": "105617470861273678190-google",
-        "nickname": "RIVAI",
-        "booksCount": 3,
-        "updatedAt": "2017-05-14 01:56:29"
     }
 }
