@@ -1,4 +1,16 @@
 {
+    "i-V-AwzQoC": {
+        "id": "i-V-AwzQoC",
+        "title": "Коты-Воители: Длинные тени",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Сила трёх\"\nКнига 17",
+        "createdAt": "2017-05-21 11:00:34",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 105
+        }
+    },
     "SaZUq1xH1t": {
         "id": "SaZUq1xH1t",
         "title": "Морской волк",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 29
-        }
-    },
-    "UkjDFVzxVp": {
-        "id": "UkjDFVzxVp",
-        "title": "Гарри Поттер и узник Азкабана",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-05-18 12:44:53",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 28
         }
     }
 }

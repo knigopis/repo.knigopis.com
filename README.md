@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
+    > Цикл "Сила трёх"
+    > Книга 17
+
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
     > в процессе
     > 
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > Через болота
 
 * Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
-    > Мистический рассказ - Тунгала
 
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
 
-* Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>105</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
@@ -65,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
-[Nyansta](users/241/241453083-vkontakte)<sup>0</sup> 
 
 
-_20.05.2017 16:56:00_
+_21.05.2017 11:00:34_
