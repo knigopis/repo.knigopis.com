@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>105</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>106</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Восход солнца
+Эрин Хантер
+> Цикл "Сила трёх"
+> Книга 18
+
 
 ### Коты-Воители: Длинные тени
 Эрин Хантер

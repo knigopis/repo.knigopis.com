@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
+    > Цикл "Сила трёх"
+    > Книга 18
+
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
     > Цикл "Сила трёх"
     > Книга 17
@@ -15,8 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/6961924/
 
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
-    > Августовская жара
-    > Через болота
 
 * Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
 
-* Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>105</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>106</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 
 
-_21.05.2017 11:00:34_
+_21.05.2017 11:01:22_

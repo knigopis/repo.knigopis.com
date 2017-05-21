@@ -1,4 +1,16 @@
 {
+    "p5_U6sjgSq": {
+        "id": "p5_U6sjgSq",
+        "title": "Коты-Воители: Восход солнца",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Сила трёх\"\nКнига 18",
+        "createdAt": "2017-05-21 11:01:22",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 106
+        }
+    },
     "i-V-AwzQoC": {
         "id": "i-V-AwzQoC",
         "title": "Коты-Воители: Длинные тени",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 147
-        }
-    },
-    "29oa81I5Qr": {
-        "id": "29oa81I5Qr",
-        "title": "Третья девушка",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\".",
-        "createdAt": "2017-05-14 15:00:51",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 146
         }
     }
 }
