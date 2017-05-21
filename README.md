@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
+    > Литрес ISBN: 978-5-699-94067-7
+
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
     > Цикл "Сила трёх"
     > Книга 18
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 17
 
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/6961924/
 
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Собачьи истории ~ [Йолант](users/104/104690883692185089260-google)<sup>162</sup>
 
-* Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>38</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>106</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 [alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 [Shelsea](users/967/9675370869020666520-mailru)<sup>0</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>37</sup> 
 
 
-_21.05.2017 11:01:22_
+_21.05.2017 11:20:02_
