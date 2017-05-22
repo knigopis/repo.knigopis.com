@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
+    > Профессиональная литература :)
+    > 
+    > в процессе
+    > 
+    > http://www.pmprofy.ru/pm-articles_article.asp?article_id=954
+
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
     > Очерки о советской милиции Нечерноземной зоны РСФСР. Каждая глава посвящена работе той или иной службы: патрульно-постовой, Госавтоинспекции, участковых инспекторов, уголовного розыска, борьбы с хищениями социалистической собственности, органов следствия. Книга завершается главой о деятельности милиционеров всех союзных республик, областей и краев Советского Союза на Олимпийских играх 1980 года в Москве.
 
@@ -12,8 +19,6 @@ Do not use pull requests to make changes here.
     > Литрес ISBN: 978-5-699-94067-7
 
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
-    > Цикл "Сила трёх"
-    > Книга 18
 
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
 
@@ -27,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
 
-* Звезды на крыльях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
@@ -48,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
@@ -66,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 
 
-_22.05.2017 20:41:41_
+_22.05.2017 21:44:05_
