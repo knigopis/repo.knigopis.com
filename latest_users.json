@@ -1,4 +1,10 @@
 {
+    "429430862-vkontakte": {
+        "id": "429430862-vkontakte",
+        "nickname": "Violetti Musta",
+        "booksCount": 0,
+        "updatedAt": "2017-05-22 14:44:50"
+    },
     "421477925-vkontakte": {
         "id": "421477925-vkontakte",
         "nickname": "tregubov84",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 71,
         "updatedAt": "2017-05-15 10:06:42"
-    },
-    "319009295-vkontakte": {
-        "id": "319009295-vkontakte",
-        "nickname": "alchemist118",
-        "booksCount": 0,
-        "updatedAt": "2017-05-14 23:17:03"
     }
 }
