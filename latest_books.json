@@ -1,4 +1,16 @@
 {
+    "n8liXYSnMi": {
+        "id": "n8liXYSnMi",
+        "title": "Отважные мореплаватели",
+        "author": "Редьярд Кипплиг",
+        "notes": "Отлично пишет Кипплинг :)",
+        "createdAt": "2017-05-22 22:12:56",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 47
+        }
+    },
     "hQfBc6LvIz": {
         "id": "hQfBc6LvIz",
         "title": "Сто правил руководителей проектов NASA",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 35
-        }
-    },
-    "ouBWG9APyb": {
-        "id": "ouBWG9APyb",
-        "title": "Дневник Трейси Бикер",
-        "author": "Жаклин Уилсон",
-        "notes": "",
-        "createdAt": "2017-05-18 12:52:12",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 34
         }
     }
 }

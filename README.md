@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
+    > Отлично пишет Кипплинг :)
+
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
     > Профессиональная литература :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Очерки о советской милиции Нечерноземной зоны РСФСР. Каждая глава посвящена работе той или иной службы: патрульно-постовой, Госавтоинспекции, участковых инспекторов, уголовного розыска, борьбы с хищениями социалистической собственности, органов следствия. Книга завершается главой о деятельности милиционеров всех союзных республик, областей и краев Советского Союза на Олимпийских играх 1980 года в Москве.
 
 * Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
-    > Литрес ISBN: 978-5-699-94067-7
 
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 
-* Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>47</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
 [nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 
 
-_22.05.2017 21:44:05_
+_22.05.2017 22:12:56_

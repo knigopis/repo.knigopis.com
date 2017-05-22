@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>46</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>47</sup>
 ---
 
 ## 2017
+
+### Отважные мореплаватели
+Редьярд Кипплиг
+> [2017-05-23] Отлично пишет Кипплинг :)
+
 
 ### Свет погас
 Редьярд Кипплиг

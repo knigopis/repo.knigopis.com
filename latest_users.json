@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 47,
+        "updatedAt": "2017-05-22 22:12:56"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 532,
         "updatedAt": "2017-05-15 12:55:14"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 28,
-        "updatedAt": "2017-05-15 11:56:45"
     }
 }

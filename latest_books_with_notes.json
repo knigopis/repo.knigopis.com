@@ -1,4 +1,16 @@
 {
+    "n8liXYSnMi": {
+        "id": "n8liXYSnMi",
+        "title": "Отважные мореплаватели",
+        "author": "Редьярд Кипплиг",
+        "notes": "Отлично пишет Кипплинг :)",
+        "createdAt": "2017-05-22 22:12:56",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 47
+        }
+    },
     "hQfBc6LvIz": {
         "id": "hQfBc6LvIz",
         "title": "Сто правил руководителей проектов NASA",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 151
-        }
-    },
-    "bTApGegPu6": {
-        "id": "bTApGegPu6",
-        "title": "Пуаро ведёт следствие",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\"",
-        "createdAt": "2017-05-14 15:05:42",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 150
         }
     }
 }
