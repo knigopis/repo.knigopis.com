@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>15</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 
 
-_22.05.2017 17:40:47_
+_22.05.2017 20:41:41_

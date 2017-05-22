@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 16,
+        "updatedAt": "2017-05-22 20:41:41"
+    },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
         "nickname": "Койнов Александр",
@@ -94,12 +100,6 @@
         "nickname": "gab_tompson",
         "booksCount": 0,
         "updatedAt": "2017-05-18 08:51:15"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 15,
-        "updatedAt": "2017-05-17 19:40:35"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
