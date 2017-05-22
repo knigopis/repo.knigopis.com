@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
+    > Очерки о советской милиции Нечерноземной зоны РСФСР. Каждая глава посвящена работе той или иной службы: патрульно-постовой, Госавтоинспекции, участковых инспекторов, уголовного розыска, борьбы с хищениями социалистической собственности, органов следствия. Книга завершается главой о деятельности милиционеров всех союзных республик, областей и краев Советского Союза на Олимпийских играх 1980 года в Москве.
+
 * Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
     > Литрес ISBN: 978-5-699-94067-7
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Книга 18
 
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
-    > Цикл "Сила трёх"
-    > Книга 17
 
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Звезды на крыльях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>97</sup>
 
-* Собачьи истории ~ [Йолант](users/104/104690883692185089260-google)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
 
 
-_22.05.2017 14:44:52_
+_22.05.2017 17:40:47_

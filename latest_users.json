@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "Койнов Александр",
+        "booksCount": 22,
+        "updatedAt": "2017-05-22 17:40:47"
+    },
     "429430862-vkontakte": {
         "id": "429430862-vkontakte",
         "nickname": "Violetti Musta",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 28,
         "updatedAt": "2017-05-15 11:56:45"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 71,
-        "updatedAt": "2017-05-15 10:06:42"
     }
 }
