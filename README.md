@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>106</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>532</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup> 
-[alchemist118](users/319/319009295-vkontakte)<sup>0</sup> 
 
 
-_22.05.2017 07:36:22_
+_22.05.2017 14:44:52_
