@@ -1,4 +1,10 @@
 {
+    "421477925-vkontakte": {
+        "id": "421477925-vkontakte",
+        "nickname": "tregubov84",
+        "booksCount": 0,
+        "updatedAt": "2017-05-22 07:36:20"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "alchemist118",
         "booksCount": 0,
         "updatedAt": "2017-05-14 23:17:03"
-    },
-    "9675370869020666520-mailru": {
-        "id": "9675370869020666520-mailru",
-        "nickname": "Shelsea",
-        "booksCount": 0,
-        "updatedAt": "2017-05-14 17:27:51"
     }
 }
