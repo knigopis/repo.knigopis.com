@@ -1,7 +1,12 @@
-# List of books read by [Janet](https://vk.com/id20565064)<sup>532</sup>
+# List of books read by [Janet](https://m.vk.com/id20565064)<sup>533</sup>
 ---
 
 ## 2017
+
+### Евангелие от Иисуса
+Жозе Сарамаго
+> [2017-05] 
+
 
 ### Последний сейм Речи Посполитой
 Владислав Реймонт

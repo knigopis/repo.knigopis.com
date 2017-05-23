@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/205/20565064-vkontakte)<sup>533</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>47</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iolaaa](users/155/15558176-vkontakte)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
-[nord_chan](users/874/87481037-vkontakte)<sup>0</sup> 
 
 
-_23.05.2017 08:56:24_
+_23.05.2017 10:29:19_
