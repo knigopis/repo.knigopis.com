@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>534</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>47</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>533</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
 [Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>4</sup> 
 
 
-_23.05.2017 10:29:19_
+_23.05.2017 10:31:32_
