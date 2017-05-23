@@ -1,4 +1,16 @@
 {
+    "2lc2-_eJ_6": {
+        "id": "2lc2-_eJ_6",
+        "title": "Моби Дик",
+        "author": "Герман Мелвилл",
+        "notes": "",
+        "createdAt": "2017-05-23 08:56:24",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 98
+        }
+    },
     "n8liXYSnMi": {
         "id": "n8liXYSnMi",
         "title": "Отважные мореплаватели",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 36
-        }
-    },
-    "-qzd5D0iNs": {
-        "id": "-qzd5D0iNs",
-        "title": "Артемис Фаул",
-        "author": "Йон Колфер",
-        "notes": "",
-        "createdAt": "2017-05-18 12:52:49",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 35
         }
     }
 }
