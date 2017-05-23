@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ibuzinezz](users/430/430126578-vkontakte)<sup>0</sup> 
 [killalltu](users/118/1188128011316384-facebook)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>533</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>298</sup> 
 [iolaaa](users/155/15558176-vkontakte)<sup>1</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>100</sup> 
 
 
-_23.05.2017 10:44:54_
+_23.05.2017 17:22:07_
