@@ -1,4 +1,10 @@
 {
+    "430126578-vkontakte": {
+        "id": "430126578-vkontakte",
+        "nickname": "ibuzinezz",
+        "booksCount": 0,
+        "updatedAt": "2017-05-23 17:22:04"
+    },
     "1188128011316384-facebook": {
         "id": "1188128011316384-facebook",
         "nickname": "killalltu",
@@ -172,11 +178,5 @@
         "nickname": "iolaaa",
         "booksCount": 1,
         "updatedAt": "2017-05-15 20:21:54"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 100,
-        "updatedAt": "2017-05-15 19:17:05"
     }
 }
