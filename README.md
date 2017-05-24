@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
+    > 9/10
+
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
     > Посмотрим, что получится.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Отлично пишет Кипплинг :)
 
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
-    > Профессиональная литература :)
-    > 
-    > в процессе
-    > 
-    > http://www.pmprofy.ru/pm-articles_article.asp?article_id=954
 
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
 
-* Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup> 
 [ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
@@ -66,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
 [Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
 [alessiu](users/327/32712003-vkontakte)<sup>23</sup> 
-[mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
 
 
-_24.05.2017 11:01:32_
+_24.05.2017 12:41:29_

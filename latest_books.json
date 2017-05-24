@@ -1,4 +1,16 @@
 {
+    "xowtk_sv84": {
+        "id": "xowtk_sv84",
+        "title": "Остров сокровищ",
+        "author": "Роберт Стивенсон",
+        "notes": "9/10",
+        "createdAt": "2017-05-24 12:41:29",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 72
+        }
+    },
     "4s-MGUUOFa": {
         "id": "4s-MGUUOFa",
         "title": "Как привести дела в порядок. Искусство продуктивности без стресса.",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 42
-        }
-    },
-    "K-AHfiKhlX": {
-        "id": "K-AHfiKhlX",
-        "title": "Гамлет",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-05-18 13:02:43",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 41
         }
     }
 }
