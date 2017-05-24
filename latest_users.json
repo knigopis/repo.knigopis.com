@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 0,
+        "updatedAt": "2017-05-24 11:01:30"
+    },
     "219259003-vkontakte": {
         "id": "219259003-vkontakte",
         "nickname": "victoria_spilioti",
@@ -172,11 +178,5 @@
         "nickname": "mur_si",
         "booksCount": 0,
         "updatedAt": "2017-05-15 22:34:03"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 298,
-        "updatedAt": "2017-05-15 20:22:50"
     }
 }
