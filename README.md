@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
-[Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
 
 
-_24.05.2017 14:44:32_
+_24.05.2017 18:26:31_

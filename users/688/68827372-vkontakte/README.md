@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>109</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>110</sup>
 ---
 
 ## 2017
+
+### Как расставить свои приоритеты
+Яков Жуковский
+> [2017-05-20] 
+
 
 ### На углу, у Патриарших...
 Анатолий Степанов, Эдуард Хруцкий

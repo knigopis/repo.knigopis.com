@@ -1,4 +1,16 @@
 {
+    "GQTt9A4eQ-": {
+        "id": "GQTt9A4eQ-",
+        "title": "Как расставить свои приоритеты",
+        "author": "Яков Жуковский",
+        "notes": "",
+        "createdAt": "2017-05-24 18:26:31",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 110
+        }
+    },
     "EFN76pLcZ7": {
         "id": "EFN76pLcZ7",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 44
-        }
-    },
-    "8bPyW26Crc": {
-        "id": "8bPyW26Crc",
-        "title": "Приключения Тома Сойера",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-05-18 13:03:18",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 43
         }
     }
 }
