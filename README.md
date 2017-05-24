@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup> 
 [ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
 [killalltu](users/118/1188128011316384-facebook)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Natti214](users/143/14306658-vkontakte)<sup>0</sup> 
 [alessiu](users/327/32712003-vkontakte)<sup>23</sup> 
 [mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
-[Лела Папава](users/761/76187635-vkontakte)<sup>298</sup> 
 
 
-_24.05.2017 04:12:31_
+_24.05.2017 11:01:32_
