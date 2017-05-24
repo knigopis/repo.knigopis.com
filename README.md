@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
+    > Посмотрим, что получится.
+
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
     > Отлично пишет Кипплинг :)
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > http://www.pmprofy.ru/pm-articles_article.asp?article_id=954
 
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
-    > Очерки о советской милиции Нечерноземной зоны РСФСР. Каждая глава посвящена работе той или иной службы: патрульно-постовой, Госавтоинспекции, участковых инспекторов, уголовного розыска, борьбы с хищениями социалистической собственности, органов следствия. Книга завершается главой о деятельности милиционеров всех союзных республик, областей и краев Советского Союза на Олимпийских играх 1980 года в Москве.
 
 * Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
 
-* Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup> 
 [ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
 [killalltu](users/118/1188128011316384-facebook)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>533</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alessiu](users/327/32712003-vkontakte)<sup>23</sup> 
 [mur_si](users/259/25968795-vkontakte)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>298</sup> 
-[iolaaa](users/155/15558176-vkontakte)<sup>1</sup> 
 
 
-_23.05.2017 17:22:54_
+_24.05.2017 04:12:31_

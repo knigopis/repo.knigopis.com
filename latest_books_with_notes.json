@@ -1,4 +1,16 @@
 {
+    "4s-MGUUOFa": {
+        "id": "4s-MGUUOFa",
+        "title": "Как привести дела в порядок. Искусство продуктивности без стресса.",
+        "author": "Дэвид Аллен",
+        "notes": "Посмотрим, что получится.",
+        "createdAt": "2017-05-24 04:12:31",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 71
+        }
+    },
     "n8liXYSnMi": {
         "id": "n8liXYSnMi",
         "title": "Отважные мореплаватели",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 37
-        }
-    },
-    "QPcXqqEBZn": {
-        "id": "QPcXqqEBZn",
-        "title": "Ранние дела Пуаро",
-        "author": "Агата Кристи",
-        "notes": "Из цикла \"Эркюль Пуаро\", сборник.",
-        "createdAt": "2017-05-14 15:06:14",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 151
         }
     }
 }

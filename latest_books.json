@@ -1,4 +1,16 @@
 {
+    "4s-MGUUOFa": {
+        "id": "4s-MGUUOFa",
+        "title": "Как привести дела в порядок. Искусство продуктивности без стресса.",
+        "author": "Дэвид Аллен",
+        "notes": "Посмотрим, что получится.",
+        "createdAt": "2017-05-24 04:12:31",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 71
+        }
+    },
     "4m_V0R8Nn2": {
         "id": "4m_V0R8Nn2",
         "title": "Номер 1. Как стать лучшим в том, что ты делаешь.",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 41
-        }
-    },
-    "7zvispaHEV": {
-        "id": "7zvispaHEV",
-        "title": "зов предков",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-05-18 12:58:01",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 40
         }
     }
 }

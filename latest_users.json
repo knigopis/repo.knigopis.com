@@ -1,4 +1,10 @@
 {
+    "219259003-vkontakte": {
+        "id": "219259003-vkontakte",
+        "nickname": "victoria_spilioti",
+        "booksCount": 71,
+        "updatedAt": "2017-05-24 04:12:31"
+    },
     "430126578-vkontakte": {
         "id": "430126578-vkontakte",
         "nickname": "ibuzinezz",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 298,
         "updatedAt": "2017-05-15 20:22:50"
-    },
-    "15558176-vkontakte": {
-        "id": "15558176-vkontakte",
-        "nickname": "iolaaa",
-        "booksCount": 1,
-        "updatedAt": "2017-05-15 20:21:54"
     }
 }
