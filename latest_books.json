@@ -1,4 +1,16 @@
 {
+    "EFN76pLcZ7": {
+        "id": "EFN76pLcZ7",
+        "title": "",
+        "author": "Платон \"Пир\"",
+        "notes": "",
+        "createdAt": "2017-05-24 14:44:32",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 1
+        }
+    },
     "xowtk_sv84": {
         "id": "xowtk_sv84",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 43
-        }
-    },
-    "DtBpd9Ly9v": {
-        "id": "DtBpd9Ly9v",
-        "title": "Приключения Гекльберри Финна",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-05-18 13:03:00",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 42
         }
     }
 }
