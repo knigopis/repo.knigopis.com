@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
+    > 9/10
+
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
     > Цикл "Знамение звёзд"
     > Книга 22
@@ -19,8 +22,6 @@ Do not use pull requests to make changes here.
     > Все животные равны.
 
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
-    > Цикл "Знамение звёзд"
-    > Книга 21
 
 * Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
 
@@ -34,20 +35,18 @@ Do not use pull requests to make changes here.
 
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
 
-* Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>110</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>534</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup> 
 [ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
@@ -73,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 
 
-_25.05.2017 19:56:25_
+_25.05.2017 22:04:21_
