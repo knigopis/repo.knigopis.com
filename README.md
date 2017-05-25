@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
+    > Цикл "Знамение звёзд"
+    > Книга 22
+
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
     > Тот, кто ходит на двух ногах, — враг.
     > Тот, кто ходит на четырёх (равно как и тот, у кого крылья), — друг.
@@ -19,8 +23,6 @@ Do not use pull requests to make changes here.
     > Книга 21
 
 * Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
-    > Цикл "Знамение звёзд"
-    > Книга 20
 
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
 
@@ -34,17 +36,15 @@ Do not use pull requests to make changes here.
 
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
 
-* Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>110</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>534</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>109</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 
 
-_25.05.2017 19:13:42_
+_25.05.2017 19:56:25_

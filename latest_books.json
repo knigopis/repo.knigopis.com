@@ -1,4 +1,16 @@
 {
+    "EumPfMkDOh": {
+        "id": "EumPfMkDOh",
+        "title": "Коты-Воители: Знамение луны",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Знамение звёзд\"\nКнига 22",
+        "createdAt": "2017-05-25 19:56:24",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 110
+        }
+    },
     "1EvdGYqAju": {
         "id": "1EvdGYqAju",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 51
-        }
-    },
-    "gByjOA3nUB": {
-        "id": "gByjOA3nUB",
-        "title": "Иллиада",
-        "author": "Гомер",
-        "notes": "",
-        "createdAt": "2017-05-18 13:09:25",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 50
         }
     }
 }

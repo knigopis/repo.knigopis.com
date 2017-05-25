@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>109</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>110</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Знамение луны
+Эрин Хантер
+> Цикл "Знамение звёзд"
+> Книга 22
+
 
 ### Коты-Воители: Долгое эхо
 Эрин Хантер
