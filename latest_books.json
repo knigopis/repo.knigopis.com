@@ -1,4 +1,16 @@
 {
+    "-8USbsk_xk": {
+        "id": "-8USbsk_xk",
+        "title": "Серапионовы братья",
+        "author": "Эрнст Теодор Амадей Гофман",
+        "notes": "",
+        "createdAt": "2017-05-25 18:44:16",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 534
+        }
+    },
     "8w-lC7ZPEz": {
         "id": "8w-lC7ZPEz",
         "title": "Gghh",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 49
-        }
-    },
-    "fhrek6ZC-E": {
-        "id": "fhrek6ZC-E",
-        "title": "Старик Хоттабыч",
-        "author": "Л. И. Лагин",
-        "notes": "",
-        "createdAt": "2017-05-18 13:08:24",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 48
         }
     }
 }

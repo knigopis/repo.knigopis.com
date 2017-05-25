@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 534,
+        "updatedAt": "2017-05-25 18:44:16"
+    },
     "100001728431584-facebook": {
         "id": "100001728431584-facebook",
         "nickname": "Krozy",
@@ -52,12 +58,6 @@
         "nickname": "killalltu",
         "booksCount": 1,
         "updatedAt": "2017-05-23 10:44:54"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 533,
-        "updatedAt": "2017-05-23 10:35:37"
     },
     "20565064-vkontakte": {
         "id": "20565064-vkontakte",
