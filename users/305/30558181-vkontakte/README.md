@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>107</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>108</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Голоса в ночи
+Эрин Хантер
+> Цикл "Знамение звёзд"
+> Книга 20
+
 
 ### Коты-Воители: Четвёртый оруженосец
 Эрин Хантер

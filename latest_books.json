@@ -1,4 +1,16 @@
 {
+    "IVc9Lv7uH1": {
+        "id": "IVc9Lv7uH1",
+        "title": "Коты-Воители: Голоса в ночи",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Знамение звёзд\"\nКнига 20",
+        "createdAt": "2017-05-25 13:03:47",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 108
+        }
+    },
     "vBoi1AtZFg": {
         "id": "vBoi1AtZFg",
         "title": "Коты-Воители: Четвёртый оруженосец",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 46
-        }
-    },
-    "t5-JV55X8j": {
-        "id": "t5-JV55X8j",
-        "title": "Робинзон Крузо",
-        "author": "Даниель Дефо",
-        "notes": "",
-        "createdAt": "2017-05-18 13:04:22",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 45
         }
     }
 }

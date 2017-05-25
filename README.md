@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
+    > Цикл "Знамение звёзд"
+    > Книга 20
+
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
     > Цикл "Знамение звёзд"
     > Книга 18
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
-    > Посмотрим, что получится.
 
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
 
-* Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>107</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>108</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
 
 
-_25.05.2017 13:02:59_
+_25.05.2017 13:03:47_
