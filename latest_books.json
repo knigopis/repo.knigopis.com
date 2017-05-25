@@ -1,4 +1,16 @@
 {
+    "rX8Mmu1k-E": {
+        "id": "rX8Mmu1k-E",
+        "title": "Коты-Воители: Долгое эхо",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Знамение звёзд\"\nКнига 21",
+        "createdAt": "2017-05-25 13:09:07",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 109
+        }
+    },
     "IVc9Lv7uH1": {
         "id": "IVc9Lv7uH1",
         "title": "Коты-Воители: Голоса в ночи",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 47
-        }
-    },
-    "0-U3plyTax": {
-        "id": "0-U3plyTax",
-        "title": "Путешествия Гулливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2017-05-18 13:04:45",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 46
         }
     }
 }
