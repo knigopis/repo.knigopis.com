@@ -5,6 +5,15 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
+    > Тот, кто ходит на двух ногах, — враг.
+    > Тот, кто ходит на четырёх (равно как и тот, у кого крылья), — друг.
+    > Животное да не носит одежду.
+    > Животное да не спит в кровати.
+    > Животное да не пьёт спиртного.
+    > Животное да не убьёт другое животное.
+    > Все животные равны.
+
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
     > Цикл "Знамение звёзд"
     > Книга 21
@@ -14,8 +23,6 @@ Do not use pull requests to make changes here.
     > Книга 20
 
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
-    > Цикл "Знамение звёзд"
-    > Книга 18
 
 * Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
 
@@ -29,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
 
-* Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>534</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>109</sup> 
@@ -65,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
-[Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 
 
-_25.05.2017 18:44:16_
+_25.05.2017 19:13:42_
