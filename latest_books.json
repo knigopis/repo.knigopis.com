@@ -1,4 +1,16 @@
 {
+    "8w-lC7ZPEz": {
+        "id": "8w-lC7ZPEz",
+        "title": "Gghh",
+        "author": "Nnnn",
+        "notes": "",
+        "createdAt": "2017-05-25 17:08:57",
+        "user": {
+            "id": "100001728431584-facebook",
+            "nickname": "Krozy",
+            "booksCount": 1
+        }
+    },
     "rX8Mmu1k-E": {
         "id": "rX8Mmu1k-E",
         "title": "Коты-Воители: Долгое эхо",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 48
-        }
-    },
-    "X7IatapD2x": {
-        "id": "X7IatapD2x",
-        "title": "Волшебник Изумрудного города",
-        "author": "А. М. Волков",
-        "notes": "",
-        "createdAt": "2017-05-18 13:07:57",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 47
         }
     }
 }

@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Krozy](users/100/100001728431584-facebook)<sup>0</sup> 
+[Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>109</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Йолант](users/104/104690883692185089260-google)<sup>163</sup> 
 
 
-_25.05.2017 17:08:34_
+_25.05.2017 17:08:57_
