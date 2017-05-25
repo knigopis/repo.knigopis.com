@@ -1,4 +1,16 @@
 {
+    "vBoi1AtZFg": {
+        "id": "vBoi1AtZFg",
+        "title": "Коты-Воители: Четвёртый оруженосец",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Знамение звёзд\"\nКнига 18",
+        "createdAt": "2017-05-25 13:02:59",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 107
+        }
+    },
     "GQTt9A4eQ-": {
         "id": "GQTt9A4eQ-",
         "title": "Как расставить свои приоритеты",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 45
-        }
-    },
-    "ECPBYEjAOj": {
-        "id": "ECPBYEjAOj",
-        "title": "Дон Кихот",
-        "author": "Мигель Сервантес",
-        "notes": "",
-        "createdAt": "2017-05-18 13:04:03",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 44
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "vBoi1AtZFg": {
+        "id": "vBoi1AtZFg",
+        "title": "Коты-Воители: Четвёртый оруженосец",
+        "author": "Эрин Хантер",
+        "notes": "Цикл \"Знамение звёзд\"\nКнига 18",
+        "createdAt": "2017-05-25 13:02:59",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 107
+        }
+    },
     "xowtk_sv84": {
         "id": "xowtk_sv84",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "104690883692185089260-google",
             "nickname": "Йолант",
             "booksCount": 153
-        }
-    },
-    "qVIr_zG9AT": {
-        "id": "qVIr_zG9AT",
-        "title": "Tайный сыск царя гороха",
-        "author": "Андрей Белянин",
-        "notes": "Из цикла \"Тайный сыск царя Гороха\".",
-        "createdAt": "2017-05-14 19:48:33",
-        "user": {
-            "id": "104690883692185089260-google",
-            "nickname": "Йолант",
-            "booksCount": 152
         }
     }
 }

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
+    > Цикл "Знамение звёзд"
+    > Книга 18
+
 * Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
     > 9/10
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Посмотрим, что получится.
 
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
-    > Отлично пишет Кипплинг :)
 
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
 
-* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>107</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup> 
@@ -50,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>106</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [natty1005](users/145/145607502-vkontakte)<sup>23</sup> 
 
 
-_24.05.2017 18:26:31_
+_25.05.2017 13:02:59_

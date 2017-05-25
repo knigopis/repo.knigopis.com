@@ -1,7 +1,13 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>106</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>107</sup>
 ---
 
 ## 2017
+
+### Коты-Воители: Четвёртый оруженосец
+Эрин Хантер
+> Цикл "Знамение звёзд"
+> Книга 18
+
 
 ### Коты-Воители: Восход солнца
 Эрин Хантер
