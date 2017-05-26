@@ -1,4 +1,16 @@
 {
+    "YXhEn2LKA9": {
+        "id": "YXhEn2LKA9",
+        "title": "Конкурентная разведка",
+        "author": "Бенджамин Джилад",
+        "notes": "в процессе",
+        "createdAt": "2017-05-26 09:30:53",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 100
+        }
+    },
     "Xjj1bLYp5Y": {
         "id": "Xjj1bLYp5Y",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 53
-        }
-    },
-    "Qbp2fy-Mh8": {
-        "id": "Qbp2fy-Mh8",
-        "title": "20 тысяч лье под водой",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-05-18 13:10:26",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 52
         }
     }
 }

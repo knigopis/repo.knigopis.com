@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
+    > в процессе
+
 * Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
     > 9/10
 
@@ -13,13 +16,6 @@ Do not use pull requests to make changes here.
     > Книга 22
 
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
-    > Тот, кто ходит на двух ногах, — враг.
-    > Тот, кто ходит на четырёх (равно как и тот, у кого крылья), — друг.
-    > Животное да не носит одежду.
-    > Животное да не спит в кровати.
-    > Животное да не пьёт спиртного.
-    > Животное да не убьёт другое животное.
-    > Все животные равны.
 
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
 
@@ -33,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
 
-* Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>110</sup> 
@@ -54,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>47</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
@@ -72,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 
 
-_26.05.2017 03:15:52_
+_26.05.2017 09:30:53_
