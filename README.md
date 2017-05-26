@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gribanovsv](users/701/7011021-vkontakte)<sup>0</sup> 
+[gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 
 
-_26.05.2017 17:11:05_
+_26.05.2017 17:12:04_

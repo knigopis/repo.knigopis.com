@@ -1,4 +1,16 @@
 {
+    "f9B4INX7D_": {
+        "id": "f9B4INX7D_",
+        "title": "Тест",
+        "author": "Тест",
+        "notes": "",
+        "createdAt": "2017-05-26 17:12:04",
+        "user": {
+            "id": "7011021-vkontakte",
+            "nickname": "gribanovsv",
+            "booksCount": 1
+        }
+    },
     "YXhEn2LKA9": {
         "id": "YXhEn2LKA9",
         "title": "Конкурентная разведка",
@@ -345,18 +357,6 @@
             "id": "108664297870274640182-google",
             "nickname": "bsergik",
             "booksCount": 1
-        }
-    },
-    "1pdeEfdIzI": {
-        "id": "1pdeEfdIzI",
-        "title": "принц и нищий",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-05-18 13:14:29",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 53
         }
     }
 }
