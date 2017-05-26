@@ -1,4 +1,10 @@
 {
+    "7011021-vkontakte": {
+        "id": "7011021-vkontakte",
+        "nickname": "gribanovsv",
+        "booksCount": 0,
+        "updatedAt": "2017-05-26 17:11:03"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "gab_tompson",
         "booksCount": 0,
         "updatedAt": "2017-05-18 08:51:15"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 253,
-        "updatedAt": "2017-05-17 04:37:12"
     }
 }
