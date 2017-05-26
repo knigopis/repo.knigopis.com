@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gribanovsv](users/701/7011021-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>253</sup> 
 
 
-_26.05.2017 09:30:53_
+_26.05.2017 17:11:05_
