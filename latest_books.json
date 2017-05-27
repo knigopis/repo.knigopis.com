@@ -1,4 +1,16 @@
 {
+    "GP41hXbYV6": {
+        "id": "GP41hXbYV6",
+        "title": "Ангел западного крыла",
+        "author": "Густав Майринк",
+        "notes": "",
+        "createdAt": "2017-05-27 14:56:57",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 5
+        }
+    },
     "93LkyTF3LJ": {
         "id": "93LkyTF3LJ",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 25
-        }
-    },
-    "rWyNU5ndsS": {
-        "id": "rWyNU5ndsS",
-        "title": "Шоколад на крутом кипятке",
-        "author": "Лаура Эскивель",
-        "notes": "",
-        "createdAt": "2017-05-20 06:14:21",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 533
         }
     }
 }
