@@ -1,4 +1,16 @@
 {
+    "rVerVGsQDk": {
+        "id": "rVerVGsQDk",
+        "title": "Палата #6",
+        "author": "А.П.Чехов",
+        "notes": "",
+        "createdAt": "2017-05-27 16:30:36",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 93
+        }
+    },
     "CC8Tkh_4Y5": {
         "id": "CC8Tkh_4Y5",
         "title": "Дядя Ваня",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 63
-        }
-    },
-    "ljY06ZAJFo": {
-        "id": "ljY06ZAJFo",
-        "title": "Прощальный вздох Мавра",
-        "author": "Салман Рушди",
-        "notes": "",
-        "createdAt": "2017-05-27 15:35:26",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 62
         }
     }
 }
