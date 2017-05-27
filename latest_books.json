@@ -1,4 +1,16 @@
 {
+    "06N0unRJyx": {
+        "id": "06N0unRJyx",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-27 16:04:38",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 68
+        }
+    },
     "wN1pbeyeCc": {
         "id": "wN1pbeyeCc",
         "title": "Кэрри",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 40
-        }
-    },
-    "i2EFBraCL9": {
-        "id": "i2EFBraCL9",
-        "title": "Наивно. Супер",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2017-05-27 15:25:29",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 39
         }
     }
 }
