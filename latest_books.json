@@ -1,4 +1,16 @@
 {
+    "6BKSmKMPHk": {
+        "id": "6BKSmKMPHk",
+        "title": "Тэвистокские лекции",
+        "author": "Карл Густав Юнг",
+        "notes": "",
+        "createdAt": "2017-05-27 14:51:07",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 3
+        }
+    },
     "qkDxQXTwFV": {
         "id": "qkDxQXTwFV",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 533
-        }
-    },
-    "05bEvca37J": {
-        "id": "05bEvca37J",
-        "title": "Черновик",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-05-19 20:27:42",
-        "user": {
-            "id": "145737651-vkontakte",
-            "nickname": "TryKote",
-            "booksCount": 15
         }
     }
 }

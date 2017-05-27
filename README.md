@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>535</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>110</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 
 
-_27.05.2017 14:33:39_
+_27.05.2017 14:51:07_
