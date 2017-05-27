@@ -1,4 +1,16 @@
 {
+    "DC5rQ0PJnA": {
+        "id": "DC5rQ0PJnA",
+        "title": "Преступление и наказание",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2017-05-27 16:11:24",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 75
+        }
+    },
     "XScWVcm_bL": {
         "id": "XScWVcm_bL",
         "title": "Игрок",
@@ -341,18 +353,6 @@
         "author": "В. Пелевин",
         "notes": "",
         "createdAt": "2017-05-27 15:28:38",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 46
-        }
-    },
-    "SPUvwgH7by": {
-        "id": "SPUvwgH7by",
-        "title": "Generatoin \"П\"",
-        "author": "В. Пелевин",
-        "notes": "",
-        "createdAt": "2017-05-27 15:28:04",
         "user": {
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
