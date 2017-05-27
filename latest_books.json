@@ -1,4 +1,16 @@
 {
+    "6ibWrMcLuX": {
+        "id": "6ibWrMcLuX",
+        "title": "Белый клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-05-27 17:51:18",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 162
+        }
+    },
     "KRamj_VUOU": {
         "id": "KRamj_VUOU",
         "title": "Борис Годунов",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 133
-        }
-    },
-    "tjuqtkffYL": {
-        "id": "tjuqtkffYL",
-        "title": "Записки охотника",
-        "author": "И.С.Тургенев",
-        "notes": "",
-        "createdAt": "2017-05-27 17:07:45",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 132
         }
     }
 }
