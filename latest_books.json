@@ -1,4 +1,16 @@
 {
+    "fgWSve3pBn": {
+        "id": "fgWSve3pBn",
+        "title": "Шутка",
+        "author": "Милан Кундера",
+        "notes": "",
+        "createdAt": "2017-05-27 15:26:26",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 42
+        }
+    },
     "vVa6XCSShm": {
         "id": "vVa6XCSShm",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 13
-        }
-    },
-    "J3CfBf4A1f": {
-        "id": "J3CfBf4A1f",
-        "title": "Приключения Тома Сойера",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-05-27 15:02:14",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 12
         }
     }
 }
