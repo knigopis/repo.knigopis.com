@@ -1,4 +1,16 @@
 {
+    "nSl2uNfEDe": {
+        "id": "nSl2uNfEDe",
+        "title": "Компромисс",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2017-05-27 15:31:06",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 52
+        }
+    },
     "FmCdLCy7PY": {
         "id": "FmCdLCy7PY",
         "title": "Как закалялась сталь",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 24
-        }
-    },
-    "y6vM1vu3ZN": {
-        "id": "y6vM1vu3ZN",
-        "title": "У",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2017-05-27 15:09:19",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 23
         }
     }
 }
