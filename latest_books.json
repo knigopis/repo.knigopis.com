@@ -1,4 +1,16 @@
 {
+    "nFfqcbZpdl": {
+        "id": "nFfqcbZpdl",
+        "title": "Униженные и оскорбленные",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2017-05-27 16:10:19",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 73
+        }
+    },
     "7BRqouMpTg": {
         "id": "7BRqouMpTg",
         "title": "Мизери",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 45
-        }
-    },
-    "VuY6uY4CJL": {
-        "id": "VuY6uY4CJL",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-05-27 15:27:00",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 44
         }
     }
 }
