@@ -1,4 +1,16 @@
 {
+    "PJS95krvuT": {
+        "id": "PJS95krvuT",
+        "title": "Пена дней",
+        "author": "Борис Виан",
+        "notes": "",
+        "createdAt": "2017-05-27 15:08:50",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 22
+        }
+    },
     "_cBF6MddFW": {
         "id": "_cBF6MddFW",
         "title": "Дневник одного гения",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 108
-        }
-    },
-    "vBoi1AtZFg": {
-        "id": "vBoi1AtZFg",
-        "title": "Коты-Воители: Четвёртый оруженосец",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Знамение звёзд\"\nКнига 18",
-        "createdAt": "2017-05-25 13:02:59",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 107
         }
     }
 }
