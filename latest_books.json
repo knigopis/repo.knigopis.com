@@ -1,4 +1,16 @@
 {
+    "7bU046oNxX": {
+        "id": "7bU046oNxX",
+        "title": "Выстрел",
+        "author": "А.С.Пушкин",
+        "notes": "",
+        "createdAt": "2017-05-27 16:54:52",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 118
+        }
+    },
     "0ObNcnm0d9": {
         "id": "0ObNcnm0d9",
         "title": "Сказка о царе Салтане",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 88
-        }
-    },
-    "ArrAGoBa4X": {
-        "id": "ArrAGoBa4X",
-        "title": "После бала",
-        "author": "Л.Н.Толстой",
-        "notes": "",
-        "createdAt": "2017-05-27 16:21:00",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 87
         }
     }
 }
