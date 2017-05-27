@@ -1,4 +1,16 @@
 {
+    "HG0Z-wsiz2": {
+        "id": "HG0Z-wsiz2",
+        "title": "11 минут",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2017-05-27 15:06:12",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 18
+        }
+    },
     "sxrs4MMG3u": {
         "id": "sxrs4MMG3u",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 71
-        }
-    },
-    "4m_V0R8Nn2": {
-        "id": "4m_V0R8Nn2",
-        "title": "Номер 1. Как стать лучшим в том, что ты делаешь.",
-        "author": "Игорь Манн",
-        "notes": "",
-        "createdAt": "2017-05-23 17:22:54",
-        "user": {
-            "id": "430126578-vkontakte",
-            "nickname": "ibuzinezz",
-            "booksCount": 1
         }
     }
 }
