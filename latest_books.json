@@ -1,4 +1,16 @@
 {
+    "VuY6uY4CJL": {
+        "id": "VuY6uY4CJL",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-05-27 15:27:00",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 44
+        }
+    },
     "PP0jG2YOFb": {
         "id": "PP0jG2YOFb",
         "title": "Д. Сэлинджер",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 15
-        }
-    },
-    "GQq1uW2tr5": {
-        "id": "GQq1uW2tr5",
-        "title": "Двадцать тысяч лье под водой",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-05-27 15:03:16",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 14
         }
     }
 }
