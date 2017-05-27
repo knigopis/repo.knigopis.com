@@ -1,4 +1,16 @@
 {
+    "yhgjxbKbZo": {
+        "id": "yhgjxbKbZo",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-05-27 15:55:39",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 64
+        }
+    },
     "qAaC8sVLl1": {
         "id": "qAaC8sVLl1",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 36
-        }
-    },
-    "fRTC_L8EIl": {
-        "id": "fRTC_L8EIl",
-        "title": "Герострат",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2017-05-27 15:21:36",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 35
         }
     }
 }
