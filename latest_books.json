@@ -1,4 +1,16 @@
 {
+    "ds_jFLZMy-": {
+        "id": "ds_jFLZMy-",
+        "title": "Собачье сердце",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-27 15:04:25",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 16
+        }
+    },
     "WUlBfuH-qk": {
         "id": "WUlBfuH-qk",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "1188128011316384-facebook",
             "nickname": "killalltu",
             "booksCount": 1
-        }
-    },
-    "KBpn8FOM2P": {
-        "id": "KBpn8FOM2P",
-        "title": "Евангелие от Иисуса",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2017-05-23 10:31:32",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 534
         }
     }
 }
