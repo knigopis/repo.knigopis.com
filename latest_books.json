@@ -1,4 +1,16 @@
 {
+    "WUlBfuH-qk": {
+        "id": "WUlBfuH-qk",
+        "title": "Мастер и Маргарита",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-27 15:03:45",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 15
+        }
+    },
     "GQq1uW2tr5": {
         "id": "GQq1uW2tr5",
         "title": "Двадцать тысяч лье под водой",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 534
-        }
-    },
-    "wnK3HOMtRE": {
-        "id": "wnK3HOMtRE",
-        "title": "Евангелие от Иисуса",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2017-05-23 10:29:19",
-        "user": {
-            "id": "20565064-vkontakte",
-            "nickname": "Janet",
-            "booksCount": 533
         }
     }
 }
