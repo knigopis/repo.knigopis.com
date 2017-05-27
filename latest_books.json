@@ -1,4 +1,16 @@
 {
+    "RLUGyIKp-p": {
+        "id": "RLUGyIKp-p",
+        "title": "Отрочество",
+        "author": "Л.Н.Толстой",
+        "notes": "",
+        "createdAt": "2017-05-27 16:18:35",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 83
+        }
+    },
     "QqdVA38iO4": {
         "id": "QqdVA38iO4",
         "title": "Детство",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 54
-        }
-    },
-    "GPO1IWfnKU": {
-        "id": "GPO1IWfnKU",
-        "title": "Ремесло",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2017-05-27 15:31:26",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 53
         }
     }
 }
