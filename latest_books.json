@@ -1,4 +1,16 @@
 {
+    "i-aFUoDEsk": {
+        "id": "i-aFUoDEsk",
+        "title": "Я приду плюнуть на ваши могилы",
+        "author": "Борис Виан",
+        "notes": "",
+        "createdAt": "2017-05-27 15:10:58",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 26
+        }
+    },
     "jC5f4iyGV_": {
         "id": "jC5f4iyGV_",
         "title": "У всех мёртвых одинаковая кожа",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 45
-        }
-    },
-    "-8USbsk_xk": {
-        "id": "-8USbsk_xk",
-        "title": "Серапионовы братья",
-        "author": "Эрнст Теодор Амадей Гофман",
-        "notes": "",
-        "createdAt": "2017-05-25 18:44:16",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 534
         }
     }
 }
