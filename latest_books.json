@@ -1,4 +1,16 @@
 {
+    "k-mcn8DecJ": {
+        "id": "k-mcn8DecJ",
+        "title": "Евангелие от Иисуса",
+        "author": "Жозе Сарамаго",
+        "notes": "",
+        "createdAt": "2017-05-27 15:30:31",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 50
+        }
+    },
     "R8RXtKlWzl": {
         "id": "R8RXtKlWzl",
         "title": "Заповедник",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 22
-        }
-    },
-    "_cBF6MddFW": {
-        "id": "_cBF6MddFW",
-        "title": "Дневник одного гения",
-        "author": "Сальвадор Дали",
-        "notes": "",
-        "createdAt": "2017-05-27 15:07:56",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 21
         }
     }
 }
