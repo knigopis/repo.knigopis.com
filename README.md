@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>71</sup> 
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>535</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 
 
-_27.05.2017 16:05:51_
+_27.05.2017 16:06:08_
