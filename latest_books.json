@@ -1,4 +1,16 @@
 {
+    "DIsBkAbnKJ": {
+        "id": "DIsBkAbnKJ",
+        "title": "Поединок",
+        "author": "А.И.Куприн",
+        "notes": "",
+        "createdAt": "2017-05-27 16:14:14",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 79
+        }
+    },
     "KqjVgUGMnR": {
         "id": "KqjVgUGMnR",
         "title": "Олеся",
@@ -341,18 +353,6 @@
         "author": "Жозе Сарамаго",
         "notes": "",
         "createdAt": "2017-05-27 15:30:31",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 50
-        }
-    },
-    "R8RXtKlWzl": {
-        "id": "R8RXtKlWzl",
-        "title": "Заповедник",
-        "author": "Сергей Довлатов",
-        "notes": "",
-        "createdAt": "2017-05-27 15:30:06",
         "user": {
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
