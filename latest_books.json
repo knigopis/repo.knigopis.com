@@ -1,4 +1,16 @@
 {
+    "vBk6PyvdcS": {
+        "id": "vBk6PyvdcS",
+        "title": "Влечения и их судьбы",
+        "author": "З.Фрейд",
+        "notes": "",
+        "createdAt": "2017-05-27 18:44:49",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 184
+        }
+    },
     "Nwux5BdvVr": {
         "id": "Nwux5BdvVr",
         "title": "Бессознательное",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 155
-        }
-    },
-    "cJqsd7tpA9": {
-        "id": "cJqsd7tpA9",
-        "title": "Рассказы, стихи",
-        "author": "А.А.Фет",
-        "notes": "",
-        "createdAt": "2017-05-27 17:29:09",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 154
         }
     }
 }
