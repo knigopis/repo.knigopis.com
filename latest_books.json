@@ -1,4 +1,16 @@
 {
+    "EwrVzrjFgR": {
+        "id": "EwrVzrjFgR",
+        "title": "Призраки",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-05-27 14:58:13",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 7
+        }
+    },
     "PQH0MzH60-": {
         "id": "PQH0MzH60-",
         "title": "Психопатология обыденной жизни",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 106
-        }
-    },
-    "i-V-AwzQoC": {
-        "id": "i-V-AwzQoC",
-        "title": "Коты-Воители: Длинные тени",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Сила трёх\"\nКнига 17",
-        "createdAt": "2017-05-21 11:00:34",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 105
         }
     }
 }
