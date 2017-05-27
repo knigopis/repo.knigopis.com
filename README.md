@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>169</sup> 
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>535</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup> 
 
 
-_27.05.2017 17:56:45_
+_27.05.2017 17:58:49_
