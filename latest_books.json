@@ -1,4 +1,16 @@
 {
+    "RJSqiBro2e": {
+        "id": "RJSqiBro2e",
+        "title": "Евгений Онегин",
+        "author": "А.С. Пушкин",
+        "notes": "",
+        "createdAt": "2017-05-27 14:58:34",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 8
+        }
+    },
     "EwrVzrjFgR": {
         "id": "EwrVzrjFgR",
         "title": "Призраки",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 38
-        }
-    },
-    "p5_U6sjgSq": {
-        "id": "p5_U6sjgSq",
-        "title": "Коты-Воители: Восход солнца",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Сила трёх\"\nКнига 18",
-        "createdAt": "2017-05-21 11:01:22",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 106
         }
     }
 }
