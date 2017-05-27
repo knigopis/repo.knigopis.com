@@ -1,4 +1,16 @@
 {
+    "ibqhWF0boY": {
+        "id": "ibqhWF0boY",
+        "title": "Ведьмы за границей",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2017-05-27 15:33:27",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 59
+        }
+    },
     "jt4YTbSy1r": {
         "id": "jt4YTbSy1r",
         "title": "Контрапункт",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 31
-        }
-    },
-    "RrTvSWZtKx": {
-        "id": "RrTvSWZtKx",
-        "title": "Цикл рассказов \"Записки юного врача\"",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-27 15:16:46",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 34
         }
     }
 }
