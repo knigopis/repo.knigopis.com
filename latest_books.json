@@ -1,4 +1,16 @@
 {
+    "R7NqhCWZBu": {
+        "id": "R7NqhCWZBu",
+        "title": "Ночь нежна",
+        "author": "Ф.С. Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-05-27 15:32:02",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 55
+        }
+    },
     "2xrzRgrw3R": {
         "id": "2xrzRgrw3R",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 27
-        }
-    },
-    "i-aFUoDEsk": {
-        "id": "i-aFUoDEsk",
-        "title": "Я приду плюнуть на ваши могилы",
-        "author": "Борис Виан",
-        "notes": "",
-        "createdAt": "2017-05-27 15:10:58",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 26
         }
     }
 }
