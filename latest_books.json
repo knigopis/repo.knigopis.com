@@ -1,4 +1,16 @@
 {
+    "j8YxhzHmxv": {
+        "id": "j8YxhzHmxv",
+        "title": "После землетрясения",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-05-27 19:36:22",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 201
+        }
+    },
     "ihwOtwleez": {
         "id": "ihwOtwleez",
         "title": "Процесс",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 172
-        }
-    },
-    "zZRFTeqBSm": {
-        "id": "zZRFTeqBSm",
-        "title": "Двенадцать",
-        "author": "А.Блок",
-        "notes": "",
-        "createdAt": "2017-05-27 18:01:09",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 171
         }
     }
 }
