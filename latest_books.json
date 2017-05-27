@@ -1,4 +1,16 @@
 {
+    "wL_wKzEzRi": {
+        "id": "wL_wKzEzRi",
+        "title": "Неудобства культуры",
+        "author": "З.Фрейд",
+        "notes": "",
+        "createdAt": "2017-05-27 18:49:39",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 187
+        }
+    },
     "2gz6XZxcyd": {
         "id": "2gz6XZxcyd",
         "title": "Три очерка по теории сексуальности",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 158
-        }
-    },
-    "EFhI0sLG2a": {
-        "id": "EFhI0sLG2a",
-        "title": "Волшебное кольцо",
-        "author": "А.Платонов",
-        "notes": "",
-        "createdAt": "2017-05-27 17:37:21",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 157
         }
     }
 }
