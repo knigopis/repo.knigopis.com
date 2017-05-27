@@ -1,4 +1,16 @@
 {
+    "u_Y_lkdmAC": {
+        "id": "u_Y_lkdmAC",
+        "title": "Пятая гора",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2017-05-27 15:06:57",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 19
+        }
+    },
     "HG0Z-wsiz2": {
         "id": "HG0Z-wsiz2",
         "title": "11 минут",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 72
-        }
-    },
-    "4s-MGUUOFa": {
-        "id": "4s-MGUUOFa",
-        "title": "Как привести дела в порядок. Искусство продуктивности без стресса.",
-        "author": "Дэвид Аллен",
-        "notes": "Посмотрим, что получится.",
-        "createdAt": "2017-05-24 04:12:31",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 71
         }
     }
 }
