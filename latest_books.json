@@ -1,4 +1,16 @@
 {
+    "GPO1IWfnKU": {
+        "id": "GPO1IWfnKU",
+        "title": "Ремесло",
+        "author": "Сергей Довлатов",
+        "notes": "",
+        "createdAt": "2017-05-27 15:31:26",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 53
+        }
+    },
     "nSl2uNfEDe": {
         "id": "nSl2uNfEDe",
         "title": "Компромисс",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 25
-        }
-    },
-    "uxzanyRJsw": {
-        "id": "uxzanyRJsw",
-        "title": "Код да Винчи",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-05-27 15:09:44",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 24
         }
     }
 }
