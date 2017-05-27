@@ -1,4 +1,16 @@
 {
+    "uxzanyRJsw": {
+        "id": "uxzanyRJsw",
+        "title": "Код да Винчи",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-05-27 15:09:44",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 24
+        }
+    },
     "y6vM1vu3ZN": {
         "id": "y6vM1vu3ZN",
         "title": "У",
@@ -345,18 +357,6 @@
             "id": "100001728431584-facebook",
             "nickname": "Krozy",
             "booksCount": 1
-        }
-    },
-    "rX8Mmu1k-E": {
-        "id": "rX8Mmu1k-E",
-        "title": "Коты-Воители: Долгое эхо",
-        "author": "Эрин Хантер",
-        "notes": "Цикл \"Знамение звёзд\"\nКнига 21",
-        "createdAt": "2017-05-25 13:09:07",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 109
         }
     }
 }
