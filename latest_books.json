@@ -1,4 +1,16 @@
 {
+    "RrTvSWZtKx": {
+        "id": "RrTvSWZtKx",
+        "title": "Цикл рассказов \"Записки юного врача\"",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-05-27 15:16:46",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 34
+        }
+    },
     "ie8K5mHhvQ": {
         "id": "ie8K5mHhvQ",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "7011021-vkontakte",
             "nickname": "gribanovsv",
             "booksCount": 1
-        }
-    },
-    "YXhEn2LKA9": {
-        "id": "YXhEn2LKA9",
-        "title": "Конкурентная разведка",
-        "author": "Бенджамин Джилад",
-        "notes": "в процессе",
-        "createdAt": "2017-05-26 09:30:53",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 100
         }
     }
 }
