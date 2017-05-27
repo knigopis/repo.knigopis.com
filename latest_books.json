@@ -1,4 +1,16 @@
 {
+    "fRTC_L8EIl": {
+        "id": "fRTC_L8EIl",
+        "title": "Герострат",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-05-27 15:21:36",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 35
+        }
+    },
     "p_KvOcYJBr": {
         "id": "p_KvOcYJBr",
         "title": "Комната",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 6
-        }
-    },
-    "GP41hXbYV6": {
-        "id": "GP41hXbYV6",
-        "title": "Ангел западного крыла",
-        "author": "Густав Майринк",
-        "notes": "",
-        "createdAt": "2017-05-27 14:56:57",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 5
         }
     }
 }
