@@ -1,4 +1,16 @@
 {
+    "KwKZfAGQKR": {
+        "id": "KwKZfAGQKR",
+        "title": "Великий Гэтсби",
+        "author": "Ф.С. Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-05-27 15:32:21",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 56
+        }
+    },
     "R7NqhCWZBu": {
         "id": "R7NqhCWZBu",
         "title": "Ночь нежна",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 28
-        }
-    },
-    "ouAHSWdKer": {
-        "id": "ouAHSWdKer",
-        "title": "Осень в Пекине",
-        "author": "Борис Виан",
-        "notes": "",
-        "createdAt": "2017-05-27 15:11:20",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 27
         }
     }
 }
