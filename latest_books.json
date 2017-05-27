@@ -1,4 +1,16 @@
 {
+    "jiBqoDpr1L": {
+        "id": "jiBqoDpr1L",
+        "title": "Чума",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2017-05-27 19:44:36",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 205
+        }
+    },
     "C1b75-uaMi": {
         "id": "C1b75-uaMi",
         "title": "Посторонний",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 176
-        }
-    },
-    "5g4Sim3TVp": {
-        "id": "5g4Sim3TVp",
-        "title": "Приключения барона Мюнхаузена",
-        "author": "Рудольф Распе",
-        "notes": "",
-        "createdAt": "2017-05-27 18:09:17",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 175
         }
     }
 }
