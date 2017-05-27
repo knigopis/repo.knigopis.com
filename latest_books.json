@@ -1,4 +1,16 @@
 {
+    "8mtKNnDCEA": {
+        "id": "8mtKNnDCEA",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-27 16:01:59",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 66
+        }
+    },
     "ForhcNVaLh": {
         "id": "ForhcNVaLh",
         "title": "Приключения Гекльберри Финна",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 38
-        }
-    },
-    "mgLjsMOpmb": {
-        "id": "mgLjsMOpmb",
-        "title": "Жюстина",
-        "author": "Маркиз де Сад",
-        "notes": "",
-        "createdAt": "2017-05-27 15:24:21",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 37
         }
     }
 }
