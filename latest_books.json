@@ -1,4 +1,16 @@
 {
+    "pRw-DIj7K-": {
+        "id": "pRw-DIj7K-",
+        "title": "Вытеснение",
+        "author": "З.Фрейд",
+        "notes": "",
+        "createdAt": "2017-05-27 18:45:09",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 185
+        }
+    },
     "vBk6PyvdcS": {
         "id": "vBk6PyvdcS",
         "title": "Влечения и их судьбы",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 156
-        }
-    },
-    "4o39V9mFyG": {
-        "id": "4o39V9mFyG",
-        "title": "Что делать?",
-        "author": "Н.Г.Чернышевский",
-        "notes": "",
-        "createdAt": "2017-05-27 17:33:50",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 155
         }
     }
 }
