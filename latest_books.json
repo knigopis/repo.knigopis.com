@@ -1,4 +1,16 @@
 {
+    "vVa6XCSShm": {
+        "id": "vVa6XCSShm",
+        "title": "Волхв",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2017-05-27 15:26:09",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 41
+        }
+    },
     "mPKGAUJ3X-": {
         "id": "mPKGAUJ3X-",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 12
-        }
-    },
-    "Nan7GkVNX0": {
-        "id": "Nan7GkVNX0",
-        "title": "Вечера на хуторе близ Диканьки",
-        "author": "Н. Гоголь",
-        "notes": "",
-        "createdAt": "2017-05-27 15:01:40",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 11
         }
     }
 }
