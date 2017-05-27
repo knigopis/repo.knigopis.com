@@ -1,4 +1,16 @@
 {
+    "pkgP82cFGx": {
+        "id": "pkgP82cFGx",
+        "title": "Анна Каренина",
+        "author": "Л.Н.Толстой",
+        "notes": "Не дочитала",
+        "createdAt": "2017-05-27 16:16:09",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 80
+        }
+    },
     "DIsBkAbnKJ": {
         "id": "DIsBkAbnKJ",
         "title": "Поединок",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 51
-        }
-    },
-    "k-mcn8DecJ": {
-        "id": "k-mcn8DecJ",
-        "title": "Евангелие от Иисуса",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2017-05-27 15:30:31",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 50
         }
     }
 }
