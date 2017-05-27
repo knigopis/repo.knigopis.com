@@ -1,4 +1,16 @@
 {
+    "EFhI0sLG2a": {
+        "id": "EFhI0sLG2a",
+        "title": "Волшебное кольцо",
+        "author": "А.Платонов",
+        "notes": "",
+        "createdAt": "2017-05-27 17:37:21",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 157
+        }
+    },
     "IfzwhJg-zK": {
         "id": "IfzwhJg-zK",
         "title": "Мальчик у Христа на елке",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 128
-        }
-    },
-    "fMv8-Euhw5": {
-        "id": "fMv8-Euhw5",
-        "title": "Герой нашего времени",
-        "author": "М.Ю.Лермонтов",
-        "notes": "",
-        "createdAt": "2017-05-27 17:03:31",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 127
         }
     }
 }
