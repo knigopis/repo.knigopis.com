@@ -1,4 +1,10 @@
 {
+    "282494905-vkontakte": {
+        "id": "282494905-vkontakte",
+        "nickname": "p.masychev",
+        "booksCount": 0,
+        "updatedAt": "2017-05-27 17:58:49"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "miracolo_bella",
         "booksCount": 53,
         "updatedAt": "2017-05-18 13:14:29"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 77,
-        "updatedAt": "2017-05-18 10:38:57"
     }
 }
