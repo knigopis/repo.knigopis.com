@@ -1,4 +1,16 @@
 {
+    "wN1pbeyeCc": {
+        "id": "wN1pbeyeCc",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-05-27 16:03:55",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 67
+        }
+    },
     "8mtKNnDCEA": {
         "id": "8mtKNnDCEA",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 39
-        }
-    },
-    "fsupNLA84A": {
-        "id": "fsupNLA84A",
-        "title": "Фрейд",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2017-05-27 15:24:48",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 38
         }
     }
 }
