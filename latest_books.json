@@ -1,4 +1,16 @@
 {
+    "ihwOtwleez": {
+        "id": "ihwOtwleez",
+        "title": "Процесс",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2017-05-27 19:26:50",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 200
+        }
+    },
     "XaUjfXhAGG": {
         "id": "XaUjfXhAGG",
         "title": "Замок",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 171
-        }
-    },
-    "Xb3SLAgLi4": {
-        "id": "Xb3SLAgLi4",
-        "title": "Человек-невидимка",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2017-05-27 17:59:14",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 170
         }
     }
 }
