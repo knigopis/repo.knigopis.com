@@ -1,4 +1,16 @@
 {
+    "z-mjMMuU3U": {
+        "id": "z-mjMMuU3U",
+        "title": "Гранатовый браслет",
+        "author": "А.И.Куприн",
+        "notes": "",
+        "createdAt": "2017-05-27 16:13:02",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 77
+        }
+    },
     "15gHJulTK6": {
         "id": "15gHJulTK6",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 48
-        }
-    },
-    "z1nR7DHF0Y": {
-        "id": "z1nR7DHF0Y",
-        "title": "Над пропастью во ржи",
-        "author": "Джэром Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-05-27 15:28:54",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 47
         }
     }
 }
