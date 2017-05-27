@@ -1,4 +1,16 @@
 {
+    "CZRfRls1O1": {
+        "id": "CZRfRls1O1",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2017-05-27 15:27:22",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 45
+        }
+    },
     "VuY6uY4CJL": {
         "id": "VuY6uY4CJL",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 16
-        }
-    },
-    "WUlBfuH-qk": {
-        "id": "WUlBfuH-qk",
-        "title": "Мастер и Маргарита",
-        "author": "М. Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-27 15:03:45",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 15
         }
     }
 }
