@@ -1,4 +1,16 @@
 {
+    "93LkyTF3LJ": {
+        "id": "93LkyTF3LJ",
+        "title": "",
+        "author": "Софокл \"Эдип Царь\"",
+        "notes": "",
+        "createdAt": "2017-05-27 14:52:07",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 4
+        }
+    },
     "6BKSmKMPHk": {
         "id": "6BKSmKMPHk",
         "title": "Тэвистокские лекции",
@@ -45,18 +57,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 100
-        }
-    },
-    "Xjj1bLYp5Y": {
-        "id": "Xjj1bLYp5Y",
-        "title": "",
-        "author": "Герберт Уэллс \"Россия во мгле\"",
-        "notes": "",
-        "createdAt": "2017-05-26 03:15:52",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 2
         }
     },
     "W3SdLpblNj": {
