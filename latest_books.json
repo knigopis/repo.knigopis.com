@@ -1,4 +1,16 @@
 {
+    "QSWexfGiPo": {
+        "id": "QSWexfGiPo",
+        "title": "Дама с собачкой",
+        "author": "А.П.Чехов",
+        "notes": "",
+        "createdAt": "2017-05-27 16:26:46",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 88
+        }
+    },
     "ArrAGoBa4X": {
         "id": "ArrAGoBa4X",
         "title": "После бала",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 59
-        }
-    },
-    "jt4YTbSy1r": {
-        "id": "jt4YTbSy1r",
-        "title": "Контрапункт",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2017-05-27 15:32:56",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 58
         }
     }
 }
