@@ -1,4 +1,16 @@
 {
+    "sluHRPCBZf": {
+        "id": "sluHRPCBZf",
+        "title": "Парфюмер: история одного убийцы",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2017-05-27 15:07:24",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 20
+        }
+    },
     "u_Y_lkdmAC": {
         "id": "u_Y_lkdmAC",
         "title": "Пятая гора",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 110
-        }
-    },
-    "xowtk_sv84": {
-        "id": "xowtk_sv84",
-        "title": "Остров сокровищ",
-        "author": "Роберт Стивенсон",
-        "notes": "9/10",
-        "createdAt": "2017-05-24 12:41:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 72
         }
     }
 }
