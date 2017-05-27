@@ -1,4 +1,16 @@
 {
+    "PP0jG2YOFb": {
+        "id": "PP0jG2YOFb",
+        "title": "Д. Сэлинджер",
+        "author": "Над пропастью во ржи",
+        "notes": "",
+        "createdAt": "2017-05-27 15:26:41",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 43
+        }
+    },
     "fgWSve3pBn": {
         "id": "fgWSve3pBn",
         "title": "Шутка",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 14
-        }
-    },
-    "s1g0vfD0O0": {
-        "id": "s1g0vfD0O0",
-        "title": "Алые паруса",
-        "author": "А. Грин",
-        "notes": "",
-        "createdAt": "2017-05-27 15:02:49",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 13
         }
     }
 }
