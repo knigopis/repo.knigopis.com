@@ -1,4 +1,16 @@
 {
+    "_cBF6MddFW": {
+        "id": "_cBF6MddFW",
+        "title": "Дневник одного гения",
+        "author": "Сальвадор Дали",
+        "notes": "",
+        "createdAt": "2017-05-27 15:07:56",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 21
+        }
+    },
     "sluHRPCBZf": {
         "id": "sluHRPCBZf",
         "title": "Парфюмер: история одного убийцы",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 107
-        }
-    },
-    "GQTt9A4eQ-": {
-        "id": "GQTt9A4eQ-",
-        "title": "Как расставить свои приоритеты",
-        "author": "Яков Жуковский",
-        "notes": "",
-        "createdAt": "2017-05-24 18:26:31",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 110
         }
     }
 }
