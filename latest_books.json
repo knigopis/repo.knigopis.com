@@ -1,4 +1,16 @@
 {
+    "XScWVcm_bL": {
+        "id": "XScWVcm_bL",
+        "title": "Игрок",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2017-05-27 16:10:44",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 74
+        }
+    },
     "nFfqcbZpdl": {
         "id": "nFfqcbZpdl",
         "title": "Униженные и оскорбленные",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 46
-        }
-    },
-    "CZRfRls1O1": {
-        "id": "CZRfRls1O1",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-05-27 15:27:22",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 45
         }
     }
 }
