@@ -1,4 +1,16 @@
 {
+    "WSAsfRIOJg": {
+        "id": "WSAsfRIOJg",
+        "title": "Парфюмер. История одного убийцы",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2017-05-27 15:19:10",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 31
+        }
+    },
     "RrTvSWZtKx": {
         "id": "RrTvSWZtKx",
         "title": "Цикл рассказов \"Записки юного врача\"",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 535
-        }
-    },
-    "f9B4INX7D_": {
-        "id": "f9B4INX7D_",
-        "title": "Тест",
-        "author": "Тест",
-        "notes": "",
-        "createdAt": "2017-05-26 17:12:04",
-        "user": {
-            "id": "7011021-vkontakte",
-            "nickname": "gribanovsv",
-            "booksCount": 1
         }
     }
 }
