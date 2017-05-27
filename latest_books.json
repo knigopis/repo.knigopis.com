@@ -1,4 +1,16 @@
 {
+    "Nan7GkVNX0": {
+        "id": "Nan7GkVNX0",
+        "title": "Вечера на хуторе близ Диканьки",
+        "author": "Н. Гоголь",
+        "notes": "",
+        "createdAt": "2017-05-27 15:01:40",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 11
+        }
+    },
     "X1INdofADE": {
         "id": "X1INdofADE",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 99
-        }
-    },
-    "SeSPdAUSTl": {
-        "id": "SeSPdAUSTl",
-        "title": "Мы",
-        "author": "Замятин",
-        "notes": "",
-        "createdAt": "2017-05-22 20:41:41",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 16
         }
     }
 }
