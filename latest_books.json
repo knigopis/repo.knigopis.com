@@ -1,4 +1,16 @@
 {
+    "s1g0vfD0O0": {
+        "id": "s1g0vfD0O0",
+        "title": "Алые паруса",
+        "author": "А. Грин",
+        "notes": "",
+        "createdAt": "2017-05-27 15:02:49",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 13
+        }
+    },
     "J3CfBf4A1f": {
         "id": "J3CfBf4A1f",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 98
-        }
-    },
-    "n8liXYSnMi": {
-        "id": "n8liXYSnMi",
-        "title": "Отважные мореплаватели",
-        "author": "Редьярд Кипплиг",
-        "notes": "Отлично пишет Кипплинг :)",
-        "createdAt": "2017-05-22 22:12:56",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 47
         }
     }
 }
