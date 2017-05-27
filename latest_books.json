@@ -1,4 +1,16 @@
 {
+    "5CJvuiHz3h": {
+        "id": "5CJvuiHz3h",
+        "title": "Остров",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-05-27 15:32:39",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 57
+        }
+    },
     "KwKZfAGQKR": {
         "id": "KwKZfAGQKR",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 29
-        }
-    },
-    "lq4JxPxTk9": {
-        "id": "lq4JxPxTk9",
-        "title": "Невыносимая лёгкость бытия",
-        "author": "Милан Кундера",
-        "notes": "",
-        "createdAt": "2017-05-27 15:11:54",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 28
         }
     }
 }
