@@ -1,4 +1,16 @@
 {
+    "0PLYlRjUfa": {
+        "id": "0PLYlRjUfa",
+        "title": "Мать",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-05-27 17:24:06",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 148
+        }
+    },
     "DtmHbaHATg": {
         "id": "DtmHbaHATg",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 119
-        }
-    },
-    "7bU046oNxX": {
-        "id": "7bU046oNxX",
-        "title": "Выстрел",
-        "author": "А.С.Пушкин",
-        "notes": "",
-        "createdAt": "2017-05-27 16:54:52",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 118
         }
     }
 }
