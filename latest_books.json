@@ -1,4 +1,16 @@
 {
+    "mgLjsMOpmb": {
+        "id": "mgLjsMOpmb",
+        "title": "Жюстина",
+        "author": "Маркиз де Сад",
+        "notes": "",
+        "createdAt": "2017-05-27 15:24:21",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 37
+        }
+    },
     "NzCk_qOgV0": {
         "id": "NzCk_qOgV0",
         "title": "Венера в мехах",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 8
-        }
-    },
-    "EwrVzrjFgR": {
-        "id": "EwrVzrjFgR",
-        "title": "Призраки",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-05-27 14:58:13",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 7
         }
     }
 }
