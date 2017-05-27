@@ -1,4 +1,16 @@
 {
+    "p_KvOcYJBr": {
+        "id": "p_KvOcYJBr",
+        "title": "Комната",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-05-27 15:21:15",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 34
+        }
+    },
     "e-LznE3ydt": {
         "id": "e-LznE3ydt",
         "title": "Стена",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 5
-        }
-    },
-    "93LkyTF3LJ": {
-        "id": "93LkyTF3LJ",
-        "title": "",
-        "author": "Софокл \"Эдип Царь\"",
-        "notes": "",
-        "createdAt": "2017-05-27 14:52:07",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 4
         }
     }
 }
