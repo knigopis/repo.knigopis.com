@@ -1,4 +1,16 @@
 {
+    "kVwJPHR7iN": {
+        "id": "kVwJPHR7iN",
+        "title": "Клакстоны",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-05-27 19:22:13",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 198
+        }
+    },
     "9jHpBG6DvS": {
         "id": "9jHpBG6DvS",
         "title": "Целительный отдых",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 169
-        }
-    },
-    "tq4LAjjz3O": {
-        "id": "tq4LAjjz3O",
-        "title": "После бала",
-        "author": "Л.Н.Толстой",
-        "notes": "",
-        "createdAt": "2017-05-27 17:56:26",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 168
         }
     }
 }
