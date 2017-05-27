@@ -1,4 +1,16 @@
 {
+    "GQq1uW2tr5": {
+        "id": "GQq1uW2tr5",
+        "title": "Двадцать тысяч лье под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-05-27 15:03:16",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 14
+        }
+    },
     "s1g0vfD0O0": {
         "id": "s1g0vfD0O0",
         "title": "Алые паруса",
@@ -345,18 +357,6 @@
             "id": "20565064-vkontakte",
             "nickname": "Janet",
             "booksCount": 533
-        }
-    },
-    "2lc2-_eJ_6": {
-        "id": "2lc2-_eJ_6",
-        "title": "Моби Дик",
-        "author": "Герман Мелвилл",
-        "notes": "",
-        "createdAt": "2017-05-23 08:56:24",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 98
         }
     }
 }
