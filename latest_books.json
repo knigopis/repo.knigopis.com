@@ -1,4 +1,16 @@
 {
+    "VYhxtkZJSR": {
+        "id": "VYhxtkZJSR",
+        "title": "Чистовик",
+        "author": "Сергей Лукьяненко",
+        "notes": "Не дочитала",
+        "createdAt": "2017-05-27 14:59:36",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 9
+        }
+    },
     "RJSqiBro2e": {
         "id": "RJSqiBro2e",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 22
-        }
-    },
-    "4ucH5utSe6": {
-        "id": "4ucH5utSe6",
-        "title": "Китаец",
-        "author": "Колесов Евгений",
-        "notes": "Литрес ISBN: 978-5-699-94067-7",
-        "createdAt": "2017-05-21 11:20:01",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 38
         }
     }
 }
