@@ -1,4 +1,16 @@
 {
+    "kK-jgL52_U": {
+        "id": "kK-jgL52_U",
+        "title": "Дэнс, дэнс, дэнс",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-05-27 19:37:19",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 202
+        }
+    },
     "j8YxhzHmxv": {
         "id": "j8YxhzHmxv",
         "title": "После землетрясения",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 173
-        }
-    },
-    "GYnhEY8pGs": {
-        "id": "GYnhEY8pGs",
-        "title": "Облако в штанах",
-        "author": "В.Маяковский",
-        "notes": "",
-        "createdAt": "2017-05-27 18:03:17",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 172
         }
     }
 }
