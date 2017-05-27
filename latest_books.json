@@ -1,4 +1,16 @@
 {
+    "qkDxQXTwFV": {
+        "id": "qkDxQXTwFV",
+        "title": "Дом странных детей",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2017-05-27 14:33:38",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 535
+        }
+    },
     "f9B4INX7D_": {
         "id": "f9B4INX7D_",
         "title": "Тест",
@@ -345,18 +357,6 @@
             "id": "145737651-vkontakte",
             "nickname": "TryKote",
             "booksCount": 15
-        }
-    },
-    "nl3qEcA5vy": {
-        "id": "nl3qEcA5vy",
-        "title": "Майндсайт",
-        "author": "Дэниэл Сигел",
-        "notes": "",
-        "createdAt": "2017-05-19 07:47:25",
-        "user": {
-            "id": "108664297870274640182-google",
-            "nickname": "bsergik",
-            "booksCount": 1
         }
     }
 }

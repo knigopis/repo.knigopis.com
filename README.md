@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>535</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>110</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>534</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gab_tompson](users/542/5425873-vkontakte)<sup>0</sup> 
 
 
-_26.05.2017 17:12:04_
+_27.05.2017 14:33:39_
