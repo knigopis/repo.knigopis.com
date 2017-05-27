@@ -1,4 +1,16 @@
 {
+    "hi7WYli5MI": {
+        "id": "hi7WYli5MI",
+        "title": "Гамлет, принц Датский",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-05-27 19:15:05",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 191
+        }
+    },
     "r46ZWGQk3O": {
         "id": "r46ZWGQk3O",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 162
-        }
-    },
-    "KRamj_VUOU": {
-        "id": "KRamj_VUOU",
-        "title": "Борис Годунов",
-        "author": "А.С.Пушкин",
-        "notes": "",
-        "createdAt": "2017-05-27 17:50:35",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 161
         }
     }
 }
