@@ -1,4 +1,16 @@
 {
+    "e-LznE3ydt": {
+        "id": "e-LznE3ydt",
+        "title": "Стена",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-05-27 15:21:00",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 33
+        }
+    },
     "9UD_fHyH0p": {
         "id": "9UD_fHyH0p",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 4
-        }
-    },
-    "6BKSmKMPHk": {
-        "id": "6BKSmKMPHk",
-        "title": "Тэвистокские лекции",
-        "author": "Карл Густав Юнг",
-        "notes": "",
-        "createdAt": "2017-05-27 14:51:07",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 3
         }
     }
 }
