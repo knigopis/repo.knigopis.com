@@ -1,4 +1,16 @@
 {
+    "5bV_K3o48r": {
+        "id": "5bV_K3o48r",
+        "title": "Записки из мертвого дома",
+        "author": "Федор Достаевский",
+        "notes": "",
+        "createdAt": "2017-05-28 07:11:47",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 254
+        }
+    },
     "4OgB53IuZM": {
         "id": "4OgB53IuZM",
         "title": "Звёздные корабли",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 194
-        }
-    },
-    "3XF-OT4VWk": {
-        "id": "3XF-OT4VWk",
-        "title": "Король Лир",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-05-27 19:16:14",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 193
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 254,
+        "updatedAt": "2017-05-28 07:11:47"
+    },
     "15386028-yandex": {
         "id": "15386028-yandex",
         "nickname": "Derek777",
@@ -172,11 +178,5 @@
         "nickname": "Witcher",
         "booksCount": 0,
         "updatedAt": "2017-05-19 10:41:37"
-    },
-    "108664297870274640182-google": {
-        "id": "108664297870274640182-google",
-        "nickname": "bsergik",
-        "booksCount": 1,
-        "updatedAt": "2017-05-19 07:47:25"
     }
 }
