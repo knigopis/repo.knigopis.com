@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
 * Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
@@ -30,7 +31,6 @@
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 * Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
 * Чёрный меч царя Кощея ~ [Йолант](users/104/104690883692185089260-google)<sup>160</sup>
-* Ржавый меч царя Гороха ~ [Йолант](users/104/104690883692185089260-google)<sup>159</sup>
 
 
-_26.05.2017 09:30:53_
+_28.05.2017 05:25:43_

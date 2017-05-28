@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
+    > Короткий. Монополисты решили купить весь мир по дешевке. Разрушили луну. Но люди перестали использовать деньги. И злодеи остались в дураках. 5 из 10.
+
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
     > в процессе
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
-    > Цикл "Знамение звёзд"
-    > Книга 22
 
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
 
-* Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>536</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>215</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
 [Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>53</sup> 
 
 
-_28.05.2017 03:01:42_
+_28.05.2017 05:25:43_
