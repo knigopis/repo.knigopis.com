@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>537</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>254</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>536</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>215</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
 
 
-_28.05.2017 11:10:00_
+_28.05.2017 13:44:06_
