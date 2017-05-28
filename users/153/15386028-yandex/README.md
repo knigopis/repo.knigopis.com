@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>31</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>32</sup>
 ---
 
 ## 2017
+
+### Звезда КЭЦ
+Александр Беляев
+> [2017-05-15] Короткий. Покорение космоса. Эксперименты на орбите. немного не связное повествование. 8 из 10.
+
 
 ### Союз пяти
 Алексей Толстой
