@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>32</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>33</sup>
 ---
 
 ## 2017
+
+### Звёздные корабли
+Иван Ефремов
+> [2017-05-23] Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.
+
 
 ### Звезда КЭЦ
 Александр Беляев

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
+    > Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.
+
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
     > Короткий. Покорение космоса. Эксперименты на орбите. немного не связное повествование. 8 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Монополисты решили купить весь мир по дешевке. Разрушили луну. Но люди перестали использовать деньги. И злодеи остались в дураках. 5 из 10.
 
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
-    > в процессе
 
 * Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
 
-* Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>32</sup> 
+[Derek777](users/153/15386028-yandex)<sup>33</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>536</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>215</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bsergik](users/108/108664297870274640182-google)<sup>1</sup> 
 
 
-_28.05.2017 05:32:07_
+_28.05.2017 05:38:32_

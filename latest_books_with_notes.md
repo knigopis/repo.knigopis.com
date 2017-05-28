@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
@@ -30,7 +31,6 @@
 * Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
 * Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
-* Кумир и поклонницы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>69</sup>
 
 
-_28.05.2017 05:32:07_
+_28.05.2017 05:38:32_
