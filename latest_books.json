@@ -1,4 +1,16 @@
 {
+    "YL52X7pKBz": {
+        "id": "YL52X7pKBz",
+        "title": "Заблудившийся автобус",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2017-05-28 03:01:41",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 536
+        }
+    },
     "npBLy8a_2g": {
         "id": "npBLy8a_2g",
         "title": "Трактат о ласках",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 190
-        }
-    },
-    "T46eyhbLaU": {
-        "id": "T46eyhbLaU",
-        "title": "Плоды земли",
-        "author": "Кнут Гамсун",
-        "notes": "Немного не дочитан",
-        "createdAt": "2017-05-27 19:08:32",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 189
         }
     }
 }

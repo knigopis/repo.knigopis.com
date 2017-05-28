@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 536,
+        "updatedAt": "2017-05-28 03:01:41"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -16,12 +22,6 @@
         "nickname": "alisa221001",
         "booksCount": 0,
         "updatedAt": "2017-05-27 16:30:01"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 535,
-        "updatedAt": "2017-05-27 14:33:38"
     },
     "7011021-vkontakte": {
         "id": "7011021-vkontakte",
