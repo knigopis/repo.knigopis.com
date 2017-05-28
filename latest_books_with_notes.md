@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
@@ -20,7 +21,6 @@
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
-* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>77</sup>
 * Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
 * Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
@@ -33,4 +33,4 @@
 * Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 
 
-_28.05.2017 05:38:32_
+_28.05.2017 11:10:00_

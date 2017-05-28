@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
+    > Дипломат
+
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
     > Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Покорение космоса. Эксперименты на орбите. немного не связное повествование. 8 из 10.
 
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
-    > Короткий. Монополисты решили купить весь мир по дешевке. Разрушили луну. Но люди перестали использовать деньги. И злодеи остались в дураках. 5 из 10.
 
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
 
-* Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>254</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>536</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
 [TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
-[Witcher](users/187/187698988-vkontakte)<sup>0</sup> 
 
 
-_28.05.2017 07:11:47_
+_28.05.2017 11:10:00_

@@ -1,4 +1,16 @@
 {
+    "rRCuMRTjdz": {
+        "id": "rRCuMRTjdz",
+        "title": "Рассказы",
+        "author": "Чехов Антон",
+        "notes": "Дипломат",
+        "createdAt": "2017-05-28 11:09:59",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 78
+        }
+    },
     "4OgB53IuZM": {
         "id": "4OgB53IuZM",
         "title": "Звёздные корабли",
@@ -225,18 +237,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 98
-        }
-    },
-    "akIsLXdEZg": {
-        "id": "akIsLXdEZg",
-        "title": "Рассказы",
-        "author": "Харви Уильям",
-        "notes": "Августовская жара\nЧерез болота",
-        "createdAt": "2017-05-18 10:38:57",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 77
         }
     },
     "Fm4D3ZgCuU": {
