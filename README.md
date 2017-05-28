@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
+    > Первая часть книги. Написано великолепным языком. Взглянул на этот роман по иному, хотя читал его укороченную детскую версию. Дон Кихот и его оруженосец - образ всего человечества. Мечтательного и при этом рассудительного и расчетливого.
+
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
     > Дипломат
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.
 
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
-    > Короткий. Покорение космоса. Эксперименты на орбите. немного не связное повествование. 8 из 10.
 
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
 
-* Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>537</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>254</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 [Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
-[TryKote](users/145/145737651-vkontakte)<sup>15</sup> 
 
 
-_28.05.2017 13:44:06_
+_28.05.2017 14:04:27_

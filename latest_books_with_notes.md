@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
 * Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
 * Рассказы об отце Брауне ~ [Apprentice ](users/528/52821952-vkontakte)<sup>71</sup>
-* Дневники Принцессы ~ [Apprentice ](users/528/52821952-vkontakte)<sup>70</sup>
 
 
-_28.05.2017 11:10:00_
+_28.05.2017 14:04:27_

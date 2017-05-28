@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 10,
+        "updatedAt": "2017-05-28 14:04:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Карина41253",
         "booksCount": 0,
         "updatedAt": "2017-05-20 07:26:00"
-    },
-    "145737651-vkontakte": {
-        "id": "145737651-vkontakte",
-        "nickname": "TryKote",
-        "booksCount": 15,
-        "updatedAt": "2017-05-19 20:27:42"
     }
 }
