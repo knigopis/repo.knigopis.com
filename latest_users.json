@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 255,
+        "updatedAt": "2017-05-29 04:19:57"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -22,12 +28,6 @@
         "nickname": "abzagir4ik",
         "booksCount": 78,
         "updatedAt": "2017-05-28 11:09:59"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 254,
-        "updatedAt": "2017-05-28 07:11:47"
     },
     "15386028-yandex": {
         "id": "15386028-yandex",
