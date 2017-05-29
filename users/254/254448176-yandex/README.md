@@ -1,7 +1,12 @@
-# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>1</sup>
+# List of books read by [Len4e91](http://openid.yandex.ru/Len4e91/)<sup>2</sup>
 ---
 
 ## 2017
+
+### Путь к здоровью, или как победить хронические болезни
+Роберт Арушанов
+> [2017-01-27] 
+
 
 ### Один день из жизни Ивана Денисовича
 А.И. Солженицин
