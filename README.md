@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kostrov](users/109/109099938050992847243-google)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>539</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
-[rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 
 
-_29.05.2017 18:03:08_
+_29.05.2017 20:16:06_
