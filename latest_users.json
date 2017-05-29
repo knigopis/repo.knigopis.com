@@ -1,4 +1,10 @@
 {
+    "109099938050992847243-google": {
+        "id": "109099938050992847243-google",
+        "nickname": "Kostrov",
+        "booksCount": 0,
+        "updatedAt": "2017-05-29 20:16:05"
+    },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
         "nickname": "creepy_g",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 38,
         "updatedAt": "2017-05-21 11:20:01"
-    },
-    "109765015536169874317-google": {
-        "id": "109765015536169874317-google",
-        "nickname": "rinata",
-        "booksCount": 0,
-        "updatedAt": "2017-05-20 16:55:58"
     }
 }
