@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Len4e91](users/254/254448176-yandex)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>255</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>216</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
-[Карина41253](users/134/134130628-vkontakte)<sup>0</sup> 
 
 
-_29.05.2017 04:19:57_
+_29.05.2017 07:54:00_

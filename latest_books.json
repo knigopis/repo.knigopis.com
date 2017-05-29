@@ -1,4 +1,16 @@
 {
+    "OQaSGhiIXd": {
+        "id": "OQaSGhiIXd",
+        "title": "Один день из жизни Ивана Денисовича",
+        "author": "А.И. Солженицин",
+        "notes": "",
+        "createdAt": "2017-05-29 07:54:00",
+        "user": {
+            "id": "254448176-yandex",
+            "nickname": "Len4e91",
+            "booksCount": 1
+        }
+    },
     "HsGXqfiyeN": {
         "id": "HsGXqfiyeN",
         "title": "13",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 200
-        }
-    },
-    "XaUjfXhAGG": {
-        "id": "XaUjfXhAGG",
-        "title": "Замок",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-05-27 19:26:15",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 199
         }
     }
 }
