@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
+    > Отличный роман о разложении скорее духовном, нежели физическом. Это основной лейтмотив. Есть и один из побочных - любовный. Хоть ему не столь много времени уделяется, меня он зацепил. Можно подумать о том, что даже среди разложения возможна и существует, пускай и трагичная, но любовь.
+
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
     > Первая часть книги. Написано великолепным языком. Взглянул на этот роман по иному, хотя читал его укороченную детскую версию. Дон Кихот и его оруженосец - образ всего человечества. Мечтательного и при этом рассудительного и расчетливого.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Дипломат
 
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
-    > Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.
 
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
 
-* Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[creepy_g](users/747/74743045-vkontakte)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>539</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>255</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>38</sup> 
 [rinata](users/109/109765015536169874317-google)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>25</sup> 
 
 
-_29.05.2017 08:41:42_
+_29.05.2017 18:03:08_

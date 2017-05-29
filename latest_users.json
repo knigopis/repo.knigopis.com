@@ -1,4 +1,10 @@
 {
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 115,
+        "updatedAt": "2017-05-29 18:03:07"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "rinata",
         "booksCount": 0,
         "updatedAt": "2017-05-20 16:55:58"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 25,
-        "updatedAt": "2017-05-20 13:49:11"
     }
 }
