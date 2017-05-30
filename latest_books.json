@@ -1,4 +1,16 @@
 {
+    "ZElVN5U2CI": {
+        "id": "ZElVN5U2CI",
+        "title": "Виноваты звезды",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2017-05-30 17:55:52",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 4
+        }
+    },
     "j-qeFKiag0": {
         "id": "j-qeFKiag0",
         "title": "Бумажные города",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 211
-        }
-    },
-    "Lu9dqkmYcY": {
-        "id": "Lu9dqkmYcY",
-        "title": "Сумеречный дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-05-27 20:06:16",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 210
         }
     }
 }
