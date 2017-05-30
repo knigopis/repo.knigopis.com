@@ -1,4 +1,16 @@
 {
+    "j-qeFKiag0": {
+        "id": "j-qeFKiag0",
+        "title": "Бумажные города",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2017-05-30 17:55:23",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 3
+        }
+    },
     "9LPLLNSpTr": {
         "id": "9LPLLNSpTr",
         "title": "В поисках Аляски",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 210
-        }
-    },
-    "fuJOWjznvP": {
-        "id": "fuJOWjznvP",
-        "title": "Дневной дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "",
-        "createdAt": "2017-05-27 20:05:55",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 209
         }
     }
 }
