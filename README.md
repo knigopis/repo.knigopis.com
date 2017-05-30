@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ksuzn](users/118/1187171844676492-facebook)<sup>12</sup> 
+[ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 
 
-_30.05.2017 18:05:55_
+_30.05.2017 18:06:23_

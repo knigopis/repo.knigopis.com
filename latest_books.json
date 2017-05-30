@@ -1,4 +1,16 @@
 {
+    "b_BDIUQAq9": {
+        "id": "b_BDIUQAq9",
+        "title": "Руководство астронавта по жизни на Земле",
+        "author": "Хэдфилд Кристофер",
+        "notes": "",
+        "createdAt": "2017-05-30 18:06:23",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 13
+        }
+    },
     "ghuAZjUWKX": {
         "id": "ghuAZjUWKX",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 31
-        }
-    },
-    "YL52X7pKBz": {
-        "id": "YL52X7pKBz",
-        "title": "Заблудившийся автобус",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2017-05-28 03:01:41",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 536
         }
     }
 }

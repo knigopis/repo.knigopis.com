@@ -1,7 +1,11 @@
-# List of books read by [ksuzn](https://www.facebook.com/app_scoped_user_id/1187171844676492/)<sup>12</sup>
+# List of books read by [ksuzn](https://www.facebook.com/app_scoped_user_id/1187171844676492/)<sup>13</sup>
 ---
 
 ## 2017
+
+### Руководство астронавта по жизни на Земле
+Хэдфилд Кристофер
+
 
 ### Три товарища
 Ремарк
