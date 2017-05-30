@@ -1,4 +1,16 @@
 {
+    "ERVqi0sh5k": {
+        "id": "ERVqi0sh5k",
+        "title": "Мы",
+        "author": "Замятин",
+        "notes": "",
+        "createdAt": "2017-05-30 17:56:21",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 6
+        }
+    },
     "vW55xxrvY0": {
         "id": "vW55xxrvY0",
         "title": "Мастер и маргарита",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 210
-        }
-    },
-    "nsA46DxSvG": {
-        "id": "nsA46DxSvG",
-        "title": "Про Федота-стрельца, удалого молодца",
-        "author": "Леонид Филатов",
-        "notes": "",
-        "createdAt": "2017-05-27 22:17:56",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 209
         }
     }
 }
