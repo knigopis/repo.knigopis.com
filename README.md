@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
+    > А я думала,  что он захочет "вернуться назад"
+
 * Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
     > Отличный роман о разложении скорее духовном, нежели физическом. Это основной лейтмотив. Есть и один из побочных - любовный. Хоть ему не столь много времени уделяется, меня он зацепил. Можно подумать о том, что даже среди разложения возможна и существует, пускай и трагичная, но любовь.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая часть книги. Написано великолепным языком. Взглянул на этот роман по иному, хотя читал его укороченную детскую версию. Дон Кихот и его оруженосец - образ всего человечества. Мечтательного и при этом рассудительного и расчетливого.
 
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
-    > Дипломат
 
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
 
-* Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 [Kostrov](users/109/109099938050992847243-google)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>47</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
 
 
-_30.05.2017 07:29:53_
+_30.05.2017 17:41:39_

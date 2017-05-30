@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 17,
+        "updatedAt": "2017-05-30 17:41:39"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -160,12 +166,6 @@
         "nickname": "sonics",
         "booksCount": 47,
         "updatedAt": "2017-05-22 22:12:56"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 16,
-        "updatedAt": "2017-05-22 20:41:41"
     },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
 * Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
@@ -30,7 +31,6 @@
 * Собачьи истории ~ [Йолант](users/104/104690883692185089260-google)<sup>162</sup>
 * Миллион приключений ~ [Йолант](users/104/104690883692185089260-google)<sup>161</sup>
 * Повелитель мух ~ [Chiffi](users/105/105831994080785626680-google)<sup>14</sup>
-* Над пропастью во ржи ~ [Eji_tyan](users/235/2352103981-twitter)<sup>28</sup>
 
 
-_29.05.2017 18:03:08_
+_30.05.2017 17:41:39_
