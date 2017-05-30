@@ -1,4 +1,16 @@
 {
+    "BFVSQOOktv": {
+        "id": "BFVSQOOktv",
+        "title": "Код да Винчи",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-05-30 17:57:38",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 7
+        }
+    },
     "ERVqi0sh5k": {
         "id": "ERVqi0sh5k",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 211
-        }
-    },
-    "TR_sXiCI1Z": {
-        "id": "TR_sXiCI1Z",
-        "title": "Рикки-Тикки-Тави",
-        "author": "Редьярд Киплинг",
-        "notes": "",
-        "createdAt": "2017-05-27 22:25:19",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 210
         }
     }
 }
