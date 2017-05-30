@@ -1,4 +1,10 @@
 {
+    "1187171844676492-facebook": {
+        "id": "1187171844676492-facebook",
+        "nickname": "ksuzn",
+        "booksCount": 0,
+        "updatedAt": "2017-05-30 17:51:04"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Койнов Александр",
         "booksCount": 22,
         "updatedAt": "2017-05-22 17:40:47"
-    },
-    "429430862-vkontakte": {
-        "id": "429430862-vkontakte",
-        "nickname": "Violetti Musta",
-        "booksCount": 0,
-        "updatedAt": "2017-05-22 14:44:50"
     }
 }
