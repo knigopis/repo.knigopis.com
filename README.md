@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>47</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 
 
-_30.05.2017 18:06:23_
+_30.05.2017 20:02:57_
