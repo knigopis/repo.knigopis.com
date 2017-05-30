@@ -1,4 +1,16 @@
 {
+    "9LPLLNSpTr": {
+        "id": "9LPLLNSpTr",
+        "title": "В поисках Аляски",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2017-05-30 17:54:48",
+        "user": {
+            "id": "1187171844676492-facebook",
+            "nickname": "ksuzn",
+            "booksCount": 2
+        }
+    },
     "iuv0_hvE6c": {
         "id": "iuv0_hvE6c",
         "title": "До встречи с тобой",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 209
-        }
-    },
-    "Qmfd1AL39F": {
-        "id": "Qmfd1AL39F",
-        "title": "",
-        "author": "Сере",
-        "notes": "",
-        "createdAt": "2017-05-27 20:04:03",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 208
         }
     }
 }
