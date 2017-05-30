@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 [Kostrov](users/109/109099938050992847243-google)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>115</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>16</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup> 
 [Violetti Musta](users/429/429430862-vkontakte)<sup>0</sup> 
-[tregubov84](users/421/421477925-vkontakte)<sup>0</sup> 
 
 
-_29.05.2017 20:53:35_
+_30.05.2017 07:29:53_

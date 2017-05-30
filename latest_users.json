@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 51,
+        "updatedAt": "2017-05-30 07:29:53"
+    },
     "28594123-vkontakte": {
         "id": "28594123-vkontakte",
         "nickname": "sasha_rowanberry",
@@ -172,11 +178,5 @@
         "nickname": "Violetti Musta",
         "booksCount": 0,
         "updatedAt": "2017-05-22 14:44:50"
-    },
-    "421477925-vkontakte": {
-        "id": "421477925-vkontakte",
-        "nickname": "tregubov84",
-        "booksCount": 0,
-        "updatedAt": "2017-05-22 07:36:20"
     }
 }
