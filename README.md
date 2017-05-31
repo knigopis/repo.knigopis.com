@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
+    > фыв
+
 * Искусство спора: о теории и практике спора ~ [lucius](users/838/83820536-yandex)<sup>140</sup>
     > Замечательная книга. Достаточно подробно рассмотрен спор с разных сторон. Показано как правильно доказывать свою точку зрения, как нет. Нужен ли спор или достаточно просто определиться с понятиями. Рассмотрены честные и не не честные методы спора.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > А я думала,  что он захочет "вернуться назад"
 
 * Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
-    > Отличный роман о разложении скорее духовном, нежели физическом. Это основной лейтмотив. Есть и один из побочных - любовный. Хоть ему не столь много времени уделяется, меня он зацепил. Можно подумать о том, что даже среди разложения возможна и существует, пускай и трагичная, но любовь.
 
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
 
-* Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/838/83820536-yandex)<sup>140</sup> 
+[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 
 
-_31.05.2017 01:21:40_
+_31.05.2017 01:27:54_
