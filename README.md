@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
+[lucius](users/838/83820536-yandex)<sup>140</sup> 
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 
 
-_31.05.2017 01:27:54_
+_31.05.2017 01:31:27_
