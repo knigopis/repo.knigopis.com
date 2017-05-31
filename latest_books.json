@@ -1,4 +1,16 @@
 {
+    "ao5o_Cdgvv": {
+        "id": "ao5o_Cdgvv",
+        "title": "Любовь во время чумы",
+        "author": "Габриэль Маркес",
+        "notes": "",
+        "createdAt": "2017-05-31 07:41:50",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 99
+        }
+    },
     "9wDV1Fb9iI": {
         "id": "9wDV1Fb9iI",
         "title": "еуые",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 254
-        }
-    },
-    "4OgB53IuZM": {
-        "id": "4OgB53IuZM",
-        "title": "Звёздные корабли",
-        "author": "Иван Ефремов",
-        "notes": "Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.",
-        "createdAt": "2017-05-28 05:38:32",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 33
         }
     }
 }

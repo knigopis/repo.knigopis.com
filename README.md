@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>99</sup> 
 [lucius](users/838/83820536-yandex)<sup>140</sup> 
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
 [killalltu](users/118/1188128011316384-facebook)<sup>1</sup> 
 [Janet](users/205/20565064-vkontakte)<sup>533</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>98</sup> 
 
 
-_31.05.2017 01:31:27_
+_31.05.2017 07:41:50_
