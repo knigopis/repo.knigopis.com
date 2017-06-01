@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
 * Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
 * еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
@@ -30,7 +31,6 @@
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
 * Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
 * Золотая галера ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>75</sup>
-* Синие линзы ~ [Chiffi](users/105/105831994080785626680-google)<sup>15</sup>
 
 
-_31.05.2017 16:32:10_
+_01.06.2017 07:14:51_

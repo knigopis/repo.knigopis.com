@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 53,
+        "updatedAt": "2017-06-01 07:14:51"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "ibuzinezz",
         "booksCount": 1,
         "updatedAt": "2017-05-23 17:22:54"
-    },
-    "1188128011316384-facebook": {
-        "id": "1188128011316384-facebook",
-        "nickname": "killalltu",
-        "booksCount": 1,
-        "updatedAt": "2017-05-23 10:44:54"
     }
 }
