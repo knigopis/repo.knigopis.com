@@ -1,4 +1,10 @@
 {
+    "100000663835437-facebook": {
+        "id": "100000663835437-facebook",
+        "nickname": "krutman",
+        "booksCount": 0,
+        "updatedAt": "2017-06-01 08:57:11"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 71,
         "updatedAt": "2017-05-24 04:12:31"
-    },
-    "430126578-vkontakte": {
-        "id": "430126578-vkontakte",
-        "nickname": "ibuzinezz",
-        "booksCount": 1,
-        "updatedAt": "2017-05-23 17:22:54"
     }
 }
