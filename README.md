@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[krutman](users/100/100000663835437-facebook)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>112</sup> 
 [rNix](users/115/115622071-twitter)<sup>53</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>217</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup> 
-[ibuzinezz](users/430/430126578-vkontakte)<sup>1</sup> 
 
 
-_01.06.2017 08:19:23_
+_01.06.2017 08:57:13_
