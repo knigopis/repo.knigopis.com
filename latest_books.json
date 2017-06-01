@@ -1,4 +1,16 @@
 {
+    "ddidbwLN1O": {
+        "id": "ddidbwLN1O",
+        "title": "Совладание: руководство по выживанию для людей с синдромом Аспергера",
+        "author": "Марк Сегар",
+        "notes": "",
+        "createdAt": "2017-06-01 13:58:50",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 5
+        }
+    },
     "x-GZteWR7C": {
         "id": "x-GZteWR7C",
         "title": "Антигона",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 3
-        }
-    },
-    "LmLqpwZpiO": {
-        "id": "LmLqpwZpiO",
-        "title": "Путь к здоровью, или как победить хронические болезни",
-        "author": "Роберт Арушанов",
-        "notes": "",
-        "createdAt": "2017-05-29 08:36:37",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 6
         }
     }
 }

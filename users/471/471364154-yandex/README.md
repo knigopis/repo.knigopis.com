@@ -1,7 +1,11 @@
-# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>4</sup>
+# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>5</sup>
 ---
 
 ## 2017
+
+### Совладание: руководство по выживанию для людей с синдромом Аспергера
+Марк Сегар
+
 
 ### Автостопом по галактике (сборник)
 Дуглас Адамс
