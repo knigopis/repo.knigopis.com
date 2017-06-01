@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 112,
+        "updatedAt": "2017-06-01 08:19:23"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -10,12 +16,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 217,
         "updatedAt": "2017-05-31 23:27:01"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 111,
-        "updatedAt": "2017-05-31 16:32:10"
     },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",

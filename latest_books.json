@@ -1,4 +1,16 @@
 {
+    "DMgiUdtiWh": {
+        "id": "DMgiUdtiWh",
+        "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
+        "author": "Клайв Льюис",
+        "notes": "Часть 2",
+        "createdAt": "2017-06-01 08:19:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 112
+        }
+    },
     "IyRLLGOOyW": {
         "id": "IyRLLGOOyW",
         "title": "Автостопом по галактике (роман)",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 5
-        }
-    },
-    "HsGXqfiyeN": {
-        "id": "HsGXqfiyeN",
-        "title": "13",
-        "author": "Александр Блок",
-        "notes": "",
-        "createdAt": "2017-05-29 04:19:57",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 255
         }
     }
 }

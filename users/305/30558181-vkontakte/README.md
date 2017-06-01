@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>111</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>112</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Лев, колдунья и платяной шкаф
+Клайв Льюис
+> Часть 2
+
 
 ### Хроники Нарнии: Племянник чародея
 Клайв Льюис

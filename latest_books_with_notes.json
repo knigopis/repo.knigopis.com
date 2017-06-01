@@ -1,4 +1,16 @@
 {
+    "DMgiUdtiWh": {
+        "id": "DMgiUdtiWh",
+        "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
+        "author": "Клайв Льюис",
+        "notes": "Часть 2",
+        "createdAt": "2017-06-01 08:19:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 112
+        }
+    },
     "IyRLLGOOyW": {
         "id": "IyRLLGOOyW",
         "title": "Автостопом по галактике (роман)",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 76
-        }
-    },
-    "J3qtMdFdeM": {
-        "id": "J3qtMdFdeM",
-        "title": "Золотая галера",
-        "author": "Дукай Яцек",
-        "notes": "Фантастический рассказ на тему религии и конца света - Тунгала",
-        "createdAt": "2017-05-18 10:30:19",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 75
         }
     }
 }
