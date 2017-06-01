@@ -1,4 +1,16 @@
 {
+    "x-GZteWR7C": {
+        "id": "x-GZteWR7C",
+        "title": "Антигона",
+        "author": "Софокл",
+        "notes": "",
+        "createdAt": "2017-06-01 13:24:27",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 218
+        }
+    },
     "DMgiUdtiWh": {
         "id": "DMgiUdtiWh",
         "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 6
-        }
-    },
-    "ZcTdqki0cw": {
-        "id": "ZcTdqki0cw",
-        "title": "Один день из жизни Ивана Денисовича",
-        "author": "А.И. Солженицын",
-        "notes": "",
-        "createdAt": "2017-05-29 08:35:56",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 5
         }
     }
 }
