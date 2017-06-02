@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
+    > Совершенно замечательные, душевные и лаконичные путевые зарисовки по городам и странам :)
+    > 
+    > в процессе
+    > 
+    > http://www.ozon.ru/context/detail/id/7280348/
+
 * Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
     > в процессе
     > 
@@ -14,7 +21,6 @@ Do not use pull requests to make changes here.
     > Часть 2
 
 * Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
-    > Прочитал лишь первую книгу из серии. Юмор мне показался похожим на Пратчетта, разве что тема вместо фентези - научная фантастика. Здесь есть шутки о прокладывании межзвездных магистралей, невероятностном двигателе, о компьютере, который создан, чтобы ответить на Главный вопрос. В целом книгу я бы не назвал очень смешной, но местами она интересная.
 
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
 
@@ -28,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
 
-* Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>5</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>218</sup> 
@@ -67,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 
 
-_02.06.2017 09:17:07_
+_02.06.2017 09:19:11_

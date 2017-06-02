@@ -1,4 +1,16 @@
 {
+    "GkA1auJEUP": {
+        "id": "GkA1auJEUP",
+        "title": "Мир глазами блоггера",
+        "author": "",
+        "notes": "Совершенно замечательные, душевные и лаконичные путевые зарисовки по городам и странам :)\n\nв процессе\n\nhttp://www.ozon.ru/context/detail/id/7280348/",
+        "createdAt": "2017-06-02 09:19:11",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 102
+        }
+    },
     "BrvrGdK0mH": {
         "id": "BrvrGdK0mH",
         "title": "Стратегия непрямых действий",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 105
-        }
-    },
-    "NOam8qG6GF": {
-        "id": "NOam8qG6GF",
-        "title": "Эффект Мадонны",
-        "author": "Орен Харари",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/6961924/",
-        "createdAt": "2017-05-18 11:41:26",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 98
         }
     }
 }
