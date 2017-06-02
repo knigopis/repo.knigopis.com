@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/18431030/
+
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
     > Часть 2
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Прочитал лишь первую книгу из серии. Юмор мне показался похожим на Пратчетта, разве что тема вместо фентези - научная фантастика. Здесь есть шутки о прокладывании межзвездных магистралей, невероятностном двигателе, о компьютере, который создан, чтобы ответить на Главный вопрос. В целом книгу я бы не назвал очень смешной, но местами она интересная.
 
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
-    > Часть 1
 
 * Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
 
-* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>5</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>218</sup> 
@@ -57,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 
 
-_02.06.2017 09:14:12_
+_02.06.2017 09:17:07_

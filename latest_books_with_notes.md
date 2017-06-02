@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
 * Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
 * Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
 * Эффект Мадонны ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>98</sup>
-* Дюна ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>76</sup>
 
 
-_01.06.2017 08:19:23_
+_02.06.2017 09:17:07_

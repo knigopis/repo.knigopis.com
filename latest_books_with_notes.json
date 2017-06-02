@@ -1,4 +1,16 @@
 {
+    "BrvrGdK0mH": {
+        "id": "BrvrGdK0mH",
+        "title": "Стратегия непрямых действий",
+        "author": "Бэзил Лиддел Гарт",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/18431030/",
+        "createdAt": "2017-06-02 09:17:07",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 101
+        }
+    },
     "DMgiUdtiWh": {
         "id": "DMgiUdtiWh",
         "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 98
-        }
-    },
-    "Fm4D3ZgCuU": {
-        "id": "Fm4D3ZgCuU",
-        "title": "Дюна",
-        "author": "Кинг Стивен",
-        "notes": "Мистический рассказ - Тунгала",
-        "createdAt": "2017-05-18 10:36:42",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 76
         }
     }
 }

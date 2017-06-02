@@ -1,4 +1,16 @@
 {
+    "BrvrGdK0mH": {
+        "id": "BrvrGdK0mH",
+        "title": "Стратегия непрямых действий",
+        "author": "Бэзил Лиддел Гарт",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/18431030/",
+        "createdAt": "2017-06-02 09:17:07",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 101
+        }
+    },
     "RhNUMRxPkl": {
         "id": "RhNUMRxPkl",
         "title": "Сердце тьмы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 538
-        }
-    },
-    "jQyPB6_mTi": {
-        "id": "jQyPB6_mTi",
-        "title": "Никогде",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-05-29 08:38:13",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 4
         }
     }
 }

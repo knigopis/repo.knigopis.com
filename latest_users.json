@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 101,
+        "updatedAt": "2017-06-02 09:17:07"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -142,12 +148,6 @@
         "nickname": "gribanovsv",
         "booksCount": 1,
         "updatedAt": "2017-05-26 17:12:04"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 100,
-        "updatedAt": "2017-05-26 09:30:53"
     },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
