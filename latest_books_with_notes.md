@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
 * Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
 * Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
 * Коты-Воители: Восход солнца ~ [EsterHani](users/305/30558181-vkontakte)<sup>106</sup>
-* Коты-Воители: Длинные тени ~ [EsterHani](users/305/30558181-vkontakte)<sup>105</sup>
 
 
-_02.06.2017 09:19:11_
+_02.06.2017 13:22:15_

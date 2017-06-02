@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
+    > Очень интересно. Советую к прочтению.
+
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
     > Совершенно замечательные, душевные и лаконичные путевые зарисовки по городам и странам :)
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/18431030/
 
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
-    > Часть 2
 
 * Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
 
-* Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>5</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>255</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 
 
-_02.06.2017 09:19:11_
+_02.06.2017 13:22:15_

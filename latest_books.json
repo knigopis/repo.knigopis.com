@@ -1,4 +1,16 @@
 {
+    "s9q9MpuvF6": {
+        "id": "s9q9MpuvF6",
+        "title": "Свечка",
+        "author": "Залотуха Валерий",
+        "notes": "Очень интересно. Советую к прочтению.",
+        "createdAt": "2017-06-02 13:22:15",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 79
+        }
+    },
     "GkA1auJEUP": {
         "id": "GkA1auJEUP",
         "title": "Мир глазами блоггера",
@@ -345,18 +357,6 @@
             "id": "74743045-vkontakte",
             "nickname": "creepy_g",
             "booksCount": 115
-        }
-    },
-    "hSF0vc5MTI": {
-        "id": "hSF0vc5MTI",
-        "title": "Библиотека душ",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2017-05-29 08:41:41",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 539
         }
     }
 }
