@@ -1,4 +1,16 @@
 {
+    "RhNUMRxPkl": {
+        "id": "RhNUMRxPkl",
+        "title": "Сердце тьмы",
+        "author": "Джозеф Конрад",
+        "notes": "",
+        "createdAt": "2017-06-02 09:14:12",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 100
+        }
+    },
     "ddidbwLN1O": {
         "id": "ddidbwLN1O",
         "title": "Совладание: руководство по выживанию для людей с синдромом Аспергера",
@@ -345,18 +357,6 @@
             "id": "254448176-yandex",
             "nickname": "Len4e91",
             "booksCount": 4
-        }
-    },
-    "xOfyeSm1G4": {
-        "id": "xOfyeSm1G4",
-        "title": "До встречи с тобой",
-        "author": "Джоджо Мойес",
-        "notes": "",
-        "createdAt": "2017-05-29 08:37:55",
-        "user": {
-            "id": "254448176-yandex",
-            "nickname": "Len4e91",
-            "booksCount": 3
         }
     }
 }
