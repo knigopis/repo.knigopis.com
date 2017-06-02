@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
+    > Двенадцатая книга цикла "Колесо времени". Книга была издана после смерти Джордана, по его черновикам. Боялась что повествование будет отличаться от предыдущих книг и по слогу, и по качеству. Но Сандерсон прекрасно справился с наследием Роберта Джордана. Читается на одном дыхании.
+
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
     > Очень интересно. Советую к прочтению.
 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > http://www.ozon.ru/context/detail/id/7280348/
 
 * Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/18431030/
 
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Искусство спора: о теории и практике спора ~ [lucius](users/838/83820536-yandex)<sup>140</sup>
 
-* Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
@@ -68,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>0</sup> 
 
 
-_02.06.2017 13:22:15_
+_02.06.2017 18:19:37_
