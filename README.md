@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>256</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [creepy_g](users/747/74743045-vkontakte)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>539</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>255</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 
 
-_03.06.2017 09:36:12_
+_03.06.2017 13:37:53_
