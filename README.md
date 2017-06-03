@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>143</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 
 
-_03.06.2017 08:40:18_
+_03.06.2017 09:36:12_
