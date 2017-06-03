@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[aberdoch](users/457/457053297961317-facebook)<sup>0</sup> 
+[aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 
 
-_03.06.2017 08:39:35_
+_03.06.2017 08:40:18_

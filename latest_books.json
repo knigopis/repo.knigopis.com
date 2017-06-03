@@ -1,4 +1,16 @@
 {
+    "g5kSK-uPgF": {
+        "id": "g5kSK-uPgF",
+        "title": "Элексир дьявола",
+        "author": "Гофман",
+        "notes": "",
+        "createdAt": "2017-06-03 08:40:18",
+        "user": {
+            "id": "457053297961317-facebook",
+            "nickname": "aberdoch",
+            "booksCount": 1
+        }
+    },
     "W1f2ZjwEMo": {
         "id": "W1f2ZjwEMo",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 1
-        }
-    },
-    "cAnZeJppA5": {
-        "id": "cAnZeJppA5",
-        "title": "Цветы для Элджерона",
-        "author": "Киз Дэниел",
-        "notes": "А я думала,  что он захочет \"вернуться назад\"",
-        "createdAt": "2017-05-30 17:41:39",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 17
         }
     }
 }
