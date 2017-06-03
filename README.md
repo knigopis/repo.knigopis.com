@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lesia](users/148/1482702765127959-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup> 
 [Krozy](users/100/100001728431584-facebook)<sup>1</sup> 
-[antasiar](users/688/68827372-vkontakte)<sup>110</sup> 
 
 
-_02.06.2017 18:19:37_
+_03.06.2017 08:02:35_
