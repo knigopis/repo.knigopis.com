@@ -1,4 +1,10 @@
 {
+    "457053297961317-facebook": {
+        "id": "457053297961317-facebook",
+        "nickname": "aberdoch",
+        "booksCount": 0,
+        "updatedAt": "2017-06-03 08:39:34"
+    },
     "1482702765127959-facebook": {
         "id": "1482702765127959-facebook",
         "nickname": "Lesia",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 45,
         "updatedAt": "2017-05-25 19:13:42"
-    },
-    "100001728431584-facebook": {
-        "id": "100001728431584-facebook",
-        "nickname": "Krozy",
-        "booksCount": 1,
-        "updatedAt": "2017-05-25 17:08:57"
     }
 }
