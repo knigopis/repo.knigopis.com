@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Proxvost](users/102/102171422-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>256</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 [alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>73</sup> 
 
 
-_03.06.2017 13:37:53_
+_03.06.2017 16:51:14_
