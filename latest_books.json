@@ -1,4 +1,16 @@
 {
+    "8yM3Lah-Dm": {
+        "id": "8yM3Lah-Dm",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-06-04 12:38:37",
+        "user": {
+            "id": "104502610850806942588-google",
+            "nickname": "Zhi",
+            "booksCount": 1
+        }
+    },
     "cYno0YuTNQ": {
         "id": "cYno0YuTNQ",
         "title": "Случай Портного",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 6
-        }
-    },
-    "vW55xxrvY0": {
-        "id": "vW55xxrvY0",
-        "title": "Мастер и маргарита",
-        "author": "Булгаков",
-        "notes": "",
-        "createdAt": "2017-05-30 17:56:08",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 5
         }
     }
 }
