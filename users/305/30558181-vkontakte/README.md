@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>112</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>113</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Конь и его мальчик
+Клайв Льюис
+> Часть 3
+
 
 ### Хроники Нарнии: Лев, колдунья и платяной шкаф
 Клайв Льюис

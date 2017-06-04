@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
@@ -30,7 +31,6 @@
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
 * Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
-* Китаец ~ [exulted](users/100/100599204551896265722-google)<sup>38</sup>
 
 
-_02.06.2017 18:19:37_
+_04.06.2017 18:38:06_

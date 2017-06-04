@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
+    > Часть 3
+
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
     > Двенадцатая книга цикла "Колесо времени". Книга была издана после смерти Джордана, по его черновикам. Боялась что повествование будет отличаться от предыдущих книг и по слогу, и по качеству. Но Сандерсон прекрасно справился с наследием Роберта Джордана. Читается на одном дыхании.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Очень интересно. Советую к прочтению.
 
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
-    > Совершенно замечательные, душевные и лаконичные путевые зарисовки по городам и странам :)
-    > 
-    > в процессе
-    > 
-    > http://www.ozon.ru/context/detail/id/7280348/
 
 * Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 
-* Искусство спора: о теории и практике спора ~ [lucius](users/838/83820536-yandex)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>113</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>116</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
@@ -53,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>5</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>218</sup> 
 [krutman](users/100/100000663835437-facebook)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>112</sup> 
 [rNix](users/115/115622071-twitter)<sup>53</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>140</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 
 
-_04.06.2017 17:23:26_
+_04.06.2017 18:38:06_

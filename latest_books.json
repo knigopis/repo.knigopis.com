@@ -1,4 +1,16 @@
 {
+    "PwKnVgFfK8": {
+        "id": "PwKnVgFfK8",
+        "title": "Хроники Нарнии: Конь и его мальчик",
+        "author": "Клайв Льюис",
+        "notes": "Часть 3",
+        "createdAt": "2017-06-04 18:38:06",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 113
+        }
+    },
     "aM8Ejo4fiC": {
         "id": "aM8Ejo4fiC",
         "title": "Книга демона",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 9
-        }
-    },
-    "N8E614rNmp": {
-        "id": "N8E614rNmp",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2017-05-30 18:02:14",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 8
         }
     }
 }
