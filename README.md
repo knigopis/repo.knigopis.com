@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>540</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>256</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 [Kostrov](users/109/109099938050992847243-google)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>115</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>539</sup> 
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gribanovsv](users/701/7011021-vkontakte)<sup>1</sup> 
 
 
-_03.06.2017 20:41:27_
+_04.06.2017 10:02:38_

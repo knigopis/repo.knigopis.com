@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 540,
+        "updatedAt": "2017-06-04 10:02:38"
+    },
     "102171422-vkontakte": {
         "id": "102171422-vkontakte",
         "nickname": "Proxvost",
@@ -136,12 +142,6 @@
         "nickname": "creepy_g",
         "booksCount": 115,
         "updatedAt": "2017-05-29 18:03:07"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 539,
-        "updatedAt": "2017-05-29 08:41:41"
     },
     "254448176-yandex": {
         "id": "254448176-yandex",
