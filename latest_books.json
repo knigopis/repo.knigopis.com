@@ -1,4 +1,16 @@
 {
+    "aM8Ejo4fiC": {
+        "id": "aM8Ejo4fiC",
+        "title": "Книга демона",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2017-06-04 17:23:26",
+        "user": {
+            "id": "74743045-vkontakte",
+            "nickname": "creepy_g",
+            "booksCount": 116
+        }
+    },
     "fwOtCyhqWR": {
         "id": "fwOtCyhqWR",
         "title": "99 франков",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 8
-        }
-    },
-    "BFVSQOOktv": {
-        "id": "BFVSQOOktv",
-        "title": "Код да Винчи",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-05-30 17:57:38",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 7
         }
     }
 }

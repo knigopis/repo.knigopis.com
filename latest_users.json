@@ -1,4 +1,10 @@
 {
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 116,
+        "updatedAt": "2017-06-04 17:23:26"
+    },
     "4609218-vkontakte": {
         "id": "4609218-vkontakte",
         "nickname": "lana_1312",
@@ -148,12 +154,6 @@
         "nickname": "Kostrov",
         "booksCount": 0,
         "updatedAt": "2017-05-29 20:16:05"
-    },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 115,
-        "updatedAt": "2017-05-29 18:03:07"
     },
     "254448176-yandex": {
         "id": "254448176-yandex",
