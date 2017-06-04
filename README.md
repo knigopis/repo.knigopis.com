@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lana_1312](users/460/4609218-vkontakte)<sup>0</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>540</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>2</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
 [p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
-[alisa221001](users/172/172405580-vkontakte)<sup>0</sup> 
 
 
-_04.06.2017 12:38:37_
+_04.06.2017 15:50:50_
