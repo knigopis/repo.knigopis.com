@@ -1,4 +1,10 @@
 {
+    "219471728-vkontakte": {
+        "id": "219471728-vkontakte",
+        "nickname": "kronos4",
+        "booksCount": 1,
+        "updatedAt": "2017-06-05 14:58:29"
+    },
     "76187635-vkontakte": {
         "id": "76187635-vkontakte",
         "nickname": "Лела Папава",
@@ -172,11 +178,5 @@
         "nickname": "olegessenin",
         "booksCount": 10,
         "updatedAt": "2017-05-28 14:04:27"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 33,
-        "updatedAt": "2017-05-28 05:38:32"
     }
 }

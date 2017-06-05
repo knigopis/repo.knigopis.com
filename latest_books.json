@@ -1,4 +1,16 @@
 {
+    "MbbvvdjpZC": {
+        "id": "MbbvvdjpZC",
+        "title": "«О дивный новый мир»",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-06-05 14:58:29",
+        "user": {
+            "id": "219471728-vkontakte",
+            "nickname": "kronos4",
+            "booksCount": 1
+        }
+    },
     "3ggynO2Ipb": {
         "id": "3ggynO2Ipb",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 11
-        }
-    },
-    "AWGWh11VQY": {
-        "id": "AWGWh11VQY",
-        "title": "Лишний козырь в рукаве",
-        "author": "Чейз Джейм Хэдли",
-        "notes": "",
-        "createdAt": "2017-05-30 18:05:24",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 10
         }
     }
 }
