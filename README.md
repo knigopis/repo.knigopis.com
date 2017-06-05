@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>113</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>116</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Len4e91](users/254/254448176-yandex)<sup>4</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>10</sup> 
 [Derek777](users/153/15386028-yandex)<sup>33</sup> 
-[p.masychev](users/282/282494905-vkontakte)<sup>0</sup> 
 
 
-_04.06.2017 18:38:06_
+_05.06.2017 10:03:36_

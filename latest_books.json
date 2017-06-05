@@ -1,4 +1,16 @@
 {
+    "3ggynO2Ipb": {
+        "id": "3ggynO2Ipb",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-05 10:03:36",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 299
+        }
+    },
     "PwKnVgFfK8": {
         "id": "PwKnVgFfK8",
         "title": "Хроники Нарнии: Конь и его мальчик",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 10
-        }
-    },
-    "_k0nd306tt": {
-        "id": "_k0nd306tt",
-        "title": "У меня на руках четыре туза",
-        "author": "Чейз Джейм Хэдли",
-        "notes": "",
-        "createdAt": "2017-05-30 18:05:04",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 9
         }
     }
 }
