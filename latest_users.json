@@ -1,4 +1,10 @@
 {
+    "1577468-vkontakte": {
+        "id": "1577468-vkontakte",
+        "nickname": "Беска",
+        "booksCount": 38,
+        "updatedAt": "2017-06-06 22:41:30"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "sasha_rowanberry",
         "booksCount": 0,
         "updatedAt": "2017-05-29 20:53:33"
-    },
-    "109099938050992847243-google": {
-        "id": "109099938050992847243-google",
-        "nickname": "Kostrov",
-        "booksCount": 0,
-        "updatedAt": "2017-05-29 20:16:05"
     }
 }

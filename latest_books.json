@@ -1,4 +1,16 @@
 {
+    "diCh4nlMQd": {
+        "id": "diCh4nlMQd",
+        "title": "Дитя-невидимка",
+        "author": "Туве Янссон",
+        "notes": "",
+        "createdAt": "2017-06-06 22:41:30",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 38
+        }
+    },
     "wNyAZTr_uM": {
         "id": "wNyAZTr_uM",
         "title": "Яма.",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 13
-        }
-    },
-    "ghuAZjUWKX": {
-        "id": "ghuAZjUWKX",
-        "title": "Три товарища",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2017-05-30 18:05:55",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 12
         }
     }
 }
