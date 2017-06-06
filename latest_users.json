@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 52,
+        "updatedAt": "2017-06-06 18:24:49"
+    },
     "1485367461478452-facebook": {
         "id": "1485367461478452-facebook",
         "nickname": "Flatline",
@@ -172,11 +178,5 @@
         "nickname": "Kostrov",
         "booksCount": 0,
         "updatedAt": "2017-05-29 20:16:05"
-    },
-    "254448176-yandex": {
-        "id": "254448176-yandex",
-        "nickname": "Len4e91",
-        "booksCount": 4,
-        "updatedAt": "2017-05-29 08:38:13"
     }
 }

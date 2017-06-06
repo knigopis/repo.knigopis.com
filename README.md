@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>52</sup> 
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 [Kostrov](users/109/109099938050992847243-google)<sup>0</sup> 
-[Len4e91](users/254/254448176-yandex)<sup>4</sup> 
 
 
-_06.06.2017 12:11:57_
+_06.06.2017 18:24:49_

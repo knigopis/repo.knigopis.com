@@ -1,4 +1,16 @@
 {
+    "wNyAZTr_uM": {
+        "id": "wNyAZTr_uM",
+        "title": "Яма.",
+        "author": "Александр Куприн.",
+        "notes": "",
+        "createdAt": "2017-06-06 18:24:49",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 52
+        }
+    },
     "MbbvvdjpZC": {
         "id": "MbbvvdjpZC",
         "title": "«О дивный новый мир»",
@@ -345,18 +357,6 @@
             "id": "1187171844676492-facebook",
             "nickname": "ksuzn",
             "booksCount": 12
-        }
-    },
-    "ec6SI30Uyd": {
-        "id": "ec6SI30Uyd",
-        "title": "Зов кукушки",
-        "author": "Гэлбрейт Роберт",
-        "notes": "",
-        "createdAt": "2017-05-30 18:05:44",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 11
         }
     }
 }
