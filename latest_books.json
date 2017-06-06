@@ -1,4 +1,16 @@
 {
+    "0ovaCUYMfv": {
+        "id": "0ovaCUYMfv",
+        "title": "Волшебная зима",
+        "author": "Туве Янссон",
+        "notes": "",
+        "createdAt": "2017-06-06 22:41:50",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 39
+        }
+    },
     "diCh4nlMQd": {
         "id": "diCh4nlMQd",
         "title": "Дитя-невидимка",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 140
-        }
-    },
-    "b_BDIUQAq9": {
-        "id": "b_BDIUQAq9",
-        "title": "Руководство астронавта по жизни на Земле",
-        "author": "Хэдфилд Кристофер",
-        "notes": "",
-        "createdAt": "2017-05-30 18:06:23",
-        "user": {
-            "id": "1187171844676492-facebook",
-            "nickname": "ksuzn",
-            "booksCount": 13
         }
     }
 }

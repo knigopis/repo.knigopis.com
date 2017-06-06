@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Беска](users/157/1577468-vkontakte)<sup>38</sup> 
+[Беска](users/157/1577468-vkontakte)<sup>39</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>52</sup> 
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 
 
-_06.06.2017 22:41:30_
+_06.06.2017 22:41:50_
