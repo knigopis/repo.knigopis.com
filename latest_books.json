@@ -1,4 +1,16 @@
 {
+    "0F2Z7yHsvd": {
+        "id": "0F2Z7yHsvd",
+        "title": "Мемуары папы Муми-тролля",
+        "author": "Туве Янссон",
+        "notes": "",
+        "createdAt": "2017-06-06 22:42:28",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 41
+        }
+    },
     "bCgoNDkpnQ": {
         "id": "bCgoNDkpnQ",
         "title": "Опасное лето",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 99
-        }
-    },
-    "9wDV1Fb9iI": {
-        "id": "9wDV1Fb9iI",
-        "title": "еуые",
-        "author": "фыв",
-        "notes": "фыв",
-        "createdAt": "2017-05-31 01:27:54",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 141
         }
     }
 }
