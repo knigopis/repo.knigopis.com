@@ -1,4 +1,16 @@
 {
+    "IceQlq36X_": {
+        "id": "IceQlq36X_",
+        "title": "Шляпа волшебника",
+        "author": "Туве Янссон",
+        "notes": "",
+        "createdAt": "2017-06-06 22:42:42",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 42
+        }
+    },
     "0F2Z7yHsvd": {
         "id": "0F2Z7yHsvd",
         "title": "Мемуары папы Муми-тролля",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 23
-        }
-    },
-    "ao5o_Cdgvv": {
-        "id": "ao5o_Cdgvv",
-        "title": "Любовь во время чумы",
-        "author": "Габриэль Маркес",
-        "notes": "",
-        "createdAt": "2017-05-31 07:41:50",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 99
         }
     }
 }
