@@ -1,4 +1,16 @@
 {
+    "jX8Ap7sd2x": {
+        "id": "jX8Ap7sd2x",
+        "title": "Люди и разбойники из Кардамона",
+        "author": "Турбьерн Эгнер",
+        "notes": "",
+        "createdAt": "2017-06-06 22:43:23",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 45
+        }
+    },
     "kkahCrwQgm": {
         "id": "kkahCrwQgm",
         "title": "Маленькие тролли и большое наводнение",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 53
-        }
-    },
-    "aJX-zk0QJ3": {
-        "id": "aJX-zk0QJ3",
-        "title": "Эдип в Колоне",
-        "author": "Софокл",
-        "notes": "",
-        "createdAt": "2017-05-31 23:27:01",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 217
         }
     }
 }
