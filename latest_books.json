@@ -1,4 +1,16 @@
 {
+    "kkahCrwQgm": {
+        "id": "kkahCrwQgm",
+        "title": "Маленькие тролли и большое наводнение",
+        "author": "Туве Янссон",
+        "notes": "",
+        "createdAt": "2017-06-06 22:43:04",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 44
+        }
+    },
     "eWHcsGRGnN": {
         "id": "eWHcsGRGnN",
         "title": "Муми-тролль и Комета",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 217
-        }
-    },
-    "dEm6gLgVe2": {
-        "id": "dEm6gLgVe2",
-        "title": "Племянник чародея",
-        "author": "Клайв Льюис",
-        "notes": "Часть 1",
-        "createdAt": "2017-05-31 16:32:10",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 111
         }
     }
 }
