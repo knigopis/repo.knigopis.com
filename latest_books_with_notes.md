@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
@@ -30,7 +31,6 @@
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
 * Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
-* Всегда начеку ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>22</sup>
 
 
-_04.06.2017 18:38:06_
+_06.06.2017 22:47:49_

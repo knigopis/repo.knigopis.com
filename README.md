@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
+    > довольно интересно, но некоторые вещи непонятны. Не вообще в книге, а в его жизни. После книги о нем Ирвинга Стоуна "Моряк в седле", складывается совсем другое впечатление о его характере и образе жизни. Да, понятно, что влюбленная женщина - это влюбленная женщина, но все равно не совпадает много чего. Надо почитать еще некоторые книги о нем.
+
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
     > Часть 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Двенадцатая книга цикла "Колесо времени". Книга была издана после смерти Джордана, по его черновикам. Боялась что повествование будет отличаться от предыдущих книг и по слогу, и по качеству. Но Сандерсон прекрасно справился с наследием Роберта Джордана. Читается на одном дыхании.
 
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
-    > Очень интересно. Советую к прочтению.
 
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
 
-* еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Беска](users/157/1577468-vkontakte)<sup>46</sup> 
+[Беска](users/157/1577468-vkontakte)<sup>47</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>52</sup> 
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sasha_rowanberry](users/285/28594123-vkontakte)<sup>0</sup> 
 
 
-_06.06.2017 22:43:48_
+_06.06.2017 22:47:49_
