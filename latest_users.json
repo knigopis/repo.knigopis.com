@@ -1,4 +1,10 @@
 {
+    "1485367461478452-facebook": {
+        "id": "1485367461478452-facebook",
+        "nickname": "Flatline",
+        "booksCount": 0,
+        "updatedAt": "2017-06-06 12:11:55"
+    },
     "219471728-vkontakte": {
         "id": "219471728-vkontakte",
         "nickname": "kronos4",
@@ -172,11 +178,5 @@
         "nickname": "Len4e91",
         "booksCount": 4,
         "updatedAt": "2017-05-29 08:38:13"
-    },
-    "3901448-vkontakte": {
-        "id": "3901448-vkontakte",
-        "nickname": "olegessenin",
-        "booksCount": 10,
-        "updatedAt": "2017-05-28 14:04:27"
     }
 }
