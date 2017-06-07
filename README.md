@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[any2h](users/843/84361408-vkontakte)<sup>0</sup> 
 [yoolya](users/703/703201379817863-facebook)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>219</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>51</sup> 
 
 
-_07.06.2017 08:57:54_
+_07.06.2017 13:27:17_
