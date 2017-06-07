@@ -1,4 +1,16 @@
 {
+    "WMaKd-ehdY": {
+        "id": "WMaKd-ehdY",
+        "title": "Электра",
+        "author": "Софокл",
+        "notes": "",
+        "createdAt": "2017-06-07 07:35:39",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 219
+        }
+    },
     "2eji2OPtEw": {
         "id": "2eji2OPtEw",
         "title": "Жизнь Джека Лондона",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 5
-        }
-    },
-    "x-GZteWR7C": {
-        "id": "x-GZteWR7C",
-        "title": "Антигона",
-        "author": "Софокл",
-        "notes": "",
-        "createdAt": "2017-06-01 13:24:27",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 218
         }
     }
 }
