@@ -1,4 +1,16 @@
 {
+    "NU1tq0LZYD": {
+        "id": "NU1tq0LZYD",
+        "title": "Чужак",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-06-07 08:57:54",
+        "user": {
+            "id": "703201379817863-facebook",
+            "nickname": "yoolya",
+            "booksCount": 1
+        }
+    },
     "WMaKd-ehdY": {
         "id": "WMaKd-ehdY",
         "title": "Электра",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 100
-        }
-    },
-    "ddidbwLN1O": {
-        "id": "ddidbwLN1O",
-        "title": "Совладание: руководство по выживанию для людей с синдромом Аспергера",
-        "author": "Марк Сегар",
-        "notes": "",
-        "createdAt": "2017-06-01 13:58:50",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 5
         }
     }
 }
