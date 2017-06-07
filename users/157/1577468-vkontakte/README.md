@@ -1,7 +1,12 @@
-# List of books read by [Беска](http://vk.com/id1577468)<sup>47</sup>
+# List of books read by [Беска](http://vk.com/id1577468)<sup>48</sup>
 ---
 
 ## 2017
+
+### Папа и море
+Туве Янссон
+> [2017-06-07] 
+
 
 ### Дитя-невидимка
 Туве Янссон
