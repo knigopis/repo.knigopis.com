@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ana](users/748/748716291981692-facebook)<sup>0</sup> 
+[ana](users/748/748716291981692-facebook)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>48</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 [any2h](users/843/84361408-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 
 
-_07.06.2017 20:21:44_
+_07.06.2017 20:22:48_

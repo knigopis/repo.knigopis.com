@@ -1,4 +1,16 @@
 {
+    "IsL6kTLM9y": {
+        "id": "IsL6kTLM9y",
+        "title": "Ариэль",
+        "author": "Александр Романович Беляев",
+        "notes": "",
+        "createdAt": "2017-06-07 20:22:47",
+        "user": {
+            "id": "748716291981692-facebook",
+            "nickname": "ana",
+            "booksCount": 1
+        }
+    },
     "IZQIhGLPgw": {
         "id": "IZQIhGLPgw",
         "title": "Папа и море",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 79
-        }
-    },
-    "GkA1auJEUP": {
-        "id": "GkA1auJEUP",
-        "title": "Мир глазами блоггера",
-        "author": "",
-        "notes": "Совершенно замечательные, душевные и лаконичные путевые зарисовки по городам и странам :)\n\nв процессе\n\nhttp://www.ozon.ru/context/detail/id/7280348/",
-        "createdAt": "2017-06-02 09:19:11",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 102
         }
     }
 }
