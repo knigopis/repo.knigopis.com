@@ -1,4 +1,10 @@
 {
+    "703201379817863-facebook": {
+        "id": "703201379817863-facebook",
+        "nickname": "yoolya",
+        "booksCount": 0,
+        "updatedAt": "2017-06-07 08:56:57"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 51,
         "updatedAt": "2017-05-30 07:29:53"
-    },
-    "28594123-vkontakte": {
-        "id": "28594123-vkontakte",
-        "nickname": "sasha_rowanberry",
-        "booksCount": 0,
-        "updatedAt": "2017-05-29 20:53:33"
     }
 }
