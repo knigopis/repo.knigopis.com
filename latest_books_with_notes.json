@@ -1,4 +1,16 @@
 {
+    "CKnxRKHxN-": {
+        "id": "CKnxRKHxN-",
+        "title": "Метро 2033. Ниже ада",
+        "author": "Гребенщиков Андрей",
+        "notes": "Иван и Костя. Отшельник.\nЕкатеринбург.",
+        "createdAt": "2017-06-07 15:39:48",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 48
+        }
+    },
     "2eji2OPtEw": {
         "id": "2eji2OPtEw",
         "title": "Жизнь Джека Лондона",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 47
-        }
-    },
-    "hQfBc6LvIz": {
-        "id": "hQfBc6LvIz",
-        "title": "Сто правил руководителей проектов NASA",
-        "author": "Jerry Maddon",
-        "notes": "Профессиональная литература :)\n\nв процессе\n\nhttp://www.pmprofy.ru/pm-articles_article.asp?article_id=954",
-        "createdAt": "2017-05-22 21:44:05",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 99
         }
     }
 }

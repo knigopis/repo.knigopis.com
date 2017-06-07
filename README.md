@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
+    > Иван и Костя. Отшельник.
+    > Екатеринбург.
+
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
     > довольно интересно, но некоторые вещи непонятны. Не вообще в книге, а в его жизни. После книги о нем Ирвинга Стоуна "Моряк в седле", складывается совсем другое впечатление о его характере и образе жизни. Да, понятно, что влюбленная женщина - это влюбленная женщина, но все равно не совпадает много чего. Надо почитать еще некоторые книги о нем.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Часть 3
 
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
-    > Двенадцатая книга цикла "Колесо времени". Книга была издана после смерти Джордана, по его черновикам. Боялась что повествование будет отличаться от предыдущих книг и по слогу, и по качеству. Но Сандерсон прекрасно справился с наследием Роберта Джордана. Читается на одном дыхании.
 
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
 
-* Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 [any2h](users/843/84361408-vkontakte)<sup>0</sup> 
 [yoolya](users/703/703201379817863-facebook)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>219</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>140</sup> 
 [LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 [ksuzn](users/118/1187171844676492-facebook)<sup>13</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>17</sup> 
 
 
-_07.06.2017 13:27:17_
+_07.06.2017 15:39:49_

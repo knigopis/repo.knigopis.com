@@ -1,4 +1,16 @@
 {
+    "CKnxRKHxN-": {
+        "id": "CKnxRKHxN-",
+        "title": "Метро 2033. Ниже ада",
+        "author": "Гребенщиков Андрей",
+        "notes": "Иван и Костя. Отшельник.\nЕкатеринбург.",
+        "createdAt": "2017-06-07 15:39:48",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 48
+        }
+    },
     "NU1tq0LZYD": {
         "id": "NU1tq0LZYD",
         "title": "Чужак",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 101
-        }
-    },
-    "RhNUMRxPkl": {
-        "id": "RhNUMRxPkl",
-        "title": "Сердце тьмы",
-        "author": "Джозеф Конрад",
-        "notes": "",
-        "createdAt": "2017-06-02 09:14:12",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 100
         }
     }
 }

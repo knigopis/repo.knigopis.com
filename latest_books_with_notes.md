@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
@@ -30,7 +31,6 @@
 * Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
 * Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
-* Сто правил руководителей проектов NASA ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>99</sup>
 
 
-_06.06.2017 22:47:49_
+_07.06.2017 15:39:49_

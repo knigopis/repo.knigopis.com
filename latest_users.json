@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 48,
+        "updatedAt": "2017-06-07 15:39:48"
+    },
     "84361408-vkontakte": {
         "id": "84361408-vkontakte",
         "nickname": "any2h",
@@ -172,11 +178,5 @@
         "nickname": "ksuzn",
         "booksCount": 13,
         "updatedAt": "2017-05-30 18:06:23"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 17,
-        "updatedAt": "2017-05-30 17:41:39"
     }
 }
