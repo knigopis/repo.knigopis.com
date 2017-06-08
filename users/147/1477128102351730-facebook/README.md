@@ -1,4 +1,4 @@
-# List of books read by [sokolovasokolova](https://www.facebook.com/app_scoped_user_id/1477128102351730/)<sup>6</sup>
+# List of books read by [sokolovasokolova](https://www.facebook.com/app_scoped_user_id/1477128102351730/)<sup>7</sup>
 ---
 
 ## 2017
@@ -25,6 +25,10 @@
 
 
 ## 2016
+
+### Как чашка за чашкой строилась Starbucks
+Дори Йенг/ Говард Шульц
+
 
 ### Доставляя счастье: от нуля до миллиарда
 Тони Шей

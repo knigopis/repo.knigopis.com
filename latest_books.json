@@ -1,4 +1,16 @@
 {
+    "vgz-r_rij0": {
+        "id": "vgz-r_rij0",
+        "title": "Как чашка за чашкой строилась Starbucks",
+        "author": "Дори Йенг/ Говард Шульц",
+        "notes": "",
+        "createdAt": "2017-06-08 20:43:51",
+        "user": {
+            "id": "1477128102351730-facebook",
+            "nickname": "sokolovasokolova",
+            "booksCount": 7
+        }
+    },
     "dXew4jmeU0": {
         "id": "dXew4jmeU0",
         "title": "Тайм-менеджмент по помидору",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 299
-        }
-    },
-    "PwKnVgFfK8": {
-        "id": "PwKnVgFfK8",
-        "title": "Хроники Нарнии: Конь и его мальчик",
-        "author": "Клайв Льюис",
-        "notes": "Часть 3",
-        "createdAt": "2017-06-04 18:38:06",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 113
         }
     }
 }
