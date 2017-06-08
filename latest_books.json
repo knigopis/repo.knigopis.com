@@ -1,4 +1,16 @@
 {
+    "olS2C5dPqW": {
+        "id": "olS2C5dPqW",
+        "title": "Тайм-менеджмент",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2017-06-08 20:37:36",
+        "user": {
+            "id": "1477128102351730-facebook",
+            "nickname": "sokolovasokolova",
+            "booksCount": 3
+        }
+    },
     "BsB9CWqgk6": {
         "id": "BsB9CWqgk6",
         "title": "Хладнокровное убийство",
@@ -345,18 +357,6 @@
             "id": "104502610850806942588-google",
             "nickname": "Zhi",
             "booksCount": 1
-        }
-    },
-    "cYno0YuTNQ": {
-        "id": "cYno0YuTNQ",
-        "title": "Случай Портного",
-        "author": "Филип Рот",
-        "notes": "",
-        "createdAt": "2017-06-04 10:02:38",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 540
         }
     }
 }
