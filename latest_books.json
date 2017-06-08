@@ -1,4 +1,16 @@
 {
+    "tXO4TpxyA2": {
+        "id": "tXO4TpxyA2",
+        "title": "Rework: бизнес без предрассудков",
+        "author": "Джейсон Фрайд",
+        "notes": "",
+        "createdAt": "2017-06-08 20:39:01",
+        "user": {
+            "id": "1477128102351730-facebook",
+            "nickname": "sokolovasokolova",
+            "booksCount": 4
+        }
+    },
     "olS2C5dPqW": {
         "id": "olS2C5dPqW",
         "title": "Тайм-менеджмент",
@@ -344,18 +356,6 @@
         "user": {
             "id": "4609218-vkontakte",
             "nickname": "lana_1312",
-            "booksCount": 1
-        }
-    },
-    "8yM3Lah-Dm": {
-        "id": "8yM3Lah-Dm",
-        "title": "Марсианские хроники",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-06-04 12:38:37",
-        "user": {
-            "id": "104502610850806942588-google",
-            "nickname": "Zhi",
             "booksCount": 1
         }
     }
