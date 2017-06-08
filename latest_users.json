@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 27,
+        "updatedAt": "2017-06-08 13:52:56"
+    },
     "118341692435130654754-google": {
         "id": "118341692435130654754-google",
         "nickname": "Implicat",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 53,
         "updatedAt": "2017-06-01 07:14:51"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 23,
-        "updatedAt": "2017-05-31 09:39:08"
     }
 }

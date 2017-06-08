@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>27</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>1</sup> 
 [bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
 [ana](users/748/748716291981692-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>5</sup> 
 [krutman](users/100/100000663835437-facebook)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>53</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup> 
 
 
-_08.06.2017 08:59:13_
+_08.06.2017 13:52:56_

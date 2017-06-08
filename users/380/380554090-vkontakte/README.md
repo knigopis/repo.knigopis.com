@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>26</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>27</sup>
 ---
 
 ## 2017
+
+### Богатый папа, бедный папа
+Роберт Кийосаки
+> [2017-06-08] 
+
 
 ### Фауст
 Иоганн Вольфганг Гёте
