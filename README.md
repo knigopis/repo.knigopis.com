@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Implicat](users/118/118341692435130654754-google)<sup>0</sup> 
+[Implicat](users/118/118341692435130654754-google)<sup>1</sup> 
 [bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
 [ana](users/748/748716291981692-facebook)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>48</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup> 
 
 
-_08.06.2017 08:38:41_
+_08.06.2017 08:59:13_
