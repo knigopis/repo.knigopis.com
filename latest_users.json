@@ -1,4 +1,10 @@
 {
+    "17205066-vkontakte": {
+        "id": "17205066-vkontakte",
+        "nickname": "bogdanovamarinaalexandrovna",
+        "booksCount": 0,
+        "updatedAt": "2017-06-08 05:34:14"
+    },
     "748716291981692-facebook": {
         "id": "748716291981692-facebook",
         "nickname": "ana",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 140,
         "updatedAt": "2017-05-31 01:31:26"
-    },
-    "111914981020127629196-google": {
-        "id": "111914981020127629196-google",
-        "nickname": "LinchK",
-        "booksCount": 0,
-        "updatedAt": "2017-05-30 20:02:55"
     }
 }
