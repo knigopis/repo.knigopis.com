@@ -1,4 +1,10 @@
 {
+    "118341692435130654754-google": {
+        "id": "118341692435130654754-google",
+        "nickname": "Implicat",
+        "booksCount": 0,
+        "updatedAt": "2017-06-08 08:38:39"
+    },
     "17205066-vkontakte": {
         "id": "17205066-vkontakte",
         "nickname": "bogdanovamarinaalexandrovna",
@@ -172,11 +178,5 @@
         "nickname": "Койнов Александр",
         "booksCount": 23,
         "updatedAt": "2017-05-31 09:39:08"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 140,
-        "updatedAt": "2017-05-31 01:31:26"
     }
 }
