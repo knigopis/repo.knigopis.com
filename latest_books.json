@@ -1,4 +1,16 @@
 {
+    "mwj5zJP5jS": {
+        "id": "mwj5zJP5jS",
+        "title": "Шантарам",
+        "author": "Грегори Робертс",
+        "notes": "",
+        "createdAt": "2017-06-08 19:47:20",
+        "user": {
+            "id": "301311796988465-facebook",
+            "nickname": "Marine Maevs",
+            "booksCount": 2
+        }
+    },
     "-1Aya2XJ4Z": {
         "id": "-1Aya2XJ4Z",
         "title": "Максимальная концентрация",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 256
-        }
-    },
-    "g5kSK-uPgF": {
-        "id": "g5kSK-uPgF",
-        "title": "Элексир дьявола",
-        "author": "Гофман",
-        "notes": "",
-        "createdAt": "2017-06-03 08:40:18",
-        "user": {
-            "id": "457053297961317-facebook",
-            "nickname": "aberdoch",
-            "booksCount": 1
         }
     }
 }
