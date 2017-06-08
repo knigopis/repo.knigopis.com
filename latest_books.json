@@ -1,4 +1,16 @@
 {
+    "-1Aya2XJ4Z": {
+        "id": "-1Aya2XJ4Z",
+        "title": "Максимальная концентрация",
+        "author": "Люси Джо Палладино",
+        "notes": "",
+        "createdAt": "2017-06-08 19:46:53",
+        "user": {
+            "id": "301311796988465-facebook",
+            "nickname": "Marine Maevs",
+            "booksCount": 1
+        }
+    },
     "7FJjNl8Psw": {
         "id": "7FJjNl8Psw",
         "title": "Богатый папа, бедный папа",
@@ -344,18 +356,6 @@
         "user": {
             "id": "457053297961317-facebook",
             "nickname": "aberdoch",
-            "booksCount": 1
-        }
-    },
-    "W1f2ZjwEMo": {
-        "id": "W1f2ZjwEMo",
-        "title": "",
-        "author": "Дом ночи",
-        "notes": "",
-        "createdAt": "2017-06-03 08:02:59",
-        "user": {
-            "id": "1482702765127959-facebook",
-            "nickname": "Lesia",
             "booksCount": 1
         }
     }
