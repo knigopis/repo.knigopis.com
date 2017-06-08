@@ -1,4 +1,10 @@
 {
+    "1477128102351730-facebook": {
+        "id": "1477128102351730-facebook",
+        "nickname": "sokolovasokolova",
+        "booksCount": 0,
+        "updatedAt": "2017-06-08 20:33:23"
+    },
     "301311796988465-facebook": {
         "id": "301311796988465-facebook",
         "nickname": "Marine Maevs",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 5,
         "updatedAt": "2017-06-01 13:58:50"
-    },
-    "100000663835437-facebook": {
-        "id": "100000663835437-facebook",
-        "nickname": "krutman",
-        "booksCount": 0,
-        "updatedAt": "2017-06-01 08:57:11"
     }
 }
