@@ -1,4 +1,16 @@
 {
+    "ZAcxF7tRLE": {
+        "id": "ZAcxF7tRLE",
+        "title": "Хроники расколотого королевства 1-2",
+        "author": "Фрэнсис Хардинг",
+        "notes": "Мошка Май, гусь Сарацин, Эпонимий Клент, всякие приметы, борьба за власть, атеизм и образование",
+        "createdAt": "2017-06-08 21:24:53",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 47
+        }
+    },
     "CKnxRKHxN-": {
         "id": "CKnxRKHxN-",
         "title": "Метро 2033. Ниже ада",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 71
-        }
-    },
-    "n8liXYSnMi": {
-        "id": "n8liXYSnMi",
-        "title": "Отважные мореплаватели",
-        "author": "Редьярд Кипплиг",
-        "notes": "Отлично пишет Кипплинг :)",
-        "createdAt": "2017-05-22 22:12:56",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 47
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
 * Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
 * Как привести дела в порядок. Искусство продуктивности без стресса. ~ [victoria_spilioti](users/219/219259003-vkontakte)<sup>71</sup>
-* Отважные мореплаватели ~ [sonics](users/588/5880221-vkontakte)<sup>47</sup>
 
 
-_07.06.2017 15:39:49_
+_08.06.2017 21:24:53_

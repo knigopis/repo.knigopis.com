@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
+    > Мошка Май, гусь Сарацин, Эпонимий Клент, всякие приметы, борьба за власть, атеизм и образование
+
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
     > Иван и Костя. Отшельник.
     > Екатеринбург.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > довольно интересно, но некоторые вещи непонятны. Не вообще в книге, а в его жизни. После книги о нем Ирвинга Стоуна "Моряк в седле", складывается совсем другое впечатление о его характере и образе жизни. Да, понятно, что влюбленная женщина - это влюбленная женщина, но все равно не совпадает много чего. Надо почитать еще некоторые книги о нем.
 
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
-    > Часть 3
 
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
 
-* Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>27</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>5</sup> 
 
 
-_08.06.2017 20:43:51_
+_08.06.2017 21:24:53_

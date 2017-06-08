@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 47,
+        "updatedAt": "2017-06-08 21:24:53"
+    },
     "1477128102351730-facebook": {
         "id": "1477128102351730-facebook",
         "nickname": "sokolovasokolova",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 100,
         "updatedAt": "2017-06-02 09:14:12"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 5,
-        "updatedAt": "2017-06-01 13:58:50"
     }
 }
