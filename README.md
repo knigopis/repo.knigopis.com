@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
 [ana](users/748/748716291981692-facebook)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>48</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>48</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>53</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup> 
 [lucius](users/838/83820536-yandex)<sup>140</sup> 
-[LinchK](users/111/111914981020127629196-google)<sup>0</sup> 
 
 
-_07.06.2017 20:22:48_
+_08.06.2017 05:34:17_
