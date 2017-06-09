@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>115</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 
 
-_09.06.2017 14:47:40_
+_09.06.2017 19:20:34_
