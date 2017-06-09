@@ -1,4 +1,16 @@
 {
+    "EnWvow883j": {
+        "id": "EnWvow883j",
+        "title": "Эффект Люцифера",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-06-09 14:47:31",
+        "user": {
+            "id": "1920688634870224-facebook",
+            "nickname": "Doctor Dali",
+            "booksCount": 1
+        }
+    },
     "MP9433nXl6": {
         "id": "MP9433nXl6",
         "title": "Хроники Нарнии: Покоритель Зари, или Плавание на край света",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 39
-        }
-    },
-    "diCh4nlMQd": {
-        "id": "diCh4nlMQd",
-        "title": "Дитя-невидимка",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2017-06-06 22:41:30",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 38
         }
     }
 }
