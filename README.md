@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Doctor Dali](users/192/1920688634870224-facebook)<sup>1</sup> 
+[Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>115</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup> 
 
 
-_09.06.2017 14:47:31_
+_09.06.2017 14:47:40_
