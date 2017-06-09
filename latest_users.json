@@ -1,4 +1,10 @@
 {
+    "1920688634870224-facebook": {
+        "id": "1920688634870224-facebook",
+        "nickname": "Doctor Dali",
+        "booksCount": 0,
+        "updatedAt": "2017-06-09 14:47:06"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 102,
         "updatedAt": "2017-06-02 09:19:11"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 100,
-        "updatedAt": "2017-06-02 09:14:12"
     }
 }
