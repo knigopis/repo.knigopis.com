@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
+    > Часть 5
+
 * Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
     > Часть 4
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Мошка Май, гусь Сарацин, Эпонимий Клент, всякие приметы, борьба за власть, атеизм и образование
 
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
-    > Иван и Костя. Отшельник.
-    > Екатеринбург.
 
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
 
-* Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>114</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>115</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
 
 
-_09.06.2017 13:35:48_
+_09.06.2017 13:37:38_

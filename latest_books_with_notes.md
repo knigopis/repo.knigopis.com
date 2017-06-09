@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
 * Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
 * Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
 * Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
 * Коты-Воители: Четвёртый оруженосец ~ [EsterHani](users/305/30558181-vkontakte)<sup>107</sup>
-* Остров сокровищ ~ [Apprentice ](users/528/52821952-vkontakte)<sup>72</sup>
 
 
-_09.06.2017 13:35:48_
+_09.06.2017 13:37:38_

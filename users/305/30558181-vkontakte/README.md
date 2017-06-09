@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>114</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>115</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Покоритель Зари, или Плавание на край света
+Клайв Льюис
+> Часть 5
+
 
 ### Хроники Нарнии: Принц Каспиан
 Клайв Льюис

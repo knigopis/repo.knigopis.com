@@ -1,4 +1,16 @@
 {
+    "MP9433nXl6": {
+        "id": "MP9433nXl6",
+        "title": "Хроники Нарнии: Покоритель Зари, или Плавание на край света",
+        "author": "Клайв Льюис",
+        "notes": "Часть 5",
+        "createdAt": "2017-06-09 13:37:38",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 115
+        }
+    },
     "EhIJTaCRTY": {
         "id": "EhIJTaCRTY",
         "title": "Хроники Нарнии: Принц Каспиан",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 38
-        }
-    },
-    "wNyAZTr_uM": {
-        "id": "wNyAZTr_uM",
-        "title": "Яма.",
-        "author": "Александр Куприн.",
-        "notes": "",
-        "createdAt": "2017-06-06 18:24:49",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 52
         }
     }
 }

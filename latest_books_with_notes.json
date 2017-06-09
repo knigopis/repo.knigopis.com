@@ -1,4 +1,16 @@
 {
+    "MP9433nXl6": {
+        "id": "MP9433nXl6",
+        "title": "Хроники Нарнии: Покоритель Зари, или Плавание на край света",
+        "author": "Клайв Льюис",
+        "notes": "Часть 5",
+        "createdAt": "2017-06-09 13:37:38",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 115
+        }
+    },
     "EhIJTaCRTY": {
         "id": "EhIJTaCRTY",
         "title": "Хроники Нарнии: Принц Каспиан",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 107
-        }
-    },
-    "xowtk_sv84": {
-        "id": "xowtk_sv84",
-        "title": "Остров сокровищ",
-        "author": "Роберт Стивенсон",
-        "notes": "9/10",
-        "createdAt": "2017-05-24 12:41:29",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 72
         }
     }
 }
