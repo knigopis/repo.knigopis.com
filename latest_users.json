@@ -1,4 +1,10 @@
 {
+    "231305029-vkontakte": {
+        "id": "231305029-vkontakte",
+        "nickname": "miroslava.cmirnova",
+        "booksCount": 0,
+        "updatedAt": "2017-06-09 19:20:32"
+    },
     "1920688634870224-facebook": {
         "id": "1920688634870224-facebook",
         "nickname": "Doctor Dali",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 79,
         "updatedAt": "2017-06-02 13:22:15"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 102,
-        "updatedAt": "2017-06-02 09:19:11"
     }
 }
