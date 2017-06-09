@@ -1,6 +1,8 @@
 # Wish list of books by [miroslava.cmirnova](http://vk.com/id231305029)
 ---
 
+### `5` Магистериум
+
 ### `4` Орудие смерти
 
 ### `3` Властелин колец
