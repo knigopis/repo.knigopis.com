@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>113</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>114</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Принц Каспиан
+Клайв Льюис
+> Часть 4
+
 
 ### Хроники Нарнии: Конь и его мальчик
 Клайв Льюис

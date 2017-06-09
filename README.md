@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
+    > Часть 4
+
 * Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
     > Мошка Май, гусь Сарацин, Эпонимий Клент, всякие приметы, борьба за власть, атеизм и образование
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Екатеринбург.
 
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
-    > довольно интересно, но некоторые вещи непонятны. Не вообще в книге, а в его жизни. После книги о нем Ирвинга Стоуна "Моряк в седле", складывается совсем другое впечатление о его характере и образе жизни. Да, понятно, что влюбленная женщина - это влюбленная женщина, но все равно не совпадает много чего. Надо почитать еще некоторые книги о нем.
 
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Нарнии: Лев, колдунья и платяной шкаф ~ [EsterHani](users/305/30558181-vkontakte)<sup>112</sup>
 
-* Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>114</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>113</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>116</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>100</sup> 
 
 
-_08.06.2017 21:24:53_
+_09.06.2017 13:35:48_
