@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>117</sup> 
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
@@ -60,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>540</sup> 
-[Proxvost](users/102/102171422-vkontakte)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>256</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 
 
-_10.06.2017 14:47:25_
+_10.06.2017 15:50:28_
