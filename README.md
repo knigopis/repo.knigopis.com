@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
+    > Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.
+
 * Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
     > Часть 5
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Часть 4
 
 * Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
-    > Мошка Май, гусь Сарацин, Эпонимий Клент, всякие приметы, борьба за власть, атеизм и образование
 
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
 
-* Стратегия непрямых действий ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>101</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[creepy_g](users/747/74743045-vkontakte)<sup>117</sup> 
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>116</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>540</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 
 
-_10.06.2017 11:19:04_
+_10.06.2017 13:25:32_

@@ -1,4 +1,16 @@
 {
+    "2P_PveArkU": {
+        "id": "2P_PveArkU",
+        "title": "Звезда Ада",
+        "author": "Андрей Дашков",
+        "notes": "Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.",
+        "createdAt": "2017-06-10 13:25:32",
+        "user": {
+            "id": "74743045-vkontakte",
+            "nickname": "creepy_g",
+            "booksCount": 117
+        }
+    },
     "EnWvow883j": {
         "id": "EnWvow883j",
         "title": "Эффект Люцифера",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 40
-        }
-    },
-    "0ovaCUYMfv": {
-        "id": "0ovaCUYMfv",
-        "title": "Волшебная зима",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2017-06-06 22:41:50",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 39
         }
     }
 }
