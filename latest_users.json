@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 18,
+        "updatedAt": "2017-06-10 14:47:25"
+    },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
         "nickname": "creepy_g",
@@ -172,11 +178,5 @@
         "nickname": "Lesia",
         "booksCount": 1,
         "updatedAt": "2017-06-03 08:02:59"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 143,
-        "updatedAt": "2017-06-02 18:19:37"
     }
 }

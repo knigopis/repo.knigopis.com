@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
+    > Идеи интересные, но
+    > 1. повторяют одно и то же   - пять законов,  а пересказывают ...
+    > 2.откладывать в современном мире,  при нынешней инфляции.....Про будущую стоимость денег тогда никто не знал.
+
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
     > Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Часть 5
 
 * Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
-    > Часть 4
 
 * Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
 
-* Мир глазами блоггера ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>117</sup> 
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>143</sup> 
 
 
-_10.06.2017 13:25:32_
+_10.06.2017 14:47:25_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
 * Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
 * Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
@@ -30,7 +31,6 @@
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
 * Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
-* Коты-Воители: Голоса в ночи ~ [EsterHani](users/305/30558181-vkontakte)<sup>108</sup>
 
 
-_10.06.2017 13:25:32_
+_10.06.2017 14:47:25_
