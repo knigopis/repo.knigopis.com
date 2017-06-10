@@ -1,4 +1,10 @@
 {
+    "4084951-vkontakte": {
+        "id": "4084951-vkontakte",
+        "nickname": "rimanka",
+        "booksCount": 0,
+        "updatedAt": "2017-06-10 11:19:00"
+    },
     "231305029-vkontakte": {
         "id": "231305029-vkontakte",
         "nickname": "miroslava.cmirnova",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 143,
         "updatedAt": "2017-06-02 18:19:37"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 79,
-        "updatedAt": "2017-06-02 13:22:15"
     }
 }
