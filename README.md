@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>541</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>256</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 [Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 
 
-_11.06.2017 06:07:39_
+_11.06.2017 06:56:21_

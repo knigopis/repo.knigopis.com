@@ -1,4 +1,16 @@
 {
+    "VKwI67TvKl": {
+        "id": "VKwI67TvKl",
+        "title": "Кровавый остров",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-06-11 06:56:21",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 257
+        }
+    },
     "8QRHNM9Xvn": {
         "id": "8QRHNM9Xvn",
         "title": "Моя жизнь. Мои достижения",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 44
-        }
-    },
-    "eWHcsGRGnN": {
-        "id": "eWHcsGRGnN",
-        "title": "Муми-тролль и Комета",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2017-06-06 22:42:53",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 43
         }
     }
 }
