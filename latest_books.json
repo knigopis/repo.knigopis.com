@@ -1,4 +1,16 @@
 {
+    "P8PHorYXWl": {
+        "id": "P8PHorYXWl",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
+        "createdAt": "2017-06-11 21:58:24",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 29
+        }
+    },
     "x0yEx9PTj8": {
         "id": "x0yEx9PTj8",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "703201379817863-facebook",
             "nickname": "yoolya",
             "booksCount": 1
-        }
-    },
-    "WMaKd-ehdY": {
-        "id": "WMaKd-ehdY",
-        "title": "Электра",
-        "author": "Софокл",
-        "notes": "",
-        "createdAt": "2017-06-07 07:35:39",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 219
         }
     }
 }

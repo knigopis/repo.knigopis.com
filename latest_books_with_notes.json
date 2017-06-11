@@ -1,4 +1,16 @@
 {
+    "P8PHorYXWl": {
+        "id": "P8PHorYXWl",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
+        "createdAt": "2017-06-11 21:58:24",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 29
+        }
+    },
     "xVeTZPvZbF": {
         "id": "xVeTZPvZbF",
         "title": "Buying and Selling Volatility (Frontiers in Finance Series)",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 110
-        }
-    },
-    "1EvdGYqAju": {
-        "id": "1EvdGYqAju",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "Тот, кто ходит на двух ногах, — враг.\nТот, кто ходит на четырёх (равно как и тот, у кого крылья), — друг.\nЖивотное да не носит одежду.\nЖивотное да не спит в кровати.\nЖивотное да не пьёт спиртного.\nЖивотное да не убьёт другое животное.\nВсе животные равны.",
-        "createdAt": "2017-05-25 19:13:42",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 45
         }
     }
 }

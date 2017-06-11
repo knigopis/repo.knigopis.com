@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
+    > Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥
+
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
     > ASIN: B001CJW7ZY
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > 2.откладывать в современном мире,  при нынешней инфляции.....Про будущую стоимость денег тогда никто не знал.
 
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
-    > Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.
 
 * Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 
-* Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
-[lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 
 
-_11.06.2017 19:57:12_
+_11.06.2017 21:58:24_
