@@ -10,7 +10,7 @@ Kevin B. Connolly
 
 ### The Culture of Critique: An Evolutionary Analysis of Jewish Involvement in Twentieth-Century Intellectual and Political Movements
 Kevin MacDonald
-> [2017-06-06] 
+> [2017-06-06] ASIN: B00BA5AAPY
 
 
 ### Китаец
