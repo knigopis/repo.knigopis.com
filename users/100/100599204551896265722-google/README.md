@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>39</sup>
+# Список прочитанных книг пользователя exulted<sup>40</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Buying and Selling Volatility (Frontiers in Finance Series)
 Kevin B. Connolly
 > [2017-06-10] ASIN: B001CJW7ZY
+
+
+### The Culture of Critique: An Evolutionary Analysis of Jewish Involvement in Twentieth-Century Intellectual and Political Movements
+Kevin MacDonald
+> [2017-06-06] 
 
 
 ### Китаец
