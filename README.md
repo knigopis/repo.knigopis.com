@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>542</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
-[Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 
 
-_11.06.2017 19:04:50_
+_11.06.2017 19:57:12_
