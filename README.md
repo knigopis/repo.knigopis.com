@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>542</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
-[aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 
 
-_11.06.2017 11:14:34_
+_11.06.2017 15:11:36_
