@@ -1,4 +1,10 @@
 {
+    "113575116124799570565-google": {
+        "id": "113575116124799570565-google",
+        "nickname": "ikozlov",
+        "booksCount": 0,
+        "updatedAt": "2017-06-11 19:57:09"
+    },
     "1548904568487232-facebook": {
         "id": "1548904568487232-facebook",
         "nickname": "Dassska",
@@ -172,11 +178,5 @@
         "nickname": "lana_1312",
         "booksCount": 1,
         "updatedAt": "2017-06-04 15:58:39"
-    },
-    "104502610850806942588-google": {
-        "id": "104502610850806942588-google",
-        "nickname": "Zhi",
-        "booksCount": 1,
-        "updatedAt": "2017-06-04 12:38:37"
     }
 }
