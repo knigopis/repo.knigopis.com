@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
 * Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
 * Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
 * Скотный двор ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>45</sup>
-* Коты-Воители: Долгое эхо ~ [EsterHani](users/305/30558181-vkontakte)<sup>109</sup>
 
 
-_10.06.2017 14:47:25_
+_11.06.2017 09:26:56_

@@ -1,4 +1,16 @@
 {
+    "xVeTZPvZbF": {
+        "id": "xVeTZPvZbF",
+        "title": "Buying and Selling Volatility (Frontiers in Finance Series)",
+        "author": "Kevin B. Connolly",
+        "notes": "ASIN: B001CJW7ZY",
+        "createdAt": "2017-06-11 09:26:56",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 39
+        }
+    },
     "VKwI67TvKl": {
         "id": "VKwI67TvKl",
         "title": "Кровавый остров",
@@ -345,18 +357,6 @@
             "id": "1577468-vkontakte",
             "nickname": "Беска",
             "booksCount": 45
-        }
-    },
-    "kkahCrwQgm": {
-        "id": "kkahCrwQgm",
-        "title": "Маленькие тролли и большое наводнение",
-        "author": "Туве Янссон",
-        "notes": "",
-        "createdAt": "2017-06-06 22:43:04",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 44
         }
     }
 }

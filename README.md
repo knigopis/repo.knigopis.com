@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
+    > ASIN: B001CJW7ZY
+
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
     > Идеи интересные, но
     > 1. повторяют одно и то же   - пять законов,  а пересказывают ...
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.
 
 * Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
-    > Часть 5
 
 * Хроники Нарнии: Принц Каспиан ~ [EsterHani](users/305/30558181-vkontakte)<sup>114</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
 
-* Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>39</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>541</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
-[Lesia](users/148/1482702765127959-facebook)<sup>1</sup> 
 
 
-_11.06.2017 06:56:21_
+_11.06.2017 09:26:56_

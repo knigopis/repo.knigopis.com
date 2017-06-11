@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>38</sup>
+# Список прочитанных книг пользователя exulted<sup>39</sup>
 ---
 
 ## 2017
+
+### Buying and Selling Volatility (Frontiers in Finance Series)
+Kevin B. Connolly
+> [2017-06-10] ASIN: B001CJW7ZY
+
 
 ### Китаец
 Колесов Евгений
