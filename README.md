@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ivaevda](users/499/499871320-yandex)<sup>1</sup> 
+[ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>542</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 
 
-_11.06.2017 15:13:12_
+_11.06.2017 15:13:24_
