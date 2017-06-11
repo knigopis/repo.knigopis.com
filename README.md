@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>542</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>541</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>117</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [aberdoch](users/457/457053297961317-facebook)<sup>1</sup> 
 
 
-_11.06.2017 09:28:32_
+_11.06.2017 11:14:34_
