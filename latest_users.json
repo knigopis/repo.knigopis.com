@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 541,
+        "updatedAt": "2017-06-11 06:07:39"
+    },
     "102171422-vkontakte": {
         "id": "102171422-vkontakte",
         "nickname": "Proxvost",
@@ -148,12 +154,6 @@
         "nickname": "Zhi",
         "booksCount": 1,
         "updatedAt": "2017-06-04 12:38:37"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 540,
-        "updatedAt": "2017-06-04 10:02:38"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
