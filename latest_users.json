@@ -1,4 +1,10 @@
 {
+    "499871320-yandex": {
+        "id": "499871320-yandex",
+        "nickname": "ivaevda",
+        "booksCount": 0,
+        "updatedAt": "2017-06-11 15:11:33"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "nastjusha201",
         "booksCount": 0,
         "updatedAt": "2017-06-03 09:36:11"
-    },
-    "457053297961317-facebook": {
-        "id": "457053297961317-facebook",
-        "nickname": "aberdoch",
-        "booksCount": 1,
-        "updatedAt": "2017-06-03 08:40:18"
     }
 }
