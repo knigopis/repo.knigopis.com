@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>542</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>299</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>1</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>1</sup> 
-[nastjusha201](users/193/193070751-yandex)<sup>0</sup> 
 
 
-_11.06.2017 15:13:24_
+_11.06.2017 19:04:50_
