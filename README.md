@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
 [Mrs13](users/118/118049897850017649660-google)<sup>3</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [any2h](users/843/84361408-vkontakte)<sup>0</sup> 
 [yoolya](users/703/703201379817863-facebook)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>219</sup> 
-[Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 
 
-_12.06.2017 14:45:34_
+_12.06.2017 16:40:09_
