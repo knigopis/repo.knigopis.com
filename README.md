@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mrs13](users/118/118049897850017649660-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>219</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>52</sup> 
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
-[kronos4](users/219/219471728-vkontakte)<sup>1</sup> 
 
 
-_12.06.2017 09:33:46_
+_12.06.2017 09:47:16_
