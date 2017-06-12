@@ -1,4 +1,10 @@
 {
+    "1367331593336478-facebook": {
+        "id": "1367331593336478-facebook",
+        "nickname": "Shpinat",
+        "booksCount": 0,
+        "updatedAt": "2017-06-12 16:40:07"
+    },
     "83788782-vkontakte": {
         "id": "83788782-vkontakte",
         "nickname": "Ангелина",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 219,
         "updatedAt": "2017-06-07 07:35:39"
-    },
-    "1485367461478452-facebook": {
-        "id": "1485367461478452-facebook",
-        "nickname": "Flatline",
-        "booksCount": 0,
-        "updatedAt": "2017-06-06 12:11:55"
     }
 }
