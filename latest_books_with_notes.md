@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и методы рационального мышления ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 * Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
 * Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
 * Убить Пересмешника ~ [Apprentice ](users/528/52821952-vkontakte)<sup>73</sup>
-* Коты-Воители: Знамение луны ~ [EsterHani](users/305/30558181-vkontakte)<sup>110</sup>
 
 
-_11.06.2017 21:58:24_
+_12.06.2017 09:33:46_

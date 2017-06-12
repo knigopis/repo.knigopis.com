@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 141,
+        "updatedAt": "2017-06-12 09:33:46"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "kronos4",
         "booksCount": 1,
         "updatedAt": "2017-06-05 14:58:29"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 299,
-        "updatedAt": "2017-06-05 10:03:36"
     }
 }
