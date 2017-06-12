@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 116,
+        "updatedAt": "2017-06-12 09:47:31"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Mrs13",
@@ -88,12 +94,6 @@
         "nickname": "Doctor Dali",
         "booksCount": 0,
         "updatedAt": "2017-06-09 14:47:40"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 115,
-        "updatedAt": "2017-06-09 13:37:38"
     },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",

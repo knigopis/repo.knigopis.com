@@ -1,4 +1,16 @@
 {
+    "GSyqjgMA3B": {
+        "id": "GSyqjgMA3B",
+        "title": "Хроники Нарнии: Серебряное кресло",
+        "author": "Клайв Льюис",
+        "notes": "Часть 6",
+        "createdAt": "2017-06-12 09:47:31",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 116
+        }
+    },
     "mvOo9n4w7X": {
         "id": "mvOo9n4w7X",
         "title": "Гарри Поттер и методы рационального мышления",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 100
-        }
-    },
-    "W3SdLpblNj": {
-        "id": "W3SdLpblNj",
-        "title": "Убить Пересмешника",
-        "author": "Харпер Ли",
-        "notes": "9/10",
-        "createdAt": "2017-05-25 22:04:21",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 73
         }
     }
 }

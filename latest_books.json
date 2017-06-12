@@ -1,4 +1,16 @@
 {
+    "GSyqjgMA3B": {
+        "id": "GSyqjgMA3B",
+        "title": "Хроники Нарнии: Серебряное кресло",
+        "author": "Клайв Льюис",
+        "notes": "Часть 6",
+        "createdAt": "2017-06-12 09:47:31",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 116
+        }
+    },
     "mvOo9n4w7X": {
         "id": "mvOo9n4w7X",
         "title": "Гарри Поттер и методы рационального мышления",
@@ -344,18 +356,6 @@
         "user": {
             "id": "1577468-vkontakte",
             "nickname": "Беска",
-            "booksCount": 48
-        }
-    },
-    "CKnxRKHxN-": {
-        "id": "CKnxRKHxN-",
-        "title": "Метро 2033. Ниже ада",
-        "author": "Гребенщиков Андрей",
-        "notes": "Иван и Костя. Отшельник.\nЕкатеринбург.",
-        "createdAt": "2017-06-07 15:39:48",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
             "booksCount": 48
         }
     }

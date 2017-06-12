@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>115</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>116</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Серебряное кресло
+Клайв Льюис
+> Часть 6
+
 
 ### Хроники Нарнии: Покоритель Зари
 Клайв Льюис

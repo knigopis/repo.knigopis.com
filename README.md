@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
+    > Часть 6
+
 * Гарри Поттер и методы рационального мышления ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
     > Каюсь, раньше предвзято относился к фанфикам (не читал, но осуждаю), особенно после всяких оттенков серого. Недавно сестра посоветовала прочитать эту книгу - прочитал на одном духу (хотя и объемная, ~1500 книжных страниц) и остался очень доволен.
     > В книге подробно разобраны многие из вопросов, которые возникают в голове рационалиста, когда он читает книги об оригинальном Гарри Поттере. Что есть магия, как ее можно использовать? В чем несовершенство мира волшебников? Что будет, если использовать достижения науки, техники, психологии мира маглов в мире волшебников? В общем когда я читал, то вспоминал многие вопросы, которыми сам задавался.
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥
 
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
-    > ASIN: B001CJW7ZY
 
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
 
-* Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
 [Mrs13](users/118/118049897850017649660-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>115</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 
 
-_12.06.2017 09:47:16_
+_12.06.2017 09:47:31_
