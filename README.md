@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mrs13](users/118/118049897850017649660-google)<sup>2</sup> 
+[Mrs13](users/118/118049897850017649660-google)<sup>3</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Flatline](users/148/1485367461478452-facebook)<sup>0</sup> 
 
 
-_12.06.2017 10:07:42_
+_12.06.2017 10:10:11_
