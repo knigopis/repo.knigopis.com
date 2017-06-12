@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 53,
+        "updatedAt": "2017-06-12 14:45:34"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Mrs13",
@@ -166,12 +172,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 219,
         "updatedAt": "2017-06-07 07:35:39"
-    },
-    "83788782-vkontakte": {
-        "id": "83788782-vkontakte",
-        "nickname": "Ангелина",
-        "booksCount": 52,
-        "updatedAt": "2017-06-06 18:24:49"
     },
     "1485367461478452-facebook": {
         "id": "1485367461478452-facebook",

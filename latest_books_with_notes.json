@@ -1,4 +1,16 @@
 {
+    "iJPcy0appY": {
+        "id": "iJPcy0appY",
+        "title": "Иметь и не иметь.",
+        "author": "Эрнест Хемигуэй",
+        "notes": "Понравилось. Не Вау конечно, но всё же. Читается легко. +",
+        "createdAt": "2017-06-12 14:45:34",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 53
+        }
+    },
     "GSyqjgMA3B": {
         "id": "GSyqjgMA3B",
         "title": "Хроники Нарнии: Серебряное кресло",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 31
-        }
-    },
-    "YXhEn2LKA9": {
-        "id": "YXhEn2LKA9",
-        "title": "Конкурентная разведка",
-        "author": "Бенджамин Джилад",
-        "notes": "в процессе",
-        "createdAt": "2017-05-26 09:30:53",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 100
         }
     }
 }

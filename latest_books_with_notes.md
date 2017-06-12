@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
 * Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
 * Гарри Поттер и методы рационального мышления ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 * Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
 * Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
 * Союз пяти ~ [Derek777](users/153/15386028-yandex)<sup>31</sup>
-* Конкурентная разведка ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>100</sup>
 
 
-_12.06.2017 09:47:31_
+_12.06.2017 14:45:34_

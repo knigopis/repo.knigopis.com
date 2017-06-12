@@ -1,4 +1,16 @@
 {
+    "iJPcy0appY": {
+        "id": "iJPcy0appY",
+        "title": "Иметь и не иметь.",
+        "author": "Эрнест Хемигуэй",
+        "notes": "Понравилось. Не Вау конечно, но всё же. Читается легко. +",
+        "createdAt": "2017-06-12 14:45:34",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 53
+        }
+    },
     "PoGIUH2Hre": {
         "id": "PoGIUH2Hre",
         "title": "Мисс Черити",
@@ -345,18 +357,6 @@
             "id": "301311796988465-facebook",
             "nickname": "Marine Maevs",
             "booksCount": 1
-        }
-    },
-    "7FJjNl8Psw": {
-        "id": "7FJjNl8Psw",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2017-06-08 13:52:56",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 27
         }
     }
 }
