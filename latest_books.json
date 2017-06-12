@@ -1,4 +1,16 @@
 {
+    "zdml_rpqBG": {
+        "id": "zdml_rpqBG",
+        "title": "Руководство астронавта по жизни на Земле",
+        "author": "Крис Хэдфилд",
+        "notes": "10/10",
+        "createdAt": "2017-06-12 20:05:45",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 74
+        }
+    },
     "d0T2QDj4uk": {
         "id": "d0T2QDj4uk",
         "title": "Хороните своих мертвецов (Старший инспектор Гамаш 6)",
@@ -345,18 +357,6 @@
             "id": "301311796988465-facebook",
             "nickname": "Marine Maevs",
             "booksCount": 3
-        }
-    },
-    "mwj5zJP5jS": {
-        "id": "mwj5zJP5jS",
-        "title": "Шантарам",
-        "author": "Грегори Робертс",
-        "notes": "",
-        "createdAt": "2017-06-08 19:47:20",
-        "user": {
-            "id": "301311796988465-facebook",
-            "nickname": "Marine Maevs",
-            "booksCount": 2
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 74,
+        "updatedAt": "2017-06-12 20:05:45"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "yoolya",
         "booksCount": 1,
         "updatedAt": "2017-06-07 08:57:54"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 219,
-        "updatedAt": "2017-06-07 07:35:39"
     }
 }

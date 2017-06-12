@@ -1,4 +1,16 @@
 {
+    "zdml_rpqBG": {
+        "id": "zdml_rpqBG",
+        "title": "Руководство астронавта по жизни на Земле",
+        "author": "Крис Хэдфилд",
+        "notes": "10/10",
+        "createdAt": "2017-06-12 20:05:45",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 74
+        }
+    },
     "iJPcy0appY": {
         "id": "iJPcy0appY",
         "title": "Иметь и не иметь.",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 32
-        }
-    },
-    "fkviFjiqnI": {
-        "id": "fkviFjiqnI",
-        "title": "Союз пяти",
-        "author": "Алексей Толстой",
-        "notes": "Короткий. Монополисты решили купить весь мир по дешевке. Разрушили луну. Но люди перестали использовать деньги. И злодеи остались в дураках. 5 из 10.",
-        "createdAt": "2017-05-28 05:25:43",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 31
         }
     }
 }

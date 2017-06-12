@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>73</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>74</sup>
 ---
 
 ## 2017
+
+### Руководство астронавта по жизни на Земле
+Крис Хэдфилд
+> [2017-06-12] 10/10
+
 
 ### Убить Пересмешника
 Харпер Ли
