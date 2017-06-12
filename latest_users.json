@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 4,
+        "updatedAt": "2017-06-12 18:36:32"
+    },
     "1367331593336478-facebook": {
         "id": "1367331593336478-facebook",
         "nickname": "Shpinat",
@@ -10,12 +16,6 @@
         "nickname": "Ангелина",
         "booksCount": 53,
         "updatedAt": "2017-06-12 14:45:34"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Mrs13",
-        "booksCount": 3,
-        "updatedAt": "2017-06-12 10:10:11"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

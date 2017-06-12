@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>4</sup> 
 [Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
-[Mrs13](users/118/118049897850017649660-google)<sup>3</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>219</sup> 
 
 
-_12.06.2017 16:40:09_
+_12.06.2017 18:36:32_

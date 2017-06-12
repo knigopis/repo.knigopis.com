@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>3</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>4</sup>
 ---
 
 ## 2017
+
+### Хороните своих мертвецов (Старший инспектор Гамаш 6)
+Луиза Пенни
+> [2017-06-12] 
+
 
 ### Девушка в поезде
 Пола Хокинс
