@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Mrs13",
+        "booksCount": 0,
+        "updatedAt": "2017-06-12 09:47:14"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "Flatline",
         "booksCount": 0,
         "updatedAt": "2017-06-06 12:11:55"
-    },
-    "219471728-vkontakte": {
-        "id": "219471728-vkontakte",
-        "nickname": "kronos4",
-        "booksCount": 1,
-        "updatedAt": "2017-06-05 14:58:29"
     }
 }
