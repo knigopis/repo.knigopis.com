@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
 * Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
 * Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
@@ -30,7 +31,6 @@
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
 * Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
 * Звёздные корабли ~ [Derek777](users/153/15386028-yandex)<sup>33</sup>
-* Звезда КЭЦ ~ [Derek777](users/153/15386028-yandex)<sup>32</sup>
 
 
-_12.06.2017 20:05:46_
+_13.06.2017 14:07:07_

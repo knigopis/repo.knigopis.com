@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 11,
+        "updatedAt": "2017-06-13 14:07:07"
+    },
     "107168359403805629275-google": {
         "id": "107168359403805629275-google",
         "nickname": "MazhitEl`ka",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 48,
         "updatedAt": "2017-06-07 15:39:48"
-    },
-    "84361408-vkontakte": {
-        "id": "84361408-vkontakte",
-        "nickname": "any2h",
-        "booksCount": 0,
-        "updatedAt": "2017-06-07 13:27:15"
     }
 }
