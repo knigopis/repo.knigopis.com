@@ -1,4 +1,10 @@
 {
+    "107168359403805629275-google": {
+        "id": "107168359403805629275-google",
+        "nickname": "MazhitEl`ka",
+        "booksCount": 0,
+        "updatedAt": "2017-06-13 06:51:10"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "any2h",
         "booksCount": 0,
         "updatedAt": "2017-06-07 13:27:15"
-    },
-    "703201379817863-facebook": {
-        "id": "703201379817863-facebook",
-        "nickname": "yoolya",
-        "booksCount": 1,
-        "updatedAt": "2017-06-07 08:57:54"
     }
 }
