@@ -1,7 +1,12 @@
-# List of books read by [olegessenin](http://vk.com/id3901448)<sup>11</sup>
+# List of books read by [olegessenin](http://vk.com/id3901448)<sup>12</sup>
 ---
 
 ## 2017
+
+### Пустошь. Дом страха
+Блейк Крауч
+> [2017-06] Читается за раз. Отличный триллер
+
 
 ### Дон Кихот Ламанческий ч.2
 М. Сервантес

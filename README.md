@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
+    > Читается за раз. Отличный триллер
+
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
     > Вторая часть слегка нудновата. Удивляет новое раскрытие образа Дон Кихота и Пансы
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
-    > Понравилось. Не Вау конечно, но всё же. Читается легко. +
 
 * Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
 
-* Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[olegessenin](users/390/3901448-vkontakte)<sup>11</sup> 
+[olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 [MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 
 
-_13.06.2017 14:07:07_
+_13.06.2017 14:08:30_

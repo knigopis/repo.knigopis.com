@@ -1,4 +1,16 @@
 {
+    "Z9NkZaCS0c": {
+        "id": "Z9NkZaCS0c",
+        "title": "Пустошь. Дом страха",
+        "author": "Блейк Крауч",
+        "notes": "Читается за раз. Отличный триллер",
+        "createdAt": "2017-06-13 14:08:30",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 12
+        }
+    },
     "USt_xsdmcn": {
         "id": "USt_xsdmcn",
         "title": "Дон Кихот Ламанческий ч.2",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 78
-        }
-    },
-    "4OgB53IuZM": {
-        "id": "4OgB53IuZM",
-        "title": "Звёздные корабли",
-        "author": "Иван Ефремов",
-        "notes": "Короткий. Доказательство существования инопланетян. Раскопки. Интересные мысли. 9 из 10.",
-        "createdAt": "2017-05-28 05:38:32",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 33
         }
     }
 }

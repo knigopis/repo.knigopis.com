@@ -1,4 +1,16 @@
 {
+    "Z9NkZaCS0c": {
+        "id": "Z9NkZaCS0c",
+        "title": "Пустошь. Дом страха",
+        "author": "Блейк Крауч",
+        "notes": "Читается за раз. Отличный триллер",
+        "createdAt": "2017-06-13 14:08:30",
+        "user": {
+            "id": "3901448-vkontakte",
+            "nickname": "olegessenin",
+            "booksCount": 12
+        }
+    },
     "USt_xsdmcn": {
         "id": "USt_xsdmcn",
         "title": "Дон Кихот Ламанческий ч.2",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 2
-        }
-    },
-    "hr_LQP3IbS": {
-        "id": "hr_LQP3IbS",
-        "title": "На маяк",
-        "author": "Вирджиния Вульф",
-        "notes": "",
-        "createdAt": "2017-06-08 20:34:38",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 1
         }
     }
 }
