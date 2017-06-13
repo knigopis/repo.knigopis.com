@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>4</sup> 
 [Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>48</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 [any2h](users/843/84361408-vkontakte)<sup>0</sup> 
-[yoolya](users/703/703201379817863-facebook)<sup>1</sup> 
 
 
-_12.06.2017 20:05:46_
+_13.06.2017 06:51:13_
