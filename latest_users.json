@@ -1,4 +1,10 @@
 {
+    "11266965-vkontakte": {
+        "id": "11266965-vkontakte",
+        "nickname": "kintapanda",
+        "booksCount": 0,
+        "updatedAt": "2017-06-14 17:00:59"
+    },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
         "nickname": "creepy_g",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 48,
         "updatedAt": "2017-06-07 19:27:14"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 48,
-        "updatedAt": "2017-06-07 15:39:48"
     }
 }
