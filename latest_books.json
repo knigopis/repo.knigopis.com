@@ -1,4 +1,16 @@
 {
+    "NyhPpmtgai": {
+        "id": "NyhPpmtgai",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-06-14 22:18:37",
+        "user": {
+            "id": "110654020423735976376-google",
+            "nickname": "Mugetsu",
+            "booksCount": 1
+        }
+    },
     "EAOV9tgeYA": {
         "id": "EAOV9tgeYA",
         "title": "Этюд в багровых тонах",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 47
-        }
-    },
-    "vgz-r_rij0": {
-        "id": "vgz-r_rij0",
-        "title": "Как чашка за чашкой строилась Starbucks",
-        "author": "Дори Йенг/ Говард Шульц",
-        "notes": "",
-        "createdAt": "2017-06-08 20:43:51",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 7
         }
     }
 }
