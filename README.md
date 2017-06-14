@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tuladragon](users/408/408987669-vkontakte)<sup>0</sup> 
+[tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>101</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Implicat](users/118/118341692435130654754-google)<sup>1</sup> 
 
 
-_14.06.2017 19:08:02_
+_14.06.2017 19:09:03_

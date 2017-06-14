@@ -1,4 +1,16 @@
 {
+    "yC3yzo_XJw": {
+        "id": "yC3yzo_XJw",
+        "title": "Война и мир, 4 тома",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-06-14 19:09:03",
+        "user": {
+            "id": "408987669-vkontakte",
+            "nickname": "tuladragon",
+            "booksCount": 1
+        }
+    },
     "oiH2MgymL3": {
         "id": "oiH2MgymL3",
         "title": "Парфюмер. История одного убийцы.",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 6
-        }
-    },
-    "eJZKozSb7b": {
-        "id": "eJZKozSb7b",
-        "title": "Доставляя счастье: от нуля до миллиарда",
-        "author": "Тони Шей",
-        "notes": "",
-        "createdAt": "2017-06-08 20:40:15",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 5
         }
     }
 }
