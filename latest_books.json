@@ -1,4 +1,16 @@
 {
+    "GEj_HaOHKL": {
+        "id": "GEj_HaOHKL",
+        "title": "В конце ноября",
+        "author": "Туве Янссон",
+        "notes": "последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.",
+        "createdAt": "2017-06-14 18:00:06",
+        "user": {
+            "id": "1577468-vkontakte",
+            "nickname": "Беска",
+            "booksCount": 49
+        }
+    },
     "WZ6W5BAOFP": {
         "id": "WZ6W5BAOFP",
         "title": "Протоколы колдуна Стоменова",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 4
-        }
-    },
-    "olS2C5dPqW": {
-        "id": "olS2C5dPqW",
-        "title": "Тайм-менеджмент",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2017-06-08 20:37:36",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 3
         }
     }
 }

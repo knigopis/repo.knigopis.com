@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
+    > последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.
+
 * Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
     > Любопытная вещь как с точки зрения художественного произведения, так и с точки зрения оккультного труда. Впрочем, личность автора заставляет сомневаться.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Читается за раз. Отличный триллер
 
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
-    > Вторая часть слегка нудновата. Удивляет новое раскрытие образа Дон Кихота и Пансы
 
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
 
-* Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Implicat](users/118/118341692435130654754-google)<sup>1</sup> 
 [bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
 [ana](users/748/748716291981692-facebook)<sup>1</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>48</sup> 
 
 
-_14.06.2017 17:01:01_
+_14.06.2017 18:00:06_
