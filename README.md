@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 [MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
 [ana](users/748/748716291981692-facebook)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>48</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 
 
-_14.06.2017 16:04:41_
+_14.06.2017 17:01:01_
