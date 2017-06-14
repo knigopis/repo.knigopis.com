@@ -1,4 +1,10 @@
 {
+    "201967417-vkontakte": {
+        "id": "201967417-vkontakte",
+        "nickname": "scarteslett",
+        "booksCount": 56,
+        "updatedAt": "2017-06-14 21:27:11"
+    },
     "408987669-vkontakte": {
         "id": "408987669-vkontakte",
         "nickname": "tuladragon",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 27,
         "updatedAt": "2017-06-08 13:52:56"
-    },
-    "118341692435130654754-google": {
-        "id": "118341692435130654754-google",
-        "nickname": "Implicat",
-        "booksCount": 1,
-        "updatedAt": "2017-06-08 08:59:13"
     }
 }

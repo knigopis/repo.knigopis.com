@@ -1,4 +1,4 @@
-# List of books read by [scarteslett](http://vk.com/id201967417)<sup>55</sup>
+# List of books read by [scarteslett](http://vk.com/id201967417)<sup>56</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Этюд в багровых тонах
 Артур Конан Дойл
 > [2017-04-11] 
+
+
+### Этюд в багровых тонах
+Артур Конан Дойл
+> [2017-04-09] 
 
 
 ### Унесенные ветром

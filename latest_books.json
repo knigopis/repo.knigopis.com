@@ -1,4 +1,16 @@
 {
+    "EAOV9tgeYA": {
+        "id": "EAOV9tgeYA",
+        "title": "Этюд в багровых тонах",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-06-14 21:27:11",
+        "user": {
+            "id": "201967417-vkontakte",
+            "nickname": "scarteslett",
+            "booksCount": 56
+        }
+    },
     "yC3yzo_XJw": {
         "id": "yC3yzo_XJw",
         "title": "Война и мир, 4 тома",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 7
-        }
-    },
-    "dXew4jmeU0": {
-        "id": "dXew4jmeU0",
-        "title": "Тайм-менеджмент по помидору",
-        "author": "Штаффан Нётеберг",
-        "notes": "",
-        "createdAt": "2017-06-08 20:41:48",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 6
         }
     }
 }
