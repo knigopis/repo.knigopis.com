@@ -1,4 +1,10 @@
 {
+    "408987669-vkontakte": {
+        "id": "408987669-vkontakte",
+        "nickname": "tuladragon",
+        "booksCount": 0,
+        "updatedAt": "2017-06-14 19:08:00"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Implicat",
         "booksCount": 1,
         "updatedAt": "2017-06-08 08:59:13"
-    },
-    "17205066-vkontakte": {
-        "id": "17205066-vkontakte",
-        "nickname": "bogdanovamarinaalexandrovna",
-        "booksCount": 0,
-        "updatedAt": "2017-06-08 05:34:14"
     }
 }
