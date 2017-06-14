@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
+    > Любопытная вещь как с точки зрения художественного произведения, так и с точки зрения оккультного труда. Впрочем, личность автора заставляет сомневаться.
+
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
     > Читается за раз. Отличный триллер
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вторая часть слегка нудновата. Удивляет новое раскрытие образа Дон Кихота и Пансы
 
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
-    > 10/10
 
 * Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
 
-* Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 [MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>117</sup> 
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>48</sup> 
 
 
-_13.06.2017 14:08:30_
+_14.06.2017 16:04:41_

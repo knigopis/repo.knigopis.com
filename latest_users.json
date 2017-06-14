@@ -1,4 +1,10 @@
 {
+    "74743045-vkontakte": {
+        "id": "74743045-vkontakte",
+        "nickname": "creepy_g",
+        "booksCount": 118,
+        "updatedAt": "2017-06-14 16:04:41"
+    },
     "3901448-vkontakte": {
         "id": "3901448-vkontakte",
         "nickname": "olegessenin",
@@ -100,12 +106,6 @@
         "nickname": "Chiffi",
         "booksCount": 18,
         "updatedAt": "2017-06-10 14:47:25"
-    },
-    "74743045-vkontakte": {
-        "id": "74743045-vkontakte",
-        "nickname": "creepy_g",
-        "booksCount": 117,
-        "updatedAt": "2017-06-10 13:25:32"
     },
     "4084951-vkontakte": {
         "id": "4084951-vkontakte",

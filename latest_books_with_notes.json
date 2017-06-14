@@ -1,4 +1,16 @@
 {
+    "WZ6W5BAOFP": {
+        "id": "WZ6W5BAOFP",
+        "title": "Протоколы колдуна Стоменова",
+        "author": "Вит Ценев",
+        "notes": "Любопытная вещь как с точки зрения художественного произведения, так и с точки зрения оккультного труда. Впрочем, личность автора заставляет сомневаться.",
+        "createdAt": "2017-06-14 16:04:41",
+        "user": {
+            "id": "74743045-vkontakte",
+            "nickname": "creepy_g",
+            "booksCount": 118
+        }
+    },
     "Z9NkZaCS0c": {
         "id": "Z9NkZaCS0c",
         "title": "Пустошь. Дом страха",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 10
-        }
-    },
-    "rRCuMRTjdz": {
-        "id": "rRCuMRTjdz",
-        "title": "Рассказы",
-        "author": "Чехов Антон",
-        "notes": "Дипломат",
-        "createdAt": "2017-05-28 11:09:59",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 78
         }
     }
 }

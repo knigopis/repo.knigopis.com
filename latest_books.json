@@ -1,4 +1,16 @@
 {
+    "WZ6W5BAOFP": {
+        "id": "WZ6W5BAOFP",
+        "title": "Протоколы колдуна Стоменова",
+        "author": "Вит Ценев",
+        "notes": "Любопытная вещь как с точки зрения художественного произведения, так и с точки зрения оккультного труда. Впрочем, личность автора заставляет сомневаться.",
+        "createdAt": "2017-06-14 16:04:41",
+        "user": {
+            "id": "74743045-vkontakte",
+            "nickname": "creepy_g",
+            "booksCount": 118
+        }
+    },
     "Z9NkZaCS0c": {
         "id": "Z9NkZaCS0c",
         "title": "Пустошь. Дом страха",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 3
-        }
-    },
-    "BsB9CWqgk6": {
-        "id": "BsB9CWqgk6",
-        "title": "Хладнокровное убийство",
-        "author": "Трумен Капоте",
-        "notes": "",
-        "createdAt": "2017-06-08 20:36:49",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 2
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
 * Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
 * Дон Кихот Ламанческий ч.1 ~ [olegessenin](users/390/3901448-vkontakte)<sup>10</sup>
-* Рассказы ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>78</sup>
 
 
-_13.06.2017 14:08:30_
+_14.06.2017 16:04:41_
