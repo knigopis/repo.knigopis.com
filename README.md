@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mugetsu](users/110/110654020423735976376-google)<sup>0</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>101</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>27</sup> 
 
 
-_14.06.2017 21:27:11_
+_14.06.2017 22:17:41_
