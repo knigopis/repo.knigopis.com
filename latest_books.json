@@ -1,4 +1,16 @@
 {
+    "oiH2MgymL3": {
+        "id": "oiH2MgymL3",
+        "title": "Парфюмер. История одного убийцы.",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2017-06-14 19:00:54",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 101
+        }
+    },
     "GEj_HaOHKL": {
         "id": "GEj_HaOHKL",
         "title": "В конце ноября",
@@ -345,18 +357,6 @@
             "id": "1477128102351730-facebook",
             "nickname": "sokolovasokolova",
             "booksCount": 5
-        }
-    },
-    "tXO4TpxyA2": {
-        "id": "tXO4TpxyA2",
-        "title": "Rework: бизнес без предрассудков",
-        "author": "Джейсон Фрайд",
-        "notes": "",
-        "createdAt": "2017-06-08 20:39:01",
-        "user": {
-            "id": "1477128102351730-facebook",
-            "nickname": "sokolovasokolova",
-            "booksCount": 4
         }
     }
 }

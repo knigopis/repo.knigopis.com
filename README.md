@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>101</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>27</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>1</sup> 
 [bogdanovamarinaalexandrovna](users/172/17205066-vkontakte)<sup>0</sup> 
-[ana](users/748/748716291981692-facebook)<sup>1</sup> 
 
 
-_14.06.2017 18:00:06_
+_14.06.2017 19:00:54_
