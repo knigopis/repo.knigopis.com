@@ -1,4 +1,16 @@
 {
+    "5vtCXvY5tL": {
+        "id": "5vtCXvY5tL",
+        "title": "451 градусов по Фаренгейту",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2017-06-15 20:01:48",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 1
+        }
+    },
     "iEa9d-mHPE": {
         "id": "iEa9d-mHPE",
         "title": "Прызнанне ў забойстве",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 541
-        }
-    },
-    "Z2_YILupdM": {
-        "id": "Z2_YILupdM",
-        "title": "пп",
-        "author": "тт",
-        "notes": "тпп",
-        "createdAt": "2017-06-10 15:50:28",
-        "user": {
-            "id": "102171422-vkontakte",
-            "nickname": "Proxvost",
-            "booksCount": 3
         }
     }
 }
