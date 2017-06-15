@@ -1,4 +1,16 @@
 {
+    "wlvpkqfHWR": {
+        "id": "wlvpkqfHWR",
+        "title": "Фактотум",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:14:44",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 28
+        }
+    },
     "B1VcI0Z0aw": {
         "id": "B1VcI0Z0aw",
         "title": "Почтамт",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 5
-        }
-    },
-    "eBfjwpX4aK": {
-        "id": "eBfjwpX4aK",
-        "title": "Знак четырех",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-06-15 07:26:04",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 56
         }
     }
 }
