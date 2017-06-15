@@ -1,4 +1,10 @@
 {
+    "201967417-vkontakte": {
+        "id": "201967417-vkontakte",
+        "nickname": "scarteslett",
+        "booksCount": 57,
+        "updatedAt": "2017-06-15 07:23:58"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -10,12 +16,6 @@
         "nickname": "Mugetsu",
         "booksCount": 1,
         "updatedAt": "2017-06-14 22:18:37"
-    },
-    "201967417-vkontakte": {
-        "id": "201967417-vkontakte",
-        "nickname": "scarteslett",
-        "booksCount": 56,
-        "updatedAt": "2017-06-14 21:27:11"
     },
     "408987669-vkontakte": {
         "id": "408987669-vkontakte",
