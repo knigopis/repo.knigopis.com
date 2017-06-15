@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>13</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>14</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### Артур Конан Дойл
+рассказы
+> [2016-02] 
 
 
 ### Артур Конан Дойл
