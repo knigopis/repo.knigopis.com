@@ -1,4 +1,16 @@
 {
+    "YT-zryRDLK": {
+        "id": "YT-zryRDLK",
+        "title": "Артур Конан Дойл",
+        "author": "Собака Баскервилей",
+        "notes": "",
+        "createdAt": "2017-06-15 20:07:58",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 13
+        }
+    },
     "AYuBp8nbAT": {
         "id": "AYuBp8nbAT",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 53
-        }
-    },
-    "PoGIUH2Hre": {
-        "id": "PoGIUH2Hre",
-        "title": "Мисс Черити",
-        "author": "Мари-Од Мюрай",
-        "notes": "Милый роман со счастливым концом о жизни Беатрис Поттер.",
-        "createdAt": "2017-06-12 10:10:11",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Mrs13",
-            "booksCount": 3
         }
     }
 }
