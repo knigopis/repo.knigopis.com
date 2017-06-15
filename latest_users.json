@@ -1,4 +1,10 @@
 {
+    "108740102521248876385-google": {
+        "id": "108740102521248876385-google",
+        "nickname": "gudvinr",
+        "booksCount": 0,
+        "updatedAt": "2017-06-15 16:21:36"
+    },
     "17119404-vkontakte": {
         "id": "17119404-vkontakte",
         "nickname": "Mariya",
@@ -172,11 +178,5 @@
         "nickname": "Doctor Dali",
         "booksCount": 0,
         "updatedAt": "2017-06-09 14:47:40"
-    },
-    "1477128102351730-facebook": {
-        "id": "1477128102351730-facebook",
-        "nickname": "sokolovasokolova",
-        "booksCount": 7,
-        "updatedAt": "2017-06-08 20:43:51"
     }
 }
