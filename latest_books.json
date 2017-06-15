@@ -1,4 +1,16 @@
 {
+    "B1VcI0Z0aw": {
+        "id": "B1VcI0Z0aw",
+        "title": "Почтамт",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:14:20",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 27
+        }
+    },
     "Sf9FmxFolU": {
         "id": "Sf9FmxFolU",
         "title": "Сияние",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 56
-        }
-    },
-    "K2hE_K3_7W": {
-        "id": "K2hE_K3_7W",
-        "title": "Этюд в багровых тонах",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-06-15 07:23:58",
-        "user": {
-            "id": "201967417-vkontakte",
-            "nickname": "scarteslett",
-            "booksCount": 57
         }
     }
 }
