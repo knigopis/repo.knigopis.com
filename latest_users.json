@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 48,
+        "updatedAt": "2017-06-15 05:50:43"
+    },
     "110654020423735976376-google": {
         "id": "110654020423735976376-google",
         "nickname": "Mugetsu",
@@ -160,12 +166,6 @@
         "nickname": "Doctor Dali",
         "booksCount": 0,
         "updatedAt": "2017-06-09 14:47:40"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 47,
-        "updatedAt": "2017-06-08 21:24:53"
     },
     "1477128102351730-facebook": {
         "id": "1477128102351730-facebook",

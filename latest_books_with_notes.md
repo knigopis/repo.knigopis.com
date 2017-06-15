@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
 * Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
@@ -30,7 +31,6 @@
 * еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 * Искусство спора: о теории и практике спора ~ [lucius](users/838/83820536-yandex)<sup>140</sup>
 * Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
-* Изысканный труп ~ [creepy_g](users/747/74743045-vkontakte)<sup>115</sup>
 
 
-_14.06.2017 18:00:06_
+_15.06.2017 05:50:43_

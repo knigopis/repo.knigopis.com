@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
+    > Профес-ор, командир, Моана-ра, спец по кристаллам да и вообще техническими подробностями книга излишествует. 
+    > Впринципе серия закончена, но при желании автор может и продолжить
+
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
     > последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Любопытная вещь как с точки зрения художественного произведения, так и с точки зрения оккультного труда. Впрочем, личность автора заставляет сомневаться.
 
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
-    > Читается за раз. Отличный триллер
 
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
 
-* Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
@@ -60,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>47</sup> 
 [sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
 
 
-_14.06.2017 22:18:37_
+_15.06.2017 05:50:43_
