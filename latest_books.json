@@ -1,4 +1,16 @@
 {
+    "Dpjm6foqHt": {
+        "id": "Dpjm6foqHt",
+        "title": "Преступление и наказание",
+        "author": "Ф.М Достоевский",
+        "notes": "",
+        "createdAt": "2017-06-15 20:04:42",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 8
+        }
+    },
     "GyUuiIPJJz": {
         "id": "GyUuiIPJJz",
         "title": "Чудо голодания",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 141
-        }
-    },
-    "P8PHorYXWl": {
-        "id": "P8PHorYXWl",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
-        "createdAt": "2017-06-11 21:58:24",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 29
         }
     }
 }
