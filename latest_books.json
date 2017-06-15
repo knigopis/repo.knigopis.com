@@ -1,4 +1,16 @@
 {
+    "llWvUvgzLl": {
+        "id": "llWvUvgzLl",
+        "title": "Отцы и дети",
+        "author": "И.С Тургенев",
+        "notes": "",
+        "createdAt": "2017-06-15 20:02:41",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 3
+        }
+    },
     "ePlEikIdte": {
         "id": "ePlEikIdte",
         "title": "Госпожа Бовари",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 39
-        }
-    },
-    "VKwI67TvKl": {
-        "id": "VKwI67TvKl",
-        "title": "Кровавый остров",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-06-11 06:56:21",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 257
         }
     }
 }
