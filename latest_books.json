@@ -1,4 +1,16 @@
 {
+    "6WaL-D2Gpd": {
+        "id": "6WaL-D2Gpd",
+        "title": "Макулатура",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:15:35",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 32
+        }
+    },
     "_wdHUlny7v": {
         "id": "_wdHUlny7v",
         "title": "Голливуд",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 1
-        }
-    },
-    "iEa9d-mHPE": {
-        "id": "iEa9d-mHPE",
-        "title": "Прызнанне ў забойстве",
-        "author": "Георгій Марчук",
-        "notes": "",
-        "createdAt": "2017-06-15 19:31:06",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 112
         }
     }
 }

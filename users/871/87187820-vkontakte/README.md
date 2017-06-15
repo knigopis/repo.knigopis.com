@@ -1,7 +1,12 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>31</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>32</sup>
 ---
 
 ## 2016
+
+### Макулатура
+Чарльз Буковски
+> [2016-12] 
+
 
 ### Идиот
 Ф.М Достоевский
