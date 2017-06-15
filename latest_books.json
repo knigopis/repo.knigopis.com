@@ -1,4 +1,16 @@
 {
+    "CMv0_aauJq": {
+        "id": "CMv0_aauJq",
+        "title": "Чемодан",
+        "author": "С.Д Довлатов",
+        "notes": "",
+        "createdAt": "2017-06-15 20:22:08",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 42
+        }
+    },
     "CNlkTMt1hI": {
         "id": "CNlkTMt1hI",
         "title": "Иностранка",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 11
-        }
-    },
-    "FrPxPjT61o": {
-        "id": "FrPxPjT61o",
-        "title": "Пять недель на воздушном шаре",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-06-15 20:05:32",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 10
         }
     }
 }
