@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>38</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>39</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Проклятые
 Чак Паланик
 > [2017-04] 
+
+
+### Зона: записки надзирателя
+С.Д Довлатов
+> [2017-03] 
 
 
 ### Снафф
