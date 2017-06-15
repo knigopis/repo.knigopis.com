@@ -1,7 +1,12 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>43</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>44</sup>
 ---
 
 ## 2017
+
+### рассказы
+М.М Зощенко
+> [2017-05] 
+
 
 ### Голубая книга
 М.М Зощенко
