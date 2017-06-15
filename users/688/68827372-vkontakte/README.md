@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>111</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>112</sup>
 ---
 
 ## 2017
+
+### Прызнанне ў забойстве
+Георгій Марчук
+> [2017-06-15] 
+
 
 ### Крык на хутары
 Георгій Марчук
