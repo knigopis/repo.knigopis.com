@@ -1,4 +1,16 @@
 {
+    "7L88h6S16c": {
+        "id": "7L88h6S16c",
+        "title": "Хлеб с ветчиной",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:15:06",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 30
+        }
+    },
     "U-zGtCqiJh": {
         "id": "U-zGtCqiJh",
         "title": "Женщины",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 111
-        }
-    },
-    "BNpcePJ4yh": {
-        "id": "BNpcePJ4yh",
-        "title": "Атлант расправил плечи",
-        "author": "Ренд Айн",
-        "notes": "",
-        "createdAt": "2017-06-15 12:44:43",
-        "user": {
-            "id": "17119404-vkontakte",
-            "nickname": "Mariya",
-            "booksCount": 1
         }
     }
 }
