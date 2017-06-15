@@ -1,4 +1,16 @@
 {
+    "GyUuiIPJJz": {
+        "id": "GyUuiIPJJz",
+        "title": "Чудо голодания",
+        "author": "Поль Брегг",
+        "notes": "",
+        "createdAt": "2017-06-15 20:04:13",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 7
+        }
+    },
     "iOLQmRo4zJ": {
         "id": "iOLQmRo4zJ",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 29
-        }
-    },
-    "x0yEx9PTj8": {
-        "id": "x0yEx9PTj8",
-        "title": "Преступление и наказание",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2017-06-11 15:13:12",
-        "user": {
-            "id": "499871320-yandex",
-            "nickname": "ivaevda",
-            "booksCount": 1
         }
     }
 }

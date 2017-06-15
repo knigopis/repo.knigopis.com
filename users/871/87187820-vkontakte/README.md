@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>6</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>7</sup>
 ---
 
 ## 2016
@@ -34,6 +34,10 @@
 ### 451 градусов по Фаренгейту
 Рей Бредбери
 > [2015-09] 
+
+
+### Чудо голодания
+Поль Брегг
 
 
 
