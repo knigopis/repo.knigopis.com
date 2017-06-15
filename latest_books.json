@@ -1,4 +1,16 @@
 {
+    "GTS9t4qiTp": {
+        "id": "GTS9t4qiTp",
+        "title": "Тени в раю",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-15 20:13:26",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 25
+        }
+    },
     "-frcnXANUL": {
         "id": "-frcnXANUL",
         "title": "Ночь в Лиссабоне",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 48
-        }
-    },
-    "NyhPpmtgai": {
-        "id": "NyhPpmtgai",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-06-14 22:18:37",
-        "user": {
-            "id": "110654020423735976376-google",
-            "nickname": "Mugetsu",
-            "booksCount": 1
         }
     }
 }
