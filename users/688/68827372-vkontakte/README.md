@@ -1,7 +1,12 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>110</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>111</sup>
 ---
 
 ## 2017
+
+### Крык на хутары
+Георгій Марчук
+> [2017-06-07] 
+
 
 ### Как расставить свои приоритеты
 Яков Жуковский

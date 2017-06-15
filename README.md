@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[antasiar](users/688/68827372-vkontakte)<sup>111</sup> 
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
-[Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
 
 
-_15.06.2017 16:21:39_
+_15.06.2017 19:30:13_

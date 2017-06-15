@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 111,
+        "updatedAt": "2017-06-15 19:30:13"
+    },
     "108740102521248876385-google": {
         "id": "108740102521248876385-google",
         "nickname": "gudvinr",
@@ -172,11 +178,5 @@
         "nickname": "miroslava.cmirnova",
         "booksCount": 0,
         "updatedAt": "2017-06-09 19:20:32"
-    },
-    "1920688634870224-facebook": {
-        "id": "1920688634870224-facebook",
-        "nickname": "Doctor Dali",
-        "booksCount": 0,
-        "updatedAt": "2017-06-09 14:47:40"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "vpdxM44J61": {
+        "id": "vpdxM44J61",
+        "title": "Крык на хутары",
+        "author": "Георгій Марчук",
+        "notes": "",
+        "createdAt": "2017-06-15 19:30:13",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 111
+        }
+    },
     "BNpcePJ4yh": {
         "id": "BNpcePJ4yh",
         "title": "Атлант расправил плечи",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 18
-        }
-    },
-    "2P_PveArkU": {
-        "id": "2P_PveArkU",
-        "title": "Звезда Ада",
-        "author": "Андрей Дашков",
-        "notes": "Мрачноватая история с интересными, но порою слишком клишированными моментами. Главный герой тоже не блещет - каков мир, таков и персонаж. Читать можно.",
-        "createdAt": "2017-06-10 13:25:32",
-        "user": {
-            "id": "74743045-vkontakte",
-            "nickname": "creepy_g",
-            "booksCount": 117
         }
     }
 }
