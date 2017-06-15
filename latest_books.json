@@ -1,4 +1,16 @@
 {
+    "-frcnXANUL": {
+        "id": "-frcnXANUL",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-15 20:13:15",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 24
+        }
+    },
     "tPyVndqijy": {
         "id": "tPyVndqijy",
         "title": "Возлюби ближнего своего",
@@ -344,18 +356,6 @@
         "user": {
             "id": "110654020423735976376-google",
             "nickname": "Mugetsu",
-            "booksCount": 1
-        }
-    },
-    "yC3yzo_XJw": {
-        "id": "yC3yzo_XJw",
-        "title": "Война и мир, 4 тома",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2017-06-14 19:09:03",
-        "user": {
-            "id": "408987669-vkontakte",
-            "nickname": "tuladragon",
             "booksCount": 1
         }
     }
