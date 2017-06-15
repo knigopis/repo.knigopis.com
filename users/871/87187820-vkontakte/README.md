@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>18</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>19</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### Моби Дик
+Герман Мелвилл
+> [2016-06] 
 
 
 ### О дивный новый мир
