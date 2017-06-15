@@ -1,4 +1,16 @@
 {
+    "tbp6BCBUMC": {
+        "id": "tbp6BCBUMC",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-15 20:11:56",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 20
+        }
+    },
     "Rj0HcIjY4W": {
         "id": "Rj0HcIjY4W",
         "title": "Моби Дик",
@@ -345,18 +357,6 @@
             "id": "74743045-vkontakte",
             "nickname": "creepy_g",
             "booksCount": 118
-        }
-    },
-    "Z9NkZaCS0c": {
-        "id": "Z9NkZaCS0c",
-        "title": "Пустошь. Дом страха",
-        "author": "Блейк Крауч",
-        "notes": "Читается за раз. Отличный триллер",
-        "createdAt": "2017-06-13 14:08:30",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 12
         }
     }
 }
