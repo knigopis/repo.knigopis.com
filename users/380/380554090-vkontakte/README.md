@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>27</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>28</sup>
 ---
 
 ## 2017
+
+### Лёгкий способ бросить курить
+Аллен Карр
+> [2017-06-16] 
+
 
 ### Богатый папа, бедный папа
 Роберт Кийосаки

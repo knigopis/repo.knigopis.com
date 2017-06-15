@@ -1,4 +1,16 @@
 {
+    "tYecI6EBQq": {
+        "id": "tYecI6EBQq",
+        "title": "Лёгкий способ бросить курить",
+        "author": "Аллен Карр",
+        "notes": "",
+        "createdAt": "2017-06-15 21:23:26",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 28
+        }
+    },
     "4j6Oa6heM4": {
         "id": "4j6Oa6heM4",
         "title": "Путешествие к центру земли",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 15
-        }
-    },
-    "KxIU25507s": {
-        "id": "KxIU25507s",
-        "title": "Артур Конан Дойл",
-        "author": "рассказы",
-        "notes": "",
-        "createdAt": "2017-06-15 20:08:29",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 14
         }
     }
 }
