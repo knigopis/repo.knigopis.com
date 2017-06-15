@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>36</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>37</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Снафф
 Чак Паланик
 > [2017-03] 
+
+
+### Фантастичнее вымысла
+Чак Паланик
+> [2017-02] 
 
 
 ### Юг без признаков севера

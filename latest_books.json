@@ -1,4 +1,16 @@
 {
+    "wvBoK0_nES": {
+        "id": "wvBoK0_nES",
+        "title": "Фантастичнее вымысла",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-06-15 20:18:35",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 37
+        }
+    },
     "Zo6Rv_frFK": {
         "id": "Zo6Rv_frFK",
         "title": "Проклятые",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 6
-        }
-    },
-    "wdOFcLsEsd": {
-        "id": "wdOFcLsEsd",
-        "title": "Милый друг",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2017-06-15 20:03:30",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 5
         }
     }
 }
