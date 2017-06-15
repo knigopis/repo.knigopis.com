@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>20</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>21</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### Возвращение
+Эрих Мария Ремарк
+> [2016-08] 
 
 
 ### Три товарища
