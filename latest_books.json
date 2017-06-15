@@ -1,4 +1,16 @@
 {
+    "CNlkTMt1hI": {
+        "id": "CNlkTMt1hI",
+        "title": "Иностранка",
+        "author": "С.Д Довлатов",
+        "notes": "",
+        "createdAt": "2017-06-15 20:21:48",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 41
+        }
+    },
     "Ym_AagKLDj": {
         "id": "Ym_AagKLDj",
         "title": "Заповедник",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 10
-        }
-    },
-    "tNvKm2LBXr": {
-        "id": "tNvKm2LBXr",
-        "title": "Идиот",
-        "author": "Ф.М Достоевский",
-        "notes": "",
-        "createdAt": "2017-06-15 20:05:04",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 9
         }
     }
 }

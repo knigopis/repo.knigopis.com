@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[idgloomy](users/871/87187820-vkontakte)<sup>40</sup> 
+[idgloomy](users/871/87187820-vkontakte)<sup>41</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 
 
-_15.06.2017 20:21:13_
+_15.06.2017 20:21:48_
