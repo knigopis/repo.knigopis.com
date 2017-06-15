@@ -1,4 +1,16 @@
 {
+    "VVZab_OS7J": {
+        "id": "VVZab_OS7J",
+        "title": "Компромисс",
+        "author": "С.Д Довлатов",
+        "notes": "",
+        "createdAt": "2017-06-15 20:20:32",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 38
+        }
+    },
     "wvBoK0_nES": {
         "id": "wvBoK0_nES",
         "title": "Фантастичнее вымысла",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 7
-        }
-    },
-    "iOLQmRo4zJ": {
-        "id": "iOLQmRo4zJ",
-        "title": "Обломов",
-        "author": "И.А Гончаров",
-        "notes": "",
-        "createdAt": "2017-06-15 20:04:02",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 6
         }
     }
 }
