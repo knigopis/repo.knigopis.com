@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>25</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>26</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### Сияние
+Стивен Кинг
+> [2016-09] 
 
 
 ### Возлюби ближнего своего

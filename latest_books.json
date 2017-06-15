@@ -1,4 +1,16 @@
 {
+    "Sf9FmxFolU": {
+        "id": "Sf9FmxFolU",
+        "title": "Сияние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-06-15 20:13:50",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 26
+        }
+    },
     "GTS9t4qiTp": {
         "id": "GTS9t4qiTp",
         "title": "Тени в раю",
@@ -345,18 +357,6 @@
             "id": "201967417-vkontakte",
             "nickname": "scarteslett",
             "booksCount": 57
-        }
-    },
-    "3FHJSJuUJf": {
-        "id": "3FHJSJuUJf",
-        "title": "Негатор",
-        "author": "Алексей Переяславцев",
-        "notes": "Профес-ор, командир, Моана-ра, спец по кристаллам да и вообще техническими подробностями книга излишествует. \nВпринципе серия закончена, но при желании автор может и продолжить",
-        "createdAt": "2017-06-15 05:50:43",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 48
         }
     }
 }
