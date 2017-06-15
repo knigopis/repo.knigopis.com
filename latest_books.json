@@ -1,4 +1,16 @@
 {
+    "tPyVndqijy": {
+        "id": "tPyVndqijy",
+        "title": "Возлюби ближнего своего",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-15 20:12:56",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 23
+        }
+    },
     "PvKzN12LfH": {
         "id": "PvKzN12LfH",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "408987669-vkontakte",
             "nickname": "tuladragon",
             "booksCount": 1
-        }
-    },
-    "oiH2MgymL3": {
-        "id": "oiH2MgymL3",
-        "title": "Парфюмер. История одного убийцы.",
-        "author": "Патрик Зюскинд",
-        "notes": "",
-        "createdAt": "2017-06-14 19:00:54",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 101
         }
     }
 }
