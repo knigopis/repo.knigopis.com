@@ -1,4 +1,16 @@
 {
+    "wdOFcLsEsd": {
+        "id": "wdOFcLsEsd",
+        "title": "Милый друг",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2017-06-15 20:03:30",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 5
+        }
+    },
     "uo6txcS7t3": {
         "id": "uo6txcS7t3",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 542
-        }
-    },
-    "eGHnA2q1cR": {
-        "id": "eGHnA2q1cR",
-        "title": "The Culture of Critique: An Evolutionary Analysis of Jewish Involvement in Twentieth-Century Intellectual and Political Movements",
-        "author": "Kevin MacDonald",
-        "notes": "",
-        "createdAt": "2017-06-11 09:28:32",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 40
         }
     }
 }
