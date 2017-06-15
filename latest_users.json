@@ -1,4 +1,10 @@
 {
+    "17119404-vkontakte": {
+        "id": "17119404-vkontakte",
+        "nickname": "Mariya",
+        "booksCount": 0,
+        "updatedAt": "2017-06-15 12:42:24"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "sokolovasokolova",
         "booksCount": 7,
         "updatedAt": "2017-06-08 20:43:51"
-    },
-    "301311796988465-facebook": {
-        "id": "301311796988465-facebook",
-        "nickname": "Marine Maevs",
-        "booksCount": 3,
-        "updatedAt": "2017-06-08 19:57:59"
     }
 }
