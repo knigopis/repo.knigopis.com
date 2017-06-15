@@ -1,4 +1,16 @@
 {
+    "vczGtuQMzG": {
+        "id": "vczGtuQMzG",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-06-15 20:10:50",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 18
+        }
+    },
     "uIzLK60YFz": {
         "id": "uIzLK60YFz",
         "title": "рассказы",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 11
-        }
-    },
-    "zdml_rpqBG": {
-        "id": "zdml_rpqBG",
-        "title": "Руководство астронавта по жизни на Земле",
-        "author": "Крис Хэдфилд",
-        "notes": "10/10",
-        "createdAt": "2017-06-12 20:05:45",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 74
         }
     }
 }
