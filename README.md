@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>5</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rimanka](users/408/4084951-vkontakte)<sup>0</sup> 
 [miroslava.cmirnova](users/231/231305029-vkontakte)<sup>0</sup> 
 [Doctor Dali](users/192/1920688634870224-facebook)<sup>0</sup> 
-[sokolovasokolova](users/147/1477128102351730-facebook)<sup>7</sup> 
 
 
-_15.06.2017 12:44:43_
+_15.06.2017 16:21:39_
