@@ -1,4 +1,16 @@
 {
+    "BNpcePJ4yh": {
+        "id": "BNpcePJ4yh",
+        "title": "Атлант расправил плечи",
+        "author": "Ренд Айн",
+        "notes": "",
+        "createdAt": "2017-06-15 12:44:43",
+        "user": {
+            "id": "17119404-vkontakte",
+            "nickname": "Mariya",
+            "booksCount": 1
+        }
+    },
     "nfbrtd6eVe": {
         "id": "nfbrtd6eVe",
         "title": "Темный оттенок магии",
@@ -345,18 +357,6 @@
             "id": "74743045-vkontakte",
             "nickname": "creepy_g",
             "booksCount": 117
-        }
-    },
-    "EnWvow883j": {
-        "id": "EnWvow883j",
-        "title": "Эффект Люцифера",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-06-09 14:47:31",
-        "user": {
-            "id": "1920688634870224-facebook",
-            "nickname": "Doctor Dali",
-            "booksCount": 1
         }
     }
 }
