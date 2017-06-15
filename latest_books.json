@@ -1,4 +1,16 @@
 {
+    "XFjU5nWSrq": {
+        "id": "XFjU5nWSrq",
+        "title": "Снафф",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-06-15 20:17:53",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 35
+        }
+    },
     "moFez3C2Ka": {
         "id": "moFez3C2Ka",
         "title": "Удушье",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 4
-        }
-    },
-    "llWvUvgzLl": {
-        "id": "llWvUvgzLl",
-        "title": "Отцы и дети",
-        "author": "И.С Тургенев",
-        "notes": "",
-        "createdAt": "2017-06-15 20:02:41",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 3
         }
     }
 }
