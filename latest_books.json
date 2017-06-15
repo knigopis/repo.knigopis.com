@@ -1,4 +1,16 @@
 {
+    "ePlEikIdte": {
+        "id": "ePlEikIdte",
+        "title": "Госпожа Бовари",
+        "author": "Гюстав Флобер",
+        "notes": "",
+        "createdAt": "2017-06-15 20:02:15",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 2
+        }
+    },
     "5vtCXvY5tL": {
         "id": "5vtCXvY5tL",
         "title": "451 градусов по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 257
-        }
-    },
-    "8QRHNM9Xvn": {
-        "id": "8QRHNM9Xvn",
-        "title": "Моя жизнь. Мои достижения",
-        "author": "Генри Форд",
-        "notes": "",
-        "createdAt": "2017-06-11 06:07:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 541
         }
     }
 }
