@@ -1,7 +1,12 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>35</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>36</sup>
 ---
 
 ## 2017
+
+### Проклятые
+Чак Паланик
+> [2017-04] 
+
 
 ### Снафф
 Чак Паланик

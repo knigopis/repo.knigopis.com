@@ -1,4 +1,16 @@
 {
+    "Zo6Rv_frFK": {
+        "id": "Zo6Rv_frFK",
+        "title": "Проклятые",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-06-15 20:18:04",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 36
+        }
+    },
     "XFjU5nWSrq": {
         "id": "XFjU5nWSrq",
         "title": "Снафф",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 5
-        }
-    },
-    "uo6txcS7t3": {
-        "id": "uo6txcS7t3",
-        "title": "Жизнь",
-        "author": "Ги де Мопассан",
-        "notes": "",
-        "createdAt": "2017-06-15 20:03:05",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 4
         }
     }
 }
