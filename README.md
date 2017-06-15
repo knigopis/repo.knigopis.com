@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[scarteslett](users/201/201967417-vkontakte)<sup>55</sup> 
+[scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
 
 
-_15.06.2017 07:25:19_
+_15.06.2017 07:26:04_
