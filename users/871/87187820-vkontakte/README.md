@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>30</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>31</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### Голливуд
+Чарльз Буковски
+> [2016-10] 
 
 
 ### Фактотум
