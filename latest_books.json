@@ -1,4 +1,16 @@
 {
+    "PvKzN12LfH": {
+        "id": "PvKzN12LfH",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-06-15 20:12:28",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 22
+        }
+    },
     "LeR479VC9S": {
         "id": "LeR479VC9S",
         "title": "Возвращение",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 101
-        }
-    },
-    "GEj_HaOHKL": {
-        "id": "GEj_HaOHKL",
-        "title": "В конце ноября",
-        "author": "Туве Янссон",
-        "notes": "последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.",
-        "createdAt": "2017-06-14 18:00:06",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 49
         }
     }
 }
