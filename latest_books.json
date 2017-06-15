@@ -1,4 +1,16 @@
 {
+    "4j6Oa6heM4": {
+        "id": "4j6Oa6heM4",
+        "title": "Путешествие к центру земли",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-06-15 20:23:09",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 45
+        }
+    },
     "n4-iH3NbTV": {
         "id": "n4-iH3NbTV",
         "title": "рассказы",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 14
-        }
-    },
-    "AYuBp8nbAT": {
-        "id": "AYuBp8nbAT",
-        "title": "Мастер и Маргарита",
-        "author": "М.А Булгаков",
-        "notes": "",
-        "createdAt": "2017-06-15 20:06:44",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 12
         }
     }
 }
