@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>33</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>34</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Юг без признаков севера
 Чарльз Буковски
 > [2017-02] 
+
+
+### Удушье
+Чак Паланик
+> [2017-01] 
 
 
 

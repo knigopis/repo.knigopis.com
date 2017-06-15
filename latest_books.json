@@ -1,4 +1,16 @@
 {
+    "moFez3C2Ka": {
+        "id": "moFez3C2Ka",
+        "title": "Удушье",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-06-15 20:17:18",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 34
+        }
+    },
     "0XrD5Flkyc": {
         "id": "0XrD5Flkyc",
         "title": "Юг без признаков севера",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 3
-        }
-    },
-    "ePlEikIdte": {
-        "id": "ePlEikIdte",
-        "title": "Госпожа Бовари",
-        "author": "Гюстав Флобер",
-        "notes": "",
-        "createdAt": "2017-06-15 20:02:15",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 2
         }
     }
 }
