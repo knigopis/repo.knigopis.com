@@ -1,4 +1,16 @@
 {
+    "AYuBp8nbAT": {
+        "id": "AYuBp8nbAT",
+        "title": "Мастер и Маргарита",
+        "author": "М.А Булгаков",
+        "notes": "",
+        "createdAt": "2017-06-15 20:06:44",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 12
+        }
+    },
     "5bvlRawZ8C": {
         "id": "5bvlRawZ8C",
         "title": "Никак, нигде, никогда",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Mrs13",
             "booksCount": 3
-        }
-    },
-    "-M4432NBHY": {
-        "id": "-M4432NBHY",
-        "title": "Куколки",
-        "author": "Джон Уиндем",
-        "notes": "Не так интересно, как могло бы быть - моральные идеи без искры, а миру книги не хватает подробностей.",
-        "createdAt": "2017-06-12 10:07:42",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Mrs13",
-            "booksCount": 2
         }
     }
 }
