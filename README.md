@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>5</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 [MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>4</sup> 
 [Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Marine Maevs](users/301/301311796988465-facebook)<sup>3</sup> 
 
 
-_15.06.2017 07:26:04_
+_15.06.2017 08:11:55_

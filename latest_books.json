@@ -1,4 +1,16 @@
 {
+    "nfbrtd6eVe": {
+        "id": "nfbrtd6eVe",
+        "title": "Темный оттенок магии",
+        "author": "Виктория Шваб",
+        "notes": "",
+        "createdAt": "2017-06-15 08:11:55",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 5
+        }
+    },
     "eBfjwpX4aK": {
         "id": "eBfjwpX4aK",
         "title": "Знак четырех",
@@ -345,18 +357,6 @@
             "id": "1920688634870224-facebook",
             "nickname": "Doctor Dali",
             "booksCount": 1
-        }
-    },
-    "MP9433nXl6": {
-        "id": "MP9433nXl6",
-        "title": "Хроники Нарнии: Покоритель Зари, или Плавание на край света",
-        "author": "Клайв Льюис",
-        "notes": "Часть 5",
-        "createdAt": "2017-06-09 13:37:38",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 115
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>4</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>5</sup>
 ---
 
 ## 2017
+
+### Темный оттенок магии
+Виктория Шваб
+> [2017-06-15] 
+
 
 ### Хороните своих мертвецов
 Луиза Пенни
