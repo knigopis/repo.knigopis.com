@@ -1,4 +1,16 @@
 {
+    "P7vUqZxAgB": {
+        "id": "P7vUqZxAgB",
+        "title": "рассказы",
+        "author": "В.М Шукшин",
+        "notes": "",
+        "createdAt": "2017-06-15 20:09:12",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 16
+        }
+    },
     "2GxhGCtadY": {
         "id": "2GxhGCtadY",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 74
-        }
-    },
-    "d0T2QDj4uk": {
-        "id": "d0T2QDj4uk",
-        "title": "Хороните своих мертвецов (Старший инспектор Гамаш 6)",
-        "author": "Луиза Пенни",
-        "notes": "",
-        "createdAt": "2017-06-12 18:36:32",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 4
         }
     }
 }

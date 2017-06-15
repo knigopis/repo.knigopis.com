@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>15</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>16</sup>
 ---
 
 ## 2016
@@ -36,6 +36,10 @@
 ### Никак, нигде, никогда
 Джулия Ванг
 > [2016-01] 
+
+
+### рассказы
+В.М Шукшин
 
 
 
