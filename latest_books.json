@@ -1,4 +1,16 @@
 {
+    "U-zGtCqiJh": {
+        "id": "U-zGtCqiJh",
+        "title": "Женщины",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:14:55",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 29
+        }
+    },
     "wlvpkqfHWR": {
         "id": "wlvpkqfHWR",
         "title": "Фактотум",
@@ -345,18 +357,6 @@
             "id": "17119404-vkontakte",
             "nickname": "Mariya",
             "booksCount": 1
-        }
-    },
-    "nfbrtd6eVe": {
-        "id": "nfbrtd6eVe",
-        "title": "Темный оттенок магии",
-        "author": "Виктория Шваб",
-        "notes": "",
-        "createdAt": "2017-06-15 08:11:55",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 5
         }
     }
 }
