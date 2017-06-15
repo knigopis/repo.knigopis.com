@@ -1,4 +1,16 @@
 {
+    "uo6txcS7t3": {
+        "id": "uo6txcS7t3",
+        "title": "Жизнь",
+        "author": "Ги де Мопассан",
+        "notes": "",
+        "createdAt": "2017-06-15 20:03:05",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 4
+        }
+    },
     "llWvUvgzLl": {
         "id": "llWvUvgzLl",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 40
-        }
-    },
-    "xVeTZPvZbF": {
-        "id": "xVeTZPvZbF",
-        "title": "Buying and Selling Volatility (Frontiers in Finance Series)",
-        "author": "Kevin B. Connolly",
-        "notes": "ASIN: B001CJW7ZY",
-        "createdAt": "2017-06-11 09:26:56",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 39
         }
     }
 }
