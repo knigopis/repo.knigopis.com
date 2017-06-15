@@ -1,4 +1,4 @@
-# List of books read by [idgloomy](http://vk.com/id87187820)<sup>16</sup>
+# List of books read by [idgloomy](http://vk.com/id87187820)<sup>17</sup>
 ---
 
 ## 2016
@@ -11,6 +11,11 @@
 ### Милый друг
 Ги де Мопассан
 > [2016-11] 
+
+
+### рассказы
+А.И Куприн
+> [2016-04] 
 
 
 ### Мы
