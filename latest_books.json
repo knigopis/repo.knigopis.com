@@ -1,4 +1,16 @@
 {
+    "0XrD5Flkyc": {
+        "id": "0XrD5Flkyc",
+        "title": "Юг без признаков севера",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-06-15 20:16:10",
+        "user": {
+            "id": "87187820-vkontakte",
+            "nickname": "idgloomy",
+            "booksCount": 33
+        }
+    },
     "6WaL-D2Gpd": {
         "id": "6WaL-D2Gpd",
         "title": "Макулатура",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 2
-        }
-    },
-    "5vtCXvY5tL": {
-        "id": "5vtCXvY5tL",
-        "title": "451 градусов по Фаренгейту",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2017-06-15 20:01:48",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 1
         }
     }
 }
