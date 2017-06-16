@@ -1,7 +1,12 @@
-# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>1</sup>
+# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>2</sup>
 ---
 
 ## 2017
+
+### Величайший торговец в мире
+Ог Мандино
+> [2017-06-16] 
+
 
 ### Над пропастью во ржи
 Джером Сэлинджер

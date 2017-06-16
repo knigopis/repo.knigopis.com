@@ -1,4 +1,16 @@
 {
+    "j57yBGpZHO": {
+        "id": "j57yBGpZHO",
+        "title": "Величайший торговец в мире",
+        "author": "Ог Мандино",
+        "notes": "",
+        "createdAt": "2017-06-16 14:07:41",
+        "user": {
+            "id": "114398174831177070999-google",
+            "nickname": "ZiggaFromNigga",
+            "booksCount": 2
+        }
+    },
     "DXnbKXkAwX": {
         "id": "DXnbKXkAwX",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 20
-        }
-    },
-    "Rj0HcIjY4W": {
-        "id": "Rj0HcIjY4W",
-        "title": "Моби Дик",
-        "author": "Герман Мелвилл",
-        "notes": "",
-        "createdAt": "2017-06-15 20:11:26",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 19
         }
     }
 }
