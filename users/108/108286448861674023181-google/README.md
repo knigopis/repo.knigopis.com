@@ -1,4 +1,4 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>21</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>22</sup>
 ---
 
 ## 2017
@@ -103,6 +103,10 @@
 
 
 ## Other years
+
+### Таня Гроттер и трон Древнира
+Дмитрий Емец
+
 
 ### Таня Гроттер и Золотая Пиявка
 Дмитрий Емец
