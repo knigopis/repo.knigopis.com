@@ -1,4 +1,16 @@
 {
+    "jrd3_H7wiC": {
+        "id": "jrd3_H7wiC",
+        "title": "Локвуд и компания (1) Кричащая лестница",
+        "author": "Джонатан Страуд",
+        "notes": "Внезапно отлично написано и очень интересно.",
+        "createdAt": "2017-06-16 20:54:45",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 6
+        }
+    },
     "e5GkKXfczQ": {
         "id": "e5GkKXfczQ",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 5
-        }
-    },
-    "6jxLyBGb26": {
-        "id": "6jxLyBGb26",
-        "title": "Гаррі Поттер та Філософський камінь",
-        "author": "Дж. К. Роулінг",
-        "notes": "",
-        "createdAt": "2017-06-16 16:46:49",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 4
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>5</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>6</sup>
 ---
 
 ## 2017
+
+### Локвуд и компания (1) Кричащая лестница
+Джонатан Страуд
+> [2017-06-16] Внезапно отлично написано и очень интересно.
+
 
 ### Темный оттенок магии
 Виктория Шваб

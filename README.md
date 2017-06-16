@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>6</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>5</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 
 
-_16.06.2017 18:37:59_
+_16.06.2017 20:54:45_
