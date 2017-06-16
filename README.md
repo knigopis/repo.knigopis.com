@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ZiggaFromNigga](users/114/114398174831177070999-google)<sup>2</sup> 
+[ZiggaFromNigga](users/114/114398174831177070999-google)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>28</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 
 
-_16.06.2017 14:07:41_
+_16.06.2017 14:37:37_

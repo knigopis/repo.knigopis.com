@@ -1,7 +1,12 @@
-# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>2</sup>
+# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>3</sup>
 ---
 
 ## 2017
+
+### Черный кот
+Эдгар По
+> [2017-06-17] 
+
 
 ### Величайший торговец в мире
 Ог Мандино
