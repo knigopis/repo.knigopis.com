@@ -1,4 +1,16 @@
 {
+    "srWReYoL5k": {
+        "id": "srWReYoL5k",
+        "title": "Женщина в белом",
+        "author": "Уильям Коллинз",
+        "notes": "",
+        "createdAt": "2017-06-16 13:15:45",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 101
+        }
+    },
     "tYecI6EBQq": {
         "id": "tYecI6EBQq",
         "title": "Лёгкий способ бросить курить",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 18
-        }
-    },
-    "2GxhGCtadY": {
-        "id": "2GxhGCtadY",
-        "title": "Мы",
-        "author": "Е.И Замятин",
-        "notes": "",
-        "createdAt": "2017-06-15 20:08:51",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 15
         }
     }
 }

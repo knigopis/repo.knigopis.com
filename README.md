@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>101</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>28</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 [Proxvost](users/102/102171422-vkontakte)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>18</sup> 
 
 
-_15.06.2017 21:23:26_
+_16.06.2017 13:15:45_
