@@ -1,4 +1,4 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>28</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>29</sup>
 ---
 
 ## 2017
@@ -103,6 +103,10 @@
 
 
 ## 2002
+
+### Володар Перснів: Дві твердині
+Дж.Р.Р. Толкін
+
 
 ### Володар Перснів: Перстень з Мордору
 Дж.Р.Р. Толкін
