@@ -1,4 +1,16 @@
 {
+    "6jxLyBGb26": {
+        "id": "6jxLyBGb26",
+        "title": "Гаррі Поттер та Філософський камінь",
+        "author": "Дж. К. Роулінг",
+        "notes": "",
+        "createdAt": "2017-06-16 16:46:49",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 4
+        }
+    },
     "Y34GgHmDvE": {
         "id": "Y34GgHmDvE",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 25
-        }
-    },
-    "-frcnXANUL": {
-        "id": "-frcnXANUL",
-        "title": "Ночь в Лиссабоне",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-06-15 20:13:15",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 24
         }
     }
 }
