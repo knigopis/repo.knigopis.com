@@ -1,4 +1,10 @@
 {
+    "108286448861674023181-google": {
+        "id": "108286448861674023181-google",
+        "nickname": "axEAne",
+        "booksCount": 0,
+        "updatedAt": "2017-06-16 16:42:36"
+    },
     "114398174831177070999-google": {
         "id": "114398174831177070999-google",
         "nickname": "ZiggaFromNigga",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 40,
         "updatedAt": "2017-06-11 09:28:32"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 257,
-        "updatedAt": "2017-06-11 06:56:21"
     }
 }
