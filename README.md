@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[axEAne](users/108/108286448861674023181-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>28</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>542</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>40</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>257</sup> 
 
 
-_16.06.2017 14:37:37_
+_16.06.2017 16:42:37_
