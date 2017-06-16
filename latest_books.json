@@ -1,4 +1,16 @@
 {
+    "oIr52Sv5aK": {
+        "id": "oIr52Sv5aK",
+        "title": "Заговор корпорации Амбрелла",
+        "author": "Стефани Перри",
+        "notes": "",
+        "createdAt": "2017-06-16 17:43:36",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 15
+        }
+    },
     "utBQmbhTI9": {
         "id": "utBQmbhTI9",
         "title": "Гра Престолів",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 37
-        }
-    },
-    "Zo6Rv_frFK": {
-        "id": "Zo6Rv_frFK",
-        "title": "Проклятые",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-06-15 20:18:04",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 36
         }
     }
 }
