@@ -1,4 +1,16 @@
 {
+    "4aVmSGeTtN": {
+        "id": "4aVmSGeTtN",
+        "title": "Метро 2034",
+        "author": "Д. Глуховский",
+        "notes": "",
+        "createdAt": "2017-06-16 16:44:24",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 2
+        }
+    },
     "gDfhK1ncWs": {
         "id": "gDfhK1ncWs",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 23
-        }
-    },
-    "PvKzN12LfH": {
-        "id": "PvKzN12LfH",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-06-15 20:12:28",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 22
         }
     }
 }
