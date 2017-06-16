@@ -1,4 +1,16 @@
 {
+    "w5fhu3zfse": {
+        "id": "w5fhu3zfse",
+        "title": "Голодні ігри",
+        "author": "Сюзанна Коллінз",
+        "notes": "",
+        "createdAt": "2017-06-16 17:01:28",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 11
+        }
+    },
     "gEdSCFM4Tx": {
         "id": "gEdSCFM4Tx",
         "title": "Чёрный флаг",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 33
-        }
-    },
-    "6WaL-D2Gpd": {
-        "id": "6WaL-D2Gpd",
-        "title": "Макулатура",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-06-15 20:15:35",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 32
         }
     }
 }
