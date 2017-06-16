@@ -1,4 +1,16 @@
 {
+    "Y34GgHmDvE": {
+        "id": "Y34GgHmDvE",
+        "title": "Метро 2035",
+        "author": "Д. Глуховский",
+        "notes": "",
+        "createdAt": "2017-06-16 16:44:38",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 3
+        }
+    },
     "4aVmSGeTtN": {
         "id": "4aVmSGeTtN",
         "title": "Метро 2034",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 24
-        }
-    },
-    "tPyVndqijy": {
-        "id": "tPyVndqijy",
-        "title": "Возлюби ближнего своего",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-06-15 20:12:56",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 23
         }
     }
 }
