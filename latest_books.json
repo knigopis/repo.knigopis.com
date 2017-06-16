@@ -1,4 +1,16 @@
 {
+    "rIQdWE6WIH": {
+        "id": "rIQdWE6WIH",
+        "title": "Город Мертвых",
+        "author": "Стефани Перри",
+        "notes": "",
+        "createdAt": "2017-06-16 17:44:07",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 17
+        }
+    },
     "aTh0POSOvb": {
         "id": "aTh0POSOvb",
         "title": "Бухта Калибана",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 39
-        }
-    },
-    "VVZab_OS7J": {
-        "id": "VVZab_OS7J",
-        "title": "Компромисс",
-        "author": "С.Д Довлатов",
-        "notes": "",
-        "createdAt": "2017-06-15 20:20:32",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 38
         }
     }
 }
