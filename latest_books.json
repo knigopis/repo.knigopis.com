@@ -1,4 +1,16 @@
 {
+    "aTh0POSOvb": {
+        "id": "aTh0POSOvb",
+        "title": "Бухта Калибана",
+        "author": "Стефани Перри",
+        "notes": "",
+        "createdAt": "2017-06-16 17:43:51",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 16
+        }
+    },
     "oIr52Sv5aK": {
         "id": "oIr52Sv5aK",
         "title": "Заговор корпорации Амбрелла",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 38
-        }
-    },
-    "wvBoK0_nES": {
-        "id": "wvBoK0_nES",
-        "title": "Фантастичнее вымысла",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-06-15 20:18:35",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 37
         }
     }
 }
