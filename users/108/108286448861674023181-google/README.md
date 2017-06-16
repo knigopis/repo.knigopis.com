@@ -1,4 +1,4 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>8</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>9</sup>
 ---
 
 ## 2016
@@ -20,6 +20,10 @@
 
 
 ## 2005
+
+### Гаррі Поттер і напівкровний Принц
+Дж. К. Роулінг
+
 
 ### Гаррі Поттер і Орден Фенікса
 Дж. К. Роулінг
