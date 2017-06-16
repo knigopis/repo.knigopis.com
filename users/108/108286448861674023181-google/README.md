@@ -1,4 +1,4 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>25</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>26</sup>
 ---
 
 ## 2017
@@ -103,6 +103,10 @@
 
 
 ## Other years
+
+### Таня Гроттер и ботинки кентавра
+Дмитрий Емец
+
 
 ### Таня Гроттер и пенсне Ноя
 Дмитрий Емец
