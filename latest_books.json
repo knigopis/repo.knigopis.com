@@ -1,4 +1,16 @@
 {
+    "3yfAlM9G9l": {
+        "id": "3yfAlM9G9l",
+        "title": "Таня Гроттер и молот Перуна",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2017-06-16 17:47:50",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 24
+        }
+    },
     "pfKPbW1x1i": {
         "id": "pfKPbW1x1i",
         "title": "Таня Гроттер и посох волхвов",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 28
-        }
-    },
-    "4j6Oa6heM4": {
-        "id": "4j6Oa6heM4",
-        "title": "Путешествие к центру земли",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-06-15 20:23:09",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 45
         }
     }
 }
