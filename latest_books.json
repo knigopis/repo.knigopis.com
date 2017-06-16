@@ -1,4 +1,16 @@
 {
+    "MG9h4ni2i5": {
+        "id": "MG9h4ni2i5",
+        "title": "Библиотека Java: Том 1",
+        "author": "К. Хорстманн, Г. Корнелл",
+        "notes": "",
+        "createdAt": "2017-06-16 17:45:08",
+        "user": {
+            "id": "108286448861674023181-google",
+            "nickname": "axEAne",
+            "booksCount": 18
+        }
+    },
     "rIQdWE6WIH": {
         "id": "rIQdWE6WIH",
         "title": "Город Мертвых",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 40
-        }
-    },
-    "OqDy2jvPW3": {
-        "id": "OqDy2jvPW3",
-        "title": "Зона: записки надзирателя",
-        "author": "С.Д Довлатов",
-        "notes": "",
-        "createdAt": "2017-06-15 20:21:01",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 39
         }
     }
 }

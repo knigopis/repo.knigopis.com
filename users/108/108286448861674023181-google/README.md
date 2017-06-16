@@ -1,5 +1,12 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>17</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>18</sup>
 ---
+
+## 2017
+
+### Библиотека Java: Том 1
+К. Хорстманн, Г. Корнелл
+
+
 
 ## 2016
 
