@@ -1,4 +1,10 @@
 {
+    "414040473-vkontakte": {
+        "id": "414040473-vkontakte",
+        "nickname": "Койнов Александр",
+        "booksCount": 24,
+        "updatedAt": "2017-06-16 16:53:47"
+    },
     "108286448861674023181-google": {
         "id": "108286448861674023181-google",
         "nickname": "axEAne",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 542,
         "updatedAt": "2017-06-11 11:14:33"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 40,
-        "updatedAt": "2017-06-11 09:28:32"
     }
 }

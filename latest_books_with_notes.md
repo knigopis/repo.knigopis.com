@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 * Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
 * Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
@@ -30,7 +31,6 @@
 * Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
 * еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 * Искусство спора: о теории и практике спора ~ [lucius](users/838/83820536-yandex)<sup>140</sup>
-* Цветы для Элджерона ~ [Chiffi](users/105/105831994080785626680-google)<sup>17</sup>
 
 
-_15.06.2017 05:50:43_
+_16.06.2017 16:53:47_
