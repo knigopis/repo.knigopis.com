@@ -1,4 +1,10 @@
 {
+    "114398174831177070999-google": {
+        "id": "114398174831177070999-google",
+        "nickname": "ZiggaFromNigga",
+        "booksCount": 0,
+        "updatedAt": "2017-06-16 14:05:27"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 257,
         "updatedAt": "2017-06-11 06:56:21"
-    },
-    "102171422-vkontakte": {
-        "id": "102171422-vkontakte",
-        "nickname": "Proxvost",
-        "booksCount": 3,
-        "updatedAt": "2017-06-10 15:50:28"
     }
 }
