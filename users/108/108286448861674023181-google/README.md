@@ -1,4 +1,4 @@
-# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>4</sup>
+# List of books read by [axEAne](https://plus.google.com/+AlexKononchuk)<sup>5</sup>
 ---
 
 ## 2016
@@ -20,6 +20,10 @@
 
 
 ## 2003
+
+### Гаррі Поттер і Таємна кімната
+Дж. К. Роулінг
+
 
 ### Гаррі Поттер та Філософський камінь
 Дж. К. Роулінг
