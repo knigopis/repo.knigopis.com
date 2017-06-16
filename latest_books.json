@@ -1,4 +1,16 @@
 {
+    "DXnbKXkAwX": {
+        "id": "DXnbKXkAwX",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-06-16 14:06:39",
+        "user": {
+            "id": "114398174831177070999-google",
+            "nickname": "ZiggaFromNigga",
+            "booksCount": 1
+        }
+    },
     "srWReYoL5k": {
         "id": "srWReYoL5k",
         "title": "Женщина в белом",
@@ -345,18 +357,6 @@
             "id": "87187820-vkontakte",
             "nickname": "idgloomy",
             "booksCount": 19
-        }
-    },
-    "vczGtuQMzG": {
-        "id": "vczGtuQMzG",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2017-06-15 20:10:50",
-        "user": {
-            "id": "87187820-vkontakte",
-            "nickname": "idgloomy",
-            "booksCount": 18
         }
     }
 }
