@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>101</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>102</sup>
 ---
 
 ## 2017
+
+### Милые кости
+Элис Сиболд
+> [2017-06-17] 
+
 
 ### Парфюмер. История одного убийцы.
 Патрик Зюскинд

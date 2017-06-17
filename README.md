@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>6</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>101</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 
 
-_17.06.2017 04:00:07_
+_17.06.2017 18:38:34_
