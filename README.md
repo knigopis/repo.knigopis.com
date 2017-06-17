@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>28</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 
 
-_17.06.2017 19:44:55_
+_17.06.2017 21:36:36_

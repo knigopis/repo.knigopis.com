@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>28</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>29</sup>
 ---
 
 ## 2017
+
+### Красный смех
+Леонид Андреев
+> [2017-06-18] 
+
 
 ### Лёгкий способ бросить курить
 Аллен Карр
