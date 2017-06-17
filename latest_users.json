@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 543,
+        "updatedAt": "2017-06-17 04:00:06"
+    },
     "114398174831177070999-google": {
         "id": "114398174831177070999-google",
         "nickname": "ZiggaFromNigga",
@@ -172,11 +178,5 @@
         "nickname": "Dassska",
         "booksCount": 0,
         "updatedAt": "2017-06-11 19:04:47"
-    },
-    "499871320-yandex": {
-        "id": "499871320-yandex",
-        "nickname": "ivaevda",
-        "booksCount": 0,
-        "updatedAt": "2017-06-11 15:13:24"
     }
 }

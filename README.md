@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>6</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
-[ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 
 
-_17.06.2017 02:19:40_
+_17.06.2017 04:00:07_
