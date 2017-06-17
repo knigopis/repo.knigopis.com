@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
+    > Часть 7
+
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
     > Начало 18-го века. Эдвард Кенуэй, дерзкий, самоуверенный сын фермера и торговца, с детских лет мечтает о дальних странствиях, о славе и богатстве. Однажды ферма его родителей подвергается нападению и сгорает дотла. Жизнь самого Эдварда в опасности, теперь юноша просто вынужден покинуть родные места. Достаточно скоро Эдвард Кенуэй становится грозным капером. Но за ним по пятам неотступно следуют алчность, честолюбие и предательство. И когда Кенуэй узнает о подлом заговоре, грозящем уничтожить все, что ему дорого, он не может побороть в себе желание отомстить врагам. Так он втягивается в многовековую битву между ассасинами и тамплиерами.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Впринципе серия закончена, но при желании автор может и продолжить
 
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
-    > последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.
 
 * Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
 
-* Гарри Поттер и методы рационального мышления ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>4</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
 [Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>116</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 [Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 
 
-_17.06.2017 18:38:34_
+_17.06.2017 19:44:55_

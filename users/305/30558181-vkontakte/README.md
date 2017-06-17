@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>116</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>117</sup>
 ---
 
 ## 2017
+
+### Хроники Нарнии: Последняя Битва
+Клайв Льюис
+> Часть 7
+
 
 ### Хроники Нарнии: Серебряное кресло
 Клайв Льюис
