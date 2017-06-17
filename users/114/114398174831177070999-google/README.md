@@ -1,7 +1,12 @@
-# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>3</sup>
+# List of books read by [ZiggaFromNigga](https://plus.google.com/114398174831177070999)<sup>4</sup>
 ---
 
 ## 2017
+
+### Палата №6
+Антон Чехов
+> [2017-06-17] 
+
 
 ### Черный кот
 Эдгар По

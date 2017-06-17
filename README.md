@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ZiggaFromNigga](users/114/114398174831177070999-google)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>6</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup> 
-[ZiggaFromNigga](users/114/114398174831177070999-google)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>28</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ivaevda](users/499/499871320-yandex)<sup>0</sup> 
 
 
-_16.06.2017 20:54:45_
+_17.06.2017 02:19:40_
