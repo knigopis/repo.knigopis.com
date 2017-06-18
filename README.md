@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
-[Dassska](users/154/1548904568487232-facebook)<sup>0</sup> 
 
 
-_18.06.2017 06:47:10_
+_18.06.2017 16:13:19_
