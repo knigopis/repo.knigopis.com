@@ -1,5 +1,13 @@
-# List of books read by [lana_1312](http://vk.com/id4609218)<sup>1</sup>
+# List of books read by [lana_1312](http://vk.com/id4609218)<sup>2</sup>
 ---
+
+## 2017
+
+### Нью-Йорк и обратно
+Генри Миллер
+> [2017-06] Америка эпохи джаза.
+
+
 
 ## 2011
 

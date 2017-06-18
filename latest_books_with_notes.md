@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нью-Йорк и обратно ~ [lana_1312](users/460/4609218-vkontakte)<sup>2</sup>
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 * Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Автостопом по галактике (роман) ~ [rNix](users/115/115622071-twitter)<sup>53</sup>
 * Племянник чародея ~ [EsterHani](users/305/30558181-vkontakte)<sup>111</sup>
 * Отверженный ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>23</sup>
-* еуые ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
 
 
-_17.06.2017 19:44:55_
+_18.06.2017 18:53:38_

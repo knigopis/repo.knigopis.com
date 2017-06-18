@@ -1,4 +1,10 @@
 {
+    "4609218-vkontakte": {
+        "id": "4609218-vkontakte",
+        "nickname": "lana_1312",
+        "booksCount": 2,
+        "updatedAt": "2017-06-18 18:53:38"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 141,
         "updatedAt": "2017-06-12 09:33:46"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 29,
-        "updatedAt": "2017-06-11 21:58:24"
     }
 }

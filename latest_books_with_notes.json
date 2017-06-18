@@ -1,4 +1,16 @@
 {
+    "L4q5wbR34v": {
+        "id": "L4q5wbR34v",
+        "title": "Нью-Йорк и обратно",
+        "author": "Генри Миллер",
+        "notes": "Америка эпохи джаза.",
+        "createdAt": "2017-06-18 18:53:38",
+        "user": {
+            "id": "4609218-vkontakte",
+            "nickname": "lana_1312",
+            "booksCount": 2
+        }
+    },
     "rsnUkxzpvd": {
         "id": "rsnUkxzpvd",
         "title": "Хроники Нарнии: Последняя Битва",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 23
-        }
-    },
-    "9wDV1Fb9iI": {
-        "id": "9wDV1Fb9iI",
-        "title": "еуые",
-        "author": "фыв",
-        "notes": "фыв",
-        "createdAt": "2017-05-31 01:27:54",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 141
         }
     }
 }
