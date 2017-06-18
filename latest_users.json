@@ -1,4 +1,10 @@
 {
+    "117066050609750163659-google": {
+        "id": "117066050609750163659-google",
+        "nickname": "OABryleva",
+        "booksCount": 0,
+        "updatedAt": "2017-06-18 16:13:17"
+    },
     "114398174831177070999-google": {
         "id": "114398174831177070999-google",
         "nickname": "ZiggaFromNigga",
@@ -172,11 +178,5 @@
         "nickname": "ikozlov",
         "booksCount": 0,
         "updatedAt": "2017-06-11 19:57:09"
-    },
-    "1548904568487232-facebook": {
-        "id": "1548904568487232-facebook",
-        "nickname": "Dassska",
-        "booksCount": 0,
-        "updatedAt": "2017-06-11 19:04:47"
     }
 }
