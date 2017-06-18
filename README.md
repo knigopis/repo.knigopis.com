@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup> 
-[ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 
 
-_18.06.2017 16:57:11_
+_18.06.2017 18:37:49_
