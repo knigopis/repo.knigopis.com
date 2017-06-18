@@ -1,4 +1,16 @@
 {
+    "YWkLzBiXh7": {
+        "id": "YWkLzBiXh7",
+        "title": "Франц Кафка",
+        "author": "Превращение",
+        "notes": "",
+        "createdAt": "2017-06-18 06:47:10",
+        "user": {
+            "id": "114398174831177070999-google",
+            "nickname": "ZiggaFromNigga",
+            "booksCount": 5
+        }
+    },
     "2h5O6BH5e3": {
         "id": "2h5O6BH5e3",
         "title": "Красный смех",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 24
-        }
-    },
-    "ym7GeKDnpl": {
-        "id": "ym7GeKDnpl",
-        "title": "Гаррі Поттер і смертельні реліквії",
-        "author": "2007",
-        "notes": "",
-        "createdAt": "2017-06-16 16:53:16",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 10
         }
     }
 }
