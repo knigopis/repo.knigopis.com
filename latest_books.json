@@ -1,4 +1,16 @@
 {
+    "V9gILRQZAM": {
+        "id": "V9gILRQZAM",
+        "title": "Слепец в газе",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-06-18 18:54:07",
+        "user": {
+            "id": "4609218-vkontakte",
+            "nickname": "lana_1312",
+            "booksCount": 3
+        }
+    },
     "L4q5wbR34v": {
         "id": "L4q5wbR34v",
         "title": "Нью-Йорк и обратно",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 14
-        }
-    },
-    "-Fn2CJI00Q": {
-        "id": "-Fn2CJI00Q",
-        "title": "Переспівниця",
-        "author": "Сюзанна Коллінз",
-        "notes": "",
-        "createdAt": "2017-06-16 17:02:02",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 13
         }
     }
 }

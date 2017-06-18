@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lana_1312](users/460/4609218-vkontakte)<sup>2</sup> 
+[lana_1312](users/460/4609218-vkontakte)<sup>3</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 
 
-_18.06.2017 18:53:38_
+_18.06.2017 18:54:07_
