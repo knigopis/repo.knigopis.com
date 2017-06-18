@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>102</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>6</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ikozlov](users/113/113575116124799570565-google)<sup>0</sup> 
 
 
-_18.06.2017 16:13:19_
+_18.06.2017 16:57:11_

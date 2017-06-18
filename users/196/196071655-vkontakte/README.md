@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>102</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>103</sup>
 ---
 
 ## 2017
+
+### Колыбельная
+Чак Паланик
+> [2017-06-18] 
+
 
 ### Милые кости
 Элис Сиболд

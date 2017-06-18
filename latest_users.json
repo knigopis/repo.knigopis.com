@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 103,
+        "updatedAt": "2017-06-18 16:57:11"
+    },
     "117066050609750163659-google": {
         "id": "117066050609750163659-google",
         "nickname": "OABryleva",
@@ -22,12 +28,6 @@
         "nickname": "EsterHani",
         "booksCount": 117,
         "updatedAt": "2017-06-17 19:44:54"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 102,
-        "updatedAt": "2017-06-17 18:38:34"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
