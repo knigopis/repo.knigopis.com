@@ -1,4 +1,10 @@
 {
+    "385280558-vkontakte": {
+        "id": "385280558-vkontakte",
+        "nickname": "idvarvaradorell",
+        "booksCount": 0,
+        "updatedAt": "2017-06-19 18:58:20"
+    },
     "4609218-vkontakte": {
         "id": "4609218-vkontakte",
         "nickname": "lana_1312",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 53,
         "updatedAt": "2017-06-12 14:45:34"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 141,
-        "updatedAt": "2017-06-12 09:33:46"
     }
 }
