@@ -1,4 +1,10 @@
 {
+    "76187635-vkontakte": {
+        "id": "76187635-vkontakte",
+        "nickname": "Лела Папава",
+        "booksCount": 300,
+        "updatedAt": "2017-06-19 20:22:42"
+    },
     "281023294-vkontakte": {
         "id": "281023294-vkontakte",
         "nickname": "Lela papava",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 74,
         "updatedAt": "2017-06-12 20:05:45"
-    },
-    "1367331593336478-facebook": {
-        "id": "1367331593336478-facebook",
-        "nickname": "Shpinat",
-        "booksCount": 0,
-        "updatedAt": "2017-06-12 16:40:07"
     }
 }

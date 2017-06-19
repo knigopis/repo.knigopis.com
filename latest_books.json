@@ -1,4 +1,16 @@
 {
+    "o5JI4vfrO6": {
+        "id": "o5JI4vfrO6",
+        "title": "Чудо",
+        "author": "Р. Дж. Паласио",
+        "notes": "",
+        "createdAt": "2017-06-19 20:22:42",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 300
+        }
+    },
     "E58Ry2BdjX": {
         "id": "E58Ry2BdjX",
         "title": "Чудо",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 16
-        }
-    },
-    "oIr52Sv5aK": {
-        "id": "oIr52Sv5aK",
-        "title": "Заговор корпорации Амбрелла",
-        "author": "Стефани Перри",
-        "notes": "",
-        "createdAt": "2017-06-16 17:43:36",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 15
         }
     }
 }
