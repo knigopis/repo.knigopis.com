@@ -5,12 +5,12 @@
 Сальваторе
 > 17 книг
 
-### `50` Кмэск 13
-Дмитрий Рус
-> Предложил Энферсхелл. литрпг
-
 ### `50` http://litlife.club/AuthorPageTabLoad/?AuthorId=65561&n=Tab1
 1
+
+### `50` Серия автостопом по галактике
+Дуглас Адамс
+> Кейн советовал
 
 ### `50` http://samlib.ru/p/perejaslawcew_a/negatoriliistorijaneprawilxnogopopadanca.shtml
 1
