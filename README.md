@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>3</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
 [Shpinat](users/136/1367331593336478-facebook)<sup>0</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>53</sup> 
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
 
 
-_18.06.2017 18:54:07_
+_19.06.2017 18:58:22_
