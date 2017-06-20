@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vivo_Turdo](users/115/115154203761453486437-google)<sup>0</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
-[MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
 
 
-_20.06.2017 09:02:57_
+_20.06.2017 10:08:47_
