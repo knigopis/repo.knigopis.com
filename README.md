@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чук и Гек ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup>
+    > В рассказе “Чук и Гек”, в разговорах его взрослых и маленьких героев, в раскрывающейся перед читателями панораме нашей огромной страны, Аркадий Гайдар отстаивает свой оптимизм, свою непреклонную веру в правоту ленинского дела, которое все равно одолеет любые беды и трудности.
+    > 
+    > Как жизненное кредо писателя звучат заключительные строки: “Что такое счастье – это каждый понимал по-своему. Но все вместе люди знали и понимали, что надо честно жить, много трудиться и крепко любить и беречь эту огромную счастливую землю, которая зовется Советской страной”.
+
 * Сэндвич с пеплом и фазаном ~ [Sky](users/118/118049897850017649660-google)<sup>8</sup>
     > (Флавия де Люс 7)
     > Более-менее бодренько, по сравнению с предыдущей частью, тема школы-интерната для девочек плохим выбором быть не может.
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > ...но ко второй части это уже не относится, а жаль
 
 * Нью-Йорк и обратно ~ [lana_1312](users/460/4609218-vkontakte)<sup>2</sup>
-    > Америка эпохи джаза.
 
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
 
-* Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>8</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
@@ -50,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 
 
-_20.06.2017 10:47:51_
+_20.06.2017 15:19:41_
