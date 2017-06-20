@@ -1,4 +1,10 @@
 {
+    "115154203761453486437-google": {
+        "id": "115154203761453486437-google",
+        "nickname": "Vivo_Turdo",
+        "booksCount": 0,
+        "updatedAt": "2017-06-20 10:08:46"
+    },
     "239513704-yandex": {
         "id": "239513704-yandex",
         "nickname": "makssfox",
@@ -172,11 +178,5 @@
         "nickname": "olegessenin",
         "booksCount": 12,
         "updatedAt": "2017-06-13 14:08:30"
-    },
-    "107168359403805629275-google": {
-        "id": "107168359403805629275-google",
-        "nickname": "MazhitEl`ka",
-        "booksCount": 0,
-        "updatedAt": "2017-06-13 06:51:10"
     }
 }
