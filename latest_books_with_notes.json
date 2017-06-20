@@ -1,4 +1,16 @@
 {
+    "IRPsEp0TK6": {
+        "id": "IRPsEp0TK6",
+        "title": "Опасная бритва Оккама",
+        "author": "Сергей Переслегин",
+        "notes": "Переслегин, как обычно, красавец.\n\nв процессе",
+        "createdAt": "2017-06-20 21:17:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 103
+        }
+    },
     "W61Y1p_0lz": {
         "id": "W61Y1p_0lz",
         "title": "Чук и Гек",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 101
-        }
-    },
-    "DMgiUdtiWh": {
-        "id": "DMgiUdtiWh",
-        "title": "Хроники Нарнии: Лев, колдунья и платяной шкаф",
-        "author": "Клайв Льюис",
-        "notes": "Часть 2",
-        "createdAt": "2017-06-01 08:19:23",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 112
         }
     }
 }

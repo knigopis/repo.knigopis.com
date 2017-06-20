@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 103,
+        "updatedAt": "2017-06-20 21:17:03"
+    },
     "414040473-vkontakte": {
         "id": "414040473-vkontakte",
         "nickname": "Койнов Александр",
@@ -172,11 +178,5 @@
         "nickname": "creepy_g",
         "booksCount": 118,
         "updatedAt": "2017-06-14 16:04:41"
-    },
-    "3901448-vkontakte": {
-        "id": "3901448-vkontakte",
-        "nickname": "olegessenin",
-        "booksCount": 12,
-        "updatedAt": "2017-06-13 14:08:30"
     }
 }

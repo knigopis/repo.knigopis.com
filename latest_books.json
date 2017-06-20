@@ -1,4 +1,16 @@
 {
+    "IRPsEp0TK6": {
+        "id": "IRPsEp0TK6",
+        "title": "Опасная бритва Оккама",
+        "author": "Сергей Переслегин",
+        "notes": "Переслегин, как обычно, красавец.\n\nв процессе",
+        "createdAt": "2017-06-20 21:17:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 103
+        }
+    },
     "W61Y1p_0lz": {
         "id": "W61Y1p_0lz",
         "title": "Чук и Гек",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 21
-        }
-    },
-    "DRKIfLye2Q": {
-        "id": "DRKIfLye2Q",
-        "title": "Таня Гроттер и Исчезающий Этаж",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-06-16 17:46:59",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 20
         }
     }
 }
