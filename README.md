@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 [idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 [MazhitEl`ka](users/107/107168359403805629275-google)<sup>0</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>74</sup> 
 
 
-_19.06.2017 20:22:43_
+_20.06.2017 09:02:57_
