@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сэндвич с пеплом и фазаном ~ [Sky](users/118/118049897850017649660-google)<sup>8</sup>
+    > (Флавия де Люс 7)
+    > Более-менее бодренько, по сравнению с предыдущей частью, тема школы-интерната для девочек плохим выбором быть не может.
+
 * Локвуд и компания (2) Шепчущий череп ~ [Sky](users/118/118049897850017649660-google)<sup>7</sup>
     > ...но ко второй части это уже не относится, а жаль
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Америка эпохи джаза.
 
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
-    > Часть 7
 
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
 
-* Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>7</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>8</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 
 
-_20.06.2017 10:42:42_
+_20.06.2017 10:47:51_
