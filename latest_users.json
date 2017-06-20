@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 7,
+        "updatedAt": "2017-06-20 10:42:42"
+    },
     "115154203761453486437-google": {
         "id": "115154203761453486437-google",
         "nickname": "Vivo_Turdo",
@@ -76,12 +82,6 @@
         "nickname": "Janet",
         "booksCount": 543,
         "updatedAt": "2017-06-17 04:00:06"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 6,
-        "updatedAt": "2017-06-16 20:54:45"
     },
     "318594181-vkontakte": {
         "id": "318594181-vkontakte",

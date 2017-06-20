@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>6</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>7</sup>
 ---
 
 ## 2017
+
+### Локвуд и компания (2) Шепчущий череп
+Джонатан Страуд
+> [2017-06-20] ...но ко второй части это уже не относится, а жаль
+
 
 ### Локвуд и компания (1) Кричащая лестница
 Джонатан Страуд

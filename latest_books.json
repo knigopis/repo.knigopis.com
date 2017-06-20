@@ -1,4 +1,16 @@
 {
+    "RpjSTg18xP": {
+        "id": "RpjSTg18xP",
+        "title": "Локвуд и компания (2) Шепчущий череп",
+        "author": "Джонатан Страуд",
+        "notes": "...но ко второй части это уже не относится, а жаль",
+        "createdAt": "2017-06-20 10:42:42",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 7
+        }
+    },
     "gd0fJEo4TP": {
         "id": "gd0fJEo4TP",
         "title": "Машина Времени",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 18
-        }
-    },
-    "rIQdWE6WIH": {
-        "id": "rIQdWE6WIH",
-        "title": "Город Мертвых",
-        "author": "Стефани Перри",
-        "notes": "",
-        "createdAt": "2017-06-16 17:44:07",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 17
         }
     }
 }

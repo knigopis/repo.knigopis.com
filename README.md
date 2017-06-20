@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Локвуд и компания (2) Шепчущий череп ~ [Sky](users/118/118049897850017649660-google)<sup>7</sup>
+    > ...но ко второй части это уже не относится, а жаль
+
 * Нью-Йорк и обратно ~ [lana_1312](users/460/4609218-vkontakte)<sup>2</sup>
     > Америка эпохи джаза.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Часть 7
 
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
-    > Начало 18-го века. Эдвард Кенуэй, дерзкий, самоуверенный сын фермера и торговца, с детских лет мечтает о дальних странствиях, о славе и богатстве. Однажды ферма его родителей подвергается нападению и сгорает дотла. Жизнь самого Эдварда в опасности, теперь юноша просто вынужден покинуть родные места. Достаточно скоро Эдвард Кенуэй становится грозным капером. Но за ним по пятам неотступно следуют алчность, честолюбие и предательство. И когда Кенуэй узнает о подлом заговоре, грозящем уничтожить все, что ему дорого, он не может побороть в себе желание отомстить врагам. Так он втягивается в многовековую битву между ассасинами и тамплиерами.
 
 * Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
 
-* Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>7</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>543</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>6</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>12</sup> 
 
 
-_20.06.2017 10:11:52_
+_20.06.2017 10:42:42_
