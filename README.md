@@ -35,13 +35,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>8</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 
 
-_21.06.2017 13:39:16_
+_21.06.2017 13:55:43_

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>8</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>9</sup>
 ---
 
 ## 2017
+
+### Локвуд и компания (3) Призрачный двойник
+Джонатан Страуд
+> [2017-06-21] 
+
 
 ### Локвуд и компания (2) Шепчущий череп
 Джонатан Страуд
