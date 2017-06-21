@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[yura](users/816/816552068523262-facebook)<sup>0</sup> 
+[yura](users/816/816552068523262-facebook)<sup>1</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 
 
-_21.06.2017 09:11:45_
+_21.06.2017 09:12:04_

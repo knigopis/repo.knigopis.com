@@ -1,4 +1,16 @@
 {
+    "y6ZYbQyBYQ": {
+        "id": "y6ZYbQyBYQ",
+        "title": "asd",
+        "author": "asdasd",
+        "notes": "круто",
+        "createdAt": "2017-06-21 09:12:04",
+        "user": {
+            "id": "816552068523262-facebook",
+            "nickname": "yura",
+            "booksCount": 1
+        }
+    },
     "uWfAvRZQqv": {
         "id": "uWfAvRZQqv",
         "title": "Цвет волшебства",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 24
-        }
-    },
-    "pfKPbW1x1i": {
-        "id": "pfKPbW1x1i",
-        "title": "Таня Гроттер и посох волхвов",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-06-16 17:47:36",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 23
         }
     }
 }
