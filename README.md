@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
+    > Интересная книга про приключения туриста Двуцветка и неудавшегося волшебника Ринсвильда по плоскому миру Диска. Немного сумбурное описание событий и переход между ними.
+
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
     > Переслегин, как обычно, красавец.
     > 
@@ -16,8 +19,6 @@ Do not use pull requests to make changes here.
     > Как жизненное кредо писателя звучат заключительные строки: “Что такое счастье – это каждый понимал по-своему. Но все вместе люди знали и понимали, что надо честно жить, много трудиться и крепко любить и беречь эту огромную счастливую землю, которая зовется Советской страной”.
 
 * Сэндвич с пеплом и фазаном ~ [Sky](users/118/118049897850017649660-google)<sup>8</sup>
-    > (Флавия де Люс 7)
-    > Более-менее бодренько, по сравнению с предыдущей частью, тема школы-интерната для девочек плохим выбором быть не может.
 
 * Локвуд и компания (2) Шепчущий череп ~ [Sky](users/118/118049897850017649660-google)<sup>7</sup>
 
@@ -31,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
 
-* Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
@@ -67,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 [kintapanda](users/112/11266965-vkontakte)<sup>0</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 
 
-_21.06.2017 03:46:01_
+_21.06.2017 07:03:26_

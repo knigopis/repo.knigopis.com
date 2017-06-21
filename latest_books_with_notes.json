@@ -1,4 +1,16 @@
 {
+    "uWfAvRZQqv": {
+        "id": "uWfAvRZQqv",
+        "title": "Цвет волшебства",
+        "author": "Терри Пратчетт",
+        "notes": "Интересная книга про приключения туриста Двуцветка и неудавшегося волшебника Ринсвильда по плоскому миру Диска. Немного сумбурное описание событий и переход между ними.",
+        "createdAt": "2017-06-21 07:03:26",
+        "user": {
+            "id": "162444669-vkontakte",
+            "nickname": "SMedgaus",
+            "booksCount": 5
+        }
+    },
     "IRPsEp0TK6": {
         "id": "IRPsEp0TK6",
         "title": "Опасная бритва Оккама",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 102
-        }
-    },
-    "BrvrGdK0mH": {
-        "id": "BrvrGdK0mH",
-        "title": "Стратегия непрямых действий",
-        "author": "Бэзил Лиддел Гарт",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/18431030/",
-        "createdAt": "2017-06-02 09:17:07",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 101
         }
     }
 }
