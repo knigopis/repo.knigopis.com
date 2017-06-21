@@ -1,4 +1,16 @@
 {
+    "IYdBAB7Hwd": {
+        "id": "IYdBAB7Hwd",
+        "title": "Правила самоорганизации",
+        "author": "Ричард Темплар",
+        "notes": "в процессе",
+        "createdAt": "2017-06-21 09:20:31",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 104
+        }
+    },
     "6QgAgcjlkp": {
         "id": "6QgAgcjlkp",
         "title": "ыфлжыав",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 26
-        }
-    },
-    "XD2cg7J2Z5": {
-        "id": "XD2cg7J2Z5",
-        "title": "Таня Гроттер и пенсне Ноя",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-06-16 17:48:03",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 25
         }
     }
 }
