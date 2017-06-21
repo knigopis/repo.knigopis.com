@@ -1,4 +1,10 @@
 {
+    "816552068523262-facebook": {
+        "id": "816552068523262-facebook",
+        "nickname": "yura",
+        "booksCount": 0,
+        "updatedAt": "2017-06-21 09:11:43"
+    },
     "162444669-vkontakte": {
         "id": "162444669-vkontakte",
         "nickname": "SMedgaus",
@@ -172,11 +178,5 @@
         "nickname": "Беска",
         "booksCount": 49,
         "updatedAt": "2017-06-14 18:00:06"
-    },
-    "11266965-vkontakte": {
-        "id": "11266965-vkontakte",
-        "nickname": "kintapanda",
-        "booksCount": 0,
-        "updatedAt": "2017-06-14 17:00:59"
     }
 }
