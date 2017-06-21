@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>8</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 [idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
 [lana_1312](users/460/4609218-vkontakte)<sup>3</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>258</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [creepy_g](users/747/74743045-vkontakte)<sup>118</sup> 
 
 
-_20.06.2017 21:17:03_
+_21.06.2017 03:46:01_
