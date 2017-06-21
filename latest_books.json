@@ -1,4 +1,16 @@
 {
+    "GuWkAEJXif": {
+        "id": "GuWkAEJXif",
+        "title": "Огнем и мечом",
+        "author": "Генрик Сенкевич",
+        "notes": "",
+        "createdAt": "2017-06-21 10:13:07",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 544
+        }
+    },
     "IYdBAB7Hwd": {
         "id": "IYdBAB7Hwd",
         "title": "Правила самоорганизации",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 27
-        }
-    },
-    "bZrcZzVLFh": {
-        "id": "bZrcZzVLFh",
-        "title": "Таня Гроттер и ботинки кентавра",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-06-16 17:48:29",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 26
         }
     }
 }

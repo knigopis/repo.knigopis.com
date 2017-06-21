@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>544</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>543</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>101</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 
 
-_21.06.2017 09:20:31_
+_21.06.2017 10:13:08_
