@@ -1,4 +1,16 @@
 {
+    "6QgAgcjlkp": {
+        "id": "6QgAgcjlkp",
+        "title": "ыфлжыав",
+        "author": "ываыва",
+        "notes": "ваще жесть",
+        "createdAt": "2017-06-21 09:12:19",
+        "user": {
+            "id": "816552068523262-facebook",
+            "nickname": "yura",
+            "booksCount": 2
+        }
+    },
     "y6ZYbQyBYQ": {
         "id": "y6ZYbQyBYQ",
         "title": "asd",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 25
-        }
-    },
-    "3yfAlM9G9l": {
-        "id": "3yfAlM9G9l",
-        "title": "Таня Гроттер и молот Перуна",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-06-16 17:47:50",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 24
         }
     }
 }
