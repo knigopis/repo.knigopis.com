@@ -1,4 +1,16 @@
 {
+    "Rc5AmLb0Pa": {
+        "id": "Rc5AmLb0Pa",
+        "title": "Ким",
+        "author": "Редьярд Киплинг",
+        "notes": "",
+        "createdAt": "2017-06-22 11:28:38",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 102
+        }
+    },
     "5uHDCcdPvR": {
         "id": "5uHDCcdPvR",
         "title": "Древняя русь и великая степь",
@@ -345,18 +357,6 @@
             "id": "318594181-vkontakte",
             "nickname": "vladislavstarnikov",
             "booksCount": 1
-        }
-    },
-    "7_fYjuXom5": {
-        "id": "7_fYjuXom5",
-        "title": "Гобіт, або Туди і Звідти",
-        "author": "Дж.Р.Р. Толкін",
-        "notes": "",
-        "createdAt": "2017-06-16 17:54:17",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 31
         }
     }
 }
