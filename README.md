@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
+    > 1, Во все времена люди одинаковые, меняются только костюмы и декорации.
+    > 2. Книги про жизнь всегда плохо кончаются. Как и сама жизнь.
+
 * Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
     > в процессе
 
@@ -12,9 +16,6 @@ Do not use pull requests to make changes here.
     > Интересная книга про приключения туриста Двуцветка и неудавшегося волшебника Ринсвильда по плоскому миру Диска. Немного сумбурное описание событий и переход между ними.
 
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
-    > Переслегин, как обычно, красавец.
-    > 
-    > в процессе
 
 * Чук и Гек ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 
-* Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 [tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
-[Беска](users/157/1577468-vkontakte)<sup>49</sup> 
 
 
-_21.06.2017 13:55:43_
+_22.06.2017 05:29:52_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
 * Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
 * Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
@@ -30,7 +31,6 @@
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
 * Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 * Грядущая буря ~ [Garka](users/115/115753719718250012620-google)<sup>143</sup>
-* Свечка ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>79</sup>
 
 
-_21.06.2017 09:20:31_
+_22.06.2017 05:29:52_
