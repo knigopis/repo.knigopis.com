@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
+    > Хороший научны труд.
+
 * Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
     > 1, Во все времена люди одинаковые, меняются только костюмы и декорации.
     > 2. Книги про жизнь всегда плохо кончаются. Как и сама жизнь.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
-    > Интересная книга про приключения туриста Двуцветка и неудавшегося волшебника Ринсвильда по плоскому миру Диска. Немного сумбурное описание событий и переход между ними.
 
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
 
-* Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
-[tuladragon](users/408/408987669-vkontakte)<sup>1</sup> 
 
 
-_22.06.2017 05:29:52_
+_22.06.2017 08:46:48_

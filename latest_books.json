@@ -1,4 +1,16 @@
 {
+    "5uHDCcdPvR": {
+        "id": "5uHDCcdPvR",
+        "title": "Древняя русь и великая степь",
+        "author": "Лев Гумилёв",
+        "notes": "Хороший научны труд.",
+        "createdAt": "2017-06-22 08:46:48",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 22
+        }
+    },
     "ois5Xd8D-x": {
         "id": "ois5Xd8D-x",
         "title": "Соборяне",
@@ -345,18 +357,6 @@
             "id": "108286448861674023181-google",
             "nickname": "axEAne",
             "booksCount": 31
-        }
-    },
-    "qEsAPsOmkC": {
-        "id": "qEsAPsOmkC",
-        "title": "Володар Перснів: Повернення короля",
-        "author": "Дж.Р.Р. Толкін",
-        "notes": "",
-        "createdAt": "2017-06-16 17:53:33",
-        "user": {
-            "id": "108286448861674023181-google",
-            "nickname": "axEAne",
-            "booksCount": 30
         }
     }
 }
