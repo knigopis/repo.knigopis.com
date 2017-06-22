@@ -1,4 +1,16 @@
 {
+    "TmivcfgriY": {
+        "id": "TmivcfgriY",
+        "title": "Тридцать миллионов слов",
+        "author": "Дана Саскинд",
+        "notes": "в процессе",
+        "createdAt": "2017-06-22 21:51:39",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 106
+        }
+    },
     "MeY0tPw44a": {
         "id": "MeY0tPw44a",
         "title": "Роб Фитцпатрик",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 103
-        }
-    },
-    "YWkLzBiXh7": {
-        "id": "YWkLzBiXh7",
-        "title": "Франц Кафка",
-        "author": "Превращение",
-        "notes": "",
-        "createdAt": "2017-06-18 06:47:10",
-        "user": {
-            "id": "114398174831177070999-google",
-            "nickname": "ZiggaFromNigga",
-            "booksCount": 5
         }
     }
 }
