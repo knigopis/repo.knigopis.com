@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>102</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>117</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 
 
-_22.06.2017 11:28:38_
+_22.06.2017 11:52:51_
