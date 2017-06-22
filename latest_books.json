@@ -1,4 +1,16 @@
 {
+    "Xiuya277bW": {
+        "id": "Xiuya277bW",
+        "title": "Гарри Поттер и Философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-06-22 17:06:30",
+        "user": {
+            "id": "317314037-vkontakte",
+            "nickname": "hawkeyepierce89",
+            "booksCount": 6
+        }
+    },
     "XQk8RY4NIA": {
         "id": "XQk8RY4NIA",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "114398174831177070999-google",
             "nickname": "ZiggaFromNigga",
             "booksCount": 4
-        }
-    },
-    "jrd3_H7wiC": {
-        "id": "jrd3_H7wiC",
-        "title": "Локвуд и компания (1) Кричащая лестница",
-        "author": "Джонатан Страуд",
-        "notes": "Внезапно отлично написано и очень интересно.",
-        "createdAt": "2017-06-16 20:54:45",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 6
         }
     }
 }

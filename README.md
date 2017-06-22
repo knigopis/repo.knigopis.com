@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hawkeyepierce89](users/317/317314037-vkontakte)<sup>6</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>102</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>22</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>48</sup> 
-[Mugetsu](users/110/110654020423735976376-google)<sup>1</sup> 
 
 
-_22.06.2017 11:52:51_
+_22.06.2017 17:06:30_

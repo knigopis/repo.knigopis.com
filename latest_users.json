@@ -1,4 +1,10 @@
 {
+    "317314037-vkontakte": {
+        "id": "317314037-vkontakte",
+        "nickname": "hawkeyepierce89",
+        "booksCount": 6,
+        "updatedAt": "2017-06-22 17:06:30"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 48,
         "updatedAt": "2017-06-15 05:50:43"
-    },
-    "110654020423735976376-google": {
-        "id": "110654020423735976376-google",
-        "nickname": "Mugetsu",
-        "booksCount": 1,
-        "updatedAt": "2017-06-14 22:18:37"
     }
 }
