@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[a_pushkareff](users/309/3092108195-twitter)<sup>0</sup> 
+[a_pushkareff](users/309/3092108195-twitter)<sup>1</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>102</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 
 
-_22.06.2017 17:27:09_
+_22.06.2017 18:03:56_
