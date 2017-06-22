@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
 * Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
 * Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
 * Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
@@ -30,7 +31,6 @@
 * Хроники расколотого королевства 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>47</sup>
 * Метро 2033. Ниже ада ~ [sonics](users/588/5880221-vkontakte)<sup>48</sup>
 * Жизнь Джека Лондона ~ [Беска](users/157/1577468-vkontakte)<sup>47</sup>
-* Хроники Нарнии: Конь и его мальчик ~ [EsterHani](users/305/30558181-vkontakte)<sup>113</sup>
 
 
-_22.06.2017 08:46:48_
+_22.06.2017 21:50:52_

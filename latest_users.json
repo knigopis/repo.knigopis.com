@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 105,
+        "updatedAt": "2017-06-22 21:50:52"
+    },
     "3092108195-twitter": {
         "id": "3092108195-twitter",
         "nickname": "a_pushkareff",
@@ -46,12 +52,6 @@
         "nickname": "Janet",
         "booksCount": 545,
         "updatedAt": "2017-06-21 13:39:16"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 104,
-        "updatedAt": "2017-06-21 09:20:31"
     },
     "816552068523262-facebook": {
         "id": "816552068523262-facebook",

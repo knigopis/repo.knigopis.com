@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
+    > По всем признакам книга очень интересна. Поехали :)
+    > 
+    > в процессе
+
 * Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
     > Хороший научны труд.
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > 2. Книги про жизнь всегда плохо кончаются. Как и сама жизнь.
 
 * Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
-    > в процессе
 
 * Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Нью-Йорк и обратно ~ [lana_1312](users/460/4609218-vkontakte)<sup>2</sup>
 
-* Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup> 
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
@@ -42,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [scarteslett](users/201/201967417-vkontakte)<sup>56</sup> 
 
 
-_22.06.2017 18:11:26_
+_22.06.2017 21:50:52_

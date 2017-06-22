@@ -1,4 +1,16 @@
 {
+    "MeY0tPw44a": {
+        "id": "MeY0tPw44a",
+        "title": "Роб Фитцпатрик",
+        "author": "Спроси маму. Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут?",
+        "notes": "По всем признакам книга очень интересна. Поехали :)\n\nв процессе",
+        "createdAt": "2017-06-22 21:50:52",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 105
+        }
+    },
     "RVcBeNGdmQ": {
         "id": "RVcBeNGdmQ",
         "title": "макулатура",
@@ -345,18 +357,6 @@
             "id": "114398174831177070999-google",
             "nickname": "ZiggaFromNigga",
             "booksCount": 5
-        }
-    },
-    "2h5O6BH5e3": {
-        "id": "2h5O6BH5e3",
-        "title": "Красный смех",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-06-17 21:36:36",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 29
         }
     }
 }
