@@ -1,4 +1,16 @@
 {
+    "xSMY5XVJub": {
+        "id": "xSMY5XVJub",
+        "title": "Гарри Поттер и узник Азкабана",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-06-22 17:07:57",
+        "user": {
+            "id": "317314037-vkontakte",
+            "nickname": "hawkeyepierce89",
+            "booksCount": 8
+        }
+    },
     "QnDrFolJ63": {
         "id": "QnDrFolJ63",
         "title": "Гарри Поттер и Тайная комната",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 102
-        }
-    },
-    "zvQcS087dF": {
-        "id": "zvQcS087dF",
-        "title": "Проблемы Спинозы",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2017-06-17 04:00:06",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 543
         }
     }
 }
