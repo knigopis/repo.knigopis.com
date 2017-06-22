@@ -1,4 +1,10 @@
 {
+    "3092108195-twitter": {
+        "id": "3092108195-twitter",
+        "nickname": "a_pushkareff",
+        "booksCount": 0,
+        "updatedAt": "2017-06-22 17:27:07"
+    },
     "317314037-vkontakte": {
         "id": "317314037-vkontakte",
         "nickname": "hawkeyepierce89",
@@ -172,11 +178,5 @@
         "nickname": "scarteslett",
         "booksCount": 56,
         "updatedAt": "2017-06-15 07:26:04"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 48,
-        "updatedAt": "2017-06-15 05:50:43"
     }
 }
