@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 
 
-_23.06.2017 09:44:38_
+_23.06.2017 11:20:27_
