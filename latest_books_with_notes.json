@@ -1,4 +1,16 @@
 {
+    "TTcuY17XBB": {
+        "id": "TTcuY17XBB",
+        "title": "История Ислама",
+        "author": "Ходжсон Маршалл",
+        "notes": "Огромный научный труд. Прочитал ознакомительный фрагмент, и то довольно бегло.",
+        "createdAt": "2017-06-23 09:44:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 81
+        }
+    },
     "_lzWbGoVT7": {
         "id": "_lzWbGoVT7",
         "title": "Иные песни",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 115
-        }
-    },
-    "EhIJTaCRTY": {
-        "id": "EhIJTaCRTY",
-        "title": "Хроники Нарнии: Принц Каспиан",
-        "author": "Клайв Льюис",
-        "notes": "Часть 4",
-        "createdAt": "2017-06-09 13:35:47",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 114
         }
     }
 }

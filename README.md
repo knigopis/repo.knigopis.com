@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
+    > Огромный научный труд. Прочитал ознакомительный фрагмент, и то довольно бегло.
+
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
     > Кратистос, кераунет, пырыбки, майюс, никотиана, меканизм, вечномакина...и много другого вы встретите в этом увлекательном романе.
     > "Окончательной целью любой Победы является Поражение — точно так же, как целью Жизни является Смерть"
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > стр 9 мать Бакланова; Постовалова Устинья Малаховна из Терновской.
 
 * Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
-    > в процессе
 
 * Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
 
-* Чук и Гек ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gudvinr](users/108/108740102521248876385-google)<sup>0</sup> 
 
 
-_23.06.2017 09:40:50_
+_23.06.2017 09:44:38_

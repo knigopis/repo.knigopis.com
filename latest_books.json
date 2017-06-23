@@ -1,4 +1,16 @@
 {
+    "TTcuY17XBB": {
+        "id": "TTcuY17XBB",
+        "title": "История Ислама",
+        "author": "Ходжсон Маршалл",
+        "notes": "Огромный научный труд. Прочитал ознакомительный фрагмент, и то довольно бегло.",
+        "createdAt": "2017-06-23 09:44:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 81
+        }
+    },
     "_lzWbGoVT7": {
         "id": "_lzWbGoVT7",
         "title": "Иные песни",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 300
-        }
-    },
-    "E58Ry2BdjX": {
-        "id": "E58Ry2BdjX",
-        "title": "Чудо",
-        "author": "Р. Дж. Паласио",
-        "notes": "",
-        "createdAt": "2017-06-19 20:20:02",
-        "user": {
-            "id": "281023294-vkontakte",
-            "nickname": "Lela papava",
-            "booksCount": 1
         }
     }
 }
