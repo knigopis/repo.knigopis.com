@@ -1,4 +1,28 @@
 {
+    "7hai2Q1Ggk": {
+        "id": "7hai2Q1Ggk",
+        "title": "\"Американские боги\"",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2017-06-23 06:40:52",
+        "user": {
+            "id": "63898155-vkontakte",
+            "nickname": "ihatespoilers",
+            "booksCount": 3
+        }
+    },
+    "n0lFodcm08": {
+        "id": "n0lFodcm08",
+        "title": "\"Пикник на обочине\"",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-06-23 06:40:03",
+        "user": {
+            "id": "63898155-vkontakte",
+            "nickname": "ihatespoilers",
+            "booksCount": 1
+        }
+    },
     "TmivcfgriY": {
         "id": "TmivcfgriY",
         "title": "Тридцать миллионов слов",
@@ -333,30 +357,6 @@
             "id": "4609218-vkontakte",
             "nickname": "lana_1312",
             "booksCount": 2
-        }
-    },
-    "Se49aTM-l-": {
-        "id": "Se49aTM-l-",
-        "title": "Монстролог",
-        "author": "Ступени ведущие в бездну",
-        "notes": "",
-        "createdAt": "2017-06-18 18:37:49",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 258
-        }
-    },
-    "ZAXdjmEl4W": {
-        "id": "ZAXdjmEl4W",
-        "title": "Колыбельная",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-06-18 16:57:11",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 103
         }
     }
 }
