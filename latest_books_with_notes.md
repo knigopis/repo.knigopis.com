@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
 * Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
 * Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
-* Хроники Нарнии: Покоритель Зари, или Плавание на край света ~ [EsterHani](users/305/30558181-vkontakte)<sup>115</sup>
 
 
-_23.06.2017 09:44:38_
+_23.06.2017 14:13:14_
