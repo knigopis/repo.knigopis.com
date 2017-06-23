@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 10,
+        "updatedAt": "2017-06-23 11:52:00"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -52,12 +58,6 @@
         "nickname": "Chiffi",
         "booksCount": 19,
         "updatedAt": "2017-06-22 05:29:52"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 9,
-        "updatedAt": "2017-06-21 13:55:43"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>9</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>10</sup>
 ---
 
 ## 2017
+
+### Дамы из Грейс-Адье и другие истории
+Сюзанна Кларк
+> [2017-06-23] 
+
 
 ### Локвуд и компания (3) Призрачный двойник
 Джонатан Страуд

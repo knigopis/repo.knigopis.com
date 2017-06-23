@@ -1,4 +1,16 @@
 {
+    "yUhKFlZ7I8": {
+        "id": "yUhKFlZ7I8",
+        "title": "Дамы из Грейс-Адье и другие истории",
+        "author": "Сюзанна Кларк",
+        "notes": "",
+        "createdAt": "2017-06-23 11:52:00",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 10
+        }
+    },
     "TTcuY17XBB": {
         "id": "TTcuY17XBB",
         "title": "История Ислама",
@@ -345,18 +357,6 @@
             "id": "115154203761453486437-google",
             "nickname": "Vivo_Turdo",
             "booksCount": 1
-        }
-    },
-    "o5JI4vfrO6": {
-        "id": "o5JI4vfrO6",
-        "title": "Чудо",
-        "author": "Р. Дж. Паласио",
-        "notes": "",
-        "createdAt": "2017-06-19 20:22:42",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 300
         }
     }
 }
