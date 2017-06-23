@@ -1,4 +1,10 @@
 {
+    "63898155-vkontakte": {
+        "id": "63898155-vkontakte",
+        "nickname": "ihatespoilers",
+        "booksCount": 0,
+        "updatedAt": "2017-06-23 06:38:33"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Mariya",
         "booksCount": 1,
         "updatedAt": "2017-06-15 12:44:43"
-    },
-    "201967417-vkontakte": {
-        "id": "201967417-vkontakte",
-        "nickname": "scarteslett",
-        "booksCount": 56,
-        "updatedAt": "2017-06-15 07:26:04"
     }
 }
