@@ -1,4 +1,16 @@
 {
+    "vGvbhjUguI": {
+        "id": "vGvbhjUguI",
+        "title": "Гроза Кавказа жизнь и подвиг генерала Бакланова",
+        "author": "Венков А.В",
+        "notes": "стр 9 мать Бакланова; Постовалова Устинья Малаховна из Терновской.",
+        "createdAt": "2017-06-23 09:31:53",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 23
+        }
+    },
     "TmivcfgriY": {
         "id": "TmivcfgriY",
         "title": "Тридцать миллионов слов",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 47
-        }
-    },
-    "CKnxRKHxN-": {
-        "id": "CKnxRKHxN-",
-        "title": "Метро 2033. Ниже ада",
-        "author": "Гребенщиков Андрей",
-        "notes": "Иван и Костя. Отшельник.\nЕкатеринбург.",
-        "createdAt": "2017-06-07 15:39:48",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 48
         }
     }
 }

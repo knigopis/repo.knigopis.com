@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
+    > стр 9 мать Бакланова; Постовалова Устинья Малаховна из Терновской.
+
 * Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
-    > Хороший научны труд.
 
 * Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
 
@@ -28,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Сэндвич с пеплом и фазаном ~ [Sky](users/118/118049897850017649660-google)<sup>8</sup>
 
-* Локвуд и компания (2) Шепчущий череп ~ [Sky](users/118/118049897850017649660-google)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>102</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mariya](users/171/17119404-vkontakte)<sup>1</sup> 
 
 
-_23.06.2017 06:41:03_
+_23.06.2017 09:31:53_

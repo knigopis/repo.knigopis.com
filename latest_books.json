@@ -1,4 +1,16 @@
 {
+    "vGvbhjUguI": {
+        "id": "vGvbhjUguI",
+        "title": "Гроза Кавказа жизнь и подвиг генерала Бакланова",
+        "author": "Венков А.В",
+        "notes": "стр 9 мать Бакланова; Постовалова Устинья Малаховна из Терновской.",
+        "createdAt": "2017-06-23 09:31:53",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 23
+        }
+    },
     "7hai2Q1Ggk": {
         "id": "7hai2Q1Ggk",
         "title": "\"Американские боги\"",
@@ -345,18 +357,6 @@
             "id": "4609218-vkontakte",
             "nickname": "lana_1312",
             "booksCount": 3
-        }
-    },
-    "L4q5wbR34v": {
-        "id": "L4q5wbR34v",
-        "title": "Нью-Йорк и обратно",
-        "author": "Генри Миллер",
-        "notes": "Америка эпохи джаза.",
-        "createdAt": "2017-06-18 18:53:38",
-        "user": {
-            "id": "4609218-vkontakte",
-            "nickname": "lana_1312",
-            "booksCount": 2
         }
     }
 }
