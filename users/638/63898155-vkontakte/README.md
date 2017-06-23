@@ -1,4 +1,4 @@
-# List of books read by [ihatespoilers](http://vk.com/id63898155)<sup>3</sup>
+# List of books read by [ihatespoilers](http://vk.com/id63898155)<sup>2</sup>
 ---
 
 ## 2017
@@ -6,11 +6,6 @@
 ### "Пикник на обочине"
 Аркадий и Борис Стругацкие
 > [2017-06-22] 
-
-
-### "Американские боги"
-Нил Гейман
-> [2017-05] 
 
 
 ### "Американские боги"
