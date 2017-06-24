@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
 * Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
@@ -30,7 +31,6 @@
 * Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
 * Buying and Selling Volatility (Frontiers in Finance Series) ~ [exulted](users/100/100599204551896265722-google)<sup>39</sup>
 * Самый богатый человек в Вавилоне. ~ [Chiffi](users/105/105831994080785626680-google)<sup>18</sup>
-* Звезда Ада ~ [creepy_g](users/747/74743045-vkontakte)<sup>117</sup>
 
 
-_23.06.2017 14:13:14_
+_24.06.2017 13:41:47_
