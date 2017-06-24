@@ -1,4 +1,10 @@
 {
+    "287977730-vkontakte": {
+        "id": "287977730-vkontakte",
+        "nickname": "jinkover",
+        "booksCount": 0,
+        "updatedAt": "2017-06-24 20:45:14"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "idgloomy",
         "booksCount": 45,
         "updatedAt": "2017-06-15 20:23:09"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 112,
-        "updatedAt": "2017-06-15 19:31:06"
     }
 }
