@@ -1,4 +1,16 @@
 {
+    "V7L60paMY6": {
+        "id": "V7L60paMY6",
+        "title": "И бегемоты сварились в своих бассейнах",
+        "author": "Джек Керуак, Уильям Берроуз",
+        "notes": "",
+        "createdAt": "2017-06-24 20:46:18",
+        "user": {
+            "id": "287977730-vkontakte",
+            "nickname": "jinkover",
+            "booksCount": 1
+        }
+    },
     "9_NPWJ1Dle": {
         "id": "9_NPWJ1Dle",
         "title": "Двенадцать стульев - Ильф и Петров",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 5
-        }
-    },
-    "5AZosJIWer": {
-        "id": "5AZosJIWer",
-        "title": "Секреты розничной торговли. Вопросы и ответы.",
-        "author": "Алексей Новаков",
-        "notes": "",
-        "createdAt": "2017-06-21 03:46:01",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 259
         }
     }
 }

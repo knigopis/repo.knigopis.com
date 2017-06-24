@@ -54,7 +54,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[jinkover](users/287/287977730-vkontakte)<sup>0</sup> 
+[jinkover](users/287/287977730-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>82</sup> 
 [retina](users/390/3900602-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>10</sup> 
@@ -86,4 +86,4 @@ _More notes [here](latest_books_with_notes.md)._
 [idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
 
 
-_24.06.2017 20:45:17_
+_24.06.2017 20:46:18_
