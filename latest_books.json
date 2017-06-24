@@ -1,4 +1,16 @@
 {
+    "RyTKteRpQi": {
+        "id": "RyTKteRpQi",
+        "title": "Дж. Р. Толкиен",
+        "author": "Две Башни",
+        "notes": "",
+        "createdAt": "2017-06-24 13:42:13",
+        "user": {
+            "id": "3900602-vkontakte",
+            "nickname": "retina",
+            "booksCount": 3
+        }
+    },
     "o4Js3ePnw7": {
         "id": "o4Js3ePnw7",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "414040473-vkontakte",
             "nickname": "Койнов Александр",
             "booksCount": 25
-        }
-    },
-    "wLV6-5yQo0": {
-        "id": "wLV6-5yQo0",
-        "title": "Сэндвич с пеплом и фазаном",
-        "author": "Алан Брэдли",
-        "notes": "(Флавия де Люс 7)\nБолее-менее бодренько, по сравнению с предыдущей частью, тема школы-интерната для девочек плохим выбором быть не может.",
-        "createdAt": "2017-06-20 10:47:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 8
         }
     }
 }
