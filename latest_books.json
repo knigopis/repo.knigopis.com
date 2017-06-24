@@ -1,4 +1,16 @@
 {
+    "9_NPWJ1Dle": {
+        "id": "9_NPWJ1Dle",
+        "title": "Двенадцать стульев - Ильф и Петров",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-06-24 15:12:06",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 82
+        }
+    },
     "4w_C1KyFPY": {
         "id": "4w_C1KyFPY",
         "title": "Нил Гейман",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 259
-        }
-    },
-    "IRPsEp0TK6": {
-        "id": "IRPsEp0TK6",
-        "title": "Опасная бритва Оккама",
-        "author": "Сергей Переслегин",
-        "notes": "Переслегин, как обычно, красавец.\n\nв процессе",
-        "createdAt": "2017-06-20 21:17:03",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 103
         }
     }
 }
