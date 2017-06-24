@@ -54,7 +54,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[retina](users/390/3900602-vkontakte)<sup>3</sup> 
+[retina](users/390/3900602-vkontakte)<sup>4</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>10</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
@@ -86,4 +86,4 @@ _More notes [here](latest_books_with_notes.md)._
 [antasiar](users/688/68827372-vkontakte)<sup>112</sup> 
 
 
-_24.06.2017 13:42:13_
+_24.06.2017 13:42:39_
