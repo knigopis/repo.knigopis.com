@@ -54,6 +54,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Zhi](users/104/104502610850806942588-google)<sup>2</sup> 
 [jinkover](users/287/287977730-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>82</sup> 
 [retina](users/390/3900602-vkontakte)<sup>4</sup> 
@@ -83,7 +84,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 [vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
-[idgloomy](users/871/87187820-vkontakte)<sup>45</sup> 
 
 
-_24.06.2017 20:46:18_
+_25.06.2017 11:26:55_

@@ -1,4 +1,10 @@
 {
+    "104502610850806942588-google": {
+        "id": "104502610850806942588-google",
+        "nickname": "Zhi",
+        "booksCount": 2,
+        "updatedAt": "2017-06-25 11:26:55"
+    },
     "287977730-vkontakte": {
         "id": "287977730-vkontakte",
         "nickname": "jinkover",
@@ -172,11 +178,5 @@
         "nickname": "axEAne",
         "booksCount": 31,
         "updatedAt": "2017-06-16 17:54:17"
-    },
-    "87187820-vkontakte": {
-        "id": "87187820-vkontakte",
-        "nickname": "idgloomy",
-        "booksCount": 45,
-        "updatedAt": "2017-06-15 20:23:09"
     }
 }

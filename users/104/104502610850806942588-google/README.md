@@ -1,7 +1,10 @@
-# List of books read by [Zhi](https://plus.google.com/104502610850806942588)<sup>1</sup>
+# List of books read by [Zhi](https://plus.google.com/104502610850806942588)<sup>2</sup>
 ---
 
 ## 2017
+
+> [2017-06] 
+
 
 ### Марсианские хроники
 Рэй Брэдбери
