@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
+    > (Старший инспектор Гамаш 7)
+
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
     > С одной стороны, все второстепенные истории необходимы для повествования, для формирования образа Оно, но иногда кажется что книга перегружена ими.
 
@@ -33,7 +36,6 @@ Do not use pull requests to make changes here.
     > Окажите доверие!
 
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
-    > Огромный научный труд. Прочитал ознакомительный фрагмент, и то довольно бегло.
 
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
 
@@ -47,18 +49,16 @@ Do not use pull requests to make changes here.
 
 * Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
 
-* Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>11</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>3</sup> 
 [jinkover](users/287/287977730-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>82</sup> 
 [retina](users/390/3900602-vkontakte)<sup>4</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>10</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
@@ -86,4 +86,4 @@ _More notes [here](latest_books_with_notes.md)._
 [axEAne](users/108/108286448861674023181-google)<sup>31</sup> 
 
 
-_25.06.2017 11:29:09_
+_25.06.2017 11:30:57_

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>10</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>11</sup>
 ---
 
 ## 2017
+
+### Разные оттенки смерти
+Луиза Пенни
+> [2017-06-25] (Старший инспектор Гамаш 7)
+
 
 ### Дамы из Грейс-Адье и другие истории
 Сюзанна Кларк
