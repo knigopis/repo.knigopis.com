@@ -1,4 +1,16 @@
 {
+    "mUf1saOeCv": {
+        "id": "mUf1saOeCv",
+        "title": "Никогда не ешьте в одиночку",
+        "author": "Кейт Феррацци",
+        "notes": "Быть щедрым и не требовать ничего взамен - вот основной посыл этой книги. \nЗаводить знакомства как можно чаще и стараться помогать людям, если это возможно. \nЕсли хочешь учиться у кого-то, то нужно для него сделать нечто полезное, чтобы он обратил на тебя внимание.\nТакже в книге множество более детальных советов и правил по переписке, организации мероприятий, общению с журналистами и прочее.",
+        "createdAt": "2017-06-26 07:02:29",
+        "user": {
+            "id": "118341692435130654754-google",
+            "nickname": "Implicat",
+            "booksCount": 2
+        }
+    },
     "ntnXEYif8_": {
         "id": "ntnXEYif8_",
         "title": "Разные оттенки смерти",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 29
-        }
-    },
-    "xVeTZPvZbF": {
-        "id": "xVeTZPvZbF",
-        "title": "Buying and Selling Volatility (Frontiers in Finance Series)",
-        "author": "Kevin B. Connolly",
-        "notes": "ASIN: B001CJW7ZY",
-        "createdAt": "2017-06-11 09:26:56",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 39
         }
     }
 }

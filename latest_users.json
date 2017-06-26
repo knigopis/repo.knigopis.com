@@ -1,4 +1,10 @@
 {
+    "118341692435130654754-google": {
+        "id": "118341692435130654754-google",
+        "nickname": "Implicat",
+        "booksCount": 2,
+        "updatedAt": "2017-06-26 07:02:29"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "vladislavstarnikov",
         "booksCount": 1,
         "updatedAt": "2017-06-16 18:37:59"
-    },
-    "108286448861674023181-google": {
-        "id": "108286448861674023181-google",
-        "nickname": "axEAne",
-        "booksCount": 31,
-        "updatedAt": "2017-06-16 17:54:17"
     }
 }
