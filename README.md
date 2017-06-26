@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>11</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>3</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
-[vladislavstarnikov](users/318/318594181-vkontakte)<sup>1</sup> 
 
 
-_26.06.2017 07:02:29_
+_26.06.2017 10:33:19_
