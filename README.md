@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
+    > Вторая книга из серии Метро.
+    > В основном про Гомера и Хантера, и Сашу.
+
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
     > Быть щедрым и не требовать ничего взамен - вот основной посыл этой книги. 
     > Заводить знакомства как можно чаще и стараться помогать людям, если это возможно. 
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 7)
 
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
-    > С одной стороны, все второстепенные истории необходимы для повествования, для формирования образа Оно, но иногда кажется что книга перегружена ими.
 
 * Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
 
-* Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>49</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>11</sup> 
@@ -65,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>29</sup> 
 
 
-_26.06.2017 10:33:19_
+_26.06.2017 20:22:08_

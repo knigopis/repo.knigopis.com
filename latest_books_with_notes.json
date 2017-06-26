@@ -1,4 +1,16 @@
 {
+    "NGRtjx45SI": {
+        "id": "NGRtjx45SI",
+        "title": "Метро 2034",
+        "author": "Дмитрий Глуховский",
+        "notes": "Вторая книга из серии Метро.\nВ основном про Гомера и Хантера, и Сашу.",
+        "createdAt": "2017-06-26 20:22:08",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 49
+        }
+    },
     "mUf1saOeCv": {
         "id": "mUf1saOeCv",
         "title": "Никогда не ешьте в одиночку",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 141
-        }
-    },
-    "P8PHorYXWl": {
-        "id": "P8PHorYXWl",
-        "title": "Мор, ученик Смерти",
-        "author": "Терри Пратчетт",
-        "notes": "Прекрасно :з Язык написания восхитителен, задумка и ее исполнение впечатлило. Очень интересная история ♥",
-        "createdAt": "2017-06-11 21:58:24",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 29
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
 * Хроники Нарнии: Серебряное кресло ~ [EsterHani](users/305/30558181-vkontakte)<sup>116</sup>
 * Гарри Поттер и методы рационального мышления ~ [lucius](users/838/83820536-yandex)<sup>141</sup>
-* Мор, ученик Смерти ~ [Eji_tyan](users/235/2352103981-twitter)<sup>29</sup>
 
 
-_26.06.2017 07:02:29_
+_26.06.2017 20:22:08_

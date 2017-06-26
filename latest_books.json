@@ -1,4 +1,16 @@
 {
+    "NGRtjx45SI": {
+        "id": "NGRtjx45SI",
+        "title": "Метро 2034",
+        "author": "Дмитрий Глуховский",
+        "notes": "Вторая книга из серии Метро.\nВ основном про Гомера и Хантера, и Сашу.",
+        "createdAt": "2017-06-26 20:22:08",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 49
+        }
+    },
     "mUf1saOeCv": {
         "id": "mUf1saOeCv",
         "title": "Никогда не ешьте в одиночку",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 545
-        }
-    },
-    "GuWkAEJXif": {
-        "id": "GuWkAEJXif",
-        "title": "Огнем и мечом",
-        "author": "Генрик Сенкевич",
-        "notes": "",
-        "createdAt": "2017-06-21 10:13:07",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 544
         }
     }
 }

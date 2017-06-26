@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 49,
+        "updatedAt": "2017-06-26 20:22:08"
+    },
     "154209086-vkontakte": {
         "id": "154209086-vkontakte",
         "nickname": "idmrthebull",
@@ -172,11 +178,5 @@
         "nickname": "ZiggaFromNigga",
         "booksCount": 5,
         "updatedAt": "2017-06-18 06:47:10"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 29,
-        "updatedAt": "2017-06-17 21:36:36"
     }
 }
