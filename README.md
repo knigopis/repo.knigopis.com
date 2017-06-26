@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>50</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>51</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>11</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 
 
-_26.06.2017 20:23:10_
+_26.06.2017 20:47:40_

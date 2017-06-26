@@ -1,4 +1,16 @@
 {
+    "XdfRWwJR7n": {
+        "id": "XdfRWwJR7n",
+        "title": "45 татуировок менеджера",
+        "author": "Максим Батырев",
+        "notes": "",
+        "createdAt": "2017-06-26 20:47:40",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 51
+        }
+    },
     "mYXmp8riSE": {
         "id": "mYXmp8riSE",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 19
-        }
-    },
-    "NVrjeV9wCa": {
-        "id": "NVrjeV9wCa",
-        "title": "Локвуд и компания (3) Призрачный двойник",
-        "author": "Джонатан Страуд",
-        "notes": "",
-        "createdAt": "2017-06-21 13:55:43",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 9
         }
     }
 }

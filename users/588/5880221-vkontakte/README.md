@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>50</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>51</sup>
 ---
 
 ## 2017
+
+### 45 татуировок менеджера
+Максим Батырев
+> [2017-06-15] 
+
 
 ### Метро 2033. Ниже ада
 Гребенщиков Андрей
