@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
+    > Третья книга из серии Метро.
+    > Повествует об Артеме, Гомере, Мельнике. О связи с другими городами и т.д.
+
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
     > Вторая книга из серии Метро.
     > В основном про Гомера и Хантера, и Сашу.
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > Также в книге множество более детальных советов и правил по переписке, организации мероприятий, общению с журналистами и прочее.
 
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
-    > (Старший инспектор Гамаш 7)
 
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
 
@@ -30,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
 
-* Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>49</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>50</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>11</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 
 
-_26.06.2017 20:22:08_
+_26.06.2017 20:23:10_
