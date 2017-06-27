@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[asiaa999](users/102/102830650203830834064-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>51</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lana_1312](users/460/4609218-vkontakte)<sup>3</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>103</sup> 
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
-[ZiggaFromNigga](users/114/114398174831177070999-google)<sup>5</sup> 
 
 
-_26.06.2017 20:47:40_
+_27.06.2017 12:45:21_
