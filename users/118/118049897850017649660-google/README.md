@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>11</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>12</sup>
 ---
 
 ## 2017
+
+### Серафина и черный плащ
+Роберт Битти
+> [2017-06-27] Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.
+
 
 ### Разные оттенки смерти
 Луиза Пенни

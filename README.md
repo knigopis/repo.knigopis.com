@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
+    > Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.
+
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
     > Третья книга из серии Метро.
     > Повествует об Артеме, Гомере, Мельнике. О связи с другими городами и т.д.
@@ -14,10 +17,6 @@ Do not use pull requests to make changes here.
     > В основном про Гомера и Хантера, и Сашу.
 
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
-    > Быть щедрым и не требовать ничего взамен - вот основной посыл этой книги. 
-    > Заводить знакомства как можно чаще и стараться помогать людям, если это возможно. 
-    > Если хочешь учиться у кого-то, то нужно для него сделать нечто полезное, чтобы он обратил на тебя внимание.
-    > Также в книге множество более детальных советов и правил по переписке, организации мероприятий, общению с журналистами и прочее.
 
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
 
@@ -31,18 +30,16 @@ Do not use pull requests to make changes here.
 
 * Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
 
-* Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>12</sup> 
 [asiaa999](users/102/102830650203830834064-google)<sup>24</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>51</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>11</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>3</sup> 
 [jinkover](users/287/287977730-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>82</sup> 
@@ -70,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 
 
-_27.06.2017 14:35:00_
+_27.06.2017 18:59:50_

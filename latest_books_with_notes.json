@@ -1,4 +1,16 @@
 {
+    "2s9rXW6RRu": {
+        "id": "2s9rXW6RRu",
+        "title": "Серафина и черный плащ",
+        "author": "Роберт Битти",
+        "notes": "Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.",
+        "createdAt": "2017-06-27 18:59:50",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 12
+        }
+    },
     "mYXmp8riSE": {
         "id": "mYXmp8riSE",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 53
-        }
-    },
-    "GSyqjgMA3B": {
-        "id": "GSyqjgMA3B",
-        "title": "Хроники Нарнии: Серебряное кресло",
-        "author": "Клайв Льюис",
-        "notes": "Часть 6",
-        "createdAt": "2017-06-12 09:47:31",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 116
         }
     }
 }
