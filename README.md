@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[asiaa999](users/102/102830650203830834064-google)<sup>18</sup> 
+[asiaa999](users/102/102830650203830834064-google)<sup>19</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>51</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [OABryleva](users/117/117066050609750163659-google)<sup>0</sup> 
 
 
-_27.06.2017 14:11:25_
+_27.06.2017 14:12:25_
