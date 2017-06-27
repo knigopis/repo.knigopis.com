@@ -13,6 +13,9 @@
 ### `50` Ночь нежна
 Фрэнсис Скотт Фицджеральд
 
+### `50` Hitchhiker's Guide to the Galaxy
+Douglas Adams
+
 ### `50` The Star Child
 Oscar Wilde
 
