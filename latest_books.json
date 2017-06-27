@@ -1,4 +1,16 @@
 {
+    "DImeAyExYM": {
+        "id": "DImeAyExYM",
+        "title": "Калейдоскоп",
+        "author": "Рэй Брэйбери",
+        "notes": "",
+        "createdAt": "2017-06-27 14:30:56",
+        "user": {
+            "id": "102830650203830834064-google",
+            "nickname": "asiaa999",
+            "booksCount": 23
+        }
+    },
     "NVaw8dcgru": {
         "id": "NVaw8dcgru",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "104502610850806942588-google",
             "nickname": "Zhi",
             "booksCount": 2
-        }
-    },
-    "V7L60paMY6": {
-        "id": "V7L60paMY6",
-        "title": "И бегемоты сварились в своих бассейнах",
-        "author": "Джек Керуак, Уильям Берроуз",
-        "notes": "",
-        "createdAt": "2017-06-24 20:46:18",
-        "user": {
-            "id": "287977730-vkontakte",
-            "nickname": "jinkover",
-            "booksCount": 1
         }
     }
 }
