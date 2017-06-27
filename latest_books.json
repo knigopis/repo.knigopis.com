@@ -1,4 +1,16 @@
 {
+    "8kzNfjiGdO": {
+        "id": "8kzNfjiGdO",
+        "title": "Гранатовый браслет",
+        "author": "Александр Куприн",
+        "notes": "",
+        "createdAt": "2017-06-27 13:34:18",
+        "user": {
+            "id": "102830650203830834064-google",
+            "nickname": "asiaa999",
+            "booksCount": 13
+        }
+    },
     "gavGVkqDgP": {
         "id": "gavGVkqDgP",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 23
-        }
-    },
-    "7hai2Q1Ggk": {
-        "id": "7hai2Q1Ggk",
-        "title": "\"Американские боги\"",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2017-06-23 06:40:52",
-        "user": {
-            "id": "63898155-vkontakte",
-            "nickname": "ihatespoilers",
-            "booksCount": 3
         }
     }
 }
