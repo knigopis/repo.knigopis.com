@@ -1,4 +1,16 @@
 {
+    "a0QtEH-nbq": {
+        "id": "a0QtEH-nbq",
+        "title": "Телеграмма",
+        "author": "Константин Паустовский",
+        "notes": "",
+        "createdAt": "2017-06-27 14:35:00",
+        "user": {
+            "id": "102830650203830834064-google",
+            "nickname": "asiaa999",
+            "booksCount": 24
+        }
+    },
     "DImeAyExYM": {
         "id": "DImeAyExYM",
         "title": "Калейдоскоп",
@@ -345,18 +357,6 @@
             "id": "104502610850806942588-google",
             "nickname": "Zhi",
             "booksCount": 3
-        }
-    },
-    "B1fbzRanB_": {
-        "id": "B1fbzRanB_",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-06-25 11:26:55",
-        "user": {
-            "id": "104502610850806942588-google",
-            "nickname": "Zhi",
-            "booksCount": 2
         }
     }
 }
