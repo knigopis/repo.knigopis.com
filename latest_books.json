@@ -1,4 +1,16 @@
 {
+    "v0d6XZfoOk": {
+        "id": "v0d6XZfoOk",
+        "title": "Неукротимая планета",
+        "author": "Гарри Гаррисон",
+        "notes": "",
+        "createdAt": "2017-06-28 13:00:32",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 1
+        }
+    },
     "2s9rXW6RRu": {
         "id": "2s9rXW6RRu",
         "title": "Серафина и черный плащ",
@@ -345,18 +357,6 @@
             "id": "118341692435130654754-google",
             "nickname": "Implicat",
             "booksCount": 2
-        }
-    },
-    "ntnXEYif8_": {
-        "id": "ntnXEYif8_",
-        "title": "Разные оттенки смерти",
-        "author": "Луиза Пенни",
-        "notes": "(Старший инспектор Гамаш 7)",
-        "createdAt": "2017-06-25 11:30:57",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 11
         }
     }
 }
