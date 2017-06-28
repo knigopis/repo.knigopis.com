@@ -1,4 +1,16 @@
 {
+    "BCPPN9hAt3": {
+        "id": "BCPPN9hAt3",
+        "title": "Бесы",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2017-06-28 13:06:51",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 4
+        }
+    },
     "jP5KexHjU2": {
         "id": "jP5KexHjU2",
         "title": "Чужой в стране чужих",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 51
-        }
-    },
-    "mYXmp8riSE": {
-        "id": "mYXmp8riSE",
-        "title": "Метро 2035",
-        "author": "Дмитрий Глуховский",
-        "notes": "Третья книга из серии Метро.\nПовествует об Артеме, Гомере, Мельнике. О связи с другими городами и т.д.",
-        "createdAt": "2017-06-26 20:23:10",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 50
         }
     }
 }
