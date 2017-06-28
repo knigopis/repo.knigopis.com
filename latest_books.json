@@ -1,4 +1,16 @@
 {
+    "jP5KexHjU2": {
+        "id": "jP5KexHjU2",
+        "title": "Чужой в стране чужих",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2017-06-28 13:05:28",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 3
+        }
+    },
     "ewlY4kRZW8": {
         "id": "ewlY4kRZW8",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 50
-        }
-    },
-    "NGRtjx45SI": {
-        "id": "NGRtjx45SI",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глуховский",
-        "notes": "Вторая книга из серии Метро.\nВ основном про Гомера и Хантера, и Сашу.",
-        "createdAt": "2017-06-26 20:22:08",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 49
         }
     }
 }

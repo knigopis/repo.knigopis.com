@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>2</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>3</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Анна Каренина
 Л.Н.Толстой
 > [2017-06-22] 
+
+
+### Чужой в стране чужих
+Роберт Хайнлайн
+> [2017-05] 
 
 
 ### Неукротимая планета
