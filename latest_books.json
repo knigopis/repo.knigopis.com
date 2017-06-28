@@ -1,4 +1,16 @@
 {
+    "fXYlGr421M": {
+        "id": "fXYlGr421M",
+        "title": "Парфюмер",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2017-06-28 13:08:37",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 5
+        }
+    },
     "BCPPN9hAt3": {
         "id": "BCPPN9hAt3",
         "title": "Бесы",
@@ -345,18 +357,6 @@
             "id": "102830650203830834064-google",
             "nickname": "asiaa999",
             "booksCount": 1
-        }
-    },
-    "XdfRWwJR7n": {
-        "id": "XdfRWwJR7n",
-        "title": "45 татуировок менеджера",
-        "author": "Максим Батырев",
-        "notes": "",
-        "createdAt": "2017-06-26 20:47:40",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 51
         }
     }
 }
