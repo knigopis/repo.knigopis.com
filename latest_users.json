@@ -1,4 +1,10 @@
 {
+    "106706640586990982892-google": {
+        "id": "106706640586990982892-google",
+        "nickname": "Maxim Filatov",
+        "booksCount": 0,
+        "updatedAt": "2017-06-28 09:25:13"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 103,
         "updatedAt": "2017-06-18 16:57:11"
-    },
-    "117066050609750163659-google": {
-        "id": "117066050609750163659-google",
-        "nickname": "OABryleva",
-        "booksCount": 0,
-        "updatedAt": "2017-06-18 16:13:17"
     }
 }
