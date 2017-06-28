@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>1</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>2</sup>
 ---
 
 ## 2017
+
+### Анна Каренина
+Л.Н.Толстой
+> [2017-06-22] 
+
 
 ### Неукротимая планета
 Гарри Гаррисон
