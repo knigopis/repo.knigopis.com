@@ -1,4 +1,10 @@
 {
+    "129415205-yandex": {
+        "id": "129415205-yandex",
+        "nickname": "noisywiz",
+        "booksCount": 0,
+        "updatedAt": "2017-06-28 09:40:40"
+    },
     "106706640586990982892-google": {
         "id": "106706640586990982892-google",
         "nickname": "Maxim Filatov",
@@ -172,11 +178,5 @@
         "nickname": "lana_1312",
         "booksCount": 3,
         "updatedAt": "2017-06-18 18:54:07"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 103,
-        "updatedAt": "2017-06-18 16:57:11"
     }
 }
