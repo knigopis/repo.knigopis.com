@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>0</sup> 
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 [idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
-[lana_1312](users/460/4609218-vkontakte)<sup>3</sup> 
 
 
-_28.06.2017 09:40:42_
+_28.06.2017 12:54:03_
