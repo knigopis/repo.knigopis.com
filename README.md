@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
+    > Человека по-настоящему узнаешь только тогда, когда влезешь в его шкуру.
+    > Почти все люди хорошие, когда их в конце концов поймешь... Хотя я думаю, что обычно люди еще хуже чем кажутся((((((
+
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
     > Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Повествует об Артеме, Гомере, Мельнике. О связи с другими городами и т.д.
 
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
-    > Вторая книга из серии Метро.
-    > В основном про Гомера и Хантера, и Сашу.
 
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
 
-* Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>12</sup> 
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>102</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>545</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
 
 
-_29.06.2017 13:25:11_
+_29.06.2017 17:15:03_

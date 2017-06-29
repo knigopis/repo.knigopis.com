@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
 * Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
-* Иметь и не иметь. ~ [Ангелина](users/837/83788782-vkontakte)<sup>53</sup>
 
 
-_27.06.2017 18:59:50_
+_29.06.2017 17:15:03_
