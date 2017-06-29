@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>11</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>12</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Неукротимая планета
 Гарри Гаррисон
 > [2017-04] 
+
+
+### Мёртвые души
+Николай Гоголь
 
 
 
