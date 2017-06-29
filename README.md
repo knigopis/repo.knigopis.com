@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[develchip](users/852/85203415-vkontakte)<sup>5</sup> 
+[develchip](users/852/85203415-vkontakte)<sup>6</sup> 
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
 
 
-_28.06.2017 13:08:37_
+_29.06.2017 13:16:57_
