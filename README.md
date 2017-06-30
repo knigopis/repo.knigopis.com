@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[develchip](users/852/85203415-vkontakte)<sup>13</sup> 
+[develchip](users/852/85203415-vkontakte)<sup>14</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 
 
-_30.06.2017 11:11:09_
+_30.06.2017 11:18:13_
