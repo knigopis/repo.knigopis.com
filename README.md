@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[stazhor2010](users/952/95227213-yandex)<sup>0</sup> 
+[stazhor2010](users/952/95227213-yandex)<sup>1</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 
 
-_30.06.2017 23:20:33_
+_30.06.2017 23:21:21_
