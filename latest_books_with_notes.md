@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
 * Пустошь. Дом страха ~ [olegessenin](users/390/3901448-vkontakte)<sup>12</sup>
 * Дон Кихот Ламанческий ч.2 ~ [olegessenin](users/390/3901448-vkontakte)<sup>11</sup>
-* Руководство астронавта по жизни на Земле ~ [Apprentice ](users/528/52821952-vkontakte)<sup>74</sup>
 
 
-_29.06.2017 17:15:03_
+_30.06.2017 15:25:19_

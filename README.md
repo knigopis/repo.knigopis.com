@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
+    > Хорошее продолжение серии. Прослушана аудиокнига. 
+    > "Он висел над пропастями, бежал от злобных богов и падал с Края Плоского мира. Но ничто не в силах погубить славного Ринсвинда, самого неумелого и трусливого волшебника Диска. Также в ролях: Двацветок (турист), Октаво (волшебная книга заклинаний), Сундук (сундук), Коэн (варвар), друиды, герои и прочие обитатели Плоского мира."
+
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
     > Человека по-настоящему узнаешь только тогда, когда влезешь в его шкуру.
     > Почти все люди хорошие, когда их в конце концов поймешь... Хотя я думаю, что обычно люди еще хуже чем кажутся((((((
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.
 
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
-    > Третья книга из серии Метро.
-    > Повествует об Артеме, Гомере, Мельнике. О связи с другими городами и т.д.
 
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 
-* Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>15</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
-[SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 
 
-_30.06.2017 13:52:45_
+_30.06.2017 15:25:19_

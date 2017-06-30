@@ -1,4 +1,10 @@
 {
+    "162444669-vkontakte": {
+        "id": "162444669-vkontakte",
+        "nickname": "SMedgaus",
+        "booksCount": 6,
+        "updatedAt": "2017-06-30 15:25:19"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -142,12 +148,6 @@
         "nickname": "yura",
         "booksCount": 2,
         "updatedAt": "2017-06-21 09:12:19"
-    },
-    "162444669-vkontakte": {
-        "id": "162444669-vkontakte",
-        "nickname": "SMedgaus",
-        "booksCount": 5,
-        "updatedAt": "2017-06-21 07:03:26"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
