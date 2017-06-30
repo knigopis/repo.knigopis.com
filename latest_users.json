@@ -1,4 +1,10 @@
 {
+    "95227213-yandex": {
+        "id": "95227213-yandex",
+        "nickname": "stazhor2010",
+        "booksCount": 0,
+        "updatedAt": "2017-06-30 23:20:31"
+    },
     "162444669-vkontakte": {
         "id": "162444669-vkontakte",
         "nickname": "SMedgaus",
@@ -172,11 +178,5 @@
         "nickname": "makssfox",
         "booksCount": 0,
         "updatedAt": "2017-06-20 09:02:54"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 300,
-        "updatedAt": "2017-06-19 20:22:42"
     }
 }
