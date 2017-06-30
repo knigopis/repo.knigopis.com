@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Леся украинкп](users/102/102141724140807407327-google)<sup>0</sup> 
+[Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>15</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 
 
-_30.06.2017 13:23:52_
+_30.06.2017 13:26:52_
