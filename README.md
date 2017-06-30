@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
-[idvarvaradorell](users/385/385280558-vkontakte)<sup>0</sup> 
 
 
-_30.06.2017 09:39:27_
+_30.06.2017 10:31:10_
