@@ -1,4 +1,10 @@
 {
+    "102141724140807407327-google": {
+        "id": "102141724140807407327-google",
+        "nickname": "Леся украинкп",
+        "booksCount": 0,
+        "updatedAt": "2017-06-30 13:23:51"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 300,
         "updatedAt": "2017-06-19 20:22:42"
-    },
-    "281023294-vkontakte": {
-        "id": "281023294-vkontakte",
-        "nickname": "Lela papava",
-        "booksCount": 1,
-        "updatedAt": "2017-06-19 20:20:02"
     }
 }
