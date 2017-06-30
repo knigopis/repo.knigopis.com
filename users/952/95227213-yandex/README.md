@@ -1,7 +1,12 @@
-# List of books read by stazhor2010<sup>1</sup>
+# List of books read by stazhor2010<sup>2</sup>
 ---
 
 ## 2017
+
+### Живые и мертвые 3 тома
+Константин Симонов
+> [2017-04] 
+
 
 ### Братья Карамазовы
 Ф. М. Достоевский
