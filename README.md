@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Леся украинкп](users/102/102141724140807407327-google)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>15</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
 [makssfox](users/239/239513704-yandex)<sup>0</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
-[Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 
 
-_30.06.2017 11:18:54_
+_30.06.2017 13:23:52_
