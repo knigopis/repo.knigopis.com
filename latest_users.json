@@ -1,4 +1,10 @@
 {
+    "156722593-vkontakte": {
+        "id": "156722593-vkontakte",
+        "nickname": "sergey_troshin",
+        "booksCount": 0,
+        "updatedAt": "2017-06-30 10:31:09"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Lela papava",
         "booksCount": 1,
         "updatedAt": "2017-06-19 20:20:02"
-    },
-    "385280558-vkontakte": {
-        "id": "385280558-vkontakte",
-        "nickname": "idvarvaradorell",
-        "booksCount": 0,
-        "updatedAt": "2017-06-19 18:58:20"
     }
 }
