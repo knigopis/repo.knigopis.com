@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>15</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>102</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лела Папава](users/761/76187635-vkontakte)<sup>300</sup> 
 
 
-_30.06.2017 13:26:52_
+_30.06.2017 13:52:45_
