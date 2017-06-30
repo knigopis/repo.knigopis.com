@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>13</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>12</sup> 
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lela papava](users/281/281023294-vkontakte)<sup>1</sup> 
 
 
-_30.06.2017 10:31:10_
+_30.06.2017 11:11:09_

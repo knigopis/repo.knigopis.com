@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 13,
+        "updatedAt": "2017-06-30 11:11:09"
+    },
     "156722593-vkontakte": {
         "id": "156722593-vkontakte",
         "nickname": "sergey_troshin",
@@ -22,12 +28,6 @@
         "nickname": "Chiffi",
         "booksCount": 20,
         "updatedAt": "2017-06-29 17:15:03"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 12,
-        "updatedAt": "2017-06-29 13:25:11"
     },
     "129415205-yandex": {
         "id": "129415205-yandex",
