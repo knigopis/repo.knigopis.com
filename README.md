@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[evgen.rb](users/268/26887919-vkontakte)<sup>1</sup> 
+[evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 [Erin](users/122/1228422876-facebook)<sup>0</sup> 
 [stazhor2010](users/952/95227213-yandex)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 
 
-_01.07.2017 11:14:11_
+_01.07.2017 11:14:35_
