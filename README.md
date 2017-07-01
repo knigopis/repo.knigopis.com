@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Erin](users/122/1228422876-facebook)<sup>0</sup> 
 [stazhor2010](users/952/95227213-yandex)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>103</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>1</sup> 
-[makssfox](users/239/239513704-yandex)<sup>0</sup> 
 
 
-_30.06.2017 23:22:35_
+_01.07.2017 05:46:34_
