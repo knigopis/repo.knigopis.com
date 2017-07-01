@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
 [evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 [Erin](users/122/1228422876-facebook)<sup>0</sup> 
 [stazhor2010](users/952/95227213-yandex)<sup>2</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
-[Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup> 
 
 
-_01.07.2017 11:14:35_
+_01.07.2017 12:05:32_
