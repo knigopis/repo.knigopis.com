@@ -1,4 +1,16 @@
 {
+    "5jXcySBk-9": {
+        "id": "5jXcySBk-9",
+        "title": "Сиддхартха",
+        "author": "Герман Гессе",
+        "notes": "Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.",
+        "createdAt": "2017-07-01 20:14:40",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 59
+        }
+    },
     "1God4ya5ei": {
         "id": "1God4ya5ei",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "74743045-vkontakte",
             "nickname": "creepy_g",
             "booksCount": 118
-        }
-    },
-    "Z9NkZaCS0c": {
-        "id": "Z9NkZaCS0c",
-        "title": "Пустошь. Дом страха",
-        "author": "Блейк Крауч",
-        "notes": "Читается за раз. Отличный триллер",
-        "createdAt": "2017-06-13 14:08:30",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 12
         }
     }
 }

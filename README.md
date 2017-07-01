@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
+    > Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.
+
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
     > Явно не для чтения в школе.
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > "Он висел над пропастями, бежал от злобных богов и падал с Края Плоского мира. Но ничто не в силах погубить славного Ринсвинда, самого неумелого и трусливого волшебника Диска. Также в ролях: Двацветок (турист), Октаво (волшебная книга заклинаний), Сундук (сундук), Коэн (варвар), друиды, герои и прочие обитатели Плоского мира."
 
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
-    > Человека по-настоящему узнаешь только тогда, когда влезешь в его шкуру.
-    > Почти все люди хорошие, когда их в конце концов поймешь... Хотя я думаю, что обычно люди еще хуже чем кажутся((((((
 
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
 
-* Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>59</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 [relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
 [evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
 [yura](users/816/816552068523262-facebook)<sup>2</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 
 
-_01.07.2017 19:21:00_
+_01.07.2017 20:14:40_
