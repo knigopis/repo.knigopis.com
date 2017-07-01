@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 52,
+        "updatedAt": "2017-07-01 19:20:59"
+    },
     "2443588-vkontakte": {
         "id": "2443588-vkontakte",
         "nickname": "relaxer",
@@ -94,12 +100,6 @@
         "nickname": "asiaa999",
         "booksCount": 24,
         "updatedAt": "2017-06-27 14:35:00"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 51,
-        "updatedAt": "2017-06-26 20:47:40"
     },
     "154209086-vkontakte": {
         "id": "154209086-vkontakte",

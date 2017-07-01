@@ -1,4 +1,16 @@
 {
+    "1God4ya5ei": {
+        "id": "1God4ya5ei",
+        "title": "Идиот",
+        "author": "Фёдор Михайлович Достоевский",
+        "notes": "Явно не для чтения в школе.",
+        "createdAt": "2017-07-01 19:20:59",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 52
+        }
+    },
     "PXOB5W6-1S": {
         "id": "PXOB5W6-1S",
         "title": "Безумная звезда (цикл Волшебники и герои, часть 2)",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 12
-        }
-    },
-    "USt_xsdmcn": {
-        "id": "USt_xsdmcn",
-        "title": "Дон Кихот Ламанческий ч.2",
-        "author": "М. Сервантес",
-        "notes": "Вторая часть слегка нудновата. Удивляет новое раскрытие образа Дон Кихота и Пансы",
-        "createdAt": "2017-06-13 14:07:07",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 11
         }
     }
 }

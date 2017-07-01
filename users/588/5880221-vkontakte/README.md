@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>51</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>52</sup>
 ---
 
 ## 2017
+
+### Идиот
+Фёдор Михайлович Достоевский
+> [2017-06-25] Явно не для чтения в школе.
+
 
 ### 45 татуировок менеджера
 Максим Батырев

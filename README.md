@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
+    > Явно не для чтения в школе.
+
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
     > Хорошее продолжение серии. Прослушана аудиокнига. 
     > "Он висел над пропастями, бежал от злобных богов и падал с Края Плоского мира. Но ничто не в силах погубить славного Ринсвинда, самого неумелого и трусливого волшебника Диска. Также в ролях: Двацветок (турист), Октаво (волшебная книга заклинаний), Сундук (сундук), Коэн (варвар), друиды, герои и прочие обитатели Плоского мира."
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Почти все люди хорошие, когда их в конце концов поймешь... Хотя я думаю, что обычно люди еще хуже чем кажутся((((((
 
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
-    > Нет, это не про таинственного селезня, но ужас на крыльях ночи в виде товарища, одержимого злым колдовством, присутствует.
 
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 
-* История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 [relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
 [evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 [Erin](users/122/1228422876-facebook)<sup>0</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
 [asiaa999](users/102/102830650203830834064-google)<sup>24</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>51</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 [Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 [Zhi](users/104/104502610850806942588-google)<sup>3</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>259</sup> 
 
 
-_01.07.2017 12:05:32_
+_01.07.2017 19:21:00_
