@@ -1,4 +1,10 @@
 {
+    "26887919-vkontakte": {
+        "id": "26887919-vkontakte",
+        "nickname": "evgen.rb",
+        "booksCount": 0,
+        "updatedAt": "2017-07-01 11:13:23"
+    },
     "1228422876-facebook": {
         "id": "1228422876-facebook",
         "nickname": "Erin",
@@ -172,11 +178,5 @@
         "nickname": "Койнов Александр",
         "booksCount": 25,
         "updatedAt": "2017-06-20 15:19:41"
-    },
-    "115154203761453486437-google": {
-        "id": "115154203761453486437-google",
-        "nickname": "Vivo_Turdo",
-        "booksCount": 1,
-        "updatedAt": "2017-06-20 10:11:52"
     }
 }
