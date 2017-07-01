@@ -1,4 +1,10 @@
 {
+    "2443588-vkontakte": {
+        "id": "2443588-vkontakte",
+        "nickname": "relaxer",
+        "booksCount": 0,
+        "updatedAt": "2017-07-01 12:05:30"
+    },
     "26887919-vkontakte": {
         "id": "26887919-vkontakte",
         "nickname": "evgen.rb",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 259,
         "updatedAt": "2017-06-21 03:46:01"
-    },
-    "414040473-vkontakte": {
-        "id": "414040473-vkontakte",
-        "nickname": "Койнов Александр",
-        "booksCount": 25,
-        "updatedAt": "2017-06-20 15:19:41"
     }
 }
