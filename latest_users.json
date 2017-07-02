@@ -1,4 +1,10 @@
 {
+    "101531271-vkontakte": {
+        "id": "101531271-vkontakte",
+        "nickname": "nastyairbis",
+        "booksCount": 0,
+        "updatedAt": "2017-07-02 20:03:36"
+    },
     "103303028920419488599-google": {
         "id": "103303028920419488599-google",
         "nickname": "sevka",
@@ -172,11 +178,5 @@
         "nickname": "a_pushkareff",
         "booksCount": 2,
         "updatedAt": "2017-06-22 18:11:26"
-    },
-    "317314037-vkontakte": {
-        "id": "317314037-vkontakte",
-        "nickname": "hawkeyepierce89",
-        "booksCount": 8,
-        "updatedAt": "2017-06-22 17:07:57"
     }
 }
