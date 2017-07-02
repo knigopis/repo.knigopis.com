@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sevka](users/103/103303028920419488599-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>59</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 [relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
 [a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 [hawkeyepierce89](users/317/317314037-vkontakte)<sup>8</sup> 
-[yura](users/816/816552068523262-facebook)<sup>2</sup> 
 
 
-_01.07.2017 20:17:11_
+_02.07.2017 06:46:47_
