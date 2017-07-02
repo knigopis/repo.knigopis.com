@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
+    > Рассказ Чехова о его путешествии на остров. Без прикрас
+
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
     > Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Явно не для чтения в школе.
 
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
-    > Хорошее продолжение серии. Прослушана аудиокнига. 
-    > "Он висел над пропастями, бежал от злобных богов и падал с Края Плоского мира. Но ничто не в силах погубить славного Ринсвинда, самого неумелого и трусливого волшебника Диска. Также в ролях: Двацветок (турист), Октаво (волшебная книга заклинаний), Сундук (сундук), Коэн (варвар), друиды, герои и прочие обитатели Плоского мира."
 
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
 
-* Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
 [nastyairbis](users/101/101531271-vkontakte)<sup>0</sup> 
 [sevka](users/103/103303028920419488599-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>59</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
-[a_pushkareff](users/309/3092108195-twitter)<sup>2</sup> 
 
 
-_02.07.2017 20:03:39_
+_02.07.2017 20:05:07_

@@ -1,4 +1,10 @@
 {
+    "3901448-vkontakte": {
+        "id": "3901448-vkontakte",
+        "nickname": "olegessenin",
+        "booksCount": 13,
+        "updatedAt": "2017-07-02 20:05:07"
+    },
     "101531271-vkontakte": {
         "id": "101531271-vkontakte",
         "nickname": "nastyairbis",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 106,
         "updatedAt": "2017-06-22 21:51:39"
-    },
-    "3092108195-twitter": {
-        "id": "3092108195-twitter",
-        "nickname": "a_pushkareff",
-        "booksCount": 2,
-        "updatedAt": "2017-06-22 18:11:26"
     }
 }

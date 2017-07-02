@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 * Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
 * В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
-* Протоколы колдуна Стоменова ~ [creepy_g](users/747/74743045-vkontakte)<sup>118</sup>
 
 
-_01.07.2017 20:14:40_
+_02.07.2017 20:05:07_

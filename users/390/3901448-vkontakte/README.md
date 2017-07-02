@@ -1,7 +1,12 @@
-# List of books read by [olegessenin](http://vk.com/id3901448)<sup>12</sup>
+# List of books read by [olegessenin](http://vk.com/id3901448)<sup>13</sup>
 ---
 
 ## 2017
+
+### Остров Сахалин
+А.П.Чехов
+> [2017-06] Рассказ Чехова о его путешествии на остров. Без прикрас
+
 
 ### Пустошь. Дом страха
 Блейк Крауч
