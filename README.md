@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
 [nastyairbis](users/101/101531271-vkontakte)<sup>0</sup> 
 [sevka](users/103/103303028920419488599-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>4</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>23</sup> 
 [ihatespoilers](users/638/63898155-vkontakte)<sup>2</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup> 
 
 
-_02.07.2017 20:05:07_
+_02.07.2017 22:17:35_
