@@ -1,4 +1,10 @@
 {
+    "102763689513347752702-google": {
+        "id": "102763689513347752702-google",
+        "nickname": "Gregor Bjdantukevich",
+        "booksCount": 0,
+        "updatedAt": "2017-07-02 22:17:33"
+    },
     "3901448-vkontakte": {
         "id": "3901448-vkontakte",
         "nickname": "olegessenin",
@@ -172,11 +178,5 @@
         "nickname": "ihatespoilers",
         "booksCount": 2,
         "updatedAt": "2017-06-23 06:41:02"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 106,
-        "updatedAt": "2017-06-22 21:51:39"
     }
 }
