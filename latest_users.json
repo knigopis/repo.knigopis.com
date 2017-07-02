@@ -1,4 +1,10 @@
 {
+    "103303028920419488599-google": {
+        "id": "103303028920419488599-google",
+        "nickname": "sevka",
+        "booksCount": 0,
+        "updatedAt": "2017-07-02 06:46:43"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "hawkeyepierce89",
         "booksCount": 8,
         "updatedAt": "2017-06-22 17:07:57"
-    },
-    "816552068523262-facebook": {
-        "id": "816552068523262-facebook",
-        "nickname": "yura",
-        "booksCount": 2,
-        "updatedAt": "2017-06-21 09:12:19"
     }
 }
