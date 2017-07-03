@@ -1,4 +1,16 @@
 {
+    "98cM0qD8xG": {
+        "id": "98cM0qD8xG",
+        "title": "Одиночество в сети.",
+        "author": "Януш Вишневский",
+        "notes": "",
+        "createdAt": "2017-07-03 10:04:37",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 91
+        }
+    },
     "kNfjRP41Jg": {
         "id": "kNfjRP41Jg",
         "title": "Цикл «Волшебник Изумрудного города»",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 55
-        }
-    },
-    "0Cuwj7h568": {
-        "id": "0Cuwj7h568",
-        "title": "Тайм-драйв, как успевать и работать?",
-        "author": "Глеб Архангельский",
-        "notes": "",
-        "createdAt": "2017-07-03 09:52:31",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 70
         }
     }
 }
