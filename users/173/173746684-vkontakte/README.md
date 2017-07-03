@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>41</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>42</sup>
 ---
 
 ## 2017
@@ -17,6 +17,10 @@
 ### Вспоминая моих несчастных шлюшек
 Габриэль Гарсиа Маркес
 > [2016-01] 
+
+
+### Рассказы
+Агата Кристи
 
 
 ### Игра в бисер
