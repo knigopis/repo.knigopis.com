@@ -1,4 +1,16 @@
 {
+    "PcRhOOQYub": {
+        "id": "PcRhOOQYub",
+        "title": "В тени молчаливого большинства, или конец социального",
+        "author": "Бодрийар Жан",
+        "notes": "",
+        "createdAt": "2017-07-03 09:11:49",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 3
+        }
+    },
     "hriJpYFPBm": {
         "id": "hriJpYFPBm",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 4
-        }
-    },
-    "jP5KexHjU2": {
-        "id": "jP5KexHjU2",
-        "title": "Чужой в стране чужих",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2017-06-28 13:05:28",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 3
         }
     }
 }
