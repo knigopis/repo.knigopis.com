@@ -1,4 +1,16 @@
 {
+    "g2Q_8YGr2v": {
+        "id": "g2Q_8YGr2v",
+        "title": "Жутко громко и запредельно близко",
+        "author": "Джонатан Сафран Фоер",
+        "notes": "",
+        "createdAt": "2017-07-03 09:55:45",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 59
+        }
+    },
     "7fHZCm3Jmj": {
         "id": "7fHZCm3Jmj",
         "title": "Цыганы.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 41
-        }
-    },
-    "S3DeTY-eOQ": {
-        "id": "S3DeTY-eOQ",
-        "title": "Песня о буревестнике.",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-07-03 09:45:44",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 61
         }
     }
 }
