@@ -1,4 +1,16 @@
 {
+    "0yhzYAGnDA": {
+        "id": "0yhzYAGnDA",
+        "title": "Письмо.",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:41:25",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 47
+        }
+    },
     "TB9kgcjl9H": {
         "id": "TB9kgcjl9H",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 32
-        }
-    },
-    "XosdHJbJMK": {
-        "id": "XosdHJbJMK",
-        "title": "Игра в бисер",
-        "author": "Герман Гессе",
-        "notes": "",
-        "createdAt": "2017-07-03 09:36:25",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 19
         }
     }
 }
