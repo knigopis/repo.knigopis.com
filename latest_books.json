@@ -1,4 +1,16 @@
 {
+    "bEDklU_kBM": {
+        "id": "bEDklU_kBM",
+        "title": "Кому на Руси жить хорошо?",
+        "author": "Н. А. Некрасов",
+        "notes": "",
+        "createdAt": "2017-07-03 10:15:21",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 106
+        }
+    },
     "1HXiJVLGLB": {
         "id": "1HXiJVLGLB",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 79
-        }
-    },
-    "Er6fe1i91I": {
-        "id": "Er6fe1i91I",
-        "title": "Тамбовская казначейша.",
-        "author": "М. Ю. Лермонтов",
-        "notes": "",
-        "createdAt": "2017-07-03 09:58:24",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 78
         }
     }
 }
