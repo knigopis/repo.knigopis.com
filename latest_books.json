@@ -1,4 +1,16 @@
 {
+    "WF1N2LBKZJ": {
+        "id": "WF1N2LBKZJ",
+        "title": "Доктор Наци.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:58:45",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 174
+        }
+    },
     "8vN-TvPZyF": {
         "id": "8vN-TvPZyF",
         "title": "Питтербуржец Фил и компания.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 145
-        }
-    },
-    "8R_dcZQ3a7": {
-        "id": "8R_dcZQ3a7",
-        "title": "Тебе, Эсме - с любовью и убожеством.",
-        "author": "Д. Д. Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-07-03 10:47:05",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 144
         }
     }
 }
