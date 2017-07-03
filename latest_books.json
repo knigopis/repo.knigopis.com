@@ -1,4 +1,16 @@
 {
+    "zv5Z2_E0jq": {
+        "id": "zv5Z2_E0jq",
+        "title": "Любовь за семнадцать пятьдесят.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:53:39",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 163
+        }
+    },
     "bM_FXUKs5O": {
         "id": "bM_FXUKs5O",
         "title": "Политика.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 134
-        }
-    },
-    "lBX6ec5Ict": {
-        "id": "lBX6ec5Ict",
-        "title": "Книга для тех, кто делает слишком много.",
-        "author": "Бредли Тревор Грив",
-        "notes": "",
-        "createdAt": "2017-07-03 10:34:17",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 133
         }
     }
 }
