@@ -1,4 +1,16 @@
 {
+    "bsIoLAscdm": {
+        "id": "bsIoLAscdm",
+        "title": "Что делать?",
+        "author": "Н. Г. Чернышевский",
+        "notes": "",
+        "createdAt": "2017-07-03 10:10:18",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 100
+        }
+    },
     "oRno_a6Up5": {
         "id": "oRno_a6Up5",
         "title": "Соседка.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 75
-        }
-    },
-    "g2Q_8YGr2v": {
-        "id": "g2Q_8YGr2v",
-        "title": "Жутко громко и запредельно близко",
-        "author": "Джонатан Сафран Фоер",
-        "notes": "",
-        "createdAt": "2017-07-03 09:55:45",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 59
         }
     }
 }
