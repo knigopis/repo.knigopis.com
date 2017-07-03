@@ -1,4 +1,16 @@
 {
+    "6cLIUziDgV": {
+        "id": "6cLIUziDgV",
+        "title": "Бедные люди.",
+        "author": "Ф. М. Достоевский",
+        "notes": "",
+        "createdAt": "2017-07-03 11:15:39",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 219
+        }
+    },
     "I44Zoj0UJb": {
         "id": "I44Zoj0UJb",
         "title": "Баня.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 190
-        }
-    },
-    "EZ9BesXg8u": {
-        "id": "EZ9BesXg8u",
-        "title": "Цветы для Элджернона.",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-07-03 11:04:26",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 189
         }
     }
 }
