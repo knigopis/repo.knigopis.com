@@ -1,4 +1,16 @@
 {
+    "_9LK7eh__L": {
+        "id": "_9LK7eh__L",
+        "title": "Муза и чудовище. Как организовать творческий труд.",
+        "author": "Яна Франк",
+        "notes": "",
+        "createdAt": "2017-07-03 09:33:57",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 27
+        }
+    },
     "lplv0bOt9V": {
         "id": "lplv0bOt9V",
         "title": "Дневник дизайнера маньяка.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 3
-        }
-    },
-    "uC9e1fUICx": {
-        "id": "uC9e1fUICx",
-        "title": "Возвращение",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-07-03 09:22:26",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 11
         }
     }
 }
