@@ -1,4 +1,16 @@
 {
+    "ziVrg2D1GK": {
+        "id": "ziVrg2D1GK",
+        "title": "Черное солнце.",
+        "author": "Майя Зинченко",
+        "notes": "",
+        "createdAt": "2017-07-03 10:06:16",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 95
+        }
+    },
     "BfibyENJ0V": {
         "id": "BfibyENJ0V",
         "title": "Осторожно: добрая фея!",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 57
-        }
-    },
-    "SVP1IUdR_j": {
-        "id": "SVP1IUdR_j",
-        "title": "Как привести дела в порядок.",
-        "author": "Дэвид Аллен",
-        "notes": "",
-        "createdAt": "2017-07-03 09:53:49",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 72
         }
     }
 }
