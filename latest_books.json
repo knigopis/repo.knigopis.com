@@ -1,4 +1,16 @@
 {
+    "_ozNHJeRsv": {
+        "id": "_ozNHJeRsv",
+        "title": "Утомленное королевство.",
+        "author": "Джон Ирвинг",
+        "notes": "",
+        "createdAt": "2017-07-03 11:07:43",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 198
+        }
+    },
     "f96XrJsrsi": {
         "id": "f96XrJsrsi",
         "title": "Чужие сны.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 169
-        }
-    },
-    "8oFv0oZP42": {
-        "id": "8oFv0oZP42",
-        "title": "Класс.",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-07-03 10:55:11",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 168
         }
     }
 }
