@@ -1,4 +1,16 @@
 {
+    "dCGkXnXfD2": {
+        "id": "dCGkXnXfD2",
+        "title": "В лодке.",
+        "author": "Д. Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-07-03 10:46:37",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 143
+        }
+    },
     "wuf-T9LBCT": {
         "id": "wuf-T9LBCT",
         "title": "Человек, который смеялся.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 114
-        }
-    },
-    "oLnMnxSjJy": {
-        "id": "oLnMnxSjJy",
-        "title": "История одного города.",
-        "author": "М.Е. Салтыков-Щедрин",
-        "notes": "",
-        "createdAt": "2017-07-03 10:23:14",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 113
         }
     }
 }
