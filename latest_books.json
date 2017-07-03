@@ -1,4 +1,16 @@
 {
+    "XosdHJbJMK": {
+        "id": "XosdHJbJMK",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2017-07-03 09:36:25",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 19
+        }
+    },
     "1odISQthrT": {
         "id": "1odISQthrT",
         "title": "Смотритель",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 13
-        }
-    },
-    "PUVqk4N8Nx": {
-        "id": "PUVqk4N8Nx",
-        "title": "Ресторан на краю Вселенной",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2017-07-03 09:26:23",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 8
         }
     }
 }
