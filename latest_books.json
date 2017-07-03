@@ -1,4 +1,16 @@
 {
+    "bLIChMRoYC": {
+        "id": "bLIChMRoYC",
+        "title": "Ирка Хортица - супер ведьма. Ведьмино наследство.",
+        "author": "Илона Васильевна и Кирилл Кащеев",
+        "notes": "",
+        "createdAt": "2017-07-03 10:08:40",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 97
+        }
+    },
     "zqL7AL40Fy": {
         "id": "zqL7AL40Fy",
         "title": "Совет двенадцати.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 73
-        }
-    },
-    "R7U6Td_ptO": {
-        "id": "R7U6Td_ptO",
-        "title": "Гранатовый браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2017-07-03 09:54:34",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 58
         }
     }
 }
