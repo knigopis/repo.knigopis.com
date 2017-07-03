@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "AlinaRainbow",
+        "booksCount": 0,
+        "updatedAt": "2017-07-03 12:54:05"
+    },
     "46905480-vkontakte": {
         "id": "46905480-vkontakte",
         "nickname": "mary_ann24",
@@ -172,11 +178,5 @@
         "nickname": "Zhi",
         "booksCount": 3,
         "updatedAt": "2017-06-25 11:29:09"
-    },
-    "287977730-vkontakte": {
-        "id": "287977730-vkontakte",
-        "nickname": "jinkover",
-        "booksCount": 1,
-        "updatedAt": "2017-06-24 20:46:18"
     }
 }
