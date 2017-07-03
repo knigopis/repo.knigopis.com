@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AHTOWKA](users/451/4517385-yandex)<sup>0</sup> 
 [nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>24</sup> 
 [mary_ann24](users/469/46905480-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
 [asiaa999](users/102/102830650203830834064-google)<sup>24</sup> 
 [idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
-[Implicat](users/118/118341692435130654754-google)<sup>2</sup> 
 
 
-_03.07.2017 16:48:12_
+_03.07.2017 23:57:18_
