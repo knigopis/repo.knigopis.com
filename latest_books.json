@@ -1,4 +1,16 @@
 {
+    "hBzDctTYE_": {
+        "id": "hBzDctTYE_",
+        "title": "П5: Прощальные песни политических пигмеев Пиндостана",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2017-07-03 09:33:01",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 15
+        }
+    },
     "qbLoAqmokp": {
         "id": "qbLoAqmokp",
         "title": "Тайные знания коммерческих иллюстраторов.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 2
-        }
-    },
-    "A1M8btEEwt": {
-        "id": "A1M8btEEwt",
-        "title": "Ночь в Лиссабоне",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-07-03 09:22:11",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 10
         }
     }
 }
