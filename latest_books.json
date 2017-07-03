@@ -1,4 +1,16 @@
 {
+    "ekn23F9UrM": {
+        "id": "ekn23F9UrM",
+        "title": "Король, который высоко держит свое знамя.",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-07-03 11:22:58",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 230
+        }
+    },
     "-xeke_yhqR": {
         "id": "-xeke_yhqR",
         "title": "Город Желтого Дьявола.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 203
-        }
-    },
-    "FBksuEyiry": {
-        "id": "FBksuEyiry",
-        "title": "Король романа.",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-07-03 11:08:13",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 200
         }
     }
 }

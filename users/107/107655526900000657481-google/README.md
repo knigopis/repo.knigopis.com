@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>229</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>230</sup>
 ---
 
 ## 2016
+
+### Король, который высоко держит свое знамя.
+Максим Горький
+
 
 ### Город Желтого Дьявола.
 Максим Горький
