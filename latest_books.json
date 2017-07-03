@@ -1,4 +1,16 @@
 {
+    "t6G0S5G7F2": {
+        "id": "t6G0S5G7F2",
+        "title": "Холодная осень.",
+        "author": "И. А. Бунин",
+        "notes": "",
+        "createdAt": "2017-07-03 11:01:10",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 179
+        }
+    },
     "ZCYIOY0BeO": {
         "id": "ZCYIOY0BeO",
         "title": "Гранатовый браслет.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 150
-        }
-    },
-    "Tv4Y1asu1m": {
-        "id": "Tv4Y1asu1m",
-        "title": "Белая гвардия.",
-        "author": "М. Булгаков.",
-        "notes": "",
-        "createdAt": "2017-07-03 10:48:56",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 149
         }
     }
 }
