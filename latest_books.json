@@ -1,4 +1,16 @@
 {
+    "dcOt-2WMrm": {
+        "id": "dcOt-2WMrm",
+        "title": "Гроза",
+        "author": "А. Н. Островский",
+        "notes": "",
+        "createdAt": "2017-07-03 09:27:27",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 15
+        }
+    },
     "IOnyxMzrST": {
         "id": "IOnyxMzrST",
         "title": "Всего хорошего, и спасибо за рыбу!",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 52
-        }
-    },
-    "JucCex-ifU": {
-        "id": "JucCex-ifU",
-        "title": "Цветы для Элжернона",
-        "author": "Д. Киз",
-        "notes": "",
-        "createdAt": "2017-07-01 11:14:35",
-        "user": {
-            "id": "26887919-vkontakte",
-            "nickname": "evgen.rb",
-            "booksCount": 2
         }
     }
 }
