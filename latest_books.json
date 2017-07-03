@@ -1,4 +1,16 @@
 {
+    "8rPZdn-zbF": {
+        "id": "8rPZdn-zbF",
+        "title": "Жизнь вселенная и все остальное",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-07-03 09:26:47",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 9
+        }
+    },
     "C8VFqYBqDU": {
         "id": "C8VFqYBqDU",
         "title": "Медный всадник",
@@ -345,18 +357,6 @@
             "id": "95227213-yandex",
             "nickname": "stazhor2010",
             "booksCount": 2
-        }
-    },
-    "q3WJuK29vn": {
-        "id": "q3WJuK29vn",
-        "title": "Братья Карамазовы",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2017-06-30 23:21:21",
-        "user": {
-            "id": "95227213-yandex",
-            "nickname": "stazhor2010",
-            "booksCount": 1
         }
     }
 }
