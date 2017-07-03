@@ -1,4 +1,16 @@
 {
+    "mc8fu2XWVg": {
+        "id": "mc8fu2XWVg",
+        "title": "Знак четырех.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 10:25:23",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 116
+        }
+    },
     "snXB1ZjaOF": {
         "id": "snXB1ZjaOF",
         "title": "Этюд в багровых тонах.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 88
-        }
-    },
-    "8af-vgFdsA": {
-        "id": "8af-vgFdsA",
-        "title": "Отцы и дети.",
-        "author": "И. С. Тургенев.",
-        "notes": "",
-        "createdAt": "2017-07-03 10:02:47",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 87
         }
     }
 }
