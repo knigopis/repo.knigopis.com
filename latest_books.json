@@ -1,4 +1,16 @@
 {
+    "kWo-5K1xp1": {
+        "id": "kWo-5K1xp1",
+        "title": "Скуки ради.",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-07-03 11:21:41",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 227
+        }
+    },
     "5rXVXOLjZn": {
         "id": "5rXVXOLjZn",
         "title": "Мальва.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 198
-        }
-    },
-    "f96XrJsrsi": {
-        "id": "f96XrJsrsi",
-        "title": "Чужие сны.",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-07-03 11:07:30",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 197
         }
     }
 }
