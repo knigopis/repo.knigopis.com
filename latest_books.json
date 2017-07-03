@@ -1,4 +1,16 @@
 {
+    "8af-vgFdsA": {
+        "id": "8af-vgFdsA",
+        "title": "Отцы и дети.",
+        "author": "И. С. Тургенев.",
+        "notes": "",
+        "createdAt": "2017-07-03 10:02:47",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 87
+        }
+    },
     "8QC7jCM2I_": {
         "id": "8QC7jCM2I_",
         "title": "Чужой принц.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 68
-        }
-    },
-    "zX8UEL_2eZ": {
-        "id": "zX8UEL_2eZ",
-        "title": "Хлеб с ветчиной",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-07-03 09:50:15",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 52
         }
     }
 }
