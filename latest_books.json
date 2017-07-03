@@ -1,4 +1,16 @@
 {
+    "UMCSB2OTGB": {
+        "id": "UMCSB2OTGB",
+        "title": "Заир",
+        "author": "Паоло Коэльо",
+        "notes": "",
+        "createdAt": "2017-07-03 09:47:50",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 45
+        }
+    },
     "YOashJtE33": {
         "id": "YOashJtE33",
         "title": "Рассказы",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 44
-        }
-    },
-    "0Lp_NxqHtM": {
-        "id": "0Lp_NxqHtM",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-07-03 09:40:38",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 31
         }
     }
 }
