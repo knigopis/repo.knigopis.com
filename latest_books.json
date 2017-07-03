@@ -1,4 +1,16 @@
 {
+    "6Tw43NJMyn": {
+        "id": "6Tw43NJMyn",
+        "title": "Демон",
+        "author": "М. Ю. Лермонтов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:27:00",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 14
+        }
+    },
     "8rPZdn-zbF": {
         "id": "8rPZdn-zbF",
         "title": "Жизнь вселенная и все остальное",
@@ -345,18 +357,6 @@
             "id": "26887919-vkontakte",
             "nickname": "evgen.rb",
             "booksCount": 1
-        }
-    },
-    "CswG0nfiyX": {
-        "id": "CswG0nfiyX",
-        "title": "Живые и мертвые 3 тома",
-        "author": "Константин Симонов",
-        "notes": "",
-        "createdAt": "2017-06-30 23:22:35",
-        "user": {
-            "id": "95227213-yandex",
-            "nickname": "stazhor2010",
-            "booksCount": 2
         }
     }
 }
