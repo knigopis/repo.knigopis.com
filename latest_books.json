@@ -1,4 +1,16 @@
 {
+    "A1M8btEEwt": {
+        "id": "A1M8btEEwt",
+        "title": "Ночь в Лиссабоне",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-07-03 09:22:11",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 10
+        }
+    },
     "N8CkcrSBjq": {
         "id": "N8CkcrSBjq",
         "title": "Тени в раю",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 11
-        }
-    },
-    "W73vdDGilg": {
-        "id": "W73vdDGilg",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2017-06-29 13:23:27",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 10
         }
     }
 }
