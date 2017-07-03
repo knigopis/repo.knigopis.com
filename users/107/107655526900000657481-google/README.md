@@ -1,4 +1,4 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>12</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>11</sup>
 ---
 
 ## 2013
@@ -36,10 +36,6 @@
 
 
 ### Тени в раю
-Эрих Мария Ремарк
-
-
-### Жизнь взаймы
 Эрих Мария Ремарк
 
 
