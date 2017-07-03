@@ -1,4 +1,16 @@
 {
+    "8oFv0oZP42": {
+        "id": "8oFv0oZP42",
+        "title": "Класс.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:55:11",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 168
+        }
+    },
     "atwa2k2x6c": {
         "id": "atwa2k2x6c",
         "title": "Мужчина.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 139
-        }
-    },
-    "3sx1f1pWRe": {
-        "id": "3sx1f1pWRe",
-        "title": "Смерть - дело одинокое.",
-        "author": "Брэдбери Рэй",
-        "notes": "",
-        "createdAt": "2017-07-03 10:42:13",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 138
         }
     }
 }
