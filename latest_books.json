@@ -1,4 +1,16 @@
 {
+    "3sx1f1pWRe": {
+        "id": "3sx1f1pWRe",
+        "title": "Смерть - дело одинокое.",
+        "author": "Брэдбери Рэй",
+        "notes": "",
+        "createdAt": "2017-07-03 10:42:13",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 138
+        }
+    },
     "Rwkqown7tF": {
         "id": "Rwkqown7tF",
         "title": "Жутко громко и запредельно близко.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 109
-        }
-    },
-    "PsNkq7d43N": {
-        "id": "PsNkq7d43N",
-        "title": "Очарованный всадник.",
-        "author": "Н. С. Лесков",
-        "notes": "",
-        "createdAt": "2017-07-03 10:17:53",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 108
         }
     }
 }
