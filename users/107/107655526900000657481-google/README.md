@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>306</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>307</sup>
 ---
 
 ## 2017
+
+### Исчезновение леди Фрэенсис Карфэкс.
+Артур Конан Дойл
+
 
 ### Шерлок Холмс при смерти.
 Артур Конан Дойл
