@@ -1,4 +1,16 @@
 {
+    "Ckc1XmJZx_": {
+        "id": "Ckc1XmJZx_",
+        "title": "Бедность не порок.",
+        "author": "А. Н. Островский",
+        "notes": "",
+        "createdAt": "2017-07-03 09:28:51",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 17
+        }
+    },
     "noRwJmfbHR": {
         "id": "noRwJmfbHR",
         "title": "Свои люди - сочтемся",
@@ -345,18 +357,6 @@
             "id": "103303028920419488599-google",
             "nickname": "sevka",
             "booksCount": 1
-        }
-    },
-    "ViYlcwfrXn": {
-        "id": "ViYlcwfrXn",
-        "title": "Цвет волшебства",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2017-07-01 20:16:59",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 60
         }
     }
 }
