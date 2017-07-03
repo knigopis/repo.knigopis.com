@@ -1,4 +1,16 @@
 {
+    "rsqV7IqmCd": {
+        "id": "rsqV7IqmCd",
+        "title": "Дневник Шерлока Холмса.",
+        "author": "Грэм Мур",
+        "notes": "",
+        "createdAt": "2017-07-03 11:38:17",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 264
+        }
+    },
     "AfnqnbzhoY": {
         "id": "AfnqnbzhoY",
         "title": "Возлюби ближнего своего.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 234
-        }
-    },
-    "CLtRdtzKxO": {
-        "id": "CLtRdtzKxO",
-        "title": "Сказки об Италии.",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-07-03 11:23:51",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 233
         }
     }
 }
