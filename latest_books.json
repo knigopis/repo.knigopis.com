@@ -1,4 +1,16 @@
 {
+    "AV73CbW6gv": {
+        "id": "AV73CbW6gv",
+        "title": "Приключение клерка.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:54:22",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 280
+        }
+    },
     "sAFFAvtWRu": {
         "id": "sAFFAvtWRu",
         "title": "Желтое лицо.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 251
-        }
-    },
-    "a7Ds5kw4rc": {
-        "id": "a7Ds5kw4rc",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-03 11:33:33",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 250
         }
     }
 }
