@@ -1,4 +1,16 @@
 {
+    "AacvacM5fV": {
+        "id": "AacvacM5fV",
+        "title": "Роковые яйца.",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2017-07-03 10:27:25",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 120
+        }
+    },
     "l-875knG_G": {
         "id": "l-875knG_G",
         "title": "Повесть о том, как близнецы погубили делопроизводителя.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 91
-        }
-    },
-    "kNfjRP41Jg": {
-        "id": "kNfjRP41Jg",
-        "title": "Цикл «Волшебник Изумрудного города»",
-        "author": "Александр Волков",
-        "notes": "",
-        "createdAt": "2017-07-03 10:04:20",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 63
         }
     }
 }
