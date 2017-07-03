@@ -1,4 +1,16 @@
 {
+    "IOnyxMzrST": {
+        "id": "IOnyxMzrST",
+        "title": "Всего хорошего, и спасибо за рыбу!",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-07-03 09:27:20",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 10
+        }
+    },
     "6Tw43NJMyn": {
         "id": "6Tw43NJMyn",
         "title": "Демон",
@@ -345,18 +357,6 @@
             "id": "26887919-vkontakte",
             "nickname": "evgen.rb",
             "booksCount": 2
-        }
-    },
-    "dh5AU7MzwU": {
-        "id": "dh5AU7MzwU",
-        "title": "Похороните меня за плинтусом",
-        "author": "П. Санаев",
-        "notes": "",
-        "createdAt": "2017-07-01 11:14:11",
-        "user": {
-            "id": "26887919-vkontakte",
-            "nickname": "evgen.rb",
-            "booksCount": 1
         }
     }
 }
