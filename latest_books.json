@@ -1,4 +1,16 @@
 {
+    "wPPg7RHbdZ": {
+        "id": "wPPg7RHbdZ",
+        "title": "Один из королей республики.",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-07-03 11:23:20",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 231
+        }
+    },
     "ekn23F9UrM": {
         "id": "ekn23F9UrM",
         "title": "Король, который высоко держит свое знамя.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 202
-        }
-    },
-    "1NqE7WwjCC": {
-        "id": "1NqE7WwjCC",
-        "title": "Предисловие к \"Рождественской песни\"",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-07-03 11:09:10",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 203
         }
     }
 }
