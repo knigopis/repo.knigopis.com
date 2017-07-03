@@ -1,4 +1,16 @@
 {
+    "P_8VBc0KhJ": {
+        "id": "P_8VBc0KhJ",
+        "title": "Ашик-кериб.",
+        "author": "М. Ю. Лермонтов",
+        "notes": "",
+        "createdAt": "2017-07-03 10:00:00",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 82
+        }
+    },
     "Qz1W2aR7P4": {
         "id": "Qz1W2aR7P4",
         "title": "Герой нашего времени.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 65
-        }
-    },
-    "3bi0GpYzm9": {
-        "id": "3bi0GpYzm9",
-        "title": "Коллекционер",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2017-07-03 09:48:34",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 48
         }
     }
 }
