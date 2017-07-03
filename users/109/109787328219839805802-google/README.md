@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>4</sup>
+# List of books read by Rainbow<sup>5</sup>
 ---
 
 ## 2015
+
+### Пятьдесят оттенков серого
+Эрика Джеймс
+> [2015-03] 
+
 
 ### Сойка-пересмешница
 Сьюзен Коллинз
