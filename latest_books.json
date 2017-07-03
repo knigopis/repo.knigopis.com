@@ -1,4 +1,16 @@
 {
+    "l-875knG_G": {
+        "id": "l-875knG_G",
+        "title": "Повесть о том, как близнецы погубили делопроизводителя.",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2017-07-03 10:27:12",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 119
+        }
+    },
     "pGuCLcUzUP": {
         "id": "pGuCLcUzUP",
         "title": "Собачье сердце.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 63
-        }
-    },
-    "Z6WZv_OOPu": {
-        "id": "Z6WZv_OOPu",
-        "title": "Погоня за парнем мечты.",
-        "author": "Мазаева Ирина",
-        "notes": "",
-        "createdAt": "2017-07-03 10:04:17",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 90
         }
     }
 }
