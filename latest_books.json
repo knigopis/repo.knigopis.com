@@ -1,4 +1,16 @@
 {
+    "lBX6ec5Ict": {
+        "id": "lBX6ec5Ict",
+        "title": "Книга для тех, кто делает слишком много.",
+        "author": "Бредли Тревор Грив",
+        "notes": "",
+        "createdAt": "2017-07-03 10:34:17",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 133
+        }
+    },
     "acywMDC2kB": {
         "id": "acywMDC2kB",
         "title": "Хорошо быть тихоней.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 104
-        }
-    },
-    "yuvZNbEqiM": {
-        "id": "yuvZNbEqiM",
-        "title": "На пятьдесят оттенков темнее.",
-        "author": "И. Л. Деймс",
-        "notes": "",
-        "createdAt": "2017-07-03 10:13:29",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 103
         }
     }
 }
