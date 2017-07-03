@@ -1,4 +1,16 @@
 {
+    "ogna9WXcJp": {
+        "id": "ogna9WXcJp",
+        "title": "Доходное место.",
+        "author": "А. Н. Островский",
+        "notes": "",
+        "createdAt": "2017-07-03 09:29:21",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 18
+        }
+    },
     "Ckc1XmJZx_": {
         "id": "Ckc1XmJZx_",
         "title": "Бедность не порок.",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 13
-        }
-    },
-    "49ESDB102G": {
-        "id": "49ESDB102G",
-        "title": "Убить пересмешника",
-        "author": "Харпер Ли",
-        "notes": "",
-        "createdAt": "2017-07-02 06:47:33",
-        "user": {
-            "id": "103303028920419488599-google",
-            "nickname": "sevka",
-            "booksCount": 1
         }
     }
 }
