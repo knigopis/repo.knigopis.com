@@ -1,4 +1,16 @@
 {
+    "fKnwtDxzKJ": {
+        "id": "fKnwtDxzKJ",
+        "title": "Записки сумасшедшего",
+        "author": "Н. В. Гоголь",
+        "notes": "",
+        "createdAt": "2017-07-03 09:31:28",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 22
+        }
+    },
     "BIZHdzjT6n": {
         "id": "BIZHdzjT6n",
         "title": "Портрет",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 4
-        }
-    },
-    "PcRhOOQYub": {
-        "id": "PcRhOOQYub",
-        "title": "В тени молчаливого большинства, или конец социального",
-        "author": "Бодрийар Жан",
-        "notes": "",
-        "createdAt": "2017-07-03 09:11:49",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 3
         }
     }
 }
