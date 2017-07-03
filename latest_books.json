@@ -1,4 +1,16 @@
 {
+    "CLuPfkmhHL": {
+        "id": "CLuPfkmhHL",
+        "title": "Лошадиная фамилия.",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:38:38",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 39
+        }
+    },
     "_-1O26b8Sf": {
         "id": "_-1O26b8Sf",
         "title": "Маска.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 12
-        }
-    },
-    "fKnwtDxzKJ": {
-        "id": "fKnwtDxzKJ",
-        "title": "Записки сумасшедшего",
-        "author": "Н. В. Гоголь",
-        "notes": "",
-        "createdAt": "2017-07-03 09:31:28",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 22
         }
     }
 }
