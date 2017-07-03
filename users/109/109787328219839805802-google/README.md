@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>7</sup>
+# List of books read by Rainbow<sup>8</sup>
 ---
 
 ## 2015
+
+### Перси Джексон и проклятие титана
+Рик Риордан
+> [2015-03] 
+
 
 ### Перси Джексон и Море чудовищ
 Рик Риордан
