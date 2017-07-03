@@ -1,4 +1,16 @@
 {
+    "BqL_cgNjOQ": {
+        "id": "BqL_cgNjOQ",
+        "title": "Мертвая зона",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-07-03 09:23:02",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 3
+        }
+    },
     "uC9e1fUICx": {
         "id": "uC9e1fUICx",
         "title": "Возвращение",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 546
-        }
-    },
-    "EIGH6Gd9Id": {
-        "id": "EIGH6Gd9Id",
-        "title": "Убить пересмешника",
-        "author": "Ли",
-        "notes": "Человека по-настоящему узнаешь только тогда, когда влезешь в его шкуру.\nПочти все люди хорошие, когда их в конце концов поймешь... Хотя я думаю, что обычно люди еще хуже чем кажутся((((((",
-        "createdAt": "2017-06-29 17:15:03",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 20
         }
     }
 }
