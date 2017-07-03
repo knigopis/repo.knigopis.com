@@ -1,4 +1,16 @@
 {
+    "g9FOvUdDXz": {
+        "id": "g9FOvUdDXz",
+        "title": "Жрец морали.",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-07-03 11:23:38",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 232
+        }
+    },
     "wPPg7RHbdZ": {
         "id": "wPPg7RHbdZ",
         "title": "Один из королей республики.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 203
-        }
-    },
-    "iDcq-tpfgE": {
-        "id": "iDcq-tpfgE",
-        "title": "Гюнтер Грасс: король торговцев игрушками.",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-07-03 11:11:19",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 202
         }
     }
 }
