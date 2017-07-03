@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>145</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>146</sup>
 ---
 
 ## 2015
+
+### Голубой период де Долье-Смита.
+Д. Д. Сэлинджер
+
 
 ### И эти губы и глаза зеленые.
 Д. Д. Сэлинджер
