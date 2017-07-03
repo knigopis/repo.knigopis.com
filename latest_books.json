@@ -1,4 +1,16 @@
 {
+    "i8f85d64eH": {
+        "id": "i8f85d64eH",
+        "title": "Случай в интернате.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:58:27",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 293
+        }
+    },
     "pqOym5oUHv": {
         "id": "pqOym5oUHv",
         "title": "Одинокая велосипедистка.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 264
-        }
-    },
-    "AfnqnbzhoY": {
-        "id": "AfnqnbzhoY",
-        "title": "Возлюби ближнего своего.",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-07-03 11:37:40",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 263
         }
     }
 }
