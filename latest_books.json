@@ -1,4 +1,16 @@
 {
+    "1G07RxYeGb": {
+        "id": "1G07RxYeGb",
+        "title": "Подрядчик из Норвуда.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:57:42",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 290
+        }
+    },
     "BOPBWEPlO_": {
         "id": "BOPBWEPlO_",
         "title": "Пустой дом.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 261
-        }
-    },
-    "epdRxTcINY": {
-        "id": "epdRxTcINY",
-        "title": "Тьма египетская.",
-        "author": "М. Булгаков",
-        "notes": "",
-        "createdAt": "2017-07-03 11:36:42",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 260
         }
     }
 }
