@@ -1,4 +1,16 @@
 {
+    "NC1mVn7MJc": {
+        "id": "NC1mVn7MJc",
+        "title": "Человек.",
+        "author": "В. В. Маяковский",
+        "notes": "",
+        "createdAt": "2017-07-03 11:13:29",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 208
+        }
+    },
     "zjRyuC9pID": {
         "id": "zjRyuC9pID",
         "title": "Война и мир.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 179
-        }
-    },
-    "ZCYIOY0BeO": {
-        "id": "ZCYIOY0BeO",
-        "title": "Гранатовый браслет.",
-        "author": "А. И. Куприн",
-        "notes": "",
-        "createdAt": "2017-07-03 11:00:42",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 178
         }
     }
 }
