@@ -1,4 +1,16 @@
 {
+    "F3SpogjJMF": {
+        "id": "F3SpogjJMF",
+        "title": "Война и мир, том 1",
+        "author": "Л.Н.Толстой",
+        "notes": "",
+        "createdAt": "2017-07-03 09:36:50",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 20
+        }
+    },
     "-uZ74Bbu-n": {
         "id": "-uZ74Bbu-n",
         "title": "Радость.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 14
-        }
-    },
-    "8rPZdn-zbF": {
-        "id": "8rPZdn-zbF",
-        "title": "Жизнь вселенная и все остальное",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2017-07-03 09:26:47",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 9
         }
     }
 }
