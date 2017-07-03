@@ -1,4 +1,16 @@
 {
+    "3bi0GpYzm9": {
+        "id": "3bi0GpYzm9",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2017-07-03 09:48:34",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 48
+        }
+    },
     "0VVvV51nxh": {
         "id": "0VVvV51nxh",
         "title": "Волхв",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 47
-        }
-    },
-    "TB9kgcjl9H": {
-        "id": "TB9kgcjl9H",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-07-03 09:41:17",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 33
         }
     }
 }

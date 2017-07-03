@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>47</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>48</sup>
 ---
 
 ## 2017
@@ -49,6 +49,10 @@
 
 
 ## 2015
+
+### Коллекционер
+Джон Фаулз
+
 
 ### Дар
 Владимир Набоков
