@@ -1,4 +1,16 @@
 {
+    "fJvOrebaaN": {
+        "id": "fJvOrebaaN",
+        "title": "451 градус по Фаренгейту",
+        "author": "Брэдбери Рэй",
+        "notes": "",
+        "createdAt": "2017-07-03 09:19:11",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 4
+        }
+    },
     "PcRhOOQYub": {
         "id": "PcRhOOQYub",
         "title": "В тени молчаливого большинства, или конец социального",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 5
-        }
-    },
-    "BCPPN9hAt3": {
-        "id": "BCPPN9hAt3",
-        "title": "Бесы",
-        "author": "Ф.М.Достоевский",
-        "notes": "",
-        "createdAt": "2017-06-28 13:06:51",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 4
         }
     }
 }
