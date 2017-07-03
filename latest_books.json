@@ -1,4 +1,16 @@
 {
+    "vv9gGHBweZ": {
+        "id": "vv9gGHBweZ",
+        "title": "Шинель",
+        "author": "Н. В. Гоголь",
+        "notes": "",
+        "createdAt": "2017-07-03 09:24:29",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 12
+        }
+    },
     "qiUSXW66oS": {
         "id": "qiUSXW66oS",
         "title": "Гюйгенс и Барроу, Ньютон и Гук",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 15
-        }
-    },
-    "_bY2OnyeG4": {
-        "id": "_bY2OnyeG4",
-        "title": "Защита Лужина",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-06-30 11:18:13",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 14
         }
     }
 }
