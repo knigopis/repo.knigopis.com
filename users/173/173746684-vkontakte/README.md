@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>57</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>58</sup>
 ---
 
 ## 2017
@@ -112,6 +112,10 @@
 
 
 ## 2014
+
+### Гранатовый браслет
+Александр Куприн
+
 
 ### Вишневый сад
 Антон Чехов
