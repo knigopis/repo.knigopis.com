@@ -1,4 +1,16 @@
 {
+    "AfnqnbzhoY": {
+        "id": "AfnqnbzhoY",
+        "title": "Возлюби ближнего своего.",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-07-03 11:37:40",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 263
+        }
+    },
     "oNxLvNRDts": {
         "id": "oNxLvNRDts",
         "title": "Заводной апельсин.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 233
-        }
-    },
-    "g9FOvUdDXz": {
-        "id": "g9FOvUdDXz",
-        "title": "Жрец морали.",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-07-03 11:23:38",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 232
         }
     }
 }
