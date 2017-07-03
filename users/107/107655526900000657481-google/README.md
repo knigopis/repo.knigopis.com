@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>177</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>178</sup>
 ---
 
 ## 2015
+
+### Гранатовый браслет.
+А. И. Куприн
+
 
 ### Слово о полку Игореве.
 

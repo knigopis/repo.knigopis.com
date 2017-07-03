@@ -1,4 +1,16 @@
 {
+    "ZCYIOY0BeO": {
+        "id": "ZCYIOY0BeO",
+        "title": "Гранатовый браслет.",
+        "author": "А. И. Куприн",
+        "notes": "",
+        "createdAt": "2017-07-03 11:00:42",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 178
+        }
+    },
     "bGgJsRieHO": {
         "id": "bGgJsRieHO",
         "title": "Слово о полку Игореве.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 149
-        }
-    },
-    "EP4Djx617z": {
-        "id": "EP4Djx617z",
-        "title": "Кот без прикрас.",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2017-07-03 10:48:36",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 148
         }
     }
 }
