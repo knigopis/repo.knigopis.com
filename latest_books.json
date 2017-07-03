@@ -1,4 +1,16 @@
 {
+    "CLtRdtzKxO": {
+        "id": "CLtRdtzKxO",
+        "title": "Сказки об Италии.",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-07-03 11:23:51",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 233
+        }
+    },
     "g9FOvUdDXz": {
         "id": "g9FOvUdDXz",
         "title": "Жрец морали.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 204
-        }
-    },
-    "uKI99ICb3-": {
-        "id": "uKI99ICb3-",
-        "title": "Идиот.",
-        "author": "Ф. М. Достоевский",
-        "notes": "",
-        "createdAt": "2017-07-03 11:11:39",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 203
         }
     }
 }
