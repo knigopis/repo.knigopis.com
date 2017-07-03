@@ -1,4 +1,16 @@
 {
+    "PK2GMG_3As": {
+        "id": "PK2GMG_3As",
+        "title": "Молот ведьм",
+        "author": "Генрих Крамер, Якоб Шпренгер",
+        "notes": "",
+        "createdAt": "2017-07-03 09:43:54",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 38
+        }
+    },
     "saqa7VFSzf": {
         "id": "saqa7VFSzf",
         "title": "О любви.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 40
-        }
-    },
-    "o5cbj39btb": {
-        "id": "o5cbj39btb",
-        "title": "Тарас Бульба",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2017-07-03 09:38:40",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 25
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>37</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>38</sup>
 ---
 
 ## 2017
@@ -139,6 +139,10 @@
 
 
 ## 2013
+
+### Молот ведьм
+Генрих Крамер, Якоб Шпренгер
+
 
 ### Таис Афинская
 Иван Ефремов
