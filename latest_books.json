@@ -1,4 +1,16 @@
 {
+    "w1Lj4hCqaH": {
+        "id": "w1Lj4hCqaH",
+        "title": "Гроза",
+        "author": "Александр Островский",
+        "notes": "",
+        "createdAt": "2017-07-03 09:40:02",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 29
+        }
+    },
     "EMnmXI1rE_": {
         "id": "EMnmXI1rE_",
         "title": "Тапер",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 26
-        }
-    },
-    "hBzDctTYE_": {
-        "id": "hBzDctTYE_",
-        "title": "П5: Прощальные песни политических пигмеев Пиндостана",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2017-07-03 09:33:01",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 15
         }
     }
 }
