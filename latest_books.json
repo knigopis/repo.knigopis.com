@@ -1,4 +1,16 @@
 {
+    "snXB1ZjaOF": {
+        "id": "snXB1ZjaOF",
+        "title": "Этюд в багровых тонах.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 10:25:09",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 115
+        }
+    },
     "0eOC_xYFTG": {
         "id": "0eOC_xYFTG",
         "title": "Поединок.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 87
-        }
-    },
-    "8QC7jCM2I_": {
-        "id": "8QC7jCM2I_",
-        "title": "Чужой принц.",
-        "author": "Мазаева Ирина.",
-        "notes": "",
-        "createdAt": "2017-07-03 10:02:24",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 86
         }
     }
 }
