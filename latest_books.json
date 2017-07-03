@@ -1,4 +1,16 @@
 {
+    "D8uy8-bcSW": {
+        "id": "D8uy8-bcSW",
+        "title": "Ася.",
+        "author": "И. С. Тургенев.",
+        "notes": "",
+        "createdAt": "2017-07-03 10:00:27",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 83
+        }
+    },
     "TP4hGcvDaW": {
         "id": "TP4hGcvDaW",
         "title": "Униженные и оскорбленные",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 66
-        }
-    },
-    "bDLjFX5ZDq": {
-        "id": "bDLjFX5ZDq",
-        "title": "451 по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2017-07-03 09:48:53",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 49
         }
     }
 }
