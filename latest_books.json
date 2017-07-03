@@ -1,4 +1,16 @@
 {
+    "Xvw659xACq": {
+        "id": "Xvw659xACq",
+        "title": "Бесприданница",
+        "author": "Александр Островский",
+        "notes": "",
+        "createdAt": "2017-07-03 09:40:18",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 30
+        }
+    },
     "BvUCFrYIAS": {
         "id": "BvUCFrYIAS",
         "title": "Анюта.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 28
-        }
-    },
-    "7YFG2FPc8o": {
-        "id": "7YFG2FPc8o",
-        "title": "Числа",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2017-07-03 09:33:58",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 16
         }
     }
 }
