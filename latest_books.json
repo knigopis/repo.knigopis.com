@@ -1,4 +1,16 @@
 {
+    "-_Jb3DusJT": {
+        "id": "-_Jb3DusJT",
+        "title": "Анна Каренина",
+        "author": "Л.Н.Толстой",
+        "notes": "",
+        "createdAt": "2017-07-03 09:37:04",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 21
+        }
+    },
     "F3SpogjJMF": {
         "id": "F3SpogjJMF",
         "title": "Война и мир, том 1",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 10
-        }
-    },
-    "6Tw43NJMyn": {
-        "id": "6Tw43NJMyn",
-        "title": "Демон",
-        "author": "М. Ю. Лермонтов",
-        "notes": "",
-        "createdAt": "2017-07-03 09:27:00",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 14
         }
     }
 }
