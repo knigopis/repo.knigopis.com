@@ -1,4 +1,16 @@
 {
+    "3Sgd2EzQln": {
+        "id": "3Sgd2EzQln",
+        "title": "Над пропастью во ржи",
+        "author": "Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-07-03 09:52:20",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 54
+        }
+    },
     "P5JeQRwgQs": {
         "id": "P5JeQRwgQs",
         "title": "Евгения Гранде",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 37
-        }
-    },
-    "R_li8RsTet": {
-        "id": "R_li8RsTet",
-        "title": "Лезвие бритвы",
-        "author": "Иван Ефремов",
-        "notes": "",
-        "createdAt": "2017-07-03 09:43:12",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 36
         }
     }
 }
