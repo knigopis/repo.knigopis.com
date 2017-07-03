@@ -1,4 +1,16 @@
 {
+    "R_li8RsTet": {
+        "id": "R_li8RsTet",
+        "title": "Лезвие бритвы",
+        "author": "Иван Ефремов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:43:12",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 36
+        }
+    },
     "skxTgQSQre": {
         "id": "skxTgQSQre",
         "title": "Учитель словесности.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 24
-        }
-    },
-    "qucJ_32uEg": {
-        "id": "qucJ_32uEg",
-        "title": "Надлежащие меры.",
-        "author": "А. П. Чехов",
-        "notes": "",
-        "createdAt": "2017-07-03 09:38:14",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 37
         }
     }
 }

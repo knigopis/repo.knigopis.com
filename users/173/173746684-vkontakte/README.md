@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>35</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>36</sup>
 ---
 
 ## 2017
@@ -139,6 +139,10 @@
 
 
 ## 2013
+
+### Лезвие бритвы
+Иван Ефремов
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд
