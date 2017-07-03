@@ -1,4 +1,16 @@
 {
+    "zmYQ0AriXI": {
+        "id": "zmYQ0AriXI",
+        "title": "Словоизлияния Бреннбара.",
+        "author": "Джон Ирвинг",
+        "notes": "",
+        "createdAt": "2017-07-03 11:06:57",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 195
+        }
+    },
     "zasbVlfPCU": {
         "id": "zasbVlfPCU",
         "title": "Внутреннее пространство.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 166
-        }
-    },
-    "-CZ5WND94k": {
-        "id": "-CZ5WND94k",
-        "title": "Маджа Туруп.",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-07-03 10:54:20",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 165
         }
     }
 }
