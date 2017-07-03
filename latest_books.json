@@ -1,4 +1,16 @@
 {
+    "PWJ8BznqKM": {
+        "id": "PWJ8BznqKM",
+        "title": "Омон Ра",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2017-07-03 09:31:50",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 12
+        }
+    },
     "fKnwtDxzKJ": {
         "id": "fKnwtDxzKJ",
         "title": "Записки сумасшедшего",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 5
-        }
-    },
-    "fJvOrebaaN": {
-        "id": "fJvOrebaaN",
-        "title": "451 градус по Фаренгейту",
-        "author": "Брэдбери Рэй",
-        "notes": "",
-        "createdAt": "2017-07-03 09:19:11",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 4
         }
     }
 }

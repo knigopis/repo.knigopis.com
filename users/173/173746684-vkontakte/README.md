@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>11</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>12</sup>
 ---
 
 ## 2016
@@ -6,6 +6,10 @@
 ### Вспоминая моих несчастных шлюшек
 Габриэль Гарсиа Маркес
 > [2016-01] 
+
+
+### Омон Ра
+Виктор Пелевин
 
 
 ### Мартин Иден
