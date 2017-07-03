@@ -1,4 +1,16 @@
 {
+    "7YFG2FPc8o": {
+        "id": "7YFG2FPc8o",
+        "title": "Числа",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2017-07-03 09:33:58",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 16
+        }
+    },
     "_9LK7eh__L": {
         "id": "_9LK7eh__L",
         "title": "Муза и чудовище. Как организовать творческий труд.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 4
-        }
-    },
-    "BqL_cgNjOQ": {
-        "id": "BqL_cgNjOQ",
-        "title": "Мертвая зона",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-07-03 09:23:02",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 3
         }
     }
 }
