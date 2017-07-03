@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>211</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>212</sup>
 ---
 
 ## 2015
+
+### Владимир Ильич Ленин.
+В. В. Маяковский
+
 
 ### Про это.
 В. В. Маяковский
