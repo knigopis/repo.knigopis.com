@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>26</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>27</sup>
 ---
 
 ## 2017
@@ -92,6 +92,10 @@
 
 
 ## 2014
+
+### Мастер и Маргарита
+Михаил Булгаков
+
 
 ### Мертвые души
 Николай Гоголь

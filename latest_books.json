@@ -1,4 +1,16 @@
 {
+    "uulNZh-PLW": {
+        "id": "uulNZh-PLW",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-07-03 09:39:18",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 27
+        }
+    },
     "2H1aiadbRR": {
         "id": "2H1aiadbRR",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 14
-        }
-    },
-    "EhSHICi0G3": {
-        "id": "EhSHICi0G3",
-        "title": "Generation П",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2017-07-03 09:32:10",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 13
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[plinapolina](users/173/173746684-vkontakte)<sup>26</sup> 
+[plinapolina](users/173/173746684-vkontakte)<sup>27</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>40</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [retina](users/390/3900602-vkontakte)<sup>4</sup> 
 
 
-_03.07.2017 09:38:58_
+_03.07.2017 09:39:18_
