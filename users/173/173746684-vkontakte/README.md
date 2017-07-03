@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>42</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>43</sup>
 ---
 
 ## 2017
@@ -92,6 +92,10 @@
 
 
 ## 2014
+
+### Рассказы
+Эдгар Алан По
+
 
 ### Субмарина
 Джо Данторн
