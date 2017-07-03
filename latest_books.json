@@ -1,4 +1,16 @@
 {
+    "gqF5FkVGck": {
+        "id": "gqF5FkVGck",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-07-03 09:24:47",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 6
+        }
+    },
     "vv9gGHBweZ": {
         "id": "vv9gGHBweZ",
         "title": "Шинель",
@@ -345,18 +357,6 @@
             "id": "102141724140807407327-google",
             "nickname": "Леся украинкп",
             "booksCount": 1
-        }
-    },
-    "i9UccG2_SI": {
-        "id": "i9UccG2_SI",
-        "title": "Идиот",
-        "author": "Ф.М.Достоевский",
-        "notes": "",
-        "createdAt": "2017-06-30 11:18:54",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 15
         }
     }
 }
