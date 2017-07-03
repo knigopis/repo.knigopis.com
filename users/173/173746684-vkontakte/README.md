@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>24</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>25</sup>
 ---
 
 ## 2017
@@ -107,6 +107,13 @@
 
 ### Generation П
 Виктор Пелевин
+
+
+
+## 2010
+
+### Тарас Бульба
+Николай Гоголь
 
 
 
