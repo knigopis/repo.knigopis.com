@@ -1,7 +1,12 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>61</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>62</sup>
 ---
 
 ## 2014
+
+### Перед лицом жизни.
+Максим Горький
+> [2014-05] 
+
 
 ### Песня о буревестнике.
 Максим Горький
