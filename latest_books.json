@@ -1,4 +1,16 @@
 {
+    "53q67e5KRq": {
+        "id": "53q67e5KRq",
+        "title": "Бесы.",
+        "author": "Ф. М. Достоевский",
+        "notes": "",
+        "createdAt": "2017-07-03 11:11:50",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 204
+        }
+    },
     "uKI99ICb3-": {
         "id": "uKI99ICb3-",
         "title": "Идиот.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 175
-        }
-    },
-    "WF1N2LBKZJ": {
-        "id": "WF1N2LBKZJ",
-        "title": "Доктор Наци.",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-07-03 10:58:45",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 174
         }
     }
 }
