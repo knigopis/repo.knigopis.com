@@ -1,4 +1,16 @@
 {
+    "1AduF4Vsao": {
+        "id": "1AduF4Vsao",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-07-03 09:25:54",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 7
+        }
+    },
     "gqF5FkVGck": {
         "id": "gqF5FkVGck",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 103
-        }
-    },
-    "NzyqFmmlJw": {
-        "id": "NzyqFmmlJw",
-        "title": "Ад милд",
-        "author": "Сп р д",
-        "notes": "Саш отлм про",
-        "createdAt": "2017-06-30 13:26:52",
-        "user": {
-            "id": "102141724140807407327-google",
-            "nickname": "Леся украинкп",
-            "booksCount": 1
         }
     }
 }
