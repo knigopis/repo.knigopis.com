@@ -1,4 +1,16 @@
 {
+    "R31hpqsM8O": {
+        "id": "R31hpqsM8O",
+        "title": "Малахитовая шкатулка",
+        "author": "Павел Бажов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:57:00",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 60
+        }
+    },
     "9t9B4fLhT_": {
         "id": "9t9B4fLhT_",
         "title": "Две невольницы.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 44
-        }
-    },
-    "auQ3MGMuMA": {
-        "id": "auQ3MGMuMA",
-        "title": "Перед лицом жизни.",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-07-03 09:46:01",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 62
         }
     }
 }

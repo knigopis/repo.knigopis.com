@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>59</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>60</sup>
 ---
 
 ## 2017
@@ -249,6 +249,10 @@
 
 
 ## 2011
+
+### Малахитовая шкатулка
+Павел Бажов
+
 
 ### Муму
 Иван Тургенев
