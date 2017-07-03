@@ -1,4 +1,16 @@
 {
+    "vaVgTsso3M": {
+        "id": "vaVgTsso3M",
+        "title": "Господин из Сан-Франциско.",
+        "author": "И. А. Бунин",
+        "notes": "",
+        "createdAt": "2017-07-03 10:50:37",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 154
+        }
+    },
     "0Hp9T-RYxU": {
         "id": "0Hp9T-RYxU",
         "title": "Чистый понедельник.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 125
-        }
-    },
-    "Jcp8kX8NLH": {
-        "id": "Jcp8kX8NLH",
-        "title": "Мастер и Маргарита.",
-        "author": "М. Булгаков",
-        "notes": "",
-        "createdAt": "2017-07-03 10:28:57",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 124
         }
     }
 }
