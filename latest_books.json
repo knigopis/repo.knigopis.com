@@ -1,4 +1,16 @@
 {
+    "602pvH_vFF": {
+        "id": "602pvH_vFF",
+        "title": "Юг без признаков севера.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:59:51",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 176
+        }
+    },
     "_RbRbzoV6R": {
         "id": "_RbRbzoV6R",
         "title": "Христос на роликах.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 147
-        }
-    },
-    "QJ2m6fXRud": {
-        "id": "QJ2m6fXRud",
-        "title": "Голубой период де Долье-Смита.",
-        "author": "Д. Д. Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-07-03 10:48:03",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 146
         }
     }
 }
