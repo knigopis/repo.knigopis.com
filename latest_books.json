@@ -1,4 +1,16 @@
 {
+    "50vP9fyV6t": {
+        "id": "50vP9fyV6t",
+        "title": "Берилловая диадема.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:53:34",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 276
+        }
+    },
     "n4qdfm4U_j": {
         "id": "n4qdfm4U_j",
         "title": "Знатный холостяк.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 247
-        }
-    },
-    "BW_7fj9_mh": {
-        "id": "BW_7fj9_mh",
-        "title": "Гарри Поттер и Философский камень.",
-        "author": "Джоан Кэтлин Роулинг",
-        "notes": "",
-        "createdAt": "2017-07-03 11:31:47",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 246
         }
     }
 }
