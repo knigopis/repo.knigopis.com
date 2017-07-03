@@ -1,4 +1,16 @@
 {
+    "X3S84p2tBx": {
+        "id": "X3S84p2tBx",
+        "title": "Двенадцать.",
+        "author": "А. А. Блок",
+        "notes": "",
+        "createdAt": "2017-07-03 11:03:39",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 187
+        }
+    },
     "xnItgGuhpU": {
         "id": "xnItgGuhpU",
         "title": "Реквием.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 158
-        }
-    },
-    "mCrnVKZaha": {
-        "id": "mCrnVKZaha",
-        "title": "Безумная Евдокия.",
-        "author": "А. Г. Алексин",
-        "notes": "",
-        "createdAt": "2017-07-03 10:51:29",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 157
         }
     }
 }
