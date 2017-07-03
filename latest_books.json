@@ -1,4 +1,16 @@
 {
+    "uv1FgE3Yjf": {
+        "id": "uv1FgE3Yjf",
+        "title": "Владимир Маяковский.",
+        "author": "В. В. Маяковский",
+        "notes": "",
+        "createdAt": "2017-07-03 11:12:47",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 205
+        }
+    },
     "53q67e5KRq": {
         "id": "53q67e5KRq",
         "title": "Бесы.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 176
-        }
-    },
-    "_RbRbzoV6R": {
-        "id": "_RbRbzoV6R",
-        "title": "Христос на роликах.",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2017-07-03 10:59:18",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 175
         }
     }
 }
