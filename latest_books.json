@@ -1,4 +1,16 @@
 {
+    "-CZ5WND94k": {
+        "id": "-CZ5WND94k",
+        "title": "Маджа Туруп.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:54:20",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 165
+        }
+    },
     "B7ZJ61CxEw": {
         "id": "B7ZJ61CxEw",
         "title": "Два прапойцы.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 136
-        }
-    },
-    "e29TvLae_e": {
-        "id": "e29TvLae_e",
-        "title": "Книжный вор.",
-        "author": "Маркус Зусак",
-        "notes": "",
-        "createdAt": "2017-07-03 10:40:28",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 135
         }
     }
 }
