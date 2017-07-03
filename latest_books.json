@@ -1,4 +1,16 @@
 {
+    "_5Rq8K7PUA": {
+        "id": "_5Rq8K7PUA",
+        "title": "Установление личности.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:50:51",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 268
+        }
+    },
     "BP3Dp3VgIx": {
         "id": "BP3Dp3VgIx",
         "title": "Союз рыжих.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 239
-        }
-    },
-    "ZTMsenZzoE": {
-        "id": "ZTMsenZzoE",
-        "title": "Чайка.",
-        "author": "Б. Акунин",
-        "notes": "",
-        "createdAt": "2017-07-03 11:28:00",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 238
         }
     }
 }

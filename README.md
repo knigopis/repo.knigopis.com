@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>268</sup> 
 [земляника](users/308/30843500-vkontakte)<sup>0</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>267</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>63</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>82</sup> 
 
 
-_03.07.2017 11:42:21_
+_03.07.2017 11:50:51_
