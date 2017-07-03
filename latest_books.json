@@ -1,4 +1,16 @@
 {
+    "PUVqk4N8Nx": {
+        "id": "PUVqk4N8Nx",
+        "title": "Ресторан на краю Вселенной",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-07-03 09:26:23",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 8
+        }
+    },
     "1AduF4Vsao": {
         "id": "1AduF4Vsao",
         "title": "Автостопом по галактике",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 6
-        }
-    },
-    "xrGP8BXkz1": {
-        "id": "xrGP8BXkz1",
-        "title": "Над кукушкиным гнездом",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-06-30 13:52:45",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 103
         }
     }
 }
