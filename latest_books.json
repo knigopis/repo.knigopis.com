@@ -1,4 +1,16 @@
 {
+    "RM5Hx2QLmn": {
+        "id": "RM5Hx2QLmn",
+        "title": "В основном безвредна",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-07-03 09:27:36",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 11
+        }
+    },
     "dcOt-2WMrm": {
         "id": "dcOt-2WMrm",
         "title": "Гроза",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 59
-        }
-    },
-    "1God4ya5ei": {
-        "id": "1God4ya5ei",
-        "title": "Идиот",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "Явно не для чтения в школе.",
-        "createdAt": "2017-07-01 19:20:59",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 52
         }
     }
 }
