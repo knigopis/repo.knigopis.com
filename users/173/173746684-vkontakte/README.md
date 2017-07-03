@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>25</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>26</sup>
 ---
 
 ## 2017
@@ -92,6 +92,10 @@
 
 
 ## 2014
+
+### Мертвые души
+Николай Гоголь
+
 
 ### Преступление и наказание
 Федор Достоевский
