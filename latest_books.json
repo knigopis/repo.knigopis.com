@@ -1,4 +1,16 @@
 {
+    "y-k-oi25J6": {
+        "id": "y-k-oi25J6",
+        "title": "Ты не можешь написать рассказ о любви.",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2017-07-03 10:57:03",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 171
+        }
+    },
     "RVKSnuhrDl": {
         "id": "RVKSnuhrDl",
         "title": "Кое-что о вьетконговском флаге.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 142
-        }
-    },
-    "-dPWdtmNNx": {
-        "id": "-dPWdtmNNx",
-        "title": "Перед самой войной с эскимосами.",
-        "author": "Д. Д. Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-07-03 10:46:02",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 141
         }
     }
 }
