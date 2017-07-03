@@ -1,4 +1,10 @@
 {
+    "200322585-vkontakte": {
+        "id": "200322585-vkontakte",
+        "nickname": "nastyaevfan ",
+        "booksCount": 0,
+        "updatedAt": "2017-07-03 16:48:10"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Implicat",
         "booksCount": 2,
         "updatedAt": "2017-06-26 07:02:29"
-    },
-    "104502610850806942588-google": {
-        "id": "104502610850806942588-google",
-        "nickname": "Zhi",
-        "booksCount": 3,
-        "updatedAt": "2017-06-25 11:29:09"
     }
 }
