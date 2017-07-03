@@ -1,4 +1,16 @@
 {
+    "kqNBvmghpE": {
+        "id": "kqNBvmghpE",
+        "title": "Музыка души.",
+        "author": "Барбара Картленд",
+        "notes": "",
+        "createdAt": "2017-07-03 10:04:55",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 92
+        }
+    },
     "98cM0qD8xG": {
         "id": "98cM0qD8xG",
         "title": "Одиночество в сети.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 71
-        }
-    },
-    "lTvURKA7iC": {
-        "id": "lTvURKA7iC",
-        "title": "На дне",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-07-03 09:52:36",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 55
         }
     }
 }
