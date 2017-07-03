@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>5</sup>
+# List of books read by Rainbow<sup>6</sup>
 ---
 
 ## 2015
+
+### Перси Джексон и похититель молний
+Рик Риордан
+> [2015-03] 
+
 
 ### Пятьдесят оттенков серого
 Эрика Джеймс
