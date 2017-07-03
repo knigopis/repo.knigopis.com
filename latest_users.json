@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 0,
+        "updatedAt": "2017-07-03 08:56:38"
+    },
     "102763689513347752702-google": {
         "id": "102763689513347752702-google",
         "nickname": "Gregor Bjdantukevich",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 23,
         "updatedAt": "2017-06-23 09:31:53"
-    },
-    "63898155-vkontakte": {
-        "id": "63898155-vkontakte",
-        "nickname": "ihatespoilers",
-        "booksCount": 2,
-        "updatedAt": "2017-06-23 06:41:02"
     }
 }
