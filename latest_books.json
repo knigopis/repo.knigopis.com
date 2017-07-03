@@ -1,4 +1,16 @@
 {
+    "A6Neqgb9la": {
+        "id": "A6Neqgb9la",
+        "title": "Игра престолов",
+        "author": "Джордж Р.Р. Мартин",
+        "notes": "",
+        "createdAt": "2017-07-03 09:22:18",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 2
+        }
+    },
     "A1M8btEEwt": {
         "id": "A1M8btEEwt",
         "title": "Ночь в Лиссабоне",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 12
-        }
-    },
-    "eOVHcFVbnG": {
-        "id": "eOVHcFVbnG",
-        "title": "Скотный двор",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-06-29 13:24:27",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 11
         }
     }
 }
