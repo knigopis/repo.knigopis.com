@@ -1,4 +1,16 @@
 {
+    "8xsnRfTHL6": {
+        "id": "8xsnRfTHL6",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2017-07-03 09:44:48",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 40
+        }
+    },
     "201w_5GmdA": {
         "id": "201w_5GmdA",
         "title": "Утро.",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 28
-        }
-    },
-    "uulNZh-PLW": {
-        "id": "uulNZh-PLW",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-07-03 09:39:18",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 27
         }
     }
 }
