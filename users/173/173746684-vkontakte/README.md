@@ -1,4 +1,4 @@
-# List of books read by [plinapolina](http://vk.com/id173746684)<sup>62</sup>
+# List of books read by [plinapolina](http://vk.com/id173746684)<sup>63</sup>
 ---
 
 ## 2017
@@ -253,6 +253,10 @@
 
 
 ## 2011
+
+### Цикл «Волшебник Изумрудного города»
+Александр Волков
+
 
 ### Малахитовая шкатулка
 Павел Бажов

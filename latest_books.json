@@ -1,4 +1,16 @@
 {
+    "kNfjRP41Jg": {
+        "id": "kNfjRP41Jg",
+        "title": "Цикл «Волшебник Изумрудного города»",
+        "author": "Александр Волков",
+        "notes": "",
+        "createdAt": "2017-07-03 10:04:20",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 63
+        }
+    },
     "Z6WZv_OOPu": {
         "id": "Z6WZv_OOPu",
         "title": "Погоня за парнем мечты.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 70
-        }
-    },
-    "3Sgd2EzQln": {
-        "id": "3Sgd2EzQln",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-07-03 09:52:20",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 54
         }
     }
 }
