@@ -1,4 +1,16 @@
 {
+    "EMnmXI1rE_": {
+        "id": "EMnmXI1rE_",
+        "title": "Тапер",
+        "author": "А. П. Чехов",
+        "notes": "",
+        "createdAt": "2017-07-03 09:39:46",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 41
+        }
+    },
     "lPaqaP2rzr": {
         "id": "lPaqaP2rzr",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "173746684-vkontakte",
             "nickname": "plinapolina",
             "booksCount": 15
-        }
-    },
-    "qbLoAqmokp": {
-        "id": "qbLoAqmokp",
-        "title": "Тайные знания коммерческих иллюстраторов.",
-        "author": "Яна Франк",
-        "notes": "",
-        "createdAt": "2017-07-03 09:32:51",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 25
         }
     }
 }
