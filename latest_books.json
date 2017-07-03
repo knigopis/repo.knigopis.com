@@ -1,4 +1,16 @@
 {
+    "XbLfqIV4Sh": {
+        "id": "XbLfqIV4Sh",
+        "title": "Три студента.",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-07-03 11:59:31",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 297
+        }
+    },
     "H2KkFDLloE": {
         "id": "H2KkFDLloE",
         "title": "Шесть Наполеонов.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 268
-        }
-    },
-    "BP3Dp3VgIx": {
-        "id": "BP3Dp3VgIx",
-        "title": "Союз рыжих.",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-07-03 11:39:39",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 267
         }
     }
 }
