@@ -1,4 +1,16 @@
 {
+    "a789Cv8Vne": {
+        "id": "a789Cv8Vne",
+        "title": "Борис Годунов.",
+        "author": "А. С. Пушкин",
+        "notes": "",
+        "createdAt": "2017-07-03 10:31:17",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 127
+        }
+    },
     "niGk1n0RiR": {
         "id": "niGk1n0RiR",
         "title": "Горе от ума.",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 98
-        }
-    },
-    "bLIChMRoYC": {
-        "id": "bLIChMRoYC",
-        "title": "Ирка Хортица - супер ведьма. Ведьмино наследство.",
-        "author": "Илона Васильевна и Кирилл Кащеев",
-        "notes": "",
-        "createdAt": "2017-07-03 10:08:40",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 97
         }
     }
 }
