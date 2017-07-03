@@ -1,7 +1,11 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>202</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>203</sup>
 ---
 
 ## 2017
+
+### Идиот.
+Ф. М. Достоевский
+
 
 ### Гюнтер Грасс: король торговцев игрушками.
 Джон Ирвинг
