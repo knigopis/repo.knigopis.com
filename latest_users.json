@@ -1,4 +1,10 @@
 {
+    "95843305-vkontakte": {
+        "id": "95843305-vkontakte",
+        "nickname": "veronika_kozishkurt",
+        "booksCount": 0,
+        "updatedAt": "2017-07-04 15:54:43"
+    },
     "76133884-vkontakte": {
         "id": "76133884-vkontakte",
         "nickname": "Гордый птичка",
@@ -172,11 +178,5 @@
         "nickname": "noisywiz",
         "booksCount": 0,
         "updatedAt": "2017-06-28 09:40:40"
-    },
-    "106706640586990982892-google": {
-        "id": "106706640586990982892-google",
-        "nickname": "Maxim Filatov",
-        "booksCount": 0,
-        "updatedAt": "2017-06-28 09:25:13"
     }
 }
