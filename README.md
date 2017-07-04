@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
 [slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
-[Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 
 
-_04.07.2017 14:45:26_
+_04.07.2017 15:54:46_
