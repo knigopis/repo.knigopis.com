@@ -1,4 +1,16 @@
 {
+    "kRyW68NX7-": {
+        "id": "kRyW68NX7-",
+        "title": "Хватит ныть ,выше голову !",
+        "author": "Уингетт Ларри",
+        "notes": "",
+        "createdAt": "2017-07-04 19:30:48",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 17
+        }
+    },
     "bnZe-XSajs": {
         "id": "bnZe-XSajs",
         "title": "Искусство учиться",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 306
-        }
-    },
-    "U20LXnCsPl": {
-        "id": "U20LXnCsPl",
-        "title": "Чертежи Брюса-",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-03 12:03:09",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 305
         }
     }
 }
