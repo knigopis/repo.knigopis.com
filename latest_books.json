@@ -1,4 +1,16 @@
 {
+    "nNp-gYwGnf": {
+        "id": "nNp-gYwGnf",
+        "title": "Номер 1",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2017-07-04 19:34:27",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 19
+        }
+    },
     "AghLnFJxDo": {
         "id": "AghLnFJxDo",
         "title": "Думай как математик: Как решать любые задачи быстрее и эффективнее",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 308
-        }
-    },
-    "UnLZSoiVrw": {
-        "id": "UnLZSoiVrw",
-        "title": "Исчезновение леди Фрэенсис Карфэкс.",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-07-03 12:04:40",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 307
         }
     }
 }
