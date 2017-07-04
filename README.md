@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
+    > Перечитать после, особенно главы об элементах.
+
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
     > Рассказ Чехова о его путешествии на остров. Без прикрас
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.
 
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
-    > Явно не для чтения в школе.
 
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 
-* Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>0</sup> 
 [nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
 [asiaa999](users/102/102830650203830834064-google)<sup>24</sup> 
-[idmrthebull](users/154/154209086-vkontakte)<sup>0</sup> 
 
 
-_03.07.2017 23:57:18_
+_04.07.2017 02:21:15_

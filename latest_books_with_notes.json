@@ -1,4 +1,16 @@
 {
+    "LdsuMOUvg7": {
+        "id": "LdsuMOUvg7",
+        "title": "Лекции по истории химии",
+        "author": "",
+        "notes": "Перечитать после, особенно главы об элементах.",
+        "createdAt": "2017-07-04 02:21:15",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 1
+        }
+    },
     "Kgsc7MfogJ": {
         "id": "Kgsc7MfogJ",
         "title": "Остров Сахалин",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 48
-        }
-    },
-    "GEj_HaOHKL": {
-        "id": "GEj_HaOHKL",
-        "title": "В конце ноября",
-        "author": "Туве Янссон",
-        "notes": "последняя книга о муми-троллях. Хорошо, что в детстве не читала. Сейчас - самое оно.",
-        "createdAt": "2017-06-14 18:00:06",
-        "user": {
-            "id": "1577468-vkontakte",
-            "nickname": "Беска",
-            "booksCount": 49
         }
     }
 }

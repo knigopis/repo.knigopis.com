@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
 * Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
-* В конце ноября ~ [Беска](users/157/1577468-vkontakte)<sup>49</sup>
 
 
-_02.07.2017 20:05:07_
+_04.07.2017 02:21:15_
