@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>0</sup> 
 [nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 [Maxim Filatov](users/106/106706640586990982892-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>12</sup> 
-[asiaa999](users/102/102830650203830834064-google)<sup>24</sup> 
 
 
-_04.07.2017 02:21:15_
+_04.07.2017 13:12:28_
