@@ -1,4 +1,10 @@
 {
+    "76133884-vkontakte": {
+        "id": "76133884-vkontakte",
+        "nickname": "Гордый птичка",
+        "booksCount": 0,
+        "updatedAt": "2017-07-04 14:45:24"
+    },
     "105312345924621897762-google": {
         "id": "105312345924621897762-google",
         "nickname": "slava_xxx",
@@ -172,11 +178,5 @@
         "nickname": "Maxim Filatov",
         "booksCount": 0,
         "updatedAt": "2017-06-28 09:25:13"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 12,
-        "updatedAt": "2017-06-27 18:59:50"
     }
 }
