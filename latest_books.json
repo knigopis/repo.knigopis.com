@@ -1,4 +1,16 @@
 {
+    "AghLnFJxDo": {
+        "id": "AghLnFJxDo",
+        "title": "Думай как математик: Как решать любые задачи быстрее и эффективнее",
+        "author": "Барбара Оакли",
+        "notes": "",
+        "createdAt": "2017-07-04 19:34:06",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 18
+        }
+    },
     "kRyW68NX7-": {
         "id": "kRyW68NX7-",
         "title": "Хватит ныть ,выше голову !",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 307
-        }
-    },
-    "VPYnD2yowE": {
-        "id": "VPYnD2yowE",
-        "title": "Шерлок Холмс при смерти.",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-07-03 12:03:44",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 306
         }
     }
 }
