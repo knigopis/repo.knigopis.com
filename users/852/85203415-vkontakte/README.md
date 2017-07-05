@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>27</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>28</sup>
 ---
 
 ## 2017
@@ -123,6 +123,10 @@
 
 
 ## 2003
+
+### Сердца в Атлантиде
+Стивен Кинг
+
 
 ### 451 по Фаренгейту
 Рэй Брэдбери
