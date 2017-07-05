@@ -1,12 +1,12 @@
 # Wish list of books by [develchip](http://vk.com/id85203415)
 ---
 
-### `90` Логика неудачи
-Дитрих Дёрнер
-> http://zygmantovich.com/?page_id=8994
-
 ### `90` Прикладной системный анализ
 Феликс Тарасенко
+> http://zygmantovich.com/?page_id=8994
+
+### `90` Логика неудачи
+Дитрих Дёрнер
 > http://zygmantovich.com/?page_id=8994
 
 ### `85` Социальная психология
@@ -17,6 +17,9 @@
 Оливер Сакс
 > https://www.youtube.com/watch?v=2wdV5NC2pfg
 > http://zygmantovich.com/?page_id=7589
+
+### `50` Бедные люди
+Ф.М.Достоевский
 
 ### `50` Педагогическая поэма
 Макаренко А.С.
