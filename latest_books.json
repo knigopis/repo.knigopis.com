@@ -1,4 +1,16 @@
 {
+    "DSZvXeey9k": {
+        "id": "DSZvXeey9k",
+        "title": "Отцы и дети",
+        "author": "И.С. Тургенев",
+        "notes": "",
+        "createdAt": "2017-07-05 07:51:58",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 24
+        }
+    },
     "XXyOypl5-n": {
         "id": "XXyOypl5-n",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 5
-        }
-    },
-    "zIup-l4-IG": {
-        "id": "zIup-l4-IG",
-        "title": "Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-07-03 13:09:21",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 4
         }
     }
 }
