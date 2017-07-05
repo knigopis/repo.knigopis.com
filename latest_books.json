@@ -1,4 +1,16 @@
 {
+    "49UK2OiM-6": {
+        "id": "49UK2OiM-6",
+        "title": "Мертвые души",
+        "author": "Н.В.Гоголь",
+        "notes": "",
+        "createdAt": "2017-07-05 07:52:22",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 25
+        }
+    },
     "DSZvXeey9k": {
         "id": "DSZvXeey9k",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 6
-        }
-    },
-    "7Z3YYqsmS6": {
-        "id": "7Z3YYqsmS6",
-        "title": "Пятьдесят оттенков серого",
-        "author": "Эрика Джеймс",
-        "notes": "",
-        "createdAt": "2017-07-03 13:10:56",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 5
         }
     }
 }
