@@ -1,4 +1,16 @@
 {
+    "gJ5pUvA8df": {
+        "id": "gJ5pUvA8df",
+        "title": "Горе от ума",
+        "author": "А.С.Грибоедов",
+        "notes": "",
+        "createdAt": "2017-07-05 07:52:58",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 26
+        }
+    },
     "49UK2OiM-6": {
         "id": "49UK2OiM-6",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 7
-        }
-    },
-    "NbdNXIM9pi": {
-        "id": "NbdNXIM9pi",
-        "title": "Перси Джексон и похититель молний",
-        "author": "Рик Риордан",
-        "notes": "",
-        "createdAt": "2017-07-03 13:11:28",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 6
         }
     }
 }
