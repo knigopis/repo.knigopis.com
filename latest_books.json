@@ -1,4 +1,16 @@
 {
+    "i-auUk71Ho": {
+        "id": "i-auUk71Ho",
+        "title": "Смерть Ивана Ильича",
+        "author": "Л.Н.Толстой",
+        "notes": "",
+        "createdAt": "2017-07-05 07:36:51",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 22
+        }
+    },
     "j-ztTUsG7L": {
         "id": "j-ztTUsG7L",
         "title": "Сивилла",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 3
-        }
-    },
-    "XagFZOEFBn": {
-        "id": "XagFZOEFBn",
-        "title": "Голодные игры",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-07-03 13:08:46",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 2
         }
     }
 }
