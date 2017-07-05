@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>31</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>32</sup>
 ---
 
 ## 2017
@@ -131,6 +131,13 @@
 
 ### Парфюмер
 Патрик Зюскинд
+
+
+
+## 2005
+
+### Воспламеняющая взглядом
+Стивен Кинг
 
 
 

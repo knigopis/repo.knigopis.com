@@ -1,4 +1,16 @@
 {
+    "pfXwm9mcie": {
+        "id": "pfXwm9mcie",
+        "title": "Воспламеняющая взглядом",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-07-05 12:35:07",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 32
+        }
+    },
     "MPGz19aPiD": {
         "id": "MPGz19aPiD",
         "title": "Униженные и оскорблённые",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 13
-        }
-    },
-    "wY1Iec4tsf": {
-        "id": "wY1Iec4tsf",
-        "title": "Никто не спит ☆☆☆☆",
-        "author": "Катарина Киери",
-        "notes": "",
-        "createdAt": "2017-07-03 13:18:29",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 12
         }
     }
 }
