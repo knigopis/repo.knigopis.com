@@ -31,6 +31,9 @@
 > http://www.ozon.ru/context/detail/id/7386676/
 > http://elementy.ru/novosti_nauki/431161
 
+### `50` Педагогическая поэма
+Макаренко А.С.
+
 ### `50` Джейн Эйр
 Шарлотта Бронте
 > Увидел у Apprentice  с примечанием: 9/10
