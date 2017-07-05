@@ -1,12 +1,12 @@
 # Wish list of books by [develchip](http://vk.com/id85203415)
 ---
 
-### `90` Логика неудачи
-Дитрих Дёрнер
-> http://zygmantovich.com/?page_id=8994
-
 ### `90` Прикладной системный анализ
 Феликс Тарасенко
+> http://zygmantovich.com/?page_id=8994
+
+### `90` Логика неудачи
+Дитрих Дёрнер
 > http://zygmantovich.com/?page_id=8994
 
 ### `85` Социальная психология
@@ -23,6 +23,9 @@
 > http://zygmantovich.com/?p=3245
 > http://www.ozon.ru/context/detail/id/7386676/
 > http://elementy.ru/novosti_nauki/431161
+
+### `50` Литературная амнезия
+Патрик Зюскинд
 
 ### `50` Повелитель мух
 Голдинг Уильям
