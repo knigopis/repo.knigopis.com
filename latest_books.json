@@ -1,4 +1,16 @@
 {
+    "jr2slpy4Pl": {
+        "id": "jr2slpy4Pl",
+        "title": "Разум в огне. Месяц моего безумия",
+        "author": "Сюзанна Кэхалан",
+        "notes": "",
+        "createdAt": "2017-07-05 08:57:51",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 27
+        }
+    },
     "gJ5pUvA8df": {
         "id": "gJ5pUvA8df",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 8
-        }
-    },
-    "IZfDPdCojI": {
-        "id": "IZfDPdCojI",
-        "title": "Перси Джексон и Море чудовищ",
-        "author": "Рик Риордан",
-        "notes": "",
-        "createdAt": "2017-07-03 13:12:00",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 7
         }
     }
 }
