@@ -1,4 +1,16 @@
 {
+    "CONfEuTpaP": {
+        "id": "CONfEuTpaP",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-07-05 06:02:11",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 20
+        }
+    },
     "nNp-gYwGnf": {
         "id": "nNp-gYwGnf",
         "title": "Номер 1",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "AlinaRainbow",
             "booksCount": 1
-        }
-    },
-    "jjf0keqNsz": {
-        "id": "jjf0keqNsz",
-        "title": "Дьяволова нога.",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-07-03 12:05:09",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 308
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[develchip](users/852/85203415-vkontakte)<sup>19</sup> 
+[develchip](users/852/85203415-vkontakte)<sup>20</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
 [slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 
 
-_04.07.2017 19:34:27_
+_05.07.2017 06:02:11_
