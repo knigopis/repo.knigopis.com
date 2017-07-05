@@ -1,4 +1,16 @@
 {
+    "MPGz19aPiD": {
+        "id": "MPGz19aPiD",
+        "title": "Униженные и оскорблённые",
+        "author": "Ф.М.Достоевский",
+        "notes": "",
+        "createdAt": "2017-07-05 12:30:54",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 31
+        }
+    },
     "9dG4pDFltJ": {
         "id": "9dG4pDFltJ",
         "title": "Какое ТЕБЕ дело до того, что думают другие?",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 12
-        }
-    },
-    "HSlXdG2Chx": {
-        "id": "HSlXdG2Chx",
-        "title": "Числа. Время бежать",
-        "author": "Рейчел Уорд",
-        "notes": "",
-        "createdAt": "2017-07-03 13:17:43",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 11
         }
     }
 }
