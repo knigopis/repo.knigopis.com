@@ -1,4 +1,16 @@
 {
+    "9dG4pDFltJ": {
+        "id": "9dG4pDFltJ",
+        "title": "Какое ТЕБЕ дело до того, что думают другие?",
+        "author": "Ричард Фейнман",
+        "notes": "",
+        "createdAt": "2017-07-05 12:29:10",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 30
+        }
+    },
     "seNw7FMJZ-": {
         "id": "seNw7FMJZ-",
         "title": "Вы, конечно, шутите, мистер Фейнман!",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 11
-        }
-    },
-    "hfXIFiYz87": {
-        "id": "hfXIFiYz87",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Д. Сэлинджер",
-        "notes": "Эту книгу я, видимо, не поняла. Потому что всё еще не понимаю, почему она всем так нравится.",
-        "createdAt": "2017-07-03 13:17:11",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 10
         }
     }
 }
