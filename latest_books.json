@@ -1,4 +1,16 @@
 {
+    "seNw7FMJZ-": {
+        "id": "seNw7FMJZ-",
+        "title": "Вы, конечно, шутите, мистер Фейнман!",
+        "author": "Ричард Фейнман",
+        "notes": "",
+        "createdAt": "2017-07-05 12:28:54",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 29
+        }
+    },
     "T2-A-IvOQr": {
         "id": "T2-A-IvOQr",
         "title": "Сердца в Атлантиде",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 10
-        }
-    },
-    "2A6RzgAhVb": {
-        "id": "2A6RzgAhVb",
-        "title": "451° по Фаренгейту ☆☆☆☆☆",
-        "author": "Рэй Брэдбери",
-        "notes": "Читала книгу давно, но она мне понравилась. Мало что помню. \nГотова разобрать её на цитаты и очень хочется перечитать снова.",
-        "createdAt": "2017-07-03 13:16:01",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 9
         }
     }
 }
