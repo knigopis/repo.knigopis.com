@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>26</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>27</sup>
 ---
 
 ## 2017
+
+### Счастливый принц
+Оскар Уайльд
+> [2017-07-07] 
+
 
 ### #меня зовут лис
 Виксен Ли

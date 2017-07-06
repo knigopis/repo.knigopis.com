@@ -1,4 +1,16 @@
 {
+    "6zfbQ_bsVC": {
+        "id": "6zfbQ_bsVC",
+        "title": "Счастливый принц",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-07-06 20:48:44",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 27
+        }
+    },
     "xHMlK7iifl": {
         "id": "xHMlK7iifl",
         "title": "Овод",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 33
-        }
-    },
-    "rrT5HWq6Uc": {
-        "id": "rrT5HWq6Uc",
-        "title": "Путь к финансовой независимости",
-        "author": "Бодо Шефер",
-        "notes": "",
-        "createdAt": "2017-07-06 02:58:19",
-        "user": {
-            "id": "219259003-vkontakte",
-            "nickname": "victoria_spilioti",
-            "booksCount": 72
         }
     }
 }
