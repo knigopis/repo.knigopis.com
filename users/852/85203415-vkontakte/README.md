@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>40</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>41</sup>
 ---
 
 ## 2017
@@ -156,6 +156,10 @@
 
 
 ## 2010
+
+### Лолита
+Владимир Набоков
+
 
 ### Цветы для Элджернона
 Дэниел Киз
