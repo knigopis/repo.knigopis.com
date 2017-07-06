@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>54</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>55</sup>
 ---
 
 ## 2017
@@ -51,6 +51,10 @@
 ### Разум в огне. Месяц моего безумия
 Сюзанна Кэхалан
 > [2017-02] 
+
+
+### Вечера на хуторе близ Диканьки
+Н. Гоголь
 
 
 ### Горе от ума
