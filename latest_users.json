@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 107,
+        "updatedAt": "2017-07-06 10:18:59"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 546,
         "updatedAt": "2017-06-30 07:38:49"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 20,
-        "updatedAt": "2017-06-29 17:15:03"
     }
 }

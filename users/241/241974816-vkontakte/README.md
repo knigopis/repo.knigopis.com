@@ -1,7 +1,16 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>106</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>107</sup>
 ---
 
 ## 2017
+
+### Стартап. Настольная книга основателя
+Стив Бланк, Боб Дорф
+> [2017-07-06] Фундаментальный труд :)
+> 
+> в процессе
+> 
+> https://www.ozon.ru/context/detail/id/19159514/
+
 
 ### Опасная бритва Оккама
 Сергей Переслегин

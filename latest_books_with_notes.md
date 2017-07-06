@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Нью-Йорк и обратно ~ [lana_1312](users/460/4609218-vkontakte)<sup>2</sup>
 * Хроники Нарнии: Последняя Битва ~ [EsterHani](users/305/30558181-vkontakte)<sup>117</sup>
 * Чёрный флаг ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>24</sup>
-* Негатор ~ [Tr](users/122/12282474-vkontakte)<sup>48</sup>
 
 
-_04.07.2017 02:21:15_
+_06.07.2017 10:18:59_

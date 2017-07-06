@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
+    > Фундаментальный труд :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/19159514/
+
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
     > Перечитать после, особенно главы об элементах.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Рассказ Чехова о его путешествии на остров. Без прикрас
 
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
-    > Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.
 
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
 
-* Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>56</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
@@ -62,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
 
 
-_06.07.2017 07:37:56_
+_06.07.2017 10:18:59_
