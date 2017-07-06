@@ -1,4 +1,16 @@
 {
+    "ohPrVbRWpt": {
+        "id": "ohPrVbRWpt",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-07-06 05:36:48",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 37
+        }
+    },
     "TS59JF1piy": {
         "id": "TS59JF1piy",
         "title": "Письмо отцу",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 19
-        }
-    },
-    "tAGBZrJpRD": {
-        "id": "tAGBZrJpRD",
-        "title": "Толстый и тонкий",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2017-07-03 13:32:59",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 18
         }
     }
 }

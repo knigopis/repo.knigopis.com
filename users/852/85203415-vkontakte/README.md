@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>36</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>37</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 ### Бесы
 Ф.М.Достоевский
 > [2016-12] 
+
+
+### Портрет Дориана Грея
+Оскар Уайльд
 
 
 ### Униженные и оскорблённые
