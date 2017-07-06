@@ -1,4 +1,16 @@
 {
+    "4C-Fn032Zr": {
+        "id": "4C-Fn032Zr",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-07-06 07:31:09",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 54
+        }
+    },
     "hDUgPiPBM5": {
         "id": "hDUgPiPBM5",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 26
-        }
-    },
-    "49UK2OiM-6": {
-        "id": "49UK2OiM-6",
-        "title": "Мертвые души",
-        "author": "Н.В.Гоголь",
-        "notes": "",
-        "createdAt": "2017-07-05 07:52:22",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 25
         }
     }
 }
