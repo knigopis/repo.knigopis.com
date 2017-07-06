@@ -1,4 +1,16 @@
 {
+    "U1BCP_VKOy": {
+        "id": "U1BCP_VKOy",
+        "title": "Суровое испытание",
+        "author": "Артур Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 06:12:54",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 49
+        }
+    },
     "fFXLXHAAUk": {
         "id": "fFXLXHAAUk",
         "title": "Смерть коммивояжёра",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 21
-        }
-    },
-    "CONfEuTpaP": {
-        "id": "CONfEuTpaP",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-07-05 06:02:11",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 20
         }
     }
 }
