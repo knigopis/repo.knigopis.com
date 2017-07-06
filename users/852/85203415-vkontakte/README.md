@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>34</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>35</sup>
 ---
 
 ## 2017
@@ -95,6 +95,10 @@
 
 
 ## 2015
+
+### Тропик Козерога
+Генри Миллер
+
 
 ### Тропик Рака
 Генри Миллер

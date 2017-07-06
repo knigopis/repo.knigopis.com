@@ -1,4 +1,16 @@
 {
+    "7mMN_KBccC": {
+        "id": "7mMN_KBccC",
+        "title": "Тропик Козерога",
+        "author": "Генри Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 05:34:26",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 35
+        }
+    },
     "H0USAqalGK": {
         "id": "H0USAqalGK",
         "title": "Тропик Рака",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 17
-        }
-    },
-    "4_Apg8Llic": {
-        "id": "4_Apg8Llic",
-        "title": "Лев, колдунья и платяной шкаф",
-        "author": "Льюис Клайв Стейплз",
-        "notes": "",
-        "createdAt": "2017-07-03 13:20:56",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 16
         }
     }
 }
