@@ -1,4 +1,16 @@
 {
+    "FZLsPWGjCX": {
+        "id": "FZLsPWGjCX",
+        "title": "Сказать жизни «Да»: психолог в концлагере",
+        "author": "Виктор Франкл",
+        "notes": "",
+        "createdAt": "2017-07-06 06:10:57",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 46
+        }
+    },
     "nnZeDwI1qD": {
         "id": "nnZeDwI1qD",
         "title": "Сила воли.Как развить и укрепить",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 18
-        }
-    },
-    "kRyW68NX7-": {
-        "id": "kRyW68NX7-",
-        "title": "Хватит ныть ,выше голову !",
-        "author": "Уингетт Ларри",
-        "notes": "",
-        "createdAt": "2017-07-04 19:30:48",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 17
         }
     }
 }
