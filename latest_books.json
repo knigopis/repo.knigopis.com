@@ -1,4 +1,16 @@
 {
+    "9tf_w9lwj-": {
+        "id": "9tf_w9lwj-",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2017-07-06 06:08:32",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 44
+        }
+    },
     "0I9poP6s-W": {
         "id": "0I9poP6s-W",
         "title": "Сексуальная жизнь Катрин М.",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 16
-        }
-    },
-    "LdsuMOUvg7": {
-        "id": "LdsuMOUvg7",
-        "title": "Лекции по истории химии",
-        "author": "",
-        "notes": "Перечитать после, особенно главы об элементах.",
-        "createdAt": "2017-07-04 02:21:15",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 1
         }
     }
 }
