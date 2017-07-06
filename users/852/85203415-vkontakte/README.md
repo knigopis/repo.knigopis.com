@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>47</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>48</sup>
 ---
 
 ## 2017
@@ -21,6 +21,11 @@
 ### Неукротимая планета
 Гарри Гаррисон
 > [2017-04] 
+
+
+### Смерть коммивояжёра
+Артур Миллер
+> [2017-03] 
 
 
 ### Смерть Ивана Ильича

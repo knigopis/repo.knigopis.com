@@ -1,4 +1,16 @@
 {
+    "fFXLXHAAUk": {
+        "id": "fFXLXHAAUk",
+        "title": "Смерть коммивояжёра",
+        "author": "Артур Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 06:12:34",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 48
+        }
+    },
     "UzaBz28qp1": {
         "id": "UzaBz28qp1",
         "title": "Все мои сыновья",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 20
-        }
-    },
-    "nNp-gYwGnf": {
-        "id": "nNp-gYwGnf",
-        "title": "Номер 1",
-        "author": "Игорь Манн",
-        "notes": "",
-        "createdAt": "2017-07-04 19:34:27",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 19
         }
     }
 }
