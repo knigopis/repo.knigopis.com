@@ -1,4 +1,10 @@
 {
+    "4517385-yandex": {
+        "id": "4517385-yandex",
+        "nickname": "AHTOWKA",
+        "booksCount": 1,
+        "updatedAt": "2017-07-06 11:56:45"
+    },
     "104738523506260-facebook": {
         "id": "104738523506260-facebook",
         "nickname": null,
@@ -46,12 +52,6 @@
         "nickname": "darb_el",
         "booksCount": 1,
         "updatedAt": "2017-07-04 02:21:15"
-    },
-    "4517385-yandex": {
-        "id": "4517385-yandex",
-        "nickname": "AHTOWKA",
-        "booksCount": 0,
-        "updatedAt": "2017-07-03 23:57:14"
     },
     "200322585-vkontakte": {
         "id": "200322585-vkontakte",

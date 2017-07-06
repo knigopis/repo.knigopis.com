@@ -1,4 +1,16 @@
 {
+    "yMdzZlWc9x": {
+        "id": "yMdzZlWc9x",
+        "title": "Я был секретарем Сталина",
+        "author": "Борис Георгиевич Бажанов",
+        "notes": "",
+        "createdAt": "2017-07-06 11:56:45",
+        "user": {
+            "id": "4517385-yandex",
+            "nickname": "AHTOWKA",
+            "booksCount": 1
+        }
+    },
     "yYsEUfxBZb": {
         "id": "yYsEUfxBZb",
         "title": "По Уссурийскому краю. Дерсу Узала",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 31
-        }
-    },
-    "9dG4pDFltJ": {
-        "id": "9dG4pDFltJ",
-        "title": "Какое ТЕБЕ дело до того, что думают другие?",
-        "author": "Ричард Фейнман",
-        "notes": "",
-        "createdAt": "2017-07-05 12:29:10",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 30
         }
     }
 }
