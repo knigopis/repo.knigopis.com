@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/104/104738523506260-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>56</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 
 
-_06.07.2017 10:19:34_
+_06.07.2017 11:48:56_
