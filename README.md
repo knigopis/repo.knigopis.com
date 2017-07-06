@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>547</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
 [](users/104/104738523506260-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
 [sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 
 
-_06.07.2017 11:56:45_
+_06.07.2017 12:45:46_
