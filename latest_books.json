@@ -1,4 +1,16 @@
 {
+    "DpLfmlGch-": {
+        "id": "DpLfmlGch-",
+        "title": "Все оттенки голубого",
+        "author": "Рю Мураками",
+        "notes": "",
+        "createdAt": "2017-07-06 05:33:20",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 33
+        }
+    },
     "rrT5HWq6Uc": {
         "id": "rrT5HWq6Uc",
         "title": "Путь к финансовой независимости",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 15
-        }
-    },
-    "gyZ2LRMNuf": {
-        "id": "gyZ2LRMNuf",
-        "title": "Пенсне",
-        "author": "Михаил Осоргин",
-        "notes": "",
-        "createdAt": "2017-07-03 13:19:30",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 14
         }
     }
 }
