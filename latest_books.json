@@ -1,4 +1,16 @@
 {
+    "jlrLf0WX9n": {
+        "id": "jlrLf0WX9n",
+        "title": "Том Сойер",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2017-07-06 07:37:56",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 56
+        }
+    },
     "KXYI25LyZj": {
         "id": "KXYI25LyZj",
         "title": "Вечера на хуторе близ Диканьки",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 28
-        }
-    },
-    "jr2slpy4Pl": {
-        "id": "jr2slpy4Pl",
-        "title": "Разум в огне. Месяц моего безумия",
-        "author": "Сюзанна Кэхалан",
-        "notes": "",
-        "createdAt": "2017-07-05 08:57:51",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 27
         }
     }
 }
