@@ -1,4 +1,16 @@
 {
+    "lSqhekuXPm": {
+        "id": "lSqhekuXPm",
+        "title": "Москва—Петушки",
+        "author": "Венедикт Ерофеев",
+        "notes": "",
+        "createdAt": "2017-07-06 06:42:18",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 52
+        }
+    },
     "FWPCJ5KvKq": {
         "id": "FWPCJ5KvKq",
         "title": "Голая правда",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 24
-        }
-    },
-    "XXyOypl5-n": {
-        "id": "XXyOypl5-n",
-        "title": "Преступление и наказание",
-        "author": "Ф.М.Достоевский",
-        "notes": "",
-        "createdAt": "2017-07-05 07:51:07",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 23
         }
     }
 }
