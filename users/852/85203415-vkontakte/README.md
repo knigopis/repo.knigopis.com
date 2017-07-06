@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>39</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>40</sup>
 ---
 
 ## 2017
@@ -145,6 +145,13 @@
 
 ### Множественные умы Билли Миллигана
 Дэниел Киз
+
+
+
+## 2011
+
+### Исповедь задрота
+Дмитрий Шахов
 
 
 
