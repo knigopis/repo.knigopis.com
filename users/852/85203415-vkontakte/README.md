@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>50</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>51</sup>
 ---
 
 ## 2017
@@ -21,6 +21,11 @@
 ### Неукротимая планета
 Гарри Гаррисон
 > [2017-04] 
+
+
+### Голая правда
+Артур Миллер
+> [2017-03] 
 
 
 ### Вид с моста

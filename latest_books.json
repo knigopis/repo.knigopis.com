@@ -1,4 +1,16 @@
 {
+    "FWPCJ5KvKq": {
+        "id": "FWPCJ5KvKq",
+        "title": "Голая правда",
+        "author": "Артур Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 06:13:55",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 51
+        }
+    },
     "zWOJAXDN__": {
         "id": "zWOJAXDN__",
         "title": "Вид с моста",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 23
-        }
-    },
-    "i-auUk71Ho": {
-        "id": "i-auUk71Ho",
-        "title": "Смерть Ивана Ильича",
-        "author": "Л.Н.Толстой",
-        "notes": "",
-        "createdAt": "2017-07-05 07:36:51",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 22
         }
     }
 }
