@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
+    > в процессе
+
 * Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
     > Фундаментальный труд :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Перечитать после, особенно главы об элементах.
 
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
-    > Рассказ Чехова о его путешествии на остров. Без прикрас
 
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
 
-* Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>56</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 
 
-_06.07.2017 10:18:59_
+_06.07.2017 10:19:34_

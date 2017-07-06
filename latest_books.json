@@ -1,4 +1,16 @@
 {
+    "yYsEUfxBZb": {
+        "id": "yYsEUfxBZb",
+        "title": "По Уссурийскому краю. Дерсу Узала",
+        "author": "В. К. Арсеньев",
+        "notes": "в процессе",
+        "createdAt": "2017-07-06 10:19:33",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 108
+        }
+    },
     "3FSFUikhiI": {
         "id": "3FSFUikhiI",
         "title": "Стартап. Настольная книга основателя",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 30
-        }
-    },
-    "seNw7FMJZ-": {
-        "id": "seNw7FMJZ-",
-        "title": "Вы, конечно, шутите, мистер Фейнман!",
-        "author": "Ричард Фейнман",
-        "notes": "",
-        "createdAt": "2017-07-05 12:28:54",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 29
         }
     }
 }
