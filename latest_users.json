@@ -1,4 +1,10 @@
 {
+    "219259003-vkontakte": {
+        "id": "219259003-vkontakte",
+        "nickname": "victoria_spilioti",
+        "booksCount": 72,
+        "updatedAt": "2017-07-06 02:58:19"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 20,
         "updatedAt": "2017-06-29 17:15:03"
-    },
-    "129415205-yandex": {
-        "id": "129415205-yandex",
-        "nickname": "noisywiz",
-        "booksCount": 0,
-        "updatedAt": "2017-06-28 09:40:40"
     }
 }

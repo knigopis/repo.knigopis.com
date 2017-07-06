@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>32</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>546</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>20</sup> 
-[noisywiz](users/129/129415205-yandex)<sup>0</sup> 
 
 
-_05.07.2017 12:35:07_
+_06.07.2017 02:58:19_

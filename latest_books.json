@@ -1,4 +1,16 @@
 {
+    "rrT5HWq6Uc": {
+        "id": "rrT5HWq6Uc",
+        "title": "Путь к финансовой независимости",
+        "author": "Бодо Шефер",
+        "notes": "",
+        "createdAt": "2017-07-06 02:58:19",
+        "user": {
+            "id": "219259003-vkontakte",
+            "nickname": "victoria_spilioti",
+            "booksCount": 72
+        }
+    },
     "pfXwm9mcie": {
         "id": "pfXwm9mcie",
         "title": "Воспламеняющая взглядом",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 14
-        }
-    },
-    "OZCjFqqG1V": {
-        "id": "OZCjFqqG1V",
-        "title": "Одиночество в Сети",
-        "author": "Януш Леон Вишневский",
-        "notes": "",
-        "createdAt": "2017-07-03 13:18:54",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 13
         }
     }
 }
