@@ -1,4 +1,16 @@
 {
+    "nnZeDwI1qD": {
+        "id": "nnZeDwI1qD",
+        "title": "Сила воли.Как развить и укрепить",
+        "author": "Келли Макгонигал",
+        "notes": "",
+        "createdAt": "2017-07-06 06:09:35",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 45
+        }
+    },
     "9tf_w9lwj-": {
         "id": "9tf_w9lwj-",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 17
-        }
-    },
-    "bnZe-XSajs": {
-        "id": "bnZe-XSajs",
-        "title": "Искусство учиться",
-        "author": "Джош Вайцкин",
-        "notes": "",
-        "createdAt": "2017-07-04 19:29:46",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 16
         }
     }
 }
