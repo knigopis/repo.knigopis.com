@@ -1,4 +1,16 @@
 {
+    "hDUgPiPBM5": {
+        "id": "hDUgPiPBM5",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-07-06 06:46:18",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 53
+        }
+    },
     "lSqhekuXPm": {
         "id": "lSqhekuXPm",
         "title": "Москва—Петушки",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 25
-        }
-    },
-    "DSZvXeey9k": {
-        "id": "DSZvXeey9k",
-        "title": "Отцы и дети",
-        "author": "И.С. Тургенев",
-        "notes": "",
-        "createdAt": "2017-07-05 07:51:58",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 24
         }
     }
 }

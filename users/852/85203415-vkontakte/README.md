@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>52</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>53</sup>
 ---
 
 ## 2017
@@ -230,6 +230,10 @@
 
 
 ## 2003
+
+### Мастер и Маргарита
+Михаил Булгаков
+
 
 ### Сердца в Атлантиде
 Стивен Кинг
