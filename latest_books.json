@@ -1,4 +1,16 @@
 {
+    "H0USAqalGK": {
+        "id": "H0USAqalGK",
+        "title": "Тропик Рака",
+        "author": "Генри Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 05:34:09",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 34
+        }
+    },
     "DpLfmlGch-": {
         "id": "DpLfmlGch-",
         "title": "Все оттенки голубого",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 16
-        }
-    },
-    "7-LvU6tygt": {
-        "id": "7-LvU6tygt",
-        "title": "Хорошо быть тихоней ☆☆☆☆☆",
-        "author": "Стивен Чбоски",
-        "notes": "",
-        "createdAt": "2017-07-03 13:20:05",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 15
         }
     }
 }
