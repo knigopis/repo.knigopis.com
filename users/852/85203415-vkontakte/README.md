@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>46</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>47</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Чужой в стране чужих
 Роберт Хайнлайн
 > [2017-05] 
+
+
+### Все мои сыновья
+Артур Миллер
+> [2017-04] 
 
 
 ### Неукротимая планета

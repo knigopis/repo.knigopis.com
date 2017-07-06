@@ -1,4 +1,16 @@
 {
+    "UzaBz28qp1": {
+        "id": "UzaBz28qp1",
+        "title": "Все мои сыновья",
+        "author": "Артур Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 06:12:16",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 47
+        }
+    },
     "FZLsPWGjCX": {
         "id": "FZLsPWGjCX",
         "title": "Сказать жизни «Да»: психолог в концлагере",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 19
-        }
-    },
-    "AghLnFJxDo": {
-        "id": "AghLnFJxDo",
-        "title": "Думай как математик: Как решать любые задачи быстрее и эффективнее",
-        "author": "Барбара Оакли",
-        "notes": "",
-        "createdAt": "2017-07-04 19:34:06",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 18
         }
     }
 }
