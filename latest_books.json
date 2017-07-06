@@ -1,4 +1,16 @@
 {
+    "zWOJAXDN__": {
+        "id": "zWOJAXDN__",
+        "title": "Вид с моста",
+        "author": "Артур Миллер",
+        "notes": "",
+        "createdAt": "2017-07-06 06:13:08",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 50
+        }
+    },
     "U1BCP_VKOy": {
         "id": "U1BCP_VKOy",
         "title": "Суровое испытание",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 22
-        }
-    },
-    "j-ztTUsG7L": {
-        "id": "j-ztTUsG7L",
-        "title": "Сивилла",
-        "author": "Флора Рита Шрайбер",
-        "notes": "",
-        "createdAt": "2017-07-05 06:03:46",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 21
         }
     }
 }
