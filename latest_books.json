@@ -1,4 +1,16 @@
 {
+    "xHMlK7iifl": {
+        "id": "xHMlK7iifl",
+        "title": "Овод",
+        "author": "Лилиан Войнич",
+        "notes": "",
+        "createdAt": "2017-07-06 14:13:48",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 30
+        }
+    },
     "TImMXroaVq": {
         "id": "TImMXroaVq",
         "title": "Клерамбо",
@@ -345,18 +357,6 @@
             "id": "219259003-vkontakte",
             "nickname": "victoria_spilioti",
             "booksCount": 72
-        }
-    },
-    "pfXwm9mcie": {
-        "id": "pfXwm9mcie",
-        "title": "Воспламеняющая взглядом",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-07-05 12:35:07",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 32
         }
     }
 }

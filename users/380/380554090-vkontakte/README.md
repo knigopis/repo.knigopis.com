@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>29</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>30</sup>
 ---
 
 ## 2017
+
+### Овод
+Лилиан Войнич
+> [2017-07-06] 
+
 
 ### Красный смех
 Леонид Андреев

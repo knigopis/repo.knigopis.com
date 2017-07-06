@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>547</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
 [](users/104/104738523506260-facebook)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 [Леся украинкп](users/102/102141724140807407327-google)<sup>1</sup> 
-[sergey_troshin](users/156/156722593-vkontakte)<sup>0</sup> 
 
 
-_06.07.2017 12:45:46_
+_06.07.2017 14:13:48_
