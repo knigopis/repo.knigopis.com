@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
 * Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
@@ -30,7 +31,6 @@
 * Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
 * Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
 * Чук и Гек ~ [Койнов Александр](users/414/414040473-vkontakte)<sup>25</sup>
-* Сэндвич с пеплом и фазаном ~ [Sky](users/118/118049897850017649660-google)<sup>8</sup>
 
 
-_07.07.2017 13:19:29_
+_07.07.2017 13:54:53_

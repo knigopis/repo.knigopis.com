@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
+    > Во время испытания стекаются все беды. © Иоанн Дамаскин
+
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
     > Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Есть преступления хуже, чем сжигать книги. Например – не читать их. © Рэй Брэдбери
 
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
-    > Выстрел
-    > Метель
-    > Гробовщик
-    > Станционный смотритель
-    > Барышня-крестьянка
 
 * По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
 
@@ -30,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
 
-* Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
@@ -69,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 13:19:29_
+_07.07.2017 13:54:53_
