@@ -1,4 +1,16 @@
 {
+    "3hL66HZQvN": {
+        "id": "3hL66HZQvN",
+        "title": "На дороге",
+        "author": "Джек Керуак",
+        "notes": "",
+        "createdAt": "2017-07-07 08:26:26",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 104
+        }
+    },
     "6zfbQ_bsVC": {
         "id": "6zfbQ_bsVC",
         "title": "Счастливый принц",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 34
-        }
-    },
-    "DpLfmlGch-": {
-        "id": "DpLfmlGch-",
-        "title": "Все оттенки голубого",
-        "author": "Рю Мураками",
-        "notes": "",
-        "createdAt": "2017-07-06 05:33:20",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 33
         }
     }
 }

@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>27</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>547</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Erin](users/122/1228422876-facebook)<sup>0</sup> 
 [stazhor2010](users/952/95227213-yandex)<sup>2</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>103</sup> 
 
 
-_06.07.2017 20:48:44_
+_07.07.2017 08:26:27_
