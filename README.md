@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
+    > chicks send me high ))
+
 * Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
     > Во время испытания стекаются все беды. © Иоанн Дамаскин
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец
 
 * Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
-    > Есть преступления хуже, чем сжигать книги. Например – не читать их. © Рэй Брэдбери
 
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 
-* Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[develchip](users/852/85203415-vkontakte)<sup>57</sup> 
+[develchip](users/852/85203415-vkontakte)<sup>58</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 17:06:52_
+_07.07.2017 19:22:58_
