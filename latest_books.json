@@ -1,4 +1,16 @@
 {
+    "ZK_OlqE1Dc": {
+        "id": "ZK_OlqE1Dc",
+        "title": "Шоколад",
+        "author": "Джоан Хфрис",
+        "notes": "",
+        "createdAt": "2017-07-07 10:34:22",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 2
+        }
+    },
     "QD4I_PosNg": {
         "id": "QD4I_PosNg",
         "title": "Ежевичное вино",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 37
-        }
-    },
-    "TS59JF1piy": {
-        "id": "TS59JF1piy",
-        "title": "Письмо отцу",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-07-06 05:34:59",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 36
         }
     }
 }

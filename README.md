@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Элла](users/100/1002037069862545-facebook)<sup>1</sup> 
+[Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>119</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 
 
-_07.07.2017 10:33:53_
+_07.07.2017 10:34:22_
