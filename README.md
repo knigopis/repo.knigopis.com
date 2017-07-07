@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
+    > Есть преступления хуже, чем сжигать книги. Например – не читать их. © Рэй Брэдбери
+
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
     > Выстрел
     > Метель
@@ -16,11 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
-    > Фундаментальный труд :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/19159514/
 
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 
@@ -34,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 
-* Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
@@ -73,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 12:55:41_
+_07.07.2017 13:04:42_
