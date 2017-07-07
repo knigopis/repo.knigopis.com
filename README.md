@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>119</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>59</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 [relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
-[evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 
 
-_07.07.2017 10:34:22_
+_07.07.2017 11:30:04_
