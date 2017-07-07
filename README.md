@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
+    > Выстрел
+    > Метель
+    > Гробовщик
+    > Станционный смотритель
+    > Барышня-крестьянка
+
 * По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
     > в процессе
 
@@ -16,7 +23,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/19159514/
 
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
-    > Перечитать после, особенно главы об элементах.
 
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 
@@ -30,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
 
-* Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
@@ -66,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sevka](users/103/103303028920419488599-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>59</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
-[relaxer](users/244/2443588-vkontakte)<sup>0</sup> 
 
 
-_07.07.2017 11:30:04_
+_07.07.2017 12:55:41_
