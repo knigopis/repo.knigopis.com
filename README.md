@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>119</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>27</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [evgen.rb](users/268/26887919-vkontakte)<sup>2</sup> 
 [Erin](users/122/1228422876-facebook)<sup>0</sup> 
 [stazhor2010](users/952/95227213-yandex)<sup>2</sup> 
-[SMedgaus](users/162/162444669-vkontakte)<sup>6</sup> 
 
 
-_07.07.2017 08:26:27_
+_07.07.2017 08:40:45_
