@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
+    > Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец
+
 * Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
     > Есть преступления хуже, чем сжигать книги. Например – не читать их. © Рэй Брэдбери
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Барышня-крестьянка
 
 * По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
-    > в процессе
 
 * Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
 
-* Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 13:04:42_
+_07.07.2017 13:19:29_

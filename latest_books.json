@@ -1,4 +1,16 @@
 {
+    "uJjyVbKN3l": {
+        "id": "uJjyVbKN3l",
+        "title": "Увидеть невидимку - Силверберг Роберт",
+        "author": "Интересная мысль...А что, а вдруг?",
+        "notes": "Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец",
+        "createdAt": "2017-07-07 13:19:29",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 85
+        }
+    },
     "hl-NSGnm4w": {
         "id": "hl-NSGnm4w",
         "title": "Пиковая дама - Пушкин Александр",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 40
-        }
-    },
-    "CDV2TX6Sz3": {
-        "id": "CDV2TX6Sz3",
-        "title": "Мои  жёны",
-        "author": "Чехов А.П.",
-        "notes": "",
-        "createdAt": "2017-07-06 05:40:57",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 39
         }
     }
 }
