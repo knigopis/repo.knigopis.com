@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>57</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
 [](users/104/104738523506260-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>56</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 13:54:53_
+_07.07.2017 17:06:52_

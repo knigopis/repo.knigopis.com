@@ -1,4 +1,16 @@
 {
+    "pVnp2bAyxD": {
+        "id": "pVnp2bAyxD",
+        "title": "7 женщин",
+        "author": "Анастасия Долганова",
+        "notes": "",
+        "createdAt": "2017-07-07 17:06:52",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 57
+        }
+    },
     "6lBoprz0o9": {
         "id": "6lBoprz0o9",
         "title": "Террор - Симмонс Дэн",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 42
-        }
-    },
-    "qOjFfuNcQR": {
-        "id": "qOjFfuNcQR",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-07-06 05:53:55",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 41
         }
     }
 }

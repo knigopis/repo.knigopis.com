@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>56</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>57</sup>
 ---
 
 ## 2017
+
+### 7 женщин
+Анастасия Долганова
+> [2017-07-07] 
+
 
 ### Анна Каренина
 Л.Н.Толстой
