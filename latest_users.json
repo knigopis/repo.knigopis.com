@@ -1,4 +1,10 @@
 {
+    "50498112-vkontakte": {
+        "id": "50498112-vkontakte",
+        "nickname": "ele.nvsv",
+        "booksCount": 0,
+        "updatedAt": "2017-07-07 11:30:02"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "relaxer",
         "booksCount": 0,
         "updatedAt": "2017-07-01 12:05:30"
-    },
-    "26887919-vkontakte": {
-        "id": "26887919-vkontakte",
-        "nickname": "evgen.rb",
-        "booksCount": 2,
-        "updatedAt": "2017-07-01 11:14:35"
     }
 }
