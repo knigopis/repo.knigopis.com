@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
+    > (Старший инспектор Гамаш 7)
+    > Разнообразия ради оставим милую сердцу деревушку Три Сосны и отправимся на несколько дней в спрятанный ото всех монастырь, где обитает орден монахов-гильбертинцев, считающийся давно исчезнувшим. Тема интересная, спасибо автору за экскурс в историю и знакомство с таким феноменом, как григорианские песнопения (послушала с удовольствием). Жаль только, что персонаж Бовуара получил в этой части такое неприглядное развитие, хотелось бы, чтобы мозги у него встали на место как можно скорее(
+
 * Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
     > chicks send me high ))
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Во время испытания стекаются все беды. © Иоанн Дамаскин
 
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
-    > Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец
 
 * Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 
-* Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>58</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nastyairbis](users/101/101531271-vkontakte)<sup>0</sup> 
 [sevka](users/103/103303028920419488599-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>59</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>52</sup> 
 
 
-_07.07.2017 19:22:58_
+_08.07.2017 18:43:18_

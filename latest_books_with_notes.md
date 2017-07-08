@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
 * Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
 * Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
@@ -30,7 +31,6 @@
 * Соборяне ~ [Chiffi](users/105/105831994080785626680-google)<sup>19</sup>
 * Правила самоорганизации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>104</sup>
 * Цвет волшебства ~ [SMedgaus](users/162/162444669-vkontakte)<sup>5</sup>
-* Опасная бритва Оккама ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>103</sup>
 
 
-_07.07.2017 19:22:58_
+_08.07.2017 18:43:18_
