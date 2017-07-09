@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Беглец ~ [HXT](users/100/100002563462782-facebook)<sup>260</sup>
+    > Книга не понравилась. Сюжет высосан из пальца. Герой прям супермен какой-то.
+
 * Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
     > (Старший инспектор Гамаш 7)
     > Разнообразия ради оставим милую сердцу деревушку Три Сосны и отправимся на несколько дней в спрятанный ото всех монастырь, где обитает орден монахов-гильбертинцев, считающийся давно исчезнувшим. Тема интересная, спасибо автору за экскурс в историю и знакомство с таким феноменом, как григорианские песнопения (послушала с удовольствием). Жаль только, что персонаж Бовуара получил в этой части такое неприглядное развитие, хотелось бы, чтобы мозги у него встали на место как можно скорее(
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > chicks send me high ))
 
 * Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
-    > Во время испытания стекаются все беды. © Иоанн Дамаскин
 
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 
-* Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>260</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>58</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
 [nastyairbis](users/101/101531271-vkontakte)<sup>0</sup> 
 [sevka](users/103/103303028920419488599-google)<sup>1</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>59</sup> 
 
 
-_08.07.2017 18:43:18_
+_09.07.2017 10:34:16_

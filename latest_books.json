@@ -1,4 +1,16 @@
 {
+    "0rVASX4CQ1": {
+        "id": "0rVASX4CQ1",
+        "title": "Беглец",
+        "author": "Александр Конторвич",
+        "notes": "Книга не понравилась. Сюжет высосан из пальца. Герой прям супермен какой-то.",
+        "createdAt": "2017-07-09 10:34:16",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 260
+        }
+    },
     "rwqNM_P12C": {
         "id": "rwqNM_P12C",
         "title": "Эта прекрасная тайна",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 45
-        }
-    },
-    "9tf_w9lwj-": {
-        "id": "9tf_w9lwj-",
-        "title": "Коллекционер",
-        "author": "Джон Фаулз",
-        "notes": "",
-        "createdAt": "2017-07-06 06:08:32",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 44
         }
     }
 }
