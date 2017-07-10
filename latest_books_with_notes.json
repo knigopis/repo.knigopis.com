@@ -1,4 +1,16 @@
 {
+    "Re6wCr98D4": {
+        "id": "Re6wCr98D4",
+        "title": "Одинокий Демон 1-4",
+        "author": "Андрей Кощиенко",
+        "notes": "Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем",
+        "createdAt": "2017-07-10 20:04:12",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 50
+        }
+    },
     "kUU4aE2nky": {
         "id": "kUU4aE2nky",
         "title": "Самый первый",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 23
-        }
-    },
-    "TmivcfgriY": {
-        "id": "TmivcfgriY",
-        "title": "Тридцать миллионов слов",
-        "author": "Дана Саскинд",
-        "notes": "в процессе",
-        "createdAt": "2017-06-22 21:51:39",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 106
         }
     }
 }

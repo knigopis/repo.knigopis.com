@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
 * Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
 * Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
@@ -30,7 +31,6 @@
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
 * Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
-* Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
 
 
-_10.07.2017 20:00:42_
+_10.07.2017 20:04:12_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
+    > Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем
+
 * Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
     > Игра в реальности. Дали всем статы и у него на момент старта оказалась самая высокая сумма статов. Лазит по каналюгам со своей арматурой. Написано грубовато, "любовная часть" вообще... Не закончена но я и не настаиваю
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чем то напоминает Мастера и Маргариту, но меньше понравилось
 
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
-    > Редкостный бред.Антинаучная хрень.Бросил читать.
 
 * Башни полуночи ~ [Garka](users/115/115753719718250012620-google)<sup>144</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
 
-* Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>49</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>59</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/173/173746684-vkontakte)<sup>63</sup> 
 
 
-_10.07.2017 20:00:42_
+_10.07.2017 20:04:12_
