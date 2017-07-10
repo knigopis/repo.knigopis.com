@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
+    > Чем то напоминает Мастера и Маргариту, но меньше понравилось
+
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
     > Редкостный бред.Антинаучная хрень.Бросил читать.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Двенадцатая книга цикла "Колесо времени".  Шикарная книга, впрочем как и одиннадцать предыдущих. До Тармон Гайдон осталось совсем немного, возможно считанные дни. Ранд собирается сломать печати на узилище Тёмного, Эгвейн, вошедшая на Престол Амерлин, намерена этому помешать и собирает огромную армию для встречи с Драконом Возрожденным. Мэт вступает в борьбу с Элфин и Илфин, чтобы освободить Морейн. Перрин вступает в союз с Детьми Света. Туон становится Императрицей Шончан.
 
 * Беглец ~ [HXT](users/100/100002563462782-facebook)<sup>260</sup>
-    > Книга не понравилась. Сюжет высосан из пальца. Герой прям супермен какой-то.
 
 * Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
 
-* По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>59</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [земляника](users/308/30843500-vkontakte)<sup>0</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>63</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>0</sup> 
-[olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
 
 
-_10.07.2017 12:26:15_
+_10.07.2017 19:42:42_

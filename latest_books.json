@@ -1,4 +1,16 @@
 {
+    "KVwtErF9PU": {
+        "id": "KVwtErF9PU",
+        "title": "Альтист Данилов",
+        "author": "Орлов Владимир",
+        "notes": "Чем то напоминает Мастера и Маргариту, но меньше понравилось",
+        "createdAt": "2017-07-10 19:42:42",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 21
+        }
+    },
     "fy7tbzcnn6": {
         "id": "fy7tbzcnn6",
         "title": "Женщина. Учебник для мужчин",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 49
-        }
-    },
-    "fFXLXHAAUk": {
-        "id": "fFXLXHAAUk",
-        "title": "Смерть коммивояжёра",
-        "author": "Артур Миллер",
-        "notes": "",
-        "createdAt": "2017-07-06 06:12:34",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 48
         }
     }
 }

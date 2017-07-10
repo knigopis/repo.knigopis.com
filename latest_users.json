@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 21,
+        "updatedAt": "2017-07-10 19:42:42"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Gregor Bjdantukevich",
         "booksCount": 0,
         "updatedAt": "2017-07-02 22:17:33"
-    },
-    "3901448-vkontakte": {
-        "id": "3901448-vkontakte",
-        "nickname": "olegessenin",
-        "booksCount": 13,
-        "updatedAt": "2017-07-02 20:05:07"
     }
 }

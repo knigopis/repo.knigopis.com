@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
 * Башни полуночи ~ [Garka](users/115/115753719718250012620-google)<sup>144</sup>
 * Беглец ~ [HXT](users/100/100002563462782-facebook)<sup>260</sup>
@@ -30,7 +31,6 @@
 * Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
 * Тридцать миллионов слов ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>106</sup>
 * Роб Фитцпатрик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>105</sup>
-* Древняя русь и великая степь ~ [mfevralev](users/140/140966150-vkontakte)<sup>22</sup>
 
 
-_10.07.2017 12:26:15_
+_10.07.2017 19:42:42_
