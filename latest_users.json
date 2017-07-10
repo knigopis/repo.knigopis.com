@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 59,
+        "updatedAt": "2017-07-10 12:26:15"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -28,12 +34,6 @@
         "nickname": "Sky",
         "booksCount": 13,
         "updatedAt": "2017-07-08 18:43:18"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 58,
-        "updatedAt": "2017-07-07 19:22:58"
     },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
