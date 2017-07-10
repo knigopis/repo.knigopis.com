@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>260</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/173/173746684-vkontakte)<sup>63</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>0</sup> 
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
-[nastyairbis](users/101/101531271-vkontakte)<sup>0</sup> 
 
 
-_09.07.2017 17:45:44_
+_10.07.2017 06:41:41_
