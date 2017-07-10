@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>260</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>119</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>27</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olegessenin](users/390/3901448-vkontakte)<sup>13</sup> 
 
 
-_10.07.2017 06:41:41_
+_10.07.2017 11:55:24_

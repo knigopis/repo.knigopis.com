@@ -1,4 +1,16 @@
 {
+    "cRohMCnhPi": {
+        "id": "cRohMCnhPi",
+        "title": "Непобедимый",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2017-07-10 11:55:23",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 120
+        }
+    },
     "SI_dt5vnvp": {
         "id": "SI_dt5vnvp",
         "title": "Башни полуночи",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 47
-        }
-    },
-    "FZLsPWGjCX": {
-        "id": "FZLsPWGjCX",
-        "title": "Сказать жизни «Да»: психолог в концлагере",
-        "author": "Виктор Франкл",
-        "notes": "",
-        "createdAt": "2017-07-06 06:10:57",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 46
         }
     }
 }
