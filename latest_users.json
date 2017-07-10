@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 49,
+        "updatedAt": "2017-07-10 20:00:42"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "plinapolina",
         "booksCount": 63,
         "updatedAt": "2017-07-03 10:04:20"
-    },
-    "102763689513347752702-google": {
-        "id": "102763689513347752702-google",
-        "nickname": "Gregor Bjdantukevich",
-        "booksCount": 0,
-        "updatedAt": "2017-07-02 22:17:33"
     }
 }
