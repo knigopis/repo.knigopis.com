@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ner](users/102/102526509209081648246-google)<sup>0</sup> 
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>24</sup> 
 [mary_ann24](users/469/46905480-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>308</sup> 
-[земляника](users/308/30843500-vkontakte)<sup>0</sup> 
 
 
-_11.07.2017 10:23:24_
+_11.07.2017 18:22:44_
