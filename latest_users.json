@@ -1,4 +1,10 @@
 {
+    "102526509209081648246-google": {
+        "id": "102526509209081648246-google",
+        "nickname": "ner",
+        "booksCount": 0,
+        "updatedAt": "2017-07-11 18:22:41"
+    },
     "169947386-vkontakte": {
         "id": "169947386-vkontakte",
         "nickname": "anna-kuznecova",
@@ -172,11 +178,5 @@
         "nickname": "ana.21",
         "booksCount": 308,
         "updatedAt": "2017-07-03 12:05:09"
-    },
-    "30843500-vkontakte": {
-        "id": "30843500-vkontakte",
-        "nickname": "земляника",
-        "booksCount": 0,
-        "updatedAt": "2017-07-03 11:42:20"
     }
 }
