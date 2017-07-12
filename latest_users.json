@@ -1,4 +1,10 @@
 {
+    "1788922883-facebook": {
+        "id": "1788922883-facebook",
+        "nickname": "EuRusik",
+        "booksCount": 0,
+        "updatedAt": "2017-07-12 17:11:29"
+    },
     "112694474287465491328-google": {
         "id": "112694474287465491328-google",
         "nickname": "Danio",
@@ -172,11 +178,5 @@
         "nickname": "nastyaevfan ",
         "booksCount": 0,
         "updatedAt": "2017-07-03 16:48:10"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 24,
-        "updatedAt": "2017-07-03 14:40:20"
     }
 }
