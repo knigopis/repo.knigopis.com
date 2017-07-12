@@ -1,4 +1,16 @@
 {
+    "nPN8aThgKT": {
+        "id": "nPN8aThgKT",
+        "title": "Праздник, который всегда с тобой",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2017-07-12 00:47:10",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 220
+        }
+    },
     "Re6wCr98D4": {
         "id": "Re6wCr98D4",
         "title": "Одинокий Демон 1-4",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 52
-        }
-    },
-    "FWPCJ5KvKq": {
-        "id": "FWPCJ5KvKq",
-        "title": "Голая правда",
-        "author": "Артур Миллер",
-        "notes": "",
-        "createdAt": "2017-07-06 06:13:55",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 51
         }
     }
 }
