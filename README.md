@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Danio](users/112/112694474287465491328-google)<sup>0</sup> 
+[Danio](users/112/112694474287465491328-google)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
 [ner](users/102/102526509209081648246-google)<sup>0</sup> 
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>24</sup> 
 
 
-_12.07.2017 15:14:53_
+_12.07.2017 15:16:20_

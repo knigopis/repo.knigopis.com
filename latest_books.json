@@ -1,4 +1,16 @@
 {
+    "bKi-tGN79Z": {
+        "id": "bKi-tGN79Z",
+        "title": "Вечный",
+        "author": "Злотников Роман",
+        "notes": "",
+        "createdAt": "2017-07-12 15:16:20",
+        "user": {
+            "id": "112694474287465491328-google",
+            "nickname": "Danio",
+            "booksCount": 1
+        }
+    },
     "nPN8aThgKT": {
         "id": "nPN8aThgKT",
         "title": "Праздник, который всегда с тобой",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 53
-        }
-    },
-    "lSqhekuXPm": {
-        "id": "lSqhekuXPm",
-        "title": "Москва—Петушки",
-        "author": "Венедикт Ерофеев",
-        "notes": "",
-        "createdAt": "2017-07-06 06:42:18",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 52
         }
     }
 }
