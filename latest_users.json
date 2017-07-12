@@ -1,4 +1,10 @@
 {
+    "112694474287465491328-google": {
+        "id": "112694474287465491328-google",
+        "nickname": "Danio",
+        "booksCount": 0,
+        "updatedAt": "2017-07-12 15:14:49"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 24,
         "updatedAt": "2017-07-03 14:40:20"
-    },
-    "46905480-vkontakte": {
-        "id": "46905480-vkontakte",
-        "nickname": "mary_ann24",
-        "booksCount": 0,
-        "updatedAt": "2017-07-03 12:14:36"
     }
 }
