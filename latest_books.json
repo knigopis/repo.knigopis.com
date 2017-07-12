@@ -1,4 +1,16 @@
 {
+    "sOekN54OB6": {
+        "id": "sOekN54OB6",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-07-12 17:12:37",
+        "user": {
+            "id": "1788922883-facebook",
+            "nickname": "EuRusik",
+            "booksCount": 1
+        }
+    },
     "bKi-tGN79Z": {
         "id": "bKi-tGN79Z",
         "title": "Вечный",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 54
-        }
-    },
-    "hDUgPiPBM5": {
-        "id": "hDUgPiPBM5",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-07-06 06:46:18",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 53
         }
     }
 }
