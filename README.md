@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EuRusik](users/178/1788922883-facebook)<sup>0</sup> 
 [Danio](users/112/112694474287465491328-google)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
 [ner](users/102/102526509209081648246-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
 [nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>24</sup> 
 
 
-_12.07.2017 15:16:20_
+_12.07.2017 17:11:32_
