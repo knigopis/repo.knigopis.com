@@ -1,4 +1,16 @@
 {
+    "uGJ3SriGL0": {
+        "id": "uGJ3SriGL0",
+        "title": "Гнев Льва (Серия: Верлорды. Книга 2/6)",
+        "author": "Кертис Джоблинг",
+        "notes": "",
+        "createdAt": "2017-07-13 22:48:19",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 28
+        }
+    },
     "n4oRx96hTk": {
         "id": "n4oRx96hTk",
         "title": "Восхождение Волка (Серия: Верлорды. Книга 1/6)",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 34
-        }
-    },
-    "fn9OSz6TKm": {
-        "id": "fn9OSz6TKm",
-        "title": "Сами Боги",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2017-07-13 07:50:21",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 60
         }
     }
 }
