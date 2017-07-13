@@ -1,4 +1,16 @@
 {
+    "gV-EjK-yZY": {
+        "id": "gV-EjK-yZY",
+        "title": "Хранитель Мечей. Война мага. Том 4. Конец игры. Часть 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:26:33",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 11
+        }
+    },
     "FWOntDwUAY": {
         "id": "FWOntDwUAY",
         "title": "Хранитель Мечей. Война мага. Том 3. Эндшпиль",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 84
-        }
-    },
-    "PkaEs05jy5": {
-        "id": "PkaEs05jy5",
-        "title": "Повести Белкина - Пушкин Александр",
-        "author": "",
-        "notes": "Выстрел\nМетель\nГробовщик\nСтанционный смотритель\nБарышня-крестьянка",
-        "createdAt": "2017-07-07 12:55:41",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 83
         }
     }
 }
