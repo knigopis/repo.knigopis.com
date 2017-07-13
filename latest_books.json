@@ -1,4 +1,16 @@
 {
+    "iDBr0GPJnD": {
+        "id": "iDBr0GPJnD",
+        "title": "Страж",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-07-13 22:35:21",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 20
+        }
+    },
     "dNwIGcL6a0": {
         "id": "dNwIGcL6a0",
         "title": "Искра и ветер (Ветер и Искры. Книга 4)",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 59
-        }
-    },
-    "cRohMCnhPi": {
-        "id": "cRohMCnhPi",
-        "title": "Непобедимый",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-07-10 11:55:23",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 120
         }
     }
 }

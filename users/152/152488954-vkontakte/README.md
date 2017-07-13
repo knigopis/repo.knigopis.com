@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>19</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>20</sup>
 ---
 
 ## 2015
@@ -51,6 +51,10 @@
 ### Хранитель мечей. Рождение мага
 Ник Перумов
 > [2015-07] 
+
+
+### Страж
+> [2015-01] 
 
 
 
