@@ -1,4 +1,16 @@
 {
+    "uWRSmIp4vM": {
+        "id": "uWRSmIp4vM",
+        "title": "Вьюга теней (Хроники Сиалы. Книга 3)",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:31:21",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 15
+        }
+    },
     "8XALuj-SlY": {
         "id": "8XALuj-SlY",
         "title": "Джанга с тенями (Хроники Сиалы. Книга 2)",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 58
-        }
-    },
-    "pVnp2bAyxD": {
-        "id": "pVnp2bAyxD",
-        "title": "7 женщин",
-        "author": "Анастасия Долганова",
-        "notes": "",
-        "createdAt": "2017-07-07 17:06:52",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 57
         }
     }
 }
