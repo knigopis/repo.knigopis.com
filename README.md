@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>60</sup> 
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
 [Danio](users/112/112694474287465491328-google)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>59</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
 
 
-_12.07.2017 17:12:45_
+_13.07.2017 07:50:21_

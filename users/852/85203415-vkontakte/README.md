@@ -1,4 +1,4 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>59</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>60</sup>
 ---
 
 ## 2017
@@ -158,6 +158,10 @@
 
 
 ## 2015
+
+### Сами Боги
+Айзек Азимов
+
 
 ### Коллекционер
 Джон Фаулз
