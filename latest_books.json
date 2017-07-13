@@ -1,4 +1,16 @@
 {
+    "X8Bwm5dpig": {
+        "id": "X8Bwm5dpig",
+        "title": "Пепел и Сталь (Серия: Рожденный туманом. Книга 1/3)",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2017-07-13 23:03:56",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 34
+        }
+    },
     "9ZCGWzd7Rt": {
         "id": "9ZCGWzd7Rt",
         "title": "Источник Вознесения (Серия: Рожденный туманом 2/3)",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 5
-        }
-    },
-    "RHm-xumhSI": {
-        "id": "RHm-xumhSI",
-        "title": "Хранитель Мечей. Странствия мага. Том 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:20:56",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 4
         }
     }
 }
