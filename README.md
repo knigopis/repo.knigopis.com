@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kasikandriena](users/152/152488954-vkontakte)<sup>9</sup> 
+[kasikandriena](users/152/152488954-vkontakte)<sup>10</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 
 
-_13.07.2017 22:25:19_
+_13.07.2017 22:25:59_

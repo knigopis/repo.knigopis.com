@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>9</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>10</sup>
 ---
 
 ## 2015
+
+### Хранитель Мечей. Война мага. Том 3. Эндшпиль
+Ник Перумов
+> [2015-09] 
+
 
 ### Хранитель Мечей. Война мага. Том 2. Миттельшпиль
 Ник Перумов
