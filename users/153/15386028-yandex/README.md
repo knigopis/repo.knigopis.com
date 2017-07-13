@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>34</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>35</sup>
 ---
 
 ## 2017
+
+### Немного мира тьмы
+Фриц Леёбер
+> [2017-07-10] Короткий. Мистическая пыль в глаза. гипноз. разговоры о тьме. 4 из 10.
+
 
 ### Зелёное тысячилетие
 Фриц Лейбер

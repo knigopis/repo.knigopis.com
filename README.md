@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
+    > Короткий. Мистическая пыль в глаза. гипноз. разговоры о тьме. 4 из 10.
+
 * Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
     > Плохо сделанная антиутопия. зелёные коты живут в симбиозе с инопланетянами. заставляют их колонизировать планеты. испускают феромоны настроения. 3 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем
 
 * Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
-    > Игра в реальности. Дали всем статы и у него на момент старта оказалась самая высокая сумма статов. Лазит по каналюгам со своей арматурой. Написано грубовато, "любовная часть" вообще... Не закончена но я и не настаиваю
 
 * Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
 
-* Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>34</sup> 
+[Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>60</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
 
 
-_13.07.2017 13:20:01_
+_13.07.2017 13:26:03_
