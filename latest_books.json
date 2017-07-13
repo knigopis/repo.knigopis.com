@@ -1,4 +1,16 @@
 {
+    "STm5tZZAJJ": {
+        "id": "STm5tZZAJJ",
+        "title": "Аутодафе",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-07-13 22:35:52",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 21
+        }
+    },
     "iDBr0GPJnD": {
         "id": "iDBr0GPJnD",
         "title": "Страж",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 21
-        }
-    },
-    "fy7tbzcnn6": {
-        "id": "fy7tbzcnn6",
-        "title": "Женщина. Учебник для мужчин",
-        "author": "Олег Новоселов",
-        "notes": "Редкостный бред.Антинаучная хрень.Бросил читать.",
-        "createdAt": "2017-07-10 12:26:15",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 59
         }
     }
 }
