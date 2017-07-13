@@ -1,4 +1,16 @@
 {
+    "RFHiXcqASu": {
+        "id": "RFHiXcqASu",
+        "title": "Путь королей (Обреченное королевство)",
+        "author": "Брендон Сандерсон",
+        "notes": "Прекрасна, просто прекрасна",
+        "createdAt": "2017-07-13 22:59:40",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 32
+        }
+    },
     "bWgPzaNKdA": {
         "id": "bWgPzaNKdA",
         "title": "Темное море",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 3
-        }
-    },
-    "0T-cDla9YZ": {
-        "id": "0T-cDla9YZ",
-        "title": "Алмазный меч, Деревянный меч. Том 2",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:18:25",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 2
         }
     }
 }
