@@ -1,4 +1,16 @@
 {
+    "VYbI477cof": {
+        "id": "VYbI477cof",
+        "title": "Хранитель мечей. Рождение мага",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:19:47",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 3
+        }
+    },
     "0T-cDla9YZ": {
         "id": "0T-cDla9YZ",
         "title": "Алмазный меч, Деревянный меч. Том 2",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 547
-        }
-    },
-    "yMdzZlWc9x": {
-        "id": "yMdzZlWc9x",
-        "title": "Я был секретарем Сталина",
-        "author": "Борис Георгиевич Бажанов",
-        "notes": "",
-        "createdAt": "2017-07-06 11:56:45",
-        "user": {
-            "id": "4517385-yandex",
-            "nickname": "AHTOWKA",
-            "booksCount": 1
         }
     }
 }
