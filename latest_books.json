@@ -1,4 +1,16 @@
 {
+    "tvFWie3fP-": {
+        "id": "tvFWie3fP-",
+        "title": "Крадущийся в тени (Хроники Сиалы книга 1)",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:29:18",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 13
+        }
+    },
     "NHTCQc_w5e": {
         "id": "NHTCQc_w5e",
         "title": "Хранитель Мечей. Война мага. Том 4. Конец игры. Часть 2",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 86
-        }
-    },
-    "uJjyVbKN3l": {
-        "id": "uJjyVbKN3l",
-        "title": "Увидеть невидимку - Силверберг Роберт",
-        "author": "Интересная мысль...А что, а вдруг?",
-        "notes": "Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец",
-        "createdAt": "2017-07-07 13:19:29",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 85
         }
     }
 }
