@@ -1,4 +1,16 @@
 {
+    "MSjgLM3w0u": {
+        "id": "MSjgLM3w0u",
+        "title": "Зелёное тысячилетие",
+        "author": "Фриц Лейбер",
+        "notes": "Плохо сделанная антиутопия. зелёные коты живут в симбиозе с инопланетянами. заставляют их колонизировать планеты. испускают феромоны настроения. 3 из 10.",
+        "createdAt": "2017-07-13 13:20:01",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 34
+        }
+    },
     "fn9OSz6TKm": {
         "id": "fn9OSz6TKm",
         "title": "Сами Боги",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 56
-        }
-    },
-    "KXYI25LyZj": {
-        "id": "KXYI25LyZj",
-        "title": "Вечера на хуторе близ Диканьки",
-        "author": "Н. Гоголь",
-        "notes": "",
-        "createdAt": "2017-07-06 07:37:19",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 55
         }
     }
 }

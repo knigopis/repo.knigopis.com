@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
 * Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
 * Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
 * Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 * Иные песни ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>80</sup>
-* Гроза Кавказа жизнь и подвиг генерала Бакланова ~ [mfevralev](users/140/140966150-vkontakte)<sup>23</sup>
 
 
-_10.07.2017 20:04:12_
+_13.07.2017 13:20:01_

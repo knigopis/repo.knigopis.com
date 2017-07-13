@@ -1,4 +1,10 @@
 {
+    "15386028-yandex": {
+        "id": "15386028-yandex",
+        "nickname": "Derek777",
+        "booksCount": 34,
+        "updatedAt": "2017-07-13 13:20:01"
+    },
     "278300225-yandex": {
         "id": "278300225-yandex",
         "nickname": "ludus-stu",
@@ -172,11 +178,5 @@
         "nickname": "Гордый птичка",
         "booksCount": 0,
         "updatedAt": "2017-07-04 14:45:24"
-    },
-    "105312345924621897762-google": {
-        "id": "105312345924621897762-google",
-        "nickname": "slava_xxx",
-        "booksCount": 0,
-        "updatedAt": "2017-07-04 13:12:25"
     }
 }

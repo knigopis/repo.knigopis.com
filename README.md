@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
+    > Плохо сделанная антиутопия. зелёные коты живут в симбиозе с инопланетянами. заставляют их колонизировать планеты. испускают феромоны настроения. 3 из 10.
+
 * Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
     > Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Игра в реальности. Дали всем статы и у него на момент старта оказалась самая высокая сумма статов. Лазит по каналюгам со своей арматурой. Написано грубовато, "любовная часть" вообще... Не закончена но я и не настаиваю
 
 * Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
-    > Чем то напоминает Мастера и Маргариту, но меньше понравилось
 
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
 
-* Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>34</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>60</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
-[slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
 
 
-_13.07.2017 09:53:01_
+_13.07.2017 13:20:01_
