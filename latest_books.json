@@ -1,4 +1,16 @@
 {
+    "4fYh3h4R0q": {
+        "id": "4fYh3h4R0q",
+        "title": "Жнецы ветра (Ветер и Искры. Книга 3)",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:33:47",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 18
+        }
+    },
     "qYqawLAq3D": {
         "id": "qYqawLAq3D",
         "title": "Ветер полыни (Ветер и Искры. Книга 2)",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 144
-        }
-    },
-    "0rVASX4CQ1": {
-        "id": "0rVASX4CQ1",
-        "title": "Беглец",
-        "author": "Александр Конторвич",
-        "notes": "Книга не понравилась. Сюжет высосан из пальца. Герой прям супермен какой-то.",
-        "createdAt": "2017-07-09 10:34:16",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 260
         }
     }
 }
