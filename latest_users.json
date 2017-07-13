@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 0,
+        "updatedAt": "2017-07-13 22:16:02"
+    },
     "15386028-yandex": {
         "id": "15386028-yandex",
         "nickname": "Derek777",
@@ -172,11 +178,5 @@
         "nickname": "veronika_kozishkurt",
         "booksCount": 0,
         "updatedAt": "2017-07-04 15:54:43"
-    },
-    "76133884-vkontakte": {
-        "id": "76133884-vkontakte",
-        "nickname": "Гордый птичка",
-        "booksCount": 0,
-        "updatedAt": "2017-07-04 14:45:24"
     }
 }
