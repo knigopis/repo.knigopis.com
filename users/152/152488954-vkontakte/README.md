@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>6</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>7</sup>
 ---
 
 ## 2015
+
+### Хранитель Мечей. Одиночество мага. Том 2
+Ник Перумов
+> [2015-08] 
+
 
 ### Хранитель Мечей. Одиночество мага. Том 1
 Ник Перумов
