@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>32</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>33</sup>
 ---
 
 ## 2017
+
+### Источник Вознесения (Серия: Рожденный туманом 2/3)
+Брендон Сандерсон
+> [2017-06-28] 
+
 
 ### Темное море
 Джеймс Камбиас
