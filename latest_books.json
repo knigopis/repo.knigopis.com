@@ -1,4 +1,16 @@
 {
+    "cqPCeuSh_B": {
+        "id": "cqPCeuSh_B",
+        "title": "Месть Змеи (Серия: Верлорды. Книга 4/6)",
+        "author": "Кертис Джоблинг",
+        "notes": "",
+        "createdAt": "2017-07-13 22:50:58",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 30
+        }
+    },
     "Bm8u7lyHUt": {
         "id": "Bm8u7lyHUt",
         "title": "Тень Ястреба (Серия: Верлорды. Книга 3/6)",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 1
-        }
-    },
-    "9lmxpel6wB": {
-        "id": "9lmxpel6wB",
-        "title": "Немного мира тьмы",
-        "author": "Фриц Леёбер",
-        "notes": "Короткий. Мистическая пыль в глаза. гипноз. разговоры о тьме. 4 из 10.",
-        "createdAt": "2017-07-13 13:26:03",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 35
         }
     }
 }

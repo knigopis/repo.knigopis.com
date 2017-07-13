@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>29</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>30</sup>
 ---
 
 ## 2016
+
+### Месть Змеи (Серия: Верлорды. Книга 4/6)
+Кертис Джоблинг
+> [2016-06] 
+
 
 ### Тень Ястреба (Серия: Верлорды. Книга 3/6)
 Кертис Джоблинг
