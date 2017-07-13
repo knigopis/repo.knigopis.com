@@ -1,5 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>1</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>2</sup>
 ---
+
+## 2017
+
+### Алмазный меч, Деревянный меч. Том 2
+Ник Перумов
+
+
 
 ## 2014
 
