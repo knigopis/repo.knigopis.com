@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>60</sup> 
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
 [Danio](users/112/112694474287465491328-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
 [slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
-[nastyaevfan ](users/200/200322585-vkontakte)<sup>0</sup> 
 
 
-_13.07.2017 07:50:21_
+_13.07.2017 09:30:15_
