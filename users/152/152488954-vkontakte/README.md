@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>26</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>27</sup>
 ---
 
 ## 2016
@@ -84,6 +84,10 @@
 ### Страж (Серия: Страж. Книга 1)
 Алексей Пехов
 > [2015-01] 
+
+
+### Восхождение Волка (Серия: Верлорды. Книга 1/6)
+Кертис Джоблинг
 
 
 ### Путь Война

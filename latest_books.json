@@ -1,4 +1,16 @@
 {
+    "n4oRx96hTk": {
+        "id": "n4oRx96hTk",
+        "title": "Восхождение Волка (Серия: Верлорды. Книга 1/6)",
+        "author": "Кертис Джоблинг",
+        "notes": "",
+        "createdAt": "2017-07-13 22:47:33",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 27
+        }
+    },
     "A4xnopehCQ": {
         "id": "A4xnopehCQ",
         "title": "Меч Предназначения (Серия: Ведьмак. Книга 2)",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 60
-        }
-    },
-    "nDGVyO8byK": {
-        "id": "nDGVyO8byK",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-12 17:12:40",
-        "user": {
-            "id": "1788922883-facebook",
-            "nickname": "EuRusik",
-            "booksCount": 2
         }
     }
 }
