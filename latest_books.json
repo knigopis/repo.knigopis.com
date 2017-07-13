@@ -1,4 +1,16 @@
 {
+    "RHm-xumhSI": {
+        "id": "RHm-xumhSI",
+        "title": "Хранитель Мечей. Странствия мага. Том 1",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:20:56",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 4
+        }
+    },
     "VYbI477cof": {
         "id": "VYbI477cof",
         "title": "Хранитель мечей. Рождение мага",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 30
-        }
-    },
-    "TImMXroaVq": {
-        "id": "TImMXroaVq",
-        "title": "Клерамбо",
-        "author": "Ромен Роллан",
-        "notes": "",
-        "createdAt": "2017-07-06 12:45:45",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 547
         }
     }
 }
