@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>24</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>25</sup>
 ---
 
 ## 2015
+
+### Последнее желание (Серия: Ведьмак. Книга 1)
+Анджей Сапковский
+> [2015-10] 
+
 
 ### Хранитель Мечей. Война мага. Том 4. Конец игры. Часть 2
 Ник Перумов
