@@ -1,4 +1,16 @@
 {
+    "NKd9jtQwlf": {
+        "id": "NKd9jtQwlf",
+        "title": "Проклятый горн",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-07-13 22:36:17",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 23
+        }
+    },
     "jvN6gV-TeF": {
         "id": "jvN6gV-TeF",
         "title": "Золотые костры",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 50
-        }
-    },
-    "kUU4aE2nky": {
-        "id": "kUU4aE2nky",
-        "title": "Самый первый",
-        "author": "Михайил Светлый",
-        "notes": "Игра в реальности. Дали всем статы и у него на момент старта оказалась самая высокая сумма статов. Лазит по каналюгам со своей арматурой. Написано грубовато, \"любовная часть\" вообще... Не закончена но я и не настаиваю",
-        "createdAt": "2017-07-10 20:00:42",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 49
         }
     }
 }

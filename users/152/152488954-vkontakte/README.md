@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>22</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>23</sup>
 ---
 
 ## 2015
@@ -93,6 +93,10 @@
 ### Крадущийся в тени (Хроники Сиалы. Книга 1)
 Алексей Пехов
 > [2014-09] 
+
+
+### Проклятый горн
+> [2014-02] 
 
 
 ### Золотые костры
