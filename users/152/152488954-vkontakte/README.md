@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>28</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>29</sup>
 ---
 
 ## 2016
+
+### Тень Ястреба (Серия: Верлорды. Книга 3/6)
+Кертис Джоблинг
+> [2016-06] 
+
 
 ### Меч Предназначения (Серия: Ведьмак. Книга 2)
 Анджей Сапковский
