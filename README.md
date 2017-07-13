@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>60</sup> 
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 [Гордый птичка](users/761/76133884-vkontakte)<sup>0</sup> 
 [slava_xxx](users/105/105312345924621897762-google)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>1</sup> 
 
 
-_13.07.2017 09:30:15_
+_13.07.2017 09:53:01_
