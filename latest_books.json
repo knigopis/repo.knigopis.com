@@ -1,4 +1,16 @@
 {
+    "ueD5GBspio": {
+        "id": "ueD5GBspio",
+        "title": "Алмазный меч, Деревянный меч. Том 1, Том 2",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-07-13 22:17:28",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 1
+        }
+    },
     "9lmxpel6wB": {
         "id": "9lmxpel6wB",
         "title": "Немного мира тьмы",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 108
-        }
-    },
-    "3FSFUikhiI": {
-        "id": "3FSFUikhiI",
-        "title": "Стартап. Настольная книга основателя",
-        "author": "Стив Бланк, Боб Дорф",
-        "notes": "Фундаментальный труд :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/19159514/",
-        "createdAt": "2017-07-06 10:18:59",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 107
         }
     }
 }
