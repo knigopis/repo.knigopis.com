@@ -1,4 +1,16 @@
 {
+    "1rfHrPbQBV": {
+        "id": "1rfHrPbQBV",
+        "title": "На пятьдесят оттенков темнее (2/3)",
+        "author": "Э. Л. Джеймс",
+        "notes": "",
+        "createdAt": "2017-07-13 23:18:52",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 38
+        }
+    },
     "10XKFc9JWF": {
         "id": "10XKFc9JWF",
         "title": "Пятьдесят оттенков серого",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 9
-        }
-    },
-    "pNOxKi0Kd9": {
-        "id": "pNOxKi0Kd9",
-        "title": "Хранитель Мечей. Война мага. Том 1. Дебют",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:24:20",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 8
         }
     }
 }
