@@ -1,4 +1,16 @@
 {
+    "bWgPzaNKdA": {
+        "id": "bWgPzaNKdA",
+        "title": "Темное море",
+        "author": "Джеймс Камбиас",
+        "notes": "",
+        "createdAt": "2017-07-13 22:55:38",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 31
+        }
+    },
     "cqPCeuSh_B": {
         "id": "cqPCeuSh_B",
         "title": "Месть Змеи (Серия: Верлорды. Книга 4/6)",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 2
-        }
-    },
-    "ueD5GBspio": {
-        "id": "ueD5GBspio",
-        "title": "Алмазный меч, Деревянный меч. Том 1, Том 2",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-13 22:17:28",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 1
         }
     }
 }
