@@ -1,5 +1,13 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>25</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>26</sup>
 ---
+
+## 2016
+
+### Меч Предназначения (Серия: Ведьмак. Книга 2)
+Анджей Сапковский
+> [2016-01] 
+
+
 
 ## 2015
 
