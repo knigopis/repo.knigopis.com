@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>8</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>9</sup>
 ---
 
 ## 2015
+
+### Хранитель Мечей. Война мага. Том 2. Миттельшпиль
+Ник Перумов
+> [2015-08] 
+
 
 ### Хранитель Мечей. Война мага. Том 1. Дебют
 Ник Перумов

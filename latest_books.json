@@ -1,4 +1,16 @@
 {
+    "O773-rgN5C": {
+        "id": "O773-rgN5C",
+        "title": "Хранитель Мечей. Война мага. Том 2. Миттельшпиль",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:25:19",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 9
+        }
+    },
     "pNOxKi0Kd9": {
         "id": "pNOxKi0Kd9",
         "title": "Хранитель Мечей. Война мага. Том 1. Дебют",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 2
-        }
-    },
-    "QD4I_PosNg": {
-        "id": "QD4I_PosNg",
-        "title": "Ежевичное вино",
-        "author": "Джоан Харис",
-        "notes": "",
-        "createdAt": "2017-07-07 10:33:53",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 1
         }
     }
 }
