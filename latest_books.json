@@ -1,4 +1,16 @@
 {
+    "pNOxKi0Kd9": {
+        "id": "pNOxKi0Kd9",
+        "title": "Хранитель Мечей. Война мага. Том 1. Дебют",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:24:20",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 8
+        }
+    },
     "mWWI-w4YhH": {
         "id": "mWWI-w4YhH",
         "title": "Хранитель Мечей. Одиночество мага. Том 2",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 1
-        }
-    },
-    "jUus3oHok0": {
-        "id": "jUus3oHok0",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-07-07 08:40:45",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 119
         }
     }
 }
