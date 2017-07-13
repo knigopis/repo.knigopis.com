@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>13</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>14</sup>
 ---
 
 ## 2015
@@ -55,6 +55,11 @@
 
 
 ## 2014
+
+### Джанга с тенями (Хроники Сиалы. Книга 2)
+Алексей Пехов
+> [2014-10] 
+
 
 ### Крадущийся в тени (Хроники Сиалы книга 1)
 Алексей Пехов
