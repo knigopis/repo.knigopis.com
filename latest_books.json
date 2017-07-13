@@ -1,4 +1,16 @@
 {
+    "gMe3XPesUb": {
+        "id": "gMe3XPesUb",
+        "title": "Пятьдесят оттенков свободы (3/3)",
+        "author": "Э. Л. Джеймс",
+        "notes": "",
+        "createdAt": "2017-07-13 23:20:23",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 39
+        }
+    },
     "1rfHrPbQBV": {
         "id": "1rfHrPbQBV",
         "title": "На пятьдесят оттенков темнее (2/3)",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 10
-        }
-    },
-    "O773-rgN5C": {
-        "id": "O773-rgN5C",
-        "title": "Хранитель Мечей. Война мага. Том 2. Миттельшпиль",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:25:19",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 9
         }
     }
 }

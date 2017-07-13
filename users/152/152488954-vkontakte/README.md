@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>38</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>39</sup>
 ---
 
 ## 2017
@@ -190,6 +190,10 @@
 
 
 ## 2013
+
+### Пятьдесят оттенков свободы (3/3)
+Э. Л. Джеймс
+
 
 ### На пятьдесят оттенков темнее (2/3)
 Э. Л. Джеймс
