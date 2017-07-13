@@ -1,4 +1,4 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>15</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>16</sup>
 ---
 
 ## 2015
@@ -55,6 +55,11 @@
 
 
 ## 2014
+
+### Искатели ветра (Ветер и Искры. Книга 1)
+Алексей Пехов
+> [2014-10] 
+
 
 ### Вьюга теней (Хроники Сиалы. Книга 3)
 Алексей Пехов
