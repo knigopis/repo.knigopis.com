@@ -1,4 +1,16 @@
 {
+    "f8z74awevz": {
+        "id": "f8z74awevz",
+        "title": "Хранитель Мечей. Странствия мага. Том 2",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-07-13 22:21:46",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 5
+        }
+    },
     "RHm-xumhSI": {
         "id": "RHm-xumhSI",
         "title": "Хранитель Мечей. Странствия мага. Том 1",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 27
-        }
-    },
-    "xHMlK7iifl": {
-        "id": "xHMlK7iifl",
-        "title": "Овод",
-        "author": "Лилиан Войнич",
-        "notes": "",
-        "createdAt": "2017-07-06 14:13:48",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 30
         }
     }
 }
