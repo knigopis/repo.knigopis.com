@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
 * Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
-* Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 
 
-_14.07.2017 14:58:40_
+_14.07.2017 20:18:06_

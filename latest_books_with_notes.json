@@ -1,4 +1,16 @@
 {
+    "BTvvDfybTo": {
+        "id": "BTvvDfybTo",
+        "title": "Grit: The Power of Passion and Perseverance",
+        "author": "Angela Duckworth",
+        "notes": "ASIN: B019CGY2ZG",
+        "createdAt": "2017-07-14 20:18:06",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 42
+        }
+    },
     "d6I647MYbi": {
         "id": "d6I647MYbi",
         "title": "State of Fear",
@@ -345,18 +357,6 @@
             "id": "3900602-vkontakte",
             "nickname": "retina",
             "booksCount": 2
-        }
-    },
-    "yTFTATRVh6": {
-        "id": "yTFTATRVh6",
-        "title": "Собрание сочинений в одном томе - Филатов Леонид",
-        "author": "",
-        "notes": "Про Федота-стрельца, удалого молодца\nБольшая любовь Робин Гуда\nИнтервью простое\nЧасы с кукушкой\nМоцарт и Сальери\nТри мушкетера\nЛюбовь к трем апельсинам\nСукины дети\nЗолушка до и после\nГамлет\nОпасный, опасный, очень опасный...\nВозмутитель спокойствия\nСвобода или смерть\nДилижанс\nЕщё раз о голом короле\nЛизистрата\nПестрые люди, или Глазами провинциала\nГрех\nСлучайные встречи\nБез вранья\nДвое в поезде\nОкажите доверие!",
-        "createdAt": "2017-06-23 14:13:14",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 81
         }
     }
 }

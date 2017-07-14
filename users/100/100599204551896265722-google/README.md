@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>41</sup>
+# Список прочитанных книг пользователя exulted<sup>42</sup>
 ---
 
 ## 2017
+
+### Grit: The Power of Passion and Perseverance
+Angela Duckworth
+> [2017-06-30] ASIN: B019CGY2ZG
+
 
 ### State of Fear
 Michael Crichton
