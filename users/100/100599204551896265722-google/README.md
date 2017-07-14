@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>43</sup>
+# Список прочитанных книг пользователя exulted<sup>44</sup>
 ---
 
 ## 2017
+
+### Книга для родителей
+Макаренко Антон Семенович
+> [2017-07-05] 
+
 
 ### Grit: The Power of Passion and Perseverance
 Angela Duckworth

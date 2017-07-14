@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>43</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>44</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
 
 
-_14.07.2017 20:20:30_
+_14.07.2017 20:28:40_

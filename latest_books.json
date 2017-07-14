@@ -1,4 +1,16 @@
 {
+    "wo9Sp-LV5m": {
+        "id": "wo9Sp-LV5m",
+        "title": "Книга для родителей",
+        "author": "Макаренко Антон Семенович",
+        "notes": "",
+        "createdAt": "2017-07-14 20:28:40",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 44
+        }
+    },
     "FFcMBJxCBN": {
         "id": "FFcMBJxCBN",
         "title": "Летоисчисление от Иоанна",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 15
-        }
-    },
-    "8XALuj-SlY": {
-        "id": "8XALuj-SlY",
-        "title": "Джанга с тенями (Хроники Сиалы. Книга 2)",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:30:01",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 14
         }
     }
 }
