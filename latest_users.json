@@ -1,4 +1,10 @@
 {
+    "13839913-vkontakte": {
+        "id": "13839913-vkontakte",
+        "nickname": "Shelkovica",
+        "booksCount": 0,
+        "updatedAt": "2017-07-14 07:21:47"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "victoria_spilioti",
         "booksCount": 72,
         "updatedAt": "2017-07-06 02:58:19"
-    },
-    "95843305-vkontakte": {
-        "id": "95843305-vkontakte",
-        "nickname": "veronika_kozishkurt",
-        "booksCount": 0,
-        "updatedAt": "2017-07-04 15:54:43"
     }
 }
