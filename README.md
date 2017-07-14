@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
+    > ASIN: B000FC2NQW
+
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
     > Короткий. Мистическая пыль в глаза. гипноз. разговоры о тьме. 4 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Плохо сделанная антиутопия. зелёные коты живут в симбиозе с инопланетянами. заставляют их колонизировать планеты. испускают феромоны настроения. 3 из 10.
 
 * Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
-    > Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем
 
 * Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
 
-* Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>41</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
 [](users/104/104738523506260-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
-[victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
 
 
-_14.07.2017 07:21:50_
+_14.07.2017 14:58:40_

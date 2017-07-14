@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>40</sup>
+# Список прочитанных книг пользователя exulted<sup>41</sup>
 ---
 
 ## 2017
+
+### State of Fear
+Michael Crichton
+> [2017-06-25] ASIN: B000FC2NQW
+
 
 ### Buying and Selling Volatility (Frontiers in Finance Series)
 Kevin B. Connolly

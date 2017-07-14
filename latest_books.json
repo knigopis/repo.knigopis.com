@@ -1,4 +1,16 @@
 {
+    "d6I647MYbi": {
+        "id": "d6I647MYbi",
+        "title": "State of Fear",
+        "author": "Michael Crichton",
+        "notes": "ASIN: B000FC2NQW",
+        "createdAt": "2017-07-14 14:58:40",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 41
+        }
+    },
     "mviGgV4LCx": {
         "id": "mviGgV4LCx",
         "title": "Экспресс маркетинг",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 12
-        }
-    },
-    "gV-EjK-yZY": {
-        "id": "gV-EjK-yZY",
-        "title": "Хранитель Мечей. Война мага. Том 4. Конец игры. Часть 1",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:26:33",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 11
         }
     }
 }

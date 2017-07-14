@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
 * Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
 * Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
 * Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
 * Собрание сочинений в одном томе - Филатов Леонид ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
-* История Ислама ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>81</sup>
 
 
-_13.07.2017 13:26:03_
+_14.07.2017 14:58:40_
