@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>260</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 
 
-_13.07.2017 23:20:23_
+_14.07.2017 03:57:06_

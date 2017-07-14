@@ -1,4 +1,16 @@
 {
+    "mviGgV4LCx": {
+        "id": "mviGgV4LCx",
+        "title": "Экспресс маркетинг",
+        "author": "Александр Левитас",
+        "notes": "",
+        "createdAt": "2017-07-14 03:57:06",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 261
+        }
+    },
     "gMe3XPesUb": {
         "id": "gMe3XPesUb",
         "title": "Пятьдесят оттенков свободы (3/3)",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 11
-        }
-    },
-    "FWOntDwUAY": {
-        "id": "FWOntDwUAY",
-        "title": "Хранитель Мечей. Война мага. Том 3. Эндшпиль",
-        "author": "Ник Перумов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:25:59",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 10
         }
     }
 }
