@@ -1,4 +1,16 @@
 {
+    "FFcMBJxCBN": {
+        "id": "FFcMBJxCBN",
+        "title": "Летоисчисление от Иоанна",
+        "author": "Иванов Алексей",
+        "notes": "",
+        "createdAt": "2017-07-14 20:20:30",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 43
+        }
+    },
     "BTvvDfybTo": {
         "id": "BTvvDfybTo",
         "title": "Grit: The Power of Passion and Perseverance",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 14
-        }
-    },
-    "tvFWie3fP-": {
-        "id": "tvFWie3fP-",
-        "title": "Крадущийся в тени (Хроники Сиалы книга 1)",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:29:18",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 13
         }
     }
 }

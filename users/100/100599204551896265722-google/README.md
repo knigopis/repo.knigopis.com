@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>42</sup>
+# Список прочитанных книг пользователя exulted<sup>43</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Grit: The Power of Passion and Perseverance
 Angela Duckworth
 > [2017-06-30] ASIN: B019CGY2ZG
+
+
+### Летоисчисление от Иоанна
+Иванов Алексей
+> [2017-06-27] 
 
 
 ### State of Fear
