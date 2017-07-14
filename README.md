@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104738523506260-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
 [victoria_spilioti](users/219/219259003-vkontakte)<sup>72</sup> 
-[veronika_kozishkurt](users/958/95843305-vkontakte)<sup>0</sup> 
 
 
-_14.07.2017 03:57:06_
+_14.07.2017 07:21:50_
