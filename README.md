@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
+    > Наконец-то я добрался до истории о страже. Эта книга была о драконе. В ней же познакомили с городской стражей и новеньким служащим Моркоу.  К сожалению, мне не понравилась книга. Почти до самого конца она была для меня скучной. Мне больше по душе пришлись другие ветки приключений Плоского Мира. Хотя Эррол, конечно, забавный.
+
 * Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
     > Занимательно, но под конец книги появилось отвращение к Гарри Поттеру за его поступки и реакции. Хотелось поскорее закончить.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B019CGY2ZG
 
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
-    > ASIN: B000FC2NQW
 
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
 
-* Башни полуночи ~ [Garka](users/115/115753719718250012620-google)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/115/115622071-twitter)<sup>54</sup> 
+[rNix](users/115/115622071-twitter)<sup>55</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>44</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/104/104738523506260-facebook)<sup>0</sup> 
 
 
-_15.07.2017 11:41:14_
+_15.07.2017 11:46:28_
