@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Astro](users/282/282662025-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>27</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
 
 
-_15.07.2017 16:27:33_
+_15.07.2017 17:33:10_
