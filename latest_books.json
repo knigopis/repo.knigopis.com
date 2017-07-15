@@ -1,4 +1,16 @@
 {
+    "MW9a2VNah_": {
+        "id": "MW9a2VNah_",
+        "title": "Эдем",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2017-07-15 14:36:50",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 78
+        }
+    },
     "5XmtxND6_c": {
         "id": "5XmtxND6_c",
         "title": "Стража! Стража!",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 18
-        }
-    },
-    "qYqawLAq3D": {
-        "id": "qYqawLAq3D",
-        "title": "Ветер полыни (Ветер и Искры. Книга 2)",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:32:53",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 17
         }
     }
 }

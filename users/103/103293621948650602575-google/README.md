@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>77</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>78</sup>
 ---
 
 ## 2017
+
+### Эдем
+Станислав Лем
+> [2017-07-15] 
+
 
 ### Показания Рэндольфа Картера (рассказ)
 Говард Лавкрафт

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>44</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>30</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>547</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
-[](users/104/104738523506260-facebook)<sup>0</sup> 
 
 
-_15.07.2017 11:46:28_
+_15.07.2017 14:36:51_

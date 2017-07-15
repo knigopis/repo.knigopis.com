@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Mira R",
+        "booksCount": 78,
+        "updatedAt": "2017-07-15 14:36:50"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "AHTOWKA",
         "booksCount": 1,
         "updatedAt": "2017-07-06 11:56:45"
-    },
-    "104738523506260-facebook": {
-        "id": "104738523506260-facebook",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2017-07-06 11:48:54"
     }
 }
