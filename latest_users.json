@@ -1,4 +1,10 @@
 {
+    "282662025-vkontakte": {
+        "id": "282662025-vkontakte",
+        "nickname": "Astro",
+        "booksCount": 0,
+        "updatedAt": "2017-07-15 17:33:09"
+    },
     "100409161-yandex": {
         "id": "100409161-yandex",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 27,
         "updatedAt": "2017-07-06 20:48:44"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 30,
-        "updatedAt": "2017-07-06 14:13:48"
     }
 }
