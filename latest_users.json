@@ -1,4 +1,10 @@
 {
+    "100409161-yandex": {
+        "id": "100409161-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2017-07-15 16:27:32"
+    },
     "106767072785183342762-google": {
         "id": "106767072785183342762-google",
         "nickname": "Mr.Rabbit",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 30,
         "updatedAt": "2017-07-06 14:13:48"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 547,
-        "updatedAt": "2017-07-06 12:45:45"
     }
 }
