@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>27</sup> 
 
 
-_15.07.2017 17:33:10_
+_15.07.2017 22:30:14_
