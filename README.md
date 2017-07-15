@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
+    > Занимательно, но под конец книги появилось отвращение к Гарри Поттеру за его поступки и реакции. Хотелось поскорее закончить.
+
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
     > ASIN: B019CGY2ZG
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ASIN: B000FC2NQW
 
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
-    > Короткий. Мистическая пыль в глаза. гипноз. разговоры о тьме. 4 из 10.
 
 * Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Башни полуночи ~ [Garka](users/115/115753719718250012620-google)<sup>144</sup>
 
-* Беглец ~ [HXT](users/100/100002563462782-facebook)<sup>260</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>54</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>44</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>547</sup> 
 [AHTOWKA](users/451/4517385-yandex)<sup>1</sup> 
 [](users/104/104738523506260-facebook)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup> 
 
 
-_14.07.2017 20:28:40_
+_15.07.2017 11:41:14_

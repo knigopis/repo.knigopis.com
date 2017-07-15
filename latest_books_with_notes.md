@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
 * Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 * Разные оттенки смерти ~ [Sky](users/118/118049897850017649660-google)<sup>11</sup>
-* Оно ~ [retina](users/390/3900602-vkontakte)<sup>2</sup>
 
 
-_14.07.2017 20:18:06_
+_15.07.2017 11:41:14_
