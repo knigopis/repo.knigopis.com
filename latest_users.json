@@ -1,4 +1,10 @@
 {
+    "237559775-vkontakte": {
+        "id": "237559775-vkontakte",
+        "nickname": "Yoite Hikaru",
+        "booksCount": 0,
+        "updatedAt": "2017-07-15 22:30:11"
+    },
     "282662025-vkontakte": {
         "id": "282662025-vkontakte",
         "nickname": "Astro",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 104,
         "updatedAt": "2017-07-07 08:26:26"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 27,
-        "updatedAt": "2017-07-06 20:48:44"
     }
 }
