@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>7</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>8</sup>
 ---
 
 ## 2014
+
+### 69
+Рю Мураками
+> [2014-07] 
+
 
 ### День муравья
 Бернар Вербер

@@ -1,4 +1,16 @@
 {
+    "qt0v_m7Dic": {
+        "id": "qt0v_m7Dic",
+        "title": "69",
+        "author": "Рю Мураками",
+        "notes": "",
+        "createdAt": "2017-07-16 12:07:52",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 8
+        }
+    },
     "rW2yezt_DD": {
         "id": "rW2yezt_DD",
         "title": "День муравья",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 29
-        }
-    },
-    "uGJ3SriGL0": {
-        "id": "uGJ3SriGL0",
-        "title": "Гнев Льва (Серия: Верлорды. Книга 2/6)",
-        "author": "Кертис Джоблинг",
-        "notes": "",
-        "createdAt": "2017-07-13 22:48:19",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 28
         }
     }
 }
