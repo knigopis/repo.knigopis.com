@@ -1,4 +1,16 @@
 {
+    "Mzz7xmwFGg": {
+        "id": "Mzz7xmwFGg",
+        "title": "Ник 1-8",
+        "author": "Анджей Ясинский",
+        "notes": "Приключения программиста попаданца в параллельном мире, функциональщина и принципы рыботы расписаны досконально, а так\nИнфомагия(магия драконов), боги, Драко, Гаврош, Умник",
+        "createdAt": "2017-07-16 01:06:34",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 51
+        }
+    },
     "MW9a2VNah_": {
         "id": "MW9a2VNah_",
         "title": "Эдем",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 19
-        }
-    },
-    "4fYh3h4R0q": {
-        "id": "4fYh3h4R0q",
-        "title": "Жнецы ветра (Ветер и Искры. Книга 3)",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-07-13 22:33:47",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 18
         }
     }
 }

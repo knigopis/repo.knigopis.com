@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
+    > Приключения программиста попаданца в параллельном мире, функциональщина и принципы рыботы расписаны досконально, а так
+    > Инфомагия(магия драконов), боги, Драко, Гаврош, Умник
+
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
     > Наконец-то я добрался до истории о страже. Эта книга была о драконе. В ней же познакомили с городской стражей и новеньким служащим Моркоу.  К сожалению, мне не понравилась книга. Почти до самого конца она была для меня скучной. Мне больше по душе пришлись другие ветки приключений Плоского Мира. Хотя Эррол, конечно, забавный.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Занимательно, но под конец книги появилось отвращение к Гарри Поттеру за его поступки и реакции. Хотелось поскорее закончить.
 
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
-    > ASIN: B019CGY2ZG
 
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Альтист Данилов ~ [Chiffi](users/105/105831994080785626680-google)<sup>21</sup>
 
-* Женщина. Учебник для мужчин ~ [develchip](users/852/85203415-vkontakte)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>51</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>0</sup> 
@@ -52,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
 [ner](users/102/102526509209081648246-google)<sup>0</sup> 
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>50</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 
 
-_15.07.2017 22:30:14_
+_16.07.2017 01:06:34_

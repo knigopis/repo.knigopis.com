@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
 * Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
 * Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
 * Метро 2034 ~ [sonics](users/588/5880221-vkontakte)<sup>49</sup>
-* Никогда не ешьте в одиночку ~ [Implicat](users/118/118341692435130654754-google)<sup>2</sup>
 
 
-_15.07.2017 11:46:28_
+_16.07.2017 01:06:34_
