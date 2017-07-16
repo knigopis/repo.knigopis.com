@@ -1,4 +1,10 @@
 {
+    "1882525281990290-facebook": {
+        "id": "1882525281990290-facebook",
+        "nickname": "sad little panda",
+        "booksCount": 28,
+        "updatedAt": "2017-07-16 20:56:10"
+    },
     "63218301-vkontakte": {
         "id": "63218301-vkontakte",
         "nickname": "izhgerben",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 13,
         "updatedAt": "2017-07-08 18:43:18"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 86,
-        "updatedAt": "2017-07-07 13:54:53"
     }
 }

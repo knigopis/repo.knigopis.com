@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>27</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>28</sup>
 ---
 
 ## 2017
+
+### Зарянка и роза
+Оскар Уайльд
+> [2017-07-16] 
+
 
 ### Счастливый принц
 Оскар Уайльд

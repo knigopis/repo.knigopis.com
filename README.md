@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>28</sup> 
 [izhgerben](users/632/63218301-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>548</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 
 
-_16.07.2017 16:18:17_
+_16.07.2017 20:56:10_
