@@ -1,4 +1,16 @@
 {
+    "rW2yezt_DD": {
+        "id": "rW2yezt_DD",
+        "title": "День муравья",
+        "author": "Бернар Вербер",
+        "notes": "Приятный слог повествования. Довольно закрученный сюжет. Необычные герои. Притом на последнем стоит сделать акцент. Где еще вы найдете повествование от лица муравья?",
+        "createdAt": "2017-07-16 12:06:42",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 7
+        }
+    },
     "a1swHnkpTK": {
         "id": "a1swHnkpTK",
         "title": "Вероника решает умереть",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 28
-        }
-    },
-    "n4oRx96hTk": {
-        "id": "n4oRx96hTk",
-        "title": "Восхождение Волка (Серия: Верлорды. Книга 1/6)",
-        "author": "Кертис Джоблинг",
-        "notes": "",
-        "createdAt": "2017-07-13 22:47:33",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 27
         }
     }
 }
