@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>16</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>17</sup>
 ---
 
 ## 2015
+
+### Сойка-пересмешница
+Сьюзен Коллинз
+> [2015-11-07] 
+
 
 ### Голодные игры: и вспыхнет пламя
 Сьюзен Коллинз
