@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[izhgerben](users/632/63218301-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>548</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
-[ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 
 
-_16.07.2017 13:06:30_
+_16.07.2017 16:18:17_
