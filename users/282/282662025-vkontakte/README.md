@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>35</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>36</sup>
 ---
 
 ## 2016
+
+### Я не Спок
+Леонард Нимой
+> [2016-10-22] 
+
 
 ### Мир Спока
 Диана Дуэйн

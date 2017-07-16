@@ -1,4 +1,16 @@
 {
+    "_IMg6gL8Ge": {
+        "id": "_IMg6gL8Ge",
+        "title": "Я не Спок",
+        "author": "Леонард Нимой",
+        "notes": "",
+        "createdAt": "2017-07-16 12:37:32",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 36
+        }
+    },
     "TYnO1k_YnN": {
         "id": "TYnO1k_YnN",
         "title": "Мир Спока",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 8
-        }
-    },
-    "rW2yezt_DD": {
-        "id": "rW2yezt_DD",
-        "title": "День муравья",
-        "author": "Бернар Вербер",
-        "notes": "Приятный слог повествования. Довольно закрученный сюжет. Необычные герои. Притом на последнем стоит сделать акцент. Где еще вы найдете повествование от лица муравья?",
-        "createdAt": "2017-07-16 12:06:42",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 7
         }
     }
 }
