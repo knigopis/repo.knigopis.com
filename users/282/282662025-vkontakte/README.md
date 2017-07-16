@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>34</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>35</sup>
 ---
 
 ## 2016
+
+### Мир Спока
+Диана Дуэйн
+> [2016-09-24] 
+
 
 ### Мартин Иден
 Джек Лондон
