@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>30</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>31</sup>
 ---
 
 ## 2017
+
+### Игры, в которые играют люди
+Эрик Берн
+> [2017-07-17] 
+
 
 ### Овод
 Лилиан Войнич
