@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>25</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>26</sup>
 ---
 
 ## 2016
+
+### Космотехнолухи. Книга 2
+Ольга Громыко
+> [2016-05-15] 
+
 
 ### Хроника царствования Карла IX
 Проспер Мериме
