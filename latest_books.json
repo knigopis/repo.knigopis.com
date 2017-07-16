@@ -1,4 +1,16 @@
 {
+    "k0jn_pGCY8": {
+        "id": "k0jn_pGCY8",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "Что можно сказать об Агате Кристи, чего еще не сказали до меня? Понравилось несмотря на то, что личность убийцы я все же угадала с первых страниц.",
+        "createdAt": "2017-07-16 12:09:45",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 10
+        }
+    },
     "HyWrLuikKc": {
         "id": "HyWrLuikKc",
         "title": "Часодеи. Часовой ключ",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 31
-        }
-    },
-    "cqPCeuSh_B": {
-        "id": "cqPCeuSh_B",
-        "title": "Месть Змеи (Серия: Верлорды. Книга 4/6)",
-        "author": "Кертис Джоблинг",
-        "notes": "",
-        "createdAt": "2017-07-13 22:50:58",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 30
         }
     }
 }
