@@ -1,4 +1,16 @@
 {
+    "6U2_EXJ2Oz": {
+        "id": "6U2_EXJ2Oz",
+        "title": "Пятая гора",
+        "author": "Пауло Коэльо",
+        "notes": "Одна из знаковых для меня книг, в буквальном смысле обративших в веру. Пожалуй, это единственное, что стоит записать.",
+        "createdAt": "2017-07-16 12:00:14",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 3
+        }
+    },
     "etuhbzEG7k": {
         "id": "etuhbzEG7k",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 24
-        }
-    },
-    "NKd9jtQwlf": {
-        "id": "NKd9jtQwlf",
-        "title": "Проклятый горн",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-13 22:36:17",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 23
         }
     }
 }
