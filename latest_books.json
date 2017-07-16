@@ -1,4 +1,16 @@
 {
+    "O_i8kODwE3": {
+        "id": "O_i8kODwE3",
+        "title": "Книга",
+        "author": "Автор",
+        "notes": "",
+        "createdAt": "2017-07-16 13:06:30",
+        "user": {
+            "id": "100409161-yandex",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "FvH-7fPclr": {
         "id": "FvH-7fPclr",
         "title": "Стамбул. Город воспоминаний",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 18
-        }
-    },
-    "N1w8M9Gofe": {
-        "id": "N1w8M9Gofe",
-        "title": "Сойка-пересмешница",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-07-16 12:16:50",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 17
         }
     }
 }

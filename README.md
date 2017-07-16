@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/100/100409161-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>548</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>262</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
-[](users/100/100409161-yandex)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 
 
-_16.07.2017 13:04:23_
+_16.07.2017 13:06:30_

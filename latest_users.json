@@ -1,4 +1,10 @@
 {
+    "100409161-yandex": {
+        "id": "100409161-yandex",
+        "nickname": null,
+        "booksCount": 1,
+        "updatedAt": "2017-07-16 13:06:30"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -46,12 +52,6 @@
         "nickname": "Yoite Hikaru",
         "booksCount": 0,
         "updatedAt": "2017-07-15 22:30:11"
-    },
-    "100409161-yandex": {
-        "id": "100409161-yandex",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2017-07-15 16:27:32"
     },
     "106767072785183342762-google": {
         "id": "106767072785183342762-google",
