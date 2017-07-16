@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>262</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 
 
-_16.07.2017 12:49:27_
+_16.07.2017 12:56:39_
