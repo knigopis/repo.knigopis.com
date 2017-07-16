@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>548</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>262</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 
 
-_16.07.2017 12:56:43_
+_16.07.2017 13:04:23_
