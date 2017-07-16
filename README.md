@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 
 
-_16.07.2017 05:56:19_
+_16.07.2017 11:25:17_
