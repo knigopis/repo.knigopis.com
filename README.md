@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Astro](users/282/282662025-vkontakte)<sup>41</sup> 
+[Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 
 
-_16.07.2017 12:46:02_
+_16.07.2017 12:49:27_
