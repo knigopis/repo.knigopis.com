@@ -1,4 +1,10 @@
 {
+    "100409161-yandex": {
+        "id": "100409161-yandex",
+        "nickname": "Псевдоним",
+        "booksCount": 0,
+        "updatedAt": "2017-07-16 21:57:28"
+    },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",
         "nickname": "sad little panda",
@@ -10,12 +16,6 @@
         "nickname": "izhgerben",
         "booksCount": 0,
         "updatedAt": "2017-07-16 16:18:14"
-    },
-    "100409161-yandex": {
-        "id": "100409161-yandex",
-        "nickname": null,
-        "booksCount": 1,
-        "updatedAt": "2017-07-16 13:06:30"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
