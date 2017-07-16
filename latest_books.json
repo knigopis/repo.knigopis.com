@@ -1,4 +1,16 @@
 {
+    "etuhbzEG7k": {
+        "id": "etuhbzEG7k",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2017-07-16 11:59:33",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 2
+        }
+    },
     "RVM5HigZgM": {
         "id": "RVM5HigZgM",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 23
-        }
-    },
-    "jvN6gV-TeF": {
-        "id": "jvN6gV-TeF",
-        "title": "Золотые костры",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-13 22:36:05",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 22
         }
     }
 }
