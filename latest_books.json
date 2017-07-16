@@ -1,4 +1,16 @@
 {
+    "LghwQGJV8r": {
+        "id": "LghwQGJV8r",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-07-16 12:10:42",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 11
+        }
+    },
     "k0jn_pGCY8": {
         "id": "k0jn_pGCY8",
         "title": "Убийство Роджера Экройда",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 32
-        }
-    },
-    "bWgPzaNKdA": {
-        "id": "bWgPzaNKdA",
-        "title": "Темное море",
-        "author": "Джеймс Камбиас",
-        "notes": "",
-        "createdAt": "2017-07-13 22:55:38",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 31
         }
     }
 }

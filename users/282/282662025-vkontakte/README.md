@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>10</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>11</sup>
 ---
 
 ## 2015
+
+### Голодные игры
+Сьюзен Коллинз
+> [2015-07-26] 
+
 
 ### Убийство Роджера Экройда
 Агата Кристи
