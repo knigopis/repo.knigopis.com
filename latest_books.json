@@ -1,4 +1,16 @@
 {
+    "bEdKJJAHB7": {
+        "id": "bEdKJJAHB7",
+        "title": "Голодные игры: и вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-07-16 12:15:40",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 16
+        }
+    },
     "YhSlPaT3sI": {
         "id": "YhSlPaT3sI",
         "title": "Марсианин",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 37
-        }
-    },
-    "l-exJMGI_a": {
-        "id": "l-exJMGI_a",
-        "title": "Сокрушитель Войн",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2017-07-13 23:08:47",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 36
         }
     }
 }

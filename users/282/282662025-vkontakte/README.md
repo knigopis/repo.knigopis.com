@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>15</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>16</sup>
 ---
 
 ## 2015
+
+### Голодные игры: и вспыхнет пламя
+Сьюзен Коллинз
+> [2015-11-03] 
+
 
 ### Марсианин
 Энди Вейер
