@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>32</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>33</sup>
 ---
 
 ## 2016
+
+### Гобсек
+Оноре де Бальзак
+> [2016-07-02] 
+
 
 ### Бунт тридцати триллионов
 Еремей Парнов, Михаил Емцев
