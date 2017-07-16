@@ -1,4 +1,16 @@
 {
+    "V90XC8BOeM": {
+        "id": "V90XC8BOeM",
+        "title": "Властелин колец. Дружество кольца",
+        "author": "Дж. Р. Р. Толкин",
+        "notes": "",
+        "createdAt": "2017-07-16 12:44:07",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 40
+        }
+    },
     "3VkI9tKmQw": {
         "id": "3VkI9tKmQw",
         "title": "Библиотека душ. Нет выхода из дома странных детей",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 12
-        }
-    },
-    "LghwQGJV8r": {
-        "id": "LghwQGJV8r",
-        "title": "Голодные игры",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-07-16 12:10:42",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 11
         }
     }
 }

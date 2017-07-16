@@ -1,5 +1,13 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>39</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>40</sup>
 ---
+
+## 2017
+
+### Властелин колец. Дружество кольца
+Дж. Р. Р. Толкин
+> [2017-07-10] 
+
+
 
 ## 2016
 
