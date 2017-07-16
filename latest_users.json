@@ -1,4 +1,10 @@
 {
+    "118223498137459516526-google": {
+        "id": "118223498137459516526-google",
+        "nickname": "techlove",
+        "booksCount": 0,
+        "updatedAt": "2017-07-16 11:25:14"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "barolina",
         "booksCount": 0,
         "updatedAt": "2017-07-07 09:14:28"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 104,
-        "updatedAt": "2017-07-07 08:26:26"
     }
 }
