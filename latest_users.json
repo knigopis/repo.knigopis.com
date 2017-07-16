@@ -1,4 +1,10 @@
 {
+    "282662025-vkontakte": {
+        "id": "282662025-vkontakte",
+        "nickname": "Astro",
+        "booksCount": 1,
+        "updatedAt": "2017-07-16 11:57:12"
+    },
     "118223498137459516526-google": {
         "id": "118223498137459516526-google",
         "nickname": "techlove",
@@ -22,12 +28,6 @@
         "nickname": "Yoite Hikaru",
         "booksCount": 0,
         "updatedAt": "2017-07-15 22:30:11"
-    },
-    "282662025-vkontakte": {
-        "id": "282662025-vkontakte",
-        "nickname": "Astro",
-        "booksCount": 0,
-        "updatedAt": "2017-07-15 17:33:09"
     },
     "100409161-yandex": {
         "id": "100409161-yandex",

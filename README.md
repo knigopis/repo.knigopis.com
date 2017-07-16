@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Astro](users/282/282662025-vkontakte)<sup>1</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
-[Astro](users/282/282662025-vkontakte)<sup>0</sup> 
 [](users/100/100409161-yandex)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 
 
-_16.07.2017 11:25:17_
+_16.07.2017 11:57:12_
