@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
+    > Чувство юмора у господина Пратчетта преотличное. Прекрасное продолжение
+    > "И придет восьмой сын восьмого сына, и покачнется Плоский мир, и поскачут по земле четыре всадника (увы, без лошадей, ибо их увел какой-то ворюга) Абокралипсиса. А крайний, как всегда, Ринсвинд, самый неумелый волшебник на Диске."
+
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
     > ISBN: 978-5-4444-8419-7
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Книга по большей части знакомит с корейской культурой, насыщена вставками картинок и видео с ютуба. Пак ЮнМи, девушка полиглотка с музыкальными наработками завоювывает корейскую эстраду
 
 * Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
-    > Приключения программиста попаданца в параллельном мире, функциональщина и принципы рыботы расписаны досконально, а так
-    > Инфомагия(магия драконов), боги, Драко, Гаврош, Умник
 
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
 
-* Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>262</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup> 
 [ele.nvsv](users/504/50498112-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>2</sup> 
-[barolina](users/111/111866341985603744943-google)<sup>0</sup> 
 
 
-_16.07.2017 12:56:39_
+_16.07.2017 12:56:43_
