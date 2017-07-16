@@ -1,4 +1,16 @@
 {
+    "Ze7-9F4FiR": {
+        "id": "Ze7-9F4FiR",
+        "title": "Война в Арктике. 1941—1945",
+        "author": "Корякин Владислав",
+        "notes": "ISBN: 978-5-4444-8419-7",
+        "createdAt": "2017-07-16 05:56:19",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 45
+        }
+    },
     "HrSkRtngM_": {
         "id": "HrSkRtngM_",
         "title": "Косплей Сергея Юркина 1-3",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 21
-        }
-    },
-    "iDBr0GPJnD": {
-        "id": "iDBr0GPJnD",
-        "title": "Страж",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-07-13 22:35:21",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 20
         }
     }
 }

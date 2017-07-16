@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
 * Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
 * Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 * Серафина и черный плащ ~ [Sky](users/118/118049897850017649660-google)<sup>12</sup>
-* Метро 2035 ~ [sonics](users/588/5880221-vkontakte)<sup>50</sup>
 
 
-_16.07.2017 01:18:52_
+_16.07.2017 05:56:19_

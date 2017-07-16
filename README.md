@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
+    > ISBN: 978-5-4444-8419-7
+
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
     > Парень умер и его душу переселили в девушку из Кореи, но мир "чуточку" отличается, исторические события не те, музыка и фильмы не совпадают, а в остальном...
     > Книга по большей части знакомит с корейской культурой, насыщена вставками картинок и видео с ютуба. Пак ЮнМи, девушка полиглотка с музыкальными наработками завоювывает корейскую эстраду
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Инфомагия(магия драконов), боги, Драко, Гаврош, Умник
 
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
-    > Наконец-то я добрался до истории о страже. Эта книга была о драконе. В ней же познакомили с городской стражей и новеньким служащим Моркоу.  К сожалению, мне не понравилась книга. Почти до самого конца она была для меня скучной. Мне больше по душе пришлись другие ветки приключений Плоского Мира. Хотя Эррол, конечно, забавный.
 
 * Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Одинокий Демон 1-4 ~ [Tr](users/122/12282474-vkontakte)<sup>50</sup>
 
-* Самый первый ~ [Tr](users/122/12282474-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>44</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>261</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>104</sup> 
 
 
-_16.07.2017 01:18:52_
+_16.07.2017 05:56:19_
