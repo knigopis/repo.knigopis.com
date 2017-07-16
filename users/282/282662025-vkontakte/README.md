@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>26</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>27</sup>
 ---
 
 ## 2016
+
+### Скотный двор
+Джордж Оруэлл
+> [2016-05-17] 
+
 
 ### Космотехнолухи. Книга 2
 Ольга Громыко

@@ -1,4 +1,16 @@
 {
+    "bskldfsCCt": {
+        "id": "bskldfsCCt",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-07-16 12:27:01",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 27
+        }
+    },
     "e2nYNzfuSF": {
         "id": "e2nYNzfuSF",
         "title": "Космотехнолухи. Книга 2",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 51
-        }
-    },
-    "MW9a2VNah_": {
-        "id": "MW9a2VNah_",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2017-07-15 14:36:50",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 78
         }
     }
 }
