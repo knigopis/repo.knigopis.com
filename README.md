@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Псевдоним](users/100/100409161-yandex)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>28</sup> 
 [izhgerben](users/632/63218301-vkontakte)<sup>0</sup> 
-[](users/100/100409161-yandex)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>548</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>262</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>13</sup> 
 
 
-_16.07.2017 20:56:10_
+_16.07.2017 21:57:29_
