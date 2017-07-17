@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
+[Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
 [Псевдоним](users/100/100409161-yandex)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 
 
-_17.07.2017 10:12:49_
+_17.07.2017 10:12:55_
