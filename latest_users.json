@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 26,
+        "updatedAt": "2017-07-17 10:12:10"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Karim",
         "booksCount": 0,
         "updatedAt": "2017-07-10 06:41:36"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 144,
-        "updatedAt": "2017-07-09 17:45:44"
     }
 }

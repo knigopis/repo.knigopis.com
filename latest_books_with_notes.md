@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
 * Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 * Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
 * Безумная звезда (цикл Волшебники и герои, часть 2) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>6</sup>
-* Убить пересмешника ~ [Chiffi](users/105/105831994080785626680-google)<sup>20</sup>
 
 
-_16.07.2017 12:56:43_
+_17.07.2017 10:12:10_
