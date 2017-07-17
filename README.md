@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
+    > Такое я еще не читал
+
 * Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
     > Такое я еще не читал
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > "И придет восьмой сын восьмого сына, и покачнется Плоский мир, и поскачут по земле четыре всадника (увы, без лошадей, ибо их увел какой-то ворюга) Абокралипсиса. А крайний, как всегда, Ринсвинд, самый неумелый волшебник на Диске."
 
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
-    > ISBN: 978-5-4444-8419-7
 
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 
-* Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
+[Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
 [Псевдоним](users/100/100409161-yandex)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 
 
-_17.07.2017 10:12:10_
+_17.07.2017 10:12:49_
