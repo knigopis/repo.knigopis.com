@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 61,
+        "updatedAt": "2017-07-17 09:49:44"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -118,12 +124,6 @@
         "nickname": "darijj",
         "booksCount": 0,
         "updatedAt": "2017-07-13 09:30:12"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 60,
-        "updatedAt": "2017-07-13 07:50:21"
     },
     "1788922883-facebook": {
         "id": "1788922883-facebook",

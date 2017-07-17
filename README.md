@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
 [Псевдоним](users/100/100409161-yandex)<sup>2</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>28</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>60</sup> 
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
 [Danio](users/112/112694474287465491328-google)<sup>1</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>144</sup> 
 
 
-_16.07.2017 22:03:56_
+_17.07.2017 09:49:44_
