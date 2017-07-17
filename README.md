@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
-[Mira R](users/103/103293621948650602575-google)<sup>78</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 
 
-_17.07.2017 10:12:55_
+_17.07.2017 11:19:15_

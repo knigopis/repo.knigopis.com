@@ -1,4 +1,16 @@
 {
+    "1DFvhcQCIT": {
+        "id": "1DFvhcQCIT",
+        "title": "Ужас Данвича (рассказ)",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-07-17 11:19:15",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Mira R",
+            "booksCount": 79
+        }
+    },
     "CQUnXbVwQI": {
         "id": "CQUnXbVwQI",
         "title": "Замок",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 25
-        }
-    },
-    "LiIG9pXHqv": {
-        "id": "LiIG9pXHqv",
-        "title": "Космотехнолухи. Книга 1",
-        "author": "Ольга Громыко",
-        "notes": "Невозможно не улыбаться во весь рот, когда читаешь. И все равно, где ты: в метро, дома, в парке на лавке или на паре... ;)",
-        "createdAt": "2017-07-16 12:23:15",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 24
         }
     }
 }

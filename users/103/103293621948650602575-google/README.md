@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>78</sup>
+# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>79</sup>
 ---
 
 ## 2017
+
+### Ужас Данвича (рассказ)
+Говард Филлипс Лавкрафт
+> [2017-07-17] 
+
 
 ### Эдем
 Станислав Лем

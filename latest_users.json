@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Mira R",
+        "booksCount": 79,
+        "updatedAt": "2017-07-17 11:19:15"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -88,12 +94,6 @@
         "nickname": "Mr.Rabbit",
         "booksCount": 0,
         "updatedAt": "2017-07-15 16:03:13"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Mira R",
-        "booksCount": 78,
-        "updatedAt": "2017-07-15 14:36:50"
     },
     "115622071-twitter": {
         "id": "115622071-twitter",
