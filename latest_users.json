@@ -1,4 +1,10 @@
 {
+    "1086398194750357-facebook": {
+        "id": "1086398194750357-facebook",
+        "nickname": "dr.Spirit",
+        "booksCount": 0,
+        "updatedAt": "2017-07-18 06:16:58"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Mira R",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 120,
         "updatedAt": "2017-07-10 11:55:23"
-    },
-    "1512667952125284-facebook": {
-        "id": "1512667952125284-facebook",
-        "nickname": "Karim",
-        "booksCount": 0,
-        "updatedAt": "2017-07-10 06:41:36"
     }
 }
