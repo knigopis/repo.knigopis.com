@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 109,
+        "updatedAt": "2017-07-18 14:15:47"
+    },
     "1086398194750357-facebook": {
         "id": "1086398194750357-facebook",
         "nickname": "dr.Spirit",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 21,
         "updatedAt": "2017-07-10 19:42:42"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 120,
-        "updatedAt": "2017-07-10 11:55:23"
     }
 }

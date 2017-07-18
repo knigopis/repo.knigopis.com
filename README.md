@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
+    > https://www.ozon.ru/context/detail/id/6586612/
+    > 
+    > в процессе
+
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
     > Такое я еще не читал
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > Такое я еще не читал
 
 * Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
-    > Чувство юмора у господина Пратчетта преотличное. Прекрасное продолжение
-    > "И придет восьмой сын восьмого сына, и покачнется Плоский мир, и поскачут по земле четыре всадника (увы, без лошадей, ибо их увел какой-то ворюга) Абокралипсиса. А крайний, как всегда, Ринсвинд, самый неумелый волшебник на Диске."
 
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
 
-* State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup> 
 [dr.Spirit](users/108/1086398194750357-facebook)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
@@ -63,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ner](users/102/102526509209081648246-google)<sup>0</sup> 
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 
 
-_18.07.2017 06:17:02_
+_18.07.2017 14:15:47_

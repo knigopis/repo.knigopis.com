@@ -1,4 +1,16 @@
 {
+    "8xIn0EzY7v": {
+        "id": "8xIn0EzY7v",
+        "title": "История государства Российского",
+        "author": "Николай Карамзин",
+        "notes": "https://www.ozon.ru/context/detail/id/6586612/\n\nв процессе",
+        "createdAt": "2017-07-18 14:15:47",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 109
+        }
+    },
     "CQUnXbVwQI": {
         "id": "CQUnXbVwQI",
         "title": "Замок",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 59
-        }
-    },
-    "1God4ya5ei": {
-        "id": "1God4ya5ei",
-        "title": "Идиот",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "Явно не для чтения в школе.",
-        "createdAt": "2017-07-01 19:20:59",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 52
         }
     }
 }

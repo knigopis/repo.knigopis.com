@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
 * Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
 * Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
 * Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
-* Идиот ~ [sonics](users/588/5880221-vkontakte)<sup>52</sup>
 
 
-_17.07.2017 10:12:48_
+_18.07.2017 14:15:47_

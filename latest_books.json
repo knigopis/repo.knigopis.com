@@ -1,4 +1,16 @@
 {
+    "8xIn0EzY7v": {
+        "id": "8xIn0EzY7v",
+        "title": "История государства Российского",
+        "author": "Николай Карамзин",
+        "notes": "https://www.ozon.ru/context/detail/id/6586612/\n\nв процессе",
+        "createdAt": "2017-07-18 14:15:47",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 109
+        }
+    },
     "1DFvhcQCIT": {
         "id": "1DFvhcQCIT",
         "title": "Ужас Данвича (рассказ)",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 26
-        }
-    },
-    "X-f6BXcYd6": {
-        "id": "X-f6BXcYd6",
-        "title": "Хроника царствования Карла IX",
-        "author": "Проспер Мериме",
-        "notes": "",
-        "createdAt": "2017-07-16 12:24:45",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 25
         }
     }
 }
