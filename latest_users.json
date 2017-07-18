@@ -1,4 +1,10 @@
 {
+    "108201031903919910886-google": {
+        "id": "108201031903919910886-google",
+        "nickname": "fthtryj",
+        "booksCount": 0,
+        "updatedAt": "2017-07-18 14:17:04"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "anna-kuznecova",
         "booksCount": 0,
         "updatedAt": "2017-07-11 10:23:21"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 21,
-        "updatedAt": "2017-07-10 19:42:42"
     }
 }
