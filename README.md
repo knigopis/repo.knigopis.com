@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fthtryj](users/108/108201031903919910886-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup> 
 [dr.Spirit](users/108/1086398194750357-facebook)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>220</sup> 
 [ner](users/102/102526509209081648246-google)<sup>0</sup> 
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 
 
-_18.07.2017 14:16:24_
+_18.07.2017 14:17:04_
