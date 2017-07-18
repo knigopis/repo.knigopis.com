@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dr.Spirit](users/108/1086398194750357-facebook)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anna-kuznecova](users/169/169947386-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
-[Karim](users/151/1512667952125284-facebook)<sup>0</sup> 
 
 
-_17.07.2017 11:19:15_
+_18.07.2017 06:17:02_
