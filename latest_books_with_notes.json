@@ -1,4 +1,16 @@
 {
+    "hur8YOx0ci": {
+        "id": "hur8YOx0ci",
+        "title": "Эгоистичный ген",
+        "author": "Ричард Докинз",
+        "notes": "https://www.ozon.ru/context/detail/id/20880691/\n\nв процессе",
+        "createdAt": "2017-07-18 14:16:24",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 110
+        }
+    },
     "8xIn0EzY7v": {
         "id": "8xIn0EzY7v",
         "title": "История государства Российского",
@@ -345,18 +357,6 @@
             "id": "3901448-vkontakte",
             "nickname": "olegessenin",
             "booksCount": 13
-        }
-    },
-    "5jXcySBk-9": {
-        "id": "5jXcySBk-9",
-        "title": "Сиддхартха",
-        "author": "Герман Гессе",
-        "notes": "Великолепная, мудрая книга, которую стоит перечитывать периодически в течение всей жизни. Одна из самых значимых книг в моей жизни.",
-        "createdAt": "2017-07-01 20:14:40",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 59
         }
     }
 }

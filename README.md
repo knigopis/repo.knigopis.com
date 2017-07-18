@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
+    > https://www.ozon.ru/context/detail/id/20880691/
+    > 
+    > в процессе
+
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
     > https://www.ozon.ru/context/detail/id/6586612/
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Такое я еще не читал
 
 * Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
-    > Такое я еще не читал
 
 * Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
 
-* Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup> 
 [dr.Spirit](users/108/1086398194750357-facebook)<sup>0</sup> 
 [Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>21</sup> 
 
 
-_18.07.2017 14:15:47_
+_18.07.2017 14:16:24_

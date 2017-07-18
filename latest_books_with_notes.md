@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
 * Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Стартап. Настольная книга основателя ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>107</sup>
 * Лекции по истории химии ~ [darb_el](users/184/184135339-vkontakte)<sup>1</sup>
 * Остров Сахалин ~ [olegessenin](users/390/3901448-vkontakte)<sup>13</sup>
-* Сиддхартха ~ [joan789](users/240/2401650-vkontakte)<sup>59</sup>
 
 
-_18.07.2017 14:15:47_
+_18.07.2017 14:16:24_
