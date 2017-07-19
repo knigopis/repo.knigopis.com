@@ -1,4 +1,10 @@
 {
+    "131764394088467-facebook": {
+        "id": "131764394088467-facebook",
+        "nickname": "Адриатика",
+        "booksCount": 0,
+        "updatedAt": "2017-07-19 13:55:50"
+    },
     "108201031903919910886-google": {
         "id": "108201031903919910886-google",
         "nickname": "fthtryj",
@@ -172,11 +178,5 @@
         "nickname": "ner",
         "booksCount": 0,
         "updatedAt": "2017-07-11 18:22:41"
-    },
-    "169947386-vkontakte": {
-        "id": "169947386-vkontakte",
-        "nickname": "anna-kuznecova",
-        "booksCount": 0,
-        "updatedAt": "2017-07-11 10:23:21"
     }
 }
