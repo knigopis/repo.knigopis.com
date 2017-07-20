@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[upulllka](users/128/12819059-vkontakte)<sup>0</sup> 
 [vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 [Адриатика](users/131/131764394088467-facebook)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
-[Danio](users/112/112694474287465491328-google)<sup>1</sup> 
 
 
-_20.07.2017 16:38:11_
+_20.07.2017 21:48:35_
