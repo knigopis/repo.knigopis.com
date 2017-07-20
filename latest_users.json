@@ -1,4 +1,10 @@
 {
+    "26006995-vkontakte": {
+        "id": "26006995-vkontakte",
+        "nickname": "vovan1up",
+        "booksCount": 0,
+        "updatedAt": "2017-07-20 16:38:08"
+    },
     "2272641-vkontakte": {
         "id": "2272641-vkontakte",
         "nickname": "nslebedinskaya",
@@ -172,11 +178,5 @@
         "nickname": "Danio",
         "booksCount": 1,
         "updatedAt": "2017-07-12 15:16:20"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 220,
-        "updatedAt": "2017-07-12 00:47:10"
     }
 }
