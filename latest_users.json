@@ -1,4 +1,10 @@
 {
+    "12819059-vkontakte": {
+        "id": "12819059-vkontakte",
+        "nickname": "upulllka",
+        "booksCount": 0,
+        "updatedAt": "2017-07-20 21:48:29"
+    },
     "26006995-vkontakte": {
         "id": "26006995-vkontakte",
         "nickname": "vovan1up",
@@ -172,11 +178,5 @@
         "nickname": "EuRusik",
         "booksCount": 1,
         "updatedAt": "2017-07-12 17:12:45"
-    },
-    "112694474287465491328-google": {
-        "id": "112694474287465491328-google",
-        "nickname": "Danio",
-        "booksCount": 1,
-        "updatedAt": "2017-07-12 15:16:20"
     }
 }
