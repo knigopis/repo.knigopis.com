@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
+    > Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется
+
 * Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
     > https://www.ozon.ru/context/detail/id/20880691/
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
-    > Такое я еще не читал
 
 * Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
 
-* Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 [upulllka](users/128/12819059-vkontakte)<sup>0</sup> 
 [vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>52</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EuRusik](users/178/1788922883-facebook)<sup>1</sup> 
 
 
-_20.07.2017 21:48:35_
+_21.07.2017 21:02:09_

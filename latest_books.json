@@ -1,4 +1,16 @@
 {
+    "5YPIRfsjdQ": {
+        "id": "5YPIRfsjdQ",
+        "title": "Акула пера в мире файролла 11-2",
+        "author": "Васильев Андрей",
+        "notes": "Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется",
+        "createdAt": "2017-07-21 21:02:09",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 53
+        }
+    },
     "vi5Rfv6IRX": {
         "id": "vi5Rfv6IRX",
         "title": "teyu",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 29
-        }
-    },
-    "jQ-zv2vlrz": {
-        "id": "jQ-zv2vlrz",
-        "title": "Новеллы",
-        "author": "Проспер Мериме",
-        "notes": "* Маттео Фальконе\n* Взятие редута\n* Этрусская ваза\n* Двойная ошибка",
-        "createdAt": "2017-07-16 12:27:40",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 28
         }
     }
 }

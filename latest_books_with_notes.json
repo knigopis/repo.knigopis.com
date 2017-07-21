@@ -1,4 +1,16 @@
 {
+    "5YPIRfsjdQ": {
+        "id": "5YPIRfsjdQ",
+        "title": "Акула пера в мире файролла 11-2",
+        "author": "Васильев Андрей",
+        "notes": "Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется",
+        "createdAt": "2017-07-21 21:02:09",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 53
+        }
+    },
     "hur8YOx0ci": {
         "id": "hur8YOx0ci",
         "title": "Эгоистичный ген",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 1
-        }
-    },
-    "Kgsc7MfogJ": {
-        "id": "Kgsc7MfogJ",
-        "title": "Остров Сахалин",
-        "author": "А.П.Чехов",
-        "notes": "Рассказ Чехова о его путешествии на остров. Без прикрас",
-        "createdAt": "2017-07-02 20:05:07",
-        "user": {
-            "id": "3901448-vkontakte",
-            "nickname": "olegessenin",
-            "booksCount": 13
         }
     }
 }
