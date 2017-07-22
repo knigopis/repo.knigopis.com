@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kombik](users/102/102787511566083215895-google)<sup>0</sup> 
+[kombik](users/102/102787511566083215895-google)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup> 
 [helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 
 
-_22.07.2017 12:22:04_
+_22.07.2017 12:24:41_
