@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
+    > "Окружающая среда: то во что превращается природа, если ее не охранять"
+
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
     > Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
-    > https://www.ozon.ru/context/detail/id/6586612/
-    > 
-    > в процессе
 
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
 
-* Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup> 
 [helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 [upulllka](users/128/12819059-vkontakte)<sup>0</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
 [ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
-[darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 
 
-_22.07.2017 09:04:00_
+_22.07.2017 11:22:32_
