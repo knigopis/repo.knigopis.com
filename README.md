@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[helena102008](users/274/27453111-vkontakte)<sup>0</sup> 
+[helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 [upulllka](users/128/12819059-vkontakte)<sup>0</sup> 
 [vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darijj](users/308/30890874-vkontakte)<sup>0</sup> 
 
 
-_22.07.2017 09:03:08_
+_22.07.2017 09:04:00_
