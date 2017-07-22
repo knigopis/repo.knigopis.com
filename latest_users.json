@@ -1,4 +1,10 @@
 {
+    "102787511566083215895-google": {
+        "id": "102787511566083215895-google",
+        "nickname": "kombik",
+        "booksCount": 0,
+        "updatedAt": "2017-07-22 12:22:01"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Derek777",
         "booksCount": 35,
         "updatedAt": "2017-07-13 13:26:03"
-    },
-    "278300225-yandex": {
-        "id": "278300225-yandex",
-        "nickname": "ludus-stu",
-        "booksCount": 0,
-        "updatedAt": "2017-07-13 09:52:58"
     }
 }
