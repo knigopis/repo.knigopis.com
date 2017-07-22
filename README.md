@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kombik](users/102/102787511566083215895-google)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup> 
 [helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 [Derek777](users/153/15386028-yandex)<sup>35</sup> 
-[ludus-stu](users/278/278300225-yandex)<sup>0</sup> 
 
 
-_22.07.2017 11:22:32_
+_22.07.2017 12:22:04_
