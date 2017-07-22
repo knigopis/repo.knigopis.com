@@ -1,4 +1,10 @@
 {
+    "27453111-vkontakte": {
+        "id": "27453111-vkontakte",
+        "nickname": "helena102008",
+        "booksCount": 0,
+        "updatedAt": "2017-07-22 09:03:04"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "darijj",
         "booksCount": 0,
         "updatedAt": "2017-07-13 09:30:12"
-    },
-    "1788922883-facebook": {
-        "id": "1788922883-facebook",
-        "nickname": "EuRusik",
-        "booksCount": 1,
-        "updatedAt": "2017-07-12 17:12:45"
     }
 }
