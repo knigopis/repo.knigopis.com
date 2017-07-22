@@ -1,4 +1,10 @@
 {
+    "1467491296661560-facebook": {
+        "id": "1467491296661560-facebook",
+        "nickname": "vladismile",
+        "booksCount": 0,
+        "updatedAt": "2017-07-22 13:38:10"
+    },
     "102787511566083215895-google": {
         "id": "102787511566083215895-google",
         "nickname": "kombik",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 39,
         "updatedAt": "2017-07-13 23:20:23"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 35,
-        "updatedAt": "2017-07-13 13:26:03"
     }
 }
