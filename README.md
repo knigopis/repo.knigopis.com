@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
 [kombik](users/102/102787511566083215895-google)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Shelkovica](users/138/13839913-vkontakte)<sup>0</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>39</sup> 
 
 
-_22.07.2017 13:38:13_
+_22.07.2017 15:22:12_
