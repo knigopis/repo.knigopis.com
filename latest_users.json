@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 30,
+        "updatedAt": "2017-07-23 16:49:17"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Yoite Hikaru",
         "booksCount": 0,
         "updatedAt": "2017-07-15 22:30:11"
-    },
-    "106767072785183342762-google": {
-        "id": "106767072785183342762-google",
-        "nickname": "Mr.Rabbit",
-        "booksCount": 0,
-        "updatedAt": "2017-07-15 16:03:13"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "oXcuwlejvS": {
+        "id": "oXcuwlejvS",
+        "title": "Мрачный Жнец",
+        "author": "Терри Пратчетт",
+        "notes": "Время... Смерть... Слишком много о чём можно подумать после её прочтения",
+        "createdAt": "2017-07-23 16:49:17",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 30
+        }
+    },
     "zvue16UM6o": {
         "id": "zvue16UM6o",
         "title": "Дина: Чудесный дар",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 84
-        }
-    },
-    "PkaEs05jy5": {
-        "id": "PkaEs05jy5",
-        "title": "Повести Белкина - Пушкин Александр",
-        "author": "",
-        "notes": "Выстрел\nМетель\nГробовщик\nСтанционный смотритель\nБарышня-крестьянка",
-        "createdAt": "2017-07-07 12:55:41",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 83
         }
     }
 }

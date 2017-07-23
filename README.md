@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
+    > Время... Смерть... Слишком много о чём можно подумать после её прочтения
+
 * Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
     > Книга 1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 1
 
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
-    > "Окружающая среда: то во что превращается природа, если ее не охранять"
 
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Посох и шляпа ((цикл Волшебники и герои, часть 3) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup>
 
-* Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>30</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
-[Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 
 
-_23.07.2017 16:43:50_
+_23.07.2017 16:49:18_
