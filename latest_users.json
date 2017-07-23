@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 121,
+        "updatedAt": "2017-07-23 16:42:39"
+    },
     "1894386844216473-facebook": {
         "id": "1894386844216473-facebook",
         "nickname": "instingt",
@@ -172,11 +178,5 @@
         "nickname": "Mr.Rabbit",
         "booksCount": 0,
         "updatedAt": "2017-07-15 16:03:13"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 55,
-        "updatedAt": "2017-07-15 11:46:28"
     }
 }

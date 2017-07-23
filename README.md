@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
+    > Книга 1
+
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
     > "Окружающая среда: то во что превращается природа, если ее не охранять"
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется
 
 * Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
-    > https://www.ozon.ru/context/detail/id/20880691/
-    > 
-    > в процессе
 
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
 
-* Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 [Yoite Hikaru](users/237/237559775-vkontakte)<sup>0</sup> 
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
-[rNix](users/115/115622071-twitter)<sup>55</sup> 
 
 
-_22.07.2017 19:38:03_
+_23.07.2017 16:42:39_
