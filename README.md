@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Dmitry](users/192/192081491-vkontakte)<sup>0</sup> 
+[Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 
 
-_23.07.2017 18:01:35_
+_23.07.2017 18:02:19_
