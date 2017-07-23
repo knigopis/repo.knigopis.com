@@ -1,4 +1,16 @@
 {
+    "BC8y-eX4Px": {
+        "id": "BC8y-eX4Px",
+        "title": "Хюгге",
+        "author": "Тетка",
+        "notes": "круто",
+        "createdAt": "2017-07-23 21:13:56",
+        "user": {
+            "id": "6366057056655415957-mailru",
+            "nickname": "Ирина",
+            "booksCount": 1
+        }
+    },
     "fhAtiXSVkZ": {
         "id": "fhAtiXSVkZ",
         "title": "Диалектика мифа",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 36
-        }
-    },
-    "TYnO1k_YnN": {
-        "id": "TYnO1k_YnN",
-        "title": "Мир Спока",
-        "author": "Диана Дуэйн",
-        "notes": "",
-        "createdAt": "2017-07-16 12:36:38",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 35
         }
     }
 }
