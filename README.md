@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
+    > Книга 1
+
 * Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
     > Книга 1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > "Окружающая среда: то во что превращается природа, если ее не охранять"
 
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
-    > Шелестова, Вилисы, Мак-пратты, Странник, бобер шурх, барон Самади и компания... Все движется к развязке, но что-то очень долго движется
 
 * Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
 
-* Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 
 
-_23.07.2017 16:43:18_
+_23.07.2017 16:43:50_

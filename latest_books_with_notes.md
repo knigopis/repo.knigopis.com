@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 * Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
 * Пиковая дама - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>84</sup>
 * Повести Белкина - Пушкин Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>83</sup>
-* По Уссурийскому краю. Дерсу Узала ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>108</sup>
 
 
-_23.07.2017 16:42:39_
+_23.07.2017 16:43:50_
