@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ирина](users/636/6366057056655415957-mailru)<sup>0</sup> 
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>262</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 [techlove](users/118/118223498137459516526-google)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>45</sup> 
 
 
-_23.07.2017 18:02:19_
+_23.07.2017 21:13:12_
