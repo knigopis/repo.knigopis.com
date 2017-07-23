@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>120</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mr.Rabbit](users/106/106767072785183342762-google)<sup>0</sup> 
 
 
-_23.07.2017 16:42:39_
+_23.07.2017 16:43:18_
