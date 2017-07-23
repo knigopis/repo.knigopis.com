@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>121</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>120</sup>
 ---
 
 ## 2017
@@ -211,11 +211,6 @@
 
 ### Возвращение со звезд
 Станислав Лем
-
-
-### Дина: Чудесный дар
-Лине Кобербёль
-> Книга 1
 
 
 ### Хлорофилия
