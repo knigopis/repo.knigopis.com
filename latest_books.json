@@ -1,4 +1,16 @@
 {
+    "xj0dp27fw7": {
+        "id": "xj0dp27fw7",
+        "title": "В начале была командная строка - Стивенсон Нил",
+        "author": "",
+        "notes": "In the Beginning... was the Command Line",
+        "createdAt": "2017-07-24 02:52:57",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 88
+        }
+    },
     "BC8y-eX4Px": {
         "id": "BC8y-eX4Px",
         "title": "Хюгге",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 37
-        }
-    },
-    "_IMg6gL8Ge": {
-        "id": "_IMg6gL8Ge",
-        "title": "Я не Спок",
-        "author": "Леонард Нимой",
-        "notes": "",
-        "createdAt": "2017-07-16 12:37:32",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 36
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "xj0dp27fw7": {
+        "id": "xj0dp27fw7",
+        "title": "В начале была командная строка - Стивенсон Нил",
+        "author": "",
+        "notes": "In the Beginning... was the Command Line",
+        "createdAt": "2017-07-24 02:52:57",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 88
+        }
+    },
     "oXcuwlejvS": {
         "id": "oXcuwlejvS",
         "title": "Мрачный Жнец",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 85
-        }
-    },
-    "hl-NSGnm4w": {
-        "id": "hl-NSGnm4w",
-        "title": "Пиковая дама - Пушкин Александр",
-        "author": "\"Тройка, семёрка, туз...\", что тут ещё можно добавить.",
-        "notes": "Есть преступления хуже, чем сжигать книги. Например – не читать их. © Рэй Брэдбери",
-        "createdAt": "2017-07-07 13:04:42",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 84
         }
     }
 }
