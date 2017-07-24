@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ODINSY](users/100/100978570902186865324-google)<sup>53</sup> 
+[ODINSY](users/100/100978570902186865324-google)<sup>54</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup> 
 [Ирина](users/636/6366057056655415957-mailru)<sup>1</sup> 
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Astro](users/282/282662025-vkontakte)<sup>42</sup> 
 
 
-_24.07.2017 12:19:02_
+_24.07.2017 12:22:10_
