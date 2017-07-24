@@ -5,7 +5,7 @@
 
 ### Эгоистичный ген
 Ричард Докинз
-> [2017-07-18] https://www.ozon.ru/context/detail/id/20880691/
+> [2017-07-25] https://www.ozon.ru/context/detail/id/20880691/
 > 
 > в процессе
 
