@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 52,
+        "updatedAt": "2017-07-24 12:17:40"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Astro",
         "booksCount": 42,
         "updatedAt": "2017-07-16 12:49:27"
-    },
-    "118223498137459516526-google": {
-        "id": "118223498137459516526-google",
-        "nickname": "techlove",
-        "booksCount": 0,
-        "updatedAt": "2017-07-16 12:30:37"
     }
 }
