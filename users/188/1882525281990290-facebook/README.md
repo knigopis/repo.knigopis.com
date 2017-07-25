@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>28</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>29</sup>
 ---
 
 ## 2017
+
+### Маленький принц
+Экзюпери
+> [2017-07-26] 
+
 
 ### Зарянка и роза
 Оскар Уайльд
