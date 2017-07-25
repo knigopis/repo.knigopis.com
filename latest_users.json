@@ -1,4 +1,10 @@
 {
+    "1431088546976250-facebook": {
+        "id": "1431088546976250-facebook",
+        "nickname": "irina sarafova",
+        "booksCount": 0,
+        "updatedAt": "2017-07-25 06:52:13"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 262,
         "updatedAt": "2017-07-16 12:56:38"
-    },
-    "282662025-vkontakte": {
-        "id": "282662025-vkontakte",
-        "nickname": "Astro",
-        "booksCount": 42,
-        "updatedAt": "2017-07-16 12:49:27"
     }
 }
