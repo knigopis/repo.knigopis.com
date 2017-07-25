@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лорд Пудинг](users/112/112214463787387089052-google)<sup>0</sup> 
 [irina sarafova](users/143/1431088546976250-facebook)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>54</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [izhgerben](users/632/63218301-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>548</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>7</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>262</sup> 
 
 
-_25.07.2017 06:53:48_
+_25.07.2017 09:55:26_
