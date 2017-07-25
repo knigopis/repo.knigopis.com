@@ -1,4 +1,10 @@
 {
+    "112214463787387089052-google": {
+        "id": "112214463787387089052-google",
+        "nickname": "Лорд Пудинг",
+        "booksCount": 0,
+        "updatedAt": "2017-07-25 09:55:24"
+    },
     "1431088546976250-facebook": {
         "id": "1431088546976250-facebook",
         "nickname": "irina sarafova",
@@ -172,11 +178,5 @@
         "nickname": "SMedgaus",
         "booksCount": 7,
         "updatedAt": "2017-07-16 12:56:43"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 262,
-        "updatedAt": "2017-07-16 12:56:38"
     }
 }
