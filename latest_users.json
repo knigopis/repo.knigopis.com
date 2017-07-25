@@ -1,4 +1,10 @@
 {
+    "3114181641539446926-mailru": {
+        "id": "3114181641539446926-mailru",
+        "nickname": "***Тамара***",
+        "booksCount": 0,
+        "updatedAt": "2017-07-25 12:10:02"
+    },
     "112214463787387089052-google": {
         "id": "112214463787387089052-google",
         "nickname": "Лорд Пудинг",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 548,
         "updatedAt": "2017-07-16 13:04:22"
-    },
-    "162444669-vkontakte": {
-        "id": "162444669-vkontakte",
-        "nickname": "SMedgaus",
-        "booksCount": 7,
-        "updatedAt": "2017-07-16 12:56:43"
     }
 }
