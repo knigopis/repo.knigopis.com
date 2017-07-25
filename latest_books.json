@@ -1,4 +1,16 @@
 {
+    "DflbC2KPNE": {
+        "id": "DflbC2KPNE",
+        "title": "Учитель",
+        "author": "Шарлотта Бронтэ",
+        "notes": "",
+        "createdAt": "2017-07-25 12:18:05",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 3
+        }
+    },
     "8grlKO3T79": {
         "id": "8grlKO3T79",
         "title": "Таня Гроттер и магический контрабас",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 41
-        }
-    },
-    "V90XC8BOeM": {
-        "id": "V90XC8BOeM",
-        "title": "Властелин колец. Дружество кольца",
-        "author": "Дж. Р. Р. Толкин",
-        "notes": "",
-        "createdAt": "2017-07-16 12:44:07",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 40
         }
     }
 }
