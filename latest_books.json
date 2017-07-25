@@ -1,4 +1,16 @@
 {
+    "AGqx3zsTOG": {
+        "id": "AGqx3zsTOG",
+        "title": "Принеси мне голову Прекрасного принца",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-07-25 12:18:40",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 4
+        }
+    },
     "DflbC2KPNE": {
         "id": "DflbC2KPNE",
         "title": "Учитель",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 42
-        }
-    },
-    "j1DfkLyzg_": {
-        "id": "j1DfkLyzg_",
-        "title": "Star Trek. Смертельный отсчет",
-        "author": "Л. А. Граф",
-        "notes": "Отличная новелла по Звездному пути. История сосредоточена на Сулу, Чехове и Ухуре.",
-        "createdAt": "2017-07-16 12:46:02",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 41
         }
     }
 }
