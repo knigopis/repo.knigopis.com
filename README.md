@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>4</sup> 
 [***Тамара***](users/311/3114181641539446926-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
 [Псевдоним](users/100/100409161-yandex)<sup>2</sup> 
-[izhgerben](users/632/63218301-vkontakte)<sup>0</sup> 
 
 
-_25.07.2017 23:39:01_
+_26.07.2017 05:33:02_
