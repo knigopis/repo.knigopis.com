@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>22</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>23</sup>
 ---
 
 ## 2017
+
+### Русские мамонты
+Дивов Олег
+> [2017-07-25] 
+
 
 ### Абсолютные миротворцы
 Дивов Олег
