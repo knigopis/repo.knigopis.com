@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 62,
+        "updatedAt": "2017-07-26 11:34:20"
+    },
     "556889019-twitter": {
         "id": "556889019-twitter",
         "nickname": "ohsubbotina",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 26,
         "updatedAt": "2017-07-17 10:12:54"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 61,
-        "updatedAt": "2017-07-17 09:49:44"
     }
 }

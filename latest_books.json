@@ -1,4 +1,16 @@
 {
+    "mBTbWzB18q": {
+        "id": "mBTbWzB18q",
+        "title": "Из жертвы обстоятельств в свободную личность",
+        "author": "Екатерина Гончарук",
+        "notes": "",
+        "createdAt": "2017-07-26 11:34:20",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 62
+        }
+    },
     "lg_dl60idO": {
         "id": "lg_dl60idO",
         "title": "Русские мамонты",
@@ -345,18 +357,6 @@
             "id": "100409161-yandex",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "FvH-7fPclr": {
-        "id": "FvH-7fPclr",
-        "title": "Стамбул. Город воспоминаний",
-        "author": "Памук Орхан",
-        "notes": "",
-        "createdAt": "2017-07-16 13:04:22",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 548
         }
     }
 }
