@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ohsubbotina](users/556/556889019-twitter)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>23</sup> 
 [Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mira R](users/103/103293621948650602575-google)<sup>79</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
 
 
-_26.07.2017 05:47:08_
+_26.07.2017 10:47:58_
