@@ -1,4 +1,16 @@
 {
+    "XgaTzRHbfL": {
+        "id": "XgaTzRHbfL",
+        "title": "Абсолютные миротворцы",
+        "author": "Дивов Олег",
+        "notes": "Обожаю Дивова!!!!",
+        "createdAt": "2017-07-26 05:46:38",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 22
+        }
+    },
     "xj0dp27fw7": {
         "id": "xj0dp27fw7",
         "title": "В начале была командная строка - Стивенсон Нил",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 86
-        }
-    },
-    "uJjyVbKN3l": {
-        "id": "uJjyVbKN3l",
-        "title": "Увидеть невидимку - Силверберг Роберт",
-        "author": "Интересная мысль...А что, а вдруг?",
-        "notes": "Случается, что наказание влечет за собой преступление. © Станислав Ежи Лец",
-        "createdAt": "2017-07-07 13:19:29",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 85
         }
     }
 }

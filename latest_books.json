@@ -1,4 +1,16 @@
 {
+    "XgaTzRHbfL": {
+        "id": "XgaTzRHbfL",
+        "title": "Абсолютные миротворцы",
+        "author": "Дивов Олег",
+        "notes": "Обожаю Дивова!!!!",
+        "createdAt": "2017-07-26 05:46:38",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 22
+        }
+    },
     "fnMXFWlh1z": {
         "id": "fnMXFWlh1z",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 7
-        }
-    },
-    "wIQ06wFMOd": {
-        "id": "wIQ06wFMOd",
-        "title": "Кодекс состоятельных. Живи как 1% в Мире",
-        "author": "Пол Салливан",
-        "notes": "",
-        "createdAt": "2017-07-16 12:56:38",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 262
         }
     }
 }

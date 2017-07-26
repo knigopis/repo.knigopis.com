@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
 * Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
 * Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
@@ -30,7 +31,6 @@
 * Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
 * Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
 * Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
-* Увидеть невидимку - Силверберг Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>85</sup>
 
 
-_24.07.2017 02:52:57_
+_26.07.2017 05:46:38_

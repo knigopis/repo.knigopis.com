@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>21</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>22</sup>
 ---
 
 ## 2017
+
+### Абсолютные миротворцы
+Дивов Олег
+> [2017-07] Обожаю Дивова!!!!
+
 
 ### Альтист Данилов
 Орлов Владимир

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
+    > Обожаю Дивова!!!!
+
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
     > In the Beginning... was the Command Line
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Время... Смерть... Слишком много о чём можно подумать после её прочтения
 
 * Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
-    > Книга 1
 
 * Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
 
-* Мы ~ [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>22</sup> 
 [Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>26</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>61</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>31</sup> 
-[Псевдоним](users/100/100409161-yandex)<sup>2</sup> 
 
 
-_26.07.2017 05:33:02_
+_26.07.2017 05:46:38_
