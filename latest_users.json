@@ -1,4 +1,10 @@
 {
+    "556889019-twitter": {
+        "id": "556889019-twitter",
+        "nickname": "ohsubbotina",
+        "booksCount": 0,
+        "updatedAt": "2017-07-26 10:47:55"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "develchip",
         "booksCount": 61,
         "updatedAt": "2017-07-17 09:49:44"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 31,
-        "updatedAt": "2017-07-16 22:03:56"
     }
 }
