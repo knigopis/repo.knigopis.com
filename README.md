@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смертельный холод ~ [Sky](users/118/118049897850017649660-google)<sup>19</sup>
+    > (Старший инспектор Гамаш 2)
+
 * Самый жестокий месяц ~ [Sky](users/118/118049897850017649660-google)<sup>18</sup>
     > (Старший инспектор Гамаш 3)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 4)
 
 * Жестокие слова ~ [Sky](users/118/118049897850017649660-google)<sup>15</sup>
-    > (Старший инспектор Гамаш 5)
 
 * Здесь мертвецы под сводом спят ~ [Sky](users/118/118049897850017649660-google)<sup>14</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 
-* Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>19</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>18</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 09:37:29_
+_27.07.2017 09:37:44_

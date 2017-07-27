@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>18</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>19</sup>
 ---
 
 ## 2017
@@ -96,6 +96,11 @@
 ### Самый жестокий месяц
 Луиза Пенни
 > [2017-04-25] (Старший инспектор Гамаш 3)
+
+
+### Смертельный холод
+Луиза Пенни
+> [2017-04-24] (Старший инспектор Гамаш 2)
 
 
 
