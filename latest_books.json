@@ -1,4 +1,16 @@
 {
+    "57GIenjO_2": {
+        "id": "57GIenjO_2",
+        "title": "Маленькая хозяйка большого дома",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-07-27 06:30:41",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 27
+        }
+    },
     "x2jgZ3-oAn": {
         "id": "x2jgZ3-oAn",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 31
-        }
-    },
-    "5ifU5VqOoF": {
-        "id": "5ifU5VqOoF",
-        "title": "ыва",
-        "author": "ыва",
-        "notes": "ыва",
-        "createdAt": "2017-07-16 21:57:43",
-        "user": {
-            "id": "100409161-yandex",
-            "nickname": "Псевдоним",
-            "booksCount": 2
         }
     }
 }

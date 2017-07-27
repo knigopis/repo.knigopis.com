@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>26</sup>
+# List of books read by inna.besprozvannykh<sup>27</sup>
 ---
 
 ## 2017
+
+### Маленькая хозяйка большого дома
+Джек Лондон
+> [2017-07-15] 
+
 
 ### Инферно
 Дэн Браун
