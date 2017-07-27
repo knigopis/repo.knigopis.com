@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
 [Hikari](users/192/192185074-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>62</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Адриатика](users/131/131764394088467-facebook)<sup>0</sup> 
 [fthtryj](users/108/108201031903919910886-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup> 
-[dr.Spirit](users/108/1086398194750357-facebook)<sup>0</sup> 
 
 
-_26.07.2017 20:09:48_
+_27.07.2017 05:12:23_
