@@ -1,4 +1,16 @@
 {
+    "HO4awE6A2p": {
+        "id": "HO4awE6A2p",
+        "title": "Дворец ветров",
+        "author": "Мэри Маргарет Кей",
+        "notes": "",
+        "createdAt": "2017-07-27 09:37:29",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 105
+        }
+    },
     "smh1xRCfaV": {
         "id": "smh1xRCfaV",
         "title": "Самый жестокий месяц",
@@ -345,18 +357,6 @@
             "id": "108201031903919910886-google",
             "nickname": "fthtryj",
             "booksCount": 1
-        }
-    },
-    "hur8YOx0ci": {
-        "id": "hur8YOx0ci",
-        "title": "Эгоистичный ген",
-        "author": "Ричард Докинз",
-        "notes": "https://www.ozon.ru/context/detail/id/20880691/\n\nв процессе",
-        "createdAt": "2017-07-18 14:16:24",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 110
         }
     }
 }
