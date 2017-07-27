@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 26,
+        "updatedAt": "2017-07-27 06:13:13"
+    },
     "103869594497189251620-google": {
         "id": "103869594497189251620-google",
         "nickname": "forgame904",
@@ -172,11 +178,5 @@
         "nickname": "fthtryj",
         "booksCount": 0,
         "updatedAt": "2017-07-18 14:17:27"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 110,
-        "updatedAt": "2017-07-18 14:16:24"
     }
 }

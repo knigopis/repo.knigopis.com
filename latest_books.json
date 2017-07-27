@@ -1,4 +1,16 @@
 {
+    "x2jgZ3-oAn": {
+        "id": "x2jgZ3-oAn",
+        "title": "Инферно",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-07-27 06:13:13",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 26
+        }
+    },
     "jgoEy0XYti": {
         "id": "jgoEy0XYti",
         "title": "Русские на Мариенплац",
@@ -345,18 +357,6 @@
             "id": "100409161-yandex",
             "nickname": "Псевдоним",
             "booksCount": 2
-        }
-    },
-    "ihChzUk6zZ": {
-        "id": "ihChzUk6zZ",
-        "title": "Зарянка и роза",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-07-16 20:56:10",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 28
         }
     }
 }
