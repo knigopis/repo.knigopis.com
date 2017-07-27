@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убик ~ [Sky](users/118/118049897850017649660-google)<sup>21</sup>
+    > Небо и земля по сравнению с Электроовцами, отлично проработанный сюжет.
+
 * Убийственно тихая жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>20</sup>
     > (Старший инспектор Гамаш 1)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 2)
 
 * Самый жестокий месяц ~ [Sky](users/118/118049897850017649660-google)<sup>18</sup>
-    > (Старший инспектор Гамаш 3)
 
 * Каменный убийца ~ [Sky](users/118/118049897850017649660-google)<sup>17</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
 
-* Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>20</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>21</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 09:38:20_
+_27.07.2017 09:41:47_

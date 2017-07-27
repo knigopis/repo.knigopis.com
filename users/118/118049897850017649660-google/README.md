@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>20</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>21</sup>
 ---
 
 ## 2017
@@ -105,6 +105,11 @@
 
 ### Убийственно тихая жизнь
 > [2017-04-21] (Старший инспектор Гамаш 1)
+
+
+### Убик
+Филип Дик
+> [2017-04-06] Небо и земля по сравнению с Электроовцами, отлично проработанный сюжет.
 
 
 

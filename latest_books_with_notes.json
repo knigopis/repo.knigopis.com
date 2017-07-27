@@ -1,4 +1,16 @@
 {
+    "4Br31lGagf": {
+        "id": "4Br31lGagf",
+        "title": "Убик",
+        "author": "Филип Дик",
+        "notes": "Небо и земля по сравнению с Электроовцами, отлично проработанный сюжет.",
+        "createdAt": "2017-07-27 09:41:47",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 21
+        }
+    },
     "KtKC0NzY4Q": {
         "id": "KtKC0NzY4Q",
         "title": "Убийственно тихая жизнь",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 49
-        }
-    },
-    "KVwtErF9PU": {
-        "id": "KVwtErF9PU",
-        "title": "Альтист Данилов",
-        "author": "Орлов Владимир",
-        "notes": "Чем то напоминает Мастера и Маргариту, но меньше понравилось",
-        "createdAt": "2017-07-10 19:42:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 21
         }
     }
 }
