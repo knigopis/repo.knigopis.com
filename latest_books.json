@@ -1,4 +1,16 @@
 {
+    "yDyrR0Fb8Q": {
+        "id": "yDyrR0Fb8Q",
+        "title": "Корона пастуха",
+        "author": "Терри Пратчетт",
+        "notes": "(Тиффани Болит 5)",
+        "createdAt": "2017-07-27 09:54:34",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 27
+        }
+    },
     "nk4ne_ZujO": {
         "id": "nk4ne_ZujO",
         "title": "Я надену полночь",
@@ -344,18 +356,6 @@
         "user": {
             "id": "6366057056655415957-mailru",
             "nickname": "Ирина",
-            "booksCount": 1
-        }
-    },
-    "fhAtiXSVkZ": {
-        "id": "fhAtiXSVkZ",
-        "title": "Диалектика мифа",
-        "author": "Лосев Алексей",
-        "notes": "",
-        "createdAt": "2017-07-23 18:02:19",
-        "user": {
-            "id": "192081491-vkontakte",
-            "nickname": "Dmitry",
             "booksCount": 1
         }
     }
