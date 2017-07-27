@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Clémence](users/215/215227771-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>35</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 [upulllka](users/128/12819059-vkontakte)<sup>0</sup> 
-[vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 19:49:25_
+_27.07.2017 20:58:33_
