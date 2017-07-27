@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>19</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>20</sup>
 ---
 
 ## 2017
@@ -101,6 +101,10 @@
 ### Смертельный холод
 Луиза Пенни
 > [2017-04-24] (Старший инспектор Гамаш 2)
+
+
+### Убийственно тихая жизнь
+> [2017-04-21] (Старший инспектор Гамаш 1)
 
 
 
