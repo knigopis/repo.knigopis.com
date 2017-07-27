@@ -1,4 +1,16 @@
 {
+    "fnM9Dkh7Ud": {
+        "id": "fnM9Dkh7Ud",
+        "title": "Леди Сьюзен",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-07-27 09:57:04",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 28
+        }
+    },
     "yDyrR0Fb8Q": {
         "id": "yDyrR0Fb8Q",
         "title": "Корона пастуха",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 88
-        }
-    },
-    "BC8y-eX4Px": {
-        "id": "BC8y-eX4Px",
-        "title": "Хюгге",
-        "author": "Тетка",
-        "notes": "круто",
-        "createdAt": "2017-07-23 21:13:56",
-        "user": {
-            "id": "6366057056655415957-mailru",
-            "nickname": "Ирина",
-            "booksCount": 1
         }
     }
 }
