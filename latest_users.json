@@ -1,4 +1,10 @@
 {
+    "103869594497189251620-google": {
+        "id": "103869594497189251620-google",
+        "nickname": "forgame904",
+        "booksCount": 0,
+        "updatedAt": "2017-07-27 05:12:17"
+    },
     "1335076-vkontakte": {
         "id": "1335076-vkontakte",
         "nickname": "silin_mihail",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 110,
         "updatedAt": "2017-07-18 14:16:24"
-    },
-    "1086398194750357-facebook": {
-        "id": "1086398194750357-facebook",
-        "nickname": "dr.Spirit",
-        "booksCount": 0,
-        "updatedAt": "2017-07-18 06:16:58"
     }
 }
