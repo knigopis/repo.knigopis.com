@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
+    > (Тиффани Болит 4)
+
 * Зимних дел мастер ~ [Sky](users/118/118049897850017649660-google)<sup>25</sup>
     > (Тиффани Болит 3)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > (Тиффани Болит 2)
 
 * Маленький свободный народец ~ [Sky](users/118/118049897850017649660-google)<sup>23</sup>
-    > (Тиффани Болит 1)
 
 * Мечтают ли андроиды об электроовцах? ~ [Sky](users/118/118049897850017649660-google)<sup>22</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Каменный убийца ~ [Sky](users/118/118049897850017649660-google)<sup>17</sup>
 
-* Жестокие слова ~ [Sky](users/118/118049897850017649660-google)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>25</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>26</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 09:53:19_
+_27.07.2017 09:53:58_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
 * Зимних дел мастер ~ [Sky](users/118/118049897850017649660-google)<sup>25</sup>
 * Шляпа, полная неба ~ [Sky](users/118/118049897850017649660-google)<sup>24</sup>
 * Маленький свободный народец ~ [Sky](users/118/118049897850017649660-google)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
 * Гарри Поттер и Орден Феникса (аудиокнига) ~ [rNix](users/115/115622071-twitter)<sup>54</sup>
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
-* State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 
 
-_27.07.2017 09:53:19_
+_27.07.2017 09:53:58_
