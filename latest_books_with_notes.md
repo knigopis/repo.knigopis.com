@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шляпа, полная неба ~ [Sky](users/118/118049897850017649660-google)<sup>24</sup>
 * Маленький свободный народец ~ [Sky](users/118/118049897850017649660-google)<sup>23</sup>
 * Мечтают ли андроиды об электроовцах? ~ [Sky](users/118/118049897850017649660-google)<sup>22</sup>
 * Убик ~ [Sky](users/118/118049897850017649660-google)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Grit: The Power of Passion and Perseverance ~ [exulted](users/100/100599204551896265722-google)<sup>42</sup>
 * State of Fear ~ [exulted](users/100/100599204551896265722-google)<sup>41</sup>
 * Немного мира тьмы ~ [Derek777](users/153/15386028-yandex)<sup>35</sup>
-* Зелёное тысячилетие ~ [Derek777](users/153/15386028-yandex)<sup>34</sup>
 
 
-_27.07.2017 09:52:03_
+_27.07.2017 09:52:39_
