@@ -1,4 +1,16 @@
 {
+    "48XAgW8CIG": {
+        "id": "48XAgW8CIG",
+        "title": "Маяк на омаровых рифах",
+        "author": "Джеймс Крюс",
+        "notes": "",
+        "createdAt": "2017-07-27 10:00:30",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 30
+        }
+    },
     "fqxF9XMlH1": {
         "id": "fqxF9XMlH1",
         "title": "Нортенгерское аббатство",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 54
-        }
-    },
-    "ZKkg86Z5eX": {
-        "id": "ZKkg86Z5eX",
-        "title": "",
-        "author": "Владимир Медведев",
-        "notes": "",
-        "createdAt": "2017-07-24 12:19:02",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 53
         }
     }
 }
