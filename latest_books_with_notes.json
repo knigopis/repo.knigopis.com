@@ -1,4 +1,16 @@
 {
+    "njCxKrXoSh": {
+        "id": "njCxKrXoSh",
+        "title": "Маленький свободный народец",
+        "author": "Терри Пратчетт",
+        "notes": "(Тиффани Болит 1)",
+        "createdAt": "2017-07-27 09:52:03",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 23
+        }
+    },
     "6fmrHanHoX": {
         "id": "6fmrHanHoX",
         "title": "Мечтают ли андроиды об электроовцах?",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 34
-        }
-    },
-    "Re6wCr98D4": {
-        "id": "Re6wCr98D4",
-        "title": "Одинокий Демон 1-4",
-        "author": "Андрей Кощиенко",
-        "notes": "Прочитано запоем, демон, варги, оборотень в эльфку... Продолжение следует, ожидаем",
-        "createdAt": "2017-07-10 20:04:12",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 50
         }
     }
 }
