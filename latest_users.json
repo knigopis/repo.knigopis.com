@@ -1,4 +1,10 @@
 {
+    "215227771-vkontakte": {
+        "id": "215227771-vkontakte",
+        "nickname": "Clémence",
+        "booksCount": 0,
+        "updatedAt": "2017-07-27 20:58:31"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "upulllka",
         "booksCount": 0,
         "updatedAt": "2017-07-20 21:48:29"
-    },
-    "26006995-vkontakte": {
-        "id": "26006995-vkontakte",
-        "nickname": "vovan1up",
-        "booksCount": 0,
-        "updatedAt": "2017-07-20 16:38:08"
     }
 }
