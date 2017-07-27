@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>15</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>16</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Адриатика](users/131/131764394088467-facebook)<sup>0</sup> 
 
 
-_27.07.2017 09:29:56_
+_27.07.2017 09:35:31_

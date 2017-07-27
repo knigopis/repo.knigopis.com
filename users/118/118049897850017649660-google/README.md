@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>15</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>16</sup>
 ---
 
 ## 2017
@@ -81,6 +81,11 @@
 ### Жестокие слова
 Луиза Пенни
 > [2017-05-17] (Старший инспектор Гамаш 5)
+
+
+### Гарри Поттер и методы рационального мышления (1)
+Элиезер Юдковский
+> [2017-05-03] 
 
 
 

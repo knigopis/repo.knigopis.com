@@ -1,4 +1,16 @@
 {
+    "bkDv57-taB": {
+        "id": "bkDv57-taB",
+        "title": "Гарри Поттер и методы рационального мышления (1)",
+        "author": "Элиезер Юдковский",
+        "notes": "",
+        "createdAt": "2017-07-27 09:35:31",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 16
+        }
+    },
     "J2ASGDlI_7": {
         "id": "J2ASGDlI_7",
         "title": "Жестокие слова",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Mira R",
             "booksCount": 79
-        }
-    },
-    "CQUnXbVwQI": {
-        "id": "CQUnXbVwQI",
-        "title": "Замок",
-        "author": "Франц Кафка",
-        "notes": "Такое я еще не читал",
-        "createdAt": "2017-07-17 10:12:48",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 27
         }
     }
 }
