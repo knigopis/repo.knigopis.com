@@ -1,4 +1,16 @@
 {
+    "kofuFrzJX3": {
+        "id": "kofuFrzJX3",
+        "title": "Вафельное сердце",
+        "author": "Мария Парр",
+        "notes": "Типичный (в хорошем смысле) представитель скандинавской детской литературы - душевно, весело и немножко волшебно.",
+        "createdAt": "2017-07-27 10:03:57",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 31
+        }
+    },
     "48XAgW8CIG": {
         "id": "48XAgW8CIG",
         "title": "Маяк на омаровых рифах",
@@ -345,18 +357,6 @@
             "id": "1431088546976250-facebook",
             "nickname": "irina sarafova",
             "booksCount": 1
-        }
-    },
-    "JNcaBzxFbQ": {
-        "id": "JNcaBzxFbQ",
-        "title": "Администрирование PostgreSQL 9. Книга рецептов",
-        "author": "Саймон Ригс, Ханну Кросинг",
-        "notes": "",
-        "createdAt": "2017-07-24 12:22:10",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 54
         }
     }
 }
