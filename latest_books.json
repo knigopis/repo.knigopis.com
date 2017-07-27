@@ -1,4 +1,16 @@
 {
+    "_C6gFTR7ZB": {
+        "id": "_C6gFTR7ZB",
+        "title": "Глубина моря (3)",
+        "author": "Анника Тор",
+        "notes": "",
+        "createdAt": "2017-07-27 10:08:43",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 34
+        }
+    },
     "-VTZ3Cw9uR": {
         "id": "-VTZ3Cw9uR",
         "title": "Пруд белых лилий (2)",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 29
-        }
-    },
-    "AGqx3zsTOG": {
-        "id": "AGqx3zsTOG",
-        "title": "Принеси мне голову Прекрасного принца",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2017-07-25 12:18:40",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 4
         }
     }
 }
