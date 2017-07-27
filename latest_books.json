@@ -1,4 +1,16 @@
 {
+    "hCqqm8f7V4": {
+        "id": "hCqqm8f7V4",
+        "title": "Каменный убийца",
+        "author": "Луиза Пенни",
+        "notes": "(Старший инспектор Гамаш 4)",
+        "createdAt": "2017-07-27 09:36:27",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 17
+        }
+    },
     "bkDv57-taB": {
         "id": "bkDv57-taB",
         "title": "Гарри Поттер и методы рационального мышления (1)",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 109
-        }
-    },
-    "1DFvhcQCIT": {
-        "id": "1DFvhcQCIT",
-        "title": "Ужас Данвича (рассказ)",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2017-07-17 11:19:15",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Mira R",
-            "booksCount": 79
         }
     }
 }
