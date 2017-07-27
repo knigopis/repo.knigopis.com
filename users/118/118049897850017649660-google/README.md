@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>31</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>32</sup>
 ---
 
 ## 2017
@@ -160,6 +160,11 @@
 ### Вафельное сердце
 Мария Парр
 > [2017-03-16] Типичный (в хорошем смысле) представитель скандинавской детской литературы - душевно, весело и немножко волшебно.
+
+
+### Остров в море (1)
+Анника Тор
+> [2017-03-13] 
 
 
 

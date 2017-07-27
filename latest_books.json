@@ -1,4 +1,16 @@
 {
+    "XUGhhnkJr6": {
+        "id": "XUGhhnkJr6",
+        "title": "Остров в море (1)",
+        "author": "Анника Тор",
+        "notes": "",
+        "createdAt": "2017-07-27 10:07:38",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 32
+        }
+    },
     "kofuFrzJX3": {
         "id": "kofuFrzJX3",
         "title": "Вафельное сердце",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 3
-        }
-    },
-    "8grlKO3T79": {
-        "id": "8grlKO3T79",
-        "title": "Таня Гроттер и магический контрабас",
-        "author": "Дмитрий Емец",
-        "notes": "",
-        "createdAt": "2017-07-25 06:53:48",
-        "user": {
-            "id": "1431088546976250-facebook",
-            "nickname": "irina sarafova",
-            "booksCount": 1
         }
     }
 }
