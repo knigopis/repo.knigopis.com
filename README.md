@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Здесь мертвецы под сводом спят ~ [Sky](users/118/118049897850017649660-google)<sup>14</sup>
+    > (Флавия де Люс 6)
+    > Пожалуй, самая скучная книга в серии (к тому же так и не развил автор нормально тему с оживлением трупа).
+
 * Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
     > Обожаю Дивова!!!!
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > In the Beginning... was the Command Line
 
 * Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
-    > Время... Смерть... Слишком много о чём можно подумать после её прочтения
 
 * Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
 
-* Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>14</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 [Адриатика](users/131/131764394088467-facebook)<sup>0</sup> 
-[fthtryj](users/108/108201031903919910886-google)<sup>0</sup> 
 
 
-_27.07.2017 06:31:39_
+_27.07.2017 09:28:51_

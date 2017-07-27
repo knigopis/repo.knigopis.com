@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Здесь мертвецы под сводом спят ~ [Sky](users/118/118049897850017649660-google)<sup>14</sup>
 * Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
 * Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Беглец ~ [HXT](users/100/100002563462782-facebook)<sup>260</sup>
 * Эта прекрасная тайна ~ [Sky](users/118/118049897850017649660-google)<sup>13</sup>
 * Поток.Психология оптимального переживания ~ [develchip](users/852/85203415-vkontakte)<sup>58</sup>
-* Террор - Симмонс Дэн ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>86</sup>
 
 
-_26.07.2017 05:46:38_
+_27.07.2017 09:28:51_
