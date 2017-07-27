@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>17</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>18</sup>
 ---
 
 ## 2017
@@ -91,6 +91,11 @@
 ### Гарри Поттер и методы рационального мышления (1)
 Элиезер Юдковский
 > [2017-05-03] 
+
+
+### Самый жестокий месяц
+Луиза Пенни
+> [2017-04-25] (Старший инспектор Гамаш 3)
 
 
 

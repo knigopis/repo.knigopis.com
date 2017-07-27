@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Самый жестокий месяц ~ [Sky](users/118/118049897850017649660-google)<sup>18</sup>
+    > (Старший инспектор Гамаш 3)
+
 * Каменный убийца ~ [Sky](users/118/118049897850017649660-google)<sup>17</sup>
     > (Старший инспектор Гамаш 4)
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 5)
 
 * Здесь мертвецы под сводом спят ~ [Sky](users/118/118049897850017649660-google)<sup>14</sup>
-    > (Флавия де Люс 6)
-    > Пожалуй, самая скучная книга в серии (к тому же так и не развил автор нормально тему с оживлением трупа).
 
 * Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
 
-* Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>17</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>18</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Адриатика](users/131/131764394088467-facebook)<sup>0</sup> 
 
 
-_27.07.2017 09:36:27_
+_27.07.2017 09:37:06_
