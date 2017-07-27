@@ -1,4 +1,16 @@
 {
+    "k6v5JD2rRI": {
+        "id": "k6v5JD2rRI",
+        "title": "Железный король",
+        "author": "Морис Дрюон",
+        "notes": "",
+        "createdAt": "2017-07-27 20:59:32",
+        "user": {
+            "id": "215227771-vkontakte",
+            "nickname": "Clémence",
+            "booksCount": 1
+        }
+    },
     "XP1mLBitGh": {
         "id": "XP1mLBitGh",
         "title": "Похороните меня за плинтусом",
@@ -345,18 +357,6 @@
             "id": "1335076-vkontakte",
             "nickname": "silin_mihail",
             "booksCount": 1
-        }
-    },
-    "mBTbWzB18q": {
-        "id": "mBTbWzB18q",
-        "title": "Из жертвы обстоятельств в свободную личность",
-        "author": "Екатерина Гончарук",
-        "notes": "",
-        "createdAt": "2017-07-26 11:34:20",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 62
         }
     }
 }
