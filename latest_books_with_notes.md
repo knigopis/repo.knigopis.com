@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вино из одуванчиков ~ [joan789](users/240/2401650-vkontakte)<sup>60</sup>
 * Вафельное сердце ~ [Sky](users/118/118049897850017649660-google)<sup>31</sup>
 * Корона пастуха ~ [Sky](users/118/118049897850017649660-google)<sup>27</sup>
 * Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Война в Арктике. 1941—1945 ~ [exulted](users/100/100599204551896265722-google)<sup>45</sup>
 * Косплей Сергея Юркина 1-3 ~ [Tr](users/122/12282474-vkontakte)<sup>52</sup>
 * Ник 1-8 ~ [Tr](users/122/12282474-vkontakte)<sup>51</sup>
-* Стража! Стража! ~ [rNix](users/115/115622071-twitter)<sup>55</sup>
 
 
-_27.07.2017 10:03:57_
+_27.07.2017 16:12:42_
