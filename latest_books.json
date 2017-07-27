@@ -1,4 +1,16 @@
 {
+    "XP1mLBitGh": {
+        "id": "XP1mLBitGh",
+        "title": "Похороните меня за плинтусом",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2017-07-27 19:49:25",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 31
+        }
+    },
     "BHi3eHOEAW": {
         "id": "BHi3eHOEAW",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 62
-        }
-    },
-    "lg_dl60idO": {
-        "id": "lg_dl60idO",
-        "title": "Русские мамонты",
-        "author": "Дивов Олег",
-        "notes": "",
-        "createdAt": "2017-07-26 05:47:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 23
         }
     }
 }

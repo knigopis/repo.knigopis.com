@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup> 
 [Ирина](users/636/6366057056655415957-mailru)<sup>1</sup> 
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>30</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vovan1up](users/260/26006995-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 16:12:42_
+_27.07.2017 19:49:25_
