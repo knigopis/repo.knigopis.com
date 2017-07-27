@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мечтают ли андроиды об электроовцах? ~ [Sky](users/118/118049897850017649660-google)<sup>22</sup>
+    > Плохо, очень плохо (нет, есть конечно и удачные моменты, но историю в целом они не спасают). В документальном фильме о съемках "Бегущего" один из интервьюируемых точно выразил мысль - "как из ЭТОГО можно было сделать такой потрясающий фильм..?".
+
 * Убик ~ [Sky](users/118/118049897850017649660-google)<sup>21</sup>
     > Небо и земля по сравнению с Электроовцами, отлично проработанный сюжет.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 1)
 
 * Смертельный холод ~ [Sky](users/118/118049897850017649660-google)<sup>19</sup>
-    > (Старший инспектор Гамаш 2)
 
 * Самый жестокий месяц ~ [Sky](users/118/118049897850017649660-google)<sup>18</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
 
-* Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>21</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nslebedinskaya](users/227/2272641-vkontakte)<sup>0</sup> 
 
 
-_27.07.2017 09:41:47_
+_27.07.2017 09:49:56_
