@@ -1,4 +1,16 @@
 {
+    "jWzMCXRHA8": {
+        "id": "jWzMCXRHA8",
+        "title": "Эффект Бабочки",
+        "author": "Джеймс Сваллоу",
+        "notes": "",
+        "createdAt": "2017-07-28 06:55:20",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 87
+        }
+    },
     "74J4tSgSeS": {
         "id": "74J4tSgSeS",
         "title": "Затмение",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 105
-        }
-    },
-    "smh1xRCfaV": {
-        "id": "smh1xRCfaV",
-        "title": "Самый жестокий месяц",
-        "author": "Луиза Пенни",
-        "notes": "(Старший инспектор Гамаш 3)",
-        "createdAt": "2017-07-27 09:37:06",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 18
         }
     }
 }
