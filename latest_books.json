@@ -1,4 +1,16 @@
 {
+    "o63zXFQ3kU": {
+        "id": "o63zXFQ3kU",
+        "title": "Человек, который смеётся",
+        "author": "В. Гюго",
+        "notes": "",
+        "createdAt": "2017-07-28 06:48:40",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 80
+        }
+    },
     "eIpjZEgzp_": {
         "id": "eIpjZEgzp_",
         "title": "Узница Шато-Гайара",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 27
-        }
-    },
-    "x2jgZ3-oAn": {
-        "id": "x2jgZ3-oAn",
-        "title": "Инферно",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-07-27 06:13:13",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 26
         }
     }
 }

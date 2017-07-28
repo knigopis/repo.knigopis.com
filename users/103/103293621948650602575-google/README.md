@@ -1,7 +1,12 @@
-# List of books read by [Mira R](https://plus.google.com/103293621948650602575)<sup>79</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>80</sup>
 ---
 
 ## 2017
+
+### Человек, который смеётся
+В. Гюго
+> [2017-07-28] 
+
 
 ### Ужас Данвича (рассказ)
 Говард Филлипс Лавкрафт
