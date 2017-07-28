@@ -1,4 +1,16 @@
 {
+    "K5n0OrmfA-": {
+        "id": "K5n0OrmfA-",
+        "title": "Хребты Безумия",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "",
+        "createdAt": "2017-07-28 15:39:00",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 89
+        }
+    },
     "BSwfhZNZny": {
         "id": "BSwfhZNZny",
         "title": "Вафли по-шпионски",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 21
-        }
-    },
-    "KtKC0NzY4Q": {
-        "id": "KtKC0NzY4Q",
-        "title": "Убийственно тихая жизнь",
-        "author": "",
-        "notes": "(Старший инспектор Гамаш 1)",
-        "createdAt": "2017-07-27 09:38:20",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 20
         }
     }
 }

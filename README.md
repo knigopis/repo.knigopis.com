@@ -40,8 +40,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>89</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>24</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>88</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 
 
-_28.07.2017 07:47:04_
+_28.07.2017 15:39:00_

@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>88</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>89</sup>
 ---
 
 ## 2017
+
+### Хребты Безумия
+Говард Филлипс Лавкрафт
+> [2017-07-28] 
+
 
 ### Человек, который смеётся
 Виктор Гюго
