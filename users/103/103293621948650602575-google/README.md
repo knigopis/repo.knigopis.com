@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>81</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>82</sup>
 ---
 
 ## 2017
@@ -385,6 +385,10 @@
 
 
 ## 2010
+
+### Белый Клык
+Дж. Лондон
+
 
 ### Морской Волк
 Дж.Лондон

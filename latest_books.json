@@ -1,4 +1,16 @@
 {
+    "lfrgEe3YKv": {
+        "id": "lfrgEe3YKv",
+        "title": "Белый Клык",
+        "author": "Дж. Лондон",
+        "notes": "",
+        "createdAt": "2017-07-28 06:49:31",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 82
+        }
+    },
     "QL-k4h0DWg": {
         "id": "QL-k4h0DWg",
         "title": "Морской Волк",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 14
-        }
-    },
-    "6OSSFxP8xR": {
-        "id": "6OSSFxP8xR",
-        "title": "Как кроссфит сделал меня самым физически подготовленным человеком земли?",
-        "author": "Рич Фронинг",
-        "notes": "",
-        "createdAt": "2017-07-27 06:31:39",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 28
         }
     }
 }
