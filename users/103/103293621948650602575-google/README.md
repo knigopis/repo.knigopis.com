@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>87</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>88</sup>
 ---
 
 ## 2017
@@ -385,6 +385,10 @@
 
 
 ## 2010
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Любовь к жизни (рассказ)
 Джек Лондон
