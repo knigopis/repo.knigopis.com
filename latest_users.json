@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 24,
+        "updatedAt": "2017-07-28 07:47:04"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -70,12 +76,6 @@
         "nickname": "ohsubbotina",
         "booksCount": 0,
         "updatedAt": "2017-07-26 10:47:55"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 23,
-        "updatedAt": "2017-07-26 05:47:08"
     },
     "20033623-vkontakte": {
         "id": "20033623-vkontakte",

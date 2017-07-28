@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вафли по-шпионски ~ [Chiffi](users/105/105831994080785626680-google)<sup>24</sup>
+    > Вильмонт в своем стиле. Сказка.... Хотя язык мне очень нравится
+
 * Вино из одуванчиков ~ [joan789](users/240/2401650-vkontakte)<sup>60</sup>
     > Книга волшебна. Писать о ней можно много... Трактаты отзывов, как минимум. То, что я её буду перечитывать, и тогда уже, возможно, напишу более внятный отзыв - несомненно. А пока скажу, что здесь в полной мере проявил себя тот Брэдбери, которого люблю - пишущий со светлой грустью. В каждой из историй (да, не постоянно Брэдбери рассказывает нам лишь о Сполдингах) можно найти что-то своё, особенно трогающее, пробирающее до самой твоей сути. Для себя отметила следующие истории:
     > 1.) про Эллен Лумис и Билла Форестера - конечно же! Однозначно, любимое;
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Типичный (в хорошем смысле) представитель скандинавской детской литературы - душевно, весело и немножко волшебно.
 
 * Корона пастуха ~ [Sky](users/118/118049897850017649660-google)<sup>27</sup>
-    > (Тиффани Болит 5)
 
 * Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Убик ~ [Sky](users/118/118049897850017649660-google)<sup>21</sup>
 
-* Убийственно тихая жизнь ~ [Sky](users/118/118049897850017649660-google)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>24</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>88</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Hikari](users/192/192185074-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>62</sup> 
 [ohsubbotina](users/556/556889019-twitter)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>23</sup> 
 [Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>4</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 
 
-_28.07.2017 06:55:57_
+_28.07.2017 07:47:04_
