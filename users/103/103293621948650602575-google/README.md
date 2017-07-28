@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>82</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>83</sup>
 ---
 
 ## 2017
@@ -385,6 +385,10 @@
 
 
 ## 2010
+
+### Любовь к жизни (рассказ)
+Дж. Лондон
+
 
 ### Белый Клык
 Дж. Лондон

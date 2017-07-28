@@ -1,4 +1,16 @@
 {
+    "N-WJOWxn1M": {
+        "id": "N-WJOWxn1M",
+        "title": "Любовь к жизни (рассказ)",
+        "author": "Дж. Лондон",
+        "notes": "",
+        "createdAt": "2017-07-28 06:49:47",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 83
+        }
+    },
     "lfrgEe3YKv": {
         "id": "lfrgEe3YKv",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 15
-        }
-    },
-    "DcVj8ugWgH": {
-        "id": "DcVj8ugWgH",
-        "title": "Здесь мертвецы под сводом спят",
-        "author": "Алан Бредли",
-        "notes": "(Флавия де Люс 6)\nПожалуй, самая скучная книга в серии (к тому же так и не развил автор нормально тему с оживлением трупа).",
-        "createdAt": "2017-07-27 09:28:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 14
         }
     }
 }
