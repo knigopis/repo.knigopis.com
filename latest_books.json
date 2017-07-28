@@ -1,4 +1,16 @@
 {
+    "b3rk0DNLCH": {
+        "id": "b3rk0DNLCH",
+        "title": "Боги, святилища, обряды Японии. Энциклопедия Синто",
+        "author": "",
+        "notes": "http://www.ozon.ru/context/detail/id/5524641/\n\nв процессе",
+        "createdAt": "2017-07-28 16:41:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 111
+        }
+    },
     "K5n0OrmfA-": {
         "id": "K5n0OrmfA-",
         "title": "Хребты Безумия",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 22
-        }
-    },
-    "4Br31lGagf": {
-        "id": "4Br31lGagf",
-        "title": "Убик",
-        "author": "Филип Дик",
-        "notes": "Небо и земля по сравнению с Электроовцами, отлично проработанный сюжет.",
-        "createdAt": "2017-07-27 09:41:47",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 21
         }
     }
 }

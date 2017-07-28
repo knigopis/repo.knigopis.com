@@ -1,7 +1,13 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>110</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>111</sup>
 ---
 
 ## 2017
+
+### Боги, святилища, обряды Японии. Энциклопедия Синто
+> [2017-07-28] http://www.ozon.ru/context/detail/id/5524641/
+> 
+> в процессе
+
 
 ### История государства Российского
 Николай Карамзин

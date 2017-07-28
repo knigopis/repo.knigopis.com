@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Боги, святилища, обряды Японии. Энциклопедия Синто ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>111</sup>
+    > http://www.ozon.ru/context/detail/id/5524641/
+    > 
+    > в процессе
+
 * Вафли по-шпионски ~ [Chiffi](users/105/105831994080785626680-google)<sup>24</sup>
     > Вильмонт в своем стиле. Сказка.... Хотя язык мне очень нравится
 
@@ -19,7 +24,6 @@ Do not use pull requests to make changes here.
     > В первый раз слушала аудиокнигу в исполнении Е. Терновского.
 
 * Вафельное сердце ~ [Sky](users/118/118049897850017649660-google)<sup>31</sup>
-    > Типичный (в хорошем смысле) представитель скандинавской детской литературы - душевно, весело и немножко волшебно.
 
 * Корона пастуха ~ [Sky](users/118/118049897850017649660-google)<sup>27</sup>
 
@@ -33,13 +37,12 @@ Do not use pull requests to make changes here.
 
 * Мечтают ли андроиды об электроовцах? ~ [Sky](users/118/118049897850017649660-google)<sup>22</sup>
 
-* Убик ~ [Sky](users/118/118049897850017649660-google)<sup>21</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>111</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>89</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>24</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
@@ -69,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
 [kombik](users/102/102787511566083215895-google)<sup>1</sup> 
 [helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>53</sup> 
 
 
-_28.07.2017 15:39:00_
+_28.07.2017 16:41:06_
