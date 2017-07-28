@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>89</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>24</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
 [kombik](users/102/102787511566083215895-google)<sup>1</sup> 
-[helena102008](users/274/27453111-vkontakte)<sup>1</sup> 
 
 
-_28.07.2017 16:42:21_
+_28.07.2017 20:51:06_
