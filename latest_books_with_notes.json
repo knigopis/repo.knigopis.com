@@ -1,4 +1,16 @@
 {
+    "zKlXuT1_qo": {
+        "id": "zKlXuT1_qo",
+        "title": "От слов к делу!",
+        "author": "Ричард Ньютон, Киприан Расен",
+        "notes": "в процессе",
+        "createdAt": "2017-07-28 16:42:21",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 112
+        }
+    },
     "b3rk0DNLCH": {
         "id": "b3rk0DNLCH",
         "title": "Боги, святилища, обряды Японии. Энциклопедия Синто",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 7
-        }
-    },
-    "Ze7-9F4FiR": {
-        "id": "Ze7-9F4FiR",
-        "title": "Война в Арктике. 1941—1945",
-        "author": "Корякин Владислав",
-        "notes": "ISBN: 978-5-4444-8419-7",
-        "createdAt": "2017-07-16 05:56:19",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 45
         }
     }
 }
