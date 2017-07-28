@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>85</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>86</sup>
 ---
 
 ## 2017
@@ -400,6 +400,10 @@
 
 
 ## 2008
+
+### Затмение
+Стефани Майер
+
 
 ### Новолуние
 Стефани Майер
