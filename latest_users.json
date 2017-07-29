@@ -1,4 +1,10 @@
 {
+    "162444669-vkontakte": {
+        "id": "162444669-vkontakte",
+        "nickname": "SMedgaus",
+        "booksCount": 8,
+        "updatedAt": "2017-07-29 16:41:30"
+    },
     "102763689513347752702-google": {
         "id": "102763689513347752702-google",
         "nickname": "Gregor Bjdantukevich",
@@ -172,11 +178,5 @@
         "nickname": "vladismile",
         "booksCount": 0,
         "updatedAt": "2017-07-22 13:38:10"
-    },
-    "102787511566083215895-google": {
-        "id": "102787511566083215895-google",
-        "nickname": "kombik",
-        "booksCount": 1,
-        "updatedAt": "2017-07-22 12:24:41"
     }
 }

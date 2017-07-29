@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
+    > Он вернулся! Нет, похоже, вы не поняли. Он вернулся!!! Он - это Ринсвинд, самый неудачливый волшебник на Диске. Правда, на сей раз куда больше не повезло Эрику, начинающему демонологу, который и вызвал к себе в магический круг ходячее воплощение всех бед и неприятностей Плоского мира.
+
 * От слов к делу! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Вафли по-шпионски ~ [Chiffi](users/105/105831994080785626680-google)<sup>24</sup>
-    > Вильмонт в своем стиле. Сказка.... Хотя язык мне очень нравится
 
 * Вино из одуванчиков ~ [joan789](users/240/2401650-vkontakte)<sup>60</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Шляпа, полная неба ~ [Sky](users/118/118049897850017649660-google)<sup>24</sup>
 
-* Маленький свободный народец ~ [Sky](users/118/118049897850017649660-google)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>89</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
-[kombik](users/102/102787511566083215895-google)<sup>1</sup> 
 
 
-_28.07.2017 20:51:06_
+_29.07.2017 16:41:30_
