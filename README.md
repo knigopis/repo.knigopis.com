@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 [elyalina](users/224/224816-vkontakte)<sup>0</sup> 
-[vladismile](users/146/1467491296661560-facebook)<sup>0</sup> 
 
 
-_29.07.2017 16:41:30_
+_29.07.2017 19:57:05_
