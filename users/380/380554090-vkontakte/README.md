@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>31</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>32</sup>
 ---
 
 ## 2017
+
+### Скорбь Сатаны
+Брэм Стокер
+> [2017-07-30] 
+
 
 ### Люди, которые играют в игры
 Эрик Берн

@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 32,
+        "updatedAt": "2017-07-30 18:13:33"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "instingt",
         "booksCount": 0,
         "updatedAt": "2017-07-22 19:38:01"
-    },
-    "224816-vkontakte": {
-        "id": "224816-vkontakte",
-        "nickname": "elyalina",
-        "booksCount": 0,
-        "updatedAt": "2017-07-22 15:22:10"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "Wj1S7TP20a": {
+        "id": "Wj1S7TP20a",
+        "title": "Скорбь Сатаны",
+        "author": "Брэм Стокер",
+        "notes": "",
+        "createdAt": "2017-07-30 18:13:33",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 32
+        }
+    },
     "3ZsSCvcms_": {
         "id": "3ZsSCvcms_",
         "title": "После Огня",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 27
-        }
-    },
-    "nk4ne_ZujO": {
-        "id": "nk4ne_ZujO",
-        "title": "Я надену полночь",
-        "author": "Терри Пратчетт",
-        "notes": "(Тиффани Болит 4)",
-        "createdAt": "2017-07-27 09:53:58",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 26
         }
     }
 }
