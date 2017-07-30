@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>25</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ирина](users/636/6366057056655415957-mailru)<sup>1</sup> 
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
-[instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 
 
-_30.07.2017 21:01:32_
+_30.07.2017 21:36:25_
