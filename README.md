@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
+    > Повесть
+
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
     > сказка-антиутопия.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Он вернулся! Нет, похоже, вы не поняли. Он вернулся!!! Он - это Ринсвинд, самый неудачливый волшебник на Диске. Правда, на сей раз куда больше не повезло Эрику, начинающему демонологу, который и вызвал к себе в магический круг ходячее воплощение всех бед и неприятностей Плоского мира.
 
 * От слов к делу! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup>
-    > в процессе
 
 * Боги, святилища, обряды Японии. Энциклопедия Синто ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>111</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
 
-* Зимних дел мастер ~ [Sky](users/118/118049897850017649660-google)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[idsimonbell](users/380/380554090-vkontakte)<sup>32</sup> 
+[idsimonbell](users/380/380554090-vkontakte)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>25</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [instingt](users/189/1894386844216473-facebook)<sup>0</sup> 
 
 
-_30.07.2017 18:13:33_
+_30.07.2017 21:01:32_

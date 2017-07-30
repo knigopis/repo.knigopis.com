@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
 * Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
 * От слов к делу! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup>
@@ -30,7 +31,6 @@
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
 * Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
 * История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
-* Замок ~ [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup>
 
 
-_30.07.2017 06:34:33_
+_30.07.2017 21:01:32_

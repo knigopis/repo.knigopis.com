@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>32</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>33</sup>
 ---
 
 ## 2017
+
+### Превращение
+Франц Кафка
+> [2017-07-31] Повесть
+
 
 ### Скорбь Сатаны
 Брэм Стокер
