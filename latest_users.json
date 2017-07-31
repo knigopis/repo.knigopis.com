@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 91,
+        "updatedAt": "2017-07-31 11:36:56"
+    },
     "4823577-vkontakte": {
         "id": "4823577-vkontakte",
         "nickname": "Andrey",
@@ -40,12 +46,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 112,
         "updatedAt": "2017-07-28 16:42:21"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 89,
-        "updatedAt": "2017-07-28 15:39:00"
     },
     "215227771-vkontakte": {
         "id": "215227771-vkontakte",
