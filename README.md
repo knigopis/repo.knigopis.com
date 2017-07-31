@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lost in Frost](users/103/103293621948650602575-google)<sup>91</sup> 
+[Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>25</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 
 
-_31.07.2017 11:36:56_
+_31.07.2017 11:37:21_
