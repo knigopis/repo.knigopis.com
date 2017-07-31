@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
 * Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
@@ -30,7 +31,6 @@
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
 * Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
-* История государства Российского ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>109</sup>
 
 
-_30.07.2017 21:01:32_
+_31.07.2017 20:42:37_

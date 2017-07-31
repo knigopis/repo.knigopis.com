@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
+    > Продолжение После Огня.  
+    > Очень жалко Лисенка
+
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
     > Повесть
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > сказка-антиутопия.
 
 * Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
-    > Он вернулся! Нет, похоже, вы не поняли. Он вернулся!!! Он - это Ринсвинд, самый неудачливый волшебник на Диске. Правда, на сей раз куда больше не повезло Эрику, начинающему демонологу, который и вызвал к себе в магический круг ходячее воплощение всех бед и неприятностей Плоского мира.
 
 * От слов к делу! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup>
 
@@ -26,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Корона пастуха ~ [Sky](users/118/118049897850017649660-google)<sup>27</sup>
 
-* Я надену полночь ~ [Sky](users/118/118049897850017649660-google)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>25</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>121</sup> 
 
 
-_31.07.2017 11:37:21_
+_31.07.2017 20:42:37_
