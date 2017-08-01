@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Сага о Рейневане: Башня шутов ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 * Зодиак - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>87</sup>
 * Акула пера в мире файролла 11-2 ~ [Tr](users/122/12282474-vkontakte)<sup>53</sup>
-* Эгоистичный ген ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>110</sup>
 
 
-_31.07.2017 20:42:37_
+_01.08.2017 19:09:54_

@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
+    > В процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/27071402/
+
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
     > Продолжение После Огня.  
     > Очень жалко Лисенка
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Повесть
 
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
-    > сказка-антиутопия.
 
 * Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Вафельное сердце ~ [Sky](users/118/118049897850017649660-google)<sup>31</sup>
 
-* Корона пастуха ~ [Sky](users/118/118049897850017649660-google)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup> 
 [okfine](users/209/209723-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
@@ -42,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
@@ -66,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
 
 
-_01.08.2017 06:41:08_
+_01.08.2017 19:09:54_

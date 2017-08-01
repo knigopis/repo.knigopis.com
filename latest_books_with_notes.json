@@ -1,4 +1,16 @@
 {
+    "28K6g8pNzb": {
+        "id": "28K6g8pNzb",
+        "title": "Остаться в живых. Психология поведения в экстремальных ситуациях",
+        "author": "Лоуренс Гонсалес",
+        "notes": "В процессе\n\nhttps://www.ozon.ru/context/detail/id/27071402/",
+        "createdAt": "2017-08-01 19:09:53",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 113
+        }
+    },
     "1hMEJ-mNh2": {
         "id": "1hMEJ-mNh2",
         "title": "Между Огней",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 53
-        }
-    },
-    "hur8YOx0ci": {
-        "id": "hur8YOx0ci",
-        "title": "Эгоистичный ген",
-        "author": "Ричард Докинз",
-        "notes": "https://www.ozon.ru/context/detail/id/20880691/\n\nв процессе",
-        "createdAt": "2017-07-18 14:16:24",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 110
         }
     }
 }

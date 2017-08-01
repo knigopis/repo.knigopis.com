@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 113,
+        "updatedAt": "2017-08-01 19:09:53"
+    },
     "209723-vkontakte": {
         "id": "209723-vkontakte",
         "nickname": "okfine",
@@ -46,12 +52,6 @@
         "nickname": "Gregor Bjdantukevich",
         "booksCount": 1,
         "updatedAt": "2017-07-28 20:51:06"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 112,
-        "updatedAt": "2017-07-28 16:42:21"
     },
     "215227771-vkontakte": {
         "id": "215227771-vkontakte",
