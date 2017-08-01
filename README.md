@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[okfine](users/209/209723-vkontakte)<sup>0</sup> 
+[okfine](users/209/209723-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/192/192081491-vkontakte)<sup>1</sup> 
 
 
-_01.08.2017 06:30:47_
+_01.08.2017 06:32:44_
