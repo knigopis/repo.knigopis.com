@@ -1,4 +1,10 @@
 {
+    "100001603844736-facebook": {
+        "id": "100001603844736-facebook",
+        "nickname": "Oksana",
+        "booksCount": 0,
+        "updatedAt": "2017-08-02 10:12:30"
+    },
     "8399226-vkontakte": {
         "id": "8399226-vkontakte",
         "nickname": "arisss",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 88,
         "updatedAt": "2017-07-24 02:52:57"
-    },
-    "6366057056655415957-mailru": {
-        "id": "6366057056655415957-mailru",
-        "nickname": "Ирина",
-        "booksCount": 1,
-        "updatedAt": "2017-07-23 21:13:56"
     }
 }
