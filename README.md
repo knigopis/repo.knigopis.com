@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 [arisss](users/839/8399226-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup> 
 [okfine](users/209/209723-vkontakte)<sup>3</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [irina sarafova](users/143/1431088546976250-facebook)<sup>1</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>54</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup> 
-[Ирина](users/636/6366057056655415957-mailru)<sup>1</sup> 
 
 
-_01.08.2017 19:52:16_
+_02.08.2017 10:12:32_
