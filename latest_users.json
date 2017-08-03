@@ -1,4 +1,10 @@
 {
+    "31966279-vkontakte": {
+        "id": "31966279-vkontakte",
+        "nickname": "annwayt",
+        "booksCount": 0,
+        "updatedAt": "2017-08-03 17:20:57"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 29,
         "updatedAt": "2017-07-25 23:39:01"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 4,
-        "updatedAt": "2017-07-25 12:18:40"
     }
 }
