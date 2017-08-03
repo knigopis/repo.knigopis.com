@@ -1,4 +1,16 @@
 {
+    "48VMNczX19": {
+        "id": "48VMNczX19",
+        "title": "Мор - ученик смерти",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2017-08-03 17:45:55",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 31
+        }
+    },
     "yjYECmRCSY": {
         "id": "yjYECmRCSY",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 2
-        }
-    },
-    "sOKZ9MNzZj": {
-        "id": "sOKZ9MNzZj",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-03 17:22:04",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 1
         }
     }
 }

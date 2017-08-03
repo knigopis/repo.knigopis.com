@@ -1,7 +1,11 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>30</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>31</sup>
 ---
 
 ## 2017
+
+### Мор - ученик смерти
+Терри Пратчетт
+
 
 ### О жизни
 Лев Толстой
