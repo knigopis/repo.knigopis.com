@@ -1,4 +1,16 @@
 {
+    "yjYECmRCSY": {
+        "id": "yjYECmRCSY",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2017-08-03 17:45:25",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 30
+        }
+    },
     "CRfIuP6VMR": {
         "id": "CRfIuP6VMR",
         "title": "Искусство слышать стук сердца",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 1
-        }
-    },
-    "8eZ337QHAq": {
-        "id": "8eZ337QHAq",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2017-08-03 11:56:24",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 25
         }
     }
 }

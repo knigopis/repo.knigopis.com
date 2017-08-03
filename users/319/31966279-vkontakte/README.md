@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>29</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>30</sup>
 ---
 
 ## 2017
@@ -21,6 +21,10 @@
 
 
 ## 2016
+
+### О дивный новый мир
+Олдос Хаксли
+
 
 ### Белые ночи
 Федор Достоевский
