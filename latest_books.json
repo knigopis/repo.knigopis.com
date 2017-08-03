@@ -1,4 +1,16 @@
 {
+    "nHYxVP6Hhq": {
+        "id": "nHYxVP6Hhq",
+        "title": "Любовь живет три года",
+        "author": "Эльчин Сафарли",
+        "notes": "",
+        "createdAt": "2017-08-03 22:43:05",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 62
+        }
+    },
     "-2W8bELcz9": {
         "id": "-2W8bELcz9",
         "title": "Избранные произведения",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 32
-        }
-    },
-    "48VMNczX19": {
-        "id": "48VMNczX19",
-        "title": "Мор - ученик смерти",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2017-08-03 17:45:55",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 31
         }
     }
 }
