@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 141,
+        "updatedAt": "2017-08-03 16:17:34"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Элла",
         "booksCount": 4,
         "updatedAt": "2017-07-25 12:18:40"
-    },
-    "3114181641539446926-mailru": {
-        "id": "3114181641539446926-mailru",
-        "nickname": "***Тамара***",
-        "booksCount": 0,
-        "updatedAt": "2017-07-25 12:10:02"
     }
 }
