@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [***Тамара***](users/311/3114181641539446926-mailru)<sup>0</sup> 
 [Лорд Пудинг](users/112/112214463787387089052-google)<sup>0</sup> 
 [irina sarafova](users/143/1431088546976250-facebook)<sup>1</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>54</sup> 
 
 
-_03.08.2017 11:40:43_
+_03.08.2017 11:45:46_
