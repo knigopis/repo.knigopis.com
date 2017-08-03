@@ -1,4 +1,16 @@
 {
+    "-2W8bELcz9": {
+        "id": "-2W8bELcz9",
+        "title": "Избранные произведения",
+        "author": "Леонардо да Винчи",
+        "notes": "",
+        "createdAt": "2017-08-03 22:42:39",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 61
+        }
+    },
     "GzalNed_1g": {
         "id": "GzalNed_1g",
         "title": "Психология лжи",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 31
-        }
-    },
-    "yjYECmRCSY": {
-        "id": "yjYECmRCSY",
-        "title": "О дивный новый мир",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2017-08-03 17:45:25",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 30
         }
     }
 }
