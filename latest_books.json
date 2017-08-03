@@ -1,4 +1,16 @@
 {
+    "IdlZ2Qk3Yt": {
+        "id": "IdlZ2Qk3Yt",
+        "title": "А зори здесь тихие",
+        "author": "Борис Васильев",
+        "notes": "",
+        "createdAt": "2017-08-03 22:22:56",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 40
+        }
+    },
     "ZauoemuHuv": {
         "id": "ZauoemuHuv",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 11
-        }
-    },
-    "3Rsk5QcrgU": {
-        "id": "3Rsk5QcrgU",
-        "title": "Над кукушкиным гнездом",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-08-03 17:27:51",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 10
         }
     }
 }
