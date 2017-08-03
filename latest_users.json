@@ -1,4 +1,10 @@
 {
+    "153694786-vkontakte": {
+        "id": "153694786-vkontakte",
+        "nickname": "alina_fo",
+        "booksCount": 0,
+        "updatedAt": "2017-08-03 11:45:44"
+    },
     "114398174831177070999-google": {
         "id": "114398174831177070999-google",
         "nickname": "ZiggaFromNigga",
@@ -172,11 +178,5 @@
         "nickname": "irina sarafova",
         "booksCount": 1,
         "updatedAt": "2017-07-25 06:53:48"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 54,
-        "updatedAt": "2017-07-24 12:22:10"
     }
 }
