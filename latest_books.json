@@ -1,4 +1,16 @@
 {
+    "GuFeK83iNV": {
+        "id": "GuFeK83iNV",
+        "title": "На дне",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-08-03 22:29:25",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 49
+        }
+    },
     "AHqfmCDC6Q": {
         "id": "AHqfmCDC6Q",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 20
-        }
-    },
-    "ufxAW41yjM": {
-        "id": "ufxAW41yjM",
-        "title": "Тело",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-08-03 17:33:47",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 19
         }
     }
 }
