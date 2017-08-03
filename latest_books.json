@@ -1,4 +1,16 @@
 {
+    "3Rsk5QcrgU": {
+        "id": "3Rsk5QcrgU",
+        "title": "Над кукушкиным гнездом",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2017-08-03 17:27:51",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 10
+        }
+    },
     "W8CX4KlTZr": {
         "id": "W8CX4KlTZr",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 87
-        }
-    },
-    "74J4tSgSeS": {
-        "id": "74J4tSgSeS",
-        "title": "Затмение",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2017-07-28 06:52:27",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 86
         }
     }
 }
