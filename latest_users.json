@@ -1,4 +1,10 @@
 {
+    "114398174831177070999-google": {
+        "id": "114398174831177070999-google",
+        "nickname": "ZiggaFromNigga",
+        "booksCount": 6,
+        "updatedAt": "2017-08-03 11:40:43"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 54,
         "updatedAt": "2017-07-24 12:22:10"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 88,
-        "updatedAt": "2017-07-24 02:52:57"
     }
 }
