@@ -1,4 +1,16 @@
 {
+    "JXayqgYFcl": {
+        "id": "JXayqgYFcl",
+        "title": "Отцы и дети",
+        "author": "Иван Тургенев",
+        "notes": "",
+        "createdAt": "2017-08-03 22:16:56",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 34
+        }
+    },
     "gmtFH_X3GU": {
         "id": "gmtFH_X3GU",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 5
-        }
-    },
-    "eGPbSqHr7a": {
-        "id": "eGPbSqHr7a",
-        "title": "Игрок",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2017-08-03 17:24:28",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 4
         }
     }
 }
