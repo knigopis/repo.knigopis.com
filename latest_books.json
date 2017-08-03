@@ -1,4 +1,16 @@
 {
+    "ahe6KAyBHe": {
+        "id": "ahe6KAyBHe",
+        "title": "Цифровая крепость",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-08-03 17:38:12",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 24
+        }
+    },
     "LKCLSQux2X": {
         "id": "LKCLSQux2X",
         "title": "Ангелы и демоны",
@@ -345,18 +357,6 @@
             "id": "209723-vkontakte",
             "nickname": "okfine",
             "booksCount": 2
-        }
-    },
-    "shYavLiFe4": {
-        "id": "shYavLiFe4",
-        "title": "Сила Воли",
-        "author": "Уолтер Мишел",
-        "notes": "Книга о том как мотивировать себя делать сейчас скучные вещи, чтобы достигнуть глобальных целей.",
-        "createdAt": "2017-08-01 06:32:44",
-        "user": {
-            "id": "209723-vkontakte",
-            "nickname": "okfine",
-            "booksCount": 1
         }
     }
 }
