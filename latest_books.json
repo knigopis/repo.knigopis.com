@@ -1,4 +1,16 @@
 {
+    "0nJSImfBh2": {
+        "id": "0nJSImfBh2",
+        "title": "О жизни",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-08-03 17:30:53",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 14
+        }
+    },
     "kdglOT4eEb": {
         "id": "kdglOT4eEb",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 111
-        }
-    },
-    "K5n0OrmfA-": {
-        "id": "K5n0OrmfA-",
-        "title": "Хребты Безумия",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "",
-        "createdAt": "2017-07-28 15:39:00",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 89
         }
     }
 }
