@@ -1,4 +1,16 @@
 {
+    "gmtFH_X3GU": {
+        "id": "gmtFH_X3GU",
+        "title": "Герой нашего времени",
+        "author": "Михаил Лермонтов",
+        "notes": "",
+        "createdAt": "2017-08-03 22:15:10",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 33
+        }
+    },
     "PwRMIaKoNq": {
         "id": "PwRMIaKoNq",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 4
-        }
-    },
-    "aQrwVbeWgC": {
-        "id": "aQrwVbeWgC",
-        "title": "Исповедь о жизни",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2017-08-03 17:23:45",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 3
         }
     }
 }

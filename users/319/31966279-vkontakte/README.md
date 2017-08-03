@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>32</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>33</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2012
+
+### Герой нашего времени
+Михаил Лермонтов
+
 
 ### Мертвые души
 Николай Гоголь
