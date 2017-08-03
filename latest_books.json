@@ -1,4 +1,16 @@
 {
+    "PegOQjQB8C": {
+        "id": "PegOQjQB8C",
+        "title": "Приключения Шерлока Холмса",
+        "author": "Артур Конан Дойль",
+        "notes": "",
+        "createdAt": "2017-08-03 22:20:04",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 38
+        }
+    },
     "Ym8ro7qyAl": {
         "id": "Ym8ro7qyAl",
         "title": "Тарас Бульба",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 9
-        }
-    },
-    "0XppxNTKF9": {
-        "id": "0XppxNTKF9",
-        "title": "Мы",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2017-08-03 17:26:25",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 8
         }
     }
 }
