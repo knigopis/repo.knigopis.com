@@ -1,4 +1,16 @@
 {
+    "uNFsQhvOsQ": {
+        "id": "uNFsQhvOsQ",
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-08-03 17:25:56",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 7
+        }
+    },
     "q-YZvEhWul": {
         "id": "q-YZvEhWul",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 84
-        }
-    },
-    "N-WJOWxn1M": {
-        "id": "N-WJOWxn1M",
-        "title": "Любовь к жизни (рассказ)",
-        "author": "Дж. Лондон",
-        "notes": "",
-        "createdAt": "2017-07-28 06:49:47",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 83
         }
     }
 }

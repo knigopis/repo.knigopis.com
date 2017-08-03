@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>6</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>7</sup>
 ---
 
 ## 2017
@@ -17,6 +17,10 @@
 
 
 ## 2016
+
+### Анна Каренина
+Лев Толстой
+
 
 ### Игрок
 Федор Достоевский
