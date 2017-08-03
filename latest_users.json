@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 25,
+        "updatedAt": "2017-08-03 11:56:24"
+    },
     "197276378-vkontakte": {
         "id": "197276378-vkontakte",
         "nickname": "tragicianrainbow",
@@ -172,11 +178,5 @@
         "nickname": "***Тамара***",
         "booksCount": 0,
         "updatedAt": "2017-07-25 12:10:02"
-    },
-    "112214463787387089052-google": {
-        "id": "112214463787387089052-google",
-        "nickname": "Лорд Пудинг",
-        "booksCount": 0,
-        "updatedAt": "2017-07-25 09:55:24"
     }
 }

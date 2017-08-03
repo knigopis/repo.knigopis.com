@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>24</sup>
+# List of books read by Rainbow<sup>25</sup>
 ---
 
 ## 2017
+
+### Мы
+Евгений Замятин
+> [2017-08-02] 
+
 
 ### ￼ Мастер и Маргарита
 Михаил Афанасьевич Булгаков

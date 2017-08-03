@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>25</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
 [alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>6</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>4</sup> 
 [***Тамара***](users/311/3114181641539446926-mailru)<sup>0</sup> 
-[Лорд Пудинг](users/112/112214463787387089052-google)<sup>0</sup> 
 
 
-_03.08.2017 11:46:37_
+_03.08.2017 11:56:24_
