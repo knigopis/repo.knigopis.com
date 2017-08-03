@@ -1,4 +1,16 @@
 {
+    "H5SB57siXq": {
+        "id": "H5SB57siXq",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2017-08-03 22:17:54",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 35
+        }
+    },
     "JXayqgYFcl": {
         "id": "JXayqgYFcl",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 6
-        }
-    },
-    "eWAUD-35YT": {
-        "id": "eWAUD-35YT",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-08-03 17:25:08",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 5
         }
     }
 }
