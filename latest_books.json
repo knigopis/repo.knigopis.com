@@ -1,4 +1,16 @@
 {
+    "ZGV9buxU-a": {
+        "id": "ZGV9buxU-a",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-08-03 22:45:46",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 65
+        }
+    },
     "G0RS92X2LY": {
         "id": "G0RS92X2LY",
         "title": "Краткая история времени",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 35
-        }
-    },
-    "JXayqgYFcl": {
-        "id": "JXayqgYFcl",
-        "title": "Отцы и дети",
-        "author": "Иван Тургенев",
-        "notes": "",
-        "createdAt": "2017-08-03 22:16:56",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 34
         }
     }
 }
