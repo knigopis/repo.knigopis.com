@@ -1,4 +1,16 @@
 {
+    "GzalNed_1g": {
+        "id": "GzalNed_1g",
+        "title": "Психология лжи",
+        "author": "Пол Экман",
+        "notes": "",
+        "createdAt": "2017-08-03 22:41:03",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 60
+        }
+    },
     "4--ABTjtDa": {
         "id": "4--ABTjtDa",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 30
-        }
-    },
-    "CRfIuP6VMR": {
-        "id": "CRfIuP6VMR",
-        "title": "Искусство слышать стук сердца",
-        "author": "Ян-Филипп Зендкер",
-        "notes": "",
-        "createdAt": "2017-08-03 17:43:50",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 29
         }
     }
 }
