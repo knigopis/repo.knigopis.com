@@ -1,4 +1,16 @@
 {
+    "x_yycnNPiT": {
+        "id": "x_yycnNPiT",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-08-03 17:28:41",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 11
+        }
+    },
     "3Rsk5QcrgU": {
         "id": "3Rsk5QcrgU",
         "title": "Над кукушкиным гнездом",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 88
-        }
-    },
-    "jWzMCXRHA8": {
-        "id": "jWzMCXRHA8",
-        "title": "Эффект Бабочки",
-        "author": "Джеймс Сваллоу",
-        "notes": "",
-        "createdAt": "2017-07-28 06:55:20",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 87
         }
     }
 }
