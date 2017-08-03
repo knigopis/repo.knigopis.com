@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[annwayt](users/319/31966279-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>25</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ohsubbotina](users/556/556889019-twitter)<sup>0</sup> 
 [Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>4</sup> 
 
 
-_03.08.2017 16:32:11_
+_03.08.2017 17:20:58_
