@@ -1,4 +1,16 @@
 {
+    "gkknybSNVv": {
+        "id": "gkknybSNVv",
+        "title": "Утраченный символ",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-08-03 17:36:34",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 22
+        }
+    },
     "l_G0uPHREp": {
         "id": "l_G0uPHREp",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 26
-        }
-    },
-    "-hoomYyxT9": {
-        "id": "-hoomYyxT9",
-        "title": "Почти идеальные люди. Вся правда о жизни в \"Скандинавском раю\"",
-        "author": "Майкл Бут",
-        "notes": "",
-        "createdAt": "2017-07-31 11:36:56",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 91
         }
     }
 }
