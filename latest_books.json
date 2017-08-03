@@ -1,4 +1,16 @@
 {
+    "aQrwVbeWgC": {
+        "id": "aQrwVbeWgC",
+        "title": "Исповедь о жизни",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2017-08-03 17:23:45",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 3
+        }
+    },
     "VkmM5klRwc": {
         "id": "VkmM5klRwc",
         "title": "Лето, прощай",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 80
-        }
-    },
-    "eIpjZEgzp_": {
-        "id": "eIpjZEgzp_",
-        "title": "Узница Шато-Гайара",
-        "author": "Морис Дрюон",
-        "notes": "",
-        "createdAt": "2017-07-27 21:02:44",
-        "user": {
-            "id": "215227771-vkontakte",
-            "nickname": "Clémence",
-            "booksCount": 2
         }
     }
 }
