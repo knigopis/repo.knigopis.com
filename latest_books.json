@@ -1,4 +1,16 @@
 {
+    "dDjNt3B_2n": {
+        "id": "dDjNt3B_2n",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-08-03 22:25:33",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 42
+        }
+    },
     "bHSeOz388Y": {
         "id": "bHSeOz388Y",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 13
-        }
-    },
-    "hBG46MXEjA": {
-        "id": "hBG46MXEjA",
-        "title": "Униженные и оскорбленные",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2017-08-03 17:29:10",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 12
         }
     }
 }

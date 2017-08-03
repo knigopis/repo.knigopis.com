@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>41</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>42</sup>
 ---
 
 ## 2017
@@ -126,6 +126,10 @@
 
 
 ## 2012
+
+### Джейн Эйр
+Шарлотта Бронте
+
 
 ### Тарас Бульба
 Николай Гоголь
