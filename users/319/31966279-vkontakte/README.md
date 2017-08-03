@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>38</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>39</sup>
 ---
 
 ## 2017
@@ -25,6 +25,10 @@
 
 
 ## 2016
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### О дивный новый мир
 Олдос Хаксли

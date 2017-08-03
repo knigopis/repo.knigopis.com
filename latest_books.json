@@ -1,4 +1,16 @@
 {
+    "ZauoemuHuv": {
+        "id": "ZauoemuHuv",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-08-03 22:21:17",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 39
+        }
+    },
     "PegOQjQB8C": {
         "id": "PegOQjQB8C",
         "title": "Приключения Шерлока Холмса",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 10
-        }
-    },
-    "W8CX4KlTZr": {
-        "id": "W8CX4KlTZr",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-08-03 17:27:02",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 9
         }
     }
 }
