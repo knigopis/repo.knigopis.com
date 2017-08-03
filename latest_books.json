@@ -1,4 +1,16 @@
 {
+    "rvFcpfy-sJ": {
+        "id": "rvFcpfy-sJ",
+        "title": "Процесс",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2017-08-03 22:30:15",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 51
+        }
+    },
     "rM5HfDfBNg": {
         "id": "rM5HfDfBNg",
         "title": "В людях",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 22
-        }
-    },
-    "l_G0uPHREp": {
-        "id": "l_G0uPHREp",
-        "title": "Инферно",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-08-03 17:35:59",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 21
         }
     }
 }
