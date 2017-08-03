@@ -1,4 +1,16 @@
 {
+    "CRfIuP6VMR": {
+        "id": "CRfIuP6VMR",
+        "title": "Искусство слышать стук сердца",
+        "author": "Ян-Филипп Зендкер",
+        "notes": "",
+        "createdAt": "2017-08-03 17:43:50",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 29
+        }
+    },
     "tdHJ0Qzaw9": {
         "id": "tdHJ0Qzaw9",
         "title": "Белые ночи",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 25
-        }
-    },
-    "KrExan69FL": {
-        "id": "KrExan69FL",
-        "title": "Процесс",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-08-03 11:40:43",
-        "user": {
-            "id": "114398174831177070999-google",
-            "nickname": "ZiggaFromNigga",
-            "booksCount": 6
         }
     }
 }
