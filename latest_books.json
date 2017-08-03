@@ -1,4 +1,16 @@
 {
+    "BFJiAegBdq": {
+        "id": "BFJiAegBdq",
+        "title": "Воспламеняющая взглядом",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-08-03 17:31:47",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 16
+        }
+    },
     "FUFRXY-LrE": {
         "id": "FUFRXY-LrE",
         "title": "Божественная комедия",
@@ -345,18 +357,6 @@
             "id": "102763689513347752702-google",
             "nickname": "Gregor Bjdantukevich",
             "booksCount": 1
-        }
-    },
-    "zKlXuT1_qo": {
-        "id": "zKlXuT1_qo",
-        "title": "От слов к делу!",
-        "author": "Ричард Ньютон, Киприан Расен",
-        "notes": "в процессе",
-        "createdAt": "2017-07-28 16:42:21",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 112
         }
     }
 }
