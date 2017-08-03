@@ -1,4 +1,16 @@
 {
+    "MSiijoeRpE": {
+        "id": "MSiijoeRpE",
+        "title": "Точка обмана",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-08-03 17:38:26",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 25
+        }
+    },
     "ahe6KAyBHe": {
         "id": "ahe6KAyBHe",
         "title": "Цифровая крепость",
@@ -345,18 +357,6 @@
             "id": "209723-vkontakte",
             "nickname": "okfine",
             "booksCount": 3
-        }
-    },
-    "vhJjFDBNN1": {
-        "id": "vhJjFDBNN1",
-        "title": "Синтаксис Любви",
-        "author": "Афанасьев",
-        "notes": "Огромная и скучная книга о классификации всех людей по 4 типам личности:\nВоля\nЭмоции\nЛогика \nФизика\nУ каждого человека есть эти 4 начала, расположенные в в порядке убывания.",
-        "createdAt": "2017-08-01 06:35:40",
-        "user": {
-            "id": "209723-vkontakte",
-            "nickname": "okfine",
-            "booksCount": 2
         }
     }
 }
