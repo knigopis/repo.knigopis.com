@@ -1,4 +1,16 @@
 {
+    "G0RS92X2LY": {
+        "id": "G0RS92X2LY",
+        "title": "Краткая история времени",
+        "author": "Стивен Хокинг",
+        "notes": "",
+        "createdAt": "2017-08-03 22:43:48",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 64
+        }
+    },
     "4zBVKxoxrP": {
         "id": "4zBVKxoxrP",
         "title": "Мне тебя обещали",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 34
-        }
-    },
-    "gmtFH_X3GU": {
-        "id": "gmtFH_X3GU",
-        "title": "Герой нашего времени",
-        "author": "Михаил Лермонтов",
-        "notes": "",
-        "createdAt": "2017-08-03 22:15:10",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 33
         }
     }
 }

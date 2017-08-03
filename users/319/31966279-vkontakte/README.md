@@ -1,7 +1,11 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>63</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>64</sup>
 ---
 
 ## 2017
+
+### Краткая история времени
+Стивен Хокинг
+
 
 ### Избранные произведения
 Леонардо да Винчи
