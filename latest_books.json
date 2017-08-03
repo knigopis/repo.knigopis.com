@@ -1,4 +1,16 @@
 {
+    "tdHJ0Qzaw9": {
+        "id": "tdHJ0Qzaw9",
+        "title": "Белые ночи",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-08-03 17:40:31",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 28
+        }
+    },
     "Mo3K4tiW8b": {
         "id": "Mo3K4tiW8b",
         "title": "Бесы",
@@ -345,18 +357,6 @@
             "id": "114398174831177070999-google",
             "nickname": "ZiggaFromNigga",
             "booksCount": 6
-        }
-    },
-    "X-fHt-4quj": {
-        "id": "X-fHt-4quj",
-        "title": "Дом на краю ночи",
-        "author": "Кэтрин Бэннер",
-        "notes": "Такие семейные саги, где описывается жизнь нескольких поколений, мне читать еще не приходилось, интересно. Итальянский колорит тоже добавляет разнообразия.",
-        "createdAt": "2017-08-03 05:11:10",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 36
         }
     }
 }
