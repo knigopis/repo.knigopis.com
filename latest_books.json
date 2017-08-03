@@ -1,4 +1,16 @@
 {
+    "eGPbSqHr7a": {
+        "id": "eGPbSqHr7a",
+        "title": "Игрок",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-08-03 17:24:28",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 4
+        }
+    },
     "aQrwVbeWgC": {
         "id": "aQrwVbeWgC",
         "title": "Исповедь о жизни",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 81
-        }
-    },
-    "o63zXFQ3kU": {
-        "id": "o63zXFQ3kU",
-        "title": "Человек, который смеётся",
-        "author": "В. Гюго",
-        "notes": "",
-        "createdAt": "2017-07-28 06:48:40",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 80
         }
     }
 }
