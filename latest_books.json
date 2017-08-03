@@ -1,4 +1,16 @@
 {
+    "l_G0uPHREp": {
+        "id": "l_G0uPHREp",
+        "title": "Инферно",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-08-03 17:35:59",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 21
+        }
+    },
     "t6_tEtMPQ0": {
         "id": "t6_tEtMPQ0",
         "title": "Код да Винчи",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 91
-        }
-    },
-    "FEIGTlLP6g": {
-        "id": "FEIGTlLP6g",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "Повесть",
-        "createdAt": "2017-07-30 21:01:32",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 33
         }
     }
 }
