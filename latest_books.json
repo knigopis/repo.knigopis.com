@@ -1,4 +1,16 @@
 {
+    "AHqfmCDC6Q": {
+        "id": "AHqfmCDC6Q",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2017-08-03 22:28:54",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 48
+        }
+    },
     "SV8GQMhqBG": {
         "id": "SV8GQMhqBG",
         "title": "Одиссея",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 19
-        }
-    },
-    "Yeejg7nkL6": {
-        "id": "Yeejg7nkL6",
-        "title": "Лето распада",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-08-03 17:33:08",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 18
         }
     }
 }
