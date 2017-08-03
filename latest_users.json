@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 36,
+        "updatedAt": "2017-08-03 05:11:10"
+    },
     "100001603844736-facebook": {
         "id": "100001603844736-facebook",
         "nickname": "Oksana",
@@ -82,12 +88,6 @@
         "nickname": "joan789",
         "booksCount": 60,
         "updatedAt": "2017-07-27 16:12:42"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 35,
-        "updatedAt": "2017-07-27 10:09:10"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",

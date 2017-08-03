@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
+    > Такие семейные саги, где описывается жизнь нескольких поколений, мне читать еще не приходилось, интересно. Итальянский колорит тоже добавляет разнообразия.
+
 * Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
     > В процессе
     > 
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > Очень жалко Лисенка
 
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
-    > Повесть
 
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
 
@@ -29,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Вино из одуванчиков ~ [joan789](users/240/2401650-vkontakte)<sup>60</sup>
 
-* Вафельное сердце ~ [Sky](users/118/118049897850017649660-google)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 [arisss](users/839/8399226-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>35</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup> 
 
 
-_02.08.2017 10:12:32_
+_03.08.2017 05:11:10_
