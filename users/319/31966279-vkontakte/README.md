@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>42</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>43</sup>
 ---
 
 ## 2017
@@ -25,6 +25,10 @@
 
 
 ## 2016
+
+### Над пропастью во ржи
+Джером Д. Сэлинджер
+
 
 ### А зори здесь тихие
 Борис Васильев

@@ -1,4 +1,16 @@
 {
+    "jlIR4V2zz_": {
+        "id": "jlIR4V2zz_",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-08-03 22:26:01",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 43
+        }
+    },
     "dDjNt3B_2n": {
         "id": "dDjNt3B_2n",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 14
-        }
-    },
-    "kdglOT4eEb": {
-        "id": "kdglOT4eEb",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-08-03 17:29:49",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 13
         }
     }
 }
