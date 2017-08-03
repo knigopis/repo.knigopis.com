@@ -1,4 +1,16 @@
 {
+    "VkmM5klRwc": {
+        "id": "VkmM5klRwc",
+        "title": "Лето, прощай",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-08-03 17:22:58",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 2
+        }
+    },
     "sOKZ9MNzZj": {
         "id": "sOKZ9MNzZj",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "215227771-vkontakte",
             "nickname": "Clémence",
             "booksCount": 2
-        }
-    },
-    "k6v5JD2rRI": {
-        "id": "k6v5JD2rRI",
-        "title": "Железный король",
-        "author": "Морис Дрюон",
-        "notes": "",
-        "createdAt": "2017-07-27 20:59:32",
-        "user": {
-            "id": "215227771-vkontakte",
-            "nickname": "Clémence",
-            "booksCount": 1
         }
     }
 }
