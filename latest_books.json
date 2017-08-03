@@ -1,4 +1,16 @@
 {
+    "rM5HfDfBNg": {
+        "id": "rM5HfDfBNg",
+        "title": "В людях",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-08-03 22:29:38",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 50
+        }
+    },
     "GuFeK83iNV": {
         "id": "GuFeK83iNV",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 21
-        }
-    },
-    "t6_tEtMPQ0": {
-        "id": "t6_tEtMPQ0",
-        "title": "Код да Винчи",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-08-03 17:35:14",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 20
         }
     }
 }
