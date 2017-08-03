@@ -1,4 +1,16 @@
 {
+    "hBG46MXEjA": {
+        "id": "hBG46MXEjA",
+        "title": "Униженные и оскорбленные",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-08-03 17:29:10",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 12
+        }
+    },
     "x_yycnNPiT": {
         "id": "x_yycnNPiT",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 24
-        }
-    },
-    "voJkKDB32q": {
-        "id": "voJkKDB32q",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-07-28 06:55:57",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 88
         }
     }
 }
