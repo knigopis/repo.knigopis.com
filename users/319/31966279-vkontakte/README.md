@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>16</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>17</sup>
 ---
 
 ## 2017
@@ -48,6 +48,10 @@
 
 
 ## 2015
+
+### Рита Хейоуорт и спасение из Шоушенка
+Стивен Кинг
+
 
 ### Множественные умы Билли Миллигана
 Дэниел Киз
