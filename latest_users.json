@@ -1,4 +1,10 @@
 {
+    "197276378-vkontakte": {
+        "id": "197276378-vkontakte",
+        "nickname": "tragicianrainbow",
+        "booksCount": 0,
+        "updatedAt": "2017-08-03 11:46:36"
+    },
     "153694786-vkontakte": {
         "id": "153694786-vkontakte",
         "nickname": "alina_fo",
@@ -172,11 +178,5 @@
         "nickname": "Лорд Пудинг",
         "booksCount": 0,
         "updatedAt": "2017-07-25 09:55:24"
-    },
-    "1431088546976250-facebook": {
-        "id": "1431088546976250-facebook",
-        "nickname": "irina sarafova",
-        "booksCount": 1,
-        "updatedAt": "2017-07-25 06:53:48"
     }
 }
