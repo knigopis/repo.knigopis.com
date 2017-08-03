@@ -1,4 +1,16 @@
 {
+    "F0PhlWBKh8": {
+        "id": "F0PhlWBKh8",
+        "title": "Удушьк",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-08-03 22:46:16",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 66
+        }
+    },
     "ZGV9buxU-a": {
         "id": "ZGV9buxU-a",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 36
-        }
-    },
-    "H5SB57siXq": {
-        "id": "H5SB57siXq",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2017-08-03 22:17:54",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 35
         }
     }
 }
