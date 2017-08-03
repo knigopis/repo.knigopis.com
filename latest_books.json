@@ -1,4 +1,16 @@
 {
+    "eWAUD-35YT": {
+        "id": "eWAUD-35YT",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-08-03 17:25:08",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 5
+        }
+    },
     "eGPbSqHr7a": {
         "id": "eGPbSqHr7a",
         "title": "Игрок",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 82
-        }
-    },
-    "QL-k4h0DWg": {
-        "id": "QL-k4h0DWg",
-        "title": "Морской Волк",
-        "author": "Дж.Лондон",
-        "notes": "",
-        "createdAt": "2017-07-28 06:49:14",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 81
         }
     }
 }
