@@ -1,4 +1,16 @@
 {
+    "wPYsTa0TXz": {
+        "id": "wPYsTa0TXz",
+        "title": "Парфюмер",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2017-08-03 22:36:02",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 55
+        }
+    },
     "0SFGjX6CqF": {
         "id": "0SFGjX6CqF",
         "title": "Серия книг о Гарри Поттере",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 26
-        }
-    },
-    "MSiijoeRpE": {
-        "id": "MSiijoeRpE",
-        "title": "Точка обмана",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-08-03 17:38:26",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 25
         }
     }
 }
