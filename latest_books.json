@@ -1,4 +1,16 @@
 {
+    "ufxAW41yjM": {
+        "id": "ufxAW41yjM",
+        "title": "Тело",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-08-03 17:33:47",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 19
+        }
+    },
     "Yeejg7nkL6": {
         "id": "Yeejg7nkL6",
         "title": "Лето распада",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 32
-        }
-    },
-    "3ZsSCvcms_": {
-        "id": "3ZsSCvcms_",
-        "title": "После Огня",
-        "author": "Олли Вингет",
-        "notes": "сказка-антиутопия.",
-        "createdAt": "2017-07-30 06:34:33",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 25
         }
     }
 }
