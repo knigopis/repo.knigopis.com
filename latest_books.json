@@ -1,4 +1,16 @@
 {
+    "SV8GQMhqBG": {
+        "id": "SV8GQMhqBG",
+        "title": "Одиссея",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2017-08-03 22:27:47",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 47
+        }
+    },
     "QQppN8Qpa7": {
         "id": "QQppN8Qpa7",
         "title": "Илиада",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 18
-        }
-    },
-    "BK1LaoFoyM": {
-        "id": "BK1LaoFoyM",
-        "title": "Рита Хейоуорт и спасение из Шоушенка",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-08-03 17:32:42",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 17
         }
     }
 }
