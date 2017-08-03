@@ -1,4 +1,16 @@
 {
+    "bHSeOz388Y": {
+        "id": "bHSeOz388Y",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-08-03 22:23:56",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 41
+        }
+    },
     "IdlZ2Qk3Yt": {
         "id": "IdlZ2Qk3Yt",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 12
-        }
-    },
-    "x_yycnNPiT": {
-        "id": "x_yycnNPiT",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-08-03 17:28:41",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 11
         }
     }
 }
