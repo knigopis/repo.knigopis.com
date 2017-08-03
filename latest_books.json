@@ -1,4 +1,16 @@
 {
+    "0SFGjX6CqF": {
+        "id": "0SFGjX6CqF",
+        "title": "Серия книг о Гарри Поттере",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-08-03 22:34:06",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 54
+        }
+    },
     "lcJNV5-ysO": {
         "id": "lcJNV5-ysO",
         "title": "10 негритят",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 25
-        }
-    },
-    "ahe6KAyBHe": {
-        "id": "ahe6KAyBHe",
-        "title": "Цифровая крепость",
-        "author": "Дэн Браун",
-        "notes": "",
-        "createdAt": "2017-08-03 17:38:12",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 24
         }
     }
 }
