@@ -1,4 +1,16 @@
 {
+    "QQppN8Qpa7": {
+        "id": "QQppN8Qpa7",
+        "title": "Илиада",
+        "author": "Гомер",
+        "notes": "",
+        "createdAt": "2017-08-03 22:27:37",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 46
+        }
+    },
     "FA8N4UIaBo": {
         "id": "FA8N4UIaBo",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 17
-        }
-    },
-    "BFJiAegBdq": {
-        "id": "BFJiAegBdq",
-        "title": "Воспламеняющая взглядом",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-08-03 17:31:47",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 16
         }
     }
 }
