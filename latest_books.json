@@ -1,4 +1,16 @@
 {
+    "FUFRXY-LrE": {
+        "id": "FUFRXY-LrE",
+        "title": "Божественная комедия",
+        "author": "Данте Алигъери",
+        "notes": "",
+        "createdAt": "2017-08-03 17:31:17",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 15
+        }
+    },
     "0nJSImfBh2": {
         "id": "0nJSImfBh2",
         "title": "О жизни",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 112
-        }
-    },
-    "b3rk0DNLCH": {
-        "id": "b3rk0DNLCH",
-        "title": "Боги, святилища, обряды Японии. Энциклопедия Синто",
-        "author": "",
-        "notes": "http://www.ozon.ru/context/detail/id/5524641/\n\nв процессе",
-        "createdAt": "2017-07-28 16:41:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 111
         }
     }
 }
