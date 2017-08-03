@@ -1,4 +1,16 @@
 {
+    "kdglOT4eEb": {
+        "id": "kdglOT4eEb",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-08-03 17:29:49",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 13
+        }
+    },
     "hBG46MXEjA": {
         "id": "hBG46MXEjA",
         "title": "Униженные и оскорбленные",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 89
-        }
-    },
-    "BSwfhZNZny": {
-        "id": "BSwfhZNZny",
-        "title": "Вафли по-шпионски",
-        "author": "Вильмонт Екатерина",
-        "notes": "Вильмонт в своем стиле. Сказка.... Хотя язык мне очень нравится",
-        "createdAt": "2017-07-28 07:47:04",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 24
         }
     }
 }
