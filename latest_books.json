@@ -1,4 +1,16 @@
 {
+    "0XppxNTKF9": {
+        "id": "0XppxNTKF9",
+        "title": "Мы",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2017-08-03 17:26:25",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 8
+        }
+    },
     "uNFsQhvOsQ": {
         "id": "uNFsQhvOsQ",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 85
-        }
-    },
-    "INaY9zc0_D": {
-        "id": "INaY9zc0_D",
-        "title": "Сумерки",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2017-07-28 06:52:11",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 84
         }
     }
 }
