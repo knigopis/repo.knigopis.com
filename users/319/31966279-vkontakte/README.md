@@ -1,4 +1,4 @@
-# List of books read by [annwayt](http://vk.com/id31966279)<sup>36</sup>
+# List of books read by [annwayt](http://vk.com/id31966279)<sup>37</sup>
 ---
 
 ## 2017
@@ -110,6 +110,10 @@
 
 
 ## 2012
+
+### Тарас Бульба
+Николай Гоголь
+
 
 ### Капитанская дочка
 Александр Пушкин
