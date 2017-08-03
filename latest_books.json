@@ -1,4 +1,16 @@
 {
+    "t6_tEtMPQ0": {
+        "id": "t6_tEtMPQ0",
+        "title": "Код да Винчи",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2017-08-03 17:35:14",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 20
+        }
+    },
     "ufxAW41yjM": {
         "id": "ufxAW41yjM",
         "title": "Тело",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 33
-        }
-    },
-    "Wj1S7TP20a": {
-        "id": "Wj1S7TP20a",
-        "title": "Скорбь Сатаны",
-        "author": "Брэм Стокер",
-        "notes": "",
-        "createdAt": "2017-07-30 18:13:33",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 32
         }
     }
 }
