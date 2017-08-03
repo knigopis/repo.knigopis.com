@@ -1,4 +1,16 @@
 {
+    "sOKZ9MNzZj": {
+        "id": "sOKZ9MNzZj",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-08-03 17:22:04",
+        "user": {
+            "id": "31966279-vkontakte",
+            "nickname": "annwayt",
+            "booksCount": 1
+        }
+    },
     "8eZ337QHAq": {
         "id": "8eZ337QHAq",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "215227771-vkontakte",
             "nickname": "Clémence",
             "booksCount": 1
-        }
-    },
-    "XP1mLBitGh": {
-        "id": "XP1mLBitGh",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2017-07-27 19:49:25",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 31
         }
     }
 }
