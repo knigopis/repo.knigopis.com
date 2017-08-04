@@ -1,4 +1,10 @@
 {
+    "72966504-vkontakte": {
+        "id": "72966504-vkontakte",
+        "nickname": "avengerprofessional",
+        "booksCount": 0,
+        "updatedAt": "2017-08-04 19:20:20"
+    },
     "1447894-vkontakte": {
         "id": "1447894-vkontakte",
         "nickname": "skorobogatova_n",
@@ -172,11 +178,5 @@
         "nickname": "silin_mihail",
         "booksCount": 1,
         "updatedAt": "2017-07-26 20:09:48"
-    },
-    "192185074-vkontakte": {
-        "id": "192185074-vkontakte",
-        "nickname": "Hikari",
-        "booksCount": 0,
-        "updatedAt": "2017-07-26 13:19:07"
     }
 }
