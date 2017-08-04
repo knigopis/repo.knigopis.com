@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>549</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>263</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
 [silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
 [Hikari](users/192/192185074-vkontakte)<sup>0</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>62</sup> 
 
 
-_04.08.2017 08:24:40_
+_04.08.2017 17:27:47_
