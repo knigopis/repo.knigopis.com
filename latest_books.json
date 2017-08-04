@@ -1,4 +1,16 @@
 {
+    "y9iksL6miV": {
+        "id": "y9iksL6miV",
+        "title": "апрапрапр",
+        "author": "апрапрапр",
+        "notes": "апрапрапрп",
+        "createdAt": "2017-08-04 19:20:45",
+        "user": {
+            "id": "72966504-vkontakte",
+            "nickname": "avengerprofessional",
+            "booksCount": 1
+        }
+    },
     "uDm8wqrR3f": {
         "id": "uDm8wqrR3f",
         "title": "Тень горы",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 39
-        }
-    },
-    "PegOQjQB8C": {
-        "id": "PegOQjQB8C",
-        "title": "Приключения Шерлока Холмса",
-        "author": "Артур Конан Дойль",
-        "notes": "",
-        "createdAt": "2017-08-03 22:20:04",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 38
         }
     }
 }
