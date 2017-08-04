@@ -36,8 +36,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
+[annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>25</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
 [alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>29</sup> 
 
 
-_03.08.2017 22:46:17_
+_04.08.2017 01:24:12_
