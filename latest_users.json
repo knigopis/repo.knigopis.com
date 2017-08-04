@@ -1,4 +1,10 @@
 {
+    "1447894-vkontakte": {
+        "id": "1447894-vkontakte",
+        "nickname": "skorobogatova_n",
+        "booksCount": 0,
+        "updatedAt": "2017-08-04 17:27:43"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Hikari",
         "booksCount": 0,
         "updatedAt": "2017-07-26 13:19:07"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 62,
-        "updatedAt": "2017-07-26 11:34:20"
     }
 }
