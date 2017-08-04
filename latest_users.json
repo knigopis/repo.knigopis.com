@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 549,
+        "updatedAt": "2017-08-04 08:24:39"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "develchip",
         "booksCount": 62,
         "updatedAt": "2017-07-26 11:34:20"
-    },
-    "556889019-twitter": {
-        "id": "556889019-twitter",
-        "nickname": "ohsubbotina",
-        "booksCount": 0,
-        "updatedAt": "2017-07-26 10:47:55"
     }
 }
