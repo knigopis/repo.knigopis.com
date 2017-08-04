@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>262</sup>
+# Список прочитанных книг пользователя [HXT](https://www.facebook.com/app_scoped_user_id/100002563462782/)<sup>263</sup>
 ---
 
 ## 2017
+
+### The cursed child
+J.Roowling
+> [2017-08-04] 
+
 
 ### Кодекс состоятельных. Живи как 1% в Мире
 Пол Салливан

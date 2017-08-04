@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>263</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Hikari](users/192/192185074-vkontakte)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>62</sup> 
 [ohsubbotina](users/556/556889019-twitter)<sup>0</sup> 
-[Яна](users/200/20033623-vkontakte)<sup>0</sup> 
 
 
-_04.08.2017 05:05:02_
+_04.08.2017 05:33:14_
