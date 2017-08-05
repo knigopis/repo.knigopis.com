@@ -1,4 +1,10 @@
 {
+    "148358852-vkontakte": {
+        "id": "148358852-vkontakte",
+        "nickname": "denisova_elena1989",
+        "booksCount": 0,
+        "updatedAt": "2017-08-05 17:27:45"
+    },
     "339468028-vkontakte": {
         "id": "339468028-vkontakte",
         "nickname": "настя",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 105,
         "updatedAt": "2017-07-27 09:37:29"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 28,
-        "updatedAt": "2017-07-27 06:31:39"
     }
 }
