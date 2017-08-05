@@ -1,4 +1,10 @@
 {
+    "339468028-vkontakte": {
+        "id": "339468028-vkontakte",
+        "nickname": "настя",
+        "booksCount": 0,
+        "updatedAt": "2017-08-05 12:31:21"
+    },
     "241221205-vkontakte": {
         "id": "241221205-vkontakte",
         "nickname": "nataliecarter",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 28,
         "updatedAt": "2017-07-27 06:31:39"
-    },
-    "103869594497189251620-google": {
-        "id": "103869594497189251620-google",
-        "nickname": "forgame904",
-        "booksCount": 0,
-        "updatedAt": "2017-07-27 05:12:17"
     }
 }
