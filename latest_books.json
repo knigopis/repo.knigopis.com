@@ -1,4 +1,16 @@
 {
+    "U91Tup9tso": {
+        "id": "U91Tup9tso",
+        "title": "Лишенные совести: пугающий мир психопатов",
+        "author": "Роберт Д. Хаэр",
+        "notes": "",
+        "createdAt": "2017-08-05 23:38:15",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 34
+        }
+    },
     "LTqvdXH6zK": {
         "id": "LTqvdXH6zK",
         "title": "господин из Сан-Франциско",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 41
-        }
-    },
-    "IdlZ2Qk3Yt": {
-        "id": "IdlZ2Qk3Yt",
-        "title": "А зори здесь тихие",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2017-08-03 22:22:56",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 40
         }
     }
 }

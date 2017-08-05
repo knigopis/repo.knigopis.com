@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>33</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>34</sup>
 ---
 
 ## 2017
+
+### Лишенные совести: пугающий мир психопатов
+Роберт Д. Хаэр
+> [2017-08-06] 
+
 
 ### Превращение
 Франц Кафка

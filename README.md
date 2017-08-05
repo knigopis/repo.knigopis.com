@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>33</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 
 
-_05.08.2017 17:27:49_
+_05.08.2017 23:38:15_
