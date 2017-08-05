@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>549</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 [forgame904](users/103/103869594497189251620-google)<sup>0</sup> 
-[silin_mihail](users/133/1335076-vkontakte)<sup>1</sup> 
 
 
-_04.08.2017 19:20:45_
+_05.08.2017 07:51:08_
