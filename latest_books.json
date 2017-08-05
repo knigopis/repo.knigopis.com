@@ -1,4 +1,16 @@
 {
+    "LTqvdXH6zK": {
+        "id": "LTqvdXH6zK",
+        "title": "господин из Сан-Франциско",
+        "author": "Бунин",
+        "notes": "",
+        "createdAt": "2017-08-05 12:41:50",
+        "user": {
+            "id": "339468028-vkontakte",
+            "nickname": "настя",
+            "booksCount": 1
+        }
+    },
     "y9iksL6miV": {
         "id": "y9iksL6miV",
         "title": "апрапрапр",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 40
-        }
-    },
-    "ZauoemuHuv": {
-        "id": "ZauoemuHuv",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-08-03 22:21:17",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 39
         }
     }
 }
