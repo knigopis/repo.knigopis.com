@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>28</sup> 
 
 
-_05.08.2017 12:41:50_
+_05.08.2017 17:27:49_
