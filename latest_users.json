@@ -1,4 +1,10 @@
 {
+    "241221205-vkontakte": {
+        "id": "241221205-vkontakte",
+        "nickname": "nataliecarter",
+        "booksCount": 0,
+        "updatedAt": "2017-08-05 07:51:05"
+    },
     "72966504-vkontakte": {
         "id": "72966504-vkontakte",
         "nickname": "avengerprofessional",
@@ -172,11 +178,5 @@
         "nickname": "forgame904",
         "booksCount": 0,
         "updatedAt": "2017-07-27 05:12:17"
-    },
-    "1335076-vkontakte": {
-        "id": "1335076-vkontakte",
-        "nickname": "silin_mihail",
-        "booksCount": 1,
-        "updatedAt": "2017-07-26 20:09:48"
     }
 }
