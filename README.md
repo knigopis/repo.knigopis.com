@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>46</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 
 
-_06.08.2017 03:33:23_
+_06.08.2017 05:15:28_
