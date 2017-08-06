@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 141,
+        "updatedAt": "2017-08-06 13:36:24"
+    },
     "114389869162010721507-google": {
         "id": "114389869162010721507-google",
         "nickname": "Garri938",
@@ -64,12 +70,6 @@
         "nickname": "bohgalt",
         "booksCount": 0,
         "updatedAt": "2017-08-04 05:05:00"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 141,
-        "updatedAt": "2017-08-04 01:36:43"
     },
     "31966279-vkontakte": {
         "id": "31966279-vkontakte",

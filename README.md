@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>549</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>25</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 
 
-_06.08.2017 07:08:44_
+_06.08.2017 13:36:24_
