@@ -1,4 +1,10 @@
 {
+    "114389869162010721507-google": {
+        "id": "114389869162010721507-google",
+        "nickname": "Garri938",
+        "booksCount": 31,
+        "updatedAt": "2017-08-06 06:37:43"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 31,
         "updatedAt": "2017-07-27 19:49:25"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 60,
-        "updatedAt": "2017-07-27 16:12:42"
     }
 }

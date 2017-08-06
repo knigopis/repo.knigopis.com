@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
+    > Исторический роман. Патриотичный. Об истории того периода. О жизни  карьере людей, о том какой иной раз приходится делать выбор. Читать интересно потому что автор использует словесные обороты того периода а они звучат сейчас не обычно. Одна из главных идей книги что русский мужик очень терпелив и в том крут мне конечно не нравится.
+
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
     > ASIN: B005ERIRWM
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Такие семейные саги, где описывается жизнь нескольких поколений, мне читать еще не приходилось, интересно. Итальянский колорит тоже добавляет разнообразия.
 
 * Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
-    > В процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/27071402/
 
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Боги, святилища, обряды Японии. Энциклопедия Синто ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>111</sup>
 
-* Вафли по-шпионски ~ [Chiffi](users/105/105831994080785626680-google)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garri938](users/114/114389869162010721507-google)<sup>31</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>60</sup> 
 
 
-_06.08.2017 05:24:06_
+_06.08.2017 06:37:43_
