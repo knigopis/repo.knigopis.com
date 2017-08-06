@@ -1,4 +1,16 @@
 {
+    "xFYHKDW8AZ": {
+        "id": "xFYHKDW8AZ",
+        "title": "Один день",
+        "author": "Девид Николс",
+        "notes": "Романтика. Мне понравилась",
+        "createdAt": "2017-08-06 06:54:27",
+        "user": {
+            "id": "114389869162010721507-google",
+            "nickname": "Garri938",
+            "booksCount": 32
+        }
+    },
     "ZvSVya8sAN": {
         "id": "ZvSVya8sAN",
         "title": "Россия молодая",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 30
-        }
-    },
-    "zvue16UM6o": {
-        "id": "zvue16UM6o",
-        "title": "Дина: Чудесный дар",
-        "author": "Лине Кобербёль",
-        "notes": "Книга 1",
-        "createdAt": "2017-07-23 16:43:50",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 121
         }
     }
 }

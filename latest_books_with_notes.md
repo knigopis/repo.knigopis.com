@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
 * Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
 * Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
 * Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
-* Дина: Чудесный дар ~ [EsterHani](users/305/30558181-vkontakte)<sup>121</sup>
 
 
-_06.08.2017 06:37:43_
+_06.08.2017 06:54:27_
