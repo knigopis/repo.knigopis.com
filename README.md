@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Время ангелов ~ [Garri938](users/114/114389869162010721507-google)<sup>33</sup>
+    > Место действие Англия Зима. Мрачноватая книга, но захватывающая. Этот туман и ты вместе с героями пытаешь разобраться, что собственно происходит. Книга о любви, религии и переживаниях главных героев.
+
 * Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
     > Романтика. Мне понравилась
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Исторический роман. Патриотичный. Об истории того периода. О жизни  карьере людей, о том какой иной раз приходится делать выбор. Читать интересно потому что автор использует словесные обороты того периода а они звучат сейчас не обычно. Одна из главных идей книги что русский мужик очень терпелив и в том крут мне конечно не нравится.
 
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
-    > ASIN: B005ERIRWM
 
 * Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
 
-* От слов к делу! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>112</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garri938](users/114/114389869162010721507-google)<sup>32</sup> 
+[Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 
 
-_06.08.2017 06:54:27_
+_06.08.2017 07:08:44_

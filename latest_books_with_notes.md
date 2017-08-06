@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Время ангелов ~ [Garri938](users/114/114389869162010721507-google)<sup>33</sup>
 * Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
 * Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Здесь мертвецы под сводом спят ~ [Sky](users/118/118049897850017649660-google)<sup>14</sup>
 * Абсолютные миротворцы ~ [Chiffi](users/105/105831994080785626680-google)<sup>22</sup>
 * В начале была командная строка - Стивенсон Нил ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>88</sup>
-* Мрачный Жнец ~ [Eji_tyan](users/235/2352103981-twitter)<sup>30</sup>
 
 
-_06.08.2017 06:54:27_
+_06.08.2017 07:08:44_
