@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
+    > ASIN: B005ERIRWM
+
 * Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
     > Такие семейные саги, где описывается жизнь нескольких поколений, мне читать еще не приходилось, интересно. Итальянский колорит тоже добавляет разнообразия.
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/27071402/
 
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
-    > Продолжение После Огня.  
-    > Очень жалко Лисенка
 
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Вафли по-шпионски ~ [Chiffi](users/105/105831994080785626680-google)<sup>24</sup>
 
-* Вино из одуванчиков ~ [joan789](users/240/2401650-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>46</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>60</sup> 
 
 
-_06.08.2017 05:15:28_
+_06.08.2017 05:24:06_
