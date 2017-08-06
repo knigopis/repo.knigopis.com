@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 264,
+        "updatedAt": "2017-08-06 03:33:23"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -40,12 +46,6 @@
         "nickname": "Janet",
         "booksCount": 549,
         "updatedAt": "2017-08-04 08:24:39"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 263,
-        "updatedAt": "2017-08-04 05:33:13"
     },
     "105937324042538676643-google": {
         "id": "105937324042538676643-google",

@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>34</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>549</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>263</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>105</sup> 
 
 
-_05.08.2017 23:38:15_
+_06.08.2017 03:33:23_
