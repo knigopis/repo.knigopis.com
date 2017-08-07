@@ -1,4 +1,10 @@
 {
+    "234665915-yandex": {
+        "id": "234665915-yandex",
+        "nickname": "Lilligreem",
+        "booksCount": 0,
+        "updatedAt": "2017-08-07 15:42:23"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Gregor Bjdantukevich",
         "booksCount": 1,
         "updatedAt": "2017-07-28 20:51:06"
-    },
-    "215227771-vkontakte": {
-        "id": "215227771-vkontakte",
-        "nickname": "Clémence",
-        "booksCount": 2,
-        "updatedAt": "2017-07-27 21:02:44"
     }
 }
