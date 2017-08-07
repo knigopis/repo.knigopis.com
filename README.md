@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>27</sup> 
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
-[Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
 
 
-_07.08.2017 12:26:49_
+_07.08.2017 15:42:26_
