@@ -1,4 +1,16 @@
 {
+    "YQew7L85kd": {
+        "id": "YQew7L85kd",
+        "title": "Американская трагедия",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2017-08-07 18:34:25",
+        "user": {
+            "id": "113794223924688167852-google",
+            "nickname": "Victoria",
+            "booksCount": 29
+        }
+    },
     "XCXdVpkCYH": {
         "id": "XCXdVpkCYH",
         "title": "Геройские дела русского оружия 1877-1878 Война с Турками на Балканах",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 52
-        }
-    },
-    "rvFcpfy-sJ": {
-        "id": "rvFcpfy-sJ",
-        "title": "Процесс",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-08-03 22:30:15",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 51
         }
     }
 }

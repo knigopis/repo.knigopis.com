@@ -1,7 +1,12 @@
-# List of books read by Victoria<sup>28</sup>
+# List of books read by Victoria<sup>29</sup>
 ---
 
 ## 2017
+
+### Американская трагедия
+Теодор Драйзер
+> [2017-08-01] 
+
 
 ### Сборник "Мисс Марпл"
 Агата Кристи

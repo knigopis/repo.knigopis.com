@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>29</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>27</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
-[SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 
 
-_07.08.2017 16:28:22_
+_07.08.2017 18:34:25_
