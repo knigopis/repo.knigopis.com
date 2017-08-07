@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
 [Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 [Clémence](users/215/215227771-vkontakte)<sup>2</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>31</sup> 
 
 
-_06.08.2017 15:29:54_
+_07.08.2017 10:40:21_
