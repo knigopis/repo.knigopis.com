@@ -1,4 +1,16 @@
 {
+    "XCXdVpkCYH": {
+        "id": "XCXdVpkCYH",
+        "title": "Геройские дела русского оружия 1877-1878 Война с Турками на Балканах",
+        "author": "",
+        "notes": "стр 30 первая смерть казака\nстр 94 Жестокость турок в Болгарии\nПро казаков в книге мало.",
+        "createdAt": "2017-08-07 16:28:22",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 24
+        }
+    },
     "_7s2q0-9_g": {
         "id": "_7s2q0-9_g",
         "title": "Не стреляйте белых лебедей",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 51
-        }
-    },
-    "rM5HfDfBNg": {
-        "id": "rM5HfDfBNg",
-        "title": "В людях",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-08-03 22:29:38",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 50
         }
     }
 }

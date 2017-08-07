@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 24,
+        "updatedAt": "2017-08-07 16:28:22"
+    },
     "234665915-yandex": {
         "id": "234665915-yandex",
         "nickname": "Lilligreem",
@@ -172,11 +178,5 @@
         "nickname": "SMedgaus",
         "booksCount": 8,
         "updatedAt": "2017-07-29 16:41:30"
-    },
-    "102763689513347752702-google": {
-        "id": "102763689513347752702-google",
-        "nickname": "Gregor Bjdantukevich",
-        "booksCount": 1,
-        "updatedAt": "2017-07-28 20:51:06"
     }
 }

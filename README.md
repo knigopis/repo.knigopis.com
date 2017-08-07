@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Геройские дела русского оружия 1877-1878 Война с Турками на Балканах ~ [mfevralev](users/140/140966150-vkontakte)<sup>24</sup>
+    > стр 30 первая смерть казака
+    > стр 94 Жестокость турок в Болгарии
+    > Про казаков в книге мало.
+
 * Не стреляйте белых лебедей ~ [Rainbow](users/109/109787328219839805802-google)<sup>27</sup>
     > «И еще были тятькины правила. Простые: никому и никогда никаких правил не навязывать. И он не навязывал. Он всегда жил тихо и застенчиво: все озирался, не мешает ли кому, не застит ли солнышка, не путается ли в ногах. » 
     > 
@@ -21,7 +26,6 @@ Do not use pull requests to make changes here.
     > Плакала половину произведения
 
 * Время ангелов ~ [Garri938](users/114/114389869162010721507-google)<sup>33</sup>
-    > Место действие Англия Зима. Мрачноватая книга, но захватывающая. Этот туман и ты вместе с героями пытаешь разобраться, что собственно происходит. Книга о любви, религии и переживаниях главных героев.
 
 * Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
 
@@ -35,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 
-* Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>27</sup> 
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
@@ -71,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup> 
-[Gregor Bjdantukevich](users/102/102763689513347752702-google)<sup>1</sup> 
 
 
-_07.08.2017 15:42:26_
+_07.08.2017 16:28:22_
