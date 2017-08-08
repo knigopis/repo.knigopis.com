@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>34</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>35</sup>
 ---
 
 ## 2017
+
+### Откровение (Апокалипсис)
+Иоанн Богослов
+> [2017-08-08] 
+
 
 ### Лишенные совести: пугающий мир психопатов
 Роберт Д. Хаэр

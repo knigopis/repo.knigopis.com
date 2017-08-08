@@ -1,4 +1,16 @@
 {
+    "isk5NPQFLu": {
+        "id": "isk5NPQFLu",
+        "title": "Откровение (Апокалипсис)",
+        "author": "Иоанн Богослов",
+        "notes": "",
+        "createdAt": "2017-08-08 01:15:32",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 35
+        }
+    },
     "og5LhgXb7i": {
         "id": "og5LhgXb7i",
         "title": "Семь циферблатов",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 54
-        }
-    },
-    "lcJNV5-ysO": {
-        "id": "lcJNV5-ysO",
-        "title": "10 негритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-08-03 22:32:37",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 53
         }
     }
 }
