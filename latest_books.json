@@ -1,4 +1,16 @@
 {
+    "Og8d7PWU5T": {
+        "id": "Og8d7PWU5T",
+        "title": "Престиж",
+        "author": "Кристофер Прист",
+        "notes": "",
+        "createdAt": "2017-08-08 11:47:07",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 104
+        }
+    },
     "rKtxCP2kXT": {
         "id": "rKtxCP2kXT",
         "title": "Торжество возвышенного",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 56
-        }
-    },
-    "wPYsTa0TXz": {
-        "id": "wPYsTa0TXz",
-        "title": "Парфюмер",
-        "author": "Патрик Зюскинд",
-        "notes": "",
-        "createdAt": "2017-08-03 22:36:02",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 55
         }
     }
 }

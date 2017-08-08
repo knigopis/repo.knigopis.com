@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>550</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
-[annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 
 
-_08.08.2017 09:47:05_
+_08.08.2017 11:47:07_

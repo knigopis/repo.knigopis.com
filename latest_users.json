@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 104,
+        "updatedAt": "2017-08-08 11:47:07"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Andrey",
         "booksCount": 0,
         "updatedAt": "2017-07-30 21:36:22"
-    },
-    "159468103-vkontakte": {
-        "id": "159468103-vkontakte",
-        "nickname": "annushkash92",
-        "booksCount": 0,
-        "updatedAt": "2017-07-29 19:57:03"
     }
 }
