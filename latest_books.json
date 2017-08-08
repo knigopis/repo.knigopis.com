@@ -1,4 +1,16 @@
 {
+    "gJ5jutow98": {
+        "id": "gJ5jutow98",
+        "title": "Торжество возвышенного",
+        "author": "Нагиб Махфуз",
+        "notes": "",
+        "createdAt": "2017-08-08 09:45:46",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 550
+        }
+    },
     "isk5NPQFLu": {
         "id": "isk5NPQFLu",
         "title": "Откровение (Апокалипсис)",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 55
-        }
-    },
-    "0SFGjX6CqF": {
-        "id": "0SFGjX6CqF",
-        "title": "Серия книг о Гарри Поттере",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-08-03 22:34:06",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 54
         }
     }
 }

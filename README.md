@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>550</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>549</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 
 
-_08.08.2017 01:15:32_
+_08.08.2017 09:45:47_
