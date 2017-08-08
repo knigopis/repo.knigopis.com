@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>551</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>550</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [annushkash92](users/159/159468103-vkontakte)<sup>0</sup> 
 
 
-_08.08.2017 09:46:02_
+_08.08.2017 09:47:05_
