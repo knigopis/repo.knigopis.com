@@ -1,4 +1,16 @@
 {
+    "dJd2WXcvGq": {
+        "id": "dJd2WXcvGq",
+        "title": "Rework. Бизнес без предрассудков",
+        "author": "Джейсон Фрайд, Дэвид Хайнемайер Хенссон",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/5702223/",
+        "createdAt": "2017-08-08 18:14:33",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 114
+        }
+    },
     "aBnIjjhsaM": {
         "id": "aBnIjjhsaM",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 63
-        }
-    },
-    "nHYxVP6Hhq": {
-        "id": "nHYxVP6Hhq",
-        "title": "Любовь живет три года",
-        "author": "Эльчин Сафарли",
-        "notes": "",
-        "createdAt": "2017-08-03 22:43:05",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 62
         }
     }
 }
