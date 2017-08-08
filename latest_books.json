@@ -1,4 +1,16 @@
 {
+    "aBnIjjhsaM": {
+        "id": "aBnIjjhsaM",
+        "title": "Дракула",
+        "author": "Брэм Стокер",
+        "notes": "",
+        "createdAt": "2017-08-08 12:23:56",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 110
+        }
+    },
     "2ZnEqrFZ5l": {
         "id": "2ZnEqrFZ5l",
         "title": "Артур и Война двух миров",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 62
-        }
-    },
-    "-2W8bELcz9": {
-        "id": "-2W8bELcz9",
-        "title": "Избранные произведения",
-        "author": "Леонардо да Винчи",
-        "notes": "",
-        "createdAt": "2017-08-03 22:42:39",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 61
         }
     }
 }
