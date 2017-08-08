@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>105</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>106</sup>
 ---
 
 ## 2017
@@ -448,6 +448,13 @@
 
 ### Тени Чернобыля
 Сборник
+
+
+
+## 2007
+
+### Артур и минипуты
+Люк Бессон
 
 
 
