@@ -1,4 +1,16 @@
 {
+    "KZhdipEc1o": {
+        "id": "KZhdipEc1o",
+        "title": "Иван Поддубный. Одолеть его могли только женщины",
+        "author": "Збигнев Войцеховский",
+        "notes": "",
+        "createdAt": "2017-08-08 11:49:48",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 105
+        }
+    },
     "Og8d7PWU5T": {
         "id": "Og8d7PWU5T",
         "title": "Престиж",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 57
-        }
-    },
-    "M936YvkEF9": {
-        "id": "M936YvkEF9",
-        "title": "Туманность Андромеды",
-        "author": "Иван Ефремов",
-        "notes": "",
-        "createdAt": "2017-08-03 22:36:27",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 56
         }
     }
 }

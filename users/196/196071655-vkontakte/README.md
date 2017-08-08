@@ -1,4 +1,4 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>104</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>105</sup>
 ---
 
 ## 2017
@@ -100,6 +100,10 @@
 
 
 ## 2014
+
+### Иван Поддубный. Одолеть его могли только женщины
+Збигнев Войцеховский
+
 
 ### Престиж
 Кристофер Прист
