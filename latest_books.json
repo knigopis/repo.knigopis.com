@@ -1,4 +1,16 @@
 {
+    "2ZnEqrFZ5l": {
+        "id": "2ZnEqrFZ5l",
+        "title": "Артур и Война двух миров",
+        "author": "Люк Бессон",
+        "notes": "",
+        "createdAt": "2017-08-08 11:53:56",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 109
+        }
+    },
     "UOLGhp-b7c": {
         "id": "UOLGhp-b7c",
         "title": "Артур и месть Урдалака",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 61
-        }
-    },
-    "GzalNed_1g": {
-        "id": "GzalNed_1g",
-        "title": "Психология лжи",
-        "author": "Пол Экман",
-        "notes": "",
-        "createdAt": "2017-08-03 22:41:03",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 60
         }
     }
 }
