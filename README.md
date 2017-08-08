@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>106</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>107</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>550</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andrey](users/482/4823577-vkontakte)<sup>0</sup> 
 
 
-_08.08.2017 11:52:16_
+_08.08.2017 11:52:42_
