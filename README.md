@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[menschenbrecher](users/495/4957345-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 [arisss](users/839/8399226-vkontakte)<sup>0</sup> 
 [okfine](users/209/209723-vkontakte)<sup>3</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 
 
-_09.08.2017 03:34:09_
+_09.08.2017 06:10:20_
