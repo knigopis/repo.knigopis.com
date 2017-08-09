@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>265</sup> 
 [Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>264</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 
 
-_09.08.2017 07:30:11_
+_09.08.2017 20:23:43_
