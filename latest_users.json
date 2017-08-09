@@ -1,4 +1,10 @@
 {
+    "10212207630017815-facebook": {
+        "id": "10212207630017815-facebook",
+        "nickname": "Rectus",
+        "booksCount": 0,
+        "updatedAt": "2017-08-09 07:30:10"
+    },
     "1467491296661560-facebook": {
         "id": "1467491296661560-facebook",
         "nickname": "vladismile",
@@ -172,11 +178,5 @@
         "nickname": "Oksana",
         "booksCount": 0,
         "updatedAt": "2017-08-02 10:12:30"
-    },
-    "8399226-vkontakte": {
-        "id": "8399226-vkontakte",
-        "nickname": "arisss",
-        "booksCount": 0,
-        "updatedAt": "2017-08-01 19:52:15"
     }
 }
