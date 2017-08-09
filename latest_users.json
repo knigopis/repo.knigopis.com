@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 141,
+        "updatedAt": "2017-08-09 03:33:27"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -64,12 +70,6 @@
         "nickname": "katya704201058",
         "booksCount": 0,
         "updatedAt": "2017-08-07 10:40:16"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 141,
-        "updatedAt": "2017-08-06 15:29:54"
     },
     "114389869162010721507-google": {
         "id": "114389869162010721507-google",

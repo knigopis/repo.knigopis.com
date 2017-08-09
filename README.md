@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>27</sup> 
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>264</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 
 
-_09.08.2017 03:33:05_
+_09.08.2017 03:33:27_
