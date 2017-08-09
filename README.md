@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 [arisss](users/839/8399226-vkontakte)<sup>0</sup> 
-[okfine](users/209/209723-vkontakte)<sup>3</sup> 
 
 
-_09.08.2017 06:11:52_
+_09.08.2017 07:13:27_
