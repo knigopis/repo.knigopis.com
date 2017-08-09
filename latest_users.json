@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 55,
+        "updatedAt": "2017-08-09 03:32:03"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 26,
         "updatedAt": "2017-07-31 20:42:37"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 90,
-        "updatedAt": "2017-07-31 11:37:19"
     }
 }

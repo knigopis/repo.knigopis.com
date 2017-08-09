@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [arisss](users/839/8399226-vkontakte)<sup>0</sup> 
 [okfine](users/209/209723-vkontakte)<sup>3</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>90</sup> 
 
 
-_08.08.2017 18:14:33_
+_09.08.2017 03:32:03_
