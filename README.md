@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
-[arisss](users/839/8399226-vkontakte)<sup>0</sup> 
 
 
-_09.08.2017 07:13:27_
+_09.08.2017 07:30:11_
