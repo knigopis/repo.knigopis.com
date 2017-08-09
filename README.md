@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[menschenbrecher](users/495/4957345-vkontakte)<sup>0</sup> 
+[menschenbrecher](users/495/4957345-vkontakte)<sup>1</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [okfine](users/209/209723-vkontakte)<sup>3</sup> 
 
 
-_09.08.2017 06:10:20_
+_09.08.2017 06:11:13_

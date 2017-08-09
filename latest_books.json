@@ -1,4 +1,16 @@
 {
+    "m3kg_mpWBH": {
+        "id": "m3kg_mpWBH",
+        "title": "Моральные принципы темных",
+        "author": "Волк А.",
+        "notes": "",
+        "createdAt": "2017-08-09 06:11:13",
+        "user": {
+            "id": "4957345-vkontakte",
+            "nickname": "menschenbrecher",
+            "booksCount": 1
+        }
+    },
     "dJd2WXcvGq": {
         "id": "dJd2WXcvGq",
         "title": "Rework. Бизнес без предрассудков",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 64
-        }
-    },
-    "4zBVKxoxrP": {
-        "id": "4zBVKxoxrP",
-        "title": "Мне тебя обещали",
-        "author": "Эльчин Сафарли",
-        "notes": "",
-        "createdAt": "2017-08-03 22:43:21",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 63
         }
     }
 }
