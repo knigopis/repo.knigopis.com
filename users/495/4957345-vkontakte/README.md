@@ -1,7 +1,12 @@
-# List of books read by [menschenbrecher](http://vk.com/id4957345)<sup>1</sup>
+# List of books read by [menschenbrecher](http://vk.com/id4957345)<sup>2</sup>
 ---
 
 ## 2017
+
+### Семейные принципы темных
+Волк А.
+> [2017-07] 
+
 
 ### Моральные принципы темных
 Волк А.

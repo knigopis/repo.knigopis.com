@@ -1,4 +1,16 @@
 {
+    "-fWCAciZdb": {
+        "id": "-fWCAciZdb",
+        "title": "Семейные принципы темных",
+        "author": "Волк А.",
+        "notes": "",
+        "createdAt": "2017-08-09 06:11:52",
+        "user": {
+            "id": "4957345-vkontakte",
+            "nickname": "menschenbrecher",
+            "booksCount": 2
+        }
+    },
     "m3kg_mpWBH": {
         "id": "m3kg_mpWBH",
         "title": "Моральные принципы темных",
@@ -345,18 +357,6 @@
             "id": "31966279-vkontakte",
             "nickname": "annwayt",
             "booksCount": 65
-        }
-    },
-    "G0RS92X2LY": {
-        "id": "G0RS92X2LY",
-        "title": "Краткая история времени",
-        "author": "Стивен Хокинг",
-        "notes": "",
-        "createdAt": "2017-08-03 22:43:48",
-        "user": {
-            "id": "31966279-vkontakte",
-            "nickname": "annwayt",
-            "booksCount": 64
         }
     }
 }
