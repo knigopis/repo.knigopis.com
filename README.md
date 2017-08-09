@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
+[lucius](users/838/83820536-yandex)<sup>141</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>26</sup> 
 
 
-_09.08.2017 03:33:27_
+_09.08.2017 03:33:47_
