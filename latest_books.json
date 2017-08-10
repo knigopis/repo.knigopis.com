@@ -1,4 +1,16 @@
 {
+    "puBqLn0ume": {
+        "id": "puBqLn0ume",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-08-10 11:51:55",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 103
+        }
+    },
     "IJGYATdM9S": {
         "id": "IJGYATdM9S",
         "title": "Кентервильское привидение",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 30
-        }
-    },
-    "YQew7L85kd": {
-        "id": "YQew7L85kd",
-        "title": "Американская трагедия",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2017-08-07 18:34:25",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 29
         }
     }
 }
