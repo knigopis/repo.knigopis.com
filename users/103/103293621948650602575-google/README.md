@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>103</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>102</sup>
 ---
 
 ## 2017
@@ -267,10 +267,6 @@
 
 
 ### Счастливый Принц (сказка)
-Оскар Уайльд
-
-
-### Кентервильское Привидение
 Оскар Уайльд
 
 
