@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>105</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>104</sup>
 ---
 
 ## 2017
@@ -378,10 +378,6 @@
 
 
 ## 2012
-
-### Божественная Комедия
-Алигьери Данте
-
 
 ### Фауст
 Иоганн Вольфганг фон Гёте
