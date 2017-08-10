@@ -1,4 +1,16 @@
 {
+    "lg_hoqXk8R": {
+        "id": "lg_hoqXk8R",
+        "title": "Ромео и Джульетта",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-08-10 11:40:02",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 95
+        }
+    },
     "FBIoYKQjBr": {
         "id": "FBIoYKQjBr",
         "title": "Макбет",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 46
-        }
-    },
-    "x-jEm6a4Cv": {
-        "id": "x-jEm6a4Cv",
-        "title": "Позный метод бега.",
-        "author": "Николай Романов",
-        "notes": "",
-        "createdAt": "2017-08-06 03:33:23",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 264
         }
     }
 }
