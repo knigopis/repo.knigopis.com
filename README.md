@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
+    > И вот тебе мой последний приказ: девочку сбереги и сам уцелей. Выживи. Назло им - выживи. За всех нас.
+
 * Rework. Бизнес без предрассудков ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup>
     > в процессе
     > 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > Про казаков в книге мало.
 
 * Не стреляйте белых лебедей ~ [Rainbow](users/109/109787328219839805802-google)<sup>27</sup>
-    > «И еще были тятькины правила. Простые: никому и никогда никаких правил не навязывать. И он не навязывал. Он всегда жил тихо и застенчиво: все озирался, не мешает ли кому, не застит ли солнышка, не путается ли в ногах. » 
-    > 
-    > «Всем на чужом пожаре занятье по душе найдется. Кому тушить, кому глазеть, а кому руки греть.»
 
 * Завтра была война ★★★★★ ~ [Rainbow](users/109/109787328219839805802-google)<sup>26</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
 
-* Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>551</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
@@ -54,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>27</sup> 
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
@@ -71,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 
 
-_10.08.2017 11:53:51_
+_10.08.2017 13:57:31_
