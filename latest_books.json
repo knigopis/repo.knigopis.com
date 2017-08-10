@@ -1,4 +1,16 @@
 {
+    "QXkCVNSVBI": {
+        "id": "QXkCVNSVBI",
+        "title": "Кориолан",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-08-10 11:39:43",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 92
+        }
+    },
     "pUrYkQIMy8": {
         "id": "pUrYkQIMy8",
         "title": "Пир Стервятников",
@@ -344,18 +356,6 @@
         "user": {
             "id": "339468028-vkontakte",
             "nickname": "настя",
-            "booksCount": 1
-        }
-    },
-    "y9iksL6miV": {
-        "id": "y9iksL6miV",
-        "title": "апрапрапр",
-        "author": "апрапрапр",
-        "notes": "апрапрапрп",
-        "createdAt": "2017-08-04 19:20:45",
-        "user": {
-            "id": "72966504-vkontakte",
-            "nickname": "avengerprofessional",
             "booksCount": 1
         }
     }

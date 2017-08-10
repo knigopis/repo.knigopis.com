@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>91</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>92</sup>
 ---
 
 ## 2017
@@ -354,6 +354,10 @@
 
 
 ## 2012
+
+### Кориолан
+Уильям Шекспир
+
 
 ### Портрет Дориана Грея
 Оскар Уайльд
