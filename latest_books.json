@@ -1,4 +1,16 @@
 {
+    "LI8N-IhKfD": {
+        "id": "LI8N-IhKfD",
+        "title": "По эту сторону рая",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-08-10 11:52:12",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 104
+        }
+    },
     "puBqLn0ume": {
         "id": "puBqLn0ume",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 35
-        }
-    },
-    "og5LhgXb7i": {
-        "id": "og5LhgXb7i",
-        "title": "Семь циферблатов",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-08-07 18:35:24",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 30
         }
     }
 }
