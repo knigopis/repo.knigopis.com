@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 91,
+        "updatedAt": "2017-08-10 11:21:10"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 36,
         "updatedAt": "2017-08-03 05:11:10"
-    },
-    "100001603844736-facebook": {
-        "id": "100001603844736-facebook",
-        "nickname": "Oksana",
-        "booksCount": 0,
-        "updatedAt": "2017-08-02 10:12:30"
     }
 }

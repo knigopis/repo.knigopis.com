@@ -1,4 +1,16 @@
 {
+    "pUrYkQIMy8": {
+        "id": "pUrYkQIMy8",
+        "title": "Пир Стервятников",
+        "author": "Дж.Мартин",
+        "notes": "",
+        "createdAt": "2017-08-10 11:21:10",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 91
+        }
+    },
     "zw-QUntLmo": {
         "id": "zw-QUntLmo",
         "title": "Дорогой, ты меня слушаешь?",
@@ -345,18 +357,6 @@
             "id": "72966504-vkontakte",
             "nickname": "avengerprofessional",
             "booksCount": 1
-        }
-    },
-    "uDm8wqrR3f": {
-        "id": "uDm8wqrR3f",
-        "title": "Тень горы",
-        "author": "Грегори Робертс",
-        "notes": "",
-        "createdAt": "2017-08-04 08:24:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 549
         }
     }
 }

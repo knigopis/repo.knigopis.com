@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>91</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>551</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>6</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>36</sup> 
-[Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 
 
-_10.08.2017 08:12:37_
+_10.08.2017 11:21:10_

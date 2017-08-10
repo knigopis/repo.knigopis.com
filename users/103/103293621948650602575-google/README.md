@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>90</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>91</sup>
 ---
 
 ## 2017
+
+### Пир Стервятников
+Дж.Мартин
+> [2017-08-10] 
+
 
 ### Почти идеальные люди. Вся правда о жизни в "Скандинавском раю"
 Майкл Бут
