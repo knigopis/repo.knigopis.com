@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 141,
+        "updatedAt": "2017-08-10 01:02:27"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -22,12 +28,6 @@
         "nickname": "menschenbrecher",
         "booksCount": 2,
         "updatedAt": "2017-08-09 06:11:52"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 141,
-        "updatedAt": "2017-08-09 03:34:09"
     },
     "115622071-twitter": {
         "id": "115622071-twitter",
