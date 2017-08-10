@@ -1,4 +1,16 @@
 {
+    "FBIoYKQjBr": {
+        "id": "FBIoYKQjBr",
+        "title": "Макбет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-08-10 11:39:56",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 94
+        }
+    },
     "zfCP8xYi3w": {
         "id": "zfCP8xYi3w",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 264
-        }
-    },
-    "U91Tup9tso": {
-        "id": "U91Tup9tso",
-        "title": "Лишенные совести: пугающий мир психопатов",
-        "author": "Роберт Д. Хаэр",
-        "notes": "",
-        "createdAt": "2017-08-05 23:38:15",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 34
         }
     }
 }
