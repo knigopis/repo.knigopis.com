@@ -1,4 +1,16 @@
 {
+    "zfCP8xYi3w": {
+        "id": "zfCP8xYi3w",
+        "title": "Гамлет",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-08-10 11:39:51",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 93
+        }
+    },
     "QXkCVNSVBI": {
         "id": "QXkCVNSVBI",
         "title": "Кориолан",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 34
-        }
-    },
-    "LTqvdXH6zK": {
-        "id": "LTqvdXH6zK",
-        "title": "господин из Сан-Франциско",
-        "author": "Бунин",
-        "notes": "",
-        "createdAt": "2017-08-05 12:41:50",
-        "user": {
-            "id": "339468028-vkontakte",
-            "nickname": "настя",
-            "booksCount": 1
         }
     }
 }

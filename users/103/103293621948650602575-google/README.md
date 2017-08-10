@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>92</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>93</sup>
 ---
 
 ## 2017
@@ -354,6 +354,10 @@
 
 
 ## 2012
+
+### Гамлет
+Уильям Шекспир
+
 
 ### Кориолан
 Уильям Шекспир
