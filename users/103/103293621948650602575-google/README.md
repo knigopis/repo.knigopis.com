@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>102</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>103</sup>
 ---
 
 ## 2017
@@ -221,6 +221,10 @@
 
 
 ## 2014
+
+### Кентервильское привидение
+Оскар Уайльд
+
 
 ### Идеальный муж
 Оскар Уайльд
