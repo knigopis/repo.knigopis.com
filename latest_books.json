@@ -1,4 +1,16 @@
 {
+    "jWxs3yd1EW": {
+        "id": "jWxs3yd1EW",
+        "title": "Божественная Комедия",
+        "author": "Алигьери Данте",
+        "notes": "",
+        "createdAt": "2017-08-10 11:42:56",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 99
+        }
+    },
     "Ke5UX_Mlya": {
         "id": "Ke5UX_Mlya",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "114389869162010721507-google",
             "nickname": "Garri938",
             "booksCount": 33
-        }
-    },
-    "xFYHKDW8AZ": {
-        "id": "xFYHKDW8AZ",
-        "title": "Один день",
-        "author": "Девид Николс",
-        "notes": "Романтика. Мне понравилась",
-        "createdAt": "2017-08-06 06:54:27",
-        "user": {
-            "id": "114389869162010721507-google",
-            "nickname": "Garri938",
-            "booksCount": 32
         }
     }
 }
