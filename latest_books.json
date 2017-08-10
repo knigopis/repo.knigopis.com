@@ -1,4 +1,16 @@
 {
+    "hQYwh9X4jh": {
+        "id": "hQYwh9X4jh",
+        "title": "Дракула",
+        "author": "Брэм Стокер",
+        "notes": "",
+        "createdAt": "2017-08-10 11:53:29",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 105
+        }
+    },
     "LI8N-IhKfD": {
         "id": "LI8N-IhKfD",
         "title": "По эту сторону рая",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 551
-        }
-    },
-    "isk5NPQFLu": {
-        "id": "isk5NPQFLu",
-        "title": "Откровение (Апокалипсис)",
-        "author": "Иоанн Богослов",
-        "notes": "",
-        "createdAt": "2017-08-08 01:15:32",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 35
         }
     }
 }
