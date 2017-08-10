@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>551</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
 [Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>550</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Oksana](users/100/100001603844736-facebook)<sup>0</sup> 
 
 
-_10.08.2017 01:02:27_
+_10.08.2017 08:12:37_

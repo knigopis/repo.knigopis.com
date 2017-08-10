@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 551,
+        "updatedAt": "2017-08-10 08:12:37"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -52,12 +58,6 @@
         "nickname": "afferens.lucem",
         "booksCount": 110,
         "updatedAt": "2017-08-08 12:23:56"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 550,
-        "updatedAt": "2017-08-08 09:47:05"
     },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
