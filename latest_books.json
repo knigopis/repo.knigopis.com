@@ -1,4 +1,16 @@
 {
+    "vnLHREuDP7": {
+        "id": "vnLHREuDP7",
+        "title": "Сон в летнюю ночь",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-08-10 11:41:16",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 96
+        }
+    },
     "lg_hoqXk8R": {
         "id": "lg_hoqXk8R",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 47
-        }
-    },
-    "tN4NFn3Cti": {
-        "id": "tN4NFn3Cti",
-        "title": "Как преодолеть кризисы, или Психология современного школьника",
-        "author": "Чуднявцев Сергей",
-        "notes": "",
-        "createdAt": "2017-08-06 05:15:28",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 46
         }
     }
 }
