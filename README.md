@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>104</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>551</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
 [alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 [ZiggaFromNigga](users/114/114398174831177070999-google)<sup>6</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>36</sup> 
 
 
-_10.08.2017 13:57:31_
+_11.08.2017 08:30:43_

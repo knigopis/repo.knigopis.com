@@ -1,4 +1,16 @@
 {
+    "1e6BpW9Fod": {
+        "id": "1e6BpW9Fod",
+        "title": "Молитва об Оуэне Мини",
+        "author": "Джон Ирвинг",
+        "notes": "",
+        "createdAt": "2017-08-11 08:30:43",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 106
+        }
+    },
     "9jWLUZA2YT": {
         "id": "9jWLUZA2YT",
         "title": "В списках не значился",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 105
-        }
-    },
-    "Og8d7PWU5T": {
-        "id": "Og8d7PWU5T",
-        "title": "Престиж",
-        "author": "Кристофер Прист",
-        "notes": "",
-        "createdAt": "2017-08-08 11:47:07",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 104
         }
     }
 }
