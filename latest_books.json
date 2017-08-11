@@ -1,4 +1,16 @@
 {
+    "xZ0oS9cz8E": {
+        "id": "xZ0oS9cz8E",
+        "title": "Срыв",
+        "author": "Сенчин Роман",
+        "notes": "рассказы. Россия в 90-е.",
+        "createdAt": "2017-08-11 21:01:28",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 27
+        }
+    },
     "x567eEgnog": {
         "id": "x567eEgnog",
         "title": "Вычисление Бога",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 108
-        }
-    },
-    "oJ_EyfkeeR": {
-        "id": "oJ_EyfkeeR",
-        "title": "Артур и Запретный город",
-        "author": "Люк Бессон",
-        "notes": "",
-        "createdAt": "2017-08-08 11:52:42",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 107
         }
     }
 }

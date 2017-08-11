@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 27,
+        "updatedAt": "2017-08-11 21:01:28"
+    },
     "1602268389844908-facebook": {
         "id": "1602268389844908-facebook",
         "nickname": "iklin",
@@ -172,11 +178,5 @@
         "nickname": "tragicianrainbow",
         "booksCount": 0,
         "updatedAt": "2017-08-03 11:46:36"
-    },
-    "153694786-vkontakte": {
-        "id": "153694786-vkontakte",
-        "nickname": "alina_fo",
-        "booksCount": 0,
-        "updatedAt": "2017-08-03 11:45:44"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
+    > рассказы. Россия в 90-е.
+
 * В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
     > И вот тебе мой последний приказ: девочку сбереги и сам уцелей. Выживи. Назло им - выживи. За всех нас.
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/5702223/
 
 * Геройские дела русского оружия 1877-1878 Война с Турками на Балканах ~ [mfevralev](users/140/140966150-vkontakte)<sup>24</sup>
-    > стр 30 первая смерть казака
-    > стр 94 Жестокость турок в Болгарии
-    > Про казаков в книге мало.
 
 * Не стреляйте белых лебедей ~ [Rainbow](users/109/109787328219839805802-google)<sup>27</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
 
-* Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 [tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
-[alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 
 
-_11.08.2017 19:20:00_
+_11.08.2017 21:01:28_
