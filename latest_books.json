@@ -1,4 +1,16 @@
 {
+    "x567eEgnog": {
+        "id": "x567eEgnog",
+        "title": "Вычисление Бога",
+        "author": "Роберт Сойер",
+        "notes": "",
+        "createdAt": "2017-08-11 19:20:00",
+        "user": {
+            "id": "1602268389844908-facebook",
+            "nickname": "iklin",
+            "booksCount": 2
+        }
+    },
     "EBcbXdM1QR": {
         "id": "EBcbXdM1QR",
         "title": "Тёмное море",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 107
-        }
-    },
-    "-NaN6cXBLV": {
-        "id": "-NaN6cXBLV",
-        "title": "Артур и минипуты",
-        "author": "Люк Бессон",
-        "notes": "",
-        "createdAt": "2017-08-08 11:52:16",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 106
         }
     }
 }

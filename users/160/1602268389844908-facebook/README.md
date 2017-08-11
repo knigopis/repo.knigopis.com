@@ -1,7 +1,12 @@
-# List of books read by [iklin](https://www.facebook.com/app_scoped_user_id/1602268389844908/)<sup>1</sup>
+# List of books read by [iklin](https://www.facebook.com/app_scoped_user_id/1602268389844908/)<sup>2</sup>
 ---
 
 ## 2017
+
+### Вычисление Бога
+Роберт Сойер
+> [2017-08] 
+
 
 ### Тёмное море
 Джеймс Камбиас
