@@ -1,4 +1,16 @@
 {
+    "EBcbXdM1QR": {
+        "id": "EBcbXdM1QR",
+        "title": "Тёмное море",
+        "author": "Джеймс Камбиас",
+        "notes": "",
+        "createdAt": "2017-08-11 19:19:11",
+        "user": {
+            "id": "1602268389844908-facebook",
+            "nickname": "iklin",
+            "booksCount": 1
+        }
+    },
     "1e6BpW9Fod": {
         "id": "1e6BpW9Fod",
         "title": "Молитва об Оуэне Мини",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 106
-        }
-    },
-    "KZhdipEc1o": {
-        "id": "KZhdipEc1o",
-        "title": "Иван Поддубный. Одолеть его могли только женщины",
-        "author": "Збигнев Войцеховский",
-        "notes": "",
-        "createdAt": "2017-08-08 11:49:48",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 105
         }
     }
 }

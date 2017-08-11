@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[iklin](users/160/1602268389844908-facebook)<sup>0</sup> 
+[iklin](users/160/1602268389844908-facebook)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>104</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [alina_fo](users/153/153694786-vkontakte)<sup>0</sup> 
 
 
-_11.08.2017 19:02:38_
+_11.08.2017 19:19:11_
