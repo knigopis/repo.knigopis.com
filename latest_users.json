@@ -1,4 +1,10 @@
 {
+    "1602268389844908-facebook": {
+        "id": "1602268389844908-facebook",
+        "nickname": "iklin",
+        "booksCount": 0,
+        "updatedAt": "2017-08-11 19:02:36"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "alina_fo",
         "booksCount": 0,
         "updatedAt": "2017-08-03 11:45:44"
-    },
-    "114398174831177070999-google": {
-        "id": "114398174831177070999-google",
-        "nickname": "ZiggaFromNigga",
-        "booksCount": 6,
-        "updatedAt": "2017-08-03 11:40:43"
     }
 }
