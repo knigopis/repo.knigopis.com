@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>29</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>28</sup>
 ---
 
 ## 2016
-
-### Миссия Огнезвезда
-Эрин Хантер
-> [2016-08-09] 
-
 
 ### Главная надежда
 Эрин Хантер
