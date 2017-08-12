@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>64</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>63</sup>
 ---
 
 ## 2017
-
-### Страна радости
-Стивен Кинг
-> [2017-01-22] 
-
 
 ### Над пропастью во ржи
 Сэлинджер Джером Дэвид
