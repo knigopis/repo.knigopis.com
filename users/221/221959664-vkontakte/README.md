@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>8</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>7</sup>
 ---
 
 ## 2016
-
-### Бушующая стихия
-Эрин Хантер
-> [2016-06-01] 
-
 
 ### Лес секретов
 Эрин Хантер
