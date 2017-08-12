@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>57</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>56</sup>
 ---
 
 ## 2016
-
-### Белоснежка
-Мейер Мариса
-> [2016-11-24] 
-
 
 ### Рапунцель
 Мейер Мариса
