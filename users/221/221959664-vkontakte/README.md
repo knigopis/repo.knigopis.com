@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>21</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>20</sup>
 ---
 
 ## 2016
-
-### Длинные тени
-Эрин Хантер
-> [2016-07-17] 
-
 
 ### Затмение
 Эрин Хантер
