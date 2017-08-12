@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>32</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>31</sup>
 ---
 
 ## 2016
-
-### Обещание Метеора
-Эрин Хантер
-> [2016-08-16] 
-
 
 ### Судьба Небесного племени
 Эрин Хантер
