@@ -1,14 +1,9 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>80</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>79</sup>
 ---
 
 ## 2017
 
 ### Однажды на севере
-Пулман Филип
-> [2017-02-27] 
-
-
-### Оксфорд Лиры:Лира и птицы
 Пулман Филип
 > [2017-02-27] 
 
