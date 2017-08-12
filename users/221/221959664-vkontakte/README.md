@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>63</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>62</sup>
 ---
 
 ## 2017
-
-### Над пропастью во ржи
-Сэлинджер Джером Дэвид
-> [2017-01-20] 
-
 
 ### Смертельный рай
 Линкольд Чайлд
