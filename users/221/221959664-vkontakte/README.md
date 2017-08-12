@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>45</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>44</sup>
 ---
 
 ## 2016
-
-### Закон племен
-Эрин Хантер
-> [2016-09-07] 
-
 
 ### Прощание Горелого
 Эрин Хантер
