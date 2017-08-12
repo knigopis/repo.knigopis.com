@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>65</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>64</sup>
 ---
 
 ## 2017
-
-### Возрождение
-Оливер Боуден
-> [2017-01-25] 
-
 
 ### Страна радости
 Стивен Кинг
