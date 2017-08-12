@@ -1,4 +1,10 @@
 {
+    "144126479514349-facebook": {
+        "id": "144126479514349-facebook",
+        "nickname": "Bibop",
+        "booksCount": 0,
+        "updatedAt": "2017-08-12 14:51:11"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "avengerprofessional",
         "booksCount": 1,
         "updatedAt": "2017-08-04 19:20:45"
-    },
-    "1447894-vkontakte": {
-        "id": "1447894-vkontakte",
-        "nickname": "skorobogatova_n",
-        "booksCount": 0,
-        "updatedAt": "2017-08-04 17:27:43"
     }
 }
