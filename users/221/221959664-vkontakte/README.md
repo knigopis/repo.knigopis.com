@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>89</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>88</sup>
 ---
 
 ## 2017
@@ -439,11 +439,6 @@
 ### Песчинка в небе
 Айзек Азимов
 > [2016-04-27] 
-
-
-### Автостопом по галактике
-Сэлинджер Джером Дейвид
-> [2016-03-11] 
 
 
 
