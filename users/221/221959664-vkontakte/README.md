@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>77</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>76</sup>
 ---
 
 ## 2017
-
-### Чудесный нож
-Пулман Филип
-> [2017-02-25] 
-
 
 ### Северное сияние
 Пулман Филип
