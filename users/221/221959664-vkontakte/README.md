@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>70</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>69</sup>
 ---
 
 ## 2017
-
-### Черный Флаг
-Оливер Боуден
-> [2017-02-05] 
-
 
 ### Покинутый
 Оливер Боуден
