@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>86</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>85</sup>
 ---
 
 ## 2017
-
-### Девятнадцать минут
-Джоди Пиколт
-> [2017-03-18] 
-
 
 ### Портрет Дориана Грея
 Оскар Уайльд
