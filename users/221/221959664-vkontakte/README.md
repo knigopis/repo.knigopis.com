@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>76</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>75</sup>
 ---
 
 ## 2017
-
-### Северное сияние
-Пулман Филип
-> [2017-02-24] 
-
 
 ### Последняя звезда
 Рик Янси
