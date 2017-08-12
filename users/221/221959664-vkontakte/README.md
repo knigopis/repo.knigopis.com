@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>5</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>4</sup>
 ---
 
 ## 2016
-
-### Стань диким
-Эрин Хантер
-> [2016-05-23] 
-
 
 ### Границы бесконечности
 Буджолд Лоис Макмастер
