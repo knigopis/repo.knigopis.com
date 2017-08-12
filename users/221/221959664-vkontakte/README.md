@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>78</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>77</sup>
 ---
 
 ## 2017
-
-### Янтарный телескоп
-Пулман Филип
-> [2017-02-26] 
-
 
 ### Чудесный нож
 Пулман Филип
