@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>72</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>71</sup>
 ---
 
 ## 2017
-
-### Из глубины
-Линкольд Чайлд
-> [2017-02-11] 
-
 
 ### Кладбище домашних животных
 Стивен Кинг
