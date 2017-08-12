@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>121</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>122</sup>
 ---
 
 ## 2017
+
+### Сага о Рейневане: Божьи воины
+Анджей Сапковский
+> Книга 2
+
 
 ### Дина: Чудесный дар
 Лине Кобербёль

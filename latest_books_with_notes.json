@@ -1,4 +1,16 @@
 {
+    "qc7uVPjuIB": {
+        "id": "qc7uVPjuIB",
+        "title": "Сага о Рейневане: Божьи воины",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 2",
+        "createdAt": "2017-08-12 06:35:11",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 122
+        }
+    },
     "xZ0oS9cz8E": {
         "id": "xZ0oS9cz8E",
         "title": "Срыв",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 20
-        }
-    },
-    "LVAQsLXYtX": {
-        "id": "LVAQsLXYtX",
-        "title": "Смертельный холод",
-        "author": "Луиза Пенни",
-        "notes": "(Старший инспектор Гамаш 2)",
-        "createdAt": "2017-07-27 09:37:44",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 19
         }
     }
 }

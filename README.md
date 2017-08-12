@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>122</sup>
+    > Книга 2
+
 * Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
     > рассказы. Россия в 90-е.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > И вот тебе мой последний приказ: девочку сбереги и сам уцелей. Выживи. Назло им - выживи. За всех нас.
 
 * Rework. Бизнес без предрассудков ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/5702223/
 
 * Геройские дела русского оружия 1877-1878 Война с Турками на Балканах ~ [mfevralev](users/140/140966150-vkontakte)<sup>24</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
 
-* The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 [annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
-[tragicianrainbow](users/197/197276378-vkontakte)<sup>0</sup> 
 
 
-_11.08.2017 21:01:28_
+_12.08.2017 06:35:11_
