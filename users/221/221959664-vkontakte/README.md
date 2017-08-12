@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>75</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>74</sup>
 ---
 
 ## 2017
-
-### Последняя звезда
-Рик Янси
-> [2017-02-16] 
-
 
 ### Бесконечное море
 Рик Янси
