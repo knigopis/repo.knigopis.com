@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>61</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>60</sup>
 ---
 
 ## 2016
-
-### Кто-то другой
-Бенаквиста Тонино
-> [2016-12-28] 
-
 
 ### Клуб бездомных мечтатилей
 Лиз Мюррей
