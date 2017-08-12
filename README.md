@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
-[skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 
 
-_12.08.2017 13:13:11_
+_12.08.2017 14:51:12_
