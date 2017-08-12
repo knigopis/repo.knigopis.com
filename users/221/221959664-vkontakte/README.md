@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>12</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>11</sup>
 ---
 
 ## 2016
-
-### Восход луны
-Эрин Хантер
-> [2016-06-20] 
-
 
 ### Полночь
 Эрин Хантер
