@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>26</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>25</sup>
 ---
 
 ## 2016
-
-### Знамение Луны
-Эрин Хантер
-> [2016-07-31] 
-
 
 ### Голоса в ночи
 Эрин Хантер
