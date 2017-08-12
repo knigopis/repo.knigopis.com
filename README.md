@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Память Света ~ [Garka](users/115/115753719718250012620-google)<sup>145</sup>
+    > Заключительная книга цикла Колесо времени.
+    > Вот и закончилась превосходная серия книг о Драконе Возрожденном. Как и было предначертано, судьба мира решилась в Последней битве. Повествование у Сандерсона вышло эпичное, не пафосное и очень динамичное, развязка оригинальная, хоть и грустная из-за смертей многих персонажей.
+    > Читала в электронном виде, после прочтения захотелось приобрести бумажный вариант, однозначно буду перечитывать.
+
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>122</sup>
     > Книга 2
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > рассказы. Россия в 90-е.
 
 * В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
-    > И вот тебе мой последний приказ: девочку сбереги и сам уцелей. Выживи. Назло им - выживи. За всех нас.
 
 * Rework. Бизнес без предрассудков ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
 
-* Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>145</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nataliecarter](users/241/241221205-vkontakte)<sup>0</sup> 
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
-[bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
 
 
-_12.08.2017 09:10:05_
+_12.08.2017 13:08:59_

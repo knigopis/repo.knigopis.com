@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 145,
+        "updatedAt": "2017-08-12 13:08:59"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "skorobogatova_n",
         "booksCount": 0,
         "updatedAt": "2017-08-04 17:27:43"
-    },
-    "105937324042538676643-google": {
-        "id": "105937324042538676643-google",
-        "nickname": "bohgalt",
-        "booksCount": 0,
-        "updatedAt": "2017-08-04 05:05:00"
     }
 }
