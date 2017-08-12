@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>48</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>47</sup>
 ---
 
 ## 2016
-
-### Город Эмбер:побег
-Дюпо Джин
-> [2016-09-12] 
-
 
 ### Секреты племен
 Эрин Хантер
