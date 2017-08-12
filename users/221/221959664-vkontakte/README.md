@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>17</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>16</sup>
 ---
 
 ## 2016
-
-### Знак трех
-Эрин Хантер
-> [2016-07-08] 
-
 
 ### Закат
 Эрин Хантер
