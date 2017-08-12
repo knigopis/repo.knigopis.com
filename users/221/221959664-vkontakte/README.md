@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>37</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>36</sup>
 ---
 
 ## 2016
-
-### Знамение Невидимой Звезды
-Эрин Хантер
-> [2016-08-25] 
-
 
 ### История Остролистой
 Эрин Хантер
