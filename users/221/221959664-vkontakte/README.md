@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>59</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>58</sup>
 ---
 
 ## 2016
-
-### Хорошо быть тихоней
-Стивен Чбоски
-> [2016-12-14] 
-
 
 ### Убить полюбовно
 Рей Бредбери
