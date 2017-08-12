@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>81</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>80</sup>
 ---
 
 ## 2017
-
-### 451 градус по Фаренгейту
-Рей Бредбери
-> [2017-03-01] 
-
 
 ### Однажды на севере
 Пулман Филип
