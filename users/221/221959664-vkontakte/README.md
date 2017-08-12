@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>73</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>72</sup>
 ---
 
 ## 2017
-
-### 5-волна
-Рик Янси
-> [2017-02-13] 
-
 
 ### Из глубины
 Линкольд Чайлд
