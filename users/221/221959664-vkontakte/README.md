@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>7</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>6</sup>
 ---
 
 ## 2016
-
-### Лес секретов
-Эрин Хантер
-> [2016-05-30] 
-
 
 ### Огонь и лед
 Эрин Хантер
