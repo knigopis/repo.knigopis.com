@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>46</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>45</sup>
 ---
 
 ## 2016
-
-### Герои племен
-Эрин Хантер
-> [2016-09-08] 
-
 
 ### Закон племен
 Эрин Хантер
