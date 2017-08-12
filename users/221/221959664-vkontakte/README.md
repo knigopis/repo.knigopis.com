@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>52</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>51</sup>
 ---
 
 ## 2016
-
-### Стопроцентно лунный мальчик
-Стивен Танни
-> [2016-10-18] 
-
 
 ### Ржавые цветы
 Анастасия Титаренко
