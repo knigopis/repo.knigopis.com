@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>28</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>27</sup>
 ---
 
 ## 2016
-
-### Главная надежда
-Эрин Хантер
-> [2016-08-06] 
-
 
 ### Забытый воин
 Эрин Хантер
