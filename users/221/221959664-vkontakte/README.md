@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>88</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>87</sup>
 ---
 
 ## 2017
-
-### Лев, колдунья и платяной шкаф
-Льюис Клайв
-> [2017-03-20] 
-
 
 ### Цветы для Элджернона
 Дэниел Киз
