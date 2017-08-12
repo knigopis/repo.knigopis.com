@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[geyski](users/221/221959664-vkontakte)<sup>91</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [avengerprofessional](users/729/72966504-vkontakte)<sup>1</sup> 
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 [bohgalt](users/105/105937324042538676643-google)<sup>0</sup> 
-[annwayt](users/319/31966279-vkontakte)<sup>66</sup> 
 
 
-_12.08.2017 06:35:11_
+_12.08.2017 09:02:22_
