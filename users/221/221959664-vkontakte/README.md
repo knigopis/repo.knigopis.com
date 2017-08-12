@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>31</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>30</sup>
 ---
 
 ## 2016
-
-### Судьба Небесного племени
-Эрин Хантер
-> [2016-08-13] 
-
 
 ### Пророчество Синей Звезды
 Эрин Хантер
