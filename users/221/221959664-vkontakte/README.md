@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>41</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>40</sup>
 ---
 
 ## 2016
-
-### Мольчание Голубки
-Эрин Хантер
-> [2016-09-03] 
-
 
 ### Желание Листвички
 Эрин Хантер
