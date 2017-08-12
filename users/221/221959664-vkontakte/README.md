@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>25</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>24</sup>
 ---
 
 ## 2016
-
-### Голоса в ночи
-Эрин Хантер
-> [2016-07-29] 
-
 
 ### Долгое эхо
 Эрин Хантер
