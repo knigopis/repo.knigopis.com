@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Удар по Шайол Гул и Река душ ~ [Garka](users/115/115753719718250012620-google)<sup>146</sup>
+    > Короткие рассказы о мире Колеса времени. 
+    > Река душ рассказывает о получение са'ангриала Демандредом;
+    > В Ударе по Шайол Гул речь идет о том, как Льюис Терин запечатал Скважину Тёмного в Эпоху Легенд
+
 * Память Света ~ [Garka](users/115/115753719718250012620-google)<sup>145</sup>
     > Заключительная книга цикла Колесо времени.
     > Вот и закончилась превосходная серия книг о Драконе Возрожденном. Как и было предначертано, судьба мира решилась в Последней битве. Повествование у Сандерсона вышло эпичное, не пафосное и очень динамичное, развязка оригинальная, хоть и грустная из-за смертей многих персонажей.
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
-    > рассказы. Россия в 90-е.
 
 * В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Время ангелов ~ [Garri938](users/114/114389869162010721507-google)<sup>33</sup>
 
-* Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>145</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [skorobogatova_n](users/144/1447894-vkontakte)<sup>0</sup> 
 
 
-_12.08.2017 13:08:59_
+_12.08.2017 13:13:11_
