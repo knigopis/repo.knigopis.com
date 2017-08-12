@@ -1,13 +1,5 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>62</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>61</sup>
 ---
-
-## 2017
-
-### Смертельный рай
-Линкольд Чайлд
-> [2017-01-08] 
-
-
 
 ## 2016
 
