@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>66</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>65</sup>
 ---
 
 ## 2017
-
-### Братство
-Оливер Боуден
-> [2017-01-28] 
-
 
 ### Возрождение
 Оливер Боуден
