@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>39</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>38</sup>
 ---
 
 ## 2016
-
-### Ярость Когтя
-Эрин Хантер
-> [2016-08-29] 
-
 
 ### Путешествие Тучезвезда
 Эрин Хантер
