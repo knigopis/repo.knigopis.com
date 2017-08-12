@@ -1,12 +1,7 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>50</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>49</sup>
 ---
 
 ## 2016
-
-### Город Эмбер:предсказание
-Дюпо Джин
-> [2016-09-17] 
-
 
 ### Город Эмбер:Люди искры
 Дюпо Джин
