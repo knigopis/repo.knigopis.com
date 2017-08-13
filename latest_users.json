@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 0,
+        "updatedAt": "2017-08-13 15:42:00"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "настя",
         "booksCount": 1,
         "updatedAt": "2017-08-05 12:41:50"
-    },
-    "241221205-vkontakte": {
-        "id": "241221205-vkontakte",
-        "nickname": "nataliecarter",
-        "booksCount": 0,
-        "updatedAt": "2017-08-05 07:51:05"
     }
 }
