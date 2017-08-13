@@ -1,4 +1,16 @@
 {
+    "zSy8wMv9eu": {
+        "id": "zSy8wMv9eu",
+        "title": "Всадник без головы",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2017-08-13 08:19:00",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 105
+        }
+    },
     "zkSoX5RLHf": {
         "id": "zkSoX5RLHf",
         "title": "Удар по Шайол Гул и Река душ",
@@ -345,18 +357,6 @@
             "id": "4957345-vkontakte",
             "nickname": "menschenbrecher",
             "booksCount": 1
-        }
-    },
-    "dJd2WXcvGq": {
-        "id": "dJd2WXcvGq",
-        "title": "Rework. Бизнес без предрассудков",
-        "author": "Джейсон Фрайд, Дэвид Хайнемайер Хенссон",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/5702223/",
-        "createdAt": "2017-08-08 18:14:33",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 114
         }
     }
 }
