@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 309,
+        "updatedAt": "2017-08-13 08:43:04"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "nataliecarter",
         "booksCount": 0,
         "updatedAt": "2017-08-05 07:51:05"
-    },
-    "72966504-vkontakte": {
-        "id": "72966504-vkontakte",
-        "nickname": "avengerprofessional",
-        "booksCount": 1,
-        "updatedAt": "2017-08-04 19:20:45"
     }
 }

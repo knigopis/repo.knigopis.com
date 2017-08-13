@@ -1,7 +1,12 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>308</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>309</sup>
 ---
 
 ## 2017
+
+### Похититель теней.
+Марк Леви
+> [2017-07-09] 
+
 
 ### Дьяволова нога.
 Артур Конан Дойл

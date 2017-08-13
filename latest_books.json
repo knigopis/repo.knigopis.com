@@ -1,4 +1,16 @@
 {
+    "M7gFb8elxy": {
+        "id": "M7gFb8elxy",
+        "title": "Похититель теней.",
+        "author": "Марк Леви",
+        "notes": "",
+        "createdAt": "2017-08-13 08:43:04",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 309
+        }
+    },
     "zSy8wMv9eu": {
         "id": "zSy8wMv9eu",
         "title": "Всадник без головы",
@@ -345,18 +357,6 @@
             "id": "4957345-vkontakte",
             "nickname": "menschenbrecher",
             "booksCount": 2
-        }
-    },
-    "m3kg_mpWBH": {
-        "id": "m3kg_mpWBH",
-        "title": "Моральные принципы темных",
-        "author": "Волк А.",
-        "notes": "",
-        "createdAt": "2017-08-09 06:11:13",
-        "user": {
-            "id": "4957345-vkontakte",
-            "nickname": "menschenbrecher",
-            "booksCount": 1
         }
     }
 }
