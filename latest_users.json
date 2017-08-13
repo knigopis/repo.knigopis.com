@@ -1,4 +1,10 @@
 {
+    "282662025-vkontakte": {
+        "id": "282662025-vkontakte",
+        "nickname": "Astro",
+        "booksCount": 43,
+        "updatedAt": "2017-08-13 20:27:03"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "denisova_elena1989",
         "booksCount": 0,
         "updatedAt": "2017-08-05 17:27:45"
-    },
-    "339468028-vkontakte": {
-        "id": "339468028-vkontakte",
-        "nickname": "настя",
-        "booksCount": 1,
-        "updatedAt": "2017-08-05 12:41:50"
     }
 }

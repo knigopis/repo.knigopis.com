@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кладбище домашних животных ~ [Astro](users/282/282662025-vkontakte)<sup>43</sup>
+    > Аудиокнига.
+    > О да, флешбеки, стремота без обоснуя, индейские захоронения, девочка с закосом под экстрасенса... Хорошо, хоть не в Дерри события происходят. Если бы я играла в "Бухаем со Стивеном Кингом", к первому бы часу прослушивания была пьяна в стельку. В общем, я не любитель, да, даже не Кинга, а самого жанра ужасов. Наверное, только поэтому для меня эта книга тянет где-то на "ну, такое"...
+
 * Удар по Шайол Гул и Река душ ~ [Garka](users/115/115753719718250012620-google)<sup>146</sup>
     > Короткие рассказы о мире Колеса времени. 
     > Река душ рассказывает о получение са'ангриала Демандредом;
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > Читала в электронном виде, после прочтения захотелось приобрести бумажный вариант, однозначно буду перечитывать.
 
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>122</sup>
-    > Книга 2
 
 * Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
 
@@ -30,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Завтра была война ★★★★★ ~ [Rainbow](users/109/109787328219839805802-google)<sup>26</sup>
 
-* Время ангелов ~ [Garri938](users/114/114389869162010721507-google)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>2</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>105</sup> 
@@ -66,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
-[настя](users/339/339468028-vkontakte)<sup>1</sup> 
 
 
-_13.08.2017 16:00:52_
+_13.08.2017 20:27:04_
