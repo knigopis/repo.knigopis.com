@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>0</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>1</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>105</sup> 
 [Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [настя](users/339/339468028-vkontakte)<sup>1</sup> 
 
 
-_13.08.2017 15:42:03_
+_13.08.2017 15:57:37_
