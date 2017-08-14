@@ -38,12 +38,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>3</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>6</sup> 
 [vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>552</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>2</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>105</sup> 
 [Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 
 
-_14.08.2017 15:14:55_
+_14.08.2017 16:24:31_
