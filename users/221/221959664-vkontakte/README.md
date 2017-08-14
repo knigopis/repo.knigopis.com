@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>22</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>23</sup>
 ---
 
 ## 2016
+
+### Восход солнца
+Эрин Хантер
+> [2016-07-20] 
+
 
 ### Длинные тени
 Эрин Хантер
