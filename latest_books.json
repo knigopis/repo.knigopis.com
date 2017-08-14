@@ -1,4 +1,16 @@
 {
+    "GidlkGwJRD": {
+        "id": "GidlkGwJRD",
+        "title": "Идеальная химия",
+        "author": "Симона Элькелес",
+        "notes": "",
+        "createdAt": "2017-08-14 08:48:24",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 88
+        }
+    },
     "HoOg9qcZ7R": {
         "id": "HoOg9qcZ7R",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 59
-        }
-    },
-    "vgh2ZJGTyF": {
-        "id": "vgh2ZJGTyF",
-        "title": "КиберЗолушка",
-        "author": "Мейер Мариса",
-        "notes": "",
-        "createdAt": "2017-08-14 08:36:12",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 58
         }
     }
 }
