@@ -1,4 +1,16 @@
 {
+    "TkktEyCD4n": {
+        "id": "TkktEyCD4n",
+        "title": "Наследник",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:55:56",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 98
+        }
+    },
     "-YwRECN_9v": {
         "id": "-YwRECN_9v",
         "title": "Принц Каспиан",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 69
-        }
-    },
-    "fUExIxY2xO": {
-        "id": "fUExIxY2xO",
-        "title": "Откровения",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-08-14 08:40:58",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 68
         }
     }
 }

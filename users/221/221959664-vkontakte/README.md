@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>97</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>98</sup>
 ---
 
 ## 2017
+
+### Наследник
+Кэтрин Ласки
+> [2017-05-24] 
+
 
 ### Дом в котором
 Мариам Петросян
