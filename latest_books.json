@@ -1,4 +1,16 @@
 {
+    "NnxDrn6aZO": {
+        "id": "NnxDrn6aZO",
+        "title": "Путешествие",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:56:03",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 103
+        }
+    },
     "BAWwqH5jVF": {
         "id": "BAWwqH5jVF",
         "title": "Спасение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 74
-        }
-    },
-    "07g3-HQuKb": {
-        "id": "07g3-HQuKb",
-        "title": "Последняя звезда",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-08-14 08:43:12",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 73
         }
     }
 }
