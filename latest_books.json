@@ -1,4 +1,16 @@
 {
+    "IfZKoYlWF2": {
+        "id": "IfZKoYlWF2",
+        "title": "Страна радости",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-08-14 08:38:51",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 63
+        }
+    },
     "2_jqRnC-s9": {
         "id": "2_jqRnC-s9",
         "title": "Кто-то другой",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 34
-        }
-    },
-    "t4UggDZVOK": {
-        "id": "t4UggDZVOK",
-        "title": "Обещание Метеора",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:23:49",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 33
         }
     }
 }
