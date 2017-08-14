@@ -1,4 +1,16 @@
 {
+    "9vDRUIhShW": {
+        "id": "9vDRUIhShW",
+        "title": "Закон племен",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:31:55",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 49
+        }
+    },
     "4A4-ia8ZWo": {
         "id": "4A4-ia8ZWo",
         "title": "Герои племен",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 20
-        }
-    },
-    "4St27DzIJR": {
-        "id": "4St27DzIJR",
-        "title": "Темная река",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:31:07",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 19
         }
     }
 }
