@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>111</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>112</sup>
 ---
 
 ## 2017
@@ -36,6 +36,11 @@
 ### Первый угленос
 Кэтрин Ласки
 > [2017-05-28] 
+
+
+### Изгнанник
+Кэтрин Ласки
+> [2017-05-25] 
 
 
 ### Наследник

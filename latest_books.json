@@ -1,4 +1,16 @@
 {
+    "lsq-EoAXxO": {
+        "id": "lsq-EoAXxO",
+        "title": "Изгнанник",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:59:32",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 112
+        }
+    },
     "FNFAcXp1Yd": {
         "id": "FNFAcXp1Yd",
         "title": "Первый угленос",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 83
-        }
-    },
-    "9yKU-9ZZ0G": {
-        "id": "9yKU-9ZZ0G",
-        "title": "Янтарный телескоп",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-08-14 08:45:51",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 82
         }
     }
 }
