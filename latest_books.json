@@ -1,4 +1,16 @@
 {
+    "JyN6EeWPZz": {
+        "id": "JyN6EeWPZz",
+        "title": "Сокрушение",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:55:59",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 100
+        }
+    },
     "ikVT2Iq6L3": {
         "id": "ikVT2Iq6L3",
         "title": "Вторжение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 71
-        }
-    },
-    "YvjrV4MHmr": {
-        "id": "YvjrV4MHmr",
-        "title": "Братство",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-08-14 08:41:01",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 70
         }
     }
 }
