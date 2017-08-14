@@ -1,4 +1,10 @@
 {
+    "192099707915275-facebook": {
+        "id": "192099707915275-facebook",
+        "nickname": "Poster",
+        "booksCount": 0,
+        "updatedAt": "2017-08-14 19:18:14"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "katya704201058",
         "booksCount": 0,
         "updatedAt": "2017-08-07 10:40:16"
-    },
-    "114389869162010721507-google": {
-        "id": "114389869162010721507-google",
-        "nickname": "Garri938",
-        "booksCount": 33,
-        "updatedAt": "2017-08-06 07:08:44"
     }
 }
