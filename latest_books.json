@@ -1,4 +1,16 @@
 {
+    "gxbfsww8ew": {
+        "id": "gxbfsww8ew",
+        "title": "Золотое дерево",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:59:24",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 108
+        }
+    },
     "2lwejzf2Uv": {
         "id": "2lwejzf2Uv",
         "title": "Река ветра",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 79
-        }
-    },
-    "LB6gk1N9i7": {
-        "id": "LB6gk1N9i7",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2017-08-14 08:45:45",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 78
         }
     }
 }

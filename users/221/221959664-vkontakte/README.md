@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>107</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>108</sup>
 ---
 
 ## 2017
@@ -16,6 +16,11 @@
 ### Обман
 Кэтрин Ласки
 > [2017-06-09] 
+
+
+### Золотое дерево
+Кэтрин Ласки
+> [2017-06-07] 
 
 
 ### Наследник
