@@ -1,4 +1,16 @@
 {
+    "ZZHG4OEQYh": {
+        "id": "ZZHG4OEQYh",
+        "title": "Покоритель Зари",
+        "author": "Льюис Клайв",
+        "notes": "",
+        "createdAt": "2017-08-14 08:53:09",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 96
+        }
+    },
     "VXS0ZwEP6D": {
         "id": "VXS0ZwEP6D",
         "title": "Серебряное кресло",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 67
-        }
-    },
-    "Zq2_Nwz6Iv": {
-        "id": "Zq2_Nwz6Iv",
-        "title": "Черный Флаг",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-08-14 08:40:55",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 66
         }
     }
 }
