@@ -1,4 +1,16 @@
 {
+    "nIcj1sSlmE": {
+        "id": "nIcj1sSlmE",
+        "title": "Город Эмбер:Предсказание",
+        "author": "Дюпо Джин",
+        "notes": "",
+        "createdAt": "2017-08-14 08:33:31",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 50
+        }
+    },
     "9vDRUIhShW": {
         "id": "9vDRUIhShW",
         "title": "Закон племен",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 21
-        }
-    },
-    "bFgVVUUsn8": {
-        "id": "bFgVVUUsn8",
-        "title": "Отверженные",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 07:12:43",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 20
         }
     }
 }
