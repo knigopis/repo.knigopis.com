@@ -1,4 +1,16 @@
 {
+    "-MMooBrJ6y": {
+        "id": "-MMooBrJ6y",
+        "title": "Битва за лес",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:29:56",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 11
+        }
+    },
     "EirUQ668nM": {
         "id": "EirUQ668nM",
         "title": "Опасная тропа",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 102
-        }
-    },
-    "o0k69Ld7jx": {
-        "id": "o0k69Ld7jx",
-        "title": "Веер Леди Уиндемир",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-08-10 11:43:59",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 101
         }
     }
 }
