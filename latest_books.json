@@ -1,4 +1,16 @@
 {
+    "ZmeYmVq0Mc": {
+        "id": "ZmeYmVq0Mc",
+        "title": "Оксфорд Лиры:Лира и птицы",
+        "author": "Пулман Филип",
+        "notes": "",
+        "createdAt": "2017-08-14 08:45:48",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 80
+        }
+    },
     "I_gTFZLe_9": {
         "id": "I_gTFZLe_9",
         "title": "Однажды на севере",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 51
-        }
-    },
-    "nIcj1sSlmE": {
-        "id": "nIcj1sSlmE",
-        "title": "Город Эмбер:Предсказание",
-        "author": "Дюпо Джин",
-        "notes": "",
-        "createdAt": "2017-08-14 08:33:31",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 50
         }
     }
 }
