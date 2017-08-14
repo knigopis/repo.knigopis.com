@@ -1,4 +1,16 @@
 {
+    "E_Ui2f4OiU": {
+        "id": "E_Ui2f4OiU",
+        "title": "Война углей",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:59:17",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 105
+        }
+    },
     "5Vd78NpqaR": {
         "id": "5Vd78NpqaR",
         "title": "Похищение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 76
-        }
-    },
-    "PQHvcMYG8L": {
-        "id": "PQHvcMYG8L",
-        "title": "5-волна",
-        "author": "Рик Янси",
-        "notes": "",
-        "createdAt": "2017-08-14 08:43:15",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 75
         }
     }
 }
