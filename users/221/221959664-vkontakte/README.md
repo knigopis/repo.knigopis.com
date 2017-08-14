@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>94</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>95</sup>
 ---
 
 ## 2017
@@ -21,6 +21,11 @@
 ### Племянник чародея
 Льюис Клайв
 > [2017-03-26] 
+
+
+### Серебряное кресло
+Льюис Клайв
+> [2017-03-24] 
 
 
 ### Лев, колдунья и платяной шкаф
