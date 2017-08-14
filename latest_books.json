@@ -1,4 +1,16 @@
 {
+    "MeNuN_lgTd": {
+        "id": "MeNuN_lgTd",
+        "title": "Пророчество Синей Звезды",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:22:11",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 31
+        }
+    },
     "1wGT3UUXXq": {
         "id": "1wGT3UUXXq",
         "title": "Миссия Огнезвезда",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 2
-        }
-    },
-    "hGmMsvjf5A": {
-        "id": "hGmMsvjf5A",
-        "title": "Лунный зверь",
-        "author": "Гарри Килворт",
-        "notes": "",
-        "createdAt": "2017-08-14 04:26:10",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 1
         }
     }
 }
