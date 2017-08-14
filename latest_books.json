@@ -1,4 +1,16 @@
 {
+    "RWPGygStXS": {
+        "id": "RWPGygStXS",
+        "title": "Главная надежда",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:21:35",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 29
+        }
+    },
     "BqYxJpsp4B": {
         "id": "BqYxJpsp4B",
         "title": "Забытый воин",
@@ -345,18 +357,6 @@
             "id": "282662025-vkontakte",
             "nickname": "Astro",
             "booksCount": 43
-        }
-    },
-    "LXIuKa7Qml": {
-        "id": "LXIuKa7Qml",
-        "title": "Морфий",
-        "author": "Михаил Булгаков",
-        "notes": "Книга сильная, но тяжелая. Но маленькая по объему, поэтому мне далась легко",
-        "createdAt": "2017-08-13 16:00:52",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 2
         }
     }
 }
