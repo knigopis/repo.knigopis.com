@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>7</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>8</sup>
 ---
 
 ## 2016
@@ -26,6 +26,10 @@
 ### Автостопом по галактике
 Дуглас Адамс
 > [2016-03-11] 
+
+
+### Лес секретов
+Эрин Хантер
 
 
 ### Огонь и лед
