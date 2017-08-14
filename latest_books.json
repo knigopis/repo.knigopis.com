@@ -1,4 +1,16 @@
 {
+    "LB6gk1N9i7": {
+        "id": "LB6gk1N9i7",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2017-08-14 08:45:45",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 78
+        }
+    },
     "NvZ-w3DJuR": {
         "id": "NvZ-w3DJuR",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 49
-        }
-    },
-    "4A4-ia8ZWo": {
-        "id": "4A4-ia8ZWo",
-        "title": "Герои племен",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:31:54",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 48
         }
     }
 }
