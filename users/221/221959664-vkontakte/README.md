@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>108</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>109</sup>
 ---
 
 ## 2017
@@ -21,6 +21,11 @@
 ### Золотое дерево
 Кэтрин Ласки
 > [2017-06-07] 
+
+
+### Быть королем
+Кэтрин Ласки
+> [2017-06-06] 
 
 
 ### Наследник
