@@ -1,4 +1,16 @@
 {
+    "BAWwqH5jVF": {
+        "id": "BAWwqH5jVF",
+        "title": "Спасение",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:56:01",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 102
+        }
+    },
     "I1sXpT0p5m": {
         "id": "I1sXpT0p5m",
         "title": "Осада",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 73
-        }
-    },
-    "-NuZzbYSYW": {
-        "id": "-NuZzbYSYW",
-        "title": "Северное сияние",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-08-14 08:43:10",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 72
         }
     }
 }
