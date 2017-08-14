@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>105</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>106</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Война углей
 Кэтрин Ласки
 > [2017-06-10] 
+
+
+### Обман
+Кэтрин Ласки
+> [2017-06-09] 
 
 
 ### Наследник
