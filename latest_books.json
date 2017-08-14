@@ -1,4 +1,16 @@
 {
+    "hGmMsvjf5A": {
+        "id": "hGmMsvjf5A",
+        "title": "Лунный зверь",
+        "author": "Гарри Килворт",
+        "notes": "",
+        "createdAt": "2017-08-14 04:26:10",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 1
+        }
+    },
     "wXWsOhUrwG": {
         "id": "wXWsOhUrwG",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 92
-        }
-    },
-    "pUrYkQIMy8": {
-        "id": "pUrYkQIMy8",
-        "title": "Пир Стервятников",
-        "author": "Дж.Мартин",
-        "notes": "",
-        "createdAt": "2017-08-10 11:21:10",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 91
         }
     }
 }
