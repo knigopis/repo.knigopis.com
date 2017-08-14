@@ -1,4 +1,16 @@
 {
+    "YvjrV4MHmr": {
+        "id": "YvjrV4MHmr",
+        "title": "Братство",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-08-14 08:41:01",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 70
+        }
+    },
     "yba5U7N7SG": {
         "id": "yba5U7N7SG",
         "title": "Тайный крестовый поход",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 41
-        }
-    },
-    "EWgw6uN7Fi": {
-        "id": "EWgw6uN7Fi",
-        "title": "Прощание Горелого",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:30:08",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 40
         }
     }
 }
