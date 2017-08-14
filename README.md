@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nanzanova](users/112/11205797-vkontakte)<sup>0</sup> 
 [Poster](users/192/192099707915275-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>3</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>6</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>24</sup> 
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
-[katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 
 
-_14.08.2017 19:18:15_
+_14.08.2017 21:40:30_
