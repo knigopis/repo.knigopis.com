@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>65</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>66</sup>
 ---
 
 ## 2017
+
+### Черный Флаг
+Оливер Боуден
+> [2017-02-05] 
+
 
 ### Смертельный рай
 Линкольд Чайлд
