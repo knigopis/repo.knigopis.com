@@ -1,4 +1,16 @@
 {
+    "uXZSooqoXG": {
+        "id": "uXZSooqoXG",
+        "title": "Закат",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:30:52",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 17
+        }
+    },
     "SQNgAfhDq0": {
         "id": "SQNgAfhDq0",
         "title": "Сумерки",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 106
-        }
-    },
-    "9jWLUZA2YT": {
-        "id": "9jWLUZA2YT",
-        "title": "В списках не значился",
-        "author": "Борис Васильев",
-        "notes": "И вот тебе мой последний приказ: девочку сбереги и сам уцелей. Выживи. Назло им - выживи. За всех нас.",
-        "createdAt": "2017-08-10 13:57:31",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 28
         }
     }
 }
