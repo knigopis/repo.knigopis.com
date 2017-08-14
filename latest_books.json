@@ -1,4 +1,16 @@
 {
+    "EirUQ668nM": {
+        "id": "EirUQ668nM",
+        "title": "Опасная тропа",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:29:47",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 10
+        }
+    },
     "ppZJRvC5G1": {
         "id": "ppZJRvC5G1",
         "title": "Бушующая стихия",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 101
-        }
-    },
-    "YUULK1u91D": {
-        "id": "YUULK1u91D",
-        "title": "Как Важно Быть Серьезным (пьеса)",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-08-10 11:43:29",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 100
         }
     }
 }
