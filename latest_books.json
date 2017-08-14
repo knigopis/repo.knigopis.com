@@ -1,4 +1,16 @@
 {
+    "ubp2LSE2_o": {
+        "id": "ubp2LSE2_o",
+        "title": "Полночь",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:30:04",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 12
+        }
+    },
     "-MMooBrJ6y": {
         "id": "-MMooBrJ6y",
         "title": "Битва за лес",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 103
-        }
-    },
-    "q3zvaEdb_w": {
-        "id": "q3zvaEdb_w",
-        "title": "Идеальный муж",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-08-10 11:44:09",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 102
         }
     }
 }
