@@ -1,4 +1,16 @@
 {
+    "pT6YJ0J62f": {
+        "id": "pT6YJ0J62f",
+        "title": "Возрождение",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-08-14 08:41:02",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 71
+        }
+    },
     "YvjrV4MHmr": {
         "id": "YvjrV4MHmr",
         "title": "Братство",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 42
-        }
-    },
-    "y5a-_m1Yft": {
-        "id": "y5a-_m1Yft",
-        "title": "Проклятие Гусохвоста",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:30:09",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 41
         }
     }
 }
