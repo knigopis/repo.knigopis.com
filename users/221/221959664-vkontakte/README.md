@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>39</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>40</sup>
 ---
 
 ## 2016
+
+### Прощание Горелого
+Эрин Хантер
+> [2016-09-06] 
+
 
 ### Путешествие Тучезвезда
 Эрин Хантер

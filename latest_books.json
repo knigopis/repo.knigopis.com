@@ -1,4 +1,16 @@
 {
+    "EWgw6uN7Fi": {
+        "id": "EWgw6uN7Fi",
+        "title": "Прощание Горелого",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:30:08",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 40
+        }
+    },
     "hegeAxshLQ": {
         "id": "hegeAxshLQ",
         "title": "История Остролистой",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 11
-        }
-    },
-    "EirUQ668nM": {
-        "id": "EirUQ668nM",
-        "title": "Опасная тропа",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:29:47",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 10
         }
     }
 }
