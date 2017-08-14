@@ -1,4 +1,16 @@
 {
+    "4A4-ia8ZWo": {
+        "id": "4A4-ia8ZWo",
+        "title": "Герои племен",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:31:54",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 48
+        }
+    },
     "4Wb2P4WnVE": {
         "id": "4Wb2P4WnVE",
         "title": "Секреты племен",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 19
-        }
-    },
-    "6fIN3mbRvr": {
-        "id": "6fIN3mbRvr",
-        "title": "Знак трех",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:31:00",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 18
         }
     }
 }
