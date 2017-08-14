@@ -1,4 +1,16 @@
 {
+    "07g3-HQuKb": {
+        "id": "07g3-HQuKb",
+        "title": "Последняя звезда",
+        "author": "Рик Янси",
+        "notes": "",
+        "createdAt": "2017-08-14 08:43:12",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 73
+        }
+    },
     "-NuZzbYSYW": {
         "id": "-NuZzbYSYW",
         "title": "Северное сияние",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 44
-        }
-    },
-    "kPA_fWKkSx": {
-        "id": "kPA_fWKkSx",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-14 08:30:11",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 43
         }
     }
 }
