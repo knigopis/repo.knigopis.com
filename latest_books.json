@@ -1,4 +1,16 @@
 {
+    "n6IYIe-7w2": {
+        "id": "n6IYIe-7w2",
+        "title": "Пространство (Первые четыре книги)",
+        "author": "Джеймс Кори",
+        "notes": "",
+        "createdAt": "2017-08-14 15:14:55",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 6
+        }
+    },
     "O1WsBzgqSp": {
         "id": "O1WsBzgqSp",
         "title": "Совершенный код",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 88
-        }
-    },
-    "HoOg9qcZ7R": {
-        "id": "HoOg9qcZ7R",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-08-14 08:48:22",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 87
         }
     }
 }

@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>6</sup> 
 [vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>552</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lilligreem](users/234/234665915-yandex)<sup>0</sup> 
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>47</sup> 
 
 
-_14.08.2017 14:55:35_
+_14.08.2017 15:14:55_
