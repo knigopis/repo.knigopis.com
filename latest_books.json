@@ -1,4 +1,16 @@
 {
+    "6fIN3mbRvr": {
+        "id": "6fIN3mbRvr",
+        "title": "Знак трех",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:31:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 18
+        }
+    },
     "uXZSooqoXG": {
         "id": "uXZSooqoXG",
         "title": "Закат",
@@ -345,18 +357,6 @@
             "id": "1602268389844908-facebook",
             "nickname": "iklin",
             "booksCount": 1
-        }
-    },
-    "1e6BpW9Fod": {
-        "id": "1e6BpW9Fod",
-        "title": "Молитва об Оуэне Мини",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-08-11 08:30:43",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 106
         }
     }
 }
