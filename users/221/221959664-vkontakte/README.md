@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>86</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>87</sup>
 ---
 
 ## 2017
@@ -16,6 +16,11 @@
 ### Девятнадцать минут
 Джоди Пиколт
 > [2017-03-18] 
+
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2017-03-13] 
 
 
 ### 451 градус по Фаренгейту
