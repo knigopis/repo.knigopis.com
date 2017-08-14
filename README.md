@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>552</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katya704201058](users/201/201401564-vkontakte)<sup>0</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>33</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>47</sup> 
-[denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 
 
-_14.08.2017 14:00:23_
+_14.08.2017 14:49:57_
