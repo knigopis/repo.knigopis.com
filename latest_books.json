@@ -1,4 +1,16 @@
 {
+    "4Wb2P4WnVE": {
+        "id": "4Wb2P4WnVE",
+        "title": "Секреты племен",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:31:52",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 47
+        }
+    },
     "-aAaUg9m7-": {
         "id": "-aAaUg9m7-",
         "title": "Ярость Когтя",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 18
-        }
-    },
-    "uXZSooqoXG": {
-        "id": "uXZSooqoXG",
-        "title": "Закат",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:30:52",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 17
         }
     }
 }
