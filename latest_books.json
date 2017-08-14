@@ -1,4 +1,16 @@
 {
+    "wA6YsAHyHJ": {
+        "id": "wA6YsAHyHJ",
+        "title": "Голоса в ночи",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 07:14:51",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 26
+        }
+    },
     "cJsyLPfIkC": {
         "id": "cJsyLPfIkC",
         "title": "Долгое эхо",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 310
-        }
-    },
-    "M7gFb8elxy": {
-        "id": "M7gFb8elxy",
-        "title": "Похититель теней.",
-        "author": "Марк Леви",
-        "notes": "",
-        "createdAt": "2017-08-13 08:43:04",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 309
         }
     }
 }
