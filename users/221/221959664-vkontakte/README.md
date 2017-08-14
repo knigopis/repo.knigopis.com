@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>110</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>111</sup>
 ---
 
 ## 2017
@@ -31,6 +31,11 @@
 ### Воспитание принца
 Кэтрин Ласки
 > [2017-05-31] 
+
+
+### Первый угленос
+Кэтрин Ласки
+> [2017-05-28] 
 
 
 ### Наследник
