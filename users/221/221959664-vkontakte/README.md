@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>113</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>114</sup>
 ---
 
 ## 2017
+
+### Катализатор. Изгой-один:Предыстория
+Джеймс Лусено
+> [2017-08-12] 
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
