@@ -1,4 +1,16 @@
 {
+    "yKoj4O5VEZ": {
+        "id": "yKoj4O5VEZ",
+        "title": "Мой лучший враг",
+        "author": "Эли Фрей",
+        "notes": "",
+        "createdAt": "2017-08-14 08:48:26",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 90
+        }
+    },
     "HqUgmy4EZc": {
         "id": "HqUgmy4EZc",
         "title": "Народ, или когда мы были дельфинами",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 61
-        }
-    },
-    "yUiNV4ebA8": {
-        "id": "yUiNV4ebA8",
-        "title": "Убить полюбовно",
-        "author": "Рей Бредбери",
-        "notes": "",
-        "createdAt": "2017-08-14 08:37:10",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 60
         }
     }
 }
