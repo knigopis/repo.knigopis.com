@@ -1,4 +1,16 @@
 {
+    "2bfWTtZ1PI": {
+        "id": "2bfWTtZ1PI",
+        "title": "Границы бесконечности",
+        "author": "Буджолд Лоис Макмастер",
+        "notes": "",
+        "createdAt": "2017-08-14 04:28:34",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 5
+        }
+    },
     "tkm1FOel3h": {
         "id": "tkm1FOel3h",
         "title": "Звезды как пыль",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 96
-        }
-    },
-    "lg_hoqXk8R": {
-        "id": "lg_hoqXk8R",
-        "title": "Ромео и Джульетта",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-10 11:40:02",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 95
         }
     }
 }
