@@ -1,4 +1,16 @@
 {
+    "GNtserixl0": {
+        "id": "GNtserixl0",
+        "title": "Из глубины",
+        "author": "Линкольд Чайлд",
+        "notes": "",
+        "createdAt": "2017-08-14 08:43:16",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 76
+        }
+    },
     "PQHvcMYG8L": {
         "id": "PQHvcMYG8L",
         "title": "5-волна",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 47
-        }
-    },
-    "-aAaUg9m7-": {
-        "id": "-aAaUg9m7-",
-        "title": "Ярость Когтя",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:30:16",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 46
         }
     }
 }
