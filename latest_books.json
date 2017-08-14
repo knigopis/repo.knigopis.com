@@ -1,4 +1,16 @@
 {
+    "yba5U7N7SG": {
+        "id": "yba5U7N7SG",
+        "title": "Тайный крестовый поход",
+        "author": "Оливер Боуден",
+        "notes": "",
+        "createdAt": "2017-08-14 08:40:59",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 69
+        }
+    },
     "fUExIxY2xO": {
         "id": "fUExIxY2xO",
         "title": "Откровения",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 40
-        }
-    },
-    "hegeAxshLQ": {
-        "id": "hegeAxshLQ",
-        "title": "История Остролистой",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:27:45",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 39
         }
     }
 }
