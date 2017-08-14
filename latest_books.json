@@ -1,4 +1,16 @@
 {
+    "I1sXpT0p5m": {
+        "id": "I1sXpT0p5m",
+        "title": "Осада",
+        "author": "Кэтрин Ласки",
+        "notes": "",
+        "createdAt": "2017-08-14 08:56:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 101
+        }
+    },
     "JyN6EeWPZz": {
         "id": "JyN6EeWPZz",
         "title": "Сокрушение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 72
-        }
-    },
-    "pT6YJ0J62f": {
-        "id": "pT6YJ0J62f",
-        "title": "Возрождение",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-08-14 08:41:02",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 71
         }
     }
 }
