@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 552,
+        "updatedAt": "2017-08-14 14:00:23"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -70,12 +76,6 @@
         "nickname": "Rainbow",
         "booksCount": 28,
         "updatedAt": "2017-08-10 13:57:31"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 551,
-        "updatedAt": "2017-08-10 08:12:37"
     },
     "83820536-yandex": {
         "id": "83820536-yandex",

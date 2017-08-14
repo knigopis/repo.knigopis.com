@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>552</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>2</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>551</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
 [Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 
 
-_14.08.2017 09:00:52_
+_14.08.2017 14:00:23_
