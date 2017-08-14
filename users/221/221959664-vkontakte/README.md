@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>67</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>68</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Покинутый
 Оливер Боуден
 > [2017-02-04] 
+
+
+### Откровения
+Оливер Боуден
+> [2017-02-01] 
 
 
 ### Смертельный рай
