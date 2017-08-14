@@ -1,4 +1,16 @@
 {
+    "Q5Iy7d0h99": {
+        "id": "Q5Iy7d0h99",
+        "title": "Затмение",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 07:13:05",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 21
+        }
+    },
     "bFgVVUUsn8": {
         "id": "bFgVVUUsn8",
         "title": "Отверженные",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 122
-        }
-    },
-    "xZ0oS9cz8E": {
-        "id": "xZ0oS9cz8E",
-        "title": "Срыв",
-        "author": "Сенчин Роман",
-        "notes": "рассказы. Россия в 90-е.",
-        "createdAt": "2017-08-11 21:01:28",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 27
         }
     }
 }
