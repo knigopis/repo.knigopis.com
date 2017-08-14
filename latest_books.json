@@ -1,4 +1,16 @@
 {
+    "oAfgfbxxHW": {
+        "id": "oAfgfbxxHW",
+        "title": "Хорошо быть тихоней",
+        "author": "Стивен Чбоски",
+        "notes": "",
+        "createdAt": "2017-08-14 08:37:12",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 61
+        }
+    },
     "yUiNV4ebA8": {
         "id": "yUiNV4ebA8",
         "title": "Убить полюбовно",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 32
-        }
-    },
-    "MeNuN_lgTd": {
-        "id": "MeNuN_lgTd",
-        "title": "Пророчество Синей Звезды",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 08:22:11",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 31
         }
     }
 }

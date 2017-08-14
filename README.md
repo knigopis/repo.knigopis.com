@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>60</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>61</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>2</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [denisova_elena1989](users/148/148358852-vkontakte)<sup>0</sup> 
 
 
-_14.08.2017 08:37:10_
+_14.08.2017 08:37:12_
