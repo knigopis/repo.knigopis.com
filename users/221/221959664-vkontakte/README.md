@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>96</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>97</sup>
 ---
 
 ## 2017
@@ -26,6 +26,11 @@
 ### Серебряное кресло
 Льюис Клайв
 > [2017-03-24] 
+
+
+### Принц Каспиан
+Льюис Клайв
+> [2017-03-21] 
 
 
 ### Покоритель Зари

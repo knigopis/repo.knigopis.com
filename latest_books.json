@@ -1,4 +1,16 @@
 {
+    "-YwRECN_9v": {
+        "id": "-YwRECN_9v",
+        "title": "Принц Каспиан",
+        "author": "Льюис Клайв",
+        "notes": "",
+        "createdAt": "2017-08-14 08:53:11",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 97
+        }
+    },
     "ZZHG4OEQYh": {
         "id": "ZZHG4OEQYh",
         "title": "Покоритель Зари",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 68
-        }
-    },
-    "jSdALtJ7Qt": {
-        "id": "jSdALtJ7Qt",
-        "title": "Покинутый",
-        "author": "Оливер Боуден",
-        "notes": "",
-        "createdAt": "2017-08-14 08:40:57",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 67
         }
     }
 }
