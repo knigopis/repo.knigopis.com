@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>109</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>110</sup>
 ---
 
 ## 2017
@@ -26,6 +26,11 @@
 ### Быть королем
 Кэтрин Ласки
 > [2017-06-06] 
+
+
+### Воспитание принца
+Кэтрин Ласки
+> [2017-05-31] 
 
 
 ### Наследник
