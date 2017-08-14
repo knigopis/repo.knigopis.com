@@ -1,4 +1,16 @@
 {
+    "bFgVVUUsn8": {
+        "id": "bFgVVUUsn8",
+        "title": "Отверженные",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 07:12:43",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 20
+        }
+    },
     "4St27DzIJR": {
         "id": "4St27DzIJR",
         "title": "Темная река",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 27
-        }
-    },
-    "x567eEgnog": {
-        "id": "x567eEgnog",
-        "title": "Вычисление Бога",
-        "author": "Роберт Сойер",
-        "notes": "",
-        "createdAt": "2017-08-11 19:20:00",
-        "user": {
-            "id": "1602268389844908-facebook",
-            "nickname": "iklin",
-            "booksCount": 2
         }
     }
 }
