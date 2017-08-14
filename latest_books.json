@@ -1,4 +1,16 @@
 {
+    "Hu6qpW_x5Q": {
+        "id": "Hu6qpW_x5Q",
+        "title": "Конь и его мальчик",
+        "author": "Льюис Клайв",
+        "notes": "",
+        "createdAt": "2017-08-14 08:53:07",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 94
+        }
+    },
     "9KXAEaVtN8": {
         "id": "9KXAEaVtN8",
         "title": "Последняя битва",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 65
-        }
-    },
-    "9XONyyyugk": {
-        "id": "9XONyyyugk",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер Джером Дейвид",
-        "notes": "",
-        "createdAt": "2017-08-14 08:38:52",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 64
         }
     }
 }
