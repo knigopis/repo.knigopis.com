@@ -1,4 +1,16 @@
 {
+    "Jb3NBFwBVl": {
+        "id": "Jb3NBFwBVl",
+        "title": "Месть Кленовницы",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:30:10",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 42
+        }
+    },
     "y5a-_m1Yft": {
         "id": "y5a-_m1Yft",
         "title": "Проклятие Гусохвоста",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 13
-        }
-    },
-    "ubp2LSE2_o": {
-        "id": "ubp2LSE2_o",
-        "title": "Полночь",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:30:04",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 12
         }
     }
 }
