@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>40</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>41</sup>
 ---
 
 ## 2016
+
+### Проклятие Гусохвоста
+Эрин Хантер
+> [2016-09-06] 
+
 
 ### Прощание Горелого
 Эрин Хантер

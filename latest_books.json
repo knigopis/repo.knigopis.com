@@ -1,4 +1,16 @@
 {
+    "y5a-_m1Yft": {
+        "id": "y5a-_m1Yft",
+        "title": "Проклятие Гусохвоста",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 08:30:09",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 41
+        }
+    },
     "EWgw6uN7Fi": {
         "id": "EWgw6uN7Fi",
         "title": "Прощание Горелого",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 12
-        }
-    },
-    "-MMooBrJ6y": {
-        "id": "-MMooBrJ6y",
-        "title": "Битва за лес",
-        "author": "Эрин Хантер",
-        "notes": "",
-        "createdAt": "2017-08-14 04:29:56",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 11
         }
     }
 }
