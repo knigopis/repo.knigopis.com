@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>53</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>54</sup>
 ---
 
 ## 2016
@@ -6,6 +6,11 @@
 ### Лед-15
 Линкольд Чайлд
 > [2016-11-06] 
+
+
+### Стопроцентно лунный мальчик
+Стивен Танни
+> [2016-10-18] 
 
 
 ### Город Эмбер:Предсказание
