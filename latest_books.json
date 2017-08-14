@@ -1,4 +1,16 @@
 {
+    "1cjIU-ErVz": {
+        "id": "1cjIU-ErVz",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-08-14 09:00:09",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 113
+        }
+    },
     "lsq-EoAXxO": {
         "id": "lsq-EoAXxO",
         "title": "Изгнанник",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 84
-        }
-    },
-    "4i5wr7lYCm": {
-        "id": "4i5wr7lYCm",
-        "title": "Чудесный нож",
-        "author": "Пулман Филип",
-        "notes": "",
-        "createdAt": "2017-08-14 08:45:54",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 83
         }
     }
 }

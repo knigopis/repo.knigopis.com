@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>112</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>113</sup>
 ---
 
 ## 2017
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+> [2017-07-01] 
+
 
 ### Война углей
 Кэтрин Ласки
