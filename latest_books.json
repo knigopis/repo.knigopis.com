@@ -1,4 +1,16 @@
 {
+    "oTiz48V2C_": {
+        "id": "oTiz48V2C_",
+        "title": "Знамение Луны",
+        "author": "Эрин Хантер",
+        "notes": "",
+        "createdAt": "2017-08-14 07:15:10",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 27
+        }
+    },
     "wA6YsAHyHJ": {
         "id": "wA6YsAHyHJ",
         "title": "Голоса в ночи",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 1
-        }
-    },
-    "UXdqfyjo51": {
-        "id": "UXdqfyjo51",
-        "title": "Его прощальный поклон.",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-08-13 08:43:54",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 310
         }
     }
 }
