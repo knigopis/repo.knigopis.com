@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>45</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>46</sup>
 ---
 
 ## 2016
@@ -26,6 +26,11 @@
 ### Желание Листвички
 Эрин Хантер
 > [2016-08-31] 
+
+
+### Ярость Когтя
+Эрин Хантер
+> [2016-08-28] 
 
 
 ### Путешествие Тучезвезда
