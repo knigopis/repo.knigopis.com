@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>54</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>55</sup>
 ---
 
 ## 2017
@@ -155,6 +155,11 @@
 ### Теория игр: Искусство стратегического мышления в бизнесе и жизни
 Авинаш Диксит, Барри Нейлбафф
 > [2016-08] 
+
+
+### Стоик
+Теодор Драйзер
+> [2016-07] 
 
 
 ### Грозовой перевал
