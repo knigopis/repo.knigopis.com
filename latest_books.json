@@ -1,4 +1,16 @@
 {
+    "RLfDJQBV8R": {
+        "id": "RLfDJQBV8R",
+        "title": "Глубина в небе",
+        "author": "Вернор Виндж",
+        "notes": "Виндж нереально крут :) чистый фан.\n\nhttps://www.ozon.ru/context/detail/id/31924233/\n\nв процессе",
+        "createdAt": "2017-08-15 20:25:46",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 117
+        }
+    },
     "8HnZiJn74E": {
         "id": "8HnZiJn74E",
         "title": "Все породы собак. Выбрать, понять, воспитать",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 49
-        }
-    },
-    "TeQrYaXRvF": {
-        "id": "TeQrYaXRvF",
-        "title": "Пелагия и белый бульдог",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-08-15 15:02:29",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 48
         }
     }
 }
