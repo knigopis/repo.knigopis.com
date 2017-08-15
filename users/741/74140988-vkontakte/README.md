@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>47</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>48</sup>
 ---
 
 ## 2017
@@ -168,6 +168,11 @@
 ### Планета Вода
 Борис Акунин
 > [2015-11] 
+
+
+### Пелагия и белый бульдог
+Борис Акунин
+> [2015-09] 
 
 
 ### К чёрту всё! Берись и делай!
