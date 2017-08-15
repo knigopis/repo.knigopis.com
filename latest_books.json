@@ -1,4 +1,16 @@
 {
+    "p_zqZGt22t": {
+        "id": "p_zqZGt22t",
+        "title": "Двери восприятия",
+        "author": "Олдос Хаксли",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:55:42",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 19
+        }
+    },
     "LERPtdsuCa": {
         "id": "LERPtdsuCa",
         "title": "Семь навыков высокоэффективных людей",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 68
-        }
-    },
-    "KKbxf4Tfup": {
-        "id": "KKbxf4Tfup",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Достоевский",
-        "notes": "",
-        "createdAt": "2017-08-15 15:11:06",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 67
         }
     }
 }
