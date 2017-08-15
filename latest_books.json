@@ -1,4 +1,16 @@
 {
+    "MktzBMkgKe": {
+        "id": "MktzBMkgKe",
+        "title": "Бог как иллюзия",
+        "author": "Ричард Докинз",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:45:20",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 1
+        }
+    },
     "RLfDJQBV8R": {
         "id": "RLfDJQBV8R",
         "title": "Глубина в небе",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 50
-        }
-    },
-    "AImztYY78j": {
-        "id": "AImztYY78j",
-        "title": "Пелагия и чёрных монах",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-08-15 15:02:51",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 49
         }
     }
 }
