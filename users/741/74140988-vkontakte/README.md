@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>71</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>72</sup>
 ---
 
 ## 2017
@@ -349,6 +349,11 @@
 ### Горе от ума
 Александр Грибоедов
 > [2012-10] 
+
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2012-06] 
 
 
 ### Три товарища
