@@ -1,4 +1,16 @@
 {
+    "PruChkWVgM": {
+        "id": "PruChkWVgM",
+        "title": "Интроверты: Как использовать особенности своего характера",
+        "author": "Сьюзан Кейн",
+        "notes": "",
+        "createdAt": "2017-08-15 14:35:04",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 10
+        }
+    },
     "cazs7I2AFn": {
         "id": "cazs7I2AFn",
         "title": "Как привести дела в порядок: Искусство продуктивности без стресса",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 104
-        }
-    },
-    "NnxDrn6aZO": {
-        "id": "NnxDrn6aZO",
-        "title": "Путешествие",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:56:03",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 103
         }
     }
 }

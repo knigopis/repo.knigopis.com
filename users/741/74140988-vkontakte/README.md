@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>9</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>10</sup>
 ---
 
 ## 2017
+
+### Интроверты: Как использовать особенности своего характера
+Сьюзан Кейн
+> [2017-05-03] 
+
 
 ### Как привести дела в порядок: Искусство продуктивности без стресса
 Дэвид Аллен
