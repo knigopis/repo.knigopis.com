@@ -1,4 +1,16 @@
 {
+    "cazs7I2AFn": {
+        "id": "cazs7I2AFn",
+        "title": "Как привести дела в порядок: Искусство продуктивности без стресса",
+        "author": "Дэвид Аллен",
+        "notes": "",
+        "createdAt": "2017-08-15 14:34:24",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 9
+        }
+    },
     "keX34xyANE": {
         "id": "keX34xyANE",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 103
-        }
-    },
-    "BAWwqH5jVF": {
-        "id": "BAWwqH5jVF",
-        "title": "Спасение",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:56:01",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 102
         }
     }
 }

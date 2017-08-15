@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>8</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>9</sup>
 ---
 
 ## 2017
+
+### Как привести дела в порядок: Искусство продуктивности без стресса
+Дэвид Аллен
+> [2017-03] 
+
 
 ### Путь Черепах
 Куртис Фейс
