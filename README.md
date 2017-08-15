@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>6</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>7</sup> 
 [International master](users/741/74140988-vkontakte)<sup>0</sup> 
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
 [lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
 
 
-_15.08.2017 12:02:18_
+_15.08.2017 12:50:43_

@@ -1,4 +1,16 @@
 {
+    "DDhyL-JU6x": {
+        "id": "DDhyL-JU6x",
+        "title": "Чучело",
+        "author": "Владимир Железников",
+        "notes": "Жалостливая книжка",
+        "createdAt": "2017-08-15 12:50:43",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 7
+        }
+    },
     "mNb5PwSMKW": {
         "id": "mNb5PwSMKW",
         "title": "Притаившийся ужас",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 93
-        }
-    },
-    "FZvdWeBfFA": {
-        "id": "FZvdWeBfFA",
-        "title": "Племянник чародея",
-        "author": "Льюис Клайв",
-        "notes": "",
-        "createdAt": "2017-08-14 08:53:04",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 92
         }
     }
 }
