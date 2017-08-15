@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>62</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>63</sup>
 ---
 
 ## 2017
@@ -210,6 +210,11 @@
 ### Бог как иллюзия
 Ричард Докинз
 > [2016-03] 
+
+
+### Ромео и Джульетта
+Уильям Шекспир
+> [2016-02] 
 
 
 ### Гамлет, принц Датский
