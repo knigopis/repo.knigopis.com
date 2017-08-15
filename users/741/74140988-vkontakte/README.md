@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>23</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>24</sup>
 ---
 
 ## 2017
@@ -105,6 +105,11 @@
 ### Легенды мирового рока
 Павел Сурков
 > [2016-06] 
+
+
+### Бог как иллюзия
+Ричард Докинз
+> [2016-03] 
 
 
 
