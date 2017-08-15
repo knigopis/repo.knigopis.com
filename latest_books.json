@@ -1,4 +1,16 @@
 {
+    "GdrJODjP2E": {
+        "id": "GdrJODjP2E",
+        "title": "Последний магнат",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-08-15 14:57:36",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 34
+        }
+    },
     "63WizXSaiu": {
         "id": "63WizXSaiu",
         "title": "Ночь нежна",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 5
-        }
-    },
-    "oWZckx_vh2": {
-        "id": "oWZckx_vh2",
-        "title": "Никогда не ешьте в одиночку",
-        "author": "Кейт Феррацци",
-        "notes": "",
-        "createdAt": "2017-08-15 14:26:03",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 4
         }
     }
 }

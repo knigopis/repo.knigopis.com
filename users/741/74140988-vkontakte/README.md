@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>33</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>34</sup>
 ---
 
 ## 2017
@@ -106,6 +106,11 @@
 
 
 ## 2016
+
+### Последний магнат
+Фрэнсис Скотт Фицджеральд
+> [2016-12] 
+
 
 ### Ночь нежна
 Фрэнсис Скотт Фицджеральд
