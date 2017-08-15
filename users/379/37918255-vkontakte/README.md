@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>12</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>13</sup>
 ---
 
 ## 2017
+
+### О дивный новый мир
+Олдос Хаксли
+> [2017-03-29] 5
+
 
 ### 1984
 Джордж Оруэлл
