@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>8</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup> 
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
 
 
-_15.08.2017 15:15:20_
+_15.08.2017 19:51:35_
