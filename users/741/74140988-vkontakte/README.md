@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>19</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>20</sup>
 ---
 
 ## 2017
+
+### Deadline: Роман об управлении проектами
+Том Демарко
+> [2017-08-13] 
+
 
 ### Доставляя счастье. От нуля до миллиарда: История создания выдающейся компании из первых рук
 > [2017-07-27] 

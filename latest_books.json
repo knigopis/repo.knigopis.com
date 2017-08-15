@@ -1,4 +1,16 @@
 {
+    "dXe6RCNlGJ": {
+        "id": "dXe6RCNlGJ",
+        "title": "Deadline: Роман об управлении проектами",
+        "author": "Том Демарко",
+        "notes": "",
+        "createdAt": "2017-08-15 14:41:46",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 20
+        }
+    },
     "s97dNxLXo1": {
         "id": "s97dNxLXo1",
         "title": "Доставляя счастье. От нуля до миллиарда: История создания выдающейся компании из первых рук",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 114
-        }
-    },
-    "1cjIU-ErVz": {
-        "id": "1cjIU-ErVz",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-08-14 09:00:09",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 113
         }
     }
 }
