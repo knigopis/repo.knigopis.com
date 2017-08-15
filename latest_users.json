@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 0,
+        "updatedAt": "2017-08-15 11:53:16"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 35,
         "updatedAt": "2017-08-08 01:15:32"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 30,
-        "updatedAt": "2017-08-07 18:35:24"
     }
 }
