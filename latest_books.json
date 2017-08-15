@@ -1,4 +1,16 @@
 {
+    "7fRGj5syxP": {
+        "id": "7fRGj5syxP",
+        "title": "Защита Лужина",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-08-15 15:09:43",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 65
+        }
+    },
     "YCNVxEdBqD": {
         "id": "YCNVxEdBqD",
         "title": "Двенадцатая ночь, или Что угодно",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 36
-        }
-    },
-    "-PWUrDZwRf": {
-        "id": "-PWUrDZwRf",
-        "title": "Азазель",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-08-15 14:58:37",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 35
         }
     }
 }
