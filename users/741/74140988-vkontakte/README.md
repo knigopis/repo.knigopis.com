@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>26</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>27</sup>
 ---
 
 ## 2017
@@ -70,6 +70,11 @@
 ### Как привести дела в порядок: Искусство продуктивности без стресса
 Дэвид Аллен
 > [2017-03] 
+
+
+### Фауст
+Иоганн Вольфганг Гёте
+> [2017-02] 
 
 
 ### Как я изучаю языки: Заметки полиглота
