@@ -1,4 +1,16 @@
 {
+    "gJi0Vy8dGF": {
+        "id": "gJi0Vy8dGF",
+        "title": "Янки из Коннектикута при дворе короля Артура",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2017-08-15 14:54:38",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 30
+        }
+    },
     "LdHXZiYkqt": {
         "id": "LdHXZiYkqt",
         "title": "Волк с Уолл-Стрит 2: Охота на Волка",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 1
-        }
-    },
-    "MOKdEJ0t51": {
-        "id": "MOKdEJ0t51",
-        "title": "Собачье сердце",
-        "author": "Михаил Булгаков",
-        "notes": "Трогательная любовь к Булгакову. И эта книга очень понравилась",
-        "createdAt": "2017-08-15 14:18:49",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 8
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>29</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>30</sup>
 ---
 
 ## 2017
@@ -106,6 +106,11 @@
 
 
 ## 2016
+
+### Янки из Коннектикута при дворе короля Артура
+Марк Твен
+> [2016-12] 
+
 
 ### Procter & Gamble. Путь к успеху: 165-летний опыт построения брендов
 Дэвис Дайер, Фредерик Далзелл, Ровена Олегарио
