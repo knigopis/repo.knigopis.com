@@ -1,4 +1,16 @@
 {
+    "QqcZ8Vgkt5": {
+        "id": "QqcZ8Vgkt5",
+        "title": "Сам себе MBA: Самообразование на 100%",
+        "author": "Джош Кауфман",
+        "notes": "",
+        "createdAt": "2017-08-15 14:37:55",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 14
+        }
+    },
     "vrFJ83OS1I": {
         "id": "vrFJ83OS1I",
         "title": "Как разговаривать с кем угодно: Уверенное общение в любой ситуации",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 108
-        }
-    },
-    "2lwejzf2Uv": {
-        "id": "2lwejzf2Uv",
-        "title": "Река ветра",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:22",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 107
         }
     }
 }

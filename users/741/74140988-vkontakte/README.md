@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>13</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>14</sup>
 ---
 
 ## 2017
+
+### Сам себе MBA: Самообразование на 100%
+Джош Кауфман
+> [2017-07-06] 
+
 
 ### Как разговаривать с кем угодно: Уверенное общение в любой ситуации
 Марк Роудз
