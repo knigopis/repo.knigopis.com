@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>46</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>47</sup>
 ---
 
 ## 2017
@@ -164,6 +164,11 @@
 
 
 ## 2015
+
+### Планета Вода
+Борис Акунин
+> [2015-11] 
+
 
 ### К чёрту всё! Берись и делай!
 Ричард Брэнсон

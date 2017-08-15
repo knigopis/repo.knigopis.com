@@ -1,4 +1,16 @@
 {
+    "31vZ7djkAK": {
+        "id": "31vZ7djkAK",
+        "title": "Планета Вода",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 15:01:59",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 47
+        }
+    },
     "xOoRmeqH9E": {
         "id": "xOoRmeqH9E",
         "title": "Чёрный город",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 18
-        }
-    },
-    "2vwq3QBr0m": {
-        "id": "2vwq3QBr0m",
-        "title": "Почему никто не рассказал мне это в 20? Интенсив по поиску себя в этом мире",
-        "author": "Тина Силиг",
-        "notes": "",
-        "createdAt": "2017-08-15 14:39:52",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 17
         }
     }
 }
