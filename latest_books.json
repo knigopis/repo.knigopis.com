@@ -1,4 +1,16 @@
 {
+    "-PWUrDZwRf": {
+        "id": "-PWUrDZwRf",
+        "title": "Азазель",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 14:58:37",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 35
+        }
+    },
     "GdrJODjP2E": {
         "id": "GdrJODjP2E",
         "title": "Последний магнат",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 6
-        }
-    },
-    "xHGh0SMBUg": {
-        "id": "xHGh0SMBUg",
-        "title": "Procter & Gamble. Путь к успеху: 165-летний опыт построения брендов",
-        "author": "Дэвис Дайер, Фредерик Далзелл, Ровена Олегарио",
-        "notes": "",
-        "createdAt": "2017-08-15 14:27:31",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 5
         }
     }
 }
