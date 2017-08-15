@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>67</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>68</sup>
 ---
 
 ## 2017
@@ -331,6 +331,11 @@
 ### Азазель
 Борис Акунин
 > [2014-05] 
+
+
+### Война и мир
+Лев Толстой
+> [2014-03] 
 
 
 ### Преступление и наказание
