@@ -1,4 +1,16 @@
 {
+    "63WizXSaiu": {
+        "id": "63WizXSaiu",
+        "title": "Ночь нежна",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-08-15 14:57:25",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 33
+        }
+    },
     "H3RLv6Crjj": {
         "id": "H3RLv6Crjj",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 4
-        }
-    },
-    "YDLnm-FI9V": {
-        "id": "YDLnm-FI9V",
-        "title": "Теория игр: Искусство стратегического мышления в бизнесе и жизни",
-        "author": "Авинаш Диксит, Барри Нейлбафф",
-        "notes": "",
-        "createdAt": "2017-08-15 14:25:34",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 3
         }
     }
 }
