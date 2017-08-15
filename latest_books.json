@@ -1,4 +1,16 @@
 {
+    "JtTo3mR3-o": {
+        "id": "JtTo3mR3-o",
+        "title": "Человек в поисках смысла",
+        "author": "Виктор Франкл",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:49:30",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 6
+        }
+    },
     "Xsq18RIIiG": {
         "id": "Xsq18RIIiG",
         "title": "Люди, которые играют в игры",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 55
-        }
-    },
-    "0fDfGOo1pH": {
-        "id": "0fDfGOo1pH",
-        "title": "Титан",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2017-08-15 15:04:46",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 54
         }
     }
 }

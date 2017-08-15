@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>5</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>6</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### 1984
 Джордж Оруэлл
 > [2017-03-21] 5
+
+
+### Человек в поисках смысла
+Виктор Франкл
+> [2017-01-31] 5
 
 
 ### Люди, которые играют в игры
