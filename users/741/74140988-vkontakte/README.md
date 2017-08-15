@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>12</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>13</sup>
 ---
 
 ## 2017
+
+### Как разговаривать с кем угодно: Уверенное общение в любой ситуации
+Марк Роудз
+> [2017-07-04] 
+
 
 ### Дело не в кофе: Корпоративная культура Starbucks
 Говард Бехар

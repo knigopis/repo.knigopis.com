@@ -1,4 +1,16 @@
 {
+    "vrFJ83OS1I": {
+        "id": "vrFJ83OS1I",
+        "title": "Как разговаривать с кем угодно: Уверенное общение в любой ситуации",
+        "author": "Марк Роудз",
+        "notes": "",
+        "createdAt": "2017-08-15 14:37:14",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 13
+        }
+    },
     "t8RCcDRQQu": {
         "id": "t8RCcDRQQu",
         "title": "Дело не в кофе: Корпоративная культура Starbucks",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 107
-        }
-    },
-    "-5SzaZRNrZ": {
-        "id": "-5SzaZRNrZ",
-        "title": "Обман",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:20",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 106
         }
     }
 }
