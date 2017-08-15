@@ -1,4 +1,16 @@
 {
+    "2hoD0FqLVP": {
+        "id": "2hoD0FqLVP",
+        "title": "Алиса в Стране Чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2017-08-15 14:55:11",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 31
+        }
+    },
     "gJi0Vy8dGF": {
         "id": "gJi0Vy8dGF",
         "title": "Янки из Коннектикута при дворе короля Артура",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 2
-        }
-    },
-    "ej4EdPAXsd": {
-        "id": "ej4EdPAXsd",
-        "title": "Стив Джобс. Человек, который думал иначе",
-        "author": "Карен Блюменталь",
-        "notes": "",
-        "createdAt": "2017-08-15 14:23:03",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 1
         }
     }
 }
