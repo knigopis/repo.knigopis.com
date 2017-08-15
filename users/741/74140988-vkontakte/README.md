@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>21</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>22</sup>
 ---
 
 ## 2017
@@ -85,6 +85,11 @@
 ### Procter & Gamble. Путь к успеху: 165-летний опыт построения брендов
 Дэвис Дайер, Фредерик Далзелл, Ровена Олегарио
 > [2016-11] 
+
+
+### Психология
+Пол Клейнман
+> [2016-10] 
 
 
 ### Никогда не ешьте в одиночку

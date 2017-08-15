@@ -1,4 +1,16 @@
 {
+    "hCOOR9O-r9": {
+        "id": "hCOOR9O-r9",
+        "title": "Психология",
+        "author": "Пол Клейнман",
+        "notes": "",
+        "createdAt": "2017-08-15 14:46:59",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 22
+        }
+    },
     "u8ui9gr32t": {
         "id": "u8ui9gr32t",
         "title": "Как я изучаю языки: Заметки полиглота",
@@ -345,18 +357,6 @@
             "id": "100814312071069684938-google",
             "nickname": "vodolaz",
             "booksCount": 1
-        }
-    },
-    "_uH7sISlmb": {
-        "id": "_uH7sISlmb",
-        "title": "Мистер Гвин",
-        "author": "Алессандро Барикко",
-        "notes": "",
-        "createdAt": "2017-08-14 14:00:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 552
         }
     }
 }
