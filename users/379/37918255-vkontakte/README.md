@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>16</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>17</sup>
 ---
 
 ## 2017
+
+### Илон Маск. Tesla, SpaceX и дорога в будущее
+Эшли Вэнс
+> [2017-04-23] 5
+
 
 ### Как завоевывать друзей и оказывать влияние на людей
 Дейл Карнеги
