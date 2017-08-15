@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>16</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>17</sup>
 ---
 
 ## 2017
+
+### Почему никто не рассказал мне это в 20? Интенсив по поиску себя в этом мире
+Тина Силиг
+> [2017-07-17] 
+
 
 ### Код Дурова: Реальная история "ВКонтакте" и её создателя
 Николай Кононов
