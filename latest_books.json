@@ -1,4 +1,16 @@
 {
+    "mrPX-U-B4e": {
+        "id": "mrPX-U-B4e",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:52:43",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 12
+        }
+    },
     "1QDwUjFAKm": {
         "id": "1QDwUjFAKm",
         "title": "Кради как художник.",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 61
-        }
-    },
-    "-iFzWrbMCL": {
-        "id": "-iFzWrbMCL",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2017-08-15 15:07:25",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 60
         }
     }
 }

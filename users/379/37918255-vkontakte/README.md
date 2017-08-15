@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>11</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>12</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### 1984
 Джордж Оруэлл
 > [2017-03-21] 5
+
+
+### Стив Джобс
+Уолтер Айзексон
+> [2017-03-18] 5
 
 
 ### Кради как художник
