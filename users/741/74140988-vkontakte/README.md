@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>15</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>16</sup>
 ---
 
 ## 2017
+
+### Код Дурова: Реальная история "ВКонтакте" и её создателя
+Николай Кононов
+> [2017-07-12] 
+
 
 ### SCRUM: Революционный метод управления проектами
 Джефф Сазерленд

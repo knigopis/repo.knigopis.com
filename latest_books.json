@@ -1,4 +1,16 @@
 {
+    "BDKMm4b16E": {
+        "id": "BDKMm4b16E",
+        "title": "Код Дурова: Реальная история \"ВКонтакте\" и её создателя",
+        "author": "Николай Кононов",
+        "notes": "",
+        "createdAt": "2017-08-15 14:39:09",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 16
+        }
+    },
     "UhZj4CTzV_": {
         "id": "UhZj4CTzV_",
         "title": "SCRUM: Революционный метод управления проектами",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 110
-        }
-    },
-    "X34iSBKatT": {
-        "id": "X34iSBKatT",
-        "title": "Быть королем",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:26",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 109
         }
     }
 }
