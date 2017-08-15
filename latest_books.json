@@ -1,4 +1,16 @@
 {
+    "gdexDj3jdv": {
+        "id": "gdexDj3jdv",
+        "title": "Коронация",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 14:59:51",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 41
+        }
+    },
     "lL6f3tdiPS": {
         "id": "lL6f3tdiPS",
         "title": "Статский советник",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 12
-        }
-    },
-    "liSbaCDy1U": {
-        "id": "liSbaCDy1U",
-        "title": "Эссенциализм: Путь к простоте",
-        "author": "Грег МакКеон",
-        "notes": "",
-        "createdAt": "2017-08-15 14:35:47",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 11
         }
     }
 }
