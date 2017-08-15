@@ -1,4 +1,10 @@
 {
+    "1528310424149493-facebook": {
+        "id": "1528310424149493-facebook",
+        "nickname": "lenbon",
+        "booksCount": 0,
+        "updatedAt": "2017-08-15 05:20:25"
+    },
     "11205797-vkontakte": {
         "id": "11205797-vkontakte",
         "nickname": "nanzanova",
@@ -172,11 +178,5 @@
         "nickname": "mfevralev",
         "booksCount": 24,
         "updatedAt": "2017-08-07 16:28:22"
-    },
-    "234665915-yandex": {
-        "id": "234665915-yandex",
-        "nickname": "Lilligreem",
-        "booksCount": 0,
-        "updatedAt": "2017-08-07 15:42:23"
     }
 }
