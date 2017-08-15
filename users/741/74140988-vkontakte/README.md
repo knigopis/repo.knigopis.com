@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>6</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>7</sup>
 ---
 
 ## 2017
+
+### Путь Черепах
+Куртис Фейс
+> [2017-01] 
+
 
 ### Принцип пирамиды Минто
 Барбара Минто
