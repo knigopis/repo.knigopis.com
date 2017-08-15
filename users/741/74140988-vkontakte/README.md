@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>50</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>51</sup>
 ---
 
 ## 2017
@@ -256,6 +256,14 @@
 ### Азазель
 Борис Акунин
 > [2014-05] 
+
+
+
+## 2012
+
+### Квест
+Борис Акунин
+> [2012-05] 
 
 
 
