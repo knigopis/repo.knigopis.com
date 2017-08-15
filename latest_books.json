@@ -1,4 +1,16 @@
 {
+    "H3RLv6Crjj": {
+        "id": "H3RLv6Crjj",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-08-15 14:57:01",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 32
+        }
+    },
     "2hoD0FqLVP": {
         "id": "2hoD0FqLVP",
         "title": "Алиса в Стране Чудес",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 3
-        }
-    },
-    "MgB1OXoyVS": {
-        "id": "MgB1OXoyVS",
-        "title": "К чёрту всё! Берись и делай!",
-        "author": "Ричард Брэнсон",
-        "notes": "",
-        "createdAt": "2017-08-15 14:24:30",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 2
         }
     }
 }
