@@ -1,4 +1,16 @@
 {
+    "xHGh0SMBUg": {
+        "id": "xHGh0SMBUg",
+        "title": "Procter & Gamble. Путь к успеху: 165-летний опыт построения брендов",
+        "author": "Дэвис Дайер, Фредерик Далзелл, Ровена Олегарио",
+        "notes": "",
+        "createdAt": "2017-08-15 14:27:31",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 5
+        }
+    },
     "oWZckx_vh2": {
         "id": "oWZckx_vh2",
         "title": "Никогда не ешьте в одиночку",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 99
-        }
-    },
-    "TkktEyCD4n": {
-        "id": "TkktEyCD4n",
-        "title": "Наследник",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:55:56",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 98
         }
     }
 }
