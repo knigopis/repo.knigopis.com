@@ -1,4 +1,16 @@
 {
+    "MgB1OXoyVS": {
+        "id": "MgB1OXoyVS",
+        "title": "К чёрту всё! Берись и делай!",
+        "author": "Ричард Брэнсон",
+        "notes": "",
+        "createdAt": "2017-08-15 14:24:30",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 2
+        }
+    },
     "ej4EdPAXsd": {
         "id": "ej4EdPAXsd",
         "title": "Стив Джобс. Человек, который думал иначе",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 96
-        }
-    },
-    "VXS0ZwEP6D": {
-        "id": "VXS0ZwEP6D",
-        "title": "Серебряное кресло",
-        "author": "Льюис Клайв",
-        "notes": "",
-        "createdAt": "2017-08-14 08:53:08",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 95
         }
     }
 }
