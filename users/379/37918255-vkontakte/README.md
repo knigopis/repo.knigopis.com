@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>15</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>16</sup>
 ---
 
 ## 2017
+
+### Как завоевывать друзей и оказывать влияние на людей
+Дейл Карнеги
+> [2017-04-19] 5
+
 
 ### ЛСД — мой трудный ребёнок
 Альберт Хофманн

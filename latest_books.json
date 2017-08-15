@@ -1,4 +1,16 @@
 {
+    "117TbS07g-": {
+        "id": "117TbS07g-",
+        "title": "Как завоевывать друзей и оказывать влияние на людей",
+        "author": "Дейл Карнеги",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:54:27",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 16
+        }
+    },
     "j4v_PMD1zy": {
         "id": "j4v_PMD1zy",
         "title": "ЛСД — мой трудный ребёнок",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 65
-        }
-    },
-    "YCNVxEdBqD": {
-        "id": "YCNVxEdBqD",
-        "title": "Двенадцатая ночь, или Что угодно",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-08-15 15:09:13",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 64
         }
     }
 }
