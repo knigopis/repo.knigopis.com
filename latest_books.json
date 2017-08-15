@@ -1,4 +1,16 @@
 {
+    "wyj7wXWxR4": {
+        "id": "wyj7wXWxR4",
+        "title": "Волк с Уолл-Стрит",
+        "author": "Джордан Белфорт",
+        "notes": "",
+        "createdAt": "2017-08-15 14:53:43",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 28
+        }
+    },
     "cL_HdCvsA0": {
         "id": "cL_HdCvsA0",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 7
-        }
-    },
-    "mNb5PwSMKW": {
-        "id": "mNb5PwSMKW",
-        "title": "Притаившийся ужас",
-        "author": "Говард Филлипс Лавкрафт",
-        "notes": "Читала со многими другими рассказами Лавкрафта, когда была просто заворожена миром, который он создает. Нестрашно, но завораживающе-жутко",
-        "createdAt": "2017-08-15 12:02:18",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 6
         }
     }
 }
