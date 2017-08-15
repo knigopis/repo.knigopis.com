@@ -1,4 +1,16 @@
 {
+    "LERPtdsuCa": {
+        "id": "LERPtdsuCa",
+        "title": "Семь навыков высокоэффективных людей",
+        "author": "Стивен Кови",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:55:17",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 18
+        }
+    },
     "VWPrDNoWZX": {
         "id": "VWPrDNoWZX",
         "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 67
-        }
-    },
-    "mIY0kCbULq": {
-        "id": "mIY0kCbULq",
-        "title": "Вишнёвый сад",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2017-08-15 15:10:39",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 66
         }
     }
 }
