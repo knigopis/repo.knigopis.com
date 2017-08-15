@@ -1,4 +1,10 @@
 {
+    "132828861-vkontakte": {
+        "id": "132828861-vkontakte",
+        "nickname": "rysikovnaaa",
+        "booksCount": 0,
+        "updatedAt": "2017-08-15 14:13:16"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 110,
         "updatedAt": "2017-08-08 12:23:56"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 35,
-        "updatedAt": "2017-08-08 01:15:32"
     }
 }
