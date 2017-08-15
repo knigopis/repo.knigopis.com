@@ -38,9 +38,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>8</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
-[International master](users/741/74140988-vkontakte)<sup>0</sup> 
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
 [lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
 [nanzanova](users/112/11205797-vkontakte)<sup>0</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
 
 
-_15.08.2017 14:18:49_
+_15.08.2017 14:23:03_

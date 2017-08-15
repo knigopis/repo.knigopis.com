@@ -1,4 +1,16 @@
 {
+    "ej4EdPAXsd": {
+        "id": "ej4EdPAXsd",
+        "title": "Стив Джобс. Человек, который думал иначе",
+        "author": "Карен Блюменталь",
+        "notes": "",
+        "createdAt": "2017-08-15 14:23:03",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 1
+        }
+    },
     "MOKdEJ0t51": {
         "id": "MOKdEJ0t51",
         "title": "Собачье сердце",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 95
-        }
-    },
-    "Hu6qpW_x5Q": {
-        "id": "Hu6qpW_x5Q",
-        "title": "Конь и его мальчик",
-        "author": "Льюис Клайв",
-        "notes": "",
-        "createdAt": "2017-08-14 08:53:07",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 94
         }
     }
 }
