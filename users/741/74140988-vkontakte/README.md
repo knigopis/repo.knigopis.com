@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>24</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>25</sup>
 ---
 
 ## 2017
@@ -45,6 +45,11 @@
 ### Дело не в кофе: Корпоративная культура Starbucks
 Говард Бехар
 > [2017-06-15] 
+
+
+### Атлант расправил плечи
+Айн Рэнд
+> [2017-06] 
 
 
 ### Эссенциализм: Путь к простоте
