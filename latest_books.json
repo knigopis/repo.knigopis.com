@@ -1,4 +1,16 @@
 {
+    "MITv6a9LlE": {
+        "id": "MITv6a9LlE",
+        "title": "Хроники Раздолбая",
+        "author": "Павел Санаев",
+        "notes": "",
+        "createdAt": "2017-08-15 15:07:40",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 61
+        }
+    },
     "-iFzWrbMCL": {
         "id": "-iFzWrbMCL",
         "title": "Похороните меня за плинтусом",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 32
-        }
-    },
-    "2hoD0FqLVP": {
-        "id": "2hoD0FqLVP",
-        "title": "Алиса в Стране Чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2017-08-15 14:55:11",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 31
         }
     }
 }
