@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>22</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>23</sup>
 ---
 
 ## 2017
@@ -100,6 +100,11 @@
 ### Теория игр: Искусство стратегического мышления в бизнесе и жизни
 Авинаш Диксит, Барри Нейлбафф
 > [2016-08] 
+
+
+### Легенды мирового рока
+Павел Сурков
+> [2016-06] 
 
 
 

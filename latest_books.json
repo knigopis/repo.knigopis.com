@@ -1,4 +1,16 @@
 {
+    "YuutndZ6i4": {
+        "id": "YuutndZ6i4",
+        "title": "Легенды мирового рока",
+        "author": "Павел Сурков",
+        "notes": "",
+        "createdAt": "2017-08-15 14:47:20",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 23
+        }
+    },
     "hCOOR9O-r9": {
         "id": "hCOOR9O-r9",
         "title": "Психология",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 6
-        }
-    },
-    "O1WsBzgqSp": {
-        "id": "O1WsBzgqSp",
-        "title": "Совершенный код",
-        "author": "Стив Макконнелл",
-        "notes": "",
-        "createdAt": "2017-08-14 14:54:27",
-        "user": {
-            "id": "100814312071069684938-google",
-            "nickname": "vodolaz",
-            "booksCount": 1
         }
     }
 }
