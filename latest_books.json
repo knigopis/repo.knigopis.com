@@ -1,4 +1,16 @@
 {
+    "u8ui9gr32t": {
+        "id": "u8ui9gr32t",
+        "title": "Как я изучаю языки: Заметки полиглота",
+        "author": "Като Ломб",
+        "notes": "",
+        "createdAt": "2017-08-15 14:46:30",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 21
+        }
+    },
     "dXe6RCNlGJ": {
         "id": "dXe6RCNlGJ",
         "title": "Deadline: Роман об управлении проектами",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 552
-        }
-    },
-    "QwCYUg5j-3": {
-        "id": "QwCYUg5j-3",
-        "title": "Катализатор. Изгой-один:Предыстория",
-        "author": "Джеймс Лусено",
-        "notes": "",
-        "createdAt": "2017-08-14 09:00:52",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 114
         }
     }
 }
