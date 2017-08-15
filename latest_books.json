@@ -1,4 +1,16 @@
 {
+    "0fDfGOo1pH": {
+        "id": "0fDfGOo1pH",
+        "title": "Титан",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2017-08-15 15:04:46",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 54
+        }
+    },
     "rjFW0aWJe7": {
         "id": "rjFW0aWJe7",
         "title": "Финансист",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 25
-        }
-    },
-    "XB-XyUEHY-": {
-        "id": "XB-XyUEHY-",
-        "title": "Бог как иллюзия",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2017-08-15 14:47:47",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 24
         }
     }
 }
