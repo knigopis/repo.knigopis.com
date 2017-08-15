@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>5</sup> 
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
 [lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>110</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>35</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>30</sup> 
 
 
-_15.08.2017 11:44:25_
+_15.08.2017 11:53:17_
