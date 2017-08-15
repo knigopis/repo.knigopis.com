@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 0,
+        "updatedAt": "2017-08-15 19:51:32"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "Twia",
         "booksCount": 0,
         "updatedAt": "2017-08-08 14:13:29"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 110,
-        "updatedAt": "2017-08-08 12:23:56"
     }
 }
