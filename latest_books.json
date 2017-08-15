@@ -1,4 +1,16 @@
 {
+    "s97dNxLXo1": {
+        "id": "s97dNxLXo1",
+        "title": "Доставляя счастье. От нуля до миллиарда: История создания выдающейся компании из первых рук",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-08-15 14:41:18",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 19
+        }
+    },
     "NOJuOEk_Fw": {
         "id": "NOJuOEk_Fw",
         "title": "Важные годы: Почему не стоит откладывать жизнь на потом",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 113
-        }
-    },
-    "lsq-EoAXxO": {
-        "id": "lsq-EoAXxO",
-        "title": "Изгнанник",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:32",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 112
         }
     }
 }

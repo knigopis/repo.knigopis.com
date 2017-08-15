@@ -1,7 +1,11 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>18</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>19</sup>
 ---
 
 ## 2017
+
+### Доставляя счастье. От нуля до миллиарда: История создания выдающейся компании из первых рук
+> [2017-07-27] 
+
 
 ### Важные годы: Почему не стоит откладывать жизнь на потом
 Мэг Джей
