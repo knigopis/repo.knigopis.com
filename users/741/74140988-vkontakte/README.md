@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>52</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>53</sup>
 ---
 
 ## 2017
@@ -165,6 +165,11 @@
 ### Пелагия и чёрных монах
 Борис Акунин
 > [2016-07] 
+
+
+### Финансист
+Теодор Драйзер
+> [2016-06] 
 
 
 ### Легенды мирового рока

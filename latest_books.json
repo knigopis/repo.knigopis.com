@@ -1,4 +1,16 @@
 {
+    "rjFW0aWJe7": {
+        "id": "rjFW0aWJe7",
+        "title": "Финансист",
+        "author": "Теодор Драйзер",
+        "notes": "",
+        "createdAt": "2017-08-15 15:04:36",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 53
+        }
+    },
     "c12gXIWpLi": {
         "id": "c12gXIWpLi",
         "title": "Грозовой перевал",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 24
-        }
-    },
-    "YuutndZ6i4": {
-        "id": "YuutndZ6i4",
-        "title": "Легенды мирового рока",
-        "author": "Павел Сурков",
-        "notes": "",
-        "createdAt": "2017-08-15 14:47:20",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 23
         }
     }
 }
