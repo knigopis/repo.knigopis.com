@@ -1,4 +1,16 @@
 {
+    "liSbaCDy1U": {
+        "id": "liSbaCDy1U",
+        "title": "Эссенциализм: Путь к простоте",
+        "author": "Грег МакКеон",
+        "notes": "",
+        "createdAt": "2017-08-15 14:35:47",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 11
+        }
+    },
     "PruChkWVgM": {
         "id": "PruChkWVgM",
         "title": "Интроверты: Как использовать особенности своего характера",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 105
-        }
-    },
-    "5Vd78NpqaR": {
-        "id": "5Vd78NpqaR",
-        "title": "Похищение",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:56:04",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 104
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>10</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>11</sup>
 ---
 
 ## 2017
+
+### Эссенциализм: Путь к простоте
+Грег МакКеон
+> [2017-05-05] 
+
 
 ### Интроверты: Как использовать особенности своего характера
 Сьюзан Кейн
