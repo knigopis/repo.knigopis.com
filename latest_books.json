@@ -1,4 +1,16 @@
 {
+    "cAIEDTSY0d": {
+        "id": "cAIEDTSY0d",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:46:09",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 2
+        }
+    },
     "MktzBMkgKe": {
         "id": "MktzBMkgKe",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 51
-        }
-    },
-    "aKxjKhXndf": {
-        "id": "aKxjKhXndf",
-        "title": "Пелагия и красный петух",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-08-15 15:03:16",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 50
         }
     }
 }
