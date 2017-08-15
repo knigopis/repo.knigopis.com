@@ -1,4 +1,16 @@
 {
+    "KqT3j6VvZC": {
+        "id": "KqT3j6VvZC",
+        "title": "Один день",
+        "author": "Дэвид Николс",
+        "notes": "",
+        "createdAt": "2017-08-15 15:06:31",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 58
+        }
+    },
     "OTMQwgQxkt": {
         "id": "OTMQwgQxkt",
         "title": "Вопрос на десять баллов",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 29
-        }
-    },
-    "wyj7wXWxR4": {
-        "id": "wyj7wXWxR4",
-        "title": "Волк с Уолл-Стрит",
-        "author": "Джордан Белфорт",
-        "notes": "",
-        "createdAt": "2017-08-15 14:53:43",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 28
         }
     }
 }

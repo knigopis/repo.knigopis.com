@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>57</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>58</sup>
 ---
 
 ## 2017
@@ -65,6 +65,11 @@
 ### Интроверты: Как использовать особенности своего характера
 Сьюзан Кейн
 > [2017-05-03] 
+
+
+### Один день
+Дэвид Николс
+> [2017-05] 
 
 
 ### Хитроумный идальго Дон Кихот Ламанчский
