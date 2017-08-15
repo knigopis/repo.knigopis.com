@@ -1,4 +1,16 @@
 {
+    "oWZckx_vh2": {
+        "id": "oWZckx_vh2",
+        "title": "Никогда не ешьте в одиночку",
+        "author": "Кейт Феррацци",
+        "notes": "",
+        "createdAt": "2017-08-15 14:26:03",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 4
+        }
+    },
     "YDLnm-FI9V": {
         "id": "YDLnm-FI9V",
         "title": "Теория игр: Искусство стратегического мышления в бизнесе и жизни",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 98
-        }
-    },
-    "-YwRECN_9v": {
-        "id": "-YwRECN_9v",
-        "title": "Принц Каспиан",
-        "author": "Льюис Клайв",
-        "notes": "",
-        "createdAt": "2017-08-14 08:53:11",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 97
         }
     }
 }

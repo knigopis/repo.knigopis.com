@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>3</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>4</sup>
 ---
 
 ## 2016
+
+### Никогда не ешьте в одиночку
+Кейт Феррацци
+> [2016-10] 
+
 
 ### Теория игр: Искусство стратегического мышления в бизнесе и жизни
 Авинаш Диксит, Барри Нейлбафф
