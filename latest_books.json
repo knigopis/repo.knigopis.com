@@ -1,4 +1,16 @@
 {
+    "17aUvpZChw": {
+        "id": "17aUvpZChw",
+        "title": "The ONE Thing",
+        "author": "Gary Keller",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:59:20",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 21
+        }
+    },
     "jJ002pdqSM": {
         "id": "jJ002pdqSM",
         "title": "So Good They Can't Ignore You",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 70
-        }
-    },
-    "uWwpW_M3ni": {
-        "id": "uWwpW_M3ni",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2017-08-15 15:12:04",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 69
         }
     }
 }

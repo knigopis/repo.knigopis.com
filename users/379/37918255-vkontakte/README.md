@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>20</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>21</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### So Good They Can't Ignore You
 Cal Newport
 > [2017-08-03] 4
+
+
+### The ONE Thing
+Gary Keller
+> [2017-06-15] 5
 
 
 ### Двери восприятия
