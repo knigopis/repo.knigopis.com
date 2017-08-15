@@ -1,4 +1,16 @@
 {
+    "AImztYY78j": {
+        "id": "AImztYY78j",
+        "title": "Пелагия и чёрных монах",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 15:02:51",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 49
+        }
+    },
     "TeQrYaXRvF": {
         "id": "TeQrYaXRvF",
         "title": "Пелагия и белый бульдог",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 20
-        }
-    },
-    "s97dNxLXo1": {
-        "id": "s97dNxLXo1",
-        "title": "Доставляя счастье. От нуля до миллиарда: История создания выдающейся компании из первых рук",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-15 14:41:18",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 19
         }
     }
 }
