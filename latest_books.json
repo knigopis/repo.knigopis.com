@@ -1,4 +1,16 @@
 {
+    "c12gXIWpLi": {
+        "id": "c12gXIWpLi",
+        "title": "Грозовой перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2017-08-15 15:03:58",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 52
+        }
+    },
     "YRUzqrPG2y": {
         "id": "YRUzqrPG2y",
         "title": "Квест",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 23
-        }
-    },
-    "hCOOR9O-r9": {
-        "id": "hCOOR9O-r9",
-        "title": "Психология",
-        "author": "Пол Клейнман",
-        "notes": "",
-        "createdAt": "2017-08-15 14:46:59",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 22
         }
     }
 }
