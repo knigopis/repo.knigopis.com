@@ -1,4 +1,16 @@
 {
+    "5J5inH2qsm": {
+        "id": "5J5inH2qsm",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-08-15 15:05:24",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 56
+        }
+    },
     "K7-g1QP48Y": {
         "id": "K7-g1QP48Y",
         "title": "Стоик",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 27
-        }
-    },
-    "P7N46ILera": {
-        "id": "P7N46ILera",
-        "title": "Хитроумный идальго Дон Кихот Ламанчский",
-        "author": "Мигель де Сервантес Сааведра",
-        "notes": "",
-        "createdAt": "2017-08-15 14:52:34",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 26
         }
     }
 }
