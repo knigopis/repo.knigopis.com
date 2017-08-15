@@ -1,4 +1,16 @@
 {
+    "aKxjKhXndf": {
+        "id": "aKxjKhXndf",
+        "title": "Пелагия и красный петух",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 15:03:16",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 50
+        }
+    },
     "AImztYY78j": {
         "id": "AImztYY78j",
         "title": "Пелагия и чёрных монах",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 21
-        }
-    },
-    "dXe6RCNlGJ": {
-        "id": "dXe6RCNlGJ",
-        "title": "Deadline: Роман об управлении проектами",
-        "author": "Том Демарко",
-        "notes": "",
-        "createdAt": "2017-08-15 14:41:46",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 20
         }
     }
 }
