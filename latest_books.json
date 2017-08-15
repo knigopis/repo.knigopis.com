@@ -1,4 +1,16 @@
 {
+    "IHaikGQcsU": {
+        "id": "IHaikGQcsU",
+        "title": "Rework: бизнес без предрассудков",
+        "author": "Фрайд Джейсон, Хенссон Дэвид Хайнемайер",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:51:21",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 10
+        }
+    },
     "1jUjwLa5NL": {
         "id": "1jUjwLa5NL",
         "title": "Как перестать беспокоиться и начать жить",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 59
-        }
-    },
-    "KqT3j6VvZC": {
-        "id": "KqT3j6VvZC",
-        "title": "Один день",
-        "author": "Дэвид Николс",
-        "notes": "",
-        "createdAt": "2017-08-15 15:06:31",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 58
         }
     }
 }

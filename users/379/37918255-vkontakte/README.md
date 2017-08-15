@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>9</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>10</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### 1984
 Джордж Оруэлл
 > [2017-03-21] 5
+
+
+### Rework: бизнес без предрассудков
+Фрайд Джейсон, Хенссон Дэвид Хайнемайер
+> [2017-02-27] 5
 
 
 ### Как перестать беспокоиться и начать жить
