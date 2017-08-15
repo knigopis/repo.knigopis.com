@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>11</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>12</sup>
 ---
 
 ## 2017
+
+### Дело не в кофе: Корпоративная культура Starbucks
+Говард Бехар
+> [2017-06-15] 
+
 
 ### Эссенциализм: Путь к простоте
 Грег МакКеон

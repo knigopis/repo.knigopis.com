@@ -1,4 +1,16 @@
 {
+    "t8RCcDRQQu": {
+        "id": "t8RCcDRQQu",
+        "title": "Дело не в кофе: Корпоративная культура Starbucks",
+        "author": "Говард Бехар",
+        "notes": "",
+        "createdAt": "2017-08-15 14:36:34",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 12
+        }
+    },
     "liSbaCDy1U": {
         "id": "liSbaCDy1U",
         "title": "Эссенциализм: Путь к простоте",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 106
-        }
-    },
-    "E_Ui2f4OiU": {
-        "id": "E_Ui2f4OiU",
-        "title": "Война углей",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 105
         }
     }
 }
