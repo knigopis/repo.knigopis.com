@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>56</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>57</sup>
 ---
 
 ## 2017
@@ -185,6 +185,11 @@
 ### Легенды мирового рока
 Павел Сурков
 > [2016-06] 
+
+
+### Вопрос на десять баллов
+Дэвид Николс
+> [2016-05] 
 
 
 ### Гордость и предубеждение
