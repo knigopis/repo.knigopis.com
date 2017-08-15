@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>2</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>3</sup>
 ---
 
 ## 2016
@@ -6,6 +6,11 @@
 ### Бог как иллюзия
 Ричард Докинз
 > [2016-09-25] 5
+
+
+### Хватит быть славным парнем!
+Роберт Гловер
+> [2016-09-03] 5
 
 
 ### 1984
