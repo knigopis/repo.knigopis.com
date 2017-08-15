@@ -1,4 +1,16 @@
 {
+    "R7yKM47gvX": {
+        "id": "R7yKM47gvX",
+        "title": "Турецкий гамбит",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-08-15 14:58:50",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 36
+        }
+    },
     "-PWUrDZwRf": {
         "id": "-PWUrDZwRf",
         "title": "Азазель",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 7
-        }
-    },
-    "ucgSDoMKdC": {
-        "id": "ucgSDoMKdC",
-        "title": "Принцип пирамиды Минто",
-        "author": "Барбара Минто",
-        "notes": "",
-        "createdAt": "2017-08-15 14:28:44",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 6
         }
     }
 }
