@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>19</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>20</sup>
 ---
 
 ## 2017
+
+### So Good They Can't Ignore You
+Cal Newport
+> [2017-08-03] 4
+
 
 ### Двери восприятия
 Олдос Хаксли

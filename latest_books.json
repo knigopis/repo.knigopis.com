@@ -1,4 +1,16 @@
 {
+    "jJ002pdqSM": {
+        "id": "jJ002pdqSM",
+        "title": "So Good They Can't Ignore You",
+        "author": "Cal Newport",
+        "notes": "4",
+        "createdAt": "2017-08-15 20:56:33",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 20
+        }
+    },
     "p_zqZGt22t": {
         "id": "p_zqZGt22t",
         "title": "Двери восприятия",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 69
-        }
-    },
-    "jKmeoDhjCG": {
-        "id": "jKmeoDhjCG",
-        "title": "Война и мир",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2017-08-15 15:11:28",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 68
         }
     }
 }

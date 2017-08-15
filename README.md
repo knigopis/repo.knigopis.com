@@ -43,7 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>19</sup> 
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>20</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>117</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>8</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_15.08.2017 20:55:42_
+_15.08.2017 20:56:33_
