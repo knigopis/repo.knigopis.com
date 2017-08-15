@@ -1,4 +1,16 @@
 {
+    "ucgSDoMKdC": {
+        "id": "ucgSDoMKdC",
+        "title": "Принцип пирамиды Минто",
+        "author": "Барбара Минто",
+        "notes": "",
+        "createdAt": "2017-08-15 14:28:44",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 6
+        }
+    },
     "xHGh0SMBUg": {
         "id": "xHGh0SMBUg",
         "title": "Procter & Gamble. Путь к успеху: 165-летний опыт построения брендов",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 100
-        }
-    },
-    "ikVT2Iq6L3": {
-        "id": "ikVT2Iq6L3",
-        "title": "Вторжение",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:55:57",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 99
         }
     }
 }
