@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>14</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>15</sup>
 ---
 
 ## 2017
+
+### SCRUM: Революционный метод управления проектами
+Джефф Сазерленд
+> [2017-07-10] 
+
 
 ### Сам себе MBA: Самообразование на 100%
 Джош Кауфман

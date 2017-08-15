@@ -1,4 +1,16 @@
 {
+    "UhZj4CTzV_": {
+        "id": "UhZj4CTzV_",
+        "title": "SCRUM: Революционный метод управления проектами",
+        "author": "Джефф Сазерленд",
+        "notes": "",
+        "createdAt": "2017-08-15 14:38:30",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 15
+        }
+    },
     "QqcZ8Vgkt5": {
         "id": "QqcZ8Vgkt5",
         "title": "Сам себе MBA: Самообразование на 100%",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 109
-        }
-    },
-    "gxbfsww8ew": {
-        "id": "gxbfsww8ew",
-        "title": "Золотое дерево",
-        "author": "Кэтрин Ласки",
-        "notes": "",
-        "createdAt": "2017-08-14 08:59:24",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 108
         }
     }
 }
