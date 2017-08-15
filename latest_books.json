@@ -1,4 +1,16 @@
 {
+    "mNb5PwSMKW": {
+        "id": "mNb5PwSMKW",
+        "title": "Притаившийся ужас",
+        "author": "Говард Филлипс Лавкрафт",
+        "notes": "Читала со многими другими рассказами Лавкрафта, когда была просто заворожена миром, который он создает. Нестрашно, но завораживающе-жутко",
+        "createdAt": "2017-08-15 12:02:18",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 6
+        }
+    },
     "g2Q0Yi3RQr": {
         "id": "g2Q0Yi3RQr",
         "title": "Фауст",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 92
-        }
-    },
-    "LFo6c6DT4Z": {
-        "id": "LFo6c6DT4Z",
-        "title": "Дом в котором",
-        "author": "Мариам Петросян",
-        "notes": "",
-        "createdAt": "2017-08-14 08:53:03",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 91
         }
     }
 }
