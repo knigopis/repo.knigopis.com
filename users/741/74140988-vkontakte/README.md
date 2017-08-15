@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>41</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>42</sup>
 ---
 
 ## 2017
@@ -177,6 +177,11 @@
 
 
 ## 2014
+
+### Любовница смерти
+Борис Акунин
+> [2014-05] 
+
 
 ### Коронация
 Борис Акунин
