@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>7</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>8</sup>
 ---
 
 ## 2017
@@ -11,6 +11,8 @@
 ### Принцип пирамиды Минто
 Барбара Минто
 > [2017-01] 
+
+
 
 
 
