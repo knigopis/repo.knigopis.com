@@ -1,4 +1,16 @@
 {
+    "ATP5e7Afvq": {
+        "id": "ATP5e7Afvq",
+        "title": "Generation \"П\"",
+        "author": "Виктор Пелевин",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:53:29",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 14
+        }
+    },
     "0oxnkkqt7d": {
         "id": "0oxnkkqt7d",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 63
-        }
-    },
-    "dv9ICtzt88": {
-        "id": "dv9ICtzt88",
-        "title": "Гамлет, принц Датский",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-08-15 15:08:42",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 62
         }
     }
 }

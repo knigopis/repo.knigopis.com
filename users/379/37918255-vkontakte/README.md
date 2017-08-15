@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>13</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>14</sup>
 ---
 
 ## 2017
+
+### Generation "П"
+Виктор Пелевин
+> [2017-04-01] 5
+
 
 ### О дивный новый мир
 Олдос Хаксли
