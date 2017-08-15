@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>28</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>29</sup>
 ---
 
 ## 2017
@@ -75,6 +75,11 @@
 ### Фауст
 Иоганн Вольфганг Гёте
 > [2017-02] 
+
+
+### Волк с Уолл-Стрит 2: Охота на Волка
+Джордан Белфорт
+> [2017-01] 
 
 
 ### Волк с Уолл-Стрит
