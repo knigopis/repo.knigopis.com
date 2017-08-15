@@ -1,4 +1,16 @@
 {
+    "j4v_PMD1zy": {
+        "id": "j4v_PMD1zy",
+        "title": "ЛСД — мой трудный ребёнок",
+        "author": "Альберт Хофманн",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:54:02",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 15
+        }
+    },
     "ATP5e7Afvq": {
         "id": "ATP5e7Afvq",
         "title": "Generation \"П\"",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 64
-        }
-    },
-    "erzSAYpRy_": {
-        "id": "erzSAYpRy_",
-        "title": "Ромео и Джульетта",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2017-08-15 15:08:55",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 63
         }
     }
 }

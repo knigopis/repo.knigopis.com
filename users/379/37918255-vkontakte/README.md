@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>14</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>15</sup>
 ---
 
 ## 2017
+
+### ЛСД — мой трудный ребёнок
+Альберт Хофманн
+> [2017-04-14] 5
+
 
 ### Generation "П"
 Виктор Пелевин
