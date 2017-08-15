@@ -1,4 +1,16 @@
 {
+    "6nAu6pp-5o": {
+        "id": "6nAu6pp-5o",
+        "title": "Собор Парижской богоматери",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2017-08-15 15:13:46",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 73
+        }
+    },
     "KNVrRo6acS": {
         "id": "KNVrRo6acS",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 44
-        }
-    },
-    "djmAayzW0A": {
-        "id": "djmAayzW0A",
-        "title": "Любовник Смерти",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-08-15 15:00:18",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 43
         }
     }
 }
