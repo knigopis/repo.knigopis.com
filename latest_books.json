@@ -1,4 +1,16 @@
 {
+    "YCNVxEdBqD": {
+        "id": "YCNVxEdBqD",
+        "title": "Двенадцатая ночь, или Что угодно",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-08-15 15:09:13",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 64
+        }
+    },
     "erzSAYpRy_": {
         "id": "erzSAYpRy_",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 35
-        }
-    },
-    "GdrJODjP2E": {
-        "id": "GdrJODjP2E",
-        "title": "Последний магнат",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-08-15 14:57:36",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 34
         }
     }
 }
