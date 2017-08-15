@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>59</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>60</sup>
 ---
 
 ## 2017
@@ -210,6 +210,11 @@
 ### Бог как иллюзия
 Ричард Докинз
 > [2016-03] 
+
+
+### Похороните меня за плинтусом
+Павел Санаев
+> [2016-02] 
 
 
 
