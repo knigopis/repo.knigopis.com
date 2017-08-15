@@ -1,4 +1,16 @@
 {
+    "Xsq18RIIiG": {
+        "id": "Xsq18RIIiG",
+        "title": "Люди, которые играют в игры",
+        "author": "Эрик Берн",
+        "notes": "5",
+        "createdAt": "2017-08-15 20:48:40",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 5
+        }
+    },
     "OQgN4NN2uO": {
         "id": "OQgN4NN2uO",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 54
-        }
-    },
-    "rjFW0aWJe7": {
-        "id": "rjFW0aWJe7",
-        "title": "Финансист",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2017-08-15 15:04:36",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 53
         }
     }
 }
