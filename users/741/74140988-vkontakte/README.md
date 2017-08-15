@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>73</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>74</sup>
 ---
 
 ## 2017
@@ -377,6 +377,11 @@
 ### Недоросль
 Денис Фонвизин
 > [2011-10] 
+
+
+### Ночевала тучка золотая
+Анатолий Приставкин
+> [2011-09] 
 
 
 
