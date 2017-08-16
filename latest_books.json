@@ -1,4 +1,16 @@
 {
+    "Ex9i1PM32_": {
+        "id": "Ex9i1PM32_",
+        "title": "Как создать продукт, который купят. Метод Lean Customer Development",
+        "author": "Синди Альварес",
+        "notes": "https://www.ozon.ru/context/detail/id/34432645/\n\nв процессе",
+        "createdAt": "2017-08-16 19:52:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 118
+        }
+    },
     "Xdt1ZsgH9W": {
         "id": "Xdt1ZsgH9W",
         "title": "Жареные зелёные помидоры в кафе \"Полустанок\"",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 73
-        }
-    },
-    "KNVrRo6acS": {
-        "id": "KNVrRo6acS",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-08-15 15:13:15",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 72
         }
     }
 }

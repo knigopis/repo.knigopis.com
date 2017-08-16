@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как создать продукт, который купят. Метод Lean Customer Development ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup>
+    > https://www.ozon.ru/context/detail/id/34432645/
+    > 
+    > в процессе
+
 * Глубина в небе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>117</sup>
     > Виндж нереально крут :) чистый фан.
     > 
@@ -18,11 +23,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/7002998/
 
 * Психология влияния. Как научиться убеждать и добиваться успеха ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>115</sup>
-    > Чалдини пишет реально хорошо, просто и доходчиво. Наверное, на сегодня самая доходчивая из психологических книг в моем портфолио :)
-    > 
-    > https://www.ozon.ru/context/detail/id/4973577/
-    > 
-    > в процессе
 
 * Кладбище домашних животных ~ [Astro](users/282/282662025-vkontakte)<sup>43</sup>
 
@@ -36,16 +36,14 @@ Do not use pull requests to make changes here.
 
 * В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
 
-* Rework. Бизнес без предрассудков ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>114</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>554</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>117</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>8</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
@@ -75,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_16.08.2017 18:53:31_
+_16.08.2017 19:52:41_

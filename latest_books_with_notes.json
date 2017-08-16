@@ -1,4 +1,16 @@
 {
+    "Ex9i1PM32_": {
+        "id": "Ex9i1PM32_",
+        "title": "Как создать продукт, который купят. Метод Lean Customer Development",
+        "author": "Синди Альварес",
+        "notes": "https://www.ozon.ru/context/detail/id/34432645/\n\nв процессе",
+        "createdAt": "2017-08-16 19:52:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 118
+        }
+    },
     "RLfDJQBV8R": {
         "id": "RLfDJQBV8R",
         "title": "Глубина в небе",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 27
-        }
-    },
-    "nk4ne_ZujO": {
-        "id": "nk4ne_ZujO",
-        "title": "Я надену полночь",
-        "author": "Терри Пратчетт",
-        "notes": "(Тиффани Болит 4)",
-        "createdAt": "2017-07-27 09:53:58",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 26
         }
     }
 }
