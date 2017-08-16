@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>553</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>117</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Poster](users/192/192099707915275-facebook)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>6</sup> 
 [vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>552</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_15.08.2017 20:59:20_
+_16.08.2017 07:04:32_
