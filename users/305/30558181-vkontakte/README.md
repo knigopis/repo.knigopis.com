@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>123</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>124</sup>
 ---
 
 ## 2017
+
+### Дина: Дар змеи
+Лине Кобербёль
+> Книга 3
+
 
 ### Дина: Опасное наследство
 Лине Кобербёль

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дина: Дар змеи ~ [EsterHani](users/305/30558181-vkontakte)<sup>124</sup>
+    > Книга 3
+
 * Дина: Опасное наследство ~ [EsterHani](users/305/30558181-vkontakte)<sup>123</sup>
     > Книга 2
 
@@ -14,11 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Глубина в небе ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>117</sup>
-    > Виндж нереально крут :) чистый фан.
-    > 
-    > https://www.ozon.ru/context/detail/id/31924233/
-    > 
-    > в процессе
 
 * Все породы собак. Выбрать, понять, воспитать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>116</sup>
 
@@ -32,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>122</sup>
 
-* Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>123</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>554</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
@@ -71,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_17.08.2017 07:41:04_
+_17.08.2017 07:41:40_
