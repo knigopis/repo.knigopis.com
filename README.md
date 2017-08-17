@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дина: Опасное наследство ~ [EsterHani](users/305/30558181-vkontakte)<sup>123</sup>
+    > Книга 2
+
 * Как создать продукт, который купят. Метод Lean Customer Development ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup>
     > https://www.ozon.ru/context/detail/id/34432645/
     > 
@@ -18,9 +21,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Все породы собак. Выбрать, понять, воспитать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>116</sup>
-    > Отдохновение души моей собаководческой :) Занятный и ёмкий перечень пород по категориям с их основными особенностями. Понятно, пород не всех, а основных. Прям садишься в кресло и перелистываешь :)
-    > 
-    > https://www.ozon.ru/context/detail/id/7002998/
 
 * Психология влияния. Как научиться убеждать и добиваться успеха ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>115</sup>
 
@@ -34,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Срыв ~ [Chiffi](users/105/105831994080785626680-google)<sup>27</sup>
 
-* В списках не значился ~ [Rainbow](users/109/109787328219839805802-google)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>123</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>554</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
@@ -59,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>105</sup> 
 [Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>122</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
@@ -73,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_16.08.2017 19:52:41_
+_17.08.2017 07:41:04_
