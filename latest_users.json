@@ -1,4 +1,10 @@
 {
+    "3856663-vkontakte": {
+        "id": "3856663-vkontakte",
+        "nickname": "daria_parfenova",
+        "booksCount": 0,
+        "updatedAt": "2017-08-17 19:21:12"
+    },
     "113276117639820843949-google": {
         "id": "113276117639820843949-google",
         "nickname": "Vadik",
@@ -172,11 +178,5 @@
         "nickname": "menschenbrecher",
         "booksCount": 2,
         "updatedAt": "2017-08-09 06:11:52"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 55,
-        "updatedAt": "2017-08-09 03:33:47"
     }
 }
