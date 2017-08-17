@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
 [vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
-[rNix](users/115/115622071-twitter)<sup>55</sup> 
 
 
-_17.08.2017 08:37:16_
+_17.08.2017 19:21:15_
