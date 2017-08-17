@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>554</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
 [rNix](users/115/115622071-twitter)<sup>55</sup> 
-[Twia](users/111/111909358740464478736-google)<sup>0</sup> 
 
 
-_17.08.2017 07:41:40_
+_17.08.2017 08:37:16_
