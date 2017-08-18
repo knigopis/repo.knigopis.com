@@ -1,4 +1,16 @@
 {
+    "M4nwbGSTcO": {
+        "id": "M4nwbGSTcO",
+        "title": "Герой нашего времени",
+        "author": "Лермонтов Михаил Юрьевич",
+        "notes": "",
+        "createdAt": "2017-08-18 20:43:17",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 29
+        }
+    },
     "mxnkPTWn7H": {
         "id": "mxnkPTWn7H",
         "title": "В стране между Светом и Тьмой",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 5
-        }
-    },
-    "OQgN4NN2uO": {
-        "id": "OQgN4NN2uO",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "4",
-        "createdAt": "2017-08-15 20:47:29",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 4
         }
     }
 }

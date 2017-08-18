@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>28</sup>
+# List of books read by inna.besprozvannykh<sup>29</sup>
 ---
 
 ## 2017
+
+### Герой нашего времени
+Лермонтов Михаил Юрьевич
+> [2017-08] 
+
 
 ### Маленькая хозяйка большого дома
 Джек Лондон
