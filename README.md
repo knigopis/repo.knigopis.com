@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лела Папава](users/761/76187635-vkontakte)<sup>301</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>555</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
-[Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
 
 
-_18.08.2017 18:52:49_
+_18.08.2017 20:30:59_

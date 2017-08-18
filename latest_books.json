@@ -1,4 +1,16 @@
 {
+    "DoVyn9yHD3": {
+        "id": "DoVyn9yHD3",
+        "title": "Без семьи",
+        "author": "Гектор Мало",
+        "notes": "",
+        "createdAt": "2017-08-18 20:30:59",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 301
+        }
+    },
     "m4Ft1bAvIj": {
         "id": "m4Ft1bAvIj",
         "title": "Трилогия Инквизитор Эйзерхорн",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 1
-        }
-    },
-    "RLfDJQBV8R": {
-        "id": "RLfDJQBV8R",
-        "title": "Глубина в небе",
-        "author": "Вернор Виндж",
-        "notes": "Виндж нереально крут :) чистый фан.\n\nhttps://www.ozon.ru/context/detail/id/31924233/\n\nв процессе",
-        "createdAt": "2017-08-15 20:25:46",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 117
         }
     }
 }
