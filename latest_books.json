@@ -1,4 +1,16 @@
 {
+    "mxnkPTWn7H": {
+        "id": "mxnkPTWn7H",
+        "title": "В стране между Светом и Тьмой",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2017-08-18 20:36:01",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 304
+        }
+    },
     "BxLxU7o7bq": {
         "id": "BxLxU7o7bq",
         "title": "Объятые пламенем",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 4
-        }
-    },
-    "fCZN3X5lnO": {
-        "id": "fCZN3X5lnO",
-        "title": "Хватит быть славным парнем!",
-        "author": "Роберт Гловер",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:46:41",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 3
         }
     }
 }
