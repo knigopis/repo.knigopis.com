@@ -1,4 +1,10 @@
 {
+    "162444669-vkontakte": {
+        "id": "162444669-vkontakte",
+        "nickname": "SMedgaus",
+        "booksCount": 9,
+        "updatedAt": "2017-08-18 11:20:07"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "vladismile",
         "booksCount": 1,
         "updatedAt": "2017-08-09 07:13:27"
-    },
-    "4957345-vkontakte": {
-        "id": "4957345-vkontakte",
-        "nickname": "menschenbrecher",
-        "booksCount": 2,
-        "updatedAt": "2017-08-09 06:11:52"
     }
 }
