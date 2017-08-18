@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>555</sup> 
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>554</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>8</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [menschenbrecher](users/495/4957345-vkontakte)<sup>2</sup> 
 
 
-_17.08.2017 19:21:15_
+_18.08.2017 10:53:54_

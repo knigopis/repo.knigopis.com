@@ -1,4 +1,16 @@
 {
+    "fuu7T0YdHs": {
+        "id": "fuu7T0YdHs",
+        "title": "Дэйзи Фэй и чудеса",
+        "author": "Фэнни Флэгг",
+        "notes": "",
+        "createdAt": "2017-08-18 10:53:54",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 555
+        }
+    },
     "z1-X5KWDQO": {
         "id": "z1-X5KWDQO",
         "title": "Дина: Дар змеи",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 115
-        }
-    },
-    "HDxEq_04j5": {
-        "id": "HDxEq_04j5",
-        "title": "Артур и минипуты",
-        "author": "Люк Бессон",
-        "notes": "",
-        "createdAt": "2017-08-15 15:15:20",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 75
         }
     }
 }
