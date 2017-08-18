@@ -1,4 +1,16 @@
 {
+    "8RSHiQ_xyp": {
+        "id": "8RSHiQ_xyp",
+        "title": "Братья Львиное Сердце",
+        "author": "Астрид Линдгрен",
+        "notes": "",
+        "createdAt": "2017-08-18 20:32:36",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 302
+        }
+    },
     "DoVyn9yHD3": {
         "id": "DoVyn9yHD3",
         "title": "Без семьи",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 2
-        }
-    },
-    "MktzBMkgKe": {
-        "id": "MktzBMkgKe",
-        "title": "Бог как иллюзия",
-        "author": "Ричард Докинз",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:45:20",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 1
         }
     }
 }
