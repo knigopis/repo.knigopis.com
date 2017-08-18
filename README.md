@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>29</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 
 
-_18.08.2017 20:43:17_
+_18.08.2017 20:44:10_

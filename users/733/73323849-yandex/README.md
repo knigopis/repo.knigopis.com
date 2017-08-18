@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>29</sup>
+# List of books read by inna.besprozvannykh<sup>30</sup>
 ---
 
 ## 2017
+
+### Поющие в терновнике
+Колин Маккалоу
+> [2017-08] 
+
 
 ### Герой нашего времени
 Лермонтов Михаил Юрьевич

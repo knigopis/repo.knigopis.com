@@ -1,4 +1,16 @@
 {
+    "97HC3NC9JE": {
+        "id": "97HC3NC9JE",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2017-08-18 20:44:10",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 30
+        }
+    },
     "M4nwbGSTcO": {
         "id": "M4nwbGSTcO",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 6
-        }
-    },
-    "Xsq18RIIiG": {
-        "id": "Xsq18RIIiG",
-        "title": "Люди, которые играют в игры",
-        "author": "Эрик Берн",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:48:40",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 5
         }
     }
 }
