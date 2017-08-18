@@ -1,4 +1,16 @@
 {
+    "BxLxU7o7bq": {
+        "id": "BxLxU7o7bq",
+        "title": "Объятые пламенем",
+        "author": "Джанин Фрост",
+        "notes": "",
+        "createdAt": "2017-08-18 20:34:18",
+        "user": {
+            "id": "76187635-vkontakte",
+            "nickname": "Лела Папава",
+            "booksCount": 303
+        }
+    },
     "8RSHiQ_xyp": {
         "id": "8RSHiQ_xyp",
         "title": "Братья Львиное Сердце",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 3
-        }
-    },
-    "cAIEDTSY0d": {
-        "id": "cAIEDTSY0d",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:46:09",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 2
         }
     }
 }

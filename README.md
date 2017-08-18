@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лела Папава](users/761/76187635-vkontakte)<sup>302</sup> 
+[Лела Папава](users/761/76187635-vkontakte)<sup>303</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>555</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
 
 
-_18.08.2017 20:32:36_
+_18.08.2017 20:34:18_
