@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
+    > Эйзерхорн, Черубаэль, Биквин, Эмос с вирусом поглощения информации, Понтиус Гло.
+    > Я начал отсюда, а не с Ереси Хоруса, но даже так, масштабы вселенной ВХ поражают
+
 * Интересные времена (цикл Волшебники и герои, часть 5) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup>
     > В этой книжке очень много шуток и смешных умозаключений. Однозначно рекомендую прочитать.
     > "(Предупреждение: поскольку речь в дальнейшем пойдет о крайне щекотливых вопросах, нижеследующая аннотация написана дипломатическим языком.)
@@ -17,7 +21,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Дина: Опасное наследство ~ [EsterHani](users/305/30558181-vkontakte)<sup>123</sup>
-    > Книга 2
 
 * Как создать продукт, который купят. Метод Lean Customer Development ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup>
 
@@ -31,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Удар по Шайол Гул и Река душ ~ [Garka](users/115/115753719718250012620-google)<sup>146</sup>
 
-* Память Света ~ [Garka](users/115/115753719718250012620-google)<sup>145</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>555</sup> 
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
@@ -67,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>265</sup> 
 [Rectus](users/102/10212207630017815-facebook)<sup>0</sup> 
-[vladismile](users/146/1467491296661560-facebook)<sup>1</sup> 
 
 
-_18.08.2017 11:20:07_
+_18.08.2017 18:52:49_
