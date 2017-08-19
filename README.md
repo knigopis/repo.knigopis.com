@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dan TJ](users/100/100002538519893-facebook)<sup>0</sup> 
 [volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>558</sup> 
 [Derek777](users/153/15386028-yandex)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>27</sup> 
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 
 
-_19.08.2017 09:42:46_
+_19.08.2017 10:24:43_
