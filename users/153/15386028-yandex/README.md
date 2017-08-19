@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>40</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>41</sup>
 ---
 
 ## 2017
+
+### Чёрный гондольер
+Фриц Лейбер
+> [2017-08-10] Короткий. Псих .убеждённый что нефть разумна. пропал. 5 из 10.
+
 
 ### Шизофреник Джимми
 Фриц Лейбер

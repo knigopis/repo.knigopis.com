@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чёрный гондольер ~ [Derek777](users/153/15386028-yandex)<sup>41</sup>
 * Шизофреник Джимми ~ [Derek777](users/153/15386028-yandex)<sup>40</sup>
 * Власть кукол ~ [Derek777](users/153/15386028-yandex)<sup>39</sup>
 * Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
@@ -30,7 +31,6 @@
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
 * Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
 * Остаться в живых. Психология поведения в экстремальных ситуациях ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>113</sup>
-* Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 
 
-_19.08.2017 03:33:21_
+_19.08.2017 03:35:19_
