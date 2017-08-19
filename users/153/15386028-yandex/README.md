@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>39</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>40</sup>
 ---
 
 ## 2017
+
+### Шизофреник Джимми
+Фриц Лейбер
+> [2017-08-05] Короткий. ебанулся на почве зависти .5 из 10.
+
 
 ### Власть кукол
 Фриц Лейбер

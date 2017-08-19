@@ -1,4 +1,16 @@
 {
+    "zna6C4906T": {
+        "id": "zna6C4906T",
+        "title": "Шизофреник Джимми",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. ебанулся на почве зависти .5 из 10.",
+        "createdAt": "2017-08-19 03:33:21",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 40
+        }
+    },
     "sSSWOFqo-0": {
         "id": "sSSWOFqo-0",
         "title": "Власть кукол",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 26
-        }
-    },
-    "FEIGTlLP6g": {
-        "id": "FEIGTlLP6g",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "Повесть",
-        "createdAt": "2017-07-30 21:01:32",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 33
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "zna6C4906T": {
+        "id": "zna6C4906T",
+        "title": "Шизофреник Джимми",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. ебанулся на почве зависти .5 из 10.",
+        "createdAt": "2017-08-19 03:33:21",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 40
+        }
+    },
     "sSSWOFqo-0": {
         "id": "sSSWOFqo-0",
         "title": "Власть кукол",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 11
-        }
-    },
-    "IHaikGQcsU": {
-        "id": "IHaikGQcsU",
-        "title": "Rework: бизнес без предрассудков",
-        "author": "Фрайд Джейсон, Хенссон Дэвид Хайнемайер",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:51:21",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 10
         }
     }
 }
