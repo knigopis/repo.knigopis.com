@@ -1,4 +1,16 @@
 {
+    "6kAOpMJgVI": {
+        "id": "6kAOpMJgVI",
+        "title": "Человек. который дружил с электричеством.",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. Русофоб дружащий с электричеством. и принуждающий его напасть на Россию. убит током!! 4      из 10.",
+        "createdAt": "2017-08-19 03:21:38",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 37
+        }
+    },
     "1gTCTh1qtn": {
         "id": "1gTCTh1qtn",
         "title": "Стол. полный девчонок",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 8
-        }
-    },
-    "zKlXuT1_qo": {
-        "id": "zKlXuT1_qo",
-        "title": "От слов к делу!",
-        "author": "Ричард Ньютон, Киприан Расен",
-        "notes": "в процессе",
-        "createdAt": "2017-07-28 16:42:21",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 112
         }
     }
 }
