@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>43</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>44</sup>
 ---
 
 ## 2017
+
+### Полночь в зеркальном мире.
+Фриц Лейбер
+> [2017-08-18] Короткий. Отщепенец повесился . что бы вернуться к любимой в зазеркалье. 4 из 10.
+
 
 ### Дьявол из шкатулки
 Фриц Лейбер
