@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
 * Человек. который дружил с электричеством. ~ [Derek777](users/153/15386028-yandex)<sup>37</sup>
 * Стол. полный девчонок ~ [Derek777](users/153/15386028-yandex)<sup>36</sup>
 * Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Между Огней ~ [Chiffi](users/105/105831994080785626680-google)<sup>26</sup>
 * Превращение ~ [idsimonbell](users/380/380554090-vkontakte)<sup>33</sup>
 * После Огня ~ [Chiffi](users/105/105831994080785626680-google)<sup>25</sup>
-* Эрик (цикл Волшебники и герои, часть 4) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>8</sup>
 
 
-_19.08.2017 03:21:39_
+_19.08.2017 03:26:49_

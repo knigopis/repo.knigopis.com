@@ -1,4 +1,16 @@
 {
+    "sK4wZdSD_x": {
+        "id": "sK4wZdSD_x",
+        "title": "Мертвец",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий.Очень тупой учёный завалил эксперимент века. труп его задушил. жена спятила. 3 из 10.",
+        "createdAt": "2017-08-19 03:26:49",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 38
+        }
+    },
     "6kAOpMJgVI": {
         "id": "6kAOpMJgVI",
         "title": "Человек. который дружил с электричеством.",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 9
-        }
-    },
-    "TXAYrUZ0-A": {
-        "id": "TXAYrUZ0-A",
-        "title": "15 секретов управления временем: Как успешные люди успевают всё.",
-        "author": "Кевин Круз",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:50:29",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 8
         }
     }
 }

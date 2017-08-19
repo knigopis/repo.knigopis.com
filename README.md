@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
+    > Короткий.Очень тупой учёный завалил эксперимент века. труп его задушил. жена спятила. 3 из 10.
+
 * Человек. который дружил с электричеством. ~ [Derek777](users/153/15386028-yandex)<sup>37</sup>
     > Короткий. Русофоб дружащий с электричеством. и принуждающий его напасть на Россию. убит током!! 4      из 10.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Безумный психиатр,собирающий эфирных призраков девушек.4 из 10.
 
 * Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
-    > Эйзерхорн, Черубаэль, Биквин, Эмос с вирусом поглощения информации, Понтиус Гло.
-    > Я начал отсюда, а не с Ереси Хоруса, но даже так, масштабы вселенной ВХ поражают
 
 * Интересные времена (цикл Волшебники и герои, часть 5) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Все породы собак. Выбрать, понять, воспитать ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>116</sup>
 
-* Психология влияния. Как научиться убеждать и добиваться успеха ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>37</sup> 
+[Derek777](users/153/15386028-yandex)<sup>38</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 
 
-_19.08.2017 03:21:39_
+_19.08.2017 03:26:49_
