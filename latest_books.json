@@ -1,4 +1,16 @@
 {
+    "agtkDwUg0A": {
+        "id": "agtkDwUg0A",
+        "title": "Потоп",
+        "author": "Генрик Сенкевич",
+        "notes": "",
+        "createdAt": "2017-08-19 05:46:03",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 558
+        }
+    },
     "x0AoKBSTB1": {
         "id": "x0AoKBSTB1",
         "title": "Пан Володыёвский",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 18
-        }
-    },
-    "VWPrDNoWZX": {
-        "id": "VWPrDNoWZX",
-        "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
-        "author": "Эшли Вэнс",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:54:43",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 17
         }
     }
 }
