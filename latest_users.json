@@ -1,4 +1,10 @@
 {
+    "100002538519893-facebook": {
+        "id": "100002538519893-facebook",
+        "nickname": "Dan TJ",
+        "booksCount": 0,
+        "updatedAt": "2017-08-19 10:24:43"
+    },
     "70865766-vkontakte": {
         "id": "70865766-vkontakte",
         "nickname": "volkova220896",
@@ -172,11 +178,5 @@
         "nickname": "iklin",
         "booksCount": 2,
         "updatedAt": "2017-08-11 19:20:00"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 106,
-        "updatedAt": "2017-08-11 08:30:43"
     }
 }
