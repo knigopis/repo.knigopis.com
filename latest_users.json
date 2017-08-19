@@ -1,4 +1,10 @@
 {
+    "70865766-vkontakte": {
+        "id": "70865766-vkontakte",
+        "nickname": "volkova220896",
+        "booksCount": 0,
+        "updatedAt": "2017-08-19 09:21:19"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 106,
         "updatedAt": "2017-08-11 08:30:43"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 28,
-        "updatedAt": "2017-08-10 13:57:31"
     }
 }
