@@ -1,4 +1,16 @@
 {
+    "MxuKzqPjOo": {
+        "id": "MxuKzqPjOo",
+        "title": "О чем молчат француженки",
+        "author": "Дебора Оливье",
+        "notes": "",
+        "createdAt": "2017-08-19 09:42:46",
+        "user": {
+            "id": "70865766-vkontakte",
+            "nickname": "volkova220896",
+            "booksCount": 2
+        }
+    },
     "dTvahO89U7": {
         "id": "dTvahO89U7",
         "title": "Не навреди",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 20
-        }
-    },
-    "p_zqZGt22t": {
-        "id": "p_zqZGt22t",
-        "title": "Двери восприятия",
-        "author": "Олдос Хаксли",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:55:42",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 19
         }
     }
 }
