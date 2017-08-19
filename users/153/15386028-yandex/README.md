@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>38</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>39</sup>
 ---
 
 ## 2017
+
+### Власть кукол
+Фриц Лейбер
+> [2017-08-01] Короткий. Жуткий кукольник мутант с руками-братьями. всем крындец. 4 из 10.
+
 
 ### Мертвец
 Фриц Лейбер

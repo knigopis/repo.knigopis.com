@@ -1,4 +1,16 @@
 {
+    "sSSWOFqo-0": {
+        "id": "sSSWOFqo-0",
+        "title": "Власть кукол",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. Жуткий кукольник мутант с руками-братьями. всем крындец. 4 из 10.",
+        "createdAt": "2017-08-19 03:30:44",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 39
+        }
+    },
     "sK4wZdSD_x": {
         "id": "sK4wZdSD_x",
         "title": "Мертвец",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 33
-        }
-    },
-    "3ZsSCvcms_": {
-        "id": "3ZsSCvcms_",
-        "title": "После Огня",
-        "author": "Олли Вингет",
-        "notes": "сказка-антиутопия.",
-        "createdAt": "2017-07-30 06:34:33",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 25
         }
     }
 }
