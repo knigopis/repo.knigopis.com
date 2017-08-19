@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>556</sup> 
 [Derek777](users/153/15386028-yandex)<sup>44</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>555</sup> 
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 
 
-_19.08.2017 03:41:32_
+_19.08.2017 05:16:24_
