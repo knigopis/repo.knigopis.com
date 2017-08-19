@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>35</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>36</sup>
 ---
 
 ## 2017
+
+### Стол. полный девчонок
+Фриц Лейбер
+> [2017-07-15] Короткий. Безумный психиатр,собирающий эфирных призраков девушек.4 из 10.
+
 
 ### Немного мира тьмы
 Фриц Лейбер

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стол. полный девчонок ~ [Derek777](users/153/15386028-yandex)<sup>36</sup>
+    > Короткий. Безумный психиатр,собирающий эфирных призраков девушек.4 из 10.
+
 * Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
     > Эйзерхорн, Черубаэль, Биквин, Эмос с вирусом поглощения информации, Понтиус Гло.
     > Я начал отсюда, а не с Ереси Хоруса, но даже так, масштабы вселенной ВХ поражают
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Впервые на русском языке!"
 
 * Дина: Дар змеи ~ [EsterHani](users/305/30558181-vkontakte)<sup>124</sup>
-    > Книга 3
 
 * Дина: Опасное наследство ~ [EsterHani](users/305/30558181-vkontakte)<sup>123</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Кладбище домашних животных ~ [Astro](users/282/282662025-vkontakte)<sup>43</sup>
 
-* Удар по Шайол Гул и Река душ ~ [Garka](users/115/115753719718250012620-google)<sup>146</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Derek777](users/153/15386028-yandex)<sup>36</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [iklin](users/160/1602268389844908-facebook)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>106</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
-[lucius](users/838/83820536-yandex)<sup>141</sup> 
 
 
-_18.08.2017 20:44:10_
+_19.08.2017 03:16:13_

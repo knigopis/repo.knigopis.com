@@ -1,4 +1,16 @@
 {
+    "1gTCTh1qtn": {
+        "id": "1gTCTh1qtn",
+        "title": "Стол. полный девчонок",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. Безумный психиатр,собирающий эфирных призраков девушек.4 из 10.",
+        "createdAt": "2017-08-19 03:16:13",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 36
+        }
+    },
     "97HC3NC9JE": {
         "id": "97HC3NC9JE",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 7
-        }
-    },
-    "JtTo3mR3-o": {
-        "id": "JtTo3mR3-o",
-        "title": "Человек в поисках смысла",
-        "author": "Виктор Франкл",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:49:30",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 6
         }
     }
 }

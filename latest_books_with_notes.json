@@ -1,4 +1,16 @@
 {
+    "1gTCTh1qtn": {
+        "id": "1gTCTh1qtn",
+        "title": "Стол. полный девчонок",
+        "author": "Фриц Лейбер",
+        "notes": "Короткий. Безумный психиатр,собирающий эфирных призраков девушек.4 из 10.",
+        "createdAt": "2017-08-19 03:16:13",
+        "user": {
+            "id": "15386028-yandex",
+            "nickname": "Derek777",
+            "booksCount": 36
+        }
+    },
     "m4Ft1bAvIj": {
         "id": "m4Ft1bAvIj",
         "title": "Трилогия Инквизитор Эйзерхорн",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 112
-        }
-    },
-    "b3rk0DNLCH": {
-        "id": "b3rk0DNLCH",
-        "title": "Боги, святилища, обряды Японии. Энциклопедия Синто",
-        "author": "",
-        "notes": "http://www.ozon.ru/context/detail/id/5524641/\n\nв процессе",
-        "createdAt": "2017-07-28 16:41:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 111
         }
     }
 }

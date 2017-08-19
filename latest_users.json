@@ -1,4 +1,10 @@
 {
+    "15386028-yandex": {
+        "id": "15386028-yandex",
+        "nickname": "Derek777",
+        "booksCount": 36,
+        "updatedAt": "2017-08-19 03:16:13"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 28,
         "updatedAt": "2017-08-10 13:57:31"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 141,
-        "updatedAt": "2017-08-10 01:02:27"
     }
 }
