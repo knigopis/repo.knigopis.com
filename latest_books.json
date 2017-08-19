@@ -1,4 +1,16 @@
 {
+    "x0AoKBSTB1": {
+        "id": "x0AoKBSTB1",
+        "title": "Пан Володыёвский",
+        "author": "Генрик Сенкевич",
+        "notes": "",
+        "createdAt": "2017-08-19 05:44:15",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 557
+        }
+    },
     "iQ8qhLR7rw": {
         "id": "iQ8qhLR7rw",
         "title": "Полдень, ХХІІ век",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 17
-        }
-    },
-    "117TbS07g-": {
-        "id": "117TbS07g-",
-        "title": "Как завоевывать друзей и оказывать влияние на людей",
-        "author": "Дейл Карнеги",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:54:27",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 16
         }
     }
 }
