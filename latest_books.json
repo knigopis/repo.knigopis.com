@@ -1,4 +1,16 @@
 {
+    "dRYgU7oasc": {
+        "id": "dRYgU7oasc",
+        "title": "Совершенные вопросы, совершенные ответы",
+        "author": "А. Ч. Бхактиведанта Свами Прабхупада",
+        "notes": "",
+        "createdAt": "2017-08-19 16:24:22",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 36
+        }
+    },
     "MxuKzqPjOo": {
         "id": "MxuKzqPjOo",
         "title": "О чем молчат француженки",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 21
-        }
-    },
-    "jJ002pdqSM": {
-        "id": "jJ002pdqSM",
-        "title": "So Good They Can't Ignore You",
-        "author": "Cal Newport",
-        "notes": "4",
-        "createdAt": "2017-08-15 20:56:33",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 20
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>35</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>36</sup>
 ---
 
 ## 2017
+
+### Совершенные вопросы, совершенные ответы
+А. Ч. Бхактиведанта Свами Прабхупада
+> [2017-08-19] 
+
 
 ### Откровение (Апокалипсис)
 Иоанн Богослов
