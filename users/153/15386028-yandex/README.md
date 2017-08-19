@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>42</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>43</sup>
 ---
 
 ## 2017
+
+### Дьявол из шкатулки
+Фриц Лейбер
+> [2017-08-16] Короткий. Звездонутая прибегает к магии ради славы. 3 из 10.
+
 
 ### Я ищу Джефа
 Фриц Лейбер

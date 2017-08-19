@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
 * Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
 * Чёрный гондольер ~ [Derek777](users/153/15386028-yandex)<sup>41</sup>
 * Шизофреник Джимми ~ [Derek777](users/153/15386028-yandex)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Один день ~ [Garri938](users/114/114389869162010721507-google)<sup>32</sup>
 * Россия молодая ~ [Garri938](users/114/114389869162010721507-google)<sup>31</sup>
 * The Silent Oligarch ~ [exulted](users/100/100599204551896265722-google)<sup>47</sup>
-* Дом на краю ночи ~ [Sky](users/118/118049897850017649660-google)<sup>36</sup>
 
 
-_19.08.2017 03:36:56_
+_19.08.2017 03:39:18_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
+    > Короткий. Звездонутая прибегает к магии ради славы. 3 из 10.
+
 * Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
     > Короткий. Призрак девушки добился смерти преступника. 5 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Псих .убеждённый что нефть разумна. пропал. 5 из 10.
 
 * Шизофреник Джимми ~ [Derek777](users/153/15386028-yandex)<sup>40</sup>
-    > Короткий. ебанулся на почве зависти .5 из 10.
 
 * Власть кукол ~ [Derek777](users/153/15386028-yandex)<sup>39</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Интересные времена (цикл Волшебники и герои, часть 5) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup>
 
-* Дина: Дар змеи ~ [EsterHani](users/305/30558181-vkontakte)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Derek777](users/153/15386028-yandex)<sup>42</sup> 
+[Derek777](users/153/15386028-yandex)<sup>43</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>28</sup> 
 
 
-_19.08.2017 03:36:56_
+_19.08.2017 03:39:18_
