@@ -1,4 +1,16 @@
 {
+    "dTvahO89U7": {
+        "id": "dTvahO89U7",
+        "title": "Не навреди",
+        "author": "Генри марш",
+        "notes": "",
+        "createdAt": "2017-08-19 09:22:16",
+        "user": {
+            "id": "70865766-vkontakte",
+            "nickname": "volkova220896",
+            "booksCount": 1
+        }
+    },
     "agtkDwUg0A": {
         "id": "agtkDwUg0A",
         "title": "Потоп",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 19
-        }
-    },
-    "LERPtdsuCa": {
-        "id": "LERPtdsuCa",
-        "title": "Семь навыков высокоэффективных людей",
-        "author": "Стивен Кови",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:55:17",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 18
         }
     }
 }
