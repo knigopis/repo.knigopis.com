@@ -1,7 +1,12 @@
-# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>41</sup>
+# List of books read by [Derek777](http://openid.yandex.ru/Derek777/)<sup>42</sup>
 ---
 
 ## 2017
+
+### Я ищу Джефа
+Фриц Лейбер
+> [2017-08-13] Короткий. Призрак девушки добился смерти преступника. 5 из 10.
+
 
 ### Чёрный гондольер
 Фриц Лейбер
