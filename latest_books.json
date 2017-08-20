@@ -1,4 +1,16 @@
 {
+    "XTwxQ0ezJk": {
+        "id": "XTwxQ0ezJk",
+        "title": "«Никогда не ешьте в одиночку и другие правила нетворкинга»",
+        "author": "Феррацци Кейт, Рэз Тал",
+        "notes": "5",
+        "createdAt": "2017-08-20 15:53:02",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 22
+        }
+    },
     "xYaCQj3NM8": {
         "id": "xYaCQj3NM8",
         "title": "Меняем привычки",
@@ -345,18 +357,6 @@
             "id": "162444669-vkontakte",
             "nickname": "SMedgaus",
             "booksCount": 9
-        }
-    },
-    "fuu7T0YdHs": {
-        "id": "fuu7T0YdHs",
-        "title": "Дэйзи Фэй и чудеса",
-        "author": "Фэнни Флэгг",
-        "notes": "",
-        "createdAt": "2017-08-18 10:53:54",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 555
         }
     }
 }
