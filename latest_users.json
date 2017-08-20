@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 55,
+        "updatedAt": "2017-08-20 13:47:24"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -64,12 +70,6 @@
         "nickname": "Лела Папава",
         "booksCount": 304,
         "updatedAt": "2017-08-18 20:36:01"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 54,
-        "updatedAt": "2017-08-18 18:52:49"
     },
     "162444669-vkontakte": {
         "id": "162444669-vkontakte",
