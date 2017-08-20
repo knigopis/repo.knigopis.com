@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 115,
+        "updatedAt": "2017-08-20 08:54:15"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -148,12 +154,6 @@
         "nickname": "vodolaz",
         "booksCount": 0,
         "updatedAt": "2017-08-14 14:55:35"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 114,
-        "updatedAt": "2017-08-14 09:00:52"
     },
     "282662025-vkontakte": {
         "id": "282662025-vkontakte",
