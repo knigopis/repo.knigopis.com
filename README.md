@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>106</sup> 
 [Bahh Tee](users/129/12914691089881846147-mailru)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>36</sup> 
 [Dan TJ](users/100/100002538519893-facebook)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>114</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>105</sup> 
 [Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 
 
-_20.08.2017 06:53:57_
+_20.08.2017 08:45:07_

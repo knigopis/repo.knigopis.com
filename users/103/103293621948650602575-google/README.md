@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>105</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>106</sup>
 ---
 
 ## 2017
@@ -350,6 +350,10 @@
 ### Рубиновая Книга
 Керстин Гир
 > [2013-09] 
+
+
+### Субмарина
+Джо Данторн
 
 
 ### Гора Вампиров

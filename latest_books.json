@@ -1,4 +1,16 @@
 {
+    "8ZWaKkI-xG": {
+        "id": "8ZWaKkI-xG",
+        "title": "Субмарина",
+        "author": "Джо Данторн",
+        "notes": "",
+        "createdAt": "2017-08-20 08:45:06",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 106
+        }
+    },
     "dRYgU7oasc": {
         "id": "dRYgU7oasc",
         "title": "Совершенные вопросы, совершенные ответы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 553
-        }
-    },
-    "17aUvpZChw": {
-        "id": "17aUvpZChw",
-        "title": "The ONE Thing",
-        "author": "Gary Keller",
-        "notes": "5",
-        "createdAt": "2017-08-15 20:59:20",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 21
         }
     }
 }
