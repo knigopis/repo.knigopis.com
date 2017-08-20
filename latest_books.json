@@ -1,4 +1,16 @@
 {
+    "kpMhx1KZ2H": {
+        "id": "kpMhx1KZ2H",
+        "title": "Понедельник начинается в субботу",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "Книга очень понравилась. Легкая, ироничная. вызывает желание в дальнейшем знакомиться с творчеством Стругацких",
+        "createdAt": "2017-08-20 12:04:13",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 9
+        }
+    },
     "zWHog0Ztcc": {
         "id": "zWHog0Ztcc",
         "title": "Девушка-сокол",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 123
-        }
-    },
-    "Ex9i1PM32_": {
-        "id": "Ex9i1PM32_",
-        "title": "Как создать продукт, который купят. Метод Lean Customer Development",
-        "author": "Синди Альварес",
-        "notes": "https://www.ozon.ru/context/detail/id/34432645/\n\nв процессе",
-        "createdAt": "2017-08-16 19:52:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 118
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 9,
+        "updatedAt": "2017-08-20 12:04:13"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -106,12 +112,6 @@
         "nickname": "International master",
         "booksCount": 75,
         "updatedAt": "2017-08-15 15:15:20"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 8,
-        "updatedAt": "2017-08-15 14:18:49"
     },
     "132828861-vkontakte": {
         "id": "132828861-vkontakte",
