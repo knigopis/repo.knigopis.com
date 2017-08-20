@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
+    > Книга 4
+
 * Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
     > Короткий. Отщепенец повесился . что бы вернуться к любимой в зазеркалье. 4 из 10.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Звездонутая прибегает к магии ради славы. 3 из 10.
 
 * Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
-    > Короткий. Призрак девушки добился смерти преступника. 5 из 10.
 
 * Чёрный гондольер ~ [Derek777](users/153/15386028-yandex)<sup>41</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Стол. полный девчонок ~ [Derek777](users/153/15386028-yandex)<sup>36</sup>
 
-* Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>22</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 
 
-_20.08.2017 15:53:02_
+_20.08.2017 17:51:27_
