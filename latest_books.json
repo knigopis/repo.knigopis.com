@@ -1,4 +1,16 @@
 {
+    "xYaCQj3NM8": {
+        "id": "xYaCQj3NM8",
+        "title": "Меняем привычки",
+        "author": "М. Дж. Райан",
+        "notes": "5",
+        "createdAt": "2017-08-20 15:51:17",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 22
+        }
+    },
     "vAbsnQ779G": {
         "id": "vAbsnQ779G",
         "title": "Трилогия левиофан, Заводная",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 555
-        }
-    },
-    "z1-X5KWDQO": {
-        "id": "z1-X5KWDQO",
-        "title": "Дина: Дар змеи",
-        "author": "Лине Кобербёль",
-        "notes": "Книга 3",
-        "createdAt": "2017-08-17 07:41:40",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 124
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>21</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>22</sup>
 ---
 
 ## 2017
+
+### Меняем привычки
+М. Дж. Райан
+> [2017-08-20] 5
+
 
 ### So Good They Can't Ignore You
 Cal Newport

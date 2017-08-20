@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>22</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>115</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>21</sup> 
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 
 
-_20.08.2017 13:47:24_
+_20.08.2017 15:51:17_
