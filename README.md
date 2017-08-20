@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
+    > Слабонервным лучше от прочтения отказаться, сами аборты и их последствия описаны очень подробно (с позиции судмедэксперта). Ожидала от книги чисто медицинского повествования, но каждый аборт сопровождается лирическим отступлением - предысторией, которая привела женщину к решению сделать этот самый аборт.
+
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
     > Книга 4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Короткий. Отщепенец повесился . что бы вернуться к любимой в зазеркалье. 4 из 10.
 
 * Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
-    > Короткий. Звездонутая прибегает к магии ради славы. 3 из 10.
 
 * Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Человек. который дружил с электричеством. ~ [Derek777](users/153/15386028-yandex)<sup>37</sup>
 
-* Стол. полный девчонок ~ [Derek777](users/153/15386028-yandex)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>147</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>22</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
 [Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>146</sup> 
 
 
-_20.08.2017 17:51:27_
+_20.08.2017 18:16:05_

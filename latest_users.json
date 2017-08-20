@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 147,
+        "updatedAt": "2017-08-20 18:16:05"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "Bibop",
         "booksCount": 0,
         "updatedAt": "2017-08-12 14:51:11"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 146,
-        "updatedAt": "2017-08-12 13:13:11"
     }
 }
