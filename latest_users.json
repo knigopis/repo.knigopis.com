@@ -1,4 +1,10 @@
 {
+    "12914691089881846147-mailru": {
+        "id": "12914691089881846147-mailru",
+        "nickname": "Bahh Tee",
+        "booksCount": 0,
+        "updatedAt": "2017-08-20 06:53:54"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 146,
         "updatedAt": "2017-08-12 13:13:11"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 27,
-        "updatedAt": "2017-08-11 21:01:28"
     }
 }
