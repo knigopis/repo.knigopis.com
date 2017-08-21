@@ -1,4 +1,10 @@
 {
+    "217731382-twitter": {
+        "id": "217731382-twitter",
+        "nickname": "dedmorozvideo",
+        "booksCount": 0,
+        "updatedAt": "2017-08-21 17:04:53"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "ana.21",
         "booksCount": 310,
         "updatedAt": "2017-08-13 08:43:54"
-    },
-    "144126479514349-facebook": {
-        "id": "144126479514349-facebook",
-        "nickname": "Bibop",
-        "booksCount": 0,
-        "updatedAt": "2017-08-12 14:51:11"
     }
 }
