@@ -1,4 +1,16 @@
 {
+    "IRbFsXzTlC": {
+        "id": "IRbFsXzTlC",
+        "title": "Пиранья-1. Первый бросок",
+        "author": "Бушков Александр",
+        "notes": "",
+        "createdAt": "2017-08-21 17:07:21",
+        "user": {
+            "id": "217731382-twitter",
+            "nickname": "polbatona",
+            "booksCount": 1
+        }
+    },
     "Y4fgj8fala": {
         "id": "Y4fgj8fala",
         "title": "Криминальные аборты",
@@ -345,18 +357,6 @@
             "id": "76187635-vkontakte",
             "nickname": "Лела Папава",
             "booksCount": 302
-        }
-    },
-    "DoVyn9yHD3": {
-        "id": "DoVyn9yHD3",
-        "title": "Без семьи",
-        "author": "Гектор Мало",
-        "notes": "",
-        "createdAt": "2017-08-18 20:30:59",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 301
         }
     }
 }
