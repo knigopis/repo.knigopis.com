@@ -1,4 +1,16 @@
 {
+    "SZRFT3yA3U": {
+        "id": "SZRFT3yA3U",
+        "title": "EmpireV",
+        "author": "Пелевин",
+        "notes": "",
+        "createdAt": "2017-08-21 20:22:42",
+        "user": {
+            "id": "173746684-vkontakte",
+            "nickname": "plinapolina",
+            "booksCount": 64
+        }
+    },
     "m0DTKO32t2": {
         "id": "m0DTKO32t2",
         "title": "Пиранья-3. Жизнь длиннее смерти",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 29
-        }
-    },
-    "mxnkPTWn7H": {
-        "id": "mxnkPTWn7H",
-        "title": "В стране между Светом и Тьмой",
-        "author": "Астрид Линдгрен",
-        "notes": "",
-        "createdAt": "2017-08-18 20:36:01",
-        "user": {
-            "id": "76187635-vkontakte",
-            "nickname": "Лела Папава",
-            "booksCount": 304
         }
     }
 }
