@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dedmorozvideo](users/217/217731382-twitter)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>147</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>22</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>43</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
-[Bibop](users/144/144126479514349-facebook)<sup>0</sup> 
 
 
-_20.08.2017 18:16:05_
+_21.08.2017 17:04:57_
