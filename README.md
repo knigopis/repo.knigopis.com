@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[polbatona](users/217/217731382-twitter)<sup>1</sup> 
+[polbatona](users/217/217731382-twitter)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>147</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ana.21](users/107/107655526900000657481-google)<sup>310</sup> 
 
 
-_21.08.2017 17:07:21_
+_21.08.2017 17:08:10_
