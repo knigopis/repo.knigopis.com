@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
+    > Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.
+
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
     > Слабонервным лучше от прочтения отказаться, сами аборты и их последствия описаны очень подробно (с позиции судмедэксперта). Ожидала от книги чисто медицинского повествования, но каждый аборт сопровождается лирическим отступлением - предысторией, которая привела женщину к решению сделать этот самый аборт.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 4
 
 * Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
-    > Короткий. Отщепенец повесился . что бы вернуться к любимой в зазеркалье. 4 из 10.
 
 * Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
 
-* Человек. который дружил с электричеством. ~ [Derek777](users/153/15386028-yandex)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garri938](users/114/114389869162010721507-google)<sup>34</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>266</sup> 
 [JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
 [nanzanova](users/112/11205797-vkontakte)<sup>0</sup> 
 [Poster](users/192/192099707915275-facebook)<sup>0</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>6</sup> 
 
 
-_22.08.2017 14:48:31_
+_22.08.2017 14:58:04_
