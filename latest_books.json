@@ -1,4 +1,16 @@
 {
+    "qL2rzvHQdq": {
+        "id": "qL2rzvHQdq",
+        "title": "Психология лжи",
+        "author": "Пол Экман",
+        "notes": "",
+        "createdAt": "2017-08-22 22:44:23",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 37
+        }
+    },
     "HW6_YNV9iE": {
         "id": "HW6_YNV9iE",
         "title": "Это дело мужчин",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 38
-        }
-    },
-    "6kAOpMJgVI": {
-        "id": "6kAOpMJgVI",
-        "title": "Человек. который дружил с электричеством.",
-        "author": "Фриц Лейбер",
-        "notes": "Короткий. Русофоб дружащий с электричеством. и принуждающий его напасть на Россию. убит током!! 4      из 10.",
-        "createdAt": "2017-08-19 03:21:38",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 37
         }
     }
 }

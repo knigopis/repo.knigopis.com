@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>36</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>37</sup>
 ---
 
 ## 2017
+
+### Психология лжи
+Пол Экман
+> [2017-08-23] 
+
 
 ### Совершенные вопросы, совершенные ответы
 А. Ч. Бхактиведанта Свами Прабхупада

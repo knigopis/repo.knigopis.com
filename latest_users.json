@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 37,
+        "updatedAt": "2017-08-22 22:44:23"
+    },
     "114389869162010721507-google": {
         "id": "114389869162010721507-google",
         "nickname": "Garri938",
@@ -76,12 +82,6 @@
         "nickname": "Bahh Tee",
         "booksCount": 0,
         "updatedAt": "2017-08-20 06:53:54"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 36,
-        "updatedAt": "2017-08-19 16:24:22"
     },
     "100002538519893-facebook": {
         "id": "100002538519893-facebook",
