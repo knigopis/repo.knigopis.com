@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>266</sup> 
 [JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>116</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nanzanova](users/112/11205797-vkontakte)<sup>0</sup> 
 [Poster](users/192/192099707915275-facebook)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>6</sup> 
-[vodolaz](users/100/100814312071069684938-google)<sup>0</sup> 
 
 
-_22.08.2017 10:14:16_
+_22.08.2017 14:48:31_

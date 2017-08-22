@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 266,
+        "updatedAt": "2017-08-22 14:48:30"
+    },
     "118258496318783349484-google": {
         "id": "118258496318783349484-google",
         "nickname": "JulieSella",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 6,
         "updatedAt": "2017-08-14 15:14:55"
-    },
-    "100814312071069684938-google": {
-        "id": "100814312071069684938-google",
-        "nickname": "vodolaz",
-        "booksCount": 0,
-        "updatedAt": "2017-08-14 14:55:35"
     }
 }
