@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 116,
+        "updatedAt": "2017-08-22 02:52:08"
+    },
     "173746684-vkontakte": {
         "id": "173746684-vkontakte",
         "nickname": "plinapolina",
@@ -40,12 +46,6 @@
         "nickname": "Saamy",
         "booksCount": 9,
         "updatedAt": "2017-08-20 12:04:13"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 115,
-        "updatedAt": "2017-08-20 08:54:15"
     },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
