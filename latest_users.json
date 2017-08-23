@@ -1,4 +1,10 @@
 {
+    "117610692589681650326-google": {
+        "id": "117610692589681650326-google",
+        "nickname": "Sean1s",
+        "booksCount": 0,
+        "updatedAt": "2017-08-23 10:48:45"
+    },
     "115154203761453486437-google": {
         "id": "115154203761453486437-google",
         "nickname": "Vivo_Turdo",
@@ -172,11 +178,5 @@
         "nickname": "rysikovnaaa",
         "booksCount": 0,
         "updatedAt": "2017-08-15 14:13:16"
-    },
-    "217955551-vkontakte": {
-        "id": "217955551-vkontakte",
-        "nickname": "Aki-A",
-        "booksCount": 0,
-        "updatedAt": "2017-08-15 09:28:54"
     }
 }
