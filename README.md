@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
+    > Система все равно победит. В любом случае. При любом раскладе. Смысла сопротивляться нет. Никакого "хеппи энда"
+
 * Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
     > Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Слабонервным лучше от прочтения отказаться, сами аборты и их последствия описаны очень подробно (с позиции судмедэксперта). Ожидала от книги чисто медицинского повествования, но каждый аборт сопровождается лирическим отступлением - предысторией, которая привела женщину к решению сделать этот самый аборт.
 
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
-    > Книга 4
 
 * Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Власть кукол ~ [Derek777](users/153/15386028-yandex)<sup>39</sup>
 
-* Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Victoria](users/113/113794223924688167852-google)<sup>31</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>34</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>266</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
 [lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
 [nanzanova](users/112/11205797-vkontakte)<sup>0</sup> 
-[Poster](users/192/192099707915275-facebook)<sup>0</sup> 
 
 
-_22.08.2017 22:44:23_
+_23.08.2017 05:58:47_
