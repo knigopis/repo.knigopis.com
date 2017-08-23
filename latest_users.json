@@ -1,4 +1,10 @@
 {
+    "2066842540256607-facebook": {
+        "id": "2066842540256607-facebook",
+        "nickname": "Osipka",
+        "booksCount": 0,
+        "updatedAt": "2017-08-23 06:10:10"
+    },
     "113794223924688167852-google": {
         "id": "113794223924688167852-google",
         "nickname": "Victoria",
@@ -172,11 +178,5 @@
         "nickname": "lenbon",
         "booksCount": 0,
         "updatedAt": "2017-08-15 05:20:25"
-    },
-    "11205797-vkontakte": {
-        "id": "11205797-vkontakte",
-        "nickname": "nanzanova",
-        "booksCount": 0,
-        "updatedAt": "2017-08-14 21:40:29"
     }
 }
