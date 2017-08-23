@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
+    > Странная книга, идея понравилась, реализация могла бы быть интереснее, на мой взгляд. Читал, пока ехал в автобусе 30 часов подряд.
+
 * 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
     > Система все равно победит. В любом случае. При любом раскладе. Смысла сопротивляться нет. Никакого "хеппи энда"
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.
 
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
-    > Слабонервным лучше от прочтения отказаться, сами аборты и их последствия описаны очень подробно (с позиции судмедэксперта). Ожидала от книги чисто медицинского повествования, но каждый аборт сопровождается лирическим отступлением - предысторией, которая привела женщину к решению сделать этот самый аборт.
 
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шизофреник Джимми ~ [Derek777](users/153/15386028-yandex)<sup>40</sup>
 
-* Власть кукол ~ [Derek777](users/153/15386028-yandex)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup> 
 [Osipka](users/206/2066842540256607-facebook)<sup>0</sup> 
 [Victoria](users/113/113794223924688167852-google)<sup>31</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>37</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>75</sup> 
 [rysikovnaaa](users/132/132828861-vkontakte)<sup>0</sup> 
 [Aki-A](users/217/217955551-vkontakte)<sup>0</sup> 
-[lenbon](users/152/1528310424149493-facebook)<sup>0</sup> 
 
 
-_23.08.2017 06:10:12_
+_23.08.2017 07:38:39_
