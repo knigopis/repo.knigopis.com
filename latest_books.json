@@ -1,4 +1,16 @@
 {
+    "mp3rpiwJ5Q": {
+        "id": "mp3rpiwJ5Q",
+        "title": "Пикник на обочине",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2017-08-23 15:42:59",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 27
+        }
+    },
     "u2GR8oOZ_z": {
         "id": "u2GR8oOZ_z",
         "title": "Люди в красном",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 41
-        }
-    },
-    "zna6C4906T": {
-        "id": "zna6C4906T",
-        "title": "Шизофреник Джимми",
-        "author": "Фриц Лейбер",
-        "notes": "Короткий. ебанулся на почве зависти .5 из 10.",
-        "createdAt": "2017-08-19 03:33:21",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 40
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "10202544960024508-facebook": {
+        "id": "10202544960024508-facebook",
+        "nickname": "Beaviska",
+        "booksCount": 27,
+        "updatedAt": "2017-08-23 15:42:59"
+    },
     "117610692589681650326-google": {
         "id": "117610692589681650326-google",
         "nickname": "Sean1s",
@@ -172,11 +178,5 @@
         "nickname": "International master",
         "booksCount": 75,
         "updatedAt": "2017-08-15 15:15:20"
-    },
-    "132828861-vkontakte": {
-        "id": "132828861-vkontakte",
-        "nickname": "rysikovnaaa",
-        "booksCount": 0,
-        "updatedAt": "2017-08-15 14:13:16"
     }
 }
