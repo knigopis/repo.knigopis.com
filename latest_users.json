@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 23,
+        "updatedAt": "2017-08-24 15:27:29"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -94,12 +100,6 @@
         "nickname": "EsterHani",
         "booksCount": 125,
         "updatedAt": "2017-08-20 17:51:26"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 22,
-        "updatedAt": "2017-08-20 15:53:02"
     },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
