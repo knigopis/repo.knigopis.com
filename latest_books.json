@@ -1,4 +1,16 @@
 {
+    "tnCfp53ySK": {
+        "id": "tnCfp53ySK",
+        "title": "Философия DevOps. Искусство управления IT",
+        "author": "Дженнифер Дэвис, Кэтрин Дэниелс",
+        "notes": "",
+        "createdAt": "2017-08-24 19:37:09",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 56
+        }
+    },
     "Zx3L8UVWOu": {
         "id": "Zx3L8UVWOu",
         "title": "The DevOps 2.0 Toolkit",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 558
-        }
-    },
-    "x0AoKBSTB1": {
-        "id": "x0AoKBSTB1",
-        "title": "Пан Володыёвский",
-        "author": "Генрик Сенкевич",
-        "notes": "",
-        "createdAt": "2017-08-19 05:44:15",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 557
         }
     }
 }
