@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>55</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>23</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>108</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>117</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
 
 
-_24.08.2017 15:27:29_
+_24.08.2017 19:34:11_

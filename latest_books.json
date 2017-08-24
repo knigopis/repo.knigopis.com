@@ -1,4 +1,16 @@
 {
+    "Zx3L8UVWOu": {
+        "id": "Zx3L8UVWOu",
+        "title": "The DevOps 2.0 Toolkit",
+        "author": "Viktor Farcic",
+        "notes": "",
+        "createdAt": "2017-08-24 19:34:11",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 55
+        }
+    },
     "Et59RMdnd6": {
         "id": "Et59RMdnd6",
         "title": "101 способ раскрутки личного бренда. Как сделать себе имя",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 557
-        }
-    },
-    "iQ8qhLR7rw": {
-        "id": "iQ8qhLR7rw",
-        "title": "Полдень, ХХІІ век",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-08-19 05:16:23",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 556
         }
     }
 }
