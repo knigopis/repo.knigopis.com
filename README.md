@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 [Vadik](users/113/113276117639820843949-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup> 
-[International master](users/741/74140988-vkontakte)<sup>75</sup> 
 
 
-_23.08.2017 15:42:59_
+_24.08.2017 01:40:01_

@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 2,
+        "updatedAt": "2017-08-24 01:40:01"
+    },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",
         "nickname": "Beaviska",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 118,
         "updatedAt": "2017-08-16 19:52:41"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 75,
-        "updatedAt": "2017-08-15 15:15:20"
     }
 }
