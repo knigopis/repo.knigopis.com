@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>107</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>108</sup>
 ---
 
 ## 2017
+
+### Танец с драконами. Книга 1. Грёзы и пыль
+Джордж Мартин
+> [2017-08-24] 
+
 
 ### Пир Стервятников
 Джордж Мартин
