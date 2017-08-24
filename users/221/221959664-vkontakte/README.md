@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>116</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>117</sup>
 ---
 
 ## 2017
+
+### Наследник Империи
+Тимоти Зан
+> [2017-08-23] 
+
 
 ### Вор времени
 Терри Пратчетт

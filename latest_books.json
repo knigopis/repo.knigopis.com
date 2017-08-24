@@ -1,4 +1,16 @@
 {
+    "CbBq-hGGFe": {
+        "id": "CbBq-hGGFe",
+        "title": "Наследник Империи",
+        "author": "Тимоти Зан",
+        "notes": "",
+        "createdAt": "2017-08-24 07:29:56",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 117
+        }
+    },
     "_TfF8k9voS": {
         "id": "_TfF8k9voS",
         "title": "Эгоистичный ген",
@@ -345,18 +357,6 @@
             "id": "15386028-yandex",
             "nickname": "Derek777",
             "booksCount": 43
-        }
-    },
-    "bfZ8jNu3x_": {
-        "id": "bfZ8jNu3x_",
-        "title": "Я ищу Джефа",
-        "author": "Фриц Лейбер",
-        "notes": "Короткий. Призрак девушки добился смерти преступника. 5 из 10.",
-        "createdAt": "2017-08-19 03:36:56",
-        "user": {
-            "id": "15386028-yandex",
-            "nickname": "Derek777",
-            "booksCount": 42
         }
     }
 }
