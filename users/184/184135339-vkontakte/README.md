@@ -1,12 +1,7 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>3</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>2</sup>
 ---
 
 ## 2017
-
-### Эгоистичный ген
-Ричард Докинз
-> [2017-08-24] 
-
 
 ### Эгоистичный ген
 Ричард Докинз
