@@ -1,4 +1,10 @@
 {
+    "256113809-yandex": {
+        "id": "256113809-yandex",
+        "nickname": "aunum",
+        "booksCount": 0,
+        "updatedAt": "2017-08-25 12:05:53"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "daria_parfenova",
         "booksCount": 0,
         "updatedAt": "2017-08-17 19:21:12"
-    },
-    "113276117639820843949-google": {
-        "id": "113276117639820843949-google",
-        "nickname": "Vadik",
-        "booksCount": 0,
-        "updatedAt": "2017-08-17 08:37:15"
     }
 }
