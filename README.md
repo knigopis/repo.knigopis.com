@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[aunum](users/256/256113809-yandex)<sup>4</sup> 
+[aunum](users/256/256113809-yandex)<sup>5</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>56</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>23</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [daria_parfenova](users/385/3856663-vkontakte)<sup>0</sup> 
 
 
-_25.08.2017 12:14:23_
+_25.08.2017 12:15:36_
