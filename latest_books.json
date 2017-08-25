@@ -1,4 +1,16 @@
 {
+    "S_3IxQy3FH": {
+        "id": "S_3IxQy3FH",
+        "title": "Удушье",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-08-25 12:32:43",
+        "user": {
+            "id": "256113809-yandex",
+            "nickname": "aunum",
+            "booksCount": 9
+        }
+    },
     "_xho07yxpP": {
         "id": "_xho07yxpP",
         "title": "Бойцовский Клуб",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 22
-        }
-    },
-    "vAbsnQ779G": {
-        "id": "vAbsnQ779G",
-        "title": "Трилогия левиофан, Заводная",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-20 13:47:24",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 55
         }
     }
 }
