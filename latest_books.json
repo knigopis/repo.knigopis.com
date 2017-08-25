@@ -1,4 +1,16 @@
 {
+    "8HdDqMmETu": {
+        "id": "8HdDqMmETu",
+        "title": "Гарри Поттер и философский камень",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-08-25 12:12:29",
+        "user": {
+            "id": "256113809-yandex",
+            "nickname": "aunum",
+            "booksCount": 1
+        }
+    },
     "tnCfp53ySK": {
         "id": "tnCfp53ySK",
         "title": "Философия DevOps. Искусство управления IT",
@@ -345,18 +357,6 @@
             "id": "70865766-vkontakte",
             "nickname": "volkova220896",
             "booksCount": 1
-        }
-    },
-    "agtkDwUg0A": {
-        "id": "agtkDwUg0A",
-        "title": "Потоп",
-        "author": "Генрик Сенкевич",
-        "notes": "",
-        "createdAt": "2017-08-19 05:46:03",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 558
         }
     }
 }
