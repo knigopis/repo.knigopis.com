@@ -1,4 +1,16 @@
 {
+    "wNbd9qS5ps": {
+        "id": "wNbd9qS5ps",
+        "title": "Гарри Поттер и Кубок Огня",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-08-25 12:14:23",
+        "user": {
+            "id": "256113809-yandex",
+            "nickname": "aunum",
+            "booksCount": 4
+        }
+    },
     "cmxEySM4pV": {
         "id": "cmxEySM4pV",
         "title": "Гарри Поттер и Узник Азкабана",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 106
-        }
-    },
-    "dRYgU7oasc": {
-        "id": "dRYgU7oasc",
-        "title": "Совершенные вопросы, совершенные ответы",
-        "author": "А. Ч. Бхактиведанта Свами Прабхупада",
-        "notes": "",
-        "createdAt": "2017-08-19 16:24:22",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 36
         }
     }
 }
