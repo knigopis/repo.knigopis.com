@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
+    > Хорошая книга для хороших специалистов :)
+    > 
+    > https://www.ozon.ru/context/detail/id/5288956/
+    > 
+    > В процессе
+
 * Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
     > Странная книга, идея понравилась, реализация могла бы быть интереснее, на мой взгляд. Читал, пока ехал в автобусе 30 часов подряд.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Система все равно победит. В любом случае. При любом раскладе. Смысла сопротивляться нет. Никакого "хеппи энда"
 
 * Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
-    > Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.
 
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Чёрный гондольер ~ [Derek777](users/153/15386028-yandex)<sup>41</sup>
 
-* Шизофреник Джимми ~ [Derek777](users/153/15386028-yandex)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
@@ -62,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>558</sup> 
 [Derek777](users/153/15386028-yandex)<sup>44</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 
 
-_26.08.2017 11:37:07_
+_26.08.2017 12:03:44_

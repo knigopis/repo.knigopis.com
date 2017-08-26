@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 119,
+        "updatedAt": "2017-08-26 12:03:44"
+    },
     "140966150-vkontakte": {
         "id": "140966150-vkontakte",
         "nickname": "mfevralev",
@@ -172,11 +178,5 @@
         "nickname": "Derek777",
         "booksCount": 44,
         "updatedAt": "2017-08-19 03:41:32"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 30,
-        "updatedAt": "2017-08-18 20:44:10"
     }
 }
