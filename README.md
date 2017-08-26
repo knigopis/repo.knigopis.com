@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>3</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 [aunum](users/256/256113809-yandex)<sup>10</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 
 
-_26.08.2017 03:46:02_
+_26.08.2017 03:46:14_
