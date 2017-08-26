@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>56</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>23</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>108</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>117</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>44</sup> 
 
 
-_26.08.2017 12:03:44_
+_26.08.2017 15:39:43_

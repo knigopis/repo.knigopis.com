@@ -1,4 +1,16 @@
 {
+    "OchIBT1X8w": {
+        "id": "OchIBT1X8w",
+        "title": "Грозовой Перевал",
+        "author": "Эмили Бронте",
+        "notes": "",
+        "createdAt": "2017-08-26 15:39:43",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 109
+        }
+    },
     "oqNXcJZqLT": {
         "id": "oqNXcJZqLT",
         "title": "Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию",
@@ -345,18 +357,6 @@
             "id": "217731382-twitter",
             "nickname": "polbatona",
             "booksCount": 2
-        }
-    },
-    "IRbFsXzTlC": {
-        "id": "IRbFsXzTlC",
-        "title": "Пиранья-1. Первый бросок",
-        "author": "Бушков Александр",
-        "notes": "",
-        "createdAt": "2017-08-21 17:07:21",
-        "user": {
-            "id": "217731382-twitter",
-            "nickname": "polbatona",
-            "booksCount": 1
         }
     }
 }
