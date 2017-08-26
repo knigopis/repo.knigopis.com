@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 [aunum](users/256/256113809-yandex)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Derek777](users/153/15386028-yandex)<sup>44</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>30</sup> 
 [Лела Папава](users/761/76187635-vkontakte)<sup>304</sup> 
-[SMedgaus](users/162/162444669-vkontakte)<sup>9</sup> 
 
 
-_26.08.2017 03:46:14_
+_26.08.2017 06:16:43_
