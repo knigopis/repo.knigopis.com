@@ -1,13 +1,13 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru)<sup>118</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>118</sup>
 ---
 
 ## 2017
 
 ### Как создать продукт, который купят. Метод Lean Customer Development
 Синди Альварес
-> [2017-08-16] https://www.ozon.ru/context/detail/id/34432645/
+> [2017-08-22] Отличное практическое дополнение к книге Роба Фитцпатрика "Спроси маму", и по уму должна читаться вместе с ней.
 > 
-> в процессе
+> https://www.ozon.ru/context/detail/id/34432645/
 
 
 ### Психология влияния. Как научиться убеждать и добиваться успеха
