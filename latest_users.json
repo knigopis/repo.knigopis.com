@@ -1,4 +1,10 @@
 {
+    "101880512594835835667-google": {
+        "id": "101880512594835835667-google",
+        "nickname": "xoyk",
+        "booksCount": 0,
+        "updatedAt": "2017-08-26 06:16:41"
+    },
     "184135339-vkontakte": {
         "id": "184135339-vkontakte",
         "nickname": "darb_el",
@@ -172,11 +178,5 @@
         "nickname": "Лела Папава",
         "booksCount": 304,
         "updatedAt": "2017-08-18 20:36:01"
-    },
-    "162444669-vkontakte": {
-        "id": "162444669-vkontakte",
-        "nickname": "SMedgaus",
-        "booksCount": 9,
-        "updatedAt": "2017-08-18 11:20:07"
     }
 }
