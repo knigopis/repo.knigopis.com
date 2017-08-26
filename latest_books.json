@@ -1,4 +1,16 @@
 {
+    "MzR8wWjqdc": {
+        "id": "MzR8wWjqdc",
+        "title": "Казачья надежда 1971 №1 нет нечего интересного",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-08-26 11:37:06",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 25
+        }
+    },
     "KGd3a9MrEB": {
         "id": "KGd3a9MrEB",
         "title": "Эгоистичный ген",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 147
-        }
-    },
-    "-PRJDXfA-g": {
-        "id": "-PRJDXfA-g",
-        "title": "Дина: Последний дракон",
-        "author": "Лине Кобербёль",
-        "notes": "Книга 4",
-        "createdAt": "2017-08-20 17:51:26",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 125
         }
     }
 }

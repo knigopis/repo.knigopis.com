@@ -1,4 +1,10 @@
 {
+    "140966150-vkontakte": {
+        "id": "140966150-vkontakte",
+        "nickname": "mfevralev",
+        "booksCount": 25,
+        "updatedAt": "2017-08-26 11:37:06"
+    },
     "101880512594835835667-google": {
         "id": "101880512594835835667-google",
         "nickname": "xoyk",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 30,
         "updatedAt": "2017-08-18 20:44:10"
-    },
-    "76187635-vkontakte": {
-        "id": "76187635-vkontakte",
-        "nickname": "Лела Папава",
-        "booksCount": 304,
-        "updatedAt": "2017-08-18 20:36:01"
     }
 }
