@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
+    > Война между Севером и Югом, семейство Марч потеряло все свое состояние, отец ушел на войну, мать и 4 дочки выживают несмотря на все тяготы. книга на пятерочку по десяти бальной шкале.
+
 * Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
     > Хорошая книга для хороших специалистов :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Странная книга, идея понравилась, реализация могла бы быть интереснее, на мой взгляд. Читал, пока ехал в автобусе 30 часов подряд.
 
 * 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
-    > Система все равно победит. В любом случае. При любом раскладе. Смысла сопротивляться нет. Никакого "хеппи энда"
 
 * Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
 
-* Чёрный гондольер ~ [Derek777](users/153/15386028-yandex)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>148</sup> 
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>118</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
 [polbatona](users/217/217731382-twitter)<sup>3</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>147</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
 [Bahh Tee](users/129/12914691089881846147-mailru)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 
 
-_27.08.2017 09:29:29_
+_27.08.2017 14:16:07_

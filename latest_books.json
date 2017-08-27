@@ -1,4 +1,16 @@
 {
+    "YVgmWG4sp3": {
+        "id": "YVgmWG4sp3",
+        "title": "Маленькие женщины",
+        "author": "Олкотт, Луиза Мэй",
+        "notes": "Война между Севером и Югом, семейство Марч потеряло все свое состояние, отец ушел на войну, мать и 4 дочки выживают несмотря на все тяготы. книга на пятерочку по десяти бальной шкале.",
+        "createdAt": "2017-08-27 14:16:06",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 148
+        }
+    },
     "b7pBRofJke": {
         "id": "b7pBRofJke",
         "title": "Rework",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 116
-        }
-    },
-    "SZRFT3yA3U": {
-        "id": "SZRFT3yA3U",
-        "title": "EmpireV",
-        "author": "Пелевин",
-        "notes": "",
-        "createdAt": "2017-08-21 20:22:42",
-        "user": {
-            "id": "173746684-vkontakte",
-            "nickname": "plinapolina",
-            "booksCount": 64
         }
     }
 }
