@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лолита ~ [Ангелина](users/837/83788782-vkontakte)<sup>54</sup>
+    > Ура, Господи. Неужели я её дочитала. Начало затянуло сразу до самой середины, но вот всё остальное..я мучила оставшуюся половину 2 месяца, Когда первая влилась за несколько дней. Вот и выводы можно сделать соответствующие.
+
 * Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
     > Война между Севером и Югом, семейство Марч потеряло все свое состояние, отец ушел на войну, мать и 4 дочки выживают несмотря на все тяготы. книга на пятерочку по десяти бальной шкале.
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
-    > Странная книга, идея понравилась, реализация могла бы быть интереснее, на мой взгляд. Читал, пока ехал в автобусе 30 часов подряд.
 
 * 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
 
-* Я ищу Джефа ~ [Derek777](users/153/15386028-yandex)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>148</sup> 
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>118</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
 [Bahh Tee](users/129/12914691089881846147-mailru)<sup>0</sup> 
 [Dan TJ](users/100/100002538519893-facebook)<sup>0</sup> 
-[volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 
 
-_27.08.2017 14:16:07_
+_27.08.2017 16:49:26_

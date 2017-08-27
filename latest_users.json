@@ -1,4 +1,10 @@
 {
+    "83788782-vkontakte": {
+        "id": "83788782-vkontakte",
+        "nickname": "Ангелина",
+        "booksCount": 54,
+        "updatedAt": "2017-08-27 16:49:26"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Dan TJ",
         "booksCount": 0,
         "updatedAt": "2017-08-19 10:24:43"
-    },
-    "70865766-vkontakte": {
-        "id": "70865766-vkontakte",
-        "nickname": "volkova220896",
-        "booksCount": 2,
-        "updatedAt": "2017-08-19 09:42:46"
     }
 }
