@@ -1,4 +1,16 @@
 {
+    "WcE8JknjhB": {
+        "id": "WcE8JknjhB",
+        "title": "Закон волков",
+        "author": "Дороти Хрест",
+        "notes": "",
+        "createdAt": "2017-08-27 07:28:53",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 118
+        }
+    },
     "OchIBT1X8w": {
         "id": "OchIBT1X8w",
         "title": "Грозовой Перевал",
@@ -345,18 +357,6 @@
             "id": "217731382-twitter",
             "nickname": "polbatona",
             "booksCount": 3
-        }
-    },
-    "o_hc1upw13": {
-        "id": "o_hc1upw13",
-        "title": "Пиранья-2. Звезда на волнах",
-        "author": "Бушков Александр",
-        "notes": "",
-        "createdAt": "2017-08-21 17:08:10",
-        "user": {
-            "id": "217731382-twitter",
-            "nickname": "polbatona",
-            "booksCount": 2
         }
     }
 }

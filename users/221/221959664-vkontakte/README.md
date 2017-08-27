@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>117</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>118</sup>
 ---
 
 ## 2017
@@ -589,6 +589,11 @@
 ### Лунный зверь
 Гарри Килворт
 > [2015-12-18] 
+
+
+### Закон волков
+Дороти Хрест
+> [2015-12-15] 
 
 
 
