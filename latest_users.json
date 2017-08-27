@@ -1,4 +1,10 @@
 {
+    "147803718-vkontakte": {
+        "id": "147803718-vkontakte",
+        "nickname": "bensar",
+        "booksCount": 0,
+        "updatedAt": "2017-08-27 02:37:35"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 558,
         "updatedAt": "2017-08-19 05:46:03"
-    },
-    "15386028-yandex": {
-        "id": "15386028-yandex",
-        "nickname": "Derek777",
-        "booksCount": 44,
-        "updatedAt": "2017-08-19 03:41:32"
     }
 }
