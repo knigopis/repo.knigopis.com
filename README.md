@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dan TJ](users/100/100002538519893-facebook)<sup>0</sup> 
 [volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>558</sup> 
-[Derek777](users/153/15386028-yandex)<sup>44</sup> 
 
 
-_26.08.2017 15:39:43_
+_27.08.2017 02:37:38_
