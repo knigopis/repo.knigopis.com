@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Yara](users/115/115029246654538634506-google)<sup>1</sup> 
+[Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>118</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [volkova220896](users/708/70865766-vkontakte)<sup>2</sup> 
 
 
-_27.08.2017 09:29:18_
+_27.08.2017 09:29:29_
