@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>118</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>119</sup>
 ---
 
 ## 2017
+
+### Темное воинство
+Тимоти Зан
+> [2017-08-27] 
+
 
 ### Наследник Империи
 Тимоти Зан
