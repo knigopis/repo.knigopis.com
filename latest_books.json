@@ -1,4 +1,16 @@
 {
+    "a7vUMTce1l": {
+        "id": "a7vUMTce1l",
+        "title": "Сметрельный рай",
+        "author": "Линкольн Чайлд",
+        "notes": "",
+        "createdAt": "2017-08-28 05:19:13",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 120
+        }
+    },
     "iAT-pckQau": {
         "id": "iAT-pckQau",
         "title": "Темное воинство",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 37
-        }
-    },
-    "HW6_YNV9iE": {
-        "id": "HW6_YNV9iE",
-        "title": "Это дело мужчин",
-        "author": "Чейз Д. Х.",
-        "notes": "Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.",
-        "createdAt": "2017-08-22 14:58:04",
-        "user": {
-            "id": "114389869162010721507-google",
-            "nickname": "Garri938",
-            "booksCount": 34
         }
     }
 }
