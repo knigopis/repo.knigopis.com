@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>36</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>37</sup>
 ---
 
 ## 2017
+
+### Маленькая жизнь
+Ханья Янагихара
+> [2017-08-28] 
+
 
 ### Дом на краю ночи
 Кэтрин Бэннер

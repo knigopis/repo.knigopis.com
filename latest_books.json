@@ -1,4 +1,16 @@
 {
+    "zmnDAuAoau": {
+        "id": "zmnDAuAoau",
+        "title": "Маленькая жизнь",
+        "author": "Ханья Янагихара",
+        "notes": "",
+        "createdAt": "2017-08-28 18:47:03",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 37
+        }
+    },
     "j8KL1rtPRw": {
         "id": "j8KL1rtPRw",
         "title": "Жаренные зеленые помидоры в кафе Полустанок",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 117
-        }
-    },
-    "mp3rpiwJ5Q": {
-        "id": "mp3rpiwJ5Q",
-        "title": "Пикник на обочине",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2017-08-23 15:42:59",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 27
         }
     }
 }

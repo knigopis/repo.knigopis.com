@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>37</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
 [polbatona](users/217/217731382-twitter)<sup>3</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
 
 
-_28.08.2017 11:24:13_
+_28.08.2017 18:47:03_
