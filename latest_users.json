@@ -1,4 +1,10 @@
 {
+    "524405564573977-facebook": {
+        "id": "524405564573977-facebook",
+        "nickname": "pepethememe",
+        "booksCount": 0,
+        "updatedAt": "2017-08-28 11:24:12"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 9,
         "updatedAt": "2017-08-20 12:04:13"
-    },
-    "12914691089881846147-mailru": {
-        "id": "12914691089881846147-mailru",
-        "nickname": "Bahh Tee",
-        "booksCount": 0,
-        "updatedAt": "2017-08-20 06:53:54"
     }
 }
