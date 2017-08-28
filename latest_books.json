@@ -1,4 +1,16 @@
 {
+    "UKDfdYlJqK": {
+        "id": "UKDfdYlJqK",
+        "title": "Дом на краю ночи",
+        "author": "Кэтрин Бэннер",
+        "notes": "Шикарная книга, от которой просто невозможно оторваться!",
+        "createdAt": "2017-08-28 10:13:38",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 5
+        }
+    },
     "a7vUMTce1l": {
         "id": "a7vUMTce1l",
         "title": "Сметрельный рай",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 31
-        }
-    },
-    "qL2rzvHQdq": {
-        "id": "qL2rzvHQdq",
-        "title": "Психология лжи",
-        "author": "Пол Экман",
-        "notes": "",
-        "createdAt": "2017-08-22 22:44:23",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 37
         }
     }
 }

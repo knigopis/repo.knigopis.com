@@ -1,7 +1,12 @@
-# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>4</sup>
+# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>5</sup>
 ---
 
 ## 2017
+
+### Дом на краю ночи
+Кэтрин Бэннер
+> [2017-08-26] Шикарная книга, от которой просто невозможно оторваться!
+
 
 ### Принеси мне голову Прекрасного принца
 Роджер Желязны

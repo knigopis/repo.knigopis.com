@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом на краю ночи ~ [Элла](users/100/1002037069862545-facebook)<sup>5</sup>
+    > Шикарная книга, от которой просто невозможно оторваться!
+
 * Лолита ~ [Ангелина](users/837/83788782-vkontakte)<sup>54</sup>
     > Ура, Господи. Неужели я её дочитала. Начало затянуло сразу до самой середины, но вот всё остальное..я мучила оставшуюся половину 2 месяца, Когда первая влилась за несколько дней. Вот и выводы можно сделать соответствующие.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > Война между Севером и Югом, семейство Марч потеряло все свое состояние, отец ушел на войну, мать и 4 дочки выживают несмотря на все тяготы. книга на пятерочку по десяти бальной шкале.
 
 * Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
-    > Хорошая книга для хороших специалистов :)
-    > 
-    > https://www.ozon.ru/context/detail/id/5288956/
-    > 
-    > В процессе
 
 * Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
 
-* Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>5</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>148</sup> 
@@ -66,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>9</sup> 
 [Bahh Tee](users/129/12914691089881846147-mailru)<sup>0</sup> 
-[Dan TJ](users/100/100002538519893-facebook)<sup>0</sup> 
 
 
-_28.08.2017 05:19:13_
+_28.08.2017 10:13:38_

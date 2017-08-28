@@ -1,4 +1,16 @@
 {
+    "UKDfdYlJqK": {
+        "id": "UKDfdYlJqK",
+        "title": "Дом на краю ночи",
+        "author": "Кэтрин Бэннер",
+        "notes": "Шикарная книга, от которой просто невозможно оторваться!",
+        "createdAt": "2017-08-28 10:13:38",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 5
+        }
+    },
     "Q_BEFUocJV": {
         "id": "Q_BEFUocJV",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 122
-        }
-    },
-    "xZ0oS9cz8E": {
-        "id": "xZ0oS9cz8E",
-        "title": "Срыв",
-        "author": "Сенчин Роман",
-        "notes": "рассказы. Россия в 90-е.",
-        "createdAt": "2017-08-11 21:01:28",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 27
         }
     }
 }
