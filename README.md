@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Элла](users/100/1002037069862545-facebook)<sup>6</sup> 
+[Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>148</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bahh Tee](users/129/12914691089881846147-mailru)<sup>0</sup> 
 
 
-_28.08.2017 10:14:28_
+_28.08.2017 10:16:44_
