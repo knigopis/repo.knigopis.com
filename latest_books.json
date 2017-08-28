@@ -1,4 +1,16 @@
 {
+    "HFyYffcF3r": {
+        "id": "HFyYffcF3r",
+        "title": "Песни созвездия Гончих Псов",
+        "author": "Охлобыстин Иван",
+        "notes": "Читать Охлобыстина , как есть соль большой ложкой((( Отличный язык, но приправ/специй должно быть мало...",
+        "createdAt": "2017-08-28 19:27:36",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 28
+        }
+    },
     "zmnDAuAoau": {
         "id": "zmnDAuAoau",
         "title": "Маленькая жизнь",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 108
-        }
-    },
-    "CbBq-hGGFe": {
-        "id": "CbBq-hGGFe",
-        "title": "Наследник Империи",
-        "author": "Тимоти Зан",
-        "notes": "",
-        "createdAt": "2017-08-24 07:29:56",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 117
         }
     }
 }

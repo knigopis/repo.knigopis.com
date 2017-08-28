@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Песни созвездия Гончих Псов ~ [Chiffi](users/105/105831994080785626680-google)<sup>28</sup>
+    > Читать Охлобыстина , как есть соль большой ложкой((( Отличный язык, но приправ/специй должно быть мало...
+
 * Дом на краю ночи ~ [Элла](users/100/1002037069862545-facebook)<sup>5</sup>
     > Шикарная книга, от которой просто невозможно оторваться!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ура, Господи. Неужели я её дочитала. Начало затянуло сразу до самой середины, но вот всё остальное..я мучила оставшуюся половину 2 месяца, Когда первая влилась за несколько дней. Вот и выводы можно сделать соответствующие.
 
 * Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
-    > Война между Севером и Югом, семейство Марч потеряло все свое состояние, отец ушел на войну, мать и 4 дочки выживают несмотря на все тяготы. книга на пятерочку по десяти бальной шкале.
 
 * Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
 
-* Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>37</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
 [polbatona](users/217/217731382-twitter)<sup>3</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>125</sup> 
 
 
-_28.08.2017 18:47:03_
+_28.08.2017 19:27:36_
