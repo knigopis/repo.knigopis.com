@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 89,
+        "updatedAt": "2017-08-29 09:43:46"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "plinapolina",
         "booksCount": 64,
         "updatedAt": "2017-08-21 20:22:42"
-    },
-    "217731382-twitter": {
-        "id": "217731382-twitter",
-        "nickname": "polbatona",
-        "booksCount": 3,
-        "updatedAt": "2017-08-21 17:08:28"
     }
 }

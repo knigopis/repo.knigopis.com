@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мелкий бес - Сологуб Фёдор ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup>
+    > Чужие пороки у нас на глазах, а свои — за спиной. © Сенека Луций Анней
+
 * Песни созвездия Гончих Псов ~ [Chiffi](users/105/105831994080785626680-google)<sup>28</sup>
     > Читать Охлобыстина , как есть соль большой ложкой((( Отличный язык, но приправ/специй должно быть мало...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Шикарная книга, от которой просто невозможно оторваться!
 
 * Лолита ~ [Ангелина](users/837/83788782-vkontakte)<sup>54</sup>
-    > Ура, Господи. Неужели я её дочитала. Начало затянуло сразу до самой середины, но вот всё остальное..я мучила оставшуюся половину 2 месяца, Когда первая влилась за несколько дней. Вот и выводы можно сделать соответствующие.
 
 * Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
 
-* Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>37</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>266</sup> 
 [JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
-[polbatona](users/217/217731382-twitter)<sup>3</sup> 
 
 
-_28.08.2017 19:27:36_
+_29.08.2017 09:43:46_

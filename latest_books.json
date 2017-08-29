@@ -1,4 +1,16 @@
 {
+    "bIDM9YDpby": {
+        "id": "bIDM9YDpby",
+        "title": "Мелкий бес - Сологуб Фёдор",
+        "author": "",
+        "notes": "Чужие пороки у нас на глазах, а свои — за спиной. © Сенека Луций Анней",
+        "createdAt": "2017-08-29 09:43:46",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 89
+        }
+    },
     "HFyYffcF3r": {
         "id": "HFyYffcF3r",
         "title": "Песни созвездия Гончих Псов",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 23
-        }
-    },
-    "rdy8-mdK9E": {
-        "id": "rdy8-mdK9E",
-        "title": "Танец с драконами. Книга 1. Грёзы и пыль",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2017-08-24 07:40:47",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 108
         }
     }
 }
