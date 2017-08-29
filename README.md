@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>30</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>34</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>266</sup> 
-[JulieSella](users/118/118258496318783349484-google)<sup>0</sup> 
 
 
-_29.08.2017 15:23:10_
+_29.08.2017 20:34:20_

@@ -1,4 +1,16 @@
 {
+    "FckVLcwL53": {
+        "id": "FckVLcwL53",
+        "title": "1408",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-08-29 20:34:20",
+        "user": {
+            "id": "282662025-vkontakte",
+            "nickname": "Astro",
+            "booksCount": 44
+        }
+    },
     "MNYffFRJzi": {
         "id": "MNYffFRJzi",
         "title": "Кот без прекрас",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 3
-        }
-    },
-    "P9hiY1dyWr": {
-        "id": "P9hiY1dyWr",
-        "title": "Гарри Поттер и Тайная комната",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-08-25 12:13:03",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 2
         }
     }
 }

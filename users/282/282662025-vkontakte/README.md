@@ -1,7 +1,12 @@
-# List of books read by [Astro](http://vk.com/id282662025)<sup>43</sup>
+# List of books read by [Astro](http://vk.com/id282662025)<sup>44</sup>
 ---
 
 ## 2017
+
+### 1408
+Стивен Кинг
+> [2017-08-25] 
+
 
 ### Кладбище домашних животных
 Стивен Кинг
