@@ -1,4 +1,16 @@
 {
+    "8v7Va50j_-": {
+        "id": "8v7Va50j_-",
+        "title": "Кумыки. История, культура, традиции - Атабаев Магомед",
+        "author": "",
+        "notes": "История — учительница жизни. © Цицерон",
+        "createdAt": "2017-08-29 10:01:23",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 91
+        }
+    },
     "_XnvNOVi_C": {
         "id": "_XnvNOVi_C",
         "title": "Я ненавижу драконов - Сандерсон Брендон",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 56
-        }
-    },
-    "Zx3L8UVWOu": {
-        "id": "Zx3L8UVWOu",
-        "title": "The DevOps 2.0 Toolkit",
-        "author": "Viktor Farcic",
-        "notes": "",
-        "createdAt": "2017-08-24 19:34:11",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 55
         }
     }
 }

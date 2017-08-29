@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кумыки. История, культура, традиции - Атабаев Магомед ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup>
+    > История — учительница жизни. © Цицерон
+
 * Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
     > Легко ли быть наживкой для дракона? Конечно, нет! Это же дикая огнедышащая ящерица; она очень умна, проворна и хороша собой. Но что делать бедному Скипу? Он же профессиональная приманка как раз для дракона...
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Чужие пороки у нас на глазах, а свои — за спиной. © Сенека Луций Анней
 
 * Песни созвездия Гончих Псов ~ [Chiffi](users/105/105831994080785626680-google)<sup>28</sup>
-    > Читать Охлобыстина , как есть соль большой ложкой((( Отличный язык, но приправ/специй должно быть мало...
 
 * Дом на краю ночи ~ [Элла](users/100/1002037069862545-facebook)<sup>5</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
 
-* Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>37</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/173/173746684-vkontakte)<sup>64</sup> 
 
 
-_29.08.2017 09:51:46_
+_29.08.2017 10:01:23_
