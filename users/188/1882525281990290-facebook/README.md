@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>29</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>30</sup>
 ---
 
 ## 2017
+
+### Кот без прекрас
+Терри Праттчет
+> [2017-08-29] 
+
 
 ### Маленький принц
 Экзюпери

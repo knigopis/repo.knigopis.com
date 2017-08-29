@@ -1,4 +1,16 @@
 {
+    "MNYffFRJzi": {
+        "id": "MNYffFRJzi",
+        "title": "Кот без прекрас",
+        "author": "Терри Праттчет",
+        "notes": "",
+        "createdAt": "2017-08-29 15:23:10",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 30
+        }
+    },
     "BZdl-zrZeo": {
         "id": "BZdl-zrZeo",
         "title": "Enigma - Харрис Роберт",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 2
-        }
-    },
-    "8HdDqMmETu": {
-        "id": "8HdDqMmETu",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-08-25 12:12:29",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 1
         }
     }
 }
