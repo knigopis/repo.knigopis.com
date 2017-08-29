@@ -1,4 +1,16 @@
 {
+    "BZdl-zrZeo": {
+        "id": "BZdl-zrZeo",
+        "title": "Enigma - Харрис Роберт",
+        "author": "Роман",
+        "notes": "Трое могут сохранить секрет, если двое из них мертвы. © Франклин Бенджамин",
+        "createdAt": "2017-08-29 10:07:35",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 92
+        }
+    },
     "8v7Va50j_-": {
         "id": "8v7Va50j_-",
         "title": "Кумыки. История, культура, традиции - Атабаев Магомед",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 1
-        }
-    },
-    "tnCfp53ySK": {
-        "id": "tnCfp53ySK",
-        "title": "Философия DevOps. Искусство управления IT",
-        "author": "Дженнифер Дэвис, Кэтрин Дэниелс",
-        "notes": "",
-        "createdAt": "2017-08-24 19:37:09",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 56
         }
     }
 }
