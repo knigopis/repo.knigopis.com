@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[DInnaD](users/497/497594403964454-facebook)<sup>1</sup> 
+[DInnaD](users/497/497594403964454-facebook)<sup>2</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>30</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garri938](users/114/114389869162010721507-google)<sup>34</sup> 
 
 
-_30.08.2017 07:10:17_
+_30.08.2017 07:11:05_
