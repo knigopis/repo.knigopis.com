@@ -1,4 +1,10 @@
 {
+    "383251823-vkontakte": {
+        "id": "383251823-vkontakte",
+        "nickname": "jaydee26",
+        "booksCount": 0,
+        "updatedAt": "2017-08-30 17:11:03"
+    },
     "497594403964454-facebook": {
         "id": "497594403964454-facebook",
         "nickname": "DInnaD",
@@ -172,11 +178,5 @@
         "nickname": "Victoria",
         "booksCount": 31,
         "updatedAt": "2017-08-23 05:58:47"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 37,
-        "updatedAt": "2017-08-22 22:44:23"
     }
 }
