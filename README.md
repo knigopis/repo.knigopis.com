@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[DInnaD](users/497/497594403964454-facebook)<sup>0</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>30</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>31</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>34</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>266</sup> 
 
 
-_29.08.2017 20:34:20_
+_30.08.2017 07:09:56_
