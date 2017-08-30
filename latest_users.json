@@ -1,4 +1,10 @@
 {
+    "197654375-vkontakte": {
+        "id": "197654375-vkontakte",
+        "nickname": "nutzi",
+        "booksCount": 0,
+        "updatedAt": "2017-08-30 09:26:49"
+    },
     "497594403964454-facebook": {
         "id": "497594403964454-facebook",
         "nickname": "DInnaD",
@@ -172,11 +178,5 @@
         "nickname": "idsimonbell",
         "booksCount": 37,
         "updatedAt": "2017-08-22 22:44:23"
-    },
-    "114389869162010721507-google": {
-        "id": "114389869162010721507-google",
-        "nickname": "Garri938",
-        "booksCount": 34,
-        "updatedAt": "2017-08-22 14:58:04"
     }
 }
