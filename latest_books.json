@@ -1,4 +1,16 @@
 {
+    "v307rKUFmD": {
+        "id": "v307rKUFmD",
+        "title": "Хроники Амбера",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2017-08-30 09:29:17",
+        "user": {
+            "id": "197654375-vkontakte",
+            "nickname": "nutzi",
+            "booksCount": 1
+        }
+    },
     "3_3MtvPkOi": {
         "id": "3_3MtvPkOi",
         "title": "vng",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 7
-        }
-    },
-    "J6_Tx9SJvT": {
-        "id": "J6_Tx9SJvT",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-08-25 12:18:37",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 6
         }
     }
 }
