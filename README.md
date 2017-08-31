@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
 [DInnaD](users/497/497594403964454-facebook)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup> 
 [Osipka](users/206/2066842540256607-facebook)<sup>0</sup> 
-[Victoria](users/113/113794223924688167852-google)<sup>31</sup> 
 
 
-_31.08.2017 04:19:33_
+_31.08.2017 15:48:33_
