@@ -1,4 +1,10 @@
 {
+    "431531313-vkontakte": {
+        "id": "431531313-vkontakte",
+        "nickname": "IgorTichomirov",
+        "booksCount": 0,
+        "updatedAt": "2017-08-31 21:21:30"
+    },
     "283147557-vkontakte": {
         "id": "283147557-vkontakte",
         "nickname": "anariel.liholesskaya",
@@ -172,11 +178,5 @@
         "nickname": "Vivo_Turdo",
         "booksCount": 2,
         "updatedAt": "2017-08-23 07:38:39"
-    },
-    "2066842540256607-facebook": {
-        "id": "2066842540256607-facebook",
-        "nickname": "Osipka",
-        "booksCount": 0,
-        "updatedAt": "2017-08-23 06:10:10"
     }
 }
