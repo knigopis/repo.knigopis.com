@@ -1,4 +1,10 @@
 {
+    "283147557-vkontakte": {
+        "id": "283147557-vkontakte",
+        "nickname": "anariel.liholesskaya",
+        "booksCount": 0,
+        "updatedAt": "2017-08-31 15:48:27"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "Osipka",
         "booksCount": 0,
         "updatedAt": "2017-08-23 06:10:10"
-    },
-    "113794223924688167852-google": {
-        "id": "113794223924688167852-google",
-        "nickname": "Victoria",
-        "booksCount": 31,
-        "updatedAt": "2017-08-23 05:58:47"
     }
 }
