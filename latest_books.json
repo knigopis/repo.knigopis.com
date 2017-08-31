@@ -1,4 +1,16 @@
 {
+    "W2tmnl-ehV": {
+        "id": "W2tmnl-ehV",
+        "title": "17 обновление 6-7",
+        "author": "Георгий Смородинский",
+        "notes": "Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни",
+        "createdAt": "2017-08-31 04:19:33",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 55
+        }
+    },
     "jCAA55YApZ": {
         "id": "jCAA55YApZ",
         "title": "vng",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 8
-        }
-    },
-    "1-1bMNFhaO": {
-        "id": "1-1bMNFhaO",
-        "title": "Гарри Поттер и  Дары Смерти",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2017-08-25 12:19:21",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 7
         }
     }
 }

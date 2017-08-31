@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
+    > Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни
+
 * Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
     > Трое могут сохранить секрет, если двое из них мертвы. © Франклин Бенджамин
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История — учительница жизни. © Цицерон
 
 * Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
-    > Легко ли быть наживкой для дракона? Конечно, нет! Это же дикая огнедышащая ящерица; она очень умна, проворна и хороша собой. Но что делать бедному Скипу? Он же профессиональная приманка как раз для дракона...
 
 * Мелкий бес - Сологуб Фёдор ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
 
-* Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
 [DInnaD](users/497/497594403964454-facebook)<sup>5</sup> 
 [nutzi](users/197/197654375-vkontakte)<sup>1</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 [aunum](users/256/256113809-yandex)<sup>10</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>54</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>56</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>23</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Victoria](users/113/113794223924688167852-google)<sup>31</sup> 
 
 
-_30.08.2017 17:11:05_
+_31.08.2017 04:19:33_
