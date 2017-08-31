@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
 [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup> 
-[Osipka](users/206/2066842540256607-facebook)<sup>0</sup> 
 
 
-_31.08.2017 15:48:33_
+_31.08.2017 21:21:34_
