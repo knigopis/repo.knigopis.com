@@ -1,4 +1,16 @@
 {
+    "3lO2tDxYXU": {
+        "id": "3lO2tDxYXU",
+        "title": "2",
+        "author": "2",
+        "notes": "",
+        "createdAt": "2017-09-01 10:37:16",
+        "user": {
+            "id": "4688100-vkontakte",
+            "nickname": "xenus206",
+            "booksCount": 2
+        }
+    },
     "M19KcZ6Tce": {
         "id": "M19KcZ6Tce",
         "title": "1",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 10
-        }
-    },
-    "S_3IxQy3FH": {
-        "id": "S_3IxQy3FH",
-        "title": "Удушье",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-08-25 12:32:43",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 9
         }
     }
 }
