@@ -1,4 +1,10 @@
 {
+    "4688100-vkontakte": {
+        "id": "4688100-vkontakte",
+        "nickname": "xenus206",
+        "booksCount": 0,
+        "updatedAt": "2017-09-01 10:35:55"
+    },
     "431531313-vkontakte": {
         "id": "431531313-vkontakte",
         "nickname": "IgorTichomirov",
@@ -172,11 +178,5 @@
         "nickname": "Sean1s",
         "booksCount": 0,
         "updatedAt": "2017-08-23 10:48:45"
-    },
-    "115154203761453486437-google": {
-        "id": "115154203761453486437-google",
-        "nickname": "Vivo_Turdo",
-        "booksCount": 2,
-        "updatedAt": "2017-08-23 07:38:39"
     }
 }
