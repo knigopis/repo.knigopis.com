@@ -1,4 +1,16 @@
 {
+    "M19KcZ6Tce": {
+        "id": "M19KcZ6Tce",
+        "title": "1",
+        "author": "1",
+        "notes": "",
+        "createdAt": "2017-09-01 10:36:47",
+        "user": {
+            "id": "4688100-vkontakte",
+            "nickname": "xenus206",
+            "booksCount": 1
+        }
+    },
     "W2tmnl-ehV": {
         "id": "W2tmnl-ehV",
         "title": "17 обновление 6-7",
@@ -345,18 +357,6 @@
             "id": "256113809-yandex",
             "nickname": "aunum",
             "booksCount": 9
-        }
-    },
-    "_xho07yxpP": {
-        "id": "_xho07yxpP",
-        "title": "Бойцовский Клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-08-25 12:32:11",
-        "user": {
-            "id": "256113809-yandex",
-            "nickname": "aunum",
-            "booksCount": 8
         }
     }
 }
