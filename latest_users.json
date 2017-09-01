@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 24,
+        "updatedAt": "2017-09-01 16:03:12"
+    },
     "4688100-vkontakte": {
         "id": "4688100-vkontakte",
         "nickname": "xenus206",
@@ -160,12 +166,6 @@
         "nickname": "ODINSY",
         "booksCount": 56,
         "updatedAt": "2017-08-24 19:37:09"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 23,
-        "updatedAt": "2017-08-24 15:27:29"
     },
     "10202544960024508-facebook": {
         "id": "10202544960024508-facebook",

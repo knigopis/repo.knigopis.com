@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>24</sup> 
 [xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 [IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 [aunum](users/256/256113809-yandex)<sup>10</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>56</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>23</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>27</sup> 
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
 
 
-_01.09.2017 10:39:12_
+_01.09.2017 16:03:12_

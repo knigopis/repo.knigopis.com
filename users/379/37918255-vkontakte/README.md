@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>23</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>24</sup>
 ---
 
 ## 2017
+
+### Меняем привычки
+М. Дж. Райан
+> [2017-08-31] 5
+
 
 ### 101 способ раскрутки личного бренда. Как сделать себе имя
 Вячеслав Семенчук
