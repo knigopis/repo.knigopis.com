@@ -1,4 +1,16 @@
 {
+    "KJFeZrMkd4": {
+        "id": "KJFeZrMkd4",
+        "title": "Катрин Блюм.",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2017-09-01 16:29:49",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 311
+        }
+    },
     "bhCO61GGO1": {
         "id": "bhCO61GGO1",
         "title": "К черту всё! Берись и делай!",
@@ -345,18 +357,6 @@
             "id": "140966150-vkontakte",
             "nickname": "mfevralev",
             "booksCount": 25
-        }
-    },
-    "KGd3a9MrEB": {
-        "id": "KGd3a9MrEB",
-        "title": "Эгоистичный ген",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2017-08-26 03:46:02",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 3
         }
     }
 }

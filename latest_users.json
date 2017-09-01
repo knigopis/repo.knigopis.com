@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 311,
+        "updatedAt": "2017-09-01 16:29:49"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 27,
         "updatedAt": "2017-08-23 15:42:59"
-    },
-    "117610692589681650326-google": {
-        "id": "117610692589681650326-google",
-        "nickname": "Sean1s",
-        "booksCount": 0,
-        "updatedAt": "2017-08-23 10:48:45"
     }
 }
