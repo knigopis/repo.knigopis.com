@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[xenus206](users/468/4688100-vkontakte)<sup>1</sup> 
+[xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 [IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sean1s](users/117/117610692589681650326-google)<sup>0</sup> 
 
 
-_01.09.2017 10:39:08_
+_01.09.2017 10:39:12_
