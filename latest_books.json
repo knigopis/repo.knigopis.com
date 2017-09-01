@@ -1,4 +1,16 @@
 {
+    "bhCO61GGO1": {
+        "id": "bhCO61GGO1",
+        "title": "К черту всё! Берись и делай!",
+        "author": "Ричард Брэнсон",
+        "notes": "4",
+        "createdAt": "2017-09-01 16:04:41",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 25
+        }
+    },
     "F6iAh7rh6A": {
         "id": "F6iAh7rh6A",
         "title": "Меняем привычки",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 3
-        }
-    },
-    "VWmyLtBmmY": {
-        "id": "VWmyLtBmmY",
-        "title": "Дом, в котором...",
-        "author": "Мариам Петросян",
-        "notes": "",
-        "createdAt": "2017-08-25 20:14:31",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 32
         }
     }
 }
