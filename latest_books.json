@@ -1,4 +1,16 @@
 {
+    "3R9yIV_Goz": {
+        "id": "3R9yIV_Goz",
+        "title": "Артемис Фаул: Миссия в Арктику",
+        "author": "Йон Колфер",
+        "notes": "Книга 2",
+        "createdAt": "2017-09-02 14:14:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 127
+        }
+    },
     "JZorxUv9F_": {
         "id": "JZorxUv9F_",
         "title": "Артемис Фаул",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 118
-        }
-    },
-    "OchIBT1X8w": {
-        "id": "OchIBT1X8w",
-        "title": "Грозовой Перевал",
-        "author": "Эмили Бронте",
-        "notes": "",
-        "createdAt": "2017-08-26 15:39:43",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 109
         }
     }
 }

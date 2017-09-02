@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 * Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
 * Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
@@ -30,7 +31,6 @@
 * Интересные времена (цикл Волшебники и герои, часть 5) ~ [SMedgaus](users/162/162444669-vkontakte)<sup>9</sup>
 * Дина: Дар змеи ~ [EsterHani](users/305/30558181-vkontakte)<sup>124</sup>
 * Дина: Опасное наследство ~ [EsterHani](users/305/30558181-vkontakte)<sup>123</sup>
-* Как создать продукт, который купят. Метод Lean Customer Development ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>118</sup>
 
 
-_02.09.2017 14:13:33_
+_02.09.2017 14:14:15_

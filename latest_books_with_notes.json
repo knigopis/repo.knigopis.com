@@ -1,4 +1,16 @@
 {
+    "3R9yIV_Goz": {
+        "id": "3R9yIV_Goz",
+        "title": "Артемис Фаул: Миссия в Арктику",
+        "author": "Йон Колфер",
+        "notes": "Книга 2",
+        "createdAt": "2017-09-02 14:14:14",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 127
+        }
+    },
     "JZorxUv9F_": {
         "id": "JZorxUv9F_",
         "title": "Артемис Фаул",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 123
-        }
-    },
-    "Ex9i1PM32_": {
-        "id": "Ex9i1PM32_",
-        "title": "Как создать продукт, который купят. Метод Lean Customer Development",
-        "author": "Синди Альварес",
-        "notes": "https://www.ozon.ru/context/detail/id/34432645/\n\nв процессе",
-        "createdAt": "2017-08-16 19:52:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 118
         }
     }
 }
