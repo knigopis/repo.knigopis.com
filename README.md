@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
+    > Книга 1
+
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
     > Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Трое могут сохранить секрет, если двое из них мертвы. © Франклин Бенджамин
 
 * Кумыки. История, культура, традиции - Атабаев Магомед ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup>
-    > История — учительница жизни. © Цицерон
 
 * Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
 
-* Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>126</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>311</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
-[aunum](users/256/256113809-yandex)<sup>10</sup> 
 
 
-_02.09.2017 10:03:16_
+_02.09.2017 14:13:33_

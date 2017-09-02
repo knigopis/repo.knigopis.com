@@ -1,4 +1,16 @@
 {
+    "JZorxUv9F_": {
+        "id": "JZorxUv9F_",
+        "title": "Артемис Фаул",
+        "author": "Йон Колфер",
+        "notes": "Книга 1",
+        "createdAt": "2017-09-02 14:13:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 126
+        }
+    },
     "W2tmnl-ehV": {
         "id": "W2tmnl-ehV",
         "title": "17 обновление 6-7",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 118
-        }
-    },
-    "RLfDJQBV8R": {
-        "id": "RLfDJQBV8R",
-        "title": "Глубина в небе",
-        "author": "Вернор Виндж",
-        "notes": "Виндж нереально крут :) чистый фан.\n\nhttps://www.ozon.ru/context/detail/id/31924233/\n\nв процессе",
-        "createdAt": "2017-08-15 20:25:46",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 117
         }
     }
 }

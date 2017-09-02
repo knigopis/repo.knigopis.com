@@ -1,4 +1,16 @@
 {
+    "JZorxUv9F_": {
+        "id": "JZorxUv9F_",
+        "title": "Артемис Фаул",
+        "author": "Йон Колфер",
+        "notes": "Книга 1",
+        "createdAt": "2017-09-02 14:13:33",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 126
+        }
+    },
     "ZzUVXx1j6E": {
         "id": "ZzUVXx1j6E",
         "title": "Мир глазами Гарпа",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 109
-        }
-    },
-    "oqNXcJZqLT": {
-        "id": "oqNXcJZqLT",
-        "title": "Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию",
-        "author": "Уильям Детмер",
-        "notes": "Хорошая книга для хороших специалистов :)\n\nhttps://www.ozon.ru/context/detail/id/5288956/\n\nВ процессе",
-        "createdAt": "2017-08-26 12:03:44",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 119
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 126,
+        "updatedAt": "2017-09-02 14:13:33"
+    },
     "251826667-vkontakte": {
         "id": "251826667-vkontakte",
         "nickname": "Anaid ",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 32,
         "updatedAt": "2017-08-25 20:14:32"
-    },
-    "256113809-yandex": {
-        "id": "256113809-yandex",
-        "nickname": "aunum",
-        "booksCount": 10,
-        "updatedAt": "2017-08-25 12:37:18"
     }
 }
