@@ -1,4 +1,16 @@
 {
+    "ZzUVXx1j6E": {
+        "id": "ZzUVXx1j6E",
+        "title": "Мир глазами Гарпа",
+        "author": "Джон Ирвинг",
+        "notes": "",
+        "createdAt": "2017-09-02 08:03:47",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 107
+        }
+    },
     "KJFeZrMkd4": {
         "id": "KJFeZrMkd4",
         "title": "Катрин Блюм.",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 119
-        }
-    },
-    "MzR8wWjqdc": {
-        "id": "MzR8wWjqdc",
-        "title": "Казачья надежда 1971 №1 нет нечего интересного",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-26 11:37:06",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 25
         }
     }
 }
