@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
+    > Книга 3
+
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
     > Книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 1
 
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
-    > Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни
 
 * Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дом на краю ночи ~ [Элла](users/100/1002037069862545-facebook)<sup>5</sup>
 
-* Лолита ~ [Ангелина](users/837/83788782-vkontakte)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>126</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>311</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 
 
-_02.09.2017 14:14:26_
+_02.09.2017 14:15:13_
