@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>311</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 [aunum](users/256/256113809-yandex)<sup>10</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>56</sup> 
 
 
-_02.09.2017 08:03:47_
+_02.09.2017 10:03:16_
