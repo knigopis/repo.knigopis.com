@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
+    > Рассказ о деревенском враче и о его сложной медицинской практике.
+
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
     > Книга 4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
-    > Книга 2
 
 * Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
 
@@ -26,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Мелкий бес - Сологуб Фёдор ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup>
 
-* Песни созвездия Гончих Псов ~ [Chiffi](users/105/105831994080785626680-google)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>311</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>25</sup> 
 [xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 [IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 
 
-_02.09.2017 14:16:22_
+_02.09.2017 18:55:00_
