@@ -1,4 +1,10 @@
 {
+    "251826667-vkontakte": {
+        "id": "251826667-vkontakte",
+        "nickname": "Anaid ",
+        "booksCount": 0,
+        "updatedAt": "2017-09-02 10:03:14"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "aunum",
         "booksCount": 10,
         "updatedAt": "2017-08-25 12:37:18"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 56,
-        "updatedAt": "2017-08-24 19:37:09"
     }
 }
