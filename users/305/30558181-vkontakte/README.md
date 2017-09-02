@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>128</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>127</sup>
 ---
 
 ## 2017
@@ -645,11 +645,6 @@
 ### Артемис Фаул: Затерянный мир
 Йон Колфер
 > Книга 6
-
-
-### Артемис Фаул: Ответный удар
-Йон Колфер
-> Книга 5
 
 
 
