@@ -1,4 +1,4 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>127</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>126</sup>
 ---
 
 ## 2017
@@ -640,11 +640,6 @@
 ### Артемис Фаул: Ответный удар
 Йон Колфер
 > Книга 5
-
-
-### Артемис Фаул: Миссия в Арктику
-Йон Колфер
-> Книга 2
 
 
 
