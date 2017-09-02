@@ -1,4 +1,16 @@
 {
+    "XjQYd-BvWM": {
+        "id": "XjQYd-BvWM",
+        "title": "Артемис Фаул: Ответный удар",
+        "author": "Йон Колфер",
+        "notes": "Книга 4",
+        "createdAt": "2017-09-02 14:16:19",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 128
+        }
+    },
     "A3iIg7xBJw": {
         "id": "A3iIg7xBJw",
         "title": "Артемис Фаул: Код вечности",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 148
-        }
-    },
-    "b7pBRofJke": {
-        "id": "b7pBRofJke",
-        "title": "Rework",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-27 09:29:18",
-        "user": {
-            "id": "115029246654538634506-google",
-            "nickname": "Yara",
-            "booksCount": 1
         }
     }
 }

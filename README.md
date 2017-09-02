@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
+    > Книга 4
+
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
     > Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
-    > Книга 1
 
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Песни созвездия Гончих Псов ~ [Chiffi](users/105/105831994080785626680-google)<sup>28</sup>
 
-* Дом на краю ночи ~ [Элла](users/100/1002037069862545-facebook)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>128</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>311</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>32</sup> 
 
 
-_02.09.2017 14:15:13_
+_02.09.2017 14:16:19_
