@@ -1,4 +1,16 @@
 {
+    "ddTUW6EoEf": {
+        "id": "ddTUW6EoEf",
+        "title": "Оперативный резерв",
+        "author": "Макарова",
+        "notes": "фанфик Дозоров. Не плохо.",
+        "createdAt": "2017-09-03 15:45:20",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 29
+        }
+    },
     "0u3cFyBWV6": {
         "id": "0u3cFyBWV6",
         "title": "Молли Блэкуотер. Остров крови",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 6
-        }
-    },
-    "UKDfdYlJqK": {
-        "id": "UKDfdYlJqK",
-        "title": "Дом на краю ночи",
-        "author": "Кэтрин Бэннер",
-        "notes": "Шикарная книга, от которой просто невозможно оторваться!",
-        "createdAt": "2017-08-28 10:13:38",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 5
         }
     }
 }

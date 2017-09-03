@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
+    > фанфик Дозоров. Не плохо.
+
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
     > Рассказ о деревенском враче и о его сложной медицинской практике.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 4
 
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
-    > Книга 3
 
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
 
-* Мелкий бес - Сологуб Фёдор ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>267</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>30</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>28</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>37</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 
 
-_03.09.2017 12:53:34_
+_03.09.2017 15:45:20_

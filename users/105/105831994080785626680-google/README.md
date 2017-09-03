@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>28</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>29</sup>
 ---
 
 ## 2017
+
+### Оперативный резерв
+Макарова
+> [2017-09] фанфик Дозоров. Не плохо.
+
 
 ### Песни созвездия Гончих Псов
 Охлобыстин Иван

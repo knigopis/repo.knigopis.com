@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
@@ -30,7 +31,6 @@
 * Мертвец ~ [Derek777](users/153/15386028-yandex)<sup>38</sup>
 * Человек. который дружил с электричеством. ~ [Derek777](users/153/15386028-yandex)<sup>37</sup>
 * Стол. полный девчонок ~ [Derek777](users/153/15386028-yandex)<sup>36</sup>
-* Трилогия Инквизитор Эйзерхорн ~ [Tr](users/122/12282474-vkontakte)<sup>54</sup>
 
 
-_02.09.2017 18:55:00_
+_03.09.2017 15:45:20_
