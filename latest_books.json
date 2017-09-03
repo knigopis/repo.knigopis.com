@@ -1,4 +1,16 @@
 {
+    "0u3cFyBWV6": {
+        "id": "0u3cFyBWV6",
+        "title": "Молли Блэкуотер. Остров крови",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2017-09-03 12:53:34",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 267
+        }
+    },
     "3p0DBAymb6": {
         "id": "3p0DBAymb6",
         "title": "Способный ученик",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 5
-        }
-    },
-    "a7vUMTce1l": {
-        "id": "a7vUMTce1l",
-        "title": "Сметрельный рай",
-        "author": "Линкольн Чайлд",
-        "notes": "",
-        "createdAt": "2017-08-28 05:19:13",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 120
         }
     }
 }
