@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>121</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>122</sup>
 ---
 
 ## 2017
+
+### Способный ученик
+Стивен Кинг
+> [2017-08-29] 
+
 
 ### Последний приказ
 Тимоти Зан

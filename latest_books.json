@@ -1,4 +1,16 @@
 {
+    "3p0DBAymb6": {
+        "id": "3p0DBAymb6",
+        "title": "Способный ученик",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-03 05:46:05",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 122
+        }
+    },
     "5GWhX-NBA7": {
         "id": "5GWhX-NBA7",
         "title": "Последний приказ",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 120
-        }
-    },
-    "iAT-pckQau": {
-        "id": "iAT-pckQau",
-        "title": "Темное воинство",
-        "author": "Тимоти Зан",
-        "notes": "",
-        "createdAt": "2017-08-28 05:16:43",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 119
         }
     }
 }
