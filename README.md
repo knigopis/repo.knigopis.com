@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Военная стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup>
+    > Очень интересно читать фотокопию реально старой книги, с другими правилами русского языка и через ять. Удивительно, но воспринимается очень легко.
+    > 
+    > http://www.ozon.ru/context/detail/id/7316416/
+    > 
+    > В процессе
+
 * Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
     > фанфик Дозоров. Не плохо.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Рассказ о деревенском враче и о его сложной медицинской практике.
 
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
-    > Книга 4
 
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Кумыки. История, культура, традиции - Атабаев Магомед ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup>
 
-* Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>267</sup> 
@@ -60,9 +65,8 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
 
 
-_03.09.2017 18:13:10_
+_03.09.2017 20:20:50_
