@@ -1,4 +1,10 @@
 {
+    "2023503321218070-facebook": {
+        "id": "2023503321218070-facebook",
+        "nickname": "@lex_ap",
+        "booksCount": 0,
+        "updatedAt": "2017-09-03 18:13:08"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "xoyk",
         "booksCount": 0,
         "updatedAt": "2017-08-26 06:16:41"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 2,
-        "updatedAt": "2017-08-26 03:46:14"
     }
 }
