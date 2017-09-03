@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>267</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>2</sup> 
 
 
-_03.09.2017 15:45:20_
+_03.09.2017 18:13:10_
