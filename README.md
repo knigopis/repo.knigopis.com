@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup>
+    > Замечательная книга, прекрасно читается, легко и на ура.
+    > 
+    > https://www.ozon.ru/context/detail/id/5626260/
+    > 
+    > В процессе
+
 * Военная стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup>
     > Очень интересно читать фотокопию реально старой книги, с другими правилами русского языка и через ять. Удивительно, но воспринимается очень легко.
     > 
@@ -16,7 +23,6 @@ Do not use pull requests to make changes here.
     > фанфик Дозоров. Не плохо.
 
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
-    > Рассказ о деревенском враче и о его сложной медицинской практике.
 
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
 
@@ -30,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
 
-* Кумыки. История, культура, традиции - Атабаев Магомед ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>267</sup> 
@@ -69,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [xoyk](users/101/101880512594835835667-google)<sup>0</sup> 
 
 
-_03.09.2017 20:20:50_
+_03.09.2017 20:24:57_
