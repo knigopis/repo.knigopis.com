@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
+    > Просто одна из тех книг, которые положили начало в моей любви к фэнтези, магии и сказочной литературе.
+    > Я в умилении
+
 * Психология убеждения. 50 доказанных способов быть убедительным ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup>
     > https://www.ozon.ru/context/detail/id/20165926/
     > 
@@ -18,11 +22,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Военная стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup>
-    > Очень интересно читать фотокопию реально старой книги, с другими правилами русского языка и через ять. Удивительно, но воспринимается очень легко.
-    > 
-    > http://www.ozon.ru/context/detail/id/7316416/
-    > 
-    > В процессе
 
 * Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
 
@@ -36,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
 
-* 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>10</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
@@ -72,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 
 
-_04.09.2017 19:23:56_
+_04.09.2017 19:26:42_
