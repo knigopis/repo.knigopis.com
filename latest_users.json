@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 123,
+        "updatedAt": "2017-09-04 04:16:39"
+    },
     "415025882-vkontakte": {
         "id": "415025882-vkontakte",
         "nickname": "eri.fortuna",
@@ -28,12 +34,6 @@
         "nickname": "HXT",
         "booksCount": 267,
         "updatedAt": "2017-09-03 12:53:34"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 122,
-        "updatedAt": "2017-09-03 05:46:05"
     },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",

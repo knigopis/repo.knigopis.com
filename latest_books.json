@@ -1,4 +1,16 @@
 {
+    "tB6N098bOt": {
+        "id": "tB6N098bOt",
+        "title": "Сверхдальний перелет",
+        "author": "Тимоти Зан",
+        "notes": "",
+        "createdAt": "2017-09-04 04:16:39",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 123
+        }
+    },
     "mDabQZV02T": {
         "id": "mDabQZV02T",
         "title": "Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 28
-        }
-    },
-    "zmnDAuAoau": {
-        "id": "zmnDAuAoau",
-        "title": "Маленькая жизнь",
-        "author": "Ханья Янагихара",
-        "notes": "",
-        "createdAt": "2017-08-28 18:47:03",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 37
         }
     }
 }
