@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>123</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>122</sup>
 ---
 
 ## 2017
@@ -281,11 +281,6 @@
 ### Возрождение
 Оливер Боуден
 > [2017-01-25] 
-
-
-### Сметрельный рай
-Линкольн Чайлд
-> [2017-01-08] 
 
 
 ### Смертельный рай
