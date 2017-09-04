@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Психология убеждения. 50 доказанных способов быть убедительным ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup>
+    > https://www.ozon.ru/context/detail/id/20165926/
+    > 
+    > В процессе
+
 * Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup>
     > Замечательная книга, прекрасно читается, легко и на ура.
     > 
@@ -20,7 +25,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
-    > фанфик Дозоров. Не плохо.
 
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
 
@@ -34,16 +38,14 @@ Do not use pull requests to make changes here.
 
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
 
-* Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>267</sup> 
@@ -73,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 
 
-_04.09.2017 06:12:52_
+_04.09.2017 19:23:56_
