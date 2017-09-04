@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>123</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>25</sup> 
 
 
-_04.09.2017 04:16:39_
+_04.09.2017 06:12:52_
