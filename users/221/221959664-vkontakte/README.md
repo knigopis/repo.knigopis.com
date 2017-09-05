@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>121</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>120</sup>
 ---
 
 ## 2017
@@ -209,11 +209,6 @@
 
 
 ### Янтарный телескоп
-Пулман Филип
-> [2017-02-26] 
-
-
-### Темные начала
 Пулман Филип
 > [2017-02-26] 
 
