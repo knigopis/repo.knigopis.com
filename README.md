@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>121</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>120</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 
 
-_05.09.2017 07:42:22_
+_05.09.2017 09:01:19_
