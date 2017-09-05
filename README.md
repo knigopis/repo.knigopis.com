@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
+    > Ким - сын английского офицера живет в Индии (оба родителя умерли). Встречает тибетского ламу, становится его учеником. Странствуя с ламой, натыкается на полк своего отца, его отправляют в школу, параллельно начинает работать на английскую разведку и продолжает путешествовать с ламой.
+    > Дочитала с трудом, все-таки Киплинг это не моё.
+
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
     > Очень тяжелая книга в плане смысла. Но читается на удивление легко.
     > О весьма необычной школе для детей - будущих доноров
@@ -14,9 +18,6 @@ Do not use pull requests to make changes here.
     > Я в умилении
 
 * Психология убеждения. 50 доказанных способов быть убедительным ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup>
-    > https://www.ozon.ru/context/detail/id/20165926/
-    > 
-    > В процессе
 
 * Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup>
 
@@ -30,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 
-* Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
@@ -63,10 +63,9 @@ _More notes [here](latest_books_with_notes.md)._
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>148</sup> 
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 
 
-_05.09.2017 09:01:19_
+_05.09.2017 20:03:57_
