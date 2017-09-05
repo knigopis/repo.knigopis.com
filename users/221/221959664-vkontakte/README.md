@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>122</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>121</sup>
 ---
 
 ## 2017
@@ -599,8 +599,6 @@
 ### Автостопом по галактике
 Дуглас Адамс
 > [2016-03-11] 
-
-
 
 
 
