@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
+    > Очень тяжелая книга в плане смысла. Но читается на удивление легко.
+    > О весьма необычной школе для детей - будущих доноров
+
 * Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
     > Просто одна из тех книг, которые положили начало в моей любви к фэнтези, магии и сказочной литературе.
     > Я в умилении
@@ -15,11 +19,6 @@ Do not use pull requests to make changes here.
     > В процессе
 
 * Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>121</sup>
-    > Замечательная книга, прекрасно читается, легко и на ура.
-    > 
-    > https://www.ozon.ru/context/detail/id/5626260/
-    > 
-    > В процессе
 
 * Военная стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup>
 
@@ -33,15 +32,13 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 
-* Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>10</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
@@ -72,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 
 
-_05.09.2017 03:53:49_
+_05.09.2017 06:47:35_
