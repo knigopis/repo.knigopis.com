@@ -1,4 +1,16 @@
 {
+    "CW2mLpaTu2": {
+        "id": "CW2mLpaTu2",
+        "title": "Отрицание",
+        "author": "Зигмунд",
+        "notes": "",
+        "createdAt": "2017-09-05 22:38:12",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 221
+        }
+    },
     "MghiZzKxPi": {
         "id": "MghiZzKxPi",
         "title": "Ким",
@@ -345,18 +357,6 @@
             "id": "497594403964454-facebook",
             "nickname": "DInnaD",
             "booksCount": 1
-        }
-    },
-    "FckVLcwL53": {
-        "id": "FckVLcwL53",
-        "title": "1408",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-08-29 20:34:20",
-        "user": {
-            "id": "282662025-vkontakte",
-            "nickname": "Astro",
-            "booksCount": 44
         }
     }
 }

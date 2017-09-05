@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 221,
+        "updatedAt": "2017-09-05 22:38:12"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "bensar",
         "booksCount": 0,
         "updatedAt": "2017-08-27 02:37:35"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 109,
-        "updatedAt": "2017-08-26 15:39:43"
     }
 }

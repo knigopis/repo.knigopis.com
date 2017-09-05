@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>221</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 [bensar](users/147/147803718-vkontakte)<sup>0</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 
 
-_05.09.2017 20:03:57_
+_05.09.2017 22:38:12_
