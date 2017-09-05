@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 123,
+        "updatedAt": "2017-09-05 07:39:04"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -16,12 +22,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 122,
         "updatedAt": "2017-09-04 19:23:56"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 122,
-        "updatedAt": "2017-09-04 06:12:52"
     },
     "415025882-vkontakte": {
         "id": "415025882-vkontakte",

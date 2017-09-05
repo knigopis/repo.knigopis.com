@@ -1,4 +1,16 @@
 {
+    "1ROYYyuWP2": {
+        "id": "1ROYYyuWP2",
+        "title": "Сметрельный рай",
+        "author": "Линкольн Чайлд",
+        "notes": "",
+        "createdAt": "2017-09-05 07:39:04",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 123
+        }
+    },
     "SJKM_EH9Ci": {
         "id": "SJKM_EH9Ci",
         "title": "Не отпускай меня",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 30
-        }
-    },
-    "BZdl-zrZeo": {
-        "id": "BZdl-zrZeo",
-        "title": "Enigma - Харрис Роберт",
-        "author": "Роман",
-        "notes": "Трое могут сохранить секрет, если двое из них мертвы. © Франклин Бенджамин",
-        "createdAt": "2017-08-29 10:07:35",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 92
         }
     }
 }

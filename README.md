@@ -37,10 +37,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[geyski](users/221/221959664-vkontakte)<sup>123</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>109</sup> 
 
 
-_05.09.2017 06:47:35_
+_05.09.2017 07:39:04_
