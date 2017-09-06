@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[liza_svist](users/608/6086605-vkontakte)<sup>0</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>224</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
-[bensar](users/147/147803718-vkontakte)<sup>0</sup> 
 
 
-_06.09.2017 00:05:32_
+_06.09.2017 14:01:23_
