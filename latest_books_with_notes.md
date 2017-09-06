@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
 * Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
-* Дьявол из шкатулки ~ [Derek777](users/153/15386028-yandex)<sup>43</sup>
 
 
-_06.09.2017 15:49:39_
+_06.09.2017 20:11:03_

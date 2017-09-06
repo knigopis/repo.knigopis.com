@@ -1,4 +1,16 @@
 {
+    "FnXOdQtIGg": {
+        "id": "FnXOdQtIGg",
+        "title": "Мелкие боги",
+        "author": "Терри Пратчетт",
+        "notes": "Замечательное произведение великого человека. \nТонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы",
+        "createdAt": "2017-09-06 20:11:03",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 12
+        }
+    },
     "Q2Q-LG3evQ": {
         "id": "Q2Q-LG3evQ",
         "title": "Путь волшебника (антология)",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 55
-        }
-    },
-    "jCAA55YApZ": {
-        "id": "jCAA55YApZ",
-        "title": "vng",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-08-30 09:46:36",
-        "user": {
-            "id": "497594403964454-facebook",
-            "nickname": "DInnaD",
-            "booksCount": 5
         }
     }
 }

@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
+    > Замечательное произведение великого человека. 
+    > Тонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы
+
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
     > Открыла для себя антологию как формат - отличная возможность познакомиться с новыми авторами и выбрать кого-то для более полного ознакомления.
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Дочитала с трудом, все-таки Киплинг это не моё.
 
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
-    > Очень тяжелая книга в плане смысла. Но читается на удивление легко.
-    > О весьма необычной школе для детей - будущих доноров
 
 * Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
 
@@ -28,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
 
-* Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>38</sup> 
 [liza_svist](users/608/6086605-vkontakte)<sup>0</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>224</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>120</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>11</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 
 
-_06.09.2017 15:49:39_
+_06.09.2017 20:11:03_
