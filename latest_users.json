@@ -1,4 +1,10 @@
 {
+    "6086605-vkontakte": {
+        "id": "6086605-vkontakte",
+        "nickname": "liza_svist",
+        "booksCount": 0,
+        "updatedAt": "2017-09-06 14:01:20"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "Yara",
         "booksCount": 0,
         "updatedAt": "2017-08-27 09:29:29"
-    },
-    "147803718-vkontakte": {
-        "id": "147803718-vkontakte",
-        "nickname": "bensar",
-        "booksCount": 0,
-        "updatedAt": "2017-08-27 02:37:35"
     }
 }
