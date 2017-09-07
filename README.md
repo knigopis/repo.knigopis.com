@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
+    > Симпатичный детектив.
+
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
     > Прочитана запоем за 6 часов. Must read.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Тонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы
 
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
-    > Открыла для себя антологию как формат - отличная возможность познакомиться с новыми авторами и выбрать кого-то для более полного ознакомления.
 
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Военная стратегия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>120</sup>
 
-* Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>30</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>38</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>29</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 
 
-_07.09.2017 01:20:25_
+_07.09.2017 13:57:45_

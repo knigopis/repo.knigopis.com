@@ -1,4 +1,16 @@
 {
+    "UoSq-Kovsy": {
+        "id": "UoSq-Kovsy",
+        "title": "Закрой дверь за совой",
+        "author": "Михалкова Елена",
+        "notes": "Симпатичный детектив.",
+        "createdAt": "2017-09-07 13:57:44",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 30
+        }
+    },
     "X95tSvB-8K": {
         "id": "X95tSvB-8K",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "4688100-vkontakte",
             "nickname": "xenus206",
             "booksCount": 2
-        }
-    },
-    "M19KcZ6Tce": {
-        "id": "M19KcZ6Tce",
-        "title": "1",
-        "author": "1",
-        "notes": "",
-        "createdAt": "2017-09-01 10:36:47",
-        "user": {
-            "id": "4688100-vkontakte",
-            "nickname": "xenus206",
-            "booksCount": 1
         }
     }
 }
