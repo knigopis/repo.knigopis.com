@@ -1,4 +1,16 @@
 {
+    "X95tSvB-8K": {
+        "id": "X95tSvB-8K",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниэл Киз",
+        "notes": "Прочитана запоем за 6 часов. Must read.",
+        "createdAt": "2017-09-07 01:20:25",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 56
+        }
+    },
     "FnXOdQtIGg": {
         "id": "FnXOdQtIGg",
         "title": "Мелкие боги",
@@ -345,18 +357,6 @@
             "id": "4688100-vkontakte",
             "nickname": "xenus206",
             "booksCount": 1
-        }
-    },
-    "W2tmnl-ehV": {
-        "id": "W2tmnl-ehV",
-        "title": "17 обновление 6-7",
-        "author": "Георгий Смородинский",
-        "notes": "Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни",
-        "createdAt": "2017-08-31 04:19:33",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 55
         }
     }
 }

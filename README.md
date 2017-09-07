@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
+    > Прочитана запоем за 6 часов. Must read.
+
 * Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
     > Замечательное произведение великого человека. 
     > Тонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Открыла для себя антологию как формат - отличная возможность познакомиться с новыми авторами и выбрать кого-то для более полного ознакомления.
 
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
-    > Ким - сын английского офицера живет в Индии (оба родителя умерли). Встречает тибетского ламу, становится его учеником. Странствуя с ламой, натыкается на полк своего отца, его отправляют в школу, параллельно начинает работать на английскую разведку и продолжает путешествовать с ламой.
-    > Дочитала с трудом, все-таки Киплинг это не моё.
 
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
 
-* Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>38</sup> 
 [liza_svist](users/608/6086605-vkontakte)<sup>0</sup> 
@@ -54,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 [IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>55</sup> 
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
 [DInnaD](users/497/497594403964454-facebook)<sup>5</sup> 
 [nutzi](users/197/197654375-vkontakte)<sup>1</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 
 
-_06.09.2017 20:11:03_
+_07.09.2017 01:20:25_

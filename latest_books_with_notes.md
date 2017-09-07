@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
 * Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
@@ -30,7 +31,6 @@
 * Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
 * Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
 * Дина: Последний дракон ~ [EsterHani](users/305/30558181-vkontakte)<sup>125</sup>
-* Полночь в зеркальном мире. ~ [Derek777](users/153/15386028-yandex)<sup>44</sup>
 
 
-_06.09.2017 20:11:03_
+_07.09.2017 01:20:25_
