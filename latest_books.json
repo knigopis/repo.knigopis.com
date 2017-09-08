@@ -1,4 +1,16 @@
 {
+    "bMjr3kXLko": {
+        "id": "bMjr3kXLko",
+        "title": "Куколка",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2017-09-08 07:58:49",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 12
+        }
+    },
     "eYkawZ6Tcs": {
         "id": "eYkawZ6Tcs",
         "title": "Кукольных дел мастер",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 120
-        }
-    },
-    "ddTUW6EoEf": {
-        "id": "ddTUW6EoEf",
-        "title": "Оперативный резерв",
-        "author": "Макарова",
-        "notes": "фанфик Дозоров. Не плохо.",
-        "createdAt": "2017-09-03 15:45:20",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 29
         }
     }
 }
