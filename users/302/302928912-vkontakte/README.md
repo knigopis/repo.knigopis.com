@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>6</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>7</sup>
 ---
 
 ## 2017
+
+### Продавец обуви
+Фил Найт
+> [2017-09-08] 
+
 
 ### День триффидов
 Джон Уиндем

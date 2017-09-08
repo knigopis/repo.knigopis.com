@@ -1,4 +1,16 @@
 {
+    "sJjGH8CfF0": {
+        "id": "sJjGH8CfF0",
+        "title": "Продавец обуви",
+        "author": "Фил Найт",
+        "notes": "",
+        "createdAt": "2017-09-08 05:46:13",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 7
+        }
+    },
     "lTqfnNvilo": {
         "id": "lTqfnNvilo",
         "title": "Задача на выживание",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 311
-        }
-    },
-    "bhCO61GGO1": {
-        "id": "bhCO61GGO1",
-        "title": "К черту всё! Берись и делай!",
-        "author": "Ричард Брэнсон",
-        "notes": "4",
-        "createdAt": "2017-09-01 16:04:41",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 25
         }
     }
 }
