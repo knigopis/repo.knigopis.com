@@ -1,4 +1,16 @@
 {
+    "71uvUkPGRn": {
+        "id": "71uvUkPGRn",
+        "title": "Провинциальный детектив, или Приключения сестры Пелагии",
+        "author": "Борис Акунин",
+        "notes": "Все книги (3 шт.)",
+        "createdAt": "2017-09-08 08:01:25",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 19
+        }
+    },
     "EgJGQihRiL": {
         "id": "EgJGQihRiL",
         "title": "Туман",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 123
-        }
-    },
-    "SJKM_EH9Ci": {
-        "id": "SJKM_EH9Ci",
-        "title": "Не отпускай меня",
-        "author": "Кадзуо Исигуро",
-        "notes": "Очень тяжелая книга в плане смысла. Но читается на удивление легко.\nО весьма необычной школе для детей - будущих доноров",
-        "createdAt": "2017-09-05 06:47:35",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 11
         }
     }
 }
