@@ -1,4 +1,16 @@
 {
+    "8a-65F8BDu": {
+        "id": "8a-65F8BDu",
+        "title": "Ангел для сестры",
+        "author": "Пиколт Джоди",
+        "notes": "",
+        "createdAt": "2017-09-08 08:04:13",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 24
+        }
+    },
     "61faAOOTuN": {
         "id": "61faAOOTuN",
         "title": "Я - посланник",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 38
-        }
-    },
-    "pitEwDcCY_": {
-        "id": "pitEwDcCY_",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-06 00:05:32",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 224
         }
     }
 }
