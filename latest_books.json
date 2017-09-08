@@ -1,4 +1,16 @@
 {
+    "EgJGQihRiL": {
+        "id": "EgJGQihRiL",
+        "title": "Туман",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:00:55",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 18
+        }
+    },
     "bjcyyDJr24": {
         "id": "bjcyyDJr24",
         "title": "Кладбище домашних животных",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 11
-        }
-    },
-    "bN_r1g9yoe": {
-        "id": "bN_r1g9yoe",
-        "title": "Искра и ветео",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-09-05 03:53:49",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 268
         }
     }
 }
