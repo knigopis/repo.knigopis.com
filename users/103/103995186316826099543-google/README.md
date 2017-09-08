@@ -1,7 +1,12 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>7</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>8</sup>
 ---
 
 ## 2017
+
+### Изгнанница Ойкумены
+Генри Лайон Олди
+> [2017-09] 
+
 
 ### Палата №6
 Антон Чехов
