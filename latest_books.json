@@ -1,4 +1,16 @@
 {
+    "7KiMffatkt": {
+        "id": "7KiMffatkt",
+        "title": "Худеющий",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:00:10",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 16
+        }
+    },
     "FcKBBqtNmY": {
         "id": "FcKBBqtNmY",
         "title": "Опасные связи",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 10
-        }
-    },
-    "q7j1XFUFPR": {
-        "id": "q7j1XFUFPR",
-        "title": "Психология убеждения. 50 доказанных способов быть убедительным",
-        "author": "Ной Гольдштейн, Стив Мартин, Роберт Б. Чалдини",
-        "notes": "https://www.ozon.ru/context/detail/id/20165926/\n\nВ процессе",
-        "createdAt": "2017-09-04 19:23:56",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 122
         }
     }
 }
