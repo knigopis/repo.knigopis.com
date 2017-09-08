@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>20</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>21</sup>
 ---
 
 ## 2017
@@ -86,6 +86,11 @@
 ### Кукольных дел мастер
 Генри Лайон Олди
 > [2017-07] 
+
+
+### Темная Башня
+Стивен Кинг
+> [2017-06] Весь цикл (7 книг)
 
 
 ### Оно
