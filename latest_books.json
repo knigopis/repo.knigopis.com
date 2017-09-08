@@ -1,4 +1,16 @@
 {
+    "lTqfnNvilo": {
+        "id": "lTqfnNvilo",
+        "title": "Задача на выживание",
+        "author": "Тимоти Зан",
+        "notes": "",
+        "createdAt": "2017-09-08 04:46:22",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 121
+        }
+    },
     "VbvMJCsMid": {
         "id": "VbvMJCsMid",
         "title": "Ветры, ангелы и люди",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 25
-        }
-    },
-    "F6iAh7rh6A": {
-        "id": "F6iAh7rh6A",
-        "title": "Меняем привычки",
-        "author": "М. Дж. Райан",
-        "notes": "5",
-        "createdAt": "2017-09-01 16:03:12",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 24
         }
     }
 }
