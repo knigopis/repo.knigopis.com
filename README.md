@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>31</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>30</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [DInnaD](users/497/497594403964454-facebook)<sup>5</sup> 
 [nutzi](users/197/197654375-vkontakte)<sup>1</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>30</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yara](users/115/115029246654538634506-google)<sup>0</sup> 
 
 
-_07.09.2017 13:57:45_
+_08.09.2017 03:10:28_

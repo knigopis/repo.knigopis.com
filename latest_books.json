@@ -1,4 +1,16 @@
 {
+    "VbvMJCsMid": {
+        "id": "VbvMJCsMid",
+        "title": "Ветры, ангелы и люди",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-09-08 03:10:28",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 31
+        }
+    },
     "UoSq-Kovsy": {
         "id": "UoSq-Kovsy",
         "title": "Закрой дверь за совой",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 24
-        }
-    },
-    "3lO2tDxYXU": {
-        "id": "3lO2tDxYXU",
-        "title": "2",
-        "author": "2",
-        "notes": "",
-        "createdAt": "2017-09-01 10:37:16",
-        "user": {
-            "id": "4688100-vkontakte",
-            "nickname": "xenus206",
-            "booksCount": 2
         }
     }
 }
