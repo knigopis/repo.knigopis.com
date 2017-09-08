@@ -1,4 +1,28 @@
 {
+    "4CURUkpe1l": {
+        "id": "4CURUkpe1l",
+        "title": "Холодный дом",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2017-09-08 07:56:06",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 3
+        }
+    },
+    "uIbPSk2Y4m": {
+        "id": "uIbPSk2Y4m",
+        "title": "Дело об убийстве или \"У погибшего альпиниста\"",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-09-08 07:55:33",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 2
+        }
+    },
     "sJjGH8CfF0": {
         "id": "sJjGH8CfF0",
         "title": "Продавец обуви",
@@ -333,30 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 126
-        }
-    },
-    "ZzUVXx1j6E": {
-        "id": "ZzUVXx1j6E",
-        "title": "Мир глазами Гарпа",
-        "author": "Джон Ирвинг",
-        "notes": "",
-        "createdAt": "2017-09-02 08:03:47",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 107
-        }
-    },
-    "KJFeZrMkd4": {
-        "id": "KJFeZrMkd4",
-        "title": "Катрин Блюм.",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2017-09-01 16:29:49",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 311
         }
     }
 }
