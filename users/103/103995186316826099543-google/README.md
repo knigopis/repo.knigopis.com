@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>21</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>22</sup>
 ---
 
 ## 2017
@@ -106,6 +106,11 @@
 ### Обмен разумов
 Роберт Шекли
 > [2017-06] 
+
+
+### Год Призраков
+Джеффри Форд
+> [2017-05] 
 
 
 
