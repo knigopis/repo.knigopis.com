@@ -1,4 +1,10 @@
 {
+    "271006760-vkontakte": {
+        "id": "271006760-vkontakte",
+        "nickname": "tama_neko",
+        "booksCount": 0,
+        "updatedAt": "2017-09-08 16:19:37"
+    },
     "112719946844423170489-googleplus": {
         "id": "112719946844423170489-googleplus",
         "nickname": "Duhanskiy",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 92,
         "updatedAt": "2017-08-29 10:07:35"
-    },
-    "524405564573977-facebook": {
-        "id": "524405564573977-facebook",
-        "nickname": "pepethememe",
-        "booksCount": 0,
-        "updatedAt": "2017-08-28 11:24:12"
     }
 }
