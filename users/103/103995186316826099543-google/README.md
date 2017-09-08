@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>26</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>27</sup>
 ---
 
 ## 2017
@@ -86,6 +86,11 @@
 ### Кукольных дел мастер
 Генри Лайон Олди
 > [2017-07] 
+
+
+### Зеленая Миля
+Стивен Кинг
+> [2017-06] 
 
 
 ### Бегущий человек

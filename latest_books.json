@@ -1,4 +1,16 @@
 {
+    "JTM7IZGr70": {
+        "id": "JTM7IZGr70",
+        "title": "Зеленая Миля",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:04:57",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 27
+        }
+    },
     "y_KzU3aq1T": {
         "id": "y_KzU3aq1T",
         "title": "Бегущий человек",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 30
-        }
-    },
-    "X95tSvB-8K": {
-        "id": "X95tSvB-8K",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниэл Киз",
-        "notes": "Прочитана запоем за 6 часов. Must read.",
-        "createdAt": "2017-09-07 01:20:25",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 56
         }
     }
 }
