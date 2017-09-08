@@ -1,4 +1,16 @@
 {
+    "ThZxAZRl7B": {
+        "id": "ThZxAZRl7B",
+        "title": "Обмен разумов",
+        "author": "Роберт Шекли",
+        "notes": "",
+        "createdAt": "2017-09-08 07:59:33",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 14
+        }
+    },
     "rIZ_8buqLU": {
         "id": "rIZ_8buqLU",
         "title": "Кукольник",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 123
-        }
-    },
-    "mDabQZV02T": {
-        "id": "mDabQZV02T",
-        "title": "Доставляя счастье. От нуля до миллиарда. История создания выдающейся компании из первых рук",
-        "author": "Тони Шей",
-        "notes": "Замечательная книга, прекрасно читается, легко и на ура.\n\nhttps://www.ozon.ru/context/detail/id/5626260/\n\nВ процессе",
-        "createdAt": "2017-09-03 20:24:57",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 121
         }
     }
 }

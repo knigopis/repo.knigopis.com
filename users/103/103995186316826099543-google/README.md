@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>13</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>14</sup>
 ---
 
 ## 2017
@@ -66,6 +66,11 @@
 ### Кукольных дел мастер
 Генри Лайон Олди
 > [2017-07] 
+
+
+### Обмен разумов
+Роберт Шекли
+> [2017-06] 
 
 
 
