@@ -1,4 +1,16 @@
 {
+    "oTNUAlYFbX": {
+        "id": "oTNUAlYFbX",
+        "title": "Дитя Ойкумены",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2017-09-08 07:58:16",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 10
+        }
+    },
     "JRiLMKQu1D": {
         "id": "JRiLMKQu1D",
         "title": "Королева Ойкумены",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 267
-        }
-    },
-    "3p0DBAymb6": {
-        "id": "3p0DBAymb6",
-        "title": "Способный ученик",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-03 05:46:05",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 122
         }
     }
 }

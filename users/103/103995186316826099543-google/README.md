@@ -1,7 +1,12 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>9</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>10</sup>
 ---
 
 ## 2017
+
+### Дитя Ойкумены
+Генри Лайон Олди
+> [2017-09] 
+
 
 ### Королева Ойкумены
 Генри Лайон Олди
