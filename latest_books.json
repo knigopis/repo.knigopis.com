@@ -1,4 +1,16 @@
 {
+    "eio0mu9xsn": {
+        "id": "eio0mu9xsn",
+        "title": "Оно",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:02:52",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 20
+        }
+    },
     "71uvUkPGRn": {
         "id": "71uvUkPGRn",
         "title": "Провинциальный детектив, или Приключения сестры Пелагии",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 149
-        }
-    },
-    "1ROYYyuWP2": {
-        "id": "1ROYYyuWP2",
-        "title": "Сметрельный рай",
-        "author": "Линкольн Чайлд",
-        "notes": "",
-        "createdAt": "2017-09-05 07:39:04",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 123
         }
     }
 }
