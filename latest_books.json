@@ -1,4 +1,16 @@
 {
+    "bjcyyDJr24": {
+        "id": "bjcyyDJr24",
+        "title": "Кладбище домашних животных",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:00:46",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 17
+        }
+    },
     "7KiMffatkt": {
         "id": "7KiMffatkt",
         "title": "Худеющий",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 268
-        }
-    },
-    "Ybkqg9u1Vf": {
-        "id": "Ybkqg9u1Vf",
-        "title": "Гарри Поттер и философский камень",
-        "author": "Дж. К. Роулинг",
-        "notes": "Просто одна из тех книг, которые положили начало в моей любви к фэнтези, магии и сказочной литературе.\nЯ в умилении",
-        "createdAt": "2017-09-04 19:26:41",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 10
         }
     }
 }
