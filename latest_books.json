@@ -1,4 +1,16 @@
 {
+    "JRiLMKQu1D": {
+        "id": "JRiLMKQu1D",
+        "title": "Королева Ойкумены",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2017-09-08 07:57:52",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 9
+        }
+    },
     "YNWnLGfSxT": {
         "id": "YNWnLGfSxT",
         "title": "Изгнанница Ойкумены",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 122
-        }
-    },
-    "5GWhX-NBA7": {
-        "id": "5GWhX-NBA7",
-        "title": "Последний приказ",
-        "author": "Тимоти Зан",
-        "notes": "",
-        "createdAt": "2017-09-03 05:45:15",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 121
         }
     }
 }
