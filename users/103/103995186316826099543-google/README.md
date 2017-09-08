@@ -1,7 +1,12 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>5</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>6</sup>
 ---
 
 ## 2017
+
+### Таинственный остров
+Жюль Верн
+> [2017-09] 
+
 
 ### Пикник на обочине
 Аркадий и Борис Стругацкие
