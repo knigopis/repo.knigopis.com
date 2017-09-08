@@ -1,4 +1,16 @@
 {
+    "g2LAwvn9NS": {
+        "id": "g2LAwvn9NS",
+        "title": "Пикник на обочине",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2017-09-08 07:56:56",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 5
+        }
+    },
     "ftC-YBZO0M": {
         "id": "ftC-YBZO0M",
         "title": "Падение дома Ашеров",
@@ -341,18 +353,6 @@
         "author": "Йон Колфер",
         "notes": "Книга 3",
         "createdAt": "2017-09-02 14:15:13",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 127
-        }
-    },
-    "3R9yIV_Goz": {
-        "id": "3R9yIV_Goz",
-        "title": "Артемис Фаул: Миссия в Арктику",
-        "author": "Йон Колфер",
-        "notes": "Книга 2",
-        "createdAt": "2017-09-02 14:14:14",
         "user": {
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
