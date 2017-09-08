@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>14</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>15</sup>
 ---
 
 ## 2017
@@ -66,6 +66,11 @@
 ### Кукольных дел мастер
 Генри Лайон Олди
 > [2017-07] 
+
+
+### Опасные связи
+Пьер Шодерло де Лакло
+> [2017-06] 
 
 
 ### Обмен разумов
