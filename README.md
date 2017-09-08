@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Polpolpol](users/103/103995186316826099543-google)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>7</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>121</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>31</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
 [pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>7</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>54</sup> 
 
 
-_08.09.2017 05:46:13_
+_08.09.2017 07:53:38_
