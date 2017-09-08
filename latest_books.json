@@ -1,4 +1,16 @@
 {
+    "fnb4JSkTaP": {
+        "id": "fnb4JSkTaP",
+        "title": "Палата №6",
+        "author": "Антон Чехов",
+        "notes": "",
+        "createdAt": "2017-09-08 07:57:20",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 7
+        }
+    },
     "daPtOnI_2I": {
         "id": "daPtOnI_2I",
         "title": "Таинственный остров",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 312
-        }
-    },
-    "XjQYd-BvWM": {
-        "id": "XjQYd-BvWM",
-        "title": "Артемис Фаул: Ответный удар",
-        "author": "Йон Колфер",
-        "notes": "Книга 4",
-        "createdAt": "2017-09-02 14:16:19",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 128
         }
     }
 }

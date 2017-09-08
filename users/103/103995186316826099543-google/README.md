@@ -1,7 +1,12 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>6</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>7</sup>
 ---
 
 ## 2017
+
+### Палата №6
+Антон Чехов
+> [2017-09] 
+
 
 ### Таинственный остров
 Жюль Верн
