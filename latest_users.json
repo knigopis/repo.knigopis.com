@@ -1,4 +1,10 @@
 {
+    "112719946844423170489-googleplus": {
+        "id": "112719946844423170489-googleplus",
+        "nickname": "Duhanskiy",
+        "booksCount": 0,
+        "updatedAt": "2017-09-08 10:37:13"
+    },
     "103995186316826099543-google": {
         "id": "103995186316826099543-google",
         "nickname": "Polpolpol",
@@ -172,11 +178,5 @@
         "nickname": "pepethememe",
         "booksCount": 0,
         "updatedAt": "2017-08-28 11:24:12"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 7,
-        "updatedAt": "2017-08-28 10:16:44"
     }
 }
