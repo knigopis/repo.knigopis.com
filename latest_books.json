@@ -1,4 +1,16 @@
 {
+    "y_KzU3aq1T": {
+        "id": "y_KzU3aq1T",
+        "title": "Бегущий человек",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-08 08:04:46",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 26
+        }
+    },
     "jlzFcLf87K": {
         "id": "jlzFcLf87K",
         "title": "Девятнадцать минут",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 56
-        }
-    },
-    "FnXOdQtIGg": {
-        "id": "FnXOdQtIGg",
-        "title": "Мелкие боги",
-        "author": "Терри Пратчетт",
-        "notes": "Замечательное произведение великого человека. \nТонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы",
-        "createdAt": "2017-09-06 20:11:03",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 12
         }
     }
 }
