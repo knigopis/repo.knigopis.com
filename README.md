@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tama_neko](users/271/271006760-vkontakte)<sup>0</sup> 
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>27</sup> 
 [youno](users/302/302928912-vkontakte)<sup>7</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nutzi](users/197/197654375-vkontakte)<sup>1</sup> 
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
-[pepethememe](users/524/524405564573977-facebook)<sup>0</sup> 
 
 
-_08.09.2017 10:37:15_
+_08.09.2017 16:19:39_
