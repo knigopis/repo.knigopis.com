@@ -1,4 +1,16 @@
 {
+    "rIZ_8buqLU": {
+        "id": "rIZ_8buqLU",
+        "title": "Кукольник",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2017-09-08 07:59:01",
+        "user": {
+            "id": "103995186316826099543-google",
+            "nickname": "Polpolpol",
+            "booksCount": 13
+        }
+    },
     "bMjr3kXLko": {
         "id": "bMjr3kXLko",
         "title": "Куколка",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 121
-        }
-    },
-    "wFVpXjpdQC": {
-        "id": "wFVpXjpdQC",
-        "title": "Военная стратегия",
-        "author": "Г.А. Леер",
-        "notes": "Очень интересно читать фотокопию реально старой книги, с другими правилами русского языка и через ять. Удивительно, но воспринимается очень легко.\n\nhttp://www.ozon.ru/context/detail/id/7316416/\n\nВ процессе",
-        "createdAt": "2017-09-03 20:20:50",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 120
         }
     }
 }
