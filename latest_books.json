@@ -1,4 +1,16 @@
 {
+    "SG6iYaBT9h": {
+        "id": "SG6iYaBT9h",
+        "title": "война и мир",
+        "author": "толстой",
+        "notes": "",
+        "createdAt": "2017-09-09 10:16:54",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 1
+        }
+    },
     "kUV0JN5B4m": {
         "id": "kUV0JN5B4m",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 7
-        }
-    },
-    "lTqfnNvilo": {
-        "id": "lTqfnNvilo",
-        "title": "Задача на выживание",
-        "author": "Тимоти Зан",
-        "notes": "",
-        "createdAt": "2017-09-08 04:46:22",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 121
         }
     }
 }
