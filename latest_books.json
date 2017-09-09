@@ -1,4 +1,16 @@
 {
+    "G-OAb2_wmv": {
+        "id": "G-OAb2_wmv",
+        "title": "Книги крови",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2017-09-09 17:19:47",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 49
+        }
+    },
     "HOSJmriNgV": {
         "id": "HOSJmriNgV",
         "title": "Коробка в форме сердца",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 20
-        }
-    },
-    "b7A7a-xoZW": {
-        "id": "b7A7a-xoZW",
-        "title": "Преступление и наказание",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2017-09-09 16:56:07",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 19
         }
     }
 }
