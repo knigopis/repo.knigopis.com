@@ -1,4 +1,16 @@
 {
+    "5ULj7gSkiW": {
+        "id": "5ULj7gSkiW",
+        "title": "Дом странных детей",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2017-09-09 16:40:14",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 2
+        }
+    },
     "8jGezB2Zid": {
         "id": "8jGezB2Zid",
         "title": "Каньон холодных сердец",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 7
-        }
-    },
-    "daPtOnI_2I": {
-        "id": "daPtOnI_2I",
-        "title": "Таинственный остров",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-09-08 07:57:07",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 6
         }
     }
 }
