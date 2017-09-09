@@ -1,4 +1,16 @@
 {
+    "OwjDP0SQcs": {
+        "id": "OwjDP0SQcs",
+        "title": "Восставший из ада",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2017-09-09 17:12:51",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 47
+        }
+    },
     "jEswQa9Qn4": {
         "id": "jEswQa9Qn4",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 18
-        }
-    },
-    "tVHdVb-qZ2": {
-        "id": "tVHdVb-qZ2",
-        "title": "Вино из одуванчиков",
-        "author": "Рей Брэдбери",
-        "notes": "",
-        "createdAt": "2017-09-09 16:51:27",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 17
         }
     }
 }
