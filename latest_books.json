@@ -1,4 +1,16 @@
 {
+    "mfmXsE98eB": {
+        "id": "mfmXsE98eB",
+        "title": "Гарри Поттер и Принц-полукровка",
+        "author": "Джоан Кэтлин Роулинг",
+        "notes": "",
+        "createdAt": "2017-09-09 17:06:50",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 40
+        }
+    },
     "XMPhPQjsZx": {
         "id": "XMPhPQjsZx",
         "title": "Гарри Поттер и Орден Феникса.",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 11
-        }
-    },
-    "LW8H91UySG": {
-        "id": "LW8H91UySG",
-        "title": "Бегущий в лабиринте",
-        "author": "Джеймс Дэшнер",
-        "notes": "",
-        "createdAt": "2017-09-09 16:46:32",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 10
         }
     }
 }
