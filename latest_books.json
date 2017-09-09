@@ -1,4 +1,16 @@
 {
+    "nka3gG3_l6": {
+        "id": "nka3gG3_l6",
+        "title": "И вспыхнет пламя",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-09-09 16:42:40",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 5
+        }
+    },
     "vXJykUKVL0": {
         "id": "vXJykUKVL0",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 10
-        }
-    },
-    "JRiLMKQu1D": {
-        "id": "JRiLMKQu1D",
-        "title": "Королева Ойкумены",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:57:52",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 9
         }
     }
 }
