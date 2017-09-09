@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gulnara1006](users/524/52490735-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>2</sup> 
 [tama_neko](users/271/271006760-vkontakte)<sup>0</sup> 
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
 [DInnaD](users/497/497594403964454-facebook)<sup>5</sup> 
 [nutzi](users/197/197654375-vkontakte)<sup>1</sup> 
-[Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 
 
-_09.09.2017 09:56:22_
+_09.09.2017 10:02:58_
