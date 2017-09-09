@@ -1,4 +1,16 @@
 {
+    "dKAV6YQWiH": {
+        "id": "dKAV6YQWiH",
+        "title": "Зеленая миля",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-09 16:58:28",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 26
+        }
+    },
     "EltHKyIHTf": {
         "id": "EltHKyIHTf",
         "title": "Братья Карамазовы",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 2
-        }
-    },
-    "SG6iYaBT9h": {
-        "id": "SG6iYaBT9h",
-        "title": "война и мир",
-        "author": "толстой",
-        "notes": "",
-        "createdAt": "2017-09-09 10:16:54",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 1
         }
     }
 }
