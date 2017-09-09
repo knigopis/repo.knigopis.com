@@ -1,4 +1,16 @@
 {
+    "xyO93jOYWt": {
+        "id": "xyO93jOYWt",
+        "title": "Идиот",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-09-09 16:43:30",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 7
+        }
+    },
     "Bf9knvDqrH": {
         "id": "Bf9knvDqrH",
         "title": "Сойка-пересмешница",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 12
-        }
-    },
-    "eYkawZ6Tcs": {
-        "id": "eYkawZ6Tcs",
-        "title": "Кукольных дел мастер",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:58:36",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 11
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>6</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>7</sup>
 ---
 
 ## 2017
@@ -14,6 +14,10 @@
 
 
 ## 2015
+
+### Идиот
+Федор Достоевский
+
 
 ### Сойка-пересмешница
 Сьюзен Коллинз
