@@ -1,4 +1,16 @@
 {
+    "IV0GpWywKL": {
+        "id": "IV0GpWywKL",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-09-09 16:51:59",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 18
+        }
+    },
     "tVHdVb-qZ2": {
         "id": "tVHdVb-qZ2",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 23
-        }
-    },
-    "5hbBuck76A": {
-        "id": "5hbBuck76A",
-        "title": "Год Призраков",
-        "author": "Джеффри Форд",
-        "notes": "",
-        "createdAt": "2017-09-08 08:03:27",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 22
         }
     }
 }
