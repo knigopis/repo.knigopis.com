@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>3</sup> 
 [Geisterfahrer](users/279/279594688-vkontakte)<sup>0</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>2</sup> 
 [gulnara1006](users/524/52490735-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>2</sup> 
 [tama_neko](users/271/271006760-vkontakte)<sup>0</sup> 
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>27</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [jaydee26](users/383/383251823-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 10:30:40_
+_09.09.2017 10:38:30_
