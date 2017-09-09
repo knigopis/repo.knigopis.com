@@ -1,4 +1,16 @@
 {
+    "8jGezB2Zid": {
+        "id": "8jGezB2Zid",
+        "title": "Каньон холодных сердец",
+        "author": "Клайв Баркер",
+        "notes": "",
+        "createdAt": "2017-09-09 16:39:07",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 1
+        }
+    },
     "VFZ_IENda0": {
         "id": "VFZ_IENda0",
         "title": "«Мы - это наш мозг. От матки до Альцгеймера»",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 6
-        }
-    },
-    "g2LAwvn9NS": {
-        "id": "g2LAwvn9NS",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-09-08 07:56:56",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 5
         }
     }
 }
