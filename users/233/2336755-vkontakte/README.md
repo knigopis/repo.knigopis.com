@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>40</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>41</sup>
 ---
 
 ## 2017
@@ -108,6 +108,10 @@
 
 
 ## 2014
+
+### Гарри Поттер и Дары смерти
+Джоан Кэтлин Роулинг
+
 
 ### Гарри Поттер и Принц-полукровка
 Джоан Кэтлин Роулинг
