@@ -1,4 +1,16 @@
 {
+    "Bf9knvDqrH": {
+        "id": "Bf9knvDqrH",
+        "title": "Сойка-пересмешница",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-09-09 16:42:59",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 6
+        }
+    },
     "nka3gG3_l6": {
         "id": "nka3gG3_l6",
         "title": "И вспыхнет пламя",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 11
-        }
-    },
-    "oTNUAlYFbX": {
-        "id": "oTNUAlYFbX",
-        "title": "Дитя Ойкумены",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:58:16",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 10
         }
     }
 }
