@@ -1,4 +1,16 @@
 {
+    "rn9bkSg2Mo": {
+        "id": "rn9bkSg2Mo",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-09-09 16:56:44",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 21
+        }
+    },
     "4JHP87DXOI": {
         "id": "4JHP87DXOI",
         "title": "Двенадцать стульев",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 26
-        }
-    },
-    "jlzFcLf87K": {
-        "id": "jlzFcLf87K",
-        "title": "Девятнадцать минут",
-        "author": "Джоди Пиколт",
-        "notes": "",
-        "createdAt": "2017-09-08 08:04:30",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 25
         }
     }
 }
