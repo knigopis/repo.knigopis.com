@@ -1,4 +1,16 @@
 {
+    "RB677e6ZAw": {
+        "id": "RB677e6ZAw",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-09-09 17:38:05",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 57
+        }
+    },
     "27WABgppoA": {
         "id": "27WABgppoA",
         "title": "Интриганка",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 28
-        }
-    },
-    "_X5rgHHyxZ": {
-        "id": "_X5rgHHyxZ",
-        "title": "Унесенные ветром",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2017-09-09 16:58:50",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 27
         }
     }
 }
