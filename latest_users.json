@@ -1,4 +1,10 @@
 {
+    "16233635309913671535-mailru": {
+        "id": "16233635309913671535-mailru",
+        "nickname": "Наталья Викторовна",
+        "booksCount": 0,
+        "updatedAt": "2017-09-09 19:31:25"
+    },
     "18241860-vkontakte": {
         "id": "18241860-vkontakte",
         "nickname": "ilonash",
@@ -172,11 +178,5 @@
         "nickname": "Anaid ",
         "booksCount": 0,
         "updatedAt": "2017-09-02 10:03:14"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 107,
-        "updatedAt": "2017-09-02 08:03:47"
     }
 }
