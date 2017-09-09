@@ -1,4 +1,16 @@
 {
+    "pBCecS5yYE": {
+        "id": "pBCecS5yYE",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-09-09 16:44:22",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 8
+        }
+    },
     "xyO93jOYWt": {
         "id": "xyO93jOYWt",
         "title": "Идиот",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 13
-        }
-    },
-    "bMjr3kXLko": {
-        "id": "bMjr3kXLko",
-        "title": "Куколка",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:58:49",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 12
         }
     }
 }
