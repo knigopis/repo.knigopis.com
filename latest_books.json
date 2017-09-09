@@ -1,4 +1,16 @@
 {
+    "SJXZ79jMZl": {
+        "id": "SJXZ79jMZl",
+        "title": "11.22.63",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-09 16:40:34",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 3
+        }
+    },
     "5ULj7gSkiW": {
         "id": "5ULj7gSkiW",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 8
-        }
-    },
-    "fnb4JSkTaP": {
-        "id": "fnb4JSkTaP",
-        "title": "Палата №6",
-        "author": "Антон Чехов",
-        "notes": "",
-        "createdAt": "2017-09-08 07:57:20",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 7
         }
     }
 }
