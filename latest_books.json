@@ -1,4 +1,16 @@
 {
+    "lra8jOObmj": {
+        "id": "lra8jOObmj",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-09-09 17:02:10",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 31
+        }
+    },
     "RZ9iLDada2": {
         "id": "RZ9iLDada2",
         "title": "Бесы",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 2
-        }
-    },
-    "8jGezB2Zid": {
-        "id": "8jGezB2Zid",
-        "title": "Каньон холодных сердец",
-        "author": "Клайв Баркер",
-        "notes": "",
-        "createdAt": "2017-09-09 16:39:07",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 1
         }
     }
 }
