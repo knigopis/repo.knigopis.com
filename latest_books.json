@@ -1,4 +1,16 @@
 {
+    "CGsLTiRoLX": {
+        "id": "CGsLTiRoLX",
+        "title": "тихий дон",
+        "author": "шолохов",
+        "notes": "",
+        "createdAt": "2017-09-09 10:17:33",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 2
+        }
+    },
     "SG6iYaBT9h": {
         "id": "SG6iYaBT9h",
         "title": "война и мир",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 2
-        }
-    },
-    "sJjGH8CfF0": {
-        "id": "sJjGH8CfF0",
-        "title": "Продавец обуви",
-        "author": "Фил Найт",
-        "notes": "",
-        "createdAt": "2017-09-08 05:46:13",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 7
         }
     }
 }
