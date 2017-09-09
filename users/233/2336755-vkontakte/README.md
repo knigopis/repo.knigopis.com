@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>28</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>29</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 
 
 ## 2015
+
+### Милые кости
+Элис Сиболд
+
 
 ### Заводной апельсин
 Энтони Бёрджесс
