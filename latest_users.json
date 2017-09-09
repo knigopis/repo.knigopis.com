@@ -1,4 +1,10 @@
 {
+    "22419234-vkontakte": {
+        "id": "22419234-vkontakte",
+        "nickname": "Moriarty",
+        "booksCount": 0,
+        "updatedAt": "2017-09-09 11:49:00"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "anariel.liholesskaya",
         "booksCount": 0,
         "updatedAt": "2017-08-31 15:48:27"
-    },
-    "383251823-vkontakte": {
-        "id": "383251823-vkontakte",
-        "nickname": "jaydee26",
-        "booksCount": 0,
-        "updatedAt": "2017-08-30 17:11:03"
     }
 }
