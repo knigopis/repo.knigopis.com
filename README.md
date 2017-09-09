@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Наталья Викторовна](users/162/16233635309913671535-mailru)<sup>2</sup> 
+[Наталья Викторовна](users/162/16233635309913671535-mailru)<sup>3</sup> 
 [ilonash](users/182/18241860-vkontakte)<sup>0</sup> 
 [midorisan777](users/377/377046272-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>58</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 19:34:07_
+_09.09.2017 19:34:59_
