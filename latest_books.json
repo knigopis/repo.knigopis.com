@@ -1,4 +1,16 @@
 {
+    "e-BgJycFHU": {
+        "id": "e-BgJycFHU",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-09-09 16:48:55",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 13
+        }
+    },
     "umYm5tfnNC": {
         "id": "umYm5tfnNC",
         "title": "Лекарство от смерти",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 18
-        }
-    },
-    "bjcyyDJr24": {
-        "id": "bjcyyDJr24",
-        "title": "Кладбище домашних животных",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-08 08:00:46",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 17
         }
     }
 }
