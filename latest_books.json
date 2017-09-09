@@ -1,4 +1,16 @@
 {
+    "umYm5tfnNC": {
+        "id": "umYm5tfnNC",
+        "title": "Лекарство от смерти",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-09-09 16:48:10",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 12
+        }
+    },
     "NRYausNY-R": {
         "id": "NRYausNY-R",
         "title": "Испытание огнем",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 17
-        }
-    },
-    "7KiMffatkt": {
-        "id": "7KiMffatkt",
-        "title": "Худеющий",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-08 08:00:10",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 16
         }
     }
 }

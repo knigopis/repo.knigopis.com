@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>11</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>12</sup>
 ---
 
 ## 2017
@@ -45,6 +45,10 @@
 
 
 ## 2014
+
+### Лекарство от смерти
+Джеймс Дэшнер
+
 
 ### Испытание огнем
 Джеймс Дэшнер
