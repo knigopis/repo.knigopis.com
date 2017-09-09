@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>50</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>51</sup>
 ---
 
 ## 2017
@@ -22,6 +22,10 @@
 
 
 ## 2016
+
+### Призраки двадцатого века
+Джо Хилл
+
 
 ### Рога
 Джо Хилл

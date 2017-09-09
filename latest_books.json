@@ -1,4 +1,16 @@
 {
+    "VxK4G184JJ": {
+        "id": "VxK4G184JJ",
+        "title": "Призраки двадцатого века",
+        "author": "Джо Хилл",
+        "notes": "",
+        "createdAt": "2017-09-09 17:25:46",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 51
+        }
+    },
     "K1xwWGPY6Y": {
         "id": "K1xwWGPY6Y",
         "title": "Рога",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 22
-        }
-    },
-    "rn9bkSg2Mo": {
-        "id": "rn9bkSg2Mo",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-09-09 16:56:44",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 21
         }
     }
 }
