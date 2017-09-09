@@ -1,4 +1,16 @@
 {
+    "9h3DTCMWu6": {
+        "id": "9h3DTCMWu6",
+        "title": "451° по Фаренгейту",
+        "author": "Рей Брэдбери",
+        "notes": "",
+        "createdAt": "2017-09-09 16:50:49",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 15
+        }
+    },
     "pkEokr6erw": {
         "id": "pkEokr6erw",
         "title": "Тринадцатая сказка",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 20
-        }
-    },
-    "71uvUkPGRn": {
-        "id": "71uvUkPGRn",
-        "title": "Провинциальный детектив, или Приключения сестры Пелагии",
-        "author": "Борис Акунин",
-        "notes": "Все книги (3 шт.)",
-        "createdAt": "2017-09-08 08:01:25",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 19
         }
     }
 }
