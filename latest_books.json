@@ -1,4 +1,16 @@
 {
+    "2z-xMaMDvr": {
+        "id": "2z-xMaMDvr",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2017-09-09 16:45:20",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 9
+        }
+    },
     "pBCecS5yYE": {
         "id": "pBCecS5yYE",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 14
-        }
-    },
-    "rIZ_8buqLU": {
-        "id": "rIZ_8buqLU",
-        "title": "Кукольник",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:59:01",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 13
         }
     }
 }
