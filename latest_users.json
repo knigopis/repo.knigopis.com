@@ -1,4 +1,10 @@
 {
+    "18241860-vkontakte": {
+        "id": "18241860-vkontakte",
+        "nickname": "ilonash",
+        "booksCount": 0,
+        "updatedAt": "2017-09-09 18:48:05"
+    },
     "377046272-vkontakte": {
         "id": "377046272-vkontakte",
         "nickname": "midorisan777",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 107,
         "updatedAt": "2017-09-02 08:03:47"
-    },
-    "4688100-vkontakte": {
-        "id": "4688100-vkontakte",
-        "nickname": "xenus206",
-        "booksCount": 0,
-        "updatedAt": "2017-09-01 10:39:12"
     }
 }
