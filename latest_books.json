@@ -1,4 +1,16 @@
 {
+    "LW8H91UySG": {
+        "id": "LW8H91UySG",
+        "title": "Бегущий в лабиринте",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2017-09-09 16:46:32",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 10
+        }
+    },
     "2z-xMaMDvr": {
         "id": "2z-xMaMDvr",
         "title": "Убить пересмешника",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 15
-        }
-    },
-    "ThZxAZRl7B": {
-        "id": "ThZxAZRl7B",
-        "title": "Обмен разумов",
-        "author": "Роберт Шекли",
-        "notes": "",
-        "createdAt": "2017-09-08 07:59:33",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 14
         }
     }
 }
