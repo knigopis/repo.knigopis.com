@@ -1,4 +1,16 @@
 {
+    "A_ZohoFFog": {
+        "id": "A_ZohoFFog",
+        "title": "Фантомы",
+        "author": "Дин Кунц",
+        "notes": "",
+        "createdAt": "2017-09-09 17:10:36",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 43
+        }
+    },
     "80yHrr9LHm": {
         "id": "80yHrr9LHm",
         "title": "Шорохи",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 14
-        }
-    },
-    "e-BgJycFHU": {
-        "id": "e-BgJycFHU",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-09-09 16:48:55",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 13
         }
     }
 }
