@@ -1,4 +1,16 @@
 {
+    "tVHdVb-qZ2": {
+        "id": "tVHdVb-qZ2",
+        "title": "Вино из одуванчиков",
+        "author": "Рей Брэдбери",
+        "notes": "",
+        "createdAt": "2017-09-09 16:51:27",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 17
+        }
+    },
     "qxazS1ZoiT": {
         "id": "qxazS1ZoiT",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 22
-        }
-    },
-    "skIf1eJhYx": {
-        "id": "skIf1eJhYx",
-        "title": "Темная Башня",
-        "author": "Стивен Кинг",
-        "notes": "Весь цикл (7 книг)",
-        "createdAt": "2017-09-08 08:03:07",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 21
         }
     }
 }
