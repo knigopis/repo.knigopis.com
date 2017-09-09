@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>33</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>34</sup>
 ---
 
 ## 2017
@@ -41,6 +41,10 @@
 
 
 ## 2015
+
+### Стив Джобс
+Уолтер Айзексон
+
 
 ### Джейн Эйр
 Шарлотта Бронте
