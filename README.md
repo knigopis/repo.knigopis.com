@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[midorisan777](users/377/377046272-vkontakte)<sup>0</sup> 
+[midorisan777](users/377/377046272-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>58</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>26</sup> 
 [Moriarty](users/224/22419234-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 18:38:06_
+_09.09.2017 18:40:00_
