@@ -1,4 +1,16 @@
 {
+    "MJabqyKW-b": {
+        "id": "MJabqyKW-b",
+        "title": "Гарри Поттер и Философский камень.",
+        "author": "Джоан Кэтлин Роулинг",
+        "notes": "",
+        "createdAt": "2017-09-09 17:05:52",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 35
+        }
+    },
     "jwMXznp7aZ": {
         "id": "jwMXznp7aZ",
         "title": "Стив Джобс",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 6
-        }
-    },
-    "nka3gG3_l6": {
-        "id": "nka3gG3_l6",
-        "title": "И вспыхнет пламя",
-        "author": "Сьюзен Коллинз",
-        "notes": "",
-        "createdAt": "2017-09-09 16:42:40",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 5
         }
     }
 }
