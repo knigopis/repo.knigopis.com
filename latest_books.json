@@ -1,4 +1,16 @@
 {
+    "RZ9iLDada2": {
+        "id": "RZ9iLDada2",
+        "title": "Бесы",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-09-09 17:01:22",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 30
+        }
+    },
     "wbeX4yyVnZ": {
         "id": "wbeX4yyVnZ",
         "title": "Милые кости",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 1
-        }
-    },
-    "VFZ_IENda0": {
-        "id": "VFZ_IENda0",
-        "title": "«Мы - это наш мозг. От матки до Альцгеймера»",
-        "author": "Свааб Д.",
-        "notes": "5",
-        "createdAt": "2017-09-09 13:20:45",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 26
         }
     }
 }
