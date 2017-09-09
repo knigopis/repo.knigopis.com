@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 0,
+        "updatedAt": "2017-09-09 09:42:49"
+    },
     "271006760-vkontakte": {
         "id": "271006760-vkontakte",
         "nickname": "tama_neko",
@@ -172,11 +178,5 @@
         "nickname": "Astro",
         "booksCount": 44,
         "updatedAt": "2017-08-29 20:34:20"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 92,
-        "updatedAt": "2017-08-29 10:07:35"
     }
 }
