@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ilonash](users/182/18241860-vkontakte)<sup>0</sup> 
 [midorisan777](users/377/377046272-vkontakte)<sup>1</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>58</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>26</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
-[xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 18:40:00_
+_09.09.2017 18:48:05_
