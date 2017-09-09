@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>44</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>45</sup>
 ---
 
 ## 2017
@@ -14,6 +14,10 @@
 
 
 ## 2016
+
+### БДВ, или большой и добрый великан
+Роальд Даль
+
 
 ### Унесенные ветром
 Маргарет Митчелл
