@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>23</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>24</sup>
 ---
 
 ## 2017
@@ -14,6 +14,10 @@
 
 
 ## 2016
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+
 
 ### Книжный Вор
 Марк Зусак
