@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>47</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>48</sup>
 ---
 
 ## 2017
@@ -18,6 +18,10 @@
 
 
 ## 2016
+
+### Коробка в форме сердца
+Джо Хилл
+
 
 ### БДВ, или большой и добрый великан
 Роальд Даль
