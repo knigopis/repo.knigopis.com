@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>49</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>50</sup>
 ---
 
 ## 2017
@@ -22,6 +22,10 @@
 
 
 ## 2016
+
+### Рога
+Джо Хилл
+
 
 ### Коробка в форме сердца
 Джо Хилл
