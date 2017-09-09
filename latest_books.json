@@ -1,4 +1,16 @@
 {
+    "27WABgppoA": {
+        "id": "27WABgppoA",
+        "title": "Интриганка",
+        "author": "Сидни Шелдон",
+        "notes": "",
+        "createdAt": "2017-09-09 17:38:04",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 56
+        }
+    },
     "SOvMhtz6MW": {
         "id": "SOvMhtz6MW",
         "title": "Узы крови",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 27
-        }
-    },
-    "dKAV6YQWiH": {
-        "id": "dKAV6YQWiH",
-        "title": "Зеленая миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-09 16:58:28",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 26
         }
     }
 }
