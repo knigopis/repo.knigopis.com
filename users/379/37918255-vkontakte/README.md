@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>25</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>26</sup>
 ---
 
 ## 2017
+
+### «Мы - это наш мозг. От матки до Альцгеймера»
+Свааб Д.
+> [2017-09-09] 5
+
 
 ### Меняем привычки
 М. Дж. Райан

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>26</sup> 
 [Moriarty](users/224/22419234-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>3</sup> 
 [Geisterfahrer](users/279/279594688-vkontakte)<sup>0</sup> 
@@ -60,10 +61,9 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
 [Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>107</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>25</sup> 
 [xenus206](users/468/4688100-vkontakte)<sup>0</sup> 
 [IgorTichomirov](users/431/431531313-vkontakte)<sup>0</sup> 
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 11:49:39_
+_09.09.2017 13:20:45_

@@ -1,4 +1,16 @@
 {
+    "VFZ_IENda0": {
+        "id": "VFZ_IENda0",
+        "title": "«Мы - это наш мозг. От матки до Альцгеймера»",
+        "author": "Свааб Д.",
+        "notes": "5",
+        "createdAt": "2017-09-09 13:20:45",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 26
+        }
+    },
     "1BqBuT_Z10": {
         "id": "1BqBuT_Z10",
         "title": "Я-четвертый",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 5
-        }
-    },
-    "ftC-YBZO0M": {
-        "id": "ftC-YBZO0M",
-        "title": "Падение дома Ашеров",
-        "author": "Эдгар Алан По",
-        "notes": "",
-        "createdAt": "2017-09-08 07:56:22",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 4
         }
     }
 }
