@@ -1,4 +1,10 @@
 {
+    "279594688-vkontakte": {
+        "id": "279594688-vkontakte",
+        "nickname": "Geisterfahrer",
+        "booksCount": 0,
+        "updatedAt": "2017-09-09 10:30:39"
+    },
     "1717865441574584-facebook": {
         "id": "1717865441574584-facebook",
         "nickname": "kempinsky",
@@ -172,11 +178,5 @@
         "nickname": "jaydee26",
         "booksCount": 0,
         "updatedAt": "2017-08-30 17:11:03"
-    },
-    "497594403964454-facebook": {
-        "id": "497594403964454-facebook",
-        "nickname": "DInnaD",
-        "booksCount": 5,
-        "updatedAt": "2017-08-30 09:46:36"
     }
 }
