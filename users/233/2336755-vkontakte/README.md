@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>31</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>32</sup>
 ---
 
 ## 2017
@@ -104,6 +104,10 @@
 
 
 ## 2014
+
+### Мальчик в полосатой пижаме
+Джон Бойн
+
 
 ### Тайная жизнь пчел
 Сью Монк Кидд
