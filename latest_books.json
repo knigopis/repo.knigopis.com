@@ -1,4 +1,16 @@
 {
+    "TfatdF9Oz_": {
+        "id": "TfatdF9Oz_",
+        "title": "Книга демона",
+        "author": "Джо Хилл",
+        "notes": "",
+        "createdAt": "2017-09-09 17:30:58",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 54
+        }
+    },
     "Tn5fpZpyMw": {
         "id": "Tn5fpZpyMw",
         "title": "Террор",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 25
-        }
-    },
-    "IQkvO69Rnt": {
-        "id": "IQkvO69Rnt",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-09-09 16:57:54",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 24
         }
     }
 }
