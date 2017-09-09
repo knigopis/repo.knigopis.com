@@ -1,4 +1,16 @@
 {
+    "4JHP87DXOI": {
+        "id": "4JHP87DXOI",
+        "title": "Двенадцать стульев",
+        "author": "Ильф и Петров",
+        "notes": "",
+        "createdAt": "2017-09-09 16:56:27",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 20
+        }
+    },
     "b7A7a-xoZW": {
         "id": "b7A7a-xoZW",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 25
-        }
-    },
-    "8a-65F8BDu": {
-        "id": "8a-65F8BDu",
-        "title": "Ангел для сестры",
-        "author": "Пиколт Джоди",
-        "notes": "",
-        "createdAt": "2017-09-08 08:04:13",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 24
         }
     }
 }
