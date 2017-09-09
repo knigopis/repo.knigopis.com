@@ -1,4 +1,16 @@
 {
+    "ekJYwx-xdb": {
+        "id": "ekJYwx-xdb",
+        "title": "Тайная жизнь пчел",
+        "author": "Сью Монк Кидд",
+        "notes": "",
+        "createdAt": "2017-09-09 16:57:19",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 22
+        }
+    },
     "rn9bkSg2Mo": {
         "id": "rn9bkSg2Mo",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 27
-        }
-    },
-    "y_KzU3aq1T": {
-        "id": "y_KzU3aq1T",
-        "title": "Бегущий человек",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-08 08:04:46",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 26
         }
     }
 }
