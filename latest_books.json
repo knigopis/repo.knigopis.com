@@ -1,4 +1,16 @@
 {
+    "1BqBuT_Z10": {
+        "id": "1BqBuT_Z10",
+        "title": "Я-четвертый",
+        "author": "Питтакус Лор",
+        "notes": "",
+        "createdAt": "2017-09-09 11:49:39",
+        "user": {
+            "id": "22419234-vkontakte",
+            "nickname": "Moriarty",
+            "booksCount": 1
+        }
+    },
     "r11zuzfT49": {
         "id": "r11zuzfT49",
         "title": "Пентакль",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 4
-        }
-    },
-    "4CURUkpe1l": {
-        "id": "4CURUkpe1l",
-        "title": "Холодный дом",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2017-09-08 07:56:06",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 3
         }
     }
 }

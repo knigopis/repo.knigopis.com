@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Moriarty](users/224/22419234-vkontakte)<sup>0</sup> 
+[Moriarty](users/224/22419234-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>3</sup> 
 [Geisterfahrer](users/279/279594688-vkontakte)<sup>0</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>2</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [anariel.liholesskaya](users/283/283147557-vkontakte)<sup>0</sup> 
 
 
-_09.09.2017 11:49:01_
+_09.09.2017 11:49:39_
