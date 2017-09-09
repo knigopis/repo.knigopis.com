@@ -1,4 +1,16 @@
 {
+    "hDyh9-diPz": {
+        "id": "hDyh9-diPz",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2017-09-09 19:35:59",
+        "user": {
+            "id": "16233635309913671535-mailru",
+            "nickname": "Наталья Викторовна",
+            "booksCount": 5
+        }
+    },
     "C2acy8KgOT": {
         "id": "C2acy8KgOT",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 35
-        }
-    },
-    "jwMXznp7aZ": {
-        "id": "jwMXznp7aZ",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2017-09-09 17:04:28",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 34
         }
     }
 }
