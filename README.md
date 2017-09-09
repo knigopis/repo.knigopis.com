@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>1</sup> 
+[En](users/333/333646551-vkontakte)<sup>2</sup> 
 [tama_neko](users/271/271006760-vkontakte)<sup>0</sup> 
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>27</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Astro](users/282/282662025-vkontakte)<sup>44</sup> 
 
 
-_09.09.2017 09:49:14_
+_09.09.2017 09:56:22_
