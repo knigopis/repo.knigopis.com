@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>37</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>38</sup>
 ---
 
 ## 2017
@@ -108,6 +108,10 @@
 
 
 ## 2014
+
+### Гарри Поттер и Кубок огня
+Джоан Кэтлин Роулинг
+
 
 ### Гарри Поттер и Узник Азкабана.
 Джоан Кэтлин Роулинг
