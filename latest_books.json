@@ -1,4 +1,16 @@
 {
+    "b7A7a-xoZW": {
+        "id": "b7A7a-xoZW",
+        "title": "Преступление и наказание",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-09-09 16:56:07",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 19
+        }
+    },
     "IV0GpWywKL": {
         "id": "IV0GpWywKL",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 24
-        }
-    },
-    "61faAOOTuN": {
-        "id": "61faAOOTuN",
-        "title": "Я - посланник",
-        "author": "Маркус Зузак",
-        "notes": "",
-        "createdAt": "2017-09-08 08:03:53",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 23
         }
     }
 }
