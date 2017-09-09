@@ -1,4 +1,16 @@
 {
+    "vXJykUKVL0": {
+        "id": "vXJykUKVL0",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2017-09-09 16:41:10",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 4
+        }
+    },
     "SJXZ79jMZl": {
         "id": "SJXZ79jMZl",
         "title": "11.22.63",
@@ -345,18 +357,6 @@
             "id": "103995186316826099543-google",
             "nickname": "Polpolpol",
             "booksCount": 9
-        }
-    },
-    "YNWnLGfSxT": {
-        "id": "YNWnLGfSxT",
-        "title": "Изгнанница Ойкумены",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2017-09-08 07:57:36",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 8
         }
     }
 }
