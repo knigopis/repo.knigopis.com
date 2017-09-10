@@ -1,4 +1,16 @@
 {
+    "PGKbKGRf8_": {
+        "id": "PGKbKGRf8_",
+        "title": "Дневной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-09-10 17:35:48",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 11
+        }
+    },
     "RXnHg8O1Wl": {
         "id": "RXnHg8O1Wl",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 8
-        }
-    },
-    "frZQFkXSgb": {
-        "id": "frZQFkXSgb",
-        "title": "Точка возврата",
-        "author": "Михаэль Драу",
-        "notes": "",
-        "createdAt": "2017-09-10 08:54:37",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 7
         }
     }
 }
