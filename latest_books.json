@@ -1,4 +1,16 @@
 {
+    "YjqaU44py4": {
+        "id": "YjqaU44py4",
+        "title": "Проклятые",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-09-10 09:42:40",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 20
+        }
+    },
     "jil1JcZ83G": {
         "id": "jil1JcZ83G",
         "title": "Королева тьмы (Поцелуй теней)",
@@ -345,18 +357,6 @@
             "id": "377046272-vkontakte",
             "nickname": "midorisan777",
             "booksCount": 1
-        }
-    },
-    "LzDVPtrDNV": {
-        "id": "LzDVPtrDNV",
-        "title": "Мельницы богов",
-        "author": "Сидни Шелдон",
-        "notes": "",
-        "createdAt": "2017-09-09 17:38:18",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 58
         }
     }
 }

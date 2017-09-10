@@ -1,5 +1,13 @@
-# List of books read by [Лина Кауфман](http://vk.com/id143278479)<sup>19</sup>
+# List of books read by [Лина Кауфман](http://vk.com/id143278479)<sup>20</sup>
 ---
+
+## 2017
+
+### Проклятые
+Чак Паланик
+> [2017-10] 
+
+
 
 ## 2016
 
