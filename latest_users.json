@@ -1,4 +1,10 @@
 {
+    "313831364-vkontakte": {
+        "id": "313831364-vkontakte",
+        "nickname": "Lilium",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:48:59"
+    },
     "18695910-vkontakte": {
         "id": "18695910-vkontakte",
         "nickname": "nastya_gulli",
@@ -172,11 +178,5 @@
         "nickname": "tama_neko",
         "booksCount": 0,
         "updatedAt": "2017-09-08 16:19:37"
-    },
-    "112719946844423170489-googleplus": {
-        "id": "112719946844423170489-googleplus",
-        "nickname": "Duhanskiy",
-        "booksCount": 0,
-        "updatedAt": "2017-09-08 10:37:13"
     }
 }
