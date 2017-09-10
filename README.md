@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Селезнева](users/148/1484163911671633-facebook)<sup>0</sup> 
 [mashapavlova](users/105/10559372-vkontakte)<sup>0</sup> 
 [lomakova](users/159/1590890954315215-facebook)<sup>1</sup> 
 [дин дин](users/191/1918918191679662-facebook)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsanyabusel](users/961/96118990-vkontakte)<sup>0</sup> 
 [cfgkfygvsdjouhsrjlhjkdbl](users/138/138262847-vkontakte)<sup>0</sup> 
 [iana.pankratowa](users/304/304920449-yandex)<sup>0</sup> 
-[Leon](users/114/114512838393973944461-google)<sup>0</sup> 
 
 
-_10.09.2017 20:18:39_
+_10.09.2017 20:28:33_
