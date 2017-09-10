@@ -1,4 +1,16 @@
 {
+    "8TZKK4xFPc": {
+        "id": "8TZKK4xFPc",
+        "title": "Франкинштейн",
+        "author": "Мерри Шелли",
+        "notes": "",
+        "createdAt": "2017-09-10 08:55:48",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 8
+        }
+    },
     "frZQFkXSgb": {
         "id": "frZQFkXSgb",
         "title": "Точка возврата",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 47
-        }
-    },
-    "jEswQa9Qn4": {
-        "id": "jEswQa9Qn4",
-        "title": "Дракула",
-        "author": "Брэм Стокер",
-        "notes": "",
-        "createdAt": "2017-09-09 17:12:32",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 46
         }
     }
 }
