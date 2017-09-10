@@ -1,4 +1,10 @@
 {
+    "102717543806288-facebook": {
+        "id": "102717543806288-facebook",
+        "nickname": "Olga Kravt",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 15:02:10"
+    },
     "94003654-yandex": {
         "id": "94003654-yandex",
         "nickname": "n.ulko",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 268,
         "updatedAt": "2017-09-05 03:53:49"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 122,
-        "updatedAt": "2017-09-04 19:23:56"
     }
 }
