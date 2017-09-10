@@ -1,4 +1,4 @@
-# List of books read by [nastya_gulli](http://vk.com/id18695910)<sup>9</sup>
+# List of books read by [nastya_gulli](http://vk.com/id18695910)<sup>10</sup>
 ---
 
 ## 2017
@@ -19,6 +19,10 @@
 
 
 ## 2015
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Дети из камеры хранения
 Мураками Рю

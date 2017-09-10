@@ -1,4 +1,16 @@
 {
+    "RXnHg8O1Wl": {
+        "id": "RXnHg8O1Wl",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-09-10 17:35:02",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 10
+        }
+    },
     "3aSpRQi7KI": {
         "id": "3aSpRQi7KI",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 7
-        }
-    },
-    "iYM3zIUD9F": {
-        "id": "iYM3zIUD9F",
-        "title": "Мари Слип",
-        "author": "Недалеко от Гетто",
-        "notes": "",
-        "createdAt": "2017-09-10 08:52:01",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 6
         }
     }
 }
