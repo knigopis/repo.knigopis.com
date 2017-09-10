@@ -1,4 +1,16 @@
 {
+    "PSEFuErJ0K": {
+        "id": "PSEFuErJ0K",
+        "title": "",
+        "author": "Шилова",
+        "notes": "",
+        "createdAt": "2017-09-10 19:27:56",
+        "user": {
+            "id": "104724125-vkontakte",
+            "nickname": "influence16",
+            "booksCount": 1
+        }
+    },
     "RKagfiOyvL": {
         "id": "RKagfiOyvL",
         "title": "шпионский роман",
@@ -345,18 +357,6 @@
             "id": "19953757-vkontakte",
             "nickname": "Милана",
             "booksCount": 4
-        }
-    },
-    "qlJf64rqBg": {
-        "id": "qlJf64rqBg",
-        "title": "Кандид, или оптимизм",
-        "author": "Вольтер",
-        "notes": "",
-        "createdAt": "2017-09-10 18:35:45",
-        "user": {
-            "id": "86929801-vkontakte",
-            "nickname": "Полина",
-            "booksCount": 1
         }
     }
 }
