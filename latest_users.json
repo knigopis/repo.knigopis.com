@@ -1,4 +1,10 @@
 {
+    "51669619-vkontakte": {
+        "id": "51669619-vkontakte",
+        "nickname": "Nastya",
+        "booksCount": 6,
+        "updatedAt": "2017-09-10 18:37:04"
+    },
     "19953757-vkontakte": {
         "id": "19953757-vkontakte",
         "nickname": "Милана",
@@ -16,12 +22,6 @@
         "nickname": "iarwenbenadar",
         "booksCount": 0,
         "updatedAt": "2017-09-10 18:27:49"
-    },
-    "51669619-vkontakte": {
-        "id": "51669619-vkontakte",
-        "nickname": "Nastya",
-        "booksCount": 5,
-        "updatedAt": "2017-09-10 18:27:28"
     },
     "786527-vkontakte": {
         "id": "786527-vkontakte",

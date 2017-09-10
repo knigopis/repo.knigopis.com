@@ -44,10 +44,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nastya](users/516/51669619-vkontakte)<sup>6</sup> 
 [Милана](users/199/19953757-vkontakte)<sup>5</sup> 
 [Полина](users/869/86929801-vkontakte)<sup>1</sup> 
 [iarwenbenadar](users/492/49216001-vkontakte)<sup>0</sup> 
-[Nastya](users/516/51669619-vkontakte)<sup>5</sup> 
 [zina](users/786/786527-vkontakte)<sup>0</sup> 
 [o_osmagina](users/506/50652378-vkontakte)<sup>0</sup> 
 [Lilium](users/313/313831364-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>58</sup> 
 
 
-_10.09.2017 18:36:44_
+_10.09.2017 18:37:04_

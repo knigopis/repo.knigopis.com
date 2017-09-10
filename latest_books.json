@@ -1,4 +1,16 @@
 {
+    "FKBWy81zt6": {
+        "id": "FKBWy81zt6",
+        "title": "Сказания Земноморья",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:37:04",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 6
+        }
+    },
     "S317NXmjCj": {
         "id": "S317NXmjCj",
         "title": "Серия о Тане Гроттер",
@@ -345,18 +357,6 @@
             "id": "102717543806288-facebook",
             "nickname": "Olga Kravt",
             "booksCount": 1
-        }
-    },
-    "tC_o9WKTnL": {
-        "id": "tC_o9WKTnL",
-        "title": "Хрен",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 13:51:59",
-        "user": {
-            "id": "94003654-yandex",
-            "nickname": "n.ulko",
-            "booksCount": 3
         }
     }
 }
