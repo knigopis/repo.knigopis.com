@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[n.ulko](users/940/94003654-yandex)<sup>2</sup> 
+[n.ulko](users/940/94003654-yandex)<sup>3</sup> 
 [lady_filevskaya](users/243/243066854-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>21</sup> 
 [vjil](users/100/100003495005070-facebook)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 
 
-_10.09.2017 13:51:36_
+_10.09.2017 13:51:59_
