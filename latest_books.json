@@ -1,4 +1,16 @@
 {
+    "EstyXfRq6F": {
+        "id": "EstyXfRq6F",
+        "title": "черный обелиск",
+        "author": "ремарк",
+        "notes": "",
+        "createdAt": "2017-09-10 19:34:10",
+        "user": {
+            "id": "117259578808269091662-google",
+            "nickname": "Tata",
+            "booksCount": 26
+        }
+    },
     "bYHtVzRXTE": {
         "id": "bYHtVzRXTE",
         "title": "ночь в лиссабоне",
@@ -345,18 +357,6 @@
             "id": "302849706-vkontakte",
             "nickname": "oksanagilm",
             "booksCount": 4
-        }
-    },
-    "tWoPcRVzQ3": {
-        "id": "tWoPcRVzQ3",
-        "title": "Калейдоскоп",
-        "author": "Даниэла Стил",
-        "notes": "",
-        "createdAt": "2017-09-10 18:41:13",
-        "user": {
-            "id": "302849706-vkontakte",
-            "nickname": "oksanagilm",
-            "booksCount": 3
         }
     }
 }

@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tata](users/117/117259578808269091662-google)<sup>25</sup> 
+[Tata](users/117/117259578808269091662-google)<sup>26</sup> 
 [influence16](users/104/104724125-vkontakte)<sup>1</sup> 
 [chizhevskaya92](users/498/49806945-vkontakte)<sup>0</sup> 
 [gleb_gutsalyuk](users/127/12719684-vkontakte)<sup>1</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>21</sup> 
 
 
-_10.09.2017 19:33:26_
+_10.09.2017 19:34:10_
