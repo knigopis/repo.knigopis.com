@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Olga Kravt](users/102/102717543806288-facebook)<sup>0</sup> 
 [n.ulko](users/940/94003654-yandex)<sup>3</sup> 
 [lady_filevskaya](users/243/243066854-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>21</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>224</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>268</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 
 
-_10.09.2017 13:51:59_
+_10.09.2017 15:02:12_
