@@ -1,4 +1,10 @@
 {
+    "49806945-vkontakte": {
+        "id": "49806945-vkontakte",
+        "nickname": "chizhevskaya92",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 19:17:38"
+    },
     "12719684-vkontakte": {
         "id": "12719684-vkontakte",
         "nickname": "gleb_gutsalyuk",
@@ -172,11 +178,5 @@
         "nickname": "veronika_vaha",
         "booksCount": 14,
         "updatedAt": "2017-09-10 07:37:15"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 122,
-        "updatedAt": "2017-09-10 05:20:40"
     }
 }
