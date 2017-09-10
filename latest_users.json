@@ -1,4 +1,10 @@
 {
+    "1446641552071661-facebook": {
+        "id": "1446641552071661-facebook",
+        "nickname": "Zelenka15",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:34:05"
+    },
     "23306351-vkontakte": {
         "id": "23306351-vkontakte",
         "nickname": "nastasko",
@@ -172,11 +178,5 @@
         "nickname": "Duhanskiy",
         "booksCount": 0,
         "updatedAt": "2017-09-08 10:37:13"
-    },
-    "103995186316826099543-google": {
-        "id": "103995186316826099543-google",
-        "nickname": "Polpolpol",
-        "booksCount": 27,
-        "updatedAt": "2017-09-08 08:04:57"
     }
 }
