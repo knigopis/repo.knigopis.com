@@ -5,6 +5,17 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
+    > Там на нашей планете
+    > Мы реальность меняем усилием воли,
+    > Там на нашей планете 
+    > Никогда не бывает боли...
+    > Нам на нашей планете
+    > Мы тела наши носим как одежду
+    > Я на Земле задыхаюсь,
+    > Потому что Дышу надеждой
+    > Otto Dix
+
 * Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
     > Эта книга как я считаю должна быть настольной для каждой девушки.
     > Так же считаю, что эту книгу можно даже конспектировать при чтении 
@@ -15,7 +26,6 @@ Do not use pull requests to make changes here.
     > 3 части
 
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
-    > Очень понравилась книга.
 
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 
@@ -29,14 +39,12 @@ Do not use pull requests to make changes here.
 
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 
-* Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup> 
+[Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup> 
 [vjil](users/100/100003495005070-facebook)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>14</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
@@ -68,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 
 
-_10.09.2017 09:04:47_
+_10.09.2017 09:15:06_
