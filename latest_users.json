@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 4,
+        "updatedAt": "2017-09-10 01:13:33"
+    },
     "16233635309913671535-mailru": {
         "id": "16233635309913671535-mailru",
         "nickname": "Наталья Викторовна",
@@ -34,12 +40,6 @@
         "nickname": "Moriarty",
         "booksCount": 1,
         "updatedAt": "2017-09-09 11:49:39"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 3,
-        "updatedAt": "2017-09-09 10:38:30"
     },
     "279594688-vkontakte": {
         "id": "279594688-vkontakte",
