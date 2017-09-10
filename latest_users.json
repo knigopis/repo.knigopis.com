@@ -1,4 +1,10 @@
 {
+    "113705905766350034623-google": {
+        "id": "113705905766350034623-google",
+        "nickname": "Гердими",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:49:09"
+    },
     "63331538-vkontakte": {
         "id": "63331538-vkontakte",
         "nickname": "anny_sega",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 5,
         "updatedAt": "2017-09-10 01:23:06"
-    },
-    "16233635309913671535-mailru": {
-        "id": "16233635309913671535-mailru",
-        "nickname": "Наталья Викторовна",
-        "booksCount": 5,
-        "updatedAt": "2017-09-09 19:35:59"
     }
 }
