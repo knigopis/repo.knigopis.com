@@ -1,4 +1,10 @@
 {
+    "63331538-vkontakte": {
+        "id": "63331538-vkontakte",
+        "nickname": "anny_sega",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:47:16"
+    },
     "1490872947659289-facebook": {
         "id": "1490872947659289-facebook",
         "nickname": "Amuri",
@@ -172,11 +178,5 @@
         "nickname": "Наталья Викторовна",
         "booksCount": 5,
         "updatedAt": "2017-09-09 19:35:59"
-    },
-    "18241860-vkontakte": {
-        "id": "18241860-vkontakte",
-        "nickname": "ilonash",
-        "booksCount": 0,
-        "updatedAt": "2017-09-09 18:48:05"
     }
 }
