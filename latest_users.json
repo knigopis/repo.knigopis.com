@@ -1,4 +1,10 @@
 {
+    "138262847-vkontakte": {
+        "id": "138262847-vkontakte",
+        "nickname": "cfgkfygvsdjouhsrjlhjkdbl",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:25:49"
+    },
     "18695910-vkontakte": {
         "id": "18695910-vkontakte",
         "nickname": "nastya_gulli",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 30,
         "updatedAt": "2017-09-07 13:57:44"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 56,
-        "updatedAt": "2017-09-07 01:20:25"
     }
 }
