@@ -1,4 +1,10 @@
 {
+    "19953757-vkontakte": {
+        "id": "19953757-vkontakte",
+        "nickname": "Милана",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:31:44"
+    },
     "49216001-vkontakte": {
         "id": "49216001-vkontakte",
         "nickname": "iarwenbenadar",
@@ -172,11 +178,5 @@
         "nickname": "sergeybolobaev",
         "booksCount": 26,
         "updatedAt": "2017-09-09 13:20:45"
-    },
-    "22419234-vkontakte": {
-        "id": "22419234-vkontakte",
-        "nickname": "Moriarty",
-        "booksCount": 1,
-        "updatedAt": "2017-09-09 11:49:39"
     }
 }
