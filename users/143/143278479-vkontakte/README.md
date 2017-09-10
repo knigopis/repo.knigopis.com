@@ -1,5 +1,12 @@
-# List of books read by [Лина Кауфман](http://vk.com/id143278479)<sup>5</sup>
+# List of books read by [Лина Кауфман](http://vk.com/id143278479)<sup>6</sup>
 ---
+
+## 2017
+
+### Мари Слип
+Недалеко от Гетто
+
+
 
 ## 2016
 

@@ -1,4 +1,16 @@
 {
+    "iYM3zIUD9F": {
+        "id": "iYM3zIUD9F",
+        "title": "Мари Слип",
+        "author": "Недалеко от Гетто",
+        "notes": "",
+        "createdAt": "2017-09-10 08:52:01",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 6
+        }
+    },
     "xsgx9udOIK": {
         "id": "xsgx9udOIK",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 45
-        }
-    },
-    "URxAFQnt5l": {
-        "id": "URxAFQnt5l",
-        "title": "Ангелы-хранители",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2017-09-09 17:10:55",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 44
         }
     }
 }
