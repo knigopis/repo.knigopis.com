@@ -1,4 +1,16 @@
 {
+    "frZQFkXSgb": {
+        "id": "frZQFkXSgb",
+        "title": "Точка возврата",
+        "author": "Михаэль Драу",
+        "notes": "",
+        "createdAt": "2017-09-10 08:54:37",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 7
+        }
+    },
     "iYM3zIUD9F": {
         "id": "iYM3zIUD9F",
         "title": "Мари Слип",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 46
-        }
-    },
-    "mhVeMlPO9u": {
-        "id": "mhVeMlPO9u",
-        "title": "БДВ, или большой и добрый великан",
-        "author": "Роальд Даль",
-        "notes": "",
-        "createdAt": "2017-09-09 17:12:14",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 45
         }
     }
 }
