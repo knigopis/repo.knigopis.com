@@ -1,4 +1,10 @@
 {
+    "1590890954315215-facebook": {
+        "id": "1590890954315215-facebook",
+        "nickname": "lomakova",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 20:14:39"
+    },
     "444455-vkontakte": {
         "id": "444455-vkontakte",
         "nickname": "olgaboch",
@@ -172,11 +178,5 @@
         "nickname": "botaniko_o",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:05:22"
-    },
-    "233673386-vkontakte": {
-        "id": "233673386-vkontakte",
-        "nickname": "hardcoreoverdose",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:03:41"
     }
 }
