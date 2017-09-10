@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 122,
+        "updatedAt": "2017-09-10 05:20:40"
+    },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
         "nickname": "Лина Кауфман",
@@ -88,12 +94,6 @@
         "nickname": "youno",
         "booksCount": 7,
         "updatedAt": "2017-09-08 05:46:13"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 121,
-        "updatedAt": "2017-09-08 04:46:22"
     },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",

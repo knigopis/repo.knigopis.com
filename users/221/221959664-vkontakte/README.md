@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>121</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>122</sup>
 ---
 
 ## 2017
+
+### Мрачный Жнец
+Терри Пратчетт
+> [2017-09-10] 
+
 
 ### Задача на выживание
 Тимоти Зан
