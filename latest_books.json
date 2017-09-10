@@ -1,4 +1,16 @@
 {
+    "V-OldfnSyr": {
+        "id": "V-OldfnSyr",
+        "title": "Девушка с татуировкой дракона",
+        "author": "Стиг Ларссон",
+        "notes": "",
+        "createdAt": "2017-09-10 18:33:49",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 1
+        }
+    },
     "gN2g6KG3rt": {
         "id": "gN2g6KG3rt",
         "title": "Техану. Последнее из сказаний о Земноморье",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 19
-        }
-    },
-    "ZDgzwPz4PV": {
-        "id": "ZDgzwPz4PV",
-        "title": "Метценгерштейн",
-        "author": "Этгар Алан По",
-        "notes": "",
-        "createdAt": "2017-09-10 09:39:04",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 18
         }
     }
 }
