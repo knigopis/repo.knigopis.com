@@ -1,4 +1,10 @@
 {
+    "19844209-vkontakte": {
+        "id": "19844209-vkontakte",
+        "nickname": "libellle",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 23:41:32"
+    },
     "49916737-vkontakte": {
         "id": "49916737-vkontakte",
         "nickname": "noliapunk",
@@ -172,11 +178,5 @@
         "nickname": "шустрый",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:32:30"
-    },
-    "96118990-vkontakte": {
-        "id": "96118990-vkontakte",
-        "nickname": "idsanyabusel",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:27:57"
     }
 }
