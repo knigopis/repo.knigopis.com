@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
 [Tata](users/117/117259578808269091662-google)<sup>27</sup> 
 [influence16](users/104/104724125-vkontakte)<sup>1</sup> 
 [chizhevskaya92](users/498/49806945-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Olga Kravt](users/102/102717543806288-facebook)<sup>1</sup> 
 [n.ulko](users/940/94003654-yandex)<sup>3</sup> 
 [lady_filevskaya](users/243/243066854-vkontakte)<sup>0</sup> 
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>21</sup> 
 
 
-_10.09.2017 19:34:40_
+_10.09.2017 19:38:45_
