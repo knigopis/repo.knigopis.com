@@ -1,4 +1,16 @@
 {
+    "qlJf64rqBg": {
+        "id": "qlJf64rqBg",
+        "title": "Кандид, или оптимизм",
+        "author": "Вольтер",
+        "notes": "",
+        "createdAt": "2017-09-10 18:35:45",
+        "user": {
+            "id": "86929801-vkontakte",
+            "nickname": "Полина",
+            "booksCount": 1
+        }
+    },
     "WdbdmOCTEn": {
         "id": "WdbdmOCTEn",
         "title": "Девушка, которая взрывала воздушные замки",
@@ -345,18 +357,6 @@
             "id": "94003654-yandex",
             "nickname": "n.ulko",
             "booksCount": 1
-        }
-    },
-    "_30KtWovjj": {
-        "id": "_30KtWovjj",
-        "title": "SPFRCCFH",
-        "author": "Алекша Нович",
-        "notes": "",
-        "createdAt": "2017-09-10 09:48:18",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 21
         }
     }
 }
