@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>9</sup> 
+[Лина Кауфман](users/143/143278479-vkontakte)<sup>10</sup> 
 [vjil](users/100/100003495005070-facebook)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>14</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 
 
-_10.09.2017 08:57:21_
+_10.09.2017 08:59:05_
