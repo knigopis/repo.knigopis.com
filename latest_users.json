@@ -1,4 +1,10 @@
 {
+    "1710307319281320-facebook": {
+        "id": "1710307319281320-facebook",
+        "nickname": "анна",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 20:41:14"
+    },
     "1484163911671633-facebook": {
         "id": "1484163911671633-facebook",
         "nickname": "Селезнева",
@@ -172,11 +178,5 @@
         "nickname": "cfgkfygvsdjouhsrjlhjkdbl",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:25:49"
-    },
-    "304920449-yandex": {
-        "id": "304920449-yandex",
-        "nickname": "iana.pankratowa",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:14:52"
     }
 }
