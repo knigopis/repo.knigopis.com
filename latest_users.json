@@ -1,4 +1,10 @@
 {
+    "1484163911671633-facebook": {
+        "id": "1484163911671633-facebook",
+        "nickname": "Селезнева",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 20:28:33"
+    },
     "10559372-vkontakte": {
         "id": "10559372-vkontakte",
         "nickname": "mashapavlova",
@@ -172,11 +178,5 @@
         "nickname": "iana.pankratowa",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:14:52"
-    },
-    "114512838393973944461-google": {
-        "id": "114512838393973944461-google",
-        "nickname": "Leon",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:11:04"
     }
 }
