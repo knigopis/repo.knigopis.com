@@ -1,4 +1,10 @@
 {
+    "52929341-vkontakte": {
+        "id": "52929341-vkontakte",
+        "nickname": "ks_pilipenko",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:09:03"
+    },
     "18695910-vkontakte": {
         "id": "18695910-vkontakte",
         "nickname": "nastya_gulli",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 38,
         "updatedAt": "2017-09-06 15:49:39"
-    },
-    "6086605-vkontakte": {
-        "id": "6086605-vkontakte",
-        "nickname": "liza_svist",
-        "booksCount": 0,
-        "updatedAt": "2017-09-06 14:01:20"
     }
 }
