@@ -1,4 +1,16 @@
 {
+    "dyhMCHt7R2": {
+        "id": "dyhMCHt7R2",
+        "title": "Убиийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-09-10 17:09:48",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 1
+        }
+    },
     "B8G8qa5W1w": {
         "id": "B8G8qa5W1w",
         "title": "Источник",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 4
-        }
-    },
-    "hDyh9-diPz": {
-        "id": "hDyh9-diPz",
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-09-09 19:35:59",
-        "user": {
-            "id": "16233635309913671535-mailru",
-            "nickname": "Наталья Викторовна",
-            "booksCount": 5
         }
     }
 }
