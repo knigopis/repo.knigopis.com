@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Nastya](users/516/51669619-vkontakte)<sup>3</sup> 
+[Nastya](users/516/51669619-vkontakte)<sup>4</sup> 
 [zina](users/786/786527-vkontakte)<sup>0</sup> 
 [o_osmagina](users/506/50652378-vkontakte)<sup>0</sup> 
 [Lilium](users/313/313831364-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Geisterfahrer](users/279/279594688-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 18:26:13_
+_10.09.2017 18:26:34_

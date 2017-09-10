@@ -1,4 +1,16 @@
 {
+    "-W_xl5ui-s": {
+        "id": "-W_xl5ui-s",
+        "title": "На последнем берегу",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:26:34",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 4
+        }
+    },
     "deeVaAV6Da": {
         "id": "deeVaAV6Da",
         "title": "Гробницы Атуана",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 17
-        }
-    },
-    "_pcKK-kQxh": {
-        "id": "_pcKK-kQxh",
-        "title": "Она плавает в формалине",
-        "author": "Алекша Нович",
-        "notes": "",
-        "createdAt": "2017-09-10 09:24:28",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 16
         }
     }
 }
