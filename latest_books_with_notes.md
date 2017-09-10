@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
 * Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
 * 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
 * Это дело мужчин ~ [Garri938](users/114/114389869162010721507-google)<sup>34</sup>
-* Криминальные аборты ~ [Garka](users/115/115753719718250012620-google)<sup>147</sup>
 
 
-_07.09.2017 13:57:45_
+_10.09.2017 04:38:10_
