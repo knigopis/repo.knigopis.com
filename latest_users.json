@@ -1,4 +1,10 @@
 {
+    "96118990-vkontakte": {
+        "id": "96118990-vkontakte",
+        "nickname": "idsanyabusel",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:27:57"
+    },
     "138262847-vkontakte": {
         "id": "138262847-vkontakte",
         "nickname": "cfgkfygvsdjouhsrjlhjkdbl",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 31,
         "updatedAt": "2017-09-08 03:10:28"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 30,
-        "updatedAt": "2017-09-07 13:57:44"
     }
 }
