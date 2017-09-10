@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
 [hardcoreoverdose](users/233/233673386-vkontakte)<sup>0</sup> 
 [Olga Kravt](users/102/102717543806288-facebook)<sup>1</sup> 
 [n.ulko](users/940/94003654-yandex)<sup>3</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>38</sup> 
 [liza_svist](users/608/6086605-vkontakte)<sup>0</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>224</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>149</sup> 
 
 
-_10.09.2017 17:03:42_
+_10.09.2017 17:05:23_
