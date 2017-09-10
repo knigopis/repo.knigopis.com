@@ -1,4 +1,10 @@
 {
+    "444455-vkontakte": {
+        "id": "444455-vkontakte",
+        "nickname": "olgaboch",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 19:56:54"
+    },
     "20124175-vkontakte": {
         "id": "20124175-vkontakte",
         "nickname": "AlexMadly",
@@ -172,11 +178,5 @@
         "nickname": "hardcoreoverdose",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:03:41"
-    },
-    "102717543806288-facebook": {
-        "id": "102717543806288-facebook",
-        "nickname": "Olga Kravt",
-        "booksCount": 1,
-        "updatedAt": "2017-09-10 15:03:04"
     }
 }
