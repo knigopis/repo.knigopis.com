@@ -1,4 +1,16 @@
 {
+    "HUzqhqTf3y": {
+        "id": "HUzqhqTf3y",
+        "title": "Поцелуй императрицы",
+        "author": "Антон Егоров",
+        "notes": "",
+        "createdAt": "2017-09-10 09:17:54",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 14
+        }
+    },
     "q92Tn3IS3I": {
         "id": "q92Tn3IS3I",
         "title": "Война Вампиров (Пленник Марса)",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 53
-        }
-    },
-    "ZFDx4g-qUd": {
-        "id": "ZFDx4g-qUd",
-        "title": "Я - легенда",
-        "author": "Ричард Мэтисон",
-        "notes": "",
-        "createdAt": "2017-09-09 17:28:02",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 52
         }
     }
 }
