@@ -1,4 +1,10 @@
 {
+    "87639392-vkontakte": {
+        "id": "87639392-vkontakte",
+        "nickname": "veronika_vaha",
+        "booksCount": 12,
+        "updatedAt": "2017-09-10 07:34:54"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "ana.21",
         "booksCount": 312,
         "updatedAt": "2017-09-02 18:55:00"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 127,
-        "updatedAt": "2017-09-02 14:16:21"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "hwSaLd5tlT": {
+        "id": "hwSaLd5tlT",
+        "title": "Академия Проклятий",
+        "author": "Елена Звездная",
+        "notes": "Очень понравилась книга.",
+        "createdAt": "2017-09-10 07:34:54",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 12
+        }
+    },
     "yh63aJq5pL": {
         "id": "yh63aJq5pL",
         "title": "Ромео и Джульетта",
@@ -345,18 +357,6 @@
             "id": "113794223924688167852-google",
             "nickname": "Victoria",
             "booksCount": 31
-        }
-    },
-    "HW6_YNV9iE": {
-        "id": "HW6_YNV9iE",
-        "title": "Это дело мужчин",
-        "author": "Чейз Д. Х.",
-        "notes": "Детектив про Америку 40 годов. Не самый закрученный сюжет, но когда читает ее Владимир Самойлов. Слушать ее приятно. Рекомендую.",
-        "createdAt": "2017-08-22 14:58:04",
-        "user": {
-            "id": "114389869162010721507-google",
-            "nickname": "Garri938",
-            "booksCount": 34
         }
     }
 }

@@ -1,5 +1,13 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>11</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>12</sup>
 ---
+
+## 2017
+
+### Академия Проклятий
+Елена Звездная
+> Очень понравилась книга.
+
+
 
 ## 2016
 
