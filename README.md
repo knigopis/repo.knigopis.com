@@ -44,7 +44,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tata](users/117/117259578808269091662-google)<sup>10</sup> 
+[Tata](users/117/117259578808269091662-google)<sup>11</sup> 
+[influence16](users/104/104724125-vkontakte)<sup>0</sup> 
 [chizhevskaya92](users/498/49806945-vkontakte)<sup>0</sup> 
 [gleb_gutsalyuk](users/127/12719684-vkontakte)<sup>1</sup> 
 [Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [n.ulko](users/940/94003654-yandex)<sup>3</sup> 
 [lady_filevskaya](users/243/243066854-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>21</sup> 
-[vjil](users/100/100003495005070-facebook)<sup>0</sup> 
 
 
-_10.09.2017 19:26:02_
+_10.09.2017 19:26:22_
