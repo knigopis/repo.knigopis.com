@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "Лина Кауфман",
+        "booksCount": 5,
+        "updatedAt": "2017-09-10 08:49:17"
+    },
     "100003495005070-facebook": {
         "id": "100003495005070-facebook",
         "nickname": "vjil",
@@ -16,12 +22,6 @@
         "nickname": "geyski",
         "booksCount": 122,
         "updatedAt": "2017-09-10 05:20:40"
-    },
-    "143278479-vkontakte": {
-        "id": "143278479-vkontakte",
-        "nickname": "Лина Кауфман",
-        "booksCount": 4,
-        "updatedAt": "2017-09-10 04:38:10"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",

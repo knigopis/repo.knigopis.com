@@ -1,4 +1,16 @@
 {
+    "xsgx9udOIK": {
+        "id": "xsgx9udOIK",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронтэ",
+        "notes": "",
+        "createdAt": "2017-09-10 08:49:17",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 5
+        }
+    },
     "pTT451Hgxw": {
         "id": "pTT451Hgxw",
         "title": "Крылья",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 44
-        }
-    },
-    "A_ZohoFFog": {
-        "id": "A_ZohoFFog",
-        "title": "Фантомы",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2017-09-09 17:10:36",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 43
         }
     }
 }
