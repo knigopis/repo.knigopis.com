@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Leon](users/114/114512838393973944461-google)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>1</sup> 
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 [botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>30</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>38</sup> 
 
 
-_10.09.2017 17:09:48_
+_10.09.2017 17:11:04_
