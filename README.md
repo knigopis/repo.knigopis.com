@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
 [anny_sega](users/633/63331538-vkontakte)<sup>0</sup> 
 [Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
 [oksanagilm](users/302/302849706-vkontakte)<sup>5</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [veronika_vaha](users/876/87639392-vkontakte)<sup>14</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [En](users/333/333646551-vkontakte)<sup>5</sup> 
-[Наталья Викторовна](users/162/16233635309913671535-mailru)<sup>5</sup> 
 
 
-_10.09.2017 18:47:17_
+_10.09.2017 18:49:09_
