@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
 [oksanagilm](users/302/302849706-vkontakte)<sup>5</sup> 
 [Милана](users/199/19953757-vkontakte)<sup>9</sup> 
 [Nastya](users/516/51669619-vkontakte)<sup>7</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>5</sup> 
 [Наталья Викторовна](users/162/16233635309913671535-mailru)<sup>5</sup> 
 [ilonash](users/182/18241860-vkontakte)<sup>0</sup> 
-[midorisan777](users/377/377046272-vkontakte)<sup>1</sup> 
 
 
-_10.09.2017 18:43:27_
+_10.09.2017 18:45:12_
