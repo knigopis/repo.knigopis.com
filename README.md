@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[iana.pankratowa](users/304/304920449-yandex)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>3</sup> 
 [Leon](users/114/114512838393973944461-google)<sup>0</sup> 
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>31</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>30</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 
 
-_10.09.2017 17:13:37_
+_10.09.2017 17:14:52_
