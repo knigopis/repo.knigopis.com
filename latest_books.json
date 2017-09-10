@@ -1,4 +1,16 @@
 {
+    "ab8RRp0HO0": {
+        "id": "ab8RRp0HO0",
+        "title": "Зов кукушки",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-09-10 18:52:13",
+        "user": {
+            "id": "12719684-vkontakte",
+            "nickname": "gleb_gutsalyuk",
+            "booksCount": 1
+        }
+    },
     "i_UduEQRvL": {
         "id": "i_UduEQRvL",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 10
-        }
-    },
-    "3aSpRQi7KI": {
-        "id": "3aSpRQi7KI",
-        "title": "Над пропастью во ржи",
-        "author": "Джэром Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-09-10 17:34:34",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 9
         }
     }
 }
