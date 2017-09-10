@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "Лина Кауфман",
+        "booksCount": 3,
+        "updatedAt": "2017-09-10 03:28:20"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 127,
         "updatedAt": "2017-09-02 14:16:21"
-    },
-    "251826667-vkontakte": {
-        "id": "251826667-vkontakte",
-        "nickname": "Anaid ",
-        "booksCount": 0,
-        "updatedAt": "2017-09-02 10:03:14"
     }
 }

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лина Кауфман](users/143/143278479-vkontakte)<sup>3</sup> 
 [En](users/333/333646551-vkontakte)<sup>5</sup> 
 [Наталья Викторовна](users/162/16233635309913671535-mailru)<sup>5</sup> 
 [ilonash](users/182/18241860-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>127</sup> 
-[Anaid ](users/251/251826667-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 01:23:06_
+_10.09.2017 03:28:20_
