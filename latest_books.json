@@ -1,4 +1,16 @@
 {
+    "-RCPOXYFhF": {
+        "id": "-RCPOXYFhF",
+        "title": "Маленький принц",
+        "author": "А.Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-09-10 17:38:21",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 14
+        }
+    },
     "7uYWRNHg6m": {
         "id": "7uYWRNHg6m",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 11
-        }
-    },
-    "qwx2s_Y-9-": {
-        "id": "qwx2s_Y-9-",
-        "title": "Путешествие в Пяткаранту",
-        "author": "Мари Слип",
-        "notes": "",
-        "createdAt": "2017-09-10 08:59:05",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 10
         }
     }
 }
