@@ -1,4 +1,10 @@
 {
+    "233673386-vkontakte": {
+        "id": "233673386-vkontakte",
+        "nickname": "hardcoreoverdose",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:03:41"
+    },
     "102717543806288-facebook": {
         "id": "102717543806288-facebook",
         "nickname": "Olga Kravt",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 149,
         "updatedAt": "2017-09-05 20:03:57"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 268,
-        "updatedAt": "2017-09-05 03:53:49"
     }
 }
