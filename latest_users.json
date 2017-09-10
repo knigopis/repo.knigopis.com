@@ -1,4 +1,10 @@
 {
+    "10559372-vkontakte": {
+        "id": "10559372-vkontakte",
+        "nickname": "mashapavlova",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 20:18:39"
+    },
     "1590890954315215-facebook": {
         "id": "1590890954315215-facebook",
         "nickname": "lomakova",
@@ -172,11 +178,5 @@
         "nickname": "Leon",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:11:04"
-    },
-    "52929341-vkontakte": {
-        "id": "52929341-vkontakte",
-        "nickname": "ks_pilipenko",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:09:03"
     }
 }
