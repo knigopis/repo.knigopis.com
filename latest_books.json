@@ -1,4 +1,16 @@
 {
+    "6rECz_gtub": {
+        "id": "6rECz_gtub",
+        "title": "На иных ветрах",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:37:24",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 7
+        }
+    },
     "IYMkh4JD6P": {
         "id": "IYMkh4JD6P",
         "title": "Серия о Мефодии Буслаеве",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 2
-        }
-    },
-    "dyhMCHt7R2": {
-        "id": "dyhMCHt7R2",
-        "title": "Убиийство Роджера Экройда",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-09-10 17:09:48",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 1
         }
     }
 }

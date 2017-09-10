@@ -1,7 +1,11 @@
-# List of books read by [Nastya](http://vk.com/id51669619)<sup>6</sup>
+# List of books read by [Nastya](http://vk.com/id51669619)<sup>7</sup>
 ---
 
 ## 2017
+
+### На иных ветрах
+Урсула Ле Гуин
+
 
 ### Сказания Земноморья
 Урсула Ле Гуин
