@@ -1,4 +1,10 @@
 {
+    "12719684-vkontakte": {
+        "id": "12719684-vkontakte",
+        "nickname": "gleb_gutsalyuk",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:51:44"
+    },
     "113705905766350034623-google": {
         "id": "113705905766350034623-google",
         "nickname": "Гердими",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 122,
         "updatedAt": "2017-09-10 05:20:40"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 5,
-        "updatedAt": "2017-09-10 01:23:06"
     }
 }
