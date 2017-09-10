@@ -1,4 +1,16 @@
 {
+    "CdUciYj12G": {
+        "id": "CdUciYj12G",
+        "title": "Серия о Гарри Поттере",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-09-10 18:36:10",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 4
+        }
+    },
     "qlJf64rqBg": {
         "id": "qlJf64rqBg",
         "title": "Кандид, или оптимизм",
@@ -345,18 +357,6 @@
             "id": "94003654-yandex",
             "nickname": "n.ulko",
             "booksCount": 2
-        }
-    },
-    "qE9iYHWDrq": {
-        "id": "qE9iYHWDrq",
-        "title": "50 оттенков серого",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 13:51:07",
-        "user": {
-            "id": "94003654-yandex",
-            "nickname": "n.ulko",
-            "booksCount": 1
         }
     }
 }
