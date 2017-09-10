@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zina](users/786/786527-vkontakte)<sup>0</sup> 
 [o_osmagina](users/506/50652378-vkontakte)<sup>0</sup> 
 [Lilium](users/313/313831364-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>15</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Moriarty](users/224/22419234-vkontakte)<sup>1</sup> 
 [Geisterfahrer](users/279/279594688-vkontakte)<sup>0</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>2</sup> 
-[gulnara1006](users/524/52490735-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 17:54:27_
+_10.09.2017 18:05:59_
