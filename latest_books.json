@@ -1,4 +1,16 @@
 {
+    "SbeRF3_YVo": {
+        "id": "SbeRF3_YVo",
+        "title": "Дети из камеры хранения",
+        "author": "Мураками Рю",
+        "notes": "",
+        "createdAt": "2017-09-10 17:21:06",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 6
+        }
+    },
     "xFyG5OBs-T": {
         "id": "xFyG5OBs-T",
         "title": "Одиннадцать минут",
@@ -345,18 +357,6 @@
             "id": "87639392-vkontakte",
             "nickname": "veronika_vaha",
             "booksCount": 13
-        }
-    },
-    "hwSaLd5tlT": {
-        "id": "hwSaLd5tlT",
-        "title": "Академия Проклятий",
-        "author": "Елена Звездная",
-        "notes": "Очень понравилась книга.",
-        "createdAt": "2017-09-10 07:34:54",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 12
         }
     }
 }
