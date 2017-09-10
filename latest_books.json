@@ -1,4 +1,16 @@
 {
+    "B8G8qa5W1w": {
+        "id": "B8G8qa5W1w",
+        "title": "Источник",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2017-09-10 15:03:04",
+        "user": {
+            "id": "102717543806288-facebook",
+            "nickname": "Olga Kravt",
+            "booksCount": 1
+        }
+    },
     "tC_o9WKTnL": {
         "id": "tC_o9WKTnL",
         "title": "Хрен",
@@ -345,18 +357,6 @@
             "id": "16233635309913671535-mailru",
             "nickname": "Наталья Викторовна",
             "booksCount": 5
-        }
-    },
-    "C2acy8KgOT": {
-        "id": "C2acy8KgOT",
-        "title": "Евгений Онегин",
-        "author": "А.С. Пушкин",
-        "notes": "",
-        "createdAt": "2017-09-09 19:35:30",
-        "user": {
-            "id": "16233635309913671535-mailru",
-            "nickname": "Наталья Викторовна",
-            "booksCount": 4
         }
     }
 }
