@@ -1,4 +1,16 @@
 {
+    "tWoPcRVzQ3": {
+        "id": "tWoPcRVzQ3",
+        "title": "Калейдоскоп",
+        "author": "Даниэла Стил",
+        "notes": "",
+        "createdAt": "2017-09-10 18:41:13",
+        "user": {
+            "id": "302849706-vkontakte",
+            "nickname": "oksanagilm",
+            "booksCount": 3
+        }
+    },
     "SNgiYRXRGk": {
         "id": "SNgiYRXRGk",
         "title": "Нагим пришёл я",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 7
-        }
-    },
-    "SbeRF3_YVo": {
-        "id": "SbeRF3_YVo",
-        "title": "Дети из камеры хранения",
-        "author": "Мураками Рю",
-        "notes": "",
-        "createdAt": "2017-09-10 17:21:06",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 6
         }
     }
 }

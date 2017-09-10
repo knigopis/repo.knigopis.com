@@ -1,7 +1,11 @@
-# List of books read by [oksanagilm](http://vk.com/id302849706)<sup>2</sup>
+# List of books read by [oksanagilm](http://vk.com/id302849706)<sup>3</sup>
 ---
 
 ## 2014
+
+### Калейдоскоп
+Даниэла Стил
+
 
 ### Нагим пришёл я
 Дэвид Вэйс
