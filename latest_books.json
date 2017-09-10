@@ -1,4 +1,16 @@
 {
+    "WsWuxbpoqe": {
+        "id": "WsWuxbpoqe",
+        "title": "Маг Земноморья",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:25:27",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 2
+        }
+    },
     "ekMSJsJa1q": {
         "id": "ekMSJsJa1q",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 15
-        }
-    },
-    "HUzqhqTf3y": {
-        "id": "HUzqhqTf3y",
-        "title": "Поцелуй императрицы",
-        "author": "Антон Егоров",
-        "notes": "",
-        "createdAt": "2017-09-10 09:17:54",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 14
         }
     }
 }
