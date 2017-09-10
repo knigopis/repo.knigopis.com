@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[шустрый](users/524/52473577-vkontakte)<sup>0</sup> 
 [idsanyabusel](users/961/96118990-vkontakte)<sup>0</sup> 
 [cfgkfygvsdjouhsrjlhjkdbl](users/138/138262847-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>8</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>27</sup> 
 [youno](users/302/302928912-vkontakte)<sup>7</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>31</sup> 
 
 
-_10.09.2017 17:27:57_
+_10.09.2017 17:32:31_
