@@ -1,4 +1,10 @@
 {
+    "786527-vkontakte": {
+        "id": "786527-vkontakte",
+        "nickname": "zina",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:05:58"
+    },
     "50652378-vkontakte": {
         "id": "50652378-vkontakte",
         "nickname": "o_osmagina",
@@ -172,11 +178,5 @@
         "nickname": "kempinsky",
         "booksCount": 2,
         "updatedAt": "2017-09-09 10:17:33"
-    },
-    "52490735-vkontakte": {
-        "id": "52490735-vkontakte",
-        "nickname": "gulnara1006",
-        "booksCount": 0,
-        "updatedAt": "2017-09-09 10:02:56"
     }
 }
