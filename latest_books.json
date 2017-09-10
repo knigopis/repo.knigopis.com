@@ -1,4 +1,16 @@
 {
+    "hoKdX1ngFX": {
+        "id": "hoKdX1ngFX",
+        "title": "Дьявол",
+        "author": "Хорнер Ланс",
+        "notes": "",
+        "createdAt": "2017-09-10 18:43:00",
+        "user": {
+            "id": "302849706-vkontakte",
+            "nickname": "oksanagilm",
+            "booksCount": 4
+        }
+    },
     "tWoPcRVzQ3": {
         "id": "tWoPcRVzQ3",
         "title": "Калейдоскоп",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 8
-        }
-    },
-    "UWV_TChvsy": {
-        "id": "UWV_TChvsy",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-09-10 17:22:33",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 7
         }
     }
 }
