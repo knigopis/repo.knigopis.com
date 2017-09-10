@@ -1,4 +1,16 @@
 {
+    "BANP9x6ada": {
+        "id": "BANP9x6ada",
+        "title": "",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-09-10 19:58:33",
+        "user": {
+            "id": "444455-vkontakte",
+            "nickname": "olgaboch",
+            "booksCount": 1
+        }
+    },
     "zZ4W4_7SSK": {
         "id": "zZ4W4_7SSK",
         "title": "Судьба человека",
@@ -344,18 +356,6 @@
         "user": {
             "id": "117259578808269091662-google",
             "nickname": "Tata",
-            "booksCount": 1
-        }
-    },
-    "ab8RRp0HO0": {
-        "id": "ab8RRp0HO0",
-        "title": "Зов кукушки",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 18:52:13",
-        "user": {
-            "id": "12719684-vkontakte",
-            "nickname": "gleb_gutsalyuk",
             "booksCount": 1
         }
     }
