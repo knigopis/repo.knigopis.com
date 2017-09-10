@@ -44,8 +44,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nastya_gulli](users/186/18695910-vkontakte)<sup>15</sup> 
 [Zelenka15](users/144/1446641552071661-facebook)<sup>1</sup> 
-[nastya_gulli](users/186/18695910-vkontakte)<sup>14</sup> 
 [nastasko](users/233/23306351-vkontakte)<sup>0</sup> 
 [шустрый](users/524/52473577-vkontakte)<sup>0</sup> 
 [idsanyabusel](users/961/96118990-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 
 
-_10.09.2017 17:39:26_
+_10.09.2017 17:39:33_
