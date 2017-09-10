@@ -44,12 +44,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nastya_gulli](users/186/18695910-vkontakte)<sup>9</sup> 
 [Zelenka15](users/144/1446641552071661-facebook)<sup>0</sup> 
 [nastasko](users/233/23306351-vkontakte)<sup>0</sup> 
 [шустрый](users/524/52473577-vkontakte)<sup>0</sup> 
 [idsanyabusel](users/961/96118990-vkontakte)<sup>0</sup> 
 [cfgkfygvsdjouhsrjlhjkdbl](users/138/138262847-vkontakte)<sup>0</sup> 
-[nastya_gulli](users/186/18695910-vkontakte)<sup>8</sup> 
 [iana.pankratowa](users/304/304920449-yandex)<sup>0</sup> 
 [Leon](users/114/114512838393973944461-google)<sup>0</sup> 
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 
 
-_10.09.2017 17:34:06_
+_10.09.2017 17:34:34_

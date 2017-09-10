@@ -1,4 +1,10 @@
 {
+    "18695910-vkontakte": {
+        "id": "18695910-vkontakte",
+        "nickname": "nastya_gulli",
+        "booksCount": 9,
+        "updatedAt": "2017-09-10 17:34:34"
+    },
     "1446641552071661-facebook": {
         "id": "1446641552071661-facebook",
         "nickname": "Zelenka15",
@@ -28,12 +34,6 @@
         "nickname": "cfgkfygvsdjouhsrjlhjkdbl",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:25:49"
-    },
-    "18695910-vkontakte": {
-        "id": "18695910-vkontakte",
-        "nickname": "nastya_gulli",
-        "booksCount": 8,
-        "updatedAt": "2017-09-10 17:23:15"
     },
     "304920449-yandex": {
         "id": "304920449-yandex",

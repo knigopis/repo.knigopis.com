@@ -1,4 +1,16 @@
 {
+    "3aSpRQi7KI": {
+        "id": "3aSpRQi7KI",
+        "title": "Над пропастью во ржи",
+        "author": "Джэром Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-09-10 17:34:34",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 9
+        }
+    },
     "ZS0wLHxZDv": {
         "id": "ZS0wLHxZDv",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 6
-        }
-    },
-    "xsgx9udOIK": {
-        "id": "xsgx9udOIK",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронтэ",
-        "notes": "",
-        "createdAt": "2017-09-10 08:49:17",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 5
         }
     }
 }
