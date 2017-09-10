@@ -1,4 +1,16 @@
 {
+    "7uYWRNHg6m": {
+        "id": "7uYWRNHg6m",
+        "title": "Ночной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-09-10 17:37:26",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 13
+        }
+    },
     "-kkv83lGmI": {
         "id": "-kkv83lGmI",
         "title": "Сумеречный дозор",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 10
-        }
-    },
-    "cnKlCjNC5W": {
-        "id": "cnKlCjNC5W",
-        "title": "Старуха Изергиль",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-09-10 08:57:21",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 9
         }
     }
 }
