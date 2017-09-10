@@ -1,9 +1,15 @@
 {
+    "104724125-vkontakte": {
+        "id": "104724125-vkontakte",
+        "nickname": "influence16",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 19:26:02"
+    },
     "117259578808269091662-google": {
         "id": "117259578808269091662-google",
         "nickname": "Tata",
-        "booksCount": 9,
-        "updatedAt": "2017-09-10 19:25:40"
+        "booksCount": 10,
+        "updatedAt": "2017-09-10 19:26:02"
     },
     "49806945-vkontakte": {
         "id": "49806945-vkontakte",
@@ -172,11 +178,5 @@
         "nickname": "Лина Кауфман",
         "booksCount": 21,
         "updatedAt": "2017-09-10 09:48:18"
-    },
-    "100003495005070-facebook": {
-        "id": "100003495005070-facebook",
-        "nickname": "vjil",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 07:41:31"
     }
 }
