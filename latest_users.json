@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 29,
+        "updatedAt": "2017-09-10 19:40:13"
+    },
     "1931707870486451-facebook": {
         "id": "1931707870486451-facebook",
         "nickname": "Trililiputessa",
@@ -172,11 +178,5 @@
         "nickname": "n.ulko",
         "booksCount": 3,
         "updatedAt": "2017-09-10 13:51:59"
-    },
-    "243066854-vkontakte": {
-        "id": "243066854-vkontakte",
-        "nickname": "lady_filevskaya",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 10:48:48"
     }
 }

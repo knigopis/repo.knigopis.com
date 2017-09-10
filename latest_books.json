@@ -1,4 +1,16 @@
 {
+    "zZ4W4_7SSK": {
+        "id": "zZ4W4_7SSK",
+        "title": "Судьба человека",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2017-09-10 19:40:13",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 29
+        }
+    },
     "MzDIAGnVi5": {
         "id": "MzDIAGnVi5",
         "title": "над кукушкиным гнездом",
@@ -345,18 +357,6 @@
             "id": "12719684-vkontakte",
             "nickname": "gleb_gutsalyuk",
             "booksCount": 1
-        }
-    },
-    "i_UduEQRvL": {
-        "id": "i_UduEQRvL",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 18:43:27",
-        "user": {
-            "id": "302849706-vkontakte",
-            "nickname": "oksanagilm",
-            "booksCount": 5
         }
     }
 }

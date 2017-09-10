@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
 [Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
 [Tata](users/117/117259578808269091662-google)<sup>27</sup> 
 [influence16](users/104/104724125-vkontakte)<sup>1</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hardcoreoverdose](users/233/233673386-vkontakte)<sup>0</sup> 
 [Olga Kravt](users/102/102717543806288-facebook)<sup>1</sup> 
 [n.ulko](users/940/94003654-yandex)<sup>3</sup> 
-[lady_filevskaya](users/243/243066854-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 19:38:45_
+_10.09.2017 19:40:13_
