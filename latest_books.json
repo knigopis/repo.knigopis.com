@@ -1,4 +1,16 @@
 {
+    "tCPfiFZ7A8": {
+        "id": "tCPfiFZ7A8",
+        "title": "Властелин колец",
+        "author": "Джон Толкиен",
+        "notes": "",
+        "createdAt": "2017-09-10 18:39:24",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 9
+        }
+    },
     "0T0XD1DNC2": {
         "id": "0T0XD1DNC2",
         "title": "Хирург",
@@ -341,18 +353,6 @@
         "author": "Пауло Коэльо",
         "notes": "",
         "createdAt": "2017-09-10 17:18:04",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 4
-        }
-    },
-    "991lspm5ru": {
-        "id": "991lspm5ru",
-        "title": "Дневник черной смерти -",
-        "author": "ЭннсБенсон",
-        "notes": "",
-        "createdAt": "2017-09-10 17:12:50",
         "user": {
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
