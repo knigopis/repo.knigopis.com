@@ -1,4 +1,10 @@
 {
+    "1490872947659289-facebook": {
+        "id": "1490872947659289-facebook",
+        "nickname": "Amuri",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 18:45:11"
+    },
     "302849706-vkontakte": {
         "id": "302849706-vkontakte",
         "nickname": "oksanagilm",
@@ -172,11 +178,5 @@
         "nickname": "ilonash",
         "booksCount": 0,
         "updatedAt": "2017-09-09 18:48:05"
-    },
-    "377046272-vkontakte": {
-        "id": "377046272-vkontakte",
-        "nickname": "midorisan777",
-        "booksCount": 1,
-        "updatedAt": "2017-09-09 18:40:00"
     }
 }
