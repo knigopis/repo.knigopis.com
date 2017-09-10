@@ -1,4 +1,10 @@
 {
+    "304920449-yandex": {
+        "id": "304920449-yandex",
+        "nickname": "iana.pankratowa",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:14:52"
+    },
     "18695910-vkontakte": {
         "id": "18695910-vkontakte",
         "nickname": "nastya_gulli",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 56,
         "updatedAt": "2017-09-07 01:20:25"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 12,
-        "updatedAt": "2017-09-06 20:11:03"
     }
 }
