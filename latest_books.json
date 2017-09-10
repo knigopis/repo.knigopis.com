@@ -1,4 +1,16 @@
 {
+    "gN2g6KG3rt": {
+        "id": "gN2g6KG3rt",
+        "title": "Техану. Последнее из сказаний о Земноморье",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:27:28",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 5
+        }
+    },
     "-W_xl5ui-s": {
         "id": "-W_xl5ui-s",
         "title": "На последнем берегу",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 18
-        }
-    },
-    "BNM-NeHubO": {
-        "id": "BNM-NeHubO",
-        "title": "Девочка со спичками",
-        "author": "Ганс Христиан Андерсон",
-        "notes": "",
-        "createdAt": "2017-09-10 09:36:48",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 17
         }
     }
 }
