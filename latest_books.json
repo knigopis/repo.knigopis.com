@@ -1,4 +1,16 @@
 {
+    "ajsBzUp6gq": {
+        "id": "ajsBzUp6gq",
+        "title": "Игра Престолов",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:37:55",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 7
+        }
+    },
     "6rECz_gtub": {
         "id": "6rECz_gtub",
         "title": "На иных ветрах",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 3
-        }
-    },
-    "MxQwV-jKtH": {
-        "id": "MxQwV-jKtH",
-        "title": "Есть, молиться, любить.",
-        "author": "Элизабет Гилберт",
-        "notes": "",
-        "createdAt": "2017-09-10 17:11:43",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 2
         }
     }
 }
