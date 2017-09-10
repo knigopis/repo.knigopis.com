@@ -1,4 +1,16 @@
 {
+    "J1Y6J5gzVm": {
+        "id": "J1Y6J5gzVm",
+        "title": "Девушка, которая играла с огнем",
+        "author": "Стиг Ларссон",
+        "notes": "",
+        "createdAt": "2017-09-10 18:34:44",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 2
+        }
+    },
     "V-OldfnSyr": {
         "id": "V-OldfnSyr",
         "title": "Девушка с татуировкой дракона",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 20
-        }
-    },
-    "jil1JcZ83G": {
-        "id": "jil1JcZ83G",
-        "title": "Королева тьмы (Поцелуй теней)",
-        "author": "Лорелл Гаммильтон",
-        "notes": "",
-        "createdAt": "2017-09-10 09:41:10",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 19
         }
     }
 }
