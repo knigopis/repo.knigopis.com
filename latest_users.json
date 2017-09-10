@@ -1,4 +1,10 @@
 {
+    "52473577-vkontakte": {
+        "id": "52473577-vkontakte",
+        "nickname": "шустрый",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:32:30"
+    },
     "96118990-vkontakte": {
         "id": "96118990-vkontakte",
         "nickname": "idsanyabusel",
@@ -172,11 +178,5 @@
         "nickname": "youno",
         "booksCount": 7,
         "updatedAt": "2017-09-08 05:46:13"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 31,
-        "updatedAt": "2017-09-08 03:10:28"
     }
 }
