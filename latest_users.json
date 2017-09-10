@@ -1,4 +1,10 @@
 {
+    "117259578808269091662-google": {
+        "id": "117259578808269091662-google",
+        "nickname": "Tata",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 19:20:41"
+    },
     "49806945-vkontakte": {
         "id": "49806945-vkontakte",
         "nickname": "chizhevskaya92",
@@ -172,11 +178,5 @@
         "nickname": "vjil",
         "booksCount": 0,
         "updatedAt": "2017-09-10 07:41:31"
-    },
-    "87639392-vkontakte": {
-        "id": "87639392-vkontakte",
-        "nickname": "veronika_vaha",
-        "booksCount": 14,
-        "updatedAt": "2017-09-10 07:37:15"
     }
 }
