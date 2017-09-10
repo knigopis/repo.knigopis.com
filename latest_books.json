@@ -1,4 +1,16 @@
 {
+    "KJMTn5FHIY": {
+        "id": "KJMTn5FHIY",
+        "title": "Делириум",
+        "author": "О.Лорен",
+        "notes": "3 части",
+        "createdAt": "2017-09-10 07:36:28",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 13
+        }
+    },
     "hwSaLd5tlT": {
         "id": "hwSaLd5tlT",
         "title": "Академия Проклятий",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 42
-        }
-    },
-    "4VnzohgiWt": {
-        "id": "4VnzohgiWt",
-        "title": "Гарри Поттер и Дары смерти",
-        "author": "Джоан Кэтлин Роулинг",
-        "notes": "",
-        "createdAt": "2017-09-09 17:06:56",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 41
         }
     }
 }

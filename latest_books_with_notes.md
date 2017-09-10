@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
@@ -30,7 +31,6 @@
 * Маленькие женщины ~ [Garka](users/115/115753719718250012620-google)<sup>148</sup>
 * Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>119</sup>
 * Люди в красном ~ [Vivo_Turdo](users/115/115154203761453486437-google)<sup>2</sup>
-* 1984 ~ [Victoria](users/113/113794223924688167852-google)<sup>31</sup>
 
 
-_10.09.2017 07:34:54_
+_10.09.2017 07:36:28_

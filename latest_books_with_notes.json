@@ -1,4 +1,16 @@
 {
+    "KJMTn5FHIY": {
+        "id": "KJMTn5FHIY",
+        "title": "Делириум",
+        "author": "О.Лорен",
+        "notes": "3 части",
+        "createdAt": "2017-09-10 07:36:28",
+        "user": {
+            "id": "87639392-vkontakte",
+            "nickname": "veronika_vaha",
+            "booksCount": 13
+        }
+    },
     "hwSaLd5tlT": {
         "id": "hwSaLd5tlT",
         "title": "Академия Проклятий",
@@ -345,18 +357,6 @@
             "id": "115154203761453486437-google",
             "nickname": "Vivo_Turdo",
             "booksCount": 2
-        }
-    },
-    "Wwk32gExNz": {
-        "id": "Wwk32gExNz",
-        "title": "1984",
-        "author": "Оруэлл, Джордж",
-        "notes": "Система все равно победит. В любом случае. При любом раскладе. Смысла сопротивляться нет. Никакого \"хеппи энда\"",
-        "createdAt": "2017-08-23 05:58:47",
-        "user": {
-            "id": "113794223924688167852-google",
-            "nickname": "Victoria",
-            "booksCount": 31
         }
     }
 }

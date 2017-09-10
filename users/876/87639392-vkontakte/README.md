@@ -1,7 +1,12 @@
-# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>12</sup>
+# List of books read by [veronika_vaha](http://vk.com/id87639392)<sup>13</sup>
 ---
 
 ## 2017
+
+### Делириум
+О.Лорен
+> 3 части
+
 
 ### Академия Проклятий
 Елена Звездная

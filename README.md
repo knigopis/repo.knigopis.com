@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
+    > 3 части
+
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
     > Очень понравилась книга.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Действие разворачивается в Вероне - одном из городов Италии, где по-соседству друг с другом живут  две семьи, враждующие между собой несколько поколений, но самое молодое колено, как в одной так  и в другой семье не пожелало идти за своими предками в слепой ненависти. Они избрали роль миротворцев которая была для них невероятно сложной и требовала невероятных жертв. Но два сердца рвались друг к другу  через всю боль
 
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
-    > Симпатичный детектив.
 
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
 
-* Психология убеждения. 50 доказанных способов быть убедительным ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup> 
+[veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup> 
 [En](users/333/333646551-vkontakte)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
 
 
-_10.09.2017 07:34:54_
+_10.09.2017 07:36:28_
