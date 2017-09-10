@@ -1,4 +1,16 @@
 {
+    "BNM-NeHubO": {
+        "id": "BNM-NeHubO",
+        "title": "Девочка со спичками",
+        "author": "Ганс Христиан Андерсон",
+        "notes": "",
+        "createdAt": "2017-09-10 09:36:48",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 17
+        }
+    },
     "_pcKK-kQxh": {
         "id": "_pcKK-kQxh",
         "title": "Она плавает в формалине",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 56
-        }
-    },
-    "SOvMhtz6MW": {
-        "id": "SOvMhtz6MW",
-        "title": "Узы крови",
-        "author": "Сидни Шелдон",
-        "notes": "",
-        "createdAt": "2017-09-09 17:37:39",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 55
         }
     }
 }
