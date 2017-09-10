@@ -1,4 +1,16 @@
 {
+    "0T0XD1DNC2": {
+        "id": "0T0XD1DNC2",
+        "title": "Хирург",
+        "author": "Тесс Герритсон",
+        "notes": "",
+        "createdAt": "2017-09-10 18:38:20",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 8
+        }
+    },
     "ajsBzUp6gq": {
         "id": "ajsBzUp6gq",
         "title": "Игра Престолов",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 4
-        }
-    },
-    "w_G6DRedJD": {
-        "id": "w_G6DRedJD",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 17:11:45",
-        "user": {
-            "id": "18695910-vkontakte",
-            "nickname": "nastya_gulli",
-            "booksCount": 3
         }
     }
 }
