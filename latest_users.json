@@ -1,4 +1,10 @@
 {
+    "1918918191679662-facebook": {
+        "id": "1918918191679662-facebook",
+        "nickname": "дин дин",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 20:15:40"
+    },
     "1590890954315215-facebook": {
         "id": "1590890954315215-facebook",
         "nickname": "lomakova",
@@ -172,11 +178,5 @@
         "nickname": "ks_pilipenko",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:09:03"
-    },
-    "21047334-vkontakte": {
-        "id": "21047334-vkontakte",
-        "nickname": "botaniko_o",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:05:22"
     }
 }
