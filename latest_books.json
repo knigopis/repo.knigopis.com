@@ -1,4 +1,16 @@
 {
+    "deeVaAV6Da": {
+        "id": "deeVaAV6Da",
+        "title": "Гробницы Атуана",
+        "author": "Урсула Ле Гуин",
+        "notes": "",
+        "createdAt": "2017-09-10 18:26:13",
+        "user": {
+            "id": "51669619-vkontakte",
+            "nickname": "Nastya",
+            "booksCount": 3
+        }
+    },
     "WsWuxbpoqe": {
         "id": "WsWuxbpoqe",
         "title": "Маг Земноморья",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 16
-        }
-    },
-    "uuFGf4vidW": {
-        "id": "uuFGf4vidW",
-        "title": "Семьдесят восемь 78",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2017-09-10 09:19:59",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 15
         }
     }
 }
