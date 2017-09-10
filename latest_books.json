@@ -1,4 +1,16 @@
 {
+    "RKagfiOyvL": {
+        "id": "RKagfiOyvL",
+        "title": "шпионский роман",
+        "author": "акунин",
+        "notes": "",
+        "createdAt": "2017-09-10 19:27:46",
+        "user": {
+            "id": "117259578808269091662-google",
+            "nickname": "Tata",
+            "booksCount": 15
+        }
+    },
     "vTgBML5LRC": {
         "id": "vTgBML5LRC",
         "title": "любовник леди чаттерлей",
@@ -345,18 +357,6 @@
             "id": "86929801-vkontakte",
             "nickname": "Полина",
             "booksCount": 1
-        }
-    },
-    "WdbdmOCTEn": {
-        "id": "WdbdmOCTEn",
-        "title": "Девушка, которая взрывала воздушные замки",
-        "author": "Стиг Ларссон",
-        "notes": "",
-        "createdAt": "2017-09-10 18:35:23",
-        "user": {
-            "id": "19953757-vkontakte",
-            "nickname": "Милана",
-            "booksCount": 3
         }
     }
 }
