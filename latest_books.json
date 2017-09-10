@@ -1,4 +1,16 @@
 {
+    "ZS0wLHxZDv": {
+        "id": "ZS0wLHxZDv",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-09-10 17:23:15",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 8
+        }
+    },
     "UWV_TChvsy": {
         "id": "UWV_TChvsy",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 5
-        }
-    },
-    "pTT451Hgxw": {
-        "id": "pTT451Hgxw",
-        "title": "Крылья",
-        "author": "Елена Славина",
-        "notes": "",
-        "createdAt": "2017-09-10 07:37:15",
-        "user": {
-            "id": "87639392-vkontakte",
-            "nickname": "veronika_vaha",
-            "booksCount": 14
         }
     }
 }
