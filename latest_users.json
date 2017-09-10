@@ -1,4 +1,10 @@
 {
+    "243066854-vkontakte": {
+        "id": "243066854-vkontakte",
+        "nickname": "lady_filevskaya",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 10:48:48"
+    },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
         "nickname": "Лина Кауфман",
@@ -172,11 +178,5 @@
         "nickname": "eri.fortuna",
         "booksCount": 0,
         "updatedAt": "2017-09-03 21:10:21"
-    },
-    "2023503321218070-facebook": {
-        "id": "2023503321218070-facebook",
-        "nickname": "@lex_ap",
-        "booksCount": 0,
-        "updatedAt": "2017-09-03 18:13:08"
     }
 }
