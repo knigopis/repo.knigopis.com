@@ -1,4 +1,16 @@
 {
+    "IYMkh4JD6P": {
+        "id": "IYMkh4JD6P",
+        "title": "Серия о Мефодии Буслаеве",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2017-09-10 18:37:22",
+        "user": {
+            "id": "19953757-vkontakte",
+            "nickname": "Милана",
+            "booksCount": 6
+        }
+    },
     "FKBWy81zt6": {
         "id": "FKBWy81zt6",
         "title": "Сказания Земноморья",
@@ -344,18 +356,6 @@
         "user": {
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
-            "booksCount": 1
-        }
-    },
-    "B8G8qa5W1w": {
-        "id": "B8G8qa5W1w",
-        "title": "Источник",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2017-09-10 15:03:04",
-        "user": {
-            "id": "102717543806288-facebook",
-            "nickname": "Olga Kravt",
             "booksCount": 1
         }
     }
