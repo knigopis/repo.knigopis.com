@@ -1,4 +1,16 @@
 {
+    "UXDpP0nFQI": {
+        "id": "UXDpP0nFQI",
+        "title": "451 градус по фаренгейту",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-09-10 19:23:35",
+        "user": {
+            "id": "117259578808269091662-google",
+            "nickname": "Tata",
+            "booksCount": 6
+        }
+    },
     "uOcft69Tpm": {
         "id": "uOcft69Tpm",
         "title": "триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "18695910-vkontakte",
             "nickname": "nastya_gulli",
             "booksCount": 15
-        }
-    },
-    "A8ew5PT1dT": {
-        "id": "A8ew5PT1dT",
-        "title": "Ариэль",
-        "author": "Александр Беляев",
-        "notes": "Интересная научная фантастика. История о мальчике с нелёгкой судьбой, который может летать (после опыта над ним, из-за которого он мог умереть)",
-        "createdAt": "2017-09-10 17:39:26",
-        "user": {
-            "id": "1446641552071661-facebook",
-            "nickname": "Zelenka15",
-            "booksCount": 1
         }
     }
 }
