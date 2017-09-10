@@ -44,8 +44,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nastya_gulli](users/186/18695910-vkontakte)<sup>2</sup> 
 [Leon](users/114/114512838393973944461-google)<sup>0</sup> 
-[nastya_gulli](users/186/18695910-vkontakte)<sup>1</sup> 
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 [botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
 [hardcoreoverdose](users/233/233673386-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 
 
-_10.09.2017 17:11:04_
+_10.09.2017 17:11:43_
