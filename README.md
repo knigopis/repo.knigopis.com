@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gleb_gutsalyuk](users/127/12719684-vkontakte)<sup>0</sup> 
 [Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
 [anny_sega](users/633/63331538-vkontakte)<sup>0</sup> 
 [Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vjil](users/100/100003495005070-facebook)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>14</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
-[En](users/333/333646551-vkontakte)<sup>5</sup> 
 
 
-_10.09.2017 18:49:09_
+_10.09.2017 18:51:44_
