@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lilium](users/313/313831364-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>15</sup> 
 [Zelenka15](users/144/1446641552071661-facebook)<sup>1</sup> 
 [nastasko](users/233/23306351-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>2</sup> 
 [gulnara1006](users/524/52490735-vkontakte)<sup>0</sup> 
 [tama_neko](users/271/271006760-vkontakte)<sup>0</sup> 
-[Duhanskiy](users/112/112719946844423170489-googleplus)<sup>0</sup> 
 
 
-_10.09.2017 17:39:33_
+_10.09.2017 17:49:00_
