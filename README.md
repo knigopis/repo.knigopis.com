@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[cfgkfygvsdjouhsrjlhjkdbl](users/138/138262847-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>8</sup> 
 [iana.pankratowa](users/304/304920449-yandex)<sup>0</sup> 
 [Leon](users/114/114512838393973944461-google)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>7</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>31</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>30</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 
 
-_10.09.2017 17:23:15_
+_10.09.2017 17:25:50_
