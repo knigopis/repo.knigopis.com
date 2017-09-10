@@ -44,8 +44,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nastya_gulli](users/186/18695910-vkontakte)<sup>4</sup> 
 [iana.pankratowa](users/304/304920449-yandex)<sup>0</sup> 
-[nastya_gulli](users/186/18695910-vkontakte)<sup>3</sup> 
 [Leon](users/114/114512838393973944461-google)<sup>0</sup> 
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 [botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 
 
-_10.09.2017 17:14:52_
+_10.09.2017 17:18:04_
