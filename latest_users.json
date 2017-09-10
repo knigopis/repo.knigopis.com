@@ -1,4 +1,10 @@
 {
+    "20124175-vkontakte": {
+        "id": "20124175-vkontakte",
+        "nickname": "AlexMadly",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 19:45:00"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "Olga Kravt",
         "booksCount": 1,
         "updatedAt": "2017-09-10 15:03:04"
-    },
-    "94003654-yandex": {
-        "id": "94003654-yandex",
-        "nickname": "n.ulko",
-        "booksCount": 3,
-        "updatedAt": "2017-09-10 13:51:59"
     }
 }
