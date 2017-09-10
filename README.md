@@ -44,8 +44,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lomakova](users/159/1590890954315215-facebook)<sup>1</sup> 
 [дин дин](users/191/1918918191679662-facebook)<sup>0</sup> 
-[lomakova](users/159/1590890954315215-facebook)<sup>0</sup> 
 [olgaboch](users/444/444455-vkontakte)<sup>0</sup> 
 [AlexMadly](users/201/20124175-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 20:15:40_
+_10.09.2017 20:16:24_
