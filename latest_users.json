@@ -1,4 +1,10 @@
 {
+    "49916737-vkontakte": {
+        "id": "49916737-vkontakte",
+        "nickname": "noliapunk",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 21:04:46"
+    },
     "1710307319281320-facebook": {
         "id": "1710307319281320-facebook",
         "nickname": "анна",
@@ -172,11 +178,5 @@
         "nickname": "idsanyabusel",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:27:57"
-    },
-    "138262847-vkontakte": {
-        "id": "138262847-vkontakte",
-        "nickname": "cfgkfygvsdjouhsrjlhjkdbl",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:25:49"
     }
 }
