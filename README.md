@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olgaboch](users/444/444455-vkontakte)<sup>0</sup> 
 [AlexMadly](users/201/20124175-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
 [Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 [botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
 [hardcoreoverdose](users/233/233673386-vkontakte)<sup>0</sup> 
-[Olga Kravt](users/102/102717543806288-facebook)<sup>1</sup> 
 
 
-_10.09.2017 19:45:00_
+_10.09.2017 19:56:54_
