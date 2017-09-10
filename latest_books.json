@@ -1,4 +1,16 @@
 {
+    "bYHtVzRXTE": {
+        "id": "bYHtVzRXTE",
+        "title": "ночь в лиссабоне",
+        "author": "ремарк",
+        "notes": "",
+        "createdAt": "2017-09-10 19:33:26",
+        "user": {
+            "id": "117259578808269091662-google",
+            "nickname": "Tata",
+            "booksCount": 25
+        }
+    },
     "elKvw8ygAY": {
         "id": "elKvw8ygAY",
         "title": "три товарища",
@@ -345,18 +357,6 @@
             "id": "302849706-vkontakte",
             "nickname": "oksanagilm",
             "booksCount": 3
-        }
-    },
-    "SNgiYRXRGk": {
-        "id": "SNgiYRXRGk",
-        "title": "Нагим пришёл я",
-        "author": "Дэвид Вэйс",
-        "notes": "",
-        "createdAt": "2017-09-10 18:40:41",
-        "user": {
-            "id": "302849706-vkontakte",
-            "nickname": "oksanagilm",
-            "booksCount": 2
         }
     }
 }
