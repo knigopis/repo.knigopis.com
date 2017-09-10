@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[noliapunk](users/499/49916737-vkontakte)<sup>0</sup> 
 [анна](users/171/1710307319281320-facebook)<sup>0</sup> 
 [Селезнева](users/148/1484163911671633-facebook)<sup>0</sup> 
 [mashapavlova](users/105/10559372-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nastasko](users/233/23306351-vkontakte)<sup>0</sup> 
 [шустрый](users/524/52473577-vkontakte)<sup>0</sup> 
 [idsanyabusel](users/961/96118990-vkontakte)<sup>0</sup> 
-[cfgkfygvsdjouhsrjlhjkdbl](users/138/138262847-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 20:41:15_
+_10.09.2017 21:04:47_
