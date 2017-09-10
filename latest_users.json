@@ -1,4 +1,10 @@
 {
+    "94003654-yandex": {
+        "id": "94003654-yandex",
+        "nickname": "n.ulko",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 13:50:38"
+    },
     "243066854-vkontakte": {
         "id": "243066854-vkontakte",
         "nickname": "lady_filevskaya",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 122,
         "updatedAt": "2017-09-04 19:23:56"
-    },
-    "415025882-vkontakte": {
-        "id": "415025882-vkontakte",
-        "nickname": "eri.fortuna",
-        "booksCount": 0,
-        "updatedAt": "2017-09-03 21:10:21"
     }
 }
