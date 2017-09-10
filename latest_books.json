@@ -1,4 +1,16 @@
 {
+    "-kkv83lGmI": {
+        "id": "-kkv83lGmI",
+        "title": "Сумеречный дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-09-10 17:36:55",
+        "user": {
+            "id": "18695910-vkontakte",
+            "nickname": "nastya_gulli",
+            "booksCount": 12
+        }
+    },
     "PGKbKGRf8_": {
         "id": "PGKbKGRf8_",
         "title": "Дневной дозор",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 9
-        }
-    },
-    "8TZKK4xFPc": {
-        "id": "8TZKK4xFPc",
-        "title": "Франкинштейн",
-        "author": "Мерри Шелли",
-        "notes": "",
-        "createdAt": "2017-09-10 08:55:48",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 8
         }
     }
 }
