@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vjil](users/100/100003495005070-facebook)<sup>0</sup> 
 [veronika_vaha](users/876/87639392-vkontakte)<sup>14</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>122</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup> 
 [eri.fortuna](users/415/415025882-vkontakte)<sup>0</sup> 
 [@lex_ap](users/202/2023503321218070-facebook)<sup>0</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>312</sup> 
 
 
-_10.09.2017 07:37:15_
+_10.09.2017 07:41:32_
