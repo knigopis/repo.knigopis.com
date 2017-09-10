@@ -1,4 +1,16 @@
 {
+    "cnKlCjNC5W": {
+        "id": "cnKlCjNC5W",
+        "title": "Старуха Изергиль",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-09-10 08:57:21",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 9
+        }
+    },
     "8TZKK4xFPc": {
         "id": "8TZKK4xFPc",
         "title": "Франкинштейн",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 48
-        }
-    },
-    "OwjDP0SQcs": {
-        "id": "OwjDP0SQcs",
-        "title": "Восставший из ада",
-        "author": "Клайв Баркер",
-        "notes": "",
-        "createdAt": "2017-09-09 17:12:51",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 47
         }
     }
 }
