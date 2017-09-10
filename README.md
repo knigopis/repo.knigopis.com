@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[oksanagilm](users/302/302849706-vkontakte)<sup>0</sup> 
+[oksanagilm](users/302/302849706-vkontakte)<sup>1</sup> 
 [Милана](users/199/19953757-vkontakte)<sup>9</sup> 
 [Nastya](users/516/51669619-vkontakte)<sup>7</sup> 
 [Полина](users/869/86929801-vkontakte)<sup>1</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [midorisan777](users/377/377046272-vkontakte)<sup>1</sup> 
 
 
-_10.09.2017 18:39:27_
+_10.09.2017 18:40:12_
