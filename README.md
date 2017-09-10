@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ks_pilipenko](users/529/52929341-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>0</sup> 
 [botaniko_o](users/210/21047334-vkontakte)<sup>0</sup> 
 [hardcoreoverdose](users/233/233673386-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>56</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>12</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>38</sup> 
-[liza_svist](users/608/6086605-vkontakte)<sup>0</sup> 
 
 
-_10.09.2017 17:05:34_
+_10.09.2017 17:09:03_
