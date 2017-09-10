@@ -1,4 +1,10 @@
 {
+    "18695910-vkontakte": {
+        "id": "18695910-vkontakte",
+        "nickname": "nastya_gulli",
+        "booksCount": 0,
+        "updatedAt": "2017-09-10 17:05:34"
+    },
     "21047334-vkontakte": {
         "id": "21047334-vkontakte",
         "nickname": "botaniko_o",
@@ -172,11 +178,5 @@
         "nickname": "liza_svist",
         "booksCount": 0,
         "updatedAt": "2017-09-06 14:01:20"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 224,
-        "updatedAt": "2017-09-06 00:05:32"
     }
 }
