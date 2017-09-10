@@ -1,4 +1,16 @@
 {
+    "ZDgzwPz4PV": {
+        "id": "ZDgzwPz4PV",
+        "title": "Метценгерштейн",
+        "author": "Этгар Алан По",
+        "notes": "",
+        "createdAt": "2017-09-10 09:39:04",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 18
+        }
+    },
     "BNM-NeHubO": {
         "id": "BNM-NeHubO",
         "title": "Девочка со спичками",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 57
-        }
-    },
-    "27WABgppoA": {
-        "id": "27WABgppoA",
-        "title": "Интриганка",
-        "author": "Сидни Шелдон",
-        "notes": "",
-        "createdAt": "2017-09-09 17:38:04",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 56
         }
     }
 }
