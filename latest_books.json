@@ -1,4 +1,16 @@
 {
+    "uuFGf4vidW": {
+        "id": "uuFGf4vidW",
+        "title": "Семьдесят восемь 78",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2017-09-10 09:19:59",
+        "user": {
+            "id": "143278479-vkontakte",
+            "nickname": "Лина Кауфман",
+            "booksCount": 15
+        }
+    },
     "HUzqhqTf3y": {
         "id": "HUzqhqTf3y",
         "title": "Поцелуй императрицы",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 54
-        }
-    },
-    "Tn5fpZpyMw": {
-        "id": "Tn5fpZpyMw",
-        "title": "Террор",
-        "author": "Дэн Симмонс",
-        "notes": "",
-        "createdAt": "2017-09-09 17:30:04",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 53
         }
     }
 }
