@@ -1,7 +1,12 @@
-# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>2</sup>
+# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>3</sup>
 ---
 
 ## 2017
+
+### Десять негретят
+Агата Кристи
+> Ну это просто классика
+
 
 ### Призрак автора
 Джон Харвуд
