@@ -1,4 +1,4 @@
-# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>15</sup>
+# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>16</sup>
 ---
 
 ## 2017
@@ -6,6 +6,10 @@
 ### Пиши, сокращай
 М.Ильяхов, Л.Сарычева
 > [2017-01-11] 
+
+
+### 24 часа из жизни женщины
+Стефан Цвейг
 
 
 ### Село Степанчиково и его обитатели
