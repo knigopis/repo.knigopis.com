@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Валерия  Валинчус](users/397/3971994895781941199-mailru)<sup>0</sup> 
 [chbsv1](users/547/54740356-vkontakte)<sup>0</sup> 
 [y.poludnitsyna](users/331/33114531-vkontakte)<sup>0</sup> 
 [libellle](users/198/19844209-vkontakte)<sup>1</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [o_osmagina](users/506/50652378-vkontakte)<sup>0</sup> 
 [Lilium](users/313/313831364-vkontakte)<sup>0</sup> 
 [nastya_gulli](users/186/18695910-vkontakte)<sup>15</sup> 
-[Zelenka15](users/144/1446641552071661-facebook)<sup>1</sup> 
 
 
-_11.09.2017 06:33:06_
+_11.09.2017 07:22:49_
