@@ -1,4 +1,16 @@
 {
+    "gkHizczVj6": {
+        "id": "gkHizczVj6",
+        "title": "Белые ночи",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-09-11 07:41:38",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 4
+        }
+    },
     "hFeYBc3lnr": {
         "id": "hFeYBc3lnr",
         "title": "Креативность требует смелости",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 7
-        }
-    },
-    "UXDpP0nFQI": {
-        "id": "UXDpP0nFQI",
-        "title": "451 градус по фаренгейту",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-10 19:23:35",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 6
         }
     }
 }
