@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 8,
+        "updatedAt": "2017-09-11 10:41:37"
+    },
     "6515406367237956327-mailru": {
         "id": "6515406367237956327-mailru",
         "nickname": "Юленька",
@@ -172,11 +178,5 @@
         "nickname": "oksanagilm",
         "booksCount": 5,
         "updatedAt": "2017-09-10 18:43:27"
-    },
-    "19953757-vkontakte": {
-        "id": "19953757-vkontakte",
-        "nickname": "Милана",
-        "booksCount": 9,
-        "updatedAt": "2017-09-10 18:39:24"
     }
 }

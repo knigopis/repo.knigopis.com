@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
+    > Книга, которая поглощает с первых страниц. История жизни двух подруг, длиною в жизнь. Первая книга, из Неаполитанского квартета.
+
 * Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
     > Там на нашей планете
     > Мы реальность меняем усилием воли,
@@ -23,7 +26,6 @@ Do not use pull requests to make changes here.
     > выдержки из этой книги
 
 * Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
-    > 3 части
 
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
 
@@ -37,13 +39,12 @@ Do not use pull requests to make changes here.
 
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
 
-* Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>8</sup> 
 [Юленька](users/651/6515406367237956327-mailru)<sup>3</sup> 
 [nickk_boss](users/101/101170524510991494429-google)<sup>1</sup> 
 [Taty](users/122/12256428-vkontakte)<sup>0</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anny_sega](users/633/63331538-vkontakte)<sup>0</sup> 
 [Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
 [oksanagilm](users/302/302849706-vkontakte)<sup>5</sup> 
-[Милана](users/199/19953757-vkontakte)<sup>9</sup> 
 
 
-_11.09.2017 09:08:42_
+_11.09.2017 10:41:37_
