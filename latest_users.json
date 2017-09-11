@@ -1,4 +1,10 @@
 {
+    "6515406367237956327-mailru": {
+        "id": "6515406367237956327-mailru",
+        "nickname": "Юленька",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 09:04:10"
+    },
     "101170524510991494429-google": {
         "id": "101170524510991494429-google",
         "nickname": "nickk_boss",
@@ -172,11 +178,5 @@
         "nickname": "Милана",
         "booksCount": 9,
         "updatedAt": "2017-09-10 18:39:24"
-    },
-    "51669619-vkontakte": {
-        "id": "51669619-vkontakte",
-        "nickname": "Nastya",
-        "booksCount": 7,
-        "updatedAt": "2017-09-10 18:37:24"
     }
 }
