@@ -1,4 +1,16 @@
 {
+    "YudUghZYsC": {
+        "id": "YudUghZYsC",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-09-11 07:43:52",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 8
+        }
+    },
     "yJpNR_48aO": {
         "id": "yJpNR_48aO",
         "title": "Изучаем Java",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 11
-        }
-    },
-    "hU8_OvjAkv": {
-        "id": "hU8_OvjAkv",
-        "title": "негоже лилиям прясть",
-        "author": "дрюон",
-        "notes": "",
-        "createdAt": "2017-09-10 19:26:02",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 10
         }
     }
 }
