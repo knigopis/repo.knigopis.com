@@ -1,4 +1,10 @@
 {
+    "855179368554-odnoklassniki": {
+        "id": "855179368554-odnoklassniki",
+        "nickname": "Лисенок",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 19:32:56"
+    },
     "137961387-vkontakte": {
         "id": "137961387-vkontakte",
         "nickname": "anime_hetalia",
@@ -172,11 +178,5 @@
         "nickname": "Селезнева",
         "booksCount": 0,
         "updatedAt": "2017-09-10 20:28:33"
-    },
-    "10559372-vkontakte": {
-        "id": "10559372-vkontakte",
-        "nickname": "mashapavlova",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 20:18:39"
     }
 }
