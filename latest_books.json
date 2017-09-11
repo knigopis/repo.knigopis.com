@@ -1,4 +1,16 @@
 {
+    "w4pNDCPhtY": {
+        "id": "w4pNDCPhtY",
+        "title": "Бумажные города",
+        "author": "Джон Грин",
+        "notes": "Мне понравилось как переданы мысли и переживания главного героя по поводу своей главной на тот момент проблемы",
+        "createdAt": "2017-09-11 13:14:15",
+        "user": {
+            "id": "106005619986229944459-google",
+            "nickname": "purple_cherry",
+            "booksCount": 8
+        }
+    },
     "YxTwCACReq": {
         "id": "YxTwCACReq",
         "title": "Тайплесс",
@@ -345,18 +357,6 @@
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
             "booksCount": 11
-        }
-    },
-    "rhOM2VuNr5": {
-        "id": "rhOM2VuNr5",
-        "title": "Java 8. Руководство для начинающих",
-        "author": "Герберт Шилдт",
-        "notes": "",
-        "createdAt": "2017-09-11 07:44:49",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 10
         }
     }
 }
