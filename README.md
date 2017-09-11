@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anime_hetalia](users/137/137961387-vkontakte)<sup>3</sup> 
+[anime_hetalia](users/137/137961387-vkontakte)<sup>4</sup> 
 [xenya](users/183/183959719-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>314</sup> 
 [goodmanniko](users/345/34520370-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mashapavlova](users/105/10559372-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 16:58:46_
+_11.09.2017 16:59:08_
