@@ -1,4 +1,10 @@
 {
+    "440304750-vkontakte": {
+        "id": "440304750-vkontakte",
+        "nickname": "kseniathehoney",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 07:26:29"
+    },
     "3971994895781941199-mailru": {
         "id": "3971994895781941199-mailru",
         "nickname": "Валерия  Валинчус",
@@ -172,11 +178,5 @@
         "nickname": "Lilium",
         "booksCount": 0,
         "updatedAt": "2017-09-10 17:48:59"
-    },
-    "18695910-vkontakte": {
-        "id": "18695910-vkontakte",
-        "nickname": "nastya_gulli",
-        "booksCount": 15,
-        "updatedAt": "2017-09-10 17:39:33"
     }
 }
