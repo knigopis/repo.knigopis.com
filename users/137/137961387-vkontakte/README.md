@@ -1,4 +1,4 @@
-# List of books read by [anime_hetalia](http://vk.com/id137961387)<sup>6</sup>
+# List of books read by [anime_hetalia](http://vk.com/id137961387)<sup>7</sup>
 ---
 
 ## 2017
@@ -20,6 +20,10 @@
 
 
 ## 2015
+
+### Мастер и Маргарита
+Михаил Булгаков
+
 
 ### Дневник мага
 Поуло Коэльо
