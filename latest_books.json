@@ -1,4 +1,16 @@
 {
+    "OflRzNOikt": {
+        "id": "OflRzNOikt",
+        "title": "Алая Королева",
+        "author": "Виктория Авеярд",
+        "notes": "Прочтено за пару дней.Затягивает с первой страницы,с очень неожиданным,как бы сказать,протеканием сюжета?",
+        "createdAt": "2017-09-11 13:23:42",
+        "user": {
+            "id": "106005619986229944459-google",
+            "nickname": "purple_cherry",
+            "booksCount": 11
+        }
+    },
     "GiUgwkcO_M": {
         "id": "GiUgwkcO_M",
         "title": "Консуэло",
@@ -345,18 +357,6 @@
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
             "booksCount": 14
-        }
-    },
-    "CyKPAfDcHy": {
-        "id": "CyKPAfDcHy",
-        "title": "Психология маркетинга",
-        "author": "Клаус Мозер",
-        "notes": "",
-        "createdAt": "2017-09-11 07:46:28",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 13
         }
     }
 }
