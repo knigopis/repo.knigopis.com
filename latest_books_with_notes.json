@@ -1,4 +1,16 @@
 {
+    "brJkM3UzqZ": {
+        "id": "brJkM3UzqZ",
+        "title": "Морфий.",
+        "author": "Михаил Булгаков",
+        "notes": "История врача, который из-за несчастной любви стал морфинистом.",
+        "createdAt": "2017-09-11 11:08:28",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 313
+        }
+    },
     "9KpzCDgAlZ": {
         "id": "9KpzCDgAlZ",
         "title": "История нового имени",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 28
-        }
-    },
-    "UKDfdYlJqK": {
-        "id": "UKDfdYlJqK",
-        "title": "Дом на краю ночи",
-        "author": "Кэтрин Бэннер",
-        "notes": "Шикарная книга, от которой просто невозможно оторваться!",
-        "createdAt": "2017-08-28 10:13:38",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 5
         }
     }
 }

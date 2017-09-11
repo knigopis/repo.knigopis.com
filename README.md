@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
+    > История врача, который из-за несчастной любви стал морфинистом.
+
 * История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
     > Вторая часть этой истории захватывает, как и первая.
 
@@ -12,15 +15,6 @@ Do not use pull requests to make changes here.
     > Книга, которая поглощает с первых страниц. История жизни двух подруг, длиною в жизнь. Первая книга, из Неаполитанского квартета.
 
 * Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
-    > Там на нашей планете
-    > Мы реальность меняем усилием воли,
-    > Там на нашей планете 
-    > Никогда не бывает боли...
-    > Нам на нашей планете
-    > Мы тела наши носим как одежду
-    > Я на Земле задыхаюсь,
-    > Потому что Дышу надеждой
-    > Otto Dix
 
 * Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
 
@@ -34,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
 
-* Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>313</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>10</sup> 
 [Виктория Степанова](users/157/15757748591277193869-mailru)<sup>0</sup> 
 [Юленька](users/651/6515406367237956327-mailru)<sup>3</sup> 
@@ -70,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gleb_gutsalyuk](users/127/12719684-vkontakte)<sup>1</sup> 
 [Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
 [anny_sega](users/633/63331538-vkontakte)<sup>0</sup> 
-[Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
 
 
-_11.09.2017 10:43:26_
+_11.09.2017 11:08:28_

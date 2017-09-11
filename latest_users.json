@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 313,
+        "updatedAt": "2017-09-11 11:08:28"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "anny_sega",
         "booksCount": 0,
         "updatedAt": "2017-09-10 18:47:16"
-    },
-    "1490872947659289-facebook": {
-        "id": "1490872947659289-facebook",
-        "nickname": "Amuri",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 18:45:11"
     }
 }

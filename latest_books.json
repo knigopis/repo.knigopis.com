@@ -1,4 +1,16 @@
 {
+    "brJkM3UzqZ": {
+        "id": "brJkM3UzqZ",
+        "title": "Морфий.",
+        "author": "Михаил Булгаков",
+        "notes": "История врача, который из-за несчастной любви стал морфинистом.",
+        "createdAt": "2017-09-11 11:08:28",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 313
+        }
+    },
     "9KpzCDgAlZ": {
         "id": "9KpzCDgAlZ",
         "title": "История нового имени",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 29
-        }
-    },
-    "MzDIAGnVi5": {
-        "id": "MzDIAGnVi5",
-        "title": "над кукушкиным гнездом",
-        "author": "кизи",
-        "notes": "",
-        "createdAt": "2017-09-10 19:34:40",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 27
         }
     }
 }
