@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 314,
+        "updatedAt": "2017-09-11 15:25:50"
+    },
     "34520370-vkontakte": {
         "id": "34520370-vkontakte",
         "nickname": "goodmanniko",
@@ -58,12 +64,6 @@
         "nickname": "Даня",
         "booksCount": 4,
         "updatedAt": "2017-09-11 11:45:05"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 313,
-        "updatedAt": "2017-09-11 11:08:28"
     },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
