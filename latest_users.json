@@ -1,4 +1,10 @@
 {
+    "32214946-vkontakte": {
+        "id": "32214946-vkontakte",
+        "nickname": "Lens",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 12:28:39"
+    },
     "13444240621295387226-mailru": {
         "id": "13444240621295387226-mailru",
         "nickname": "Александра Борисова",
@@ -172,11 +178,5 @@
         "nickname": "influence16",
         "booksCount": 1,
         "updatedAt": "2017-09-10 19:27:56"
-    },
-    "49806945-vkontakte": {
-        "id": "49806945-vkontakte",
-        "nickname": "chizhevskaya92",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 19:17:38"
     }
 }
