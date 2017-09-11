@@ -1,4 +1,16 @@
 {
+    "CC6j-8YsyS": {
+        "id": "CC6j-8YsyS",
+        "title": "Кради как художник",
+        "author": "Остин Клеон",
+        "notes": "",
+        "createdAt": "2017-09-11 07:44:10",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 9
+        }
+    },
     "YudUghZYsC": {
         "id": "YudUghZYsC",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 12
-        }
-    },
-    "3pCMPyeKHf": {
-        "id": "3pCMPyeKHf",
-        "title": "французская волчица",
-        "author": "дрюон",
-        "notes": "",
-        "createdAt": "2017-09-10 19:26:22",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 11
         }
     }
 }
