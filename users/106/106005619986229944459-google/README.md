@@ -1,7 +1,12 @@
-# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>1</sup>
+# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>2</sup>
 ---
 
 ## 2017
+
+### Призрак автора
+Джон Харвуд
+> Интересная книга,но не совсем понятный конец
+
 
 ### Тринадцатая сказка
 Диана Сеттерфилд
