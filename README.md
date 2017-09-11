@@ -44,6 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Taty](users/122/12256428-vkontakte)<sup>0</sup> 
 [tkopeeva](users/190/19033466-vkontakte)<sup>2</sup> 
 [Наталья Васильева](users/117/11745108290409452695-mailru)<sup>0</sup> 
 [kseniathehoney](users/440/440304750-vkontakte)<sup>16</sup> 
@@ -73,7 +74,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Милана](users/199/19953757-vkontakte)<sup>9</sup> 
 [Nastya](users/516/51669619-vkontakte)<sup>7</sup> 
 [Полина](users/869/86929801-vkontakte)<sup>1</sup> 
-[iarwenbenadar](users/492/49216001-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 08:26:25_
+_11.09.2017 08:33:09_
