@@ -1,4 +1,16 @@
 {
+    "LABW3QhtuH": {
+        "id": "LABW3QhtuH",
+        "title": "",
+        "author": "Чак Полански",
+        "notes": "",
+        "createdAt": "2017-09-11 12:29:13",
+        "user": {
+            "id": "32214946-vkontakte",
+            "nickname": "Lens",
+            "booksCount": 1
+        }
+    },
     "BkYNvrWk_y": {
         "id": "BkYNvrWk_y",
         "title": "мизери",
@@ -345,18 +357,6 @@
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
             "booksCount": 2
-        }
-    },
-    "62UuNQhhFF": {
-        "id": "62UuNQhhFF",
-        "title": "О рекламе",
-        "author": "Дэвид Огилви",
-        "notes": "",
-        "createdAt": "2017-09-11 07:40:28",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 1
         }
     }
 }
