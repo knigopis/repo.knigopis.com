@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tkopeeva](users/190/19033466-vkontakte)<sup>1</sup> 
+[tkopeeva](users/190/19033466-vkontakte)<sup>2</sup> 
 [Наталья Васильева](users/117/11745108290409452695-mailru)<sup>0</sup> 
 [kseniathehoney](users/440/440304750-vkontakte)<sup>16</sup> 
 [Koff](users/116/116635523385577843498-google)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [iarwenbenadar](users/492/49216001-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 08:25:24_
+_11.09.2017 08:26:25_
