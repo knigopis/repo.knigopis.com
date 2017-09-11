@@ -1,4 +1,16 @@
 {
+    "BkYNvrWk_y": {
+        "id": "BkYNvrWk_y",
+        "title": "мизери",
+        "author": "стивен кинг",
+        "notes": "",
+        "createdAt": "2017-09-11 11:45:05",
+        "user": {
+            "id": "88335013-vkontakte",
+            "nickname": "Даня",
+            "booksCount": 4
+        }
+    },
     "W3FrqLqVSl": {
         "id": "W3FrqLqVSl",
         "title": "оно",
@@ -344,18 +356,6 @@
         "user": {
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
-            "booksCount": 1
-        }
-    },
-    "PvbDviwCmi": {
-        "id": "PvbDviwCmi",
-        "title": "Бегущий человек",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-10 23:42:10",
-        "user": {
-            "id": "19844209-vkontakte",
-            "nickname": "libellle",
             "booksCount": 1
         }
     }
