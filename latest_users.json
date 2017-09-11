@@ -1,4 +1,10 @@
 {
+    "3971994895781941199-mailru": {
+        "id": "3971994895781941199-mailru",
+        "nickname": "Валерия  Валинчус",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 07:22:47"
+    },
     "54740356-vkontakte": {
         "id": "54740356-vkontakte",
         "nickname": "chbsv1",
@@ -172,11 +178,5 @@
         "nickname": "nastya_gulli",
         "booksCount": 15,
         "updatedAt": "2017-09-10 17:39:33"
-    },
-    "1446641552071661-facebook": {
-        "id": "1446641552071661-facebook",
-        "nickname": "Zelenka15",
-        "booksCount": 1,
-        "updatedAt": "2017-09-10 17:39:26"
     }
 }
