@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 13,
+        "updatedAt": "2017-09-11 12:35:07"
+    },
     "32214946-vkontakte": {
         "id": "32214946-vkontakte",
         "nickname": "Lens",
@@ -172,11 +178,5 @@
         "nickname": "Tata",
         "booksCount": 27,
         "updatedAt": "2017-09-10 19:34:40"
-    },
-    "104724125-vkontakte": {
-        "id": "104724125-vkontakte",
-        "nickname": "influence16",
-        "booksCount": 1,
-        "updatedAt": "2017-09-10 19:27:56"
     }
 }

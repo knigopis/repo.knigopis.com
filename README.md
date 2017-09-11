@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
+    > Ну, очень многие насчет него высказываются положительно, но меня не то чтобы особо вдохновило. Забавно, нескучно, занимательно,но не пробудило во мне желание соблюдать те вещи и поддерживать те мысли, которые там изложены
+
 * Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
     > История врача, который из-за несчастной любви стал морфинистом.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вторая часть этой истории захватывает, как и первая.
 
 * Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
-    > Книга, которая поглощает с первых страниц. История жизни двух подруг, длиною в жизнь. Первая книга, из Неаполитанского квартета.
 
 * Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
 
-* Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>13</sup> 
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
 [Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
 [Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
 [Tata](users/117/117259578808269091662-google)<sup>27</sup> 
-[influence16](users/104/104724125-vkontakte)<sup>1</sup> 
 
 
-_11.09.2017 12:29:13_
+_11.09.2017 12:35:07_
