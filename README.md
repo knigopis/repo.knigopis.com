@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Darya_Z](users/102/102125384391056623500-google)<sup>0</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>18</sup> 
 [kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [дин дин](users/191/1918918191679662-facebook)<sup>0</sup> 
 [olgaboch](users/444/444455-vkontakte)<sup>0</sup> 
 [AlexMadly](users/201/20124175-vkontakte)<sup>0</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
 
 
-_11.09.2017 13:52:42_
+_11.09.2017 13:55:32_
