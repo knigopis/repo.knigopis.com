@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Юленька](users/651/6515406367237956327-mailru)<sup>2</sup> 
+[Юленька](users/651/6515406367237956327-mailru)<sup>3</sup> 
 [nickk_boss](users/101/101170524510991494429-google)<sup>1</sup> 
 [Taty](users/122/12256428-vkontakte)<sup>0</sup> 
 [tkopeeva](users/190/19033466-vkontakte)<sup>2</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Милана](users/199/19953757-vkontakte)<sup>9</sup> 
 
 
-_11.09.2017 09:07:21_
+_11.09.2017 09:08:42_
