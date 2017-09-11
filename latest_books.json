@@ -1,4 +1,16 @@
 {
+    "hFeYBc3lnr": {
+        "id": "hFeYBc3lnr",
+        "title": "Креативность требует смелости",
+        "author": "Ларс Валентин",
+        "notes": "",
+        "createdAt": "2017-09-11 07:41:12",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 3
+        }
+    },
     "Pdn4EuHk7G": {
         "id": "Pdn4EuHk7G",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 6
-        }
-    },
-    "uOcft69Tpm": {
-        "id": "uOcft69Tpm",
-        "title": "триумфальная арка",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2017-09-10 19:23:22",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 5
         }
     }
 }
