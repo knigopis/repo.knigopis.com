@@ -1,4 +1,16 @@
 {
+    "xFZJhWDfR4": {
+        "id": "xFZJhWDfR4",
+        "title": "Стеклянный меч",
+        "author": "Виктория Авеярд",
+        "notes": "Да,продолжение \"Алая Королева\".Не менее интереснее чем первая часть.Жду продолжения...",
+        "createdAt": "2017-09-11 13:25:25",
+        "user": {
+            "id": "106005619986229944459-google",
+            "nickname": "purple_cherry",
+            "booksCount": 12
+        }
+    },
     "OflRzNOikt": {
         "id": "OflRzNOikt",
         "title": "Алая Королева",
@@ -345,18 +357,6 @@
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
             "booksCount": 15
-        }
-    },
-    "ciBYXRgmhE": {
-        "id": "ciBYXRgmhE",
-        "title": "Мужчины без женщин",
-        "author": "Эрнест Хэмингуэй",
-        "notes": "",
-        "createdAt": "2017-09-11 07:46:51",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 14
         }
     }
 }
