@@ -1,4 +1,16 @@
 {
+    "W3FrqLqVSl": {
+        "id": "W3FrqLqVSl",
+        "title": "оно",
+        "author": "стивен кинг",
+        "notes": "",
+        "createdAt": "2017-09-11 11:44:47",
+        "user": {
+            "id": "88335013-vkontakte",
+            "nickname": "Даня",
+            "booksCount": 3
+        }
+    },
     "oVeb5JGWRA": {
         "id": "oVeb5JGWRA",
         "title": "унесенные ветром",
@@ -344,18 +356,6 @@
         "user": {
             "id": "19844209-vkontakte",
             "nickname": "libellle",
-            "booksCount": 1
-        }
-    },
-    "NkKR01qc2g": {
-        "id": "NkKR01qc2g",
-        "title": "Три товарища",
-        "author": "Ремарк",
-        "notes": "",
-        "createdAt": "2017-09-10 20:16:24",
-        "user": {
-            "id": "1590890954315215-facebook",
-            "nickname": "lomakova",
             "booksCount": 1
         }
     }

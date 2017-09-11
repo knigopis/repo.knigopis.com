@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Даня](users/883/88335013-vkontakte)<sup>2</sup> 
+[Даня](users/883/88335013-vkontakte)<sup>3</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>313</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>10</sup> 
 [Виктория Степанова](users/157/15757748591277193869-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
 
 
-_11.09.2017 11:44:25_
+_11.09.2017 11:44:47_
