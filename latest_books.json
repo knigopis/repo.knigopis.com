@@ -1,4 +1,16 @@
 {
+    "UZedb2SqTQ": {
+        "id": "UZedb2SqTQ",
+        "title": "Принц и гвардеец",
+        "author": "Кира Касс",
+        "notes": "Параллельная новелла, написанная о тех же событиях книги \"Отбор\",только от лица другого персонажа",
+        "createdAt": "2017-09-11 13:36:00",
+        "user": {
+            "id": "106005619986229944459-google",
+            "nickname": "purple_cherry",
+            "booksCount": 14
+        }
+    },
     "sMn_5_e2tL": {
         "id": "sMn_5_e2tL",
         "title": "Отбор",
@@ -345,18 +357,6 @@
             "id": "19033466-vkontakte",
             "nickname": "tkopeeva",
             "booksCount": 1
-        }
-    },
-    "E875CMvtM7": {
-        "id": "E875CMvtM7",
-        "title": "24 часа из жизни женщины",
-        "author": "Стефан Цвейг",
-        "notes": "",
-        "createdAt": "2017-09-11 07:47:38",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 16
         }
     }
 }
