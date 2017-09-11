@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>13</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>13</sup> 
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olgaboch](users/444/444455-vkontakte)<sup>0</sup> 
 [AlexMadly](users/201/20124175-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
-[Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
 
 
-_11.09.2017 13:32:38_
+_11.09.2017 13:35:42_
