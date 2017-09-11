@@ -1,4 +1,16 @@
 {
+    "Z9c7RtZXnN": {
+        "id": "Z9c7RtZXnN",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах",
+        "createdAt": "2017-09-11 14:05:51",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 14
+        }
+    },
     "ncaRzkVPcB": {
         "id": "ncaRzkVPcB",
         "title": "Учение Дона Хуана",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 90
-        }
-    },
-    "bIDM9YDpby": {
-        "id": "bIDM9YDpby",
-        "title": "Мелкий бес - Сологуб Фёдор",
-        "author": "",
-        "notes": "Чужие пороки у нас на глазах, а свои — за спиной. © Сенека Луций Анней",
-        "createdAt": "2017-08-29 09:43:46",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 89
         }
     }
 }

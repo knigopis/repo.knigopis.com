@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
 * Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
 * История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
 * Кумыки. История, культура, традиции - Атабаев Магомед ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>91</sup>
 * Я ненавижу драконов - Сандерсон Брендон ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>90</sup>
-* Мелкий бес - Сологуб Фёдор ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>89</sup>
 
 
-_11.09.2017 12:35:07_
+_11.09.2017 14:05:51_

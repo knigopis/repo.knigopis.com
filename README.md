@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
+    > Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах
+
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
     > Ну, очень многие насчет него высказываются положительно, но меня не то чтобы особо вдохновило. Забавно, нескучно, занимательно,но не пробудило во мне желание соблюдать те вещи и поддерживать те мысли, которые там изложены
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История врача, который из-за несчастной любви стал морфинистом.
 
 * История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
-    > Вторая часть этой истории захватывает, как и первая.
 
 * Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 
-* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>14</sup> 
 [oblomovism](users/184/184792270-vkontakte)<sup>0</sup> 
 [Darya_Z](users/102/102125384391056623500-google)<sup>1</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>18</sup> 
 [kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>13</sup> 
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
 [Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [olgaboch](users/444/444455-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 14:02:57_
+_11.09.2017 14:05:51_
