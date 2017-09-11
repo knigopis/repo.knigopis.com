@@ -1,4 +1,10 @@
 {
+    "102125384391056623500-google": {
+        "id": "102125384391056623500-google",
+        "nickname": "Darya_Z",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 13:55:32"
+    },
     "106005619986229944459-google": {
         "id": "106005619986229944459-google",
         "nickname": "purple_cherry",
@@ -172,11 +178,5 @@
         "nickname": "AlexMadly",
         "booksCount": 0,
         "updatedAt": "2017-09-10 19:45:00"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 29,
-        "updatedAt": "2017-09-10 19:40:13"
     }
 }
