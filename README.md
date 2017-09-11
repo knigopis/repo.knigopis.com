@@ -44,7 +44,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kseniathehoney](users/440/440304750-vkontakte)<sup>1</sup> 
+[kseniathehoney](users/440/440304750-vkontakte)<sup>2</sup> 
 [Koff](users/116/116635523385577843498-google)<sup>0</sup> 
 [Валерия  Валинчус](users/397/3971994895781941199-mailru)<sup>0</sup> 
 [chbsv1](users/547/54740356-vkontakte)<sup>0</sup> 
@@ -76,4 +76,4 @@ _More notes [here](latest_books_with_notes.md)._
 [o_osmagina](users/506/50652378-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 07:40:28_
+_11.09.2017 07:40:51_
