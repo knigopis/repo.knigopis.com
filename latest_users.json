@@ -1,4 +1,10 @@
 {
+    "15757748591277193869-mailru": {
+        "id": "15757748591277193869-mailru",
+        "nickname": "Виктория Степанова",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 10:42:56"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "Amuri",
         "booksCount": 0,
         "updatedAt": "2017-09-10 18:45:11"
-    },
-    "302849706-vkontakte": {
-        "id": "302849706-vkontakte",
-        "nickname": "oksanagilm",
-        "booksCount": 5,
-        "updatedAt": "2017-09-10 18:43:27"
     }
 }
