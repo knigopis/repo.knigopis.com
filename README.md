@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
+    > Вторая часть этой истории захватывает, как и первая.
+
 * Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
     > Книга, которая поглощает с первых страниц. История жизни двух подруг, длиною в жизнь. Первая книга, из Неаполитанского квартета.
 
@@ -20,10 +23,6 @@ Do not use pull requests to make changes here.
     > Otto Dix
 
 * Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
-    > Эта книга как я считаю должна быть настольной для каждой девушки.
-    > Так же считаю, что эту книгу можно даже конспектировать при чтении 
-    > Свои мысли писать не буду потому что страница в моем бумажном дневнике целиком занята под 
-    > выдержки из этой книги
 
 * Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
 
@@ -37,15 +36,13 @@ Do not use pull requests to make changes here.
 
 * Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
 
-* Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>10</sup> 
 [Виктория Степанова](users/157/15757748591277193869-mailru)<sup>0</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>9</sup> 
 [Юленька](users/651/6515406367237956327-mailru)<sup>3</sup> 
 [nickk_boss](users/101/101170524510991494429-google)<sup>1</sup> 
 [Taty](users/122/12256428-vkontakte)<sup>0</sup> 
@@ -76,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amuri](users/149/1490872947659289-facebook)<sup>0</sup> 
 
 
-_11.09.2017 10:42:57_
+_11.09.2017 10:43:26_

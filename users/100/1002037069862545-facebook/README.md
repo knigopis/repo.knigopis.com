@@ -1,7 +1,12 @@
-# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>9</sup>
+# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>10</sup>
 ---
 
 ## 2017
+
+### История нового имени
+Элена Феранте
+> [2017-09-11] Вторая часть этой истории захватывает, как и первая.
+
 
 ### Моя гениальная подргуа
 Элена Феранте
