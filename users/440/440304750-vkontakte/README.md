@@ -1,7 +1,11 @@
-# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>6</sup>
+# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>7</sup>
 ---
 
 ## 2016
+
+### Изучаем Java
+К.Сьерра, Б.Бейтс
+
 
 ### Игрок
 Федор Достоевский

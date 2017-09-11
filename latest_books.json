@@ -1,4 +1,16 @@
 {
+    "yJpNR_48aO": {
+        "id": "yJpNR_48aO",
+        "title": "Изучаем Java",
+        "author": "К.Сьерра, Б.Бейтс",
+        "notes": "",
+        "createdAt": "2017-09-11 07:43:16",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 7
+        }
+    },
     "KQY2SsCj8u": {
         "id": "KQY2SsCj8u",
         "title": "Игрок",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 10
-        }
-    },
-    "iGSMiqueHY": {
-        "id": "iGSMiqueHY",
-        "title": "взять море в свои руки",
-        "author": "шалагин",
-        "notes": "",
-        "createdAt": "2017-09-10 19:25:40",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 9
         }
     }
 }
