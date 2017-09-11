@@ -1,4 +1,16 @@
 {
+    "CyKPAfDcHy": {
+        "id": "CyKPAfDcHy",
+        "title": "Психология маркетинга",
+        "author": "Клаус Мозер",
+        "notes": "",
+        "createdAt": "2017-09-11 07:46:28",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 13
+        }
+    },
     "b7Hvpux-IK": {
         "id": "b7Hvpux-IK",
         "title": "Пиши, сокращай",
@@ -345,18 +357,6 @@
             "id": "104724125-vkontakte",
             "nickname": "influence16",
             "booksCount": 1
-        }
-    },
-    "RKagfiOyvL": {
-        "id": "RKagfiOyvL",
-        "title": "шпионский роман",
-        "author": "акунин",
-        "notes": "",
-        "createdAt": "2017-09-10 19:27:46",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 15
         }
     }
 }
