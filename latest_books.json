@@ -1,4 +1,16 @@
 {
+    "rhOM2VuNr5": {
+        "id": "rhOM2VuNr5",
+        "title": "Java 8. Руководство для начинающих",
+        "author": "Герберт Шилдт",
+        "notes": "",
+        "createdAt": "2017-09-11 07:44:49",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 10
+        }
+    },
     "CC6j-8YsyS": {
         "id": "CC6j-8YsyS",
         "title": "Кради как художник",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 13
-        }
-    },
-    "e6f0mMuMMq": {
-        "id": "e6f0mMuMMq",
-        "title": "прокурор рискует",
-        "author": "Гарднер",
-        "notes": "",
-        "createdAt": "2017-09-10 19:26:47",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 12
         }
     }
 }
