@@ -1,4 +1,10 @@
 {
+    "88335013-vkontakte": {
+        "id": "88335013-vkontakte",
+        "nickname": "Даня",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 11:42:37"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "Гердими",
         "booksCount": 0,
         "updatedAt": "2017-09-10 18:49:09"
-    },
-    "63331538-vkontakte": {
-        "id": "63331538-vkontakte",
-        "nickname": "anny_sega",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 18:47:16"
     }
 }
