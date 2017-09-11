@@ -1,4 +1,16 @@
 {
+    "YxTwCACReq": {
+        "id": "YxTwCACReq",
+        "title": "Тайплесс",
+        "author": "Керстин Гир",
+        "notes": "Все три книги просто волшебны.(Из меня божественный критик)",
+        "createdAt": "2017-09-11 13:12:50",
+        "user": {
+            "id": "106005619986229944459-google",
+            "nickname": "purple_cherry",
+            "booksCount": 7
+        }
+    },
     "eOvuFEOmt3": {
         "id": "eOvuFEOmt3",
         "title": "Прежде чем я упаду",
@@ -345,18 +357,6 @@
             "id": "440304750-vkontakte",
             "nickname": "kseniathehoney",
             "booksCount": 10
-        }
-    },
-    "CC6j-8YsyS": {
-        "id": "CC6j-8YsyS",
-        "title": "Кради как художник",
-        "author": "Остин Клеон",
-        "notes": "",
-        "createdAt": "2017-09-11 07:44:10",
-        "user": {
-            "id": "440304750-vkontakte",
-            "nickname": "kseniathehoney",
-            "booksCount": 9
         }
     }
 }

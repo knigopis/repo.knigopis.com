@@ -1,7 +1,12 @@
-# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>6</sup>
+# List of books read by [purple_cherry](https://plus.google.com/106005619986229944459)<sup>7</sup>
 ---
 
 ## 2017
+
+### Тайплесс
+Керстин Гир
+> Все три книги просто волшебны.(Из меня божественный критик)
+
 
 ### Прежде чем я упаду
 Лорен Оливер
