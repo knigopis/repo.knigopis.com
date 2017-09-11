@@ -1,4 +1,10 @@
 {
+    "100000769927023-facebook": {
+        "id": "100000769927023-facebook",
+        "nickname": "Sw00p911",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 11:52:34"
+    },
     "88335013-vkontakte": {
         "id": "88335013-vkontakte",
         "nickname": "Даня",
@@ -172,11 +178,5 @@
         "nickname": "gleb_gutsalyuk",
         "booksCount": 1,
         "updatedAt": "2017-09-10 18:52:13"
-    },
-    "113705905766350034623-google": {
-        "id": "113705905766350034623-google",
-        "nickname": "Гердими",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 18:49:09"
     }
 }
