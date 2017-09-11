@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lens](users/322/32214946-vkontakte)<sup>0</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
 [Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
 [Даня](users/883/88335013-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
 [Tata](users/117/117259578808269091662-google)<sup>27</sup> 
 [influence16](users/104/104724125-vkontakte)<sup>1</sup> 
-[chizhevskaya92](users/498/49806945-vkontakte)<sup>0</sup> 
 
 
-_11.09.2017 12:25:18_
+_11.09.2017 12:28:39_
