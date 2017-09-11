@@ -1,4 +1,16 @@
 {
+    "plM8nDIHzN": {
+        "id": "plM8nDIHzN",
+        "title": "Друзей не выбирают",
+        "author": "Анна Кувайкова",
+        "notes": "Эльфы, демоны, драконы. Магия, дружба, войны. Книга-мечта",
+        "createdAt": "2017-09-11 09:06:11",
+        "user": {
+            "id": "6515406367237956327-mailru",
+            "nickname": "Юленька",
+            "booksCount": 1
+        }
+    },
     "OCnh-w0-7O": {
         "id": "OCnh-w0-7O",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 22
-        }
-    },
-    "pR7z6sMLa0": {
-        "id": "pR7z6sMLa0",
-        "title": "война и мир",
-        "author": "толстой",
-        "notes": "",
-        "createdAt": "2017-09-10 19:30:15",
-        "user": {
-            "id": "117259578808269091662-google",
-            "nickname": "Tata",
-            "booksCount": 21
         }
     }
 }
