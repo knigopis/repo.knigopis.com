@@ -1,4 +1,10 @@
 {
+    "184792270-vkontakte": {
+        "id": "184792270-vkontakte",
+        "nickname": "oblomovism",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 14:02:56"
+    },
     "102125384391056623500-google": {
         "id": "102125384391056623500-google",
         "nickname": "Darya_Z",
@@ -172,11 +178,5 @@
         "nickname": "olgaboch",
         "booksCount": 0,
         "updatedAt": "2017-09-10 19:58:41"
-    },
-    "20124175-vkontakte": {
-        "id": "20124175-vkontakte",
-        "nickname": "AlexMadly",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 19:45:00"
     }
 }
