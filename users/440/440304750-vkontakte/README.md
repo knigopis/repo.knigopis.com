@@ -1,5 +1,13 @@
-# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>11</sup>
+# List of books read by [kseniathehoney](http://vk.com/id440304750)<sup>12</sup>
 ---
+
+## 2017
+
+### Пиши, сокращай
+М.Ильяхов, Л.Сарычева
+> [2017-01-11] 
+
+
 
 ## 2016
 
