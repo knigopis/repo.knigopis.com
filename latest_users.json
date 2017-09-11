@@ -1,4 +1,10 @@
 {
+    "52797109-vkontakte": {
+        "id": "52797109-vkontakte",
+        "nickname": "kilimangaro",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 13:35:42"
+    },
     "106005619986229944459-google": {
         "id": "106005619986229944459-google",
         "nickname": "purple_cherry",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 29,
         "updatedAt": "2017-09-10 19:40:13"
-    },
-    "1931707870486451-facebook": {
-        "id": "1931707870486451-facebook",
-        "nickname": "Trililiputessa",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 19:38:44"
     }
 }
