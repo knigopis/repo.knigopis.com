@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xenya](users/183/183959719-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>314</sup> 
 [goodmanniko](users/345/34520370-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Селезнева](users/148/1484163911671633-facebook)<sup>0</sup> 
 [mashapavlova](users/105/10559372-vkontakte)<sup>0</sup> 
 [lomakova](users/159/1590890954315215-facebook)<sup>1</sup> 
-[дин дин](users/191/1918918191679662-facebook)<sup>0</sup> 
 
 
-_11.09.2017 15:25:50_
+_11.09.2017 15:59:31_
