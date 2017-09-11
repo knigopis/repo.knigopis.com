@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[purple_cherry](users/106/106005619986229944459-google)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>13</sup> 
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexMadly](users/201/20124175-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>29</sup> 
 [Trililiputessa](users/193/1931707870486451-facebook)<sup>0</sup> 
-[Tata](users/117/117259578808269091662-google)<sup>27</sup> 
 
 
-_11.09.2017 12:35:07_
+_11.09.2017 12:51:35_
