@@ -1,4 +1,16 @@
 {
+    "ciBYXRgmhE": {
+        "id": "ciBYXRgmhE",
+        "title": "Мужчины без женщин",
+        "author": "Эрнест Хэмингуэй",
+        "notes": "",
+        "createdAt": "2017-09-11 07:46:51",
+        "user": {
+            "id": "440304750-vkontakte",
+            "nickname": "kseniathehoney",
+            "booksCount": 14
+        }
+    },
     "CyKPAfDcHy": {
         "id": "CyKPAfDcHy",
         "title": "Психология маркетинга",
@@ -345,18 +357,6 @@
             "id": "117259578808269091662-google",
             "nickname": "Tata",
             "booksCount": 16
-        }
-    },
-    "PSEFuErJ0K": {
-        "id": "PSEFuErJ0K",
-        "title": "",
-        "author": "Шилова",
-        "notes": "",
-        "createdAt": "2017-09-10 19:27:56",
-        "user": {
-            "id": "104724125-vkontakte",
-            "nickname": "influence16",
-            "booksCount": 1
         }
     }
 }
