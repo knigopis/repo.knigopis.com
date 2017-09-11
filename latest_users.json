@@ -1,4 +1,10 @@
 {
+    "183959719-vkontakte": {
+        "id": "183959719-vkontakte",
+        "nickname": "xenya",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 15:59:31"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "lomakova",
         "booksCount": 1,
         "updatedAt": "2017-09-10 20:16:24"
-    },
-    "1918918191679662-facebook": {
-        "id": "1918918191679662-facebook",
-        "nickname": "дин дин",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 20:15:40"
     }
 }
