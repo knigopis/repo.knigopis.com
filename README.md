@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
 [Даня](users/883/88335013-vkontakte)<sup>4</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>313</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [influence16](users/104/104724125-vkontakte)<sup>1</sup> 
 [chizhevskaya92](users/498/49806945-vkontakte)<sup>0</sup> 
 [gleb_gutsalyuk](users/127/12719684-vkontakte)<sup>1</sup> 
-[Гердими](users/113/113705905766350034623-google)<sup>0</sup> 
 
 
-_11.09.2017 11:45:05_
+_11.09.2017 11:52:34_
