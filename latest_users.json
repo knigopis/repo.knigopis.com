@@ -1,4 +1,10 @@
 {
+    "11745108290409452695-mailru": {
+        "id": "11745108290409452695-mailru",
+        "nickname": "Наталья Васильева",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 07:48:39"
+    },
     "440304750-vkontakte": {
         "id": "440304750-vkontakte",
         "nickname": "kseniathehoney",
@@ -172,11 +178,5 @@
         "nickname": "zina",
         "booksCount": 0,
         "updatedAt": "2017-09-10 18:05:58"
-    },
-    "50652378-vkontakte": {
-        "id": "50652378-vkontakte",
-        "nickname": "o_osmagina",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 17:54:26"
     }
 }
