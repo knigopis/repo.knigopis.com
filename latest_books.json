@@ -1,4 +1,16 @@
 {
+    "oVeb5JGWRA": {
+        "id": "oVeb5JGWRA",
+        "title": "унесенные ветром",
+        "author": "маргаретт митчел",
+        "notes": "",
+        "createdAt": "2017-09-11 11:44:25",
+        "user": {
+            "id": "88335013-vkontakte",
+            "nickname": "Даня",
+            "booksCount": 2
+        }
+    },
     "vUe-RZ9-zn": {
         "id": "vUe-RZ9-zn",
         "title": "американские боги",
@@ -344,18 +356,6 @@
         "user": {
             "id": "1590890954315215-facebook",
             "nickname": "lomakova",
-            "booksCount": 1
-        }
-    },
-    "BANP9x6ada": {
-        "id": "BANP9x6ada",
-        "title": "",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-09-10 19:58:33",
-        "user": {
-            "id": "444455-vkontakte",
-            "nickname": "olgaboch",
             "booksCount": 1
         }
     }
