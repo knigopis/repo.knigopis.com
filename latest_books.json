@@ -1,4 +1,16 @@
 {
+    "hDu59d6y40": {
+        "id": "hDu59d6y40",
+        "title": "Дневник мага",
+        "author": "Поуло Коэльо",
+        "notes": "",
+        "createdAt": "2017-09-11 16:59:46",
+        "user": {
+            "id": "137961387-vkontakte",
+            "nickname": "anime_hetalia",
+            "booksCount": 6
+        }
+    },
     "GfwD-JF30x": {
         "id": "GfwD-JF30x",
         "title": "Бесприданница",
@@ -345,18 +357,6 @@
             "id": "88335013-vkontakte",
             "nickname": "Даня",
             "booksCount": 4
-        }
-    },
-    "W3FrqLqVSl": {
-        "id": "W3FrqLqVSl",
-        "title": "оно",
-        "author": "стивен кинг",
-        "notes": "",
-        "createdAt": "2017-09-11 11:44:47",
-        "user": {
-            "id": "88335013-vkontakte",
-            "nickname": "Даня",
-            "booksCount": 3
         }
     }
 }
