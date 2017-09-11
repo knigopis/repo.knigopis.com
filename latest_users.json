@@ -1,4 +1,10 @@
 {
+    "13444240621295387226-mailru": {
+        "id": "13444240621295387226-mailru",
+        "nickname": "Александра Борисова",
+        "booksCount": 0,
+        "updatedAt": "2017-09-11 12:25:18"
+    },
     "100000769927023-facebook": {
         "id": "100000769927023-facebook",
         "nickname": "Sw00p911",
@@ -172,11 +178,5 @@
         "nickname": "chizhevskaya92",
         "booksCount": 0,
         "updatedAt": "2017-09-10 19:17:38"
-    },
-    "12719684-vkontakte": {
-        "id": "12719684-vkontakte",
-        "nickname": "gleb_gutsalyuk",
-        "booksCount": 1,
-        "updatedAt": "2017-09-10 18:52:13"
     }
 }
