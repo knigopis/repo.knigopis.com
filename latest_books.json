@@ -1,4 +1,16 @@
 {
+    "-NS0oHCC_O": {
+        "id": "-NS0oHCC_O",
+        "title": "Бабий ветер",
+        "author": "Дина Рубина",
+        "notes": "",
+        "createdAt": "2017-09-12 23:08:19",
+        "user": {
+            "id": "100000628715277-facebook",
+            "nickname": "guru",
+            "booksCount": 2
+        }
+    },
     "sbBlDBeifQ": {
         "id": "sbBlDBeifQ",
         "title": "Милые кости",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 16
-        }
-    },
-    "Zii8qxOA2R": {
-        "id": "Zii8qxOA2R",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-11 13:36:24",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 15
         }
     }
 }
