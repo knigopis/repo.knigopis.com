@@ -1,4 +1,10 @@
 {
+    "6457992-vkontakte": {
+        "id": "6457992-vkontakte",
+        "nickname": "zeinabgvinbleid",
+        "booksCount": 0,
+        "updatedAt": "2017-09-12 11:45:57"
+    },
     "2058208183579121328-mailru": {
         "id": "2058208183579121328-mailru",
         "nickname": "Арина Мордвинова",
@@ -172,11 +178,5 @@
         "nickname": "Koff",
         "booksCount": 0,
         "updatedAt": "2017-09-11 07:36:55"
-    },
-    "3971994895781941199-mailru": {
-        "id": "3971994895781941199-mailru",
-        "nickname": "Валерия  Валинчус",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 07:22:47"
     }
 }
