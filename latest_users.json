@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "Лина Кауфман",
+        "booksCount": 22,
+        "updatedAt": "2017-09-12 03:26:33"
+    },
     "116507016-vkontakte": {
         "id": "116507016-vkontakte",
         "nickname": "Лия",
@@ -172,11 +178,5 @@
         "nickname": "noliapunk",
         "booksCount": 0,
         "updatedAt": "2017-09-10 21:04:46"
-    },
-    "1710307319281320-facebook": {
-        "id": "1710307319281320-facebook",
-        "nickname": "анна",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 20:41:14"
     }
 }
