@@ -1,4 +1,10 @@
 {
+    "45570698-vkontakte": {
+        "id": "45570698-vkontakte",
+        "nickname": "jane_kathleen_middle",
+        "booksCount": 0,
+        "updatedAt": "2017-09-12 17:16:50"
+    },
     "137961387-vkontakte": {
         "id": "137961387-vkontakte",
         "nickname": "anime_hetalia",
@@ -172,11 +178,5 @@
         "nickname": "kseniathehoney",
         "booksCount": 16,
         "updatedAt": "2017-09-11 07:47:38"
-    },
-    "116635523385577843498-google": {
-        "id": "116635523385577843498-google",
-        "nickname": "Koff",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 07:36:55"
     }
 }
