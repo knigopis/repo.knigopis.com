@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
+    > Книга на такую тематику невероятно захватила и удивила. Одна из самых глубоких встреченных мною эротических книг
+
 * Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
     > Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ну, очень многие насчет него высказываются положительно, но меня не то чтобы особо вдохновило. Забавно, нескучно, занимательно,но не пробудило во мне желание соблюдать те вещи и поддерживать те мысли, которые там изложены
 
 * Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
-    > История врача, который из-за несчастной любви стал морфинистом.
 
 * История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
 
-* Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>15</sup> 
 [jane_kathleen_middle](users/455/45570698-vkontakte)<sup>0</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>10</sup> 
 [zeinabgvinbleid](users/645/6457992-vkontakte)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
 [xenya](users/183/183959719-vkontakte)<sup>0</sup> 
 [goodmanniko](users/345/34520370-vkontakte)<sup>0</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>14</sup> 
 [oblomovism](users/184/184792270-vkontakte)<sup>0</sup> 
 [Darya_Z](users/102/102125384391056623500-google)<sup>1</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>18</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kseniathehoney](users/440/440304750-vkontakte)<sup>16</sup> 
 
 
-_12.09.2017 17:17:51_
+_12.09.2017 20:37:55_
