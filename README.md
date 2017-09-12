@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лия](users/116/116507016-vkontakte)<sup>0</sup> 
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>9</sup> 
 [xenya](users/183/183959719-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [libellle](users/198/19844209-vkontakte)<sup>1</sup> 
 [noliapunk](users/499/49916737-vkontakte)<sup>0</sup> 
 [анна](users/171/1710307319281320-facebook)<sup>0</sup> 
-[Селезнева](users/148/1484163911671633-facebook)<sup>0</sup> 
 
 
-_11.09.2017 19:32:57_
+_12.09.2017 02:49:04_
