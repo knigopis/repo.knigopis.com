@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[syh](users/110/110069342999463882216-google)<sup>1</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>28</sup> 
-[syh](users/110/110069342999463882216-google)<sup>0</sup> 
 [Lexet](users/196/196594205-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>22</sup> 
 [Лия](users/116/116507016-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chbsv1](users/547/54740356-vkontakte)<sup>0</sup> 
 
 
-_12.09.2017 07:59:37_
+_12.09.2017 08:09:28_
