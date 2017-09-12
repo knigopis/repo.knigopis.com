@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 315,
+        "updatedAt": "2017-09-12 10:07:05"
+    },
     "110069342999463882216-google": {
         "id": "110069342999463882216-google",
         "nickname": "syh",
@@ -46,12 +52,6 @@
         "nickname": "xenya",
         "booksCount": 0,
         "updatedAt": "2017-09-11 15:59:31"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 314,
-        "updatedAt": "2017-09-11 15:25:50"
     },
     "34520370-vkontakte": {
         "id": "34520370-vkontakte",
