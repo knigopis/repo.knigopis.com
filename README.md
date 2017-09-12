@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jane_kathleen_middle](users/455/45570698-vkontakte)<sup>0</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>10</sup> 
 [zeinabgvinbleid](users/645/6457992-vkontakte)<sup>0</sup> 
 [Арина Мордвинова](users/205/2058208183579121328-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tkopeeva](users/190/19033466-vkontakte)<sup>2</sup> 
 [Наталья Васильева](users/117/11745108290409452695-mailru)<sup>0</sup> 
 [kseniathehoney](users/440/440304750-vkontakte)<sup>16</sup> 
-[Koff](users/116/116635523385577843498-google)<sup>0</sup> 
 
 
-_12.09.2017 14:30:22_
+_12.09.2017 17:16:52_
