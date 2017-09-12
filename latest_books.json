@@ -1,4 +1,16 @@
 {
+    "vUP5deUIHW": {
+        "id": "vUP5deUIHW",
+        "title": "Роза Марена",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-12 21:23:30",
+        "user": {
+            "id": "3458212-vkontakte",
+            "nickname": "lyinil",
+            "booksCount": 5
+        }
+    },
     "wTklyZOeMb": {
         "id": "wTklyZOeMb",
         "title": "Дьюма-Ки",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 14
-        }
-    },
-    "sMn_5_e2tL": {
-        "id": "sMn_5_e2tL",
-        "title": "Отбор",
-        "author": "Кира Касс",
-        "notes": "Любителям принцев,принцесс,завоевания королевства посвящается.Есть продолжение: \"Элита\"; \"Единственная\"; \"Наследница\"; \"Корона\"",
-        "createdAt": "2017-09-11 13:32:38",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 13
         }
     }
 }

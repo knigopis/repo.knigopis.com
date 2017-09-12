@@ -1,4 +1,4 @@
-# List of books read by [lyinil](http://vk.com/id3458212)<sup>4</sup>
+# List of books read by [lyinil](http://vk.com/id3458212)<sup>5</sup>
 ---
 
 ## 2017
@@ -9,6 +9,10 @@
 
 
 ## 2016
+
+### Роза Марена
+Стивен Кинг
+
 
 ### Дьюма-Ки
 Стивен Кинг
