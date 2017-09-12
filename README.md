@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Арина Мордвинова](users/205/2058208183579121328-mailru)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>315</sup> 
 [syh](users/110/110069342999463882216-google)<sup>1</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kseniathehoney](users/440/440304750-vkontakte)<sup>16</sup> 
 [Koff](users/116/116635523385577843498-google)<sup>0</sup> 
 [Валерия  Валинчус](users/397/3971994895781941199-mailru)<sup>0</sup> 
-[chbsv1](users/547/54740356-vkontakte)<sup>0</sup> 
 
 
-_12.09.2017 10:07:06_
+_12.09.2017 11:22:55_
