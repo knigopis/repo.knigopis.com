@@ -1,4 +1,16 @@
 {
+    "0tPY6loMZz": {
+        "id": "0tPY6loMZz",
+        "title": "Долгая прогулка",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-09-12 21:22:55",
+        "user": {
+            "id": "3458212-vkontakte",
+            "nickname": "lyinil",
+            "booksCount": 3
+        }
+    },
     "qElpzEhKzi": {
         "id": "qElpzEhKzi",
         "title": "Темная башня (все части)",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 12
-        }
-    },
-    "OflRzNOikt": {
-        "id": "OflRzNOikt",
-        "title": "Алая Королева",
-        "author": "Виктория Авеярд",
-        "notes": "Прочтено за пару дней.Затягивает с первой страницы,с очень неожиданным,как бы сказать,протеканием сюжета?",
-        "createdAt": "2017-09-11 13:23:42",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 11
         }
     }
 }
