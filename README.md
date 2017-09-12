@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[валя](users/523/523518851324327-facebook)<sup>0</sup> 
 [lyinil](users/345/3458212-vkontakte)<sup>5</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>15</sup> 
 [jane_kathleen_middle](users/455/45570698-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nickk_boss](users/101/101170524510991494429-google)<sup>1</sup> 
 [Taty](users/122/12256428-vkontakte)<sup>0</sup> 
 [tkopeeva](users/190/19033466-vkontakte)<sup>2</sup> 
-[Наталья Васильева](users/117/11745108290409452695-mailru)<sup>0</sup> 
 
 
-_12.09.2017 21:23:30_
+_12.09.2017 22:21:43_
