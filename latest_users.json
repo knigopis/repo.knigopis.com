@@ -1,4 +1,10 @@
 {
+    "116507016-vkontakte": {
+        "id": "116507016-vkontakte",
+        "nickname": "Лия",
+        "booksCount": 0,
+        "updatedAt": "2017-09-12 02:49:01"
+    },
     "855179368554-odnoklassniki": {
         "id": "855179368554-odnoklassniki",
         "nickname": "Лисенок",
@@ -172,11 +178,5 @@
         "nickname": "анна",
         "booksCount": 0,
         "updatedAt": "2017-09-10 20:41:14"
-    },
-    "1484163911671633-facebook": {
-        "id": "1484163911671633-facebook",
-        "nickname": "Селезнева",
-        "booksCount": 0,
-        "updatedAt": "2017-09-10 20:28:33"
     }
 }
