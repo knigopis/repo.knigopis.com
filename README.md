@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lexet](users/196/196594205-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>22</sup> 
 [Лия](users/116/116507016-vkontakte)<sup>1</sup> 
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [chbsv1](users/547/54740356-vkontakte)<sup>0</sup> 
 [y.poludnitsyna](users/331/33114531-vkontakte)<sup>0</sup> 
 [libellle](users/198/19844209-vkontakte)<sup>1</sup> 
-[noliapunk](users/499/49916737-vkontakte)<sup>0</sup> 
 
 
-_12.09.2017 03:26:33_
+_12.09.2017 05:13:57_
