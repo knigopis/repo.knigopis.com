@@ -1,4 +1,10 @@
 {
+    "2058208183579121328-mailru": {
+        "id": "2058208183579121328-mailru",
+        "nickname": "Арина Мордвинова",
+        "booksCount": 0,
+        "updatedAt": "2017-09-12 11:22:54"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "Валерия  Валинчус",
         "booksCount": 0,
         "updatedAt": "2017-09-11 07:22:47"
-    },
-    "54740356-vkontakte": {
-        "id": "54740356-vkontakte",
-        "nickname": "chbsv1",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 06:33:04"
     }
 }
