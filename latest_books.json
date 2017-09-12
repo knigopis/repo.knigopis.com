@@ -1,4 +1,16 @@
 {
+    "sbBlDBeifQ": {
+        "id": "sbBlDBeifQ",
+        "title": "Милые кости",
+        "author": "Элис Сиболд",
+        "notes": "",
+        "createdAt": "2017-09-12 22:54:59",
+        "user": {
+            "id": "100000628715277-facebook",
+            "nickname": "guru",
+            "booksCount": 1
+        }
+    },
     "vUP5deUIHW": {
         "id": "vUP5deUIHW",
         "title": "Роза Марена",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 15
-        }
-    },
-    "UZedb2SqTQ": {
-        "id": "UZedb2SqTQ",
-        "title": "Принц и гвардеец",
-        "author": "Кира Касс",
-        "notes": "Параллельная новелла, написанная о тех же событиях книги \"Отбор\",только от лица другого персонажа",
-        "createdAt": "2017-09-11 13:36:00",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 14
         }
     }
 }
