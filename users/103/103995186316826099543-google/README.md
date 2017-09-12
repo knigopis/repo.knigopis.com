@@ -1,4 +1,4 @@
-# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>27</sup>
+# List of books read by [Polpolpol](https://plus.google.com/103995186316826099543)<sup>28</sup>
 ---
 
 ## 2017
@@ -136,6 +136,10 @@
 ### Год Призраков
 Джеффри Форд
 > [2017-05] 
+
+
+### Улитка на склоне
+Аркадий и Борис Стругацкие
 
 
 

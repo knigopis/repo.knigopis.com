@@ -1,4 +1,10 @@
 {
+    "103995186316826099543-google": {
+        "id": "103995186316826099543-google",
+        "nickname": "Polpolpol",
+        "booksCount": 28,
+        "updatedAt": "2017-09-12 07:59:37"
+    },
     "110069342999463882216-google": {
         "id": "110069342999463882216-google",
         "nickname": "syh",
@@ -172,11 +178,5 @@
         "nickname": "chbsv1",
         "booksCount": 0,
         "updatedAt": "2017-09-11 06:33:04"
-    },
-    "33114531-vkontakte": {
-        "id": "33114531-vkontakte",
-        "nickname": "y.poludnitsyna",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 04:38:14"
     }
 }
