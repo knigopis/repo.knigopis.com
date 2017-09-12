@@ -1,4 +1,16 @@
 {
+    "929_qQfdnE": {
+        "id": "929_qQfdnE",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2017-09-12 17:17:20",
+        "user": {
+            "id": "45570698-vkontakte",
+            "nickname": "jane_kathleen_middle",
+            "booksCount": 1
+        }
+    },
     "P4ktrvix75": {
         "id": "P4ktrvix75",
         "title": "Девушка в поезде",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 8
-        }
-    },
-    "YxTwCACReq": {
-        "id": "YxTwCACReq",
-        "title": "Тайплесс",
-        "author": "Керстин Гир",
-        "notes": "Все три книги просто волшебны.(Из меня божественный критик)",
-        "createdAt": "2017-09-11 13:12:50",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 7
         }
     }
 }
