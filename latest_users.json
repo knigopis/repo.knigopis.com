@@ -1,4 +1,10 @@
 {
+    "523518851324327-facebook": {
+        "id": "523518851324327-facebook",
+        "nickname": "валя",
+        "booksCount": 0,
+        "updatedAt": "2017-09-12 22:21:41"
+    },
     "3458212-vkontakte": {
         "id": "3458212-vkontakte",
         "nickname": "lyinil",
@@ -172,11 +178,5 @@
         "nickname": "tkopeeva",
         "booksCount": 2,
         "updatedAt": "2017-09-11 08:26:25"
-    },
-    "11745108290409452695-mailru": {
-        "id": "11745108290409452695-mailru",
-        "nickname": "Наталья Васильева",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 07:48:39"
     }
 }
