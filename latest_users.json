@@ -1,4 +1,10 @@
 {
+    "91377748-vkontakte": {
+        "id": "91377748-vkontakte",
+        "nickname": "lena_elenka",
+        "booksCount": 0,
+        "updatedAt": "2017-09-13 05:41:02"
+    },
     "100000628715277-facebook": {
         "id": "100000628715277-facebook",
         "nickname": "guru",
@@ -172,11 +178,5 @@
         "nickname": "nickk_boss",
         "booksCount": 1,
         "updatedAt": "2017-09-11 09:00:02"
-    },
-    "12256428-vkontakte": {
-        "id": "12256428-vkontakte",
-        "nickname": "Taty",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 08:33:09"
     }
 }
