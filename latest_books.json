@@ -1,4 +1,16 @@
 {
+    "xTCiZGYtk5": {
+        "id": "xTCiZGYtk5",
+        "title": "Я много жил",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-09-13 23:17:11",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 19
+        }
+    },
     "gkmMCQRJlA": {
         "id": "gkmMCQRJlA",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 22
-        }
-    },
-    "YKGX_t_sD2": {
-        "id": "YKGX_t_sD2",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2017-09-13 07:39:29",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 21
         }
     }
 }
