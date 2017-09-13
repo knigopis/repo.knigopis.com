@@ -1,4 +1,16 @@
 {
+    "x6z8CiFKj4": {
+        "id": "x6z8CiFKj4",
+        "title": "Крёстный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2017-09-13 07:40:53",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 23
+        }
+    },
     "CmU-k_dZBW": {
         "id": "CmU-k_dZBW",
         "title": "Ярмарка тщеславия",
@@ -345,18 +357,6 @@
             "id": "3458212-vkontakte",
             "nickname": "lyinil",
             "booksCount": 1
-        }
-    },
-    "2A5uilznL0": {
-        "id": "2A5uilznL0",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "Книга на такую тематику невероятно захватила и удивила. Одна из самых глубоких встреченных мною эротических книг",
-        "createdAt": "2017-09-12 20:37:55",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 15
         }
     }
 }
