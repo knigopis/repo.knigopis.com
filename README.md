@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
+    > Как обычно у Арсеньева, читается на ура :)
+    > 
+    > https://wiki.marshruty.ru/travel/arseniev_skvoz_taigu/?Page=2
+    > 
+    > в процессе
+
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
     > https://www.ozon.ru/context/detail/id/1077226/
     > 
@@ -14,7 +21,6 @@ Do not use pull requests to make changes here.
     > Книга на такую тематику невероятно захватила и удивила. Одна из самых глубоких встреченных мною эротических книг
 
 * Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
-    > Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах
 
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
 
@@ -28,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
 
-* Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
 [Icerock87](users/227/227437659-vkontakte)<sup>1</sup> 
 [markovatatiana](users/749/74947941-vkontakte)<sup>0</sup> 
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
@@ -67,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
 
 
-_13.09.2017 20:12:51_
+_13.09.2017 20:15:41_

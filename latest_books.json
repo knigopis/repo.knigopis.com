@@ -1,4 +1,16 @@
 {
+    "i8iZRXZIDl": {
+        "id": "i8iZRXZIDl",
+        "title": "Сквозь тайгу",
+        "author": "В. К. Арсеньев",
+        "notes": "Как обычно у Арсеньева, читается на ура :)\n\nhttps://wiki.marshruty.ru/travel/arseniev_skvoz_taigu/?Page=2\n\nв процессе",
+        "createdAt": "2017-09-13 20:15:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 124
+        }
+    },
     "9f22w8hc6w": {
         "id": "9f22w8hc6w",
         "title": "Введение в психологию",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 3
-        }
-    },
-    "JVxCrRj2z8": {
-        "id": "JVxCrRj2z8",
-        "title": "Возлюби ближнего своего",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-09-13 07:25:46",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 2
         }
     }
 }

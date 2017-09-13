@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
 * Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 * Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
 * 17 обновление 6-7 ~ [Tr](users/122/12282474-vkontakte)<sup>55</sup>
-* Enigma - Харрис Роберт ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup>
 
 
-_13.09.2017 20:12:51_
+_13.09.2017 20:15:41_
