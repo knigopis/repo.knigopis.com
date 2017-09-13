@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>12</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>13</sup>
 ---
 
 ## 2017
@@ -42,6 +42,10 @@
 
 
 ## Other years
+
+### Молодые годы короля Генриха IV
+Генрих Манн
+
 
 ### Нарушители запретов
 Иво Стоуртон

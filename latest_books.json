@@ -1,4 +1,16 @@
 {
+    "gAhzjvnCQc": {
+        "id": "gAhzjvnCQc",
+        "title": "Молодые годы короля Генриха IV",
+        "author": "Генрих Манн",
+        "notes": "",
+        "createdAt": "2017-09-13 23:15:00",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 13
+        }
+    },
     "7_c3dG5Vde": {
         "id": "7_c3dG5Vde",
         "title": "Нарушители запретов",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 16
-        }
-    },
-    "mxWLByPNX1": {
-        "id": "mxWLByPNX1",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2017-09-13 07:35:05",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 15
         }
     }
 }
