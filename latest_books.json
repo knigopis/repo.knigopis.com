@@ -1,4 +1,16 @@
 {
+    "hHuzcOi1Ni": {
+        "id": "hHuzcOi1Ni",
+        "title": "Старик и море",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2017-09-13 07:32:45",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 11
+        }
+    },
     "VjdJh1zxDV": {
         "id": "VjdJh1zxDV",
         "title": "Приключения Шерлока Холмса",
@@ -345,18 +357,6 @@
             "id": "137961387-vkontakte",
             "nickname": "anime_hetalia",
             "booksCount": 6
-        }
-    },
-    "GfwD-JF30x": {
-        "id": "GfwD-JF30x",
-        "title": "Бесприданница",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-11 16:59:16",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 5
         }
     }
 }
