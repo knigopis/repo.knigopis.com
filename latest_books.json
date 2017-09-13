@@ -1,4 +1,16 @@
 {
+    "FiF0i3dA-g": {
+        "id": "FiF0i3dA-g",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-09-13 07:33:36",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 12
+        }
+    },
     "hHuzcOi1Ni": {
         "id": "hHuzcOi1Ni",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "137961387-vkontakte",
             "nickname": "anime_hetalia",
             "booksCount": 7
-        }
-    },
-    "hDu59d6y40": {
-        "id": "hDu59d6y40",
-        "title": "Дневник мага",
-        "author": "Поуло Коэльо",
-        "notes": "",
-        "createdAt": "2017-09-11 16:59:46",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 6
         }
     }
 }

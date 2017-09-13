@@ -1,7 +1,11 @@
-# List of books read by [zhamila1995](http://vk.com/id43615118)<sup>11</sup>
+# List of books read by [zhamila1995](http://vk.com/id43615118)<sup>12</sup>
 ---
 
 ## 2017
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+
 
 ### Старик и море
 Эрнест Хемингуэй
