@@ -1,4 +1,16 @@
 {
+    "FaTr70m1au": {
+        "id": "FaTr70m1au",
+        "title": "Убийство в «Восточном экспрессе»",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-09-13 07:42:08",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 24
+        }
+    },
     "x6z8CiFKj4": {
         "id": "x6z8CiFKj4",
         "title": "Крёстный отец",
@@ -345,18 +357,6 @@
             "id": "3458212-vkontakte",
             "nickname": "lyinil",
             "booksCount": 2
-        }
-    },
-    "HqSoYohtSg": {
-        "id": "HqSoYohtSg",
-        "title": "11/22/63",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-12 21:21:28",
-        "user": {
-            "id": "3458212-vkontakte",
-            "nickname": "lyinil",
-            "booksCount": 1
         }
     }
 }
