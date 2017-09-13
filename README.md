@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Icerock87](users/227/227437659-vkontakte)<sup>0</sup> 
 [markovatatiana](users/749/74947941-vkontakte)<sup>0</sup> 
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
 [Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
-[Даня](users/883/88335013-vkontakte)<sup>4</sup> 
 
 
-_13.09.2017 12:37:42_
+_13.09.2017 16:10:08_
