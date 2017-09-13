@@ -1,14 +1,17 @@
 # Wish list of books by [guru](https://www.facebook.com/app_scoped_user_id/100000628715277/)
 ---
 
-### `50` https://knigaza.com/collections
-https://knigaza.com/collections
-
 ### `50` Русская мафия 1991–2014. Новейшая история бандитской России -
 Валерий Карышев
 
+### `50` https://knigaza.com/collections
+https://knigaza.com/collections
+
 ### `50` Бабий ветер
 Дина Рубина
+
+### `50` Школа для дураков -
+Саша Соколов
 
 ### `50` Большая книга про вас и вашего ребенка -
 Людмила Петрановская
