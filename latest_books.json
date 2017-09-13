@@ -1,4 +1,16 @@
 {
+    "c3Zi1tgJH5": {
+        "id": "c3Zi1tgJH5",
+        "title": "Я убил.",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-09-13 09:01:20",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 316
+        }
+    },
     "_XRBckKvAG": {
         "id": "_XRBckKvAG",
         "title": "Мемуары гейши",
@@ -345,18 +357,6 @@
             "id": "3458212-vkontakte",
             "nickname": "lyinil",
             "booksCount": 5
-        }
-    },
-    "wTklyZOeMb": {
-        "id": "wTklyZOeMb",
-        "title": "Дьюма-Ки",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-09-12 21:23:10",
-        "user": {
-            "id": "3458212-vkontakte",
-            "nickname": "lyinil",
-            "booksCount": 4
         }
     }
 }
