@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lena_elenka](users/913/91377748-vkontakte)<sup>0</sup> 
 [guru](users/100/100000628715277-facebook)<sup>0</sup> 
 [валя](users/523/523518851324327-facebook)<sup>0</sup> 
 [lyinil](users/345/3458212-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Виктория Степанова](users/157/15757748591277193869-mailru)<sup>0</sup> 
 [Юленька](users/651/6515406367237956327-mailru)<sup>3</sup> 
 [nickk_boss](users/101/101170524510991494429-google)<sup>1</sup> 
-[Taty](users/122/12256428-vkontakte)<sup>0</sup> 
 
 
-_12.09.2017 23:10:06_
+_13.09.2017 05:41:05_
