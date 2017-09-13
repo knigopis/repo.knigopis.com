@@ -1,4 +1,16 @@
 {
+    "YKGX_t_sD2": {
+        "id": "YKGX_t_sD2",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2017-09-13 07:39:29",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 21
+        }
+    },
     "YdhjnS7iKV": {
         "id": "YdhjnS7iKV",
         "title": "Морфий",
@@ -345,18 +357,6 @@
             "id": "45570698-vkontakte",
             "nickname": "jane_kathleen_middle",
             "booksCount": 1
-        }
-    },
-    "P4ktrvix75": {
-        "id": "P4ktrvix75",
-        "title": "Девушка в поезде",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-12 14:30:22",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 10
         }
     }
 }
