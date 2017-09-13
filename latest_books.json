@@ -1,4 +1,16 @@
 {
+    "OPU2-Ehq36": {
+        "id": "OPU2-Ehq36",
+        "title": "Даниэль Дефо",
+        "author": "Робинзон Крузо",
+        "notes": "",
+        "createdAt": "2017-09-13 23:13:19",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 11
+        }
+    },
     "uq7-8T86MV": {
         "id": "uq7-8T86MV",
         "title": "Пятнадцатилетний капитан",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 14
-        }
-    },
-    "4ZRJ1z8rhE": {
-        "id": "4ZRJ1z8rhE",
-        "title": "Ночь нежна",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-09-13 07:33:43",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 13
         }
     }
 }
