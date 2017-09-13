@@ -1,4 +1,16 @@
 {
+    "FGSDC8xIq-": {
+        "id": "FGSDC8xIq-",
+        "title": "Ромео и Джульетта/ Гамлет / Отелло/ Король Лир",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2017-09-13 23:11:23",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 8
+        }
+    },
     "2OSbhgsCY0": {
         "id": "2OSbhgsCY0",
         "title": "Поджигатели",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 11
-        }
-    },
-    "VjdJh1zxDV": {
-        "id": "VjdJh1zxDV",
-        "title": "Приключения Шерлока Холмса",
-        "author": "Артур Конан Дойль",
-        "notes": "",
-        "createdAt": "2017-09-13 07:32:24",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 10
         }
     }
 }

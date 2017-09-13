@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>7</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>8</sup>
 ---
 
 ## 2017
@@ -31,6 +31,10 @@
 
 
 ## 2016
+
+### Ромео и Джульетта/ Гамлет / Отелло/ Король Лир
+Уильям Шекспир
+
 
 ### Всадник без головы
 Майн Рид
