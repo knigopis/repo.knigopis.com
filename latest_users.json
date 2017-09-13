@@ -1,4 +1,10 @@
 {
+    "136502672-vkontakte": {
+        "id": "136502672-vkontakte",
+        "nickname": "Ann Tea",
+        "booksCount": 0,
+        "updatedAt": "2017-09-13 11:57:40"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Элла",
         "booksCount": 10,
         "updatedAt": "2017-09-11 10:43:26"
-    },
-    "15757748591277193869-mailru": {
-        "id": "15757748591277193869-mailru",
-        "nickname": "Виктория Степанова",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 10:42:56"
     }
 }
