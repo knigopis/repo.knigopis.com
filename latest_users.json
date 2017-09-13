@@ -1,4 +1,10 @@
 {
+    "106644083867140961454-google": {
+        "id": "106644083867140961454-google",
+        "nickname": "Alex",
+        "booksCount": 0,
+        "updatedAt": "2017-09-13 22:01:20"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Lens",
         "booksCount": 1,
         "updatedAt": "2017-09-11 12:29:13"
-    },
-    "13444240621295387226-mailru": {
-        "id": "13444240621295387226-mailru",
-        "nickname": "Александра Борисова",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 12:25:18"
     }
 }
