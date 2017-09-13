@@ -1,4 +1,16 @@
 {
+    "gkmMCQRJlA": {
+        "id": "gkmMCQRJlA",
+        "title": "Заводной апельсин",
+        "author": "Энтони Берджес",
+        "notes": "",
+        "createdAt": "2017-09-13 23:16:53",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 18
+        }
+    },
     "U3E6OqWLNR": {
         "id": "U3E6OqWLNR",
         "title": "Инферно",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 21
-        }
-    },
-    "YdhjnS7iKV": {
-        "id": "YdhjnS7iKV",
-        "title": "Морфий",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-09-13 07:37:09",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 20
         }
     }
 }
