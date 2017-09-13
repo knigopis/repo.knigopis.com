@@ -1,4 +1,16 @@
 {
+    "YYeUx2HPnO": {
+        "id": "YYeUx2HPnO",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-09-13 07:35:22",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 16
+        }
+    },
     "mxWLByPNX1": {
         "id": "mxWLByPNX1",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 22
-        }
-    },
-    "urXJktSQwU": {
-        "id": "urXJktSQwU",
-        "title": "Головокружение",
-        "author": "Франк Тилье",
-        "notes": "",
-        "createdAt": "2017-09-12 02:49:31",
-        "user": {
-            "id": "116507016-vkontakte",
-            "nickname": "Лия",
-            "booksCount": 1
         }
     }
 }
