@@ -1,4 +1,10 @@
 {
+    "43615118-vkontakte": {
+        "id": "43615118-vkontakte",
+        "nickname": "zhamila1995",
+        "booksCount": 0,
+        "updatedAt": "2017-09-13 07:23:28"
+    },
     "91377748-vkontakte": {
         "id": "91377748-vkontakte",
         "nickname": "lena_elenka",
@@ -172,11 +178,5 @@
         "nickname": "Юленька",
         "booksCount": 3,
         "updatedAt": "2017-09-11 09:08:42"
-    },
-    "101170524510991494429-google": {
-        "id": "101170524510991494429-google",
-        "nickname": "nickk_boss",
-        "booksCount": 1,
-        "updatedAt": "2017-09-11 09:00:02"
     }
 }
