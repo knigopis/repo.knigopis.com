@@ -1,4 +1,16 @@
 {
+    "PhVGxxV4AS": {
+        "id": "PhVGxxV4AS",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-09-13 07:27:46",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 5
+        }
+    },
     "_R2wkNfz-T": {
         "id": "_R2wkNfz-T",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 314
-        }
-    },
-    "Z9c7RtZXnN": {
-        "id": "Z9c7RtZXnN",
-        "title": "Старик и море",
-        "author": "Эрнест Хемингуэй",
-        "notes": "Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах",
-        "createdAt": "2017-09-11 14:05:51",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 14
         }
     }
 }
