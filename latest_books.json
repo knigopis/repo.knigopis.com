@@ -1,4 +1,16 @@
 {
+    "hG-s9fBi-o": {
+        "id": "hG-s9fBi-o",
+        "title": "Анна Каренина",
+        "author": "Лев Николаевич Толстой",
+        "notes": "",
+        "createdAt": "2017-09-13 07:28:55",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 6
+        }
+    },
     "PhVGxxV4AS": {
         "id": "PhVGxxV4AS",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "137961387-vkontakte",
             "nickname": "anime_hetalia",
             "booksCount": 1
-        }
-    },
-    "W-Aj6tzveM": {
-        "id": "W-Aj6tzveM",
-        "title": "Псалом.",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-09-11 15:25:50",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 314
         }
     }
 }
