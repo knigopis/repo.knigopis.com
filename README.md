@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ann Tea](users/136/136502672-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>316</sup> 
 [zhamila1995](users/436/43615118-vkontakte)<sup>26</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
 [Даня](users/883/88335013-vkontakte)<sup>4</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>10</sup> 
-[Виктория Степанова](users/157/15757748591277193869-mailru)<sup>0</sup> 
 
 
-_13.09.2017 11:16:23_
+_13.09.2017 11:57:40_
