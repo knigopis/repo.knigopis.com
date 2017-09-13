@@ -1,4 +1,16 @@
 {
+    "_VHbyIpR74": {
+        "id": "_VHbyIpR74",
+        "title": "Молчание ягнят",
+        "author": "Томас Харрис",
+        "notes": "",
+        "createdAt": "2017-09-13 07:29:44",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 7
+        }
+    },
     "hG-s9fBi-o": {
         "id": "hG-s9fBi-o",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "137961387-vkontakte",
             "nickname": "anime_hetalia",
             "booksCount": 2
-        }
-    },
-    "IGKnp4p1Pa": {
-        "id": "IGKnp4p1Pa",
-        "title": "Автостопом по Галактике",
-        "author": "Адамс Дуглас",
-        "notes": "",
-        "createdAt": "2017-09-11 16:58:04",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 1
         }
     }
 }
