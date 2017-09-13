@@ -1,4 +1,16 @@
 {
+    "nz63weUjK0": {
+        "id": "nz63weUjK0",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-09-13 07:25:05",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 1
+        }
+    },
     "-NS0oHCC_O": {
         "id": "-NS0oHCC_O",
         "title": "Бабий ветер",
@@ -345,18 +357,6 @@
             "id": "106005619986229944459-google",
             "nickname": "purple_cherry",
             "booksCount": 17
-        }
-    },
-    "wH82NqC1dg": {
-        "id": "wH82NqC1dg",
-        "title": "Королева и фаворитка",
-        "author": "Кира Касс",
-        "notes": "Что-то по типу продолжения серии \"Отбор\"",
-        "createdAt": "2017-09-11 13:41:39",
-        "user": {
-            "id": "106005619986229944459-google",
-            "nickname": "purple_cherry",
-            "booksCount": 16
         }
     }
 }
