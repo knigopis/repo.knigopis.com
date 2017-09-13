@@ -1,4 +1,16 @@
 {
+    "465CCMtEyb": {
+        "id": "465CCMtEyb",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-09-13 07:35:52",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 18
+        }
+    },
     "wDRsIBueOt": {
         "id": "wDRsIBueOt",
         "title": "Алиса в стране чудес",
@@ -345,18 +357,6 @@
             "id": "110069342999463882216-google",
             "nickname": "syh",
             "booksCount": 1
-        }
-    },
-    "LDFabyA026": {
-        "id": "LDFabyA026",
-        "title": "Улитка на склоне",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2017-09-12 07:59:37",
-        "user": {
-            "id": "103995186316826099543-google",
-            "nickname": "Polpolpol",
-            "booksCount": 28
         }
     }
 }

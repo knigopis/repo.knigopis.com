@@ -1,4 +1,4 @@
-# List of books read by [zhamila1995](http://vk.com/id43615118)<sup>17</sup>
+# List of books read by [zhamila1995](http://vk.com/id43615118)<sup>18</sup>
 ---
 
 ## 2017
@@ -51,6 +51,10 @@
 
 
 ## 2014
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Алиса в стране чудес
 Льюис Кэрролл
