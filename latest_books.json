@@ -1,4 +1,16 @@
 {
+    "CmU-k_dZBW": {
+        "id": "CmU-k_dZBW",
+        "title": "Ярмарка тщеславия",
+        "author": "Уильям Теккерей",
+        "notes": "",
+        "createdAt": "2017-09-13 07:40:32",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 22
+        }
+    },
     "YKGX_t_sD2": {
         "id": "YKGX_t_sD2",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 15
-        }
-    },
-    "929_qQfdnE": {
-        "id": "929_qQfdnE",
-        "title": "Автостопом по галактике",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2017-09-12 17:17:20",
-        "user": {
-            "id": "45570698-vkontakte",
-            "nickname": "jane_kathleen_middle",
-            "booksCount": 1
         }
     }
 }
