@@ -1,4 +1,10 @@
 {
+    "227437659-vkontakte": {
+        "id": "227437659-vkontakte",
+        "nickname": "Icerock87",
+        "booksCount": 0,
+        "updatedAt": "2017-09-13 16:10:07"
+    },
     "74947941-vkontakte": {
         "id": "74947941-vkontakte",
         "nickname": "markovatatiana",
@@ -172,11 +178,5 @@
         "nickname": "Sw00p911",
         "booksCount": 0,
         "updatedAt": "2017-09-11 11:52:34"
-    },
-    "88335013-vkontakte": {
-        "id": "88335013-vkontakte",
-        "nickname": "Даня",
-        "booksCount": 4,
-        "updatedAt": "2017-09-11 11:45:05"
     }
 }
