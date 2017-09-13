@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
+    > https://www.ozon.ru/context/detail/id/1077226/
+    > 
+    > в процессе
+
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
     > Книга на такую тематику невероятно захватила и удивила. Одна из самых глубоких встреченных мною эротических книг
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Читала невероятно давно, еще в школьные времена. Сюжет помню разве что весьма в общих чертах
 
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
-    > Ну, очень многие насчет него высказываются положительно, но меня не то чтобы особо вдохновило. Забавно, нескучно, занимательно,но не пробудило во мне желание соблюдать те вещи и поддерживать те мысли, которые там изложены
 
 * Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
 
-* Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup> 
 [Icerock87](users/227/227437659-vkontakte)<sup>1</sup> 
 [markovatatiana](users/749/74947941-vkontakte)<sup>0</sup> 
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
 [Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 [Александра Борисова](users/134/13444240621295387226-mailru)<sup>0</sup> 
-[Sw00p911](users/100/100000769927023-facebook)<sup>0</sup> 
 
 
-_13.09.2017 16:11:40_
+_13.09.2017 20:12:51_
