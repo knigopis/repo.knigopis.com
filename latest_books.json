@@ -1,4 +1,16 @@
 {
+    "mxWLByPNX1": {
+        "id": "mxWLByPNX1",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-09-13 07:35:05",
+        "user": {
+            "id": "43615118-vkontakte",
+            "nickname": "zhamila1995",
+            "booksCount": 15
+        }
+    },
     "rfQQq5eH1j": {
         "id": "rfQQq5eH1j",
         "title": "Гарри Поттер",
@@ -345,18 +357,6 @@
             "id": "116507016-vkontakte",
             "nickname": "Лия",
             "booksCount": 1
-        }
-    },
-    "60jnjFnsRI": {
-        "id": "60jnjFnsRI",
-        "title": "вся чернильная рать",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-11 17:04:16",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 9
         }
     }
 }
