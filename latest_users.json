@@ -1,4 +1,10 @@
 {
+    "324985634-vkontakte": {
+        "id": "324985634-vkontakte",
+        "nickname": "gorsskaya",
+        "booksCount": 0,
+        "updatedAt": "2017-09-14 14:13:04"
+    },
     "110890489735241405173-google": {
         "id": "110890489735241405173-google",
         "nickname": "qwerty",
@@ -172,11 +178,5 @@
         "nickname": "Darya_Z",
         "booksCount": 1,
         "updatedAt": "2017-09-11 13:56:21"
-    },
-    "106005619986229944459-google": {
-        "id": "106005619986229944459-google",
-        "nickname": "purple_cherry",
-        "booksCount": 18,
-        "updatedAt": "2017-09-11 13:52:42"
     }
 }
