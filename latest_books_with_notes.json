@@ -1,4 +1,16 @@
 {
+    "3Ex4kdI2fD": {
+        "id": "3Ex4kdI2fD",
+        "title": "Изгой",
+        "author": "Дем Михайлов",
+        "notes": "Корис Ван Исер, попаданец, крепость Подкова, ваначале норм, но ближе к концу как-то все не вяжется",
+        "createdAt": "2017-09-14 16:33:33",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 57
+        }
+    },
     "i8iZRXZIDl": {
         "id": "i8iZRXZIDl",
         "title": "Сквозь тайгу",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 126
-        }
-    },
-    "W2tmnl-ehV": {
-        "id": "W2tmnl-ehV",
-        "title": "17 обновление 6-7",
-        "author": "Георгий Смородинский",
-        "notes": "Черный демон, Серый кот, Джаэлит, Ингвар, Сата, Сетара, Кильфата Дважды проклятые и Чейни",
-        "createdAt": "2017-08-31 04:19:33",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 55
         }
     }
 }

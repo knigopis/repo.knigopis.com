@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
+    > Корис Ван Исер, попаданец, крепость Подкова, ваначале норм, но ближе к концу как-то все не вяжется
+
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
     > Как обычно у Арсеньева, читается на ура :)
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
-    > Книга на такую тематику невероятно захватила и удивила. Одна из самых глубоких встреченных мною эротических книг
 
 * Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
 
-* Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
 [gorsskaya](users/324/324985634-vkontakte)<sup>3</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лия](users/116/116507016-vkontakte)<sup>1</sup> 
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
 [xenya](users/183/183959719-vkontakte)<sup>0</sup> 
-[goodmanniko](users/345/34520370-vkontakte)<sup>0</sup> 
 
 
-_14.09.2017 15:28:58_
+_14.09.2017 16:33:33_
