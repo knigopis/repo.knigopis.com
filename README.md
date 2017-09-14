@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[qwerty](users/110/110890489735241405173-google)<sup>0</sup> 
 [bywanted](users/150/150764957-vkontakte)<sup>1</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [oblomovism](users/184/184792270-vkontakte)<sup>0</sup> 
 [Darya_Z](users/102/102125384391056623500-google)<sup>1</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>18</sup> 
-[kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
 
 
-_14.09.2017 06:34:53_
+_14.09.2017 08:44:18_
