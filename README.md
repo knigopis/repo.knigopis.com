@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[gorsskaya](users/324/324985634-vkontakte)<sup>2</sup> 
+[gorsskaya](users/324/324985634-vkontakte)<sup>3</sup> 
 [qwerty](users/110/110890489735241405173-google)<sup>0</sup> 
 [bywanted](users/150/150764957-vkontakte)<sup>1</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>19</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Darya_Z](users/102/102125384391056623500-google)<sup>1</sup> 
 
 
-_14.09.2017 14:16:19_
+_14.09.2017 14:19:31_

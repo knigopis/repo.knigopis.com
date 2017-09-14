@@ -1,7 +1,12 @@
-# List of books read by [gorsskaya](http://vk.com/id324985634)<sup>2</sup>
+# List of books read by [gorsskaya](http://vk.com/id324985634)<sup>3</sup>
 ---
 
 ## 2017
+
+### Жизнь взаймы
+Эрих Мария Ремарк
+> [2017-09] 
+
 
 ### Любовь во время чумы
 Габриэль Гарсиа Маркес

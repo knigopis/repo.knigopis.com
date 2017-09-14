@@ -1,4 +1,16 @@
 {
+    "6rEEXxOz1n": {
+        "id": "6rEEXxOz1n",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-09-14 14:19:31",
+        "user": {
+            "id": "324985634-vkontakte",
+            "nickname": "gorsskaya",
+            "booksCount": 3
+        }
+    },
     "Gjz7TCVzHL": {
         "id": "Gjz7TCVzHL",
         "title": "Любовь во время чумы",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 26
-        }
-    },
-    "6itK6RlSTg": {
-        "id": "6itK6RlSTg",
-        "title": "Десять негритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-09-13 07:42:35",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 25
         }
     }
 }
