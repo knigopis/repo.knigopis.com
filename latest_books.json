@@ -1,4 +1,16 @@
 {
+    "WzQ7WTUjVM": {
+        "id": "WzQ7WTUjVM",
+        "title": "Братство розы",
+        "author": "Моррел Дэвид",
+        "notes": "",
+        "createdAt": "2017-09-14 20:11:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 31
+        }
+    },
     "BZqcvMgQL0": {
         "id": "BZqcvMgQL0",
         "title": "Королевская битва",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 124
-        }
-    },
-    "9f22w8hc6w": {
-        "id": "9f22w8hc6w",
-        "title": "Введение в психологию",
-        "author": "Петр Гальперин",
-        "notes": "https://www.ozon.ru/context/detail/id/1077226/\n\nв процессе",
-        "createdAt": "2017-09-13 20:12:51",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 123
         }
     }
 }

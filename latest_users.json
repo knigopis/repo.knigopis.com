@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 31,
+        "updatedAt": "2017-09-14 20:11:53"
+    },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
         "nickname": "katrinvredina",
@@ -172,11 +178,5 @@
         "nickname": "Лина Кауфман",
         "booksCount": 22,
         "updatedAt": "2017-09-12 03:26:33"
-    },
-    "116507016-vkontakte": {
-        "id": "116507016-vkontakte",
-        "nickname": "Лия",
-        "booksCount": 1,
-        "updatedAt": "2017-09-12 02:49:31"
     }
 }

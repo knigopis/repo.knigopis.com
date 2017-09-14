@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Polpolpol](users/103/103995186316826099543-google)<sup>28</sup> 
 [Lexet](users/196/196594205-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>22</sup> 
-[Лия](users/116/116507016-vkontakte)<sup>1</sup> 
 
 
-_14.09.2017 17:50:43_
+_14.09.2017 20:11:53_

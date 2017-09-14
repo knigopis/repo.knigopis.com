@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>30</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>31</sup>
 ---
 
 ## 2017
+
+### Братство розы
+Моррел Дэвид
+> [2017-09] 
+
 
 ### Закрой дверь за совой
 Михалкова Елена
