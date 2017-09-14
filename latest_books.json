@@ -1,4 +1,16 @@
 {
+    "H-r5fWjpgL": {
+        "id": "H-r5fWjpgL",
+        "title": "Ходячий замок",
+        "author": "Диана Джонс",
+        "notes": "довольно интересно",
+        "createdAt": "2017-09-14 14:14:15",
+        "user": {
+            "id": "324985634-vkontakte",
+            "nickname": "gorsskaya",
+            "booksCount": 1
+        }
+    },
     "99reLuiOIq": {
         "id": "99reLuiOIq",
         "title": "На пределе. Неделя без жалости к себе",
@@ -345,18 +357,6 @@
             "id": "43615118-vkontakte",
             "nickname": "zhamila1995",
             "booksCount": 24
-        }
-    },
-    "x6z8CiFKj4": {
-        "id": "x6z8CiFKj4",
-        "title": "Крёстный отец",
-        "author": "Марио Пьюзо",
-        "notes": "",
-        "createdAt": "2017-09-13 07:40:53",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 23
         }
     }
 }
