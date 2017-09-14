@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 150,
+        "updatedAt": "2017-09-14 14:51:14"
+    },
     "324985634-vkontakte": {
         "id": "324985634-vkontakte",
         "nickname": "gorsskaya",
@@ -172,11 +178,5 @@
         "nickname": "oblomovism",
         "booksCount": 0,
         "updatedAt": "2017-09-11 14:02:56"
-    },
-    "102125384391056623500-google": {
-        "id": "102125384391056623500-google",
-        "nickname": "Darya_Z",
-        "booksCount": 1,
-        "updatedAt": "2017-09-11 13:56:21"
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>149</sup>
+# List of books read by [Garka](https://plus.google.com/u/0/115753719718250012620/)<sup>150</sup>
 ---
 
 ## 2017
+
+### Тайный дневник Адриана Моула
+Таунсенд, Сью
+> [2017-09-14] 
+
 
 ### Ким
 Киплингм Редьярд

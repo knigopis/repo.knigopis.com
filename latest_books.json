@@ -1,4 +1,16 @@
 {
+    "LxNODAdk9_": {
+        "id": "LxNODAdk9_",
+        "title": "Тайный дневник Адриана Моула",
+        "author": "Таунсенд, Сью",
+        "notes": "",
+        "createdAt": "2017-09-14 14:51:14",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 150
+        }
+    },
     "6rEEXxOz1n": {
         "id": "6rEEXxOz1n",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 316
-        }
-    },
-    "_XRBckKvAG": {
-        "id": "_XRBckKvAG",
-        "title": "Мемуары гейши",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-13 07:44:18",
-        "user": {
-            "id": "43615118-vkontakte",
-            "nickname": "zhamila1995",
-            "booksCount": 26
         }
     }
 }
