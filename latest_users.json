@@ -1,4 +1,10 @@
 {
+    "110890489735241405173-google": {
+        "id": "110890489735241405173-google",
+        "nickname": "qwerty",
+        "booksCount": 0,
+        "updatedAt": "2017-09-14 08:44:16"
+    },
     "150764957-vkontakte": {
         "id": "150764957-vkontakte",
         "nickname": "bywanted",
@@ -172,11 +178,5 @@
         "nickname": "purple_cherry",
         "booksCount": 18,
         "updatedAt": "2017-09-11 13:52:42"
-    },
-    "52797109-vkontakte": {
-        "id": "52797109-vkontakte",
-        "nickname": "kilimangaro",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 13:35:42"
     }
 }
