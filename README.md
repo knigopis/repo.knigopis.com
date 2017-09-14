@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bywanted](users/150/150764957-vkontakte)<sup>0</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
 [Icerock87](users/227/227437659-vkontakte)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Darya_Z](users/102/102125384391056623500-google)<sup>1</sup> 
 [purple_cherry](users/106/106005619986229944459-google)<sup>18</sup> 
 [kilimangaro](users/527/52797109-vkontakte)<sup>0</sup> 
-[Lens](users/322/32214946-vkontakte)<sup>1</sup> 
 
 
-_13.09.2017 23:17:11_
+_14.09.2017 06:32:41_
