@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lexet](users/196/196594205-vkontakte)<sup>0</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>22</sup> 
 [Лия](users/116/116507016-vkontakte)<sup>1</sup> 
-[Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
 
 
-_14.09.2017 16:55:26_
+_14.09.2017 17:50:43_

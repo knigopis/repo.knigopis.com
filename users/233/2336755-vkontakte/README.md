@@ -1,4 +1,4 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>58</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>59</sup>
 ---
 
 ## 2017
@@ -156,6 +156,10 @@
 
 
 ## 2014
+
+### Королевская битва
+Косюн Таками
+
 
 ### Дракула
 Брэм Стокер

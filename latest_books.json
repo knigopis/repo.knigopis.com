@@ -1,4 +1,16 @@
 {
+    "BZqcvMgQL0": {
+        "id": "BZqcvMgQL0",
+        "title": "Королевская битва",
+        "author": "Косюн Таками",
+        "notes": "",
+        "createdAt": "2017-09-14 17:50:43",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 59
+        }
+    },
     "UqkDZGdFB0": {
         "id": "UqkDZGdFB0",
         "title": "Ваш путеводитель по google adwords",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 123
-        }
-    },
-    "Wy6XIDqHmO": {
-        "id": "Wy6XIDqHmO",
-        "title": "Мой учитель светится в темноте",
-        "author": "Брюс Ковилл",
-        "notes": "",
-        "createdAt": "2017-09-13 16:11:40",
-        "user": {
-            "id": "227437659-vkontakte",
-            "nickname": "Icerock87",
-            "booksCount": 1
         }
     }
 }
