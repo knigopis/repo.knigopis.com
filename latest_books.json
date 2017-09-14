@@ -1,4 +1,16 @@
 {
+    "UqkDZGdFB0": {
+        "id": "UqkDZGdFB0",
+        "title": "Ваш путеводитель по google adwords",
+        "author": "Перри Маршал, Брайан Тодд",
+        "notes": "",
+        "createdAt": "2017-09-14 16:55:26",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 269
+        }
+    },
     "3Ex4kdI2fD": {
         "id": "3Ex4kdI2fD",
         "title": "Изгой",
@@ -344,18 +356,6 @@
         "user": {
             "id": "227437659-vkontakte",
             "nickname": "Icerock87",
-            "booksCount": 1
-        }
-    },
-    "yFAfrVKaKL": {
-        "id": "yFAfrVKaKL",
-        "title": "",
-        "author": "Брэм Стокер",
-        "notes": "Один из лучших романов-приключений",
-        "createdAt": "2017-09-13 11:59:32",
-        "user": {
-            "id": "136502672-vkontakte",
-            "nickname": "Ann Tea",
             "booksCount": 1
         }
     }

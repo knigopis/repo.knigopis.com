@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>22</sup> 
 [Лия](users/116/116507016-vkontakte)<sup>1</sup> 
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
-[xenya](users/183/183959719-vkontakte)<sup>0</sup> 
 
 
-_14.09.2017 16:33:33_
+_14.09.2017 16:55:26_
