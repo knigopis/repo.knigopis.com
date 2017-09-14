@@ -1,4 +1,16 @@
 {
+    "YciLf9mSO3": {
+        "id": "YciLf9mSO3",
+        "title": "Гибкое сознание. Новый взгляд на психологию развития взрослых и детей",
+        "author": "Кэрол Дуэк",
+        "notes": "4",
+        "createdAt": "2017-09-14 15:28:58",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 27
+        }
+    },
     "LxNODAdk9_": {
         "id": "LxNODAdk9_",
         "title": "Тайный дневник Адриана Моула",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 92
-        }
-    },
-    "c3Zi1tgJH5": {
-        "id": "c3Zi1tgJH5",
-        "title": "Я убил.",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-09-13 09:01:20",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 316
         }
     }
 }

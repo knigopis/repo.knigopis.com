@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 27,
+        "updatedAt": "2017-09-14 15:28:58"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "goodmanniko",
         "booksCount": 0,
         "updatedAt": "2017-09-11 15:19:22"
-    },
-    "184792270-vkontakte": {
-        "id": "184792270-vkontakte",
-        "nickname": "oblomovism",
-        "booksCount": 0,
-        "updatedAt": "2017-09-11 14:02:56"
     }
 }

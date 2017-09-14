@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>26</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>27</sup>
 ---
 
 ## 2017
+
+### Гибкое сознание. Новый взгляд на психологию развития взрослых и детей
+Кэрол Дуэк
+> [2017-09-14] 4
+
 
 ### «Мы - это наш мозг. От матки до Альцгеймера»
 Свааб Д.

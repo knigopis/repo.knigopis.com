@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
 [gorsskaya](users/324/324985634-vkontakte)<sup>3</sup> 
 [qwerty](users/110/110890489735241405173-google)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лисенок](users/855/855179368554-odnoklassniki)<sup>0</sup> 
 [xenya](users/183/183959719-vkontakte)<sup>0</sup> 
 [goodmanniko](users/345/34520370-vkontakte)<sup>0</sup> 
-[oblomovism](users/184/184792270-vkontakte)<sup>0</sup> 
 
 
-_14.09.2017 14:51:14_
+_14.09.2017 15:28:58_
