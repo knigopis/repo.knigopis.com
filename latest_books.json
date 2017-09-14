@@ -1,4 +1,16 @@
 {
+    "mXZO1bF5Z5": {
+        "id": "mXZO1bF5Z5",
+        "title": "Понедельник начинается в субботу",
+        "author": "А. и Б.Стругацкие",
+        "notes": "",
+        "createdAt": "2017-09-14 23:58:26",
+        "user": {
+            "id": "36633162-vkontakte",
+            "nickname": "P@ndora",
+            "booksCount": 1
+        }
+    },
     "WzQ7WTUjVM": {
         "id": "WzQ7WTUjVM",
         "title": "Братство розы",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 1
-        }
-    },
-    "i8iZRXZIDl": {
-        "id": "i8iZRXZIDl",
-        "title": "Сквозь тайгу",
-        "author": "В. К. Арсеньев",
-        "notes": "Как обычно у Арсеньева, читается на ура :)\n\nhttps://wiki.marshruty.ru/travel/arseniev_skvoz_taigu/?Page=2\n\nв процессе",
-        "createdAt": "2017-09-13 20:15:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 124
         }
     }
 }
