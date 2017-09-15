@@ -1,4 +1,10 @@
 {
+    "105729661373202631037-google": {
+        "id": "105729661373202631037-google",
+        "nickname": "Mihail01rus",
+        "booksCount": 0,
+        "updatedAt": "2017-09-15 11:56:08"
+    },
     "111688198065279912162-google": {
         "id": "111688198065279912162-google",
         "nickname": "Asya",
@@ -172,11 +178,5 @@
         "nickname": "zeinabgvinbleid",
         "booksCount": 0,
         "updatedAt": "2017-09-12 11:45:57"
-    },
-    "2058208183579121328-mailru": {
-        "id": "2058208183579121328-mailru",
-        "nickname": "Арина Мордвинова",
-        "booksCount": 0,
-        "updatedAt": "2017-09-12 11:22:54"
     }
 }
