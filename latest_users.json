@@ -1,4 +1,10 @@
 {
+    "111688198065279912162-google": {
+        "id": "111688198065279912162-google",
+        "nickname": "Asya",
+        "booksCount": 0,
+        "updatedAt": "2017-09-15 09:19:39"
+    },
     "283971510-vkontakte": {
         "id": "283971510-vkontakte",
         "nickname": "Ната 1987",
@@ -172,11 +178,5 @@
         "nickname": "Арина Мордвинова",
         "booksCount": 0,
         "updatedAt": "2017-09-12 11:22:54"
-    },
-    "110069342999463882216-google": {
-        "id": "110069342999463882216-google",
-        "nickname": "syh",
-        "booksCount": 1,
-        "updatedAt": "2017-09-12 08:09:28"
     }
 }
