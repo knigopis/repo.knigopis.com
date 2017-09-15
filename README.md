@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asya](users/111/111688198065279912162-google)<sup>0</sup> 
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
 [Настя](users/172/172783956-vkontakte)<sup>5</sup> 
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anime_hetalia](users/137/137961387-vkontakte)<sup>10</sup> 
 [zeinabgvinbleid](users/645/6457992-vkontakte)<sup>0</sup> 
 [Арина Мордвинова](users/205/2058208183579121328-mailru)<sup>0</sup> 
-[syh](users/110/110069342999463882216-google)<sup>1</sup> 
 
 
-_15.09.2017 09:17:50_
+_15.09.2017 09:19:39_
