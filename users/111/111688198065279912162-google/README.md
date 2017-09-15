@@ -1,4 +1,4 @@
-# List of books read by Asya<sup>6</sup>
+# List of books read by Asya<sup>7</sup>
 ---
 
 ## 2017
@@ -36,6 +36,11 @@
 ### Пигмалион
 Бернард Шоу
 > [2016-12] 
+
+
+### Мартин Иден
+Джек Лондон
+> [2016-11] 
 
 
 
