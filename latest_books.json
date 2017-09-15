@@ -1,4 +1,16 @@
 {
+    "l3G4FLFtfY": {
+        "id": "l3G4FLFtfY",
+        "title": "Пятая Салли",
+        "author": "Дэниел Киз",
+        "notes": "Очень интересный и достойный художественный вымысел про расщепление личности. Читается быстро и легко.",
+        "createdAt": "2017-09-15 10:08:11",
+        "user": {
+            "id": "111688198065279912162-google",
+            "nickname": "Asya",
+            "booksCount": 2
+        }
+    },
     "ZWc4HJkjBW": {
         "id": "ZWc4HJkjBW",
         "title": "Прикосновение",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 8
-        }
-    },
-    "2OSbhgsCY0": {
-        "id": "2OSbhgsCY0",
-        "title": "Поджигатели",
-        "author": "Крис Клив",
-        "notes": "",
-        "createdAt": "2017-09-13 23:10:07",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 7
         }
     }
 }
