@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Настя](users/172/172783956-vkontakte)<sup>3</sup> 
+[Настя](users/172/172783956-vkontakte)<sup>4</sup> 
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Polpolpol](users/103/103995186316826099543-google)<sup>28</sup> 
 
 
-_15.09.2017 09:06:30_
+_15.09.2017 09:07:19_
