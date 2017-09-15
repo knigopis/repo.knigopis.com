@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Настя](users/172/172783956-vkontakte)<sup>0</sup> 
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Арина Мордвинова](users/205/2058208183579121328-mailru)<sup>0</sup> 
 [syh](users/110/110069342999463882216-google)<sup>1</sup> 
 [Polpolpol](users/103/103995186316826099543-google)<sup>28</sup> 
-[Lexet](users/196/196594205-vkontakte)<sup>0</sup> 
 
 
-_14.09.2017 23:58:26_
+_15.09.2017 09:04:15_
