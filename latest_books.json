@@ -1,4 +1,16 @@
 {
+    "C7l3d0Qu3v": {
+        "id": "C7l3d0Qu3v",
+        "title": "Над пропастью во ржи",
+        "author": "Дэвид Селенджер",
+        "notes": "",
+        "createdAt": "2017-09-15 12:09:13",
+        "user": {
+            "id": "137961387-vkontakte",
+            "nickname": "anime_hetalia",
+            "booksCount": 11
+        }
+    },
     "_Jaz07Tz5P": {
         "id": "_Jaz07Tz5P",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 17
-        }
-    },
-    "ep45KnV-_2": {
-        "id": "ep45KnV-_2",
-        "title": "Хроники Нарнии",
-        "author": "Клайв Льюис",
-        "notes": "",
-        "createdAt": "2017-09-13 23:16:12",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 16
         }
     }
 }
