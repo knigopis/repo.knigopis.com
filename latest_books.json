@@ -1,4 +1,16 @@
 {
+    "U8Clx_fWji": {
+        "id": "U8Clx_fWji",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-09-15 10:22:38",
+        "user": {
+            "id": "111688198065279912162-google",
+            "nickname": "Asya",
+            "booksCount": 4
+        }
+    },
     "5D85ykO51T": {
         "id": "5D85ykO51T",
         "title": "Пигмалион",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 10
-        }
-    },
-    "oXrs2nUXVr": {
-        "id": "oXrs2nUXVr",
-        "title": "Дочь Монтесумы",
-        "author": "Генри Райдер",
-        "notes": "",
-        "createdAt": "2017-09-13 23:11:46",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 9
         }
     }
 }

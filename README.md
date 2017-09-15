@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Asya](users/111/111688198065279912162-google)<sup>3</sup> 
+[Asya](users/111/111688198065279912162-google)<sup>4</sup> 
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
 [Настя](users/172/172783956-vkontakte)<sup>5</sup> 
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Арина Мордвинова](users/205/2058208183579121328-mailru)<sup>0</sup> 
 
 
-_15.09.2017 10:14:18_
+_15.09.2017 10:22:38_

@@ -1,4 +1,4 @@
-# List of books read by Asya<sup>3</sup>
+# List of books read by Asya<sup>4</sup>
 ---
 
 ## 2017
@@ -17,6 +17,11 @@
 
 
 ## 2016
+
+### Бойцовский клуб
+Чак Паланик
+> [2016-12] 
+
 
 ### Пигмалион
 Бернард Шоу
