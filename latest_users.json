@@ -1,4 +1,10 @@
 {
+    "377249771-vkontakte": {
+        "id": "377249771-vkontakte",
+        "nickname": "fake",
+        "booksCount": 0,
+        "updatedAt": "2017-09-15 18:27:09"
+    },
     "62264231-vkontakte": {
         "id": "62264231-vkontakte",
         "nickname": "Ру",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 15,
         "updatedAt": "2017-09-12 20:37:55"
-    },
-    "45570698-vkontakte": {
-        "id": "45570698-vkontakte",
-        "nickname": "jane_kathleen_middle",
-        "booksCount": 0,
-        "updatedAt": "2017-09-12 17:17:50"
     }
 }
