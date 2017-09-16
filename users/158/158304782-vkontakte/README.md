@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>34</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>35</sup>
 ---
 
 ## 2014
+
+### Трилогия Бартимеуса - Амулет Самаркандра
+Страуд Джонатан
+
 
 ### Последняя осада
 Страуд Джонатан
