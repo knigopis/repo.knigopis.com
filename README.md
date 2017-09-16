@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>0</sup> 
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 [Ру](users/622/62264231-vkontakte)<sup>0</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>11</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [guru](users/100/100000628715277-facebook)<sup>0</sup> 
 [валя](users/523/523518851324327-facebook)<sup>0</sup> 
 [lyinil](users/345/3458212-vkontakte)<sup>5</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>15</sup> 
 
 
-_15.09.2017 18:27:11_
+_16.09.2017 10:16:02_
