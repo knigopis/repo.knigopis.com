@@ -1,4 +1,16 @@
 {
+    "fY8eDfxhjV": {
+        "id": "fY8eDfxhjV",
+        "title": "Золотой телёнок",
+        "author": "Ильф и Петров",
+        "notes": "",
+        "createdAt": "2017-09-16 10:19:57",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 13
+        }
+    },
     "eQzp2IfMb0": {
         "id": "eQzp2IfMb0",
         "title": "Двенадцать стульев",
@@ -345,18 +357,6 @@
             "id": "36633162-vkontakte",
             "nickname": "P@ndora",
             "booksCount": 1
-        }
-    },
-    "WzQ7WTUjVM": {
-        "id": "WzQ7WTUjVM",
-        "title": "Братство розы",
-        "author": "Моррел Дэвид",
-        "notes": "",
-        "createdAt": "2017-09-14 20:11:53",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 31
         }
     }
 }
