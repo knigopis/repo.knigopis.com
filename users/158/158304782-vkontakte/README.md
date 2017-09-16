@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>85</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>86</sup>
 ---
 
 ## 2016
+
+### Восстановление организма человека концентрацией на чувствах
+Г. Грабовой
+
 
 ### По ту сторону удовольствия
 Зигмунд Фрейд
