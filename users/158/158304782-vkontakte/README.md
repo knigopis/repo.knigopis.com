@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>36</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>37</sup>
 ---
 
 ## 2014
+
+### Трилогия Бартимеуса - Врата Птолемея
+Страуд Джонатан
+
 
 ### Трилогия Бартимеуса - Глаз Голема
 Страуд Джонатан
