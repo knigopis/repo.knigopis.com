@@ -1,4 +1,16 @@
 {
+    "PYL1Ch5Gha": {
+        "id": "PYL1Ch5Gha",
+        "title": "Психология Я и защитные механизмы",
+        "author": "Анна Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 10:22:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 24
+        }
+    },
     "1MUnfGUbUE": {
         "id": "1MUnfGUbUE",
         "title": "Психология лжи",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 6
-        }
-    },
-    "jz97QzDNz8": {
-        "id": "jz97QzDNz8",
-        "title": "Над кукушкиным гнедом",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-09-15 10:44:08",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 5
         }
     }
 }
