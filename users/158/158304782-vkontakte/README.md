@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>70</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>71</sup>
 ---
 
 ## 2016
+
+### Пиковая Дама
+Александр Пушкин
+
 
 ### Высокая вода венецианцев
 Дина Рубина
