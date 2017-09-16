@@ -1,4 +1,16 @@
 {
+    "8r6qgXQoGc": {
+        "id": "8r6qgXQoGc",
+        "title": "Сила озарения",
+        "author": "М. Гладуэлл",
+        "notes": "Порой первая мысль намного точнее более детального анализа.",
+        "createdAt": "2017-09-16 11:21:46",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 91
+        }
+    },
     "-CGSCYP_xM": {
         "id": "-CGSCYP_xM",
         "title": "Числовая мандала",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 62
-        }
-    },
-    "BM16phtiVa": {
-        "id": "BM16phtiVa",
-        "title": "Бедная Настя - Час Звезды",
-        "author": "Елена Езерская",
-        "notes": "",
-        "createdAt": "2017-09-16 10:30:53",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 61
         }
     }
 }
