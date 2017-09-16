@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>95</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>96</sup>
 ---
 
 ## 2016
+
+### Гештальт психология
+Кллер В., Кофка К.
+
 
 ### Класс коррекции
 Ксения Молдавская

@@ -1,4 +1,16 @@
 {
+    "Cs4AMRd8zV": {
+        "id": "Cs4AMRd8zV",
+        "title": "Гештальт психология",
+        "author": "Кллер В., Кофка К.",
+        "notes": "",
+        "createdAt": "2017-09-16 11:23:50",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 96
+        }
+    },
     "NbsPLrW6UR": {
         "id": "NbsPLrW6UR",
         "title": "Класс коррекции",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 67
-        }
-    },
-    "DPYSpqNhvw": {
-        "id": "DPYSpqNhvw",
-        "title": "Огонь изнутри",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 11:15:38",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 66
         }
     }
 }
