@@ -1,4 +1,16 @@
 {
+    "qmed0fsk2u": {
+        "id": "qmed0fsk2u",
+        "title": "Дремота",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-09-16 11:20:36",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 87
+        }
+    },
     "mh72oO7sjX": {
         "id": "mh72oO7sjX",
         "title": "Восстановление организма человека концентрацией на чувствах",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 58
-        }
-    },
-    "Grz2UiikWO": {
-        "id": "Grz2UiikWO",
-        "title": "Сказки о силе",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 10:30:06",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 57
         }
     }
 }
