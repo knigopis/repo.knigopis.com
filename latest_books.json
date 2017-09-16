@@ -1,4 +1,16 @@
 {
+    "OUvGkgUNZ8": {
+        "id": "OUvGkgUNZ8",
+        "title": "Человек, который принял свою жену за шляпу",
+        "author": "Сакс",
+        "notes": "",
+        "createdAt": "2017-09-16 11:25:57",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 104
+        }
+    },
     "bFeEVOrZs7": {
         "id": "bFeEVOrZs7",
         "title": "Я посланник",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 75
-        }
-    },
-    "GOGUhM_7D7": {
-        "id": "GOGUhM_7D7",
-        "title": "Синяки на душе",
-        "author": "Франсуа Саган",
-        "notes": "История про само написание книги, про размышления автора, про творческие потуги и встречу со своими героями.",
-        "createdAt": "2017-09-16 11:17:29",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 74
         }
     }
 }
