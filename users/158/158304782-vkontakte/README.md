@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>56</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>57</sup>
 ---
 
 ## 2015
+
+### Сказки о силе
+Карлос Кастанеда
+
 
 ### Путешествие к Икстлан
 Карлос Кастанеда

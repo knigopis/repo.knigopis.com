@@ -1,4 +1,16 @@
 {
+    "Grz2UiikWO": {
+        "id": "Grz2UiikWO",
+        "title": "Сказки о силе",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2017-09-16 10:30:06",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 57
+        }
+    },
     "bZC_NcFoC5": {
         "id": "bZC_NcFoC5",
         "title": "Путешествие к Икстлан",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 28
-        }
-    },
-    "aoB4Tix2MR": {
-        "id": "aoB4Tix2MR",
-        "title": "Понять природу человека",
-        "author": "Альфред Адлер",
-        "notes": "",
-        "createdAt": "2017-09-16 10:23:14",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 27
         }
     }
 }
