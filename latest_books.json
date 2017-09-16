@@ -1,4 +1,16 @@
 {
+    "6FkBHn98jQ": {
+        "id": "6FkBHn98jQ",
+        "title": "Просто любовь",
+        "author": "Таммара Вэббер",
+        "notes": "",
+        "createdAt": "2017-09-16 10:20:09",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 14
+        }
+    },
     "fY8eDfxhjV": {
         "id": "fY8eDfxhjV",
         "title": "Золотой телёнок",
@@ -344,18 +356,6 @@
         "user": {
             "id": "172783956-vkontakte",
             "nickname": "Настя",
-            "booksCount": 1
-        }
-    },
-    "mXZO1bF5Z5": {
-        "id": "mXZO1bF5Z5",
-        "title": "Понедельник начинается в субботу",
-        "author": "А. и Б.Стругацкие",
-        "notes": "",
-        "createdAt": "2017-09-14 23:58:26",
-        "user": {
-            "id": "36633162-vkontakte",
-            "nickname": "P@ndora",
             "booksCount": 1
         }
     }
