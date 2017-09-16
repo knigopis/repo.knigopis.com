@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 0,
+        "updatedAt": "2017-09-16 10:16:00"
+    },
     "377249771-vkontakte": {
         "id": "377249771-vkontakte",
         "nickname": "fake",
@@ -172,11 +178,5 @@
         "nickname": "lyinil",
         "booksCount": 5,
         "updatedAt": "2017-09-12 21:23:30"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 15,
-        "updatedAt": "2017-09-12 20:37:55"
     }
 }
