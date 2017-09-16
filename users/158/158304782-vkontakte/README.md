@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>26</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>27</sup>
 ---
 
 ## 2014
+
+### Понять природу человека
+Альфред Адлер
+
 
 ### Педагогический словарь
 Коджапировская

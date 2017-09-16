@@ -1,4 +1,16 @@
 {
+    "aoB4Tix2MR": {
+        "id": "aoB4Tix2MR",
+        "title": "Понять природу человека",
+        "author": "Альфред Адлер",
+        "notes": "",
+        "createdAt": "2017-09-16 10:23:14",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 27
+        }
+    },
     "dAMLleKemY": {
         "id": "dAMLleKemY",
         "title": "Педагогический словарь",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 9
-        }
-    },
-    "sN9UGWuO41": {
-        "id": "sN9UGWuO41",
-        "title": "День Триффидов",
-        "author": "Джон Уиндем",
-        "notes": "",
-        "createdAt": "2017-09-15 10:47:41",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 8
         }
     }
 }
