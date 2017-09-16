@@ -1,4 +1,16 @@
 {
+    "aWReUSUH00": {
+        "id": "aWReUSUH00",
+        "title": "Кафка на пляже",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-09-16 10:30:25",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 59
+        }
+    },
     "8V0HXz3Lft": {
         "id": "8V0HXz3Lft",
         "title": "Дар орла",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 30
-        }
-    },
-    "Q60mAskZoK": {
-        "id": "Q60mAskZoK",
-        "title": "Книжный вор",
-        "author": "Маркус Зузак",
-        "notes": "",
-        "createdAt": "2017-09-16 10:23:36",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 29
         }
     }
 }

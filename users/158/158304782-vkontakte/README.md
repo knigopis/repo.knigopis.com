@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>58</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>59</sup>
 ---
 
 ## 2015
+
+### Кафка на пляже
+Харуки Мураками
+
 
 ### Дар орла
 Карлос Кастанеда
