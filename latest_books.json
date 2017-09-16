@@ -1,4 +1,16 @@
 {
+    "kDZ8C1zO88": {
+        "id": "kDZ8C1zO88",
+        "title": "Тринадцатая сказка",
+        "author": "Диана Сеттерфилд",
+        "notes": "",
+        "createdAt": "2017-09-16 10:25:56",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 40
+        }
+    },
     "apPbiKl8lT": {
         "id": "apPbiKl8lT",
         "title": "Честный проигрыш",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 11
-        }
-    },
-    "bGMEck_Reg": {
-        "id": "bGMEck_Reg",
-        "title": "В осколках тумана",
-        "author": "Сэм Хайес",
-        "notes": "",
-        "createdAt": "2017-09-16 10:19:18",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 10
         }
     }
 }
