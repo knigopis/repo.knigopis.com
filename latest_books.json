@@ -1,4 +1,16 @@
 {
+    "bZC_NcFoC5": {
+        "id": "bZC_NcFoC5",
+        "title": "Путешествие к Икстлан",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2017-09-16 10:29:58",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 56
+        }
+    },
     "61ZNz9mXu3": {
         "id": "61ZNz9mXu3",
         "title": "Отдельная реальность",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 27
-        }
-    },
-    "dAMLleKemY": {
-        "id": "dAMLleKemY",
-        "title": "Педагогический словарь",
-        "author": "Коджапировская",
-        "notes": "",
-        "createdAt": "2017-09-16 10:23:01",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 26
         }
     }
 }
