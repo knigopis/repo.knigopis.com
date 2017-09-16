@@ -1,4 +1,16 @@
 {
+    "lbXNWWErN8": {
+        "id": "lbXNWWErN8",
+        "title": "Пока ты моя",
+        "author": "Саманта Хайес",
+        "notes": "",
+        "createdAt": "2017-09-16 10:19:05",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 9
+        }
+    },
     "a_pIewv8q4": {
         "id": "a_pIewv8q4",
         "title": "Ябеда",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 57
-        }
-    },
-    "YciLf9mSO3": {
-        "id": "YciLf9mSO3",
-        "title": "Гибкое сознание. Новый взгляд на психологию развития взрослых и детей",
-        "author": "Кэрол Дуэк",
-        "notes": "4",
-        "createdAt": "2017-09-14 15:28:58",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 27
         }
     }
 }
