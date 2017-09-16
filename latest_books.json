@@ -1,4 +1,16 @@
 {
+    "9_5AunrIHs": {
+        "id": "9_5AunrIHs",
+        "title": "Три очерка по теории сексуальности",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 11:16:21",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 69
+        }
+    },
     "p1w8rbnULS": {
         "id": "p1w8rbnULS",
         "title": "Вокруг света за 80 дней",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 40
-        }
-    },
-    "apPbiKl8lT": {
-        "id": "apPbiKl8lT",
-        "title": "Честный проигрыш",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2017-09-16 10:25:45",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 39
         }
     }
 }

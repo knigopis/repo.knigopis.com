@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>68</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>69</sup>
 ---
 
 ## 2016
+
+### Три очерка по теории сексуальности
+Зигмунд Фрейд
+
 
 ### Вокруг света за 80 дней
 Жюль Верн
