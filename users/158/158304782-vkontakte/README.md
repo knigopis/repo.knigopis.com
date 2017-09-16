@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>98</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>99</sup>
 ---
 
 ## 2016
+
+### Психологические типы
+Карл Густав Юнг
+
 
 ### Речь и мышление ребенка
 Жан Пиаже

@@ -1,4 +1,16 @@
 {
+    "lNuG0nH8y3": {
+        "id": "lNuG0nH8y3",
+        "title": "Психологические типы",
+        "author": "Карл Густав Юнг",
+        "notes": "",
+        "createdAt": "2017-09-16 11:24:27",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 99
+        }
+    },
     "QymhYSYySo": {
         "id": "QymhYSYySo",
         "title": "Речь и мышление ребенка",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 70
-        }
-    },
-    "9_5AunrIHs": {
-        "id": "9_5AunrIHs",
-        "title": "Три очерка по теории сексуальности",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2017-09-16 11:16:21",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 69
         }
     }
 }
