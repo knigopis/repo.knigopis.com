@@ -1,4 +1,16 @@
 {
+    "6hD4kWcxwt": {
+        "id": "6hD4kWcxwt",
+        "title": "Одиночество простых чисел",
+        "author": "Джордано Паоло",
+        "notes": "",
+        "createdAt": "2017-09-16 11:26:24",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 106
+        }
+    },
     "s7523UFsJx": {
         "id": "s7523UFsJx",
         "title": "Элементы мысли",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 77
-        }
-    },
-    "meqLoPuBed": {
-        "id": "meqLoPuBed",
-        "title": "\"1Q84\" Книга 1",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-09-16 11:17:50",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 76
         }
     }
 }

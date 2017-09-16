@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>105</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>106</sup>
 ---
 
 ## 2017
+
+### Одиночество простых чисел
+Джордано Паоло
+
 
 ### Элементы мысли
 Сеченой Иван Михайлович
