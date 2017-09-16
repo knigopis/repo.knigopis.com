@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>60</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>61</sup>
 ---
 
 ## 2015
+
+### Бедная Настя - Час Звезды
+Елена Езерская
+
 
 ### Бедная Настя - Любовь моя, печаль моя
 Елена Езерская
