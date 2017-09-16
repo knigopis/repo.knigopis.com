@@ -1,4 +1,16 @@
 {
+    "ZL_bm-jO63": {
+        "id": "ZL_bm-jO63",
+        "title": "Повторный налет на булочную",
+        "author": "Харуки Мураками",
+        "notes": "Иногда чтобы отменить проклятье, начавшееся от прослушивания Вагнера заместо ограбления булочной, нужно ограбить Макдоналдс.",
+        "createdAt": "2017-09-16 11:24:59",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 101
+        }
+    },
     "EGZT57vz8X": {
         "id": "EGZT57vz8X",
         "title": "Послемрак",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 72
-        }
-    },
-    "nGll6aZxTJ": {
-        "id": "nGll6aZxTJ",
-        "title": "Пиковая Дама",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2017-09-16 11:16:55",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 71
         }
     }
 }
