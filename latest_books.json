@@ -1,4 +1,16 @@
 {
+    "ZWGvH4zaDS": {
+        "id": "ZWGvH4zaDS",
+        "title": "Испытание огнем",
+        "author": "Сандер Марина",
+        "notes": "",
+        "createdAt": "2017-09-16 10:20:23",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 15
+        }
+    },
     "6FkBHn98jQ": {
         "id": "6FkBHn98jQ",
         "title": "Просто любовь",
@@ -345,18 +357,6 @@
             "id": "172783956-vkontakte",
             "nickname": "Настя",
             "booksCount": 2
-        }
-    },
-    "847Mi7XTZH": {
-        "id": "847Mi7XTZH",
-        "title": "Сага о Форсайтах",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2017-09-15 09:05:01",
-        "user": {
-            "id": "172783956-vkontakte",
-            "nickname": "Настя",
-            "booksCount": 1
         }
     }
 }
