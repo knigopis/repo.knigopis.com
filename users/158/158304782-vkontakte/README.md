@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>71</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>72</sup>
 ---
 
 ## 2016
+
+### Искусство сновидения
+Карлос Кастанеда
+
 
 ### Пиковая Дама
 Александр Пушкин
