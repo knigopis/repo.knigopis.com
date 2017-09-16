@@ -1,4 +1,16 @@
 {
+    "yf1sPXQD1u": {
+        "id": "yf1sPXQD1u",
+        "title": "Убеждая и побеждай",
+        "author": "Никита Непряхин",
+        "notes": "",
+        "createdAt": "2017-09-16 10:28:26",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 49
+        }
+    },
     "HU40fQS0hf": {
         "id": "HU40fQS0hf",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 20
-        }
-    },
-    "lZxpxP-6FN": {
-        "id": "lZxpxP-6FN",
-        "title": "Как говорить, чтобы дети слушали, и как слушать, чтобы дети говорили",
-        "author": "Адель Элейн",
-        "notes": "",
-        "createdAt": "2017-09-16 10:21:13",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 19
         }
     }
 }
