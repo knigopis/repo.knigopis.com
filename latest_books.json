@@ -1,4 +1,16 @@
 {
+    "DPYSpqNhvw": {
+        "id": "DPYSpqNhvw",
+        "title": "Огонь изнутри",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2017-09-16 11:15:38",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 66
+        }
+    },
     "zjT9MIII5I": {
         "id": "zjT9MIII5I",
         "title": "Игры, в которые играют люди",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 37
-        }
-    },
-    "R0_ZU_abuO": {
-        "id": "R0_ZU_abuO",
-        "title": "Трилогия Бартимеуса - Глаз Голема",
-        "author": "Страуд Джонатан",
-        "notes": "",
-        "createdAt": "2017-09-16 10:25:04",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 36
         }
     }
 }
