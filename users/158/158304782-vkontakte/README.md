@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>74</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>75</sup>
 ---
 
 ## 2016
+
+### Психология успеха
+Ю.В. Ирхвин
+
 
 ### Синяки на душе
 Франсуа Саган
