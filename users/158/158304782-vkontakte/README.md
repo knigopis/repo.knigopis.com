@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>61</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>62</sup>
 ---
 
 ## 2015
+
+### Бедная Настя - Как Феникс из пепла
+Елена Езерская
+
 
 ### Бедная Настя - Час Звезды
 Елена Езерская
