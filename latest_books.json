@@ -1,4 +1,16 @@
 {
+    "dAMLleKemY": {
+        "id": "dAMLleKemY",
+        "title": "Педагогический словарь",
+        "author": "Коджапировская",
+        "notes": "",
+        "createdAt": "2017-09-16 10:23:01",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 26
+        }
+    },
     "vzeaX42iMb": {
         "id": "vzeaX42iMb",
         "title": "Хрестоматия по конфликтологии",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 8
-        }
-    },
-    "Z-spB7jnjs": {
-        "id": "Z-spB7jnjs",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-09-15 10:47:00",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 7
         }
     }
 }
