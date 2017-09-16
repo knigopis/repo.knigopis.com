@@ -1,4 +1,16 @@
 {
+    "BAopONxjZg": {
+        "id": "BAopONxjZg",
+        "title": "Психическое здоровье и защитные механизмы личности",
+        "author": "Демина Л.Д., Ральникова И.А.",
+        "notes": "",
+        "createdAt": "2017-09-16 10:22:03",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 22
+        }
+    },
     "N4zvPUfaFC": {
         "id": "N4zvPUfaFC",
         "title": "Ложь",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 4
-        }
-    },
-    "5D85ykO51T": {
-        "id": "5D85ykO51T",
-        "title": "Пигмалион",
-        "author": "Бернард Шоу",
-        "notes": "",
-        "createdAt": "2017-09-15 10:14:18",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 3
         }
     }
 }
