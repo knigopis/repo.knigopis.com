@@ -1,4 +1,16 @@
 {
+    "1MUnfGUbUE": {
+        "id": "1MUnfGUbUE",
+        "title": "Психология лжи",
+        "author": "Пол Экман",
+        "notes": "",
+        "createdAt": "2017-09-16 10:22:18",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 23
+        }
+    },
     "BAopONxjZg": {
         "id": "BAopONxjZg",
         "title": "Психическое здоровье и защитные механизмы личности",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 5
-        }
-    },
-    "U8Clx_fWji": {
-        "id": "U8Clx_fWji",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-09-15 10:22:38",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 4
         }
     }
 }
