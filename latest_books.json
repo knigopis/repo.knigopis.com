@@ -1,4 +1,16 @@
 {
+    "2q0eMxqcYO": {
+        "id": "2q0eMxqcYO",
+        "title": "Пинбол-1973",
+        "author": "Харуки Мураками",
+        "notes": "Если есть вход, то есть и выход. Так устроено почти все. Ящик для писем, пылесос, зоопарк, чайник... Но, конечно, существуют вещи, устроенные иначе. Например, мышеловка...",
+        "createdAt": "2017-09-16 10:17:34",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 4
+        }
+    },
     "sRWxUYhkty": {
         "id": "sRWxUYhkty",
         "title": "Слушай песню ветра",
@@ -344,18 +356,6 @@
         "user": {
             "id": "324985634-vkontakte",
             "nickname": "gorsskaya",
-            "booksCount": 1
-        }
-    },
-    "99reLuiOIq": {
-        "id": "99reLuiOIq",
-        "title": "На пределе. Неделя без жалости к себе",
-        "author": "Эрик Ларссен",
-        "notes": "",
-        "createdAt": "2017-09-14 06:34:53",
-        "user": {
-            "id": "150764957-vkontakte",
-            "nickname": "bywanted",
             "booksCount": 1
         }
     }
