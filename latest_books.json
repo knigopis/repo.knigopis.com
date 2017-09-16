@@ -1,4 +1,16 @@
 {
+    "-CGSCYP_xM": {
+        "id": "-CGSCYP_xM",
+        "title": "Числовая мандала",
+        "author": "Т. Н. Зюрняева",
+        "notes": "",
+        "createdAt": "2017-09-16 11:21:20",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 90
+        }
+    },
     "tjt1eims3C": {
         "id": "tjt1eims3C",
         "title": "Консультативная психология и психотерапия №2 (77) 2013 апрель - июнь Рефлексивно-деятель­ностный подход в обучении",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 61
-        }
-    },
-    "COVFXLzYio": {
-        "id": "COVFXLzYio",
-        "title": "Бедная Настя - Любовь моя, печаль моя",
-        "author": "Елена Езерская",
-        "notes": "",
-        "createdAt": "2017-09-16 10:30:41",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 60
         }
     }
 }
