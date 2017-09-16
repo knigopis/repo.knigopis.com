@@ -1,4 +1,16 @@
 {
+    "ezwuC7vY6p": {
+        "id": "ezwuC7vY6p",
+        "title": "Недовольство культурой",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 11:19:31",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 83
+        }
+    },
     "2DnAmtG6Ss": {
         "id": "2DnAmtG6Ss",
         "title": "Загадки мира чисел и цифр",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 54
-        }
-    },
-    "2X4t6DXtOY": {
-        "id": "2X4t6DXtOY",
-        "title": "Законы научного чтения руки",
-        "author": "В. Бенхам",
-        "notes": "",
-        "createdAt": "2017-09-16 10:29:29",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 53
         }
     }
 }
