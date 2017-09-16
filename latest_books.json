@@ -1,4 +1,16 @@
 {
+    "W4CjcS9r0d": {
+        "id": "W4CjcS9r0d",
+        "title": "Дети из камеры хранения",
+        "author": "Рю Мураками",
+        "notes": "",
+        "createdAt": "2017-09-16 10:24:02",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 31
+        }
+    },
     "cetoJJH_Cn": {
         "id": "cetoJJH_Cn",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 2
-        }
-    },
-    "IINYKMpDXO": {
-        "id": "IINYKMpDXO",
-        "title": "Подземка",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-09-16 10:16:35",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 1
         }
     }
 }

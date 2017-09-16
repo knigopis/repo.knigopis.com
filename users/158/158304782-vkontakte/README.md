@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>30</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>31</sup>
 ---
 
 ## 2014
+
+### Дети из камеры хранения
+Рю Мураками
+
 
 ### Норвежский лес
 Харуки Мураками
