@@ -1,4 +1,16 @@
 {
+    "N4zvPUfaFC": {
+        "id": "N4zvPUfaFC",
+        "title": "Ложь",
+        "author": "Олдер Фрай",
+        "notes": "",
+        "createdAt": "2017-09-16 10:21:43",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 21
+        }
+    },
     "VULFJVKOxp": {
         "id": "VULFJVKOxp",
         "title": "Клиническая психология",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 3
-        }
-    },
-    "l3G4FLFtfY": {
-        "id": "l3G4FLFtfY",
-        "title": "Пятая Салли",
-        "author": "Дэниел Киз",
-        "notes": "Очень интересный и достойный художественный вымысел про расщепление личности. Читается быстро и легко.",
-        "createdAt": "2017-09-15 10:08:11",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 2
         }
     }
 }
