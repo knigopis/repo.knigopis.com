@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>59</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>60</sup>
 ---
 
 ## 2015
+
+### Бедная Настя - Любовь моя, печаль моя
+Елена Езерская
+
 
 ### Кафка на пляже
 Харуки Мураками
