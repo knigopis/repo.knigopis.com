@@ -1,4 +1,16 @@
 {
+    "bFeEVOrZs7": {
+        "id": "bFeEVOrZs7",
+        "title": "Я посланник",
+        "author": "Маркус Зузак",
+        "notes": "",
+        "createdAt": "2017-09-16 11:25:47",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 103
+        }
+    },
     "ofTMajtN2o": {
         "id": "ofTMajtN2o",
         "title": "Психология терроризма",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 74
-        }
-    },
-    "oXZu58gTDc": {
-        "id": "oXZu58gTDc",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-16 11:17:09",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 73
         }
     }
 }
