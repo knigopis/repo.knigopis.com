@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>16</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>17</sup>
 ---
 
 ## 2014
+
+### Введение в НЛП
+Джозеф О'Коннор, Джон Сеймор
+
 
 ### Испытание магией
 Сандер Марина

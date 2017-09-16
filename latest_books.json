@@ -1,4 +1,16 @@
 {
+    "fOH-6Av9tJ": {
+        "id": "fOH-6Av9tJ",
+        "title": "Введение в НЛП",
+        "author": "Джозеф О'Коннор, Джон Сеймор",
+        "notes": "",
+        "createdAt": "2017-09-16 10:20:49",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 17
+        }
+    },
     "chK9a3yVXo": {
         "id": "chK9a3yVXo",
         "title": "Испытание магией",
@@ -345,18 +357,6 @@
             "id": "172783956-vkontakte",
             "nickname": "Настя",
             "booksCount": 4
-        }
-    },
-    "kPTpzpcIHN": {
-        "id": "kPTpzpcIHN",
-        "title": "Тринадцатая сказка",
-        "author": "Диана Сеттерфилд",
-        "notes": "",
-        "createdAt": "2017-09-15 09:06:30",
-        "user": {
-            "id": "172783956-vkontakte",
-            "nickname": "Настя",
-            "booksCount": 3
         }
     }
 }
