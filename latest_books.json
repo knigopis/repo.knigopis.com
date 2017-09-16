@@ -1,4 +1,16 @@
 {
+    "VIiH3a82rA": {
+        "id": "VIiH3a82rA",
+        "title": "Введение в психоанализ",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 10:21:01",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 18
+        }
+    },
     "fOH-6Av9tJ": {
         "id": "fOH-6Av9tJ",
         "title": "Введение в НЛП",
@@ -345,18 +357,6 @@
             "id": "172783956-vkontakte",
             "nickname": "Настя",
             "booksCount": 5
-        }
-    },
-    "fuYbVMDso6": {
-        "id": "fuYbVMDso6",
-        "title": "Забытый сад",
-        "author": "Кейт Мортон",
-        "notes": "",
-        "createdAt": "2017-09-15 09:07:19",
-        "user": {
-            "id": "172783956-vkontakte",
-            "nickname": "Настя",
-            "booksCount": 4
         }
     }
 }
