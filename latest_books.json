@@ -1,4 +1,16 @@
 {
+    "IINYKMpDXO": {
+        "id": "IINYKMpDXO",
+        "title": "Подземка",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-09-16 10:16:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 1
+        }
+    },
     "C7l3d0Qu3v": {
         "id": "C7l3d0Qu3v",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 18
-        }
-    },
-    "U3E6OqWLNR": {
-        "id": "U3E6OqWLNR",
-        "title": "Инферно",
-        "author": "Ден Браун",
-        "notes": "",
-        "createdAt": "2017-09-13 23:16:30",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 17
         }
     }
 }
