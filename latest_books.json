@@ -1,4 +1,16 @@
 {
+    "ALWerdRn4w": {
+        "id": "ALWerdRn4w",
+        "title": "Бедная Настя - Воскресение",
+        "author": "Елена Езерская",
+        "notes": "",
+        "createdAt": "2017-09-16 10:31:16",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 63
+        }
+    },
     "BRYHIri2m5": {
         "id": "BRYHIri2m5",
         "title": "Бедная Настя - Как Феникс из пепла",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 34
-        }
-    },
-    "68HSU0_w9q": {
-        "id": "68HSU0_w9q",
-        "title": "Инфицированные",
-        "author": "Сиглер Скотт",
-        "notes": "",
-        "createdAt": "2017-09-16 10:24:30",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 33
         }
     }
 }
