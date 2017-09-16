@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>10</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>11</sup>
 ---
 
 ## 2014
+
+### Моя чужая дочь
+Сэм Хайес
+
 
 ### В осколках тумана
 Сэм Хайес
