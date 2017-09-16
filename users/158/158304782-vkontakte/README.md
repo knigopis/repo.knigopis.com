@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>38</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>39</sup>
 ---
 
 ## 2014
+
+### Честный проигрыш
+Айрис Мердок
+
 
 ### Танатос
 Рю Мураками

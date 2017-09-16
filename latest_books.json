@@ -1,4 +1,16 @@
 {
+    "apPbiKl8lT": {
+        "id": "apPbiKl8lT",
+        "title": "Честный проигрыш",
+        "author": "Айрис Мердок",
+        "notes": "",
+        "createdAt": "2017-09-16 10:25:45",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 39
+        }
+    },
     "02QwYexBAH": {
         "id": "02QwYexBAH",
         "title": "Танатос",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 10
-        }
-    },
-    "lbXNWWErN8": {
-        "id": "lbXNWWErN8",
-        "title": "Пока ты моя",
-        "author": "Саманта Хайес",
-        "notes": "",
-        "createdAt": "2017-09-16 10:19:05",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 9
         }
     }
 }
