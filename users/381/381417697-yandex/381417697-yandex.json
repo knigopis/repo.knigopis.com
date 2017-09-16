@@ -2,7 +2,7 @@
     "id": "381417697-yandex",
     "lang": "en",
     "nickname": "me",
-    "photo": "https://ulogin.ru/img/photo.png",
+    "photo": "https://avatars.yandex.net/get-yapic/0/0-0/islands-retina-50",
     "profile": "http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl",
     "identity": "http://openid.yandex.ru/knigopis/",
     "booksCount": 30,
@@ -71,5 +71,5 @@
         "107457466087190724190-google": 1
     },
     "createdAt": "2016-04-30 02:41:33",
-    "updatedAt": "2016-12-17 19:48:47"
+    "updatedAt": "2017-09-16 20:58:49"
 }
