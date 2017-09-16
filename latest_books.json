@@ -1,4 +1,16 @@
 {
+    "Wy1xJr6f71": {
+        "id": "Wy1xJr6f71",
+        "title": "Магическая нумерология",
+        "author": "Р. Вебстер",
+        "notes": "",
+        "createdAt": "2017-09-16 11:20:00",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 84
+        }
+    },
     "ezwuC7vY6p": {
         "id": "ezwuC7vY6p",
         "title": "Недовольство культурой",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 55
-        }
-    },
-    "iTr2vREK7v": {
-        "id": "iTr2vREK7v",
-        "title": "Учение Дона Хуана",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 10:29:41",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 54
         }
     }
 }
