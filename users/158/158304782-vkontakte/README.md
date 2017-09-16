@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>9</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>10</sup>
 ---
 
 ## 2014
+
+### В осколках тумана
+Сэм Хайес
+
 
 ### Пока ты моя
 Саманта Хайес
