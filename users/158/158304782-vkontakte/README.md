@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>53</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>54</sup>
 ---
 
 ## 2015
+
+### Учение Дона Хуана
+Карлос Кастанеда
+
 
 ### Законы научного чтения руки
 В. Бенхам
