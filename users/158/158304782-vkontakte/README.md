@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>33</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>34</sup>
 ---
 
 ## 2014
+
+### Последняя осада
+Страуд Джонатан
+
 
 ### Инфицированные
 Сиглер Скотт
