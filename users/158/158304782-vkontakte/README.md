@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>81</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>82</sup>
 ---
 
 ## 2016
+
+### Загадки мира чисел и цифр
+И. Я. Бурау
+
 
 ### Необыкновенное путешествие в безумие и обратно
 Барбара О`Брайен
