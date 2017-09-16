@@ -1,4 +1,16 @@
 {
+    "RyfkQwnjLj": {
+        "id": "RyfkQwnjLj",
+        "title": "Гни свою линию",
+        "author": "Никита Непряхин",
+        "notes": "",
+        "createdAt": "2017-09-16 10:28:37",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 50
+        }
+    },
     "yf1sPXQD1u": {
         "id": "yf1sPXQD1u",
         "title": "Убеждая и побеждай",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 21
-        }
-    },
-    "VULFJVKOxp": {
-        "id": "VULFJVKOxp",
-        "title": "Клиническая психология",
-        "author": "Карвасарский",
-        "notes": "",
-        "createdAt": "2017-09-16 10:21:26",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 20
         }
     }
 }

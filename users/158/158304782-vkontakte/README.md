@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>49</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>50</sup>
 ---
 
 ## 2015
+
+### Гни свою линию
+Никита Непряхин
+
 
 ### Убеждая и побеждай
 Никита Непряхин
