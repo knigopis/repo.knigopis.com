@@ -1,4 +1,16 @@
 {
+    "IadJio77c6": {
+        "id": "IadJio77c6",
+        "title": "Архетип и символ",
+        "author": "Карл Густав Юнг",
+        "notes": "",
+        "createdAt": "2017-09-16 11:20:56",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 88
+        }
+    },
     "qmed0fsk2u": {
         "id": "qmed0fsk2u",
         "title": "Дремота",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 59
-        }
-    },
-    "8V0HXz3Lft": {
-        "id": "8V0HXz3Lft",
-        "title": "Дар орла",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 10:30:16",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 58
         }
     }
 }

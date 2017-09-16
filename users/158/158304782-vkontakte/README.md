@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>87</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>88</sup>
 ---
 
 ## 2016
+
+### Архетип и символ
+Карл Густав Юнг
+
 
 ### Дремота
 Харуки Мураками
