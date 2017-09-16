@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>15</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>16</sup>
 ---
 
 ## 2014
+
+### Испытание магией
+Сандер Марина
+
 
 ### Испытание огнем
 Сандер Марина

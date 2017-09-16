@@ -1,4 +1,16 @@
 {
+    "chK9a3yVXo": {
+        "id": "chK9a3yVXo",
+        "title": "Испытание магией",
+        "author": "Сандер Марина",
+        "notes": "",
+        "createdAt": "2017-09-16 10:20:32",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 16
+        }
+    },
     "ZWGvH4zaDS": {
         "id": "ZWGvH4zaDS",
         "title": "Испытание огнем",
@@ -345,18 +357,6 @@
             "id": "172783956-vkontakte",
             "nickname": "Настя",
             "booksCount": 3
-        }
-    },
-    "1tMlC2Khb0": {
-        "id": "1tMlC2Khb0",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-09-15 09:05:53",
-        "user": {
-            "id": "172783956-vkontakte",
-            "nickname": "Настя",
-            "booksCount": 2
         }
     }
 }
