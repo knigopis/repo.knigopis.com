@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>66</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>67</sup>
 ---
 
 ## 2016
+
+### Сила безмолвия
+Карлос Кастанеда
+
 
 ### Огонь изнутри
 Карлос Кастанеда
