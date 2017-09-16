@@ -1,4 +1,16 @@
 {
+    "jgog5Ng8cm": {
+        "id": "jgog5Ng8cm",
+        "title": "Аэроплан",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2017-09-16 11:26:43",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 108
+        }
+    },
     "C17AxwfmMw": {
         "id": "C17AxwfmMw",
         "title": "Психология масс и анализ человеческого \"Я\"",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 79
-        }
-    },
-    "7GKweWgcIs": {
-        "id": "7GKweWgcIs",
-        "title": "\"1Q84\" Книга 3",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-09-16 11:18:08",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 78
         }
     }
 }
