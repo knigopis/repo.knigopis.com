@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>75</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>76</sup>
 ---
 
 ## 2016
+
+### "1Q84" Книга 1
+Харуки Мураками
+
 
 ### Психология успеха
 Ю.В. Ирхвин
