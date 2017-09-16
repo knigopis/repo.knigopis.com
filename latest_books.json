@@ -1,4 +1,16 @@
 {
+    "C17AxwfmMw": {
+        "id": "C17AxwfmMw",
+        "title": "Психология масс и анализ человеческого \"Я\"",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 11:26:34",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 107
+        }
+    },
     "6hD4kWcxwt": {
         "id": "6hD4kWcxwt",
         "title": "Одиночество простых чисел",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 78
-        }
-    },
-    "_MVlg9t_lG": {
-        "id": "_MVlg9t_lG",
-        "title": "\"1Q84\" Книга 2",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-09-16 11:17:58",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 77
         }
     }
 }
