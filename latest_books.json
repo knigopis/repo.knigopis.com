@@ -1,4 +1,16 @@
 {
+    "k_tXuW20AE": {
+        "id": "k_tXuW20AE",
+        "title": "Край обетованный",
+        "author": "Харуки Мураками",
+        "notes": "История о зариновой атаке в метро, рассказанная теми, кто был в секте \"Аум Синрикё\".",
+        "createdAt": "2017-09-16 11:24:03",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 97
+        }
+    },
     "Cs4AMRd8zV": {
         "id": "Cs4AMRd8zV",
         "title": "Гештальт психология",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 68
-        }
-    },
-    "qFwVZgs915": {
-        "id": "qFwVZgs915",
-        "title": "Сила безмолвия",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 11:15:51",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 67
         }
     }
 }
