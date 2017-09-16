@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>52</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>53</sup>
 ---
 
 ## 2015
+
+### Законы научного чтения руки
+В. Бенхам
+
 
 ### Шкатулка пандоры
 Андрей Шляхов

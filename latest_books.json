@@ -1,4 +1,16 @@
 {
+    "2X4t6DXtOY": {
+        "id": "2X4t6DXtOY",
+        "title": "Законы научного чтения руки",
+        "author": "В. Бенхам",
+        "notes": "",
+        "createdAt": "2017-09-16 10:29:29",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 53
+        }
+    },
     "N1TeXMxAZy": {
         "id": "N1TeXMxAZy",
         "title": "Шкатулка пандоры",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 24
-        }
-    },
-    "1MUnfGUbUE": {
-        "id": "1MUnfGUbUE",
-        "title": "Психология лжи",
-        "author": "Пол Экман",
-        "notes": "",
-        "createdAt": "2017-09-16 10:22:18",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 23
         }
     }
 }
