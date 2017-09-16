@@ -1,4 +1,16 @@
 {
+    "oSg6YaEI2U": {
+        "id": "oSg6YaEI2U",
+        "title": "Становление личности",
+        "author": "Карл Роджерс",
+        "notes": "Книга о том, как хорошо быть цельной личностью, что важен пример другой личности, а не куча впихиваемых знаний.",
+        "createdAt": "2017-09-16 11:22:52",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 94
+        }
+    },
     "Sswg5hzAme": {
         "id": "Sswg5hzAme",
         "title": "Психотерапия потерь",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 65
-        }
-    },
-    "0neVEQFQpb": {
-        "id": "0neVEQFQpb",
-        "title": "Трое в лодке, не считая собаки",
-        "author": "Джером Джером",
-        "notes": "Оооооочень скучная книга",
-        "createdAt": "2017-09-16 10:31:37",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 64
         }
     }
 }
