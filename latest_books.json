@@ -1,4 +1,16 @@
 {
+    "vzeaX42iMb": {
+        "id": "vzeaX42iMb",
+        "title": "Хрестоматия по конфликтологии",
+        "author": "-",
+        "notes": "",
+        "createdAt": "2017-09-16 10:22:47",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 25
+        }
+    },
     "PYL1Ch5Gha": {
         "id": "PYL1Ch5Gha",
         "title": "Психология Я и защитные механизмы",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 7
-        }
-    },
-    "XCWB0Rv59K": {
-        "id": "XCWB0Rv59K",
-        "title": "Овод",
-        "author": "Э.Л.Войнич",
-        "notes": "",
-        "createdAt": "2017-09-15 10:46:22",
-        "user": {
-            "id": "111688198065279912162-google",
-            "nickname": "Asya",
-            "booksCount": 6
         }
     }
 }

@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>24</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>25</sup>
 ---
 
 ## 2014
+
+### Хрестоматия по конфликтологии
+-
+
 
 ### Психология Я и защитные механизмы
 Анна Фрейд
