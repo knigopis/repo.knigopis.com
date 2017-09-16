@@ -1,4 +1,16 @@
 {
+    "zjT9MIII5I": {
+        "id": "zjT9MIII5I",
+        "title": "Игры, в которые играют люди",
+        "author": "Берн Эрик",
+        "notes": "",
+        "createdAt": "2017-09-16 10:31:49",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 65
+        }
+    },
     "0neVEQFQpb": {
         "id": "0neVEQFQpb",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 36
-        }
-    },
-    "Rujcp8apGO": {
-        "id": "Rujcp8apGO",
-        "title": "Трилогия Бартимеуса - Амулет Самаркандра",
-        "author": "Страуд Джонатан",
-        "notes": "",
-        "createdAt": "2017-09-16 10:24:56",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 35
         }
     }
 }
