@@ -1,4 +1,16 @@
 {
+    "7E4uVBlnOY": {
+        "id": "7E4uVBlnOY",
+        "title": "Высокая вода венецианцев",
+        "author": "Дина Рубина",
+        "notes": "",
+        "createdAt": "2017-09-16 11:16:34",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 70
+        }
+    },
     "9_5AunrIHs": {
         "id": "9_5AunrIHs",
         "title": "Три очерка по теории сексуальности",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 41
-        }
-    },
-    "kDZ8C1zO88": {
-        "id": "kDZ8C1zO88",
-        "title": "Тринадцатая сказка",
-        "author": "Диана Сеттерфилд",
-        "notes": "",
-        "createdAt": "2017-09-16 10:25:56",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 40
         }
     }
 }
