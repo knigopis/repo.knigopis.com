@@ -1,4 +1,16 @@
 {
+    "61ZNz9mXu3": {
+        "id": "61ZNz9mXu3",
+        "title": "Отдельная реальность",
+        "author": "Карлос Кастанеда",
+        "notes": "",
+        "createdAt": "2017-09-16 10:29:50",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 55
+        }
+    },
     "iTr2vREK7v": {
         "id": "iTr2vREK7v",
         "title": "Учение Дона Хуана",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 26
-        }
-    },
-    "vzeaX42iMb": {
-        "id": "vzeaX42iMb",
-        "title": "Хрестоматия по конфликтологии",
-        "author": "-",
-        "notes": "",
-        "createdAt": "2017-09-16 10:22:47",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 25
         }
     }
 }
