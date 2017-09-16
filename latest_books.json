@@ -1,4 +1,16 @@
 {
+    "j8EZpRZ-TC": {
+        "id": "j8EZpRZ-TC",
+        "title": "По ту сторону удовольствия",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2017-09-16 11:20:09",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 85
+        }
+    },
     "Wy1xJr6f71": {
         "id": "Wy1xJr6f71",
         "title": "Магическая нумерология",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 56
-        }
-    },
-    "61ZNz9mXu3": {
-        "id": "61ZNz9mXu3",
-        "title": "Отдельная реальность",
-        "author": "Карлос Кастанеда",
-        "notes": "",
-        "createdAt": "2017-09-16 10:29:50",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 55
         }
     }
 }
