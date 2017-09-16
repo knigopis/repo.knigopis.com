@@ -1,4 +1,16 @@
 {
+    "cetoJJH_Cn": {
+        "id": "cetoJJH_Cn",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-09-16 10:23:48",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 30
+        }
+    },
     "Q60mAskZoK": {
         "id": "Q60mAskZoK",
         "title": "Книжный вор",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 1
-        }
-    },
-    "C7l3d0Qu3v": {
-        "id": "C7l3d0Qu3v",
-        "title": "Над пропастью во ржи",
-        "author": "Дэвид Селенджер",
-        "notes": "",
-        "createdAt": "2017-09-15 12:09:13",
-        "user": {
-            "id": "137961387-vkontakte",
-            "nickname": "anime_hetalia",
-            "booksCount": 11
         }
     }
 }

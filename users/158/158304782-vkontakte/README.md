@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>29</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>30</sup>
 ---
 
 ## 2014
+
+### Норвежский лес
+Харуки Мураками
+
 
 ### Книжный вор
 Маркус Зузак
