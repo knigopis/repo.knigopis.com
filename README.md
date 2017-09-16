@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>11</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>12</sup> 
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 [Ру](users/622/62264231-vkontakte)<sup>0</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>11</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lyinil](users/345/3458212-vkontakte)<sup>5</sup> 
 
 
-_16.09.2017 10:19:32_
+_16.09.2017 10:19:47_

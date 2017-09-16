@@ -1,4 +1,16 @@
 {
+    "eQzp2IfMb0": {
+        "id": "eQzp2IfMb0",
+        "title": "Двенадцать стульев",
+        "author": "Ильф и Петров",
+        "notes": "",
+        "createdAt": "2017-09-16 10:19:47",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 12
+        }
+    },
     "jR7ug00sw6": {
         "id": "jR7ug00sw6",
         "title": "Моя чужая дочь",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 31
-        }
-    },
-    "BZqcvMgQL0": {
-        "id": "BZqcvMgQL0",
-        "title": "Королевская битва",
-        "author": "Косюн Таками",
-        "notes": "",
-        "createdAt": "2017-09-14 17:50:43",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 59
         }
     }
 }
