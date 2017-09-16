@@ -1,5 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>104</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>105</sup>
 ---
+
+## 2017
+
+### Элементы мысли
+Сеченой Иван Михайлович
+
+
 
 ## 2016
 
