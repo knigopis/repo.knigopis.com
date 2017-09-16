@@ -1,4 +1,16 @@
 {
+    "NbsPLrW6UR": {
+        "id": "NbsPLrW6UR",
+        "title": "Класс коррекции",
+        "author": "Ксения Молдавская",
+        "notes": "Отечественная краткая пародия на \"Дом, в котором\", не стоит прочтения.",
+        "createdAt": "2017-09-16 11:23:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 95
+        }
+    },
     "oSg6YaEI2U": {
         "id": "oSg6YaEI2U",
         "title": "Становление личности",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 66
-        }
-    },
-    "zjT9MIII5I": {
-        "id": "zjT9MIII5I",
-        "title": "Игры, в которые играют люди",
-        "author": "Берн Эрик",
-        "notes": "",
-        "createdAt": "2017-09-16 10:31:49",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 65
         }
     }
 }
