@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>37</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>38</sup>
 ---
 
 ## 2014
+
+### Танатос
+Рю Мураками
+> Гуахирас - это кубинские крестьяне.
+
 
 ### Трилогия Бартимеуса - Врата Птолемея
 Страуд Джонатан
