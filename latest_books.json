@@ -1,4 +1,16 @@
 {
+    "lZxpxP-6FN": {
+        "id": "lZxpxP-6FN",
+        "title": "Как говорить, чтобы дети слушали, и как слушать, чтобы дети говорили",
+        "author": "Адель Элейн",
+        "notes": "",
+        "createdAt": "2017-09-16 10:21:13",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 19
+        }
+    },
     "VIiH3a82rA": {
         "id": "VIiH3a82rA",
         "title": "Введение в психоанализ",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 1
-        }
-    },
-    "-ItUxcTFdr": {
-        "id": "-ItUxcTFdr",
-        "title": "Хранительница тайн",
-        "author": "Кейт Мортон",
-        "notes": "",
-        "createdAt": "2017-09-15 09:08:51",
-        "user": {
-            "id": "172783956-vkontakte",
-            "nickname": "Настя",
-            "booksCount": 5
         }
     }
 }
