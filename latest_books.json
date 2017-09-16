@@ -1,4 +1,16 @@
 {
+    "0neVEQFQpb": {
+        "id": "0neVEQFQpb",
+        "title": "Трое в лодке, не считая собаки",
+        "author": "Джером Джером",
+        "notes": "Оооооочень скучная книга",
+        "createdAt": "2017-09-16 10:31:37",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 64
+        }
+    },
     "ALWerdRn4w": {
         "id": "ALWerdRn4w",
         "title": "Бедная Настя - Воскресение",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 35
-        }
-    },
-    "zZP1ipXx3K": {
-        "id": "zZP1ipXx3K",
-        "title": "Последняя осада",
-        "author": "Страуд Джонатан",
-        "notes": "",
-        "createdAt": "2017-09-16 10:24:43",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 34
         }
     }
 }
