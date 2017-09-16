@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>32</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>33</sup>
 ---
 
 ## 2014
+
+### Инфицированные
+Сиглер Скотт
+
 
 ### Работа над ошибками
 Поляков Юрий
