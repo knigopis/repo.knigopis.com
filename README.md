@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
+    > Третья книга цикла Древний. Потрясающие описания боев: как космических так и земных. Интересные другие расы. Конец очень эмоционален.
+
 * Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
     > «»...самые счастливые люди – невежды, а слава – удача, и чтоб добиться ее, надо только быть ловким...»
     > «Милый мой, я презираю женщин, чтобы не любить их, потому что иначе жизнь была бы слишком нелепой мелодрамой»
@@ -19,7 +22,6 @@ Do not use pull requests to make changes here.
     > Грегор Замза
 
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
-    > Корис Ван Исер, попаданец, крепость Подкова, ваначале норм, но ближе к концу как-то все не вяжется
 
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 
@@ -33,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
 
-* История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>6</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
 [zhamila1995](users/436/43615118-vkontakte)<sup>26</sup> 
-[lena_elenka](users/913/91377748-vkontakte)<sup>0</sup> 
 
 
-_17.09.2017 12:45:56_
+_17.09.2017 16:17:12_

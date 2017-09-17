@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
 * Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
 * Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Оперативный резерв ~ [Chiffi](users/105/105831994080785626680-google)<sup>29</sup>
 * Пропавший глаз. ~ [ana.21](users/107/107655526900000657481-google)<sup>312</sup>
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
-* Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 
 
-_17.09.2017 12:38:25_
+_17.09.2017 16:17:12_
