@@ -1,4 +1,10 @@
 {
+    "114995432969872830384-google": {
+        "id": "114995432969872830384-google",
+        "nickname": "kken",
+        "booksCount": 0,
+        "updatedAt": "2017-09-17 08:43:08"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "guru",
         "booksCount": 0,
         "updatedAt": "2017-09-12 23:10:05"
-    },
-    "523518851324327-facebook": {
-        "id": "523518851324327-facebook",
-        "nickname": "валя",
-        "booksCount": 0,
-        "updatedAt": "2017-09-12 22:21:41"
     }
 }
