@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
+    > Грегор Замза
+
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
     > Корис Ван Исер, попаданец, крепость Подкова, ваначале норм, но ближе к концу как-то все не вяжется
 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
-    > https://www.ozon.ru/context/detail/id/1077226/
-    > 
-    > в процессе
 
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
 
-* Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>109</sup> 
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 [Ру](users/622/62264231-vkontakte)<sup>0</sup> 
@@ -68,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lena_elenka](users/913/91377748-vkontakte)<sup>0</sup> 
 [guru](users/100/100000628715277-facebook)<sup>0</sup> 
 [валя](users/523/523518851324327-facebook)<sup>0</sup> 
-[lyinil](users/345/3458212-vkontakte)<sup>5</sup> 
 
 
-_16.09.2017 11:27:00_
+_17.09.2017 06:09:00_

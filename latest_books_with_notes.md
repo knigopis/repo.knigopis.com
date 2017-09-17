@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
@@ -30,7 +31,6 @@
 * Артемис Фаул: Ответный удар ~ [EsterHani](users/305/30558181-vkontakte)<sup>128</sup>
 * Артемис Фаул: Код вечности ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
 * Артемис Фаул: Миссия в Арктику ~ [EsterHani](users/305/30558181-vkontakte)<sup>127</sup>
-* Артемис Фаул ~ [EsterHani](users/305/30558181-vkontakte)<sup>126</sup>
 
 
-_14.09.2017 16:33:33_
+_17.09.2017 06:09:00_

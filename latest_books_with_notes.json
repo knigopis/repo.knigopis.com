@@ -1,4 +1,16 @@
 {
+    "cVbEOyUjZX": {
+        "id": "cVbEOyUjZX",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "Грегор Замза",
+        "createdAt": "2017-09-17 06:09:00",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 46
+        }
+    },
     "3Ex4kdI2fD": {
         "id": "3Ex4kdI2fD",
         "title": "Изгой",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 127
-        }
-    },
-    "JZorxUv9F_": {
-        "id": "JZorxUv9F_",
-        "title": "Артемис Фаул",
-        "author": "Йон Колфер",
-        "notes": "Книга 1",
-        "createdAt": "2017-09-02 14:13:33",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 126
         }
     }
 }

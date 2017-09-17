@@ -1,4 +1,16 @@
 {
+    "cVbEOyUjZX": {
+        "id": "cVbEOyUjZX",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "Грегор Замза",
+        "createdAt": "2017-09-17 06:09:00",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 46
+        }
+    },
     "zkFupTUjJ2": {
         "id": "zkFupTUjJ2",
         "title": "Возрастные кризисы",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 81
-        }
-    },
-    "5nT0YpT1M8": {
-        "id": "5nT0YpT1M8",
-        "title": "Число жизни. Код судьбы. 3",
-        "author": "Титания Харди",
-        "notes": "",
-        "createdAt": "2017-09-16 11:18:40",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 80
         }
     }
 }
