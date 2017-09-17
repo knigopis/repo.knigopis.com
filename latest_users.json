@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 30,
+        "updatedAt": "2017-09-17 12:38:25"
+    },
     "114995432969872830384-google": {
         "id": "114995432969872830384-google",
         "nickname": "kken",
@@ -172,11 +178,5 @@
         "nickname": "lena_elenka",
         "booksCount": 0,
         "updatedAt": "2017-09-13 05:41:02"
-    },
-    "100000628715277-facebook": {
-        "id": "100000628715277-facebook",
-        "nickname": "guru",
-        "booksCount": 0,
-        "updatedAt": "2017-09-12 23:10:05"
     }
 }
