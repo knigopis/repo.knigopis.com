@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Трижды пестрый кот мяукнул ~ [Sky](users/118/118049897850017649660-google)<sup>39</sup>
+    > (Флавия де Люс 7)
+    > Наконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~
+
 * Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
     > Третья книга цикла Древний. Потрясающие описания боев: как космических так и земных. Интересные другие расы. Конец очень эмоционален.
 
@@ -19,7 +23,6 @@ Do not use pull requests to make changes here.
     > «Взгляд его — непродолжительный, но проницательный и тяжелый, оставлял по себе неприятное впечатление нескромного вопроса и мог бы казаться дерзким, если б не был столь равнодушно спокоен.»
 
 * Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
-    > Грегор Замза
 
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
 
@@ -33,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
 
-* Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [En](users/333/333646551-vkontakte)<sup>6</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
@@ -69,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [markovatatiana](users/749/74947941-vkontakte)<sup>0</sup> 
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>92</sup> 
-[zhamila1995](users/436/43615118-vkontakte)<sup>26</sup> 
 
 
-_17.09.2017 16:17:12_
+_17.09.2017 17:20:38_

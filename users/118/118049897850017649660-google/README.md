@@ -1,7 +1,13 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>38</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>39</sup>
 ---
 
 ## 2017
+
+### Трижды пестрый кот мяукнул
+Алан Бредли
+> [2017-09-14] (Флавия де Люс 7)
+> Наконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~
+
 
 ### Путь волшебника (антология)
 Составитель Д.Д.Адамс

@@ -1,4 +1,16 @@
 {
+    "NCtO3nzwQa": {
+        "id": "NCtO3nzwQa",
+        "title": "Трижды пестрый кот мяукнул",
+        "author": "Алан Бредли",
+        "notes": "(Флавия де Люс 7)\nНаконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~",
+        "createdAt": "2017-09-17 17:20:38",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 39
+        }
+    },
     "22KuUdfWj7": {
         "id": "22KuUdfWj7",
         "title": "Древний. Война. Книга 3",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 85
-        }
-    },
-    "Wy1xJr6f71": {
-        "id": "Wy1xJr6f71",
-        "title": "Магическая нумерология",
-        "author": "Р. Вебстер",
-        "notes": "",
-        "createdAt": "2017-09-16 11:20:00",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 84
         }
     }
 }
