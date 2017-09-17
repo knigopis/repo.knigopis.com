@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
+    > Книга интересная и, типично для Кинга, очень пробирающе написанная. Впечатлительным лучше не читать
+
 * В интернете кто-то неправ! Научные исследования спорных вопросов ~ [Saamy](users/115/115226508-vkontakte)<sup>16</sup>
     > Невероятно увлекательная вещь. В меру сложных тем биологии и химии, очень хорошо и легким языком раскрыты все заявленные "спорные вопросы". 
     > Прочиталась на одном дыхании
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Наконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~
 
 * Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
-    > Третья книга цикла Древний. Потрясающие описания боев: как космических так и земных. Интересные другие расы. Конец очень эмоционален.
 
 * Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
 
-* Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>16</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [En](users/333/333646551-vkontakte)<sup>6</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
 
 
-_17.09.2017 20:28:13_
+_17.09.2017 20:33:36_

@@ -1,4 +1,16 @@
 {
+    "CHsVLPWGUx": {
+        "id": "CHsVLPWGUx",
+        "title": "Мизери",
+        "author": "Стивен Кинг",
+        "notes": "Книга интересная и, типично для Кинга, очень пробирающе написанная. Впечатлительным лучше не читать",
+        "createdAt": "2017-09-17 20:33:36",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 17
+        }
+    },
     "RVK21SadLi": {
         "id": "RVK21SadLi",
         "title": "В интернете кто-то неправ! Научные исследования спорных вопросов",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 87
-        }
-    },
-    "mh72oO7sjX": {
-        "id": "mh72oO7sjX",
-        "title": "Восстановление организма человека концентрацией на чувствах",
-        "author": "Г. Грабовой",
-        "notes": "",
-        "createdAt": "2017-09-16 11:20:26",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 86
         }
     }
 }
