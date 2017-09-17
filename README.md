@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [En](users/333/333646551-vkontakte)<sup>6</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
 [Icerock87](users/227/227437659-vkontakte)<sup>1</sup> 
 [markovatatiana](users/749/74947941-vkontakte)<sup>0</sup> 
-[Ann Tea](users/136/136502672-vkontakte)<sup>1</sup> 
 
 
-_17.09.2017 20:33:36_
+_17.09.2017 22:24:36_
