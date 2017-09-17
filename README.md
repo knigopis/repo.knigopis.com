@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kken](users/114/114995432969872830384-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>109</sup> 
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zhamila1995](users/436/43615118-vkontakte)<sup>26</sup> 
 [lena_elenka](users/913/91377748-vkontakte)<sup>0</sup> 
 [guru](users/100/100000628715277-facebook)<sup>0</sup> 
-[валя](users/523/523518851324327-facebook)<sup>0</sup> 
 
 
-_17.09.2017 06:09:00_
+_17.09.2017 08:43:10_
