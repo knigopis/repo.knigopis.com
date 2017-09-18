@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>17</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bywanted](users/150/150764957-vkontakte)<sup>1</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
-[Icerock87](users/227/227437659-vkontakte)<sup>1</sup> 
 
 
-_18.09.2017 04:13:42_
+_18.09.2017 09:53:16_
