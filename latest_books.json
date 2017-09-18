@@ -1,4 +1,16 @@
 {
+    "vDx2vczYjG": {
+        "id": "vDx2vczYjG",
+        "title": "Вечный сон",
+        "author": "Реймонд Чандлер",
+        "notes": "",
+        "createdAt": "2017-09-18 04:13:42",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 127
+        }
+    },
     "j7RVIqUMLH": {
         "id": "j7RVIqUMLH",
         "title": "Колыбельная",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 92
-        }
-    },
-    "8r6qgXQoGc": {
-        "id": "8r6qgXQoGc",
-        "title": "Сила озарения",
-        "author": "М. Гладуэлл",
-        "notes": "Порой первая мысль намного точнее более детального анализа.",
-        "createdAt": "2017-09-16 11:21:46",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 91
         }
     }
 }
