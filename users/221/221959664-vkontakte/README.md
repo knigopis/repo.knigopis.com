@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>125</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>126</sup>
 ---
 
 ## 2017
+
+### Колыбельная
+Чак Паланик
+> [2017-09-17] 
+
 
 ### Дающий
 Лоис Лоури

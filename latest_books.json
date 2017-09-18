@@ -1,4 +1,16 @@
 {
+    "j7RVIqUMLH": {
+        "id": "j7RVIqUMLH",
+        "title": "Колыбельная",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-09-18 04:13:20",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 126
+        }
+    },
     "i3-02B-h3c": {
         "id": "i3-02B-h3c",
         "title": "Дающий",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 91
-        }
-    },
-    "-CGSCYP_xM": {
-        "id": "-CGSCYP_xM",
-        "title": "Числовая мандала",
-        "author": "Т. Н. Зюрняева",
-        "notes": "",
-        "createdAt": "2017-09-16 11:21:20",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 90
         }
     }
 }
