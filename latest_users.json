@@ -1,4 +1,10 @@
 {
+    "228182315-vkontakte": {
+        "id": "228182315-vkontakte",
+        "nickname": "kertender",
+        "booksCount": 0,
+        "updatedAt": "2017-09-18 10:57:17"
+    },
     "9857482-vkontakte": {
         "id": "9857482-vkontakte",
         "nickname": "natasha_vdovkina",
@@ -172,11 +178,5 @@
         "nickname": "Alex",
         "booksCount": 19,
         "updatedAt": "2017-09-13 23:17:11"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 124,
-        "updatedAt": "2017-09-13 20:15:41"
     }
 }
