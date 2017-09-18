@@ -1,4 +1,16 @@
 {
+    "uxC-xnVvQY": {
+        "id": "uxC-xnVvQY",
+        "title": "Черный кот",
+        "author": "Аллан По",
+        "notes": "",
+        "createdAt": "2017-09-18 04:12:11",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 123
+        }
+    },
     "CHsVLPWGUx": {
         "id": "CHsVLPWGUx",
         "title": "Мизери",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 88
-        }
-    },
-    "qmed0fsk2u": {
-        "id": "qmed0fsk2u",
-        "title": "Дремота",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-09-16 11:20:36",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 87
         }
     }
 }
