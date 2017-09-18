@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 28,
+        "updatedAt": "2017-09-18 11:52:54"
+    },
     "228182315-vkontakte": {
         "id": "228182315-vkontakte",
         "nickname": "kertender",
@@ -142,12 +148,6 @@
         "nickname": "Tr",
         "booksCount": 57,
         "updatedAt": "2017-09-14 16:33:33"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 27,
-        "updatedAt": "2017-09-14 15:28:58"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
