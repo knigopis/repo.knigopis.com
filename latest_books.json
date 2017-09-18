@@ -1,4 +1,16 @@
 {
+    "aA_1aBRNfx": {
+        "id": "aA_1aBRNfx",
+        "title": "Мор, ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2017-09-18 04:12:37",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 124
+        }
+    },
     "uxC-xnVvQY": {
         "id": "uxC-xnVvQY",
         "title": "Черный кот",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 89
-        }
-    },
-    "IadJio77c6": {
-        "id": "IadJio77c6",
-        "title": "Архетип и символ",
-        "author": "Карл Густав Юнг",
-        "notes": "",
-        "createdAt": "2017-09-16 11:20:56",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 88
         }
     }
 }

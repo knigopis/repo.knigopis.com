@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>123</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>124</sup>
 ---
 
 ## 2017
+
+### Мор, ученик Смерти
+Терри Пратчетт
+> [2017-09-15] 
+
 
 ### Черный кот
 Аллан По
