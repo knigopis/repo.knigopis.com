@@ -1,4 +1,16 @@
 {
+    "i3-02B-h3c": {
+        "id": "i3-02B-h3c",
+        "title": "Дающий",
+        "author": "Лоис Лоури",
+        "notes": "",
+        "createdAt": "2017-09-18 04:13:01",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 125
+        }
+    },
     "aA_1aBRNfx": {
         "id": "aA_1aBRNfx",
         "title": "Мор, ученик Смерти",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 90
-        }
-    },
-    "tjt1eims3C": {
-        "id": "tjt1eims3C",
-        "title": "Консультативная психология и психотерапия №2 (77) 2013 апрель - июнь Рефлексивно-деятель­ностный подход в обучении",
-        "author": "-",
-        "notes": "",
-        "createdAt": "2017-09-16 11:21:06",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 89
         }
     }
 }

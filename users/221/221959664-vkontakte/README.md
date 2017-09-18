@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>124</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>125</sup>
 ---
 
 ## 2017
+
+### Дающий
+Лоис Лоури
+> [2017-09-15] 
+
 
 ### Мор, ученик Смерти
 Терри Пратчетт
