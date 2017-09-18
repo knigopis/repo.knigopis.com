@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kertender](users/228/228182315-vkontakte)<sup>0</sup> 
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [qwerty](users/110/110890489735241405173-google)<sup>0</sup> 
 [bywanted](users/150/150764957-vkontakte)<sup>1</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>19</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup> 
 
 
-_18.09.2017 09:53:16_
+_18.09.2017 10:57:19_
