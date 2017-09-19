@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>28</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
 [gorsskaya](users/324/324985634-vkontakte)<sup>3</sup> 
-[qwerty](users/110/110890489735241405173-google)<sup>0</sup> 
 
 
-_19.09.2017 17:16:36_
+_19.09.2017 19:09:37_
