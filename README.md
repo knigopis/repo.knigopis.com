@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Настя](users/172/172783956-vkontakte)<sup>5</sup> 
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
 
 
-_20.09.2017 20:24:32_
+_20.09.2017 21:44:21_
