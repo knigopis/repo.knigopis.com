@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
+    > Силы зла против сил зла) сюжет очень понравился. Повествование идет от лица разумной собаки, главные герои - различная нечесть. Кто окажется другом, а кто врагом узнаем только 31 октября в ночь, когда одни силы зла мешают другим уничтожить наш мир.
+
 * Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
     > Книга интересная и, типично для Кинга, очень пробирающе написанная. Впечатлительным лучше не читать
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Прочиталась на одном дыхании
 
 * Трижды пестрый кот мяукнул ~ [Sky](users/118/118049897850017649660-google)<sup>39</sup>
-    > (Флавия де Люс 7)
-    > Наконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~
 
 * Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
 
-* Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>7</sup> 
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
@@ -46,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
-[En](users/333/333646551-vkontakte)<sup>6</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
 
 
-_20.09.2017 05:07:56_
+_20.09.2017 07:14:57_
