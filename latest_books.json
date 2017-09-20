@@ -1,4 +1,16 @@
 {
+    "uhHrD-Tiqo": {
+        "id": "uhHrD-Tiqo",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-09-20 08:41:12",
+        "user": {
+            "id": "14017304233624657357-mailru",
+            "nickname": "МИХАИЛ michael",
+            "booksCount": 2
+        }
+    },
     "Txk6QfMR34": {
         "id": "Txk6QfMR34",
         "title": "Angular 2",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 97
-        }
-    },
-    "Cs4AMRd8zV": {
-        "id": "Cs4AMRd8zV",
-        "title": "Гештальт психология",
-        "author": "Кллер В., Кофка К.",
-        "notes": "",
-        "createdAt": "2017-09-16 11:23:50",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 96
         }
     }
 }

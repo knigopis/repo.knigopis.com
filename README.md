@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>1</sup> 
+[МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>7</sup> 
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 
 
-_20.09.2017 08:41:00_
+_20.09.2017 08:41:12_
