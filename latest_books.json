@@ -1,4 +1,16 @@
 {
+    "Nn5W9KjahM": {
+        "id": "Nn5W9KjahM",
+        "title": "Марсианские хроники",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2017-09-20 11:42:12",
+        "user": {
+            "id": "137961387-vkontakte",
+            "nickname": "anime_hetalia",
+            "booksCount": 12
+        }
+    },
     "uhHrD-Tiqo": {
         "id": "uhHrD-Tiqo",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 98
-        }
-    },
-    "k_tXuW20AE": {
-        "id": "k_tXuW20AE",
-        "title": "Край обетованный",
-        "author": "Харуки Мураками",
-        "notes": "История о зариновой атаке в метро, рассказанная теми, кто был в секте \"Аум Синрикё\".",
-        "createdAt": "2017-09-16 11:24:03",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 97
         }
     }
 }

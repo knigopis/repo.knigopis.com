@@ -1,4 +1,4 @@
-# List of books read by [anime_hetalia](http://vk.com/id137961387)<sup>11</sup>
+# List of books read by [anime_hetalia](http://vk.com/id137961387)<sup>12</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Над пропастью во ржи
 Дэвид Селенджер
 > [2017-12-15] 
+
+
+### Марсианские хроники
+Рей Бредбери
+> [2017-09-20] 
 
 
 ### Автостопом по Галактике

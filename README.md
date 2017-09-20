@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>7</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>109</sup> 
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 [Ру](users/622/62264231-vkontakte)<sup>0</sup> 
-[anime_hetalia](users/137/137961387-vkontakte)<sup>11</sup> 
 [Mihail01rus](users/105/105729661373202631037-google)<sup>0</sup> 
 [Asya](users/111/111688198065279912162-google)<sup>10</sup> 
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 
 
-_20.09.2017 09:00:34_
+_20.09.2017 11:42:12_
