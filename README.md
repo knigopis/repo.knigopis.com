@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>7</sup> 
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>269</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 
 
-_20.09.2017 08:41:12_
+_20.09.2017 09:00:34_
