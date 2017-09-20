@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>57</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>150</sup> 
-[gorsskaya](users/324/324985634-vkontakte)<sup>3</sup> 
 
 
-_19.09.2017 19:09:37_
+_20.09.2017 05:07:56_
