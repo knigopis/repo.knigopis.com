@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 125,
+        "updatedAt": "2017-09-20 18:26:59"
+    },
     "137961387-vkontakte": {
         "id": "137961387-vkontakte",
         "nickname": "anime_hetalia",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 59,
         "updatedAt": "2017-09-14 17:50:43"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 269,
-        "updatedAt": "2017-09-14 16:55:26"
     }
 }

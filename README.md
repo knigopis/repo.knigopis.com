@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
+    > https://www.ozon.ru/context/detail/id/25116511/
+    > 
+    > в процессе
+
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
     > Силы зла против сил зла) сюжет очень понравился. Повествование идет от лица разумной собаки, главные герои - различная нечесть. Кто окажется другом, а кто врагом узнаем только 31 октября в ночь, когда одни силы зла мешают другим уничтожить наш мир.
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > Книга интересная и, типично для Кинга, очень пробирающе написанная. Впечатлительным лучше не читать
 
 * В интернете кто-то неправ! Научные исследования спорных вопросов ~ [Saamy](users/115/115226508-vkontakte)<sup>16</sup>
-    > Невероятно увлекательная вещь. В меру сложных тем биологии и химии, очень хорошо и легким языком раскрыты все заявленные "спорные вопросы". 
-    > Прочиталась на одном дыхании
 
 * Трижды пестрый кот мяукнул ~ [Sky](users/118/118049897850017649660-google)<sup>39</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 
-* Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
@@ -63,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>269</sup> 
 
 
-_20.09.2017 11:42:12_
+_20.09.2017 18:26:59_
