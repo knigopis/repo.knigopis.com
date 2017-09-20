@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
 * Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
 * Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
-* Психология убеждения. 50 доказанных способов быть убедительным ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>122</sup>
 
 
-_20.09.2017 18:26:59_
+_20.09.2017 20:24:32_

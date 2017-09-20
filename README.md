@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
+    > Начальные рассказы этого сборника произвели на меня большое впечатление, особенно рассказ про кота и про свадебный рассказ. Последние показались уже слегка бредоватыми, хотя можно списать на то, что лично я их не особо понял. Поэзия Геймана, как выяснилось, вообще вещь не для меня.
+
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
     > https://www.ozon.ru/context/detail/id/25116511/
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Силы зла против сил зла) сюжет очень понравился. Повествование идет от лица разумной собаки, главные герои - различная нечесть. Кто окажется другом, а кто врагом узнаем только 31 октября в ночь, когда одни силы зла мешают другим уничтожить наш мир.
 
 * Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
-    > Книга интересная и, типично для Кинга, очень пробирающе написанная. Впечатлительным лучше не читать
 
 * В интернете кто-то неправ! Научные исследования спорных вопросов ~ [Saamy](users/115/115226508-vkontakte)<sup>16</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
 
-* Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>17</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>59</sup> 
 
 
-_20.09.2017 18:26:59_
+_20.09.2017 20:24:32_
