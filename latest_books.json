@@ -1,4 +1,16 @@
 {
+    "Txk6QfMR34": {
+        "id": "Txk6QfMR34",
+        "title": "Angular 2",
+        "author": "Angular 2",
+        "notes": "",
+        "createdAt": "2017-09-20 08:41:00",
+        "user": {
+            "id": "14017304233624657357-mailru",
+            "nickname": "МИХАИЛ michael",
+            "booksCount": 1
+        }
+    },
     "19nxwmaWCv": {
         "id": "19nxwmaWCv",
         "title": "Ночь в одиноком октябре",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 96
-        }
-    },
-    "NbsPLrW6UR": {
-        "id": "NbsPLrW6UR",
-        "title": "Класс коррекции",
-        "author": "Ксения Молдавская",
-        "notes": "Отечественная краткая пародия на \"Дом, в котором\", не стоит прочтения.",
-        "createdAt": "2017-09-16 11:23:35",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 95
         }
     }
 }
