@@ -1,4 +1,10 @@
 {
+    "3052811375-instagram": {
+        "id": "3052811375-instagram",
+        "nickname": "_annalucille_",
+        "booksCount": 0,
+        "updatedAt": "2017-09-20 09:00:33"
+    },
     "14017304233624657357-mailru": {
         "id": "14017304233624657357-mailru",
         "nickname": "МИХАИЛ michael",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 269,
         "updatedAt": "2017-09-14 16:55:26"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 57,
-        "updatedAt": "2017-09-14 16:33:33"
     }
 }
