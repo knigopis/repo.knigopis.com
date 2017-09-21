@@ -1,4 +1,10 @@
 {
+    "114246620366322246593-googleplus": {
+        "id": "114246620366322246593-googleplus",
+        "nickname": "natka",
+        "booksCount": 0,
+        "updatedAt": "2017-09-21 22:13:40"
+    },
     "191814494-vkontakte": {
         "id": "191814494-vkontakte",
         "nickname": "lesha_chendemerov",
@@ -172,11 +178,5 @@
         "nickname": "Настя",
         "booksCount": 5,
         "updatedAt": "2017-09-15 09:08:51"
-    },
-    "36633162-vkontakte": {
-        "id": "36633162-vkontakte",
-        "nickname": "P@ndora",
-        "booksCount": 1,
-        "updatedAt": "2017-09-14 23:58:26"
     }
 }
