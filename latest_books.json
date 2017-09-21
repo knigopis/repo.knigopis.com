@@ -1,4 +1,16 @@
 {
+    "6HiAiz_ytF": {
+        "id": "6HiAiz_ytF",
+        "title": "Легенды Арбата",
+        "author": "Михаил Веллер",
+        "notes": "",
+        "createdAt": "2017-09-21 10:35:35",
+        "user": {
+            "id": "228182315-vkontakte",
+            "nickname": "kertender",
+            "booksCount": 9
+        }
+    },
     "oskwBKBOL3": {
         "id": "oskwBKBOL3",
         "title": "Приход ночи",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 109
-        }
-    },
-    "jgog5Ng8cm": {
-        "id": "jgog5Ng8cm",
-        "title": "Аэроплан",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2017-09-16 11:26:43",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 108
         }
     }
 }
