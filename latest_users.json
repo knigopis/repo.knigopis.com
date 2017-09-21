@@ -1,4 +1,10 @@
 {
+    "191814494-vkontakte": {
+        "id": "191814494-vkontakte",
+        "nickname": "lesha_chendemerov",
+        "booksCount": 0,
+        "updatedAt": "2017-09-21 18:46:31"
+    },
     "228182315-vkontakte": {
         "id": "228182315-vkontakte",
         "nickname": "kertender",
@@ -172,11 +178,5 @@
         "nickname": "P@ndora",
         "booksCount": 1,
         "updatedAt": "2017-09-14 23:58:26"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 31,
-        "updatedAt": "2017-09-14 20:11:53"
     }
 }
