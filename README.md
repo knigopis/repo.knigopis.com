@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[natka](users/114/114246620366322246593-googleplus)<sup>0</sup> 
+[natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
 [lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Настя](users/172/172783956-vkontakte)<sup>5</sup> 
 
 
-_21.09.2017 22:13:43_
+_21.09.2017 22:14:41_
