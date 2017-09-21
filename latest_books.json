@@ -1,4 +1,16 @@
 {
+    "gcynRUSDHS": {
+        "id": "gcynRUSDHS",
+        "title": "31231",
+        "author": "312312",
+        "notes": "31231231",
+        "createdAt": "2017-09-21 18:46:45",
+        "user": {
+            "id": "191814494-vkontakte",
+            "nickname": "lesha_chendemerov",
+            "booksCount": 1
+        }
+    },
     "LBYyA0d25z": {
         "id": "LBYyA0d25z",
         "title": "Легенды Невского Проспекта",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 30
-        }
-    },
-    "cVbEOyUjZX": {
-        "id": "cVbEOyUjZX",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "Грегор Замза",
-        "createdAt": "2017-09-17 06:09:00",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 46
         }
     }
 }

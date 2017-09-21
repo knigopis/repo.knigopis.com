@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[lesha_chendemerov](users/191/191814494-vkontakte)<sup>0</sup> 
+[lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>18</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [P@ndora](users/366/36633162-vkontakte)<sup>1</sup> 
 
 
-_21.09.2017 18:46:33_
+_21.09.2017 18:46:45_
