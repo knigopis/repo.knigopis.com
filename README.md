@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kertender](users/228/228182315-vkontakte)<sup>1</sup> 
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>28</sup> 
-[kertender](users/228/228182315-vkontakte)<sup>0</sup> 
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>31</sup> 
 
 
-_20.09.2017 21:44:21_
+_21.09.2017 07:27:11_

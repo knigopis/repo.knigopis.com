@@ -1,4 +1,10 @@
 {
+    "228182315-vkontakte": {
+        "id": "228182315-vkontakte",
+        "nickname": "kertender",
+        "booksCount": 1,
+        "updatedAt": "2017-09-21 07:27:11"
+    },
     "90087750-vkontakte": {
         "id": "90087750-vkontakte",
         "nickname": "Mamzelka",
@@ -70,12 +76,6 @@
         "nickname": "sergeybolobaev",
         "booksCount": 28,
         "updatedAt": "2017-09-18 11:52:54"
-    },
-    "228182315-vkontakte": {
-        "id": "228182315-vkontakte",
-        "nickname": "kertender",
-        "booksCount": 0,
-        "updatedAt": "2017-09-18 10:57:17"
     },
     "9857482-vkontakte": {
         "id": "9857482-vkontakte",
