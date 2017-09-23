@@ -1,4 +1,10 @@
 {
+    "134008428-vkontakte": {
+        "id": "134008428-vkontakte",
+        "nickname": "j134008428",
+        "booksCount": 0,
+        "updatedAt": "2017-09-23 02:13:21"
+    },
     "114246620366322246593-googleplus": {
         "id": "114246620366322246593-googleplus",
         "nickname": "natka",
@@ -172,11 +178,5 @@
         "nickname": "Ната 1987",
         "booksCount": 0,
         "updatedAt": "2017-09-15 09:17:50"
-    },
-    "172783956-vkontakte": {
-        "id": "172783956-vkontakte",
-        "nickname": "Настя",
-        "booksCount": 5,
-        "updatedAt": "2017-09-15 09:08:51"
     }
 }
