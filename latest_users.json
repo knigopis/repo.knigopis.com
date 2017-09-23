@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 318,
+        "updatedAt": "2017-09-23 14:21:58"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -118,12 +124,6 @@
         "nickname": "Sky",
         "booksCount": 39,
         "updatedAt": "2017-09-17 17:20:38"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 317,
-        "updatedAt": "2017-09-17 12:45:56"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",

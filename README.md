@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>318</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>317</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
 
 
-_23.09.2017 12:10:48_
+_23.09.2017 14:21:58_
