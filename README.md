@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
 [lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>28</sup> 
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
 
 
-_23.09.2017 02:13:24_
+_23.09.2017 12:10:48_
