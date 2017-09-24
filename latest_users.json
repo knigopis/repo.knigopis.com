@@ -1,4 +1,10 @@
 {
+    "362561757-vkontakte": {
+        "id": "362561757-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2017-09-24 13:52:42"
+    },
     "135790750-vkontakte": {
         "id": "135790750-vkontakte",
         "nickname": "билли",
@@ -172,11 +178,5 @@
         "nickname": "Ру",
         "booksCount": 0,
         "updatedAt": "2017-09-15 16:07:23"
-    },
-    "105729661373202631037-google": {
-        "id": "105729661373202631037-google",
-        "nickname": "Mihail01rus",
-        "booksCount": 0,
-        "updatedAt": "2017-09-15 11:56:08"
     }
 }
