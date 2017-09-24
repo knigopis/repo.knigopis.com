@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
 [](users/362/362561757-vkontakte)<sup>1</sup> 
 [kimov](users/104/104392818617109316677-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>109</sup> 
 
 
-_24.09.2017 15:27:26_
+_24.09.2017 15:29:24_
