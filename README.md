@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[билли](users/135/135790750-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>270</sup> 
 [En](users/333/333646551-vkontakte)<sup>8</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>318</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 [Ру](users/622/62264231-vkontakte)<sup>0</sup> 
 [Mihail01rus](users/105/105729661373202631037-google)<sup>0</sup> 
-[Asya](users/111/111688198065279912162-google)<sup>10</sup> 
 
 
-_24.09.2017 06:02:15_
+_24.09.2017 13:10:58_
