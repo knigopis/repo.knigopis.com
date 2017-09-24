@@ -1,4 +1,16 @@
 {
+    "G_BumgfuhA": {
+        "id": "G_BumgfuhA",
+        "title": "Новая луна",
+        "author": "Йен Макдональд",
+        "notes": "",
+        "createdAt": "2017-09-24 06:02:15",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 270
+        }
+    },
     "Cip_EIkbBA": {
         "id": "Cip_EIkbBA",
         "title": "Древний. Вторжение. Книга 4",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 16
-        }
-    },
-    "NCtO3nzwQa": {
-        "id": "NCtO3nzwQa",
-        "title": "Трижды пестрый кот мяукнул",
-        "author": "Алан Бредли",
-        "notes": "(Флавия де Люс 7)\nНаконец-то избавились от самого неинтересного персонажа, надеюсь история пойдет бодрее~",
-        "createdAt": "2017-09-17 17:20:38",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 39
         }
     }
 }
