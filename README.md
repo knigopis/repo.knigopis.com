@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/362/362561757-vkontakte)<sup>1</sup> 
 [kimov](users/104/104392818617109316677-google)<sup>0</sup> 
-[](users/362/362561757-vkontakte)<sup>0</sup> 
 [билли](users/135/135790750-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>270</sup> 
 [En](users/333/333646551-vkontakte)<sup>8</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fake](users/377/377249771-vkontakte)<sup>0</sup> 
 
 
-_24.09.2017 13:54:32_
+_24.09.2017 14:38:04_
