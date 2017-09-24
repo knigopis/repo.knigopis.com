@@ -1,4 +1,10 @@
 {
+    "167284416-vkontakte": {
+        "id": "167284416-vkontakte",
+        "nickname": "daria_danchenko",
+        "booksCount": 0,
+        "updatedAt": "2017-09-24 15:29:24"
+    },
     "4772898-vkontakte": {
         "id": "4772898-vkontakte",
         "nickname": "vinnieflaar",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 46,
         "updatedAt": "2017-09-17 06:09:00"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 109,
-        "updatedAt": "2017-09-16 11:27:00"
     }
 }
