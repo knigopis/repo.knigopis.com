@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
@@ -30,7 +31,6 @@
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
 * Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 * Не отпускай меня ~ [Saamy](users/115/115226508-vkontakte)<sup>11</sup>
-* Гарри Поттер и философский камень ~ [Saamy](users/115/115226508-vkontakte)<sup>10</sup>
 
 
-_20.09.2017 20:24:32_
+_24.09.2017 04:49:16_

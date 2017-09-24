@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
+    > Мдааа, сообщество людей превратилось в сообщество самодуров, лентяев и идиотов. Как же они меня бесили всю книгу, я даже рада была началу войны. Вместо развития и совершенствования своей расы люди обленились. Надеюсь в следующей книге они вспомнят о том, кем были.
+
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
     > Начальные рассказы этого сборника произвели на меня большое впечатление, особенно рассказ про кота и про свадебный рассказ. Последние показались уже слегка бредоватыми, хотя можно списать на то, что лично я их не особо понял. Поэзия Геймана, как выяснилось, вообще вещь не для меня.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
-    > Силы зла против сил зла) сюжет очень понравился. Повествование идет от лица разумной собаки, главные герои - различная нечесть. Кто окажется другом, а кто врагом узнаем только 31 октября в ночь, когда одни силы зла мешают другим уничтожить наш мир.
 
 * Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
 
-* Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>8</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>318</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
-[En](users/333/333646551-vkontakte)<sup>7</sup> 
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ната 1987](users/283/283971510-vkontakte)<sup>0</sup> 
 
 
-_23.09.2017 14:21:58_
+_24.09.2017 04:49:16_

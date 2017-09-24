@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 8,
+        "updatedAt": "2017-09-24 04:49:16"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -70,12 +76,6 @@
         "nickname": "МИХАИЛ michael",
         "booksCount": 2,
         "updatedAt": "2017-09-20 08:41:12"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 7,
-        "updatedAt": "2017-09-20 07:14:57"
     },
     "223425623-vkontakte": {
         "id": "223425623-vkontakte",
