@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
 * "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 * Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
-* Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
 
 
-_25.09.2017 10:23:06_
+_25.09.2017 23:10:26_

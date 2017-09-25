@@ -1,4 +1,16 @@
 {
+    "QmXAxDzoQJ": {
+        "id": "QmXAxDzoQJ",
+        "title": "Йй",
+        "author": "Цц",
+        "notes": "// todo",
+        "createdAt": "2017-09-25 23:10:26",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 31
+        }
+    },
     "xrzOgGt_Pw": {
         "id": "xrzOgGt_Pw",
         "title": "Маленькая книга Hygge",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 56
-        }
-    },
-    "FnXOdQtIGg": {
-        "id": "FnXOdQtIGg",
-        "title": "Мелкие боги",
-        "author": "Терри Пратчетт",
-        "notes": "Замечательное произведение великого человека. \nТонкая и мягкая ирония над религией, но и не переходит границы приличий в плане иронии на такие темы",
-        "createdAt": "2017-09-06 20:11:03",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 12
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
+    > // todo
+
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
     > 10/10. Книга, которую хочется неспешно листать за чашечкой горячего чая. Наполняет уютом и теплом, мотивирует на привнесение эстетики в жизнь. Хотя, с практической точки зрения, не несет новых фундаментальных знаний, но это не влияет на общее впечатление. Однозначно, книга-настроение.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 10/10 по прежнему. Перечитала для мотивации.
 
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
-    > Люблю философскую фантастику Брэдбери. Как и ожидалось, "Хроники" мне сильно понравились
 
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * В интернете кто-то неправ! Научные исследования спорных вопросов ~ [Saamy](users/115/115226508-vkontakte)<sup>16</sup>
 
-* Трижды пестрый кот мяукнул ~ [Sky](users/118/118049897850017649660-google)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>31</sup> 
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 
 
-_25.09.2017 16:25:38_
+_25.09.2017 23:10:26_
