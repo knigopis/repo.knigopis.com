@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Трололо ~ [me](users/381/381417697-yandex)<sup>31</sup>
+* Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
@@ -33,4 +33,4 @@
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
 
 
-_25.09.2017 23:35:40_
+_25.09.2017 23:35:42_

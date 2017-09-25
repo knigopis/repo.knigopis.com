@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Трололо ~ [me](users/381/381417697-yandex)<sup>31</sup>
+* Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
     > // todo
 
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>31</sup> 
+[me](users/381/381417697-yandex)<sup>32</sup> 
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 
 
-_25.09.2017 23:35:40_
+_25.09.2017 23:35:42_
