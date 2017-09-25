@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 19,
+        "updatedAt": "2017-09-25 07:25:11"
+    },
     "167284416-vkontakte": {
         "id": "167284416-vkontakte",
         "nickname": "daria_danchenko",
@@ -82,12 +88,6 @@
         "nickname": "Mamzelka",
         "booksCount": 0,
         "updatedAt": "2017-09-20 21:44:18"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 18,
-        "updatedAt": "2017-09-20 20:24:32"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",

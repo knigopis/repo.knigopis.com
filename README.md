@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
+    > Люблю философскую фантастику Брэдбери. Как и ожидалось, "Хроники" мне сильно понравились
+
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
     > Мдааа, сообщество людей превратилось в сообщество самодуров, лентяев и идиотов. Как же они меня бесили всю книгу, я даже рада была началу войны. Вместо развития и совершенствования своей расы люди обленились. Надеюсь в следующей книге они вспомнят о том, кем были.
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Начальные рассказы этого сборника произвели на меня большое впечатление, особенно рассказ про кота и про свадебный рассказ. Последние показались уже слегка бредоватыми, хотя можно списать на то, что лично я их не особо понял. Поэзия Геймана, как выяснилось, вообще вещь не для меня.
 
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
-    > https://www.ozon.ru/context/detail/id/25116511/
-    > 
-    > в процессе
 
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
 
-* Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
 [](users/362/362561757-vkontakte)<sup>1</sup> 
@@ -49,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>18</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
 
 
-_24.09.2017 15:29:24_
+_25.09.2017 07:25:11_
