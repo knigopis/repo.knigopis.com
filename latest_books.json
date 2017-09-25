@@ -1,4 +1,16 @@
 {
+    "emxThyPxki": {
+        "id": "emxThyPxki",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-09-25 16:25:16",
+        "user": {
+            "id": "103504105-vkontakte",
+            "nickname": "ferrer21",
+            "booksCount": 1
+        }
+    },
     "xrzOgGt_Pw": {
         "id": "xrzOgGt_Pw",
         "title": "Маленькая книга Hygge",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 126
-        }
-    },
-    "i3-02B-h3c": {
-        "id": "i3-02B-h3c",
-        "title": "Дающий",
-        "author": "Лоис Лоури",
-        "notes": "",
-        "createdAt": "2017-09-18 04:13:01",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 125
         }
     }
 }
