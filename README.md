@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>75</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
 
 
-_25.09.2017 10:19:30_
+_25.09.2017 10:19:41_
