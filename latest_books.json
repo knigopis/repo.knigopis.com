@@ -1,4 +1,16 @@
 {
+    "4lcMUIwlle": {
+        "id": "4lcMUIwlle",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-09-25 16:25:38",
+        "user": {
+            "id": "103504105-vkontakte",
+            "nickname": "ferrer21",
+            "booksCount": 2
+        }
+    },
     "emxThyPxki": {
         "id": "emxThyPxki",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 127
-        }
-    },
-    "j7RVIqUMLH": {
-        "id": "j7RVIqUMLH",
-        "title": "Колыбельная",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-09-18 04:13:20",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 126
         }
     }
 }
