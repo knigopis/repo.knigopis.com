@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Трололо ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
@@ -30,7 +31,6 @@
 * Делириум ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>13</sup>
 * Академия Проклятий ~ [veronika_vaha](users/876/87639392-vkontakte)<sup>12</sup>
 * Ромео и Джульетта ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>4</sup>
-* Закрой дверь за совой ~ [Chiffi](users/105/105831994080785626680-google)<sup>30</sup>
 
 
-_25.09.2017 23:19:11_
+_25.09.2017 23:35:40_

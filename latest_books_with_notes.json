@@ -1,4 +1,16 @@
 {
+    "iJdFnuzKAD": {
+        "id": "iJdFnuzKAD",
+        "title": "Трололо",
+        "author": "Лучший Автор",
+        "notes": "// todo",
+        "createdAt": "2017-09-25 23:35:40",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 31
+        }
+    },
     "l_GOcDUvLo": {
         "id": "l_GOcDUvLo",
         "title": "Й",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 4
-        }
-    },
-    "UoSq-Kovsy": {
-        "id": "UoSq-Kovsy",
-        "title": "Закрой дверь за совой",
-        "author": "Михалкова Елена",
-        "notes": "Симпатичный детектив.",
-        "createdAt": "2017-09-07 13:57:44",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 30
         }
     }
 }
