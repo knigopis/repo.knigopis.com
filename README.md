@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ferrer21](users/103/103504105-vkontakte)<sup>0</sup> 
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 
 
-_25.09.2017 14:11:47_
+_25.09.2017 16:16:37_
