@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>31</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>30</sup>
 ---
 
 ## 2016
@@ -39,11 +39,6 @@ Joshua Bloch
 ### Академик Ландау. Как мы жили
 Кора Ландау-Дробанцева
 > [2015-01] 
-
-
-### Йй
-Цц
-> // todo
 
 
 
