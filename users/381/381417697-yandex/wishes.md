@@ -1,28 +1,9 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` 123123123
-567567567
-> lalalala
-
-### `99` Абв
-12
-> lalalala
-
-### `99` Биология
-Автор
-> default
-
-### `99` Химия
-> default
-
-### `99` 123123123
-567567567
-> lalalala
-
-### `98` 11111111
-11111
-> 2222222
+### `99` 1
+2
+> // todo
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
@@ -56,10 +37,6 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 > Прочитано 6/49
 
 ### `50` Повелитель мух
-
-### `50` 1234
-2134
-> 12341234
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
