@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
+    > 10/10 по прежнему. Перечитала для мотивации.
+
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
     > Люблю философскую фантастику Брэдбери. Как и ожидалось, "Хроники" мне сильно понравились
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Мдааа, сообщество людей превратилось в сообщество самодуров, лентяев и идиотов. Как же они меня бесили всю книгу, я даже рада была началу войны. Вместо развития и совершенствования своей расы люди обленились. Надеюсь в следующей книге они вспомнят о том, кем были.
 
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
-    > Начальные рассказы этого сборника произвели на меня большое впечатление, особенно рассказ про кота и про свадебный рассказ. Последние показались уже слегка бредоватыми, хотя можно списать на то, что лично я их не особо понял. Поэзия Геймана, как выяснилось, вообще вещь не для меня.
 
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
 
-* Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup> 
 
 
-_25.09.2017 07:25:11_
+_25.09.2017 10:19:16_

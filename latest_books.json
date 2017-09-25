@@ -1,4 +1,16 @@
 {
+    "TZbyCSUll-": {
+        "id": "TZbyCSUll-",
+        "title": "\"Повесть о Настоящем Человеке\"",
+        "author": "Борис Полевой",
+        "notes": "10/10 по прежнему. Перечитала для мотивации.",
+        "createdAt": "2017-09-25 10:19:16",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 77
+        }
+    },
     "ZD58aTB9HL": {
         "id": "ZD58aTB9HL",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 124
-        }
-    },
-    "uxC-xnVvQY": {
-        "id": "uxC-xnVvQY",
-        "title": "Черный кот",
-        "author": "Аллан По",
-        "notes": "",
-        "createdAt": "2017-09-18 04:12:11",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 123
         }
     }
 }

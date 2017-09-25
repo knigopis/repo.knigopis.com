@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Цветы для Элджернона ~ [Tr](users/122/12282474-vkontakte)<sup>56</sup>
 * Мелкие боги ~ [Saamy](users/115/115226508-vkontakte)<sup>12</sup>
 * Путь волшебника (антология) ~ [Sky](users/118/118049897850017649660-google)<sup>38</sup>
-* Ким ~ [Garka](users/115/115753719718250012620-google)<sup>149</sup>
 
 
-_25.09.2017 07:25:11_
+_25.09.2017 10:19:16_
