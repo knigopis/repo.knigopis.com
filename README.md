@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
+    > 10/10. Книга, которую хочется неспешно листать за чашечкой горячего чая. Наполняет уютом и теплом, мотивирует на привнесение эстетики в жизнь. Хотя, с практической точки зрения, не несет новых фундаментальных знаний, но это не влияет на общее впечатление. Однозначно, книга-настроение.
+
 * "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
     > 10/10 по прежнему. Перечитала для мотивации.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Люблю философскую фантастику Брэдбери. Как и ожидалось, "Хроники" мне сильно понравились
 
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
-    > Мдааа, сообщество людей превратилось в сообщество самодуров, лентяев и идиотов. Как же они меня бесили всю книгу, я даже рада была началу войны. Вместо развития и совершенствования своей расы люди обленились. Надеюсь в следующей книге они вспомнят о том, кем были.
 
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Трижды пестрый кот мяукнул ~ [Sky](users/118/118049897850017649660-google)<sup>39</sup>
 
-* Древний. Война. Книга 3 ~ [En](users/333/333646551-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>75</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kken](users/114/114995432969872830384-google)<sup>0</sup> 
 
 
-_25.09.2017 10:19:41_
+_25.09.2017 10:23:06_
