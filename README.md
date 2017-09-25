@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [al.calliope](users/189/189970338-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>39</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>30</sup> 
-[kken](users/114/114995432969872830384-google)<sup>0</sup> 
 
 
-_25.09.2017 10:23:06_
+_25.09.2017 14:11:47_
