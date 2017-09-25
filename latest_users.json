@@ -1,4 +1,10 @@
 {
+    "103504105-vkontakte": {
+        "id": "103504105-vkontakte",
+        "nickname": "ferrer21",
+        "booksCount": 0,
+        "updatedAt": "2017-09-25 16:16:35"
+    },
     "317597785-vkontakte": {
         "id": "317597785-vkontakte",
         "nickname": "wormwooood",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 39,
         "updatedAt": "2017-09-17 17:20:38"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 30,
-        "updatedAt": "2017-09-17 12:38:25"
     }
 }
