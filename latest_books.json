@@ -1,4 +1,16 @@
 {
+    "H2LUxZjxwj": {
+        "id": "H2LUxZjxwj",
+        "title": "Под сенью девушек в цвету",
+        "author": "Марсель Пруст",
+        "notes": "5/10",
+        "createdAt": "2017-09-26 19:12:22",
+        "user": {
+            "id": "5957175-vkontakte",
+            "nickname": "anvonamore",
+            "booksCount": 114
+        }
+    },
     "E6Gs3abv1z": {
         "id": "E6Gs3abv1z",
         "title": "В сторону Свана",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 18
-        }
-    },
-    "SA__IFbbWh": {
-        "id": "SA__IFbbWh",
-        "title": "Улисс",
-        "author": "Джеймс Джойс",
-        "notes": "https://www.ozon.ru/context/detail/id/25116511/\n\nв процессе",
-        "createdAt": "2017-09-20 18:26:59",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 125
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
+    > 5/10
+
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
     > 7/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > // todo
 
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
-    > // todo
 
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 
-* Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[anvonamore](users/595/5957175-vkontakte)<sup>113</sup> 
+[anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>78</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 
 
-_26.09.2017 19:11:10_
+_26.09.2017 19:12:22_
