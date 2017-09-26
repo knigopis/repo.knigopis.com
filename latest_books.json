@@ -1,4 +1,16 @@
 {
+    "_nWFo3Y6jR": {
+        "id": "_nWFo3Y6jR",
+        "title": "Женщина. Руководство для мужчин",
+        "author": "Дуглас Абрамс, Джон Готтман, Джули Шварц-Готтман, Рэчел Абрамс",
+        "notes": "",
+        "createdAt": "2017-09-26 15:41:34",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 77
+        }
+    },
     "FBdcFcnJ31": {
         "id": "FBdcFcnJ31",
         "title": "Гарри Поттер и методы рационального мышления",
@@ -345,18 +357,6 @@
             "id": "14017304233624657357-mailru",
             "nickname": "МИХАИЛ michael",
             "booksCount": 2
-        }
-    },
-    "Txk6QfMR34": {
-        "id": "Txk6QfMR34",
-        "title": "Angular 2",
-        "author": "Angular 2",
-        "notes": "",
-        "createdAt": "2017-09-20 08:41:00",
-        "user": {
-            "id": "14017304233624657357-mailru",
-            "nickname": "МИХАИЛ michael",
-            "booksCount": 1
         }
     }
 }

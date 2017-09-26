@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>76</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>77</sup>
 ---
 
 ## 2017
+
+### Женщина. Руководство для мужчин
+Дуглас Абрамс, Джон Готтман, Джули Шварц-Готтман, Рэчел Абрамс
+> [2017-09-23] 
+
 
 ### Гарри Поттер и методы рационального мышления
 Элиезер Юдковски
