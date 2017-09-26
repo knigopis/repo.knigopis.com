@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
+    > 7/10
+
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
     > // todo
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > // todo
 
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
-    > // todo
 
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 
-* Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[anvonamore](users/595/5957175-vkontakte)<sup>113</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>78</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
 
 
-_26.09.2017 18:30:25_
+_26.09.2017 19:11:10_
