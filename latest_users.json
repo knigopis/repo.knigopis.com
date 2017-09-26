@@ -1,4 +1,10 @@
 {
+    "44943214-vkontakte": {
+        "id": "44943214-vkontakte",
+        "nickname": "jerricho",
+        "booksCount": 0,
+        "updatedAt": "2017-09-26 18:30:23"
+    },
     "10879683-vkontakte": {
         "id": "10879683-vkontakte",
         "nickname": "ulanovnicolas",
@@ -172,11 +178,5 @@
         "nickname": "Элла",
         "booksCount": 11,
         "updatedAt": "2017-09-18 18:40:01"
-    },
-    "9857482-vkontakte": {
-        "id": "9857482-vkontakte",
-        "nickname": "natasha_vdovkina",
-        "booksCount": 0,
-        "updatedAt": "2017-09-18 09:53:15"
     }
 }
