@@ -1,4 +1,10 @@
 {
+    "10879683-vkontakte": {
+        "id": "10879683-vkontakte",
+        "nickname": "ulanovnicolas",
+        "booksCount": 0,
+        "updatedAt": "2017-09-26 17:28:40"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "natasha_vdovkina",
         "booksCount": 0,
         "updatedAt": "2017-09-18 09:53:15"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 127,
-        "updatedAt": "2017-09-18 04:13:42"
     }
 }
