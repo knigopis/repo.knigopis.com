@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
+    > В книги описываются события происходящие за пару десятков лет до событий первой книги Колеса времени. Главные персонажи - Морейн и Лан.
+
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
     > 5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
-    > // todo
 
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 
-* Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>151</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
 [Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
-[Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 
 
-_26.09.2017 19:12:22_
+_26.09.2017 22:47:20_
