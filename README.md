@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>78</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Catherine](users/156/156734607-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>11</sup> 
 [natasha_vdovkina](users/985/9857482-vkontakte)<sup>0</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>127</sup> 
 
 
-_26.09.2017 15:42:58_
+_26.09.2017 17:28:41_
