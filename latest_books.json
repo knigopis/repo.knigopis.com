@@ -1,4 +1,16 @@
 {
+    "C1L_P0Ga_Z": {
+        "id": "C1L_P0Ga_Z",
+        "title": "Мой продуктивный год: Как я проверил самые известные методики личной эффективности на себе",
+        "author": "Крис Бэйли",
+        "notes": "",
+        "createdAt": "2017-09-26 15:42:58",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 78
+        }
+    },
     "_nWFo3Y6jR": {
         "id": "_nWFo3Y6jR",
         "title": "Женщина. Руководство для мужчин",
@@ -345,18 +357,6 @@
             "id": "137961387-vkontakte",
             "nickname": "anime_hetalia",
             "booksCount": 12
-        }
-    },
-    "uhHrD-Tiqo": {
-        "id": "uhHrD-Tiqo",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-09-20 08:41:12",
-        "user": {
-            "id": "14017304233624657357-mailru",
-            "nickname": "МИХАИЛ michael",
-            "booksCount": 2
         }
     }
 }
