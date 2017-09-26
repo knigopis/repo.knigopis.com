@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>75</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>76</sup>
 ---
 
 ## 2017
+
+### Гарри Поттер и методы рационального мышления
+Элиезер Юдковски
+> [2017-09-19] 
+
 
 ### Deadline: Роман об управлении проектами
 Том Демарко

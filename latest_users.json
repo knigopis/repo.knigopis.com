@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 76,
+        "updatedAt": "2017-09-26 15:39:02"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 127,
         "updatedAt": "2017-09-18 04:13:42"
-    },
-    "189970338-vkontakte": {
-        "id": "189970338-vkontakte",
-        "nickname": "al.calliope",
-        "booksCount": 0,
-        "updatedAt": "2017-09-17 22:24:34"
     }
 }
