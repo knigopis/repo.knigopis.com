@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>31</sup> 
+[me](users/381/381417697-yandex)<sup>30</sup> 
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 
 
-_27.09.2017 21:28:48_
+_27.09.2017 21:31:36_
