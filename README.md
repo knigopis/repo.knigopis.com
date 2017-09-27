@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убить пересмешника ~ [Asya](users/111/111688198065279912162-google)<sup>11</sup>
+    > Где-то до середины книга очень тяжело шла и не могу объяснить почему, может не было особого развития событий. Но после половины уже было не оторваться, не знаю как это произошло! Книга о детстве, которое полно приключений и запоминающихся событий,  о детском восприятии этого мира, о дружбе, о взрослении... и о межрассовом конфликте, который происходил в Америке в 30е годы, и о том, как дети искренне не понимают, почему люди могут быть такими бесчеловечными...
+
 * Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
     > В ту пору юности я прямо проникся. Прямо пришел в восторг от творчества Шекспира. Так что книга повлияла на меня хорошо
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > В книги описываются события происходящие за пару десятков лет до событий первой книги Колеса времени. Главные персонажи - Морейн и Лан.
 
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
-    > 5/10
 
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 
-* Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asya](users/111/111688198065279912162-google)<sup>11</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>20</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
-[МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
 
 
-_27.09.2017 09:56:48_
+_27.09.2017 18:15:52_
