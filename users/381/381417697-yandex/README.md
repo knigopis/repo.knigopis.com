@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>32</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>31</sup>
 ---
 
 ## 2016
@@ -127,14 +127,6 @@ Joshua Bloch
 ### Трололо
 Лучший Автор
 > // todo
-
-
-
-## 2000
-
-### Й
-Ц
-> [2000-01-01] // todo
 
 
 
