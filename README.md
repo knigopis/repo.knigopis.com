@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>20</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>151</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 [_annalucille_](users/305/3052811375-instagram)<sup>0</sup> 
 [МИХАИЛ michael](users/140/14017304233624657357-mailru)<sup>2</sup> 
-[Натали Поля](users/223/223425623-vkontakte)<sup>0</sup> 
 
 
-_27.09.2017 08:11:02_
+_27.09.2017 09:56:48_

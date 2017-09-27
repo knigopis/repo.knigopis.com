@@ -1,4 +1,10 @@
 {
+    "1882525281990290-facebook": {
+        "id": "1882525281990290-facebook",
+        "nickname": "sad little panda",
+        "booksCount": 32,
+        "updatedAt": "2017-09-27 09:56:48"
+    },
     "3236857935-instagram": {
         "id": "3236857935-instagram",
         "nickname": "umbyir",
@@ -172,11 +178,5 @@
         "nickname": "МИХАИЛ michael",
         "booksCount": 2,
         "updatedAt": "2017-09-20 08:41:12"
-    },
-    "223425623-vkontakte": {
-        "id": "223425623-vkontakte",
-        "nickname": "Натали Поля",
-        "booksCount": 0,
-        "updatedAt": "2017-09-20 05:07:53"
     }
 }

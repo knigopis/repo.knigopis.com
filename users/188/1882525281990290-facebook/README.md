@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>31</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>32</sup>
 ---
 
 ## 2017
+
+### Мой Рагнарек
+Макс Фрай
+> [2017-09-29] 
+
 
 ### Кот без прекрас
 Терри Праттчет
