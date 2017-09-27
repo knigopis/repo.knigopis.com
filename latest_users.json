@@ -1,4 +1,10 @@
 {
+    "3236857935-instagram": {
+        "id": "3236857935-instagram",
+        "nickname": "umbyir",
+        "booksCount": 0,
+        "updatedAt": "2017-09-27 07:52:54"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "Натали Поля",
         "booksCount": 0,
         "updatedAt": "2017-09-20 05:07:53"
-    },
-    "727668597942622744-mailru": {
-        "id": "727668597942622744-mailru",
-        "nickname": "Мария Лебедева",
-        "booksCount": 0,
-        "updatedAt": "2017-09-19 19:09:35"
     }
 }
