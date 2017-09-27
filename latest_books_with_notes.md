@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
 * Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
@@ -30,7 +31,6 @@
 * История нового имени ~ [Элла](users/100/1002037069862545-facebook)<sup>10</sup>
 * Моя гениальная подргуа ~ [Элла](users/100/1002037069862545-facebook)<sup>8</sup>
 * Война Вампиров (Пленник Марса) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>13</sup>
-* Книга извращений ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>12</sup>
 
 
-_26.09.2017 22:47:20_
+_27.09.2017 07:09:11_

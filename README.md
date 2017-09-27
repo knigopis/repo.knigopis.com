@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
+    > В ту пору юности я прямо проникся. Прямо пришел в восторг от творчества Шекспира. Так что книга повлияла на меня хорошо
+
 * Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
     > В книги описываются события происходящие за пару десятков лет до событий первой книги Колеса времени. Главные персонажи - Морейн и Лан.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 5/10
 
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
-    > 7/10
 
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
 
-* Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>20</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>151</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>19</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
 [](users/362/362561757-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мария Лебедева](users/727/727668597942622744-mailru)<sup>0</sup> 
 
 
-_26.09.2017 22:47:20_
+_27.09.2017 07:09:11_
