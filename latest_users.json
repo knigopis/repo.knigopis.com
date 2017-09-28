@@ -1,4 +1,10 @@
 {
+    "81151472-vkontakte": {
+        "id": "81151472-vkontakte",
+        "nickname": "14.06.1995",
+        "booksCount": 0,
+        "updatedAt": "2017-09-28 10:43:05"
+    },
     "109136801671758719650-google": {
         "id": "109136801671758719650-google",
         "nickname": "Provehitum",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 125,
         "updatedAt": "2017-09-20 18:26:59"
-    },
-    "137961387-vkontakte": {
-        "id": "137961387-vkontakte",
-        "nickname": "anime_hetalia",
-        "booksCount": 12,
-        "updatedAt": "2017-09-20 11:42:12"
     }
 }
