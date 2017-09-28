@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 * Граф Монте-Кристо ~ [Asya](users/111/111688198065279912162-google)<sup>13</sup>
 * Дракула ~ [Asya](users/111/111688198065279912162-google)<sup>12</sup>
 * Убить пересмешника ~ [Asya](users/111/111688198065279912162-google)<sup>11</sup>
@@ -30,7 +31,6 @@
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
 * Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
 * Учение Дона Хуана ~ [Saamy](users/115/115226508-vkontakte)<sup>13</sup>
-* Морфий. ~ [ana.21](users/107/107655526900000657481-google)<sup>313</sup>
 
 
-_27.09.2017 18:32:51_
+_28.09.2017 20:37:47_

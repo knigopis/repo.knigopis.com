@@ -1,4 +1,16 @@
 {
+    "6rVImQ1MfM": {
+        "id": "6rVImQ1MfM",
+        "title": "Казачья надежда 1972 №3",
+        "author": "",
+        "notes": "стр 12 историческая трагедия казачества\nстр 17 случай с гимнами -Лазарев",
+        "createdAt": "2017-09-28 20:37:47",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 27
+        }
+    },
     "EVMZl1mEzn": {
         "id": "EVMZl1mEzn",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 13
-        }
-    },
-    "brJkM3UzqZ": {
-        "id": "brJkM3UzqZ",
-        "title": "Морфий.",
-        "author": "Михаил Булгаков",
-        "notes": "История врача, который из-за несчастной любви стал морфинистом.",
-        "createdAt": "2017-09-11 11:08:28",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 313
         }
     }
 }
