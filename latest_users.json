@@ -1,4 +1,10 @@
 {
+    "109136801671758719650-google": {
+        "id": "109136801671758719650-google",
+        "nickname": "Provehitum",
+        "booksCount": 0,
+        "updatedAt": "2017-09-28 10:38:39"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "anime_hetalia",
         "booksCount": 12,
         "updatedAt": "2017-09-20 11:42:12"
-    },
-    "3052811375-instagram": {
-        "id": "3052811375-instagram",
-        "nickname": "_annalucille_",
-        "booksCount": 0,
-        "updatedAt": "2017-09-20 09:00:33"
     }
 }
