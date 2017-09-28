@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[14.06.1995](users/811/81151472-vkontakte)<sup>0</sup> 
 [Provehitum](users/109/109136801671758719650-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>30</sup> 
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
-[anime_hetalia](users/137/137961387-vkontakte)<sup>12</sup> 
 
 
-_28.09.2017 10:38:42_
+_28.09.2017 10:43:06_
