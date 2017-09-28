@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[14.06.1995](users/811/81151472-vkontakte)<sup>0</sup> 
+[14.06.1995](users/811/81151472-vkontakte)<sup>1</sup> 
 [Provehitum](users/109/109136801671758719650-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>30</sup> 
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup> 
 
 
-_28.09.2017 10:43:06_
+_28.09.2017 10:44:30_
