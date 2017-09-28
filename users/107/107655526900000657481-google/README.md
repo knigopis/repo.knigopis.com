@@ -1,7 +1,12 @@
-# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>318</sup>
+# List of books read by [ana.21](https://plus.google.com/107655526900000657481)<sup>319</sup>
 ---
 
 ## 2017
+
+### Москва краснокаменная.
+Михаил Булгаков
+> [2017-09-28] 
+
 
 ### В ночь на третье число.
 Михаил Булгаков
