@@ -1,8 +1,8 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Моо
-Иомги
+### `99` Ыллвов
+Лылылылы
 > // todo
 
 ### `91` Kotlin in Action
