@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
+    > // todo
+
 * Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
     > стр 12 историческая трагедия казачества
     > стр 17 случай с гимнами -Лазарев
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Настолько интересная книга, что даже не смотря на ее большой объем, читается быстро. Захватывает и не отпускает.
 
 * Дракула ~ [Asya](users/111/111688198065279912162-google)<sup>12</sup>
-    > Загадочная и мрачная вампирская классика. Прекрасный и аристократичный граф Дракула. Очень атмосферно, мне понравилось. Написано в виде дневника главных героев и их писем друг другу.
 
 * Убить пересмешника ~ [Asya](users/111/111688198065279912162-google)<sup>11</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 
-* Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>29</sup> 
+[me](users/381/381417697-yandex)<sup>33</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>319</sup> 
 [14.06.1995](users/811/81151472-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 
 
-_28.09.2017 21:49:12_
+_28.09.2017 23:45:07_
