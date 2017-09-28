@@ -1,4 +1,16 @@
 {
+    "BUIUXv6Z9L": {
+        "id": "BUIUXv6Z9L",
+        "title": "Казачья надежда 1972 №3",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-09-28 20:36:15",
+        "user": {
+            "id": "140966150-vkontakte",
+            "nickname": "mfevralev",
+            "booksCount": 26
+        }
+    },
     "HlVkuF9V0j": {
         "id": "HlVkuF9V0j",
         "title": "Москва краснокаменная.",
@@ -345,18 +357,6 @@
             "id": "228182315-vkontakte",
             "nickname": "kertender",
             "booksCount": 10
-        }
-    },
-    "6HiAiz_ytF": {
-        "id": "6HiAiz_ytF",
-        "title": "Легенды Арбата",
-        "author": "Михаил Веллер",
-        "notes": "",
-        "createdAt": "2017-09-21 10:35:35",
-        "user": {
-            "id": "228182315-vkontakte",
-            "nickname": "kertender",
-            "booksCount": 9
         }
     }
 }
