@@ -1,17 +1,8 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Р
-> // todo
-
-### `99` Рр
-Рр
-> // todo
-
-### `99` Оо
-> // todo
-
-### `99` Ллл
+### `99` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
 > // todo
 
 ### `91` Kotlin in Action
