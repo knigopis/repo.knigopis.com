@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
+    > Книга особо не впечатлила. Описано как всегда интересно, но сам сюжет не захватил. Лишь в конце (как обычно счастливом) немного захватило сражения нашего возрожденного флота.
+
 * Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
     > // todo
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > стр 17 случай с гимнами -Лазарев
 
 * Граф Монте-Кристо ~ [Asya](users/111/111688198065279912162-google)<sup>13</sup>
-    > Настолько интересная книга, что даже не смотря на ее большой объем, читается быстро. Захватывает и не отпускает.
 
 * Дракула ~ [Asya](users/111/111688198065279912162-google)<sup>12</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
 
-* Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>9</sup> 
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kimov](users/104/104392818617109316677-google)<sup>0</sup> 
 [билли](users/135/135790750-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>270</sup> 
-[En](users/333/333646551-vkontakte)<sup>8</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 
 
-_29.09.2017 05:16:27_
+_29.09.2017 06:41:08_

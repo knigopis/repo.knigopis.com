@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 9,
+        "updatedAt": "2017-09-29 06:41:08"
+    },
     "508657584-yandex": {
         "id": "508657584-yandex",
         "nickname": "strange-exofan",
@@ -142,12 +148,6 @@
         "nickname": "HXT",
         "booksCount": 270,
         "updatedAt": "2017-09-24 06:02:15"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 8,
-        "updatedAt": "2017-09-24 04:49:16"
     },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",

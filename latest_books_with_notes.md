@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
 * Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
 * Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 * Граф Монте-Кристо ~ [Asya](users/111/111688198065279912162-google)<sup>13</sup>
@@ -30,7 +31,6 @@
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
 * Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
-* Старик и море ~ [Saamy](users/115/115226508-vkontakte)<sup>14</sup>
 
 
-_28.09.2017 23:45:07_
+_29.09.2017 06:41:08_
