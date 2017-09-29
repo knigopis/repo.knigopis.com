@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
+    > Прочла на одном дыхание, хотя детективы не очень люблю. Легкий стиль и не лишена юмора книга.
+
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
     > Книга особо не впечатлила. Описано как всегда интересно, но сам сюжет не захватил. Лишь в конце (как обычно счастливом) немного захватило сражения нашего возрожденного флота.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > // todo
 
 * Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
-    > стр 12 историческая трагедия казачества
-    > стр 17 случай с гимнами -Лазарев
 
 * Граф Монте-Кристо ~ [Asya](users/111/111688198065279912162-google)<sup>13</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
 
-* В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
@@ -45,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>20</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>151</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 
 
-_29.09.2017 06:41:08_
+_29.09.2017 19:53:51_

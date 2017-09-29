@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
 * Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
 * Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
@@ -30,7 +31,6 @@
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
 * Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 * Введение в психологию ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>123</sup>
-* Лолита ~ [Saamy](users/115/115226508-vkontakte)<sup>15</sup>
 
 
-_29.09.2017 06:41:08_
+_29.09.2017 19:53:51_
