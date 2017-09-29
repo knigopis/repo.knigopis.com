@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[strange-exofan](users/508/508657584-yandex)<sup>0</sup> 
+[strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>319</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 
 
-_29.09.2017 05:15:20_
+_29.09.2017 05:16:27_
