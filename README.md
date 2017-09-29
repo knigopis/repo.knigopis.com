@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[strange-exofan](users/508/508657584-yandex)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>319</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
 [lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>10</sup> 
-[Mamzelka](users/900/90087750-vkontakte)<sup>0</sup> 
 
 
-_28.09.2017 23:45:39_
+_29.09.2017 05:15:20_
