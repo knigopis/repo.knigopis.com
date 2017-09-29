@@ -1,4 +1,10 @@
 {
+    "508657584-yandex": {
+        "id": "508657584-yandex",
+        "nickname": "strange-exofan",
+        "booksCount": 0,
+        "updatedAt": "2017-09-29 05:15:17"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "kertender",
         "booksCount": 10,
         "updatedAt": "2017-09-21 10:35:59"
-    },
-    "90087750-vkontakte": {
-        "id": "90087750-vkontakte",
-        "nickname": "Mamzelka",
-        "booksCount": 0,
-        "updatedAt": "2017-09-20 21:44:18"
     }
 }
