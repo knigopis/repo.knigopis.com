@@ -1,4 +1,16 @@
 {
+    "zmJ3II-uc5": {
+        "id": "zmJ3II-uc5",
+        "title": "Sword Art Online 5: Призрачная пуля",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-09-30 12:56:19",
+        "user": {
+            "id": "38632470-vkontakte",
+            "nickname": "shatinik",
+            "booksCount": 5
+        }
+    },
     "s8gUtWeiWD": {
         "id": "s8gUtWeiWD",
         "title": "Sword Art Online 4: Танец фей",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 31
-        }
-    },
-    "4lcMUIwlle": {
-        "id": "4lcMUIwlle",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-09-25 16:25:38",
-        "user": {
-            "id": "103504105-vkontakte",
-            "nickname": "ferrer21",
-            "booksCount": 2
         }
     }
 }
