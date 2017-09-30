@@ -1,4 +1,16 @@
 {
+    "zxrCZom2RL": {
+        "id": "zxrCZom2RL",
+        "title": "Тень ветра",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2017-09-30 07:10:52",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 559
+        }
+    },
     "wF4bMICgse": {
         "id": "wF4bMICgse",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "362561757-vkontakte",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "G_BumgfuhA": {
-        "id": "G_BumgfuhA",
-        "title": "Новая луна",
-        "author": "Йен Макдональд",
-        "notes": "",
-        "createdAt": "2017-09-24 06:02:15",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 270
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>559</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
-[lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
 
 
-_30.09.2017 05:46:24_
+_30.09.2017 07:10:53_
