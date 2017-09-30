@@ -1,4 +1,10 @@
 {
+    "38632470-vkontakte": {
+        "id": "38632470-vkontakte",
+        "nickname": "shatinik",
+        "booksCount": 0,
+        "updatedAt": "2017-09-30 12:52:52"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "j134008428",
         "booksCount": 0,
         "updatedAt": "2017-09-23 02:13:21"
-    },
-    "114246620366322246593-googleplus": {
-        "id": "114246620366322246593-googleplus",
-        "nickname": "natka",
-        "booksCount": 1,
-        "updatedAt": "2017-09-21 22:14:41"
     }
 }
