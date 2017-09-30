@@ -1,4 +1,16 @@
 {
+    "DNL3tmRW4a": {
+        "id": "DNL3tmRW4a",
+        "title": "Sword Art Online 3: Танец фей",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-09-30 12:56:03",
+        "user": {
+            "id": "38632470-vkontakte",
+            "nickname": "shatinik",
+            "booksCount": 3
+        }
+    },
     "N2ywvnrZ85": {
         "id": "N2ywvnrZ85",
         "title": "Sword Art Online 2: Айнкрад",
@@ -345,18 +357,6 @@
             "id": "103504105-vkontakte",
             "nickname": "ferrer21",
             "booksCount": 1
-        }
-    },
-    "xrzOgGt_Pw": {
-        "id": "xrzOgGt_Pw",
-        "title": "Маленькая книга Hygge",
-        "author": "Майк Викинг",
-        "notes": "10/10. Книга, которую хочется неспешно листать за чашечкой горячего чая. Наполняет уютом и теплом, мотивирует на привнесение эстетики в жизнь. Хотя, с практической точки зрения, не несет новых фундаментальных знаний, но это не влияет на общее впечатление. Однозначно, книга-настроение.",
-        "createdAt": "2017-09-25 10:23:06",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 76
         }
     }
 }
