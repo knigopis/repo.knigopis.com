@@ -1,7 +1,11 @@
-# List of books read by [shatinik](http://vk.com/id38632470)<sup>5</sup>
+# List of books read by [shatinik](http://vk.com/id38632470)<sup>6</sup>
 ---
 
 ## 2013
+
+### Sword Art Online 6: Призрачная пуля
+Рэки Кавахара
+
 
 ### Sword Art Online 5: Призрачная пуля
 Рэки Кавахара
