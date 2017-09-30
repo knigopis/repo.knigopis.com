@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 [shatinik](users/386/38632470-vkontakte)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>560</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kimov](users/104/104392818617109316677-google)<sup>0</sup> 
 [билли](users/135/135790750-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>270</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>27</sup> 
 
 
-_30.09.2017 15:06:07_
+_30.09.2017 18:43:51_
