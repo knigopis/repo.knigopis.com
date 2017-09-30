@@ -1,4 +1,16 @@
 {
+    "N2ywvnrZ85": {
+        "id": "N2ywvnrZ85",
+        "title": "Sword Art Online 2: Айнкрад",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-09-30 12:55:51",
+        "user": {
+            "id": "38632470-vkontakte",
+            "nickname": "shatinik",
+            "booksCount": 2
+        }
+    },
     "jd8F-m_ArZ": {
         "id": "jd8F-m_ArZ",
         "title": "Sword Art Online 1: Айнкрад",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 76
-        }
-    },
-    "TZbyCSUll-": {
-        "id": "TZbyCSUll-",
-        "title": "\"Повесть о Настоящем Человеке\"",
-        "author": "Борис Полевой",
-        "notes": "10/10 по прежнему. Перечитала для мотивации.",
-        "createdAt": "2017-09-25 10:19:16",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 77
         }
     }
 }
