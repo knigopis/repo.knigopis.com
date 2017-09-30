@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
+    > 9/10
+
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
     > Прочла на одном дыхание, хотя детективы не очень люблю. Легкий стиль и не лишена юмора книга.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга особо не впечатлила. Описано как всегда интересно, но сам сюжет не захватил. Лишь в конце (как обычно счастливом) немного захватило сражения нашего возрожденного флота.
 
 * Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
-    > // todo
 
 * Казачья надежда 1972 №3 ~ [mfevralev](users/140/140966150-vkontakte)<sup>27</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
 
-* Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kertender](users/228/228182315-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [j134008428](users/134/134008428-vkontakte)<sup>0</sup> 
 [natka](users/114/114246620366322246593-googleplus)<sup>1</sup> 
 [lesha_chendemerov](users/191/191814494-vkontakte)<sup>1</sup> 
-[kertender](users/228/228182315-vkontakte)<sup>10</sup> 
 
 
-_29.09.2017 19:53:51_
+_30.09.2017 05:46:24_

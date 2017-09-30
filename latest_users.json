@@ -1,4 +1,10 @@
 {
+    "228182315-vkontakte": {
+        "id": "228182315-vkontakte",
+        "nickname": "kertender",
+        "booksCount": 11,
+        "updatedAt": "2017-09-30 05:46:24"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "lesha_chendemerov",
         "booksCount": 1,
         "updatedAt": "2017-09-21 18:46:45"
-    },
-    "228182315-vkontakte": {
-        "id": "228182315-vkontakte",
-        "nickname": "kertender",
-        "booksCount": 10,
-        "updatedAt": "2017-09-21 10:35:59"
     }
 }
