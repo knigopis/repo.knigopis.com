@@ -1,4 +1,16 @@
 {
+    "jd8F-m_ArZ": {
+        "id": "jd8F-m_ArZ",
+        "title": "Sword Art Online 1: Айнкрад",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-09-30 12:55:36",
+        "user": {
+            "id": "38632470-vkontakte",
+            "nickname": "shatinik",
+            "booksCount": 1
+        }
+    },
     "xxN_L_9fSc": {
         "id": "xxN_L_9fSc",
         "title": "Передышка",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 77
-        }
-    },
-    "ZD58aTB9HL": {
-        "id": "ZD58aTB9HL",
-        "title": "Марсианские хроники",
-        "author": "Рэй Брэдбери",
-        "notes": "Люблю философскую фантастику Брэдбери. Как и ожидалось, \"Хроники\" мне сильно понравились",
-        "createdAt": "2017-09-25 07:25:11",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 19
         }
     }
 }
