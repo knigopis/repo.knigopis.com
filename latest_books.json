@@ -1,4 +1,16 @@
 {
+    "xxN_L_9fSc": {
+        "id": "xxN_L_9fSc",
+        "title": "Передышка",
+        "author": "Марио Бенедетти",
+        "notes": "",
+        "createdAt": "2017-09-30 09:43:09",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 560
+        }
+    },
     "zxrCZom2RL": {
         "id": "zxrCZom2RL",
         "title": "Тень ветра",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 19
-        }
-    },
-    "t2HPiQo5X5": {
-        "id": "t2HPiQo5X5",
-        "title": "Дым и зеркала",
-        "author": "Нил Зейман",
-        "notes": "Хорошая книга",
-        "createdAt": "2017-09-24 14:38:04",
-        "user": {
-            "id": "362561757-vkontakte",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
