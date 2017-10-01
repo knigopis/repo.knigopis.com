@@ -1,4 +1,16 @@
 {
+    "tEvbO1sjOz": {
+        "id": "tEvbO1sjOz",
+        "title": "F",
+        "author": "D",
+        "notes": "",
+        "createdAt": "2017-10-01 12:08:40",
+        "user": {
+            "id": "116733625041341449770-google",
+            "nickname": "Wenir",
+            "booksCount": 1
+        }
+    },
     "vxCEbuWcME": {
         "id": "vxCEbuWcME",
         "title": "Скандинавские боги",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 77
-        }
-    },
-    "FBdcFcnJ31": {
-        "id": "FBdcFcnJ31",
-        "title": "Гарри Поттер и методы рационального мышления",
-        "author": "Элиезер Юдковски",
-        "notes": "",
-        "createdAt": "2017-09-26 15:39:02",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 76
         }
     }
 }
