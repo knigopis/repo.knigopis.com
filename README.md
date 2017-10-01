@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
+    > Описание Москвы.
+
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Прочла на одном дыхание, хотя детективы не очень люблю. Легкий стиль и не лишена юмора книга.
 
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
-    > Книга особо не впечатлила. Описано как всегда интересно, но сам сюжет не захватил. Лишь в конце (как обычно счастливом) немного захватило сражения нашего возрожденного флота.
 
 * Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
 
-* Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>320</sup> 
 [Wenir](users/116/116733625041341449770-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>271</sup> 
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>319</sup> 
 [14.06.1995](users/811/81151472-vkontakte)<sup>1</sup> 
 [Provehitum](users/109/109136801671758719650-google)<sup>0</sup> 
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kimov](users/104/104392818617109316677-google)<sup>0</sup> 
 
 
-_01.10.2017 12:08:40_
+_01.10.2017 13:11:31_

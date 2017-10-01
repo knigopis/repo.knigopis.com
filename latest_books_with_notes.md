@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
@@ -30,7 +31,6 @@
 * Герой нашего времени ~ [Rainbow](users/109/109787328219839805802-google)<sup>30</sup>
 * Превращение ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>46</sup>
 * Изгой ~ [Tr](users/122/12282474-vkontakte)<sup>57</sup>
-* Сквозь тайгу ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>124</sup>
 
 
-_30.09.2017 05:46:24_
+_01.10.2017 13:11:31_

@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 320,
+        "updatedAt": "2017-10-01 13:11:30"
+    },
     "116733625041341449770-google": {
         "id": "116733625041341449770-google",
         "nickname": "Wenir",
@@ -70,12 +76,6 @@
         "nickname": "mfevralev",
         "booksCount": 26,
         "updatedAt": "2017-09-28 20:38:18"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 319,
-        "updatedAt": "2017-09-28 15:30:17"
     },
     "81151472-vkontakte": {
         "id": "81151472-vkontakte",
