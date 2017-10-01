@@ -1,4 +1,16 @@
 {
+    "K3PTo92D4W": {
+        "id": "K3PTo92D4W",
+        "title": "искусство слышать стук сердца",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-10-01 17:06:16",
+        "user": {
+            "id": "16769871-vkontakte",
+            "nickname": "chudovache",
+            "booksCount": 1
+        }
+    },
     "zW4wdo_pqn": {
         "id": "zW4wdo_pqn",
         "title": "Сорок сороков.",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 113
-        }
-    },
-    "C1L_P0Ga_Z": {
-        "id": "C1L_P0Ga_Z",
-        "title": "Мой продуктивный год: Как я проверил самые известные методики личной эффективности на себе",
-        "author": "Крис Бэйли",
-        "notes": "",
-        "createdAt": "2017-09-26 15:42:58",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 78
         }
     }
 }
