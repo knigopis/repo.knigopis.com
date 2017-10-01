@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[chudovache](users/167/16769871-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>320</sup> 
 [Wenir](users/116/116733625041341449770-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>271</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 [vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
 [](users/362/362561757-vkontakte)<sup>1</sup> 
-[kimov](users/104/104392818617109316677-google)<sup>0</sup> 
 
 
-_01.10.2017 13:11:31_
+_01.10.2017 17:04:26_
