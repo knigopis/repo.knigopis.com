@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 142,
+        "updatedAt": "2017-10-02 01:37:55"
+    },
     "96248564-vkontakte": {
         "id": "96248564-vkontakte",
         "nickname": "shatilin.vlad",
@@ -172,11 +178,5 @@
         "nickname": "daria_danchenko",
         "booksCount": 0,
         "updatedAt": "2017-09-24 15:29:24"
-    },
-    "4772898-vkontakte": {
-        "id": "4772898-vkontakte",
-        "nickname": "vinnieflaar",
-        "booksCount": 0,
-        "updatedAt": "2017-09-24 15:27:25"
     }
 }

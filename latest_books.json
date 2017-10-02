@@ -1,4 +1,16 @@
 {
+    "rsWfKWm5Kn": {
+        "id": "rsWfKWm5Kn",
+        "title": "Янки из Коннектикута при дворе короля Артура",
+        "author": "Марк Твен",
+        "notes": "Как-то упустил из вида эту книгу Твена. Забавно и напыщенно представлено рыцарство Англии, а так же возможности современного человека, попавшего в VI век.",
+        "createdAt": "2017-10-02 01:37:55",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 142
+        }
+    },
     "K3PTo92D4W": {
         "id": "K3PTo92D4W",
         "title": "искусство слышать стук сердца",
@@ -345,18 +357,6 @@
             "id": "5957175-vkontakte",
             "nickname": "anvonamore",
             "booksCount": 114
-        }
-    },
-    "E6Gs3abv1z": {
-        "id": "E6Gs3abv1z",
-        "title": "В сторону Свана",
-        "author": "Марсель Пруст",
-        "notes": "7/10",
-        "createdAt": "2017-09-26 19:11:10",
-        "user": {
-            "id": "5957175-vkontakte",
-            "nickname": "anvonamore",
-            "booksCount": 113
         }
     }
 }

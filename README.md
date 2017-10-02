@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Янки из Коннектикута при дворе короля Артура ~ [lucius](users/838/83820536-yandex)<sup>142</sup>
+    > Как-то упустил из вида эту книгу Твена. Забавно и напыщенно представлено рыцарство Англии, а так же возможности современного человека, попавшего в VI век.
+
 * Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
     > Описание Москвы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
-    > Прочла на одном дыхание, хотя детективы не очень люблю. Легкий стиль и не лишена юмора книга.
 
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Убить пересмешника ~ [Asya](users/111/111688198065279912162-google)<sup>11</sup>
 
-* Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>142</sup> 
 [shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 [chudovache](users/167/16769871-vkontakte)<sup>1</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>320</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 [daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
-[vinnieflaar](users/477/4772898-vkontakte)<sup>0</sup> 
 
 
-_02.10.2017 01:36:33_
+_02.10.2017 01:37:55_
