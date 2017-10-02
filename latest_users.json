@@ -1,4 +1,10 @@
 {
+    "12816075-vkontakte": {
+        "id": "12816075-vkontakte",
+        "nickname": "gailina",
+        "booksCount": 0,
+        "updatedAt": "2017-10-02 12:33:42"
+    },
     "83820536-yandex": {
         "id": "83820536-yandex",
         "nickname": "lucius",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 76,
         "updatedAt": "2017-09-25 10:23:06"
-    },
-    "167284416-vkontakte": {
-        "id": "167284416-vkontakte",
-        "nickname": "daria_danchenko",
-        "booksCount": 0,
-        "updatedAt": "2017-09-24 15:29:24"
     }
 }
