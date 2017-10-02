@@ -1,4 +1,16 @@
 {
+    "ZBIph85BKV": {
+        "id": "ZBIph85BKV",
+        "title": "Блокчейн. Схема новой экономики",
+        "author": "Мелани Свон",
+        "notes": "",
+        "createdAt": "2017-10-02 18:01:35",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 272
+        }
+    },
     "Kt3PRW1H_A": {
         "id": "Kt3PRW1H_A",
         "title": "Неделя просвещения.",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 20
-        }
-    },
-    "MBNMyNdUmv": {
-        "id": "MBNMyNdUmv",
-        "title": "Новая весна",
-        "author": "Джордан, Роберт",
-        "notes": "В книги описываются события происходящие за пару десятков лет до событий первой книги Колеса времени. Главные персонажи - Морейн и Лан.",
-        "createdAt": "2017-09-26 22:47:20",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 151
         }
     }
 }

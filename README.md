@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>272</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>321</sup> 
 [gailina](users/128/12816075-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
 [shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 [chudovache](users/167/16769871-vkontakte)<sup>1</sup> 
 [Wenir](users/116/116733625041341449770-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>271</sup> 
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 [shatinik](users/386/38632470-vkontakte)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 
 
-_02.10.2017 14:53:59_
+_02.10.2017 18:01:35_
