@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gailina](users/128/12816075-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
 [shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 [chudovache](users/167/16769871-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
-[daria_danchenko](users/167/167284416-vkontakte)<sup>0</sup> 
 
 
-_02.10.2017 01:37:55_
+_02.10.2017 12:33:45_
