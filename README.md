@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неделя просвещения. ~ [ana.21](users/107/107655526900000657481-google)<sup>321</sup>
+    > Неграмотных солдат заставляли ходит на оперы и концерты, дабы они "просвещались", при этом запрещали всякие другие развлечения. Солдатам это надоело, и они записались в школу грамоты, чтобы от них отстали.
+
 * Янки из Коннектикута при дворе короля Артура ~ [lucius](users/838/83820536-yandex)<sup>142</sup>
     > Как-то упустил из вида эту книгу Твена. Забавно и напыщенно представлено рыцарство Англии, а так же возможности современного человека, попавшего в VI век.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Описание Москвы.
 
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
-    > 9/10
 
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Дракула ~ [Asya](users/111/111688198065279912162-google)<sup>12</sup>
 
-* Убить пересмешника ~ [Asya](users/111/111688198065279912162-google)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ana.21](users/107/107655526900000657481-google)<sup>321</sup> 
 [gailina](users/128/12816075-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
 [shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 [chudovache](users/167/16769871-vkontakte)<sup>1</sup> 
-[ana.21](users/107/107655526900000657481-google)<sup>320</sup> 
 [Wenir](users/116/116733625041341449770-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>271</sup> 
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 
 
-_02.10.2017 12:33:45_
+_02.10.2017 14:53:59_
