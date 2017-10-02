@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 21,
+        "updatedAt": "2017-10-02 18:53:56"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -130,12 +136,6 @@
         "nickname": "umbyir",
         "booksCount": 1,
         "updatedAt": "2017-09-27 08:11:02"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 20,
-        "updatedAt": "2017-09-27 07:09:10"
     },
     "5957175-vkontakte": {
         "id": "5957175-vkontakte",

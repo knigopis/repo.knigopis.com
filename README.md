@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фантастические Создания ~ [Saamy](users/115/115226508-vkontakte)<sup>21</sup>
+    > Очень хороший сборник рассказов-сказок. Есть как жутковатые работы, которые поймет только взрослый, так и практически детские, легкие сказочки. 
+    > Сказки про пчел, Смерть и грифона особенно классные.
+
 * Неделя просвещения. ~ [ana.21](users/107/107655526900000657481-google)<sup>321</sup>
     > Неграмотных солдат заставляли ходит на оперы и концерты, дабы они "просвещались", при этом запрещали всякие другие развлечения. Солдатам это надоело, и они записались в школу грамоты, чтобы от них отстали.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Как-то упустил из вида эту книгу Твена. Забавно и напыщенно представлено рыцарство Англии, а так же возможности современного человека, попавшего в VI век.
 
 * Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
-    > Описание Москвы.
 
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Граф Монте-Кристо ~ [Asya](users/111/111688198065279912162-google)<sup>13</sup>
 
-* Дракула ~ [Asya](users/111/111688198065279912162-google)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>272</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>321</sup> 
 [gailina](users/128/12816075-vkontakte)<sup>0</sup> 
@@ -55,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>20</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup> 
 
 
-_02.10.2017 18:01:35_
+_02.10.2017 18:53:56_
