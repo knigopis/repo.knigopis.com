@@ -1,4 +1,16 @@
 {
+    "QV0vjiFOsa": {
+        "id": "QV0vjiFOsa",
+        "title": "Ярмарка тщеславия",
+        "author": "Теккерей",
+        "notes": "",
+        "createdAt": "2017-10-03 05:47:27",
+        "user": {
+            "id": "10879683-vkontakte",
+            "nickname": "ulanovnicolas",
+            "booksCount": 1
+        }
+    },
     "hL-7OlyM-_": {
         "id": "hL-7OlyM-_",
         "title": "Фантастические Создания",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 32
-        }
-    },
-    "ywVhEcAS7J": {
-        "id": "ywVhEcAS7J",
-        "title": "3",
-        "author": "33",
-        "notes": "1313",
-        "createdAt": "2017-09-27 08:11:02",
-        "user": {
-            "id": "3236857935-instagram",
-            "nickname": "umbyir",
-            "booksCount": 1
         }
     }
 }
