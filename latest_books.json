@@ -1,4 +1,16 @@
 {
+    "B-MiZcZQ6q": {
+        "id": "B-MiZcZQ6q",
+        "title": "Триллионер.",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-10-03 11:29:51",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 322
+        }
+    },
     "QV0vjiFOsa": {
         "id": "QV0vjiFOsa",
         "title": "Ярмарка тщеславия",
@@ -345,18 +357,6 @@
             "id": "111688198065279912162-google",
             "nickname": "Asya",
             "booksCount": 11
-        }
-    },
-    "J1E9u6le_Z": {
-        "id": "J1E9u6le_Z",
-        "title": "Мой Рагнарек",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2017-09-27 09:56:48",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 32
         }
     }
 }
