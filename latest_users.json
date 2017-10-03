@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 56,
+        "updatedAt": "2017-10-03 13:01:39"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "wormwooood",
         "booksCount": 0,
         "updatedAt": "2017-09-25 14:11:45"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 76,
-        "updatedAt": "2017-09-25 10:23:06"
     }
 }
