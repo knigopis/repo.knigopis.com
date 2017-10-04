@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[realest1954](users/439/439398-vkontakte)<sup>0</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>561</sup> 
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>78</sup> 
 [ferrer21](users/103/103504105-vkontakte)<sup>2</sup> 
-[wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 
 
-_04.10.2017 08:07:06_
+_04.10.2017 11:05:54_
