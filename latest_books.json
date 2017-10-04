@@ -1,4 +1,16 @@
 {
+    "BFckNYVwoF": {
+        "id": "BFckNYVwoF",
+        "title": "Царица ветров и тьмы",
+        "author": "Пол Андерсон",
+        "notes": "",
+        "createdAt": "2017-10-04 08:07:06",
+        "user": {
+            "id": "228182315-vkontakte",
+            "nickname": "kertender",
+            "booksCount": 13
+        }
+    },
     "x7GqTsgswv": {
         "id": "x7GqTsgswv",
         "title": "Человек",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 319
-        }
-    },
-    "3NyOS0n97n": {
-        "id": "3NyOS0n97n",
-        "title": "Вафельное сердце",
-        "author": "Мария Парр",
-        "notes": "",
-        "createdAt": "2017-09-28 10:44:29",
-        "user": {
-            "id": "81151472-vkontakte",
-            "nickname": "14.06.1995",
-            "booksCount": 1
         }
     }
 }

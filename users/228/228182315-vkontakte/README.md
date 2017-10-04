@@ -1,7 +1,12 @@
-# List of books read by [kertender](http://vk.com/id228182315)<sup>12</sup>
+# List of books read by [kertender](http://vk.com/id228182315)<sup>13</sup>
 ---
 
 ## 2017
+
+### Царица ветров и тьмы
+Пол Андерсон
+> [2017-10-03] 
+
 
 ### Человек
 Рэй Брэдбери

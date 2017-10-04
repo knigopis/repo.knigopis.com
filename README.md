@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kertender](users/228/228182315-vkontakte)<sup>12</sup> 
+[kertender](users/228/228182315-vkontakte)<sup>13</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>561</sup> 
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>322</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 
 
-_04.10.2017 07:33:47_
+_04.10.2017 08:07:06_
