@@ -1,7 +1,12 @@
-# List of books read by [kertender](http://vk.com/id228182315)<sup>11</sup>
+# List of books read by [kertender](http://vk.com/id228182315)<sup>12</sup>
 ---
 
 ## 2017
+
+### Человек
+Рэй Брэдбери
+> [2017-10-01] 
+
 
 ### Признание
 Дж. А. Конрат

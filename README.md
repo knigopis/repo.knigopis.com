@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kertender](users/228/228182315-vkontakte)<sup>12</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>561</sup> 
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>322</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 [shatinik](users/386/38632470-vkontakte)<sup>7</sup> 
-[kertender](users/228/228182315-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>152</sup> 
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wormwooood](users/317/317597785-vkontakte)<sup>0</sup> 
 
 
-_03.10.2017 13:53:59_
+_04.10.2017 07:33:47_

@@ -1,4 +1,10 @@
 {
+    "228182315-vkontakte": {
+        "id": "228182315-vkontakte",
+        "nickname": "kertender",
+        "booksCount": 12,
+        "updatedAt": "2017-10-04 07:33:47"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -82,12 +88,6 @@
         "nickname": "shatinik",
         "booksCount": 7,
         "updatedAt": "2017-09-30 12:56:36"
-    },
-    "228182315-vkontakte": {
-        "id": "228182315-vkontakte",
-        "nickname": "kertender",
-        "booksCount": 11,
-        "updatedAt": "2017-09-30 05:46:24"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
