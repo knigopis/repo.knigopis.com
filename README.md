@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nnataly3](users/105/105530547016444143560-google)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>28</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
 [anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
-[jerricho](users/449/44943214-vkontakte)<sup>0</sup> 
 
 
-_04.10.2017 13:29:18_
+_04.10.2017 14:10:16_
