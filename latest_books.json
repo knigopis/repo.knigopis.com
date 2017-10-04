@@ -1,4 +1,16 @@
 {
+    "aLZ2bCqWJy": {
+        "id": "aLZ2bCqWJy",
+        "title": "Мозг и любовь",
+        "author": "Дэниел Дж. Амен",
+        "notes": "5",
+        "createdAt": "2017-10-04 12:19:31",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 28
+        }
+    },
     "cWKPeoctMV": {
         "id": "cWKPeoctMV",
         "title": "Нулевой номер",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 33
-        }
-    },
-    "6rVImQ1MfM": {
-        "id": "6rVImQ1MfM",
-        "title": "Казачья надежда 1972 №3",
-        "author": "",
-        "notes": "стр 12 историческая трагедия казачества\nстр 17 случай с гимнами -Лазарев",
-        "createdAt": "2017-09-28 20:37:47",
-        "user": {
-            "id": "140966150-vkontakte",
-            "nickname": "mfevralev",
-            "booksCount": 27
         }
     }
 }

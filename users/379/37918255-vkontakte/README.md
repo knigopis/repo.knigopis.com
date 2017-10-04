@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>27</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>28</sup>
 ---
 
 ## 2017
+
+### Мозг и любовь
+Дэниел Дж. Амен
+> [2017-10-04] 5
+
 
 ### Происхождение видов
 Чарльз Дарвин
