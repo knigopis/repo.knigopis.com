@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
 * Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
 * Трилогия "Тёмные начала" ~ [rNix](users/115/115622071-twitter)<sup>56</sup>
 * Фантастические Создания ~ [Saamy](users/115/115226508-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 * Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
 * Мизери ~ [Saamy](users/115/115226508-vkontakte)<sup>17</sup>
-* В интернете кто-то неправ! Научные исследования спорных вопросов ~ [Saamy](users/115/115226508-vkontakte)<sup>16</sup>
 
 
-_04.10.2017 12:40:01_
+_04.10.2017 13:04:00_
