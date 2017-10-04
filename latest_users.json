@@ -1,4 +1,10 @@
 {
+    "105530547016444143560-google": {
+        "id": "105530547016444143560-google",
+        "nickname": "nnataly3",
+        "booksCount": 0,
+        "updatedAt": "2017-10-04 14:10:15"
+    },
     "1138852626183846-facebook": {
         "id": "1138852626183846-facebook",
         "nickname": "nadisvid",
@@ -172,11 +178,5 @@
         "nickname": "anvonamore",
         "booksCount": 114,
         "updatedAt": "2017-09-26 19:12:22"
-    },
-    "44943214-vkontakte": {
-        "id": "44943214-vkontakte",
-        "nickname": "jerricho",
-        "booksCount": 0,
-        "updatedAt": "2017-09-26 18:30:23"
     }
 }
