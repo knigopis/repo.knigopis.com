@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
 * Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
 * Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 * Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
-* Ночь в одиноком октябре ~ [En](users/333/333646551-vkontakte)<sup>7</sup>
 
 
-_04.10.2017 13:19:02_
+_04.10.2017 13:29:18_
