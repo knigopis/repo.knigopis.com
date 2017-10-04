@@ -1,4 +1,10 @@
 {
+    "1138852626183846-facebook": {
+        "id": "1138852626183846-facebook",
+        "nickname": "nadisvid",
+        "booksCount": 25,
+        "updatedAt": "2017-10-04 12:40:01"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "jerricho",
         "booksCount": 0,
         "updatedAt": "2017-09-26 18:30:23"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 78,
-        "updatedAt": "2017-09-26 15:42:58"
     }
 }
