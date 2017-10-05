@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Десять негритят ~ [Garka](users/115/115753719718250012620-google)<sup>153</sup>
 * Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
 * Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
 * Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
-* Улисс ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>125</sup>
 
 
-_04.10.2017 13:29:18_
+_05.10.2017 14:50:32_

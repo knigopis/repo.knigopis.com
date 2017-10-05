@@ -1,4 +1,16 @@
 {
+    "t6tfqfs8bG": {
+        "id": "t6tfqfs8bG",
+        "title": "Десять негритят",
+        "author": "Агата Кристи",
+        "notes": "Очень захватывающий сюжет! Впечатление немного испортило то, что благодаря экранизациям, знала кто убийца.",
+        "createdAt": "2017-10-05 14:50:31",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 153
+        }
+    },
     "x2QiAONhK4": {
         "id": "x2QiAONhK4",
         "title": "Самогонное озеро.",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 560
-        }
-    },
-    "zxrCZom2RL": {
-        "id": "zxrCZom2RL",
-        "title": "Тень ветра",
-        "author": "Карлос Руис Сафон",
-        "notes": "",
-        "createdAt": "2017-09-30 07:10:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 559
         }
     }
 }
