@@ -1,4 +1,10 @@
 {
+    "10214634850368705-facebook": {
+        "id": "10214634850368705-facebook",
+        "nickname": "sachek",
+        "booksCount": 0,
+        "updatedAt": "2017-10-05 19:37:56"
+    },
     "152488954-vkontakte": {
         "id": "152488954-vkontakte",
         "nickname": "kasikandriena",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 32,
         "updatedAt": "2017-09-27 09:56:48"
-    },
-    "3236857935-instagram": {
-        "id": "3236857935-instagram",
-        "nickname": "umbyir",
-        "booksCount": 1,
-        "updatedAt": "2017-09-27 08:11:02"
     }
 }
