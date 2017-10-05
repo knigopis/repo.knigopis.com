@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>40</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>41</sup>
 ---
 
 ## 2017
+
+### Герой Веков (Серия: Рожденный туманом. Книга 3/3)
+Брендон Сандерсон
+> [2017-10-05] 
+
 
 ### Герой Веков (Серия: Рожденный туманом. Книга 3/3)
 Брендон Сандерсон
