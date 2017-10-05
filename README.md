@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>40</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>153</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>323</sup> 
 [nnataly3](users/105/105530547016444143560-google)<sup>0</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Asya](users/111/111688198065279912162-google)<sup>13</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>32</sup> 
 [umbyir](users/323/3236857935-instagram)<sup>1</sup> 
-[anvonamore](users/595/5957175-vkontakte)<sup>114</sup> 
 
 
-_05.10.2017 14:50:32_
+_05.10.2017 16:28:48_
