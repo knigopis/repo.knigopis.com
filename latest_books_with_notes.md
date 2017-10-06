@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
 * Нетопырь ~ [Sky](users/118/118049897850017649660-google)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
-* "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 
 
-_06.10.2017 18:11:00_
+_06.10.2017 19:33:10_
