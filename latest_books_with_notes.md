@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
 * Нетопырь ~ [Sky](users/118/118049897850017649660-google)<sup>40</sup>
 * Десять негритят ~ [Garka](users/115/115753719718250012620-google)<sup>153</sup>
@@ -30,7 +31,6 @@
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 * Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
 * "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
-* Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
 
 
-_06.10.2017 17:57:02_
+_06.10.2017 18:11:00_
