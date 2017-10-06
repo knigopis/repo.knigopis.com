@@ -1,4 +1,10 @@
 {
+    "106644083867140961454-google": {
+        "id": "106644083867140961454-google",
+        "nickname": "Alex",
+        "booksCount": 20,
+        "updatedAt": "2017-10-06 17:57:02"
+    },
     "56332-vkontakte": {
         "id": "56332-vkontakte",
         "nickname": "KsenSergeevna",
@@ -172,11 +178,5 @@
         "nickname": "14.06.1995",
         "booksCount": 1,
         "updatedAt": "2017-09-28 10:44:30"
-    },
-    "109136801671758719650-google": {
-        "id": "109136801671758719650-google",
-        "nickname": "Provehitum",
-        "booksCount": 0,
-        "updatedAt": "2017-09-28 10:38:39"
     }
 }
