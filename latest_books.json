@@ -1,4 +1,16 @@
 {
+    "2gFbEgqt13": {
+        "id": "2gFbEgqt13",
+        "title": "Белык Клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-10-06 18:18:33",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 32
+        }
+    },
     "MQr5wKJMJw": {
         "id": "MQr5wKJMJw",
         "title": "Сын охотника на медведей",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 322
-        }
-    },
-    "QV0vjiFOsa": {
-        "id": "QV0vjiFOsa",
-        "title": "Ярмарка тщеславия",
-        "author": "Теккерей",
-        "notes": "",
-        "createdAt": "2017-10-03 05:47:27",
-        "user": {
-            "id": "10879683-vkontakte",
-            "nickname": "ulanovnicolas",
-            "booksCount": 1
         }
     }
 }
