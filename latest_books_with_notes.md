@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Нетопырь ~ [Sky](users/118/118049897850017649660-google)<sup>40</sup>
 * Десять негритят ~ [Garka](users/115/115753719718250012620-google)<sup>153</sup>
 * Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
@@ -30,7 +31,6 @@
 * "Повесть о Настоящем Человеке" ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Марсианские хроники ~ [Saamy](users/115/115226508-vkontakte)<sup>19</sup>
 * Древний. Вторжение. Книга 4 ~ [En](users/333/333646551-vkontakte)<sup>8</sup>
-* Дым и зеркала ~ [Saamy](users/115/115226508-vkontakte)<sup>18</sup>
 
 
-_05.10.2017 14:50:32_
+_06.10.2017 05:23:07_

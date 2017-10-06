@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 40,
+        "updatedAt": "2017-10-06 05:23:07"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "Asya",
         "booksCount": 13,
         "updatedAt": "2017-09-27 18:32:51"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 32,
-        "updatedAt": "2017-09-27 09:56:48"
     }
 }
