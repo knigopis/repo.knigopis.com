@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>79</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>32</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
-[mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
 
 
-_06.10.2017 19:33:10_
+_06.10.2017 20:10:01_

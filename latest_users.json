@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 79,
+        "updatedAt": "2017-10-06 20:10:01"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 32,
         "updatedAt": "2017-09-28 23:45:38"
-    },
-    "140966150-vkontakte": {
-        "id": "140966150-vkontakte",
-        "nickname": "mfevralev",
-        "booksCount": 26,
-        "updatedAt": "2017-09-28 20:38:18"
     }
 }
