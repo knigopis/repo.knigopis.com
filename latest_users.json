@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 324,
+        "updatedAt": "2017-10-06 04:47:32"
+    },
     "10214634850368705-facebook": {
         "id": "10214634850368705-facebook",
         "nickname": "sachek",
@@ -16,12 +22,6 @@
         "nickname": "Garka",
         "booksCount": 153,
         "updatedAt": "2017-10-05 14:50:31"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 323,
-        "updatedAt": "2017-10-05 12:44:14"
     },
     "105530547016444143560-google": {
         "id": "105530547016444143560-google",
