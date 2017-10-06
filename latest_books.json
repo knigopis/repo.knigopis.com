@@ -1,4 +1,16 @@
 {
+    "28TzjlwzZ9": {
+        "id": "28TzjlwzZ9",
+        "title": "Звонок в дверь",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2017-10-06 18:04:02",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 21
+        }
+    },
     "lB6RmFfTYg": {
         "id": "lB6RmFfTYg",
         "title": "Сердца трёх",
@@ -345,18 +357,6 @@
             "id": "38632470-vkontakte",
             "nickname": "shatinik",
             "booksCount": 6
-        }
-    },
-    "zmJ3II-uc5": {
-        "id": "zmJ3II-uc5",
-        "title": "Sword Art Online 5: Призрачная пуля",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-09-30 12:56:19",
-        "user": {
-            "id": "38632470-vkontakte",
-            "nickname": "shatinik",
-            "booksCount": 5
         }
     }
 }
