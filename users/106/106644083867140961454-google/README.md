@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>27</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>28</sup>
 ---
 
 ## 2017
@@ -61,6 +61,10 @@
 
 
 ## Other years
+
+### Этюд в багровых тонах
+Артур Конан Дойль
+
 
 ### Рассказы о Шерлоке Холмсе: Записки о Шерлоке Холмсе
 Артур Конан Дойль
