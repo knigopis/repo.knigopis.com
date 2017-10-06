@@ -1,4 +1,16 @@
 {
+    "rsjQ7omM5B": {
+        "id": "rsjQ7omM5B",
+        "title": "Охота за матерью",
+        "author": "Рекс Стаут",
+        "notes": "",
+        "createdAt": "2017-10-06 18:09:33",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 22
+        }
+    },
     "28TzjlwzZ9": {
         "id": "28TzjlwzZ9",
         "title": "Звонок в дверь",
@@ -345,18 +357,6 @@
             "id": "38632470-vkontakte",
             "nickname": "shatinik",
             "booksCount": 7
-        }
-    },
-    "hxnzPcmeIE": {
-        "id": "hxnzPcmeIE",
-        "title": "Sword Art Online 6: Призрачная пуля",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-09-30 12:56:27",
-        "user": {
-            "id": "38632470-vkontakte",
-            "nickname": "shatinik",
-            "booksCount": 6
         }
     }
 }

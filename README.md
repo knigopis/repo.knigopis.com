@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Alex](users/106/106644083867140961454-google)<sup>21</sup> 
+[Alex](users/106/106644083867140961454-google)<sup>22</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>40</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>324</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [14.06.1995](users/811/81151472-vkontakte)<sup>1</sup> 
 
 
-_06.10.2017 18:04:02_
+_06.10.2017 18:09:33_
