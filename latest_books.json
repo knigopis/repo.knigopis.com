@@ -1,4 +1,16 @@
 {
+    "8MMIOF2-ER": {
+        "id": "8MMIOF2-ER",
+        "title": "Убить пересмешника...",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2017-10-06 18:16:14",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 30
+        }
+    },
     "4w86fSlq2t": {
         "id": "4w86fSlq2t",
         "title": "Лапа в бутылке",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 21
-        }
-    },
-    "ZBIph85BKV": {
-        "id": "ZBIph85BKV",
-        "title": "Блокчейн. Схема новой экономики",
-        "author": "Мелани Свон",
-        "notes": "",
-        "createdAt": "2017-10-02 18:01:35",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 272
         }
     }
 }
