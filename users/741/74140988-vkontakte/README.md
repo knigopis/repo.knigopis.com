@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>79</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>80</sup>
 ---
 
 ## 2017
+
+### Илон Маск: Tesla, SpaceX и дорога в будущее
+Эшли Вэнс
+> [2017-10-06] 
+
 
 ### Хочу и буду: Принять себя, полюбить жизнь и стать счастливым
 Михаил Лабковский

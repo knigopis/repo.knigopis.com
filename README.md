@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[International master](users/741/74140988-vkontakte)<sup>79</sup> 
+[International master](users/741/74140988-vkontakte)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>32</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 
 
-_06.10.2017 20:10:01_
+_06.10.2017 20:10:42_
