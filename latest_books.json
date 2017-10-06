@@ -1,4 +1,16 @@
 {
+    "XmNWWO219j": {
+        "id": "XmNWWO219j",
+        "title": "Часы",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-10-06 18:09:53",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 23
+        }
+    },
     "rsjQ7omM5B": {
         "id": "rsjQ7omM5B",
         "title": "Охота за матерью",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 271
-        }
-    },
-    "jw9dueII0Y": {
-        "id": "jw9dueII0Y",
-        "title": "Sword Art Online 7: Розарий матери",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-09-30 12:56:36",
-        "user": {
-            "id": "38632470-vkontakte",
-            "nickname": "shatinik",
-            "booksCount": 7
         }
     }
 }
