@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>30</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>31</sup>
 ---
 
 ## 2017
@@ -61,6 +61,10 @@
 
 
 ## Other years
+
+### Сын охотника на медведей
+Томас Майн Рид, Карл Май, Джеймс Фенимор Купер
+
 
 ### Убить пересмешника...
 Харпер Ли
