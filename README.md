@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KsenSergeevna](users/563/56332-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>40</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>324</sup> 
 [sachek](users/102/10214634850368705-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mfevralev](users/140/140966150-vkontakte)<sup>26</sup> 
 [14.06.1995](users/811/81151472-vkontakte)<sup>1</sup> 
 [Provehitum](users/109/109136801671758719650-google)<sup>0</sup> 
-[Asya](users/111/111688198065279912162-google)<sup>13</sup> 
 
 
-_06.10.2017 05:23:07_
+_06.10.2017 12:26:54_
