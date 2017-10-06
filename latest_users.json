@@ -1,4 +1,10 @@
 {
+    "56332-vkontakte": {
+        "id": "56332-vkontakte",
+        "nickname": "KsenSergeevna",
+        "booksCount": 0,
+        "updatedAt": "2017-10-06 12:26:51"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Provehitum",
         "booksCount": 0,
         "updatedAt": "2017-09-28 10:38:39"
-    },
-    "111688198065279912162-google": {
-        "id": "111688198065279912162-google",
-        "nickname": "Asya",
-        "booksCount": 13,
-        "updatedAt": "2017-09-27 18:32:51"
     }
 }
