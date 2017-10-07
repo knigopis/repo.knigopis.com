@@ -1,4 +1,10 @@
 {
+    "112152049213984389187-google": {
+        "id": "112152049213984389187-google",
+        "nickname": "Satori",
+        "booksCount": 0,
+        "updatedAt": "2017-10-07 08:47:26"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 9,
         "updatedAt": "2017-09-29 06:41:08"
-    },
-    "508657584-yandex": {
-        "id": "508657584-yandex",
-        "nickname": "strange-exofan",
-        "booksCount": 1,
-        "updatedAt": "2017-09-29 05:16:27"
     }
 }
