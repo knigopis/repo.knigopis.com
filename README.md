@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>129</sup> 
 [International master](users/741/74140988-vkontakte)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 [shatinik](users/386/38632470-vkontakte)<sup>7</sup> 
 [En](users/333/333646551-vkontakte)<sup>9</sup> 
-[strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 
 
-_07.10.2017 07:17:42_
+_07.10.2017 08:47:28_
