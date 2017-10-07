@@ -1,4 +1,16 @@
 {
+    "XSwkAp6Pzl": {
+        "id": "XSwkAp6Pzl",
+        "title": "Двойная звезда",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2017-10-07 07:14:32",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 130
+        }
+    },
     "wRC6cZRJrO": {
         "id": "wRC6cZRJrO",
         "title": "Игра Эндера",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 28
-        }
-    },
-    "cWKPeoctMV": {
-        "id": "cWKPeoctMV",
-        "title": "Нулевой номер",
-        "author": "Умберто Эко",
-        "notes": "Италия от второй мировой до начала 90-х. Журналисты. Политика. Бизнес. Люди. События. Как делается репортаж по \"англосакски\". Как отмывать деньги. Все как и у нас,только без зимы.",
-        "createdAt": "2017-10-04 11:09:41",
-        "user": {
-            "id": "439398-vkontakte",
-            "nickname": "realest1954",
-            "booksCount": 1
         }
     }
 }
