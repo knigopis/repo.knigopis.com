@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 325,
+        "updatedAt": "2017-10-07 14:18:23"
+    },
     "112152049213984389187-google": {
         "id": "112152049213984389187-google",
         "nickname": "Satori",
@@ -40,12 +46,6 @@
         "nickname": "Sky",
         "booksCount": 40,
         "updatedAt": "2017-10-06 05:23:07"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 324,
-        "updatedAt": "2017-10-06 04:47:32"
     },
     "10214634850368705-facebook": {
         "id": "10214634850368705-facebook",

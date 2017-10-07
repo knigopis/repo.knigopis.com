@@ -1,4 +1,16 @@
 {
+    "vJhVc7qPiB": {
+        "id": "vJhVc7qPiB",
+        "title": "Бубновая история.",
+        "author": "Михаил Булгаков",
+        "notes": "История о том, как провинциальный инкассатор казенные деньги в Москве потратил.",
+        "createdAt": "2017-10-07 14:18:23",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 325
+        }
+    },
     "XSwkAp6Pzl": {
         "id": "XSwkAp6Pzl",
         "title": "Двойная звезда",
@@ -345,18 +357,6 @@
             "id": "1138852626183846-facebook",
             "nickname": "nadisvid",
             "booksCount": 25
-        }
-    },
-    "aLZ2bCqWJy": {
-        "id": "aLZ2bCqWJy",
-        "title": "Мозг и любовь",
-        "author": "Дэниел Дж. Амен",
-        "notes": "5",
-        "createdAt": "2017-10-04 12:19:31",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 28
         }
     }
 }

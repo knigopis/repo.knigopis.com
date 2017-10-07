@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
@@ -30,7 +31,6 @@
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
-* Маленькая книга Hygge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>76</sup>
 
 
-_06.10.2017 19:33:10_
+_07.10.2017 14:18:24_
