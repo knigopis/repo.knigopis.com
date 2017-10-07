@@ -1,4 +1,16 @@
 {
+    "GJUo1ThdKI": {
+        "id": "GJUo1ThdKI",
+        "title": "Вечный сон",
+        "author": "Рэймонд Чандлер",
+        "notes": "",
+        "createdAt": "2017-10-07 07:13:03",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 128
+        }
+    },
     "3933FtHSfc": {
         "id": "3933FtHSfc",
         "title": "Илон Маск: Tesla, SpaceX и дорога в будущее",
@@ -345,18 +357,6 @@
             "id": "228182315-vkontakte",
             "nickname": "kertender",
             "booksCount": 13
-        }
-    },
-    "x7GqTsgswv": {
-        "id": "x7GqTsgswv",
-        "title": "Человек",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-10-04 07:33:47",
-        "user": {
-            "id": "228182315-vkontakte",
-            "nickname": "kertender",
-            "booksCount": 12
         }
     }
 }
