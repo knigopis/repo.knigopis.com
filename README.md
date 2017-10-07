@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sigismund](users/181/181663004-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>325</sup> 
 [Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>129</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 [shatinik](users/386/38632470-vkontakte)<sup>7</sup> 
-[En](users/333/333646551-vkontakte)<sup>9</sup> 
 
 
-_07.10.2017 14:18:24_
+_07.10.2017 20:37:16_
