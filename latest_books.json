@@ -1,4 +1,16 @@
 {
+    "wRC6cZRJrO": {
+        "id": "wRC6cZRJrO",
+        "title": "Игра Эндера",
+        "author": "Орсон Скотт Кард",
+        "notes": "",
+        "createdAt": "2017-10-07 07:13:36",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 129
+        }
+    },
     "GJUo1ThdKI": {
         "id": "GJUo1ThdKI",
         "title": "Вечный сон",
@@ -345,18 +357,6 @@
             "id": "439398-vkontakte",
             "nickname": "realest1954",
             "booksCount": 1
-        }
-    },
-    "BFckNYVwoF": {
-        "id": "BFckNYVwoF",
-        "title": "Царица ветров и тьмы",
-        "author": "Пол Андерсон",
-        "notes": "",
-        "createdAt": "2017-10-04 08:07:06",
-        "user": {
-            "id": "228182315-vkontakte",
-            "nickname": "kertender",
-            "booksCount": 13
         }
     }
 }

@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[geyski](users/221/221959664-vkontakte)<sup>128</sup> 
+[geyski](users/221/221959664-vkontakte)<sup>129</sup> 
 [International master](users/741/74140988-vkontakte)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>32</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [strange-exofan](users/508/508657584-yandex)<sup>1</sup> 
 
 
-_07.10.2017 07:13:03_
+_07.10.2017 07:13:36_
