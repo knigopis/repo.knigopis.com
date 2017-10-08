@@ -1,4 +1,10 @@
 {
+    "107655526900000657481-google": {
+        "id": "107655526900000657481-google",
+        "nickname": "ana.21",
+        "booksCount": 327,
+        "updatedAt": "2017-10-08 14:31:29"
+    },
     "22575695-vkontakte": {
         "id": "22575695-vkontakte",
         "nickname": "Ovcharb",
@@ -22,12 +28,6 @@
         "nickname": "sigismund",
         "booksCount": 1,
         "updatedAt": "2017-10-07 20:38:28"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 325,
-        "updatedAt": "2017-10-07 14:18:23"
     },
     "112152049213984389187-google": {
         "id": "112152049213984389187-google",
