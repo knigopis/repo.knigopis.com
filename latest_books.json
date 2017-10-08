@@ -1,4 +1,16 @@
 {
+    "ia57PsXAOZ": {
+        "id": "ia57PsXAOZ",
+        "title": "Из автобиографической прозы.",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-10-08 14:32:14",
+        "user": {
+            "id": "107655526900000657481-google",
+            "nickname": "ana.21",
+            "booksCount": 327
+        }
+    },
     "ENfvttg3du": {
         "id": "ENfvttg3du",
         "title": "Из \"Записок на манжетах\".",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 153
-        }
-    },
-    "x2QiAONhK4": {
-        "id": "x2QiAONhK4",
-        "title": "Самогонное озеро.",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-05 12:44:14",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 323
         }
     }
 }
