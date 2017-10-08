@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 29,
+        "updatedAt": "2017-10-08 09:16:51"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -88,12 +94,6 @@
         "nickname": "nadisvid",
         "booksCount": 28,
         "updatedAt": "2017-10-04 13:29:18"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 28,
-        "updatedAt": "2017-10-04 12:19:31"
     },
     "439398-vkontakte": {
         "id": "439398-vkontakte",

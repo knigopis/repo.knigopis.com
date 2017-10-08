@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>28</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>29</sup>
 ---
 
 ## 2017
+
+### Секс, деньги, счастье и смерть. В поисках себя
+Врис Манфред Кетс де
+> [2017-10-08] 5
+
 
 ### Мозг и любовь
 Дэниел Дж. Амен
