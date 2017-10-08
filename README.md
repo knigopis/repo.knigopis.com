@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ana.21](users/107/107655526900000657481-google)<sup>327</sup> 
+[ana.21](users/107/107655526900000657481-google)<sup>326</sup> 
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>29</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>562</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Xena](users/111/111414612870924829673-google)<sup>0</sup> 
 
 
-_08.10.2017 14:31:29_
+_08.10.2017 14:31:44_
