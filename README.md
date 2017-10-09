@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>81</sup> 
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>329</sup> 
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sigismund](users/181/181663004-vkontakte)<sup>1</sup> 
 [Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>129</sup> 
-[International master](users/741/74140988-vkontakte)<sup>80</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>32</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andrs7](users/165/16532414-vkontakte)<sup>0</sup> 
 
 
-_09.10.2017 07:46:25_
+_09.10.2017 10:44:25_

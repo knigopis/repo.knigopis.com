@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>80</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>81</sup>
 ---
 
 ## 2017
+
+### Полиглот по собственному желанию: Уникальный метод Amolingua
+Екатерина Матвеева
+> [2017-10-09] 
+
 
 ### Илон Маск: Tesla, SpaceX и дорога в будущее
 Эшли Вэнс
