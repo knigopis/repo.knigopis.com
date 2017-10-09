@@ -1,4 +1,16 @@
 {
+    "wdz0t2wf__": {
+        "id": "wdz0t2wf__",
+        "title": "\"Всадник без головы\"",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2017-10-09 16:43:12",
+        "user": {
+            "id": "12305926-vkontakte",
+            "nickname": "beseno_ok",
+            "booksCount": 2
+        }
+    },
     "ea-erFoyFH": {
         "id": "ea-erFoyFH",
         "title": "Жена путешественника во времени",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 20
-        }
-    },
-    "z0sY-Vi_iv": {
-        "id": "z0sY-Vi_iv",
-        "title": "Дом Чёрного Дрозда",
-        "author": "Элис Хоффман",
-        "notes": "Мистическая летопись одного дома. семейная сага, символизм, истории людей.",
-        "createdAt": "2017-10-06 12:28:51",
-        "user": {
-            "id": "56332-vkontakte",
-            "nickname": "KsenSergeevna",
-            "booksCount": 1
         }
     }
 }

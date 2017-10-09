@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[beseno_ok](users/123/12305926-vkontakte)<sup>0</sup> 
+[beseno_ok](users/123/12305926-vkontakte)<sup>2</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>81</sup> 
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [chudovache](users/167/16769871-vkontakte)<sup>1</sup> 
 
 
-_09.10.2017 16:41:31_
+_09.10.2017 16:43:12_
