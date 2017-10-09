@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Querqus](users/165/1659822494090704-facebook)<sup>0</sup> 
+[Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>81</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 
 
-_09.10.2017 20:43:58_
+_09.10.2017 20:44:35_
