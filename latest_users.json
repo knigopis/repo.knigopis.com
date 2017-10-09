@@ -1,4 +1,10 @@
 {
+    "1659822494090704-facebook": {
+        "id": "1659822494090704-facebook",
+        "nickname": "Querqus",
+        "booksCount": 0,
+        "updatedAt": "2017-10-09 20:43:56"
+    },
     "12305926-vkontakte": {
         "id": "12305926-vkontakte",
         "nickname": "beseno_ok",
@@ -172,11 +178,5 @@
         "nickname": "shatilin.vlad",
         "booksCount": 0,
         "updatedAt": "2017-10-02 01:36:30"
-    },
-    "16769871-vkontakte": {
-        "id": "16769871-vkontakte",
-        "nickname": "chudovache",
-        "booksCount": 1,
-        "updatedAt": "2017-10-01 17:06:16"
     }
 }
