@@ -1,4 +1,10 @@
 {
+    "12305926-vkontakte": {
+        "id": "12305926-vkontakte",
+        "nickname": "beseno_ok",
+        "booksCount": 0,
+        "updatedAt": "2017-10-09 16:41:29"
+    },
     "430717602-vkontakte": {
         "id": "430717602-vkontakte",
         "nickname": "Teona",
@@ -172,11 +178,5 @@
         "nickname": "chudovache",
         "booksCount": 1,
         "updatedAt": "2017-10-01 17:06:16"
-    },
-    "116733625041341449770-google": {
-        "id": "116733625041341449770-google",
-        "nickname": "Wenir",
-        "booksCount": 1,
-        "updatedAt": "2017-10-01 12:08:40"
     }
 }
