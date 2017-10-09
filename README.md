@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Teona](users/430/430717602-vkontakte)<sup>0</sup> 
+[Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>81</sup> 
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>329</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Wenir](users/116/116733625041341449770-google)<sup>1</sup> 
 
 
-_09.10.2017 13:57:37_
+_09.10.2017 15:53:56_
