@@ -1,6 +1,9 @@
 # Wish list of books by [Teona](https://www.instagram.com/vika_kydrashova/)
 ---
 
+### `100` Милый друг
+Ги де Мопассан
+
 ### `50` Книжный вор
 Маркус Зузак
 
