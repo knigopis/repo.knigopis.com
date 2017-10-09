@@ -1,4 +1,10 @@
 {
+    "52806613-vkontakte": {
+        "id": "52806613-vkontakte",
+        "nickname": "elenkawhite",
+        "booksCount": 0,
+        "updatedAt": "2017-10-09 07:46:21"
+    },
     "107655526900000657481-google": {
         "id": "107655526900000657481-google",
         "nickname": "ana.21",
@@ -172,11 +178,5 @@
         "nickname": "andrs7",
         "booksCount": 0,
         "updatedAt": "2017-09-30 18:43:49"
-    },
-    "111414612870924829673-google": {
-        "id": "111414612870924829673-google",
-        "nickname": "Xena",
-        "booksCount": 0,
-        "updatedAt": "2017-09-30 15:06:04"
     }
 }
