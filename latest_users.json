@@ -1,4 +1,10 @@
 {
+    "430717602-vkontakte": {
+        "id": "430717602-vkontakte",
+        "nickname": "Teona",
+        "booksCount": 0,
+        "updatedAt": "2017-10-09 13:57:36"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "Wenir",
         "booksCount": 1,
         "updatedAt": "2017-10-01 12:08:40"
-    },
-    "16532414-vkontakte": {
-        "id": "16532414-vkontakte",
-        "nickname": "andrs7",
-        "booksCount": 0,
-        "updatedAt": "2017-09-30 18:43:49"
     }
 }
