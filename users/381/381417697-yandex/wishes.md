@@ -1,15 +1,9 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Bzhxhxjdh
-> // todo
+### `99` книга
 
-### `99` Ррр
-Еее
-> Аааа
-
-### `99` Маленький принц
-> // todo
+### `99` книга
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
