@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
+    > Реб Михаэль Климрод в попытке создать свою страну.
+    > Гений.
+
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
     > История о том, как провинциальный инкассатор казенные деньги в Москве потратил.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Зачем я это читала?????? Я очень люблю фантастику,  мир очень хорошо прописан,  переводчик тоже постарался... но какая это ......
 
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
-    > Роман английского писателя Даниэля Дефо, впервые опубликованный в апреле 1719 года, повествующий о нравственном возрождении человека в общении с природой и обессмертивший имя автора. Написан как автобиография морского путешественника и плантатора Робинзона Крузо, желавшего ещё более разбогатеть скорым и нелегальным путём, но в результате кораблекрушения попавшего на необитаемый остров и проведшего там 28 лет. Сам Дефо называл свой роман аллегорией
 
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
 
-* Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>272</sup> 
-[gailina](users/128/12816075-vkontakte)<sup>0</sup> 
 
 
-_10.10.2017 12:45:20_
+_10.10.2017 15:07:07_

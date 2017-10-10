@@ -1,4 +1,16 @@
 {
+    "WbiOzV1DP5": {
+        "id": "WbiOzV1DP5",
+        "title": "Зеленый король",
+        "author": "Поль Лу Сулицер",
+        "notes": "Реб Михаэль Климрод в попытке создать свою страну.\nГений.",
+        "createdAt": "2017-10-10 15:07:07",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 53
+        }
+    },
     "zyFj24voUS": {
         "id": "zyFj24voUS",
         "title": "Eat that frog",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 24
-        }
-    },
-    "XmNWWO219j": {
-        "id": "XmNWWO219j",
-        "title": "Часы",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-10-06 18:09:53",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 23
         }
     }
 }

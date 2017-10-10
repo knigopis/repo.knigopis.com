@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
@@ -30,7 +31,6 @@
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 * Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
-* Йй ~ [me](users/381/381417697-yandex)<sup>31</sup>
 
 
-_07.10.2017 14:18:24_
+_10.10.2017 15:07:07_
