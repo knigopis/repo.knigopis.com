@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Anton](users/100/1007576529-facebook)<sup>0</sup> 
+[Anton](users/100/1007576529-facebook)<sup>1</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
 
 
-_10.10.2017 09:20:14_
+_10.10.2017 09:20:35_
