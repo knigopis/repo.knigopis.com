@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anton](users/100/1007576529-facebook)<sup>0</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>272</sup> 
 [gailina](users/128/12816075-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
-[shatilin.vlad](users/962/96248564-vkontakte)<sup>0</sup> 
 
 
-_09.10.2017 20:44:35_
+_10.10.2017 09:20:14_
