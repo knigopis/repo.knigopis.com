@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>272</sup> 
 [gailina](users/128/12816075-vkontakte)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>142</sup> 
 
 
-_10.10.2017 11:07:36_
+_10.10.2017 12:45:20_
