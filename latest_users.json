@@ -1,4 +1,10 @@
 {
+    "70819466-vkontakte": {
+        "id": "70819466-vkontakte",
+        "nickname": "limonka_510",
+        "booksCount": 0,
+        "updatedAt": "2017-10-10 12:45:18"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "gailina",
         "booksCount": 0,
         "updatedAt": "2017-10-02 12:33:42"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 142,
-        "updatedAt": "2017-10-02 01:37:55"
     }
 }
