@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>29</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>30</sup>
 ---
 
 ## 2017
+
+### Eat that frog
+Brian Tracy
+> [2017-10-10] 5!
+
 
 ### Секс, деньги, счастье и смерть. В поисках себя
 Врис Манфред Кетс де

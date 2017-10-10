@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>329</sup> 
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>29</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>562</sup> 
 [sigismund](users/181/181663004-vkontakte)<sup>1</sup> 
 [Satori](users/112/112152049213984389187-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>142</sup> 
 
 
-_10.10.2017 09:20:35_
+_10.10.2017 11:07:36_

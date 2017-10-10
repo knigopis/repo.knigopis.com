@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 30,
+        "updatedAt": "2017-10-10 11:07:36"
+    },
     "1007576529-facebook": {
         "id": "1007576529-facebook",
         "nickname": "Anton",
@@ -46,12 +52,6 @@
         "nickname": "Ovcharb",
         "booksCount": 0,
         "updatedAt": "2017-10-08 11:42:10"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 29,
-        "updatedAt": "2017-10-08 09:16:51"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
