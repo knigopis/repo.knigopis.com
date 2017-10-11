@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 10,
+        "updatedAt": "2017-10-11 09:01:32"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 21,
         "updatedAt": "2017-10-02 18:53:56"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 272,
-        "updatedAt": "2017-10-02 18:01:35"
     }
 }

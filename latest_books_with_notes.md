@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
 * Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
 * Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
-* Й ~ [me](users/381/381417697-yandex)<sup>32</sup>
 
 
-_10.10.2017 15:07:07_
+_11.10.2017 09:01:32_

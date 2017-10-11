@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
+    > Книга не в моем вкусе, однако дочитала до конца, поскольку очень понравился слог автора. переживания и эмоции главных героев захватывают с головой, на столько колоритно и полно прописаны, что ощущаешь себя на их месте и переносишь их страдания вместе с ними. я даже не замечала перелистываемых страниц и происходящего вокруг.
+
 * Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
     > Реб Михаэль Климрод в попытке создать свою страну.
     > Гений.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > История о том, как провинциальный инкассатор казенные деньги в Москве потратил.
 
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
-    > Зачем я это читала?????? Я очень люблю фантастику,  мир очень хорошо прописан,  переводчик тоже постарался... но какая это ......
 
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
 
-* Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>10</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>272</sup> 
 
 
-_10.10.2017 15:07:07_
+_11.10.2017 09:01:32_
