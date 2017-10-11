@@ -1,4 +1,10 @@
 {
+    "74945125-vkontakte": {
+        "id": "74945125-vkontakte",
+        "nickname": "rpbegemotik",
+        "booksCount": 0,
+        "updatedAt": "2017-10-11 19:07:51"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "ulanovnicolas",
         "booksCount": 1,
         "updatedAt": "2017-10-03 05:47:27"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 21,
-        "updatedAt": "2017-10-02 18:53:56"
     }
 }
