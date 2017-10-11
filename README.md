@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>11</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>13</sup> 
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
 [ulanovnicolas](users/108/10879683-vkontakte)<sup>1</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
 
 
-_11.10.2017 09:04:13_
+_11.10.2017 19:07:53_
