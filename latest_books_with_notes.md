@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Возрождение. Книга 6 ~ [En](users/333/333646551-vkontakte)<sup>11</sup>
 * Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
 * Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
@@ -30,7 +31,6 @@
 * Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
 * В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
-* Трололо ~ [me](users/381/381417697-yandex)<sup>32</sup>
 
 
-_11.10.2017 09:01:32_
+_11.10.2017 09:04:13_

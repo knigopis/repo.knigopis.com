@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Возрождение. Книга 6 ~ [En](users/333/333646551-vkontakte)<sup>11</sup>
+    > Более живая на события и эмоции книга, чем 5 часть. Достаточно интересно было читать, но показалась немного затянутой и не законченной. В 7-ой книге говорится, что она как продолжение 6-ой идет и тогда понятно почему казалась затянута 6-ая часть.
+
 * Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
     > Книга не в моем вкусе, однако дочитала до конца, поскольку очень понравился слог автора. переживания и эмоции главных героев захватывают с головой, на столько колоритно и полно прописаны, что ощущаешь себя на их месте и переносишь их страдания вместе с ними. я даже не замечала перелистываемых страниц и происходящего вокруг.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Гений.
 
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
-    > История о том, как провинциальный инкассатор казенные деньги в Москве потратил.
 
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 
-* Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>10</sup> 
+[En](users/333/333646551-vkontakte)<sup>11</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>21</sup> 
 
 
-_11.10.2017 09:01:32_
+_11.10.2017 09:04:13_
