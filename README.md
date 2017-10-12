@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Над пропастью во ржи ~ [Garka](users/115/115753719718250012620-google)<sup>154</sup>
+    > Бредятина с претензией на философию
+
 * Древний. Возрождение. Книга 6 ~ [En](users/333/333646551-vkontakte)<sup>11</sup>
     > Более живая на события и эмоции книга, чем 5 часть. Достаточно интересно было читать, но показалась немного затянутой и не законченной. В 7-ой книге говорится, что она как продолжение 6-ой идет и тогда понятно почему казалась затянута 6-ая часть.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Книга не в моем вкусе, однако дочитала до конца, поскольку очень понравился слог автора. переживания и эмоции главных героев захватывают с головой, на столько колоритно и полно прописаны, что ощущаешь себя на их месте и переносишь их страдания вместе с ними. я даже не замечала перелистываемых страниц и происходящего вокруг.
 
 * Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
-    > Реб Михаэль Климрод в попытке создать свою страну.
-    > Гений.
 
 * Бубновая история. ~ [ana.21](users/107/107655526900000657481-google)<sup>325</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Десять негритят ~ [Garka](users/115/115753719718250012620-google)<sup>153</sup>
 
-* Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>11</sup> 
@@ -58,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>40</sup> 
 [sachek](users/102/10214634850368705-facebook)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>40</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>153</sup> 
 [nnataly3](users/105/105530547016444143560-google)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>56</sup> 
 
 
-_12.10.2017 04:03:42_
+_12.10.2017 12:37:51_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Над пропастью во ржи ~ [Garka](users/115/115753719718250012620-google)<sup>154</sup>
 * Древний. Возрождение. Книга 6 ~ [En](users/333/333646551-vkontakte)<sup>11</sup>
 * Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
 * Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Гамлет ~ [Saamy](users/115/115226508-vkontakte)<sup>20</sup>
 * Новая весна ~ [Garka](users/115/115753719718250012620-google)<sup>151</sup>
 * Под сенью девушек в цвету ~ [anvonamore](users/595/5957175-vkontakte)<sup>114</sup>
-* В сторону Свана ~ [anvonamore](users/595/5957175-vkontakte)<sup>113</sup>
 
 
-_11.10.2017 09:04:13_
+_12.10.2017 12:37:51_
