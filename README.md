@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[antasiar](users/688/68827372-vkontakte)<sup>113</sup> 
+[antasiar](users/688/68827372-vkontakte)<sup>114</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>36</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 
 
-_12.10.2017 20:09:56_
+_12.10.2017 20:10:43_
