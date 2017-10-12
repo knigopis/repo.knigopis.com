@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alex](users/106/106644083867140961454-google)<sup>33</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>129</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
-[Alex](users/106/106644083867140961454-google)<sup>32</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>40</sup> 
 [sachek](users/102/10214634850368705-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kertender](users/228/228182315-vkontakte)<sup>13</sup> 
 
 
-_12.10.2017 15:35:20_
+_12.10.2017 17:36:51_
