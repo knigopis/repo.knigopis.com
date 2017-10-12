@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Effective Java
+### `99` Eff. Java
 Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
