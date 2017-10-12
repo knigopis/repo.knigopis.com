@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>1</sup> 
 [kertender](users/228/228182315-vkontakte)<sup>13</sup> 
-[rNix](users/115/115622071-twitter)<sup>56</sup> 
 
 
-_12.10.2017 12:37:51_
+_12.10.2017 15:25:56_

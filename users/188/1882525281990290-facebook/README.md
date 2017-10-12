@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>32</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>33</sup>
 ---
 
 ## 2017
+
+### Чуб щемли
+Макс Фрай
+> [2017-10-12] 
+
 
 ### Мой Рагнарек
 Макс Фрай
