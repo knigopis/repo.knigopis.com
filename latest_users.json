@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 273,
+        "updatedAt": "2017-10-12 04:03:42"
+    },
     "74945125-vkontakte": {
         "id": "74945125-vkontakte",
         "nickname": "rpbegemotik",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 56,
         "updatedAt": "2017-10-03 13:01:39"
-    },
-    "10879683-vkontakte": {
-        "id": "10879683-vkontakte",
-        "nickname": "ulanovnicolas",
-        "booksCount": 1,
-        "updatedAt": "2017-10-03 05:47:27"
     }
 }
