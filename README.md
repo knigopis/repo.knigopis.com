@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>36</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nnataly3](users/105/105530547016444143560-google)<sup>0</sup> 
 [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 [realest1954](users/439/439398-vkontakte)<sup>1</sup> 
-[kertender](users/228/228182315-vkontakte)<sup>13</sup> 
 
 
-_12.10.2017 17:43:28_
+_12.10.2017 19:33:45_

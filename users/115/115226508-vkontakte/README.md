@@ -1,7 +1,10 @@
-# List of books read by [Saamy](http://vk.com/id115226508)<sup>21</sup>
+# List of books read by [Saamy](http://vk.com/id115226508)<sup>22</sup>
 ---
 
 ## 2017
+
+> [2017-10-12] 
+
 
 ### Фантастические Создания
 Нил Гейман

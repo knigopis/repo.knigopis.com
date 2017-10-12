@@ -1,4 +1,16 @@
 {
+    "r7-vXcfact": {
+        "id": "r7-vXcfact",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-10-12 19:33:45",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 22
+        }
+    },
     "lxc_5YJvgM": {
         "id": "lxc_5YJvgM",
         "title": "На Западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 80
-        }
-    },
-    "EwwhNAFvI_": {
-        "id": "EwwhNAFvI_",
-        "title": "Хочу и буду: Принять себя, полюбить жизнь и стать счастливым",
-        "author": "Михаил Лабковский",
-        "notes": "",
-        "createdAt": "2017-10-06 20:10:01",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 79
         }
     }
 }
