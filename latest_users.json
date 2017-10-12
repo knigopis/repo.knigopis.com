@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 113,
+        "updatedAt": "2017-10-12 20:09:56"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "nadisvid",
         "booksCount": 28,
         "updatedAt": "2017-10-04 13:29:18"
-    },
-    "439398-vkontakte": {
-        "id": "439398-vkontakte",
-        "nickname": "realest1954",
-        "booksCount": 1,
-        "updatedAt": "2017-10-04 11:09:41"
     }
 }
