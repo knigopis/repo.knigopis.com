@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>34</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>35</sup>
 ---
 
 ## 2017
+
+### Чуб земли
+Макс Фрай
+> [2017-10-12] 
+
 
 ### Чуб земли
 Макс Фрай
