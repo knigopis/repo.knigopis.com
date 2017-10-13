@@ -1,4 +1,16 @@
 {
+    "0CmopBt9mV": {
+        "id": "0CmopBt9mV",
+        "title": "Путешествия Гулливера",
+        "author": "Джонатан Свифт",
+        "notes": "",
+        "createdAt": "2017-10-13 18:33:02",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 44
+        }
+    },
     "_GdQ9dYeeA": {
         "id": "_GdQ9dYeeA",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "430717602-vkontakte",
             "nickname": "Teona",
             "booksCount": 1
-        }
-    },
-    "r5-YvCluzv": {
-        "id": "r5-YvCluzv",
-        "title": "Полиглот по собственному желанию: Уникальный метод Amolingua",
-        "author": "Екатерина Матвеева",
-        "notes": "",
-        "createdAt": "2017-10-09 10:44:25",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 81
         }
     }
 }

@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Alex](users/106/106644083867140961454-google)<sup>43</sup> 
+[Alex](users/106/106644083867140961454-google)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>114</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>40</sup> 
 
 
-_13.10.2017 18:31:23_
+_13.10.2017 18:33:02_
