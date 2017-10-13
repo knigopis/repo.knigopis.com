@@ -1,4 +1,16 @@
 {
+    "twyGtJrFSJ": {
+        "id": "twyGtJrFSJ",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-10-13 18:26:33",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 41
+        }
+    },
     "CCJHxrzsW1": {
         "id": "CCJHxrzsW1",
         "title": "Маленький принц",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 328
-        }
-    },
-    "ia57PsXAOZ": {
-        "id": "ia57PsXAOZ",
-        "title": "Из автобиографической прозы.",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-08 14:32:14",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 327
         }
     }
 }

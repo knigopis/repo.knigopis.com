@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>40</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>41</sup>
 ---
 
 ## 2017
@@ -87,6 +87,10 @@
 
 
 ## Other years
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
