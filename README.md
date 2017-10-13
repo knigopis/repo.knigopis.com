@@ -39,11 +39,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alex](users/106/106644083867140961454-google)<sup>37</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>114</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
-[Alex](users/106/106644083867140961454-google)<sup>36</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>40</sup> 
 
 
-_13.10.2017 17:00:13_
+_13.10.2017 18:10:10_

@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>36</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>37</sup>
 ---
 
 ## 2017
@@ -87,6 +87,10 @@
 
 
 ## Other years
+
+### Идиот
+Федор Достоевский
+
 
 ### Сын охотника на медведей
 Томас Майн Рид, Карл Май, Джеймс Фенимор Купер

@@ -1,4 +1,16 @@
 {
+    "fKTrzkDaVr": {
+        "id": "fKTrzkDaVr",
+        "title": "Идиот",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2017-10-13 18:10:10",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 37
+        }
+    },
     "jEGs0ul6n9": {
         "id": "jEGs0ul6n9",
         "title": "Книга диаграмм. Визуальное решение задач в бизнесе и карьере",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 562
-        }
-    },
-    "VvXE2YPNsx": {
-        "id": "VvXE2YPNsx",
-        "title": "хохот шамана",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-10-07 20:38:28",
-        "user": {
-            "id": "181663004-vkontakte",
-            "nickname": "sigismund",
-            "booksCount": 1
         }
     }
 }

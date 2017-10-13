@@ -1,4 +1,10 @@
 {
+    "106644083867140961454-google": {
+        "id": "106644083867140961454-google",
+        "nickname": "Alex",
+        "booksCount": 37,
+        "updatedAt": "2017-10-13 18:10:10"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -22,12 +28,6 @@
         "nickname": "Saamy",
         "booksCount": 22,
         "updatedAt": "2017-10-12 19:33:45"
-    },
-    "106644083867140961454-google": {
-        "id": "106644083867140961454-google",
-        "nickname": "Alex",
-        "booksCount": 36,
-        "updatedAt": "2017-10-12 17:43:28"
     },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",
