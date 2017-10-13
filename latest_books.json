@@ -1,4 +1,16 @@
 {
+    "UzFsqM9Mv6": {
+        "id": "UzFsqM9Mv6",
+        "title": "Горе от ума",
+        "author": "Александр Грибоедов",
+        "notes": "",
+        "createdAt": "2017-10-13 18:29:31",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 42
+        }
+    },
     "twyGtJrFSJ": {
         "id": "twyGtJrFSJ",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 329
-        }
-    },
-    "CuvDkN8PGi": {
-        "id": "CuvDkN8PGi",
-        "title": "\"Был май...\"",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-08 14:32:38",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 328
         }
     }
 }
