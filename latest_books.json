@@ -1,4 +1,16 @@
 {
+    "jEGs0ul6n9": {
+        "id": "jEGs0ul6n9",
+        "title": "Книга диаграмм. Визуальное решение задач в бизнесе и карьере",
+        "author": "Кевин Дункан",
+        "notes": "https://www.ozon.ru/context/detail/id/135453229/\n\nв процессе",
+        "createdAt": "2017-10-13 17:00:13",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 127
+        }
+    },
     "ZXIg_rvQls": {
         "id": "ZXIg_rvQls",
         "title": "Где Мой Сыр?",
@@ -345,18 +357,6 @@
             "id": "181663004-vkontakte",
             "nickname": "sigismund",
             "booksCount": 1
-        }
-    },
-    "vJhVc7qPiB": {
-        "id": "vJhVc7qPiB",
-        "title": "Бубновая история.",
-        "author": "Михаил Булгаков",
-        "notes": "История о том, как провинциальный инкассатор казенные деньги в Москве потратил.",
-        "createdAt": "2017-10-07 14:18:23",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 325
         }
     }
 }
