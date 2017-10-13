@@ -1,4 +1,16 @@
 {
+    "w4EXvzMdbR": {
+        "id": "w4EXvzMdbR",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдин",
+        "notes": "",
+        "createdAt": "2017-10-13 18:24:47",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 39
+        }
+    },
     "Moodl9Vh8x": {
         "id": "Moodl9Vh8x",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 327
-        }
-    },
-    "uj11tCKQho": {
-        "id": "uj11tCKQho",
-        "title": "Секс, деньги, счастье и смерть. В поисках себя",
-        "author": "Врис Манфред Кетс де",
-        "notes": "5",
-        "createdAt": "2017-10-08 09:16:51",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 29
         }
     }
 }
