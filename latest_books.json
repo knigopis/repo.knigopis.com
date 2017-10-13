@@ -1,4 +1,16 @@
 {
+    "_GdQ9dYeeA": {
+        "id": "_GdQ9dYeeA",
+        "title": "Приключения Тома Сойера",
+        "author": "Марк Твен",
+        "notes": "",
+        "createdAt": "2017-10-13 18:31:23",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 43
+        }
+    },
     "UzFsqM9Mv6": {
         "id": "UzFsqM9Mv6",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 81
-        }
-    },
-    "JUNrFmL9Kb": {
-        "id": "JUNrFmL9Kb",
-        "title": "Налет.",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-08 14:32:52",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 329
         }
     }
 }
