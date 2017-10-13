@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 126,
+        "updatedAt": "2017-10-13 16:57:38"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 40,
         "updatedAt": "2017-10-05 16:38:51"
-    },
-    "105530547016444143560-google": {
-        "id": "105530547016444143560-google",
-        "nickname": "nnataly3",
-        "booksCount": 0,
-        "updatedAt": "2017-10-04 14:10:15"
     }
 }
