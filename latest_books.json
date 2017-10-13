@@ -1,4 +1,16 @@
 {
+    "0nFN6A8C_r": {
+        "id": "0nFN6A8C_r",
+        "title": "Невротическая потребность в любви",
+        "author": "Карен Хорни",
+        "notes": "",
+        "createdAt": "2017-10-13 03:05:46",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 225
+        }
+    },
     "Nnw0KOvwXf": {
         "id": "Nnw0KOvwXf",
         "title": "Подых навальніцы",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 130
-        }
-    },
-    "wRC6cZRJrO": {
-        "id": "wRC6cZRJrO",
-        "title": "Игра Эндера",
-        "author": "Орсон Скотт Кард",
-        "notes": "",
-        "createdAt": "2017-10-07 07:13:36",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 129
         }
     }
 }

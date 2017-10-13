@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 225,
+        "updatedAt": "2017-10-13 03:05:46"
+    },
     "68827372-vkontakte": {
         "id": "68827372-vkontakte",
         "nickname": "antasiar",
@@ -172,11 +178,5 @@
         "nickname": "nnataly3",
         "booksCount": 0,
         "updatedAt": "2017-10-04 14:10:15"
-    },
-    "1138852626183846-facebook": {
-        "id": "1138852626183846-facebook",
-        "nickname": "nadisvid",
-        "booksCount": 28,
-        "updatedAt": "2017-10-04 13:29:18"
     }
 }

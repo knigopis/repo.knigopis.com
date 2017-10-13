@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>114</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>36</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sachek](users/102/10214634850368705-facebook)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>40</sup> 
 [nnataly3](users/105/105530547016444143560-google)<sup>0</sup> 
-[nadisvid](users/113/1138852626183846-facebook)<sup>28</sup> 
 
 
-_12.10.2017 20:10:43_
+_13.10.2017 03:05:46_
