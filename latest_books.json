@@ -1,4 +1,16 @@
 {
+    "CCJHxrzsW1": {
+        "id": "CCJHxrzsW1",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-10-13 18:26:05",
+        "user": {
+            "id": "106644083867140961454-google",
+            "nickname": "Alex",
+            "booksCount": 40
+        }
+    },
     "w4EXvzMdbR": {
         "id": "w4EXvzMdbR",
         "title": "Повелитель мух",
@@ -341,18 +353,6 @@
         "author": "Михаил Булгаков",
         "notes": "",
         "createdAt": "2017-10-08 14:32:14",
-        "user": {
-            "id": "107655526900000657481-google",
-            "nickname": "ana.21",
-            "booksCount": 327
-        }
-    },
-    "ENfvttg3du": {
-        "id": "ENfvttg3du",
-        "title": "Из \"Записок на манжетах\".",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-08 14:31:29",
         "user": {
             "id": "107655526900000657481-google",
             "nickname": "ana.21",

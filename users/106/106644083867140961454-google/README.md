@@ -1,4 +1,4 @@
-# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>39</sup>
+# List of books read by [Alex](https://plus.google.com/106644083867140961454)<sup>40</sup>
 ---
 
 ## 2017
@@ -87,6 +87,10 @@
 
 
 ## Other years
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Повелитель мух
 Уильям Голдин
