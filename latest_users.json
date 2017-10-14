@@ -1,4 +1,10 @@
 {
+    "320068980-vkontakte": {
+        "id": "320068980-vkontakte",
+        "nickname": "milk_friend666",
+        "booksCount": 0,
+        "updatedAt": "2017-10-14 20:38:07"
+    },
     "108312916368903724576-google": {
         "id": "108312916368903724576-google",
         "nickname": "Anton_G",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 129,
         "updatedAt": "2017-10-07 07:17:41"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 32,
-        "updatedAt": "2017-10-06 19:33:10"
     }
 }
