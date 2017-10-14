@@ -1,4 +1,16 @@
 {
+    "KiUQ0VJyWL": {
+        "id": "KiUQ0VJyWL",
+        "title": "Владыка ледяного сада: Ночной Странник - Гжендович Ярослав",
+        "author": "Роман",
+        "notes": "",
+        "createdAt": "2017-10-14 14:52:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 93
+        }
+    },
     "BySrEi_0ft": {
         "id": "BySrEi_0ft",
         "title": "Полина.",
@@ -345,18 +357,6 @@
             "id": "1659822494090704-facebook",
             "nickname": "Querqus",
             "booksCount": 1
-        }
-    },
-    "wdz0t2wf__": {
-        "id": "wdz0t2wf__",
-        "title": "\"Всадник без головы\"",
-        "author": "Майн Рид",
-        "notes": "",
-        "createdAt": "2017-10-09 16:43:12",
-        "user": {
-            "id": "12305926-vkontakte",
-            "nickname": "beseno_ok",
-            "booksCount": 2
         }
     }
 }
