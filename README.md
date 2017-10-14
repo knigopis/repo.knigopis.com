@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tatyana_26](users/152/152918478-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>93</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>330</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>44</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>32</sup> 
 [KsenSergeevna](users/563/56332-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>40</sup> 
-[sachek](users/102/10214634850368705-facebook)<sup>0</sup> 
 
 
-_14.10.2017 14:52:38_
+_14.10.2017 17:16:34_
