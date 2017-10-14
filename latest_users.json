@@ -1,4 +1,10 @@
 {
+    "152918478-vkontakte": {
+        "id": "152918478-vkontakte",
+        "nickname": "tatyana_26",
+        "booksCount": 0,
+        "updatedAt": "2017-10-14 17:16:32"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 40,
         "updatedAt": "2017-10-06 05:23:07"
-    },
-    "10214634850368705-facebook": {
-        "id": "10214634850368705-facebook",
-        "nickname": "sachek",
-        "booksCount": 0,
-        "updatedAt": "2017-10-05 19:37:56"
     }
 }
