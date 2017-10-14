@@ -1,7 +1,13 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>40</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>41</sup>
 ---
 
 ## 2017
+
+### Снеговик
+Ю Несбё
+> [2017-10-14] Харри Холе 7
+> Гораздо лучше!
+
 
 ### Нетопырь
 Ю Несбё

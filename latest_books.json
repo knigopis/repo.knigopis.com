@@ -1,4 +1,16 @@
 {
+    "f10Qo9Ex53": {
+        "id": "f10Qo9Ex53",
+        "title": "Снеговик",
+        "author": "Ю Несбё",
+        "notes": "Харри Холе 7\nГораздо лучше!",
+        "createdAt": "2017-10-14 19:10:01",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 41
+        }
+    },
     "KiUQ0VJyWL": {
         "id": "KiUQ0VJyWL",
         "title": "Владыка ледяного сада: Ночной Странник - Гжендович Ярослав",
@@ -344,18 +356,6 @@
         "user": {
             "id": "1007576529-facebook",
             "nickname": "Anton",
-            "booksCount": 1
-        }
-    },
-    "JphmwrI4nU": {
-        "id": "JphmwrI4nU",
-        "title": "",
-        "author": "Акунин",
-        "notes": "",
-        "createdAt": "2017-10-09 20:44:35",
-        "user": {
-            "id": "1659822494090704-facebook",
-            "nickname": "Querqus",
             "booksCount": 1
         }
     }
