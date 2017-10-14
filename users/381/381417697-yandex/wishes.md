@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Eff. Java
+### `99` Effective Java
 Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
@@ -20,13 +20,6 @@ Dmitry Jemerov, Svetlana Isakova
 
 ### `61` Joel on Software
 Joel Spolsky
-
-### `60` Eff. Java
-Bloch
-> Прочитано 99%
-> // пропустил пункт про clone() -- перечитать
-> // пропустил часть 51 пункта про classloader -- перечитать
-> // пропустил 69, 70 -- читать
 
 ### `55` Learn You a Haskell for Great Good
 Miran Lipovača

@@ -2,9 +2,9 @@
     "id": "MnVcIITbHK",
     "userId": "381417697-yandex",
     "createdAt": "2016-07-16 19:42:48",
-    "updatedAt": "2016-07-18 00:21:14",
-    "title": "Eff. Java",
+    "updatedAt": "2017-10-14 19:17:21",
+    "title": "Effective Java",
     "author": "Bloch",
-    "priority": 60,
+    "priority": 99,
     "notes": "Прочитано 99%\n// пропустил пункт про clone() -- перечитать\n// пропустил часть 51 пункта про classloader -- перечитать\n// пропустил 69, 70 -- читать"
 }
