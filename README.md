@@ -36,13 +36,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alex](users/106/106644083867140961454-google)<sup>45</sup> 
 [milk_friend666](users/320/320068980-vkontakte)<sup>0</sup> 
 [Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 [tatyana_26](users/152/152918478-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>93</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>330</sup> 
-[Alex](users/106/106644083867140961454-google)<sup>44</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>114</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>129</sup> 
 
 
-_14.10.2017 20:38:08_
+_14.10.2017 21:26:40_
