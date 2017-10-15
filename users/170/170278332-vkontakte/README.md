@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>9</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>10</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### 1Q84. Книга 2
+Х. Мураками
 
 
 ### 1Q84. Книга 1

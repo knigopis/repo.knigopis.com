@@ -1,4 +1,16 @@
 {
+    "5zkl3To1MN": {
+        "id": "5zkl3To1MN",
+        "title": "1Q84. Книга 2",
+        "author": "Х. Мураками",
+        "notes": "",
+        "createdAt": "2017-10-15 16:07:20",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 10
+        }
+    },
     "x1HsXwzHTj": {
         "id": "x1HsXwzHTj",
         "title": "1Q84. Книга 1",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 126
-        }
-    },
-    "0nFN6A8C_r": {
-        "id": "0nFN6A8C_r",
-        "title": "Невротическая потребность в любви",
-        "author": "Карен Хорни",
-        "notes": "",
-        "createdAt": "2017-10-13 03:05:46",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 225
         }
     }
 }
