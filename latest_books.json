@@ -1,4 +1,16 @@
 {
+    "4AZft_HF5b": {
+        "id": "4AZft_HF5b",
+        "title": "Бесприданница",
+        "author": "А. Островский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:22:58",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 33
+        }
+    },
     "_oofOYLWEi": {
         "id": "_oofOYLWEi",
         "title": "Я дрался на \"Т-34\"",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 4
-        }
-    },
-    "vspTSUniJ6": {
-        "id": "vspTSUniJ6",
-        "title": "Три товарища",
-        "author": "Э. М. Ремарк",
-        "notes": "",
-        "createdAt": "2017-10-15 16:01:42",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 3
         }
     }
 }
