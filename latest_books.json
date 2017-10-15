@@ -1,4 +1,16 @@
 {
+    "ybQbNDphsr": {
+        "id": "ybQbNDphsr",
+        "title": "Мастер и маргарита",
+        "author": "М. Булгаков",
+        "notes": "",
+        "createdAt": "2017-10-15 16:08:34",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 12
+        }
+    },
     "y2bc4GUS6U": {
         "id": "y2bc4GUS6U",
         "title": "1Q84. Книга 3",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 37
-        }
-    },
-    "jEGs0ul6n9": {
-        "id": "jEGs0ul6n9",
-        "title": "Книга диаграмм. Визуальное решение задач в бизнесе и карьере",
-        "author": "Кевин Дункан",
-        "notes": "https://www.ozon.ru/context/detail/id/135453229/\n\nв процессе",
-        "createdAt": "2017-10-13 17:00:13",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 127
         }
     }
 }

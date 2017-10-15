@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>11</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>12</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### Мастер и маргарита
+М. Булгаков
 
 
 ### 1Q84. Книга 3
