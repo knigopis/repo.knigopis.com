@@ -1,4 +1,16 @@
 {
+    "Pz_vS0grGl": {
+        "id": "Pz_vS0grGl",
+        "title": "Белый клык",
+        "author": "Д. Лондон",
+        "notes": "",
+        "createdAt": "2017-10-15 16:11:10",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 18
+        }
+    },
     "6KvBeI-sDg": {
         "id": "6KvBeI-sDg",
         "title": "Ведьмак. Последнее желание. Меч предназначения",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 43
-        }
-    },
-    "UzFsqM9Mv6": {
-        "id": "UzFsqM9Mv6",
-        "title": "Горе от ума",
-        "author": "Александр Грибоедов",
-        "notes": "",
-        "createdAt": "2017-10-13 18:29:31",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 42
         }
     }
 }
