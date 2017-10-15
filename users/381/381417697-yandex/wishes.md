@@ -1,13 +1,13 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-
 ### `99` Effective Java
 Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
+
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
