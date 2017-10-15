@@ -1,4 +1,16 @@
 {
+    "tMcWbYbxfT": {
+        "id": "tMcWbYbxfT",
+        "title": "Самурай. Легендарный летчик Императорского военно-морского флота Японии",
+        "author": "Сабуро Сакаи",
+        "notes": "",
+        "createdAt": "2017-10-15 16:20:19",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 28
+        }
+    },
     "5CoV9oHtja": {
         "id": "5CoV9oHtja",
         "title": "Михаил Строгов",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 563
-        }
-    },
-    "9mL_q6PPY8": {
-        "id": "9mL_q6PPY8",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-10-15 07:46:39",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 48
         }
     }
 }
