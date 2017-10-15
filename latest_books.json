@@ -1,4 +1,16 @@
 {
+    "0-UNaqz2GA": {
+        "id": "0-UNaqz2GA",
+        "title": "Челкаш",
+        "author": "М. Горький",
+        "notes": "",
+        "createdAt": "2017-10-15 16:24:29",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 36
+        }
+    },
     "pu25qqVYIE": {
         "id": "pu25qqVYIE",
         "title": "Трое в лодке, не считая собаки",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 7
-        }
-    },
-    "rH-f-y-znx": {
-        "id": "rH-f-y-znx",
-        "title": "Олеся",
-        "author": "А. Куприн",
-        "notes": "",
-        "createdAt": "2017-10-15 16:05:04",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 6
         }
     }
 }
