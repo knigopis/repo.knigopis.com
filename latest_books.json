@@ -1,4 +1,16 @@
 {
+    "pu25qqVYIE": {
+        "id": "pu25qqVYIE",
+        "title": "Трое в лодке, не считая собаки",
+        "author": "Д. К. Джером",
+        "notes": "",
+        "createdAt": "2017-10-15 16:24:14",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 35
+        }
+    },
     "5biKCZSSDR": {
         "id": "5biKCZSSDR",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 6
-        }
-    },
-    "_sYvtK7ngj": {
-        "id": "_sYvtK7ngj",
-        "title": "Поединок",
-        "author": "А. Куприн",
-        "notes": "",
-        "createdAt": "2017-10-15 16:04:45",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 5
         }
     }
 }
