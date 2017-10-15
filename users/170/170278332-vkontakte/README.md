@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>20</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>21</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### Завтра была война...
+Б. Васильев
 
 
 ### Очарованный странник
