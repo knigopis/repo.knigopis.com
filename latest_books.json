@@ -1,4 +1,16 @@
 {
+    "-pn2cz1djO": {
+        "id": "-pn2cz1djO",
+        "title": "Вишневый сад",
+        "author": "А. Чехов",
+        "notes": "",
+        "createdAt": "2017-10-15 16:05:49",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 7
+        }
+    },
     "rH-f-y-znx": {
         "id": "rH-f-y-znx",
         "title": "Олеся",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 113
-        }
-    },
-    "r7-vXcfact": {
-        "id": "r7-vXcfact",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-10-12 19:33:45",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 22
         }
     }
 }
