@@ -1,4 +1,16 @@
 {
+    "dMQVaNO7YE": {
+        "id": "dMQVaNO7YE",
+        "title": "451 градус по Фаренгейту",
+        "author": "Р. Брэдбери",
+        "notes": "",
+        "createdAt": "2017-10-15 16:09:33",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 14
+        }
+    },
     "qYg762I0Mf": {
         "id": "qYg762I0Mf",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 39
-        }
-    },
-    "Moodl9Vh8x": {
-        "id": "Moodl9Vh8x",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-13 18:10:58",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 38
         }
     }
 }
