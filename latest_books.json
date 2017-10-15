@@ -1,4 +1,16 @@
 {
+    "_oofOYLWEi": {
+        "id": "_oofOYLWEi",
+        "title": "Я дрался на \"Т-34\"",
+        "author": "Артем Драбкин",
+        "notes": "",
+        "createdAt": "2017-10-15 16:22:30",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 32
+        }
+    },
     "GZ0dopH6jI": {
         "id": "GZ0dopH6jI",
         "title": "Я дрался на \"Тигре\"",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 3
-        }
-    },
-    "I-nuZqgMP4": {
-        "id": "I-nuZqgMP4",
-        "title": "Война и мир",
-        "author": "Л. Толстой",
-        "notes": "",
-        "createdAt": "2017-10-15 16:01:22",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 2
         }
     }
 }
