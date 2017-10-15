@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>14</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>15</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### Ведьмак. Час презрения
+А. Сапковский
 
 
 ### 451 градус по Фаренгейту

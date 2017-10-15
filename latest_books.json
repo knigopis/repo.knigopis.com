@@ -1,4 +1,16 @@
 {
+    "R9n-jfP7h0": {
+        "id": "R9n-jfP7h0",
+        "title": "Ведьмак. Час презрения",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:09:54",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 15
+        }
+    },
     "dMQVaNO7YE": {
         "id": "dMQVaNO7YE",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 40
-        }
-    },
-    "w4EXvzMdbR": {
-        "id": "w4EXvzMdbR",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдин",
-        "notes": "",
-        "createdAt": "2017-10-13 18:24:47",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 39
         }
     }
 }
