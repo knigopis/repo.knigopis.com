@@ -1,4 +1,16 @@
 {
+    "-obx40y4gM": {
+        "id": "-obx40y4gM",
+        "title": "Ведьмак. Крещение огнем",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:06:20",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 8
+        }
+    },
     "-pn2cz1djO": {
         "id": "-pn2cz1djO",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 114
-        }
-    },
-    "Q53AxqMW7k": {
-        "id": "Q53AxqMW7k",
-        "title": "Людзі на балоце",
-        "author": "Іван Мележ",
-        "notes": "",
-        "createdAt": "2017-10-12 20:09:56",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 113
         }
     }
 }
