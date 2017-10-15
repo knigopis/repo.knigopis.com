@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>24</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>25</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### История одного города
+М. Салтыков-Щедрин
 
 
 ### Леди Макбет Мценского уезда

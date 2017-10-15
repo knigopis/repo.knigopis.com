@@ -1,4 +1,16 @@
 {
+    "AjcG-9-1q6": {
+        "id": "AjcG-9-1q6",
+        "title": "История одного города",
+        "author": "М. Салтыков-Щедрин",
+        "notes": "",
+        "createdAt": "2017-10-15 16:16:56",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 25
+        }
+    },
     "5yRqHMbLXI": {
         "id": "5yRqHMbLXI",
         "title": "Леди Макбет Мценского уезда",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 33
-        }
-    },
-    "MconQRNtoA": {
-        "id": "MconQRNtoA",
-        "title": "Любовь к жизни",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-10-14 21:46:24",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 46
         }
     }
 }
