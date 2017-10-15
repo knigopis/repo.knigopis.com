@@ -8,6 +8,9 @@ Joshua Bloch
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
 
+### `99` Повелитель мух
+Уильям Голдинг
+
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 
@@ -31,8 +34,6 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
 > Прочитано 6/49
-
-### `50` Повелитель мух
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
