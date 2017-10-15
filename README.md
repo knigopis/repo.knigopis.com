@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lexinvk](users/170/170278332-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>564</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
 [sigismund](users/181/181663004-vkontakte)<sup>1</sup> 
-[Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 
 
-_15.10.2017 14:33:59_
+_15.10.2017 15:58:37_
