@@ -1,4 +1,16 @@
 {
+    "LifoKI_lN-": {
+        "id": "LifoKI_lN-",
+        "title": "Ведьмак. Кровь эльфов",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:10:21",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 16
+        }
+    },
     "R9n-jfP7h0": {
         "id": "R9n-jfP7h0",
         "title": "Ведьмак. Час презрения",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 41
-        }
-    },
-    "CCJHxrzsW1": {
-        "id": "CCJHxrzsW1",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2017-10-13 18:26:05",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 40
         }
     }
 }
