@@ -1,4 +1,16 @@
 {
+    "_sYvtK7ngj": {
+        "id": "_sYvtK7ngj",
+        "title": "Поединок",
+        "author": "А. Куприн",
+        "notes": "",
+        "createdAt": "2017-10-15 16:04:45",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 5
+        }
+    },
     "iTs9jDw7_c": {
         "id": "iTs9jDw7_c",
         "title": "На дне",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 36
-        }
-    },
-    "L-8tSIfRBE": {
-        "id": "L-8tSIfRBE",
-        "title": "Машина времени",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-10-12 17:39:38",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 35
         }
     }
 }
