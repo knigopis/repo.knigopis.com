@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>563</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>564</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [milk_friend666](users/320/320068980-vkontakte)<sup>0</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Satori](users/112/112152049213984389187-google)<sup>0</sup> 
 
 
-_15.10.2017 14:33:30_
+_15.10.2017 14:33:59_

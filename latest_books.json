@@ -1,4 +1,16 @@
 {
+    "QLnX8sil_E": {
+        "id": "QLnX8sil_E",
+        "title": "Ночные кошмары",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-10-15 14:33:59",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 564
+        }
+    },
     "b80JlPelxo": {
         "id": "b80JlPelxo",
         "title": "Осень патриарха",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 33
-        }
-    },
-    "hyljWPJnKT": {
-        "id": "hyljWPJnKT",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер, Джером Дэвид",
-        "notes": "Бредятина с претензией на философию",
-        "createdAt": "2017-10-12 12:37:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 154
         }
     }
 }
