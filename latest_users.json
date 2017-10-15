@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 563,
+        "updatedAt": "2017-10-15 14:33:29"
+    },
     "106644083867140961454-google": {
         "id": "106644083867140961454-google",
         "nickname": "Alex",
@@ -160,12 +166,6 @@
         "nickname": "Ovcharb",
         "booksCount": 0,
         "updatedAt": "2017-10-08 11:42:10"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 562,
-        "updatedAt": "2017-10-08 09:12:20"
     },
     "181663004-vkontakte": {
         "id": "181663004-vkontakte",
