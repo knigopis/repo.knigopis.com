@@ -1,4 +1,16 @@
 {
+    "htQIcJZALU": {
+        "id": "htQIcJZALU",
+        "title": "Гроза",
+        "author": "А. Островский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:20:50",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 29
+        }
+    },
     "tMcWbYbxfT": {
         "id": "tMcWbYbxfT",
         "title": "Самурай. Легендарный летчик Императорского военно-морского флота Японии",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 564
-        }
-    },
-    "b80JlPelxo": {
-        "id": "b80JlPelxo",
-        "title": "Осень патриарха",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-10-15 14:33:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 563
         }
     }
 }
