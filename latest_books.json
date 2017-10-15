@@ -1,4 +1,16 @@
 {
+    "vspTSUniJ6": {
+        "id": "vspTSUniJ6",
+        "title": "Три товарища",
+        "author": "Э. М. Ремарк",
+        "notes": "",
+        "createdAt": "2017-10-15 16:01:42",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 3
+        }
+    },
     "I-nuZqgMP4": {
         "id": "I-nuZqgMP4",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 34
-        }
-    },
-    "IYj1912Y8-": {
-        "id": "IYj1912Y8-",
-        "title": "Человек в футляре",
-        "author": "Чехов",
-        "notes": "",
-        "createdAt": "2017-10-12 17:36:51",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 33
         }
     }
 }
