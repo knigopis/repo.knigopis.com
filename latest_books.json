@@ -1,4 +1,16 @@
 {
+    "x1HsXwzHTj": {
+        "id": "x1HsXwzHTj",
+        "title": "1Q84. Книга 1",
+        "author": "Х. Мураками",
+        "notes": "",
+        "createdAt": "2017-10-15 16:07:00",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 9
+        }
+    },
     "-obx40y4gM": {
         "id": "-obx40y4gM",
         "title": "Ведьмак. Крещение огнем",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 225
-        }
-    },
-    "Nnw0KOvwXf": {
-        "id": "Nnw0KOvwXf",
-        "title": "Подых навальніцы",
-        "author": "Іван Мележ",
-        "notes": "",
-        "createdAt": "2017-10-12 20:10:43",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 114
         }
     }
 }
