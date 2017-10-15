@@ -8,6 +8,8 @@ Bloch
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
 
+### `99` ккк
+
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
