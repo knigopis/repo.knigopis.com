@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>30</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>31</sup>
 ---
 
 ## 2017
@@ -100,6 +100,10 @@
 
 
 ## 2016
+
+### Я дрался на "Тигре"
+Артем Драбкин
+
 
 ### Небо войны
 А. Покрышкин

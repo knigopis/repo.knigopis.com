@@ -1,4 +1,16 @@
 {
+    "GZ0dopH6jI": {
+        "id": "GZ0dopH6jI",
+        "title": "Я дрался на \"Тигре\"",
+        "author": "Артем Драбкин",
+        "notes": "",
+        "createdAt": "2017-10-15 16:21:52",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 31
+        }
+    },
     "DDdDkCUYoW": {
         "id": "DDdDkCUYoW",
         "title": "Небо войны",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 2
-        }
-    },
-    "nJKXiuk1Sp": {
-        "id": "nJKXiuk1Sp",
-        "title": "Два капитана",
-        "author": "В. Каверин",
-        "notes": "",
-        "createdAt": "2017-10-15 16:00:58",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 1
         }
     }
 }
