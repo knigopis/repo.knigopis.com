@@ -2,7 +2,7 @@
 ---
 
 ### `99` Effective Java
-JoshuaBloch
+Joshua Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
