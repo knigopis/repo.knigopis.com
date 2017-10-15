@@ -1,4 +1,16 @@
 {
+    "5biKCZSSDR": {
+        "id": "5biKCZSSDR",
+        "title": "Отцы и дети",
+        "author": "И. Тургенев",
+        "notes": "",
+        "createdAt": "2017-10-15 16:23:28",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 34
+        }
+    },
     "4AZft_HF5b": {
         "id": "4AZft_HF5b",
         "title": "Бесприданница",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 5
-        }
-    },
-    "iTs9jDw7_c": {
-        "id": "iTs9jDw7_c",
-        "title": "На дне",
-        "author": "М. Горький",
-        "notes": "",
-        "createdAt": "2017-10-15 16:03:40",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 4
         }
     }
 }
