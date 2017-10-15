@@ -1,4 +1,16 @@
 {
+    "6KvBeI-sDg": {
+        "id": "6KvBeI-sDg",
+        "title": "Ведьмак. Последнее желание. Меч предназначения",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-10-15 16:10:50",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 17
+        }
+    },
     "LifoKI_lN-": {
         "id": "LifoKI_lN-",
         "title": "Ведьмак. Кровь эльфов",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 42
-        }
-    },
-    "twyGtJrFSJ": {
-        "id": "twyGtJrFSJ",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2017-10-13 18:26:33",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 41
         }
     }
 }
