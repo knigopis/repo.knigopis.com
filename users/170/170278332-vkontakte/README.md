@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>5</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>6</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### На дне
 М. Горький
 > [2017-10] 
+
+
+### Олеся
+А. Куприн
+> [2017-09] 
 
 
 ### Поединок
