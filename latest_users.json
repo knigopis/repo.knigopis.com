@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "lexinvk",
+        "booksCount": 0,
+        "updatedAt": "2017-10-15 15:58:34"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "sigismund",
         "booksCount": 1,
         "updatedAt": "2017-10-07 20:38:28"
-    },
-    "112152049213984389187-google": {
-        "id": "112152049213984389187-google",
-        "nickname": "Satori",
-        "booksCount": 0,
-        "updatedAt": "2017-10-07 08:47:26"
     }
 }
