@@ -1,4 +1,16 @@
 {
+    "5CoV9oHtja": {
+        "id": "5CoV9oHtja",
+        "title": "Михаил Строгов",
+        "author": "Ж. Верн",
+        "notes": "",
+        "createdAt": "2017-10-15 16:17:56",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 27
+        }
+    },
     "Td-a8-02wB": {
         "id": "Td-a8-02wB",
         "title": "Кому на Руси жить хорошо",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 48
-        }
-    },
-    "RJJESU21fY": {
-        "id": "RJJESU21fY",
-        "title": "Моби Дик",
-        "author": "Герман Мелвилл",
-        "notes": "",
-        "createdAt": "2017-10-15 07:45:58",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 47
         }
     }
 }

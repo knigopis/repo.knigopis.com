@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>26</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>27</sup>
 ---
 
 ## 2017
@@ -100,6 +100,10 @@
 
 
 ## 2016
+
+### Михаил Строгов
+Ж. Верн
+
 
 ### Три товарища
 Э. М. Ремарк
