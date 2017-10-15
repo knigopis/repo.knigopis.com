@@ -1,4 +1,10 @@
 {
+    "441352480-vkontakte": {
+        "id": "441352480-vkontakte",
+        "nickname": "Abdulloh",
+        "booksCount": 0,
+        "updatedAt": "2017-10-15 23:44:52"
+    },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
         "nickname": "lexinvk",
@@ -172,11 +178,5 @@
         "nickname": "Ovcharb",
         "booksCount": 0,
         "updatedAt": "2017-10-08 11:42:10"
-    },
-    "181663004-vkontakte": {
-        "id": "181663004-vkontakte",
-        "nickname": "sigismund",
-        "booksCount": 1,
-        "updatedAt": "2017-10-07 20:38:28"
     }
 }
