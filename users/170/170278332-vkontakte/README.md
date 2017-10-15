@@ -1,4 +1,4 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>12</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>13</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Поединок
 А. Куприн
 > [2017-09] 
+
+
+### Старик и море
+Э. Хемингуэй
 
 
 ### Мастер и маргарита
