@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` 124
+### `99` 1245
 
 ### `99` Effective Java
 Joshua Bloch
