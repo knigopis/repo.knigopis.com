@@ -1,4 +1,16 @@
 {
+    "66uPdZqMtq": {
+        "id": "66uPdZqMtq",
+        "title": "Очарованный странник",
+        "author": "Н. Лесков",
+        "notes": "",
+        "createdAt": "2017-10-15 16:13:35",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 20
+        }
+    },
     "-pZ5-4iN9C": {
         "id": "-pZ5-4iN9C",
         "title": "Двенадцать стульев",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 330
-        }
-    },
-    "0CmopBt9mV": {
-        "id": "0CmopBt9mV",
-        "title": "Путешествия Гулливера",
-        "author": "Джонатан Свифт",
-        "notes": "",
-        "createdAt": "2017-10-13 18:33:02",
-        "user": {
-            "id": "106644083867140961454-google",
-            "nickname": "Alex",
-            "booksCount": 44
         }
     }
 }
