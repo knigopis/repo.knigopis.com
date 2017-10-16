@@ -1,4 +1,16 @@
 {
+    "UuFoCh1X9z": {
+        "id": "UuFoCh1X9z",
+        "title": "Труп в библиотеке",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-10-16 21:51:24",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 565
+        }
+    },
     "ctRwvZ6li3": {
         "id": "ctRwvZ6li3",
         "title": "Древний. Час воздаяния. Книга 7",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 9
-        }
-    },
-    "-obx40y4gM": {
-        "id": "-obx40y4gM",
-        "title": "Ведьмак. Крещение огнем",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:06:20",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 8
         }
     }
 }

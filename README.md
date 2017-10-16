@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>565</sup> 
 [En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
 [lexinvk](users/170/170278332-vkontakte)<sup>36</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>564</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [milk_friend666](users/320/320068980-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
 
 
-_16.10.2017 10:42:03_
+_16.10.2017 21:51:25_
