@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
+    > Мне книга не понравилась: сюжет затянут, концовка не порадовала.
+
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
     > Харри Холе 7
     > Гораздо лучше!
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Альфред всегда любил Полину. Но она вышла замуж за графа Безеваля, который поразил ее еще слабую и беззащитную девичью фантазию. Он ее пугал всегда, и оказалось не зря. Из-за стечения обстоятельств она узнала, что он и два его друга похитили и убили женщину. Поэтому граф Безеваль заточил ее в подземелье с письмом, в котором объяснял свой поступок, и ядом, который дал бы ей быструю смерть. Она выпила яд, но волей случая ее спас Альфред. Он назвал ее своей сестрой и всячески заботился и уберегал ее в обществе. Так она была жива только для него, а для остальных мертва, потому что граф под ее именем похоронил ту похищенную женщину. Спустя время граф начал свататься к родной сестре Альфреда, что привело к дуэле, на котором граф погиб. Полина со временем умерла, так и не оправившись от болезни, но перед смертью она призналась в своих чувствах к нему.
 
 * Книга диаграмм. Визуальное решение задач в бизнесе и карьере ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup>
-    > https://www.ozon.ru/context/detail/id/135453229/
-    > 
-    > в процессе
 
 * Где Мой Сыр? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>126</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Желание ~ [En](users/333/333646551-vkontakte)<sup>10</sup>
 
-* Зеленый король ~ [sonics](users/588/5880221-vkontakte)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
 [lexinvk](users/170/170278332-vkontakte)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>564</sup> 
@@ -55,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>11</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
 
 
-_15.10.2017 23:44:55_
+_16.10.2017 10:42:03_
