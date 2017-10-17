@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>565</sup> 
 [En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>81</sup> 
 [elenkawhite](users/528/52806613-vkontakte)<sup>0</sup> 
-[Ovcharb](users/225/22575695-vkontakte)<sup>0</sup> 
 
 
-_16.10.2017 21:51:25_
+_17.10.2017 20:10:59_

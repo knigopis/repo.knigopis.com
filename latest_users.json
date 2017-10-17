@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 57,
+        "updatedAt": "2017-10-17 20:10:59"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "elenkawhite",
         "booksCount": 0,
         "updatedAt": "2017-10-09 07:46:21"
-    },
-    "22575695-vkontakte": {
-        "id": "22575695-vkontakte",
-        "nickname": "Ovcharb",
-        "booksCount": 0,
-        "updatedAt": "2017-10-08 11:42:10"
     }
 }
