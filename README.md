@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 [lexinvk](users/170/170278332-vkontakte)<sup>37</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
-[International master](users/741/74140988-vkontakte)<sup>81</sup> 
 
 
-_18.10.2017 08:59:48_
+_18.10.2017 16:12:38_
