@@ -1,7 +1,12 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>36</sup>
+# List of books read by [lexinvk](http://vk.com/id170278332)<sup>37</sup>
 ---
 
 ## 2017
+
+### Сотников
+Василий Быков
+> [2017-10-18] 
+
 
 ### На дне
 М. Горький

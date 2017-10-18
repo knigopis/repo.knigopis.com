@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "lexinvk",
+        "booksCount": 37,
+        "updatedAt": "2017-10-18 03:29:51"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -22,12 +28,6 @@
         "nickname": "Abdulloh",
         "booksCount": 0,
         "updatedAt": "2017-10-15 23:44:52"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "lexinvk",
-        "booksCount": 36,
-        "updatedAt": "2017-10-15 16:24:29"
     },
     "106644083867140961454-google": {
         "id": "106644083867140961454-google",

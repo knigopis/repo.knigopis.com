@@ -1,4 +1,16 @@
 {
+    "PdcSXJVocT": {
+        "id": "PdcSXJVocT",
+        "title": "Сотников",
+        "author": "Василий Быков",
+        "notes": "",
+        "createdAt": "2017-10-18 03:29:51",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "lexinvk",
+            "booksCount": 37
+        }
+    },
     "aYYqaKbfnV": {
         "id": "aYYqaKbfnV",
         "title": "Continuous delivery. Практика непрерывных апдейтов",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 11
-        }
-    },
-    "5zkl3To1MN": {
-        "id": "5zkl3To1MN",
-        "title": "1Q84. Книга 2",
-        "author": "Х. Мураками",
-        "notes": "",
-        "createdAt": "2017-10-15 16:07:20",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 10
         }
     }
 }
