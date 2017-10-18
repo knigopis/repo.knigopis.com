@@ -1,4 +1,10 @@
 {
+    "18548259-vkontakte": {
+        "id": "18548259-vkontakte",
+        "nickname": "afooo",
+        "booksCount": 0,
+        "updatedAt": "2017-10-18 16:12:35"
+    },
     "50218872-vkontakte": {
         "id": "50218872-vkontakte",
         "nickname": "dolgier_irina",
@@ -172,11 +178,5 @@
         "nickname": "Teona",
         "booksCount": 1,
         "updatedAt": "2017-10-09 15:53:56"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 81,
-        "updatedAt": "2017-10-09 10:44:25"
     }
 }
