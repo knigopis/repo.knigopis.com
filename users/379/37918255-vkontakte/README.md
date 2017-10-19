@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>31</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>32</sup>
 ---
 
 ## 2017
+
+### Цельная жизнь для студентов
+Hewitt L., d'Abadie L.
+> [2017-10-19] 10+
+
 
 ### «Эссенциализм. Путь к простоте»
 Грег МакКеон

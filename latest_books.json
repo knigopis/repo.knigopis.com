@@ -1,4 +1,16 @@
 {
+    "FAqN-JcH65": {
+        "id": "FAqN-JcH65",
+        "title": "Цельная жизнь для студентов",
+        "author": "Hewitt L., d'Abadie L.",
+        "notes": "10+",
+        "createdAt": "2017-10-19 20:22:45",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 32
+        }
+    },
     "BIhDWcXBO3": {
         "id": "BIhDWcXBO3",
         "title": "Детектив",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 14
-        }
-    },
-    "qYg762I0Mf": {
-        "id": "qYg762I0Mf",
-        "title": "Старик и море",
-        "author": "Э. Хемингуэй",
-        "notes": "",
-        "createdAt": "2017-10-15 16:09:02",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 13
         }
     }
 }

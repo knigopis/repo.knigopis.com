@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
 * Полина. ~ [ana.21](users/107/107655526900000657481-google)<sup>330</sup>
@@ -30,7 +31,6 @@
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
 * Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
-* Как ~ [me](users/381/381417697-yandex)<sup>33</sup>
 
 
-_16.10.2017 10:42:03_
+_19.10.2017 20:22:46_

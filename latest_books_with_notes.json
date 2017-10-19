@@ -1,4 +1,16 @@
 {
+    "FAqN-JcH65": {
+        "id": "FAqN-JcH65",
+        "title": "Цельная жизнь для студентов",
+        "author": "Hewitt L., d'Abadie L.",
+        "notes": "10+",
+        "createdAt": "2017-10-19 20:22:45",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 32
+        }
+    },
     "ctRwvZ6li3": {
         "id": "ctRwvZ6li3",
         "title": "Древний. Час воздаяния. Книга 7",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 9
-        }
-    },
-    "SwAPCJU30J": {
-        "id": "SwAPCJU30J",
-        "title": "Как",
-        "author": "Так",
-        "notes": "// todo",
-        "createdAt": "2017-09-28 23:45:07",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 33
         }
     }
 }
