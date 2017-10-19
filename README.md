@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inn.ivleff](users/290/290600514-yandex)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>566</sup> 
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
-[Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 
 
-_19.10.2017 20:22:46_
+_19.10.2017 20:55:40_
