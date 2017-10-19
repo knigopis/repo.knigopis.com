@@ -1,4 +1,16 @@
 {
+    "BIhDWcXBO3": {
+        "id": "BIhDWcXBO3",
+        "title": "Детектив",
+        "author": "Артур Хейли",
+        "notes": "",
+        "createdAt": "2017-10-19 06:49:31",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 566
+        }
+    },
     "eLmHuDLH1O": {
         "id": "eLmHuDLH1O",
         "title": "«Эссенциализм. Путь к простоте»",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 13
-        }
-    },
-    "ybQbNDphsr": {
-        "id": "ybQbNDphsr",
-        "title": "Мастер и маргарита",
-        "author": "М. Булгаков",
-        "notes": "",
-        "createdAt": "2017-10-15 16:08:34",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 12
         }
     }
 }

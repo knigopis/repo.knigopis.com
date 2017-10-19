@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>566</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>31</sup> 
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 [lexinvk](users/170/170278332-vkontakte)<sup>37</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>565</sup> 
 [En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 
 
-_19.10.2017 05:19:26_
+_19.10.2017 06:49:32_
