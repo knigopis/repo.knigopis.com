@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>31</sup> 
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 [lexinvk](users/170/170278332-vkontakte)<sup>37</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>30</sup> 
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
 [Querqus](users/165/1659822494090704-facebook)<sup>1</sup> 
 [beseno_ok](users/123/12305926-vkontakte)<sup>1</sup> 
 [Teona](users/430/430717602-vkontakte)<sup>1</sup> 
 
 
-_18.10.2017 16:12:38_
+_19.10.2017 05:19:26_

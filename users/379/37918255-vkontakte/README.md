@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>30</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>31</sup>
 ---
 
 ## 2017
+
+### «Эссенциализм. Путь к простоте»
+Грег МакКеон
+> [2017-10-19] 5
+
 
 ### Eat that frog
 Brian Tracy

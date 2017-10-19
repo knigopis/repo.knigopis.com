@@ -1,4 +1,16 @@
 {
+    "eLmHuDLH1O": {
+        "id": "eLmHuDLH1O",
+        "title": "«Эссенциализм. Путь к простоте»",
+        "author": "Грег МакКеон",
+        "notes": "5",
+        "createdAt": "2017-10-19 05:19:26",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 31
+        }
+    },
     "PdcSXJVocT": {
         "id": "PdcSXJVocT",
         "title": "Сотников",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 12
-        }
-    },
-    "y2bc4GUS6U": {
-        "id": "y2bc4GUS6U",
-        "title": "1Q84. Книга 3",
-        "author": "Х. Мураками",
-        "notes": "",
-        "createdAt": "2017-10-15 16:07:37",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 11
         }
     }
 }

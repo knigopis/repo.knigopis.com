@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 31,
+        "updatedAt": "2017-10-19 05:19:26"
+    },
     "18548259-vkontakte": {
         "id": "18548259-vkontakte",
         "nickname": "afooo",
@@ -148,12 +154,6 @@
         "nickname": "limonka_510",
         "booksCount": 0,
         "updatedAt": "2017-10-10 12:45:18"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 30,
-        "updatedAt": "2017-10-10 11:07:36"
     },
     "1007576529-facebook": {
         "id": "1007576529-facebook",
