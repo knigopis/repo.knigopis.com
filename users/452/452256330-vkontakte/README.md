@@ -1,7 +1,12 @@
-# List of books read by [zornwut](http://vk.com/id452256330)<sup>5</sup>
+# List of books read by [zornwut](http://vk.com/id452256330)<sup>6</sup>
 ---
 
 ## 2017
+
+### Предстояла кража
+Леонид Андреев
+> [2017-09] 
+
 
 ### Стена
 Леонид Андреев

@@ -1,4 +1,16 @@
 {
+    "XkeLmrmzhK": {
+        "id": "XkeLmrmzhK",
+        "title": "Предстояла кража",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:24:34",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 6
+        }
+    },
     "wz38ULISYg": {
         "id": "wz38ULISYg",
         "title": "Стена",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 29
-        }
-    },
-    "tMcWbYbxfT": {
-        "id": "tMcWbYbxfT",
-        "title": "Самурай. Легендарный летчик Императорского военно-морского флота Японии",
-        "author": "Сабуро Сакаи",
-        "notes": "",
-        "createdAt": "2017-10-15 16:20:19",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 28
         }
     }
 }
