@@ -1,4 +1,10 @@
 {
+    "109232883876697421544-google": {
+        "id": "109232883876697421544-google",
+        "nickname": "Andry-Bal",
+        "booksCount": 0,
+        "updatedAt": "2017-10-20 19:24:40"
+    },
     "452256330-vkontakte": {
         "id": "452256330-vkontakte",
         "nickname": "zornwut",
@@ -172,11 +178,5 @@
         "nickname": "rpbegemotik",
         "booksCount": 0,
         "updatedAt": "2017-10-11 19:07:51"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 53,
-        "updatedAt": "2017-10-10 15:07:07"
     }
 }
