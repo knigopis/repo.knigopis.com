@@ -1,4 +1,16 @@
 {
+    "xc2TqgKX7_": {
+        "id": "xc2TqgKX7_",
+        "title": "Большой шлем",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:23:51",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 3
+        }
+    },
     "cPUCJD1nW6": {
         "id": "cPUCJD1nW6",
         "title": "Друг",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 26
-        }
-    },
-    "AjcG-9-1q6": {
-        "id": "AjcG-9-1q6",
-        "title": "История одного города",
-        "author": "М. Салтыков-Щедрин",
-        "notes": "",
-        "createdAt": "2017-10-15 16:16:56",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 25
         }
     }
 }

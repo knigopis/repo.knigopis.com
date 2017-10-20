@@ -1,7 +1,12 @@
-# List of books read by [zornwut](http://vk.com/id452256330)<sup>2</sup>
+# List of books read by [zornwut](http://vk.com/id452256330)<sup>3</sup>
 ---
 
 ## 2017
+
+### Большой шлем
+Леонид Андреев
+> [2017-09] 
+
 
 ### Друг
 Леонид Андреев
