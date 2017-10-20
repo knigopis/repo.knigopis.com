@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[zornwut](users/452/452256330-vkontakte)<sup>1</sup> 
+[zornwut](users/452/452256330-vkontakte)<sup>2</sup> 
 [frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>80</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>133</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 
 
-_20.10.2017 13:23:12_
+_20.10.2017 13:23:29_

@@ -1,4 +1,16 @@
 {
+    "cPUCJD1nW6": {
+        "id": "cPUCJD1nW6",
+        "title": "Друг",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:23:29",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 2
+        }
+    },
     "wMVPX0Bfx6": {
         "id": "wMVPX0Bfx6",
         "title": "Петька на даче",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 25
-        }
-    },
-    "5yRqHMbLXI": {
-        "id": "5yRqHMbLXI",
-        "title": "Леди Макбет Мценского уезда",
-        "author": "Н. Лесков",
-        "notes": "",
-        "createdAt": "2017-10-15 16:16:16",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 24
         }
     }
 }
