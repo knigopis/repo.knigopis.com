@@ -1,4 +1,16 @@
 {
+    "v6_BAClDkM": {
+        "id": "v6_BAClDkM",
+        "title": "Красный смех",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:25:24",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 9
+        }
+    },
     "c-JjROV0HI": {
         "id": "c-JjROV0HI",
         "title": "Бездна",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 32
-        }
-    },
-    "GZ0dopH6jI": {
-        "id": "GZ0dopH6jI",
-        "title": "Я дрался на \"Тигре\"",
-        "author": "Артем Драбкин",
-        "notes": "",
-        "createdAt": "2017-10-15 16:21:52",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 31
         }
     }
 }
