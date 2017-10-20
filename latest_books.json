@@ -1,4 +1,16 @@
 {
+    "T-5g8-Ufmp": {
+        "id": "T-5g8-Ufmp",
+        "title": "Единственная",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2017-10-20 19:33:10",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 8
+        }
+    },
     "7RaunxXUEV": {
         "id": "7RaunxXUEV",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 566
-        }
-    },
-    "eLmHuDLH1O": {
-        "id": "eLmHuDLH1O",
-        "title": "«Эссенциализм. Путь к простоте»",
-        "author": "Грег МакКеон",
-        "notes": "5",
-        "createdAt": "2017-10-19 05:19:26",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 31
         }
     }
 }
