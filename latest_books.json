@@ -1,4 +1,16 @@
 {
+    "rLgCPR-uma": {
+        "id": "rLgCPR-uma",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "",
+        "createdAt": "2017-10-20 19:42:53",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 11
+        }
+    },
     "E8B0421FQn": {
         "id": "E8B0421FQn",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 131
-        }
-    },
-    "_YVN6zJ2-7": {
-        "id": "_YVN6zJ2-7",
-        "title": "Сказка о самоубийстве",
-        "author": "Александр Полярный",
-        "notes": "",
-        "createdAt": "2017-10-20 05:25:34",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 130
         }
     }
 }
