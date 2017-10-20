@@ -1,4 +1,16 @@
 {
+    "0-lBxjcHw_": {
+        "id": "0-lBxjcHw_",
+        "title": "Правда или последствия",
+        "author": "Анника Тор",
+        "notes": "",
+        "createdAt": "2017-10-20 05:26:15",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 131
+        }
+    },
     "_YVN6zJ2-7": {
         "id": "_YVN6zJ2-7",
         "title": "Сказка о самоубийстве",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 16
-        }
-    },
-    "R9n-jfP7h0": {
-        "id": "R9n-jfP7h0",
-        "title": "Ведьмак. Час презрения",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:09:54",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 15
         }
     }
 }

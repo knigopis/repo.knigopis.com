@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>130</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>131</sup>
 ---
 
 ## 2017
+
+### Правда или последствия
+Анника Тор
+> [2017-10-09] 
+
 
 ### Сказка о самоубийстве
 Александр Полярный
