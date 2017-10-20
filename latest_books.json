@@ -1,4 +1,16 @@
 {
+    "LC_2RW9kdj": {
+        "id": "LC_2RW9kdj",
+        "title": "Гарри Поттер (1-6 части)",
+        "author": "Джоан Роулинг",
+        "notes": "",
+        "createdAt": "2017-10-20 19:46:03",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 13
+        }
+    },
     "MpoekAVXgI": {
         "id": "MpoekAVXgI",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 133
-        }
-    },
-    "vLXYs0YZBg": {
-        "id": "vLXYs0YZBg",
-        "title": "Заря джедаев: В пустоту",
-        "author": "Тим Леббон",
-        "notes": "",
-        "createdAt": "2017-10-20 05:27:22",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 132
         }
     }
 }
