@@ -1,4 +1,16 @@
 {
+    "11VRn-VBDX": {
+        "id": "11VRn-VBDX",
+        "title": "Источник. Книга первая",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2017-10-20 08:22:15",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 76
+        }
+    },
     "UxJaIJCqY0": {
         "id": "UxJaIJCqY0",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 19
-        }
-    },
-    "Pz_vS0grGl": {
-        "id": "Pz_vS0grGl",
-        "title": "Белый клык",
-        "author": "Д. Лондон",
-        "notes": "",
-        "createdAt": "2017-10-15 16:11:10",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 18
         }
     }
 }
