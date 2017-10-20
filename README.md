@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sofie](users/485/48568611-vkontakte)<sup>77</sup> 
+[Sofie](users/485/48568611-vkontakte)<sup>78</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>133</sup> 
 [inn.ivleff](users/290/290600514-yandex)<sup>0</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton](users/100/1007576529-facebook)<sup>1</sup> 
 
 
-_20.10.2017 08:22:56_
+_20.10.2017 08:23:33_
