@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>0</sup> 
 [zornwut](users/452/452256330-vkontakte)<sup>11</sup> 
 [frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>80</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 
 
-_20.10.2017 13:25:54_
+_20.10.2017 19:24:44_
