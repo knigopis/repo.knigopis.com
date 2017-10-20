@@ -1,4 +1,16 @@
 {
+    "lSjYeLwgAl": {
+        "id": "lSjYeLwgAl",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-10-20 19:29:27",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 3
+        }
+    },
     "pIzHEe5zeu": {
         "id": "pIzHEe5zeu",
         "title": "Франкенштейн, или Современный Прометей",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 12
-        }
-    },
-    "0-UNaqz2GA": {
-        "id": "0-UNaqz2GA",
-        "title": "Челкаш",
-        "author": "М. Горький",
-        "notes": "",
-        "createdAt": "2017-10-15 16:24:29",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 36
         }
     }
 }
