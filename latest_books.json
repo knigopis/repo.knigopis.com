@@ -1,4 +1,16 @@
 {
+    "1Sjafgi8pU": {
+        "id": "1Sjafgi8pU",
+        "title": "Ангелочек",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:24:03",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 4
+        }
+    },
     "xc2TqgKX7_": {
         "id": "xc2TqgKX7_",
         "title": "Большой шлем",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 27
-        }
-    },
-    "Td-a8-02wB": {
-        "id": "Td-a8-02wB",
-        "title": "Кому на Руси жить хорошо",
-        "author": "Н. Некрасов",
-        "notes": "",
-        "createdAt": "2017-10-15 16:17:34",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 26
         }
     }
 }
