@@ -1,4 +1,16 @@
 {
+    "UxJaIJCqY0": {
+        "id": "UxJaIJCqY0",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-10-20 05:27:53",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 133
+        }
+    },
     "vLXYs0YZBg": {
         "id": "vLXYs0YZBg",
         "title": "Заря джедаев: В пустоту",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 18
-        }
-    },
-    "6KvBeI-sDg": {
-        "id": "6KvBeI-sDg",
-        "title": "Ведьмак. Последнее желание. Меч предназначения",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:10:50",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 17
         }
     }
 }
