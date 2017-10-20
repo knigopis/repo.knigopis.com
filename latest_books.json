@@ -1,4 +1,16 @@
 {
+    "r47u2eY_-U": {
+        "id": "r47u2eY_-U",
+        "title": "Двадцать тысяч льё под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2017-10-20 19:47:01",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 14
+        }
+    },
     "LC_2RW9kdj": {
         "id": "LC_2RW9kdj",
         "title": "Гарри Поттер (1-6 части)",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 76
-        }
-    },
-    "UxJaIJCqY0": {
-        "id": "UxJaIJCqY0",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-10-20 05:27:53",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 133
         }
     }
 }
