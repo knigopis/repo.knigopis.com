@@ -1,4 +1,16 @@
 {
+    "TixJ4ekQyo": {
+        "id": "TixJ4ekQyo",
+        "title": "Тьма",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:25:54",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 11
+        }
+    },
     "_l3aNeWr7i": {
         "id": "_l3aNeWr7i",
         "title": "Иуда Искариот",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 34
-        }
-    },
-    "4AZft_HF5b": {
-        "id": "4AZft_HF5b",
-        "title": "Бесприданница",
-        "author": "А. Островский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:22:58",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 33
         }
     }
 }
