@@ -1,4 +1,16 @@
 {
+    "cj1-uIWfOg": {
+        "id": "cj1-uIWfOg",
+        "title": "Жизнь Василия Фивейского",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:24:58",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 7
+        }
+    },
     "XkeLmrmzhK": {
         "id": "XkeLmrmzhK",
         "title": "Предстояла кража",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 30
-        }
-    },
-    "htQIcJZALU": {
-        "id": "htQIcJZALU",
-        "title": "Гроза",
-        "author": "А. Островский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:20:50",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 29
         }
     }
 }
