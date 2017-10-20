@@ -1,4 +1,16 @@
 {
+    "6k3uy1KfAd": {
+        "id": "6k3uy1KfAd",
+        "title": "Источник. Книга вторая.",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2017-10-20 08:22:56",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 77
+        }
+    },
     "11VRn-VBDX": {
         "id": "11VRn-VBDX",
         "title": "Источник. Книга первая",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 20
-        }
-    },
-    "-pZ5-4iN9C": {
-        "id": "-pZ5-4iN9C",
-        "title": "Двенадцать стульев",
-        "author": "Ильф и Петров",
-        "notes": "",
-        "createdAt": "2017-10-15 16:12:41",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 19
         }
     }
 }
