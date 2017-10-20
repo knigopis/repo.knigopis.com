@@ -1,4 +1,16 @@
 {
+    "tckjh3TUtH": {
+        "id": "tckjh3TUtH",
+        "title": "Моби Дик, или Белый кит",
+        "author": "Герман Мелвилл",
+        "notes": "",
+        "createdAt": "2017-10-20 19:33:50",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 9
+        }
+    },
     "T-5g8-Ufmp": {
         "id": "T-5g8-Ufmp",
         "title": "Единственная",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 32
-        }
-    },
-    "BIhDWcXBO3": {
-        "id": "BIhDWcXBO3",
-        "title": "Детектив",
-        "author": "Артур Хейли",
-        "notes": "",
-        "createdAt": "2017-10-19 06:49:31",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 566
         }
     }
 }
