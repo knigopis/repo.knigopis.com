@@ -1,4 +1,16 @@
 {
+    "_l3aNeWr7i": {
+        "id": "_l3aNeWr7i",
+        "title": "Иуда Искариот",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:25:41",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 10
+        }
+    },
     "v6_BAClDkM": {
         "id": "v6_BAClDkM",
         "title": "Красный смех",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 33
-        }
-    },
-    "_oofOYLWEi": {
-        "id": "_oofOYLWEi",
-        "title": "Я дрался на \"Т-34\"",
-        "author": "Артем Драбкин",
-        "notes": "",
-        "createdAt": "2017-10-15 16:22:30",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 32
         }
     }
 }

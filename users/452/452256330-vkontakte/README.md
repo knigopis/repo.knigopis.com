@@ -1,7 +1,12 @@
-# List of books read by [zornwut](http://vk.com/id452256330)<sup>9</sup>
+# List of books read by [zornwut](http://vk.com/id452256330)<sup>10</sup>
 ---
 
 ## 2017
+
+### Иуда Искариот
+Леонид Андреев
+> [2017-09] 
+
 
 ### Бездна
 Леонид Андреев
