@@ -1,4 +1,16 @@
 {
+    "MpoekAVXgI": {
+        "id": "MpoekAVXgI",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-10-20 19:44:06",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 12
+        }
+    },
     "rLgCPR-uma": {
         "id": "rLgCPR-uma",
         "title": "Стив Джобс",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 132
-        }
-    },
-    "0-lBxjcHw_": {
-        "id": "0-lBxjcHw_",
-        "title": "Правда или последствия",
-        "author": "Анника Тор",
-        "notes": "",
-        "createdAt": "2017-10-20 05:26:15",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 131
         }
     }
 }
