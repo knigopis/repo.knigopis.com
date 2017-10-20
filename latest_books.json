@@ -1,4 +1,16 @@
 {
+    "3S8NJdXquK": {
+        "id": "3S8NJdXquK",
+        "title": "Единственная",
+        "author": "Кира Касс",
+        "notes": "",
+        "createdAt": "2017-10-20 08:24:34",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 80
+        }
+    },
     "Eef73zYbKa": {
         "id": "Eef73zYbKa",
         "title": "Отбор",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 23
-        }
-    },
-    "V8ZKZMzGuw": {
-        "id": "V8ZKZMzGuw",
-        "title": "Преступление и наказание",
-        "author": "Ф. Достоевский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:14:58",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 22
         }
     }
 }
