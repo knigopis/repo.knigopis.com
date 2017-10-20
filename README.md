@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>80</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>133</sup> 
 [inn.ivleff](users/290/290600514-yandex)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rpbegemotik](users/749/74945125-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>53</sup> 
 [limonka_510](users/708/70819466-vkontakte)<sup>0</sup> 
-[Anton](users/100/1007576529-facebook)<sup>1</sup> 
 
 
-_20.10.2017 08:24:34_
+_20.10.2017 11:16:12_
