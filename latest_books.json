@@ -1,4 +1,16 @@
 {
+    "vLXYs0YZBg": {
+        "id": "vLXYs0YZBg",
+        "title": "Заря джедаев: В пустоту",
+        "author": "Тим Леббон",
+        "notes": "",
+        "createdAt": "2017-10-20 05:27:22",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 132
+        }
+    },
     "0-lBxjcHw_": {
         "id": "0-lBxjcHw_",
         "title": "Правда или последствия",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 17
-        }
-    },
-    "LifoKI_lN-": {
-        "id": "LifoKI_lN-",
-        "title": "Ведьмак. Кровь эльфов",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2017-10-15 16:10:21",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 16
         }
     }
 }

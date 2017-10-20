@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>131</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>132</sup>
 ---
 
 ## 2017
+
+### Заря джедаев: В пустоту
+Тим Леббон
+> [2017-10-15] 
+
 
 ### Правда или последствия
 Анника Тор
