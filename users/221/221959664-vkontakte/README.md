@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>129</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>130</sup>
 ---
 
 ## 2017
+
+### Сказка о самоубийстве
+Александр Полярный
+> [2017-10-08] 
+
 
 ### Двойная звезда
 Роберт Хайнлайн

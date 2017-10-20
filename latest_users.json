@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 130,
+        "updatedAt": "2017-10-20 05:25:34"
+    },
     "290600514-yandex": {
         "id": "290600514-yandex",
         "nickname": "inn.ivleff",
@@ -172,11 +178,5 @@
         "nickname": "Querqus",
         "booksCount": 1,
         "updatedAt": "2017-10-09 20:44:35"
-    },
-    "12305926-vkontakte": {
-        "id": "12305926-vkontakte",
-        "nickname": "beseno_ok",
-        "booksCount": 1,
-        "updatedAt": "2017-10-09 16:43:19"
     }
 }

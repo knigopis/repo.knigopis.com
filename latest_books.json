@@ -1,4 +1,16 @@
 {
+    "_YVN6zJ2-7": {
+        "id": "_YVN6zJ2-7",
+        "title": "Сказка о самоубийстве",
+        "author": "Александр Полярный",
+        "notes": "",
+        "createdAt": "2017-10-20 05:25:34",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 130
+        }
+    },
     "FAqN-JcH65": {
         "id": "FAqN-JcH65",
         "title": "Цельная жизнь для студентов",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 15
-        }
-    },
-    "dMQVaNO7YE": {
-        "id": "dMQVaNO7YE",
-        "title": "451 градус по Фаренгейту",
-        "author": "Р. Брэдбери",
-        "notes": "",
-        "createdAt": "2017-10-15 16:09:33",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 14
         }
     }
 }
