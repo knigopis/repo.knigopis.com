@@ -1,4 +1,16 @@
 {
+    "wMVPX0Bfx6": {
+        "id": "wMVPX0Bfx6",
+        "title": "Петька на даче",
+        "author": "Леонид Андреев",
+        "notes": "",
+        "createdAt": "2017-10-20 13:23:12",
+        "user": {
+            "id": "452256330-vkontakte",
+            "nickname": "zornwut",
+            "booksCount": 1
+        }
+    },
     "3S8NJdXquK": {
         "id": "3S8NJdXquK",
         "title": "Единственная",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "lexinvk",
             "booksCount": 24
-        }
-    },
-    "Nt3AC5bx6_": {
-        "id": "Nt3AC5bx6_",
-        "title": "А зори здесь тихие",
-        "author": "Б. Васильев",
-        "notes": "",
-        "createdAt": "2017-10-15 16:15:32",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "lexinvk",
-            "booksCount": 23
         }
     }
 }
