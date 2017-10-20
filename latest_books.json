@@ -1,4 +1,16 @@
 {
+    "Ti34X6VPh-": {
+        "id": "Ti34X6VPh-",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-10-20 19:30:58",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 4
+        }
+    },
     "lSjYeLwgAl": {
         "id": "lSjYeLwgAl",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 565
-        }
-    },
-    "ctRwvZ6li3": {
-        "id": "ctRwvZ6li3",
-        "title": "Древний. Час воздаяния. Книга 7",
-        "author": "Тармашев С.С.",
-        "notes": "Мне книга не понравилась: сюжет затянут, концовка не порадовала.",
-        "createdAt": "2017-10-16 10:42:03",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 12
         }
     }
 }
