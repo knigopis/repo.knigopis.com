@@ -1,4 +1,10 @@
 {
+    "452256330-vkontakte": {
+        "id": "452256330-vkontakte",
+        "nickname": "zornwut",
+        "booksCount": 0,
+        "updatedAt": "2017-10-20 13:21:47"
+    },
     "56734971-vkontakte": {
         "id": "56734971-vkontakte",
         "nickname": "frankchristian",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 53,
         "updatedAt": "2017-10-10 15:07:07"
-    },
-    "70819466-vkontakte": {
-        "id": "70819466-vkontakte",
-        "nickname": "limonka_510",
-        "booksCount": 0,
-        "updatedAt": "2017-10-10 12:45:18"
     }
 }
