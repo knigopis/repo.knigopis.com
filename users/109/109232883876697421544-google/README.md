@@ -1,4 +1,4 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>17</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>18</sup>
 ---
 
 ## 2017
@@ -39,6 +39,10 @@ John Ronald Reuel Tolkien
 
 
 ## Other years
+
+### Хоббит, или Туда и обратно
+Джон Рональд Руэл Толкин
+
 
 ### 451 градус по Фаренгейту
 Рэй Дуглас Брэдбери
