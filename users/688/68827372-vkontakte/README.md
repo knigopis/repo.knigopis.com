@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>115</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>116</sup>
 ---
 
 ## 2017
@@ -523,6 +523,11 @@
 
 
 ## 1987
+
+### 451 градус по Фаренгейту
+Рэй Бредбери
+> [1987-11-15] 
+
 
 ### Дети подземелья
 Владимир Короленко

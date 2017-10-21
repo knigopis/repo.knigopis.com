@@ -1,4 +1,16 @@
 {
+    "kyYNqkHTCu": {
+        "id": "kyYNqkHTCu",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2017-10-21 20:01:11",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 116
+        }
+    },
     "xgQOhvaTf9": {
         "id": "xgQOhvaTf9",
         "title": "Моя жизнь. Мои достижения",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 4
-        }
-    },
-    "xc2TqgKX7_": {
-        "id": "xc2TqgKX7_",
-        "title": "Большой шлем",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:23:51",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 3
         }
     }
 }
