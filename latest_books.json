@@ -1,4 +1,16 @@
 {
+    "S8_QR8Jm6R": {
+        "id": "S8_QR8Jm6R",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-10-21 20:02:28",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 117
+        }
+    },
     "kyYNqkHTCu": {
         "id": "kyYNqkHTCu",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 5
-        }
-    },
-    "1Sjafgi8pU": {
-        "id": "1Sjafgi8pU",
-        "title": "Ангелочек",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:24:03",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 4
         }
     }
 }

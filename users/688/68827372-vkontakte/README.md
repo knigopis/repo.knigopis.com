@@ -1,4 +1,4 @@
-# List of books read by [antasiar](http://vk.com/id68827372)<sup>116</sup>
+# List of books read by [antasiar](http://vk.com/id68827372)<sup>117</sup>
 ---
 
 ## 2017
@@ -413,6 +413,10 @@
 
 
 ## 2011
+
+### Лолита
+Владимир Набоков
+
 
 ### Формула времени. Тайм-менеджмент на Outlook
 Глеб Архангельский
