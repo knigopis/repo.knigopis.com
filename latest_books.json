@@ -1,4 +1,16 @@
 {
+    "ObWgbz044R": {
+        "id": "ObWgbz044R",
+        "title": "Крёстный отец",
+        "author": "Марио Пьюзо",
+        "notes": "",
+        "createdAt": "2017-10-21 20:15:59",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 82
+        }
+    },
     "S8_QR8Jm6R": {
         "id": "S8_QR8Jm6R",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 6
-        }
-    },
-    "wz38ULISYg": {
-        "id": "wz38ULISYg",
-        "title": "Стена",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:24:16",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 5
         }
     }
 }
