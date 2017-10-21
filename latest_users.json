@@ -1,4 +1,10 @@
 {
+    "151427089-vkontakte": {
+        "id": "151427089-vkontakte",
+        "nickname": "nebezgreha",
+        "booksCount": 0,
+        "updatedAt": "2017-10-21 11:17:35"
+    },
     "109232883876697421544-google": {
         "id": "109232883876697421544-google",
         "nickname": "Andry-Bal",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 273,
         "updatedAt": "2017-10-12 04:03:42"
-    },
-    "74945125-vkontakte": {
-        "id": "74945125-vkontakte",
-        "nickname": "rpbegemotik",
-        "booksCount": 0,
-        "updatedAt": "2017-10-11 19:07:51"
     }
 }
