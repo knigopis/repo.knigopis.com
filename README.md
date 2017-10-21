@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nebezgreha](users/151/151427089-vkontakte)<sup>1</sup> 
+[nebezgreha](users/151/151427089-vkontakte)<sup>2</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>18</sup> 
 [zornwut](users/452/452256330-vkontakte)<sup>11</sup> 
 [frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>273</sup> 
 
 
-_21.10.2017 11:18:52_
+_21.10.2017 11:19:54_
