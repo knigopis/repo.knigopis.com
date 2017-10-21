@@ -1,4 +1,16 @@
 {
+    "xgQOhvaTf9": {
+        "id": "xgQOhvaTf9",
+        "title": "Моя жизнь. Мои достижения",
+        "author": "Генри Форд",
+        "notes": "",
+        "createdAt": "2017-10-21 19:56:54",
+        "user": {
+            "id": "68827372-vkontakte",
+            "nickname": "antasiar",
+            "booksCount": 115
+        }
+    },
     "FXkNjUGhe5": {
         "id": "FXkNjUGhe5",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 3
-        }
-    },
-    "cPUCJD1nW6": {
-        "id": "cPUCJD1nW6",
-        "title": "Друг",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:23:29",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 2
         }
     }
 }

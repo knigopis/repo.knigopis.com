@@ -1,4 +1,10 @@
 {
+    "68827372-vkontakte": {
+        "id": "68827372-vkontakte",
+        "nickname": "antasiar",
+        "booksCount": 115,
+        "updatedAt": "2017-10-21 19:56:54"
+    },
     "151427089-vkontakte": {
         "id": "151427089-vkontakte",
         "nickname": "nebezgreha",
@@ -148,12 +154,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 225,
         "updatedAt": "2017-10-13 03:05:46"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 114,
-        "updatedAt": "2017-10-12 20:10:43"
     },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
