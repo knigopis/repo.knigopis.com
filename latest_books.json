@@ -1,4 +1,16 @@
 {
+    "TAwjcAG31a": {
+        "id": "TAwjcAG31a",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "Отличное произведение, неожиданная развязка, немного гнетущее послевкусие",
+        "createdAt": "2017-10-21 11:18:52",
+        "user": {
+            "id": "151427089-vkontakte",
+            "nickname": "nebezgreha",
+            "booksCount": 1
+        }
+    },
     "rXsX5Oh9-z": {
         "id": "rXsX5Oh9-z",
         "title": "Хоббит, или Туда и обратно",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 1
-        }
-    },
-    "3S8NJdXquK": {
-        "id": "3S8NJdXquK",
-        "title": "Единственная",
-        "author": "Кира Касс",
-        "notes": "",
-        "createdAt": "2017-10-20 08:24:34",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 80
         }
     }
 }
