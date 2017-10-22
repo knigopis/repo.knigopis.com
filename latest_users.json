@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 33,
+        "updatedAt": "2017-10-22 09:01:40"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 22,
         "updatedAt": "2017-10-12 19:33:45"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 33,
-        "updatedAt": "2017-10-12 15:35:20"
     }
 }

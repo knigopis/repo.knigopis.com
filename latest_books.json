@@ -1,4 +1,16 @@
 {
+    "eTGnAF6XXx": {
+        "id": "eTGnAF6XXx",
+        "title": "Шестая книга судьбы",
+        "author": "Курылев Олег",
+        "notes": "история третьего рейха. было интересно. для себя узнала имя  Йозеф Торак - скульптор,  Всемирная выставка в Париже 1937 г.",
+        "createdAt": "2017-10-22 09:01:40",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 33
+        }
+    },
     "O3lHXK6Jxl": {
         "id": "O3lHXK6Jxl",
         "title": "Сердца трех",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 8
-        }
-    },
-    "cj1-uIWfOg": {
-        "id": "cj1-uIWfOg",
-        "title": "Жизнь Василия Фивейского",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:24:58",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 7
         }
     }
 }

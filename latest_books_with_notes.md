@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
 * Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
-* Древний. Книга 5 ~ [En](users/333/333646551-vkontakte)<sup>9</sup>
 
 
-_19.10.2017 20:22:46_
+_22.10.2017 09:01:40_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
+    > история третьего рейха. было интересно. для себя узнала имя  Йозеф Торак - скульптор,  Всемирная выставка в Париже 1937 г.
+
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
     > 10+
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Мне книга не понравилась: сюжет затянут, концовка не порадовала.
 
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
-    > Харри Холе 7
-    > Гораздо лучше!
 
 * Полина. ~ [ana.21](users/107/107655526900000657481-google)<sup>330</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Над пропастью во ржи ~ [Garka](users/115/115753719718250012620-google)<sup>154</sup>
 
-* Древний. Возрождение. Книга 6 ~ [En](users/333/333646551-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
 
 
-_22.10.2017 08:49:55_
+_22.10.2017 09:01:40_
