@@ -1,4 +1,16 @@
 {
+    "F-QGBVurIp": {
+        "id": "F-QGBVurIp",
+        "title": "Грустный рассказик",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-10-22 09:51:12",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 567
+        }
+    },
     "eTGnAF6XXx": {
         "id": "eTGnAF6XXx",
         "title": "Шестая книга судьбы",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 9
-        }
-    },
-    "c-JjROV0HI": {
-        "id": "c-JjROV0HI",
-        "title": "Бездна",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:25:07",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 8
         }
     }
 }

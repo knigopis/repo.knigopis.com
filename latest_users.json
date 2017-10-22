@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 567,
+        "updatedAt": "2017-10-22 09:51:12"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -70,12 +76,6 @@
         "nickname": "sergeybolobaev",
         "booksCount": 32,
         "updatedAt": "2017-10-19 20:22:45"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 566,
-        "updatedAt": "2017-10-19 06:49:31"
     },
     "18548259-vkontakte": {
         "id": "18548259-vkontakte",
