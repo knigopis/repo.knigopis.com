@@ -1,7 +1,12 @@
-# List of books read by [sonics](http://vk.com/id5880221)<sup>53</sup>
+# List of books read by [sonics](http://vk.com/id5880221)<sup>54</sup>
 ---
 
 ## 2017
+
+### Сердца трех
+Джек Лондон
+> [2017-11-22] 
+
 
 ### Зеленый король
 Поль Лу Сулицер

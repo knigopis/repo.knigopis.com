@@ -1,4 +1,16 @@
 {
+    "O3lHXK6Jxl": {
+        "id": "O3lHXK6Jxl",
+        "title": "Сердца трех",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-10-22 08:49:55",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 54
+        }
+    },
     "ObWgbz044R": {
         "id": "ObWgbz044R",
         "title": "Крёстный отец",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 7
-        }
-    },
-    "XkeLmrmzhK": {
-        "id": "XkeLmrmzhK",
-        "title": "Предстояла кража",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:24:34",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 6
         }
     }
 }

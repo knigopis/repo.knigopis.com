@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
 [nebezgreha](users/151/151427089-vkontakte)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>33</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>154</sup> 
 
 
-_21.10.2017 20:15:59_
+_22.10.2017 08:49:55_

@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 54,
+        "updatedAt": "2017-10-22 08:49:55"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 33,
         "updatedAt": "2017-10-12 15:35:20"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 154,
-        "updatedAt": "2017-10-12 12:37:50"
     }
 }
