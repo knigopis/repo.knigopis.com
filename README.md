@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[p71c1d](users/118/118385935-vkontakte)<sup>0</sup> 
+[p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>573</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 
 
-_22.10.2017 12:03:13_
+_22.10.2017 12:04:03_
