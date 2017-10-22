@@ -1,4 +1,16 @@
 {
+    "oik_WaP7g9": {
+        "id": "oik_WaP7g9",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2017-10-22 10:44:26",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 20
+        }
+    },
     "6pZLrtD_rU": {
         "id": "6pZLrtD_rU",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 4
-        }
-    },
-    "lSjYeLwgAl": {
-        "id": "lSjYeLwgAl",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-10-20 19:29:27",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>19</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>20</sup>
 ---
 
 ## 2017
@@ -20,6 +20,10 @@
 
 
 ## 2015
+
+### Портрет Дориана Грея
+Оскар Уайльд
+
 
 ### The Lord of the Rings: The Fellowship of the Ring
 John Ronald Reuel Tolkien
