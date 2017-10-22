@@ -1,4 +1,16 @@
 {
+    "LqIY6m2pKI": {
+        "id": "LqIY6m2pKI",
+        "title": "Один из этих дней",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-10-22 10:37:54",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 570
+        }
+    },
     "MVUubvMY3y": {
         "id": "MVUubvMY3y",
         "title": "Противоречивые мысли по поводу одной некрасивой женщины",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 1
-        }
-    },
-    "TixJ4ekQyo": {
-        "id": "TixJ4ekQyo",
-        "title": "Тьма",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:25:54",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 11
         }
     }
 }
