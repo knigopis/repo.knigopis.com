@@ -1,4 +1,10 @@
 {
+    "109232883876697421544-google": {
+        "id": "109232883876697421544-google",
+        "nickname": "Andry-Bal",
+        "booksCount": 19,
+        "updatedAt": "2017-10-22 10:43:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -34,12 +40,6 @@
         "nickname": "nebezgreha",
         "booksCount": 2,
         "updatedAt": "2017-10-21 11:19:54"
-    },
-    "109232883876697421544-google": {
-        "id": "109232883876697421544-google",
-        "nickname": "Andry-Bal",
-        "booksCount": 18,
-        "updatedAt": "2017-10-20 19:51:54"
     },
     "452256330-vkontakte": {
         "id": "452256330-vkontakte",

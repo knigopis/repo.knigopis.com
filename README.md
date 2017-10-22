@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>571</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
 [nebezgreha](users/151/151427089-vkontakte)<sup>2</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>18</sup> 
 [zornwut](users/452/452256330-vkontakte)<sup>11</sup> 
 [frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>80</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 
 
-_22.10.2017 10:43:24_
+_22.10.2017 10:43:27_

@@ -1,4 +1,4 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>18</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>19</sup>
 ---
 
 ## 2017
@@ -39,6 +39,10 @@ John Ronald Reuel Tolkien
 
 
 ## Other years
+
+### Робинзон Крузо
+Даниель Дефо
+
 
 ### Хоббит, или Туда и обратно
 Джон Рональд Руэл Толкин
