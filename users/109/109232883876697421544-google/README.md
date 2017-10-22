@@ -1,4 +1,4 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>23</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>24</sup>
 ---
 
 ## 2017
@@ -51,6 +51,10 @@ John Ronald Reuel Tolkien
 
 
 ## Other years
+
+### На Западном фронте без перемен
+Эрих Мария Ремарк
+
 
 ### Двенадцать стульев
 Ильф и Петров
