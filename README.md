@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>573</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>93</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>330</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>225</sup> 
 
 
-_22.10.2017 12:04:03_
+_22.10.2017 19:55:31_
