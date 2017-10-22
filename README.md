@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>572</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>573</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 
 
-_22.10.2017 10:47:47_
+_22.10.2017 11:02:59_
