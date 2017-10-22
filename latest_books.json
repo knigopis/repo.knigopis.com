@@ -1,4 +1,16 @@
 {
+    "bDqKidM3OF": {
+        "id": "bDqKidM3OF",
+        "title": "День после субботы",
+        "author": "Габриель Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2017-10-22 10:32:14",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 568
+        }
+    },
     "F-QGBVurIp": {
         "id": "F-QGBVurIp",
         "title": "Грустный рассказик",
@@ -345,18 +357,6 @@
             "id": "452256330-vkontakte",
             "nickname": "zornwut",
             "booksCount": 10
-        }
-    },
-    "v6_BAClDkM": {
-        "id": "v6_BAClDkM",
-        "title": "Красный смех",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-10-20 13:25:24",
-        "user": {
-            "id": "452256330-vkontakte",
-            "nickname": "zornwut",
-            "booksCount": 9
         }
     }
 }

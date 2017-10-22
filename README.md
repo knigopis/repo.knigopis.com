@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>567</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>568</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 
 
-_22.10.2017 09:51:12_
+_22.10.2017 10:32:15_
