@@ -1,4 +1,10 @@
 {
+    "115232793911015685284-google": {
+        "id": "115232793911015685284-google",
+        "nickname": "BloodyLadyPreacher",
+        "booksCount": 0,
+        "updatedAt": "2017-10-22 19:55:28"
+    },
     "118385935-vkontakte": {
         "id": "118385935-vkontakte",
         "nickname": "p71c1d",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 127,
         "updatedAt": "2017-10-13 17:00:13"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 225,
-        "updatedAt": "2017-10-13 03:05:46"
     }
 }
