@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>573</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tatyana_26](users/152/152918478-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>93</sup> 
 [ana.21](users/107/107655526900000657481-google)<sup>330</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup> 
 
 
-_22.10.2017 19:55:31_
+_23.10.2017 18:47:20_
