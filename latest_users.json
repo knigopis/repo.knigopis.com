@@ -1,4 +1,10 @@
 {
+    "114130076326527433894-google": {
+        "id": "114130076326527433894-google",
+        "nickname": "ArchTDI",
+        "booksCount": 0,
+        "updatedAt": "2017-10-23 18:47:20"
+    },
     "115232793911015685284-google": {
         "id": "115232793911015685284-google",
         "nickname": "BloodyLadyPreacher",
@@ -172,11 +178,5 @@
         "nickname": "ana.21",
         "booksCount": 330,
         "updatedAt": "2017-10-14 11:34:04"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 127,
-        "updatedAt": "2017-10-13 17:00:13"
     }
 }
