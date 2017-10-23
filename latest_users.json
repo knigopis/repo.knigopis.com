@@ -1,4 +1,10 @@
 {
+    "27044777-yandex": {
+        "id": "27044777-yandex",
+        "nickname": "no-vlad",
+        "booksCount": 0,
+        "updatedAt": "2017-10-23 19:43:11"
+    },
     "114130076326527433894-google": {
         "id": "114130076326527433894-google",
         "nickname": "ArchTDI",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 93,
         "updatedAt": "2017-10-14 14:52:38"
-    },
-    "107655526900000657481-google": {
-        "id": "107655526900000657481-google",
-        "nickname": "ana.21",
-        "booksCount": 330,
-        "updatedAt": "2017-10-14 11:34:04"
     }
 }
