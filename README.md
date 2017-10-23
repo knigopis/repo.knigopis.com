@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
+    > 7/10
+    > Часть информации уже неактуальна на сегодняшний день, но, тем ни менее, изложена очень красивым языком.
+
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
     > история третьего рейха. было интересно. для себя узнала имя  Йозеф Торак - скульптор,  Всемирная выставка в Париже 1937 г.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 10+
 
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
-    > Мне книга не понравилась: сюжет затянут, концовка не порадовала.
 
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Человек толпы ~ [Alex](users/106/106644083867140961454-google)<sup>34</sup>
 
-* Над пропастью во ржи ~ [Garka](users/115/115753719718250012620-google)<sup>154</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 [tatyana_26](users/152/152918478-vkontakte)<sup>0</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>93</sup> 
 
 
-_23.10.2017 19:43:13_
+_23.10.2017 21:20:08_

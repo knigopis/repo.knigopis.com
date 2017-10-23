@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 77,
+        "updatedAt": "2017-10-23 21:20:08"
+    },
     "27044777-yandex": {
         "id": "27044777-yandex",
         "nickname": "no-vlad",
@@ -172,11 +178,5 @@
         "nickname": "tatyana_26",
         "booksCount": 0,
         "updatedAt": "2017-10-14 17:16:32"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 93,
-        "updatedAt": "2017-10-14 14:52:38"
     }
 }

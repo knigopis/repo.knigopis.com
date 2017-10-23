@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Янки из Коннектикута при дворе короля Артура ~ [lucius](users/838/83820536-yandex)<sup>142</sup>
 * Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
 * Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
-* Убийство в «Восточном экспрессе» ~ [Garka](users/115/115753719718250012620-google)<sup>152</sup>
 
 
-_22.10.2017 09:01:40_
+_23.10.2017 21:20:08_

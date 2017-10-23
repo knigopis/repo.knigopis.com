@@ -1,4 +1,16 @@
 {
+    "mUSsjNjNAL": {
+        "id": "mUSsjNjNAL",
+        "title": "Кинематограф",
+        "author": "Вирджиния Вульф",
+        "notes": "7/10\nЧасть информации уже неактуальна на сегодняшний день, но, тем ни менее, изложена очень красивым языком.",
+        "createdAt": "2017-10-23 21:20:08",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 77
+        }
+    },
     "d9XJf77ipN": {
         "id": "d9XJf77ipN",
         "title": "триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 12
-        }
-    },
-    "rLgCPR-uma": {
-        "id": "rLgCPR-uma",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "",
-        "createdAt": "2017-10-20 19:42:53",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 11
         }
     }
 }
