@@ -1,4 +1,16 @@
 {
+    "8EdRqnz1BR": {
+        "id": "8EdRqnz1BR",
+        "title": "Квіти для Елджернона",
+        "author": "Деніел Кіз",
+        "notes": "Маст рід",
+        "createdAt": "2017-10-24 09:54:09",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 16
+        }
+    },
     "9rnsosOHGo": {
         "id": "9rnsosOHGo",
         "title": "Історія Starbucks",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 15
-        }
-    },
-    "r47u2eY_-U": {
-        "id": "r47u2eY_-U",
-        "title": "Двадцать тысяч льё под водой",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2017-10-20 19:47:01",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 14
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
@@ -30,7 +31,6 @@
 * Трилогия "Тёмные начала" ~ [rNix](users/115/115622071-twitter)<sup>56</sup>
 * Фантастические Создания ~ [Saamy](users/115/115226508-vkontakte)<sup>21</sup>
 * Неделя просвещения. ~ [ana.21](users/107/107655526900000657481-google)<sup>321</sup>
-* Янки из Коннектикута при дворе короля Артура ~ [lucius](users/838/83820536-yandex)<sup>142</sup>
 
 
-_24.10.2017 09:49:11_
+_24.10.2017 09:54:09_

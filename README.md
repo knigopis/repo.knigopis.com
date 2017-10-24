@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
+    > Маст рід
+
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
     > Розчарування. Суміш НЛП, маркетингу та відверто приторно-солодкої реклами. Мінімум корисної інформації. При всій моїй повазі до Сіетлу і всього з ним пов'язаного,цю жуйку можна порадити тільки фанам латте за чотири бакса.
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Незважаючи на, в цілому, тяжкі враження, книжка легко читається. Мені сподобалась частина яка описує причини революцій, дуже схоже що так воно і є. Але для тих хто не є мільйонером чи мільярдером в сучасному світі, у мене погані новини
 
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
-    > 7/10
-    > Часть информации уже неактуальна на сегодняшний день, но, тем ни менее, изложена очень красивым языком.
 
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Книга диаграмм. Визуальное решение задач в бизнесе и карьере ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup>
 
-* Где Мой Сыр? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>126</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pimanocci](users/117/117124011531379579265-google)<sup>15</sup> 
+[pimanocci](users/117/117124011531379579265-google)<sup>16</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 09:49:11_
+_24.10.2017 09:54:09_
