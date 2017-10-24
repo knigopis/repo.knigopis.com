@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
+    > Достойная книга. Открывает глаза на причины тех или иных событий и упорядочивает уже существующие знания
+
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
     > Узнал множество интересных фактов из истории покорения космоса.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Маст рід
 
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
-    > Розчарування. Суміш НЛП, маркетингу та відверто приторно-солодкої реклами. Мінімум корисної інформації. При всій моїй повазі до Сіетлу і всього з ним пов'язаного,цю жуйку можна порадити тільки фанам латте за чотири бакса.
 
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
 
-* Полина. ~ [ana.21](users/107/107655526900000657481-google)<sup>330</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pimanocci](users/117/117124011531379579265-google)<sup>18</sup> 
+[pimanocci](users/117/117124011531379579265-google)<sup>19</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 13:13:19_
+_24.10.2017 13:24:57_

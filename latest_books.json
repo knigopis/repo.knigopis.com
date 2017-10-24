@@ -1,4 +1,16 @@
 {
+    "2RIu173TOf": {
+        "id": "2RIu173TOf",
+        "title": "Sapiens. Краткая история человечества",
+        "author": "Юваль Ной Харари",
+        "notes": "Достойная книга. Открывает глаза на причины тех или иных событий и упорядочивает уже существующие знания",
+        "createdAt": "2017-10-24 13:24:57",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 19
+        }
+    },
     "E7NeY5cvVW": {
         "id": "E7NeY5cvVW",
         "title": "Битва за космос",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 18
-        }
-    },
-    "S5No1Ir_4A": {
-        "id": "S5No1Ir_4A",
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "author": "John Ronald Reuel Tolkien",
-        "notes": "",
-        "createdAt": "2017-10-20 19:51:12",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 17
         }
     }
 }
