@@ -1,4 +1,16 @@
 {
+    "VOS4M-Effj": {
+        "id": "VOS4M-Effj",
+        "title": "Король говорит",
+        "author": "Марк Лог",
+        "notes": "",
+        "createdAt": "2017-10-24 13:28:01",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 21
+        }
+    },
     "yzX6JgfloW": {
         "id": "yzX6JgfloW",
         "title": "Інноватори",
@@ -345,18 +357,6 @@
             "id": "151427089-vkontakte",
             "nickname": "nebezgreha",
             "booksCount": 2
-        }
-    },
-    "TAwjcAG31a": {
-        "id": "TAwjcAG31a",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "Отличное произведение, неожиданная развязка, немного гнетущее послевкусие",
-        "createdAt": "2017-10-21 11:18:52",
-        "user": {
-            "id": "151427089-vkontakte",
-            "nickname": "nebezgreha",
-            "booksCount": 1
         }
     }
 }
