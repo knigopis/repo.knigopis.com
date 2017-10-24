@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Неделя просвещения. ~ [ana.21](users/107/107655526900000657481-google)<sup>321</sup>
 * Янки из Коннектикута при дворе короля Артура ~ [lucius](users/838/83820536-yandex)<sup>142</sup>
 * Сорок сороков. ~ [ana.21](users/107/107655526900000657481-google)<sup>320</sup>
-* Мастер и Маргарита ~ [kertender](users/228/228182315-vkontakte)<sup>11</sup>
 
 
-_23.10.2017 21:20:08_
+_24.10.2017 09:34:04_

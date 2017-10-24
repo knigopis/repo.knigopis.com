@@ -1,4 +1,10 @@
 {
+    "117124011531379579265-google": {
+        "id": "117124011531379579265-google",
+        "nickname": "pimanocci",
+        "booksCount": 14,
+        "updatedAt": "2017-10-24 09:34:04"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 41,
         "updatedAt": "2017-10-14 19:10:01"
-    },
-    "152918478-vkontakte": {
-        "id": "152918478-vkontakte",
-        "nickname": "tatyana_26",
-        "booksCount": 0,
-        "updatedAt": "2017-10-14 17:16:32"
     }
 }
