@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
+    > Цікава книга з раніше невідомими для мене подробицями. Особливо виділив би, оскільки тема гаряча, розділ про штучний інтелект, в світлі останньої суперечки Маска з Цукербергом, все не так однозначно.
+
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
     > Достойная книга. Открывает глаза на причины тех или иных событий и упорядочивает уже существующие знания
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Узнал множество интересных фактов из истории покорения космоса.
 
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
-    > Маст рід
 
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
 
-* Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pimanocci](users/117/117124011531379579265-google)<sup>19</sup> 
+[pimanocci](users/117/117124011531379579265-google)<sup>20</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 13:24:57_
+_24.10.2017 13:26:09_

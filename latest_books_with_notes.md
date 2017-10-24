@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
 * Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
 * Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
-* Трилогия "Тёмные начала" ~ [rNix](users/115/115622071-twitter)<sup>56</sup>
 
 
-_24.10.2017 13:24:57_
+_24.10.2017 13:26:09_
