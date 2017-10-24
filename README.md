@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
+    > мне понравилось. но могли бы и делать сноски, лично я уже забыла многих героев
+
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
     > Цікава книга з раніше невідомими для мене подробицями. Особливо виділив би, оскільки тема гаряча, розділ про штучний інтелект, в світлі останньої суперечки Маска з Цукербергом, все не так однозначно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Достойная книга. Открывает глаза на причины тех или иных событий и упорядочивает уже существующие знания
 
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
-    > Узнал множество интересных фактов из истории покорения космоса.
 
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 
-* Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>573</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>24</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>33</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 13:28:01_
+_24.10.2017 16:53:13_

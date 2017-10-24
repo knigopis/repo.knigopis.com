@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 * Волхв ~ [nadisvid](users/113/1138852626183846-facebook)<sup>27</sup>
 * Заводной апельсин ~ [nadisvid](users/113/1138852626183846-facebook)<sup>26</sup>
-* Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
 
 
-_24.10.2017 13:26:09_
+_24.10.2017 16:53:13_
