@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>23</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
 
 
-_24.10.2017 19:05:04_
+_24.10.2017 19:06:24_
