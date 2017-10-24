@@ -1,4 +1,16 @@
 {
+    "E7NeY5cvVW": {
+        "id": "E7NeY5cvVW",
+        "title": "Битва за космос",
+        "author": "Том Вулф",
+        "notes": "Узнал множество интересных фактов из истории покорения космоса.",
+        "createdAt": "2017-10-24 13:13:19",
+        "user": {
+            "id": "117124011531379579265-google",
+            "nickname": "pimanocci",
+            "booksCount": 18
+        }
+    },
     "W5-1l44NCe": {
         "id": "W5-1l44NCe",
         "title": "Американские боги. Король горной долины. Сыновья Ананси",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 17
-        }
-    },
-    "lTBZT7cKYV": {
-        "id": "lTBZT7cKYV",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Дуглас Брэдбери",
-        "notes": "",
-        "createdAt": "2017-10-20 19:48:16",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 16
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Книжный вор ~ [nadisvid](users/113/1138852626183846-facebook)<sup>25</sup>
 * Трилогия "Тёмные начала" ~ [rNix](users/115/115622071-twitter)<sup>56</sup>
 * Фантастические Создания ~ [Saamy](users/115/115226508-vkontakte)<sup>21</sup>
-* Неделя просвещения. ~ [ana.21](users/107/107655526900000657481-google)<sup>321</sup>
 
 
-_24.10.2017 09:54:09_
+_24.10.2017 13:13:19_
