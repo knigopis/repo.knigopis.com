@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pimanocci](users/117/117124011531379579265-google)<sup>16</sup> 
+[pimanocci](users/117/117124011531379579265-google)<sup>17</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 [no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 09:54:09_
+_24.10.2017 13:11:51_
