@@ -1,4 +1,16 @@
 {
+    "Gmj-meHht1": {
+        "id": "Gmj-meHht1",
+        "title": "Белый доминиканец",
+        "author": "Густав Майринк",
+        "notes": "Муть, на самом деле. Может, там была заложена глубокая философская и религиозная идея, но я не понял и счел это мутью.",
+        "createdAt": "2017-10-24 19:05:04",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 23
+        }
+    },
     "WAc1foSXZA": {
         "id": "WAc1foSXZA",
         "title": "Поцелуй Урбороса",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 116
-        }
-    },
-    "xgQOhvaTf9": {
-        "id": "xgQOhvaTf9",
-        "title": "Моя жизнь. Мои достижения",
-        "author": "Генри Форд",
-        "notes": "",
-        "createdAt": "2017-10-21 19:56:54",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 115
         }
     }
 }

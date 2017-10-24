@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
+    > Муть, на самом деле. Может, там была заложена глубокая философская и религиозная идея, но я не понял и счел это мутью.
+
 * Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
     > мне понравилось. но могли бы и делать сноски, лично я уже забыла многих героев
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Цікава книга з раніше невідомими для мене подробицями. Особливо виділив би, оскільки тема гаряча, розділ про штучний інтелект, в світлі останньої суперечки Маска з Цукербергом, все не так однозначно.
 
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
-    > Достойная книга. Открывает глаза на причины тех или иных событий и упорядочивает уже существующие знания
 
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 
-* Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [milk_friend666](users/320/320068980-vkontakte)<sup>0</sup> 
 [Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>41</sup> 
 
 
-_24.10.2017 16:53:13_
+_24.10.2017 19:05:04_
