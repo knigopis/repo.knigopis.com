@@ -1,4 +1,10 @@
 {
+    "110678352866444093698-google": {
+        "id": "110678352866444093698-google",
+        "nickname": "rowe",
+        "booksCount": 0,
+        "updatedAt": "2017-10-25 23:17:15"
+    },
     "1882525281990290-facebook": {
         "id": "1882525281990290-facebook",
         "nickname": "sad little panda",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 32,
         "updatedAt": "2017-10-15 03:40:56"
-    },
-    "320068980-vkontakte": {
-        "id": "320068980-vkontakte",
-        "nickname": "milk_friend666",
-        "booksCount": 0,
-        "updatedAt": "2017-10-14 20:38:07"
     }
 }
