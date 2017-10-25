@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
+    > 2 Хроники Ехо 2
+
 * Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
     > Муть, на самом деле. Может, там была заложена глубокая философская и религиозная идея, но я не понял и счел это мутью.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > мне понравилось. но могли бы и делать сноски, лично я уже забыла многих героев
 
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
-    > Цікава книга з раніше невідомими для мене подробицями. Особливо виділив би, оскільки тема гаряча, розділ про штучний інтелект, в світлі останньої суперечки Маска з Цукербергом, все не так однозначно.
 
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 
-* Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>38</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [milk_friend666](users/320/320068980-vkontakte)<sup>0</sup> 
-[Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
 
 
-_25.10.2017 16:12:33_
+_25.10.2017 16:57:07_

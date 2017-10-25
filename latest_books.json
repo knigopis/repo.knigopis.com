@@ -1,4 +1,16 @@
 {
+    "69t89_M1Zl": {
+        "id": "69t89_M1Zl",
+        "title": "Властелин Морморы",
+        "author": "Макс Фрай",
+        "notes": "2 Хроники Ехо 2",
+        "createdAt": "2017-10-25 16:57:07",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 34
+        }
+    },
     "gMl3MeB7ZE": {
         "id": "gMl3MeB7ZE",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 82
-        }
-    },
-    "S8_QR8Jm6R": {
-        "id": "S8_QR8Jm6R",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-10-21 20:02:28",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 117
         }
     }
 }

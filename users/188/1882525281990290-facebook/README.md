@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>33</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>34</sup>
 ---
 
 ## 2017
+
+### Властелин Морморы
+Макс Фрай
+> [2017-10-25] 2 Хроники Ехо 2
+
 
 ### Чуб щемли
 Макс Фрай
