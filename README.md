@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rowe](users/110/110678352866444093698-google)<sup>0</sup> 
+[rowe](users/110/110678352866444093698-google)<sup>1</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>38</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 
 
-_25.10.2017 23:17:18_
+_25.10.2017 23:22:38_
