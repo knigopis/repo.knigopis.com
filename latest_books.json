@@ -1,4 +1,16 @@
 {
+    "gMl3MeB7ZE": {
+        "id": "gMl3MeB7ZE",
+        "title": "На западном фронте без перемен",
+        "author": "Э. М. Ремарк",
+        "notes": "",
+        "createdAt": "2017-10-25 16:12:33",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 38
+        }
+    },
     "Gmj-meHht1": {
         "id": "Gmj-meHht1",
         "title": "Белый доминиканец",
@@ -345,18 +357,6 @@
             "id": "68827372-vkontakte",
             "nickname": "antasiar",
             "booksCount": 117
-        }
-    },
-    "kyYNqkHTCu": {
-        "id": "kyYNqkHTCu",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2017-10-21 20:01:11",
-        "user": {
-            "id": "68827372-vkontakte",
-            "nickname": "antasiar",
-            "booksCount": 116
         }
     }
 }

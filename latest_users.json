@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 38,
+        "updatedAt": "2017-10-25 16:12:33"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -130,12 +136,6 @@
         "nickname": "dolgier_irina",
         "booksCount": 0,
         "updatedAt": "2017-10-18 08:59:46"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "lexinvk",
-        "booksCount": 37,
-        "updatedAt": "2017-10-18 03:29:51"
     },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",

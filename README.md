@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>38</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>22</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup> 
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
-[lexinvk](users/170/170278332-vkontakte)<sup>37</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
 [En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton_G](users/108/108312916368903724576-google)<sup>0</sup> 
 
 
-_24.10.2017 19:06:24_
+_25.10.2017 16:12:33_

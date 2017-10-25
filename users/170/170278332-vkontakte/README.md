@@ -1,7 +1,12 @@
-# List of books read by [lexinvk](http://vk.com/id170278332)<sup>37</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>38</sup>
 ---
 
 ## 2017
+
+### На западном фронте без перемен
+Э. М. Ремарк
+> [2017-10-25] 
+
 
 ### Сотников
 Василий Быков
