@@ -1,4 +1,16 @@
 {
+    "W31vDFS3nx": {
+        "id": "W31vDFS3nx",
+        "title": "Grokking Algorithms",
+        "author": "Aditya Bhargava",
+        "notes": "",
+        "createdAt": "2017-10-26 16:06:15",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 25
+        }
+    },
     "0RUqCg8N_8": {
         "id": "0RUqCg8N_8",
         "title": "Полмира",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 567
-        }
-    },
-    "eTGnAF6XXx": {
-        "id": "eTGnAF6XXx",
-        "title": "Шестая книга судьбы",
-        "author": "Курылев Олег",
-        "notes": "история третьего рейха. было интересно. для себя узнала имя  Йозеф Торак - скульптор,  Всемирная выставка в Париже 1937 г.",
-        "createdAt": "2017-10-22 09:01:40",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 33
         }
     }
 }

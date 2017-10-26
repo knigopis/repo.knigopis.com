@@ -1,7 +1,12 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>24</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>25</sup>
 ---
 
 ## 2017
+
+### Grokking Algorithms
+Aditya Bhargava
+> [2017-10-25] 
+
 
 ### Думай как математик. Как решать любые задачи быстрее и эффективнее
 Барбара Оакли
