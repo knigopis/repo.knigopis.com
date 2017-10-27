@@ -1,4 +1,10 @@
 {
+    "139578422-vkontakte": {
+        "id": "139578422-vkontakte",
+        "nickname": "idhlebushek",
+        "booksCount": 0,
+        "updatedAt": "2017-10-27 10:59:19"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Alex",
         "booksCount": 48,
         "updatedAt": "2017-10-15 07:46:39"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 32,
-        "updatedAt": "2017-10-15 03:40:56"
     }
 }
