@@ -1,4 +1,16 @@
 {
+    "Nop8vldsP9": {
+        "id": "Nop8vldsP9",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "10+",
+        "createdAt": "2017-10-27 14:02:50",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 33
+        }
+    },
     "3X_8a7lVwP": {
         "id": "3X_8a7lVwP",
         "title": "Древний. Предыстория. книга первая.",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 571
-        }
-    },
-    "LqIY6m2pKI": {
-        "id": "LqIY6m2pKI",
-        "title": "Один из этих дней",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-10-22 10:37:54",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 570
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>32</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>33</sup>
 ---
 
 ## 2017
+
+### Искусство любить
+Эрих Фромм
+> [2017-10-27] 10+
+
 
 ### Цельная жизнь для студентов
 Hewitt L., d'Abadie L.

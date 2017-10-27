@@ -1,4 +1,16 @@
 {
+    "Nop8vldsP9": {
+        "id": "Nop8vldsP9",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "10+",
+        "createdAt": "2017-10-27 14:02:50",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 33
+        }
+    },
     "3X_8a7lVwP": {
         "id": "3X_8a7lVwP",
         "title": "Древний. Предыстория. книга первая.",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 40
-        }
-    },
-    "t6tfqfs8bG": {
-        "id": "t6tfqfs8bG",
-        "title": "Десять негритят",
-        "author": "Агата Кристи",
-        "notes": "Очень захватывающий сюжет! Впечатление немного испортило то, что благодаря экранизациям, знала кто убийца.",
-        "createdAt": "2017-10-05 14:50:31",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 153
         }
     }
 }
