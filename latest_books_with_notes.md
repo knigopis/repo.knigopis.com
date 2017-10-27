@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
 * Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 * Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Вокзал потерянных снов ~ [Chiffi](users/105/105831994080785626680-google)<sup>32</sup>
 * Робинзон Крузо ~ [Alex](users/106/106644083867140961454-google)<sup>24</sup>
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
-* Нетопырь ~ [Sky](users/118/118049897850017649660-google)<sup>40</sup>
 
 
-_27.10.2017 14:02:50_
+_27.10.2017 19:58:09_

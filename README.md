@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
+    > Интересное фентази. Мир очень похож на настоящий. Читается легко.
+
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
     > 10+
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Первая книга очень затянула, столько технологий, интересный уклад жизни Сияющих. Темные мерзкие существа, но так похожи на нас( неужели 1,5 млрд лет назад мы пошли не тем путем.
 
 * Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
-    > 2 Хроники Ехо 2
 
 * Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 
-* Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
-[Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
 
 
-_27.10.2017 17:26:42_
+_27.10.2017 19:58:09_
