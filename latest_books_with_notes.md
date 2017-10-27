@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 * Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
 * Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 * Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
@@ -30,7 +31,6 @@
 * Сердца трёх ~ [Alex](users/106/106644083867140961454-google)<sup>20</sup>
 * Нетопырь ~ [Sky](users/118/118049897850017649660-google)<sup>40</sup>
 * Десять негритят ~ [Garka](users/115/115753719718250012620-google)<sup>153</sup>
-* Жареные зеленые помидоры в кафе Полустанок ~ [nadisvid](users/113/1138852626183846-facebook)<sup>28</sup>
 
 
-_25.10.2017 16:57:07_
+_27.10.2017 12:02:47_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
+    > Первая книга очень затянула, столько технологий, интересный уклад жизни Сияющих. Темные мерзкие существа, но так похожи на нас( неужели 1,5 млрд лет назад мы пошли не тем путем.
+
 * Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
     > 2 Хроники Ехо 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Муть, на самом деле. Может, там была заложена глубокая философская и религиозная идея, но я не понял и счел это мутью.
 
 * Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
-    > мне понравилось. но могли бы и делать сноски, лично я уже забыла многих героев
 
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 
-* Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>13</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>574</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>57</sup> 
-[En](users/333/333646551-vkontakte)<sup>12</sup> 
 [Abdulloh](users/441/441352480-vkontakte)<sup>0</sup> 
 [Alex](users/106/106644083867140961454-google)<sup>48</sup> 
 
 
-_27.10.2017 11:10:57_
+_27.10.2017 12:02:47_
