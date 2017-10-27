@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>574</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [rowe](users/110/110678352866444093698-google)<sup>2</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>573</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 
 
-_26.10.2017 16:06:15_
+_27.10.2017 05:44:38_
