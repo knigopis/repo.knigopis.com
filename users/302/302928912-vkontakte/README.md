@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>7</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>8</sup>
 ---
 
 ## 2017
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+> [2017-09-31] 
+
 
 ### Продавец обуви
 Фил Найт

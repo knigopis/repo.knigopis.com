@@ -1,4 +1,16 @@
 {
+    "opPvLHgwll": {
+        "id": "opPvLHgwll",
+        "title": "Тонкое искусство пофигизма",
+        "author": "Марк Мэнсон",
+        "notes": "",
+        "createdAt": "2017-10-27 17:26:42",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 8
+        }
+    },
     "Nop8vldsP9": {
         "id": "Nop8vldsP9",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 19
-        }
-    },
-    "v2KiEGrKmo": {
-        "id": "v2KiEGrKmo",
-        "title": "Тот, кто ворошит эти розы",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-10-22 10:43:24",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 571
         }
     }
 }
