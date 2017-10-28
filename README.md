@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Embreys](users/435/435613843-vkontakte)<sup>0</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>133</sup> 
 [inn.ivleff](users/290/290600514-yandex)<sup>0</sup> 
 [afooo](users/185/18548259-vkontakte)<sup>0</sup> 
-[dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 
 
-_28.10.2017 14:23:36_
+_28.10.2017 18:15:57_
