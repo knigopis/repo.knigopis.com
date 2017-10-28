@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
+[conclusion](users/367/367948211-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dolgier_irina](users/502/50218872-vkontakte)<sup>0</sup> 
 
 
-_28.10.2017 13:51:23_
+_28.10.2017 13:55:05_
