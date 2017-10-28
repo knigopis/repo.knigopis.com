@@ -1,4 +1,10 @@
 {
+    "435613843-vkontakte": {
+        "id": "435613843-vkontakte",
+        "nickname": "Embreys",
+        "booksCount": 0,
+        "updatedAt": "2017-10-28 18:15:54"
+    },
     "367948211-vkontakte": {
         "id": "367948211-vkontakte",
         "nickname": "conclusion",
@@ -172,11 +178,5 @@
         "nickname": "afooo",
         "booksCount": 0,
         "updatedAt": "2017-10-18 16:12:35"
-    },
-    "50218872-vkontakte": {
-        "id": "50218872-vkontakte",
-        "nickname": "dolgier_irina",
-        "booksCount": 0,
-        "updatedAt": "2017-10-18 08:59:46"
     }
 }
