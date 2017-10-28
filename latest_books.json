@@ -1,4 +1,16 @@
 {
+    "aqViruKtTj": {
+        "id": "aqViruKtTj",
+        "title": "Большое волшебство. Творчество без страха",
+        "author": "Элизабет Гилберт",
+        "notes": "Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было",
+        "createdAt": "2017-10-28 19:09:35",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 23
+        }
+    },
     "o3OMKH6w8b": {
         "id": "o3OMKH6w8b",
         "title": "Чистый понедельник",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 573
-        }
-    },
-    "RSdav6eBat": {
-        "id": "RSdav6eBat",
-        "title": "Огорчение для троих сомнабул",
-        "author": "Маркес Габриэль Гарсия",
-        "notes": "",
-        "createdAt": "2017-10-22 10:47:47",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 572
         }
     }
 }
