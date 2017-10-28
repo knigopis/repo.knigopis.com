@@ -1,4 +1,10 @@
 {
+    "367948211-vkontakte": {
+        "id": "367948211-vkontakte",
+        "nickname": "conclusion",
+        "booksCount": 0,
+        "updatedAt": "2017-10-28 13:51:20"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "dolgier_irina",
         "booksCount": 0,
         "updatedAt": "2017-10-18 08:59:46"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 57,
-        "updatedAt": "2017-10-17 20:10:59"
     }
 }
