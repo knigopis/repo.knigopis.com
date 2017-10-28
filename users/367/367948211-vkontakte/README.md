@@ -1,7 +1,12 @@
-# List of books read by conclusion<sup>2</sup>
+# List of books read by conclusion<sup>3</sup>
 ---
 
 ## 2017
+
+### Множественные умы Билли Миллигана
+Дэниел Киз
+> [2017-10] 
+
 
 ### На дне
 Максим Горький
