@@ -1,4 +1,4 @@
-# List of books read by conclusion<sup>3</sup>
+# List of books read by conclusion<sup>4</sup>
 ---
 
 ## 2017
@@ -16,6 +16,11 @@
 ### Потерянные поколения
 Ив Престон
 > [2017-09] ✕
+
+
+### Господин из Сан-Фран­цис­ко
+Иван Бунин
+> [2017-06] 
 
 
 

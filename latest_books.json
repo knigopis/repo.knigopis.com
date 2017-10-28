@@ -1,4 +1,16 @@
 {
+    "pNsreC2qRO": {
+        "id": "pNsreC2qRO",
+        "title": "Господин из Сан-Фран­цис­ко",
+        "author": "Иван Бунин",
+        "notes": "",
+        "createdAt": "2017-10-28 14:12:50",
+        "user": {
+            "id": "367948211-vkontakte",
+            "nickname": "conclusion",
+            "booksCount": 4
+        }
+    },
     "59fZlGIc5f": {
         "id": "59fZlGIc5f",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 24
-        }
-    },
-    "zmyH9hdm6E": {
-        "id": "zmyH9hdm6E",
-        "title": "Двенадцать стульев",
-        "author": "Ильф и Петров",
-        "notes": "",
-        "createdAt": "2017-10-22 10:46:14",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 23
         }
     }
 }
