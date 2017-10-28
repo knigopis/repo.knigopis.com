@@ -1,4 +1,16 @@
 {
+    "6BDe2cepr4": {
+        "id": "6BDe2cepr4",
+        "title": "На дне",
+        "author": "Максим Горький",
+        "notes": "",
+        "createdAt": "2017-10-28 13:55:52",
+        "user": {
+            "id": "367948211-vkontakte",
+            "nickname": "conclusion",
+            "booksCount": 2
+        }
+    },
     "Qzvhhj8dhe": {
         "id": "Qzvhhj8dhe",
         "title": "Потерянные поколения",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 22
-        }
-    },
-    "qH8hCKRfFG": {
-        "id": "qH8hCKRfFG",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Сэлинджер",
-        "notes": "",
-        "createdAt": "2017-10-22 10:45:04",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 21
         }
     }
 }
