@@ -1,4 +1,10 @@
 {
+    "700734347037442048-twitter": {
+        "id": "700734347037442048-twitter",
+        "nickname": "Ssmile_92",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 22:13:37"
+    },
     "4702922780965857287-mailru": {
         "id": "4702922780965857287-mailru",
         "nickname": "Castle",
@@ -172,11 +178,5 @@
         "nickname": "antasiar",
         "booksCount": 117,
         "updatedAt": "2017-10-21 20:02:28"
-    },
-    "151427089-vkontakte": {
-        "id": "151427089-vkontakte",
-        "nickname": "nebezgreha",
-        "booksCount": 2,
-        "updatedAt": "2017-10-21 11:19:54"
     }
 }
