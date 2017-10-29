@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Castle](users/470/4702922780965857287-mailru)<sup>0</sup> 
 [Деккер](users/726/726970827489875-facebook)<sup>1</sup> 
 [this_is_rosie](users/349/34950345-vkontakte)<sup>0</sup> 
 [Dmitri](users/116/116430475654644004490-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 [antasiar](users/688/68827372-vkontakte)<sup>117</sup> 
 [nebezgreha](users/151/151427089-vkontakte)<sup>2</sup> 
-[zornwut](users/452/452256330-vkontakte)<sup>11</sup> 
 
 
-_29.10.2017 16:09:20_
+_29.10.2017 22:13:04_
