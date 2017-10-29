@@ -1,4 +1,10 @@
 {
+    "34950345-vkontakte": {
+        "id": "34950345-vkontakte",
+        "nickname": "this_is_rosie",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 15:07:02"
+    },
     "116430475654644004490-google": {
         "id": "116430475654644004490-google",
         "nickname": "Dmitri",
@@ -172,11 +178,5 @@
         "nickname": "frankchristian",
         "booksCount": 0,
         "updatedAt": "2017-10-20 11:16:11"
-    },
-    "48568611-vkontakte": {
-        "id": "48568611-vkontakte",
-        "nickname": "Sofie",
-        "booksCount": 80,
-        "updatedAt": "2017-10-20 08:24:34"
     }
 }
