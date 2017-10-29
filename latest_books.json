@@ -1,4 +1,16 @@
 {
+    "xVBb_7DRd8": {
+        "id": "xVBb_7DRd8",
+        "title": "Мефодий Буслаев",
+        "author": "Дмитрий Емец",
+        "notes": "",
+        "createdAt": "2017-10-29 22:15:14",
+        "user": {
+            "id": "700734347037442048-twitter",
+            "nickname": "JoannaSnow",
+            "booksCount": 1
+        }
+    },
     "zbD0QTxmiq": {
         "id": "zbD0QTxmiq",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 77
-        }
-    },
-    "d9XJf77ipN": {
-        "id": "d9XJf77ipN",
-        "title": "триумфальная арка",
-        "author": "ремарк",
-        "notes": "",
-        "createdAt": "2017-10-22 12:04:03",
-        "user": {
-            "id": "118385935-vkontakte",
-            "nickname": "p71c1d",
-            "booksCount": 1
         }
     }
 }
