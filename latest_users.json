@@ -1,4 +1,10 @@
 {
+    "116430475654644004490-google": {
+        "id": "116430475654644004490-google",
+        "nickname": "Dmitri",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 11:46:29"
+    },
     "445680033-vkontakte": {
         "id": "445680033-vkontakte",
         "nickname": "sashasofronova",
@@ -172,11 +178,5 @@
         "nickname": "Sofie",
         "booksCount": 80,
         "updatedAt": "2017-10-20 08:24:34"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 133,
-        "updatedAt": "2017-10-20 05:27:53"
     }
 }
