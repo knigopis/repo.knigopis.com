@@ -1,4 +1,16 @@
 {
+    "zbD0QTxmiq": {
+        "id": "zbD0QTxmiq",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-10-29 16:09:20",
+        "user": {
+            "id": "726970827489875-facebook",
+            "nickname": "Деккер",
+            "booksCount": 1
+        }
+    },
     "aqViruKtTj": {
         "id": "aqViruKtTj",
         "title": "Большое волшебство. Творчество без страха",
@@ -345,18 +357,6 @@
             "id": "118385935-vkontakte",
             "nickname": "p71c1d",
             "booksCount": 1
-        }
-    },
-    "zgwTI7Wg9o": {
-        "id": "zgwTI7Wg9o",
-        "title": "Ночь, когда хозяйничали выпи",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-10-22 11:02:59",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 573
         }
     }
 }
