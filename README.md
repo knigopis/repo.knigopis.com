@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dmitri](users/116/116430475654644004490-google)<sup>0</sup> 
 [sashasofronova](users/445/445680033-vkontakte)<sup>0</sup> 
 [okayalice](users/874/8746270-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zornwut](users/452/452256330-vkontakte)<sup>11</sup> 
 [frankchristian](users/567/56734971-vkontakte)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>80</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>133</sup> 
 
 
-_29.10.2017 11:00:26_
+_29.10.2017 11:46:31_
