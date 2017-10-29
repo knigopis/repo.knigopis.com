@@ -1,4 +1,10 @@
 {
+    "445680033-vkontakte": {
+        "id": "445680033-vkontakte",
+        "nickname": "sashasofronova",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 11:00:25"
+    },
     "8746270-vkontakte": {
         "id": "8746270-vkontakte",
         "nickname": "okayalice",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 133,
         "updatedAt": "2017-10-20 05:27:53"
-    },
-    "290600514-yandex": {
-        "id": "290600514-yandex",
-        "nickname": "inn.ivleff",
-        "booksCount": 0,
-        "updatedAt": "2017-10-19 20:55:40"
     }
 }
