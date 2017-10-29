@@ -1,4 +1,10 @@
 {
+    "726970827489875-facebook": {
+        "id": "726970827489875-facebook",
+        "nickname": "Деккер",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 16:07:59"
+    },
     "34950345-vkontakte": {
         "id": "34950345-vkontakte",
         "nickname": "this_is_rosie",
@@ -172,11 +178,5 @@
         "nickname": "zornwut",
         "booksCount": 11,
         "updatedAt": "2017-10-20 13:25:54"
-    },
-    "56734971-vkontakte": {
-        "id": "56734971-vkontakte",
-        "nickname": "frankchristian",
-        "booksCount": 0,
-        "updatedAt": "2017-10-20 11:16:11"
     }
 }
