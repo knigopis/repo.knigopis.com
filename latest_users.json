@@ -1,4 +1,10 @@
 {
+    "8746270-vkontakte": {
+        "id": "8746270-vkontakte",
+        "nickname": "okayalice",
+        "booksCount": 0,
+        "updatedAt": "2017-10-29 08:19:35"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "inn.ivleff",
         "booksCount": 0,
         "updatedAt": "2017-10-19 20:55:40"
-    },
-    "18548259-vkontakte": {
-        "id": "18548259-vkontakte",
-        "nickname": "afooo",
-        "booksCount": 0,
-        "updatedAt": "2017-10-18 16:12:35"
     }
 }
