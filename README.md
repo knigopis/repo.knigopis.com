@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[RMAsemargl](users/117/117414656376251989959-google)<sup>0</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 [Castle](users/470/4702922780965857287-mailru)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
-[International master](users/741/74140988-vkontakte)<sup>82</sup> 
 
 
-_30.10.2017 04:40:29_
+_30.10.2017 11:07:22_
