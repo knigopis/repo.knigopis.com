@@ -1,4 +1,10 @@
 {
+    "133246162-vkontakte": {
+        "id": "133246162-vkontakte",
+        "nickname": "cold___coffee",
+        "booksCount": 0,
+        "updatedAt": "2017-10-30 03:25:06"
+    },
     "700734347037442048-twitter": {
         "id": "700734347037442048-twitter",
         "nickname": "JoannaSnow",
@@ -172,11 +178,5 @@
         "nickname": "International master",
         "booksCount": 82,
         "updatedAt": "2017-10-21 20:15:59"
-    },
-    "68827372-vkontakte": {
-        "id": "68827372-vkontakte",
-        "nickname": "antasiar",
-        "booksCount": 117,
-        "updatedAt": "2017-10-21 20:02:28"
     }
 }
