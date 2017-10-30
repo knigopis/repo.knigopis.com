@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>38</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>39</sup>
 ---
 
 ## 2017
+
+### Капитанская дочка
+А. С. Пушкин
+> [2017-10-30] 
+
 
 ### На западном фронте без перемен
 Э. М. Ремарк

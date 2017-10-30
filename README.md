@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>39</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [rowe](users/110/110678352866444093698-google)<sup>2</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>38</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 
 
-_30.10.2017 11:14:04_
+_30.10.2017 13:35:09_

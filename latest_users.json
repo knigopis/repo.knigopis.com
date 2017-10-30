@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 39,
+        "updatedAt": "2017-10-30 13:35:09"
+    },
     "117414656376251989959-google": {
         "id": "117414656376251989959-google",
         "nickname": "RMAsemargl",
@@ -124,12 +130,6 @@
         "nickname": "sad little panda",
         "booksCount": 34,
         "updatedAt": "2017-10-25 16:57:07"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 38,
-        "updatedAt": "2017-10-25 16:12:33"
     },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
