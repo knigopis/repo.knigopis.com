@@ -1,4 +1,10 @@
 {
+    "117414656376251989959-google": {
+        "id": "117414656376251989959-google",
+        "nickname": "RMAsemargl",
+        "booksCount": 0,
+        "updatedAt": "2017-10-30 11:07:20"
+    },
     "133246162-vkontakte": {
         "id": "133246162-vkontakte",
         "nickname": "cold___coffee",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 54,
         "updatedAt": "2017-10-22 08:49:55"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 82,
-        "updatedAt": "2017-10-21 20:15:59"
     }
 }
