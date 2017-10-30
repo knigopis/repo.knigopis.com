@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
+    > в процессе
+
 * Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
     > Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересное фентази. Мир очень похож на настоящий. Читается легко.
 
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
-    > 10+
 
 * Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
 
-* Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>39</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 [p71c1d](users/118/118385935-vkontakte)<sup>1</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>54</sup> 
 
 
-_30.10.2017 13:35:09_
+_30.10.2017 19:25:28_
