@@ -1,15 +1,15 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
+### `99` Мертвые души
+Николай Гоголь
+
 ### `99` Effective Java
 Joshua Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
-
-### `99` ррногмп
-р
 
 ### `99` Повелитель мух
 Уильям Голдинг
@@ -44,9 +44,9 @@ Randall Munroe
 ### `4` Тайм-драйв
 Глеб Архангельский
 
-### `1` A Briefer History of Time
-Stephen Hawking
-
 ### `1` Эврики и эйфории. Об ученых и их открытиях
 Уолтер Гратцер
+
+### `1` A Briefer History of Time
+Stephen Hawking
 
