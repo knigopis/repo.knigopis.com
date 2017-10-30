@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[cold___coffee](users/133/133246162-vkontakte)<sup>0</sup> 
+[cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 [Castle](users/470/4702922780965857287-mailru)<sup>0</sup> 
 [Деккер](users/726/726970827489875-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>82</sup> 
 
 
-_30.10.2017 03:25:09_
+_30.10.2017 04:40:29_

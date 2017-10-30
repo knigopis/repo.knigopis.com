@@ -1,4 +1,16 @@
 {
+    "0fLsv0O-Ls": {
+        "id": "0fLsv0O-Ls",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "",
+        "createdAt": "2017-10-30 04:40:29",
+        "user": {
+            "id": "133246162-vkontakte",
+            "nickname": "cold___coffee",
+            "booksCount": 1
+        }
+    },
     "xVBb_7DRd8": {
         "id": "xVBb_7DRd8",
         "title": "Мефодий Буслаев",
@@ -345,18 +357,6 @@
             "id": "117124011531379579265-google",
             "nickname": "pimanocci",
             "booksCount": 14
-        }
-    },
-    "mUSsjNjNAL": {
-        "id": "mUSsjNjNAL",
-        "title": "Кинематограф",
-        "author": "Вирджиния Вульф",
-        "notes": "7/10\nЧасть информации уже неактуальна на сегодняшний день, но, тем ни менее, изложена очень красивым языком.",
-        "createdAt": "2017-10-23 21:20:08",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 77
         }
     }
 }
