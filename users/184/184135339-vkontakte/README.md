@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>2</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>3</sup>
 ---
 
 ## 2017
+
+### Вселенная из ничего
+Лоуренс Краусс
+> [2017-10-31] 
+
 
 ### Эгоистичный ген
 Ричард Докинз

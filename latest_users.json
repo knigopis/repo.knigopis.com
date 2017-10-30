@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 3,
+        "updatedAt": "2017-10-30 23:36:00"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "BloodyLadyPreacher",
         "booksCount": 0,
         "updatedAt": "2017-10-22 19:55:28"
-    },
-    "118385935-vkontakte": {
-        "id": "118385935-vkontakte",
-        "nickname": "p71c1d",
-        "booksCount": 1,
-        "updatedAt": "2017-10-22 12:04:03"
     }
 }

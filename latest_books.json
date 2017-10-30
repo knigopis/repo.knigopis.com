@@ -1,4 +1,16 @@
 {
+    "7GSBHrXiM-": {
+        "id": "7GSBHrXiM-",
+        "title": "Вселенная из ничего",
+        "author": "Лоуренс Краусс",
+        "notes": "",
+        "createdAt": "2017-10-30 23:36:00",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 3
+        }
+    },
     "OCKuKS7Saf": {
         "id": "OCKuKS7Saf",
         "title": "Как общаться с ребенком?",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 23
-        }
-    },
-    "WAc1foSXZA": {
-        "id": "WAc1foSXZA",
-        "title": "Поцелуй Урбороса",
-        "author": "Панов Вадим",
-        "notes": "мне понравилось. но могли бы и делать сноски, лично я уже забыла многих героев",
-        "createdAt": "2017-10-24 16:53:13",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 34
         }
     }
 }
