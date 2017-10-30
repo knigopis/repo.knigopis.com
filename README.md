@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>3</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>39</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [BloodyLadyPreacher](users/115/115232793911015685284-google)<sup>0</sup> 
 
 
-_30.10.2017 23:36:00_
+_30.10.2017 23:37:30_
