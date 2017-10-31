@@ -1,4 +1,10 @@
 {
+    "330150317-vkontakte": {
+        "id": "330150317-vkontakte",
+        "nickname": "coltranejohnson",
+        "booksCount": 0,
+        "updatedAt": "2017-10-31 20:30:28"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 34,
         "updatedAt": "2017-10-25 16:57:07"
-    },
-    "117124011531379579265-google": {
-        "id": "117124011531379579265-google",
-        "nickname": "pimanocci",
-        "booksCount": 21,
-        "updatedAt": "2017-10-24 13:28:01"
     }
 }
