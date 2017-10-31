@@ -1,4 +1,16 @@
 {
+    "TrscGAAJ7W": {
+        "id": "TrscGAAJ7W",
+        "title": "Rich Dad, Poor Dad",
+        "author": "Robert Kiyosaki",
+        "notes": "",
+        "createdAt": "2017-10-31 09:23:32",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 83
+        }
+    },
     "_Ga6Y_qhTu": {
         "id": "_Ga6Y_qhTu",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 25
-        }
-    },
-    "0RUqCg8N_8": {
-        "id": "0RUqCg8N_8",
-        "title": "Полмира",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2017-10-25 23:23:05",
-        "user": {
-            "id": "110678352866444093698-google",
-            "nickname": "rowe",
-            "booksCount": 2
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>82</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>83</sup>
 ---
 
 ## 2017
+
+### Rich Dad, Poor Dad
+Robert Kiyosaki
+> [2017-10-27] 
+
 
 ### Крёстный отец
 Марио Пьюзо
