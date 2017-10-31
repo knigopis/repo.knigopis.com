@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
+    > Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.
+
 * Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было
 
 * Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
-    > Интересное фентази. Мир очень похож на настоящий. Читается легко.
 
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
 
-* Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>42</sup> 
 [International master](users/741/74140988-vkontakte)<sup>84</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
-[no-vlad](users/270/27044777-yandex)<sup>0</sup> 
 
 
-_31.10.2017 09:24:26_
+_31.10.2017 13:29:51_

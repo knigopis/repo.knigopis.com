@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>41</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>42</sup>
 ---
 
 ## 2017
+
+### Шестерка воронов
+Ли Бардуго
+> [2017-10-24] Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.
+
 
 ### Снеговик
 Ю Несбё

@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 42,
+        "updatedAt": "2017-10-31 13:29:51"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 77,
         "updatedAt": "2017-10-23 21:20:08"
-    },
-    "27044777-yandex": {
-        "id": "27044777-yandex",
-        "nickname": "no-vlad",
-        "booksCount": 0,
-        "updatedAt": "2017-10-23 19:43:11"
     }
 }
