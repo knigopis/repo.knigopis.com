@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>83</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>84</sup>
 ---
 
 ## 2017
+
+### Стартап за $100: Создай новое будущее, делая то, что ты любишь
+Крис Гильбо
+> [2017-10-31] 
+
 
 ### Rich Dad, Poor Dad
 Robert Kiyosaki
