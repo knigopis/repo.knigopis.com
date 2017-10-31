@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sofie](users/485/48568611-vkontakte)<sup>81</sup> 
+[Sofie](users/485/48568611-vkontakte)<sup>82</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ArchTDI](users/114/114130076326527433894-google)<sup>0</sup> 
 
 
-_31.10.2017 08:43:53_
+_31.10.2017 08:44:32_
