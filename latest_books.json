@@ -1,4 +1,16 @@
 {
+    "9lVUrarZFO": {
+        "id": "9lVUrarZFO",
+        "title": "Алмазный меч, деревянный меч. Книга первая.",
+        "author": "Ник Перутов",
+        "notes": "",
+        "createdAt": "2017-10-31 08:43:53",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 81
+        }
+    },
     "UqdEyAZ7KO": {
         "id": "UqdEyAZ7KO",
         "title": "Готовность ко всему: 52 принципа продуктивности для работы и жизни",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 34
-        }
-    },
-    "gMl3MeB7ZE": {
-        "id": "gMl3MeB7ZE",
-        "title": "На западном фронте без перемен",
-        "author": "Э. М. Ремарк",
-        "notes": "",
-        "createdAt": "2017-10-25 16:12:33",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 38
         }
     }
 }
