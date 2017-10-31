@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>34</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>35</sup>
 ---
 
 ## 2017
+
+### Ребус Галла
+Панов Вадим
+> [2017-10] Лучше быть немного потерпевшим, чем сильно пострадавшим.
+
 
 ### Поцелуй Урбороса
 Панов Вадим

@@ -1,4 +1,16 @@
 {
+    "YWOKPkbos1": {
+        "id": "YWOKPkbos1",
+        "title": "Ребус Галла",
+        "author": "Панов Вадим",
+        "notes": "Лучше быть немного потерпевшим, чем сильно пострадавшим.",
+        "createdAt": "2017-10-31 19:44:24",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 35
+        }
+    },
     "WCnqlYrB4e": {
         "id": "WCnqlYrB4e",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 8
-        }
-    },
-    "Nop8vldsP9": {
-        "id": "Nop8vldsP9",
-        "title": "Искусство любить",
-        "author": "Эрих Фромм",
-        "notes": "10+",
-        "createdAt": "2017-10-27 14:02:50",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 33
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
+    > Лучше быть немного потерпевшим, чем сильно пострадавшим.
+
 * Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
     > Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
-    > Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было
 
 * Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
 
-* Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
 [International master](users/741/74140988-vkontakte)<sup>84</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [rowe](users/110/110678352866444093698-google)<sup>2</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
 
 
-_31.10.2017 18:51:07_
+_31.10.2017 19:44:24_
