@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
 [International master](users/741/74140988-vkontakte)<sup>84</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>34</sup> 
 [pimanocci](users/117/117124011531379579265-google)<sup>21</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>77</sup> 
 
 
-_31.10.2017 13:33:24_
+_31.10.2017 18:51:07_

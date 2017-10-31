@@ -1,4 +1,16 @@
 {
+    "WCnqlYrB4e": {
+        "id": "WCnqlYrB4e",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-10-31 18:51:07",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 33
+        }
+    },
     "smIWAThCXJ": {
         "id": "smIWAThCXJ",
         "title": "Туве Янссон: работай и люби.",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 33
-        }
-    },
-    "3X_8a7lVwP": {
-        "id": "3X_8a7lVwP",
-        "title": "Древний. Предыстория. книга первая.",
-        "author": "Тармашев С.С.",
-        "notes": "Первая книга очень затянула, столько технологий, интересный уклад жизни Сияющих. Темные мерзкие существа, но так похожи на нас( неужели 1,5 млрд лет назад мы пошли не тем путем.",
-        "createdAt": "2017-10-27 12:02:47",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 13
         }
     }
 }

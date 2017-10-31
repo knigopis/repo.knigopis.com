@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 33,
+        "updatedAt": "2017-10-31 18:51:07"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "pimanocci",
         "booksCount": 21,
         "updatedAt": "2017-10-24 13:28:01"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 77,
-        "updatedAt": "2017-10-23 21:20:08"
     }
 }
