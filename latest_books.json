@@ -1,4 +1,16 @@
 {
+    "_Ga6Y_qhTu": {
+        "id": "_Ga6Y_qhTu",
+        "title": "Мы",
+        "author": "Замятин Е.И.",
+        "notes": "",
+        "createdAt": "2017-10-31 08:45:20",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 83
+        }
+    },
     "7RLBssZVKc": {
         "id": "7RLBssZVKc",
         "title": "Сирена",
@@ -345,18 +357,6 @@
             "id": "110678352866444093698-google",
             "nickname": "rowe",
             "booksCount": 2
-        }
-    },
-    "ynCPaSfPfT": {
-        "id": "ynCPaSfPfT",
-        "title": "Полкороля",
-        "author": "Джо Аберкромби",
-        "notes": "",
-        "createdAt": "2017-10-25 23:22:38",
-        "user": {
-            "id": "110678352866444093698-google",
-            "nickname": "rowe",
-            "booksCount": 1
         }
     }
 }
