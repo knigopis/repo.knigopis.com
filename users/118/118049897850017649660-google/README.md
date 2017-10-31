@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>42</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>43</sup>
 ---
 
 ## 2017
+
+### Туве Янссон: работай и люби.
+Туула Карьялайнен
+> [2017-10-31] 
+
 
 ### Шестерка воронов
 Ли Бардуго
