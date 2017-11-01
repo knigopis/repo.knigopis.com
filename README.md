@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>585</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idhlebushek](users/139/139578422-vkontakte)<sup>1</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [rowe](users/110/110678352866444093698-google)<sup>2</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 
 
-_01.11.2017 10:36:50_
+_01.11.2017 10:37:57_
