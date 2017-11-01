@@ -1,4 +1,16 @@
 {
+    "540qHy_gK5": {
+        "id": "540qHy_gK5",
+        "title": "Самый красивый утопленник в мире",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 06:07:18",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 578
+        }
+    },
     "vs8LLEgQRC": {
         "id": "vs8LLEgQRC",
         "title": "Диалог с зеркалом",
@@ -345,18 +357,6 @@
             "id": "367948211-vkontakte",
             "nickname": "conclusion",
             "booksCount": 4
-        }
-    },
-    "59fZlGIc5f": {
-        "id": "59fZlGIc5f",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-10-28 13:59:05",
-        "user": {
-            "id": "367948211-vkontakte",
-            "nickname": "conclusion",
-            "booksCount": 3
         }
     }
 }
