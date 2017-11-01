@@ -1,4 +1,10 @@
 {
+    "111457946792566623164-google": {
+        "id": "111457946792566623164-google",
+        "nickname": "happy racoon",
+        "booksCount": 0,
+        "updatedAt": "2017-11-01 12:52:47"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Andry-Bal",
         "booksCount": 25,
         "updatedAt": "2017-10-26 16:06:15"
-    },
-    "110678352866444093698-google": {
-        "id": "110678352866444093698-google",
-        "nickname": "rowe",
-        "booksCount": 2,
-        "updatedAt": "2017-10-25 23:23:05"
     }
 }
