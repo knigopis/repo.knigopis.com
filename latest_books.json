@@ -1,4 +1,16 @@
 {
+    "F5aES5GRUn": {
+        "id": "F5aES5GRUn",
+        "title": "Путь художника",
+        "author": "Кэмерон",
+        "notes": "Идея: \nИдея: \nИдея: \nПрактикум:",
+        "createdAt": "2017-11-01 12:54:25",
+        "user": {
+            "id": "111457946792566623164-google",
+            "nickname": "happy racoon",
+            "booksCount": 1
+        }
+    },
     "1XwusMKVjg": {
         "id": "1XwusMKVjg",
         "title": "Набо — негритёнок, заставивший ждать ангелов",
@@ -345,18 +357,6 @@
             "id": "117414656376251989959-google",
             "nickname": "RMAsemargl",
             "booksCount": 4
-        }
-    },
-    "Q83OLAuYvR": {
-        "id": "Q83OLAuYvR",
-        "title": "Мысли по-крупному и не тормози!",
-        "author": "Трамп Дональд",
-        "notes": "После этой книги появилось желание заниматься бизнесом с недвижимостью",
-        "createdAt": "2017-10-30 11:11:30",
-        "user": {
-            "id": "117414656376251989959-google",
-            "nickname": "RMAsemargl",
-            "booksCount": 3
         }
     }
 }

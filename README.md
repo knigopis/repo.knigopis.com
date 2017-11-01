@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[happy racoon](users/111/111457946792566623164-google)<sup>0</sup> 
+[happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
 [Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 
 
-_01.11.2017 12:52:49_
+_01.11.2017 12:54:25_
