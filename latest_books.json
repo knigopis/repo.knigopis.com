@@ -1,4 +1,16 @@
 {
+    "uCH8AJ12-J": {
+        "id": "uCH8AJ12-J",
+        "title": "Сиеста во вторник",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 08:43:12",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 581
+        }
+    },
     "jWy2E7slhH": {
         "id": "jWy2E7slhH",
         "title": "Вдова Монтьель",
@@ -345,18 +357,6 @@
             "id": "726970827489875-facebook",
             "nickname": "Деккер",
             "booksCount": 1
-        }
-    },
-    "aqViruKtTj": {
-        "id": "aqViruKtTj",
-        "title": "Большое волшебство. Творчество без страха",
-        "author": "Элизабет Гилберт",
-        "notes": "Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было",
-        "createdAt": "2017-10-28 19:09:35",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 23
         }
     }
 }
