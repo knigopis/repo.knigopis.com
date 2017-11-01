@@ -1,4 +1,16 @@
 {
+    "r8O3GYrVXa": {
+        "id": "r8O3GYrVXa",
+        "title": "Последнее путешествие корабля-призрака",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 05:13:11",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 576
+        }
+    },
     "6yZ4W4elok": {
         "id": "6yZ4W4elok",
         "title": "Искусственные розы",
@@ -345,18 +357,6 @@
             "id": "367948211-vkontakte",
             "nickname": "conclusion",
             "booksCount": 1
-        }
-    },
-    "qn7Qn23oRa": {
-        "id": "qn7Qn23oRa",
-        "title": "Северное сияние (Тёмные начала)",
-        "author": "Пулман, Филип",
-        "notes": "Интересное фентази. Мир очень похож на настоящий. Читается легко.",
-        "createdAt": "2017-10-27 19:58:08",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 155
         }
     }
 }
