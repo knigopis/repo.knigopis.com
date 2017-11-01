@@ -1,4 +1,16 @@
 {
+    "GDqfO844th": {
+        "id": "GDqfO844th",
+        "title": "Кандидат",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 07:18:48",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 579
+        }
+    },
     "540qHy_gK5": {
         "id": "540qHy_gK5",
         "title": "Самый красивый утопленник в мире",
@@ -345,18 +357,6 @@
             "id": "367948211-vkontakte",
             "nickname": "conclusion",
             "booksCount": 5
-        }
-    },
-    "pNsreC2qRO": {
-        "id": "pNsreC2qRO",
-        "title": "Господин из Сан-Фран­цис­ко",
-        "author": "Иван Бунин",
-        "notes": "",
-        "createdAt": "2017-10-28 14:12:50",
-        "user": {
-            "id": "367948211-vkontakte",
-            "nickname": "conclusion",
-            "booksCount": 4
         }
     }
 }
