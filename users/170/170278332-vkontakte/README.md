@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>39</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>40</sup>
 ---
 
 ## 2017
+
+### Пикник на обочине
+А. Стругацкий
+> [2017-11-01] 
+
 
 ### Капитанская дочка
 А. С. Пушкин

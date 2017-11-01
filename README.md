@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>576</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>39</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 
 
-_01.11.2017 05:13:11_
+_01.11.2017 05:13:51_

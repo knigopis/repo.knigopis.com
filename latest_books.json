@@ -1,4 +1,16 @@
 {
+    "97gwh-v-Cw": {
+        "id": "97gwh-v-Cw",
+        "title": "Пикник на обочине",
+        "author": "А. Стругацкий",
+        "notes": "",
+        "createdAt": "2017-11-01 05:13:51",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 40
+        }
+    },
     "r8O3GYrVXa": {
         "id": "r8O3GYrVXa",
         "title": "Последнее путешествие корабля-призрака",
@@ -345,18 +357,6 @@
             "id": "367948211-vkontakte",
             "nickname": "conclusion",
             "booksCount": 2
-        }
-    },
-    "Qzvhhj8dhe": {
-        "id": "Qzvhhj8dhe",
-        "title": "Потерянные поколения",
-        "author": "Ив Престон",
-        "notes": "✕",
-        "createdAt": "2017-10-28 13:55:05",
-        "user": {
-            "id": "367948211-vkontakte",
-            "nickname": "conclusion",
-            "booksCount": 1
         }
     }
 }

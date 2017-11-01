@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 40,
+        "updatedAt": "2017-11-01 05:13:51"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -52,12 +58,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 128,
         "updatedAt": "2017-10-30 19:25:28"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 39,
-        "updatedAt": "2017-10-30 13:35:09"
     },
     "117414656376251989959-google": {
         "id": "117414656376251989959-google",
