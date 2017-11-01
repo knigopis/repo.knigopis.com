@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>575</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>1</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>574</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [rowe](users/110/110678352866444093698-google)<sup>2</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 
 
-_31.10.2017 20:30:30_
+_01.11.2017 04:52:24_
