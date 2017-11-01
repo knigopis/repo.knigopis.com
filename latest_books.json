@@ -1,4 +1,16 @@
 {
+    "vs8LLEgQRC": {
+        "id": "vs8LLEgQRC",
+        "title": "Диалог с зеркалом",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 05:46:56",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 577
+        }
+    },
     "97gwh-v-Cw": {
         "id": "97gwh-v-Cw",
         "title": "Пикник на обочине",
@@ -345,18 +357,6 @@
             "id": "367948211-vkontakte",
             "nickname": "conclusion",
             "booksCount": 3
-        }
-    },
-    "6BDe2cepr4": {
-        "id": "6BDe2cepr4",
-        "title": "На дне",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-10-28 13:55:52",
-        "user": {
-            "id": "367948211-vkontakte",
-            "nickname": "conclusion",
-            "booksCount": 2
         }
     }
 }

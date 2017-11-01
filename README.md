@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>577</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>576</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 
 
-_01.11.2017 05:13:51_
+_01.11.2017 05:46:56_
