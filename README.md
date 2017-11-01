@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>584</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>585</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup> 
 
 
-_01.11.2017 10:20:05_
+_01.11.2017 10:36:50_

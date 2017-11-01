@@ -1,4 +1,16 @@
 {
+    "jKUWtjpBcB": {
+        "id": "jKUWtjpBcB",
+        "title": "За любовью неизбежность смерти",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-01 10:36:50",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 585
+        }
+    },
     "gg63iC_4vX": {
         "id": "gg63iC_4vX",
         "title": "Монолог Исабели, которая смотрит на дождь в Макондо",
@@ -345,18 +357,6 @@
             "id": "117414656376251989959-google",
             "nickname": "RMAsemargl",
             "booksCount": 2
-        }
-    },
-    "ptTzAxWnoG": {
-        "id": "ptTzAxWnoG",
-        "title": "Мобильный нетворкинг. Как рождаются деловые связи",
-        "author": "Бугаев Леонид",
-        "notes": "",
-        "createdAt": "2017-10-30 11:09:11",
-        "user": {
-            "id": "117414656376251989959-google",
-            "nickname": "RMAsemargl",
-            "booksCount": 1
         }
     }
 }
