@@ -1,4 +1,16 @@
 {
+    "-G6BozTFdC": {
+        "id": "-G6BozTFdC",
+        "title": "Город Пустых",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2017-11-02 06:59:38",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 122
+        }
+    },
     "sYnQXb_Dtc": {
         "id": "sYnQXb_Dtc",
         "title": "Библиотека душ",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 42
-        }
-    },
-    "-tgoVQcAt4": {
-        "id": "-tgoVQcAt4",
-        "title": "Стартап за $100: Создай новое будущее, делая то, что ты любишь",
-        "author": "Крис Гильбо",
-        "notes": "",
-        "createdAt": "2017-10-31 09:24:26",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 84
         }
     }
 }
