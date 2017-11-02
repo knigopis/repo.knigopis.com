@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>23</sup> 
 [Embreys](users/435/435613843-vkontakte)<sup>0</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 
 
-_02.11.2017 15:25:12_
+_02.11.2017 19:49:29_
