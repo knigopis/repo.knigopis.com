@@ -1,4 +1,16 @@
 {
+    "jC10ctb3Vx": {
+        "id": "jC10ctb3Vx",
+        "title": "Дом странных детей",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2017-11-02 06:59:39",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 123
+        }
+    },
     "-G6BozTFdC": {
         "id": "-G6BozTFdC",
         "title": "Город Пустых",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 43
-        }
-    },
-    "NjtMG95SfV": {
-        "id": "NjtMG95SfV",
-        "title": "Шестерка воронов",
-        "author": "Ли Бардуго",
-        "notes": "Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.",
-        "createdAt": "2017-10-31 13:29:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 42
         }
     }
 }
