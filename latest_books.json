@@ -1,4 +1,16 @@
 {
+    "cvuzvUxcu9": {
+        "id": "cvuzvUxcu9",
+        "title": "Грабитель",
+        "author": "Кунц Дин",
+        "notes": "Начало было неплохим, а вот к чему было это недо-карликовое существо вообще не понятно. Страшно не было, противно немного было. Интрига была до и после карлика. Концовка самая ожидаемая.",
+        "createdAt": "2017-11-02 06:42:22",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 116
+        }
+    },
     "_XjLvP7tGz": {
         "id": "_XjLvP7tGz",
         "title": "В тёмной комнате",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 4
-        }
-    },
-    "7GSBHrXiM-": {
-        "id": "7GSBHrXiM-",
-        "title": "Вселенная из ничего",
-        "author": "Лоуренс Краусс",
-        "notes": "",
-        "createdAt": "2017-10-30 23:36:00",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 3
         }
     }
 }
