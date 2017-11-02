@@ -1,4 +1,16 @@
 {
+    "_XjLvP7tGz": {
+        "id": "_XjLvP7tGz",
+        "title": "В тёмной комнате",
+        "author": "Лорд Дансени",
+        "notes": "Не тянет даже на детскую сказку.",
+        "createdAt": "2017-11-02 06:40:57",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 115
+        }
+    },
     "kBehWm4POk": {
         "id": "kBehWm4POk",
         "title": "Совпадение",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 3
-        }
-    },
-    "OCKuKS7Saf": {
-        "id": "OCKuKS7Saf",
-        "title": "Как общаться с ребенком?",
-        "author": "Ю.Б.Гиппенрейтер",
-        "notes": "в процессе",
-        "createdAt": "2017-10-30 19:25:28",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 128
         }
     }
 }

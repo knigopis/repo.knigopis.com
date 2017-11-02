@@ -1,4 +1,16 @@
 {
+    "_XjLvP7tGz": {
+        "id": "_XjLvP7tGz",
+        "title": "В тёмной комнате",
+        "author": "Лорд Дансени",
+        "notes": "Не тянет даже на детскую сказку.",
+        "createdAt": "2017-11-02 06:40:57",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 115
+        }
+    },
     "YWOKPkbos1": {
         "id": "YWOKPkbos1",
         "title": "Ребус Галла",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 10
-        }
-    },
-    "WbiOzV1DP5": {
-        "id": "WbiOzV1DP5",
-        "title": "Зеленый король",
-        "author": "Поль Лу Сулицер",
-        "notes": "Реб Михаэль Климрод в попытке создать свою страну.\nГений.",
-        "createdAt": "2017-10-10 15:07:07",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 53
         }
     }
 }

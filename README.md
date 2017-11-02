@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
+    > Не тянет даже на детскую сказку.
+
 * Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
     > Лучше быть немного потерпевшим, чем сильно пострадавшим.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.
 
 * Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
-    > в процессе
 
 * Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 
-* Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>114</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
 
 
-_02.11.2017 06:40:28_
+_02.11.2017 06:40:57_
