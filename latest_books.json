@@ -1,4 +1,16 @@
 {
+    "CFuEcWXY9n": {
+        "id": "CFuEcWXY9n",
+        "title": "Искусство любить",
+        "author": "Фромм",
+        "notes": "",
+        "createdAt": "2017-11-02 11:39:48",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 54
+        }
+    },
     "f_hYRhHbIT": {
         "id": "f_hYRhHbIT",
         "title": "ФФ: За периметром черной полосы",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 35
-        }
-    },
-    "WCnqlYrB4e": {
-        "id": "WCnqlYrB4e",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-10-31 18:51:07",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 33
         }
     }
 }

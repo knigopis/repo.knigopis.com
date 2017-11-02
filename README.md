@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miracolo_bella](users/180/180139283-vkontakte)<sup>54</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
 
 
-_02.11.2017 09:58:35_
+_02.11.2017 11:39:48_

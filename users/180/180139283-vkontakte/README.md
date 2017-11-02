@@ -1,7 +1,12 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>53</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>54</sup>
 ---
 
 ## 2017
+
+### Искусство любить
+Фромм
+> [2017-10] 
+
 
 ### Таинственный сад.
 Френсис Бернетт
