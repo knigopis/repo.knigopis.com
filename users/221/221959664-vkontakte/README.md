@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>135</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>136</sup>
 ---
 
 ## 2017
+
+### Колыбель для кошки
+Курт Воннегут
+> [2017-10-29] 
+
 
 ### Солдаты смерти
 Джо Шрайбер

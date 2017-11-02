@@ -1,4 +1,16 @@
 {
+    "IDsqT4Nq_C": {
+        "id": "IDsqT4Nq_C",
+        "title": "Колыбель для кошки",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2017-11-02 04:57:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 136
+        }
+    },
     "JcYr6KA2Zr": {
         "id": "JcYr6KA2Zr",
         "title": "Солдаты смерти",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 39
-        }
-    },
-    "1y_pBslASx": {
-        "id": "1y_pBslASx",
-        "title": "Доставляя счастье. От нуля до миллиарда",
-        "author": "Шей Тони",
-        "notes": "",
-        "createdAt": "2017-10-30 11:14:04",
-        "user": {
-            "id": "117414656376251989959-google",
-            "nickname": "RMAsemargl",
-            "booksCount": 6
         }
     }
 }
