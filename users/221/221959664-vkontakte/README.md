@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>134</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>135</sup>
 ---
 
 ## 2017
+
+### Солдаты смерти
+Джо Шрайбер
+> [2017-10-28] 
+
 
 ### Кеноби
 Джон Д. Миллер

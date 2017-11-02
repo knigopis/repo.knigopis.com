@@ -1,4 +1,16 @@
 {
+    "JcYr6KA2Zr": {
+        "id": "JcYr6KA2Zr",
+        "title": "Солдаты смерти",
+        "author": "Джо Шрайбер",
+        "notes": "",
+        "createdAt": "2017-11-02 04:56:17",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 135
+        }
+    },
     "JrQoUEac35": {
         "id": "JrQoUEac35",
         "title": "Кеноби",
@@ -345,18 +357,6 @@
             "id": "117414656376251989959-google",
             "nickname": "RMAsemargl",
             "booksCount": 6
-        }
-    },
-    "LSIeltNY91": {
-        "id": "LSIeltNY91",
-        "title": "Платформа: как стать заметным в интернете",
-        "author": "Хайятт Майкл",
-        "notes": "Пошаговая инструкция. Нужна в бумаге, прорабатывать с карандашом",
-        "createdAt": "2017-10-30 11:13:30",
-        "user": {
-            "id": "117414656376251989959-google",
-            "nickname": "RMAsemargl",
-            "booksCount": 5
         }
     }
 }
