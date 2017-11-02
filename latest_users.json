@@ -1,4 +1,10 @@
 {
+    "159437508-vkontakte": {
+        "id": "159437508-vkontakte",
+        "nickname": "juliaaorlova",
+        "booksCount": 0,
+        "updatedAt": "2017-11-02 19:49:26"
+    },
     "113960663475359392680-google": {
         "id": "113960663475359392680-google",
         "nickname": "Irina",
@@ -172,11 +178,5 @@
         "nickname": "conclusion",
         "booksCount": 5,
         "updatedAt": "2017-10-28 14:23:36"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 155,
-        "updatedAt": "2017-10-27 19:58:08"
     }
 }
