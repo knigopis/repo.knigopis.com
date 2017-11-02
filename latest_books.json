@@ -1,4 +1,16 @@
 {
+    "1KBd5I4kaN": {
+        "id": "1KBd5I4kaN",
+        "title": "Вниз, в темноту",
+        "author": "Кунц Дин",
+        "notes": "Потрясная книга! Если искали короткую, зловещу., без бу эффекта это она",
+        "createdAt": "2017-11-02 06:43:16",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 117
+        }
+    },
     "cvuzvUxcu9": {
         "id": "cvuzvUxcu9",
         "title": "Грабитель",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 81
-        }
-    },
-    "UqdEyAZ7KO": {
-        "id": "UqdEyAZ7KO",
-        "title": "Готовность ко всему: 52 принципа продуктивности для работы и жизни",
-        "author": "Дэвид Аллен",
-        "notes": "",
-        "createdAt": "2017-10-30 23:37:30",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 4
         }
     }
 }

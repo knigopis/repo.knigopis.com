@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
+    > Потрясная книга! Если искали короткую, зловещу., без бу эффекта это она
+
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
     > Начало было неплохим, а вот к чему было это недо-карликовое существо вообще не понятно. Страшно не было, противно немного было. Интрига была до и после карлика. Концовка самая ожидаемая.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не тянет даже на детскую сказку.
 
 * Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
-    > Лучше быть немного потерпевшим, чем сильно пострадавшим.
 
 * Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 
-* Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
 
 
-_02.11.2017 06:42:22_
+_02.11.2017 06:43:16_
