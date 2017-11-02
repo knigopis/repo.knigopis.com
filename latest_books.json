@@ -1,4 +1,16 @@
 {
+    "iJy0X7haWd": {
+        "id": "iJy0X7haWd",
+        "title": "Пропавшие в раю",
+        "author": "Нурисламова Альбина Равилевна",
+        "notes": "Не плохо, вот только концовка вообще подкачала. Главный злодей такой обсос, простите меня.",
+        "createdAt": "2017-11-02 06:49:21",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 119
+        }
+    },
     "VOawYNHU1Z": {
         "id": "VOawYNHU1Z",
         "title": "Узкая колея нашего детства",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 83
-        }
-    },
-    "7RLBssZVKc": {
-        "id": "7RLBssZVKc",
-        "title": "Сирена",
-        "author": "Кира Касс",
-        "notes": "",
-        "createdAt": "2017-10-31 08:44:32",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 82
         }
     }
 }

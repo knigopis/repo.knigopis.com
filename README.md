@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
+    > Не плохо, вот только концовка вообще подкачала. Главный злодей такой обсос, простите меня.
+
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
     > Хороший, которкий рассказ. Интригующий конец, на грани налёта страха и грусти.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Потрясная книга! Если искали короткую, зловещу., без бу эффекта это она
 
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
-    > Начало было неплохим, а вот к чему было это недо-карликовое существо вообще не понятно. Страшно не было, противно немного было. Интрига была до и после карлика. Концовка самая ожидаемая.
 
 * В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
 
-* Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
 
 
-_02.11.2017 06:45:10_
+_02.11.2017 06:49:21_

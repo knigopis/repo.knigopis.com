@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
@@ -30,7 +31,6 @@
 * Книга диаграмм. Визуальное решение задач в бизнесе и карьере ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup>
 * Где Мой Сыр? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>126</sup>
 * На Западном фронте без перемен ~ [Alex](users/106/106644083867140961454-google)<sup>36</sup>
-* Человек толпы ~ [Alex](users/106/106644083867140961454-google)<sup>34</sup>
 
 
-_02.11.2017 06:45:10_
+_02.11.2017 06:49:21_
