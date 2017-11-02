@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 * ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
-* Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
 
 
-_02.11.2017 21:00:59_
+_02.11.2017 21:05:21_

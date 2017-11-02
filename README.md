@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
+    > очень милая, легкая, подростковая книга про двух девочек-близняшек. После "В ожидании варваров" читается простовато, но это не её минус
+
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
     > Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > очень-очень любопытная книга. Прочитала с удовольствием, сделала для себя много любопытных выводов по части зависимостей
 
 * ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
-    > Дарк
-    > ЛедиКот
 
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
 
-* В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>25</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>26</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 
 
-_02.11.2017 21:00:59_
+_02.11.2017 21:05:21_

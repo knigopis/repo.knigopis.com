@@ -1,4 +1,16 @@
 {
+    "j2FqvKchqR": {
+        "id": "j2FqvKchqR",
+        "title": "Двойняшки",
+        "author": "Жаклин Уилсон",
+        "notes": "очень милая, легкая, подростковая книга про двух девочек-близняшек. После \"В ожидании варваров\" читается простовато, но это не её минус",
+        "createdAt": "2017-11-02 21:05:21",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 26
+        }
+    },
     "7XW9EgnjWx": {
         "id": "7XW9EgnjWx",
         "title": "В ожидании варваров",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 577
-        }
-    },
-    "97gwh-v-Cw": {
-        "id": "97gwh-v-Cw",
-        "title": "Пикник на обочине",
-        "author": "А. Стругацкий",
-        "notes": "",
-        "createdAt": "2017-11-01 05:13:51",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 40
         }
     }
 }
