@@ -1,4 +1,16 @@
 {
+    "f_hYRhHbIT": {
+        "id": "f_hYRhHbIT",
+        "title": "ФФ: За периметром черной полосы",
+        "author": "MOLOKO",
+        "notes": "Дарк\nЛедиКот",
+        "createdAt": "2017-11-02 09:58:35",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 35
+        }
+    },
     "sYnQXb_Dtc": {
         "id": "sYnQXb_Dtc",
         "title": "Библиотека душ",
@@ -345,18 +357,6 @@
             "id": "107655526900000657481-google",
             "nickname": "ana.21",
             "booksCount": 330
-        }
-    },
-    "jEGs0ul6n9": {
-        "id": "jEGs0ul6n9",
-        "title": "Книга диаграмм. Визуальное решение задач в бизнесе и карьере",
-        "author": "Кевин Дункан",
-        "notes": "https://www.ozon.ru/context/detail/id/135453229/\n\nв процессе",
-        "createdAt": "2017-10-13 17:00:13",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 127
         }
     }
 }

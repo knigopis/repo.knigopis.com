@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 * Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
@@ -30,7 +31,6 @@
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
 * Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
 * Полина. ~ [ana.21](users/107/107655526900000657481-google)<sup>330</sup>
-* Книга диаграмм. Визуальное решение задач в бизнесе и карьере ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>127</sup>
 
 
-_02.11.2017 06:59:35_
+_02.11.2017 09:58:35_

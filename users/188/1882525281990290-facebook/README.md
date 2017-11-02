@@ -1,7 +1,13 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>34</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>35</sup>
 ---
 
 ## 2017
+
+### ФФ: За периметром черной полосы
+MOLOKO
+> [2017-11-02] Дарк
+> ЛедиКот
+
 
 ### Властелин Морморы
 Макс Фрай

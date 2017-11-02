@@ -1,4 +1,16 @@
 {
+    "f_hYRhHbIT": {
+        "id": "f_hYRhHbIT",
+        "title": "ФФ: За периметром черной полосы",
+        "author": "MOLOKO",
+        "notes": "Дарк\nЛедиКот",
+        "createdAt": "2017-11-02 09:58:35",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 35
+        }
+    },
     "jC10ctb3Vx": {
         "id": "jC10ctb3Vx",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 33
-        }
-    },
-    "smIWAThCXJ": {
-        "id": "smIWAThCXJ",
-        "title": "Туве Янссон: работай и люби.",
-        "author": "Туула Карьялайнен",
-        "notes": "",
-        "createdAt": "2017-10-31 13:33:24",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 43
         }
     }
 }

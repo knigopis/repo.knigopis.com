@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
+    > Дарк
+    > ЛедиКот
+
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
     > Напишу слова сразу на всю трилогию и один фильм. Мне нравится! Минысы? Это словно рассказ старика, кучу логических моментов не учтены и даже хорнология (тут на ней туфли потерялись, через 4 страницы она ими пользуется) дико рвёт мозг. Но для меня это были книги и фильм со вкусом Карлсона, Волшебника из страны Оз и лучших детских вечностей. Буду перечитывать, буду смотреть фильмы.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Просто 10 из 10 на данный момент моя самая любимая книга, стоит на ряду с Мизери, Туманом, Перекурщиками и Мобильником.
 
 * Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
-    > Не плохо, вот только концовка вообще подкачала. Главный злодей такой обсос, простите меня.
 
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
 
-* Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>155</sup> 
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
-[En](users/333/333646551-vkontakte)<sup>13</sup> 
 
 
-_02.11.2017 06:59:39_
+_02.11.2017 09:58:35_
