@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 * ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
@@ -30,7 +31,6 @@
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 * Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 * Древний. Час воздаяния. Книга 7 ~ [En](users/333/333646551-vkontakte)<sup>12</sup>
-* Снеговик ~ [Sky](users/118/118049897850017649660-google)<sup>41</sup>
 
 
-_02.11.2017 20:59:38_
+_02.11.2017 21:00:59_

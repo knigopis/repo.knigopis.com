@@ -1,4 +1,16 @@
 {
+    "7XW9EgnjWx": {
+        "id": "7XW9EgnjWx",
+        "title": "В ожидании варваров",
+        "author": "Дж. М. Кутзее",
+        "notes": "Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго",
+        "createdAt": "2017-11-02 21:00:59",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 25
+        }
+    },
     "1duQ2JaKwZ": {
         "id": "1duQ2JaKwZ",
         "title": "Марк Льюис",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 40
-        }
-    },
-    "r8O3GYrVXa": {
-        "id": "r8O3GYrVXa",
-        "title": "Последнее путешествие корабля-призрака",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 05:13:11",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 576
         }
     }
 }

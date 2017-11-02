@@ -1,4 +1,16 @@
 {
+    "7XW9EgnjWx": {
+        "id": "7XW9EgnjWx",
+        "title": "В ожидании варваров",
+        "author": "Дж. М. Кутзее",
+        "notes": "Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго",
+        "createdAt": "2017-11-02 21:00:59",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 25
+        }
+    },
     "1duQ2JaKwZ": {
         "id": "1duQ2JaKwZ",
         "title": "Марк Льюис",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 12
-        }
-    },
-    "f10Qo9Ex53": {
-        "id": "f10Qo9Ex53",
-        "title": "Снеговик",
-        "author": "Ю Несбё",
-        "notes": "Харри Холе 7\nГораздо лучше!",
-        "createdAt": "2017-10-14 19:10:01",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 41
         }
     }
 }

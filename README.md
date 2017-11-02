@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
+    > Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго
+
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
     > очень-очень любопытная книга. Прочитала с удовольствием, сделала для себя много любопытных выводов по части зависимостей
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ЛедиКот
 
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
-    > Напишу слова сразу на всю трилогию и один фильм. Мне нравится! Минысы? Это словно рассказ старика, кучу логических моментов не учтены и даже хорнология (тут на ней туфли потерялись, через 4 страницы она ими пользуется) дико рвёт мозг. Но для меня это были книги и фильм со вкусом Карлсона, Волшебника из страны Оз и лучших детских вечностей. Буду перечитывать, буду смотреть фильмы.
 
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
 
-* Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>24</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>25</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 
 
-_02.11.2017 20:59:38_
+_02.11.2017 21:00:59_
