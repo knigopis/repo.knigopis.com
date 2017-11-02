@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
+    > Напишу слова сразу на всю трилогию и один фильм. Мне нравится! Минысы? Это словно рассказ старика, кучу логических моментов не учтены и даже хорнология (тут на ней туфли потерялись, через 4 страницы она ими пользуется) дико рвёт мозг. Но для меня это были книги и фильм со вкусом Карлсона, Волшебника из страны Оз и лучших детских вечностей. Буду перечитывать, буду смотреть фильмы.
+
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
     > Просто 10 из 10 на данный момент моя самая любимая книга, стоит на ряду с Мизери, Туманом, Перекурщиками и Мобильником.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не плохо, вот только концовка вообще подкачала. Главный злодей такой обсос, простите меня.
 
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
-    > Хороший, которкий рассказ. Интригующий конец, на грани налёта страха и грусти.
 
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
 
-* Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
 
 
-_02.11.2017 06:50:45_
+_02.11.2017 06:59:35_

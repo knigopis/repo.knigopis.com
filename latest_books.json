@@ -1,4 +1,16 @@
 {
+    "sYnQXb_Dtc": {
+        "id": "sYnQXb_Dtc",
+        "title": "Библиотека душ",
+        "author": "Ренсом Риггз",
+        "notes": "Напишу слова сразу на всю трилогию и один фильм. Мне нравится! Минысы? Это словно рассказ старика, кучу логических моментов не учтены и даже хорнология (тут на ней туфли потерялись, через 4 страницы она ими пользуется) дико рвёт мозг. Но для меня это были книги и фильм со вкусом Карлсона, Волшебника из страны Оз и лучших детских вечностей. Буду перечитывать, буду смотреть фильмы.",
+        "createdAt": "2017-11-02 06:59:35",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 121
+        }
+    },
     "n4E5Oo0Sq5": {
         "id": "n4E5Oo0Sq5",
         "title": "Темные горизонты",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 84
-        }
-    },
-    "TrscGAAJ7W": {
-        "id": "TrscGAAJ7W",
-        "title": "Rich Dad, Poor Dad",
-        "author": "Robert Kiyosaki",
-        "notes": "",
-        "createdAt": "2017-10-31 09:23:32",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 83
         }
     }
 }
