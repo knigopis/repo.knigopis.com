@@ -1,4 +1,16 @@
 {
+    "QoQKGGOSL6": {
+        "id": "QoQKGGOSL6",
+        "title": "Здравствуй, грусть",
+        "author": "Франсуаза Саган",
+        "notes": "",
+        "createdAt": "2017-11-02 11:41:05",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 55
+        }
+    },
     "CFuEcWXY9n": {
         "id": "CFuEcWXY9n",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 575
-        }
-    },
-    "YWOKPkbos1": {
-        "id": "YWOKPkbos1",
-        "title": "Ребус Галла",
-        "author": "Панов Вадим",
-        "notes": "Лучше быть немного потерпевшим, чем сильно пострадавшим.",
-        "createdAt": "2017-10-31 19:44:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 35
         }
     }
 }

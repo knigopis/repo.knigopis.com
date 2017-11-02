@@ -1,7 +1,12 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>54</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>55</sup>
 ---
 
 ## 2017
+
+### Здравствуй, грусть
+Франсуаза Саган
+> [2017-10-30] 
+
 
 ### Искусство любить
 Фромм
