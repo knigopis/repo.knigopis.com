@@ -1,4 +1,16 @@
 {
+    "VOawYNHU1Z": {
+        "id": "VOawYNHU1Z",
+        "title": "Узкая колея нашего детства",
+        "author": "Кожин Олег",
+        "notes": "Хороший, которкий рассказ. Интригующий конец, на грани налёта страха и грусти.",
+        "createdAt": "2017-11-02 06:45:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 118
+        }
+    },
     "1KBd5I4kaN": {
         "id": "1KBd5I4kaN",
         "title": "Вниз, в темноту",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 82
-        }
-    },
-    "9lVUrarZFO": {
-        "id": "9lVUrarZFO",
-        "title": "Алмазный меч, деревянный меч. Книга первая.",
-        "author": "Ник Перутов",
-        "notes": "",
-        "createdAt": "2017-10-31 08:43:53",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 81
         }
     }
 }

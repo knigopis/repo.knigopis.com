@@ -1,4 +1,16 @@
 {
+    "VOawYNHU1Z": {
+        "id": "VOawYNHU1Z",
+        "title": "Узкая колея нашего детства",
+        "author": "Кожин Олег",
+        "notes": "Хороший, которкий рассказ. Интригующий конец, на грани налёта страха и грусти.",
+        "createdAt": "2017-11-02 06:45:10",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 118
+        }
+    },
     "1KBd5I4kaN": {
         "id": "1KBd5I4kaN",
         "title": "Вниз, в темноту",
@@ -345,18 +357,6 @@
             "id": "106644083867140961454-google",
             "nickname": "Alex",
             "booksCount": 34
-        }
-    },
-    "hyljWPJnKT": {
-        "id": "hyljWPJnKT",
-        "title": "Над пропастью во ржи",
-        "author": "Сэлинджер, Джером Дэвид",
-        "notes": "Бредятина с претензией на философию",
-        "createdAt": "2017-10-12 12:37:50",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 154
         }
     }
 }

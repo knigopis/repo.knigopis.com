@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
 * В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
@@ -30,7 +31,6 @@
 * Где Мой Сыр? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>126</sup>
 * На Западном фронте без перемен ~ [Alex](users/106/106644083867140961454-google)<sup>36</sup>
 * Человек толпы ~ [Alex](users/106/106644083867140961454-google)<sup>34</sup>
-* Над пропастью во ржи ~ [Garka](users/115/115753719718250012620-google)<sup>154</sup>
 
 
-_02.11.2017 06:43:16_
+_02.11.2017 06:45:10_
