@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 134,
+        "updatedAt": "2017-11-02 04:55:27"
+    },
     "111457946792566623164-google": {
         "id": "111457946792566623164-google",
         "nickname": "happy racoon",
@@ -172,11 +178,5 @@
         "nickname": "idhlebushek",
         "booksCount": 1,
         "updatedAt": "2017-10-27 11:10:57"
-    },
-    "109232883876697421544-google": {
-        "id": "109232883876697421544-google",
-        "nickname": "Andry-Bal",
-        "booksCount": 25,
-        "updatedAt": "2017-10-26 16:06:15"
     }
 }

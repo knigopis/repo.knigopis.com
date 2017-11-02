@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>133</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>134</sup>
 ---
 
 ## 2017
+
+### Кеноби
+Джон Д. Миллер
+> [2017-10-28] 
+
 
 ### Лолита
 Владимир Набоков
