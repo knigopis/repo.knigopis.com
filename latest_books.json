@@ -1,4 +1,16 @@
 {
+    "kBehWm4POk": {
+        "id": "kBehWm4POk",
+        "title": "Совпадение",
+        "author": "Нолан Уильям",
+        "notes": "",
+        "createdAt": "2017-11-02 06:40:28",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 114
+        }
+    },
     "IDsqT4Nq_C": {
         "id": "IDsqT4Nq_C",
         "title": "Колыбель для кошки",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 128
-        }
-    },
-    "edgXJHVC0d": {
-        "id": "edgXJHVC0d",
-        "title": "Капитанская дочка",
-        "author": "А. С. Пушкин",
-        "notes": "",
-        "createdAt": "2017-10-30 13:35:09",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 39
         }
     }
 }

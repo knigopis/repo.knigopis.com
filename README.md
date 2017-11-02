@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>114</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>586</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>8</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup> 
 [En](users/333/333646551-vkontakte)<sup>13</sup> 
-[idhlebushek](users/139/139578422-vkontakte)<sup>1</sup> 
 
 
-_02.11.2017 04:57:00_
+_02.11.2017 06:40:28_
