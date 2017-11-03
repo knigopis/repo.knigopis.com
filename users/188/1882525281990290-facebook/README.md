@@ -1,7 +1,12 @@
-# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>35</sup>
+# List of books read by [sad little panda](https://www.facebook.com/app_scoped_user_id/1882525281990290/)<sup>36</sup>
 ---
 
 ## 2017
+
+### Неуловимый Хабба Хен
+Макс Фрай
+> [2017-11-03] 2 Хроники Ехо 3
+
 
 ### ФФ: За периметром черной полосы
 MOLOKO

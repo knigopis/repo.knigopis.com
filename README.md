@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
+    > 2 Хроники Ехо 3
+
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
     > очень милая, легкая, подростковая книга про двух девочек-близняшек. После "В ожидании варваров" читается простовато, но это не её минус
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго
 
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
-    > очень-очень любопытная книга. Прочитала с удовольствием, сделала для себя много любопытных выводов по части зависимостей
 
 * ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
 
@@ -26,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 
-* Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sad little panda](users/188/1882525281990290-facebook)<sup>36</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>26</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>35</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 
 
-_02.11.2017 21:05:21_
+_03.11.2017 19:51:51_

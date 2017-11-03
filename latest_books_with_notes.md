@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 * Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
-* Цельная жизнь для студентов ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>32</sup>
 
 
-_02.11.2017 21:05:21_
+_03.11.2017 19:51:51_

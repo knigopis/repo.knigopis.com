@@ -1,4 +1,16 @@
 {
+    "rht1GdfOAs": {
+        "id": "rht1GdfOAs",
+        "title": "Неуловимый Хабба Хен",
+        "author": "Макс Фрай",
+        "notes": "2 Хроники Ехо 3",
+        "createdAt": "2017-11-03 19:51:51",
+        "user": {
+            "id": "1882525281990290-facebook",
+            "nickname": "sad little panda",
+            "booksCount": 36
+        }
+    },
     "j2FqvKchqR": {
         "id": "j2FqvKchqR",
         "title": "Двойняшки",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 578
-        }
-    },
-    "vs8LLEgQRC": {
-        "id": "vs8LLEgQRC",
-        "title": "Диалог с зеркалом",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 05:46:56",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 577
         }
     }
 }
