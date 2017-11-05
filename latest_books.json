@@ -1,4 +1,16 @@
 {
+    "m6pdrDkhIb": {
+        "id": "m6pdrDkhIb",
+        "title": "Ева внутри своей кошки",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-05 12:59:08",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 591
+        }
+    },
     "e2-xrjTNzC": {
         "id": "e2-xrjTNzC",
         "title": "Хроники Амбера",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 585
-        }
-    },
-    "gg63iC_4vX": {
-        "id": "gg63iC_4vX",
-        "title": "Монолог Исабели, которая смотрит на дождь в Макондо",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 10:20:04",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 584
         }
     }
 }
