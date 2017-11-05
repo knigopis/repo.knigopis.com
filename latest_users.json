@@ -1,4 +1,10 @@
 {
+    "76561198074910028-steam": {
+        "id": "76561198074910028-steam",
+        "nickname": "creepy the creep",
+        "booksCount": 0,
+        "updatedAt": "2017-11-05 12:35:41"
+    },
     "17345048-vkontakte": {
         "id": "17345048-vkontakte",
         "nickname": "altagona",
@@ -172,11 +178,5 @@
         "nickname": "sashasofronova",
         "booksCount": 0,
         "updatedAt": "2017-10-29 11:00:25"
-    },
-    "8746270-vkontakte": {
-        "id": "8746270-vkontakte",
-        "nickname": "okayalice",
-        "booksCount": 0,
-        "updatedAt": "2017-10-29 08:19:35"
     }
 }
