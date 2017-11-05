@@ -1,4 +1,10 @@
 {
+    "79123726-vkontakte": {
+        "id": "79123726-vkontakte",
+        "nickname": "Frankenstein",
+        "booksCount": 0,
+        "updatedAt": "2017-11-05 22:28:04"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "this_is_rosie",
         "booksCount": 0,
         "updatedAt": "2017-10-29 15:07:02"
-    },
-    "116430475654644004490-google": {
-        "id": "116430475654644004490-google",
-        "nickname": "Dmitri",
-        "booksCount": 0,
-        "updatedAt": "2017-10-29 11:46:29"
     }
 }
