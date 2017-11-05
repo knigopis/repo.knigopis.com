@@ -1,4 +1,16 @@
 {
+    "e2-xrjTNzC": {
+        "id": "e2-xrjTNzC",
+        "title": "Хроники Амбера",
+        "author": "Роджер Желязны",
+        "notes": "Желязны как образчик фентезийности. потрясающая детализированностью мира и хитросплетениями книга. 12/10.",
+        "createdAt": "2017-11-05 12:36:57",
+        "user": {
+            "id": "76561198074910028-steam",
+            "nickname": "creepy the creep",
+            "booksCount": 1
+        }
+    },
     "yDhRSco9Lr": {
         "id": "yDhRSco9Lr",
         "title": "Мы увидимся в августе",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 584
-        }
-    },
-    "WsVv_cVIMZ": {
-        "id": "WsVv_cVIMZ",
-        "title": "Очень старый человек с огромными крыльями",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 09:17:00",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 583
         }
     }
 }
