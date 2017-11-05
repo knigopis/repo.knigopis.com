@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>26</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sashasofronova](users/445/445680033-vkontakte)<sup>0</sup> 
 [okayalice](users/874/8746270-vkontakte)<sup>0</sup> 
 [Embreys](users/435/435613843-vkontakte)<sup>0</sup> 
-[conclusion](users/367/367948211-vkontakte)<sup>5</sup> 
 
 
-_03.11.2017 19:51:51_
+_04.11.2017 21:36:24_

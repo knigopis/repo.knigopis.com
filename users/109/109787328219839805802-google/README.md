@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>30</sup>
+# List of books read by Rainbow<sup>31</sup>
 ---
 
 ## 2017
+
+### "Темные аллеи" (рассказ)
+Бунин
+> [2017-11-05] 
+
 
 ### Герой нашего времени
 Михаил Юрьевич Лермонтов
