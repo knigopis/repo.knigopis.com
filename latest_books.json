@@ -1,4 +1,16 @@
 {
+    "AIW_iJu4BI": {
+        "id": "AIW_iJu4BI",
+        "title": "Ветхий Завет",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-11-05 17:44:18",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 128
+        }
+    },
     "15Y2Z_aHKy": {
         "id": "15Y2Z_aHKy",
         "title": "Счастливое лето госпожи Форбс",
@@ -345,18 +357,6 @@
             "id": "111457946792566623164-google",
             "nickname": "happy racoon",
             "booksCount": 1
-        }
-    },
-    "1XwusMKVjg": {
-        "id": "1XwusMKVjg",
-        "title": "Набо — негритёнок, заставивший ждать ангелов",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 10:53:40",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 586
         }
     }
 }
