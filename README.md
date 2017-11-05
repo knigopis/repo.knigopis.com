@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[creepy the creep](users/765/76561198074910028-steam)<sup>0</sup> 
 [altagona](users/173/17345048-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>590</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [this_is_rosie](users/349/34950345-vkontakte)<sup>0</sup> 
 [Dmitri](users/116/116430475654644004490-google)<sup>0</sup> 
 [sashasofronova](users/445/445680033-vkontakte)<sup>0</sup> 
-[okayalice](users/874/8746270-vkontakte)<sup>0</sup> 
 
 
-_05.11.2017 12:33:42_
+_05.11.2017 12:35:42_
