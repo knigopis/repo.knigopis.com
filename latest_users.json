@@ -1,4 +1,10 @@
 {
+    "17345048-vkontakte": {
+        "id": "17345048-vkontakte",
+        "nickname": "altagona",
+        "booksCount": 0,
+        "updatedAt": "2017-11-05 12:33:40"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "okayalice",
         "booksCount": 0,
         "updatedAt": "2017-10-29 08:19:35"
-    },
-    "435613843-vkontakte": {
-        "id": "435613843-vkontakte",
-        "nickname": "Embreys",
-        "booksCount": 0,
-        "updatedAt": "2017-10-28 18:15:54"
     }
 }
