@@ -1,4 +1,16 @@
 {
+    "zeLMlrRkqk": {
+        "id": "zeLMlrRkqk",
+        "title": "Третье смирение",
+        "author": "Габриэль Гарсия Маркес",
+        "notes": "",
+        "createdAt": "2017-11-05 08:25:03",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 587
+        }
+    },
     "KIM3LaQ_Kn": {
         "id": "KIM3LaQ_Kn",
         "title": "\"Темные аллеи\" (рассказ)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 580
-        }
-    },
-    "GDqfO844th": {
-        "id": "GDqfO844th",
-        "title": "Кандидат",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-01 07:18:48",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 579
         }
     }
 }

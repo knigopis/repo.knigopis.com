@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>587</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>26</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>586</sup> 
 [Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Embreys](users/435/435613843-vkontakte)<sup>0</sup> 
 
 
-_04.11.2017 21:36:24_
+_05.11.2017 08:25:03_
