@@ -4,7 +4,9 @@
 ## 2017
 
 ### Don't Just Roll The Dice - A usefully short guide to software pricing
-> [2017-08-22] 
+Neil Davidson
+> [2017-08-22] Kindle
+> ASIN: B003XVYKRW
 
 
 ### Как преодолеть кризисы, или Психология современного школьника
