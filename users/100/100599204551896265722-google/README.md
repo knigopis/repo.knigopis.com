@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>48</sup>
+# Список прочитанных книг пользователя exulted<sup>49</sup>
 ---
 
 ## 2017
+
+### Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism
+Kevin MacDonald
+> [2017-09-15] Kindle
+> ASIN: B00HPBZZCA
+
 
 ### Don't Just Roll The Dice - A usefully short guide to software pricing
 Neil Davidson

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 * Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
-* Шестая книга судьбы ~ [Chiffi](users/105/105831994080785626680-google)<sup>33</sup>
 
 
-_03.11.2017 19:51:51_
+_06.11.2017 20:10:55_

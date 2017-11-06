@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
+    > Kindle
+    > ASIN: B00HPBZZCA
+
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
     > 2 Хроники Ехо 3
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > очень милая, легкая, подростковая книга про двух девочек-близняшек. После "В ожидании варваров" читается простовато, но это не её минус
 
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
-    > Книга специфичная и тяжелая, но в ней определенно есть смысл. Не жалею о прочтении, хотя одолевала я её долго
 
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 
-* Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>48</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>49</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 
 
-_06.11.2017 20:08:04_
+_06.11.2017 20:10:55_
