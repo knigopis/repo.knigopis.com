@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>49</sup>
+# Список прочитанных книг пользователя exulted<sup>50</sup>
 ---
 
 ## 2017
@@ -7,6 +7,11 @@
 Kevin MacDonald
 > [2017-09-15] Kindle
 > ASIN: B00HPBZZCA
+
+
+### Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить
+Йаэль Адлер
+> [2017-09-01] ISBN: 978-5-699-93449-2
 
 
 ### Don't Just Roll The Dice - A usefully short guide to software pricing

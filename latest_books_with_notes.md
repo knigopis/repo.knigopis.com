@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
@@ -30,7 +31,6 @@
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 * Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
-* Кинематограф ~ [Apprentice ](users/528/52821952-vkontakte)<sup>77</sup>
 
 
-_06.11.2017 20:10:55_
+_06.11.2017 20:22:14_

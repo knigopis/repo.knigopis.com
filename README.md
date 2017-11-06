@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
+    > ISBN: 978-5-699-93449-2
+
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
     > Kindle
     > ASIN: B00HPBZZCA
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > 2 Хроники Ехо 3
 
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
-    > очень милая, легкая, подростковая книга про двух девочек-близняшек. После "В ожидании варваров" читается простовато, но это не её минус
 
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
 
-* Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>49</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>50</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 
 
-_06.11.2017 20:10:55_
+_06.11.2017 20:22:14_

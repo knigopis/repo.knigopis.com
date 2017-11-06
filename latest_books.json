@@ -1,4 +1,16 @@
 {
+    "dVzWlydcMf": {
+        "id": "dVzWlydcMf",
+        "title": "Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить",
+        "author": "Йаэль Адлер",
+        "notes": "ISBN: 978-5-699-93449-2",
+        "createdAt": "2017-11-06 20:22:14",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 50
+        }
+    },
     "4HSCRqS2DQ": {
         "id": "4HSCRqS2DQ",
         "title": "Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 115
-        }
-    },
-    "kBehWm4POk": {
-        "id": "kBehWm4POk",
-        "title": "Совпадение",
-        "author": "Нолан Уильям",
-        "notes": "",
-        "createdAt": "2017-11-02 06:40:28",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 114
         }
     }
 }
