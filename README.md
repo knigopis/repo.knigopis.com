@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>593</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>50</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>128</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>592</sup> 
 [creepy the creep](users/765/76561198074910028-steam)<sup>1</sup> 
 [altagona](users/173/17345048-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 
 
-_06.11.2017 20:22:14_
+_06.11.2017 22:19:48_

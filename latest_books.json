@@ -1,4 +1,16 @@
 {
+    "MjZ-6a6nWM": {
+        "id": "MjZ-6a6nWM",
+        "title": "Прибой и берега",
+        "author": "Юнсон Эйвинд",
+        "notes": "",
+        "createdAt": "2017-11-06 22:19:47",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 593
+        }
+    },
     "dVzWlydcMf": {
         "id": "dVzWlydcMf",
         "title": "Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 116
-        }
-    },
-    "_XjLvP7tGz": {
-        "id": "_XjLvP7tGz",
-        "title": "В тёмной комнате",
-        "author": "Лорд Дансени",
-        "notes": "Не тянет даже на детскую сказку.",
-        "createdAt": "2017-11-02 06:40:57",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 115
         }
     }
 }
