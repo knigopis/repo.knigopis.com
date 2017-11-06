@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>48</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
-[Castle](users/470/4702922780965857287-mailru)<sup>0</sup> 
 
 
-_06.11.2017 14:00:13_
+_06.11.2017 20:08:04_

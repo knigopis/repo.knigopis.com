@@ -1,4 +1,16 @@
 {
+    "lUjLMuhvw8": {
+        "id": "lUjLMuhvw8",
+        "title": "Don't Just Roll The Dice - A usefully short guide to software pricing",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-11-06 20:08:04",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 48
+        }
+    },
     "HE5dFTLr75": {
         "id": "HE5dFTLr75",
         "title": "Страж.",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 136
-        }
-    },
-    "JcYr6KA2Zr": {
-        "id": "JcYr6KA2Zr",
-        "title": "Солдаты смерти",
-        "author": "Джо Шрайбер",
-        "notes": "",
-        "createdAt": "2017-11-02 04:56:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 135
         }
     }
 }
