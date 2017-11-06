@@ -3,6 +3,10 @@
 
 ## 2017
 
+### Don't Just Roll The Dice - A usefully short guide to software pricing
+> [2017-08-22] 
+
+
 ### Как преодолеть кризисы, или Психология современного школьника
 Чуднявцев Сергей
 > [2017-08-06] 
@@ -96,9 +100,6 @@ Keith Lowe
 ### Systematic Trading
 Robert Carver
 > [2017-01-05] ISBN 9780857194459
-
-
-### Don't Just Roll The Dice - A usefully short guide to software pricing
 
 
 
