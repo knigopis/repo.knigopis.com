@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>274</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>128</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>592</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 [Castle](users/470/4702922780965857287-mailru)<sup>0</sup> 
 [Деккер](users/726/726970827489875-facebook)<sup>1</sup> 
-[this_is_rosie](users/349/34950345-vkontakte)<sup>0</sup> 
 
 
-_05.11.2017 22:28:08_
+_06.11.2017 05:43:04_

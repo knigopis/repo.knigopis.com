@@ -1,4 +1,16 @@
 {
+    "DqwtPSr5hL": {
+        "id": "DqwtPSr5hL",
+        "title": "Фокус",
+        "author": "Дэниэл Гоулман",
+        "notes": "",
+        "createdAt": "2017-11-06 05:43:04",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 274
+        }
+    },
     "AIW_iJu4BI": {
         "id": "AIW_iJu4BI",
         "title": "Ветхий Завет",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 134
-        }
-    },
-    "F5aES5GRUn": {
-        "id": "F5aES5GRUn",
-        "title": "Путь художника",
-        "author": "Кэмерон",
-        "notes": "Идея: \nИдея: \nИдея: \nПрактикум:",
-        "createdAt": "2017-11-01 12:54:25",
-        "user": {
-            "id": "111457946792566623164-google",
-            "nickname": "happy racoon",
-            "booksCount": 1
         }
     }
 }
