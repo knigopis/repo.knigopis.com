@@ -1,4 +1,10 @@
 {
+    "100779836483978880031-google": {
+        "id": "100779836483978880031-google",
+        "nickname": "RainyMorning",
+        "booksCount": 0,
+        "updatedAt": "2017-11-06 14:00:10"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Castle",
         "booksCount": 0,
         "updatedAt": "2017-10-29 22:13:00"
-    },
-    "726970827489875-facebook": {
-        "id": "726970827489875-facebook",
-        "nickname": "Деккер",
-        "booksCount": 1,
-        "updatedAt": "2017-10-29 16:09:20"
     }
 }
