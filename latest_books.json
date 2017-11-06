@@ -1,4 +1,16 @@
 {
+    "HE5dFTLr75": {
+        "id": "HE5dFTLr75",
+        "title": "Страж.",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2017-11-06 05:44:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 275
+        }
+    },
     "DqwtPSr5hL": {
         "id": "DqwtPSr5hL",
         "title": "Фокус",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 135
-        }
-    },
-    "JrQoUEac35": {
-        "id": "JrQoUEac35",
-        "title": "Кеноби",
-        "author": "Джон Д. Миллер",
-        "notes": "",
-        "createdAt": "2017-11-02 04:55:27",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 134
         }
     }
 }
