@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>593</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>50</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
-[JoannaSnow](users/700/700734347037442048-twitter)<sup>1</sup> 
 
 
-_06.11.2017 22:19:48_
+_07.11.2017 13:16:36_
