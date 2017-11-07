@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
 * Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
-* Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
 
 
-_07.11.2017 16:19:14_
+_07.11.2017 20:35:30_

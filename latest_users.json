@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 27,
+        "updatedAt": "2017-11-07 20:35:30"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -82,12 +88,6 @@
         "nickname": "sad little panda",
         "booksCount": 36,
         "updatedAt": "2017-11-03 19:51:51"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 26,
-        "updatedAt": "2017-11-02 21:05:21"
     },
     "159437508-vkontakte": {
         "id": "159437508-vkontakte",

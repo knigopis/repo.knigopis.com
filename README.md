@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
+    > Удивительная книга, на самом деле. Как будтобы и сказка, а как будто бы и философия, тонкая и метафоричная
+
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
     > Вторая книга серии ничуть не хуже первой. Фэнтези вперемежку с физикой элементарных частиц, не детские проблемы в вроде бы детской сказке. Однозначно интересно.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-699-93449-2
 
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
-    > Kindle
-    > ASIN: B00HPBZZCA
 
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
 
-* Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>156</sup> 
 [International master](users/741/74140988-vkontakte)<sup>85</sup> 
@@ -48,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [altagona](users/173/17345048-vkontakte)<sup>0</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>26</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 
 
-_07.11.2017 16:39:39_
+_07.11.2017 20:35:30_
