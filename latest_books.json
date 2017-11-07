@@ -1,4 +1,16 @@
 {
+    "chn4e_HE4S": {
+        "id": "chn4e_HE4S",
+        "title": "Дверь в лето",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2017-11-07 16:39:39",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 8
+        }
+    },
     "7V5O4vh39b": {
         "id": "7V5O4vh39b",
         "title": "оили",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 120
-        }
-    },
-    "iJy0X7haWd": {
-        "id": "iJy0X7haWd",
-        "title": "Пропавшие в раю",
-        "author": "Нурисламова Альбина Равилевна",
-        "notes": "Не плохо, вот только концовка вообще подкачала. Главный злодей такой обсос, простите меня.",
-        "createdAt": "2017-11-02 06:49:21",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 119
         }
     }
 }
