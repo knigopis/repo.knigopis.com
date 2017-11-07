@@ -1,4 +1,10 @@
 {
+    "106140569182133730393-google": {
+        "id": "106140569182133730393-google",
+        "nickname": "TwirlFog",
+        "booksCount": 0,
+        "updatedAt": "2017-11-07 13:16:33"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "cold___coffee",
         "booksCount": 1,
         "updatedAt": "2017-10-30 04:40:29"
-    },
-    "700734347037442048-twitter": {
-        "id": "700734347037442048-twitter",
-        "nickname": "JoannaSnow",
-        "booksCount": 1,
-        "updatedAt": "2017-10-29 22:15:14"
     }
 }
