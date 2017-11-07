@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
 * Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 * Квіти для Елджернона ~ [pimanocci](users/117/117124011531379579265-google)<sup>16</sup>
 * Історія Starbucks ~ [pimanocci](users/117/117124011531379579265-google)<sup>15</sup>
-* Плутократи ~ [pimanocci](users/117/117124011531379579265-google)<sup>14</sup>
 
 
-_06.11.2017 20:22:14_
+_07.11.2017 16:19:14_

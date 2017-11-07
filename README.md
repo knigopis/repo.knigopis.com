@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
+    > Вторая книга серии ничуть не хуже первой. Фэнтези вперемежку с физикой элементарных частиц, не детские проблемы в вроде бы детской сказке. Однозначно интересно.
+
 * Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
     > ISBN: 978-5-699-93449-2
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00HPBZZCA
 
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
-    > 2 Хроники Ехо 3
 
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 
-* Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>156</sup> 
 [International master](users/741/74140988-vkontakte)<sup>85</sup> 
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>593</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 [RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
-[cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 
 
-_07.11.2017 15:10:57_
+_07.11.2017 16:19:14_
