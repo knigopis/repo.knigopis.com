@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 85,
+        "updatedAt": "2017-11-07 15:10:57"
+    },
     "106140569182133730393-google": {
         "id": "106140569182133730393-google",
         "nickname": "TwirlFog",
@@ -142,12 +148,6 @@
         "nickname": "Sky",
         "booksCount": 43,
         "updatedAt": "2017-10-31 13:33:24"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 84,
-        "updatedAt": "2017-10-31 09:24:26"
     },
     "48568611-vkontakte": {
         "id": "48568611-vkontakte",

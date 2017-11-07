@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>84</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>85</sup>
 ---
 
 ## 2017
+
+### Воспоминания биржевого спекулянта
+Эдвин Лефевр
+> [2017-11-07] 
+
 
 ### Стартап за $100: Создай новое будущее, делая то, что ты любишь
 Крис Гильбо

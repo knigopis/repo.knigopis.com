@@ -1,4 +1,16 @@
 {
+    "3WKP_2CFNZ": {
+        "id": "3WKP_2CFNZ",
+        "title": "Воспоминания биржевого спекулянта",
+        "author": "Эдвин Лефевр",
+        "notes": "",
+        "createdAt": "2017-11-07 15:10:57",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 85
+        }
+    },
     "MjZ-6a6nWM": {
         "id": "MjZ-6a6nWM",
         "title": "Прибой и берега",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 117
-        }
-    },
-    "cvuzvUxcu9": {
-        "id": "cvuzvUxcu9",
-        "title": "Грабитель",
-        "author": "Кунц Дин",
-        "notes": "Начало было неплохим, а вот к чему было это недо-карликовое существо вообще не понятно. Страшно не было, противно немного было. Интрига была до и после карлика. Концовка самая ожидаемая.",
-        "createdAt": "2017-11-02 06:42:22",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 116
         }
     }
 }

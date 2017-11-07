@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>85</sup> 
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>593</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>50</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
-[International master](users/741/74140988-vkontakte)<sup>84</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [cold___coffee](users/133/133246162-vkontakte)<sup>1</sup> 
 
 
-_07.11.2017 13:16:36_
+_07.11.2017 15:10:57_
