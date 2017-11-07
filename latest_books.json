@@ -1,4 +1,16 @@
 {
+    "7V5O4vh39b": {
+        "id": "7V5O4vh39b",
+        "title": "оили",
+        "author": "лорло",
+        "notes": "",
+        "createdAt": "2017-11-07 16:38:45",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 7
+        }
+    },
     "VZqP6BDnQU": {
         "id": "VZqP6BDnQU",
         "title": "Чудесный нож (Темные начала)",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 119
-        }
-    },
-    "VOawYNHU1Z": {
-        "id": "VOawYNHU1Z",
-        "title": "Узкая колея нашего детства",
-        "author": "Кожин Олег",
-        "notes": "Хороший, которкий рассказ. Интригующий конец, на грани налёта страха и грусти.",
-        "createdAt": "2017-11-02 06:45:10",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 118
         }
     }
 }

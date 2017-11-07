@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>7</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>156</sup> 
 [International master](users/741/74140988-vkontakte)<sup>85</sup> 
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
-[RMAsemargl](users/117/117414656376251989959-google)<sup>6</sup> 
 
 
-_07.11.2017 16:19:14_
+_07.11.2017 16:38:45_

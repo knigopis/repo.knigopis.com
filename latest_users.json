@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 7,
+        "updatedAt": "2017-11-07 16:38:45"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 128,
         "updatedAt": "2017-10-30 19:25:28"
-    },
-    "117414656376251989959-google": {
-        "id": "117414656376251989959-google",
-        "nickname": "RMAsemargl",
-        "booksCount": 6,
-        "updatedAt": "2017-10-30 11:14:04"
     }
 }
