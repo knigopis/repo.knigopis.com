@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup> 
 [kreinberry](users/114/1140900829255723-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>596</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
-[Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 
 
-_08.11.2017 15:09:33_
+_08.11.2017 17:08:39_
