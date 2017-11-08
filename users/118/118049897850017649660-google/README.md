@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>43</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>44</sup>
 ---
 
 ## 2017
+
+### Почти идеальные люди. Вся правда о жизни в скандинавском раю.
+Майкл Бут
+> [2017-11-08] 
+
 
 ### Туве Янссон: работай и люби.
 Туула Карьялайнен

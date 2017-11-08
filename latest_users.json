@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 44,
+        "updatedAt": "2017-11-08 19:32:08"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 33,
         "updatedAt": "2017-10-31 18:51:07"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 43,
-        "updatedAt": "2017-10-31 13:33:24"
     }
 }

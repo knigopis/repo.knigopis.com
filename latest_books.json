@@ -1,4 +1,16 @@
 {
+    "KvWFKtfPJJ": {
+        "id": "KvWFKtfPJJ",
+        "title": "Почти идеальные люди. Вся правда о жизни в скандинавском раю.",
+        "author": "Майкл Бут",
+        "notes": "",
+        "createdAt": "2017-11-08 19:32:08",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 44
+        }
+    },
     "f96G_eMt_R": {
         "id": "f96G_eMt_R",
         "title": "Вниз, в темноту",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 24
-        }
-    },
-    "QoQKGGOSL6": {
-        "id": "QoQKGGOSL6",
-        "title": "Здравствуй, грусть",
-        "author": "Франсуаза Саган",
-        "notes": "",
-        "createdAt": "2017-11-02 11:41:05",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 55
         }
     }
 }
