@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kreinberry](users/114/1140900829255723-facebook)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>596</sup> 
 [Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 
 
-_08.11.2017 10:57:42_
+_08.11.2017 12:02:24_
