@@ -1,4 +1,16 @@
 {
+    "f96G_eMt_R": {
+        "id": "f96G_eMt_R",
+        "title": "Вниз, в темноту",
+        "author": "Кунц Дин",
+        "notes": "",
+        "createdAt": "2017-11-08 17:43:46",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 157
+        }
+    },
     "kItOcF2f-Y": {
         "id": "kItOcF2f-Y",
         "title": "Ворона на мосту",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 55
-        }
-    },
-    "CFuEcWXY9n": {
-        "id": "CFuEcWXY9n",
-        "title": "Искусство любить",
-        "author": "Фромм",
-        "notes": "",
-        "createdAt": "2017-11-02 11:39:48",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 54
         }
     }
 }

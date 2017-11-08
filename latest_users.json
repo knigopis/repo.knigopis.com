@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 157,
+        "updatedAt": "2017-11-08 17:43:46"
+    },
     "344559545-vkontakte": {
         "id": "344559545-vkontakte",
         "nickname": "linuxic",
@@ -40,12 +46,6 @@
         "nickname": "submerged fish",
         "booksCount": 8,
         "updatedAt": "2017-11-07 16:39:39"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 156,
-        "updatedAt": "2017-11-07 16:19:14"
     },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
