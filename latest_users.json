@@ -1,4 +1,10 @@
 {
+    "1882525281990290-facebook": {
+        "id": "1882525281990290-facebook",
+        "nickname": "sad little panda",
+        "booksCount": 37,
+        "updatedAt": "2017-11-08 15:09:33"
+    },
     "1140900829255723-facebook": {
         "id": "1140900829255723-facebook",
         "nickname": "kreinberry",
@@ -94,12 +100,6 @@
         "nickname": "Rainbow",
         "booksCount": 31,
         "updatedAt": "2017-11-04 21:36:24"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 36,
-        "updatedAt": "2017-11-03 19:51:51"
     },
     "159437508-vkontakte": {
         "id": "159437508-vkontakte",
