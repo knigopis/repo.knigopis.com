@@ -1,4 +1,10 @@
 {
+    "105136817181380670385-google": {
+        "id": "105136817181380670385-google",
+        "nickname": "Reegar",
+        "booksCount": 0,
+        "updatedAt": "2017-11-08 08:57:57"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 4,
         "updatedAt": "2017-10-30 23:37:30"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 128,
-        "updatedAt": "2017-10-30 19:25:28"
     }
 }
