@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>594</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>43</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>83</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup> 
 
 
-_08.11.2017 07:32:11_
+_08.11.2017 08:57:59_
