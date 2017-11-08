@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>595</sup> 
 [Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>594</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>156</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>4</sup> 
 
 
-_08.11.2017 08:57:59_
+_08.11.2017 09:28:11_
