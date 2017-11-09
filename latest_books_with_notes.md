@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Унесенные ветром ~ [kempinsky](users/171/1717865441574584-facebook)<sup>3</sup>
 * Ворона на мосту ~ [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup>
 * Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
@@ -30,7 +31,6 @@
 * Поцелуй Урбороса ~ [Chiffi](users/105/105831994080785626680-google)<sup>34</sup>
 * Інноватори ~ [pimanocci](users/117/117124011531379579265-google)<sup>20</sup>
 * Sapiens. Краткая история человечества ~ [pimanocci](users/117/117124011531379579265-google)<sup>19</sup>
-* Битва за космос ~ [pimanocci](users/117/117124011531379579265-google)<sup>18</sup>
 
 
-_08.11.2017 15:09:33_
+_09.11.2017 11:02:23_

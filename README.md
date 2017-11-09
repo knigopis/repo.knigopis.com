@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Унесенные ветром ~ [kempinsky](users/171/1717865441574584-facebook)<sup>3</sup>
+    > Книга очень впечатлила! особенно любовь Батлера к его дочери и к самой Скарлетт
+
 * Ворона на мосту ~ [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup>
     > 2 Хроники Ехо 4
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Удивительная книга, на самом деле. Как будтобы и сказка, а как будто бы и философия, тонкая и метафоричная
 
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
-    > Вторая книга серии ничуть не хуже первой. Фэнтези вперемежку с физикой элементарных частиц, не детские проблемы в вроде бы детской сказке. Однозначно интересно.
 
 * Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 
-* ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kempinsky](users/171/1717865441574584-facebook)<sup>3</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
 
 
-_09.11.2017 08:47:24_
+_09.11.2017 11:02:23_
