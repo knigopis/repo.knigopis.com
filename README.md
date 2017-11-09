@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>108</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
-[coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 
 
-_09.11.2017 11:24:40_
+_09.11.2017 12:07:01_
