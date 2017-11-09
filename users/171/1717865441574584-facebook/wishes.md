@@ -1,6 +1,9 @@
 # Wish list of books by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)
 ---
 
+### `6` Мартин Иден
+Джек Лондон
+
 ### `4` Граф Монте-Кристо
 А. Дюма
 
