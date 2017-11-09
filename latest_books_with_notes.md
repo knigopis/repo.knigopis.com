@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 * Вдали от обезумевшей толпы ~ [kempinsky](users/171/1717865441574584-facebook)<sup>4</sup>
@@ -30,7 +31,6 @@
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
 * Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 * Властелин Морморы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>34</sup>
-* Белый доминиканец ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 
 
-_09.11.2017 11:22:24_
+_09.11.2017 11:23:04_
