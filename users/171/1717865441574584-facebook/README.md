@@ -1,4 +1,4 @@
-# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>6</sup>
+# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>7</sup>
 ---
 
 ## 2017
@@ -29,6 +29,10 @@
 
 
 ## 2016
+
+### Тени в раю
+Эрих Мария Ремарк
+
 
 ### Три товарища
 Эрих Мария Ремарк

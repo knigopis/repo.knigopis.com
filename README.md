@@ -42,7 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>6</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>7</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
@@ -74,4 +74,4 @@ _More notes [here](latest_books_with_notes.md)._
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 
 
-_09.11.2017 11:20:50_
+_09.11.2017 11:21:09_

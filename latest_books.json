@@ -1,4 +1,16 @@
 {
+    "pcjczknSfs": {
+        "id": "pcjczknSfs",
+        "title": "Тени в раю",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-11-09 11:21:09",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 7
+        }
+    },
     "kFXAa9DXD5": {
         "id": "kFXAa9DXD5",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 588
-        }
-    },
-    "zeLMlrRkqk": {
-        "id": "zeLMlrRkqk",
-        "title": "Третье смирение",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-05 08:25:03",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 587
         }
     }
 }
