@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>136</sup> 
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 [Annascor](users/103/103601326114648384406-google)<sup>0</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 
 
-_09.11.2017 12:07:01_
+_09.11.2017 21:42:13_
