@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "sergeybolobaev",
+        "booksCount": 34,
+        "updatedAt": "2017-11-09 08:47:24"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 35,
         "updatedAt": "2017-10-31 19:44:24"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 33,
-        "updatedAt": "2017-10-31 18:51:07"
     }
 }

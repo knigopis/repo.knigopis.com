@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
 [linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>40</sup> 
 [coltranejohnson](users/330/330150317-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>35</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>33</sup> 
 
 
-_08.11.2017 19:32:08_
+_09.11.2017 08:47:24_
