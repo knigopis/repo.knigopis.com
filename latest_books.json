@@ -1,4 +1,16 @@
 {
+    "1MuJA9P09r": {
+        "id": "1MuJA9P09r",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-11-09 11:21:22",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 8
+        }
+    },
     "pcjczknSfs": {
         "id": "pcjczknSfs",
         "title": "Тени в раю",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 589
-        }
-    },
-    "7mjW9D5yz6": {
-        "id": "7mjW9D5yz6",
-        "title": "Женщина, которая приходила ровно в шесть",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-05 09:20:40",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 588
         }
     }
 }
