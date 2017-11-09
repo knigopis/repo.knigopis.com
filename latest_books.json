@@ -1,4 +1,16 @@
 {
+    "kFXAa9DXD5": {
+        "id": "kFXAa9DXD5",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-11-09 11:20:50",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 6
+        }
+    },
     "OWquY_bQhW": {
         "id": "OWquY_bQhW",
         "title": "Тэсс из рода д'Эрбервиллей",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 587
-        }
-    },
-    "KIM3LaQ_Kn": {
-        "id": "KIM3LaQ_Kn",
-        "title": "\"Темные аллеи\" (рассказ)",
-        "author": "Бунин",
-        "notes": "",
-        "createdAt": "2017-11-04 21:36:24",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 31
         }
     }
 }
