@@ -1,4 +1,16 @@
 {
+    "zr3F8eSS-b": {
+        "id": "zr3F8eSS-b",
+        "title": "Сумарки. Сага",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2017-11-10 14:13:40",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 26
+        }
+    },
     "JfUPhz58BT": {
         "id": "JfUPhz58BT",
         "title": "Там, где ты",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 44
-        }
-    },
-    "f96G_eMt_R": {
-        "id": "f96G_eMt_R",
-        "title": "Вниз, в темноту",
-        "author": "Кунц Дин",
-        "notes": "",
-        "createdAt": "2017-11-08 17:43:46",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 157
         }
     }
 }
