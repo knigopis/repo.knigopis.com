@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
 * Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
 * Искусство любить ~ [sergeybolobaev](users/379/37918255-vkontakte)<sup>33</sup>
-* Древний. Предыстория. книга первая. ~ [En](users/333/333646551-vkontakte)<sup>13</sup>
 
 
-_09.11.2017 11:24:40_
+_10.11.2017 14:06:13_

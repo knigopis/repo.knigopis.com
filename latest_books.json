@@ -1,4 +1,16 @@
 {
+    "Pbfyjr3qQp": {
+        "id": "Pbfyjr3qQp",
+        "title": "Идиот",
+        "author": "Ф.М. Достоевский",
+        "notes": "****\nЭфемерный, быть в опале, тушеваться, стушеваться, фраппировать, потворство, манкировать, апломб",
+        "createdAt": "2017-11-10 14:06:13",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 13
+        }
+    },
     "IQKEcnwQNB": {
         "id": "IQKEcnwQNB",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 49
-        }
-    },
-    "lUjLMuhvw8": {
-        "id": "lUjLMuhvw8",
-        "title": "Don't Just Roll The Dice - A usefully short guide to software pricing",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-06 20:08:04",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 48
         }
     }
 }

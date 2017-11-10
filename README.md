@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
+    > ****
+    > Эфемерный, быть в опале, тушеваться, стушеваться, фраппировать, потворство, манкировать, апломб
+
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
     > Серия книг о приключениях и печальной судьбе детей Бодлеров, за которыми охотится алчный и злой граф Олаф. чтобы прибрать к своим рукам их богатство.
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > КАРТОШКА
 
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
-    > Очень добрая книга
 
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 
@@ -26,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
 
-* Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kempinsky](users/171/1717865441574584-facebook)<sup>13</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
-[kempinsky](users/171/1717865441574584-facebook)<sup>12</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 05:47:22_
+_10.11.2017 14:06:13_
