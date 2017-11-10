@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
 * Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
 * Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
 * Большое волшебство. Творчество без страха ~ [Saamy](users/115/115226508-vkontakte)<sup>23</sup>
-* Северное сияние (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>155</sup>
 
 
-_10.11.2017 14:15:44_
+_10.11.2017 14:16:00_

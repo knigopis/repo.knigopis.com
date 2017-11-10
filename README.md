@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
+    > перечитать!
+
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
     > Перечитать!
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Эфемерный, быть в опале, тушеваться, стушеваться, фраппировать, потворство, манкировать, апломб
 
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
-    > Серия книг о приключениях и печальной судьбе детей Бодлеров, за которыми охотится алчный и злой граф Олаф. чтобы прибрать к своим рукам их богатство.
 
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ворона на мосту ~ [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup>
 
-* Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>34</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>35</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:15:44_
+_10.11.2017 14:16:00_
