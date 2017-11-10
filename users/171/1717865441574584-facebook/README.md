@@ -1,4 +1,4 @@
-# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>17</sup>
+# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>18</sup>
 ---
 
 ## 2017
@@ -93,6 +93,10 @@
 
 
 ## 2012
+
+### Пирамида
+Джеймс Роллинс
+
 
 ### Бездна
 Джеймс Роллин
