@@ -1,4 +1,16 @@
 {
+    "xNjVwkYkjG": {
+        "id": "xNjVwkYkjG",
+        "title": "Отцы и дети",
+        "author": "Тургенев",
+        "notes": "Перечитать!",
+        "createdAt": "2017-11-10 14:16:11",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 36
+        }
+    },
     "VyMWvhEK5z": {
         "id": "VyMWvhEK5z",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 128
-        }
-    },
-    "aqViruKtTj": {
-        "id": "aqViruKtTj",
-        "title": "Большое волшебство. Творчество без страха",
-        "author": "Элизабет Гилберт",
-        "notes": "Очень добрая и вдохновляющая книга, хотя каких-то сверхидей в ней не было",
-        "createdAt": "2017-10-28 19:09:35",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 23
         }
     }
 }
