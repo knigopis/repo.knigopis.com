@@ -1,4 +1,4 @@
-# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>29</sup>
+# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>30</sup>
 ---
 
 ## 2017
@@ -84,6 +84,10 @@
 ### Вино из одуванчиков
 Рэй Бредбери
 > [2015-11-09] Очень добрая книга
+
+
+### Сумерки. Новолуние
+Стефани Майер
 
 
 ### Пятьдесят оттенков свободы
