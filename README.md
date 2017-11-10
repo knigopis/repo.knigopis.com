@@ -5,6 +5,15 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
+    > Борис Годунов
+    > Скупой Рыцарь
+    > Моцарт и Сальери
+    > Каменный гость 
+    > Пир во время чумы
+    > Русалка
+    > Сцены из рыцарских времён
+
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
     > перечитать
 
@@ -12,7 +21,6 @@ Do not use pull requests to make changes here.
     > перечитать
 
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
-    > перечитать
 
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
 
@@ -26,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
 
-* Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
@@ -62,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
-[happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:16:57_
+_10.11.2017 14:22:38_
