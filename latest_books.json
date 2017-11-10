@@ -1,4 +1,16 @@
 {
+    "TEKeL1p2OD": {
+        "id": "TEKeL1p2OD",
+        "title": "Алтарь Эдема",
+        "author": "Джеймс Роллинс",
+        "notes": "",
+        "createdAt": "2017-11-10 14:08:16",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 20
+        }
+    },
     "u3vs0KDHaP": {
         "id": "u3vs0KDHaP",
         "title": "Песчаный дьявол",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 27
-        }
-    },
-    "chn4e_HE4S": {
-        "id": "chn4e_HE4S",
-        "title": "Дверь в лето",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2017-11-07 16:39:39",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 8
         }
     }
 }
