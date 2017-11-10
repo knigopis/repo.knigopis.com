@@ -1,4 +1,16 @@
 {
+    "u3vs0KDHaP": {
+        "id": "u3vs0KDHaP",
+        "title": "Песчаный дьявол",
+        "author": "Джеймс Роллинс",
+        "notes": "",
+        "createdAt": "2017-11-10 14:08:07",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 19
+        }
+    },
     "oRt5t-8fYZ": {
         "id": "oRt5t-8fYZ",
         "title": "Пирамида",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 8
-        }
-    },
-    "7V5O4vh39b": {
-        "id": "7V5O4vh39b",
-        "title": "оили",
-        "author": "лорло",
-        "notes": "",
-        "createdAt": "2017-11-07 16:38:45",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 7
         }
     }
 }
