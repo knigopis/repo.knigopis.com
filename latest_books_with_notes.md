@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
 * В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
-* Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
 
 
-_10.11.2017 14:16:34_
+_10.11.2017 14:16:45_

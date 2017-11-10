@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
+    > перечитать
+
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
     > перечитать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > перечитать
 
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
-    > Перечитать!
 
 * Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
 
-* Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>38</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>39</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:16:34_
+_10.11.2017 14:16:45_
