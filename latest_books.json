@@ -1,4 +1,16 @@
 {
+    "L3P0yeH4gg": {
+        "id": "L3P0yeH4gg",
+        "title": "Тэсс из рода д'Эрбервиллей",
+        "author": "Томас Гарди",
+        "notes": "",
+        "createdAt": "2017-11-10 05:25:13",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 137
+        }
+    },
     "yey_D-sw_l": {
         "id": "yey_D-sw_l",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 274
-        }
-    },
-    "AIW_iJu4BI": {
-        "id": "AIW_iJu4BI",
-        "title": "Ветхий Завет",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-05 17:44:18",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 128
         }
     }
 }

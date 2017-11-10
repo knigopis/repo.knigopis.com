@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 137,
+        "updatedAt": "2017-11-10 05:25:13"
+    },
     "108992595335741881539-google": {
         "id": "108992595335741881539-google",
         "nickname": " NishaEgira",
@@ -160,12 +166,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 123,
         "updatedAt": "2017-11-02 06:59:39"
-    },
-    "221959664-vkontakte": {
-        "id": "221959664-vkontakte",
-        "nickname": "geyski",
-        "booksCount": 136,
-        "updatedAt": "2017-11-02 04:57:00"
     },
     "111457946792566623164-google": {
         "id": "111457946792566623164-google",
