@@ -1,4 +1,16 @@
 {
+    "qfqqxJVCDo": {
+        "id": "qfqqxJVCDo",
+        "title": "Пятьдесят оттенков серого",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-11-10 14:13:57",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 27
+        }
+    },
     "zr3F8eSS-b": {
         "id": "zr3F8eSS-b",
         "title": "Сумарки. Сага",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 34
-        }
-    },
-    "KvWFKtfPJJ": {
-        "id": "KvWFKtfPJJ",
-        "title": "Почти идеальные люди. Вся правда о жизни в скандинавском раю.",
-        "author": "Майкл Бут",
-        "notes": "",
-        "createdAt": "2017-11-08 19:32:08",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 44
         }
     }
 }
