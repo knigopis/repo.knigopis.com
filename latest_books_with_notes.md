@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 * Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 * Грабитель ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>116</sup>
-* В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
 
 
-_10.11.2017 14:16:45_
+_10.11.2017 14:16:57_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
+    > перечитать
+
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
     > перечитать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > перечитать
 
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
-    > перечитать
 
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 
-* Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>39</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:16:45_
+_10.11.2017 14:16:57_
