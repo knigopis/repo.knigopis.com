@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
 * Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
@@ -30,7 +31,6 @@
 * В тёмной комнате ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>115</sup>
 * Ребус Галла ~ [Chiffi](users/105/105831994080785626680-google)<sup>35</sup>
 * Шестерка воронов ~ [Sky](users/118/118049897850017649660-google)<sup>42</sup>
-* Как общаться с ребенком? ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>128</sup>
 
 
-_10.11.2017 14:16:11_
+_10.11.2017 14:16:26_

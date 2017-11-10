@@ -1,4 +1,16 @@
 {
+    "T1CoH8GDRg": {
+        "id": "T1CoH8GDRg",
+        "title": "Мертвые души",
+        "author": "Гоголь",
+        "notes": "перечитать",
+        "createdAt": "2017-11-10 14:16:26",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 37
+        }
+    },
     "xNjVwkYkjG": {
         "id": "xNjVwkYkjG",
         "title": "Отцы и дети",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 42
-        }
-    },
-    "OCKuKS7Saf": {
-        "id": "OCKuKS7Saf",
-        "title": "Как общаться с ребенком?",
-        "author": "Ю.Б.Гиппенрейтер",
-        "notes": "в процессе",
-        "createdAt": "2017-10-30 19:25:28",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 128
         }
     }
 }
