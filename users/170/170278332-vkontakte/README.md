@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>40</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>41</sup>
 ---
 
 ## 2017
+
+### 1984
+Джордж Оруэлл
+> [2017-11-09] 
+
 
 ### Пикник на обочине
 А. Стругацкий

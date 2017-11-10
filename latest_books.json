@@ -1,4 +1,16 @@
 {
+    "IQKEcnwQNB": {
+        "id": "IQKEcnwQNB",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2017-11-10 05:47:22",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 41
+        }
+    },
     "0MuxMjeXLC": {
         "id": "0MuxMjeXLC",
         "title": "Вождение вслепую",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 48
-        }
-    },
-    "HE5dFTLr75": {
-        "id": "HE5dFTLr75",
-        "title": "Страж.",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2017-11-06 05:44:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 275
         }
     }
 }
