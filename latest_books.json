@@ -1,4 +1,16 @@
 {
+    "7nxx7Mt4rq": {
+        "id": "7nxx7Mt4rq",
+        "title": "Доктор Живаго",
+        "author": "Борис Пастернак",
+        "notes": "",
+        "createdAt": "2017-11-10 14:11:15",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 24
+        }
+    },
     "h7cQFj8T6z": {
         "id": "h7cQFj8T6z",
         "title": "Сердца трех",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 37
-        }
-    },
-    "GaflB9Nzos": {
-        "id": "GaflB9Nzos",
-        "title": "В нашем городке воров нет",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-11-08 10:57:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 596
         }
     }
 }
