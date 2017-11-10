@@ -1,4 +1,16 @@
 {
+    "0MuxMjeXLC": {
+        "id": "0MuxMjeXLC",
+        "title": "Вождение вслепую",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2017-11-10 05:26:03",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 138
+        }
+    },
     "L3P0yeH4gg": {
         "id": "L3P0yeH4gg",
         "title": "Тэсс из рода д'Эрбервиллей",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 275
-        }
-    },
-    "DqwtPSr5hL": {
-        "id": "DqwtPSr5hL",
-        "title": "Фокус",
-        "author": "Дэниэл Гоулман",
-        "notes": "",
-        "createdAt": "2017-11-06 05:43:04",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 274
         }
     }
 }
