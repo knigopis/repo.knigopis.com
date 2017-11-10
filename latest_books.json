@@ -1,4 +1,16 @@
 {
+    "oSnfyALcIx": {
+        "id": "oSnfyALcIx",
+        "title": "На пятьдесят оттенков темнее",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-11-10 14:14:12",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 28
+        }
+    },
     "qfqqxJVCDo": {
         "id": "qfqqxJVCDo",
         "title": "Пятьдесят оттенков серого",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 3
-        }
-    },
-    "g72u3DiN22": {
-        "id": "g72u3DiN22",
-        "title": "Преодолеваем пищевые соблазны",
-        "author": "Нил Барнард",
-        "notes": "4",
-        "createdAt": "2017-11-09 08:47:24",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 34
         }
     }
 }
