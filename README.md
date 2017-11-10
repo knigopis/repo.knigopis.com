@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
+    > Перечитать!
+
 * Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
     > ****
     > Эфемерный, быть в опале, тушеваться, стушеваться, фраппировать, потворство, манкировать, апломб
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Серия книг о приключениях и печальной судьбе детей Бодлеров, за которыми охотится алчный и злой граф Олаф. чтобы прибрать к своим рукам их богатство.
 
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
-    > КАРТОШКА
 
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
 
-* Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>33</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>34</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:15:28_
+_10.11.2017 14:15:44_
