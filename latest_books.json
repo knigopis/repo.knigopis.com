@@ -1,4 +1,16 @@
 {
+    "cjYXYPz73a": {
+        "id": "cjYXYPz73a",
+        "title": "Униженные и оскорбленные",
+        "author": "Ф.М. Достоевский",
+        "notes": "",
+        "createdAt": "2017-11-10 14:07:18",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 16
+        }
+    },
     "5NNPxWp7sd": {
         "id": "5NNPxWp7sd",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 85
-        }
-    },
-    "MjZ-6a6nWM": {
-        "id": "MjZ-6a6nWM",
-        "title": "Прибой и берега",
-        "author": "Юнсон Эйвинд",
-        "notes": "",
-        "createdAt": "2017-11-06 22:19:47",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 593
         }
     }
 }
