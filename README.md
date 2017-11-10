@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
+    > перечитать
+
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
     > перечитать
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Перечитать!
 
 * Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
-    > перечитать!
 
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 
-* Вдали от обезумевшей толпы ~ [kempinsky](users/171/1717865441574584-facebook)<sup>4</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>37</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>38</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [happy racoon](users/111/111457946792566623164-google)<sup>1</sup> 
 
 
-_10.11.2017 14:16:26_
+_10.11.2017 14:16:34_

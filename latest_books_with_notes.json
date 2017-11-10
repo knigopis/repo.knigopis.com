@@ -1,4 +1,16 @@
 {
+    "xW3PNMvjpv": {
+        "id": "xW3PNMvjpv",
+        "title": "Горе от ума",
+        "author": "Грибоедов",
+        "notes": "перечитать",
+        "createdAt": "2017-11-10 14:16:34",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 38
+        }
+    },
     "T1CoH8GDRg": {
         "id": "T1CoH8GDRg",
         "title": "Мертвые души",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 35
-        }
-    },
-    "NjtMG95SfV": {
-        "id": "NjtMG95SfV",
-        "title": "Шестерка воронов",
-        "author": "Ли Бардуго",
-        "notes": "Много героев и придуманных автором слов, непривычных для слуха, проработка персонажей не идеальна, но сюжет интересный.",
-        "createdAt": "2017-10-31 13:29:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 42
         }
     }
 }
