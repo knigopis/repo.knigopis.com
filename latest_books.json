@@ -1,4 +1,16 @@
 {
+    "7itsSvCXIe": {
+        "id": "7itsSvCXIe",
+        "title": "Бог-скорпион",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2017-11-11 20:25:19",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 12
+        }
+    },
     "ZxpkfV9vgz": {
         "id": "ZxpkfV9vgz",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 25
-        }
-    },
-    "7nxx7Mt4rq": {
-        "id": "7nxx7Mt4rq",
-        "title": "Доктор Живаго",
-        "author": "Борис Пастернак",
-        "notes": "",
-        "createdAt": "2017-11-10 14:11:15",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 24
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>11</sup>
+# List of books read by Nelly Hallward<sup>12</sup>
 ---
 
 ## 2017
+
+### Бог-скорпион
+Уильям Голдинг
+> [2017-07-26] 
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери
