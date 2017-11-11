@@ -1,4 +1,16 @@
 {
+    "Z_sJlH0v1h": {
+        "id": "Z_sJlH0v1h",
+        "title": "Дэнс, дэнс, дэнс",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-11-11 20:21:59",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 7
+        }
+    },
     "7DmpJgnJQ3": {
         "id": "7DmpJgnJQ3",
         "title": "Охота на овец",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 20
-        }
-    },
-    "u3vs0KDHaP": {
-        "id": "u3vs0KDHaP",
-        "title": "Песчаный дьявол",
-        "author": "Джеймс Роллинс",
-        "notes": "",
-        "createdAt": "2017-11-10 14:08:07",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 19
         }
     }
 }
