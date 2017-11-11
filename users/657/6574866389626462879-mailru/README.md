@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>8</sup>
+# List of books read by Nelly Hallward<sup>9</sup>
 ---
 
 ## 2017
+
+### Жизнь
+Анти-Рене-Альбер-Ги де Мопассан
+> [2017-07-01] 
+
 
 ### Александр Солженицын
 Раковый корпус
