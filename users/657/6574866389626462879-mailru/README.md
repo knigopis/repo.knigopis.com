@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>12</sup>
+# List of books read by Nelly Hallward<sup>13</sup>
 ---
 
 ## 2017
+
+### Лолита
+Владимир Набоков
+> [2017-08-08] 
+
 
 ### Бог-скорпион
 Уильям Голдинг
