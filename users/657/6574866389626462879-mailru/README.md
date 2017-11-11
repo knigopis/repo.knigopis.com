@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>15</sup>
+# List of books read by Nelly Hallward<sup>16</sup>
 ---
 
 ## 2017
+
+### Мастер и Маргарита
+Михаил Булгаков
+> [2017-09-02] 
+
 
 ### 451 по Фаренгейту
 Рэй Бредбери
