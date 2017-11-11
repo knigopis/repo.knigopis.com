@@ -1,4 +1,10 @@
 {
+    "6574866389626462879-mailru": {
+        "id": "6574866389626462879-mailru",
+        "nickname": "Nelly Hallward",
+        "booksCount": 0,
+        "updatedAt": "2017-11-11 20:15:32"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Irina",
         "booksCount": 0,
         "updatedAt": "2017-11-02 15:25:07"
-    },
-    "180139283-vkontakte": {
-        "id": "180139283-vkontakte",
-        "nickname": "miracolo_bella",
-        "booksCount": 55,
-        "updatedAt": "2017-11-02 11:41:05"
     }
 }
