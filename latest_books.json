@@ -1,4 +1,16 @@
 {
+    "-bcd7CJMjL": {
+        "id": "-bcd7CJMjL",
+        "title": "Эрих Мария Ремарк",
+        "author": "Время жить и время умирать",
+        "notes": "",
+        "createdAt": "2017-11-11 20:17:55",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 2
+        }
+    },
     "tV7q_A0ql4": {
         "id": "tV7q_A0ql4",
         "title": "Тварь",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 15
-        }
-    },
-    "h9DDl4MW1_": {
-        "id": "h9DDl4MW1_",
-        "title": "Максимус Гром (трилогия)",
-        "author": "Лилия Ким",
-        "notes": "",
-        "createdAt": "2017-11-10 14:06:44",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 14
         }
     }
 }
