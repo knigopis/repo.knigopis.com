@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nelly Hallward](users/657/6574866389626462879-mailru)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>31</sup> 
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
 
 
-_11.11.2017 17:29:55_
+_11.11.2017 20:15:36_
