@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
+    > в процессе
+
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
     > Борис Годунов
     > Скупой Рыцарь
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > перечитать
 
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
-    > перечитать
 
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
 
-* 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 [Irina](users/113/113960663475359392680-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>55</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>123</sup> 
 
 
-_10.11.2017 14:22:38_
+_11.11.2017 17:29:55_

@@ -1,4 +1,16 @@
 {
+    "IMJSJYnV70": {
+        "id": "IMJSJYnV70",
+        "title": "Книга Достигатора",
+        "author": "Тимур Гагин, Алексей Кельин",
+        "notes": "в процессе",
+        "createdAt": "2017-11-11 17:29:54",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 129
+        }
+    },
     "SzUaItkgQ1": {
         "id": "SzUaItkgQ1",
         "title": "Драматические произведения",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 118
-        }
-    },
-    "1KBd5I4kaN": {
-        "id": "1KBd5I4kaN",
-        "title": "Вниз, в темноту",
-        "author": "Кунц Дин",
-        "notes": "Потрясная книга! Если искали короткую, зловещу., без бу эффекта это она",
-        "createdAt": "2017-11-02 06:43:16",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 117
         }
     }
 }

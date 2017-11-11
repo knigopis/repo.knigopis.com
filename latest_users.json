@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 129,
+        "updatedAt": "2017-11-11 17:29:54"
+    },
     "139578422-vkontakte": {
         "id": "139578422-vkontakte",
         "nickname": "idhlebushek",
@@ -172,11 +178,5 @@
         "nickname": "miracolo_bella",
         "booksCount": 55,
         "updatedAt": "2017-11-02 11:41:05"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 123,
-        "updatedAt": "2017-11-02 06:59:39"
     }
 }

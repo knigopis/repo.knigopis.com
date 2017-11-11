@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 * Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
 * Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
-* Вниз, в темноту ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>117</sup>
 
 
-_10.11.2017 14:22:38_
+_11.11.2017 17:29:55_

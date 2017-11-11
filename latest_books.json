@@ -1,4 +1,16 @@
 {
+    "IMJSJYnV70": {
+        "id": "IMJSJYnV70",
+        "title": "Книга Достигатора",
+        "author": "Тимур Гагин, Алексей Кельин",
+        "notes": "в процессе",
+        "createdAt": "2017-11-11 17:29:54",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 129
+        }
+    },
     "SzUaItkgQ1": {
         "id": "SzUaItkgQ1",
         "title": "Драматические произведения",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 13
-        }
-    },
-    "IQKEcnwQNB": {
-        "id": "IQKEcnwQNB",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-11-10 05:47:22",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 41
         }
     }
 }
