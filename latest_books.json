@@ -1,4 +1,16 @@
 {
+    "fwVtt5-v8C": {
+        "id": "fwVtt5-v8C",
+        "title": "Стена",
+        "author": "Жан-Поль Сартр",
+        "notes": "",
+        "createdAt": "2017-11-11 20:26:16",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 14
+        }
+    },
     "82sD3vwZd4": {
         "id": "82sD3vwZd4",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 27
-        }
-    },
-    "zr3F8eSS-b": {
-        "id": "zr3F8eSS-b",
-        "title": "Сумарки. Сага",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2017-11-10 14:13:40",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 26
         }
     }
 }
