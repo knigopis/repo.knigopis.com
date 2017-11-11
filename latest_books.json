@@ -1,4 +1,16 @@
 {
+    "cyXrjhaR2C": {
+        "id": "cyXrjhaR2C",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2017-11-11 20:24:14",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 10
+        }
+    },
     "debO2_oSVe": {
         "id": "debO2_oSVe",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 23
-        }
-    },
-    "t16Nu1jp14": {
-        "id": "t16Nu1jp14",
-        "title": "Хроники Нарнии",
-        "author": "Клайв Льюис",
-        "notes": "",
-        "createdAt": "2017-11-10 14:10:35",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 22
         }
     }
 }
