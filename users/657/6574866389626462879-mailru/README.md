@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>17</sup>
+# List of books read by Nelly Hallward<sup>18</sup>
 ---
 
 ## 2017
+
+### Лавка древностей
+Чарлз Диккенс
+> [2017-11-05] 
+
 
 ### Мастер и Маргарита
 Михаил Булгаков

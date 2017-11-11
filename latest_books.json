@@ -1,4 +1,16 @@
 {
+    "WHfdXioWw4": {
+        "id": "WHfdXioWw4",
+        "title": "Лавка древностей",
+        "author": "Чарлз Диккенс",
+        "notes": "",
+        "createdAt": "2017-11-11 20:29:30",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 18
+        }
+    },
     "KoMD8Denc4": {
         "id": "KoMD8Denc4",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 31
-        }
-    },
-    "MFFlEuR8B8": {
-        "id": "MFFlEuR8B8",
-        "title": "Сумерки. Новолуние",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2017-11-10 14:14:41",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 30
         }
     }
 }
