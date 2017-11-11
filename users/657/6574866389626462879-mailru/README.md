@@ -1,4 +1,4 @@
-# List of books read by Nelly Hallward<sup>5</sup>
+# List of books read by Nelly Hallward<sup>6</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Пинбол 1973
 Харуки Мураками
 > [2017-06-16] 
+
+
+### Охота на овец
+Харуки Мураками
+> [2017-06-04] 
 
 
 ### Слушай песню ветра

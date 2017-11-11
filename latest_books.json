@@ -1,4 +1,16 @@
 {
+    "7DmpJgnJQ3": {
+        "id": "7DmpJgnJQ3",
+        "title": "Охота на овец",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-11-11 20:21:26",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 6
+        }
+    },
     "o4vNwqdEcl": {
         "id": "o4vNwqdEcl",
         "title": "Слушай песню ветра",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 19
-        }
-    },
-    "oRt5t-8fYZ": {
-        "id": "oRt5t-8fYZ",
-        "title": "Пирамида",
-        "author": "Джеймс Роллинс",
-        "notes": "",
-        "createdAt": "2017-11-10 14:07:48",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 18
         }
     }
 }
