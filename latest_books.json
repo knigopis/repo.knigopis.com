@@ -1,4 +1,16 @@
 {
+    "Jl6BOSTunN": {
+        "id": "Jl6BOSTunN",
+        "title": "Александр Солженицын",
+        "author": "Раковый корпус",
+        "notes": "",
+        "createdAt": "2017-11-11 20:22:48",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 8
+        }
+    },
     "Z_sJlH0v1h": {
         "id": "Z_sJlH0v1h",
         "title": "Дэнс, дэнс, дэнс",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 21
-        }
-    },
-    "TEKeL1p2OD": {
-        "id": "TEKeL1p2OD",
-        "title": "Алтарь Эдема",
-        "author": "Джеймс Роллинс",
-        "notes": "",
-        "createdAt": "2017-11-10 14:08:16",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 20
         }
     }
 }

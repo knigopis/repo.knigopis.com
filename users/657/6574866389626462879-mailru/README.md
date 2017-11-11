@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>7</sup>
+# List of books read by Nelly Hallward<sup>8</sup>
 ---
 
 ## 2017
+
+### Александр Солженицын
+Раковый корпус
+> [2017-06-27] 
+
 
 ### Пинбол 1973
 Харуки Мураками
