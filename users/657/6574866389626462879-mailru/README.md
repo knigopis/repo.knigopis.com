@@ -1,7 +1,12 @@
-# List of books read by Nelly Hallward<sup>18</sup>
+# List of books read by Nelly Hallward<sup>19</sup>
 ---
 
 ## 2017
+
+### 1984
+Оруэлл Джордж
+> [2017-11-11] 
+
 
 ### Лавка древностей
 Чарлз Диккенс

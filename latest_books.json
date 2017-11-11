@@ -1,4 +1,16 @@
 {
+    "iG-mZaBdbP": {
+        "id": "iG-mZaBdbP",
+        "title": "1984",
+        "author": "Оруэлл Джордж",
+        "notes": "",
+        "createdAt": "2017-11-11 20:30:20",
+        "user": {
+            "id": "6574866389626462879-mailru",
+            "nickname": "Nelly Hallward",
+            "booksCount": 19
+        }
+    },
     "WHfdXioWw4": {
         "id": "WHfdXioWw4",
         "title": "Лавка древностей",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 32
-        }
-    },
-    "Fx2hENQ8rG": {
-        "id": "Fx2hENQ8rG",
-        "title": "Сумерки. Затмение",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2017-11-10 14:14:53",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 31
         }
     }
 }
