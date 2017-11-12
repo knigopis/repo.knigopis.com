@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
 [Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>128</sup> 
 
 
-_12.11.2017 20:52:56_
+_12.11.2017 22:41:40_
