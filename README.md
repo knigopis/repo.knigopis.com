@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>597</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup> 
 [kreinberry](users/114/1140900829255723-facebook)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>596</sup> 
 [Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>8</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 
 
-_12.11.2017 05:45:27_
+_12.11.2017 10:35:48_
