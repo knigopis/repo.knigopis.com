@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>597</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>598</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [juliaaorlova](users/159/159437508-vkontakte)<sup>0</sup> 
 
 
-_12.11.2017 10:35:48_
+_12.11.2017 11:45:46_
