@@ -2,9 +2,9 @@
     "id": "60565515-yandex",
     "nickname": "julie-skazka",
     "photo": "https://avatars.yandex.net/get-yapic/0/0-0/islands-retina-50",
-    "profile": "",
+    "profile": false,
     "identity": "http://openid.yandex.ru/julie-skazka/",
     "booksCount": 0,
     "createdAt": "2017-11-12 18:07:07",
-    "updatedAt": "2017-11-12 18:07:07"
+    "updatedAt": "2017-11-12 18:07:28"
 }
