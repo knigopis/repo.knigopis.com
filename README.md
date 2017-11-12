@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[julie-skazka](users/605/60565515-yandex)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 [D216](users/110/11085831351574546361-mailru)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>598</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Frankenstein](users/791/79123726-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>128</sup> 
 [creepy the creep](users/765/76561198074910028-steam)<sup>1</sup> 
-[altagona](users/173/17345048-vkontakte)<sup>0</sup> 
 
 
-_12.11.2017 15:47:20_
+_12.11.2017 18:07:11_
