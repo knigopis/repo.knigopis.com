@@ -1,4 +1,10 @@
 {
+    "367948211-vkontakte": {
+        "id": "367948211-vkontakte",
+        "nickname": "conclusion",
+        "booksCount": 4,
+        "updatedAt": "2017-11-12 05:01:37"
+    },
     "6574866389626462879-mailru": {
         "id": "6574866389626462879-mailru",
         "nickname": "Nelly Hallward",
@@ -172,11 +178,5 @@
         "nickname": "juliaaorlova",
         "booksCount": 0,
         "updatedAt": "2017-11-02 19:49:26"
-    },
-    "113960663475359392680-google": {
-        "id": "113960663475359392680-google",
-        "nickname": "Irina",
-        "booksCount": 0,
-        "updatedAt": "2017-11-02 15:25:07"
     }
 }
