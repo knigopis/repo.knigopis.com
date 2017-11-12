@@ -1,4 +1,10 @@
 {
+    "11085831351574546361-mailru": {
+        "id": "11085831351574546361-mailru",
+        "nickname": "D216",
+        "booksCount": 0,
+        "updatedAt": "2017-11-12 12:40:02"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 31,
         "updatedAt": "2017-11-04 21:36:24"
-    },
-    "159437508-vkontakte": {
-        "id": "159437508-vkontakte",
-        "nickname": "juliaaorlova",
-        "booksCount": 0,
-        "updatedAt": "2017-11-02 19:49:26"
     }
 }
