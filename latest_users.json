@@ -1,4 +1,10 @@
 {
+    "191788437-vkontakte": {
+        "id": "191788437-vkontakte",
+        "nickname": "mbericheva",
+        "booksCount": 0,
+        "updatedAt": "2017-11-12 15:46:03"
+    },
     "11085831351574546361-mailru": {
         "id": "11085831351574546361-mailru",
         "nickname": "D216",
@@ -172,11 +178,5 @@
         "nickname": "altagona",
         "booksCount": 0,
         "updatedAt": "2017-11-05 12:33:40"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 31,
-        "updatedAt": "2017-11-04 21:36:24"
     }
 }
