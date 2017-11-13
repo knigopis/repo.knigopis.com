@@ -1,4 +1,10 @@
 {
+    "280497922-vkontakte": {
+        "id": "280497922-vkontakte",
+        "nickname": "poirot221",
+        "booksCount": 0,
+        "updatedAt": "2017-11-13 16:01:30"
+    },
     "84674845-vkontakte": {
         "id": "84674845-vkontakte",
         "nickname": "captvsetlennaya",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 275,
         "updatedAt": "2017-11-06 05:44:36"
-    },
-    "79123726-vkontakte": {
-        "id": "79123726-vkontakte",
-        "nickname": "Frankenstein",
-        "booksCount": 0,
-        "updatedAt": "2017-11-05 22:28:04"
     }
 }
