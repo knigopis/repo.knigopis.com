@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
 * Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 * Пропавшие в раю ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>119</sup>
-* Узкая колея нашего детства ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>118</sup>
 
 
-_11.11.2017 17:29:55_
+_13.11.2017 22:21:20_

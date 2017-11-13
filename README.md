@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
+    > Подростковая литература. Но мне интересно. Догоняю то  что упустила в детстве. То есть любовь к книгам.
+
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
     > в процессе
 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > Сцены из рыцарских времён
 
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
-    > перечитать
 
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
 
-* Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>599</sup> 
 [poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
 [captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>50</sup> 
 [RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 
 
-_13.11.2017 17:11:39_
+_13.11.2017 22:21:20_

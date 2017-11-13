@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 34,
+        "updatedAt": "2017-11-13 22:21:20"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "RainyMorning",
         "booksCount": 0,
         "updatedAt": "2017-11-06 14:00:10"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 275,
-        "updatedAt": "2017-11-06 05:44:36"
     }
 }

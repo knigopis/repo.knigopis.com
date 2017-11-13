@@ -1,4 +1,16 @@
 {
+    "3MYZpliSyE": {
+        "id": "3MYZpliSyE",
+        "title": "Дети лампы. Книга первая. Джинн в плену Эхнатона",
+        "author": "Ф. Б. Керр",
+        "notes": "Подростковая литература. Но мне интересно. Догоняю то  что упустила в детстве. То есть любовь к книгам.",
+        "createdAt": "2017-11-13 22:21:20",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 34
+        }
+    },
     "nyvLIEade4": {
         "id": "nyvLIEade4",
         "title": "История одной смерти, о которой знали заранее",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 38
-        }
-    },
-    "T1CoH8GDRg": {
-        "id": "T1CoH8GDRg",
-        "title": "Мертвые души",
-        "author": "Гоголь",
-        "notes": "перечитать",
-        "createdAt": "2017-11-10 14:16:26",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 37
         }
     }
 }
