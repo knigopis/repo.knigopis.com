@@ -39,13 +39,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>599</sup> 
 [poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
 [captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
 [Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 [D216](users/110/11085831351574546361-mailru)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>598</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>275</sup> 
 
 
-_13.11.2017 16:01:34_
+_13.11.2017 17:11:39_
