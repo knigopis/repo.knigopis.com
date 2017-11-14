@@ -1,4 +1,16 @@
 {
+    "7o31c8DkkV": {
+        "id": "7o31c8DkkV",
+        "title": "Визуализация идей: набросок, эскиз, раскадровка",
+        "author": "Крисциан Грегор, Шлемп-Улкер Несрин",
+        "notes": "5",
+        "createdAt": "2017-11-14 18:54:48",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 35
+        }
+    },
     "3MYZpliSyE": {
         "id": "3MYZpliSyE",
         "title": "Дети лампы. Книга первая. Джинн в плену Эхнатона",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 39
-        }
-    },
-    "xW3PNMvjpv": {
-        "id": "xW3PNMvjpv",
-        "title": "Горе от ума",
-        "author": "Грибоедов",
-        "notes": "перечитать",
-        "createdAt": "2017-11-10 14:16:34",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 38
         }
     }
 }

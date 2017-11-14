@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>35</sup> 
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>138</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>34</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
 [linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 
 
-_14.11.2017 06:30:53_
+_14.11.2017 18:54:48_

@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>34</sup>
+# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>35</sup>
 ---
 
 ## 2017
+
+### Визуализация идей: набросок, эскиз, раскадровка
+Крисциан Грегор, Шлемп-Улкер Несрин
+> [2017-11-14] 5
+
 
 ### Преодолеваем пищевые соблазны
 Нил Барнард
