@@ -1,4 +1,10 @@
 {
+    "108308573598921952704-google": {
+        "id": "108308573598921952704-google",
+        "nickname": "Dmitry",
+        "booksCount": 0,
+        "updatedAt": "2017-11-14 06:30:49"
+    },
     "61426267-vkontakte": {
         "id": "61426267-vkontakte",
         "nickname": "Borovik",
@@ -172,11 +178,5 @@
         "nickname": "TwirlFog",
         "booksCount": 0,
         "updatedAt": "2017-11-07 13:16:33"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 50,
-        "updatedAt": "2017-11-06 20:22:14"
     }
 }
