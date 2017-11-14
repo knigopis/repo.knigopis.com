@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>599</sup> 
 [poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>85</sup> 
 [TwirlFog](users/106/106140569182133730393-google)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>50</sup> 
-[RainyMorning](users/100/100779836483978880031-google)<sup>0</sup> 
 
 
-_13.11.2017 22:21:20_
+_14.11.2017 01:56:35_
