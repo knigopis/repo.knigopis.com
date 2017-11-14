@@ -1,4 +1,10 @@
 {
+    "61426267-vkontakte": {
+        "id": "61426267-vkontakte",
+        "nickname": "Borovik",
+        "booksCount": 0,
+        "updatedAt": "2017-11-14 01:56:33"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "exulted",
         "booksCount": 50,
         "updatedAt": "2017-11-06 20:22:14"
-    },
-    "100779836483978880031-google": {
-        "id": "100779836483978880031-google",
-        "nickname": "RainyMorning",
-        "booksCount": 0,
-        "updatedAt": "2017-11-06 14:00:10"
     }
 }
