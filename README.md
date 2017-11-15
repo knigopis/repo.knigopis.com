@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>35</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>600</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 
 
-_15.11.2017 20:04:01_
+_15.11.2017 20:04:24_
