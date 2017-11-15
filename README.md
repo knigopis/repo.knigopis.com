@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
+    > https://www.ozon.ru/context/detail/id/20910952/
+    > 
+    > в процессе
+
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
     > Начав читать, я подумал, что это забавная комедия, в которой показывают слегка сумасшедших героев. Чем больше прочитывал, тем жестче происходили события. Веселые формы повествования пересекаются с описанием сцен отчаяния, мучений, безнадежности, смерти. Каждый герой одержим одной идеей до такой степени, что это больше похоже на сумасшествие. Книга об американской эскадрильи во времена Второй мировой. Не так много внимания уделено общей обстановке, сколько показано отношение отдельных людей к ней. В книге поднимаются вопросы о патриотизме, долге Родине, храбрости, стремлении выжить. Объяснение содержания самой уловки упоминается в самом начале, довольно, в шутливой форме. Последний раз она упоминается уже совсем в другом формате и подразумевает жуткое.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Подростковая литература. Но мне интересно. Догоняю то  что упустила в детстве. То есть любовь к книгам.
 
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
-    > в процессе
 
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
 
-* Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>600</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
@@ -49,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [D216](users/110/11085831351574546361-mailru)<sup>0</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 
 
-_15.11.2017 19:20:44_
+_15.11.2017 19:23:18_

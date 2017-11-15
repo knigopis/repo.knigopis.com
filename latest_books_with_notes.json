@@ -1,4 +1,16 @@
 {
+    "4KTEM-b-VC": {
+        "id": "4KTEM-b-VC",
+        "title": "Фиолетовая корова. Сделайте свой бизнес выдающимся!",
+        "author": "Годин С.",
+        "notes": "https://www.ozon.ru/context/detail/id/20910952/\n\nв процессе",
+        "createdAt": "2017-11-15 19:23:18",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 130
+        }
+    },
     "rhZwUs6LKk": {
         "id": "rhZwUs6LKk",
         "title": "Уловка-22",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 121
-        }
-    },
-    "n4E5Oo0Sq5": {
-        "id": "n4E5Oo0Sq5",
-        "title": "Темные горизонты",
-        "author": "С. Грэй",
-        "notes": "Просто 10 из 10 на данный момент моя самая любимая книга, стоит на ряду с Мизери, Туманом, Перекурщиками и Мобильником.",
-        "createdAt": "2017-11-02 06:50:45",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 120
         }
     }
 }

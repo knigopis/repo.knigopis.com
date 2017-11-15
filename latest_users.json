@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 130,
+        "updatedAt": "2017-11-15 19:23:18"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -94,12 +100,6 @@
         "nickname": "Nelly Hallward",
         "booksCount": 19,
         "updatedAt": "2017-11-11 20:30:20"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 129,
-        "updatedAt": "2017-11-11 17:29:54"
     },
     "139578422-vkontakte": {
         "id": "139578422-vkontakte",

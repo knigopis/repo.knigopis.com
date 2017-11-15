@@ -1,4 +1,16 @@
 {
+    "4KTEM-b-VC": {
+        "id": "4KTEM-b-VC",
+        "title": "Фиолетовая корова. Сделайте свой бизнес выдающимся!",
+        "author": "Годин С.",
+        "notes": "https://www.ozon.ru/context/detail/id/20910952/\n\nв процессе",
+        "createdAt": "2017-11-15 19:23:18",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 130
+        }
+    },
     "EICAmMyZYV": {
         "id": "EICAmMyZYV",
         "title": "Палая листва",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 1
-        }
-    },
-    "IMJSJYnV70": {
-        "id": "IMJSJYnV70",
-        "title": "Книга Достигатора",
-        "author": "Тимур Гагин, Алексей Кельин",
-        "notes": "в процессе",
-        "createdAt": "2017-11-11 17:29:54",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 129
         }
     }
 }

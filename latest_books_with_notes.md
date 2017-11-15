@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
@@ -30,7 +31,6 @@
 * Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 * ФФ: За периметром черной полосы ~ [sad little panda](users/188/1882525281990290-facebook)<sup>35</sup>
 * Библиотека душ ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>121</sup>
-* Темные горизонты ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>120</sup>
 
 
-_15.11.2017 13:48:07_
+_15.11.2017 19:23:18_
