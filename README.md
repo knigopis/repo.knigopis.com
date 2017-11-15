@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>57</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>35</sup> 
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>8</sup> 
-[International master](users/741/74140988-vkontakte)<sup>85</sup> 
 
 
-_15.11.2017 13:48:07_
+_15.11.2017 14:31:20_
