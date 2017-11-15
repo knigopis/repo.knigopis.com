@@ -1,12 +1,7 @@
-# List of books read by Rainbow<sup>35</sup>
+# List of books read by Rainbow<sup>34</sup>
 ---
 
 ## 2017
-
-### "Старуха Изергиль"
-Максим Горький
-> [2017-11-15] 
-
 
 ### "Старуха Изергиль"
 Максим Горький
