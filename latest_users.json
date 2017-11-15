@@ -1,4 +1,10 @@
 {
+    "17766013816400067764-mailru": {
+        "id": "17766013816400067764-mailru",
+        "nickname": "Aloak",
+        "booksCount": 0,
+        "updatedAt": "2017-11-15 14:31:17"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 8,
         "updatedAt": "2017-11-07 16:39:39"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 85,
-        "updatedAt": "2017-11-07 15:10:57"
     }
 }
