@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>600</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>57</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>599</sup> 
 [poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
 [captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
 [Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>27</sup> 
 
 
-_15.11.2017 15:46:27_
+_15.11.2017 19:20:44_
