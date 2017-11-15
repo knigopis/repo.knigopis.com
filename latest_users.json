@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 57,
+        "updatedAt": "2017-11-15 13:48:07"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "International master",
         "booksCount": 85,
         "updatedAt": "2017-11-07 15:10:57"
-    },
-    "106140569182133730393-google": {
-        "id": "106140569182133730393-google",
-        "nickname": "TwirlFog",
-        "booksCount": 0,
-        "updatedAt": "2017-11-07 13:16:33"
     }
 }
