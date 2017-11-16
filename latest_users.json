@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 276,
+        "updatedAt": "2017-11-16 03:35:40"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -172,11 +178,5 @@
         "nickname": "kreinberry",
         "booksCount": 0,
         "updatedAt": "2017-11-08 12:02:22"
-    },
-    "105136817181380670385-google": {
-        "id": "105136817181380670385-google",
-        "nickname": "Reegar",
-        "booksCount": 0,
-        "updatedAt": "2017-11-08 08:57:57"
     }
 }

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>276</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>600</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
 [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup> 
 [kreinberry](users/114/1140900829255723-facebook)<sup>0</sup> 
-[Reegar](users/105/105136817181380670385-google)<sup>0</sup> 
 
 
-_15.11.2017 20:04:24_
+_16.11.2017 03:35:41_

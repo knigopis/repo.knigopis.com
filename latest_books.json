@@ -1,4 +1,16 @@
 {
+    "SQq2c3oxXm": {
+        "id": "SQq2c3oxXm",
+        "title": "Бог никогда не моргает",
+        "author": "Регина Бретт",
+        "notes": "",
+        "createdAt": "2017-11-16 03:35:40",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 276
+        }
+    },
     "rcaIc0ovBA": {
         "id": "rcaIc0ovBA",
         "title": "\"Старуха Изергиль\"",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 3
-        }
-    },
-    "-bcd7CJMjL": {
-        "id": "-bcd7CJMjL",
-        "title": "Эрих Мария Ремарк",
-        "author": "Время жить и время умирать",
-        "notes": "",
-        "createdAt": "2017-11-11 20:17:55",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 2
         }
     }
 }
