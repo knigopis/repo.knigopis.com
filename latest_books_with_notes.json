@@ -1,4 +1,16 @@
 {
+    "xV30Qi3YVl": {
+        "id": "xV30Qi3YVl",
+        "title": "Открывая организации будущего",
+        "author": "Фредерик Лалу",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/34802279/",
+        "createdAt": "2017-11-16 19:56:26",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 131
+        }
+    },
     "Ajms9ecxgB": {
         "id": "Ajms9ecxgB",
         "title": "Крадущийся в Тени (Сиалы)",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 24
-        }
-    },
-    "f_hYRhHbIT": {
-        "id": "f_hYRhHbIT",
-        "title": "ФФ: За периметром черной полосы",
-        "author": "MOLOKO",
-        "notes": "Дарк\nЛедиКот",
-        "createdAt": "2017-11-02 09:58:35",
-        "user": {
-            "id": "1882525281990290-facebook",
-            "nickname": "sad little panda",
-            "booksCount": 35
         }
     }
 }

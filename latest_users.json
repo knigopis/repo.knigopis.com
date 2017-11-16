@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 131,
+        "updatedAt": "2017-11-16 19:56:26"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -22,12 +28,6 @@
         "nickname": "Rainbow",
         "booksCount": 34,
         "updatedAt": "2017-11-15 20:04:23"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 130,
-        "updatedAt": "2017-11-15 19:23:18"
     },
     "152488954-vkontakte": {
         "id": "152488954-vkontakte",

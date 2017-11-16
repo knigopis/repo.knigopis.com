@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>130</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>131</sup>
 ---
 
 ## 2017
+
+### Открывая организации будущего
+Фредерик Лалу
+> [2017-11-16] в процессе
+> 
+> https://www.ozon.ru/context/detail/id/34802279/
+
 
 ### Фиолетовая корова. Сделайте свой бизнес выдающимся!
 Годин С.
