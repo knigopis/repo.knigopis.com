@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 36,
+        "updatedAt": "2017-11-16 19:51:00"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "sad little panda",
         "booksCount": 37,
         "updatedAt": "2017-11-08 15:09:33"
-    },
-    "1140900829255723-facebook": {
-        "id": "1140900829255723-facebook",
-        "nickname": "kreinberry",
-        "booksCount": 0,
-        "updatedAt": "2017-11-08 12:02:22"
     }
 }
