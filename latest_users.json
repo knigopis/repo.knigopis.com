@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 601,
+        "updatedAt": "2017-11-16 08:44:29"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -16,12 +22,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 130,
         "updatedAt": "2017-11-15 19:23:18"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 600,
-        "updatedAt": "2017-11-15 19:20:43"
     },
     "152488954-vkontakte": {
         "id": "152488954-vkontakte",

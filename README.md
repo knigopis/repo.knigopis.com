@@ -35,10 +35,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>601</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>276</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>600</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
 [rNix](users/115/115622071-twitter)<sup>57</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kreinberry](users/114/1140900829255723-facebook)<sup>0</sup> 
 
 
-_16.11.2017 03:35:41_
+_16.11.2017 08:44:30_

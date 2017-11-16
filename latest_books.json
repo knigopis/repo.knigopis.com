@@ -1,4 +1,16 @@
 {
+    "GfQrN7IwSy": {
+        "id": "GfQrN7IwSy",
+        "title": "Двойник",
+        "author": "Жозе Сарамаго",
+        "notes": "",
+        "createdAt": "2017-11-16 08:44:29",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 601
+        }
+    },
     "SQq2c3oxXm": {
         "id": "SQq2c3oxXm",
         "title": "Бог никогда не моргает",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 4
-        }
-    },
-    "BikcSxkCCc": {
-        "id": "BikcSxkCCc",
-        "title": "Похороните меня под плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2017-11-11 20:18:25",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 3
         }
     }
 }
