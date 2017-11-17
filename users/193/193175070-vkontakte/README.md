@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>12</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>13</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 13: Пылающий огонь у водной глади
+Рэки Кавахара
+
 
 ### Ускоренный Мир 12: Красный Герб
 Рэки Кавахара

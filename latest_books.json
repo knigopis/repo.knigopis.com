@@ -1,4 +1,16 @@
 {
+    "Oh1dZZYj9B": {
+        "id": "Oh1dZZYj9B",
+        "title": "Ускоренный Мир 13: Пылающий огонь у водной глади",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:03:26",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 13
+        }
+    },
     "AhB45fqt69": {
         "id": "AhB45fqt69",
         "title": "Ускоренный Мир 12: Красный Герб",
@@ -345,18 +357,6 @@
             "id": "191788437-vkontakte",
             "nickname": "mbericheva",
             "booksCount": 1
-        }
-    },
-    "LiDugXhyhT": {
-        "id": "LiDugXhyhT",
-        "title": "Невероятная и грустная история о простодушной Эрендире и ее жестокосердной бабке",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-11-12 11:45:46",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 598
         }
     }
 }
