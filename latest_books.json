@@ -1,4 +1,16 @@
 {
+    "O8Tleh7rO5": {
+        "id": "O8Tleh7rO5",
+        "title": "Пустая шкатулка и нулевая Мария 6",
+        "author": "Эйдзи Микагэ",
+        "notes": "",
+        "createdAt": "2017-11-17 23:07:25",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 48
+        }
+    },
     "nCKihjJhBu": {
         "id": "nCKihjJhBu",
         "title": "Пустая шкатулка и нулевая Мария 5",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 20
-        }
-    },
-    "jjT5EYBFxK": {
-        "id": "jjT5EYBFxK",
-        "title": "Ускоренный Мир 18: Черный мечник с двумя клинками",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:05:24",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 18
         }
     }
 }
