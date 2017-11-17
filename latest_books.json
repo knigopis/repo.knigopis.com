@@ -1,4 +1,16 @@
 {
+    "7iGhCWJ172": {
+        "id": "7iGhCWJ172",
+        "title": "Пустая шкатулка и нулевая Мария 2",
+        "author": "Эйдзи Микагэ",
+        "notes": "",
+        "createdAt": "2017-11-17 23:06:24",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 44
+        }
+    },
     "XTkWDTM6w5": {
         "id": "XTkWDTM6w5",
         "title": "Пустая шкатулка и нулевая Мария 1",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 16
-        }
-    },
-    "X2NeutDTvw": {
-        "id": "X2NeutDTvw",
-        "title": "Ускоренный Мир 15: Начало и конец",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:03:47",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 15
         }
     }
 }
