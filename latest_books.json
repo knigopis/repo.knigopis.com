@@ -1,4 +1,16 @@
 {
+    "7LLo1kI2uB": {
+        "id": "7LLo1kI2uB",
+        "title": "Торадора4!",
+        "author": "Торадора3!",
+        "notes": "",
+        "createdAt": "2017-11-17 22:48:18",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 36
+        }
+    },
     "FbWGFJEOhH": {
         "id": "FbWGFJEOhH",
         "title": "Торадора3!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 8
-        }
-    },
-    "oWwj9mQB3E": {
-        "id": "oWwj9mQB3E",
-        "title": "Ускоренный Мир 7: Броня Бедствия",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:00:39",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 7
         }
     }
 }
