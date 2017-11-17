@@ -1,4 +1,10 @@
 {
+    "193175070-vkontakte": {
+        "id": "193175070-vkontakte",
+        "nickname": "Evgen1901",
+        "booksCount": 0,
+        "updatedAt": "2017-11-17 21:54:51"
+    },
     "114308295344486413021-google": {
         "id": "114308295344486413021-google",
         "nickname": "food",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 44,
         "updatedAt": "2017-11-08 19:32:08"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 157,
-        "updatedAt": "2017-11-08 17:43:46"
     }
 }
