@@ -1,4 +1,16 @@
 {
+    "kKWvYZl7u_": {
+        "id": "kKWvYZl7u_",
+        "title": "Ускоренный Мир 6: Жрица Очищающего Огня",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:00:21",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 6
+        }
+    },
     "exLDmbJ0om": {
         "id": "exLDmbJ0om",
         "title": "Ускоренный Мир 5: Парящий мост в звездном свете",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 15
-        }
-    },
-    "fwVtt5-v8C": {
-        "id": "fwVtt5-v8C",
-        "title": "Стена",
-        "author": "Жан-Поль Сартр",
-        "notes": "",
-        "createdAt": "2017-11-11 20:26:16",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 14
         }
     }
 }
