@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>59</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>60</sup>
 ---
 
 ## 2016
+
+### Право сильнейшего
+Александра Лисина
+
 
 ### Мертвая долина
 Александра Лисина

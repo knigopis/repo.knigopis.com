@@ -1,4 +1,16 @@
 {
+    "-wtnAqspVs": {
+        "id": "-wtnAqspVs",
+        "title": "Право сильнейшего",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:16:44",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 60
+        }
+    },
     "FuTtoJyfPu": {
         "id": "FuTtoJyfPu",
         "title": "Мертвая долина",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 30
-        }
-    },
-    "Ud7-HyK8zp": {
-        "id": "Ud7-HyK8zp",
-        "title": "Чужак 8",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:35:03",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 29
         }
     }
 }
