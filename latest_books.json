@@ -1,4 +1,16 @@
 {
+    "MiCsIa26lL": {
+        "id": "MiCsIa26lL",
+        "title": "Мэтр на свободе",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:14:42",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 52
+        }
+    },
     "0V5oy__4C5": {
         "id": "0V5oy__4C5",
         "title": "Мэтр на учебе",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 22
-        }
-    },
-    "btHTtfR5Wb": {
-        "id": "btHTtfR5Wb",
-        "title": "Ускоренный Мир 21: Снежная Фея",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:11:20",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 21
         }
     }
 }
