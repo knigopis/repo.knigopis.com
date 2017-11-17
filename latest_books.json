@@ -1,4 +1,16 @@
 {
+    "zFHOVcl74T": {
+        "id": "zFHOVcl74T",
+        "title": "Торадора7!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:50:48",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 39
+        }
+    },
     "aeMz5vKW5I": {
         "id": "aeMz5vKW5I",
         "title": "Торадора6!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 11
-        }
-    },
-    "jw2W9bgkxH": {
-        "id": "jw2W9bgkxH",
-        "title": "Ускоренный Мир 10: Элементы (Побочные истории)",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:01:21",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 10
         }
     }
 }
