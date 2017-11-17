@@ -1,4 +1,16 @@
 {
+    "cd6LMwcwd9": {
+        "id": "cd6LMwcwd9",
+        "title": "Игрок",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:15:35",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 54
+        }
+    },
     "ktzwREkS4x": {
         "id": "ktzwREkS4x",
         "title": "Мэтр на охоте",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 24
-        }
-    },
-    "4hYa_gYC0N": {
-        "id": "4hYa_gYC0N",
-        "title": "Чужак 2",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:21:51",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 23
         }
     }
 }
