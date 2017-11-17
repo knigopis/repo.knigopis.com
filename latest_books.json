@@ -1,4 +1,16 @@
 {
+    "GmznYuAU03": {
+        "id": "GmznYuAU03",
+        "title": "Дороги Валлиона",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:15:47",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 55
+        }
+    },
     "cd6LMwcwd9": {
         "id": "cd6LMwcwd9",
         "title": "Игрок",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 25
-        }
-    },
-    "w1mUzwib1V": {
-        "id": "w1mUzwib1V",
-        "title": "Чужак 3",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:22:09",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 24
         }
     }
 }
