@@ -1,4 +1,16 @@
 {
+    "AhB45fqt69": {
+        "id": "AhB45fqt69",
+        "title": "Ускоренный Мир 12: Красный Герб",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:03:08",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 12
+        }
+    },
     "dUXLpczhZz": {
         "id": "dUXLpczhZz",
         "title": "Ускоренный Мир 11: Непробиваемый Волк",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 598
-        }
-    },
-    "UfByl89tjZ": {
-        "id": "UfByl89tjZ",
-        "title": "Десять дней в море без еды и воды",
-        "author": "Габриэль Гарсия Маркес",
-        "notes": "",
-        "createdAt": "2017-11-12 10:35:47",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 597
         }
     }
 }

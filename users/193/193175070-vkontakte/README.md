@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>11</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>12</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 12: Красный Герб
+Рэки Кавахара
+
 
 ### Ускоренный Мир 11: Непробиваемый Волк
 Рэки Кавахара
