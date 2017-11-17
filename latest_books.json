@@ -1,4 +1,16 @@
 {
+    "w1mUzwib1V": {
+        "id": "w1mUzwib1V",
+        "title": "Чужак 3",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:22:09",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 24
+        }
+    },
     "4hYa_gYC0N": {
         "id": "4hYa_gYC0N",
         "title": "Чужак 2",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 36
-        }
-    },
-    "GfQrN7IwSy": {
-        "id": "GfQrN7IwSy",
-        "title": "Двойник",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2017-11-16 08:44:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 601
         }
     }
 }
