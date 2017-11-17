@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>9</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>10</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 10: Элементы (Побочные истории)
+Рэки Кавахара
+
 
 ### Ускоренный Мир 9: Семитысячелетняя молитва
 Рэки Кавахара
