@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>56</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>57</sup>
 ---
 
 ## 2016
+
+### Первый удар
+Александра Лисина
+
 
 ### Проба сил
 Александра Лисина

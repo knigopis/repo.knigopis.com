@@ -1,4 +1,16 @@
 {
+    "VGl_RQC2IZ": {
+        "id": "VGl_RQC2IZ",
+        "title": "Первый удар",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:16:07",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 57
+        }
+    },
     "ONITHkFb9v": {
         "id": "ONITHkFb9v",
         "title": "Проба сил",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 27
-        }
-    },
-    "g-aLJBuyuQ": {
-        "id": "g-aLJBuyuQ",
-        "title": "Чужак 5",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:22:42",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 26
         }
     }
 }
