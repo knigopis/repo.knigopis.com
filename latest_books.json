@@ -1,4 +1,16 @@
 {
+    "ktzwREkS4x": {
+        "id": "ktzwREkS4x",
+        "title": "Мэтр на охоте",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:14:53",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 53
+        }
+    },
     "MiCsIa26lL": {
         "id": "MiCsIa26lL",
         "title": "Мэтр на свободе",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 23
-        }
-    },
-    "l17gilLpZQ": {
-        "id": "l17gilLpZQ",
-        "title": "Чужак 1",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:21:23",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 22
         }
     }
 }
