@@ -1,4 +1,16 @@
 {
+    "dUXLpczhZz": {
+        "id": "dUXLpczhZz",
+        "title": "Ускоренный Мир 11: Непробиваемый Волк",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:02:59",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 11
+        }
+    },
     "jw2W9bgkxH": {
         "id": "jw2W9bgkxH",
         "title": "Ускоренный Мир 10: Элементы (Побочные истории)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 597
-        }
-    },
-    "iG-mZaBdbP": {
-        "id": "iG-mZaBdbP",
-        "title": "1984",
-        "author": "Оруэлл Джордж",
-        "notes": "",
-        "createdAt": "2017-11-11 20:30:20",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 19
         }
     }
 }
