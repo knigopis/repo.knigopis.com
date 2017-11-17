@@ -1,4 +1,16 @@
 {
+    "X2NeutDTvw": {
+        "id": "X2NeutDTvw",
+        "title": "Ускоренный Мир 15: Начало и конец",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:03:47",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 15
+        }
+    },
     "FsNIEtePWl": {
         "id": "FsNIEtePWl",
         "title": "Ускоренный Мир 14: Архангел неистового света",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 599
-        }
-    },
-    "dnrFmcnTkU": {
-        "id": "dnrFmcnTkU",
-        "title": "Английский пациент",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-12 18:08:40",
-        "user": {
-            "id": "60565515-yandex",
-            "nickname": "Zagadka",
-            "booksCount": 1
         }
     }
 }
