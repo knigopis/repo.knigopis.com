@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>42</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>43</sup>
 ---
 
 ## 2016
+
+### Пустая шкатулка и нулевая Мария 1
+Эйдзи Микагэ
+
 
 ### Торадора10!
 Такэми Ююко
