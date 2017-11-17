@@ -1,4 +1,16 @@
 {
+    "4hYa_gYC0N": {
+        "id": "4hYa_gYC0N",
+        "title": "Чужак 2",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:21:51",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 23
+        }
+    },
     "l17gilLpZQ": {
         "id": "l17gilLpZQ",
         "title": "Чужак 1",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 601
-        }
-    },
-    "SQq2c3oxXm": {
-        "id": "SQq2c3oxXm",
-        "title": "Бог никогда не моргает",
-        "author": "Регина Бретт",
-        "notes": "",
-        "createdAt": "2017-11-16 03:35:40",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 276
         }
     }
 }
