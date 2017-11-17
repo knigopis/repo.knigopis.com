@@ -1,4 +1,16 @@
 {
+    "jjT5EYBFxK": {
+        "id": "jjT5EYBFxK",
+        "title": "Ускоренный Мир 18: Черный мечник с двумя клинками",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:05:24",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 18
+        }
+    },
     "yDx2oNGIr5": {
         "id": "yDx2oNGIr5",
         "title": "Ускоренный Мир 17: Звездная колыбель",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 57
-        }
-    },
-    "7o31c8DkkV": {
-        "id": "7o31c8DkkV",
-        "title": "Визуализация идей: набросок, эскиз, раскадровка",
-        "author": "Крисциан Грегор, Шлемп-Улкер Несрин",
-        "notes": "5",
-        "createdAt": "2017-11-14 18:54:48",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 35
         }
     }
 }
