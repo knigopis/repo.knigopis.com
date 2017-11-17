@@ -1,4 +1,16 @@
 {
+    "0Srz1wBIkx": {
+        "id": "0Srz1wBIkx",
+        "title": "Ускоренный Мир 4: Вверх, к синему небу",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 21:59:52",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 4
+        }
+    },
     "OEqQRNXxgv": {
         "id": "OEqQRNXxgv",
         "title": "Ускоренный Мир 3: Сумеречный вор",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 13
-        }
-    },
-    "7itsSvCXIe": {
-        "id": "7itsSvCXIe",
-        "title": "Бог-скорпион",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2017-11-11 20:25:19",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 12
         }
     }
 }
