@@ -1,4 +1,16 @@
 {
+    "8i8ZaK_y52": {
+        "id": "8i8ZaK_y52",
+        "title": "Ускоренный Мир 8: Двойная Звезда Судьбы",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:00:54",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 8
+        }
+    },
     "oWwj9mQB3E": {
         "id": "oWwj9mQB3E",
         "title": "Ускоренный Мир 7: Броня Бедствия",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 17
-        }
-    },
-    "t8nG-EVyZk": {
-        "id": "t8nG-EVyZk",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-11-11 20:27:51",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 16
         }
     }
 }

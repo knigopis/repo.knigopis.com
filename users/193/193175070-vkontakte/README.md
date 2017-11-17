@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>7</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>8</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 8: Двойная Звезда Судьбы
+Рэки Кавахара
+
 
 ### Ускоренный Мир 7: Броня Бедствия
 Рэки Кавахара
