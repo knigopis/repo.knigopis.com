@@ -1,4 +1,16 @@
 {
+    "oWwj9mQB3E": {
+        "id": "oWwj9mQB3E",
+        "title": "Ускоренный Мир 7: Броня Бедствия",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:00:39",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 7
+        }
+    },
     "kKWvYZl7u_": {
         "id": "kKWvYZl7u_",
         "title": "Ускоренный Мир 6: Жрица Очищающего Огня",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 16
-        }
-    },
-    "_sJZjn6cVC": {
-        "id": "_sJZjn6cVC",
-        "title": "451 по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2017-11-11 20:27:20",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 15
         }
     }
 }

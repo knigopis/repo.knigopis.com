@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>6</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>7</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 7: Броня Бедствия
+Рэки Кавахара
+
 
 ### Ускоренный Мир 6: Жрица Очищающего Огня
 Рэки Кавахара
