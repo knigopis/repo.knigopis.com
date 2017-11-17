@@ -1,4 +1,16 @@
 {
+    "5jV0D6r4Mx": {
+        "id": "5jV0D6r4Mx",
+        "title": "Торадора10!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:52:09",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 42
+        }
+    },
     "RXhwKt_4dM": {
         "id": "RXhwKt_4dM",
         "title": "Торадора9!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 14
-        }
-    },
-    "Oh1dZZYj9B": {
-        "id": "Oh1dZZYj9B",
-        "title": "Ускоренный Мир 13: Пылающий огонь у водной глади",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:03:26",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 13
         }
     }
 }
