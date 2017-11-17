@@ -1,4 +1,16 @@
 {
+    "gKkSYt0nm5": {
+        "id": "gKkSYt0nm5",
+        "title": "Ускоренный Мир 20: Противостояние белых и черных",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:10:06",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 20
+        }
+    },
     "8S1Lte89vO": {
         "id": "8S1Lte89vO",
         "title": "Ускоренный Мир 19: Сила притяжения темной туманности",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 130
-        }
-    },
-    "EICAmMyZYV": {
-        "id": "EICAmMyZYV",
-        "title": "Палая листва",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-11-15 19:20:43",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 600
         }
     }
 }
