@@ -1,4 +1,16 @@
 {
+    "CGWDD9p-km": {
+        "id": "CGWDD9p-km",
+        "title": "Ускоренный Мир 9: Семитысячелетняя молитва",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:01:07",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 9
+        }
+    },
     "8i8ZaK_y52": {
         "id": "8i8ZaK_y52",
         "title": "Ускоренный Мир 8: Двойная Звезда Судьбы",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 18
-        }
-    },
-    "KoMD8Denc4": {
-        "id": "KoMD8Denc4",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уальд",
-        "notes": "",
-        "createdAt": "2017-11-11 20:28:34",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 17
         }
     }
 }
