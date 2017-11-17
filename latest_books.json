@@ -1,4 +1,16 @@
 {
+    "HXY2A9be2s": {
+        "id": "HXY2A9be2s",
+        "title": "fdgdf",
+        "author": "gfdgfdgd",
+        "notes": "dfgfdgdg",
+        "createdAt": "2017-11-17 10:47:23",
+        "user": {
+            "id": "114308295344486413021-google",
+            "nickname": "food",
+            "booksCount": 1
+        }
+    },
     "ZXrVhXxtGf": {
         "id": "ZXrVhXxtGf",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 9
-        }
-    },
-    "Jl6BOSTunN": {
-        "id": "Jl6BOSTunN",
-        "title": "Александр Солженицын",
-        "author": "Раковый корпус",
-        "notes": "",
-        "createdAt": "2017-11-11 20:22:48",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 8
         }
     }
 }
