@@ -1,4 +1,16 @@
 {
+    "OZwjLfm1bU": {
+        "id": "OZwjLfm1bU",
+        "title": "Слово Ишты",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:16:21",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 58
+        }
+    },
     "VGl_RQC2IZ": {
         "id": "VGl_RQC2IZ",
         "title": "Первый удар",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 28
-        }
-    },
-    "tixefub8OV": {
-        "id": "tixefub8OV",
-        "title": "Чужак 6",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:22:53",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 27
         }
     }
 }
