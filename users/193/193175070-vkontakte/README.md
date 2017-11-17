@@ -1,9 +1,7 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>19</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>18</sup>
 ---
 
 ## 2016
-
-
 
 ### Ускоренный Мир 18: Черный мечник с двумя клинками
 Рэки Кавахара
