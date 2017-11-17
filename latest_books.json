@@ -1,4 +1,16 @@
 {
+    "2TL31sWdoC": {
+        "id": "2TL31sWdoC",
+        "title": "Третья сила",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:16:56",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 61
+        }
+    },
     "-wtnAqspVs": {
         "id": "-wtnAqspVs",
         "title": "Право сильнейшего",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 31
-        }
-    },
-    "_lR1FWqaM4": {
-        "id": "_lR1FWqaM4",
-        "title": "Чужак 9",
-        "author": "Дравин Игорь",
-        "notes": "",
-        "createdAt": "2017-11-17 22:35:18",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 30
         }
     }
 }

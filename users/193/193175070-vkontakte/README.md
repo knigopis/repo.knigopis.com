@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>60</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>61</sup>
 ---
 
 ## 2016
+
+### Третья сила
+Александра Лисина
+
 
 ### Право сильнейшего
 Александра Лисина
