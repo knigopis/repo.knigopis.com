@@ -1,4 +1,16 @@
 {
+    "zZ8kGkSwZk": {
+        "id": "zZ8kGkSwZk",
+        "title": "Чужак 11",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:37:23",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 32
+        }
+    },
     "3W2O13Pldb": {
         "id": "3W2O13Pldb",
         "title": "Чужак 10",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 4
-        }
-    },
-    "OEqQRNXxgv": {
-        "id": "OEqQRNXxgv",
-        "title": "Ускоренный Мир 3: Сумеречный вор",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 21:59:09",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 3
         }
     }
 }
