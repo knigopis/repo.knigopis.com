@@ -1,4 +1,16 @@
 {
+    "v-xgJJRk1x": {
+        "id": "v-xgJJRk1x",
+        "title": "Магический универ 2: Летняя практика",
+        "author": "Галина Гончарова",
+        "notes": "",
+        "createdAt": "2017-11-17 23:33:15",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 69
+        }
+    },
     "zpD6yWASK3": {
         "id": "zpD6yWASK3",
         "title": "Магический универ 1: Учиться, влюбиться... убиться",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 40
-        }
-    },
-    "zFHOVcl74T": {
-        "id": "zFHOVcl74T",
-        "title": "Торадора7!",
-        "author": "Такэми Ююко",
-        "notes": "",
-        "createdAt": "2017-11-17 22:50:48",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 39
         }
     }
 }
