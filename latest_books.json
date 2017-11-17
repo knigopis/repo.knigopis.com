@@ -1,4 +1,16 @@
 {
+    "QC4sU0fPet": {
+        "id": "QC4sU0fPet",
+        "title": "Чужак 7",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:34:50",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 28
+        }
+    },
     "tixefub8OV": {
         "id": "tixefub8OV",
         "title": "Чужак 6",
@@ -345,18 +357,6 @@
             "id": "114308295344486413021-google",
             "nickname": "food",
             "booksCount": 1
-        }
-    },
-    "ZXrVhXxtGf": {
-        "id": "ZXrVhXxtGf",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности",
-        "createdAt": "2017-11-17 08:10:55",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 28
         }
     }
 }

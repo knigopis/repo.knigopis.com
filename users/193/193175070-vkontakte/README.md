@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>27</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>28</sup>
 ---
 
 ## 2016
+
+### Чужак 7
+Дравин Игорь
+
 
 ### Чужак 6
 Дравин Игорь
