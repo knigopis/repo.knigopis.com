@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 28,
+        "updatedAt": "2017-11-17 08:10:55"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -172,11 +178,5 @@
         "nickname": "linuxic",
         "booksCount": 0,
         "updatedAt": "2017-11-08 17:08:37"
-    },
-    "1882525281990290-facebook": {
-        "id": "1882525281990290-facebook",
-        "nickname": "sad little panda",
-        "booksCount": 37,
-        "updatedAt": "2017-11-08 15:09:33"
     }
 }

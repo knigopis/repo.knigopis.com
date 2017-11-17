@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
+    > Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности
+
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
     > в процессе
     > 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Очень добротное и интересное фентези. Обязательно прочту продолжение
 
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
-    > https://www.ozon.ru/context/detail/id/20910952/
-    > 
-    > в процессе
 
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
 
-* Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>139</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>36</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>157</sup> 
 [linuxic](users/344/344559545-vkontakte)<sup>0</sup> 
-[sad little panda](users/188/1882525281990290-facebook)<sup>37</sup> 
 
 
-_17.11.2017 03:30:54_
+_17.11.2017 08:10:55_

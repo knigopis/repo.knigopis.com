@@ -1,4 +1,16 @@
 {
+    "ZXrVhXxtGf": {
+        "id": "ZXrVhXxtGf",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности",
+        "createdAt": "2017-11-17 08:10:55",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 28
+        }
+    },
     "O6WL8f9QHm": {
         "id": "O6WL8f9QHm",
         "title": "Потерянные звезды",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 8
-        }
-    },
-    "Z_sJlH0v1h": {
-        "id": "Z_sJlH0v1h",
-        "title": "Дэнс, дэнс, дэнс",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-11-11 20:21:59",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 7
         }
     }
 }

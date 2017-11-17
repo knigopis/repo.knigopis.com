@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 * Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
@@ -30,7 +31,6 @@
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
 * В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
-* Марк Льюис ~ [Saamy](users/115/115226508-vkontakte)<sup>24</sup>
 
 
-_16.11.2017 19:56:26_
+_17.11.2017 08:10:55_
