@@ -1,4 +1,16 @@
 {
+    "B4O3oE_VBX": {
+        "id": "B4O3oE_VBX",
+        "title": "Торадора2!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:47:50",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 34
+        }
+    },
     "AIViogjWro": {
         "id": "AIViogjWro",
         "title": "Торадора!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 6
-        }
-    },
-    "exLDmbJ0om": {
-        "id": "exLDmbJ0om",
-        "title": "Ускоренный Мир 5: Парящий мост в звездном свете",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:00:03",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 5
         }
     }
 }
