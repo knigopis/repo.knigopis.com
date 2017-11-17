@@ -1,4 +1,16 @@
 {
+    "yDx2oNGIr5": {
+        "id": "yDx2oNGIr5",
+        "title": "Ускоренный Мир 17: Звездная колыбель",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:04:50",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 17
+        }
+    },
     "3wL5U5kHUY": {
         "id": "3wL5U5kHUY",
         "title": "Ускоренный Мир 16: Дрёма Белоснежки",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 35
-        }
-    },
-    "3MYZpliSyE": {
-        "id": "3MYZpliSyE",
-        "title": "Дети лампы. Книга первая. Джинн в плену Эхнатона",
-        "author": "Ф. Б. Керр",
-        "notes": "Подростковая литература. Но мне интересно. Догоняю то  что упустила в детстве. То есть любовь к книгам.",
-        "createdAt": "2017-11-13 22:21:20",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 34
         }
     }
 }

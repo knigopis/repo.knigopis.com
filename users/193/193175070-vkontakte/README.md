@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>16</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>17</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 17: Звездная колыбель
+Рэки Кавахара
+
 
 ### Ускоренный Мир 16: Дрёма Белоснежки
 Рэки Кавахара
