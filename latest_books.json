@@ -1,4 +1,16 @@
 {
+    "OGjvrxFgLu": {
+        "id": "OGjvrxFgLu",
+        "title": "Пустая шкатулка и нулевая Мария 7",
+        "author": "Эйдзи Микагэ",
+        "notes": "",
+        "createdAt": "2017-11-17 23:07:34",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 49
+        }
+    },
     "O8Tleh7rO5": {
         "id": "O8Tleh7rO5",
         "title": "Пустая шкатулка и нулевая Мария 6",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 19
-        }
-    },
-    "d30LiX1oPF": {
-        "id": "d30LiX1oPF",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-17 22:07:20",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 20
         }
     }
 }
