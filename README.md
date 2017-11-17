@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Evgen1901](users/193/193175070-vkontakte)<sup>67</sup> 
+[Evgen1901](users/193/193175070-vkontakte)<sup>68</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>139</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 
 
-_17.11.2017 23:30:04_
+_17.11.2017 23:32:40_
