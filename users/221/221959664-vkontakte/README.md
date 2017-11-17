@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>138</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>139</sup>
 ---
 
 ## 2017
+
+### Потерянные звезды
+Клаудия Грэй
+> [2017-11-12] 
+
 
 ### Вождение вслепую
 Рэй Бредбери

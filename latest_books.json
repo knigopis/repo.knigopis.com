@@ -1,4 +1,16 @@
 {
+    "O6WL8f9QHm": {
+        "id": "O6WL8f9QHm",
+        "title": "Потерянные звезды",
+        "author": "Клаудия Грэй",
+        "notes": "",
+        "createdAt": "2017-11-17 03:30:54",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 139
+        }
+    },
     "xV30Qi3YVl": {
         "id": "xV30Qi3YVl",
         "title": "Открывая организации будущего",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 7
-        }
-    },
-    "7DmpJgnJQ3": {
-        "id": "7DmpJgnJQ3",
-        "title": "Охота на овец",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-11-11 20:21:26",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 6
         }
     }
 }
