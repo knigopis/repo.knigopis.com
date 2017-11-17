@@ -1,4 +1,10 @@
 {
+    "114308295344486413021-google": {
+        "id": "114308295344486413021-google",
+        "nickname": "food",
+        "booksCount": 0,
+        "updatedAt": "2017-11-17 10:46:59"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 157,
         "updatedAt": "2017-11-08 17:43:46"
-    },
-    "344559545-vkontakte": {
-        "id": "344559545-vkontakte",
-        "nickname": "linuxic",
-        "booksCount": 0,
-        "updatedAt": "2017-11-08 17:08:37"
     }
 }
