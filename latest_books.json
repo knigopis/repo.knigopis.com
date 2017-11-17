@@ -1,4 +1,16 @@
 {
+    "FbWGFJEOhH": {
+        "id": "FbWGFJEOhH",
+        "title": "Торадора3!",
+        "author": "Торадора!",
+        "notes": "",
+        "createdAt": "2017-11-17 22:48:03",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 35
+        }
+    },
     "B4O3oE_VBX": {
         "id": "B4O3oE_VBX",
         "title": "Торадора2!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 7
-        }
-    },
-    "kKWvYZl7u_": {
-        "id": "kKWvYZl7u_",
-        "title": "Ускоренный Мир 6: Жрица Очищающего Огня",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:00:21",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 6
         }
     }
 }
