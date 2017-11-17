@@ -1,4 +1,16 @@
 {
+    "tixefub8OV": {
+        "id": "tixefub8OV",
+        "title": "Чужак 6",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:22:53",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 27
+        }
+    },
     "g-aLJBuyuQ": {
         "id": "g-aLJBuyuQ",
         "title": "Чужак 5",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 28
-        }
-    },
-    "O6WL8f9QHm": {
-        "id": "O6WL8f9QHm",
-        "title": "Потерянные звезды",
-        "author": "Клаудия Грэй",
-        "notes": "",
-        "createdAt": "2017-11-17 03:30:54",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 139
         }
     }
 }
