@@ -1,4 +1,16 @@
 {
+    "3wL5U5kHUY": {
+        "id": "3wL5U5kHUY",
+        "title": "Ускоренный Мир 16: Дрёма Белоснежки",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:04:39",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 16
+        }
+    },
     "X2NeutDTvw": {
         "id": "X2NeutDTvw",
         "title": "Ускоренный Мир 15: Начало и конец",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 34
-        }
-    },
-    "nyvLIEade4": {
-        "id": "nyvLIEade4",
-        "title": "История одной смерти, о которой знали заранее",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-11-13 17:11:39",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 599
         }
     }
 }
