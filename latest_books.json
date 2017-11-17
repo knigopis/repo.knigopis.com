@@ -1,4 +1,16 @@
 {
+    "aeMz5vKW5I": {
+        "id": "aeMz5vKW5I",
+        "title": "Торадора6!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:50:36",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 38
+        }
+    },
     "rZTcxc2j8m": {
         "id": "rZTcxc2j8m",
         "title": "Торадора5!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 10
-        }
-    },
-    "CGWDD9p-km": {
-        "id": "CGWDD9p-km",
-        "title": "Ускоренный Мир 9: Семитысячелетняя молитва",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:01:07",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 9
         }
     }
 }
