@@ -1,4 +1,16 @@
 {
+    "AIViogjWro": {
+        "id": "AIViogjWro",
+        "title": "Торадора!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:47:16",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 33
+        }
+    },
     "zZ8kGkSwZk": {
         "id": "zZ8kGkSwZk",
         "title": "Чужак 11",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 5
-        }
-    },
-    "0Srz1wBIkx": {
-        "id": "0Srz1wBIkx",
-        "title": "Ускоренный Мир 4: Вверх, к синему небу",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 21:59:52",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 4
         }
     }
 }
