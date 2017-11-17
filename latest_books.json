@@ -1,4 +1,16 @@
 {
+    "exLDmbJ0om": {
+        "id": "exLDmbJ0om",
+        "title": "Ускоренный Мир 5: Парящий мост в звездном свете",
+        "author": "Рэки Кавахара",
+        "notes": "",
+        "createdAt": "2017-11-17 22:00:03",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 5
+        }
+    },
     "0Srz1wBIkx": {
         "id": "0Srz1wBIkx",
         "title": "Ускоренный Мир 4: Вверх, к синему небу",
@@ -345,18 +357,6 @@
             "id": "6574866389626462879-mailru",
             "nickname": "Nelly Hallward",
             "booksCount": 14
-        }
-    },
-    "82sD3vwZd4": {
-        "id": "82sD3vwZd4",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2017-11-11 20:25:47",
-        "user": {
-            "id": "6574866389626462879-mailru",
-            "nickname": "Nelly Hallward",
-            "booksCount": 13
         }
     }
 }

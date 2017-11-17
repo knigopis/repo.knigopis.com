@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>4</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>5</sup>
 ---
 
 ## Other years
+
+### Ускоренный Мир 5: Парящий мост в звездном свете
+Рэки Кавахара
+
 
 ### Ускоренный Мир 4: Вверх, к синему небу
 Рэки Кавахара
