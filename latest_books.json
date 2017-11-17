@@ -1,4 +1,16 @@
 {
+    "90FSh8fGB1": {
+        "id": "90FSh8fGB1",
+        "title": "Мэтр",
+        "author": "Александра Лисина",
+        "notes": "",
+        "createdAt": "2017-11-17 23:14:08",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 50
+        }
+    },
     "OGjvrxFgLu": {
         "id": "OGjvrxFgLu",
         "title": "Пустая шкатулка и нулевая Мария 7",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 20
-        }
-    },
-    "8S1Lte89vO": {
-        "id": "8S1Lte89vO",
-        "title": "Ускоренный Мир 19: Сила притяжения темной туманности",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:09:41",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 19
         }
     }
 }
