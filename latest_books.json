@@ -1,4 +1,16 @@
 {
+    "l17gilLpZQ": {
+        "id": "l17gilLpZQ",
+        "title": "Чужак 1",
+        "author": "Дравин Игорь",
+        "notes": "",
+        "createdAt": "2017-11-17 22:21:23",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 22
+        }
+    },
     "btHTtfR5Wb": {
         "id": "btHTtfR5Wb",
         "title": "Ускоренный Мир 21: Снежная Фея",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 276
-        }
-    },
-    "rcaIc0ovBA": {
-        "id": "rcaIc0ovBA",
-        "title": "\"Старуха Изергиль\"",
-        "author": "Максим Горький",
-        "notes": "",
-        "createdAt": "2017-11-15 20:04:01",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 35
         }
     }
 }
