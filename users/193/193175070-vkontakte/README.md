@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>39</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>40</sup>
 ---
 
 ## 2016
+
+### Торадора8!
+Такэми Ююко
+
 
 ### Торадора7!
 Такэми Ююко

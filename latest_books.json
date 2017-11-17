@@ -1,4 +1,16 @@
 {
+    "F_AwIqeXab": {
+        "id": "F_AwIqeXab",
+        "title": "Торадора8!",
+        "author": "Такэми Ююко",
+        "notes": "",
+        "createdAt": "2017-11-17 22:50:58",
+        "user": {
+            "id": "193175070-vkontakte",
+            "nickname": "Evgen1901",
+            "booksCount": 40
+        }
+    },
     "zFHOVcl74T": {
         "id": "zFHOVcl74T",
         "title": "Торадора7!",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 12
-        }
-    },
-    "dUXLpczhZz": {
-        "id": "dUXLpczhZz",
-        "title": "Ускоренный Мир 11: Непробиваемый Волк",
-        "author": "Рэки Кавахара",
-        "notes": "",
-        "createdAt": "2017-11-17 22:02:59",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 11
         }
     }
 }
