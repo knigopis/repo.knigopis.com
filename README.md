@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>74</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>139</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>36</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>601</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>276</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
 
 
-_18.11.2017 19:46:42_
+_18.11.2017 23:26:54_

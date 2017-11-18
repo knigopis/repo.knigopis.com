@@ -1,4 +1,16 @@
 {
+    "720rRAa8Eq": {
+        "id": "720rRAa8Eq",
+        "title": "Известие о похищении",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2017-11-18 23:26:53",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 602
+        }
+    },
     "9dzsRKRWbo": {
         "id": "9dzsRKRWbo",
         "title": "Иностранка",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 60
-        }
-    },
-    "FuTtoJyfPu": {
-        "id": "FuTtoJyfPu",
-        "title": "Мертвая долина",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:16:34",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 59
         }
     }
 }
