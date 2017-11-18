@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[whatever](users/200/2004720323142248-facebook)<sup>0</sup> 
+[whatever](users/200/2004720323142248-facebook)<sup>1</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>74</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
 
 
-_18.11.2017 19:31:35_
+_18.11.2017 19:32:10_
