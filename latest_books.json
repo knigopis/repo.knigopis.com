@@ -1,4 +1,16 @@
 {
+    "w0UFQbzF4i": {
+        "id": "w0UFQbzF4i",
+        "title": "Накануне",
+        "author": "И. Тургенев",
+        "notes": "",
+        "createdAt": "2017-11-18 19:41:12",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 8
+        }
+    },
     "0o6cEuqK0a": {
         "id": "0o6cEuqK0a",
         "title": "Парфюмер",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 52
-        }
-    },
-    "0V5oy__4C5": {
-        "id": "0V5oy__4C5",
-        "title": "Мэтр на учебе",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:14:24",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 51
         }
     }
 }
