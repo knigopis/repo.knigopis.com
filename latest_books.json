@@ -1,4 +1,16 @@
 {
+    "meuuLF0hGg": {
+        "id": "meuuLF0hGg",
+        "title": "Обрыв",
+        "author": "И. Гончаров",
+        "notes": "",
+        "createdAt": "2017-11-18 19:39:49",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 6
+        }
+    },
     "PbBZJ1JRMr": {
         "id": "PbBZJ1JRMr",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 50
-        }
-    },
-    "OGjvrxFgLu": {
-        "id": "OGjvrxFgLu",
-        "title": "Пустая шкатулка и нулевая Мария 7",
-        "author": "Эйдзи Микагэ",
-        "notes": "",
-        "createdAt": "2017-11-17 23:07:34",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 49
         }
     }
 }
