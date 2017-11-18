@@ -1,4 +1,16 @@
 {
+    "3YcWh5u8jH": {
+        "id": "3YcWh5u8jH",
+        "title": "Рудин",
+        "author": "И. Тургенев",
+        "notes": "",
+        "createdAt": "2017-11-18 19:41:33",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 9
+        }
+    },
     "w0UFQbzF4i": {
         "id": "w0UFQbzF4i",
         "title": "Накануне",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 53
-        }
-    },
-    "MiCsIa26lL": {
-        "id": "MiCsIa26lL",
-        "title": "Мэтр на свободе",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:14:42",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 52
         }
     }
 }
