@@ -1,4 +1,16 @@
 {
+    "9dzsRKRWbo": {
+        "id": "9dzsRKRWbo",
+        "title": "Иностранка",
+        "author": "С. Довлатов",
+        "notes": "",
+        "createdAt": "2017-11-18 19:46:42",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 15
+        }
+    },
     "LVzpDq-DHJ": {
         "id": "LVzpDq-DHJ",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 59
-        }
-    },
-    "OZwjLfm1bU": {
-        "id": "OZwjLfm1bU",
-        "title": "Слово Ишты",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:16:21",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 58
         }
     }
 }
