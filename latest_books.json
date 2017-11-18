@@ -1,4 +1,16 @@
 {
+    "MRqeLA4C1V": {
+        "id": "MRqeLA4C1V",
+        "title": "Strange Case of Dr Jekyll and Mr Hyde",
+        "author": "Robert Louis Stevenson",
+        "notes": "",
+        "createdAt": "2017-11-18 19:42:42",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 10
+        }
+    },
     "3YcWh5u8jH": {
         "id": "3YcWh5u8jH",
         "title": "Рудин",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 54
-        }
-    },
-    "ktzwREkS4x": {
-        "id": "ktzwREkS4x",
-        "title": "Мэтр на охоте",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:14:53",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 53
         }
     }
 }

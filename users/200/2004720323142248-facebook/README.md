@@ -1,4 +1,4 @@
-# List of books read by [whatever](https://www.facebook.com/app_scoped_user_id/2004720323142248/)<sup>9</sup>
+# List of books read by [whatever](https://www.facebook.com/app_scoped_user_id/2004720323142248/)<sup>10</sup>
 ---
 
 ## 2017
@@ -26,6 +26,11 @@
 ### Накануне
 И. Тургенев
 > [2017-08] 
+
+
+### Strange Case of Dr Jekyll and Mr Hyde
+Robert Louis Stevenson
+> [2017-07] 
 
 
 ### Джейн Эйр
