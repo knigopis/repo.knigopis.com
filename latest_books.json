@@ -1,4 +1,16 @@
 {
+    "0o6cEuqK0a": {
+        "id": "0o6cEuqK0a",
+        "title": "Парфюмер",
+        "author": "П. Зюскинд",
+        "notes": "",
+        "createdAt": "2017-11-18 19:40:11",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 7
+        }
+    },
     "meuuLF0hGg": {
         "id": "meuuLF0hGg",
         "title": "Обрыв",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 51
-        }
-    },
-    "90FSh8fGB1": {
-        "id": "90FSh8fGB1",
-        "title": "Мэтр",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:14:08",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 50
         }
     }
 }
