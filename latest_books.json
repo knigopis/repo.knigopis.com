@@ -1,4 +1,16 @@
 {
+    "uwHGNS0gLn": {
+        "id": "uwHGNS0gLn",
+        "title": "Прощай, оружие",
+        "author": "Э. Хемингуэй",
+        "notes": "",
+        "createdAt": "2017-11-18 19:37:03",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 4
+        }
+    },
     "M3ON-n6Mr3": {
         "id": "M3ON-n6Mr3",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 48
-        }
-    },
-    "nCKihjJhBu": {
-        "id": "nCKihjJhBu",
-        "title": "Пустая шкатулка и нулевая Мария 5",
-        "author": "Эйдзи Микагэ",
-        "notes": "",
-        "createdAt": "2017-11-17 23:07:04",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 47
         }
     }
 }

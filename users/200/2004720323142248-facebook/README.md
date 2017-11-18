@@ -1,10 +1,15 @@
-# List of books read by [whatever](https://www.facebook.com/app_scoped_user_id/2004720323142248/)<sup>3</sup>
+# List of books read by [whatever](https://www.facebook.com/app_scoped_user_id/2004720323142248/)<sup>4</sup>
 ---
 
 ## 2017
 
 И. Ильф, Е. Петров "Одноэтажная Америка"
 > [2017-10] 
+
+
+### Прощай, оружие
+Э. Хемингуэй
+> [2017-03] 
 
 
 Марио Пьюзо "Крестный отец"
