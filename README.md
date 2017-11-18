@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[whatever](users/200/2004720323142248-facebook)<sup>0</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>74</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>108</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>44</sup> 
 
 
-_18.11.2017 00:10:46_
+_18.11.2017 19:31:35_
