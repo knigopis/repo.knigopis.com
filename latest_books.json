@@ -1,4 +1,16 @@
 {
+    "Iujth4mqwv": {
+        "id": "Iujth4mqwv",
+        "title": "Посторонний",
+        "author": "А. Камю",
+        "notes": "",
+        "createdAt": "2017-11-18 19:44:22",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 12
+        }
+    },
     "wl92lf7uye": {
         "id": "wl92lf7uye",
         "title": "Told After Supper",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 56
-        }
-    },
-    "GmznYuAU03": {
-        "id": "GmznYuAU03",
-        "title": "Дороги Валлиона",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:15:47",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 55
         }
     }
 }
