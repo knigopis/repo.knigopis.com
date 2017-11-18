@@ -28,6 +28,11 @@
 > [2017-08] 
 
 
+### Told After Supper
+Jerome K. Jerome
+> [2017-07] 
+
+
 ### Strange Case of Dr Jekyll and Mr Hyde
 Robert Louis Stevenson
 > [2017-07] 
@@ -51,10 +56,6 @@ Robert Louis Stevenson
 ### Американская трагедия
 Теодор Драйзер
 > [2017-01] 
-
-
-### Told After Supper
-Jerome K. Jerome
 
 
 
