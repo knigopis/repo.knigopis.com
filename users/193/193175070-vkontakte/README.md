@@ -1,7 +1,11 @@
-# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>72</sup>
+# List of books read by [Evgen1901](http://vk.com/id193175070)<sup>73</sup>
 ---
 
 ## 2016
+
+### Астровитянка 2: Теория катастрофы
+Ник Горькаватый
+
 
 ### Астровитянка 1: Астровитянка
 Ник Горькаватый
