@@ -1,4 +1,16 @@
 {
+    "LVzpDq-DHJ": {
+        "id": "LVzpDq-DHJ",
+        "title": "Коллекционер",
+        "author": "Дж. Фаулз",
+        "notes": "",
+        "createdAt": "2017-11-18 19:45:57",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 14
+        }
+    },
     "tY05ZG2NGT": {
         "id": "tY05ZG2NGT",
         "title": "Чума",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 58
-        }
-    },
-    "VGl_RQC2IZ": {
-        "id": "VGl_RQC2IZ",
-        "title": "Первый удар",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:16:07",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 57
         }
     }
 }
