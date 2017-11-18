@@ -1,4 +1,16 @@
 {
+    "PbBZJ1JRMr": {
+        "id": "PbBZJ1JRMr",
+        "title": "Джейн Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2017-11-18 19:38:33",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 5
+        }
+    },
     "uwHGNS0gLn": {
         "id": "uwHGNS0gLn",
         "title": "Прощай, оружие",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 49
-        }
-    },
-    "O8Tleh7rO5": {
-        "id": "O8Tleh7rO5",
-        "title": "Пустая шкатулка и нулевая Мария 6",
-        "author": "Эйдзи Микагэ",
-        "notes": "",
-        "createdAt": "2017-11-17 23:07:25",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 48
         }
     }
 }
