@@ -1,4 +1,16 @@
 {
+    "tY05ZG2NGT": {
+        "id": "tY05ZG2NGT",
+        "title": "Чума",
+        "author": "А. Камю",
+        "notes": "",
+        "createdAt": "2017-11-18 19:44:38",
+        "user": {
+            "id": "2004720323142248-facebook",
+            "nickname": "whatever",
+            "booksCount": 13
+        }
+    },
     "Iujth4mqwv": {
         "id": "Iujth4mqwv",
         "title": "Посторонний",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 57
-        }
-    },
-    "ONITHkFb9v": {
-        "id": "ONITHkFb9v",
-        "title": "Проба сил",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:15:56",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 56
         }
     }
 }
