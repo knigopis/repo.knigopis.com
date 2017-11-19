@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
+    > Книга 5
+
 * Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
     > Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/34802279/
 
 * Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
-    > Очень добротное и интересное фентези. Обязательно прочту продолжение
 
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
 
-* Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>129</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>74</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>108</sup> 
 
 
-_18.11.2017 23:26:54_
+_19.11.2017 10:10:49_

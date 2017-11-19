@@ -1,4 +1,16 @@
 {
+    "63ziMWBqRi": {
+        "id": "63ziMWBqRi",
+        "title": "Артемис Фаул. Затерянный мир",
+        "author": "Йон Колфер",
+        "notes": "Книга 5",
+        "createdAt": "2017-11-19 10:10:49",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 129
+        }
+    },
     "720rRAa8Eq": {
         "id": "720rRAa8Eq",
         "title": "Известие о похищении",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 61
-        }
-    },
-    "-wtnAqspVs": {
-        "id": "-wtnAqspVs",
-        "title": "Право сильнейшего",
-        "author": "Александра Лисина",
-        "notes": "",
-        "createdAt": "2017-11-17 23:16:44",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 60
         }
     }
 }

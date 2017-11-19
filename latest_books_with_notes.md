@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
 * Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 * Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
 * Неуловимый Хабба Хен ~ [sad little panda](users/188/1882525281990290-facebook)<sup>36</sup>
 * Двойняшки ~ [Saamy](users/115/115226508-vkontakte)<sup>26</sup>
-* В ожидании варваров ~ [Saamy](users/115/115226508-vkontakte)<sup>25</sup>
 
 
-_17.11.2017 08:10:55_
+_19.11.2017 10:10:49_
