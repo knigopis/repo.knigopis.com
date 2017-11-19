@@ -1,4 +1,16 @@
 {
+    "oE4GcdwyLx": {
+        "id": "oE4GcdwyLx",
+        "title": "Артемис Фаул. Парадокс времени",
+        "author": "Йон Колфер",
+        "notes": "Книга 6",
+        "createdAt": "2017-11-19 10:11:19",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 130
+        }
+    },
     "63ziMWBqRi": {
         "id": "63ziMWBqRi",
         "title": "Артемис Фаул. Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "1882525281990290-facebook",
             "nickname": "sad little panda",
             "booksCount": 36
-        }
-    },
-    "j2FqvKchqR": {
-        "id": "j2FqvKchqR",
-        "title": "Двойняшки",
-        "author": "Жаклин Уилсон",
-        "notes": "очень милая, легкая, подростковая книга про двух девочек-близняшек. После \"В ожидании варваров\" читается простовато, но это не её минус",
-        "createdAt": "2017-11-02 21:05:21",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 26
         }
     }
 }

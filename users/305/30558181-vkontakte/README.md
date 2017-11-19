@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>129</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>130</sup>
 ---
 
 ## 2017
+
+### Артемис Фаул. Парадокс времени
+Йон Колфер
+> Книга 6
+
 
 ### Артемис Фаул. Затерянный мир
 Йон Колфер

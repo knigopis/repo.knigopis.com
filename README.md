@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
+    > Книга 6
+
 * Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
     > Книга 5
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности
 
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/34802279/
 
 * Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 
-* Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>129</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>74</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 
 
-_19.11.2017 10:10:49_
+_19.11.2017 10:11:19_
