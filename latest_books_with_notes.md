@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 * Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
@@ -30,7 +31,6 @@
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
-* Вдали от обезумевшей толпы ~ [kempinsky](users/171/1717865441574584-facebook)<sup>4</sup>
 
 
-_20.11.2017 07:33:35_
+_20.11.2017 07:35:32_
