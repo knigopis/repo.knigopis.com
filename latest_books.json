@@ -1,4 +1,16 @@
 {
+    "2TYOFeaOkE": {
+        "id": "2TYOFeaOkE",
+        "title": "Как работать 4 часа в неделю",
+        "author": "Тимоти Феррис",
+        "notes": "",
+        "createdAt": "2017-11-20 18:34:30",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 10
+        }
+    },
     "plNjzzOiuz": {
         "id": "plNjzzOiuz",
         "title": "Лолита",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 74
-        }
-    },
-    "oqIs50cUHc": {
-        "id": "oqIs50cUHc",
-        "title": "Астровитянка 2: Теория катастрофы",
-        "author": "Ник Горькаватый",
-        "notes": "",
-        "createdAt": "2017-11-18 00:10:14",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 73
         }
     }
 }
