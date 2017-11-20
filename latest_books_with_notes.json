@@ -1,4 +1,16 @@
 {
+    "OM_RxVIHB5": {
+        "id": "OM_RxVIHB5",
+        "title": "Квест",
+        "author": "Акунин",
+        "notes": "Очень нравится мне Акунин своим стилем написания - ничего лишнего, но очень увлекательно. серия про Фандорина потрясающая, Квест же про его прапрадеда (или чуть ближе по родству). Читать очень интересно, выбор правильного ответа и подсказки захватили все внимание. сам сюжет тоже интересен и не лишен смысла.",
+        "createdAt": "2017-11-20 05:50:23",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 15
+        }
+    },
     "dgJisyBGun": {
         "id": "dgJisyBGun",
         "title": "Древний. Предыстория. книга вторая",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 50
-        }
-    },
-    "4HSCRqS2DQ": {
-        "id": "4HSCRqS2DQ",
-        "title": "Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism",
-        "author": "Kevin MacDonald",
-        "notes": "Kindle\nASIN: B00HPBZZCA",
-        "createdAt": "2017-11-06 20:10:55",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 49
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
 * Древний. Предыстория. книга вторая ~ [En](users/333/333646551-vkontakte)<sup>14</sup>
 * Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
 * Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
@@ -30,7 +31,6 @@
 * Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
 * Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
 * Что скрывает кожа. 2 квадратных метра, которые диктуют, как нам жить ~ [exulted](users/100/100599204551896265722-google)<sup>50</sup>
-* Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism ~ [exulted](users/100/100599204551896265722-google)<sup>49</sup>
 
 
-_20.11.2017 05:46:10_
+_20.11.2017 05:50:23_
