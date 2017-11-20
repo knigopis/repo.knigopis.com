@@ -1,4 +1,16 @@
 {
+    "_dlOTAYW5g": {
+        "id": "_dlOTAYW5g",
+        "title": "Магическая уборка",
+        "author": "Мари Кондо",
+        "notes": "",
+        "createdAt": "2017-11-20 18:35:52",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 11
+        }
+    },
     "2TYOFeaOkE": {
         "id": "2TYOFeaOkE",
         "title": "Как работать 4 часа в неделю",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 3
-        }
-    },
-    "fQ5muC2a3u": {
-        "id": "fQ5muC2a3u",
-        "title": "Астровитянка 3: Возвращение астровитянки",
-        "author": "Ник Горькаватый",
-        "notes": "",
-        "createdAt": "2017-11-18 00:10:46",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 74
         }
     }
 }

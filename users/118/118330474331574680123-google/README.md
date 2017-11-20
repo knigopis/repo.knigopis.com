@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>10</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>11</sup>
 ---
 
 ## 2017
+
+### Магическая уборка
+Мари Кондо
+> [2017-08] 
+
 
 ### Как работать 4 часа в неделю
 Тимоти Феррис
