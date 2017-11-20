@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Предыстория. книга вторая ~ [En](users/333/333646551-vkontakte)<sup>14</sup>
+    > Куча космических боев (война все же), но вторую книгу про них поднадоело читать. Спойлер! Главную героиню в конце убили, любовная линия закончилась. о чем еще 2 книги? о мести? возможно, но хотелось бы развития сюжета и вне линии войны.
+
 * Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
     > Книга 6
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 5
 
 * Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
-    > Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности
 
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
 
-* Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>14</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
-[ NishaEgira](users/108/108992595335741881539-google)<sup>0</sup> 
 
 
-_19.11.2017 10:11:19_
+_20.11.2017 05:46:10_
