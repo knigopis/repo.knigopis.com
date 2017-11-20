@@ -1,4 +1,16 @@
 {
+    "iySf7Fvjys": {
+        "id": "iySf7Fvjys",
+        "title": "Сорокин Владимир",
+        "author": "Норма",
+        "notes": "Не очень понятно, не очень приятно читать. если это метафорично, то в видимо не доросла еще до такого.",
+        "createdAt": "2017-11-20 07:28:28",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 17
+        }
+    },
     "8EP-c3gULH": {
         "id": "8EP-c3gULH",
         "title": "Дремлющий демон Декстера",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 66
-        }
-    },
-    "OZmKQXWYKS": {
-        "id": "OZmKQXWYKS",
-        "title": "Средневековая история 2: Интриги королевского двора",
-        "author": "Галина Гончарова",
-        "notes": "",
-        "createdAt": "2017-11-17 23:29:03",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 65
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
 * Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
 * Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
 * Древний. Предыстория. книга вторая ~ [En](users/333/333646551-vkontakte)<sup>14</sup>
@@ -30,7 +31,6 @@
 * Унесенные ветром ~ [kempinsky](users/171/1717865441574584-facebook)<sup>3</sup>
 * Ворона на мосту ~ [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup>
 * Кролики и удавы ~ [Saamy](users/115/115226508-vkontakte)<sup>27</sup>
-* Чудесный нож (Темные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>156</sup>
 
 
-_20.11.2017 07:26:59_
+_20.11.2017 07:28:28_
