@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
 * Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
 * Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
@@ -30,7 +31,6 @@
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 * Вдали от обезумевшей толпы ~ [kempinsky](users/171/1717865441574584-facebook)<sup>4</sup>
 * Унесенные ветром ~ [kempinsky](users/171/1717865441574584-facebook)<sup>3</sup>
-* Ворона на мосту ~ [sad little panda](users/188/1882525281990290-facebook)<sup>37</sup>
 
 
-_20.11.2017 07:29:35_
+_20.11.2017 07:31:22_

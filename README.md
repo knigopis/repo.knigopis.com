@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
+    > Фандорин не может быть плохим... лично для меня по крайней мере. с удовольствие окунулась в новые приключения Эраста Петровича. Книга состоит из 3 разных рассказов из разных временных эпох жизни Фандоринаю
+
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
     > Небольшие рассказы о военной медицине, все нетипичные, очень интересно читать было.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Не очень понятно, не очень приятно читать. если это метафорично, то в видимо не доросла еще до такого.
 
 * Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
-    > В принципе сериал не далеко ушел от книги, но внутреннее переживание и "демон" описаны конечно ярче, чем нам дают в сериале.
 
 * Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 
-* Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>18</sup> 
+[En](users/333/333646551-vkontakte)<sup>19</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 
 
-_20.11.2017 07:29:35_
+_20.11.2017 07:31:22_
