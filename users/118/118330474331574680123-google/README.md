@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>12</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>13</sup>
 ---
 
 ## 2017
+
+### Турецкий гамбит
+Борис Акунин
+> [2017-11] 
+
 
 ### Азазель
 Борис Акунин

@@ -1,4 +1,16 @@
 {
+    "J9BjslI8tr": {
+        "id": "J9BjslI8tr",
+        "title": "Турецкий гамбит",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-11-20 18:36:47",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 13
+        }
+    },
     "q6N5khzDJ1": {
         "id": "q6N5khzDJ1",
         "title": "Азазель",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 5
-        }
-    },
-    "uwHGNS0gLn": {
-        "id": "uwHGNS0gLn",
-        "title": "Прощай, оружие",
-        "author": "Э. Хемингуэй",
-        "notes": "",
-        "createdAt": "2017-11-18 19:37:03",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 4
         }
     }
 }
