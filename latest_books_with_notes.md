@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
 * Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
@@ -30,7 +31,6 @@
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
 * Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 * Вдали от обезумевшей толпы ~ [kempinsky](users/171/1717865441574584-facebook)<sup>4</sup>
-* Унесенные ветром ~ [kempinsky](users/171/1717865441574584-facebook)<sup>3</sup>
 
 
-_20.11.2017 07:31:22_
+_20.11.2017 07:33:35_
