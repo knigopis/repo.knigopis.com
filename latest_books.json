@@ -1,4 +1,16 @@
 {
+    "plNjzzOiuz": {
+        "id": "plNjzzOiuz",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2017-11-20 18:33:52",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 9
+        }
+    },
     "whbcFd6lrs": {
         "id": "whbcFd6lrs",
         "title": "Ведьмак 2: Меч Предназначения",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 73
-        }
-    },
-    "ApFdFev-T4": {
-        "id": "ApFdFev-T4",
-        "title": "Астровитянка 1: Астровитянка",
-        "author": "Ник Горькаватый",
-        "notes": "",
-        "createdAt": "2017-11-18 00:09:33",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 72
         }
     }
 }

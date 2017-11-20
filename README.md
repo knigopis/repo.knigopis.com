@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[beiner](users/118/118330474331574680123-google)<sup>9</sup> 
 [alexandrabeiner](users/118/118330474331574680123-googleplus)<sup>0</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>76</sup> 
 [En](users/333/333646551-vkontakte)<sup>21</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [D216](users/110/11085831351574546361-mailru)<sup>0</sup> 
 [conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
-[idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 
 
-_20.11.2017 18:31:01_
+_20.11.2017 18:33:52_

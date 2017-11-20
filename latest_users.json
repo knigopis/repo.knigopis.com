@@ -1,4 +1,10 @@
 {
+    "118330474331574680123-google": {
+        "id": "118330474331574680123-google",
+        "nickname": "beiner",
+        "booksCount": 9,
+        "updatedAt": "2017-11-20 18:33:52"
+    },
     "118330474331574680123-googleplus": {
         "id": "118330474331574680123-googleplus",
         "nickname": "alexandrabeiner",
@@ -172,11 +178,5 @@
         "nickname": "Nelly Hallward",
         "booksCount": 19,
         "updatedAt": "2017-11-11 20:30:20"
-    },
-    "139578422-vkontakte": {
-        "id": "139578422-vkontakte",
-        "nickname": "idhlebushek",
-        "booksCount": 2,
-        "updatedAt": "2017-11-10 14:22:38"
     }
 }
