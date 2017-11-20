@@ -1,4 +1,10 @@
 {
+    "193175070-vkontakte": {
+        "id": "193175070-vkontakte",
+        "nickname": "Evgen1901",
+        "booksCount": 75,
+        "updatedAt": "2017-11-20 17:20:18"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -28,12 +34,6 @@
         "nickname": "whatever",
         "booksCount": 15,
         "updatedAt": "2017-11-18 19:46:42"
-    },
-    "193175070-vkontakte": {
-        "id": "193175070-vkontakte",
-        "nickname": "Evgen1901",
-        "booksCount": 74,
-        "updatedAt": "2017-11-18 00:10:46"
     },
     "114308295344486413021-google": {
         "id": "114308295344486413021-google",
