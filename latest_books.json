@@ -1,4 +1,16 @@
 {
+    "BKpX6F6xGU": {
+        "id": "BKpX6F6xGU",
+        "title": "Левиафан",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2017-11-20 18:37:08",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 14
+        }
+    },
     "J9BjslI8tr": {
         "id": "J9BjslI8tr",
         "title": "Турецкий гамбит",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 6
-        }
-    },
-    "PbBZJ1JRMr": {
-        "id": "PbBZJ1JRMr",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2017-11-18 19:38:33",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 5
         }
     }
 }
