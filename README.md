@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>12</sup> 
 [En](users/333/333646551-vkontakte)<sup>15</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nelly Hallward](users/657/6574866389626462879-mailru)<sup>19</sup> 
 [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>41</sup> 
 
 
-_20.11.2017 05:50:23_
+_20.11.2017 06:09:53_
