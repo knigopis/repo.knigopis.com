@@ -1,4 +1,16 @@
 {
+    "8EP-c3gULH": {
+        "id": "8EP-c3gULH",
+        "title": "Дремлющий демон Декстера",
+        "author": "Линдсей",
+        "notes": "В принципе сериал не далеко ушел от книги, но внутреннее переживание и \"демон\" описаны конечно ярче, чем нам дают в сериале.",
+        "createdAt": "2017-11-20 07:26:58",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 16
+        }
+    },
     "fH6AR1pzm3": {
         "id": "fH6AR1pzm3",
         "title": "Дом в котором...",
@@ -345,18 +357,6 @@
             "id": "193175070-vkontakte",
             "nickname": "Evgen1901",
             "booksCount": 65
-        }
-    },
-    "PFm4LhwbcH": {
-        "id": "PFm4LhwbcH",
-        "title": "Средневековая история 2: Домашняя работа",
-        "author": "Галина Гончарова",
-        "notes": "",
-        "createdAt": "2017-11-17 23:28:41",
-        "user": {
-            "id": "193175070-vkontakte",
-            "nickname": "Evgen1901",
-            "booksCount": 64
         }
     }
 }

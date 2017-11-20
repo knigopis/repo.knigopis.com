@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
+    > В принципе сериал не далеко ушел от книги, но внутреннее переживание и "демон" описаны конечно ярче, чем нам дают в сериале.
+
 * Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
     > Очень нравится мне Акунин своим стилем написания - ничего лишнего, но очень увлекательно. серия про Фандорина потрясающая, Квест же про его прапрадеда (или чуть ближе по родству). Читать очень интересно, выбор правильного ответа и подсказки захватили все внимание. сам сюжет тоже интересен и не лишен смысла.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Куча космических боев (война все же), но вторую книгу про них поднадоело читать. Спойлер! Главную героиню в конце убили, любовная линия закончилась. о чем еще 2 книги? о мести? возможно, но хотелось бы развития сюжета и вне линии войны.
 
 * Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
-    > Книга 6
 
 * Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 
-* Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>16</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>12</sup> 
-[En](users/333/333646551-vkontakte)<sup>15</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup> 
 
 
-_20.11.2017 06:09:53_
+_20.11.2017 07:26:59_
