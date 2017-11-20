@@ -1,4 +1,10 @@
 {
+    "110747872-vkontakte": {
+        "id": "110747872-vkontakte",
+        "nickname": "thediman2",
+        "booksCount": 0,
+        "updatedAt": "2017-11-20 18:58:33"
+    },
     "118330474331574680123-google": {
         "id": "118330474331574680123-google",
         "nickname": "beiner",
@@ -172,11 +178,5 @@
         "nickname": "conclusion",
         "booksCount": 0,
         "updatedAt": "2017-11-12 05:45:26"
-    },
-    "6574866389626462879-mailru": {
-        "id": "6574866389626462879-mailru",
-        "nickname": "Nelly Hallward",
-        "booksCount": 19,
-        "updatedAt": "2017-11-11 20:30:20"
     }
 }
