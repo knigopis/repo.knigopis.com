@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rocket98](users/116/116711663180785343859-google)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
 [Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
-[mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 
 
-_21.11.2017 10:10:40_
+_21.11.2017 14:37:15_
