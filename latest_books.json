@@ -1,4 +1,16 @@
 {
+    "rGLgge1ijc": {
+        "id": "rGLgge1ijc",
+        "title": "Аутодафе",
+        "author": "Алексей пехов",
+        "notes": "",
+        "createdAt": "2017-11-21 14:49:07",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 277
+        }
+    },
     "JU0xMaSuOp": {
         "id": "JU0xMaSuOp",
         "title": "Прощай, оружие!",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 10
-        }
-    },
-    "3YcWh5u8jH": {
-        "id": "3YcWh5u8jH",
-        "title": "Рудин",
-        "author": "И. Тургенев",
-        "notes": "",
-        "createdAt": "2017-11-18 19:41:33",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 9
         }
     }
 }

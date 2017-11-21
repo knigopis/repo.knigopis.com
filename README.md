@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>277</sup> 
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>139</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>36</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>276</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
 
 
-_21.11.2017 14:38:20_
+_21.11.2017 14:49:07_
