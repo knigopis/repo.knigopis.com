@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/344/344463129-vkontakte)<sup>0</sup> 
+[healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 [thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 
 
-_21.11.2017 08:06:03_
+_21.11.2017 08:06:19_
