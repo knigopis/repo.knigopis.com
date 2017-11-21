@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rocket98](users/116/116711663180785343859-google)<sup>0</sup> 
+[Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
 
 
-_21.11.2017 14:37:15_
+_21.11.2017 14:38:20_

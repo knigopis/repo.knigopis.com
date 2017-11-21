@@ -1,4 +1,16 @@
 {
+    "JU0xMaSuOp": {
+        "id": "JU0xMaSuOp",
+        "title": "Прощай, оружие!",
+        "author": "Э. Хемингуэй",
+        "notes": "",
+        "createdAt": "2017-11-21 14:38:20",
+        "user": {
+            "id": "116711663180785343859-google",
+            "nickname": "Rocket98",
+            "booksCount": 1
+        }
+    },
     "E40ZEKZ5Y4": {
         "id": "E40ZEKZ5Y4",
         "title": "Те кто уходят, и те кто остается",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 9
-        }
-    },
-    "w0UFQbzF4i": {
-        "id": "w0UFQbzF4i",
-        "title": "Накануне",
-        "author": "И. Тургенев",
-        "notes": "",
-        "createdAt": "2017-11-18 19:41:12",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 8
         }
     }
 }
