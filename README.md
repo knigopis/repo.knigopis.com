@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 
 
-_21.11.2017 08:06:19_
+_21.11.2017 08:06:22_
