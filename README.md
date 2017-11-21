@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 [thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandrabeiner](users/118/118330474331574680123-googleplus)<sup>0</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>76</sup> 
 [En](users/333/333646551-vkontakte)<sup>21</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 
 
-_21.11.2017 08:06:22_
+_21.11.2017 10:10:40_

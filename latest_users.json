@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 13,
+        "updatedAt": "2017-11-21 10:10:40"
+    },
     "344463129-vkontakte": {
         "id": "344463129-vkontakte",
         "nickname": "healer",
@@ -40,12 +46,6 @@
         "nickname": "En",
         "booksCount": 21,
         "updatedAt": "2017-11-20 07:35:32"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 12,
-        "updatedAt": "2017-11-20 06:09:53"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
