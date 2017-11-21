@@ -1,4 +1,16 @@
 {
+    "ke7iIpTdnz": {
+        "id": "ke7iIpTdnz",
+        "title": "Программируем на Python",
+        "author": "Майкл Доусон",
+        "notes": "",
+        "createdAt": "2017-11-21 19:39:45",
+        "user": {
+            "id": "104708525191282411034-google",
+            "nickname": "Artem",
+            "booksCount": 1
+        }
+    },
     "rGLgge1ijc": {
         "id": "rGLgge1ijc",
         "title": "Аутодафе",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 11
-        }
-    },
-    "MRqeLA4C1V": {
-        "id": "MRqeLA4C1V",
-        "title": "Strange Case of Dr Jekyll and Mr Hyde",
-        "author": "Robert Louis Stevenson",
-        "notes": "",
-        "createdAt": "2017-11-18 19:42:42",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 10
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Artem](users/104/104708525191282411034-google)<sup>0</sup> 
+[Artem](users/104/104708525191282411034-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>277</sup> 
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
 
 
-_21.11.2017 19:39:00_
+_21.11.2017 19:39:45_
