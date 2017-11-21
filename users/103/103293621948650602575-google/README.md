@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>109</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>110</sup>
 ---
 
 ## 2017
+
+### Жизнь Пи
+Янн Мартел
+> [2017-11-21] 
+
 
 ### Грозовой Перевал
 Эмили Бронте

@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 110,
+        "updatedAt": "2017-11-21 07:14:27"
+    },
     "110747872-vkontakte": {
         "id": "110747872-vkontakte",
         "nickname": "thediman2",
@@ -172,11 +178,5 @@
         "nickname": "D216",
         "booksCount": 0,
         "updatedAt": "2017-11-12 12:40:02"
-    },
-    "367948211-vkontakte": {
-        "id": "367948211-vkontakte",
-        "nickname": "conclusion",
-        "booksCount": 0,
-        "updatedAt": "2017-11-12 05:45:26"
     }
 }

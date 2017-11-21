@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 [thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>14</sup> 
 [alexandrabeiner](users/118/118330474331574680123-googleplus)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Zagadka](users/605/60565515-yandex)<sup>1</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>1</sup> 
 [D216](users/110/11085831351574546361-mailru)<sup>0</sup> 
-[conclusion](users/367/367948211-vkontakte)<sup>0</sup> 
 
 
-_20.11.2017 18:58:35_
+_21.11.2017 07:14:27_
