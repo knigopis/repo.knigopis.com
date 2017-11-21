@@ -1,4 +1,10 @@
 {
+    "116711663180785343859-google": {
+        "id": "116711663180785343859-google",
+        "nickname": "Rocket98",
+        "booksCount": 0,
+        "updatedAt": "2017-11-21 14:37:12"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "Zagadka",
         "booksCount": 1,
         "updatedAt": "2017-11-12 18:08:40"
-    },
-    "191788437-vkontakte": {
-        "id": "191788437-vkontakte",
-        "nickname": "mbericheva",
-        "booksCount": 1,
-        "updatedAt": "2017-11-12 15:47:20"
     }
 }
