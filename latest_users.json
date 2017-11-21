@@ -1,4 +1,10 @@
 {
+    "344463129-vkontakte": {
+        "id": "344463129-vkontakte",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2017-11-21 08:06:00"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "mbericheva",
         "booksCount": 1,
         "updatedAt": "2017-11-12 15:47:20"
-    },
-    "11085831351574546361-mailru": {
-        "id": "11085831351574546361-mailru",
-        "nickname": "D216",
-        "booksCount": 0,
-        "updatedAt": "2017-11-12 12:40:02"
     }
 }
