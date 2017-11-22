@@ -1,4 +1,16 @@
 {
+    "SMUD_g6QTj": {
+        "id": "SMUD_g6QTj",
+        "title": "Беглый огонь",
+        "author": "Александр Зорич",
+        "notes": "",
+        "createdAt": "2017-11-22 09:32:56",
+        "user": {
+            "id": "194352149-vkontakte",
+            "nickname": "S.T.A.L.K.E.R.",
+            "booksCount": 1
+        }
+    },
     "iml4DWk6wt": {
         "id": "iml4DWk6wt",
         "title": "Страна рождества",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 14
-        }
-    },
-    "tY05ZG2NGT": {
-        "id": "tY05ZG2NGT",
-        "title": "Чума",
-        "author": "А. Камю",
-        "notes": "",
-        "createdAt": "2017-11-18 19:44:38",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 13
         }
     }
 }
