@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 22,
+        "updatedAt": "2017-11-22 04:47:13"
+    },
     "104708525191282411034-google": {
         "id": "104708525191282411034-google",
         "nickname": "Artem",
@@ -58,12 +64,6 @@
         "nickname": "Evgen1901",
         "booksCount": 76,
         "updatedAt": "2017-11-20 18:05:16"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 21,
-        "updatedAt": "2017-11-20 07:35:32"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 * Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
@@ -30,7 +31,6 @@
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
 * Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 * Вино из одуванчиков ~ [kempinsky](users/171/1717865441574584-facebook)<sup>10</sup>
-* Тэсс из рода д'Эрбервиллей ~ [kempinsky](users/171/1717865441574584-facebook)<sup>5</sup>
 
 
-_20.11.2017 07:35:32_
+_22.11.2017 04:47:13_
