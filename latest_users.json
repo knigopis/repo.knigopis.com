@@ -1,4 +1,10 @@
 {
+    "194352149-vkontakte": {
+        "id": "194352149-vkontakte",
+        "nickname": "S.T.S.L.K.E.R.",
+        "booksCount": 0,
+        "updatedAt": "2017-11-22 09:22:17"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "captvsetlennaya",
         "booksCount": 0,
         "updatedAt": "2017-11-12 22:41:37"
-    },
-    "1657981220933483-facebook": {
-        "id": "1657981220933483-facebook",
-        "nickname": "Gg",
-        "booksCount": 0,
-        "updatedAt": "2017-11-12 20:52:54"
     }
 }
