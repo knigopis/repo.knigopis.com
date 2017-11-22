@@ -1,4 +1,16 @@
 {
+    "iml4DWk6wt": {
+        "id": "iml4DWk6wt",
+        "title": "Страна рождества",
+        "author": "Джо Хилл",
+        "notes": "ожидала от сына Кинга большего. книга повествует о неком старике, который убивает детей и они живут в его сознании в стране рождества. немного жутко, но не слишком интересно.",
+        "createdAt": "2017-11-22 04:49:29",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 23
+        }
+    },
     "qEgnbASkc3": {
         "id": "qEgnbASkc3",
         "title": "Вверх по лестнице, ведущей вниз",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 13
-        }
-    },
-    "Iujth4mqwv": {
-        "id": "Iujth4mqwv",
-        "title": "Посторонний",
-        "author": "А. Камю",
-        "notes": "",
-        "createdAt": "2017-11-18 19:44:22",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 12
         }
     }
 }
