@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[S.T.S.L.K.E.R.](users/194/194352149-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>23</sup> 
 [Artem](users/104/104708525191282411034-google)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>277</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
 [poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
 [captvsetlennaya](users/846/84674845-vkontakte)<sup>0</sup> 
-[Gg](users/165/1657981220933483-facebook)<sup>0</sup> 
 
 
-_22.11.2017 04:49:29_
+_22.11.2017 09:22:19_
