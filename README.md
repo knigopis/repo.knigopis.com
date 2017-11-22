@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>23</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup> 
-[poirot221](users/280/280497922-vkontakte)<sup>0</sup> 
 
 
-_22.11.2017 16:14:49_
+_22.11.2017 16:37:29_
