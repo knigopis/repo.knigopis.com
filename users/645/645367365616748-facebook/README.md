@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>34</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>35</sup>
 ---
 
 ## 2017
+
+### Урок третий. Тайны бывают смертельными
+Елена Звёздная
+> [2017-10-23] 
+
 
 ### Жена война, или Любовь на выживание
 Елена Звёздная
