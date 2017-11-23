@@ -1,4 +1,10 @@
 {
+    "645367365616748-facebook": {
+        "id": "645367365616748-facebook",
+        "nickname": "Яоки",
+        "booksCount": 0,
+        "updatedAt": "2017-11-23 17:38:50"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "Dmitry",
         "booksCount": 0,
         "updatedAt": "2017-11-14 06:30:49"
-    },
-    "61426267-vkontakte": {
-        "id": "61426267-vkontakte",
-        "nickname": "Borovik",
-        "booksCount": 0,
-        "updatedAt": "2017-11-14 01:56:33"
     }
 }
