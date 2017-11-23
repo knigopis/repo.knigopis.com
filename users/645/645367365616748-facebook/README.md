@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>30</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>31</sup>
 ---
 
 ## 2017
+
+### Урок второй. Не ввязывайся в сомнительные расследования
+Елена Звёздная
+> [2017-10-10] 
+
 
 ### Урок первый. Не проклинай своего директора
 Елена Звёздная
