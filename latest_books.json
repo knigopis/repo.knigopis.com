@@ -1,4 +1,16 @@
 {
+    "V9x56upeJd": {
+        "id": "V9x56upeJd",
+        "title": "Бездомный Бог (3том)",
+        "author": "Адотитока",
+        "notes": "",
+        "createdAt": "2017-11-23 18:07:40",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 14
+        }
+    },
     "hS23WDbfWG": {
         "id": "hS23WDbfWG",
         "title": "Бездомный Бог (2том)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 51
-        }
-    },
-    "Xpf9coNlmT": {
-        "id": "Xpf9coNlmT",
-        "title": "Ночное кино",
-        "author": "Мариша Пессл",
-        "notes": "",
-        "createdAt": "2017-11-23 10:21:51",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 50
         }
     }
 }
