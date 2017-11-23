@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>16</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>17</sup>
 ---
 
 ## 2017
+
+### Волшебная луна (2книга)
+Алиса Ноэль
+> [2017-05] 
+
 
 ### Бездомный Бог (5том)
 Адотитока
