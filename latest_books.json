@@ -1,4 +1,16 @@
 {
+    "j0fzSoyvSI": {
+        "id": "j0fzSoyvSI",
+        "title": "Духи школы",
+        "author": "Рейчел Хокинс",
+        "notes": "",
+        "createdAt": "2017-11-23 17:41:36",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 3
+        }
+    },
     "FCnoeKLEFY": {
         "id": "FCnoeKLEFY",
         "title": "Связанная заклятием",
@@ -345,18 +357,6 @@
             "id": "116711663180785343859-google",
             "nickname": "Rocket98",
             "booksCount": 1
-        }
-    },
-    "E40ZEKZ5Y4": {
-        "id": "E40ZEKZ5Y4",
-        "title": "Те кто уходят, и те кто остается",
-        "author": "Элена Феранте",
-        "notes": "",
-        "createdAt": "2017-11-21 10:10:40",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 13
         }
     }
 }
