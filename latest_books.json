@@ -1,4 +1,16 @@
 {
+    "m1Odd_TbiE": {
+        "id": "m1Odd_TbiE",
+        "title": "Улица темных лавок",
+        "author": "Патрик Модиано",
+        "notes": "не понравилась вообще...",
+        "createdAt": "2017-11-23 18:37:09",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 46
+        }
+    },
     "glQ1VhuAYP": {
         "id": "glQ1VhuAYP",
         "title": "Агрессор",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 17
-        }
-    },
-    "vaXxjqjPMo": {
-        "id": "vaXxjqjPMo",
-        "title": "Бездомный Бог (5том)",
-        "author": "Адотитока",
-        "notes": "",
-        "createdAt": "2017-11-23 18:08:44",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 16
         }
     }
 }
