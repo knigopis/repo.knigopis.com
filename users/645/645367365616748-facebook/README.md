@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>27</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>28</sup>
 ---
 
 ## 2017
+
+### Уши не трогать
+Анна Гаврилова
+> [2017-10-05] конец не особо понравился, но по уши влюбилась в Эльфийского бога)
+
 
 ### Мой личный враг
 Елена Звёздная
