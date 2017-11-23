@@ -1,4 +1,16 @@
 {
+    "itFRz9nsnR": {
+        "id": "itFRz9nsnR",
+        "title": "Доводы рассудка",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-11-23 10:19:20",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 46
+        }
+    },
     "mokHs0062V": {
         "id": "mokHs0062V",
         "title": "Краденый город",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 602
-        }
-    },
-    "9dzsRKRWbo": {
-        "id": "9dzsRKRWbo",
-        "title": "Иностранка",
-        "author": "С. Довлатов",
-        "notes": "",
-        "createdAt": "2017-11-18 19:46:42",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 15
         }
     }
 }
