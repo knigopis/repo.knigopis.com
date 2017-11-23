@@ -1,4 +1,16 @@
 {
+    "DaCp5NGSW3": {
+        "id": "DaCp5NGSW3",
+        "title": "Лунные хроники. Красная шапочка",
+        "author": "Мариса Мейер",
+        "notes": "",
+        "createdAt": "2017-11-23 18:02:28",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 9
+        }
+    },
     "aO38NpqJfZ": {
         "id": "aO38NpqJfZ",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 46
-        }
-    },
-    "mokHs0062V": {
-        "id": "mokHs0062V",
-        "title": "Краденый город",
-        "author": "Юлия Яковлева",
-        "notes": "",
-        "createdAt": "2017-11-23 10:18:43",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 45
         }
     }
 }

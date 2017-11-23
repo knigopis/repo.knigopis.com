@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>8</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>9</sup>
 ---
 
 ## 2016
+
+### Лунные хроники. Красная шапочка
+Мариса Мейер
+> [2016-10-23] 
+
 
 ### Белая Тетрадь
 Софья Ролдугина
