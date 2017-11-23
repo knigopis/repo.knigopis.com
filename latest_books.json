@@ -1,4 +1,16 @@
 {
+    "HGwOdul1IF": {
+        "id": "HGwOdul1IF",
+        "title": "Я вещаю из гробницы",
+        "author": "Алан Брэдли",
+        "notes": "(Флавия де Люс 5)",
+        "createdAt": "2017-11-23 10:43:17",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 62
+        }
+    },
     "qyvSWpqkZg": {
         "id": "qyvSWpqkZg",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 11
-        }
-    },
-    "2TYOFeaOkE": {
-        "id": "2TYOFeaOkE",
-        "title": "Как работать 4 часа в неделю",
-        "author": "Тимоти Феррис",
-        "notes": "",
-        "createdAt": "2017-11-20 18:34:30",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 10
         }
     }
 }

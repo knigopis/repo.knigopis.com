@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
 * Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
 * Лис Улисс и клад саблезубых ~ [Sky](users/118/118049897850017649660-google)<sup>58</sup>
 * Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
 * Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
 * Мертвые души ~ [kempinsky](users/171/1717865441574584-facebook)<sup>37</sup>
-* Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
 
 
-_23.11.2017 10:36:15_
+_23.11.2017 10:43:17_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
+    > (Флавия де Люс 5)
+
 * Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
     > Захотелось перечитать =D
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная сатира на общество, юмор на высоте, интересные герои - жаль, что последующие книги значительно слабее.
 
 * Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
-    > Лис Улисс 2
 
 * Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 
-* Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>61</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>62</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:36:15_
+_23.11.2017 10:43:17_
