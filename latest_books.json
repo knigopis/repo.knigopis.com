@@ -1,4 +1,16 @@
 {
+    "vaXxjqjPMo": {
+        "id": "vaXxjqjPMo",
+        "title": "Бездомный Бог (5том)",
+        "author": "Адотитока",
+        "notes": "",
+        "createdAt": "2017-11-23 18:08:44",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 16
+        }
+    },
     "o4bRLtu41g": {
         "id": "o4bRLtu41g",
         "title": "Бездомный Бог (4том)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 53
-        }
-    },
-    "4_7F4crYYi": {
-        "id": "4_7F4crYYi",
-        "title": "Шоколад",
-        "author": "Джоанн Харрис",
-        "notes": "",
-        "createdAt": "2017-11-23 10:22:40",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 52
         }
     }
 }
