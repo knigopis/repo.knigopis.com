@@ -1,4 +1,4 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>41</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>42</sup>
 ---
 
 ## 2017
@@ -203,6 +203,10 @@
 ### Ночной мир. Черный рассвет
 Лиза Джейн Смит
 > [2015-12-04] 
+
+
+### Ночной мир. Предначертание
+Лиза Джейн Смит
 
 
 ### Ночной мир. Тайный Вампир

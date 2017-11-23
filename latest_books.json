@@ -1,4 +1,16 @@
 {
+    "heAVGRn2or": {
+        "id": "heAVGRn2or",
+        "title": "Ночной мир. Предначертание",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2017-11-23 18:31:44",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 42
+        }
+    },
     "xELHgXgx7i": {
         "id": "xELHgXgx7i",
         "title": "Ночной мир. Тайный Вампир",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 13
-        }
-    },
-    "5GuJBkhUhQ": {
-        "id": "5GuJBkhUhQ",
-        "title": "Бездомный Бог (1том)",
-        "author": "Адотитока",
-        "notes": "",
-        "createdAt": "2017-11-23 18:05:32",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 12
         }
     }
 }
