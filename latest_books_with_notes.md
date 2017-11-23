@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
@@ -30,7 +31,6 @@
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
 * Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
 * 33 несчастья ~ [kempinsky](users/171/1717865441574584-facebook)<sup>12</sup>
-* Марсианин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>11</sup>
 
 
-_22.11.2017 04:49:29_
+_23.11.2017 10:24:26_
