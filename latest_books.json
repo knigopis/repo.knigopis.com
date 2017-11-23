@@ -1,4 +1,16 @@
 {
+    "rTI9vYgADZ": {
+        "id": "rTI9vYgADZ",
+        "title": "Испорченный",
+        "author": "Пенелопа Дуглас",
+        "notes": "",
+        "createdAt": "2017-11-23 18:35:01",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 44
+        }
+    },
     "ncoiEevr1b": {
         "id": "ncoiEevr1b",
         "title": "Ночной мир. Охотница",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 15
-        }
-    },
-    "V9x56upeJd": {
-        "id": "V9x56upeJd",
-        "title": "Бездомный Бог (3том)",
-        "author": "Адотитока",
-        "notes": "",
-        "createdAt": "2017-11-23 18:07:40",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 14
         }
     }
 }
