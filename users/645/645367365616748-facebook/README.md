@@ -1,4 +1,4 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>47</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>48</sup>
 ---
 
 ## 2017
@@ -216,6 +216,10 @@
 ### Ночной мир. Черный рассвет
 Лиза Джейн Смит
 > [2015-12-04] 
+
+
+### Виновата ложь
+Э.Локхарт
 
 
 ### Призрачная любовь

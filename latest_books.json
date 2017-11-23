@@ -1,4 +1,16 @@
 {
+    "BdbSZpDeQx": {
+        "id": "BdbSZpDeQx",
+        "title": "Виновата ложь",
+        "author": "Э.Локхарт",
+        "notes": "",
+        "createdAt": "2017-11-23 18:39:44",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 48
+        }
+    },
     "hSpOqRxJsH": {
         "id": "hSpOqRxJsH",
         "title": "Призрачная любовь",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 19
-        }
-    },
-    "og1ki4llQC": {
-        "id": "og1ki4llQC",
-        "title": "Отбор",
-        "author": "Кира Касс",
-        "notes": "",
-        "createdAt": "2017-11-23 18:09:54",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 18
         }
     }
 }
