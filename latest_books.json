@@ -1,4 +1,16 @@
 {
+    "sdwSOJcn1-": {
+        "id": "sdwSOJcn1-",
+        "title": "Красавица",
+        "author": "Робин Маккинли",
+        "notes": "еще одна история о \"красавице и чудовище\"",
+        "createdAt": "2017-11-23 18:44:44",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 50
+        }
+    },
     "0_ccWNGLiw": {
         "id": "0_ccWNGLiw",
         "title": "Девушка на неделю",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 21
-        }
-    },
-    "xq-hDB_qVC": {
-        "id": "xq-hDB_qVC",
-        "title": "Как влюбить в себя Воина. Мечты и планы",
-        "author": "Диана Ольховицкая",
-        "notes": "",
-        "createdAt": "2017-11-23 18:11:09",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 20
         }
     }
 }
