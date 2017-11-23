@@ -1,4 +1,16 @@
 {
+    "lG1eSGMTmR": {
+        "id": "lG1eSGMTmR",
+        "title": "Жена война, или Любовь на выживание",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-11-23 18:24:28",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 34
+        }
+    },
     "7mNwxwSVId": {
         "id": "7mNwxwSVId",
         "title": "Невеста воина, или Месть по распсанию",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 5
-        }
-    },
-    "20g4r9xigI": {
-        "id": "20g4r9xigI",
-        "title": "Янтарный телескоп (Тёмные начала)",
-        "author": "Пулман, Филип",
-        "notes": "Тяжело чтение далось, очень нудно написано",
-        "createdAt": "2017-11-23 17:55:53",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 158
         }
     }
 }
