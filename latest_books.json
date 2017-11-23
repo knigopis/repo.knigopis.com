@@ -1,4 +1,16 @@
 {
+    "ncoiEevr1b": {
+        "id": "ncoiEevr1b",
+        "title": "Ночной мир. Охотница",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2017-11-23 18:31:59",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 43
+        }
+    },
     "heAVGRn2or": {
         "id": "heAVGRn2or",
         "title": "Ночной мир. Предначертание",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 14
-        }
-    },
-    "hS23WDbfWG": {
-        "id": "hS23WDbfWG",
-        "title": "Бездомный Бог (2том)",
-        "author": "Адотитока",
-        "notes": "",
-        "createdAt": "2017-11-23 18:06:11",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 13
         }
     }
 }
