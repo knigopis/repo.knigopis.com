@@ -1,4 +1,16 @@
 {
+    "SZU_Ckl8aq": {
+        "id": "SZU_Ckl8aq",
+        "title": "Дети ворона",
+        "author": "Юлия Яковлева",
+        "notes": "",
+        "createdAt": "2017-11-23 10:19:47",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 47
+        }
+    },
     "itFRz9nsnR": {
         "id": "itFRz9nsnR",
         "title": "Доводы рассудка",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 129
-        }
-    },
-    "720rRAa8Eq": {
-        "id": "720rRAa8Eq",
-        "title": "Известие о похищении",
-        "author": "Габриэль Гарсиа Маркес",
-        "notes": "",
-        "createdAt": "2017-11-18 23:26:53",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 602
         }
     }
 }
