@@ -1,4 +1,16 @@
 {
+    "6XhNXtfsuB": {
+        "id": "6XhNXtfsuB",
+        "title": "Лев, колдунья и платяной шкаф",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "Милая, добрая сказка. Довольно короткая, интригующая. Это сказка о Нарнии, куда герои попали через шкаф.",
+        "createdAt": "2017-11-23 14:12:55",
+        "user": {
+            "id": "115622071-twitter",
+            "nickname": "rNix",
+            "booksCount": 58
+        }
+    },
     "gGBajp3Wu2": {
         "id": "gGBajp3Wu2",
         "title": "Изящное искусство смерти (1)",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 14
-        }
-    },
-    "J9BjslI8tr": {
-        "id": "J9BjslI8tr",
-        "title": "Турецкий гамбит",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-11-20 18:36:47",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 13
         }
     }
 }

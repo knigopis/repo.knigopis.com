@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
+    > Милая, добрая сказка. Довольно короткая, интригующая. Это сказка о Нарнии, куда герои попали через шкаф.
+
 * Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
     > (Флавия де Люс 5)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Захотелось перечитать =D
 
 * Лис Улисс и клад саблезубых ~ [Sky](users/118/118049897850017649660-google)<sup>58</sup>
-    > Отличная сатира на общество, юмор на высоте, интересные герои - жаль, что последующие книги значительно слабее.
 
 * Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 
-* Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>58</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>64</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
-[rNix](users/115/115622071-twitter)<sup>57</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>35</sup> 
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:50:03_
+_23.11.2017 14:12:55_

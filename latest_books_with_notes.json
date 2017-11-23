@@ -1,4 +1,16 @@
 {
+    "6XhNXtfsuB": {
+        "id": "6XhNXtfsuB",
+        "title": "Лев, колдунья и платяной шкаф",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "Милая, добрая сказка. Довольно короткая, интригующая. Это сказка о Нарнии, куда герои попали через шкаф.",
+        "createdAt": "2017-11-23 14:12:55",
+        "user": {
+            "id": "115622071-twitter",
+            "nickname": "rNix",
+            "booksCount": 58
+        }
+    },
     "HGwOdul1IF": {
         "id": "HGwOdul1IF",
         "title": "Я вещаю из гробницы",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 38
-        }
-    },
-    "T1CoH8GDRg": {
-        "id": "T1CoH8GDRg",
-        "title": "Мертвые души",
-        "author": "Гоголь",
-        "notes": "перечитать",
-        "createdAt": "2017-11-10 14:16:26",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 37
         }
     }
 }

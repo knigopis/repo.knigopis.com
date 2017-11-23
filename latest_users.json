@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 58,
+        "updatedAt": "2017-11-23 14:12:55"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -154,12 +160,6 @@
         "nickname": "Aloak",
         "booksCount": 0,
         "updatedAt": "2017-11-15 14:31:17"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 57,
-        "updatedAt": "2017-11-15 13:48:07"
     },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
