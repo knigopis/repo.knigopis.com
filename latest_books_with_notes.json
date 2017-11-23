@@ -1,4 +1,16 @@
 {
+    "rCMUDgzSZ7": {
+        "id": "rCMUDgzSZ7",
+        "title": "Лис Улисс и потерянный город",
+        "author": "Фред Адра",
+        "notes": "Лис Улисс 2",
+        "createdAt": "2017-11-23 10:31:15",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 57
+        }
+    },
     "km52m9O6hR": {
         "id": "km52m9O6hR",
         "title": "Дирк Джентли и лосось сомнений (3)",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 34
-        }
-    },
-    "Pbfyjr3qQp": {
-        "id": "Pbfyjr3qQp",
-        "title": "Идиот",
-        "author": "Ф.М. Достоевский",
-        "notes": "****\nЭфемерный, быть в опале, тушеваться, стушеваться, фраппировать, потворство, манкировать, апломб",
-        "createdAt": "2017-11-10 14:06:13",
-        "user": {
-            "id": "1717865441574584-facebook",
-            "nickname": "kempinsky",
-            "booksCount": 13
         }
     }
 }

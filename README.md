@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
+    > Лис Улисс 2
+
 * Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
     > Увы, не закончено(
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Дропнула где-то в начале
 
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
-    > ожидала от сына Кинга большего. книга повествует о неком старике, который убивает детей и они живут в его сознании в стране рождества. немного жутко, но не слишком интересно.
 
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
 
-* Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>56</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>57</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:28:56_
+_23.11.2017 10:31:15_

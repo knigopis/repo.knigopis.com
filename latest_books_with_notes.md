@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
 * Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
 * Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Отцы и дети ~ [kempinsky](users/171/1717865441574584-facebook)<sup>36</sup>
 * Герой нашего времени ~ [kempinsky](users/171/1717865441574584-facebook)<sup>35</sup>
 * Евгений Онегин ~ [kempinsky](users/171/1717865441574584-facebook)<sup>34</sup>
-* Идиот ~ [kempinsky](users/171/1717865441574584-facebook)<sup>13</sup>
 
 
-_23.11.2017 10:26:14_
+_23.11.2017 10:31:15_
