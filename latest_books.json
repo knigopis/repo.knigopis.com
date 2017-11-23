@@ -1,4 +1,16 @@
 {
+    "46cmRqBJ6R": {
+        "id": "46cmRqBJ6R",
+        "title": "Дочь воина, или Кадеты не сдаются",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-11-23 18:22:44",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 32
+        }
+    },
     "XPMkb38nJP": {
         "id": "XPMkb38nJP",
         "title": "Урок второй. Не ввязывайся в сомнительные расследования",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 4
-        }
-    },
-    "j0fzSoyvSI": {
-        "id": "j0fzSoyvSI",
-        "title": "Духи школы",
-        "author": "Рейчел Хокинс",
-        "notes": "",
-        "createdAt": "2017-11-23 17:41:36",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 3
         }
     }
 }
