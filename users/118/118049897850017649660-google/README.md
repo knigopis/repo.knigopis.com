@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>62</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>63</sup>
 ---
 
 ## 2017
@@ -323,6 +323,11 @@ Tasha Alexander
 ### Гарри Поттер и философский камень
 Джоан Роулинг
 > [2016-12-25] Захотелось перечитать =D
+
+
+### Инспектор смерти (2)
+Дэвид Моррелл
+> [2016-12-09] 
 
 
 
