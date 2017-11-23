@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>39</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>40</sup>
 ---
 
 ## 2017
+
+### Урок пятый. Как не запутаться в древних клятвах
+Елена Звёздная
+> [2017-11-19] 
+
 
 ### Урок четвёртый. Как развести нечисть на деньги
 Елена Звёздная
