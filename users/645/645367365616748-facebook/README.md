@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>17</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>18</sup>
 ---
 
 ## 2017
+
+### Отбор
+Кира Касс
+> [2017-05] 
+
 
 ### Волшебная луна (2книга)
 Алиса Ноэль
