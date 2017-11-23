@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
+    > Увы, не закончено(
+
 * Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
     > Лис Улисс 3.
     > Дропнула где-то в начале
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ожидала от сына Кинга большего. книга повествует о неком старике, который убивает детей и они живут в его сознании в стране рождества. немного жутко, но не слишком интересно.
 
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
-    > Книга состоит из писем, отрывков переписок, записок из ящика пожеланий, рапортов и объявлений. все это складывается в интересный сюжет про молодую учительницу, которой удается достучаться до некоторых учеников несмотря на их плохое поведение, плохую социальную жизнь и кучу бумажной волокиты
 
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
 
-* Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>53</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>54</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:24:26_
+_23.11.2017 10:26:14_
