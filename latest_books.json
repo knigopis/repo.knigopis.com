@@ -1,4 +1,16 @@
 {
+    "5GuJBkhUhQ": {
+        "id": "5GuJBkhUhQ",
+        "title": "Бездомный Бог (1том)",
+        "author": "Адотитока",
+        "notes": "",
+        "createdAt": "2017-11-23 18:05:32",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 12
+        }
+    },
     "SNV1A33VzF": {
         "id": "SNV1A33VzF",
         "title": "Лунные хроники. Золушка",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 49
-        }
-    },
-    "tSauB0YiAQ": {
-        "id": "tSauB0YiAQ",
-        "title": "Мэнсфилд-парк",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-11-23 10:20:08",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 48
         }
     }
 }
