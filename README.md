@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
+    > Захотелось перечитать =D
+
 * Лис Улисс и клад саблезубых ~ [Sky](users/118/118049897850017649660-google)<sup>58</sup>
     > Отличная сатира на общество, юмор на высоте, интересные герои - жаль, что последующие книги значительно слабее.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лис Улисс 2
 
 * Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
-    > Увы, не закончено(
 
 * Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 
-* Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>60</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>61</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:34:46_
+_23.11.2017 10:36:15_
