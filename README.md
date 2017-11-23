@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яоки](users/645/645367365616748-facebook)<sup>1</sup> 
+[Яоки](users/645/645367365616748-facebook)<sup>2</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>64</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/108/108308573598921952704-google)<sup>0</sup> 
 
 
-_23.11.2017 17:40:03_
+_23.11.2017 17:40:57_
