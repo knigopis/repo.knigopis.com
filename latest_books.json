@@ -1,4 +1,16 @@
 {
+    "hS23WDbfWG": {
+        "id": "hS23WDbfWG",
+        "title": "Бездомный Бог (2том)",
+        "author": "Адотитока",
+        "notes": "",
+        "createdAt": "2017-11-23 18:06:11",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 13
+        }
+    },
     "5GuJBkhUhQ": {
         "id": "5GuJBkhUhQ",
         "title": "Бездомный Бог (1том)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 50
-        }
-    },
-    "3HtY9UPwSM": {
-        "id": "3HtY9UPwSM",
-        "title": "Номер 11",
-        "author": "Джонатан Коу",
-        "notes": "",
-        "createdAt": "2017-11-23 10:20:55",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 49
         }
     }
 }

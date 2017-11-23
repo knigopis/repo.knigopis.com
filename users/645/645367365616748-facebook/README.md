@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>12</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>13</sup>
 ---
 
 ## 2016
+
+### Бездомный Бог (2том)
+Адотитока
+> [2016-12-26] 
+
 
 ### Бездомный Бог (1том)
 Адотитока
