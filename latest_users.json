@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 45,
+        "updatedAt": "2017-11-23 10:18:43"
+    },
     "1303742635828659489-mailru": {
         "id": "1303742635828659489-mailru",
         "nickname": "Эльвира ",
@@ -172,11 +178,5 @@
         "nickname": "Borovik",
         "booksCount": 0,
         "updatedAt": "2017-11-14 01:56:33"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 34,
-        "updatedAt": "2017-11-13 22:21:20"
     }
 }

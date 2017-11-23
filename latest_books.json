@@ -1,4 +1,16 @@
 {
+    "mokHs0062V": {
+        "id": "mokHs0062V",
+        "title": "Краденый город",
+        "author": "Юлия Яковлева",
+        "notes": "",
+        "createdAt": "2017-11-23 10:18:43",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 45
+        }
+    },
     "SMUD_g6QTj": {
         "id": "SMUD_g6QTj",
         "title": "Беглый огонь",
@@ -345,18 +357,6 @@
             "id": "2004720323142248-facebook",
             "nickname": "whatever",
             "booksCount": 15
-        }
-    },
-    "LVzpDq-DHJ": {
-        "id": "LVzpDq-DHJ",
-        "title": "Коллекционер",
-        "author": "Дж. Фаулз",
-        "notes": "",
-        "createdAt": "2017-11-18 19:45:57",
-        "user": {
-            "id": "2004720323142248-facebook",
-            "nickname": "whatever",
-            "booksCount": 14
         }
     }
 }
