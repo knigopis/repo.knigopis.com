@@ -1,4 +1,16 @@
 {
+    "d6ejfJieU2": {
+        "id": "d6ejfJieU2",
+        "title": "Ночной мир. Черный рассвет",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2017-11-23 17:55:50",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 4
+        }
+    },
     "j0fzSoyvSI": {
         "id": "j0fzSoyvSI",
         "title": "Духи школы",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 277
-        }
-    },
-    "JU0xMaSuOp": {
-        "id": "JU0xMaSuOp",
-        "title": "Прощай, оружие!",
-        "author": "Э. Хемингуэй",
-        "notes": "",
-        "createdAt": "2017-11-21 14:38:20",
-        "user": {
-            "id": "116711663180785343859-google",
-            "nickname": "Rocket98",
-            "booksCount": 1
         }
     }
 }
