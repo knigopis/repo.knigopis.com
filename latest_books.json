@@ -1,4 +1,16 @@
 {
+    "7mNwxwSVId": {
+        "id": "7mNwxwSVId",
+        "title": "Невеста воина, или Месть по распсанию",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-11-23 18:23:36",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 33
+        }
+    },
     "46cmRqBJ6R": {
         "id": "46cmRqBJ6R",
         "title": "Дочь воина, или Кадеты не сдаются",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 158
-        }
-    },
-    "d6ejfJieU2": {
-        "id": "d6ejfJieU2",
-        "title": "Ночной мир. Черный рассвет",
-        "author": "Лиза Джейн Смит",
-        "notes": "",
-        "createdAt": "2017-11-23 17:55:50",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 4
         }
     }
 }

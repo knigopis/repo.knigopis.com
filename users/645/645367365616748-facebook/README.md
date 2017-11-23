@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>32</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>33</sup>
 ---
 
 ## 2017
+
+### Невеста воина, или Месть по распсанию
+Елена Звёздная
+> [2017-10-15] 
+
 
 ### Дочь воина, или Кадеты не сдаются
 Елена Звёздная
