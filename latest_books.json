@@ -1,4 +1,16 @@
 {
+    "xELHgXgx7i": {
+        "id": "xELHgXgx7i",
+        "title": "Ночной мир. Тайный Вампир",
+        "author": "Лиза Джейн Смит",
+        "notes": "",
+        "createdAt": "2017-11-23 18:31:14",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 41
+        }
+    },
     "RsYOadcSLm": {
         "id": "RsYOadcSLm",
         "title": "Урок пятый. Как не запутаться в древних клятвах",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 12
-        }
-    },
-    "SNV1A33VzF": {
-        "id": "SNV1A33VzF",
-        "title": "Лунные хроники. Золушка",
-        "author": "Мариса Мейер",
-        "notes": "",
-        "createdAt": "2017-11-23 18:04:27",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 11
         }
     }
 }
