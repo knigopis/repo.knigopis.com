@@ -1,4 +1,16 @@
 {
+    "yQOiFWighB": {
+        "id": "yQOiFWighB",
+        "title": "Джек Фрост (2том)",
+        "author": "КоДжин Хо",
+        "notes": "",
+        "createdAt": "2017-11-23 18:27:16",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 37
+        }
+    },
     "aDOTeG7Vbr": {
         "id": "aDOTeG7Vbr",
         "title": "Джек Фрост (1том)",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 8
-        }
-    },
-    "tlmPZqc4y8": {
-        "id": "tlmPZqc4y8",
-        "title": "Белая Тетрадь",
-        "author": "Софья Ролдугина",
-        "notes": "",
-        "createdAt": "2017-11-23 17:58:34",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 7
         }
     }
 }
