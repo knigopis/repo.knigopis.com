@@ -1,4 +1,16 @@
 {
+    "aO38NpqJfZ": {
+        "id": "aO38NpqJfZ",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-11-23 17:59:50",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 8
+        }
+    },
     "tlmPZqc4y8": {
         "id": "tlmPZqc4y8",
         "title": "Белая Тетрадь",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 45
-        }
-    },
-    "SMUD_g6QTj": {
-        "id": "SMUD_g6QTj",
-        "title": "Беглый огонь",
-        "author": "Александр Зорич",
-        "notes": "",
-        "createdAt": "2017-11-22 09:32:56",
-        "user": {
-            "id": "194352149-vkontakte",
-            "nickname": "S.T.A.L.K.E.R.",
-            "booksCount": 1
         }
     }
 }
