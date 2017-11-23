@@ -1,4 +1,16 @@
 {
+    "o4bRLtu41g": {
+        "id": "o4bRLtu41g",
+        "title": "Бездомный Бог (4том)",
+        "author": "Адотитока",
+        "notes": "",
+        "createdAt": "2017-11-23 18:08:13",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 15
+        }
+    },
     "V9x56upeJd": {
         "id": "V9x56upeJd",
         "title": "Бездомный Бог (3том)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 52
-        }
-    },
-    "u2BcKEw-Qp": {
-        "id": "u2BcKEw-Qp",
-        "title": "Некоторые вопросы теории катастроф",
-        "author": "Мариша Пессл",
-        "notes": "",
-        "createdAt": "2017-11-23 10:22:15",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 51
         }
     }
 }
