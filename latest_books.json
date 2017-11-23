@@ -1,4 +1,16 @@
 {
+    "glQ1VhuAYP": {
+        "id": "glQ1VhuAYP",
+        "title": "Агрессор",
+        "author": "Пенелопа Дуглас",
+        "notes": "",
+        "createdAt": "2017-11-23 18:36:03",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 45
+        }
+    },
     "rTI9vYgADZ": {
         "id": "rTI9vYgADZ",
         "title": "Испорченный",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 16
-        }
-    },
-    "o4bRLtu41g": {
-        "id": "o4bRLtu41g",
-        "title": "Бездомный Бог (4том)",
-        "author": "Адотитока",
-        "notes": "",
-        "createdAt": "2017-11-23 18:08:13",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 15
         }
     }
 }
