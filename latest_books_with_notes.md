@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
 * Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
 * Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
 * Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
@@ -30,7 +31,6 @@
 * Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 * Морфий ~ [kempinsky](users/171/1717865441574584-facebook)<sup>40</sup>
 * Мастер и Маргарита ~ [kempinsky](users/171/1717865441574584-facebook)<sup>39</sup>
-* Горе от ума ~ [kempinsky](users/171/1717865441574584-facebook)<sup>38</sup>
 
 
-_23.11.2017 14:12:55_
+_23.11.2017 17:55:54_

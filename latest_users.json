@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 158,
+        "updatedAt": "2017-11-23 17:55:53"
+    },
     "645367365616748-facebook": {
         "id": "645367365616748-facebook",
         "nickname": "Яоки",
@@ -172,11 +178,5 @@
         "nickname": "sergeybolobaev",
         "booksCount": 35,
         "updatedAt": "2017-11-14 18:54:48"
-    },
-    "108308573598921952704-google": {
-        "id": "108308573598921952704-google",
-        "nickname": "Dmitry",
-        "booksCount": 0,
-        "updatedAt": "2017-11-14 06:30:49"
     }
 }
