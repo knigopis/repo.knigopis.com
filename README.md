@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>55</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>56</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Borovik](users/614/61426267-vkontakte)<sup>0</sup> 
 
 
-_23.11.2017 10:28:23_
+_23.11.2017 10:28:56_
