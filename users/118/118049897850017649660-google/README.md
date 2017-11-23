@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>58</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>59</sup>
 ---
 
 ## 2017
@@ -300,6 +300,11 @@
 Фред Адра
 > [2017-01-22] Лис Улисс 1
 > Отличная сатира на общество, юмор на высоте, интересные герои - жаль, что последующие книги значительно слабее.
+
+
+### Дирк Джентли (1)
+Дуглас Адамс
+> [2017-01-14] 
 
 
 
