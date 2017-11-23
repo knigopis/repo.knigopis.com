@@ -1,4 +1,16 @@
 {
+    "gGBajp3Wu2": {
+        "id": "gGBajp3Wu2",
+        "title": "Изящное искусство смерти (1)",
+        "author": "Дэвид Моррелл",
+        "notes": "",
+        "createdAt": "2017-11-23 10:50:03",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 64
+        }
+    },
     "F2nTz3xn3I": {
         "id": "F2nTz3xn3I",
         "title": "Инспектор смерти (2)",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 13
-        }
-    },
-    "q6N5khzDJ1": {
-        "id": "q6N5khzDJ1",
-        "title": "Азазель",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2017-11-20 18:36:21",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 12
         }
     }
 }

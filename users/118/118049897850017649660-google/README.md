@@ -1,4 +1,4 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>63</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>64</sup>
 ---
 
 ## 2017
@@ -328,6 +328,11 @@ Tasha Alexander
 ### Инспектор смерти (2)
 Дэвид Моррелл
 > [2016-12-09] 
+
+
+### Изящное искусство смерти (1)
+Дэвид Моррелл
+> [2016-12-05] 
 
 
 
