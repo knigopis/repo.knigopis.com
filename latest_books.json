@@ -1,4 +1,16 @@
 {
+    "H22kKmcRRB": {
+        "id": "H22kKmcRRB",
+        "title": "Джек Фрост (3том)",
+        "author": "КоДжин Хо",
+        "notes": "",
+        "createdAt": "2017-11-23 18:27:37",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 38
+        }
+    },
     "yQOiFWighB": {
         "id": "yQOiFWighB",
         "title": "Джек Фрост (2том)",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 9
-        }
-    },
-    "aO38NpqJfZ": {
-        "id": "aO38NpqJfZ",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-23 17:59:50",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 8
         }
     }
 }
