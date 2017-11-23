@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>26</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>27</sup>
 ---
 
 ## 2017
+
+### Мой личный враг
+Елена Звёздная
+> [2017-09] ЛЮБИМАЯ
+
 
 ### Сошедший со страниц
 Дария Россо

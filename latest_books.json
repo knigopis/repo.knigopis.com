@@ -1,4 +1,16 @@
 {
+    "cTs-euW-5i": {
+        "id": "cTs-euW-5i",
+        "title": "Мой личный враг",
+        "author": "Елена Звёздная",
+        "notes": "ЛЮБИМАЯ",
+        "createdAt": "2017-11-23 18:17:47",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 27
+        }
+    },
     "3ApqHY_BXO": {
         "id": "3ApqHY_BXO",
         "title": "Иржина.",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 64
-        }
-    },
-    "F2nTz3xn3I": {
-        "id": "F2nTz3xn3I",
-        "title": "Инспектор смерти (2)",
-        "author": "Дэвид Моррелл",
-        "notes": "",
-        "createdAt": "2017-11-23 10:49:09",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 63
         }
     }
 }
