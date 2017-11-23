@@ -1,4 +1,4 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>46</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>47</sup>
 ---
 
 ## 2017
@@ -216,6 +216,11 @@
 ### Ночной мир. Черный рассвет
 Лиза Джейн Смит
 > [2015-12-04] 
+
+
+### Призрачная любовь
+Лаура Уиткомб
+> не понравилась
 
 
 ### Ночной мир. Охотница
