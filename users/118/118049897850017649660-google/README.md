@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>64</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>65</sup>
 ---
 
 ## 2017
+
+### Чудовище
+Кейт Марси Коннолли
+> [2017-11-24] Все-таки во взрослом возрасте наивные детские книжки уже не торт
+
 
 ### Почти идеальные люди. Вся правда о жизни в скандинавском раю.
 Майкл Бут

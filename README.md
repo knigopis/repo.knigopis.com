@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
+    > Все-таки во взрослом возрасте наивные детские книжки уже не торт
+
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
     > 13. Остановилась.
     > https://audioknigi.club/palanik-chak-prizraki
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Тяжело чтение далось, очень нудно написано
 
 * Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
-    > Милая, добрая сказка. Довольно короткая, интригующая. Это сказка о Нарнии, куда герои попали через шкаф.
 
 * Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
 
@@ -27,18 +29,16 @@ Do not use pull requests to make changes here.
 
 * Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
 
-* Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>65</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>158</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>64</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
 
 
-_24.11.2017 02:24:24_
+_24.11.2017 11:39:43_

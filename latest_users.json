@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 65,
+        "updatedAt": "2017-11-24 11:39:43"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -22,12 +28,6 @@
         "nickname": "rNix",
         "booksCount": 58,
         "updatedAt": "2017-11-23 14:12:55"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 64,
-        "updatedAt": "2017-11-23 10:50:03"
     },
     "1303742635828659489-mailru": {
         "id": "1303742635828659489-mailru",
