@@ -1,4 +1,16 @@
 {
+    "xCNXm9OERo": {
+        "id": "xCNXm9OERo",
+        "title": "Призраки",
+        "author": "Паланик Чак",
+        "notes": "13. Остановилась.\nhttps://audioknigi.club/palanik-chak-prizraki",
+        "createdAt": "2017-11-24 02:24:24",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 124
+        }
+    },
     "sdwSOJcn1-": {
         "id": "sdwSOJcn1-",
         "title": "Красавица",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 22
-        }
-    },
-    "Mc5nXLQZzz": {
-        "id": "Mc5nXLQZzz",
-        "title": "Три Мушкетера",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2017-11-23 18:11:57",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 21
         }
     }
 }

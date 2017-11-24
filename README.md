@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
+    > 13. Остановилась.
+    > https://audioknigi.club/palanik-chak-prizraki
+
 * Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
     > Тяжело чтение далось, очень нудно написано
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Милая, добрая сказка. Довольно короткая, интригующая. Это сказка о Нарнии, куда герои попали через шкаф.
 
 * Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
-    > (Флавия де Люс 5)
 
 * Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
 
-* Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>50</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>158</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
 [Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
-[sergeybolobaev](users/379/37918255-vkontakte)<sup>35</sup> 
 
 
-_23.11.2017 18:44:45_
+_24.11.2017 02:24:24_

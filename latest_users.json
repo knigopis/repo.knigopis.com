@@ -1,4 +1,10 @@
 {
+    "94738840-vkontakte": {
+        "id": "94738840-vkontakte",
+        "nickname": "Mad Wolf",
+        "booksCount": 124,
+        "updatedAt": "2017-11-24 02:24:24"
+    },
     "645367365616748-facebook": {
         "id": "645367365616748-facebook",
         "nickname": "Яоки",
@@ -172,11 +178,5 @@
         "nickname": "Aloak",
         "booksCount": 0,
         "updatedAt": "2017-11-15 14:31:17"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 35,
-        "updatedAt": "2017-11-14 18:54:48"
     }
 }
