@@ -1,4 +1,10 @@
 {
+    "645367365616748-facebook": {
+        "id": "645367365616748-facebook",
+        "nickname": "Яоки",
+        "booksCount": 51,
+        "updatedAt": "2017-11-25 14:57:39"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -28,12 +34,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 124,
         "updatedAt": "2017-11-24 02:24:24"
-    },
-    "645367365616748-facebook": {
-        "id": "645367365616748-facebook",
-        "nickname": "Яоки",
-        "booksCount": 50,
-        "updatedAt": "2017-11-23 18:44:45"
     },
     "115622071-twitter": {
         "id": "115622071-twitter",

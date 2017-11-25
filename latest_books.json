@@ -1,4 +1,16 @@
 {
+    "s50qL1TmEx": {
+        "id": "s50qL1TmEx",
+        "title": "Магическая уборка. Японское искусство наведения порядка дома и в жизни",
+        "author": "Мари Кондо",
+        "notes": "",
+        "createdAt": "2017-11-25 14:57:39",
+        "user": {
+            "id": "645367365616748-facebook",
+            "nickname": "Яоки",
+            "booksCount": 51
+        }
+    },
     "dB7lmvoXQp": {
         "id": "dB7lmvoXQp",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 27
-        }
-    },
-    "3ApqHY_BXO": {
-        "id": "3ApqHY_BXO",
-        "title": "Иржина.",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-23 18:15:52",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 26
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>50</sup>
+# List of books read by [Яоки](https://www.facebook.com/app_scoped_user_id/645367365616748/)<sup>51</sup>
 ---
 
 ## 2017
+
+### Магическая уборка. Японское искусство наведения порядка дома и в жизни
+Мари Кондо
+> [2017-11-25] 
+
 
 ### Урок пятый. Как не запутаться в древних клятвах
 Елена Звёздная
