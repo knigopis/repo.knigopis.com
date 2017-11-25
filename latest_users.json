@@ -1,4 +1,10 @@
 {
+    "117810198385083752494-google": {
+        "id": "117810198385083752494-google",
+        "nickname": "Дмитрий",
+        "booksCount": 0,
+        "updatedAt": "2017-11-25 13:21:25"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "kasikandriena",
         "booksCount": 41,
         "updatedAt": "2017-11-15 15:46:27"
-    },
-    "17766013816400067764-mailru": {
-        "id": "17766013816400067764-mailru",
-        "nickname": "Aloak",
-        "booksCount": 0,
-        "updatedAt": "2017-11-15 14:31:17"
     }
 }
