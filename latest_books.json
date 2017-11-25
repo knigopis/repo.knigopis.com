@@ -1,4 +1,16 @@
 {
+    "WV8kfZNFpQ": {
+        "id": "WV8kfZNFpQ",
+        "title": "Капитал в 21 веке",
+        "author": "Томас Пикетти",
+        "notes": "",
+        "createdAt": "2017-11-25 13:22:10",
+        "user": {
+            "id": "117810198385083752494-google",
+            "nickname": "Дмитрий",
+            "booksCount": 1
+        }
+    },
     "pHcd2Hfqn9": {
         "id": "pHcd2Hfqn9",
         "title": "Чудовище",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 24
-        }
-    },
-    "o1p728G9bW": {
-        "id": "o1p728G9bW",
-        "title": "Сошедший со страниц",
-        "author": "Дария Россо",
-        "notes": "вроде самиздат",
-        "createdAt": "2017-11-23 18:13:55",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 23
         }
     }
 }
