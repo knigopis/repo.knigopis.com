@@ -1,4 +1,16 @@
 {
+    "YN93eaa5P4": {
+        "id": "YN93eaa5P4",
+        "title": "Сын города",
+        "author": "Том Поллок",
+        "notes": "",
+        "createdAt": "2017-11-25 13:26:38",
+        "user": {
+            "id": "45120610-vkontakte",
+            "nickname": "elfinady",
+            "booksCount": 1
+        }
+    },
     "WV8kfZNFpQ": {
         "id": "WV8kfZNFpQ",
         "title": "Капитал в 21 веке",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 25
-        }
-    },
-    "Gkh_H-I7-o": {
-        "id": "Gkh_H-I7-o",
-        "title": "Иржина. Всё не так, как кажется",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2017-11-23 18:14:55",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 24
         }
     }
 }
