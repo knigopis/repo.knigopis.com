@@ -1,4 +1,16 @@
 {
+    "dB7lmvoXQp": {
+        "id": "dB7lmvoXQp",
+        "title": "Евгений Онегин",
+        "author": "Пушкин, Александр Сергеевич",
+        "notes": "",
+        "createdAt": "2017-11-25 13:51:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 159
+        }
+    },
     "YN93eaa5P4": {
         "id": "YN93eaa5P4",
         "title": "Сын города",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 26
-        }
-    },
-    "mGTpRBmNtD": {
-        "id": "mGTpRBmNtD",
-        "title": "Иржина. Случайное - не случайно",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2017-11-23 18:15:38",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 25
         }
     }
 }
