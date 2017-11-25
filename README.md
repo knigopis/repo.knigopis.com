@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Дмитрий](users/117/117810198385083752494-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>65</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>50</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>36</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>41</sup> 
-[Aloak](users/177/17766013816400067764-mailru)<sup>0</sup> 
 
 
-_24.11.2017 11:39:43_
+_25.11.2017 13:21:27_
