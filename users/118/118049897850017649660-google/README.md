@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>65</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>66</sup>
 ---
 
 ## 2017
+
+### Властелин ночи
+Дэвид Моррэлл
+> [2017-11-26] 
+
 
 ### Чудовище
 Кейт Марси Коннолли

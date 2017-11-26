@@ -1,4 +1,16 @@
 {
+    "X6iCpnbYUp": {
+        "id": "X6iCpnbYUp",
+        "title": "Властелин ночи",
+        "author": "Дэвид Моррэлл",
+        "notes": "",
+        "createdAt": "2017-11-26 17:19:15",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 66
+        }
+    },
     "_bEP5V2nh4": {
         "id": "_bEP5V2nh4",
         "title": "Девушка в поезде",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 31
-        }
-    },
-    "x1DadL9gxu": {
-        "id": "x1DadL9gxu",
-        "title": "Урок первый. Не проклинай своего директора",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-11-23 18:21:06",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 30
         }
     }
 }
