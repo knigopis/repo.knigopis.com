@@ -1,4 +1,10 @@
 {
+    "189051427-vkontakte": {
+        "id": "189051427-vkontakte",
+        "nickname": "m0rion",
+        "booksCount": 0,
+        "updatedAt": "2017-11-26 14:26:51"
+    },
     "185728745-vkontakte": {
         "id": "185728745-vkontakte",
         "nickname": "kris_didenko",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 131,
         "updatedAt": "2017-11-16 19:56:26"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 36,
-        "updatedAt": "2017-11-16 19:51:00"
     }
 }
