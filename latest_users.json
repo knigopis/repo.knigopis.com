@@ -1,4 +1,10 @@
 {
+    "185728745-vkontakte": {
+        "id": "185728745-vkontakte",
+        "nickname": "kris_didenko",
+        "booksCount": 0,
+        "updatedAt": "2017-11-26 11:10:59"
+    },
     "94738840-vkontakte": {
         "id": "94738840-vkontakte",
         "nickname": "Mad Wolf",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 36,
         "updatedAt": "2017-11-16 19:51:00"
-    },
-    "109787328219839805802-google": {
-        "id": "109787328219839805802-google",
-        "nickname": "Rainbow",
-        "booksCount": 34,
-        "updatedAt": "2017-11-15 20:04:23"
     }
 }
