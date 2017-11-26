@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
+    > Книга о девушке, которая проезжала мимо одного и того же дома в поезде постоянно и однажды увидела как пара, которую она наблюдала каждый раз из поезда, вдруг лишилась одного партнёра. И позже увидела вывески о пропаже девушки.
+
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
     > Роман о девушке, которая попала в автокатастрофу и проснулась утром, до неё. День сурка повторялся заканчиваясь её смертью постоянно, ей нужно понять, как сорвать круг.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Все-таки во взрослом возрасте наивные детские книжки уже не торт
 
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
-    > 13. Остановилась.
-    > https://audioknigi.club/palanik-chak-prizraki
 
 * Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
 
-* Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>125</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>159</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 
 
-_26.11.2017 07:56:08_
+_26.11.2017 07:57:55_

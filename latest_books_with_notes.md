@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
@@ -30,7 +31,6 @@
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
-* Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
 
 
-_26.11.2017 07:55:44_
+_26.11.2017 07:57:55_
