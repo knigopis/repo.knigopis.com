@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>125</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>159</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 
 
-_26.11.2017 07:55:44_
+_26.11.2017 07:56:08_
