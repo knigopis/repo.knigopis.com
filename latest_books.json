@@ -1,4 +1,16 @@
 {
+    "Jpz5kk1odm": {
+        "id": "Jpz5kk1odm",
+        "title": "Канбан. Альтернативный путь в Agile",
+        "author": "Дэвид Андерсон",
+        "notes": "",
+        "createdAt": "2017-11-26 20:41:28",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 58
+        }
+    },
     "X6iCpnbYUp": {
         "id": "X6iCpnbYUp",
         "title": "Властелин ночи",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 32
-        }
-    },
-    "XPMkb38nJP": {
-        "id": "XPMkb38nJP",
-        "title": "Урок второй. Не ввязывайся в сомнительные расследования",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-11-23 18:21:56",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 31
         }
     }
 }
