@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>125</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>159</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
 [Дмитрий](users/117/117810198385083752494-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>65</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 
 
-_25.11.2017 14:57:39_
+_26.11.2017 07:54:19_

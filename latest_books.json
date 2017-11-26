@@ -1,4 +1,16 @@
 {
+    "3tSGVCaVC3": {
+        "id": "3tSGVCaVC3",
+        "title": "Лорен Оливер - Прежде чем я упаду",
+        "author": "Лорен Оливер",
+        "notes": "",
+        "createdAt": "2017-11-26 07:54:19",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 125
+        }
+    },
     "s50qL1TmEx": {
         "id": "s50qL1TmEx",
         "title": "Магическая уборка. Японское искусство наведения порядка дома и в жизни",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 28
-        }
-    },
-    "cTs-euW-5i": {
-        "id": "cTs-euW-5i",
-        "title": "Мой личный враг",
-        "author": "Елена Звёздная",
-        "notes": "ЛЮБИМАЯ",
-        "createdAt": "2017-11-23 18:17:47",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 27
         }
     }
 }
