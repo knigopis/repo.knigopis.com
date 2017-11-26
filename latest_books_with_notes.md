@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
 * Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
@@ -30,7 +31,6 @@
 * Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 * Дети лампы. Книга первая. Джинн в плену Эхнатона ~ [Eji_tyan](users/235/2352103981-twitter)<sup>34</sup>
 * Книга Достигатора ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>129</sup>
-* Драматические произведения ~ [idhlebushek](users/139/139578422-vkontakte)<sup>2</sup>
 
 
-_24.11.2017 11:39:43_
+_26.11.2017 07:55:44_

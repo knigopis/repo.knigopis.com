@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
+    > Роман о девушке, которая попала в автокатастрофу и проснулась утром, до неё. День сурка повторялся заканчиваясь её смертью постоянно, ей нужно понять, как сорвать круг.
+
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
     > Все-таки во взрослом возрасте наивные детские книжки уже не торт
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > https://audioknigi.club/palanik-chak-prizraki
 
 * Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
-    > Тяжело чтение далось, очень нудно написано
 
 * Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Дирк Джентли и лосось сомнений (3) ~ [Sky](users/118/118049897850017649660-google)<sup>54</sup>
 
-* Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>125</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>159</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 
 
-_26.11.2017 07:54:19_
+_26.11.2017 07:55:44_
