@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kris_didenko](users/185/185728745-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>159</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>139</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>36</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>34</sup> 
 
 
-_26.11.2017 07:57:55_
+_26.11.2017 11:11:01_
