@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
+    > Я не ожидала, что будет такое тусклое окончание. Но, скорее всего, Гренуй и не заслуживал яркости
+
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
     > Книга о девушке, которая проезжала мимо одного и того же дома в поезде постоянно и однажды увидела как пара, которую она наблюдала каждый раз из поезда, вдруг лишилась одного партнёра. И позже увидела вывески о пропаже девушки.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Роман о девушке, которая попала в автокатастрофу и проснулась утром, до неё. День сурка повторялся заканчиваясь её смертью постоянно, ей нужно понять, как сорвать круг.
 
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
-    > Все-таки во взрослом возрасте наивные детские книжки уже не торт
 
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лис Улисс и клад саблезубых ~ [Sky](users/118/118049897850017649660-google)<sup>58</sup>
 
-* Лис Улисс и потерянный город ~ [Sky](users/118/118049897850017649660-google)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
-[food](users/114/114308295344486413021-google)<sup>1</sup> 
 
 
-_27.11.2017 18:11:26_
+_27.11.2017 19:56:28_

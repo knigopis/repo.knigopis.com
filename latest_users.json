@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 29,
+        "updatedAt": "2017-11-27 19:56:28"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -172,11 +178,5 @@
         "nickname": "whatever",
         "booksCount": 15,
         "updatedAt": "2017-11-18 19:46:42"
-    },
-    "114308295344486413021-google": {
-        "id": "114308295344486413021-google",
-        "nickname": "food",
-        "booksCount": 1,
-        "updatedAt": "2017-11-17 10:47:23"
     }
 }
