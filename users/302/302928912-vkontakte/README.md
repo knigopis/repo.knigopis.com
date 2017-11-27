@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>8</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>9</sup>
 ---
 
 ## 2017
+
+### Мастерство
+Джордж Леонард
+> [2017-11-27] 
+
 
 ### Тонкое искусство пофигизма
 Марк Мэнсон

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>9</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>66</sup> 
 [m0rion](users/189/189051427-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>139</sup> 
 
 
-_26.11.2017 20:41:28_
+_27.11.2017 15:15:01_

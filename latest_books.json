@@ -1,4 +1,16 @@
 {
+    "eVpdkk5Y_Q": {
+        "id": "eVpdkk5Y_Q",
+        "title": "Мастерство",
+        "author": "Джордж Леонард",
+        "notes": "",
+        "createdAt": "2017-11-27 15:15:01",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 9
+        }
+    },
     "Jpz5kk1odm": {
         "id": "Jpz5kk1odm",
         "title": "Канбан. Альтернативный путь в Agile",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 33
-        }
-    },
-    "46cmRqBJ6R": {
-        "id": "46cmRqBJ6R",
-        "title": "Дочь воина, или Кадеты не сдаются",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-11-23 18:22:44",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 32
         }
     }
 }
