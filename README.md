@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>66</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 [whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 [food](users/114/114308295344486413021-google)<sup>1</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>28</sup> 
 
 
-_27.11.2017 15:15:01_
+_27.11.2017 18:11:26_

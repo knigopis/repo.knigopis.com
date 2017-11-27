@@ -1,4 +1,16 @@
 {
+    "MmOye6-MQH": {
+        "id": "MmOye6-MQH",
+        "title": "Болтунья",
+        "author": "Вернор Видж",
+        "notes": "",
+        "createdAt": "2017-11-27 18:11:26",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 9
+        }
+    },
     "eVpdkk5Y_Q": {
         "id": "eVpdkk5Y_Q",
         "title": "Мастерство",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 34
-        }
-    },
-    "7mNwxwSVId": {
-        "id": "7mNwxwSVId",
-        "title": "Невеста воина, или Месть по распсанию",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-11-23 18:23:36",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 33
         }
     }
 }
