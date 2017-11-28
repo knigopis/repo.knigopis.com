@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
@@ -30,7 +31,6 @@
 * Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 * Крадущийся в Тени (Сиалы) ~ [Chiffi](users/105/105831994080785626680-google)<sup>36</sup>
 * Фиолетовая корова. Сделайте свой бизнес выдающимся! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>130</sup>
-* Уловка-22 ~ [rNix](users/115/115622071-twitter)<sup>57</sup>
 
 
-_27.11.2017 19:56:28_
+_28.11.2017 18:58:24_

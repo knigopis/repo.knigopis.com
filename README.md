@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
+    > Оливеру Баррэт (приготовишка), Дженни Кавиллери, Филл
+
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
     > Я не ожидала, что будет такое тусклое окончание. Но, скорее всего, Гренуй и не заслуживал яркости
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о девушке, которая проезжала мимо одного и того же дома в поезде постоянно и однажды увидела как пара, которую она наблюдала каждый раз из поезда, вдруг лишилась одного партнёра. И позже увидела вывески о пропаже девушки.
 
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
-    > Роман о девушке, которая попала в автокатастрофу и проснулась утром, до неё. День сурка повторялся заканчиваясь её смертью постоянно, ей нужно понять, как сорвать круг.
 
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
 
-* Лис Улисс и клад саблезубых ~ [Sky](users/118/118049897850017649660-google)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [alexandrabeiner](users/118/118330474331574680123-googleplus)<sup>0</sup> 
 [Evgen1901](users/193/193175070-vkontakte)<sup>76</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 
 
-_28.11.2017 18:06:46_
+_28.11.2017 18:58:24_

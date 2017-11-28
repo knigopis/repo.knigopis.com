@@ -1,4 +1,16 @@
 {
+    "bx_LPMvE6x": {
+        "id": "bx_LPMvE6x",
+        "title": "История любви",
+        "author": "Эрик Сигал",
+        "notes": "Оливеру Баррэт (приготовишка), Дженни Кавиллери, Филл",
+        "createdAt": "2017-11-28 18:58:24",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 47
+        }
+    },
     "4MCJ_Iddm6": {
         "id": "4MCJ_Iddm6",
         "title": "Человек в футляре",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 44
-        }
-    },
-    "ncoiEevr1b": {
-        "id": "ncoiEevr1b",
-        "title": "Ночной мир. Охотница",
-        "author": "Лиза Джейн Смит",
-        "notes": "",
-        "createdAt": "2017-11-23 18:31:59",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 43
         }
     }
 }
