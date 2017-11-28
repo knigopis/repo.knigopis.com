@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>35</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgen1901](users/193/193175070-vkontakte)<sup>76</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
-[whatever](users/200/2004720323142248-facebook)<sup>15</sup> 
 
 
-_27.11.2017 19:56:28_
+_28.11.2017 17:57:19_
