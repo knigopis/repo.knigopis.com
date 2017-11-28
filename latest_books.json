@@ -1,4 +1,16 @@
 {
+    "4MCJ_Iddm6": {
+        "id": "4MCJ_Iddm6",
+        "title": "Человек в футляре",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2017-11-28 18:06:46",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 39
+        }
+    },
     "exY5ozdUWF": {
         "id": "exY5ozdUWF",
         "title": "Толстый и тонкий",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 43
-        }
-    },
-    "heAVGRn2or": {
-        "id": "heAVGRn2or",
-        "title": "Ночной мир. Предначертание",
-        "author": "Лиза Джейн Смит",
-        "notes": "",
-        "createdAt": "2017-11-23 18:31:44",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 42
         }
     }
 }
