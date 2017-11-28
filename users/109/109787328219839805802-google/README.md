@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>38</sup>
+# List of books read by Rainbow<sup>39</sup>
 ---
 
 ## 2017
+
+### Искренний смех
+Леонид Андреев
+> [2017-11-28] 
+
 
 ### Туда Искариот
 Леонид Андреев
