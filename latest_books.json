@@ -1,4 +1,16 @@
 {
+    "exY5ozdUWF": {
+        "id": "exY5ozdUWF",
+        "title": "Толстый и тонкий",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2017-11-28 18:05:20",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 39
+        }
+    },
     "QdXru1Uc-q": {
         "id": "QdXru1Uc-q",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 42
-        }
-    },
-    "xELHgXgx7i": {
-        "id": "xELHgXgx7i",
-        "title": "Ночной мир. Тайный Вампир",
-        "author": "Лиза Джейн Смит",
-        "notes": "",
-        "createdAt": "2017-11-23 18:31:14",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 41
         }
     }
 }
