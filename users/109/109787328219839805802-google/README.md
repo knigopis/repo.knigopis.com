@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>35</sup>
+# List of books read by Rainbow<sup>36</sup>
 ---
 
 ## 2017
+
+### Стена
+Леонид Андреев
+> [2017-11-28] 
+
 
 ### "Старуха Изергиль"
 Максим Горький
