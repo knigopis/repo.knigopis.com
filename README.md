@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>38</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>37</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>602</sup> 
 
 
-_28.11.2017 18:00:25_
+_28.11.2017 18:00:39_
