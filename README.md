@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[GesundeR](users/101/101157696376156109420-google)<sup>0</sup> 
+[GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>160</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Evgen1901](users/193/193175070-vkontakte)<sup>76</sup> 
 
 
-_28.11.2017 19:47:07_
+_28.11.2017 19:47:49_

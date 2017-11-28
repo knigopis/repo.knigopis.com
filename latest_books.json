@@ -1,4 +1,16 @@
 {
+    "rVJfhKw8Ib": {
+        "id": "rVJfhKw8Ib",
+        "title": "Test",
+        "author": "Test",
+        "notes": "",
+        "createdAt": "2017-11-28 19:47:49",
+        "user": {
+            "id": "101157696376156109420-google",
+            "nickname": "GesundeR",
+            "booksCount": 1
+        }
+    },
     "ccQuEaRjmb": {
         "id": "ccQuEaRjmb",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 46
-        }
-    },
-    "glQ1VhuAYP": {
-        "id": "glQ1VhuAYP",
-        "title": "Агрессор",
-        "author": "Пенелопа Дуглас",
-        "notes": "",
-        "createdAt": "2017-11-23 18:36:03",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 45
         }
     }
 }
