@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>160</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kris_didenko](users/185/185728745-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>159</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
 [Дмитрий](users/117/117810198385083752494-google)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>130</sup> 
 
 
-_28.11.2017 18:58:24_
+_28.11.2017 19:20:28_

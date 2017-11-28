@@ -1,4 +1,16 @@
 {
+    "ccQuEaRjmb": {
+        "id": "ccQuEaRjmb",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-11-28 19:20:28",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 160
+        }
+    },
     "bx_LPMvE6x": {
         "id": "bx_LPMvE6x",
         "title": "История любви",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 45
-        }
-    },
-    "rTI9vYgADZ": {
-        "id": "rTI9vYgADZ",
-        "title": "Испорченный",
-        "author": "Пенелопа Дуглас",
-        "notes": "",
-        "createdAt": "2017-11-23 18:35:01",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 44
         }
     }
 }
