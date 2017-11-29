@@ -1,4 +1,16 @@
 {
+    "lUAOZ7-Dby": {
+        "id": "lUAOZ7-Dby",
+        "title": "Трое в лодке, не считая собаки",
+        "author": "Джером К Джером",
+        "notes": "",
+        "createdAt": "2017-11-29 05:40:53",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 226
+        }
+    },
     "rVJfhKw8Ib": {
         "id": "rVJfhKw8Ib",
         "title": "Test",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 47
-        }
-    },
-    "m1Odd_TbiE": {
-        "id": "m1Odd_TbiE",
-        "title": "Улица темных лавок",
-        "author": "Патрик Модиано",
-        "notes": "не понравилась вообще...",
-        "createdAt": "2017-11-23 18:37:09",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 46
         }
     }
 }

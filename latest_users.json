@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 226,
+        "updatedAt": "2017-11-29 05:40:53"
+    },
     "438040436-vkontakte": {
         "id": "438040436-vkontakte",
         "nickname": "ihor.onysko",
@@ -172,11 +178,5 @@
         "nickname": "beiner",
         "booksCount": 14,
         "updatedAt": "2017-11-20 18:37:08"
-    },
-    "118330474331574680123-googleplus": {
-        "id": "118330474331574680123-googleplus",
-        "nickname": "alexandrabeiner",
-        "booksCount": 0,
-        "updatedAt": "2017-11-20 18:30:59"
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>160</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 [thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>14</sup> 
-[alexandrabeiner](users/118/118330474331574680123-googleplus)<sup>0</sup> 
 
 
-_28.11.2017 21:28:49_
+_29.11.2017 05:40:53_
