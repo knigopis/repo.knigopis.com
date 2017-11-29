@@ -1,4 +1,16 @@
 {
+    "PLYKOdDgzO": {
+        "id": "PLYKOdDgzO",
+        "title": "Опрокинутый горизонт",
+        "author": "Марк Леви",
+        "notes": "",
+        "createdAt": "2017-11-29 13:09:29",
+        "user": {
+            "id": "191788437-vkontakte",
+            "nickname": "mbericheva",
+            "booksCount": 2
+        }
+    },
     "l0yzGmeFi-": {
         "id": "l0yzGmeFi-",
         "title": "почему французик носит руку на перевязи",
@@ -344,18 +356,6 @@
         "user": {
             "id": "45120610-vkontakte",
             "nickname": "elfinady",
-            "booksCount": 1
-        }
-    },
-    "WV8kfZNFpQ": {
-        "id": "WV8kfZNFpQ",
-        "title": "Капитал в 21 веке",
-        "author": "Томас Пикетти",
-        "notes": "",
-        "createdAt": "2017-11-25 13:22:10",
-        "user": {
-            "id": "117810198385083752494-google",
-            "nickname": "Дмитрий",
             "booksCount": 1
         }
     }

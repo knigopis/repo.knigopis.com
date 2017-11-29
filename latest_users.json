@@ -1,4 +1,10 @@
 {
+    "191788437-vkontakte": {
+        "id": "191788437-vkontakte",
+        "nickname": "mbericheva",
+        "booksCount": 2,
+        "updatedAt": "2017-11-29 13:09:29"
+    },
     "180139283-vkontakte": {
         "id": "180139283-vkontakte",
         "nickname": "miracolo_bella",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 110,
         "updatedAt": "2017-11-21 07:14:27"
-    },
-    "110747872-vkontakte": {
-        "id": "110747872-vkontakte",
-        "nickname": "thediman2",
-        "booksCount": 0,
-        "updatedAt": "2017-11-20 18:58:33"
     }
 }

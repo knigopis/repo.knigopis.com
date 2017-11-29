@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>61</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>13</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
-[thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
 
 
-_29.11.2017 12:49:28_
+_29.11.2017 13:09:29_
