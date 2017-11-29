@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 14,
+        "updatedAt": "2017-11-29 13:33:41"
+    },
     "191788437-vkontakte": {
         "id": "191788437-vkontakte",
         "nickname": "mbericheva",
@@ -160,12 +166,6 @@
         "nickname": "Rocket98",
         "booksCount": 1,
         "updatedAt": "2017-11-21 14:38:20"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 13,
-        "updatedAt": "2017-11-21 10:10:40"
     },
     "344463129-vkontakte": {
         "id": "344463129-vkontakte",
