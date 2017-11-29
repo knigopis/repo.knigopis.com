@@ -1,6 +1,9 @@
 # Wish list of books by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)
 ---
 
+### `50` Мартин Иден
+Джек Лндон
+
 ### `50` Повелитель мух
 Уильям Голдинг
 
