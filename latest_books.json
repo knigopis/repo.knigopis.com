@@ -1,4 +1,16 @@
 {
+    "8DxTc-6SIq": {
+        "id": "8DxTc-6SIq",
+        "title": "морелла",
+        "author": "Эдгар Аллан По",
+        "notes": "",
+        "createdAt": "2017-11-29 12:48:25",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 58
+        }
+    },
     "FxcR986oZj": {
         "id": "FxcR986oZj",
         "title": "береника",
@@ -345,18 +357,6 @@
             "id": "645367365616748-facebook",
             "nickname": "Яоки",
             "booksCount": 50
-        }
-    },
-    "0_ccWNGLiw": {
-        "id": "0_ccWNGLiw",
-        "title": "Девушка на неделю",
-        "author": "Моника Мерфи",
-        "notes": "",
-        "createdAt": "2017-11-23 18:40:58",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 49
         }
     }
 }
