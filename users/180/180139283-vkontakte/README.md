@@ -1,7 +1,12 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>58</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>59</sup>
 ---
 
 ## 2017
+
+### лигейя
+Эдгар Аллан По
+> [2017-11] 
+
 
 ### морелла
 Эдгар Аллан По

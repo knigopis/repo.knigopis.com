@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miracolo_bella](users/180/180139283-vkontakte)<sup>58</sup> 
+[miracolo_bella](users/180/180139283-vkontakte)<sup>59</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [thediman2](users/110/110747872-vkontakte)<sup>0</sup> 
 
 
-_29.11.2017 12:48:25_
+_29.11.2017 12:48:43_
