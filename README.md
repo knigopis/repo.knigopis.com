@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>278</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>61</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>23</sup> 
 [Artem](users/104/104708525191282411034-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>277</sup> 
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 
 
-_29.11.2017 13:33:42_
+_29.11.2017 15:40:39_
