@@ -1,4 +1,10 @@
 {
+    "180139283-vkontakte": {
+        "id": "180139283-vkontakte",
+        "nickname": "miracolo_bella",
+        "booksCount": 56,
+        "updatedAt": "2017-11-29 12:47:49"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "thediman2",
         "booksCount": 0,
         "updatedAt": "2017-11-20 18:58:33"
-    },
-    "118330474331574680123-google": {
-        "id": "118330474331574680123-google",
-        "nickname": "beiner",
-        "booksCount": 14,
-        "updatedAt": "2017-11-20 18:37:08"
     }
 }
