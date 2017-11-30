@@ -4,15 +4,18 @@
 ### `99` Мертвые души
 Николай Гоголь
 
+### `99` Learn You a Haskell for Great Good
+Miran Lipovača
+
+### `99` Повелитель мух
+Уильям Голдинг
+
 ### `99` Effective Java
 Joshua Bloch
 > Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
-
-### `99` Повелитель мух
-Уильям Голдинг
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
@@ -26,9 +29,6 @@ Dmitry Jemerov, Svetlana Isakova
 
 ### `61` Joel on Software
 Joel Spolsky
-
-### `55` Learn You a Haskell for Great Good
-Miran Lipovača
 
 ### `54` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
