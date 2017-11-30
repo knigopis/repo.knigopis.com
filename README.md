@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
+    > Книга понравилась меньше, чем "10 негритят" и "Убийство в Восточном экспрессе". Интересно, но предсказуемо
+
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
     > Оливеру Баррэт (приготовишка), Дженни Кавиллери, Филл
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Я не ожидала, что будет такое тусклое окончание. Но, скорее всего, Гренуй и не заслуживал яркости
 
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
-    > Книга о девушке, которая проезжала мимо одного и того же дома в поезде постоянно и однажды увидела как пара, которую она наблюдала каждый раз из поезда, вдруг лишилась одного партнёра. И позже увидела вывески о пропаже девушки.
 
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
 
-* Гарри Поттер и философский камень ~ [Sky](users/118/118049897850017649660-google)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>278</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>160</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 
 
-_30.11.2017 12:59:29_
+_30.11.2017 18:02:05_

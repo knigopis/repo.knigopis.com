@@ -1,4 +1,16 @@
 {
+    "f5s2uxvbY0": {
+        "id": "f5s2uxvbY0",
+        "title": "Смерть на Ниле",
+        "author": "Агата Кристи",
+        "notes": "Книга понравилась меньше, чем \"10 негритят\" и \"Убийство в Восточном экспрессе\". Интересно, но предсказуемо",
+        "createdAt": "2017-11-30 18:02:05",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 161
+        }
+    },
     "bx_LPMvE6x": {
         "id": "bx_LPMvE6x",
         "title": "История любви",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 36
-        }
-    },
-    "4KTEM-b-VC": {
-        "id": "4KTEM-b-VC",
-        "title": "Фиолетовая корова. Сделайте свой бизнес выдающимся!",
-        "author": "Годин С.",
-        "notes": "https://www.ozon.ru/context/detail/id/20910952/\n\nв процессе",
-        "createdAt": "2017-11-15 19:23:18",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 130
         }
     }
 }
