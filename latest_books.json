@@ -1,4 +1,16 @@
 {
+    "I0skPvYyRK": {
+        "id": "I0skPvYyRK",
+        "title": "Рождение Стальной Крысы",
+        "author": "Гарри Гаррисон",
+        "notes": "",
+        "createdAt": "2017-11-30 12:59:29",
+        "user": {
+            "id": "208860954-vkontakte",
+            "nickname": "flowersaside",
+            "booksCount": 1
+        }
+    },
     "2I5MLOW_yX": {
         "id": "2I5MLOW_yX",
         "title": "Объяли меня воды до глубины души моей",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 126
-        }
-    },
-    "3tSGVCaVC3": {
-        "id": "3tSGVCaVC3",
-        "title": "Лорен Оливер - Прежде чем я упаду",
-        "author": "Лорен Оливер",
-        "notes": "",
-        "createdAt": "2017-11-26 07:54:19",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 125
         }
     }
 }

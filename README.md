@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[flowersaside](users/208/208860954-vkontakte)<sup>0</sup> 
+[flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>278</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 
 
-_30.11.2017 12:57:12_
+_30.11.2017 12:59:29_
