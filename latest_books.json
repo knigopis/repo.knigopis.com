@@ -1,4 +1,16 @@
 {
+    "2I5MLOW_yX": {
+        "id": "2I5MLOW_yX",
+        "title": "Объяли меня воды до глубины души моей",
+        "author": "Оэ Кэндзабуро",
+        "notes": "",
+        "createdAt": "2017-11-30 06:58:38",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 603
+        }
+    },
     "AAnVZxlfFK": {
         "id": "AAnVZxlfFK",
         "title": "Золотые костры",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 125
-        }
-    },
-    "s50qL1TmEx": {
-        "id": "s50qL1TmEx",
-        "title": "Магическая уборка. Японское искусство наведения порядка дома и в жизни",
-        "author": "Мари Кондо",
-        "notes": "",
-        "createdAt": "2017-11-25 14:57:39",
-        "user": {
-            "id": "645367365616748-facebook",
-            "nickname": "Яоки",
-            "booksCount": 51
         }
     }
 }

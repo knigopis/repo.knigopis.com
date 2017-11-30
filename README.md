@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>603</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>278</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Artem](users/104/104708525191282411034-google)<sup>1</sup> 
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 [healer](users/344/344463129-vkontakte)<sup>0</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>110</sup> 
 
 
-_29.11.2017 15:40:39_
+_30.11.2017 06:58:39_
