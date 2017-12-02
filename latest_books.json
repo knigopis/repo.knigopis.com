@@ -1,4 +1,16 @@
 {
+    "lKE6mfi2wp": {
+        "id": "lKE6mfi2wp",
+        "title": "Один день Ивана Денисовича",
+        "author": "Александр Исаевич Солженицын",
+        "notes": "Сурово, но правда. Классика.",
+        "createdAt": "2017-12-02 19:02:00",
+        "user": {
+            "id": "43338777-vkontakte",
+            "nickname": "manchini88",
+            "booksCount": 1
+        }
+    },
     "BP2L_oZYVJ": {
         "id": "BP2L_oZYVJ",
         "title": "Мазки кистью",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 59
-        }
-    },
-    "8DxTc-6SIq": {
-        "id": "8DxTc-6SIq",
-        "title": "морелла",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-11-29 12:48:25",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 58
         }
     }
 }
