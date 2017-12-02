@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
 [pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
-[S.T.A.L.K.E.R.](users/194/194352149-vkontakte)<sup>1</sup> 
 
 
-_02.12.2017 12:14:07_
+_02.12.2017 12:37:08_
