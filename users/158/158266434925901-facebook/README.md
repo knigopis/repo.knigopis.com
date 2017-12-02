@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>29</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>30</sup>
 ---
 
 ## 2017
+
+### Бесплодные земли
+Стивен Кинг
+> [2017-07] Серия "Темная Башня" - 3
+
 
 ### Извлечение троих
 Стивен Кинг
