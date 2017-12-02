@@ -1,4 +1,16 @@
 {
+    "M_GXnykevw": {
+        "id": "M_GXnykevw",
+        "title": "Блюз суккуба",
+        "author": "Райчел Мид",
+        "notes": "Серия \"Джорджина Кинкейд\" - 1",
+        "createdAt": "2017-12-02 18:50:33",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 8
+        }
+    },
     "8C2YRuOFXF": {
         "id": "8C2YRuOFXF",
         "title": "Палач",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 47
-        }
-    },
-    "4MCJ_Iddm6": {
-        "id": "4MCJ_Iddm6",
-        "title": "Человек в футляре",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2017-11-28 18:06:46",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 39
         }
     }
 }
