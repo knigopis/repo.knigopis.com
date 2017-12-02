@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>8</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>9</sup>
 ---
 
 ## 2012
+
+### Голод суккуба
+Райчел Мид
+> Серия "Джорджина Кинкейд" - 2
+
 
 ### Блюз суккуба
 Райчел Мид
