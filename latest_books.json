@@ -1,4 +1,16 @@
 {
+    "FUujInTrYD": {
+        "id": "FUujInTrYD",
+        "title": "Тень суккуба",
+        "author": "Райчел Мид",
+        "notes": "Серия \"Джорджина Кинкейд\" - 5",
+        "createdAt": "2017-12-02 18:59:50",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 12
+        }
+    },
     "ADPbJTPq0D": {
         "id": "ADPbJTPq0D",
         "title": "Ярость суккуба",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 56
-        }
-    },
-    "lUAOZ7-Dby": {
-        "id": "lUAOZ7-Dby",
-        "title": "Трое в лодке, не считая собаки",
-        "author": "Джером К Джером",
-        "notes": "",
-        "createdAt": "2017-11-29 05:40:53",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 226
         }
     }
 }
