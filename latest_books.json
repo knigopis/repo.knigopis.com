@@ -1,4 +1,16 @@
 {
+    "NkB-yEXwwg": {
+        "id": "NkB-yEXwwg",
+        "title": "Милые кости",
+        "author": "Эллис Сиболд",
+        "notes": "",
+        "createdAt": "2017-12-02 19:12:33",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 22
+        }
+    },
     "WFeK2gxP7R": {
         "id": "WFeK2gxP7R",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 161
-        }
-    },
-    "I0skPvYyRK": {
-        "id": "I0skPvYyRK",
-        "title": "Рождение Стальной Крысы",
-        "author": "Гарри Гаррисон",
-        "notes": "",
-        "createdAt": "2017-11-30 12:59:29",
-        "user": {
-            "id": "208860954-vkontakte",
-            "nickname": "flowersaside",
-            "booksCount": 1
         }
     }
 }
