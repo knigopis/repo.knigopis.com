@@ -1,4 +1,16 @@
 {
+    "Ln5dM-ipjT": {
+        "id": "Ln5dM-ipjT",
+        "title": "Человек, который смеется",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2017-12-02 19:05:08",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 16
+        }
+    },
     "vfWvOjqnfb": {
         "id": "vfWvOjqnfb",
         "title": "Мост через вечность",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 61
-        }
-    },
-    "Cg1GEH_6_W": {
-        "id": "Cg1GEH_6_W",
-        "title": "черт на колокольне",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-11-29 12:49:01",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 60
         }
     }
 }
