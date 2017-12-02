@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>279</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>278</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>61</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rocket98](users/116/116711663180785343859-google)<sup>1</sup> 
 
 
-_30.11.2017 18:02:05_
+_02.12.2017 06:15:41_
