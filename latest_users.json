@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 42,
+        "updatedAt": "2017-12-02 12:14:07"
+    },
     "295913564-vkontakte": {
         "id": "295913564-vkontakte",
         "nickname": "morw_mor",
@@ -172,11 +178,5 @@
         "nickname": "S.T.A.L.K.E.R.",
         "booksCount": 1,
         "updatedAt": "2017-11-22 09:32:56"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 23,
-        "updatedAt": "2017-11-22 04:49:29"
     }
 }
