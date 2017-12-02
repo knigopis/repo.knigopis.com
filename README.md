@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[manchini88](users/433/43338777-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>10</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>68</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
 [Дмитрий](users/117/117810198385083752494-google)<sup>1</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
-[Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 
 
-_02.12.2017 18:57:59_
+_02.12.2017 18:58:34_
