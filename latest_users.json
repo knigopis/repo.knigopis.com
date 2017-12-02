@@ -1,4 +1,10 @@
 {
+    "102381017814242296130-google": {
+        "id": "102381017814242296130-google",
+        "nickname": "klimentev",
+        "booksCount": 0,
+        "updatedAt": "2017-12-02 12:37:04"
+    },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
         "nickname": "AlexeyNovikov",
@@ -172,11 +178,5 @@
         "nickname": "Ксюша",
         "booksCount": 0,
         "updatedAt": "2017-11-22 16:14:45"
-    },
-    "194352149-vkontakte": {
-        "id": "194352149-vkontakte",
-        "nickname": "S.T.A.L.K.E.R.",
-        "booksCount": 1,
-        "updatedAt": "2017-11-22 09:32:56"
     }
 }
