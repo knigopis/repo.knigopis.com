@@ -1,4 +1,16 @@
 {
+    "WFeK2gxP7R": {
+        "id": "WFeK2gxP7R",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниэл Киз",
+        "notes": "",
+        "createdAt": "2017-12-02 19:07:31",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 21
+        }
+    },
     "_uMi6W2ZP9": {
         "id": "_uMi6W2ZP9",
         "title": "Кэрри",
@@ -345,18 +357,6 @@
             "id": "208860954-vkontakte",
             "nickname": "flowersaside",
             "booksCount": 1
-        }
-    },
-    "2I5MLOW_yX": {
-        "id": "2I5MLOW_yX",
-        "title": "Объяли меня воды до глубины души моей",
-        "author": "Оэ Кэндзабуро",
-        "notes": "",
-        "createdAt": "2017-11-30 06:58:38",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 603
         }
     }
 }
