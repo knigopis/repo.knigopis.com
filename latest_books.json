@@ -1,4 +1,16 @@
 {
+    "fNXGQQeVSd": {
+        "id": "fNXGQQeVSd",
+        "title": "Поцелуй вампира 1",
+        "author": "Элен Шрайбер",
+        "notes": "",
+        "createdAt": "2017-12-02 18:42:32",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 1
+        }
+    },
     "ksSbR2ZidA": {
         "id": "ksSbR2ZidA",
         "title": "Слабость Виктории Бергман",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 36
-        }
-    },
-    "JgMM8ge-RR": {
-        "id": "JgMM8ge-RR",
-        "title": "Юшка",
-        "author": "Андрей Платонов",
-        "notes": "",
-        "createdAt": "2017-11-28 17:57:19",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 35
         }
     }
 }
