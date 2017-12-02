@@ -1,4 +1,16 @@
 {
+    "rQOI-jan4X": {
+        "id": "rQOI-jan4X",
+        "title": "Узорный покров",
+        "author": "Моэм",
+        "notes": "",
+        "createdAt": "2017-12-02 08:47:56",
+        "user": {
+            "id": "295913564-vkontakte",
+            "nickname": "morw_mor",
+            "booksCount": 2
+        }
+    },
     "O-85FT5M-V": {
         "id": "O-85FT5M-V",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 9
-        }
-    },
-    "Jpz5kk1odm": {
-        "id": "Jpz5kk1odm",
-        "title": "Канбан. Альтернативный путь в Agile",
-        "author": "Дэвид Андерсон",
-        "notes": "",
-        "createdAt": "2017-11-26 20:41:28",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 58
         }
     }
 }
