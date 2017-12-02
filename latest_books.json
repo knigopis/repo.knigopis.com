@@ -1,4 +1,16 @@
 {
+    "xaDmk5_WDF": {
+        "id": "xaDmk5_WDF",
+        "title": "Падение дома Ашеров. Сборник",
+        "author": "Эдгар Алан По",
+        "notes": "Издание Minibook. 4 рассказа.",
+        "createdAt": "2017-12-02 19:43:33",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 37
+        }
+    },
     "djRj0NziuJ": {
         "id": "djRj0NziuJ",
         "title": "Тёмная Башня",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 9
-        }
-    },
-    "M_GXnykevw": {
-        "id": "M_GXnykevw",
-        "title": "Блюз суккуба",
-        "author": "Райчел Мид",
-        "notes": "Серия \"Джорджина Кинкейд\" - 1",
-        "createdAt": "2017-12-02 18:50:33",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 8
         }
     }
 }
