@@ -1,4 +1,16 @@
 {
+    "bbNLV2PRUC": {
+        "id": "bbNLV2PRUC",
+        "title": "Игры демиургов",
+        "author": "Петр Бормор",
+        "notes": "",
+        "createdAt": "2017-12-02 19:06:52",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 19
+        }
+    },
     "TeE6aI66hW": {
         "id": "TeE6aI66hW",
         "title": "Дом странных детей 2",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 278
-        }
-    },
-    "usm0S3xmGu": {
-        "id": "usm0S3xmGu",
-        "title": "Колыбель для кошки",
-        "author": "Курт Вонегут",
-        "notes": "",
-        "createdAt": "2017-11-29 13:33:41",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 14
         }
     }
 }
