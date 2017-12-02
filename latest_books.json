@@ -1,4 +1,16 @@
 {
+    "e1DLr7PA5O": {
+        "id": "e1DLr7PA5O",
+        "title": "Поцелуй вампира 2",
+        "author": "Эллен Шрайбер",
+        "notes": "",
+        "createdAt": "2017-12-02 18:43:10",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 2
+        }
+    },
     "fNXGQQeVSd": {
         "id": "fNXGQQeVSd",
         "title": "Поцелуй вампира 1",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 37
-        }
-    },
-    "NWcvhKNbY1": {
-        "id": "NWcvhKNbY1",
-        "title": "Стена",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-11-28 17:58:34",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 36
         }
     }
 }
