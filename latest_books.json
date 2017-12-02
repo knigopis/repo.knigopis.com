@@ -1,4 +1,16 @@
 {
+    "O-85FT5M-V": {
+        "id": "O-85FT5M-V",
+        "title": "",
+        "author": "моэм",
+        "notes": "",
+        "createdAt": "2017-12-02 08:46:37",
+        "user": {
+            "id": "295913564-vkontakte",
+            "nickname": "morw_mor",
+            "booksCount": 1
+        }
+    },
     "iSqY8nhxwz": {
         "id": "iSqY8nhxwz",
         "title": "Харизма лидера",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 58
-        }
-    },
-    "X6iCpnbYUp": {
-        "id": "X6iCpnbYUp",
-        "title": "Властелин ночи",
-        "author": "Дэвид Моррэлл",
-        "notes": "",
-        "createdAt": "2017-11-26 17:19:15",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 66
         }
     }
 }
