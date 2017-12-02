@@ -1,7 +1,11 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>17</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>18</sup>
 ---
 
 ## 2015
+
+### Дом странных детей 2
+Ренсом Риггз
+
 
 ### Дом странных детей 1
 Ренсом Риггз

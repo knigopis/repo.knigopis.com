@@ -1,4 +1,16 @@
 {
+    "TeE6aI66hW": {
+        "id": "TeE6aI66hW",
+        "title": "Дом странных детей 2",
+        "author": "Ренсом Риггз",
+        "notes": "",
+        "createdAt": "2017-12-02 19:06:21",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 18
+        }
+    },
     "y7kexx19dw": {
         "id": "y7kexx19dw",
         "title": "Дом странных детей 1",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 14
-        }
-    },
-    "PLYKOdDgzO": {
-        "id": "PLYKOdDgzO",
-        "title": "Опрокинутый горизонт",
-        "author": "Марк Леви",
-        "notes": "",
-        "createdAt": "2017-11-29 13:09:29",
-        "user": {
-            "id": "191788437-vkontakte",
-            "nickname": "mbericheva",
-            "booksCount": 2
         }
     }
 }
