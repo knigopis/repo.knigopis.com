@@ -1,4 +1,16 @@
 {
+    "_HowQrg6xC": {
+        "id": "_HowQrg6xC",
+        "title": "Академия вампиров 1",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2017-12-02 18:43:55",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 3
+        }
+    },
     "e1DLr7PA5O": {
         "id": "e1DLr7PA5O",
         "title": "Поцелуй вампира 2",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 38
-        }
-    },
-    "WSnuy0PMmL": {
-        "id": "WSnuy0PMmL",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-11-28 17:58:36",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 37
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[GvenVivar ](users/158/158266434925901-facebook)<sup>2</sup> 
+[GvenVivar ](users/158/158266434925901-facebook)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>68</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Эльвира ](users/130/1303742635828659489-mailru)<sup>0</sup> 
 
 
-_02.12.2017 18:43:10_
+_02.12.2017 18:43:55_
