@@ -1,7 +1,11 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>5</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>6</sup>
 ---
 
 ## 2010
+
+### Цена крови
+Таня Хафф
+
 
 ### Ассасин
 Вероника Мелан

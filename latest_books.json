@@ -1,4 +1,16 @@
 {
+    "i3U0_q2FQu": {
+        "id": "i3U0_q2FQu",
+        "title": "Цена крови",
+        "author": "Таня Хафф",
+        "notes": "",
+        "createdAt": "2017-12-02 18:47:21",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 6
+        }
+    },
     "phhl3xPmG-": {
         "id": "phhl3xPmG-",
         "title": "Ассасин",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 39
-        }
-    },
-    "QdXru1Uc-q": {
-        "id": "QdXru1Uc-q",
-        "title": "А зори здесь тихие",
-        "author": "Борис Васильев",
-        "notes": "",
-        "createdAt": "2017-11-28 18:03:39",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 38
         }
     }
 }
