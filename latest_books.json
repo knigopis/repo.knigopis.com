@@ -1,4 +1,16 @@
 {
+    "SU67c35Ai-": {
+        "id": "SU67c35Ai-",
+        "title": "Академия вампиров 2",
+        "author": "Райчел Мид",
+        "notes": "",
+        "createdAt": "2017-12-02 18:45:40",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 4
+        }
+    },
     "_HowQrg6xC": {
         "id": "_HowQrg6xC",
         "title": "Академия вампиров 1",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 39
-        }
-    },
-    "PQAqx9VUYi": {
-        "id": "PQAqx9VUYi",
-        "title": "Туда Искариот",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2017-11-28 17:59:03",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 38
         }
     }
 }
