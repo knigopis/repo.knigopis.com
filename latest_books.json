@@ -1,4 +1,16 @@
 {
+    "XG9S0h-oOv": {
+        "id": "XG9S0h-oOv",
+        "title": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "notes": "",
+        "createdAt": "2017-12-02 19:15:33",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 25
+        }
+    },
     "1X2WKyWRPr": {
         "id": "1X2WKyWRPr",
         "title": "Мастер и Маргарита",
@@ -345,18 +357,6 @@
             "id": "295913564-vkontakte",
             "nickname": "morw_mor",
             "booksCount": 2
-        }
-    },
-    "O-85FT5M-V": {
-        "id": "O-85FT5M-V",
-        "title": "",
-        "author": "моэм",
-        "notes": "",
-        "createdAt": "2017-12-02 08:46:37",
-        "user": {
-            "id": "295913564-vkontakte",
-            "nickname": "morw_mor",
-            "booksCount": 1
         }
     }
 }
