@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
+    > Эта часть почти так же хороша, как и первая, и если бы не вставочки про "я растаяла от его улыбки", придраться было бы не к чему.
+
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
     > Книга понравилась меньше, чем "10 негритят" и "Убийство в Восточном экспрессе". Интересно, но предсказуемо
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Оливеру Баррэт (приготовишка), Дженни Кавиллери, Филл
 
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
-    > Я не ожидала, что будет такое тусклое окончание. Но, скорее всего, Гренуй и не заслуживал яркости
 
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
 
-* Я вещаю из гробницы ~ [Sky](users/118/118049897850017649660-google)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>67</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>66</sup> 
 [m0rion](users/189/189051427-vkontakte)<sup>0</sup> 
 [kris_didenko](users/185/185728745-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 
 
-_02.12.2017 12:37:08_
+_02.12.2017 14:22:06_

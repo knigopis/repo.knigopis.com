@@ -1,4 +1,16 @@
 {
+    "U9-I-Bva5w": {
+        "id": "U9-I-Bva5w",
+        "title": "Крадущаяся тень",
+        "author": "Джонатан Страуд",
+        "notes": "Эта часть почти так же хороша, как и первая, и если бы не вставочки про \"я растаяла от его улыбки\", придраться было бы не к чему.",
+        "createdAt": "2017-12-02 14:22:06",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 67
+        }
+    },
     "asZFiS8nEl": {
         "id": "asZFiS8nEl",
         "title": "Башня ласточки. Ведьмак",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 29
-        }
-    },
-    "MmOye6-MQH": {
-        "id": "MmOye6-MQH",
-        "title": "Болтунья",
-        "author": "Вернор Видж",
-        "notes": "",
-        "createdAt": "2017-11-27 18:11:26",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 9
         }
     }
 }

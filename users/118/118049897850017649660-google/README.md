@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>66</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>67</sup>
 ---
 
 ## 2017
+
+### Крадущаяся тень
+Джонатан Страуд
+> [2017-11-30] Эта часть почти так же хороша, как и первая, и если бы не вставочки про "я растаяла от его улыбки", придраться было бы не к чему.
+
 
 ### Властелин ночи (3)
 Дэвид Моррэлл
