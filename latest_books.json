@@ -1,4 +1,16 @@
 {
+    "ksSbR2ZidA": {
+        "id": "ksSbR2ZidA",
+        "title": "Слабость Виктории Бергман",
+        "author": "Эрик Аксл Сунд",
+        "notes": "",
+        "createdAt": "2017-12-02 14:23:59",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 68
+        }
+    },
     "U9-I-Bva5w": {
         "id": "U9-I-Bva5w",
         "title": "Крадущаяся тень",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 35
-        }
-    },
-    "mNOtOeXPRu": {
-        "id": "mNOtOeXPRu",
-        "title": "Парфюмер. История одного убийцы",
-        "author": "Патрик Зюскинд",
-        "notes": "Я не ожидала, что будет такое тусклое окончание. Но, скорее всего, Гренуй и не заслуживал яркости",
-        "createdAt": "2017-11-27 19:56:28",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 29
         }
     }
 }

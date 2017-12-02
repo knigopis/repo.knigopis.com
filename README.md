@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>67</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>68</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ксюша](users/257/257699470-vkontakte)<sup>0</sup> 
 
 
-_02.12.2017 14:22:06_
+_02.12.2017 14:23:59_
