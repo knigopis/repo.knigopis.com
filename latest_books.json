@@ -1,4 +1,16 @@
 {
+    "FjbhFTAeE9": {
+        "id": "FjbhFTAeE9",
+        "title": "Франкенштейн или современный Прометей",
+        "author": "Мэри Шелли",
+        "notes": "",
+        "createdAt": "2017-12-02 19:44:45",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 38
+        }
+    },
     "xaDmk5_WDF": {
         "id": "xaDmk5_WDF",
         "title": "Падение дома Ашеров. Сборник",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 10
-        }
-    },
-    "OpnRyns3Qq": {
-        "id": "OpnRyns3Qq",
-        "title": "Голод суккуба",
-        "author": "Райчел Мид",
-        "notes": "Серия \"Джорджина Кинкейд\" - 2",
-        "createdAt": "2017-12-02 18:55:04",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 9
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>37</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>38</sup>
 ---
 
 ## 2017
+
+### Франкенштейн или современный Прометей
+Мэри Шелли
+> [2017-11-07] 
+
 
 ### Падение дома Ашеров. Сборник
 Эдгар Алан По
