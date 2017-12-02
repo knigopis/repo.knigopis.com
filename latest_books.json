@@ -1,4 +1,16 @@
 {
+    "olZuXcRjuk": {
+        "id": "olZuXcRjuk",
+        "title": "Сны суккуба",
+        "author": "Райчел Мид",
+        "notes": "Серия \"Джорджина Кинкейд\" - 3",
+        "createdAt": "2017-12-02 18:57:58",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 10
+        }
+    },
     "OpnRyns3Qq": {
         "id": "OpnRyns3Qq",
         "title": "Голод суккуба",
@@ -345,18 +357,6 @@
             "id": "101157696376156109420-google",
             "nickname": "GesundeR",
             "booksCount": 1
-        }
-    },
-    "ccQuEaRjmb": {
-        "id": "ccQuEaRjmb",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-11-28 19:20:28",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 160
         }
     }
 }
