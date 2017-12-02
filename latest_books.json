@@ -1,4 +1,16 @@
 {
+    "BP2L_oZYVJ": {
+        "id": "BP2L_oZYVJ",
+        "title": "Мазки кистью",
+        "author": "Райчел Мид",
+        "notes": "Рассказ. Сиквел к серии \"Джорджина Кинкейд\"",
+        "createdAt": "2017-12-02 19:01:29",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 14
+        }
+    },
     "opekb_0xDW": {
         "id": "opekb_0xDW",
         "title": "Разоблачение суккуба",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 58
-        }
-    },
-    "FxcR986oZj": {
-        "id": "FxcR986oZj",
-        "title": "береника",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-11-29 12:48:11",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 57
         }
     }
 }

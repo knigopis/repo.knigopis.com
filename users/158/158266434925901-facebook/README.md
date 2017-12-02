@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>13</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>14</sup>
 ---
 
 ## 2012
+
+### Мазки кистью
+Райчел Мид
+> Рассказ. Сиквел к серии "Джорджина Кинкейд"
+
 
 ### Разоблачение суккуба
 Райчел Мид
