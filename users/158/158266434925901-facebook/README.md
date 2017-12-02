@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>27</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>28</sup>
 ---
 
 ## 2017
+
+### Стрелок
+Стивен Кинг
+> [2017-06] Серия "Темная Башня" - 1
+
 
 ### Портрет Дориана Грея
 Оскар Уайлд
