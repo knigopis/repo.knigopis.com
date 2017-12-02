@@ -1,4 +1,10 @@
 {
+    "43338777-vkontakte": {
+        "id": "43338777-vkontakte",
+        "nickname": "manchini88",
+        "booksCount": 0,
+        "updatedAt": "2017-12-02 18:58:34"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 58,
         "updatedAt": "2017-11-23 14:12:55"
-    },
-    "1303742635828659489-mailru": {
-        "id": "1303742635828659489-mailru",
-        "nickname": "Эльвира ",
-        "booksCount": 0,
-        "updatedAt": "2017-11-22 16:37:25"
     }
 }
