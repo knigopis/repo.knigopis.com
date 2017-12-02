@@ -1,4 +1,16 @@
 {
+    "W-KziBOtAl": {
+        "id": "W-KziBOtAl",
+        "title": "Песнь Сюзанны",
+        "author": "Стивен Кинг",
+        "notes": "Серия \"Темная Башня\" - 6",
+        "createdAt": "2017-12-02 19:27:47",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 35
+        }
+    },
     "4xZPu7BDDQ": {
         "id": "4xZPu7BDDQ",
         "title": "Волки Кальи",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 7
-        }
-    },
-    "i3U0_q2FQu": {
-        "id": "i3U0_q2FQu",
-        "title": "Цена крови",
-        "author": "Таня Хафф",
-        "notes": "",
-        "createdAt": "2017-12-02 18:47:21",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 6
         }
     }
 }

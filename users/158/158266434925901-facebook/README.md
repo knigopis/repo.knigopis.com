@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>34</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>35</sup>
 ---
 
 ## 2017
+
+### Песнь Сюзанны
+Стивен Кинг
+> [2017-09] Серия "Темная Башня" - 6
+
 
 ### Волки Кальи
 Стивен Кинг
