@@ -1,4 +1,16 @@
 {
+    "6YILpqx6aR": {
+        "id": "6YILpqx6aR",
+        "title": "Извлечение троих",
+        "author": "Стивен Кинг",
+        "notes": "Серия \"Темная Башня\" - 2",
+        "createdAt": "2017-12-02 19:21:27",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 29
+        }
+    },
     "aNGZ5twELw": {
         "id": "aNGZ5twELw",
         "title": "Стрелок",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 1
-        }
-    },
-    "ksSbR2ZidA": {
-        "id": "ksSbR2ZidA",
-        "title": "Слабость Виктории Бергман",
-        "author": "Эрик Аксл Сунд",
-        "notes": "",
-        "createdAt": "2017-12-02 14:23:59",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 68
         }
     }
 }
