@@ -1,4 +1,16 @@
 {
+    "uIP7fgz0xX": {
+        "id": "uIP7fgz0xX",
+        "title": "Ветер сквозь замочную скважину",
+        "author": "Стивен Кинг",
+        "notes": "Серия \"Темная Башня\" - 4.5",
+        "createdAt": "2017-12-02 19:25:41",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 33
+        }
+    },
     "qlZmbWr3Tl": {
         "id": "qlZmbWr3Tl",
         "title": "Колдун и кристал",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 5
-        }
-    },
-    "SU67c35Ai-": {
-        "id": "SU67c35Ai-",
-        "title": "Академия вампиров 2",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2017-12-02 18:45:40",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 4
         }
     }
 }

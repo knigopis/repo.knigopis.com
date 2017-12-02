@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>32</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>33</sup>
 ---
 
 ## 2017
+
+### Ветер сквозь замочную скважину
+Стивен Кинг
+> [2017-08] Серия "Темная Башня" - 4.5
+
 
 ### Колдун и кристал
 Стивен Кинг
