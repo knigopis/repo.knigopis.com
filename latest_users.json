@@ -1,4 +1,10 @@
 {
+    "295913564-vkontakte": {
+        "id": "295913564-vkontakte",
+        "nickname": "morw_mor",
+        "booksCount": 0,
+        "updatedAt": "2017-12-02 08:45:31"
+    },
     "11953277-vkontakte": {
         "id": "11953277-vkontakte",
         "nickname": "pavel.bazhenov",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 23,
         "updatedAt": "2017-11-22 04:49:29"
-    },
-    "104708525191282411034-google": {
-        "id": "104708525191282411034-google",
-        "nickname": "Artem",
-        "booksCount": 1,
-        "updatedAt": "2017-11-21 19:39:45"
     }
 }
