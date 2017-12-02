@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>10</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>11</sup>
 ---
 
 ## 2012
+
+### Ярость суккуба
+Райчел Мид
+> Серия "Джорджина Кинкейд" - 4
+
 
 ### Сны суккуба
 Райчел Мид
