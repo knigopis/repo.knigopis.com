@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>26</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>27</sup>
 ---
 
 ## 2017
+
+### Портрет Дориана Грея
+Оскар Уайлд
+> [2017-05] 
+
 
 ### Кот без прикрас
 Тэрри Пратчетт

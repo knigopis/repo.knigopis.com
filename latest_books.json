@@ -1,4 +1,16 @@
 {
+    "DVuA3gDc8m": {
+        "id": "DVuA3gDc8m",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2017-12-02 19:18:00",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 27
+        }
+    },
     "8rMmb3ekmm": {
         "id": "8rMmb3ekmm",
         "title": "Кот без прикрас",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 67
-        }
-    },
-    "asZFiS8nEl": {
-        "id": "asZFiS8nEl",
-        "title": "Башня ласточки. Ведьмак",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2017-12-02 12:14:07",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 42
         }
     }
 }
