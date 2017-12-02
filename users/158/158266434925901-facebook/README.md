@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>25</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>26</sup>
 ---
 
 ## 2017
+
+### Кот без прикрас
+Тэрри Пратчетт
+> [2017-05] 
+
 
 ### Преступление и наказание
 Фёдор Достоевский

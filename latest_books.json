@@ -1,4 +1,16 @@
 {
+    "8rMmb3ekmm": {
+        "id": "8rMmb3ekmm",
+        "title": "Кот без прикрас",
+        "author": "Тэрри Пратчетт",
+        "notes": "",
+        "createdAt": "2017-12-02 19:16:58",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 26
+        }
+    },
     "XG9S0h-oOv": {
         "id": "XG9S0h-oOv",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 42
-        }
-    },
-    "rQOI-jan4X": {
-        "id": "rQOI-jan4X",
-        "title": "Узорный покров",
-        "author": "Моэм",
-        "notes": "",
-        "createdAt": "2017-12-02 08:47:56",
-        "user": {
-            "id": "295913564-vkontakte",
-            "nickname": "morw_mor",
-            "booksCount": 2
         }
     }
 }
