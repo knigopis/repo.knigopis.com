@@ -1,4 +1,16 @@
 {
+    "1X2WKyWRPr": {
+        "id": "1X2WKyWRPr",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-12-02 19:13:54",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 24
+        }
+    },
     "mMHYQ0usEW": {
         "id": "mMHYQ0usEW",
         "title": "Не доверяйте кошкам!",
@@ -345,18 +357,6 @@
             "id": "295913564-vkontakte",
             "nickname": "morw_mor",
             "booksCount": 1
-        }
-    },
-    "iSqY8nhxwz": {
-        "id": "iSqY8nhxwz",
-        "title": "Харизма лидера",
-        "author": "Радислав Гандапас",
-        "notes": "",
-        "createdAt": "2017-12-02 06:15:41",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 279
         }
     }
 }
