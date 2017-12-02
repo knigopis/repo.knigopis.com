@@ -1,4 +1,16 @@
 {
+    "_uMi6W2ZP9": {
+        "id": "_uMi6W2ZP9",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-12-02 19:07:07",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 20
+        }
+    },
     "bbNLV2PRUC": {
         "id": "bbNLV2PRUC",
         "title": "Игры демиургов",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 603
-        }
-    },
-    "AAnVZxlfFK": {
-        "id": "AAnVZxlfFK",
-        "title": "Золотые костры",
-        "author": "Алексей пехов",
-        "notes": "",
-        "createdAt": "2017-11-29 15:40:39",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 278
         }
     }
 }
