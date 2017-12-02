@@ -1,4 +1,16 @@
 {
+    "opekb_0xDW": {
+        "id": "opekb_0xDW",
+        "title": "Разоблачение суккуба",
+        "author": "Райчел Мид",
+        "notes": "Серия \"Джорджина Кинкейд\" - 6",
+        "createdAt": "2017-12-02 19:00:26",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 13
+        }
+    },
     "FUujInTrYD": {
         "id": "FUujInTrYD",
         "title": "Тень суккуба",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 57
-        }
-    },
-    "mNIBuMuTD5": {
-        "id": "mNIBuMuTD5",
-        "title": "свидание",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-11-29 12:47:49",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 56
         }
     }
 }

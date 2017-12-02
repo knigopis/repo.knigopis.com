@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>12</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>13</sup>
 ---
 
 ## 2012
+
+### Разоблачение суккуба
+Райчел Мид
+> Серия "Джорджина Кинкейд" - 6
+
 
 ### Тень суккуба
 Райчел Мид
