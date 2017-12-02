@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>31</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>32</sup>
 ---
 
 ## 2017
+
+### Колдун и кристал
+Стивен Кинг
+> [2017-08] Серия "Темная Башня" - 4
+
 
 ### Мегабайт
 Александр Лоскутов

@@ -1,4 +1,16 @@
 {
+    "qlZmbWr3Tl": {
+        "id": "qlZmbWr3Tl",
+        "title": "Колдун и кристал",
+        "author": "Стивен Кинг",
+        "notes": "Серия \"Темная Башня\" - 4",
+        "createdAt": "2017-12-02 19:24:42",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 32
+        }
+    },
     "C8GIjoAyu0": {
         "id": "C8GIjoAyu0",
         "title": "Мегабайт",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 4
-        }
-    },
-    "_HowQrg6xC": {
-        "id": "_HowQrg6xC",
-        "title": "Академия вампиров 1",
-        "author": "Райчел Мид",
-        "notes": "",
-        "createdAt": "2017-12-02 18:43:55",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 3
         }
     }
 }
