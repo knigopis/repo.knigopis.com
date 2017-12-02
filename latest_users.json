@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 0,
+        "updatedAt": "2017-12-02 18:21:20"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Эльвира ",
         "booksCount": 0,
         "updatedAt": "2017-11-22 16:37:25"
-    },
-    "257699470-vkontakte": {
-        "id": "257699470-vkontakte",
-        "nickname": "Ксюша",
-        "booksCount": 0,
-        "updatedAt": "2017-11-22 16:14:45"
     }
 }
