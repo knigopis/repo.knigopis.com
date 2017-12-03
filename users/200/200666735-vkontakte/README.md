@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>1</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>2</sup>
 ---
 
 ## 2016
+
+### Зелёная миля
+Стивен Кинг
+> [2016-12-10] 
+
 
 ### Рита Хейуорт и спасение из Шоушенка
 Стивен Кинг
