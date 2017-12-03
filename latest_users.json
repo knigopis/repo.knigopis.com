@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 0,
+        "updatedAt": "2017-12-03 19:26:40"
+    },
     "439343791-vkontakte": {
         "id": "439343791-vkontakte",
         "nickname": "rustammilanist",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 58,
         "updatedAt": "2017-11-26 20:41:28"
-    },
-    "189051427-vkontakte": {
-        "id": "189051427-vkontakte",
-        "nickname": "m0rion",
-        "booksCount": 0,
-        "updatedAt": "2017-11-26 14:26:51"
     }
 }
