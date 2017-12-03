@@ -1,4 +1,4 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>4</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>5</sup>
 ---
 
 ## 2017
@@ -11,6 +11,11 @@
 ### Крёстный отец
 Марио Пьюзо
 > [2017-07-10] 
+
+
+### Бойцовский клуб
+Чак Паланик
+> [2017-06-20] 
 
 
 

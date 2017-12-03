@@ -1,4 +1,16 @@
 {
+    "MmuL6cjP9i": {
+        "id": "MmuL6cjP9i",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2017-12-03 19:45:30",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 5
+        }
+    },
     "C2e3t2jlE-": {
         "id": "C2e3t2jlE-",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 25
-        }
-    },
-    "1X2WKyWRPr": {
-        "id": "1X2WKyWRPr",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-12-02 19:13:54",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 24
         }
     }
 }
