@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
+    > Это писал кто угодно, но не Панов
+
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
     > Эта часть почти так же хороша, как и первая, и если бы не вставочки про "я растаяла от его улыбки", придраться было бы не к чему.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга понравилась меньше, чем "10 негритят" и "Убийство в Восточном экспрессе". Интересно, но предсказуемо
 
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
-    > Оливеру Баррэт (приготовишка), Дженни Кавиллери, Филл
 
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
 
-* Лев, колдунья и платяной шкаф ~ [rNix](users/115/115622071-twitter)<sup>58</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 [kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>39</sup> 
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
 [elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
-[Дмитрий](users/117/117810198385083752494-google)<sup>1</sup> 
 
 
-_03.12.2017 00:01:54_
+_03.12.2017 08:34:25_

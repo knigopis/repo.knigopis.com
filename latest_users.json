@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 37,
+        "updatedAt": "2017-12-03 08:34:25"
+    },
     "4318686540-instagram": {
         "id": "4318686540-instagram",
         "nickname": "kosklimashevich",
@@ -172,11 +178,5 @@
         "nickname": "elfinady",
         "booksCount": 1,
         "updatedAt": "2017-11-25 13:26:38"
-    },
-    "117810198385083752494-google": {
-        "id": "117810198385083752494-google",
-        "nickname": "Дмитрий",
-        "booksCount": 1,
-        "updatedAt": "2017-11-25 13:22:10"
     }
 }

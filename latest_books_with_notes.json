@@ -1,4 +1,16 @@
 {
+    "k3H5anuCR7": {
+        "id": "k3H5anuCR7",
+        "title": "Мертвая королева",
+        "author": "Панов Вадим",
+        "notes": "Это писал кто угодно, но не Панов",
+        "createdAt": "2017-12-03 08:34:25",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 37
+        }
+    },
     "U9-I-Bva5w": {
         "id": "U9-I-Bva5w",
         "title": "Крадущаяся тень",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 28
-        }
-    },
-    "xV30Qi3YVl": {
-        "id": "xV30Qi3YVl",
-        "title": "Открывая организации будущего",
-        "author": "Фредерик Лалу",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/34802279/",
-        "createdAt": "2017-11-16 19:56:26",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 131
         }
     }
 }

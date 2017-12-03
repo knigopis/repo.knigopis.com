@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>36</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>37</sup>
 ---
 
 ## 2017
+
+### Мертвая королева
+Панов Вадим
+> [2017-12] Это писал кто угодно, но не Панов
+
 
 ### Хроники Сиалы. Трилогия
 Пехов Алексей

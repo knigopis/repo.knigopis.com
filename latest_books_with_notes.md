@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
 * Артемис Фаул. Затерянный мир ~ [EsterHani](users/305/30558181-vkontakte)<sup>129</sup>
 * Множественные умы Билли Миллигана ~ [Saamy](users/115/115226508-vkontakte)<sup>28</sup>
-* Открывая организации будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>131</sup>
 
 
-_02.12.2017 14:22:06_
+_03.12.2017 08:34:25_
