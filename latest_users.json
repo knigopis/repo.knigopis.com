@@ -1,4 +1,10 @@
 {
+    "354111412-vkontakte": {
+        "id": "354111412-vkontakte",
+        "nickname": "olegliya",
+        "booksCount": 0,
+        "updatedAt": "2017-12-03 09:11:34"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Яоки",
         "booksCount": 51,
         "updatedAt": "2017-11-25 14:57:39"
-    },
-    "45120610-vkontakte": {
-        "id": "45120610-vkontakte",
-        "nickname": "elfinady",
-        "booksCount": 1,
-        "updatedAt": "2017-11-25 13:26:38"
     }
 }
