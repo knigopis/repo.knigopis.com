@@ -1,4 +1,4 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>6</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>7</sup>
 ---
 
 ## 2017
@@ -33,6 +33,11 @@
 
 
 ## 2015
+
+### Франкенштейн, или Современный Прометей
+Мэри Шелли
+> [2015-09-10] 
+
 
 ### Дракула
 Брэм Стокер

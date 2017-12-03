@@ -1,4 +1,16 @@
 {
+    "szmIbJHn4c": {
+        "id": "szmIbJHn4c",
+        "title": "Франкенштейн, или Современный Прометей",
+        "author": "Мэри Шелли",
+        "notes": "",
+        "createdAt": "2017-12-03 20:16:15",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 7
+        }
+    },
     "CbJ-U4bDpW": {
         "id": "CbJ-U4bDpW",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 27
-        }
-    },
-    "8rMmb3ekmm": {
-        "id": "8rMmb3ekmm",
-        "title": "Кот без прикрас",
-        "author": "Тэрри Пратчетт",
-        "notes": "",
-        "createdAt": "2017-12-02 19:16:58",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 26
         }
     }
 }
