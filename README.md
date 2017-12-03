@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kosklimashevich](users/431/4318686540-instagram)<sup>0</sup> 
+[kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>39</sup> 
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Дмитрий](users/117/117810198385083752494-google)<sup>1</sup> 
 
 
-_03.12.2017 00:00:05_
+_03.12.2017 00:01:54_
