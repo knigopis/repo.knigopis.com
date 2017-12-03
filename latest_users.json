@@ -1,4 +1,10 @@
 {
+    "238356806-vkontakte": {
+        "id": "238356806-vkontakte",
+        "nickname": "Bepebka",
+        "booksCount": 0,
+        "updatedAt": "2017-12-03 10:45:32"
+    },
     "158266434925901-facebook": {
         "id": "158266434925901-facebook",
         "nickname": "GvenVivar ",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 126,
         "updatedAt": "2017-11-26 07:57:55"
-    },
-    "645367365616748-facebook": {
-        "id": "645367365616748-facebook",
-        "nickname": "Яоки",
-        "booksCount": 51,
-        "updatedAt": "2017-11-25 14:57:39"
     }
 }
