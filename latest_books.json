@@ -1,4 +1,16 @@
 {
+    "MUxXnuAHGH": {
+        "id": "MUxXnuAHGH",
+        "title": "Над кукушкиным гнездом",
+        "author": "Кен Кизи",
+        "notes": "",
+        "createdAt": "2017-12-03 19:24:59",
+        "user": {
+            "id": "439343791-vkontakte",
+            "nickname": "rustammilanist",
+            "booksCount": 1
+        }
+    },
     "38EkKKKv5-": {
         "id": "38EkKKKv5-",
         "title": "Гамлет",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 20
-        }
-    },
-    "bbNLV2PRUC": {
-        "id": "bbNLV2PRUC",
-        "title": "Игры демиургов",
-        "author": "Петр Бормор",
-        "notes": "",
-        "createdAt": "2017-12-02 19:06:52",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 19
         }
     }
 }
