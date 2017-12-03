@@ -1,4 +1,16 @@
 {
+    "CbJ-U4bDpW": {
+        "id": "CbJ-U4bDpW",
+        "title": "Дракула",
+        "author": "Брэм Стокер",
+        "notes": "",
+        "createdAt": "2017-12-03 20:15:31",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 6
+        }
+    },
     "MmuL6cjP9i": {
         "id": "MmuL6cjP9i",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 26
-        }
-    },
-    "XG9S0h-oOv": {
-        "id": "XG9S0h-oOv",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Достоевский",
-        "notes": "",
-        "createdAt": "2017-12-02 19:15:33",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 25
         }
     }
 }

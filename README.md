@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mavrentik](users/200/200666735-vkontakte)<sup>5</sup> 
+[mavrentik](users/200/200666735-vkontakte)<sup>6</sup> 
 [rustammilanist](users/439/439343791-vkontakte)<sup>1</sup> 
 [Jack Berkut](users/323/323667452-vkontakte)<sup>5</sup> 
 [Bepebka](users/238/238356806-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
 
 
-_03.12.2017 19:45:30_
+_03.12.2017 20:15:31_
