@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>3</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>4</sup>
 ---
 
 ## 2017
+
+### Великий Гэтсби
+Фрэнсис Скотт Фицджеральд
+> [2017-12-03] 
+
 
 ### Крёстный отец
 Марио Пьюзо

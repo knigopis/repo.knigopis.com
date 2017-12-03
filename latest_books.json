@@ -1,4 +1,16 @@
 {
+    "C2e3t2jlE-": {
+        "id": "C2e3t2jlE-",
+        "title": "Великий Гэтсби",
+        "author": "Фрэнсис Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-12-03 19:44:21",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 4
+        }
+    },
     "FFMD5f8wQZ": {
         "id": "FFMD5f8wQZ",
         "title": "Крёстный отец",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 24
-        }
-    },
-    "mMHYQ0usEW": {
-        "id": "mMHYQ0usEW",
-        "title": "Не доверяйте кошкам!",
-        "author": "Жиль Легардинье",
-        "notes": "",
-        "createdAt": "2017-12-02 19:12:59",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 23
         }
     }
 }
