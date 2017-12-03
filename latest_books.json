@@ -1,4 +1,16 @@
 {
+    "zvdv2_VyqD": {
+        "id": "zvdv2_VyqD",
+        "title": "Лев, колдунья и платяной шкаф",
+        "author": "Клайв Стейплз Льюис",
+        "notes": "",
+        "createdAt": "2017-12-03 14:45:11",
+        "user": {
+            "id": "323667452-vkontakte",
+            "nickname": "Jack Berkut",
+            "booksCount": 3
+        }
+    },
     "iKLT91IeD2": {
         "id": "iKLT91IeD2",
         "title": "Цветы для Элджерона",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 17
-        }
-    },
-    "Ln5dM-ipjT": {
-        "id": "Ln5dM-ipjT",
-        "title": "Человек, который смеется",
-        "author": "Виктор Гюго",
-        "notes": "",
-        "createdAt": "2017-12-02 19:05:08",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 16
         }
     }
 }
