@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Jack Berkut](users/323/323667452-vkontakte)<sup>0</sup> 
 [Bepebka](users/238/238356806-vkontakte)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>40</sup> 
 [olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
 [m0rion](users/189/189051427-vkontakte)<sup>0</sup> 
 [kris_didenko](users/185/185728745-vkontakte)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 
 
-_03.12.2017 10:47:30_
+_03.12.2017 14:40:15_
