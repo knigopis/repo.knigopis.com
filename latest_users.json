@@ -1,4 +1,10 @@
 {
+    "323667452-vkontakte": {
+        "id": "323667452-vkontakte",
+        "nickname": "Jack Berkut",
+        "booksCount": 0,
+        "updatedAt": "2017-12-03 14:40:14"
+    },
     "238356806-vkontakte": {
         "id": "238356806-vkontakte",
         "nickname": "Bepebka",
@@ -172,11 +178,5 @@
         "nickname": "kris_didenko",
         "booksCount": 0,
         "updatedAt": "2017-11-26 11:10:59"
-    },
-    "94738840-vkontakte": {
-        "id": "94738840-vkontakte",
-        "nickname": "Mad Wolf",
-        "booksCount": 126,
-        "updatedAt": "2017-11-26 07:57:55"
     }
 }
