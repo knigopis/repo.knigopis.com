@@ -1,4 +1,4 @@
-# List of books read by [Jack Berkut](http://vk.com/id323667452)<sup>4</sup>
+# List of books read by [Jack Berkut](http://vk.com/id323667452)<sup>5</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Отелло
 У. Шекспир
 > [2017-12-03] 
+
+
+### Гамлет
+У. Шекспир
+> [2017-12-02] 
 
 
 

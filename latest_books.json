@@ -1,4 +1,16 @@
 {
+    "38EkKKKv5-": {
+        "id": "38EkKKKv5-",
+        "title": "Гамлет",
+        "author": "У. Шекспир",
+        "notes": "",
+        "createdAt": "2017-12-03 14:49:16",
+        "user": {
+            "id": "323667452-vkontakte",
+            "nickname": "Jack Berkut",
+            "booksCount": 5
+        }
+    },
     "kS90qe_Br6": {
         "id": "kS90qe_Br6",
         "title": "Отелло",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 19
-        }
-    },
-    "TeE6aI66hW": {
-        "id": "TeE6aI66hW",
-        "title": "Дом странных детей 2",
-        "author": "Ренсом Риггз",
-        "notes": "",
-        "createdAt": "2017-12-02 19:06:21",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 18
         }
     }
 }
