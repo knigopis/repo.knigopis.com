@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 [kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kris_didenko](users/185/185728745-vkontakte)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup> 
 [Яоки](users/645/645367365616748-facebook)<sup>51</sup> 
-[elfinady](users/451/45120610-vkontakte)<sup>1</sup> 
 
 
-_03.12.2017 08:34:25_
+_03.12.2017 09:11:35_
