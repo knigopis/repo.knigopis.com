@@ -1,4 +1,16 @@
 {
+    "qijYCXFWMG": {
+        "id": "qijYCXFWMG",
+        "title": "Ночная смена",
+        "author": "Стивен Кинг",
+        "notes": "Сборник. 20 рассказов",
+        "createdAt": "2017-12-03 09:44:25",
+        "user": {
+            "id": "158266434925901-facebook",
+            "nickname": "GvenVivar ",
+            "booksCount": 40
+        }
+    },
     "k3H5anuCR7": {
         "id": "k3H5anuCR7",
         "title": "Мертвая королева",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 14
-        }
-    },
-    "opekb_0xDW": {
-        "id": "opekb_0xDW",
-        "title": "Разоблачение суккуба",
-        "author": "Райчел Мид",
-        "notes": "Серия \"Джорджина Кинкейд\" - 6",
-        "createdAt": "2017-12-02 19:00:26",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 13
         }
     }
 }

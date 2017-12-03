@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>39</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>40</sup>
 ---
 
 ## 2017
+
+### Ночная смена
+Стивен Кинг
+> [2017-12-03] Сборник. 20 рассказов
+
 
 ### Совсем того!
 Жиль Легардинье
