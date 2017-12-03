@@ -1,4 +1,16 @@
 {
+    "J1XvfYDlQH": {
+        "id": "J1XvfYDlQH",
+        "title": "Евгений Онегин",
+        "author": "А.С. Пушкин",
+        "notes": "",
+        "createdAt": "2017-12-03 14:42:11",
+        "user": {
+            "id": "323667452-vkontakte",
+            "nickname": "Jack Berkut",
+            "booksCount": 1
+        }
+    },
     "uEG8wKRz6V": {
         "id": "uEG8wKRz6V",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 15
-        }
-    },
-    "lKE6mfi2wp": {
-        "id": "lKE6mfi2wp",
-        "title": "Один день Ивана Денисовича",
-        "author": "Александр Исаевич Солженицын",
-        "notes": "Сурово, но правда. Классика.",
-        "createdAt": "2017-12-02 19:02:00",
-        "user": {
-            "id": "43338777-vkontakte",
-            "nickname": "manchini88",
-            "booksCount": 1
         }
     }
 }
