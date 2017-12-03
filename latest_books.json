@@ -1,4 +1,16 @@
 {
+    "uEG8wKRz6V": {
+        "id": "uEG8wKRz6V",
+        "title": "Ночной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "Сильные колебания главного героя. Метания из крайности в крайность. Много отвлекающих маневров.",
+        "createdAt": "2017-12-03 10:47:30",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "Bepebka",
+            "booksCount": 1
+        }
+    },
     "qijYCXFWMG": {
         "id": "qijYCXFWMG",
         "title": "Ночная смена",
@@ -345,18 +357,6 @@
             "id": "43338777-vkontakte",
             "nickname": "manchini88",
             "booksCount": 1
-        }
-    },
-    "BP2L_oZYVJ": {
-        "id": "BP2L_oZYVJ",
-        "title": "Мазки кистью",
-        "author": "Райчел Мид",
-        "notes": "Рассказ. Сиквел к серии \"Джорджина Кинкейд\"",
-        "createdAt": "2017-12-02 19:01:29",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 14
         }
     }
 }
