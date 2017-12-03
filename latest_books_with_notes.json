@@ -1,4 +1,16 @@
 {
+    "0rGclFgFHq": {
+        "id": "0rGclFgFHq",
+        "title": "Rrrr",
+        "author": "Gfxz",
+        "notes": "Ffggg",
+        "createdAt": "2017-12-03 22:18:59",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 33
+        }
+    },
     "k3H5anuCR7": {
         "id": "k3H5anuCR7",
         "title": "Мертвая королева",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 129
-        }
-    },
-    "ZXrVhXxtGf": {
-        "id": "ZXrVhXxtGf",
-        "title": "Множественные умы Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "Очень классная книга. Особенно если понимать, что описанные в ней события были списаны с действительности",
-        "createdAt": "2017-11-17 08:10:55",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 28
         }
     }
 }

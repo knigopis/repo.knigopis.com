@@ -1,4 +1,16 @@
 {
+    "0rGclFgFHq": {
+        "id": "0rGclFgFHq",
+        "title": "Rrrr",
+        "author": "Gfxz",
+        "notes": "Ffggg",
+        "createdAt": "2017-12-03 22:18:59",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 33
+        }
+    },
     "szmIbJHn4c": {
         "id": "szmIbJHn4c",
         "title": "Франкенштейн, или Современный Прометей",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 28
-        }
-    },
-    "DVuA3gDc8m": {
-        "id": "DVuA3gDc8m",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайлд",
-        "notes": "",
-        "createdAt": "2017-12-02 19:18:00",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 27
         }
     }
 }

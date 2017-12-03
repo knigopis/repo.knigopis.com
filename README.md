@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
+    > Ffggg
+
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
     > Это писал кто угодно, но не Панов
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Эта часть почти так же хороша, как и первая, и если бы не вставочки про "я растаяла от его улыбки", придраться было бы не к чему.
 
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
-    > Книга понравилась меньше, чем "10 негритят" и "Убийство в Восточном экспрессе". Интересно, но предсказуемо
 
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
 
-* Янтарный телескоп (Тёмные начала) ~ [Garka](users/115/115753719718250012620-google)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>33</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>7</sup> 
 [rustammilanist](users/439/439343791-vkontakte)<sup>1</sup> 
 [Jack Berkut](users/323/323667452-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>58</sup> 
 
 
-_03.12.2017 20:16:15_
+_03.12.2017 22:18:59_
