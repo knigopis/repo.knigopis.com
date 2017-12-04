@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
+    > орангутанг)
+
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
     > Ffggg
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Это писал кто угодно, но не Панов
 
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
-    > Эта часть почти так же хороша, как и первая, и если бы не вставочки про "я растаяла от его улыбки", придраться было бы не к чему.
 
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
 
-* Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
 [rustammilanist](users/439/439343791-vkontakte)<sup>1</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>61</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 
 
-_04.12.2017 12:42:48_
+_04.12.2017 15:57:18_

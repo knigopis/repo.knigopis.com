@@ -1,4 +1,16 @@
 {
+    "3ue_Stz--3": {
+        "id": "3ue_Stz--3",
+        "title": "Убийство на улице Морг",
+        "author": "Эдгар Аллан По",
+        "notes": "орангутанг)",
+        "createdAt": "2017-12-04 15:57:18",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 62
+        }
+    },
     "LaR9ZFf9ED": {
         "id": "LaR9ZFf9ED",
         "title": "Затерянный мир",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 31
-        }
-    },
-    "dv1KHYp1PF": {
-        "id": "dv1KHYp1PF",
-        "title": "Бесплодные земли",
-        "author": "Стивен Кинг",
-        "notes": "Серия \"Темная Башня\" - 3",
-        "createdAt": "2017-12-02 19:21:53",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 30
         }
     }
 }
