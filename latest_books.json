@@ -1,4 +1,16 @@
 {
+    "LaR9ZFf9ED": {
+        "id": "LaR9ZFf9ED",
+        "title": "Затерянный мир",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2017-12-04 12:42:48",
+        "user": {
+            "id": "200666735-vkontakte",
+            "nickname": "mavrentik",
+            "booksCount": 9
+        }
+    },
     "kGCddZdlPv": {
         "id": "kGCddZdlPv",
         "title": "Алхимик",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 30
-        }
-    },
-    "6YILpqx6aR": {
-        "id": "6YILpqx6aR",
-        "title": "Извлечение троих",
-        "author": "Стивен Кинг",
-        "notes": "Серия \"Темная Башня\" - 2",
-        "createdAt": "2017-12-02 19:21:27",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 29
         }
     }
 }
