@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>69</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>280</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 [kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>68</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 
 
-_05.12.2017 18:38:21_
+_05.12.2017 18:51:38_
