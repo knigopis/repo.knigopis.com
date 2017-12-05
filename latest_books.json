@@ -1,4 +1,16 @@
 {
+    "1bsK7gcbVU": {
+        "id": "1bsK7gcbVU",
+        "title": "Нет оправданий. Сила самодисциплины.",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2017-12-05 06:08:38",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 280
+        }
+    },
     "3ue_Stz--3": {
         "id": "3ue_Stz--3",
         "title": "Убийство на улице Морг",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 32
-        }
-    },
-    "C8GIjoAyu0": {
-        "id": "C8GIjoAyu0",
-        "title": "Мегабайт",
-        "author": "Александр Лоскутов",
-        "notes": "",
-        "createdAt": "2017-12-02 19:23:13",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 31
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 280,
+        "updatedAt": "2017-12-05 06:08:38"
+    },
     "180139283-vkontakte": {
         "id": "180139283-vkontakte",
         "nickname": "miracolo_bella",
@@ -94,12 +100,6 @@
         "nickname": "pavel.bazhenov",
         "booksCount": 0,
         "updatedAt": "2017-12-02 06:46:48"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 279,
-        "updatedAt": "2017-12-02 06:15:41"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

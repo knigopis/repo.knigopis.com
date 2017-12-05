@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>280</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
 [pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>279</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 
 
-_04.12.2017 15:57:18_
+_05.12.2017 06:08:39_
