@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miracolo_bella](users/180/180139283-vkontakte)<sup>63</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>280</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
 [rustammilanist](users/439/439343791-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>9</sup> 
 
 
-_05.12.2017 06:08:39_
+_05.12.2017 18:37:05_
