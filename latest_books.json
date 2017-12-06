@@ -1,4 +1,16 @@
 {
+    "qYMA9Se4JH": {
+        "id": "qYMA9Se4JH",
+        "title": "Песнь златовласой сирены. Тайна воды",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:17:15",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 3
+        }
+    },
     "XmVfP1aU2X": {
         "id": "XmVfP1aU2X",
         "title": "Песнь златовласой сирены. Дыхание ветра",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 39
-        }
-    },
-    "FjbhFTAeE9": {
-        "id": "FjbhFTAeE9",
-        "title": "Франкенштейн или современный Прометей",
-        "author": "Мэри Шелли",
-        "notes": "",
-        "createdAt": "2017-12-02 19:44:45",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 38
         }
     }
 }

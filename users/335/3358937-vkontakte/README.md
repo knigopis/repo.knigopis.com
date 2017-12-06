@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>2</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>3</sup>
 ---
 
 ## 2017
+
+### Песнь златовласой сирены. Тайна воды
+Франциска Вудворт
+> [2017-06] 
+
 
 ### Песнь златовласой сирены. Дыхание ветра
 Франциска Вудворт

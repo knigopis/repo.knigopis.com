@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[amesyatseva](users/335/3358937-vkontakte)<sup>2</sup> 
+[amesyatseva](users/335/3358937-vkontakte)<sup>3</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>69</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>280</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>9</sup> 
 
 
-_06.12.2017 03:16:47_
+_06.12.2017 03:17:15_
