@@ -1,4 +1,4 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>7</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>8</sup>
 ---
 
 ## 2017
@@ -16,6 +16,11 @@
 ### Герцогство на краю
 Надежда Кузьмина
 > [2017-11-23] 
+
+
+### Шепот в темноте
+Елена Звёздная
+> [2017-11-22] 
 
 
 ### Летящая против ветра

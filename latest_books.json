@@ -1,4 +1,16 @@
 {
+    "vmwcfK6i-7": {
+        "id": "vmwcfK6i-7",
+        "title": "Шепот в темноте",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-12-06 03:23:12",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 8
+        }
+    },
     "cJJ6TNZHlm": {
         "id": "cJJ6TNZHlm",
         "title": "Запад и Восток",
@@ -344,18 +356,6 @@
         "user": {
             "id": "323667452-vkontakte",
             "nickname": "Jack Berkut",
-            "booksCount": 1
-        }
-    },
-    "uEG8wKRz6V": {
-        "id": "uEG8wKRz6V",
-        "title": "Ночной дозор",
-        "author": "Сергей Лукьяненко",
-        "notes": "Сильные колебания главного героя. Метания из крайности в крайность. Много отвлекающих маневров.",
-        "createdAt": "2017-12-03 10:47:30",
-        "user": {
-            "id": "238356806-vkontakte",
-            "nickname": "Bepebka",
             "booksCount": 1
         }
     }
