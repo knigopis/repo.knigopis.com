@@ -1,4 +1,16 @@
 {
+    "pS4wne--wh": {
+        "id": "pS4wne--wh",
+        "title": "Обрученные кровью. Отбор",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-12-06 07:52:35",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 30
+        }
+    },
     "35I1OYSMqR": {
         "id": "35I1OYSMqR",
         "title": "Практическая демонология",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 6
-        }
-    },
-    "h1Gg91-9ji": {
-        "id": "h1Gg91-9ji",
-        "title": "Герцогство на краю",
-        "author": "Надежда Кузьмина",
-        "notes": "",
-        "createdAt": "2017-12-06 03:21:20",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 5
         }
     }
 }

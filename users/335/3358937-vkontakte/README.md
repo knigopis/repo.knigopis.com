@@ -1,4 +1,4 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>29</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>30</sup>
 ---
 
 ## 2017
@@ -141,6 +141,11 @@
 ### Глория. Пять сердец тьмы
 Наталья Жильцова
 > [2017-05-05] 
+
+
+### Обрученные кровью. Отбор
+Наталья Жильцова
+> [2017-05-03] 
 
 
 
