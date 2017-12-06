@@ -1,4 +1,16 @@
 {
+    "Jso0uYG6aC": {
+        "id": "Jso0uYG6aC",
+        "title": "Душа императора - Сандерсон Брендон",
+        "author": "Рассказ",
+        "notes": "",
+        "createdAt": "2017-12-06 09:41:55",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 95
+        }
+    },
     "XhcytaNlwm": {
         "id": "XhcytaNlwm",
         "title": "Город богов - Сандерсон Брендон",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 9
-        }
-    },
-    "vmwcfK6i-7": {
-        "id": "vmwcfK6i-7",
-        "title": "Шепот в темноте",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-12-06 03:23:12",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 8
         }
     }
 }
