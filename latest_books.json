@@ -1,4 +1,16 @@
 {
+    "kWcNwOrwWB": {
+        "id": "kWcNwOrwWB",
+        "title": "История классической попаданки",
+        "author": "Валери Фрост",
+        "notes": "серия 2 книги. можно почитать, если нечего читать...",
+        "createdAt": "2017-12-06 03:47:09",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 25
+        }
+    },
     "E3yiOwEDlc": {
         "id": "E3yiOwEDlc",
         "title": "Две короны. Турнир",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 280
-        }
-    },
-    "3ue_Stz--3": {
-        "id": "3ue_Stz--3",
-        "title": "Убийство на улице Морг",
-        "author": "Эдгар Аллан По",
-        "notes": "орангутанг)",
-        "createdAt": "2017-12-04 15:57:18",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 62
         }
     }
 }
