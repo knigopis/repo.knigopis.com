@@ -1,4 +1,16 @@
 {
+    "IUVX80U059": {
+        "id": "IUVX80U059",
+        "title": "Путь магии и сердца",
+        "author": "Анна Гаврилова",
+        "notes": "",
+        "createdAt": "2017-12-06 03:28:36",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 15
+        }
+    },
     "DirCRCcTBs": {
         "id": "DirCRCcTBs",
         "title": "Аромат невинности. Дар",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 2
-        }
-    },
-    "Nv6CpCv3tR": {
-        "id": "Nv6CpCv3tR",
-        "title": "Рита Хейуорт и спасение из Шоушенка",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-12-03 19:28:44",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 1
         }
     }
 }
