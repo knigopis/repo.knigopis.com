@@ -1,4 +1,16 @@
 {
+    "nrrf87DwjJ": {
+        "id": "nrrf87DwjJ",
+        "title": "Песнь златовласой сирены. Сила Земли",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:16:18",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 1
+        }
+    },
     "nLFPwkXeD1": {
         "id": "nLFPwkXeD1",
         "title": "Джейн Эйр",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 37
-        }
-    },
-    "djRj0NziuJ": {
-        "id": "djRj0NziuJ",
-        "title": "Тёмная Башня",
-        "author": "Стивен Кинг",
-        "notes": "Серия \"Темная Башня\" - 7",
-        "createdAt": "2017-12-02 19:28:20",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 36
         }
     }
 }
