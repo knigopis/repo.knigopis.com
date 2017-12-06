@@ -1,4 +1,16 @@
 {
+    "h1Gg91-9ji": {
+        "id": "h1Gg91-9ji",
+        "title": "Герцогство на краю",
+        "author": "Надежда Кузьмина",
+        "notes": "",
+        "createdAt": "2017-12-06 03:21:20",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 5
+        }
+    },
     "TDJ0qWcMbo": {
         "id": "TDJ0qWcMbo",
         "title": "Летящая против ветра",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 37
-        }
-    },
-    "A3vD0UnF9C": {
-        "id": "A3vD0UnF9C",
-        "title": "",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "Очень понравилась",
-        "createdAt": "2017-12-03 00:01:54",
-        "user": {
-            "id": "4318686540-instagram",
-            "nickname": "kosklimashevich",
-            "booksCount": 1
         }
     }
 }

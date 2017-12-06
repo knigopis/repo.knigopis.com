@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>4</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>5</sup>
 ---
 
 ## 2017
+
+### Герцогство на краю
+Надежда Кузьмина
+> [2017-11-23] 
+
 
 ### Летящая против ветра
 Надежда Кузьмина
