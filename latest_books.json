@@ -1,4 +1,16 @@
 {
+    "mCE7hkg869": {
+        "id": "mCE7hkg869",
+        "title": "Факультет уникальной магии",
+        "author": "Екатерина Флат",
+        "notes": "",
+        "createdAt": "2017-12-06 03:41:54",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 21
+        }
+    },
     "ch14mQG92U": {
         "id": "ch14mQG92U",
         "title": "Академия Ранмарн",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 33
-        }
-    },
-    "szmIbJHn4c": {
-        "id": "szmIbJHn4c",
-        "title": "Франкенштейн, или Современный Прометей",
-        "author": "Мэри Шелли",
-        "notes": "",
-        "createdAt": "2017-12-03 20:16:15",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 7
         }
     }
 }
