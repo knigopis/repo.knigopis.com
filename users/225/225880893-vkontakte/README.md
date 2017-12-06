@@ -1,7 +1,11 @@
-# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>1</sup>
+# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>2</sup>
 ---
 
 ## 2017
+
+### 1984
+Джордж Оруэлл
+
 
 ### Робинзон Крузо
 Даниэль Дэфо
