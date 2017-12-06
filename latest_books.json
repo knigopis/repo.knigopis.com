@@ -1,4 +1,16 @@
 {
+    "Dl6IOZZgay": {
+        "id": "Dl6IOZZgay",
+        "title": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
+        "author": "Крис Фрит",
+        "notes": "",
+        "createdAt": "2017-12-06 05:05:22",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 4
+        }
+    },
     "QaFiD0Tdkj": {
         "id": "QaFiD0Tdkj",
         "title": "Скотный Двор",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 1
-        }
-    },
-    "nLFPwkXeD1": {
-        "id": "nLFPwkXeD1",
-        "title": "Джейн Эйр",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2017-12-05 18:51:38",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 69
         }
     }
 }
