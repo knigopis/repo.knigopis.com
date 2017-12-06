@@ -1,4 +1,16 @@
 {
+    "8GDsvJ4Za3": {
+        "id": "8GDsvJ4Za3",
+        "title": "Адептка (сборник)",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-12-06 03:25:33",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 12
+        }
+    },
     "M_gWK6EB9D": {
         "id": "M_gWK6EB9D",
         "title": "Как приручить кентавра, или Дневник моего сна",
@@ -345,18 +357,6 @@
             "id": "323667452-vkontakte",
             "nickname": "Jack Berkut",
             "booksCount": 5
-        }
-    },
-    "kS90qe_Br6": {
-        "id": "kS90qe_Br6",
-        "title": "Отелло",
-        "author": "У. Шекспир",
-        "notes": "",
-        "createdAt": "2017-12-03 14:48:53",
-        "user": {
-            "id": "323667452-vkontakte",
-            "nickname": "Jack Berkut",
-            "booksCount": 4
         }
     }
 }
