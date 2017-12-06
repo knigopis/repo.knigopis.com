@@ -1,4 +1,16 @@
 {
+    "M_gWK6EB9D": {
+        "id": "M_gWK6EB9D",
+        "title": "Как приручить кентавра, или Дневник моего сна",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:25:07",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 11
+        }
+    },
     "XP58Di2Dqx": {
         "id": "XP58Di2Dqx",
         "title": "Невеста Повелителя ирлингов. Дневник моего сна",
@@ -345,18 +357,6 @@
             "id": "323667452-vkontakte",
             "nickname": "Jack Berkut",
             "booksCount": 4
-        }
-    },
-    "zvdv2_VyqD": {
-        "id": "zvdv2_VyqD",
-        "title": "Лев, колдунья и платяной шкаф",
-        "author": "Клайв Стейплз Льюис",
-        "notes": "",
-        "createdAt": "2017-12-03 14:45:11",
-        "user": {
-            "id": "323667452-vkontakte",
-            "nickname": "Jack Berkut",
-            "booksCount": 3
         }
     }
 }
