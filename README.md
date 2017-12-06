@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>2</sup> 
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>3</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>26</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>69</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>65</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 
 
-_06.12.2017 04:54:22_
+_06.12.2017 04:54:35_
