@@ -1,4 +1,16 @@
 {
+    "UyyWgoXhFP": {
+        "id": "UyyWgoXhFP",
+        "title": "Обрученные кровью. Выбор",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-12-06 07:53:17",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 31
+        }
+    },
     "pS4wne--wh": {
         "id": "pS4wne--wh",
         "title": "Обрученные кровью. Отбор",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 7
-        }
-    },
-    "4-SngeCDOW": {
-        "id": "4-SngeCDOW",
-        "title": "Упасть в небо",
-        "author": "Надежда Кузьмина",
-        "notes": "",
-        "createdAt": "2017-12-06 03:21:45",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 6
         }
     }
 }
