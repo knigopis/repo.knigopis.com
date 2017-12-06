@@ -1,4 +1,16 @@
 {
+    "E3yiOwEDlc": {
+        "id": "E3yiOwEDlc",
+        "title": "Две короны. Турнир",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-12-06 03:44:31",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 24
+        }
+    },
     "NfRvtJ5ldM": {
         "id": "NfRvtJ5ldM",
         "title": "Две короны",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 62
-        }
-    },
-    "LaR9ZFf9ED": {
-        "id": "LaR9ZFf9ED",
-        "title": "Затерянный мир",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2017-12-04 12:42:48",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 9
         }
     }
 }
