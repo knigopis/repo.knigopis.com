@@ -1,4 +1,4 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>16</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>17</sup>
 ---
 
 ## 2017
@@ -61,6 +61,11 @@
 ### Путь магии и сердца
 Анна Гаврилова
 > [2017-08-31] 
+
+
+### Тринадцатая невеста
+Милена Завойчинская
+> [2017-08-30] 
 
 
 ### Сила ведьмы

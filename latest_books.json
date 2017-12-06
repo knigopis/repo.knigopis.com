@@ -1,4 +1,16 @@
 {
+    "ZH0U40q3Ds": {
+        "id": "ZH0U40q3Ds",
+        "title": "Тринадцатая невеста",
+        "author": "Милена Завойчинская",
+        "notes": "",
+        "createdAt": "2017-12-06 03:30:51",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 17
+        }
+    },
     "p3PX2DoOXu": {
         "id": "p3PX2DoOXu",
         "title": "Сила ведьмы",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 4
-        }
-    },
-    "FFMD5f8wQZ": {
-        "id": "FFMD5f8wQZ",
-        "title": "Крёстный отец",
-        "author": "Марио Пьюзо",
-        "notes": "",
-        "createdAt": "2017-12-03 19:33:56",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 3
         }
     }
 }
