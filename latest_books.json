@@ -1,4 +1,16 @@
 {
+    "p3PX2DoOXu": {
+        "id": "p3PX2DoOXu",
+        "title": "Сила ведьмы",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-12-06 03:29:19",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 16
+        }
+    },
     "IUVX80U059": {
         "id": "IUVX80U059",
         "title": "Путь магии и сердца",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 3
-        }
-    },
-    "9Cf1V3Y82p": {
-        "id": "9Cf1V3Y82p",
-        "title": "Зелёная миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-12-03 19:29:20",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 2
         }
     }
 }
