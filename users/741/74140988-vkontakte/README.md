@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>85</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>86</sup>
 ---
 
 ## 2017
+
+### Talk Like TED: The 9 Public Speaking Secrets of the World's Top Minds
+Carmine Gallo
+> [2017-11-21] 
+
 
 ### Воспоминания биржевого спекулянта
 Эдвин Лефевр

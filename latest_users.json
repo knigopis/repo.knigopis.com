@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 86,
+        "updatedAt": "2017-12-06 21:51:09"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "GesundeR",
         "booksCount": 1,
         "updatedAt": "2017-11-28 19:47:49"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 47,
-        "updatedAt": "2017-11-28 18:58:24"
     }
 }
