@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 24,
+        "updatedAt": "2017-12-06 05:24:41"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 39,
         "updatedAt": "2017-11-28 18:06:46"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 29,
-        "updatedAt": "2017-11-27 19:56:28"
     }
 }

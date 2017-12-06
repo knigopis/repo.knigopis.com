@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
 * Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
 * Квест ~ [En](users/333/333646551-vkontakte)<sup>15</sup>
 * Древний. Предыстория. книга вторая ~ [En](users/333/333646551-vkontakte)<sup>14</sup>
-* Артемис Фаул. Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>130</sup>
 
 
-_04.12.2017 15:57:18_
+_06.12.2017 05:24:41_

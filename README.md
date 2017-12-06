@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
+    > Книга поживее, чем вторая. Вторая Асса в разгаре ГГ весь великий и могучий донельзя. Возрождается ГГ-ня, почему то в том же слое Вселенной. Темные оказались очень похожими на людей
+
 * Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
     > орангутанг)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ffggg
 
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
-    > Это писал кто угодно, но не Панов
 
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 
-* Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>24</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>4</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>26</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>29</sup> 
 
 
-_06.12.2017 05:05:22_
+_06.12.2017 05:24:41_
