@@ -1,4 +1,16 @@
 {
+    "DirCRCcTBs": {
+        "id": "DirCRCcTBs",
+        "title": "Аромат невинности. Дар",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:27:48",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 14
+        }
+    },
     "_PAHN6ZBCG": {
         "id": "_PAHN6ZBCG",
         "title": "Путь долга и любви",
@@ -344,18 +356,6 @@
         "user": {
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
-            "booksCount": 1
-        }
-    },
-    "MUxXnuAHGH": {
-        "id": "MUxXnuAHGH",
-        "title": "Над кукушкиным гнездом",
-        "author": "Кен Кизи",
-        "notes": "",
-        "createdAt": "2017-12-03 19:24:59",
-        "user": {
-            "id": "439343791-vkontakte",
-            "nickname": "rustammilanist",
             "booksCount": 1
         }
     }

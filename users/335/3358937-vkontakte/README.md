@@ -1,4 +1,4 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>13</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>14</sup>
 ---
 
 ## 2017
@@ -46,6 +46,11 @@
 ### Адептка (сборник)
 Елена Звёздная
 > [2017-09-30] 
+
+
+### Аромат невинности. Дар
+Франциска Вудворт
+> [2017-09-04] 
 
 
 ### Путь долга и любви
