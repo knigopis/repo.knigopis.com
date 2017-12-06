@@ -1,4 +1,16 @@
 {
+    "_jv8qR25Ob": {
+        "id": "_jv8qR25Ob",
+        "title": "Осторожно! Муж – волшебник, или Любовь без правил",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:24:05",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 9
+        }
+    },
     "vmwcfK6i-7": {
         "id": "vmwcfK6i-7",
         "title": "Шепот в темноте",
@@ -345,18 +357,6 @@
             "id": "323667452-vkontakte",
             "nickname": "Jack Berkut",
             "booksCount": 2
-        }
-    },
-    "J1XvfYDlQH": {
-        "id": "J1XvfYDlQH",
-        "title": "Евгений Онегин",
-        "author": "А.С. Пушкин",
-        "notes": "",
-        "createdAt": "2017-12-03 14:42:11",
-        "user": {
-            "id": "323667452-vkontakte",
-            "nickname": "Jack Berkut",
-            "booksCount": 1
         }
     }
 }
