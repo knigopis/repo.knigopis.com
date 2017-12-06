@@ -1,4 +1,16 @@
 {
+    "4-SngeCDOW": {
+        "id": "4-SngeCDOW",
+        "title": "Упасть в небо",
+        "author": "Надежда Кузьмина",
+        "notes": "",
+        "createdAt": "2017-12-06 03:21:45",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 6
+        }
+    },
     "h1Gg91-9ji": {
         "id": "h1Gg91-9ji",
         "title": "Герцогство на краю",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 40
-        }
-    },
-    "k3H5anuCR7": {
-        "id": "k3H5anuCR7",
-        "title": "Мертвая королева",
-        "author": "Панов Вадим",
-        "notes": "Это писал кто угодно, но не Панов",
-        "createdAt": "2017-12-03 08:34:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 37
         }
     }
 }
