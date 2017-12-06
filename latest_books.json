@@ -1,4 +1,16 @@
 {
+    "XP58Di2Dqx": {
+        "id": "XP58Di2Dqx",
+        "title": "Невеста Повелителя ирлингов. Дневник моего сна",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:24:35",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 10
+        }
+    },
     "_jv8qR25Ob": {
         "id": "_jv8qR25Ob",
         "title": "Осторожно! Муж – волшебник, или Любовь без правил",
@@ -345,18 +357,6 @@
             "id": "323667452-vkontakte",
             "nickname": "Jack Berkut",
             "booksCount": 3
-        }
-    },
-    "iKLT91IeD2": {
-        "id": "iKLT91IeD2",
-        "title": "Цветы для Элджерона",
-        "author": "Киз Дэниел",
-        "notes": "",
-        "createdAt": "2017-12-03 14:44:27",
-        "user": {
-            "id": "323667452-vkontakte",
-            "nickname": "Jack Berkut",
-            "booksCount": 2
         }
     }
 }
