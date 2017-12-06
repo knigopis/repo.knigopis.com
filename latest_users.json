@@ -1,4 +1,10 @@
 {
+    "3358937-vkontakte": {
+        "id": "3358937-vkontakte",
+        "nickname": "amesyatseva",
+        "booksCount": 27,
+        "updatedAt": "2017-12-06 07:46:32"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -10,12 +16,6 @@
         "nickname": "Артур Вольнов",
         "booksCount": 4,
         "updatedAt": "2017-12-06 05:05:22"
-    },
-    "3358937-vkontakte": {
-        "id": "3358937-vkontakte",
-        "nickname": "amesyatseva",
-        "booksCount": 26,
-        "updatedAt": "2017-12-06 03:52:40"
     },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
