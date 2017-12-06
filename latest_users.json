@@ -1,4 +1,10 @@
 {
+    "3358937-vkontakte": {
+        "id": "3358937-vkontakte",
+        "nickname": "amesyatseva",
+        "booksCount": 0,
+        "updatedAt": "2017-12-06 03:14:30"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 9,
         "updatedAt": "2017-11-27 18:11:26"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 9,
-        "updatedAt": "2017-11-27 15:15:01"
     }
 }
