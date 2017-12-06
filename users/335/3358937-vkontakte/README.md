@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>6</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>7</sup>
 ---
 
 ## 2017
+
+### Запад и Восток
+Надежда Кузьмина
+> [2017-11-27] Жду продолжение
+
 
 ### Упасть в небо
 Надежда Кузьмина

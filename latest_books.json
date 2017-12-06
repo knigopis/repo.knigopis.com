@@ -1,4 +1,16 @@
 {
+    "cJJ6TNZHlm": {
+        "id": "cJJ6TNZHlm",
+        "title": "Запад и Восток",
+        "author": "Надежда Кузьмина",
+        "notes": "Жду продолжение",
+        "createdAt": "2017-12-06 03:22:16",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 7
+        }
+    },
     "4-SngeCDOW": {
         "id": "4-SngeCDOW",
         "title": "Упасть в небо",
@@ -345,18 +357,6 @@
             "id": "238356806-vkontakte",
             "nickname": "Bepebka",
             "booksCount": 1
-        }
-    },
-    "qijYCXFWMG": {
-        "id": "qijYCXFWMG",
-        "title": "Ночная смена",
-        "author": "Стивен Кинг",
-        "notes": "Сборник. 20 рассказов",
-        "createdAt": "2017-12-03 09:44:25",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 40
         }
     }
 }
