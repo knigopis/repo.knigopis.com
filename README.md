@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>95</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
 
 
-_06.12.2017 09:41:55_
+_06.12.2017 09:42:36_
