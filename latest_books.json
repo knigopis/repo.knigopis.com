@@ -1,4 +1,16 @@
 {
+    "XhcytaNlwm": {
+        "id": "XhcytaNlwm",
+        "title": "Город богов - Сандерсон Брендон",
+        "author": "Роман",
+        "notes": "",
+        "createdAt": "2017-12-06 09:41:04",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 94
+        }
+    },
     "UyyWgoXhFP": {
         "id": "UyyWgoXhFP",
         "title": "Обрученные кровью. Выбор",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 8
-        }
-    },
-    "cJJ6TNZHlm": {
-        "id": "cJJ6TNZHlm",
-        "title": "Запад и Восток",
-        "author": "Надежда Кузьмина",
-        "notes": "Жду продолжение",
-        "createdAt": "2017-12-06 03:22:16",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 7
         }
     }
 }

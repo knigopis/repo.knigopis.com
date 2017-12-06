@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>94</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 [GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>39</sup> 
 
 
-_06.12.2017 07:53:17_
+_06.12.2017 09:41:04_
