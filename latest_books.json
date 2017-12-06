@@ -1,4 +1,16 @@
 {
+    "Yz9EKFWKT7": {
+        "id": "Yz9EKFWKT7",
+        "title": "Любовница снежного лорда",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2017-12-06 03:37:04",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 19
+        }
+    },
     "pid8lH5qfQ": {
         "id": "pid8lH5qfQ",
         "title": "Право Черной Розы",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 6
-        }
-    },
-    "MmuL6cjP9i": {
-        "id": "MmuL6cjP9i",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2017-12-03 19:45:30",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 5
         }
     }
 }
