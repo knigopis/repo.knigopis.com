@@ -1,4 +1,16 @@
 {
+    "_PAHN6ZBCG": {
+        "id": "_PAHN6ZBCG",
+        "title": "Путь долга и любви",
+        "author": "Анна Гаврилова",
+        "notes": "",
+        "createdAt": "2017-12-06 03:26:58",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 13
+        }
+    },
     "8GDsvJ4Za3": {
         "id": "8GDsvJ4Za3",
         "title": "Адептка (сборник)",
@@ -345,18 +357,6 @@
             "id": "439343791-vkontakte",
             "nickname": "rustammilanist",
             "booksCount": 1
-        }
-    },
-    "38EkKKKv5-": {
-        "id": "38EkKKKv5-",
-        "title": "Гамлет",
-        "author": "У. Шекспир",
-        "notes": "",
-        "createdAt": "2017-12-03 14:49:16",
-        "user": {
-            "id": "323667452-vkontakte",
-            "nickname": "Jack Berkut",
-            "booksCount": 5
         }
     }
 }
