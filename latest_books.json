@@ -1,4 +1,16 @@
 {
+    "XmVfP1aU2X": {
+        "id": "XmVfP1aU2X",
+        "title": "Песнь златовласой сирены. Дыхание ветра",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2017-12-06 03:16:47",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 2
+        }
+    },
     "nrrf87DwjJ": {
         "id": "nrrf87DwjJ",
         "title": "Песнь златовласой сирены. Сила Земли",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 38
-        }
-    },
-    "xaDmk5_WDF": {
-        "id": "xaDmk5_WDF",
-        "title": "Падение дома Ашеров. Сборник",
-        "author": "Эдгар Алан По",
-        "notes": "Издание Minibook. 4 рассказа.",
-        "createdAt": "2017-12-02 19:43:33",
-        "user": {
-            "id": "158266434925901-facebook",
-            "nickname": "GvenVivar ",
-            "booksCount": 37
         }
     }
 }
