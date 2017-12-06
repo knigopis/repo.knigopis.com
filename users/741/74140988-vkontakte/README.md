@@ -1,4 +1,4 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>86</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>87</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Talk Like TED: The 9 Public Speaking Secrets of the World's Top Minds
 Carmine Gallo
 > [2017-11-21] 
+
+
+### Сделано в Америке: Как я создал Wal-Mart
+Сэм Уолтон
+> [2017-11-17] 
 
 
 ### Воспоминания биржевого спекулянта

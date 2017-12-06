@@ -1,4 +1,16 @@
 {
+    "OsWmn5A-Li": {
+        "id": "OsWmn5A-Li",
+        "title": "Сделано в Америке: Как я создал Wal-Mart",
+        "author": "Сэм Уолтон",
+        "notes": "",
+        "createdAt": "2017-12-06 21:52:26",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 87
+        }
+    },
     "V-RGMW9vc1": {
         "id": "V-RGMW9vc1",
         "title": "Talk Like TED: The 9 Public Speaking Secrets of the World's Top Minds",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 12
-        }
-    },
-    "M_gWK6EB9D": {
-        "id": "M_gWK6EB9D",
-        "title": "Как приручить кентавра, или Дневник моего сна",
-        "author": "Франциска Вудворт",
-        "notes": "",
-        "createdAt": "2017-12-06 03:25:07",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 11
         }
     }
 }
