@@ -1,4 +1,16 @@
 {
+    "pid8lH5qfQ": {
+        "id": "pid8lH5qfQ",
+        "title": "Право Черной Розы",
+        "author": "Милена Завойчинская",
+        "notes": "",
+        "createdAt": "2017-12-06 03:31:58",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 18
+        }
+    },
     "ZH0U40q3Ds": {
         "id": "ZH0U40q3Ds",
         "title": "Тринадцатая невеста",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 5
-        }
-    },
-    "C2e3t2jlE-": {
-        "id": "C2e3t2jlE-",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2017-12-03 19:44:21",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 4
         }
     }
 }
