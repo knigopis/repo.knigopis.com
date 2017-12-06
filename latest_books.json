@@ -1,4 +1,16 @@
 {
+    "g0pXmBqJCS": {
+        "id": "g0pXmBqJCS",
+        "title": "Глория. Капкан на четвертого",
+        "author": "Наталья Жильцова",
+        "notes": "",
+        "createdAt": "2017-12-06 07:48:27",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 28
+        }
+    },
     "2jwvj0j6M7": {
         "id": "2jwvj0j6M7",
         "title": "Глория. Пять сердец тьмы",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 4
-        }
-    },
-    "qYMA9Se4JH": {
-        "id": "qYMA9Se4JH",
-        "title": "Песнь златовласой сирены. Тайна воды",
-        "author": "Франциска Вудворт",
-        "notes": "",
-        "createdAt": "2017-12-06 03:17:15",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 3
         }
     }
 }
