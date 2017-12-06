@@ -1,4 +1,16 @@
 {
+    "VtWB087m6M": {
+        "id": "VtWB087m6M",
+        "title": "Робинзон Крузо",
+        "author": "Даниэль Дэфо",
+        "notes": "",
+        "createdAt": "2017-12-06 04:53:39",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 1
+        }
+    },
     "kxJdiaXZS6": {
         "id": "kxJdiaXZS6",
         "title": "Академия проклятий. Серия",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 64
-        }
-    },
-    "K8Rx3U2H7i": {
-        "id": "K8Rx3U2H7i",
-        "title": "не закладывай черту своей головы",
-        "author": "Эдгар Аллан По",
-        "notes": "",
-        "createdAt": "2017-12-05 18:37:05",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 63
         }
     }
 }
