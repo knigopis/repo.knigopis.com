@@ -1,6 +1,9 @@
 # Wish list of books by [M.Schwan ](https://vk.com/dasdog)
 ---
 
+### `50` О дивный новый мир
+О. Хаксли
+
 ### `50` Эдем
 С. Лем
 
