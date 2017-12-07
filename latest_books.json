@@ -1,4 +1,16 @@
 {
+    "x-cbf38ZEa": {
+        "id": "x-cbf38ZEa",
+        "title": "Божественная комедия",
+        "author": "Д. Алигхиери",
+        "notes": "",
+        "createdAt": "2017-12-07 20:21:07",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 30
+        }
+    },
     "ILoG4q9jMr": {
         "id": "ILoG4q9jMr",
         "title": "Моя борьба",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 1
-        }
-    },
-    "XW-j6PDGso": {
-        "id": "XW-j6PDGso",
-        "title": "Тень ветра",
-        "author": "Карлос Руис Сафон",
-        "notes": "",
-        "createdAt": "2017-12-07 12:32:15",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 15
         }
     }
 }

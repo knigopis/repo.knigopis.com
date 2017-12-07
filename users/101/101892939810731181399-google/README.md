@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>29</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>30</sup>
 ---
 
 ## 2017
@@ -123,6 +123,10 @@
 ### Зов Ктулху
 Г.Ф.Лафкрафт
 > [2016-12] 
+
+
+### Божественная комедия
+Д. Алигхиери
 
 
 ### Облачный атлас
