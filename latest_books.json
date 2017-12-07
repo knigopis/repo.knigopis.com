@@ -1,4 +1,16 @@
 {
+    "aVHiu6FHqm": {
+        "id": "aVHiu6FHqm",
+        "title": "Хлеб с ветчиной",
+        "author": "Ч. Буковски",
+        "notes": "",
+        "createdAt": "2017-12-07 20:09:45",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 23
+        }
+    },
     "fMxVDKubsW": {
         "id": "fMxVDKubsW",
         "title": "Маленький Принц",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 95
-        }
-    },
-    "XhcytaNlwm": {
-        "id": "XhcytaNlwm",
-        "title": "Город богов - Сандерсон Брендон",
-        "author": "Роман",
-        "notes": "",
-        "createdAt": "2017-12-06 09:41:04",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 94
         }
     }
 }

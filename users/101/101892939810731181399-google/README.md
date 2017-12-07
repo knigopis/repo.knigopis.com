@@ -1,7 +1,12 @@
-# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>22</sup>
+# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>23</sup>
 ---
 
 ## 2017
+
+### Хлеб с ветчиной
+Ч. Буковски
+> [2017-11] 
+
 
 ### Маленький Принц
 Антуан де Сент-Экзюпери
