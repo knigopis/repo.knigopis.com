@@ -1,4 +1,16 @@
 {
+    "seCXu7Fb1U": {
+        "id": "seCXu7Fb1U",
+        "title": "Helter Skelter: Правда о Чарли Мэнсоне",
+        "author": "В. Буглиози",
+        "notes": "",
+        "createdAt": "2017-12-07 20:12:22",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 24
+        }
+    },
     "aVHiu6FHqm": {
         "id": "aVHiu6FHqm",
         "title": "Хлеб с ветчиной",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 96
-        }
-    },
-    "Jso0uYG6aC": {
-        "id": "Jso0uYG6aC",
-        "title": "Душа императора - Сандерсон Брендон",
-        "author": "Рассказ",
-        "notes": "",
-        "createdAt": "2017-12-06 09:41:55",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 95
         }
     }
 }
