@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>37</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>38</sup>
 ---
 
 ## 2017
+
+### Дао Дэ Дзин
+Лао-Цзы
+> [2017-12-08] 
+
 
 ### Психология лжи
 Пол Экман

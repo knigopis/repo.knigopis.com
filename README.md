@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>38</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
-[mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 
 
-_07.12.2017 20:24:07_
+_07.12.2017 21:21:15_

@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 38,
+        "updatedAt": "2017-12-07 21:21:15"
+    },
     "101892939810731181399-google": {
         "id": "101892939810731181399-google",
         "nickname": "M.Schwan ",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 603,
         "updatedAt": "2017-11-30 06:58:38"
-    },
-    "191788437-vkontakte": {
-        "id": "191788437-vkontakte",
-        "nickname": "mbericheva",
-        "booksCount": 2,
-        "updatedAt": "2017-11-29 13:09:29"
     }
 }
