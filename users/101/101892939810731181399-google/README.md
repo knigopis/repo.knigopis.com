@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>6</sup>
+# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>7</sup>
 ---
 
 ## 2017
@@ -16,6 +16,10 @@
 ### Дом странных детей
 Р. Риггз
 > [2017-01] 
+
+
+### Скотный двор
+Р. Оруэлл
 
 
 ### Человек толпы
