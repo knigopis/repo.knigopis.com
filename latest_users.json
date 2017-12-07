@@ -1,4 +1,10 @@
 {
+    "101892939810731181399-google": {
+        "id": "101892939810731181399-google",
+        "nickname": "M.Schwan ",
+        "booksCount": 0,
+        "updatedAt": "2017-12-07 19:40:54"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "mbericheva",
         "booksCount": 2,
         "updatedAt": "2017-11-29 13:09:29"
-    },
-    "10848515355906827860-mailru": {
-        "id": "10848515355906827860-mailru",
-        "nickname": "Оля-перекати-поле",
-        "booksCount": 226,
-        "updatedAt": "2017-11-29 05:40:53"
     }
 }
