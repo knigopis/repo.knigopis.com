@@ -1,4 +1,16 @@
 {
+    "3oiAozSOHZ": {
+        "id": "3oiAozSOHZ",
+        "title": "Я - Легенда",
+        "author": "Р. Мэтисон",
+        "notes": "",
+        "createdAt": "2017-12-07 19:45:48",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 4
+        }
+    },
     "9YcB27KSVY": {
         "id": "9YcB27KSVY",
         "title": "Дом странных детей",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 19
-        }
-    },
-    "pid8lH5qfQ": {
-        "id": "pid8lH5qfQ",
-        "title": "Право Черной Розы",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2017-12-06 03:31:58",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 18
         }
     }
 }
