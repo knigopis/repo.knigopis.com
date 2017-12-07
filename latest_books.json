@@ -1,4 +1,16 @@
 {
+    "4eLV6C5SHC": {
+        "id": "4eLV6C5SHC",
+        "title": "Зов Ктулху",
+        "author": "Г.Ф.Лафкрафт",
+        "notes": "",
+        "createdAt": "2017-12-07 19:42:44",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 1
+        }
+    },
     "XW-j6PDGso": {
         "id": "XW-j6PDGso",
         "title": "Тень ветра",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 16
-        }
-    },
-    "IUVX80U059": {
-        "id": "IUVX80U059",
-        "title": "Путь магии и сердца",
-        "author": "Анна Гаврилова",
-        "notes": "",
-        "createdAt": "2017-12-06 03:28:36",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 15
         }
     }
 }
