@@ -1,4 +1,16 @@
 {
+    "y0pKG5gC9Y": {
+        "id": "y0pKG5gC9Y",
+        "title": "Бойцовский клуб",
+        "author": "Ч. Паланик",
+        "notes": "",
+        "createdAt": "2017-12-07 20:01:39",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 16
+        }
+    },
     "gkxavlen1C": {
         "id": "gkxavlen1C",
         "title": "Записки революционера",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 24
-        }
-    },
-    "Dl6IOZZgay": {
-        "id": "Dl6IOZZgay",
-        "title": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
-        "author": "Крис Фрит",
-        "notes": "",
-        "createdAt": "2017-12-06 05:05:22",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 4
         }
     }
 }
