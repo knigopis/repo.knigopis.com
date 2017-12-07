@@ -1,4 +1,16 @@
 {
+    "jwZkkwI-3W": {
+        "id": "jwZkkwI-3W",
+        "title": "Сохраняющая машина",
+        "author": "Ф.Дик",
+        "notes": "",
+        "createdAt": "2017-12-07 19:58:19",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 12
+        }
+    },
     "6lJ7QgWg-7": {
         "id": "6lJ7QgWg-7",
         "title": "Меч предназначения",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 1
-        }
-    },
-    "kxJdiaXZS6": {
-        "id": "kxJdiaXZS6",
-        "title": "Академия проклятий. Серия",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-12-06 03:52:40",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 26
         }
     }
 }
