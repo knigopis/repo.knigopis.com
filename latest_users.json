@@ -1,4 +1,10 @@
 {
+    "396799852-vkontakte": {
+        "id": "396799852-vkontakte",
+        "nickname": "_vlad_79",
+        "booksCount": 0,
+        "updatedAt": "2017-12-07 07:04:01"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "ihor.onysko",
         "booksCount": 0,
         "updatedAt": "2017-11-28 21:28:46"
-    },
-    "101157696376156109420-google": {
-        "id": "101157696376156109420-google",
-        "nickname": "GesundeR",
-        "booksCount": 1,
-        "updatedAt": "2017-11-28 19:47:49"
     }
 }
