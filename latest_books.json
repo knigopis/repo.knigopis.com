@@ -1,4 +1,16 @@
 {
+    "T3g46Nf8fz": {
+        "id": "T3g46Nf8fz",
+        "title": "Облачный атлас",
+        "author": "Д. Митчелл",
+        "notes": "",
+        "createdAt": "2017-12-07 20:18:51",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 27
+        }
+    },
     "dKU-1AHFnO": {
         "id": "dKU-1AHFnO",
         "title": "В тихой ночи",
@@ -345,18 +357,6 @@
             "id": "396799852-vkontakte",
             "nickname": "_vlad_79",
             "booksCount": 1
-        }
-    },
-    "OsWmn5A-Li": {
-        "id": "OsWmn5A-Li",
-        "title": "Сделано в Америке: Как я создал Wal-Mart",
-        "author": "Сэм Уолтон",
-        "notes": "",
-        "createdAt": "2017-12-06 21:52:26",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 87
         }
     }
 }

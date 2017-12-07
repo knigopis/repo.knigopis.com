@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>26</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>27</sup>
 ---
 
 ## 2017
@@ -115,6 +115,10 @@
 ### Зов Ктулху
 Г.Ф.Лафкрафт
 > [2016-12] 
+
+
+### Облачный атлас
+Д. Митчелл
 
 
 ### Оно
