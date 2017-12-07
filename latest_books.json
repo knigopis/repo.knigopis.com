@@ -1,4 +1,16 @@
 {
+    "T5GfZiMKh2": {
+        "id": "T5GfZiMKh2",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-12-07 07:16:27",
+        "user": {
+            "id": "396799852-vkontakte",
+            "nickname": "_vlad_79",
+            "booksCount": 1
+        }
+    },
     "OsWmn5A-Li": {
         "id": "OsWmn5A-Li",
         "title": "Сделано в Америке: Как я создал Wal-Mart",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 13
-        }
-    },
-    "8GDsvJ4Za3": {
-        "id": "8GDsvJ4Za3",
-        "title": "Адептка (сборник)",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-12-06 03:25:33",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 12
         }
     }
 }
