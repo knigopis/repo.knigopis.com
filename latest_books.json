@@ -1,4 +1,16 @@
 {
+    "Cbl25Kv4Tf": {
+        "id": "Cbl25Kv4Tf",
+        "title": "Последнее желание",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-12-07 19:55:00",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 10
+        }
+    },
     "Nv7TOuT_xQ": {
         "id": "Nv7TOuT_xQ",
         "title": "Бог - как иллюзия",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 25
-        }
-    },
-    "E3yiOwEDlc": {
-        "id": "E3yiOwEDlc",
-        "title": "Две короны. Турнир",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-12-06 03:44:31",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 24
         }
     }
 }
