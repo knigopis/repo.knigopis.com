@@ -1,4 +1,16 @@
 {
+    "AgbWcNoe_C": {
+        "id": "AgbWcNoe_C",
+        "title": "Мор, ученик Смерти",
+        "author": "Т. Пратчетт",
+        "notes": "",
+        "createdAt": "2017-12-07 20:03:52",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 19
+        }
+    },
     "cqq2u4Et5Y": {
         "id": "cqq2u4Et5Y",
         "title": "Оно",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 29
-        }
-    },
-    "g0pXmBqJCS": {
-        "id": "g0pXmBqJCS",
-        "title": "Глория. Капкан на четвертого",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-12-06 07:48:27",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 28
         }
     }
 }
