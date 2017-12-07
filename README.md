@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[_vlad_79](users/396/396799852-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>87</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
 [ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
-[GesundeR](users/101/101157696376156109420-google)<sup>1</sup> 
 
 
-_06.12.2017 21:52:26_
+_07.12.2017 07:04:04_
