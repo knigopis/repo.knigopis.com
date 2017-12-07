@@ -1,4 +1,16 @@
 {
+    "JHTI_R2FGy": {
+        "id": "JHTI_R2FGy",
+        "title": "Человек толпы",
+        "author": "А.Э.По",
+        "notes": "",
+        "createdAt": "2017-12-07 19:47:04",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 5
+        }
+    },
     "3oiAozSOHZ": {
         "id": "3oiAozSOHZ",
         "title": "Я - Легенда",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 20
-        }
-    },
-    "Yz9EKFWKT7": {
-        "id": "Yz9EKFWKT7",
-        "title": "Любовница снежного лорда",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2017-12-06 03:37:04",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 19
         }
     }
 }
