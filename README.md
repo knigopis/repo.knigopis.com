@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[M.Schwan ](users/101/101892939810731181399-google)<sup>2</sup> 
+[M.Schwan ](users/101/101892939810731181399-google)<sup>3</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 
 
-_07.12.2017 19:43:01_
+_07.12.2017 19:44:19_

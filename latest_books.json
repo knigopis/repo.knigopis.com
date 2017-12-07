@@ -1,4 +1,16 @@
 {
+    "9YcB27KSVY": {
+        "id": "9YcB27KSVY",
+        "title": "Дом странных детей",
+        "author": "Р. Риггз",
+        "notes": "",
+        "createdAt": "2017-12-07 19:44:19",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 3
+        }
+    },
     "5Y91QhpVGr": {
         "id": "5Y91QhpVGr",
         "title": "Г.Ф.Лафкрафт",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 18
-        }
-    },
-    "ZH0U40q3Ds": {
-        "id": "ZH0U40q3Ds",
-        "title": "Тринадцатая невеста",
-        "author": "Милена Завойчинская",
-        "notes": "",
-        "createdAt": "2017-12-06 03:30:51",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 17
         }
     }
 }
