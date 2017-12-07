@@ -1,4 +1,16 @@
 {
+    "OaNh_KAF4Q": {
+        "id": "OaNh_KAF4Q",
+        "title": "Я не верю в анархию",
+        "author": "Е. Летов",
+        "notes": "",
+        "createdAt": "2017-12-07 19:59:46",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 14
+        }
+    },
     "97PMqPrdVO": {
         "id": "97PMqPrdVO",
         "title": "Уловка-22",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 3
-        }
-    },
-    "OMf0QhQ7DI": {
-        "id": "OMf0QhQ7DI",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-12-06 04:54:22",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 2
         }
     }
 }
