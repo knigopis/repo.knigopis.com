@@ -1,4 +1,16 @@
 {
+    "5Y91QhpVGr": {
+        "id": "5Y91QhpVGr",
+        "title": "Г.Ф.Лафкрафт",
+        "author": "Дагон",
+        "notes": "",
+        "createdAt": "2017-12-07 19:43:01",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 2
+        }
+    },
     "4eLV6C5SHC": {
         "id": "4eLV6C5SHC",
         "title": "Зов Ктулху",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 17
-        }
-    },
-    "p3PX2DoOXu": {
-        "id": "p3PX2DoOXu",
-        "title": "Сила ведьмы",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-12-06 03:29:19",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 16
         }
     }
 }
