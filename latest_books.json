@@ -1,4 +1,16 @@
 {
+    "UvZ6RueLRR": {
+        "id": "UvZ6RueLRR",
+        "title": "Женщины",
+        "author": "Ч. Буковски",
+        "notes": "",
+        "createdAt": "2017-12-07 20:14:01",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 25
+        }
+    },
     "seCXu7Fb1U": {
         "id": "seCXu7Fb1U",
         "title": "Helter Skelter: Правда о Чарли Мэнсоне",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 86
-        }
-    },
-    "zGkYb7a74v": {
-        "id": "zGkYb7a74v",
-        "title": "Звезда империи - Плиев Руслан",
-        "author": "Роман",
-        "notes": "",
-        "createdAt": "2017-12-06 09:42:36",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 96
         }
     }
 }
