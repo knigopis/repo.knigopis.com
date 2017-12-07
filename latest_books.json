@@ -1,4 +1,16 @@
 {
+    "gkxavlen1C": {
+        "id": "gkxavlen1C",
+        "title": "Записки революционера",
+        "author": "П. Кропоткин",
+        "notes": "",
+        "createdAt": "2017-12-07 20:00:39",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 15
+        }
+    },
     "OaNh_KAF4Q": {
         "id": "OaNh_KAF4Q",
         "title": "Я не верю в анархию",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 4
-        }
-    },
-    "QaFiD0Tdkj": {
-        "id": "QaFiD0Tdkj",
-        "title": "Скотный Двор",
-        "author": "Джордж Оруэлл",
-        "notes": "",
-        "createdAt": "2017-12-06 04:54:35",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 3
         }
     }
 }
