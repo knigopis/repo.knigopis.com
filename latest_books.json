@@ -1,4 +1,16 @@
 {
+    "Z8xPp9h6bJ": {
+        "id": "Z8xPp9h6bJ",
+        "title": "Мир, полон демонов",
+        "author": "К. Саган",
+        "notes": "",
+        "createdAt": "2017-12-07 20:19:26",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 28
+        }
+    },
     "T3g46Nf8fz": {
         "id": "T3g46Nf8fz",
         "title": "Облачный атлас",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 111
-        }
-    },
-    "T5GfZiMKh2": {
-        "id": "T5GfZiMKh2",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-12-07 07:16:27",
-        "user": {
-            "id": "396799852-vkontakte",
-            "nickname": "_vlad_79",
-            "booksCount": 1
         }
     }
 }
