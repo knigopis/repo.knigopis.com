@@ -1,4 +1,16 @@
 {
+    "-tKSzswLR_": {
+        "id": "-tKSzswLR_",
+        "title": "451 градус по Фаренгейту",
+        "author": "Р. Брэдбери",
+        "notes": "",
+        "createdAt": "2017-12-07 20:05:56",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 21
+        }
+    },
     "yzRy2A5PiS": {
         "id": "yzRy2A5PiS",
         "title": "Наука плоского мира",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 31
-        }
-    },
-    "pS4wne--wh": {
-        "id": "pS4wne--wh",
-        "title": "Обрученные кровью. Отбор",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-12-06 07:52:35",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 30
         }
     }
 }
