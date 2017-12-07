@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 15,
+        "updatedAt": "2017-12-07 12:32:15"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -160,12 +166,6 @@
         "nickname": "Janet",
         "booksCount": 603,
         "updatedAt": "2017-11-30 06:58:38"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 14,
-        "updatedAt": "2017-11-29 13:33:41"
     },
     "191788437-vkontakte": {
         "id": "191788437-vkontakte",

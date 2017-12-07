@@ -1,4 +1,16 @@
 {
+    "XW-j6PDGso": {
+        "id": "XW-j6PDGso",
+        "title": "Тень ветра",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2017-12-07 12:32:15",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 15
+        }
+    },
     "K0uk2ugrA-": {
         "id": "K0uk2ugrA-",
         "title": "Книжный Вор",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 15
-        }
-    },
-    "DirCRCcTBs": {
-        "id": "DirCRCcTBs",
-        "title": "Аромат невинности. Дар",
-        "author": "Франциска Вудворт",
-        "notes": "",
-        "createdAt": "2017-12-06 03:27:48",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 14
         }
     }
 }
