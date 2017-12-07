@@ -1,4 +1,16 @@
 {
+    "K0uk2ugrA-": {
+        "id": "K0uk2ugrA-",
+        "title": "Книжный Вор",
+        "author": "Маркус Зусак",
+        "notes": "",
+        "createdAt": "2017-12-07 07:54:05",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 111
+        }
+    },
     "T5GfZiMKh2": {
         "id": "T5GfZiMKh2",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 14
-        }
-    },
-    "_PAHN6ZBCG": {
-        "id": "_PAHN6ZBCG",
-        "title": "Путь долга и любви",
-        "author": "Анна Гаврилова",
-        "notes": "",
-        "createdAt": "2017-12-06 03:26:58",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 13
         }
     }
 }

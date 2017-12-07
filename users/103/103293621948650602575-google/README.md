@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>110</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>111</sup>
 ---
 
 ## 2017
+
+### Книжный Вор
+Маркус Зусак
+> [2017-12-07] 
+
 
 ### Жизнь Пи
 Янн Мартел

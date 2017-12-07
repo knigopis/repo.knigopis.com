@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>87</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>14</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>2</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>226</sup> 
-[ihor.onysko](users/438/438040436-vkontakte)<sup>0</sup> 
 
 
-_07.12.2017 07:16:27_
+_07.12.2017 07:54:05_

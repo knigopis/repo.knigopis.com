@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 111,
+        "updatedAt": "2017-12-07 07:54:05"
+    },
     "396799852-vkontakte": {
         "id": "396799852-vkontakte",
         "nickname": "_vlad_79",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 226,
         "updatedAt": "2017-11-29 05:40:53"
-    },
-    "438040436-vkontakte": {
-        "id": "438040436-vkontakte",
-        "nickname": "ihor.onysko",
-        "booksCount": 0,
-        "updatedAt": "2017-11-28 21:28:46"
     }
 }
