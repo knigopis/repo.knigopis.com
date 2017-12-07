@@ -1,4 +1,16 @@
 {
+    "6lJ7QgWg-7": {
+        "id": "6lJ7QgWg-7",
+        "title": "Меч предназначения",
+        "author": "А. Сапковский",
+        "notes": "",
+        "createdAt": "2017-12-07 19:56:30",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 11
+        }
+    },
     "Cbl25Kv4Tf": {
         "id": "Cbl25Kv4Tf",
         "title": "Последнее желание",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 26
-        }
-    },
-    "kWcNwOrwWB": {
-        "id": "kWcNwOrwWB",
-        "title": "История классической попаданки",
-        "author": "Валери Фрост",
-        "notes": "серия 2 книги. можно почитать, если нечего читать...",
-        "createdAt": "2017-12-06 03:47:09",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 25
         }
     }
 }
