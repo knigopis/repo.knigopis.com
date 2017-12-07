@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>28</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>29</sup>
 ---
 
 ## 2017
@@ -46,6 +46,10 @@
 ### Дом странных детей
 Р. Риггз
 > [2017-01] 
+
+
+### Моя борьба
+А. Гитлер
 
 
 ### Мир, полон демонов

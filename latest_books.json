@@ -1,4 +1,16 @@
 {
+    "ILoG4q9jMr": {
+        "id": "ILoG4q9jMr",
+        "title": "Моя борьба",
+        "author": "А. Гитлер",
+        "notes": "",
+        "createdAt": "2017-12-07 20:20:20",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 29
+        }
+    },
     "Z8xPp9h6bJ": {
         "id": "Z8xPp9h6bJ",
         "title": "Мир, полон демонов",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 15
-        }
-    },
-    "K0uk2ugrA-": {
-        "id": "K0uk2ugrA-",
-        "title": "Книжный Вор",
-        "author": "Маркус Зусак",
-        "notes": "",
-        "createdAt": "2017-12-07 07:54:05",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 111
         }
     }
 }
