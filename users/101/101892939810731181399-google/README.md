@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>17</sup>
+# List of books read by [M.Schwan ](https://plus.google.com/101892939810731181399)<sup>18</sup>
 ---
 
 ## 2017
@@ -77,6 +77,10 @@
 ### Зов Ктулху
 Г.Ф.Лафкрафт
 > [2016-12] 
+
+
+### Оно
+С. Кинг
 
 
 
