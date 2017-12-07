@@ -1,4 +1,16 @@
 {
+    "fMxVDKubsW": {
+        "id": "fMxVDKubsW",
+        "title": "Маленький Принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-12-07 20:07:12",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 22
+        }
+    },
     "-tKSzswLR_": {
         "id": "-tKSzswLR_",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 94
-        }
-    },
-    "UyyWgoXhFP": {
-        "id": "UyyWgoXhFP",
-        "title": "Обрученные кровью. Выбор",
-        "author": "Наталья Жильцова",
-        "notes": "",
-        "createdAt": "2017-12-06 07:53:17",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 31
         }
     }
 }
