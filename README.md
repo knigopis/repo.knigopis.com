@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>38</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>69</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>280</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>603</sup> 
 
 
-_07.12.2017 21:21:15_
+_08.12.2017 00:23:54_

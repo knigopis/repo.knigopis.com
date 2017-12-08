@@ -1,4 +1,16 @@
 {
+    "PbriJBkUtC": {
+        "id": "PbriJBkUtC",
+        "title": "Судьба человека",
+        "author": "Михаил Александрович Шолохов",
+        "notes": "",
+        "createdAt": "2017-12-08 00:23:54",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 5
+        }
+    },
     "d7JIczaxRR": {
         "id": "d7JIczaxRR",
         "title": "Дао Дэ Дзин",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 4
-        }
-    },
-    "9YcB27KSVY": {
-        "id": "9YcB27KSVY",
-        "title": "Дом странных детей",
-        "author": "Р. Риггз",
-        "notes": "",
-        "createdAt": "2017-12-07 19:44:19",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 3
         }
     }
 }
