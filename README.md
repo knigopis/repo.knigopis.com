@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tangina](users/101/10155555907294681-facebook)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
 [pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 
 
-_09.12.2017 21:49:04_
+_09.12.2017 22:23:35_
