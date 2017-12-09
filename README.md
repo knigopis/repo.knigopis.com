@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[miracolo_bella](users/180/180139283-vkontakte)<sup>69</sup> 
+[miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 
 
-_09.12.2017 19:56:55_
+_09.12.2017 19:58:33_
