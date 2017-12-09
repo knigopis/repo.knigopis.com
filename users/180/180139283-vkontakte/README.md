@@ -1,4 +1,4 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>67</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>68</sup>
 ---
 
 ## 2017
@@ -86,6 +86,10 @@
 ### книжный вор
 Маркус Зусак
 > [2017-04-14] Шикарная книга
+
+
+### колодец и маятник
+Эдгар По
 
 
 ### принц и нищий
