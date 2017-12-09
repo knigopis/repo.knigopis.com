@@ -1,4 +1,16 @@
 {
+    "_8xJuy2_Ss": {
+        "id": "_8xJuy2_Ss",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Джордж Клейсон",
+        "notes": "",
+        "createdAt": "2017-12-09 21:49:04",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 89
+        }
+    },
     "8V38uZs3Tz": {
         "id": "8V38uZs3Tz",
         "title": "Эпоха криптовалют: Как биткоин и блокчейн меняют мировой экономический порядок",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 14
-        }
-    },
-    "97PMqPrdVO": {
-        "id": "97PMqPrdVO",
-        "title": "Уловка-22",
-        "author": "Д. Хеллер",
-        "notes": "",
-        "createdAt": "2017-12-07 19:59:07",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 13
         }
     }
 }
