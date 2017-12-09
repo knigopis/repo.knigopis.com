@@ -1,4 +1,10 @@
 {
+    "107182375378136908346-google": {
+        "id": "107182375378136908346-google",
+        "nickname": "rudanok",
+        "booksCount": 0,
+        "updatedAt": "2017-12-09 20:52:53"
+    },
     "180139283-vkontakte": {
         "id": "180139283-vkontakte",
         "nickname": "miracolo_bella",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 161,
         "updatedAt": "2017-11-30 18:02:05"
-    },
-    "208860954-vkontakte": {
-        "id": "208860954-vkontakte",
-        "nickname": "flowersaside",
-        "booksCount": 1,
-        "updatedAt": "2017-11-30 12:59:29"
     }
 }
