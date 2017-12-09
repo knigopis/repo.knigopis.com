@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
+    > медальон, указавший на большие пиратские сокровища
+
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
     > Книга поживее, чем вторая. Вторая Асса в разгаре ГГ весь великий и могучий донельзя. Возрождается ГГ-ня, почему то в том же слое Вселенной. Темные оказались очень похожими на людей
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > орангутанг)
 
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
-    > Ffggg
 
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 
-* Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>38</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>69</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>65</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>280</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 
 
-_09.12.2017 07:33:55_
+_09.12.2017 19:30:44_

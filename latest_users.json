@@ -1,4 +1,10 @@
 {
+    "180139283-vkontakte": {
+        "id": "180139283-vkontakte",
+        "nickname": "miracolo_bella",
+        "booksCount": 66,
+        "updatedAt": "2017-12-09 19:30:44"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -70,12 +76,6 @@
         "nickname": "Sky",
         "booksCount": 69,
         "updatedAt": "2017-12-05 18:51:38"
-    },
-    "180139283-vkontakte": {
-        "id": "180139283-vkontakte",
-        "nickname": "miracolo_bella",
-        "booksCount": 65,
-        "updatedAt": "2017-12-05 18:38:20"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

@@ -1,4 +1,16 @@
 {
+    "-rlXpMfbBC": {
+        "id": "-rlXpMfbBC",
+        "title": "Золотой жук",
+        "author": "Эдгар Аллан По",
+        "notes": "медальон, указавший на большие пиратские сокровища",
+        "createdAt": "2017-12-09 19:30:44",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 66
+        }
+    },
     "NEIQWdsBgB": {
         "id": "NEIQWdsBgB",
         "title": "Вся плоть — трава",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 7
-        }
-    },
-    "ztFph4kNxs": {
-        "id": "ztFph4kNxs",
-        "title": "Превращение",
-        "author": "Ф.Кафка",
-        "notes": "",
-        "createdAt": "2017-12-07 19:49:39",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 6
         }
     }
 }

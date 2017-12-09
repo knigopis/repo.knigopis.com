@@ -1,7 +1,12 @@
-# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>65</sup>
+# List of books read by [miracolo_bella](http://vk.com/id180139283)<sup>66</sup>
 ---
 
 ## 2017
+
+### Золотой жук
+Эдгар Аллан По
+> [2017-12-09] медальон, указавший на большие пиратские сокровища
+
 
 ### Элеонора
 Эдгар Аллан По
