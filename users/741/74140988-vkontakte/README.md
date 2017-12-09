@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>87</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>88</sup>
 ---
 
 ## 2017
+
+### Эпоха криптовалют: Как биткоин и блокчейн меняют мировой экономический порядок
+Пол Винья, Майкл Кейси
+> [2017-12-09] 
+
 
 ### Talk Like TED: The 9 Public Speaking Secrets of the World's Top Minds
 Carmine Gallo

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>88</sup> 
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
-[International master](users/741/74140988-vkontakte)<sup>87</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>161</sup> 
 
 
-_09.12.2017 20:53:45_
+_09.12.2017 21:47:39_

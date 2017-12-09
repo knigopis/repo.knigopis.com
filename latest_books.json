@@ -1,4 +1,16 @@
 {
+    "8V38uZs3Tz": {
+        "id": "8V38uZs3Tz",
+        "title": "Эпоха криптовалют: Как биткоин и блокчейн меняют мировой экономический порядок",
+        "author": "Пол Винья, Майкл Кейси",
+        "notes": "",
+        "createdAt": "2017-12-09 21:47:39",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 88
+        }
+    },
     "Zg5zud9KUd": {
         "id": "Zg5zud9KUd",
         "title": "Наслаждаться Христом как Словом и Духом посредством молитвы",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 13
-        }
-    },
-    "jwZkkwI-3W": {
-        "id": "jwZkkwI-3W",
-        "title": "Сохраняющая машина",
-        "author": "Ф.Дик",
-        "notes": "",
-        "createdAt": "2017-12-07 19:58:19",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 12
         }
     }
 }
