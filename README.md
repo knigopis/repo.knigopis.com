@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rudanok](users/107/107182375378136908346-google)<sup>0</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
 [pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>161</sup> 
-[flowersaside](users/208/208860954-vkontakte)<sup>1</sup> 
 
 
-_09.12.2017 19:58:33_
+_09.12.2017 20:52:56_
