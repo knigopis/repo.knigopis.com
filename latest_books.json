@@ -1,4 +1,16 @@
 {
+    "BKIyXdc0uv": {
+        "id": "BKIyXdc0uv",
+        "title": "«Белый Вождь»",
+        "author": "Томас Майн Рид",
+        "notes": "",
+        "createdAt": "2017-12-09 19:56:55",
+        "user": {
+            "id": "180139283-vkontakte",
+            "nickname": "miracolo_bella",
+            "booksCount": 69
+        }
+    },
     "hYm9hPwaTM": {
         "id": "hYm9hPwaTM",
         "title": "колодец и маятник",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 10
-        }
-    },
-    "Nv7TOuT_xQ": {
-        "id": "Nv7TOuT_xQ",
-        "title": "Бог - как иллюзия",
-        "author": "Р. Докинз",
-        "notes": "",
-        "createdAt": "2017-12-07 19:53:22",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 9
         }
     }
 }
