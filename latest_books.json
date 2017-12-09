@@ -1,4 +1,16 @@
 {
+    "kPoQ2aDzMB": {
+        "id": "kPoQ2aDzMB",
+        "title": "Вовращение",
+        "author": "Шлинк Бернхард",
+        "notes": "",
+        "createdAt": "2017-12-09 22:25:18",
+        "user": {
+            "id": "10155555907294681-facebook",
+            "nickname": "tangina",
+            "booksCount": 1
+        }
+    },
     "_8xJuy2_Ss": {
         "id": "_8xJuy2_Ss",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 15
-        }
-    },
-    "OaNh_KAF4Q": {
-        "id": "OaNh_KAF4Q",
-        "title": "Я не верю в анархию",
-        "author": "Е. Летов",
-        "notes": "",
-        "createdAt": "2017-12-07 19:59:46",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 14
         }
     }
 }

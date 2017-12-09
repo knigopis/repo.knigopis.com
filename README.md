@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[tangina](users/101/10155555907294681-facebook)<sup>0</sup> 
+[tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
 
 
-_09.12.2017 22:23:35_
+_09.12.2017 22:25:18_
