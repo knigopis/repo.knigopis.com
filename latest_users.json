@@ -1,4 +1,10 @@
 {
+    "10155555907294681-facebook": {
+        "id": "10155555907294681-facebook",
+        "nickname": "tangina",
+        "booksCount": 0,
+        "updatedAt": "2017-12-09 22:23:33"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "pavel.bazhenov",
         "booksCount": 0,
         "updatedAt": "2017-12-02 06:46:48"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 161,
-        "updatedAt": "2017-11-30 18:02:05"
     }
 }
