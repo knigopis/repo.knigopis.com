@@ -1,4 +1,16 @@
 {
+    "NkFHzLpgzI": {
+        "id": "NkFHzLpgzI",
+        "title": "Путь истребителя",
+        "author": "Владимир Геннадьевич Поселягин",
+        "notes": "",
+        "createdAt": "2017-12-10 18:27:28",
+        "user": {
+            "id": "115604603872979762940-google",
+            "nickname": "JEkIS23",
+            "booksCount": 7
+        }
+    },
     "0QzSg9Ywwt": {
         "id": "0QzSg9Ywwt",
         "title": "Мы - Истребители",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 25
-        }
-    },
-    "seCXu7Fb1U": {
-        "id": "seCXu7Fb1U",
-        "title": "Helter Skelter: Правда о Чарли Мэнсоне",
-        "author": "В. Буглиози",
-        "notes": "",
-        "createdAt": "2017-12-07 20:12:22",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 24
         }
     }
 }
