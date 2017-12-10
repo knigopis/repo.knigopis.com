@@ -1,4 +1,16 @@
 {
+    "zLB54CAZWa": {
+        "id": "zLB54CAZWa",
+        "title": "Автоматический покупатель",
+        "author": "Джон Уоррилоу",
+        "notes": "",
+        "createdAt": "2017-12-10 09:00:34",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 281
+        }
+    },
     "kPoQ2aDzMB": {
         "id": "kPoQ2aDzMB",
         "title": "Вовращение",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 16
-        }
-    },
-    "gkxavlen1C": {
-        "id": "gkxavlen1C",
-        "title": "Записки революционера",
-        "author": "П. Кропоткин",
-        "notes": "",
-        "createdAt": "2017-12-07 20:00:39",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 15
         }
     }
 }

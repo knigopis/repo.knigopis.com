@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 281,
+        "updatedAt": "2017-12-10 09:00:34"
+    },
     "192728266-vkontakte": {
         "id": "192728266-vkontakte",
         "nickname": "kirill.kolmogortsev",
@@ -94,12 +100,6 @@
         "nickname": "Sky",
         "booksCount": 69,
         "updatedAt": "2017-12-05 18:51:38"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 280,
-        "updatedAt": "2017-12-05 06:08:38"
     },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
