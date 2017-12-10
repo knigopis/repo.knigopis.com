@@ -1,5 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>12</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>13</sup>
 ---
+
+## 2017
+
+### С ума сойти!
+Дарья Варламова, Антон Зайниев
+
+
 
 ## 2016
 
