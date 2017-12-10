@@ -1,5 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>6</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>7</sup>
 ---
+
+## 2013
+
+### Тайна заброшенной часовни
+Антон Иванов, Анна Устинова
+
+
 
 ## 2012
 

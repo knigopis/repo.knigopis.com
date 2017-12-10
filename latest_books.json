@@ -1,4 +1,16 @@
 {
+    "C1ARciRK8j": {
+        "id": "C1ARciRK8j",
+        "title": "Тайна заброшенной часовни",
+        "author": "Антон Иванов, Анна Устинова",
+        "notes": "",
+        "createdAt": "2017-12-10 19:22:25",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 7
+        }
+    },
     "lOI-LZPQ7x": {
         "id": "lOI-LZPQ7x",
         "title": "Отряд под землёй и под облаками (сборник)",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 5
-        }
-    },
-    "d7JIczaxRR": {
-        "id": "d7JIczaxRR",
-        "title": "Дао Дэ Дзин",
-        "author": "Лао-Цзы",
-        "notes": "",
-        "createdAt": "2017-12-07 21:21:15",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 38
         }
     }
 }
