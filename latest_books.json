@@ -1,4 +1,16 @@
 {
+    "o4vdZTTfQj": {
+        "id": "o4vdZTTfQj",
+        "title": "Осназовец",
+        "author": "Владимир Геннадьевич Поселягин",
+        "notes": "",
+        "createdAt": "2017-12-10 18:26:23",
+        "user": {
+            "id": "115604603872979762940-google",
+            "nickname": "JEkIS23",
+            "booksCount": 3
+        }
+    },
     "3pgIg9_pUA": {
         "id": "3pgIg9_pUA",
         "title": "Комсомолец",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 21
-        }
-    },
-    "yzRy2A5PiS": {
-        "id": "yzRy2A5PiS",
-        "title": "Наука плоского мира",
-        "author": "Т. Пратчетт",
-        "notes": "",
-        "createdAt": "2017-12-07 20:04:22",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 20
         }
     }
 }
