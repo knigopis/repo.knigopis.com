@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>69</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>70</sup>
 ---
 
 ## 2017
+
+### В тихом омуте
+Пола Хокинс
+> [2017-12-10] 
+
 
 ### Джейн Эйр
 Шарлотта Бронте
