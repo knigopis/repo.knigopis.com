@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
+    > Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные
+
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
     > ее убил моряк
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > медальон, указавший на большие пиратские сокровища
 
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
-    > Книга поживее, чем вторая. Вторая Асса в разгаре ГГ весь великий и могучий донельзя. Возрождается ГГ-ня, почему то в том же слое Вселенной. Темные оказались очень похожими на людей
 
 * Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
 
-* Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>281</sup> 
 [kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
-[morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
 
 
-_10.12.2017 16:18:57_
+_10.12.2017 16:24:25_

@@ -1,4 +1,16 @@
 {
+    "bcechJ-edN": {
+        "id": "bcechJ-edN",
+        "title": "Фантастические Создания",
+        "author": "Нил Гейман",
+        "notes": "Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные",
+        "createdAt": "2017-12-10 16:24:25",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 162
+        }
+    },
     "oHvV8mL0KM": {
         "id": "oHvV8mL0KM",
         "title": "В тихом омуте",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 18
-        }
-    },
-    "B9IGatctB7": {
-        "id": "B9IGatctB7",
-        "title": "Повелитель мух",
-        "author": "О. Уальд",
-        "notes": "",
-        "createdAt": "2017-12-07 20:02:11",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 17
         }
     }
 }

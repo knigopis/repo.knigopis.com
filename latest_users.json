@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 162,
+        "updatedAt": "2017-12-10 16:24:25"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "AlexeyNovikov",
         "booksCount": 42,
         "updatedAt": "2017-12-02 12:14:07"
-    },
-    "295913564-vkontakte": {
-        "id": "295913564-vkontakte",
-        "nickname": "morw_mor",
-        "booksCount": 2,
-        "updatedAt": "2017-12-02 08:47:56"
     }
 }

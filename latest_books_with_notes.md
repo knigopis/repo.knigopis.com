@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
 * Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
-* Дремлющий демон Декстера ~ [En](users/333/333646551-vkontakte)<sup>16</sup>
 
 
-_09.12.2017 19:31:39_
+_10.12.2017 16:24:25_
