@@ -1,4 +1,16 @@
 {
+    "XHc5HhhiOO": {
+        "id": "XHc5HhhiOO",
+        "title": "Всадник без головы",
+        "author": "Майн Рид",
+        "notes": "",
+        "createdAt": "2017-12-10 19:29:19",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 14
+        }
+    },
     "JG0mlpvsYu": {
         "id": "JG0mlpvsYu",
         "title": "С ума сойти!",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 70
-        }
-    },
-    "BKIyXdc0uv": {
-        "id": "BKIyXdc0uv",
-        "title": "«Белый Вождь»",
-        "author": "Томас Майн Рид",
-        "notes": "",
-        "createdAt": "2017-12-09 19:56:55",
-        "user": {
-            "id": "180139283-vkontakte",
-            "nickname": "miracolo_bella",
-            "booksCount": 69
         }
     }
 }
