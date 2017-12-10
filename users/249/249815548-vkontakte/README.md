@@ -1,7 +1,11 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>5</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>6</sup>
 ---
 
 ## 2012
+
+### Отряд под землёй и под облаками (сборник)
+Мато Ловрак, Франце Бевк, Драгутин Малович
+
 
 ### Приключения Васи Куролесова
 Юрий Коваль

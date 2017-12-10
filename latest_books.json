@@ -1,4 +1,16 @@
 {
+    "lOI-LZPQ7x": {
+        "id": "lOI-LZPQ7x",
+        "title": "Отряд под землёй и под облаками (сборник)",
+        "author": "Мато Ловрак, Франце Бевк, Драгутин Малович",
+        "notes": "",
+        "createdAt": "2017-12-10 19:21:51",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 6
+        }
+    },
     "H1QlTWrv5j": {
         "id": "H1QlTWrv5j",
         "title": "Приключения Васи Куролесова",
@@ -345,18 +357,6 @@
             "id": "380554090-vkontakte",
             "nickname": "idsimonbell",
             "booksCount": 38
-        }
-    },
-    "lALyJTINUb": {
-        "id": "lALyJTINUb",
-        "title": "Анархия и порядок",
-        "author": "М. Бакунин",
-        "notes": "",
-        "createdAt": "2017-12-07 20:24:07",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 31
         }
     }
 }
