@@ -1,7 +1,11 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>1</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>2</sup>
 ---
 
 ## 2011
+
+### Приключения Тома Сойера
+Марк Твен
+
 
 ### Сто тысяч почему
 М. Ильин (Илья Яковлевич Маршак)
