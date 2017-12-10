@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[JEkIS23](users/115/115604603872979762940-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>281</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 
 
-_10.12.2017 16:24:25_
+_10.12.2017 18:22:11_
