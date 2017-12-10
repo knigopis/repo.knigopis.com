@@ -1,4 +1,16 @@
 {
+    "a4LtALedWq": {
+        "id": "a4LtALedWq",
+        "title": "Название этой книги - секрет",
+        "author": "Псевдонимус Босх",
+        "notes": "",
+        "createdAt": "2017-12-10 19:25:50",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 10
+        }
+    },
     "4zsi7mb_4L": {
         "id": "4zsi7mb_4L",
         "title": "Остров сокровищ",
@@ -345,18 +357,6 @@
             "id": "180139283-vkontakte",
             "nickname": "miracolo_bella",
             "booksCount": 66
-        }
-    },
-    "NEIQWdsBgB": {
-        "id": "NEIQWdsBgB",
-        "title": "Вся плоть — трава",
-        "author": "Клиффорд Дональд Саймак",
-        "notes": "",
-        "createdAt": "2017-12-09 07:33:55",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 11
         }
     }
 }
