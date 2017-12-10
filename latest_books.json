@@ -1,4 +1,16 @@
 {
+    "4zsi7mb_4L": {
+        "id": "4zsi7mb_4L",
+        "title": "Остров сокровищ",
+        "author": "Роберт Стивенсон",
+        "notes": "",
+        "createdAt": "2017-12-10 19:24:57",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 9
+        }
+    },
     "o73Mx-Gtmj": {
         "id": "o73Mx-Gtmj",
         "title": "Большая книга ужасов 2013 (сборник)",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 11
-        }
-    },
-    "rVl4UKpw9_": {
-        "id": "rVl4UKpw9_",
-        "title": "Обыкновенная история",
-        "author": "Ива́н Алекса́ндрович Гончаро́в",
-        "notes": "",
-        "createdAt": "2017-12-09 07:32:45",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 10
         }
     }
 }
