@@ -1,4 +1,10 @@
 {
+    "192728266-vkontakte": {
+        "id": "192728266-vkontakte",
+        "nickname": "kirill.kolmogortsev",
+        "booksCount": 0,
+        "updatedAt": "2017-12-10 05:58:02"
+    },
     "10155555907294681-facebook": {
         "id": "10155555907294681-facebook",
         "nickname": "tangina",
@@ -172,11 +178,5 @@
         "nickname": "morw_mor",
         "booksCount": 2,
         "updatedAt": "2017-12-02 08:47:56"
-    },
-    "11953277-vkontakte": {
-        "id": "11953277-vkontakte",
-        "nickname": "pavel.bazhenov",
-        "booksCount": 0,
-        "updatedAt": "2017-12-02 06:46:48"
     }
 }
