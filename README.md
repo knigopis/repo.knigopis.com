@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 [tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [klimentev](users/102/102381017814242296130-google)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>42</sup> 
 [morw_mor](users/295/295913564-vkontakte)<sup>2</sup> 
-[pavel.bazhenov](users/119/11953277-vkontakte)<sup>0</sup> 
 
 
-_09.12.2017 22:25:18_
+_10.12.2017 05:58:05_
