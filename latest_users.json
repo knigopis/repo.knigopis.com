@@ -1,4 +1,10 @@
 {
+    "380554090-vkontakte": {
+        "id": "380554090-vkontakte",
+        "nickname": "idsimonbell",
+        "booksCount": 39,
+        "updatedAt": "2017-12-10 20:41:55"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -70,12 +76,6 @@
         "nickname": "Артур Вольнов",
         "booksCount": 5,
         "updatedAt": "2017-12-08 00:23:54"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 38,
-        "updatedAt": "2017-12-07 21:21:15"
     },
     "101892939810731181399-google": {
         "id": "101892939810731181399-google",

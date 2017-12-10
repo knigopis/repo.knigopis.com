@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
 [JEkIS23](users/115/115604603872979762940-google)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>38</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 
 
-_10.12.2017 19:29:19_
+_10.12.2017 20:41:55_

@@ -1,7 +1,12 @@
-# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>38</sup>
+# List of books read by [idsimonbell](http://vk.com/id380554090)<sup>39</sup>
 ---
 
 ## 2017
+
+### Путь воина света
+Пауло Коэльо
+> [2017-12-10] 
+
 
 ### Дао Дэ Дзин
 Лао-Цзы
