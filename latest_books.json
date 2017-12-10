@@ -1,4 +1,16 @@
 {
+    "YyEoWLU7OS": {
+        "id": "YyEoWLU7OS",
+        "title": "Необыкновенные приключения Карика и Вали",
+        "author": "Ян Ларри",
+        "notes": "",
+        "createdAt": "2017-12-10 19:19:03",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 4
+        }
+    },
     "_oajX_NrUs": {
         "id": "_oajX_NrUs",
         "title": "Волшебник Изумрудного города",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 30
-        }
-    },
-    "ILoG4q9jMr": {
-        "id": "ILoG4q9jMr",
-        "title": "Моя борьба",
-        "author": "А. Гитлер",
-        "notes": "",
-        "createdAt": "2017-12-07 20:20:20",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 29
         }
     }
 }

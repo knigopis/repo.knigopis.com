@@ -1,7 +1,11 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>3</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>4</sup>
 ---
 
 ## 2012
+
+### Необыкновенные приключения Карика и Вали
+Ян Ларри
+
 
 ### Волшебник Изумрудного города
 Александр Волков
