@@ -1,5 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>2</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>3</sup>
 ---
+
+## 2012
+
+### Волшебник Изумрудного города
+Александр Волков
+
+
 
 ## 2011
 

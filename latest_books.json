@@ -1,4 +1,16 @@
 {
+    "_oajX_NrUs": {
+        "id": "_oajX_NrUs",
+        "title": "Волшебник Изумрудного города",
+        "author": "Александр Волков",
+        "notes": "",
+        "createdAt": "2017-12-10 19:18:31",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 3
+        }
+    },
     "RYHMzQMPyP": {
         "id": "RYHMzQMPyP",
         "title": "Приключения Тома Сойера",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 29
-        }
-    },
-    "Z8xPp9h6bJ": {
-        "id": "Z8xPp9h6bJ",
-        "title": "Мир, полон демонов",
-        "author": "К. Саган",
-        "notes": "",
-        "createdAt": "2017-12-07 20:19:26",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 28
         }
     }
 }
