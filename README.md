@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[striped_one](users/249/249815548-vkontakte)<sup>4</sup> 
+[striped_one](users/249/249815548-vkontakte)<sup>5</sup> 
 [JEkIS23](users/115/115604603872979762940-google)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 
 
-_10.12.2017 19:19:03_
+_10.12.2017 19:19:44_

@@ -1,7 +1,11 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>4</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>5</sup>
 ---
 
 ## 2012
+
+### Приключения Васи Куролесова
+Юрий Коваль
+
 
 ### Необыкновенные приключения Карика и Вали
 Ян Ларри
