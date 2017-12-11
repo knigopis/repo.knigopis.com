@@ -1,4 +1,10 @@
 {
+    "112906369786975469815-google": {
+        "id": "112906369786975469815-google",
+        "nickname": "EDVedun",
+        "booksCount": 0,
+        "updatedAt": "2017-12-11 04:51:14"
+    },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
         "nickname": "idsimonbell",
@@ -172,11 +178,5 @@
         "nickname": "kosklimashevich",
         "booksCount": 1,
         "updatedAt": "2017-12-03 00:01:54"
-    },
-    "43338777-vkontakte": {
-        "id": "43338777-vkontakte",
-        "nickname": "manchini88",
-        "booksCount": 1,
-        "updatedAt": "2017-12-02 19:02:00"
     }
 }
