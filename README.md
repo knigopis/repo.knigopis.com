@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
+    > Книга 8
+
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
     > Книга 7
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные
 
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
-    > ее убил моряк
 
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
 
-* Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>131</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 
 
-_11.12.2017 04:56:05_
+_11.12.2017 04:56:30_

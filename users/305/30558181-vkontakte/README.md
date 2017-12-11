@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>131</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>132</sup>
 ---
 
 ## 2017
+
+### Артемис Фаул: Последний хранитель
+Йон Колфер
+> [2017-12-10] Книга 8
+
 
 ### Артемис Фаул: Зов Атлантиды
 Йон Колфер
