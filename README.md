@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
 [JEkIS23](users/115/115604603872979762940-google)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 [kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
-[manchini88](users/433/43338777-vkontakte)<sup>1</sup> 
 
 
-_10.12.2017 20:41:55_
+_11.12.2017 04:51:17_
