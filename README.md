@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
+    > Книга 7
+
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
     > Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ее убил моряк
 
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
-    > медальон, указавший на большие пиратские сокровища
 
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
 
-* История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>131</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>40</sup> 
 [olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
-[kosklimashevich](users/431/4318686540-instagram)<sup>1</sup> 
 
 
-_11.12.2017 04:51:17_
+_11.12.2017 04:56:05_

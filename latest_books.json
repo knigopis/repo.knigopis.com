@@ -1,4 +1,16 @@
 {
+    "24xB6NmXjN": {
+        "id": "24xB6NmXjN",
+        "title": "Артемис Фаул: Зов Атлантиды",
+        "author": "Йон Колфер",
+        "notes": "Книга 7",
+        "createdAt": "2017-12-11 04:56:05",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 131
+        }
+    },
     "H7ael8in1d": {
         "id": "H7ael8in1d",
         "title": "Путь воина света",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 88
-        }
-    },
-    "Zg5zud9KUd": {
-        "id": "Zg5zud9KUd",
-        "title": "Наслаждаться Христом как Словом и Духом посредством молитвы",
-        "author": "Уитнесс Ли",
-        "notes": "",
-        "createdAt": "2017-12-09 20:53:45",
-        "user": {
-            "id": "107182375378136908346-google",
-            "nickname": "rudanok",
-            "booksCount": 1
         }
     }
 }

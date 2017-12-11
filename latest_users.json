@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 131,
+        "updatedAt": "2017-12-11 04:56:05"
+    },
     "112906369786975469815-google": {
         "id": "112906369786975469815-google",
         "nickname": "EDVedun",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 37,
         "updatedAt": "2017-12-03 08:34:25"
-    },
-    "4318686540-instagram": {
-        "id": "4318686540-instagram",
-        "nickname": "kosklimashevich",
-        "booksCount": 1,
-        "updatedAt": "2017-12-03 00:01:54"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 * Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 * Курьезы военной медицины ~ [En](users/333/333646551-vkontakte)<sup>18</sup>
-* Сорокин Владимир ~ [En](users/333/333646551-vkontakte)<sup>17</sup>
 
 
-_10.12.2017 16:24:25_
+_11.12.2017 04:56:05_
