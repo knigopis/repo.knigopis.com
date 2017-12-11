@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
@@ -30,7 +31,6 @@
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 * Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
-* Планета Вода. ~ [En](users/333/333646551-vkontakte)<sup>19</sup>
 
 
-_11.12.2017 04:56:30_
+_11.12.2017 04:57:28_

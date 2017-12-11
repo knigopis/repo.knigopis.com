@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
+    > Книга 6
+
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
     > Книга 8
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 7
 
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
-    > Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные
 
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 
-* Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>131</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 
 
-_11.12.2017 04:57:05_
+_11.12.2017 04:57:28_

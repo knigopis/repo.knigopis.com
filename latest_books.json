@@ -1,4 +1,16 @@
 {
+    "G3oNIrS-nM": {
+        "id": "G3oNIrS-nM",
+        "title": "Артемис Фаул: Парадокс времени",
+        "author": "Йон Колфер",
+        "notes": "Книга 6",
+        "createdAt": "2017-12-11 04:57:28",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 132
+        }
+    },
     "t1UmlejPDF": {
         "id": "t1UmlejPDF",
         "title": "Артемис Фаул: Последний хранитель",
@@ -345,18 +357,6 @@
             "id": "10155555907294681-facebook",
             "nickname": "tangina",
             "booksCount": 1
-        }
-    },
-    "_8xJuy2_Ss": {
-        "id": "_8xJuy2_Ss",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Клейсон",
-        "notes": "",
-        "createdAt": "2017-12-09 21:49:04",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 89
         }
     }
 }
