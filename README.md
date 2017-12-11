@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>604</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Bepebka](users/238/238356806-vkontakte)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>40</sup> 
 [olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>37</sup> 
 
 
-_11.12.2017 04:57:28_
+_11.12.2017 17:06:14_
