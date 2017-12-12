@@ -1,4 +1,16 @@
 {
+    "Zg0_mGSY8U": {
+        "id": "Zg0_mGSY8U",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-12-12 05:20:20",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 32
+        }
+    },
     "-sUB03WOzg": {
         "id": "-sUB03WOzg",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "115604603872979762940-google",
             "nickname": "JEkIS23",
             "booksCount": 1
-        }
-    },
-    "bcechJ-edN": {
-        "id": "bcechJ-edN",
-        "title": "Фантастические Создания",
-        "author": "Нил Гейман",
-        "notes": "Парочка рассказов прямо-таки очень интересные, но есть и откровенно не о чем, нудные",
-        "createdAt": "2017-12-10 16:24:25",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 162
         }
     }
 }

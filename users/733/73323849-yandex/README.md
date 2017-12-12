@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>31</sup>
+# List of books read by inna.besprozvannykh<sup>32</sup>
 ---
 
 ## 2017
+
+### Три товарища
+Эрих Мария Ремарк
+> [2017-10] 
+
 
 ### Таинственная история Билли Миллигана
 Дэниел Киз
