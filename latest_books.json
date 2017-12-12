@@ -1,4 +1,16 @@
 {
+    "ZhzXIsH9NT": {
+        "id": "ZhzXIsH9NT",
+        "title": "Маккалоу Колин",
+        "author": "Поющие в терновнике",
+        "notes": "",
+        "createdAt": "2017-12-12 05:16:11",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 31
+        }
+    },
     "z-Qppdur0D": {
         "id": "z-Qppdur0D",
         "title": "Зима тревоги нашей",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 70
-        }
-    },
-    "zLB54CAZWa": {
-        "id": "zLB54CAZWa",
-        "title": "Автоматический покупатель",
-        "author": "Джон Уоррилоу",
-        "notes": "",
-        "createdAt": "2017-12-10 09:00:34",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 281
         }
     }
 }

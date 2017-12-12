@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>30</sup>
+# List of books read by inna.besprozvannykh<sup>31</sup>
 ---
 
 ## 2017
+
+### Маккалоу Колин
+Поющие в терновнике
+> [2017-12-12] 
+
 
 ### Поющие в терновнике
 Колин Маккалоу

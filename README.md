@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>31</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>604</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Jack Berkut](users/323/323667452-vkontakte)<sup>5</sup> 
 [Bepebka](users/238/238356806-vkontakte)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>40</sup> 
-[olegliya](users/354/354111412-vkontakte)<sup>0</sup> 
 
 
-_11.12.2017 17:06:14_
+_12.12.2017 05:16:11_

@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 31,
+        "updatedAt": "2017-12-12 05:16:11"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 40,
         "updatedAt": "2017-12-03 09:44:25"
-    },
-    "354111412-vkontakte": {
-        "id": "354111412-vkontakte",
-        "nickname": "olegliya",
-        "booksCount": 0,
-        "updatedAt": "2017-12-03 09:11:34"
     }
 }
