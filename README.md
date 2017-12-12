@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[JEkIS23](users/115/115604603872979762940-google)<sup>9</sup> 
 [Аграт](users/299/299943456-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>604</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
-[JEkIS23](users/115/115604603872979762940-google)<sup>8</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>281</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Bepebka](users/238/238356806-vkontakte)<sup>1</sup> 
 
 
-_12.12.2017 10:26:07_
+_12.12.2017 10:37:28_
