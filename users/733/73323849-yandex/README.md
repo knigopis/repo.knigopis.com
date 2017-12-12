@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>30</sup>
+# List of books read by inna.besprozvannykh<sup>31</sup>
 ---
 
 ## 2017
+
+### Таинственная история Билли Миллигана
+Дэниел Киз
+> [2017-10] 
+
 
 ### Поющие в терновнике
 Колин Маккалоу

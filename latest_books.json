@@ -1,4 +1,16 @@
 {
+    "-sUB03WOzg": {
+        "id": "-sUB03WOzg",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2017-12-12 05:19:31",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 31
+        }
+    },
     "ZhzXIsH9NT": {
         "id": "ZhzXIsH9NT",
         "title": "Маккалоу Колин",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 162
-        }
-    },
-    "oHvV8mL0KM": {
-        "id": "oHvV8mL0KM",
-        "title": "В тихом омуте",
-        "author": "Пола Хокинс",
-        "notes": "",
-        "createdAt": "2017-12-10 16:18:57",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 70
         }
     }
 }
