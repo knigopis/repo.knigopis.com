@@ -1,4 +1,10 @@
 {
+    "299943456-vkontakte": {
+        "id": "299943456-vkontakte",
+        "nickname": "Аграт",
+        "booksCount": 0,
+        "updatedAt": "2017-12-12 10:26:04"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "Bepebka",
         "booksCount": 1,
         "updatedAt": "2017-12-03 10:47:30"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 40,
-        "updatedAt": "2017-12-03 09:44:25"
     }
 }
