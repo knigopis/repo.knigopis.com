@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Созерцатель ~ [Chiffi](users/105/105831994080785626680-google)<sup>38</sup>
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
@@ -30,7 +31,6 @@
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
 * Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
-* Гарри Поттер и методы рационального мышления ~ [En](users/333/333646551-vkontakte)<sup>20</sup>
 
 
-_11.12.2017 04:57:28_
+_13.12.2017 21:26:50_

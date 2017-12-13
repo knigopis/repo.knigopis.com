@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Созерцатель ~ [Chiffi](users/105/105831994080785626680-google)<sup>38</sup>
+    > фантастика. добротно написанная
+
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
     > Книга 6
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 8
 
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
-    > Книга 7
 
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
 
-* Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 [Irina](users/136/1369298866493181-facebook)<sup>0</sup> 
 [JEkIS23](users/115/115604603872979762940-google)<sup>9</sup> 
 [Аграт](users/299/299943456-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
 [rustammilanist](users/439/439343791-vkontakte)<sup>1</sup> 
-[Jack Berkut](users/323/323667452-vkontakte)<sup>5</sup> 
 
 
-_13.12.2017 12:28:22_
+_13.12.2017 21:26:50_

@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>37</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>38</sup>
 ---
 
 ## 2017
+
+### Созерцатель
+Пехов Алексей
+> [2017-12] фантастика. добротно написанная
+
 
 ### Мертвая королева
 Панов Вадим
