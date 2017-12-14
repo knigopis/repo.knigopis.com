@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>110</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>111</sup>
 ---
 
 ## 2017
+
+### Экономическая психология
+Экономическая психология
+
 
 ### Межзвездный скиталец
 Джек Лондон

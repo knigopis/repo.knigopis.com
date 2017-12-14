@@ -1,4 +1,16 @@
 {
+    "tFbg0ox-dv": {
+        "id": "tFbg0ox-dv",
+        "title": "Экономическая психология",
+        "author": "Экономическая психология",
+        "notes": "",
+        "createdAt": "2017-12-14 20:49:17",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 111
+        }
+    },
     "YWS_F7bbLd": {
         "id": "YWS_F7bbLd",
         "title": "Межзвездный скиталец",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 1
-        }
-    },
-    "pXSqNOlZNh": {
-        "id": "pXSqNOlZNh",
-        "title": "В царствование императора Николая Павловича",
-        "author": "Александр Михайловский, Александр Харников",
-        "notes": "",
-        "createdAt": "2017-12-10 18:29:26",
-        "user": {
-            "id": "115604603872979762940-google",
-            "nickname": "JEkIS23",
-            "booksCount": 8
         }
     }
 }
