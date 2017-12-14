@@ -1,4 +1,16 @@
 {
+    "x3Tk7sY8o9": {
+        "id": "x3Tk7sY8o9",
+        "title": "Колосс Марусский",
+        "author": "Генри Миллер",
+        "notes": "",
+        "createdAt": "2017-12-14 20:49:47",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 113
+        }
+    },
     "cVSdcg-QEt": {
         "id": "cVSdcg-QEt",
         "title": "Алое и зеленое",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 3
-        }
-    },
-    "RYHMzQMPyP": {
-        "id": "RYHMzQMPyP",
-        "title": "Приключения Тома Сойера",
-        "author": "Марк Твен",
-        "notes": "",
-        "createdAt": "2017-12-10 19:16:39",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 2
         }
     }
 }

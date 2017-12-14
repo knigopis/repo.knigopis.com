@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>112</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>113</sup>
 ---
 
 ## 2017
+
+### Колосс Марусский
+Генри Миллер
+
 
 ### Алое и зеленое
 Айрис Мердок
