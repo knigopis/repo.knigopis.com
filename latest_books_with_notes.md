@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Бог ненавидит всех нас ~ [Madlax](users/158/158304782-vkontakte)<sup>114</sup>
 * Созерцатель ~ [Chiffi](users/105/105831994080785626680-google)<sup>38</sup>
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Лис Улисс и свирель времени ~ [Sky](users/118/118049897850017649660-google)<sup>53</sup>
 * Страна рождества ~ [En](users/333/333646551-vkontakte)<sup>23</sup>
 * Вверх по лестнице, ведущей вниз ~ [En](users/333/333646551-vkontakte)<sup>22</sup>
-* Омон Ра ~ [En](users/333/333646551-vkontakte)<sup>21</sup>
 
 
-_13.12.2017 21:26:50_
+_14.12.2017 20:50:09_
