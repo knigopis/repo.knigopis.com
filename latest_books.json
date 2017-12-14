@@ -1,4 +1,16 @@
 {
+    "4HXxYOoKby": {
+        "id": "4HXxYOoKby",
+        "title": "Дальние пределы человеческого сознания",
+        "author": "Абрахам Маслоу",
+        "notes": "",
+        "createdAt": "2017-12-14 20:55:00",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 130
+        }
+    },
     "-DV3-ipXXz": {
         "id": "-DV3-ipXXz",
         "title": "Чайка по имени Джонатан",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 31
-        }
-    },
-    "z-Qppdur0D": {
-        "id": "z-Qppdur0D",
-        "title": "Зима тревоги нашей",
-        "author": "Джон Стейнбек",
-        "notes": "",
-        "createdAt": "2017-12-11 17:06:14",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 604
         }
     }
 }
