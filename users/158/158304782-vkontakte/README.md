@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>124</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>125</sup>
 ---
 
 ## 2017
+
+### Портрет Дориана Грея
+Оскар Уальд
+
 
 ### 69
 Мураками Рю
