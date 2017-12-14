@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>121</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>122</sup>
 ---
 
 ## 2017
+
+### Мой любимый Sputnik
+Харуки Мураками
+
 
 ### Холотропное дыхание
 Гроф Станислав

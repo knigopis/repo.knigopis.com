@@ -1,4 +1,16 @@
 {
+    "fptDjir6hj": {
+        "id": "fptDjir6hj",
+        "title": "Мой любимый Sputnik",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-12-14 20:52:12",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 122
+        }
+    },
     "ZqeKtNdO0c": {
         "id": "ZqeKtNdO0c",
         "title": "Холотропное дыхание",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 12
-        }
-    },
-    "3BPzBh-bd5": {
-        "id": "3BPzBh-bd5",
-        "title": "Аптекарь",
-        "author": "Майли Мэлой",
-        "notes": "",
-        "createdAt": "2017-12-10 19:26:59",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 11
         }
     }
 }
