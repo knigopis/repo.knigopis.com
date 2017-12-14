@@ -1,4 +1,16 @@
 {
+    "YWS_F7bbLd": {
+        "id": "YWS_F7bbLd",
+        "title": "Межзвездный скиталец",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-12-14 20:49:04",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 110
+        }
+    },
     "LHiVTrRI7e": {
         "id": "LHiVTrRI7e",
         "title": "Скептик. Рациональный взгляд на мир.",
@@ -345,18 +357,6 @@
             "id": "115604603872979762940-google",
             "nickname": "JEkIS23",
             "booksCount": 8
-        }
-    },
-    "NkFHzLpgzI": {
-        "id": "NkFHzLpgzI",
-        "title": "Путь истребителя",
-        "author": "Владимир Геннадьевич Поселягин",
-        "notes": "",
-        "createdAt": "2017-12-10 18:27:28",
-        "user": {
-            "id": "115604603872979762940-google",
-            "nickname": "JEkIS23",
-            "booksCount": 7
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>110</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>5</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 [Irina](users/136/1369298866493181-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
-[me](users/381/381417697-yandex)<sup>33</sup> 
 
 
-_14.12.2017 12:25:41_
+_14.12.2017 20:49:04_
