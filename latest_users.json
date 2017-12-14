@@ -1,4 +1,10 @@
 {
+    "184135339-vkontakte": {
+        "id": "184135339-vkontakte",
+        "nickname": "darb_el",
+        "booksCount": 5,
+        "updatedAt": "2017-12-14 12:01:13"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 33,
         "updatedAt": "2017-12-03 22:18:59"
-    },
-    "439343791-vkontakte": {
-        "id": "439343791-vkontakte",
-        "nickname": "rustammilanist",
-        "booksCount": 1,
-        "updatedAt": "2017-12-03 19:24:59"
     }
 }

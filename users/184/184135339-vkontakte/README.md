@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>4</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>5</sup>
 ---
 
 ## 2017
+
+### Скептик. Рациональный взгляд на мир.
+Майкл Шермер
+> [2017-12-14] 
+
 
 ### Вселенная из ничего
 Лоуренс Краусс

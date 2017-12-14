@@ -1,4 +1,16 @@
 {
+    "sHtbWF5Kge": {
+        "id": "sHtbWF5Kge",
+        "title": "Скептик. Рациональный взгляд на мир.",
+        "author": "Майкл Шермер",
+        "notes": "",
+        "createdAt": "2017-12-14 12:01:13",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 5
+        }
+    },
     "hGxUKEM1QG": {
         "id": "hGxUKEM1QG",
         "title": "Созерцатель",
@@ -345,18 +357,6 @@
             "id": "115604603872979762940-google",
             "nickname": "JEkIS23",
             "booksCount": 7
-        }
-    },
-    "0QzSg9Ywwt": {
-        "id": "0QzSg9Ywwt",
-        "title": "Мы - Истребители",
-        "author": "Владимир Геннадьевич Поселягин",
-        "notes": "",
-        "createdAt": "2017-12-10 18:27:16",
-        "user": {
-            "id": "115604603872979762940-google",
-            "nickname": "JEkIS23",
-            "booksCount": 6
         }
     }
 }
