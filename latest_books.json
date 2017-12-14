@@ -1,4 +1,16 @@
 {
+    "eJLGAf4PIG": {
+        "id": "eJLGAf4PIG",
+        "title": "Эмоциональный шантаж",
+        "author": "Сьюзан Мойер",
+        "notes": "",
+        "createdAt": "2017-12-14 20:54:35",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 128
+        }
+    },
     "8_yB2QA9YD": {
         "id": "8_yB2QA9YD",
         "title": "Жутко громко и запредельно близко",
@@ -341,18 +353,6 @@
         "author": "Йон Колфер",
         "notes": "Книга 6",
         "createdAt": "2017-12-11 04:57:28",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 132
-        }
-    },
-    "t1UmlejPDF": {
-        "id": "t1UmlejPDF",
-        "title": "Артемис Фаул: Последний хранитель",
-        "author": "Йон Колфер",
-        "notes": "Книга 8",
-        "createdAt": "2017-12-11 04:56:30",
         "user": {
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",

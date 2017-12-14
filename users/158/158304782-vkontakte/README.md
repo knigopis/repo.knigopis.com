@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>127</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>128</sup>
 ---
 
 ## 2017
+
+### Эмоциональный шантаж
+Сьюзан Мойер
+
 
 ### Жутко громко и запредельно близко
 Джонатан Сафран Фоер
