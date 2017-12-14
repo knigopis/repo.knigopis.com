@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>125</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>126</sup>
 ---
 
 ## 2017
+
+### Хорошее самочувствие: Новая терапия настроений
+Дэвид Бернс
+
 
 ### Портрет Дориана Грея
 Оскар Уальд

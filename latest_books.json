@@ -1,4 +1,16 @@
 {
+    "CWrTfhkRL8": {
+        "id": "CWrTfhkRL8",
+        "title": "Хорошее самочувствие: Новая терапия настроений",
+        "author": "Дэвид Бернс",
+        "notes": "",
+        "createdAt": "2017-12-14 20:53:01",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 126
+        }
+    },
     "1Nfx6FRxsp": {
         "id": "1Nfx6FRxsp",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 131
-        }
-    },
-    "H7ael8in1d": {
-        "id": "H7ael8in1d",
-        "title": "Путь воина света",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2017-12-10 20:41:55",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 39
         }
     }
 }
