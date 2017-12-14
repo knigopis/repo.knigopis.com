@@ -1,4 +1,16 @@
 {
+    "K1ICy0kanD": {
+        "id": "K1ICy0kanD",
+        "title": "Психология тела",
+        "author": "Лоурен Александр",
+        "notes": "",
+        "createdAt": "2017-12-14 20:51:00",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 117
+        }
+    },
     "jZrU4zxw26": {
         "id": "jZrU4zxw26",
         "title": "Депрессия и тело",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 7
-        }
-    },
-    "lOI-LZPQ7x": {
-        "id": "lOI-LZPQ7x",
-        "title": "Отряд под землёй и под облаками (сборник)",
-        "author": "Мато Ловрак, Франце Бевк, Драгутин Малович",
-        "notes": "",
-        "createdAt": "2017-12-10 19:21:51",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 6
         }
     }
 }
