@@ -1,4 +1,16 @@
 {
+    "JGCtCQMyW9": {
+        "id": "JGCtCQMyW9",
+        "title": "Любовь и оргазм",
+        "author": "Лоурен Александр",
+        "notes": "",
+        "createdAt": "2017-12-14 20:51:37",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 119
+        }
+    },
     "5ed6RJsgq1": {
         "id": "5ed6RJsgq1",
         "title": "потерянный и возвращенный мир",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 9
-        }
-    },
-    "o73Mx-Gtmj": {
-        "id": "o73Mx-Gtmj",
-        "title": "Большая книга ужасов 2013 (сборник)",
-        "author": "Эдуард Веркин, Елена Усачёва, Ирина Щеглова",
-        "notes": "",
-        "createdAt": "2017-12-10 19:23:41",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 8
         }
     }
 }
