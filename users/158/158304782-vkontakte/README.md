@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>123</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>124</sup>
 ---
 
 ## 2017
+
+### 69
+Мураками Рю
+
 
 ### Все божьи твари могут танцевать
 Харуки Мураками

@@ -1,4 +1,16 @@
 {
+    "O5qmGJ4FnR": {
+        "id": "O5qmGJ4FnR",
+        "title": "69",
+        "author": "Мураками Рю",
+        "notes": "",
+        "createdAt": "2017-12-14 20:52:32",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 124
+        }
+    },
     "xsA-J9gGqW": {
         "id": "xsA-J9gGqW",
         "title": "Все божьи твари могут танцевать",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 14
-        }
-    },
-    "JG0mlpvsYu": {
-        "id": "JG0mlpvsYu",
-        "title": "С ума сойти!",
-        "author": "Дарья Варламова, Антон Зайниев",
-        "notes": "",
-        "createdAt": "2017-12-10 19:28:02",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 13
         }
     }
 }
