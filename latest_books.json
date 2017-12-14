@@ -1,4 +1,16 @@
 {
+    "WsMx6SGnOM": {
+        "id": "WsMx6SGnOM",
+        "title": "451° по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-12-14 20:55:29",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 15
+        }
+    },
     "4HXxYOoKby": {
         "id": "4HXxYOoKby",
         "title": "Дальние пределы человеческого сознания",
@@ -341,18 +353,6 @@
         "author": "Дэниел Киз",
         "notes": "",
         "createdAt": "2017-12-12 05:19:31",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 31
-        }
-    },
-    "ZhzXIsH9NT": {
-        "id": "ZhzXIsH9NT",
-        "title": "Маккалоу Колин",
-        "author": "Поющие в терновнике",
-        "notes": "",
-        "createdAt": "2017-12-12 05:16:11",
         "user": {
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>130</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>5</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
-[striped_one](users/249/249815548-vkontakte)<sup>14</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>281</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>9</sup> 
 
 
-_14.12.2017 20:55:00_
+_14.12.2017 20:55:29_

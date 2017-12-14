@@ -1,4 +1,10 @@
 {
+    "249815548-vkontakte": {
+        "id": "249815548-vkontakte",
+        "nickname": "striped_one",
+        "booksCount": 15,
+        "updatedAt": "2017-12-14 20:55:29"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -64,12 +70,6 @@
         "nickname": "idsimonbell",
         "booksCount": 39,
         "updatedAt": "2017-12-10 20:41:55"
-    },
-    "249815548-vkontakte": {
-        "id": "249815548-vkontakte",
-        "nickname": "striped_one",
-        "booksCount": 14,
-        "updatedAt": "2017-12-10 19:29:19"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
