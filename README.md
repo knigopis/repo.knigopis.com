@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[darb_el](users/184/184135339-vkontakte)<sup>6</sup> 
+[darb_el](users/184/184135339-vkontakte)<sup>5</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 [Irina](users/136/1369298866493181-facebook)<sup>0</sup> 
 [JEkIS23](users/115/115604603872979762940-google)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>33</sup> 
 
 
-_14.12.2017 12:25:16_
+_14.12.2017 12:25:41_
