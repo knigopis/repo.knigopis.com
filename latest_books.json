@@ -1,4 +1,16 @@
 {
+    "jZrU4zxw26": {
+        "id": "jZrU4zxw26",
+        "title": "Депрессия и тело",
+        "author": "Лоурен Александр",
+        "notes": "",
+        "createdAt": "2017-12-14 20:50:48",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 116
+        }
+    },
     "K0aJysNiFp": {
         "id": "K0aJysNiFp",
         "title": "страна чудес без тормозов",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 6
-        }
-    },
-    "H1QlTWrv5j": {
-        "id": "H1QlTWrv5j",
-        "title": "Приключения Васи Куролесова",
-        "author": "Юрий Коваль",
-        "notes": "",
-        "createdAt": "2017-12-10 19:19:44",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 5
         }
     }
 }
