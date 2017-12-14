@@ -1,4 +1,16 @@
 {
+    "xsA-J9gGqW": {
+        "id": "xsA-J9gGqW",
+        "title": "Все божьи твари могут танцевать",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-12-14 20:52:23",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 123
+        }
+    },
     "fptDjir6hj": {
         "id": "fptDjir6hj",
         "title": "Мой любимый Sputnik",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 13
-        }
-    },
-    "Qx4_siqtzh": {
-        "id": "Qx4_siqtzh",
-        "title": "Преступление и наказание",
-        "author": "Фёдор Михайлович Достоевский",
-        "notes": "",
-        "createdAt": "2017-12-10 19:27:22",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 12
         }
     }
 }
