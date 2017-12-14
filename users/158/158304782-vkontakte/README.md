@@ -1,7 +1,11 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>119</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>120</sup>
 ---
 
 ## 2017
+
+### Делай
+Ричард Брансон
+
 
 ### Любовь и оргазм
 Лоурен Александр
