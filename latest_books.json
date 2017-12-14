@@ -1,4 +1,16 @@
 {
+    "K0aJysNiFp": {
+        "id": "K0aJysNiFp",
+        "title": "страна чудес без тормозов",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2017-12-14 20:50:28",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 115
+        }
+    },
     "ysN4OUyxSE": {
         "id": "ysN4OUyxSE",
         "title": "Бог ненавидит всех нас",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 5
-        }
-    },
-    "YyEoWLU7OS": {
-        "id": "YyEoWLU7OS",
-        "title": "Необыкновенные приключения Карика и Вали",
-        "author": "Ян Ларри",
-        "notes": "",
-        "createdAt": "2017-12-10 19:19:03",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 4
         }
     }
 }
