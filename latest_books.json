@@ -1,4 +1,16 @@
 {
+    "Eoah-1daRl": {
+        "id": "Eoah-1daRl",
+        "title": "My Little Pony: The Movie: The junior novel",
+        "author": "Бэрроу Дж. М.",
+        "notes": "",
+        "createdAt": "2017-12-15 07:59:19",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 8
+        }
+    },
     "tOkVkup8qo": {
         "id": "tOkVkup8qo",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "115604603872979762940-google",
             "nickname": "JEkIS23",
             "booksCount": 9
-        }
-    },
-    "IYHFuDQF2g": {
-        "id": "IYHFuDQF2g",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-12-12 05:27:15",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 35
         }
     }
 }

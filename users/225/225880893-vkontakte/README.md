@@ -1,4 +1,4 @@
-# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>7</sup>
+# List of books read by [Артур Вольнов](http://vk.com/id225880893)<sup>8</sup>
 ---
 
 ## 2017
@@ -6,6 +6,11 @@
 ### Хоббит, или Туда обратно
 Джон Рональд Руэл Толкин
 > [2017-12-15] 
+
+
+### My Little Pony: The Movie: The junior novel
+Бэрроу Дж. М.
+> [2017-12-14] 
 
 
 
