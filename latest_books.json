@@ -1,4 +1,16 @@
 {
+    "s2GNATiZTO": {
+        "id": "s2GNATiZTO",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "Пуаро как всегда великолепен, сюжет динамичен, много неожиданных поворотов и тонкого английского юмора",
+        "createdAt": "2017-12-15 14:59:37",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 163
+        }
+    },
     "4d9VtkkIH3": {
         "id": "4d9VtkkIH3",
         "title": "История Оливера",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 6
-        }
-    },
-    "hGxUKEM1QG": {
-        "id": "hGxUKEM1QG",
-        "title": "Созерцатель",
-        "author": "Пехов Алексей",
-        "notes": "фантастика. добротно написанная",
-        "createdAt": "2017-12-13 21:26:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 38
         }
     }
 }

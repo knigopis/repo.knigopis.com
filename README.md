@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
+    > Пуаро как всегда великолепен, сюжет динамичен, много неожиданных поворотов и тонкого английского юмора
+
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
     > Оливеру Баррэт IV, Джоана Стайн,
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Пример
 
 * потерянный и возвращенный мир ~ [Madlax](users/158/158304782-vkontakte)<sup>118</sup>
-    > История человека, живущего в Тульской области и получившего пулю в голову, из-за которой он стал страдать зрительной агнозией и расстройством памяти. Так же и расстройством движения в следствие того, что забыл как двигаться, что делать.
 
 * Бог ненавидит всех нас ~ [Madlax](users/158/158304782-vkontakte)<sup>114</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 
-* Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 [tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 
 
-_15.12.2017 12:52:38_
+_15.12.2017 14:59:37_
