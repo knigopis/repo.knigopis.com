@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 282,
+        "updatedAt": "2017-12-15 07:02:35"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -88,12 +94,6 @@
         "nickname": "Sky",
         "booksCount": 70,
         "updatedAt": "2017-12-10 16:18:57"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 281,
-        "updatedAt": "2017-12-10 09:00:34"
     },
     "192728266-vkontakte": {
         "id": "192728266-vkontakte",

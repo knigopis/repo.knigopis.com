@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>130</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>162</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>281</sup> 
 [kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 [tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 
 
-_15.12.2017 06:58:51_
+_15.12.2017 07:02:35_
