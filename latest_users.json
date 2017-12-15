@@ -1,4 +1,10 @@
 {
+    "118269612928760236690-google": {
+        "id": "118269612928760236690-google",
+        "nickname": "Shiro Kirio",
+        "booksCount": 0,
+        "updatedAt": "2017-12-15 19:40:24"
+    },
     "238356806-vkontakte": {
         "id": "238356806-vkontakte",
         "nickname": "иузуил",
@@ -172,11 +178,5 @@
         "nickname": "_vlad_79",
         "booksCount": 1,
         "updatedAt": "2017-12-07 07:16:27"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 96,
-        "updatedAt": "2017-12-06 09:42:36"
     }
 }
