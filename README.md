@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shiro Kirio](users/118/118269612928760236690-google)<sup>0</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
 
 
-_15.12.2017 17:46:33_
+_15.12.2017 19:40:27_
