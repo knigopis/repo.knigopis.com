@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[иузуил](users/238/238356806-vkontakte)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>96</sup> 
-[amesyatseva](users/335/3358937-vkontakte)<sup>31</sup> 
 
 
-_15.12.2017 14:59:37_
+_15.12.2017 17:46:33_

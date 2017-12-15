@@ -1,4 +1,16 @@
 {
+    "aC9-waZAic": {
+        "id": "aC9-waZAic",
+        "title": "Дневной дозор",
+        "author": "с",
+        "notes": "",
+        "createdAt": "2017-12-15 17:46:33",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 2
+        }
+    },
     "s2GNATiZTO": {
         "id": "s2GNATiZTO",
         "title": "Убийство Роджера Экройда",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 110
-        }
-    },
-    "LHiVTrRI7e": {
-        "id": "LHiVTrRI7e",
-        "title": "Скептик. Рациональный взгляд на мир.",
-        "author": "Майкл Шермер",
-        "notes": "",
-        "createdAt": "2017-12-14 12:25:16",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 6
         }
     }
 }
