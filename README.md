@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>6</sup> 
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>7</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 
 
-_15.12.2017 07:56:30_
+_15.12.2017 07:58:13_
