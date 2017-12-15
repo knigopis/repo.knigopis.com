@@ -10,7 +10,8 @@
 
 ### My Little Pony: The Movie: The junior novel
 Бэрроу Дж. М.
-> [2017-12-14] 
+> [2017-12-14] НЕ ОЧЕНЬ 
+> (отвратно)
 
 
 
