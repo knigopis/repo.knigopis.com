@@ -1,4 +1,16 @@
 {
+    "p1QmyCT_73": {
+        "id": "p1QmyCT_73",
+        "title": "Пробное добавление",
+        "author": "Тестовое",
+        "notes": "Пример",
+        "createdAt": "2017-12-15 06:58:28",
+        "user": {
+            "id": "115622071-twitter",
+            "nickname": "rNix",
+            "booksCount": 59
+        }
+    },
     "WsMx6SGnOM": {
         "id": "WsMx6SGnOM",
         "title": "451° по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 32
-        }
-    },
-    "-sUB03WOzg": {
-        "id": "-sUB03WOzg",
-        "title": "Таинственная история Билли Миллигана",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2017-12-12 05:19:31",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 31
         }
     }
 }

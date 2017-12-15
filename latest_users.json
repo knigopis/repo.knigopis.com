@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 59,
+        "updatedAt": "2017-12-15 06:58:28"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 24,
         "updatedAt": "2017-12-06 05:24:41"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 9,
-        "updatedAt": "2017-12-04 12:42:48"
     }
 }
