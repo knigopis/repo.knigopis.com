@@ -1,4 +1,16 @@
 {
+    "S-2uXlcxah": {
+        "id": "S-2uXlcxah",
+        "title": "Хоббит, или Туда обратно",
+        "author": "Джон Рональд Руэл Толкин",
+        "notes": "",
+        "createdAt": "2017-12-15 07:56:30",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 6
+        }
+    },
     "N0YXO7CO3p": {
         "id": "N0YXO7CO3p",
         "title": "Идеальное тело за 4 часа",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 34
-        }
-    },
-    "yKO7aAeykU": {
-        "id": "yKO7aAeykU",
-        "title": "Земля обетованная",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2017-12-12 05:20:58",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 33
         }
     }
 }

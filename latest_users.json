@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 6,
+        "updatedAt": "2017-12-15 07:56:30"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -130,12 +136,6 @@
         "nickname": "submerged fish",
         "booksCount": 11,
         "updatedAt": "2017-12-09 07:33:55"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 5,
-        "updatedAt": "2017-12-08 00:23:54"
     },
     "101892939810731181399-google": {
         "id": "101892939810731181399-google",

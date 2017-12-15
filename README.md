@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>6</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>5</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>111</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>24</sup> 
 
 
-_15.12.2017 07:02:35_
+_15.12.2017 07:56:30_
