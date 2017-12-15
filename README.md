@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shiro Kirio](users/118/118269612928760236690-google)<sup>0</sup> 
+[Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [_vlad_79](users/396/396799852-vkontakte)<sup>1</sup> 
 
 
-_15.12.2017 19:40:27_
+_15.12.2017 19:41:06_

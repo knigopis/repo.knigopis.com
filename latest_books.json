@@ -1,4 +1,16 @@
 {
+    "zLomfaSnBH": {
+        "id": "zLomfaSnBH",
+        "title": "Белый Клык",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2017-12-15 19:41:06",
+        "user": {
+            "id": "118269612928760236690-google",
+            "nickname": "Shiro Kirio",
+            "booksCount": 1
+        }
+    },
     "aC9-waZAic": {
         "id": "aC9-waZAic",
         "title": "Дневной дозор",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 111
-        }
-    },
-    "YWS_F7bbLd": {
-        "id": "YWS_F7bbLd",
-        "title": "Межзвездный скиталец",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-12-14 20:49:04",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 110
         }
     }
 }
