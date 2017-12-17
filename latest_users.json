@@ -1,4 +1,10 @@
 {
+    "4234886-vkontakte": {
+        "id": "4234886-vkontakte",
+        "nickname": "puzz88",
+        "booksCount": 0,
+        "updatedAt": "2017-12-17 11:26:34"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Элла",
         "booksCount": 15,
         "updatedAt": "2017-12-07 12:32:15"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 111,
-        "updatedAt": "2017-12-07 07:54:05"
     }
 }
