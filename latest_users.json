@@ -1,4 +1,10 @@
 {
+    "1589991341068692-facebook": {
+        "id": "1589991341068692-facebook",
+        "nickname": "IhorMykolaiovych",
+        "booksCount": 0,
+        "updatedAt": "2017-12-17 20:18:11"
+    },
     "10210829435508010-facebook": {
         "id": "10210829435508010-facebook",
         "nickname": "ololoeva",
@@ -172,11 +178,5 @@
         "nickname": "miracolo_bella",
         "booksCount": 70,
         "updatedAt": "2017-12-09 19:58:33"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 11,
-        "updatedAt": "2017-12-09 07:33:55"
     }
 }
