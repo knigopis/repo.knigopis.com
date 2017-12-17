@@ -1,4 +1,16 @@
 {
+    "1nVHQJFVPh": {
+        "id": "1nVHQJFVPh",
+        "title": "Ловись, рыбка!",
+        "author": "Стивен К. Ландин, Джон Кристенсен, Harry Paul, Philip Strand",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1685078/",
+        "createdAt": "2017-12-17 17:24:25",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 132
+        }
+    },
     "zLomfaSnBH": {
         "id": "zLomfaSnBH",
         "title": "Белый Клык",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 112
-        }
-    },
-    "tFbg0ox-dv": {
-        "id": "tFbg0ox-dv",
-        "title": "Экономическая психология",
-        "author": "Экономическая психология",
-        "notes": "",
-        "createdAt": "2017-12-14 20:49:17",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 111
         }
     }
 }

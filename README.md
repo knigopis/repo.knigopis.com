@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ловись, рыбка! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/1685078/
+
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
     > Пуаро как всегда великолепен, сюжет динамичен, много неожиданных поворотов и тонкого английского юмора
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Оливеру Баррэт IV, Джоана Стайн,
 
 * Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
-    > Пример
 
 * потерянный и возвращенный мир ~ [Madlax](users/158/158304782-vkontakte)<sup>118</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
 
-* Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup> 
 [puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>15</sup> 
 
 
-_17.12.2017 11:26:37_
+_17.12.2017 17:24:25_
