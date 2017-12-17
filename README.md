@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ololoeva](users/102/10210829435508010-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
 [puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
 [miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>11</sup> 
-[M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 
 
-_17.12.2017 17:25:08_
+_17.12.2017 18:24:14_
