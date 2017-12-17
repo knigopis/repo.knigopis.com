@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 32,
+        "updatedAt": "2017-12-17 09:00:04"
+    },
     "118269612928760236690-google": {
         "id": "118269612928760236690-google",
         "nickname": "Shiro Kirio",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 111,
         "updatedAt": "2017-12-07 07:54:05"
-    },
-    "396799852-vkontakte": {
-        "id": "396799852-vkontakte",
-        "nickname": "_vlad_79",
-        "booksCount": 1,
-        "updatedAt": "2017-12-07 07:16:27"
     }
 }
