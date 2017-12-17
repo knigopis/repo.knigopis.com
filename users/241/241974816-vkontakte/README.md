@@ -1,7 +1,14 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>132</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>133</sup>
 ---
 
 ## 2017
+
+### Блаженные похабы. Культурная история юродства
+С.А.Иванов
+> [2017-12-17] в процессе
+> 
+> https://www.ozon.ru/context/detail/id/7324032/
+
 
 ### Ловись, рыбка!
 Стивен К. Ландин, Джон Кристенсен, Harry Paul, Philip Strand

@@ -1,4 +1,16 @@
 {
+    "8lXHsNfVVM": {
+        "id": "8lXHsNfVVM",
+        "title": "Блаженные похабы. Культурная история юродства",
+        "author": "С.А.Иванов",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/7324032/",
+        "createdAt": "2017-12-17 17:25:08",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 133
+        }
+    },
     "1nVHQJFVPh": {
         "id": "1nVHQJFVPh",
         "title": "Ловись, рыбка!",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 113
-        }
-    },
-    "cVSdcg-QEt": {
-        "id": "cVSdcg-QEt",
-        "title": "Алое и зеленое",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2017-12-14 20:49:32",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 112
         }
     }
 }

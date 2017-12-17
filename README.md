@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Блаженные похабы. Культурная история юродства ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/7324032/
+
 * Ловись, рыбка! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Пуаро как всегда великолепен, сюжет динамичен, много неожиданных поворотов и тонкого английского юмора
 
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
-    > Оливеру Баррэт IV, Джоана Стайн,
 
 * Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 
-* Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
 [puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>31</sup> 
 
 
-_17.12.2017 17:24:25_
+_17.12.2017 17:25:08_
