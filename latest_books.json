@@ -1,4 +1,16 @@
 {
+    "y2-oSAxSms": {
+        "id": "y2-oSAxSms",
+        "title": "Град обреченный",
+        "author": "Стругацкие",
+        "notes": "",
+        "createdAt": "2017-12-18 11:06:13",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 21
+        }
+    },
     "jDux5_uwbj": {
         "id": "jDux5_uwbj",
         "title": "Загадочная история Бенджамина Баттона",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 6
-        }
-    },
-    "N0YXO7CO3p": {
-        "id": "N0YXO7CO3p",
-        "title": "Идеальное тело за 4 часа",
-        "author": "Тим Феррис",
-        "notes": "",
-        "createdAt": "2017-12-15 07:02:35",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 282
         }
     }
 }
