@@ -1,4 +1,10 @@
 {
+    "140559766-vkontakte": {
+        "id": "140559766-vkontakte",
+        "nickname": "is_winter_coming",
+        "booksCount": 0,
+        "updatedAt": "2017-12-18 10:59:30"
+    },
     "1026237132343086367-mailru": {
         "id": "1026237132343086367-mailru",
         "nickname": "fa",
@@ -172,11 +178,5 @@
         "nickname": "International master",
         "booksCount": 89,
         "updatedAt": "2017-12-09 21:49:04"
-    },
-    "107182375378136908346-google": {
-        "id": "107182375378136908346-google",
-        "nickname": "rudanok",
-        "booksCount": 1,
-        "updatedAt": "2017-12-09 20:53:45"
     }
 }
