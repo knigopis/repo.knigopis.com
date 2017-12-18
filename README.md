@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[сфера](users/217/217421938-vkontakte)<sup>0</sup> 
+[сфера](users/217/217421938-vkontakte)<sup>1</sup> 
 [Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
 [is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 
 
-_18.12.2017 18:46:48_
+_18.12.2017 18:47:27_
