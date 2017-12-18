@@ -1,4 +1,16 @@
 {
+    "jDux5_uwbj": {
+        "id": "jDux5_uwbj",
+        "title": "Загадочная история Бенджамина Баттона",
+        "author": "Фрэнсиа Скотт Фицджеральд",
+        "notes": "",
+        "createdAt": "2017-12-18 11:03:12",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 20
+        }
+    },
     "YpQvraK9kB": {
         "id": "YpQvraK9kB",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 282
-        }
-    },
-    "p1QmyCT_73": {
-        "id": "p1QmyCT_73",
-        "title": "Пробное добавление",
-        "author": "Тестовое",
-        "notes": "Пример",
-        "createdAt": "2017-12-15 06:58:28",
-        "user": {
-            "id": "115622071-twitter",
-            "nickname": "rNix",
-            "booksCount": 59
         }
     }
 }
