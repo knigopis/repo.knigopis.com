@@ -1,4 +1,16 @@
 {
+    "3YcP7ElWpU": {
+        "id": "3YcP7ElWpU",
+        "title": "1984",
+        "author": "Оруэлл",
+        "notes": "",
+        "createdAt": "2017-12-18 10:56:42",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 4
+        }
+    },
     "xYXiJud5h6": {
         "id": "xYXiJud5h6",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 117
-        }
-    },
-    "jZrU4zxw26": {
-        "id": "jZrU4zxw26",
-        "title": "Депрессия и тело",
-        "author": "Лоурен Александр",
-        "notes": "",
-        "createdAt": "2017-12-14 20:50:48",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 116
         }
     }
 }
