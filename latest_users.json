@@ -1,4 +1,10 @@
 {
+    "217421938-vkontakte": {
+        "id": "217421938-vkontakte",
+        "nickname": "сфера",
+        "booksCount": 0,
+        "updatedAt": "2017-12-18 18:46:44"
+    },
     "176747771-vkontakte": {
         "id": "176747771-vkontakte",
         "nickname": "Толстомордый",
@@ -172,11 +178,5 @@
         "nickname": "kirill.kolmogortsev",
         "booksCount": 0,
         "updatedAt": "2017-12-10 05:58:02"
-    },
-    "10155555907294681-facebook": {
-        "id": "10155555907294681-facebook",
-        "nickname": "tangina",
-        "booksCount": 1,
-        "updatedAt": "2017-12-09 22:25:18"
     }
 }
