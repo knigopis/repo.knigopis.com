@@ -1,4 +1,10 @@
 {
+    "176747771-vkontakte": {
+        "id": "176747771-vkontakte",
+        "nickname": "Толстомордый",
+        "booksCount": 0,
+        "updatedAt": "2017-12-18 11:21:59"
+    },
     "1026237132343086367-mailru": {
         "id": "1026237132343086367-mailru",
         "nickname": "fa",
@@ -172,11 +178,5 @@
         "nickname": "tangina",
         "booksCount": 1,
         "updatedAt": "2017-12-09 22:25:18"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 89,
-        "updatedAt": "2017-12-09 21:49:04"
     }
 }
