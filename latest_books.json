@@ -1,4 +1,16 @@
 {
+    "27IcgM9S3o": {
+        "id": "27IcgM9S3o",
+        "title": "Евгений Онегин",
+        "author": "Пушкин, Александр Сергеевич",
+        "notes": "",
+        "createdAt": "2017-12-18 10:58:16",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 10
+        }
+    },
     "pOJO8fWhBu": {
         "id": "pOJO8fWhBu",
         "title": "Дневной дозор",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 123
-        }
-    },
-    "fptDjir6hj": {
-        "id": "fptDjir6hj",
-        "title": "Мой любимый Sputnik",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-12-14 20:52:12",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 122
         }
     }
 }
