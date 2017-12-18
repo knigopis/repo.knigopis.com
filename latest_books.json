@@ -1,4 +1,16 @@
 {
+    "nxV0islyFJ": {
+        "id": "nxV0islyFJ",
+        "title": "Алиса в Стране Чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2017-12-18 11:07:43",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 23
+        }
+    },
     "cod8pjfWcp": {
         "id": "cod8pjfWcp",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 8
-        }
-    },
-    "tOkVkup8qo": {
-        "id": "tOkVkup8qo",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-12-15 07:58:13",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 7
         }
     }
 }
