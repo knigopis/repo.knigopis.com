@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Бушуева Екатерина](users/102/1026237132343086367-mailru)<sup>0</sup> 
 [IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
 [ololoeva](users/102/10210829435508010-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
 [rudanok](users/107/107182375378136908346-google)<sup>1</sup> 
-[miracolo_bella](users/180/180139283-vkontakte)<sup>70</sup> 
 
 
-_17.12.2017 20:18:15_
+_18.12.2017 10:52:06_
