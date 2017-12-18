@@ -1,4 +1,16 @@
 {
+    "mGMgO4-T0Y": {
+        "id": "mGMgO4-T0Y",
+        "title": "Десять негритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2017-12-18 10:58:29",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 11
+        }
+    },
     "27IcgM9S3o": {
         "id": "27IcgM9S3o",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 124
-        }
-    },
-    "xsA-J9gGqW": {
-        "id": "xsA-J9gGqW",
-        "title": "Все божьи твари могут танцевать",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-12-14 20:52:23",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 123
         }
     }
 }
