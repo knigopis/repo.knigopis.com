@@ -1,4 +1,16 @@
 {
+    "wU0z9VJ1yi": {
+        "id": "wU0z9VJ1yi",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-12-18 10:56:52",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 5
+        }
+    },
     "3YcP7ElWpU": {
         "id": "3YcP7ElWpU",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 118
-        }
-    },
-    "K1ICy0kanD": {
-        "id": "K1ICy0kanD",
-        "title": "Психология тела",
-        "author": "Лоурен Александр",
-        "notes": "",
-        "createdAt": "2017-12-14 20:51:00",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 117
         }
     }
 }
