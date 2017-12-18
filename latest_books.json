@@ -1,4 +1,16 @@
 {
+    "YpQvraK9kB": {
+        "id": "YpQvraK9kB",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2017-12-18 11:02:58",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 19
+        }
+    },
     "XhAo0PhRxl": {
         "id": "XhAo0PhRxl",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 59
-        }
-    },
-    "WsMx6SGnOM": {
-        "id": "WsMx6SGnOM",
-        "title": "451° по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-12-14 20:55:29",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 15
         }
     }
 }
