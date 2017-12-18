@@ -1,4 +1,10 @@
 {
+    "1026237132343086367-mailru": {
+        "id": "1026237132343086367-mailru",
+        "nickname": "Бушуева Екатерина",
+        "booksCount": 0,
+        "updatedAt": "2017-12-18 10:52:01"
+    },
     "1589991341068692-facebook": {
         "id": "1589991341068692-facebook",
         "nickname": "IhorMykolaiovych",
@@ -172,11 +178,5 @@
         "nickname": "rudanok",
         "booksCount": 1,
         "updatedAt": "2017-12-09 20:53:45"
-    },
-    "180139283-vkontakte": {
-        "id": "180139283-vkontakte",
-        "nickname": "miracolo_bella",
-        "booksCount": 70,
-        "updatedAt": "2017-12-09 19:58:33"
     }
 }
