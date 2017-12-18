@@ -1,4 +1,16 @@
 {
+    "W-zfyTaGFZ": {
+        "id": "W-zfyTaGFZ",
+        "title": "Дневник Бриджит Джонс",
+        "author": "Филдинг, Хелен",
+        "notes": "",
+        "createdAt": "2017-12-18 11:00:49",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 15
+        }
+    },
     "xPqy8ywDb1": {
         "id": "xPqy8ywDb1",
         "title": "Путеводитель «Автостопом по Галактике»",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 128
-        }
-    },
-    "8_yB2QA9YD": {
-        "id": "8_yB2QA9YD",
-        "title": "Жутко громко и запредельно близко",
-        "author": "Джонатан Сафран Фоер",
-        "notes": "",
-        "createdAt": "2017-12-14 20:53:17",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 127
         }
     }
 }
