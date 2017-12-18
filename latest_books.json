@@ -1,4 +1,16 @@
 {
+    "XhAo0PhRxl": {
+        "id": "XhAo0PhRxl",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2017-12-18 11:02:52",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 18
+        }
+    },
     "h9KeykhTyO": {
         "id": "h9KeykhTyO",
         "title": "Дракула",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 15
-        }
-    },
-    "4HXxYOoKby": {
-        "id": "4HXxYOoKby",
-        "title": "Дальние пределы человеческого сознания",
-        "author": "Абрахам Маслоу",
-        "notes": "",
-        "createdAt": "2017-12-14 20:55:00",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 130
         }
     }
 }
