@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zenkozzz](users/191/191577262-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>30</sup> 
 [сфера](users/217/217421938-vkontakte)<sup>1</sup> 
 [Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 
 
-_18.12.2017 18:54:17_
+_18.12.2017 19:09:22_
