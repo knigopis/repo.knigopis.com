@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
 [is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
 [IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
 [kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 [tangina](users/101/10155555907294681-facebook)<sup>1</sup> 
-[International master](users/741/74140988-vkontakte)<sup>89</sup> 
 
 
-_18.12.2017 11:07:43_
+_18.12.2017 11:22:02_
