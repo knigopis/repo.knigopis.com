@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сердца в Атлантиде ~ [Saamy](users/115/115226508-vkontakte)<sup>30</sup>
+    > история обещала быть глобальной, мне казалось, все концы будут сведены во что-то единое и эпичное. Но нет, истории так и остались соединенными только самыми краями. Первая повесть без прочтения Темной Башни остается очень недосказанной. Но общий кинговский стиль, реалистичность и жизненность как всегда очень увлекают
+
 * Блаженные похабы. Культурная история юродства ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup>
     > в процессе
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/1685078/
 
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
-    > Пуаро как всегда великолепен, сюжет динамичен, много неожиданных поворотов и тонкого английского юмора
 
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 
-* Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>30</sup> 
 [сфера](users/217/217421938-vkontakte)<sup>1</sup> 
 [Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>70</sup> 
-[kirill.kolmogortsev](users/192/192728266-vkontakte)<sup>0</sup> 
 
 
-_18.12.2017 18:47:27_
+_18.12.2017 18:54:17_
