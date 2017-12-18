@@ -1,4 +1,16 @@
 {
+    "sNHQzIMkd2": {
+        "id": "sNHQzIMkd2",
+        "title": "Цветы для Элджерона",
+        "author": "Киз Дэниел",
+        "notes": "",
+        "createdAt": "2017-12-18 10:55:08",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 1
+        }
+    },
     "8lXHsNfVVM": {
         "id": "8lXHsNfVVM",
         "title": "Блаженные похабы. Культурная история юродства",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 114
-        }
-    },
-    "x3Tk7sY8o9": {
-        "id": "x3Tk7sY8o9",
-        "title": "Колосс Марусский",
-        "author": "Генри Миллер",
-        "notes": "",
-        "createdAt": "2017-12-14 20:49:47",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 113
         }
     }
 }
