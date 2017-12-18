@@ -1,4 +1,16 @@
 {
+    "pOJO8fWhBu": {
+        "id": "pOJO8fWhBu",
+        "title": "Дневной дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "",
+        "createdAt": "2017-12-18 10:57:52",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 9
+        }
+    },
     "f7iKu5vuI5": {
         "id": "f7iKu5vuI5",
         "title": "Ночной дозор",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 122
-        }
-    },
-    "ZqeKtNdO0c": {
-        "id": "ZqeKtNdO0c",
-        "title": "Холотропное дыхание",
-        "author": "Гроф Станислав",
-        "notes": "",
-        "createdAt": "2017-12-14 20:52:01",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 121
         }
     }
 }
