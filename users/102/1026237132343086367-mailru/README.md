@@ -1,7 +1,11 @@
-# List of books read by fa<sup>6</sup>
+# List of books read by fa<sup>7</sup>
 ---
 
 ## 2017
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+
 
 ### Мартин Иден
 Джек Лондон

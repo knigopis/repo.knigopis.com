@@ -1,4 +1,16 @@
 {
+    "APoTFnmTu5": {
+        "id": "APoTFnmTu5",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "notes": "",
+        "createdAt": "2017-12-18 10:57:23",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 7
+        }
+    },
     "yIiQ2BOphG": {
         "id": "yIiQ2BOphG",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 120
-        }
-    },
-    "JGCtCQMyW9": {
-        "id": "JGCtCQMyW9",
-        "title": "Любовь и оргазм",
-        "author": "Лоурен Александр",
-        "notes": "",
-        "createdAt": "2017-12-14 20:51:37",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 119
         }
     }
 }
