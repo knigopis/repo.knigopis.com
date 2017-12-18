@@ -37,8 +37,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fa](users/102/1026237132343086367-mailru)<sup>13</sup> 
 [is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
-[fa](users/102/1026237132343086367-mailru)<sup>12</sup> 
 [IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
 [ololoeva](users/102/10210829435508010-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>89</sup> 
 
 
-_18.12.2017 10:59:32_
+_18.12.2017 10:59:57_

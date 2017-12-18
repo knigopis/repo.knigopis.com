@@ -1,7 +1,11 @@
-# List of books read by fa<sup>12</sup>
+# List of books read by fa<sup>13</sup>
 ---
 
 ## 2017
+
+### Бриджит Джонс  грани разумного
+Филдинг, Хелен
+
 
 ### Мемуары гейши
 Голден, Артур
