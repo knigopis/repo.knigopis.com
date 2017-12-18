@@ -1,4 +1,16 @@
 {
+    "FShNmiJpjp": {
+        "id": "FShNmiJpjp",
+        "title": "Франкенштейн",
+        "author": "Шелли, Мэри",
+        "notes": "",
+        "createdAt": "2017-12-18 11:01:25",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 16
+        }
+    },
     "W-zfyTaGFZ": {
         "id": "W-zfyTaGFZ",
         "title": "Дневник Бриджит Джонс",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 129
-        }
-    },
-    "eJLGAf4PIG": {
-        "id": "eJLGAf4PIG",
-        "title": "Эмоциональный шантаж",
-        "author": "Сьюзан Мойер",
-        "notes": "",
-        "createdAt": "2017-12-14 20:54:35",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 128
         }
     }
 }
