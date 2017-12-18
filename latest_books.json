@@ -1,4 +1,16 @@
 {
+    "h9KeykhTyO": {
+        "id": "h9KeykhTyO",
+        "title": "Дракула",
+        "author": "Стокер, Брэм",
+        "notes": "",
+        "createdAt": "2017-12-18 11:01:43",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 17
+        }
+    },
     "FShNmiJpjp": {
         "id": "FShNmiJpjp",
         "title": "Франкенштейн",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 130
-        }
-    },
-    "-DV3-ipXXz": {
-        "id": "-DV3-ipXXz",
-        "title": "Чайка по имени Джонатан",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2017-12-14 20:54:47",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 129
         }
     }
 }
