@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Asya](users/104/104092867007130924662-google)<sup>0</sup> 
 [zenkozzz](users/191/191577262-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>30</sup> 
 [сфера](users/217/217421938-vkontakte)<sup>1</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>604</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
 [EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
-[idsimonbell](users/380/380554090-vkontakte)<sup>39</sup> 
 
 
-_18.12.2017 19:09:22_
+_18.12.2017 20:44:21_
