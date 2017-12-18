@@ -1,4 +1,16 @@
 {
+    "xPqy8ywDb1": {
+        "id": "xPqy8ywDb1",
+        "title": "Путеводитель «Автостопом по Галактике»",
+        "author": "Адамс, Дуглас",
+        "notes": "",
+        "createdAt": "2017-12-18 11:00:27",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 14
+        }
+    },
     "kS-1Gj_7RW": {
         "id": "kS-1Gj_7RW",
         "title": "Бриджит Джонс  грани разумного",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 127
-        }
-    },
-    "CWrTfhkRL8": {
-        "id": "CWrTfhkRL8",
-        "title": "Хорошее самочувствие: Новая терапия настроений",
-        "author": "Дэвид Бернс",
-        "notes": "",
-        "createdAt": "2017-12-14 20:53:01",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 126
         }
     }
 }
