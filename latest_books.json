@@ -1,4 +1,16 @@
 {
+    "cod8pjfWcp": {
+        "id": "cod8pjfWcp",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-12-18 11:06:40",
+        "user": {
+            "id": "1026237132343086367-mailru",
+            "nickname": "fa",
+            "booksCount": 22
+        }
+    },
     "y2-oSAxSms": {
         "id": "y2-oSAxSms",
         "title": "Град обреченный",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 7
-        }
-    },
-    "S-2uXlcxah": {
-        "id": "S-2uXlcxah",
-        "title": "Хоббит, или Туда обратно",
-        "author": "Джон Рональд Руэл Толкин",
-        "notes": "",
-        "createdAt": "2017-12-15 07:56:30",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 6
         }
     }
 }
