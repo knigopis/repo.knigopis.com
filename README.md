@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Древний. Предыстория. книга четвертая ~ [En](users/333/333646551-vkontakte)<sup>25</sup>
+    > судя по сюжету это была последняя книга. сюжет немного скомкан с середины, надо же со всеми злодеями поквитаться и главных героев устроить. хорошо что не было стандартного слащавого хэппи-энда. книга подвела к основной серии Древний.
+
 * Сердца в Атлантиде ~ [Saamy](users/115/115226508-vkontakte)<sup>30</sup>
     > история обещала быть глобальной, мне казалось, все концы будут сведены во что-то единое и эпичное. Но нет, истории так и остались соединенными только самыми краями. Первая повесть без прочтения Темной Башни остается очень недосказанной. Но общий кинговский стиль, реалистичность и жизненность как всегда очень увлекают
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/7324032/
 
 * Ловись, рыбка! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/1685078/
 
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Созерцатель ~ [Chiffi](users/105/105831994080785626680-google)<sup>38</sup>
 
-* Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>25</sup> 
 [Asya](users/104/104092867007130924662-google)<sup>0</sup> 
 [zenkozzz](users/191/191577262-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>30</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>604</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>132</sup> 
-[EDVedun](users/112/112906369786975469815-google)<sup>0</sup> 
 
 
-_18.12.2017 20:44:21_
+_19.12.2017 04:16:21_
