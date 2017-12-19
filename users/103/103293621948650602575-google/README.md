@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>111</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>112</sup>
 ---
 
 ## 2017
+
+### Снеговик
+Ю Несбё
+> [2017-12-19] 
+
 
 ### Книжный Вор
 Маркус Зусак
