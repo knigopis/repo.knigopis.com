@@ -1,4 +1,16 @@
 {
+    "JIvx2hkr7H": {
+        "id": "JIvx2hkr7H",
+        "title": "Исповедь Маски",
+        "author": "Юкио  Мисима",
+        "notes": "История становления великого человека с совсем невеликими слабостями. Жаль, обрывается на самом интересном месте.",
+        "createdAt": "2017-12-19 20:08:49",
+        "user": {
+            "id": "74743045-vkontakte",
+            "nickname": "creepy_g",
+            "booksCount": 119
+        }
+    },
     "Qw22cD-u5K": {
         "id": "Qw22cD-u5K",
         "title": "Снеговик",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 132
-        }
-    },
-    "zLomfaSnBH": {
-        "id": "zLomfaSnBH",
-        "title": "Белый Клык",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-12-15 19:41:06",
-        "user": {
-            "id": "118269612928760236690-google",
-            "nickname": "Shiro Kirio",
-            "booksCount": 1
         }
     }
 }
