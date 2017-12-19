@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Анна Штейн](users/116/116646380027519165533-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>112</sup> 
 [En](users/333/333646551-vkontakte)<sup>25</sup> 
 [Asya](users/104/104092867007130924662-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [JEkIS23](users/115/115604603872979762940-google)<sup>9</sup> 
 [Аграт](users/299/299943456-vkontakte)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>35</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>604</sup> 
 
 
-_19.12.2017 06:58:38_
+_19.12.2017 14:54:52_
