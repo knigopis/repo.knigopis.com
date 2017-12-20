@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
+    > Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!
+
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
     > Книга интересна. сюжет без неожиданных поворотов и все равно довольно интересен. Путешественник по времени рассказывает историю с ним приключившуюся, к удивлению слушатели даже если и не верят то не спорят с ним.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > История становления великого человека с совсем невеликими слабостями. Жаль, обрывается на самом интересном месте.
 
 * Древний. Предыстория. книга четвертая ~ [En](users/333/333646551-vkontakte)<sup>25</sup>
-    > судя по сюжету это была последняя книга. сюжет немного скомкан с середины, надо же со всеми злодеями поквитаться и главных героев устроить. хорошо что не было стандартного слащавого хэппи-энда. книга подвела к основной серии Древний.
 
 * Сердца в Атлантиде ~ [Saamy](users/115/115226508-vkontakte)<sup>30</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 
-* потерянный и возвращенный мир ~ [Madlax](users/158/158304782-vkontakte)<sup>118</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>26</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
-[иузуил](users/238/238356806-vkontakte)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 
 
-_20.12.2017 12:50:46_
+_20.12.2017 20:48:29_

@@ -1,4 +1,10 @@
 {
+    "238356806-vkontakte": {
+        "id": "238356806-vkontakte",
+        "nickname": "иузуил",
+        "booksCount": 3,
+        "updatedAt": "2017-12-20 20:48:29"
+    },
     "114088849140391089697-google": {
         "id": "114088849140391089697-google",
         "nickname": "Yoshka",
@@ -118,12 +124,6 @@
         "nickname": "Shiro Kirio",
         "booksCount": 1,
         "updatedAt": "2017-12-15 19:41:06"
-    },
-    "238356806-vkontakte": {
-        "id": "238356806-vkontakte",
-        "nickname": "иузуил",
-        "booksCount": 2,
-        "updatedAt": "2017-12-15 17:46:33"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",

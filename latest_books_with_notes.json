@@ -1,4 +1,16 @@
 {
+    "YkLyqGfEKf": {
+        "id": "YkLyqGfEKf",
+        "title": "Сумеречный дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!",
+        "createdAt": "2017-12-20 20:48:29",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 3
+        }
+    },
     "GmjT5wwnlN": {
         "id": "GmjT5wwnlN",
         "title": "Машина времени",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 65
-        }
-    },
-    "xCNXm9OERo": {
-        "id": "xCNXm9OERo",
-        "title": "Призраки",
-        "author": "Паланик Чак",
-        "notes": "13. Остановилась.\nhttps://audioknigi.club/palanik-chak-prizraki",
-        "createdAt": "2017-11-24 02:24:24",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 124
         }
     }
 }

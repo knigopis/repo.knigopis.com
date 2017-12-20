@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 * Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
 * Древний. Предыстория. книга четвертая ~ [En](users/333/333646551-vkontakte)<sup>25</sup>
@@ -30,7 +31,6 @@
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
-* Призраки ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>124</sup>
 
 
-_20.12.2017 04:42:04_
+_20.12.2017 20:48:29_

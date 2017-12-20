@@ -1,4 +1,16 @@
 {
+    "YkLyqGfEKf": {
+        "id": "YkLyqGfEKf",
+        "title": "Сумеречный дозор",
+        "author": "Сергей Лукьяненко",
+        "notes": "Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!",
+        "createdAt": "2017-12-20 20:48:29",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 3
+        }
+    },
     "GmjT5wwnlN": {
         "id": "GmjT5wwnlN",
         "title": "Машина времени",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 1
-        }
-    },
-    "8lXHsNfVVM": {
-        "id": "8lXHsNfVVM",
-        "title": "Блаженные похабы. Культурная история юродства",
-        "author": "С.А.Иванов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/7324032/",
-        "createdAt": "2017-12-17 17:25:08",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 133
         }
     }
 }
