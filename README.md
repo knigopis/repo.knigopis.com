@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>26</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>119</sup> 
 [Mmasty_I](users/183/183696279-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>5</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 [Irina](users/136/1369298866493181-facebook)<sup>0</sup> 
-[JEkIS23](users/115/115604603872979762940-google)<sup>9</sup> 
 
 
-_20.12.2017 04:42:04_
+_20.12.2017 12:38:17_
