@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 26,
+        "updatedAt": "2017-12-20 04:42:04"
+    },
     "74743045-vkontakte": {
         "id": "74743045-vkontakte",
         "nickname": "creepy_g",
@@ -22,12 +28,6 @@
         "nickname": "Lost in Frost",
         "booksCount": 112,
         "updatedAt": "2017-12-19 06:58:38"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 25,
-        "updatedAt": "2017-12-19 04:16:21"
     },
     "104092867007130924662-google": {
         "id": "104092867007130924662-google",
