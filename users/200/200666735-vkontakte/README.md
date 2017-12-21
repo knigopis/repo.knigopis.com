@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>9</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>10</sup>
 ---
 
 ## 2017
+
+### Гарри Поттер и философский камень
+Джоан Роулинг
+> [2017-12-15] 
+
 
 ### Великий Гэтсби
 Фрэнсис Скотт Фицджеральд
