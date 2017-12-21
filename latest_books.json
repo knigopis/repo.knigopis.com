@@ -1,4 +1,16 @@
 {
+    "W7G3fj_-VI": {
+        "id": "W7G3fj_-VI",
+        "title": "Унесенные ветром",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2017-12-21 21:59:08",
+        "user": {
+            "id": "87353589-vkontakte",
+            "nickname": "Yana_Briany",
+            "booksCount": 1
+        }
+    },
     "QcXxQ39AZA": {
         "id": "QcXxQ39AZA",
         "title": "Гарри Поттер и философский камень",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 5
-        }
-    },
-    "3YcP7ElWpU": {
-        "id": "3YcP7ElWpU",
-        "title": "1984",
-        "author": "Оруэлл",
-        "notes": "",
-        "createdAt": "2017-12-18 10:56:42",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 4
         }
     }
 }
