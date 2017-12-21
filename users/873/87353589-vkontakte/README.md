@@ -1,4 +1,4 @@
-# List of books read by [Yana_Briany](http://vk.com/id87353589)<sup>2</sup>
+# List of books read by [Yana_Briany](http://vk.com/id87353589)<sup>3</sup>
 ---
 
 ## 2017
@@ -6,6 +6,10 @@
 ### Гордость и предубеждение
 Джейн Остин
 > [2017-12] 
+
+
+### Способный ученик
+Стивен Кинг
 
 
 

@@ -1,4 +1,16 @@
 {
+    "akHi0dSNgx": {
+        "id": "akHi0dSNgx",
+        "title": "Способный ученик",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2017-12-21 22:01:27",
+        "user": {
+            "id": "87353589-vkontakte",
+            "nickname": "Yana_Briany",
+            "booksCount": 3
+        }
+    },
     "CWNearfBOU": {
         "id": "CWNearfBOU",
         "title": "Гордость и предубеждение",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 7
-        }
-    },
-    "yIiQ2BOphG": {
-        "id": "yIiQ2BOphG",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2017-12-18 10:57:07",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 6
         }
     }
 }
