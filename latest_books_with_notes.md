@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 * Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
@@ -30,7 +31,6 @@
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
 * Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 * Прежде чем я упаду ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
-* Чудовище ~ [Sky](users/118/118049897850017649660-google)<sup>65</sup>
 
 
-_20.12.2017 20:48:29_
+_21.12.2017 11:56:22_

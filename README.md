@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
+    > Фриц, Эрнст, Элизабет, Фрид, Паульхен, Ланна Райнер
+
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
     > Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга интересна. сюжет без неожиданных поворотов и все равно довольно интересен. Путешественник по времени рассказывает историю с ним приключившуюся, к удивлению слушатели даже если и не верят то не спорят с ним.
 
 * Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
-    > История становления великого человека с совсем невеликими слабостями. Жаль, обрывается на самом интересном месте.
 
 * Древний. Предыстория. книга четвертая ~ [En](users/333/333646551-vkontakte)<sup>25</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
 
-* Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 
 
-_20.12.2017 20:48:29_
+_21.12.2017 11:56:22_

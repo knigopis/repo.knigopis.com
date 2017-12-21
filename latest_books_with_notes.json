@@ -1,4 +1,16 @@
 {
+    "Kgyr5eqMAu": {
+        "id": "Kgyr5eqMAu",
+        "title": "Приют Грез",
+        "author": "Эрих Мария Ремарк",
+        "notes": "Фриц, Эрнст, Элизабет, Фрид, Паульхен, Ланна Райнер",
+        "createdAt": "2017-12-21 11:56:22",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 49
+        }
+    },
     "YkLyqGfEKf": {
         "id": "YkLyqGfEKf",
         "title": "Сумеречный дозор",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 126
-        }
-    },
-    "pHcd2Hfqn9": {
-        "id": "pHcd2Hfqn9",
-        "title": "Чудовище",
-        "author": "Кейт Марси Коннолли",
-        "notes": "Все-таки во взрослом возрасте наивные детские книжки уже не торт",
-        "createdAt": "2017-11-24 11:39:43",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 65
         }
     }
 }
