@@ -1,4 +1,10 @@
 {
+    "87353589-vkontakte": {
+        "id": "87353589-vkontakte",
+        "nickname": "Yana_Briany",
+        "booksCount": 0,
+        "updatedAt": "2017-12-21 21:57:53"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -172,11 +178,5 @@
         "nickname": "striped_one",
         "booksCount": 15,
         "updatedAt": "2017-12-14 20:55:29"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 130,
-        "updatedAt": "2017-12-14 20:55:00"
     }
 }
