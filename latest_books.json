@@ -1,4 +1,16 @@
 {
+    "CWNearfBOU": {
+        "id": "CWNearfBOU",
+        "title": "Гордость и предубеждение",
+        "author": "Джейн Остин",
+        "notes": "",
+        "createdAt": "2017-12-21 22:00:24",
+        "user": {
+            "id": "87353589-vkontakte",
+            "nickname": "Yana_Briany",
+            "booksCount": 2
+        }
+    },
     "W7G3fj_-VI": {
         "id": "W7G3fj_-VI",
         "title": "Унесенные ветром",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 6
-        }
-    },
-    "wU0z9VJ1yi": {
-        "id": "wU0z9VJ1yi",
-        "title": "Мастер и Маргарита",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-12-18 10:56:52",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 5
         }
     }
 }
