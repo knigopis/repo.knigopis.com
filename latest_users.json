@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 16,
+        "updatedAt": "2017-12-21 12:37:18"
+    },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
         "nickname": "~ARHANGEL~",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 5,
         "updatedAt": "2017-12-14 12:25:39"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 38,
-        "updatedAt": "2017-12-13 21:26:50"
     }
 }

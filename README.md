@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>16</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>130</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>5</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>38</sup> 
 
 
-_21.12.2017 11:56:22_
+_21.12.2017 12:37:18_
