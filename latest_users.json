@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 17,
+        "updatedAt": "2017-12-22 08:51:54"
+    },
     "87353589-vkontakte": {
         "id": "87353589-vkontakte",
         "nickname": "Yana_Briany",
@@ -10,12 +16,6 @@
         "nickname": "mavrentik",
         "booksCount": 10,
         "updatedAt": "2017-12-21 21:01:17"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 16,
-        "updatedAt": "2017-12-21 12:37:18"
     },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
