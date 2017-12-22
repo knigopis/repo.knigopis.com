@@ -1,4 +1,10 @@
 {
+    "349904371-vkontakte": {
+        "id": "349904371-vkontakte",
+        "nickname": "akiryanova93",
+        "booksCount": 0,
+        "updatedAt": "2017-12-22 20:39:23"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 163,
         "updatedAt": "2017-12-15 14:59:37"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 8,
-        "updatedAt": "2017-12-15 07:59:19"
     }
 }
