@@ -1,4 +1,16 @@
 {
+    "tB5dR6tp2u": {
+        "id": "tB5dR6tp2u",
+        "title": "Монах, который продал свой феррари",
+        "author": "Робин Шарма",
+        "notes": "",
+        "createdAt": "2017-12-22 09:00:31",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 21
+        }
+    },
     "Lb78uDKNWS": {
         "id": "Lb78uDKNWS",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 13
-        }
-    },
-    "FaRrDM-Rfp": {
-        "id": "FaRrDM-Rfp",
-        "title": "Мемуары гейши",
-        "author": "Голден, Артур",
-        "notes": "",
-        "createdAt": "2017-12-18 10:59:18",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 12
         }
     }
 }

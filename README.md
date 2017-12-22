@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Элла](users/100/1002037069862545-facebook)<sup>20</sup> 
+[Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
 [Yana_Briany](users/873/87353589-vkontakte)<sup>4</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
 
 
-_22.12.2017 08:59:56_
+_22.12.2017 09:00:31_
