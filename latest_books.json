@@ -1,4 +1,16 @@
 {
+    "Lb78uDKNWS": {
+        "id": "Lb78uDKNWS",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Киосаки",
+        "notes": "",
+        "createdAt": "2017-12-22 08:59:56",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 20
+        }
+    },
     "tN6vm1Ogpd": {
         "id": "tN6vm1Ogpd",
         "title": "Марсианские хроники",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 12
-        }
-    },
-    "mGMgO4-T0Y": {
-        "id": "mGMgO4-T0Y",
-        "title": "Десять негритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2017-12-18 10:58:29",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 11
         }
     }
 }
