@@ -1,4 +1,16 @@
 {
+    "Bu0yfHg3VC": {
+        "id": "Bu0yfHg3VC",
+        "title": "Настя",
+        "author": "Сорокин",
+        "notes": "",
+        "createdAt": "2017-12-22 23:34:40",
+        "user": {
+            "id": "116036946437273732646-googleplus",
+            "nickname": "Dmitry",
+            "booksCount": 2
+        }
+    },
     "J97ZNgkDVp": {
         "id": "J97ZNgkDVp",
         "title": "7 навыков высокоэффективных людей: Мощные инструменты развития личности",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 20
-        }
-    },
-    "YpQvraK9kB": {
-        "id": "YpQvraK9kB",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2017-12-18 11:02:58",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 19
         }
     }
 }

@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dmitry](users/116/116036946437273732646-googleplus)<sup>2</sup> 
 [International master](users/741/74140988-vkontakte)<sup>91</sup> 
-[Dmitry](users/116/116036946437273732646-googleplus)<sup>1</sup> 
 [akiryanova93](users/349/349904371-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 
 
-_22.12.2017 21:19:01_
+_22.12.2017 23:34:40_
