@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dmitry](users/116/116036946437273732646-googleplus)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>90</sup> 
 [akiryanova93](users/349/349904371-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
 [puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
-[Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
 
 
-_22.12.2017 21:13:36_
+_22.12.2017 21:17:48_
