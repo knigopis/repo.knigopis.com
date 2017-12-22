@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>90</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>91</sup>
 ---
 
 ## 2017
+
+### 7 навыков высокоэффективных людей: Мощные инструменты развития личности
+Стивен Кови
+> [2017-12-21] 
+
 
 ### The Firm: История компании McKinsey и её тайного влияния на американский бизнес
 Дафф Макдональд
