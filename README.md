@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[akiryanova93](users/349/349904371-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>12</sup> 
 [Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
 
 
-_22.12.2017 17:40:52_
+_22.12.2017 20:39:26_
