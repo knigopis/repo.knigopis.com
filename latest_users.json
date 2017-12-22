@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 90,
+        "updatedAt": "2017-12-22 21:13:36"
+    },
     "349904371-vkontakte": {
         "id": "349904371-vkontakte",
         "nickname": "akiryanova93",
@@ -172,11 +178,5 @@
         "nickname": "Shiro Kirio",
         "booksCount": 1,
         "updatedAt": "2017-12-15 19:41:06"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 163,
-        "updatedAt": "2017-12-15 14:59:37"
     }
 }

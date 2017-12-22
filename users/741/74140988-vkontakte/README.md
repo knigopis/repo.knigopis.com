@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>89</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>90</sup>
 ---
 
 ## 2017
+
+### The Firm: История компании McKinsey и её тайного влияния на американский бизнес
+Дафф Макдональд
+> [2017-12-15] 
+
 
 ### Самый богатый человек в Вавилоне
 Джордж Клейсон

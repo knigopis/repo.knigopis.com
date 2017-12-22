@@ -1,4 +1,16 @@
 {
+    "tEegwty0yv": {
+        "id": "tEegwty0yv",
+        "title": "The Firm: История компании McKinsey и её тайного влияния на американский бизнес",
+        "author": "Дафф Макдональд",
+        "notes": "",
+        "createdAt": "2017-12-22 21:13:36",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 90
+        }
+    },
     "gFPajGkbAq": {
         "id": "gFPajGkbAq",
         "title": "ведьма из портобелло",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 17
-        }
-    },
-    "FShNmiJpjp": {
-        "id": "FShNmiJpjp",
-        "title": "Франкенштейн",
-        "author": "Шелли, Мэри",
-        "notes": "",
-        "createdAt": "2017-12-18 11:01:25",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 16
         }
     }
 }
