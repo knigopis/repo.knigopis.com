@@ -1,4 +1,10 @@
 {
+    "116036946437273732646-googleplus": {
+        "id": "116036946437273732646-googleplus",
+        "nickname": "Dmitry",
+        "booksCount": 0,
+        "updatedAt": "2017-12-22 21:17:46"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 32,
         "updatedAt": "2017-12-17 09:00:04"
-    },
-    "118269612928760236690-google": {
-        "id": "118269612928760236690-google",
-        "nickname": "Shiro Kirio",
-        "booksCount": 1,
-        "updatedAt": "2017-12-15 19:41:06"
     }
 }
