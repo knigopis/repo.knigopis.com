@@ -1,7 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>38</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>39</sup>
 ---
 
 ## 2017
+
+### iPhuck 10
+Пелевин Виктор
+> [2017-12] жизнь ой. но да
+> а читать это невозможно(((
+
 
 ### Созерцатель
 Пехов Алексей

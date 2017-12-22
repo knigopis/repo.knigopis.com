@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
+    > жизнь ой. но да
+    > а читать это невозможно(((
+
 * Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
     > Фриц, Эрнст, Элизабет, Фрид, Паульхен, Ланна Райнер
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
-    > Книга интересна. сюжет без неожиданных поворотов и все равно довольно интересен. Путешественник по времени рассказывает историю с ним приключившуюся, к удивлению слушатели даже если и не верят то не спорят с ним.
 
 * Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
 
-* История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>12</sup> 
 [Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shiro Kirio](users/118/118269612928760236690-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 
 
-_22.12.2017 12:53:51_
+_22.12.2017 17:40:52_
