@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
 [Yana_Briany](users/873/87353589-vkontakte)<sup>4</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
 [rNix](users/115/115622071-twitter)<sup>58</sup> 
-[striped_one](users/249/249815548-vkontakte)<sup>15</sup> 
 
 
-_22.12.2017 09:00:31_
+_22.12.2017 10:58:56_
