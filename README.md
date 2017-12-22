@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>12</sup> 
 [Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
 [Yana_Briany](users/873/87353589-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>163</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>8</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>282</sup> 
-[rNix](users/115/115622071-twitter)<sup>58</sup> 
 
 
-_22.12.2017 10:58:56_
+_22.12.2017 12:53:51_
