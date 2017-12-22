@@ -1,4 +1,10 @@
 {
+    "11195379251184170947-mailru": {
+        "id": "11195379251184170947-mailru",
+        "nickname": "Ната",
+        "booksCount": 0,
+        "updatedAt": "2017-12-22 10:58:51"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 58,
         "updatedAt": "2017-12-15 06:58:51"
-    },
-    "249815548-vkontakte": {
-        "id": "249815548-vkontakte",
-        "nickname": "striped_one",
-        "booksCount": 15,
-        "updatedAt": "2017-12-14 20:55:29"
     }
 }
