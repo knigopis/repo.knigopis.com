@@ -1,4 +1,10 @@
 {
+    "374820130-vkontakte": {
+        "id": "374820130-vkontakte",
+        "nickname": "gobseck91",
+        "booksCount": 0,
+        "updatedAt": "2017-12-24 10:13:32"
+    },
     "116036946437273732646-googleplus": {
         "id": "116036946437273732646-googleplus",
         "nickname": "Dmitry",
@@ -172,11 +178,5 @@
         "nickname": "puzz88",
         "booksCount": 0,
         "updatedAt": "2017-12-17 11:26:34"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 32,
-        "updatedAt": "2017-12-17 09:00:04"
     }
 }
