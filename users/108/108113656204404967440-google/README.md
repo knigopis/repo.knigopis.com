@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>604</sup>
+# List of books read by Janet<sup>605</sup>
 ---
 
 ## 2017
+
+### Шоша
+Исаак Башевис-Зингео
+> [2017-12] 
+
 
 ### Зима тревоги нашей
 Джон Стейнбек

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>605</sup> 
 [gobseck91](users/374/374820130-vkontakte)<sup>0</sup> 
 [Dmitry](users/116/116036946437273732646-googleplus)<sup>2</sup> 
 [International master](users/741/74140988-vkontakte)<sup>91</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
 [ololoeva](users/102/10210829435508010-facebook)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup> 
-[puzz88](users/423/4234886-vkontakte)<sup>0</sup> 
 
 
-_24.12.2017 10:13:35_
+_24.12.2017 13:00:52_
