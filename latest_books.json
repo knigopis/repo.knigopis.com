@@ -1,4 +1,16 @@
 {
+    "WhIMqRs9zQ": {
+        "id": "WhIMqRs9zQ",
+        "title": "Жизнь Господина де Мольера",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2017-12-25 23:09:19",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 606
+        }
+    },
     "WoH6gzhrsb": {
         "id": "WoH6gzhrsb",
         "title": "12 недель в году: Как за 12 недель сделать больше, чем другие успевают за 12 месяцев",
@@ -345,18 +357,6 @@
             "id": "1026237132343086367-mailru",
             "nickname": "fa",
             "booksCount": 23
-        }
-    },
-    "cod8pjfWcp": {
-        "id": "cod8pjfWcp",
-        "title": "Марсианские хроники",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-12-18 11:06:40",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 22
         }
     }
 }

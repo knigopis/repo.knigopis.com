@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 606,
+        "updatedAt": "2017-12-25 23:09:19"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -10,12 +16,6 @@
         "nickname": "мона лиза",
         "booksCount": 0,
         "updatedAt": "2017-12-25 04:02:49"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 605,
-        "updatedAt": "2017-12-24 13:00:52"
     },
     "374820130-vkontakte": {
         "id": "374820130-vkontakte",
