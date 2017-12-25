@@ -1,4 +1,10 @@
 {
+    "262192691-vkontakte": {
+        "id": "262192691-vkontakte",
+        "nickname": "мона лиза",
+        "booksCount": 0,
+        "updatedAt": "2017-12-25 04:02:49"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "ololoeva",
         "booksCount": 0,
         "updatedAt": "2017-12-17 18:24:12"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 133,
-        "updatedAt": "2017-12-17 17:25:08"
     }
 }
