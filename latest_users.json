@@ -1,4 +1,10 @@
 {
+    "73323849-yandex": {
+        "id": "73323849-yandex",
+        "nickname": "inna.besprozvannykh",
+        "booksCount": 36,
+        "updatedAt": "2017-12-26 07:34:27"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "IhorMykolaiovych",
         "booksCount": 0,
         "updatedAt": "2017-12-17 20:18:11"
-    },
-    "10210829435508010-facebook": {
-        "id": "10210829435508010-facebook",
-        "nickname": "ololoeva",
-        "booksCount": 0,
-        "updatedAt": "2017-12-17 18:24:12"
     }
 }

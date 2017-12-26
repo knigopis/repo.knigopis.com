@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>606</sup> 
 [International master](users/741/74140988-vkontakte)<sup>92</sup> 
 [мона лиза](users/262/262192691-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
 [is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
 [IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
-[ololoeva](users/102/10210829435508010-facebook)<sup>0</sup> 
 
 
-_25.12.2017 23:09:19_
+_26.12.2017 07:34:28_

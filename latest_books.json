@@ -1,4 +1,16 @@
 {
+    "Jfc1Itar48": {
+        "id": "Jfc1Itar48",
+        "title": "В диких условиях",
+        "author": "Кракауэр Джон",
+        "notes": "",
+        "createdAt": "2017-12-26 07:34:27",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 36
+        }
+    },
     "WhIMqRs9zQ": {
         "id": "WhIMqRs9zQ",
         "title": "Жизнь Господина де Мольера",
@@ -345,18 +357,6 @@
             "id": "217421938-vkontakte",
             "nickname": "сфера",
             "booksCount": 1
-        }
-    },
-    "nxV0islyFJ": {
-        "id": "nxV0islyFJ",
-        "title": "Алиса в Стране Чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2017-12-18 11:07:43",
-        "user": {
-            "id": "1026237132343086367-mailru",
-            "nickname": "fa",
-            "booksCount": 23
         }
     }
 }

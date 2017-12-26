@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>35</sup>
+# List of books read by inna.besprozvannykh<sup>36</sup>
 ---
 
 ## 2017
+
+### В диких условиях
+Кракауэр Джон
+> [2017-12-30] 
+
 
 ### Цветы для Элджернона
 Дэниел Киз
