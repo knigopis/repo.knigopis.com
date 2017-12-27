@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Nanami](users/116/116145051192469700314-google)<sup>0</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>606</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [сфера](users/217/217421938-vkontakte)<sup>1</sup> 
 [Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
-[is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
 
 
-_27.12.2017 09:42:43_
+_27.12.2017 16:13:18_
