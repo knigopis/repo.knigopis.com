@@ -1,4 +1,10 @@
 {
+    "116145051192469700314-google": {
+        "id": "116145051192469700314-google",
+        "nickname": "Nanami",
+        "booksCount": 0,
+        "updatedAt": "2017-12-27 16:13:14"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -172,11 +178,5 @@
         "nickname": "fa",
         "booksCount": 23,
         "updatedAt": "2017-12-18 11:07:43"
-    },
-    "140559766-vkontakte": {
-        "id": "140559766-vkontakte",
-        "nickname": "is_winter_coming",
-        "booksCount": 0,
-        "updatedAt": "2017-12-18 10:59:30"
     }
 }
