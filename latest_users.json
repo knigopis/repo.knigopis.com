@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 140,
+        "updatedAt": "2017-12-27 22:08:27"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "сфера",
         "booksCount": 1,
         "updatedAt": "2017-12-18 18:47:27"
-    },
-    "176747771-vkontakte": {
-        "id": "176747771-vkontakte",
-        "nickname": "Толстомордый",
-        "booksCount": 0,
-        "updatedAt": "2017-12-18 11:21:59"
     }
 }
