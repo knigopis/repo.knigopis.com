@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Nanami](users/116/116145051192469700314-google)<sup>1</sup> 
+[Nanami](users/116/116145051192469700314-google)<sup>2</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>606</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
 
 
-_27.12.2017 16:14:39_
+_27.12.2017 16:14:48_
