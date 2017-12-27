@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
+    > В годовщину смерти его любимой девушки у Ига Перриша выросли рога. И это не единственный обретенный им дьявольский атрибут — теперь Иг безотчетно, одним своим присутствием, понуждает людей выкладывать самые заветные, самые постыдные тайны, поддаваться самым греховным соблазнам. Сможет ли Иг, пока все вокруг пляшут под дьявольскую музыку рогов, найти настоящего убийцу Меррин Уильямс (все в городе уверены, что он ее сам и убил), постичь евангелие от Мика Джаггера и Кита Ричардса и вернуться в Древесную Хижину Разума?
+
 * iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
     > жизнь ой. но да
     > а читать это невозможно(((
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Фриц, Эрнст, Элизабет, Фрид, Паульхен, Ланна Райнер
 
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
-    > Наиболее интересная книга. Много открывается вселенной дозоров. ну лвл апы персонажей!
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Ловись, рыбка! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup>
 
-* Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>606</sup> 
 [International master](users/741/74140988-vkontakte)<sup>92</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Толстомордый](users/176/176747771-vkontakte)<sup>0</sup> 
 [fa](users/102/1026237132343086367-mailru)<sup>23</sup> 
 [is_winter_coming](users/140/140559766-vkontakte)<sup>0</sup> 
-[IhorMykolaiovych](users/158/1589991341068692-facebook)<sup>0</sup> 
 
 
-_26.12.2017 07:34:28_
+_27.12.2017 09:42:43_

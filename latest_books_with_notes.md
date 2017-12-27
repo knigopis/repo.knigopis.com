@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
 * iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
 * Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
 * История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
 * Парфюмер. История одного убийцы ~ [Saamy](users/115/115226508-vkontakte)<sup>29</sup>
-* Девушка в поезде ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>126</sup>
 
 
-_22.12.2017 17:40:52_
+_27.12.2017 09:42:43_

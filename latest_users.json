@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 131,
+        "updatedAt": "2017-12-27 09:42:43"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "is_winter_coming",
         "booksCount": 0,
         "updatedAt": "2017-12-18 10:59:30"
-    },
-    "1589991341068692-facebook": {
-        "id": "1589991341068692-facebook",
-        "nickname": "IhorMykolaiovych",
-        "booksCount": 0,
-        "updatedAt": "2017-12-17 20:18:11"
     }
 }
