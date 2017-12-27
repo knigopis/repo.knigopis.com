@@ -1,4 +1,16 @@
 {
+    "ml-FqZCoo2": {
+        "id": "ml-FqZCoo2",
+        "title": "Танец с Драконами. Книга 1. Искры над Пеплом",
+        "author": "Джордж Мартин",
+        "notes": "",
+        "createdAt": "2017-12-27 17:31:44",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 113
+        }
+    },
     "2js_bR2kWt": {
         "id": "2js_bR2kWt",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 26
-        }
-    },
-    "JIvx2hkr7H": {
-        "id": "JIvx2hkr7H",
-        "title": "Исповедь Маски",
-        "author": "Юкио  Мисима",
-        "notes": "История становления великого человека с совсем невеликими слабостями. Жаль, обрывается на самом интересном месте.",
-        "createdAt": "2017-12-19 20:08:49",
-        "user": {
-            "id": "74743045-vkontakte",
-            "nickname": "creepy_g",
-            "booksCount": 119
         }
     }
 }

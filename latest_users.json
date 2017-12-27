@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 113,
+        "updatedAt": "2017-12-27 17:31:44"
+    },
     "116145051192469700314-google": {
         "id": "116145051192469700314-google",
         "nickname": "Nanami",
@@ -136,12 +142,6 @@
         "nickname": "Анна Штейн",
         "booksCount": 0,
         "updatedAt": "2017-12-19 14:54:49"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 112,
-        "updatedAt": "2017-12-19 06:58:38"
     },
     "104092867007130924662-google": {
         "id": "104092867007130924662-google",

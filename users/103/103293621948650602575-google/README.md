@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>112</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>113</sup>
 ---
 
 ## 2017
+
+### Танец с Драконами. Книга 1. Искры над Пеплом
+Джордж Мартин
+> [2017-12-26] 
+
 
 ### Снеговик
 Ю Несбё
