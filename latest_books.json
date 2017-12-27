@@ -1,4 +1,16 @@
 {
+    "178ZQ4AvwF": {
+        "id": "178ZQ4AvwF",
+        "title": "Дело чести",
+        "author": "Тимоти Зан",
+        "notes": "",
+        "createdAt": "2017-12-27 22:10:17",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 142
+        }
+    },
     "yQS5q2o4qq": {
         "id": "yQS5q2o4qq",
         "title": "Зеленая миля",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 16
-        }
-    },
-    "Kgyr5eqMAu": {
-        "id": "Kgyr5eqMAu",
-        "title": "Приют Грез",
-        "author": "Эрих Мария Ремарк",
-        "notes": "Фриц, Эрнст, Элизабет, Фрид, Паульхен, Ланна Райнер",
-        "createdAt": "2017-12-21 11:56:22",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 49
         }
     }
 }

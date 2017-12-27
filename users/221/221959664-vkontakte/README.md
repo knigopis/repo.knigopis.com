@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>141</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>142</sup>
 ---
 
 ## 2017
+
+### Дело чести
+Тимоти Зан
+> [2017-12-13] 
+
 
 ### Зеленая миля
 Стивен Кинг
