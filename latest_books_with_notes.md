@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 * Американский психопат ~ [Garka](users/115/115753719718250012620-google)<sup>164</sup>
 * Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
 * iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
 * Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
-* История любви ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>47</sup>
 
 
-_27.12.2017 20:03:34_
+_28.12.2017 03:43:51_
