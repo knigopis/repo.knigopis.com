@@ -1,4 +1,16 @@
 {
+    "Ie9hL6VdRY": {
+        "id": "Ie9hL6VdRY",
+        "title": "Скрипты продаж. Готовые сценарии холодных звонков и личных встреч",
+        "author": "Дмитрий Ткаченко",
+        "notes": "",
+        "createdAt": "2017-12-28 12:27:35",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 283
+        }
+    },
     "1fli63zTWh": {
         "id": "1fli63zTWh",
         "title": "Пауки и мухи -  Касарес Адольфо Биой",
@@ -345,18 +357,6 @@
             "id": "87353589-vkontakte",
             "nickname": "Yana_Briany",
             "booksCount": 4
-        }
-    },
-    "akHi0dSNgx": {
-        "id": "akHi0dSNgx",
-        "title": "Способный ученик",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-12-21 22:01:27",
-        "user": {
-            "id": "87353589-vkontakte",
-            "nickname": "Yana_Briany",
-            "booksCount": 3
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 283,
+        "updatedAt": "2017-12-28 12:27:35"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Анна Штейн",
         "booksCount": 0,
         "updatedAt": "2017-12-19 14:54:49"
-    },
-    "104092867007130924662-google": {
-        "id": "104092867007130924662-google",
-        "nickname": "Asya",
-        "booksCount": 0,
-        "updatedAt": "2017-12-18 20:44:18"
     }
 }
