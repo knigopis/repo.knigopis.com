@@ -1,4 +1,10 @@
 {
+    "533070810389927-facebook": {
+        "id": "533070810389927-facebook",
+        "nickname": "112",
+        "booksCount": 0,
+        "updatedAt": "2017-12-28 10:52:28"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "zenkozzz",
         "booksCount": 0,
         "updatedAt": "2017-12-18 19:09:20"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 30,
-        "updatedAt": "2017-12-18 18:54:17"
     }
 }
