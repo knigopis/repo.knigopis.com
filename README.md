@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[112](users/533/533070810389927-facebook)<sup>0</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>164</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Анна Штейн](users/116/116646380027519165533-google)<sup>0</sup> 
 [Asya](users/104/104092867007130924662-google)<sup>0</sup> 
 [zenkozzz](users/191/191577262-vkontakte)<sup>0</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>30</sup> 
 
 
-_28.12.2017 03:43:51_
+_28.12.2017 10:52:32_
