@@ -1,4 +1,16 @@
 {
+    "1fli63zTWh": {
+        "id": "1fli63zTWh",
+        "title": "Пауки и мухи -  Касарес Адольфо Биой",
+        "author": "Рассказ",
+        "notes": "",
+        "createdAt": "2017-12-28 12:22:36",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 98
+        }
+    },
     "NuV_i20F4Q": {
         "id": "NuV_i20F4Q",
         "title": "Ночь в тайге - Арсеньев Владимир",
@@ -345,18 +357,6 @@
             "id": "87353589-vkontakte",
             "nickname": "Yana_Briany",
             "booksCount": 3
-        }
-    },
-    "CWNearfBOU": {
-        "id": "CWNearfBOU",
-        "title": "Гордость и предубеждение",
-        "author": "Джейн Остин",
-        "notes": "",
-        "createdAt": "2017-12-21 22:00:24",
-        "user": {
-            "id": "87353589-vkontakte",
-            "nickname": "Yana_Briany",
-            "booksCount": 2
         }
     }
 }

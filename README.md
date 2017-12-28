@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>97</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>98</sup> 
 [112](users/533/533070810389927-facebook)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Asya](users/104/104092867007130924662-google)<sup>0</sup> 
 
 
-_28.12.2017 12:21:33_
+_28.12.2017 12:22:36_
