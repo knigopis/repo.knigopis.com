@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>283</sup> 
 [112](users/533/533070810389927-facebook)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>26</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>119</sup> 
 [Mmasty_I](users/183/183696279-vkontakte)<sup>0</sup> 
-[Анна Штейн](users/116/116646380027519165533-google)<sup>0</sup> 
 
 
-_29.12.2017 05:36:03_
+_29.12.2017 13:22:28_
