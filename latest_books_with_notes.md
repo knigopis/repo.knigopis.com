@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 * Американский психопат ~ [Garka](users/115/115753719718250012620-google)<sup>164</sup>
 * Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
@@ -30,7 +31,6 @@
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
 * Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 * Крадущаяся тень ~ [Sky](users/118/118049897850017649660-google)<sup>67</sup>
-* Смерть на Ниле ~ [Garka](users/115/115753719718250012620-google)<sup>161</sup>
 
 
-_28.12.2017 03:43:51_
+_29.12.2017 04:34:47_
