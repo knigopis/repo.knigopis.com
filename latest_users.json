@@ -1,4 +1,10 @@
 {
+    "15649404-vkontakte": {
+        "id": "15649404-vkontakte",
+        "nickname": "Mangertus",
+        "booksCount": 0,
+        "updatedAt": "2017-12-29 13:22:24"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "Mmasty_I",
         "booksCount": 0,
         "updatedAt": "2017-12-19 18:37:12"
-    },
-    "116646380027519165533-google": {
-        "id": "116646380027519165533-google",
-        "nickname": "Анна Штейн",
-        "booksCount": 0,
-        "updatedAt": "2017-12-19 14:54:49"
     }
 }
