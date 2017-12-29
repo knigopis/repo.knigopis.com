@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>607</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>283</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nanami](users/116/116145051192469700314-google)<sup>3</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>606</sup> 
 [International master](users/741/74140988-vkontakte)<sup>92</sup> 
 [мона лиза](users/262/262192691-vkontakte)<sup>0</sup> 
 [gobseck91](users/374/374820130-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mmasty_I](users/183/183696279-vkontakte)<sup>0</sup> 
 
 
-_29.12.2017 13:22:28_
+_29.12.2017 14:00:12_

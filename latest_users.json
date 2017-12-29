@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 607,
+        "updatedAt": "2017-12-29 14:00:12"
+    },
     "15649404-vkontakte": {
         "id": "15649404-vkontakte",
         "nickname": "Mangertus",
@@ -64,12 +70,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 36,
         "updatedAt": "2017-12-26 07:34:27"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 606,
-        "updatedAt": "2017-12-25 23:09:19"
     },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "HjmB9efTxn": {
+        "id": "HjmB9efTxn",
+        "title": "Рассказы",
+        "author": "Исаак Башевис-Зингер",
+        "notes": "",
+        "createdAt": "2017-12-29 14:00:12",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 607
+        }
+    },
     "2S7M3k5_r3": {
         "id": "2S7M3k5_r3",
         "title": "Рассказы - Акутагава Рюноскэ",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 19
-        }
-    },
-    "CRERuUlFfK": {
-        "id": "CRERuUlFfK",
-        "title": "Подвійна гра в чотири руки",
-        "author": "Ірєн  Роздобудько",
-        "notes": "",
-        "createdAt": "2017-12-22 08:52:34",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 18
         }
     }
 }
