@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>40</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 [sergeybolobaev](users/379/37918255-vkontakte)<sup>36</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>26</sup> 
 
 
-_30.12.2017 21:06:22_
+_30.12.2017 23:18:06_

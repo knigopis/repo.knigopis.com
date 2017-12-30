@@ -1,4 +1,4 @@
-# List of books read by Rainbow<sup>39</sup>
+# List of books read by Rainbow<sup>40</sup>
 ---
 
 ## 2017
@@ -137,6 +137,10 @@
 
 
 ## 2016
+
+### Лекарство от меланхолии
+Рэй Брэдбери
+
 
 ### Лошадиная фамилия
 Антон Чехов

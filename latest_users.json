@@ -1,4 +1,10 @@
 {
+    "109787328219839805802-google": {
+        "id": "109787328219839805802-google",
+        "nickname": "Rainbow",
+        "booksCount": 40,
+        "updatedAt": "2017-12-30 23:18:05"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "mashi2000",
         "booksCount": 0,
         "updatedAt": "2017-12-20 12:38:14"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 26,
-        "updatedAt": "2017-12-20 04:42:04"
     }
 }
