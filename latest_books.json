@@ -1,4 +1,16 @@
 {
+    "sEuPbvET_2": {
+        "id": "sEuPbvET_2",
+        "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
+        "author": "Дмитрий Портнягин",
+        "notes": "5",
+        "createdAt": "2017-12-30 14:23:44",
+        "user": {
+            "id": "37918255-vkontakte",
+            "nickname": "sergeybolobaev",
+            "booksCount": 36
+        }
+    },
     "iM3i3q80FC": {
         "id": "iM3i3q80FC",
         "title": "Мифы мотивации",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 21
-        }
-    },
-    "Lb78uDKNWS": {
-        "id": "Lb78uDKNWS",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Киосаки",
-        "notes": "",
-        "createdAt": "2017-12-22 08:59:56",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 20
         }
     }
 }

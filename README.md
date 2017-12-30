@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/379/37918255-vkontakte)<sup>36</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>607</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>26</sup> 
-[creepy_g](users/747/74743045-vkontakte)<sup>119</sup> 
 
 
-_30.12.2017 11:54:50_
+_30.12.2017 14:23:44_
