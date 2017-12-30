@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 13,
+        "updatedAt": "2017-12-30 19:26:41"
+    },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",
         "nickname": "sergeybolobaev",
@@ -118,12 +124,6 @@
         "nickname": "Chiffi",
         "booksCount": 39,
         "updatedAt": "2017-12-22 17:40:52"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 12,
-        "updatedAt": "2017-12-22 12:53:51"
     },
     "11195379251184170947-mailru": {
         "id": "11195379251184170947-mailru",

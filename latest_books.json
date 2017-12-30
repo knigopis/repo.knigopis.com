@@ -1,4 +1,16 @@
 {
+    "_af_uyhIXX": {
+        "id": "_af_uyhIXX",
+        "title": "Конец детства",
+        "author": "Артур Кларк",
+        "notes": "",
+        "createdAt": "2017-12-30 19:26:41",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 13
+        }
+    },
     "sEuPbvET_2": {
         "id": "sEuPbvET_2",
         "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 12
-        }
-    },
-    "tB5dR6tp2u": {
-        "id": "tB5dR6tp2u",
-        "title": "Монах, который продал свой феррари",
-        "author": "Робин Шарма",
-        "notes": "",
-        "createdAt": "2017-12-22 09:00:31",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 21
         }
     }
 }
