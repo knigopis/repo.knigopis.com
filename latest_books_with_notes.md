@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
 * Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
 * Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
-* Мертвая королева ~ [Chiffi](users/105/105831994080785626680-google)<sup>37</sup>
 
 
-_29.12.2017 05:36:03_
+_30.12.2017 11:54:50_

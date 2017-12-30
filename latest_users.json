@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 134,
+        "updatedAt": "2017-12-30 11:54:49"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "creepy_g",
         "booksCount": 119,
         "updatedAt": "2017-12-19 20:08:49"
-    },
-    "183696279-vkontakte": {
-        "id": "183696279-vkontakte",
-        "nickname": "Mmasty_I",
-        "booksCount": 0,
-        "updatedAt": "2017-12-19 18:37:12"
     }
 }

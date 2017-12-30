@@ -1,4 +1,16 @@
 {
+    "iM3i3q80FC": {
+        "id": "iM3i3q80FC",
+        "title": "Мифы мотивации",
+        "author": "Райнхард К. Шпренгер",
+        "notes": "в процессе",
+        "createdAt": "2017-12-30 11:54:49",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 134
+        }
+    },
     "2S7M3k5_r3": {
         "id": "2S7M3k5_r3",
         "title": "Рассказы - Акутагава Рюноскэ",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 33
-        }
-    },
-    "k3H5anuCR7": {
-        "id": "k3H5anuCR7",
-        "title": "Мертвая королева",
-        "author": "Панов Вадим",
-        "notes": "Это писал кто угодно, но не Панов",
-        "createdAt": "2017-12-03 08:34:25",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 37
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
+    > в процессе
+
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
     > Мандарины ♫
     > Холод ♫
@@ -15,10 +18,6 @@ Do not use pull requests to make changes here.
     > Настоящая любовь
 
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
-    > Краткий рассказ об ИИ предсказателе.
-    > - Да нет, сынок, всё оказалось куда хуже. В Оболочку вшит жёсткий принцип: выживает та её часть, которая даёт самый точный прогноз, понимаешь? Сначала она повышала точность прогнозов. Повышала и повышала. А через какое-то время она развилась до такой степени, что стала искать факторы, препятствующие точному прогнозу. И нашла.
-    > - И что же это было?
-    > - Мы.
 
 * Американский психопат ~ [Garka](users/115/115753719718250012620-google)<sup>164</sup>
 
@@ -32,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 
-* Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>607</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup> 
@@ -68,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>26</sup> 
 [creepy_g](users/747/74743045-vkontakte)<sup>119</sup> 
-[Mmasty_I](users/183/183696279-vkontakte)<sup>0</sup> 
 
 
-_29.12.2017 14:00:12_
+_30.12.2017 11:54:50_

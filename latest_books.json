@@ -1,4 +1,16 @@
 {
+    "iM3i3q80FC": {
+        "id": "iM3i3q80FC",
+        "title": "Мифы мотивации",
+        "author": "Райнхард К. Шпренгер",
+        "notes": "в процессе",
+        "createdAt": "2017-12-30 11:54:49",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 134
+        }
+    },
     "HjmB9efTxn": {
         "id": "HjmB9efTxn",
         "title": "Рассказы",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 20
-        }
-    },
-    "tN6vm1Ogpd": {
-        "id": "tN6vm1Ogpd",
-        "title": "Марсианские хроники",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2017-12-22 08:58:32",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 19
         }
     }
 }
