@@ -1,4 +1,16 @@
 {
+    "p5VQ1acFvN": {
+        "id": "p5VQ1acFvN",
+        "title": "Лето в один день",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2017-12-30 23:18:39",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 41
+        }
+    },
     "IeJlgL3UAx": {
         "id": "IeJlgL3UAx",
         "title": "Лекарство от меланхолии",
@@ -345,18 +357,6 @@
             "id": "116036946437273732646-googleplus",
             "nickname": "Dmitry",
             "booksCount": 1
-        }
-    },
-    "tEegwty0yv": {
-        "id": "tEegwty0yv",
-        "title": "The Firm: История компании McKinsey и её тайного влияния на американский бизнес",
-        "author": "Дафф Макдональд",
-        "notes": "",
-        "createdAt": "2017-12-22 21:13:36",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 90
         }
     }
 }

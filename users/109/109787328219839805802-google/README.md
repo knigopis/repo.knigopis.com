@@ -1,7 +1,12 @@
-# List of books read by Rainbow<sup>40</sup>
+# List of books read by Rainbow<sup>41</sup>
 ---
 
 ## 2017
+
+### Лето в один день
+Рэй Брэдбери
+> [2017-12-30] 
+
 
 ### Искренний смех
 Леонид Андреев
