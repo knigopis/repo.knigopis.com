@@ -1,4 +1,16 @@
 {
+    "7sW2dCF7zy": {
+        "id": "7sW2dCF7zy",
+        "title": "Цельная жизнь: Ключевые навыки для достижения ваших целей",
+        "author": "Джэк Кэнфилд, Марк Виктор Хансен, Лес Хьюитт",
+        "notes": "",
+        "createdAt": "2017-12-31 12:31:52",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 93
+        }
+    },
     "Z6QsWllpZ1": {
         "id": "Z6QsWllpZ1",
         "title": "Нетопырь",
@@ -345,18 +357,6 @@
             "id": "116036946437273732646-googleplus",
             "nickname": "Dmitry",
             "booksCount": 2
-        }
-    },
-    "J97ZNgkDVp": {
-        "id": "J97ZNgkDVp",
-        "title": "7 навыков высокоэффективных людей: Мощные инструменты развития личности",
-        "author": "Стивен Кови",
-        "notes": "",
-        "createdAt": "2017-12-22 21:19:01",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 91
         }
     }
 }

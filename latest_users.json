@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 93,
+        "updatedAt": "2017-12-31 12:31:52"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -94,12 +100,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 36,
         "updatedAt": "2017-12-26 07:34:27"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 92,
-        "updatedAt": "2017-12-25 22:11:24"
     },
     "262192691-vkontakte": {
         "id": "262192691-vkontakte",
