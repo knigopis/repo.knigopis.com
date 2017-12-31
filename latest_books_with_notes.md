@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
@@ -30,7 +31,6 @@
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
 * Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
-* Rrrr ~ [me](users/381/381417697-yandex)<sup>33</sup>
 
 
-_30.12.2017 11:54:50_
+_31.12.2017 15:15:37_

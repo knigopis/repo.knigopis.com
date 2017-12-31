@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 51,
+        "updatedAt": "2017-12-31 15:15:37"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "Yoshka",
         "booksCount": 0,
         "updatedAt": "2017-12-20 12:50:44"
-    },
-    "233557983-vkontakte": {
-        "id": "233557983-vkontakte",
-        "nickname": "mashi2000",
-        "booksCount": 0,
-        "updatedAt": "2017-12-20 12:38:14"
     }
 }

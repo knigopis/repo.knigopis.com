@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>50</sup>
+# Список прочитанных книг пользователя exulted<sup>51</sup>
 ---
 
 ## 2017
+
+### The Swiss Spy
+Alex Gerlis
+> [2017-12-31] ASIN: B00Y3NNBG0
+
 
 ### Separation and Its Discontents: Toward an Evolutionary Theory of Anti-Semitism
 Kevin MacDonald

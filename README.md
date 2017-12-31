@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
+    > ASIN: B00Y3NNBG0
+
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
     > в процессе
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Холод ♫
 
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
-    > Здесь нет никого, кроме...
-    > Мой сын - физик
-    > Настоящая любовь
 
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 
@@ -29,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
 
-* Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>51</sup> 
 [International master](users/741/74140988-vkontakte)<sup>93</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>114</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>41</sup> 
@@ -65,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
-[mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 
 
-_31.12.2017 12:31:52_
+_31.12.2017 15:15:37_
