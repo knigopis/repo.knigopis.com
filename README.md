@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>114</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>41</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>164</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>113</sup> 
 [Nanami](users/116/116145051192469700314-google)<sup>3</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mashi2000](users/233/233557983-vkontakte)<sup>0</sup> 
 
 
-_30.12.2017 23:18:39_
+_31.12.2017 07:32:53_
