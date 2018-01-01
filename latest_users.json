@@ -1,4 +1,10 @@
 {
+    "1582848-vkontakte": {
+        "id": "1582848-vkontakte",
+        "nickname": "gryphonn",
+        "booksCount": 0,
+        "updatedAt": "2018-01-01 18:59:29"
+    },
     "2060252005-instagram": {
         "id": "2060252005-instagram",
         "nickname": "ksenisky",
@@ -172,11 +178,5 @@
         "nickname": "Yana_Briany",
         "booksCount": 4,
         "updatedAt": "2017-12-21 22:02:47"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 10,
-        "updatedAt": "2017-12-21 21:01:17"
     }
 }
