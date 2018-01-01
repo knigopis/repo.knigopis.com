@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>4</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>5</sup>
 ---
 
 ## 2017
+
+### Сказать жизни «Да!»: психолог в концлагере
+Виктор Франкл
+> [2017-01-31] 8/10
+> ISBN: 978-5-9614-2317-4
+
 
 ### Люди, которые играют в игры
 Эрик Берн

@@ -1,4 +1,16 @@
 {
+    "EW71ULCzX0": {
+        "id": "EW71ULCzX0",
+        "title": "Сказать жизни «Да!»: психолог в концлагере",
+        "author": "Виктор Франкл",
+        "notes": "8/10\nISBN: 978-5-9614-2317-4",
+        "createdAt": "2018-01-01 13:25:21",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 5
+        }
+    },
     "NUZZGHyrKq": {
         "id": "NUZZGHyrKq",
         "title": "Люди, которые играют в игры",
@@ -345,18 +357,6 @@
             "id": "116145051192469700314-google",
             "nickname": "Nanami",
             "booksCount": 2
-        }
-    },
-    "aEnprvSI0N": {
-        "id": "aEnprvSI0N",
-        "title": "Великий Гэтсби",
-        "author": "Фрэнсис Скот Фицжеральд",
-        "notes": "",
-        "createdAt": "2017-12-27 16:14:39",
-        "user": {
-            "id": "116145051192469700314-google",
-            "nickname": "Nanami",
-            "booksCount": 1
         }
     }
 }
