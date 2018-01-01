@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>8</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>9</sup>
 ---
 
 ## 2017
+
+### Rework: бизнес без предрассудков
+Джейсон Фрайд, Дэвид Хенссон
+> [2017-02-27] 9/10
+> ISBN: 978-5-91657-119-6
+
 
 ### Как перестать беспокоиться и начать жить
 Дейл Карнеги
