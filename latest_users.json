@@ -1,4 +1,10 @@
 {
+    "2060252005-instagram": {
+        "id": "2060252005-instagram",
+        "nickname": "ksenisky",
+        "booksCount": 0,
+        "updatedAt": "2018-01-01 15:54:48"
+    },
     "197412456-vkontakte": {
         "id": "197412456-vkontakte",
         "nickname": "ksereva",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 10,
         "updatedAt": "2017-12-21 21:01:17"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 49,
-        "updatedAt": "2017-12-21 11:56:22"
     }
 }
