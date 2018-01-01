@@ -1,4 +1,16 @@
 {
+    "b4BdQABMob": {
+        "id": "b4BdQABMob",
+        "title": "15 секретов управления временем: Как успешные люди успевают всё",
+        "author": "Кевин Круз",
+        "notes": "10/10\nISBN: 978-5-9614-4384-4",
+        "createdAt": "2018-01-01 13:30:30",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 7
+        }
+    },
     "o9REpurDb6": {
         "id": "o9REpurDb6",
         "title": "Психология влияния",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 113
-        }
-    },
-    "2js_bR2kWt": {
-        "id": "2js_bR2kWt",
-        "title": "Норвежский лес",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2017-12-27 16:15:50",
-        "user": {
-            "id": "116145051192469700314-google",
-            "nickname": "Nanami",
-            "booksCount": 3
         }
     }
 }

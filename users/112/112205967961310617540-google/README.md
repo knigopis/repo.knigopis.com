@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>6</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>7</sup>
 ---
 
 ## 2017
+
+### 15 секретов управления временем: Как успешные люди успевают всё
+Кевин Круз
+> [2017-02-16] 10/10
+> ISBN: 978-5-9614-4384-4
+
 
 ### Психология влияния
 Роберт Чалдини
