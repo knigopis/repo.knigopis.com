@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>13</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>14</sup>
 ---
 
 ## 2017
+
+### Generation «П»
+Виктор Пелевин
+> [2017-04-01] 9/10
+> ISBN: 978-5-4467-0270-1
+
 
 ### О дивный новый мир
 Олдос Хаксли

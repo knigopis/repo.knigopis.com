@@ -1,4 +1,16 @@
 {
+    "u00UT3kb2L": {
+        "id": "u00UT3kb2L",
+        "title": "Generation «П»",
+        "author": "Виктор Пелевин",
+        "notes": "9/10\nISBN: 978-5-4467-0270-1",
+        "createdAt": "2018-01-01 13:58:18",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 14
+        }
+    },
     "-Z6RQalaIt": {
         "id": "-Z6RQalaIt",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 98
-        }
-    },
-    "NuV_i20F4Q": {
-        "id": "NuV_i20F4Q",
-        "title": "Ночь в тайге - Арсеньев Владимир",
-        "author": "Рассказ",
-        "notes": "",
-        "createdAt": "2017-12-28 12:21:33",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 97
         }
     }
 }
