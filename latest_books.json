@@ -1,4 +1,16 @@
 {
+    "TFG0TgYFmb": {
+        "id": "TFG0TgYFmb",
+        "title": "Хватит быть славным парнем! Проверенный способ добиться желаемого в любви, сексе и жизни.",
+        "author": "Роберт Гловер",
+        "notes": "ISBN: 978-5-9614-3373-9\n6/10.",
+        "createdAt": "2018-01-01 12:46:35",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 1
+        }
+    },
     "9oaJBQzqiM": {
         "id": "9oaJBQzqiM",
         "title": "Лесные люди Удэхейцы - Владимир Арсеньев",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 606
-        }
-    },
-    "WoH6gzhrsb": {
-        "id": "WoH6gzhrsb",
-        "title": "12 недель в году: Как за 12 недель сделать больше, чем другие успевают за 12 месяцев",
-        "author": "Брайан Моран, Майкл Леннингтон",
-        "notes": "",
-        "createdAt": "2017-12-25 22:11:24",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 92
         }
     }
 }
