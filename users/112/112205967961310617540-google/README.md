@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>9</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>10</sup>
 ---
 
 ## 2017
+
+### Кради как художник. 10 уроков творческого самовыражения
+Остин Клеон
+> [2017-03-05] 10/10
+> ISBN: 978-5-00100-551-3
+
 
 ### Rework: бизнес без предрассудков
 Джейсон Фрайд, Дэвид Хенссон

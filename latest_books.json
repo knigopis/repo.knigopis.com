@@ -1,4 +1,16 @@
 {
+    "XcvdYT4p1-": {
+        "id": "XcvdYT4p1-",
+        "title": "Кради как художник. 10 уроков творческого самовыражения",
+        "author": "Остин Клеон",
+        "notes": "10/10\nISBN: 978-5-00100-551-3",
+        "createdAt": "2018-01-01 13:33:39",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 10
+        }
+    },
     "MvHUo6ooRM": {
         "id": "MvHUo6ooRM",
         "title": "Rework: бизнес без предрассудков",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 142
-        }
-    },
-    "yQS5q2o4qq": {
-        "id": "yQS5q2o4qq",
-        "title": "Зеленая миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2017-12-27 22:09:34",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 141
         }
     }
 }
