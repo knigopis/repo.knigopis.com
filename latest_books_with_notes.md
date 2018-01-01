@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>34</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 * Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
@@ -30,7 +31,6 @@
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
-* Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 
 
-_01.01.2018 19:58:33_
+_01.01.2018 19:59:19_
