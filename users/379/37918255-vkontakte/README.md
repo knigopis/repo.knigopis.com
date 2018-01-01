@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](http://vk.com/id37918255)<sup>36</sup>
+# List of books read by OldAccount<sup>35</sup>
 ---
 
 ## 2017
@@ -179,11 +179,6 @@ Gary Keller
 ### Бог как иллюзия
 Ричард Докинз
 > [2016-09-25] 5
-
-
-### Хватит быть славным парнем!
-Роберт Гловер
-> [2016-09-03] 5
 
 
 
