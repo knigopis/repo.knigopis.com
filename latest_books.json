@@ -1,4 +1,16 @@
 {
+    "uiUskaVNfK": {
+        "id": "uiUskaVNfK",
+        "title": "Жизнь как стартап. Строй карьеру по законам Кремниевой долины",
+        "author": "Бен Касноча, Рид Хоффман",
+        "notes": "",
+        "createdAt": "2018-01-01 21:15:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 608
+        }
+    },
     "pYCI6nN-5y": {
         "id": "pYCI6nN-5y",
         "title": "Мы на острове Сальткрока",
@@ -345,18 +357,6 @@
             "id": "37918255-vkontakte",
             "nickname": "sergeybolobaev",
             "booksCount": 36
-        }
-    },
-    "iM3i3q80FC": {
-        "id": "iM3i3q80FC",
-        "title": "Мифы мотивации",
-        "author": "Райнхард К. Шпренгер",
-        "notes": "в процессе",
-        "createdAt": "2017-12-30 11:54:49",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 134
         }
     }
 }

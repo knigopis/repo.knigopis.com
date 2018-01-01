@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>608</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>35</sup> 
 [gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>607</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
 [112](users/533/533070810389927-facebook)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
 
 
-_01.01.2018 20:00:22_
+_01.01.2018 21:15:27_
