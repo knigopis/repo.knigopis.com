@@ -1,4 +1,4 @@
-# List of books read by OldAccount<sup>34</sup>
+# List of books read by OldAccount<sup>33</sup>
 ---
 
 ## 2017
@@ -166,14 +166,6 @@ Gary Keller
 ### Люди, которые играют в игры
 Эрик Берн
 > [2017-01-03] 5
-
-
-
-## 2016
-
-### Над пропастью во ржи
-Джером Сэлинджер
-> [2016-10-20] 4
 
 
 
