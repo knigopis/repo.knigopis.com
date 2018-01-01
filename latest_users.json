@@ -1,4 +1,10 @@
 {
+    "112205967961310617540-google": {
+        "id": "112205967961310617540-google",
+        "nickname": "sergeybolobaev",
+        "booksCount": 0,
+        "updatedAt": "2018-01-01 12:39:12"
+    },
     "3621623-vkontakte": {
         "id": "3621623-vkontakte",
         "nickname": "abzagir4ik",
@@ -172,11 +178,5 @@
         "nickname": "иузуил",
         "booksCount": 3,
         "updatedAt": "2017-12-20 20:48:29"
-    },
-    "114088849140391089697-google": {
-        "id": "114088849140391089697-google",
-        "nickname": "Yoshka",
-        "booksCount": 0,
-        "updatedAt": "2017-12-20 12:50:44"
     }
 }
