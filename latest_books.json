@@ -1,4 +1,16 @@
 {
+    "79jqMRxKiM": {
+        "id": "79jqMRxKiM",
+        "title": "Бог как иллюзия",
+        "author": "Ричард Докинз",
+        "notes": "10/10\nISBN: 978-5-389-07831-4",
+        "createdAt": "2018-01-01 13:16:21",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 2
+        }
+    },
     "TFG0TgYFmb": {
         "id": "TFG0TgYFmb",
         "title": "Хватит быть славным парнем! Проверенный способ добиться желаемого в любви, сексе и жизни.",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 36
-        }
-    },
-    "WhIMqRs9zQ": {
-        "id": "WhIMqRs9zQ",
-        "title": "Жизнь Господина де Мольера",
-        "author": "Михаил Булгаков",
-        "notes": "",
-        "createdAt": "2017-12-25 23:09:19",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 606
         }
     }
 }

@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>1</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>2</sup>
 ---
 
 ## 2016
+
+### Бог как иллюзия
+Ричард Докинз
+> [2016-10-20] 10/10
+> ISBN: 978-5-389-07831-4
+
 
 ### Хватит быть славным парнем! Проверенный способ добиться желаемого в любви, сексе и жизни.
 Роберт Гловер
