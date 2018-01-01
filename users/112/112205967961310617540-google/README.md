@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>14</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>15</sup>
 ---
 
 ## 2017
+
+### LSD My Problem Child: Reflections on Sacred Drugs, Mysticism and Science
+Albert Hofmann
+> [2017-04-14] 10/10
+> ISBN-13: 978-0979862229
+
 
 ### Generation «П»
 Виктор Пелевин
