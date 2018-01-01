@@ -1,4 +1,4 @@
-# List of books read by OldAccount<sup>35</sup>
+# List of books read by OldAccount<sup>34</sup>
 ---
 
 ## 2017
@@ -174,11 +174,6 @@ Gary Keller
 ### Над пропастью во ржи
 Джером Сэлинджер
 > [2016-10-20] 4
-
-
-### Бог как иллюзия
-Ричард Докинз
-> [2016-09-25] 5
 
 
 
