@@ -1,16 +1,13 @@
 # List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>12</sup>
 ---
 
-## 2018
+## 2017
 
 ### 1984
 Джордж Оруэлл
-> [2018-03-21] 8/10
+> [2017-03-21] 8/10
 > ISBN: 978-5-17-080115-2
 
-
-
-## 2017
 
 ### Стив Джобс
 Уолтер Айзексон
