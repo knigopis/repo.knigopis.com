@@ -1,4 +1,10 @@
 {
+    "197412456-vkontakte": {
+        "id": "197412456-vkontakte",
+        "nickname": "ksereva",
+        "booksCount": 0,
+        "updatedAt": "2018-01-01 15:53:27"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 49,
         "updatedAt": "2017-12-21 11:56:22"
-    },
-    "238356806-vkontakte": {
-        "id": "238356806-vkontakte",
-        "nickname": "иузуил",
-        "booksCount": 3,
-        "updatedAt": "2017-12-20 20:48:29"
     }
 }
