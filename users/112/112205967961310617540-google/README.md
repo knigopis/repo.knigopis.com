@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>7</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>8</sup>
 ---
 
 ## 2017
+
+### Как перестать беспокоиться и начать жить
+Дейл Карнеги
+> [2017-02-20] 9/10
+> ISBN: 978-985-15-3026-3
+
 
 ### 15 секретов управления временем: Как успешные люди успевают всё
 Кевин Круз

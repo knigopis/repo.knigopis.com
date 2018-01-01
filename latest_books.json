@@ -1,4 +1,16 @@
 {
+    "gmsiRgPgDB": {
+        "id": "gmsiRgPgDB",
+        "title": "Как перестать беспокоиться и начать жить",
+        "author": "Дейл Карнеги",
+        "notes": "9/10\nISBN: 978-985-15-3026-3",
+        "createdAt": "2018-01-01 13:31:35",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 8
+        }
+    },
     "b4BdQABMob": {
         "id": "b4BdQABMob",
         "title": "15 секретов управления временем: Как успешные люди успевают всё",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 164
-        }
-    },
-    "ml-FqZCoo2": {
-        "id": "ml-FqZCoo2",
-        "title": "Танец с Драконами. Книга 1. Искры над Пеплом",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2017-12-27 17:31:44",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 113
         }
     }
 }
