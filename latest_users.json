@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 31,
+        "updatedAt": "2018-01-01 19:56:50"
+    },
     "1582848-vkontakte": {
         "id": "1582848-vkontakte",
         "nickname": "gryphonn",
@@ -172,11 +178,5 @@
         "nickname": "Элла",
         "booksCount": 21,
         "updatedAt": "2017-12-22 09:00:31"
-    },
-    "87353589-vkontakte": {
-        "id": "87353589-vkontakte",
-        "nickname": "Yana_Briany",
-        "booksCount": 4,
-        "updatedAt": "2017-12-21 22:02:47"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
 * The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
@@ -30,7 +31,6 @@
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
 * Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
-* Убийство на улице Морг ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>62</sup>
 
 
-_31.12.2017 15:15:37_
+_01.01.2018 19:56:50_

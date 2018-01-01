@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
+    > Роман, на самом деле, в какой-то степени относится к классике, отсылки на него встречаются и в фильмах, и в песнях, собственно, поэтому я польстился на него. Но читается он тяжело. Очень мутный, мятущийся, страдающий главный герой, зацикленный на своей исключительности, непохожести. Воображает, что его личность разделена на две части: все высокодуховное и интеллектуальное - это человеческая часть, все эмоциональное, агрессивное и спонтанное - это волчья часть. Под конец читать становится вообще ужасно сложно. Что-то на уровне с концом Фаустом
+
 * The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
     > ASIN: B00Y3NNBG0
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
-    > Мандарины ♫
-    > Холод ♫
 
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
 
-* Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>31</sup> 
 [gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>0</sup> 
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 [Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>21</sup> 
-[Yana_Briany](users/873/87353589-vkontakte)<sup>4</sup> 
 
 
-_01.01.2018 18:59:31_
+_01.01.2018 19:56:50_
