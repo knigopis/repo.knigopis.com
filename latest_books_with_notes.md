@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>34</sup>
+* Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 * Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
@@ -33,4 +33,4 @@
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 
 
-_01.01.2018 19:59:19_
+_01.01.2018 20:00:22_
