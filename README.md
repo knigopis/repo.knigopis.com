@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>101</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
 [International master](users/741/74140988-vkontakte)<sup>93</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
-[Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 
 
-_01.01.2018 08:29:36_
+_01.01.2018 12:39:14_
