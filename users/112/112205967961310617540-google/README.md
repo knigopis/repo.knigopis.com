@@ -1,5 +1,14 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>3</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>4</sup>
 ---
+
+## 2017
+
+### Люди, которые играют в игры
+Эрик Берн
+> [2017-01-03] 8/10
+> ISBN: 978-5-699-83085-5
+
+
 
 ## 2016
 
