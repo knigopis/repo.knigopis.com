@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>15</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>33</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>101</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yana_Briany](users/873/87353589-vkontakte)<sup>4</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>10</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup> 
-[иузуил](users/238/238356806-vkontakte)<sup>3</sup> 
 
 
-_01.01.2018 14:07:07_
+_01.01.2018 15:53:29_
