@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>10</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>11</sup>
 ---
 
 ## 2017
+
+### Стив Джобс
+Уолтер Айзексон
+> [2017-03-18] 10/10
+> ISBN: 978-5-271-39378-5
+
 
 ### Кради как художник. 10 уроков творческого самовыражения
 Остин Клеон

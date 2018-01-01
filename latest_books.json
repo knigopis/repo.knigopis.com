@@ -1,4 +1,16 @@
 {
+    "LvIdX3HJ_P": {
+        "id": "LvIdX3HJ_P",
+        "title": "Стив Джобс",
+        "author": "Уолтер Айзексон",
+        "notes": "10/10\nISBN: 978-5-271-39378-5",
+        "createdAt": "2018-01-01 13:34:55",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 11
+        }
+    },
     "XcvdYT4p1-": {
         "id": "XcvdYT4p1-",
         "title": "Кради как художник. 10 уроков творческого самовыражения",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 58
-        }
-    },
-    "178ZQ4AvwF": {
-        "id": "178ZQ4AvwF",
-        "title": "Дело чести",
-        "author": "Тимоти Зан",
-        "notes": "",
-        "createdAt": "2017-12-27 22:10:17",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 142
         }
     }
 }
