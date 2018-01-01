@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 * Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
 * The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 * Тайна Мари Роже ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>67</sup>
 * Золотой жук ~ [miracolo_bella](users/180/180139283-vkontakte)<sup>66</sup>
-* Древний. Предыстория. книга третья ~ [En](users/333/333646551-vkontakte)<sup>24</sup>
 
 
-_01.01.2018 19:56:50_
+_01.01.2018 19:57:44_
