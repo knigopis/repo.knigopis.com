@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>2</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>3</sup>
 ---
 
 ## 2016
+
+### Над пропастью во ржи
+Джером Сэлинджер
+> [2016-10-20] 6/10
+> ISBN: 978-5-699-35649-2
+
 
 ### Бог как иллюзия
 Ричард Докинз

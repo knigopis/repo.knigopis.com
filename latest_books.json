@@ -1,4 +1,16 @@
 {
+    "r1faiWY6Xj": {
+        "id": "r1faiWY6Xj",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Сэлинджер",
+        "notes": "6/10\nISBN: 978-5-699-35649-2",
+        "createdAt": "2018-01-01 13:19:01",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 3
+        }
+    },
     "79jqMRxKiM": {
         "id": "79jqMRxKiM",
         "title": "Бог как иллюзия",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 131
-        }
-    },
-    "Jfc1Itar48": {
-        "id": "Jfc1Itar48",
-        "title": "В диких условиях",
-        "author": "Кракауэр Джон",
-        "notes": "",
-        "createdAt": "2017-12-26 07:34:27",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 36
         }
     }
 }
