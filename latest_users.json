@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 101,
+        "updatedAt": "2018-01-01 08:29:36"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -58,12 +64,6 @@
         "nickname": "Mangertus",
         "booksCount": 0,
         "updatedAt": "2017-12-29 13:22:24"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 100,
-        "updatedAt": "2017-12-29 05:36:03"
     },
     "533070810389927-facebook": {
         "id": "533070810389927-facebook",

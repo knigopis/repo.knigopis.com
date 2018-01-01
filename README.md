@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>101</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
 [International master](users/741/74140988-vkontakte)<sup>93</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>114</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>607</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
-[abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup> 
 [112](users/533/533070810389927-facebook)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Yoshka](users/114/114088849140391089697-google)<sup>0</sup> 
 
 
-_31.12.2017 15:15:37_
+_01.01.2018 08:29:36_

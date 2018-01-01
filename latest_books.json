@@ -1,4 +1,16 @@
 {
+    "9oaJBQzqiM": {
+        "id": "9oaJBQzqiM",
+        "title": "Лесные люди Удэхейцы - Владимир Арсеньев",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-01-01 08:29:36",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 101
+        }
+    },
     "ZQvEs-cG_f": {
         "id": "ZQvEs-cG_f",
         "title": "The Swiss Spy",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 92
-        }
-    },
-    "nWb987qAdV": {
-        "id": "nWb987qAdV",
-        "title": "Шоша",
-        "author": "Исаак Башевис-Зингео",
-        "notes": "",
-        "createdAt": "2017-12-24 13:00:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 605
         }
     }
 }
