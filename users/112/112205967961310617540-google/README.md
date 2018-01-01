@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>5</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>6</sup>
 ---
 
 ## 2017
+
+### Психология влияния
+Роберт Чалдини
+> [2017-02-05] 7/10
+> ISBN: 978-5-496-01033-7
+
 
 ### Сказать жизни «Да!»: психолог в концлагере
 Виктор Франкл
