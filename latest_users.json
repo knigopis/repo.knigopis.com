@@ -1,4 +1,10 @@
 {
+    "37918255-vkontakte": {
+        "id": "37918255-vkontakte",
+        "nickname": "OldAccount",
+        "booksCount": 35,
+        "updatedAt": "2018-01-01 12:47:12"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -46,12 +52,6 @@
         "nickname": "submerged fish",
         "booksCount": 13,
         "updatedAt": "2017-12-30 19:26:41"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "sergeybolobaev",
-        "booksCount": 36,
-        "updatedAt": "2017-12-30 14:23:44"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
