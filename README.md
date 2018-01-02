@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
 [nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>608</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
-[Mangertus](users/156/15649404-vkontakte)<sup>0</sup> 
 [112](users/533/533070810389927-facebook)<sup>1</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>58</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 
 
-_02.01.2018 14:25:19_
+_02.01.2018 14:50:18_
