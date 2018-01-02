@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>608</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>35</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/116/116036946437273732646-googleplus)<sup>2</sup> 
 [akiryanova93](users/349/349904371-vkontakte)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
-[Ната](users/111/11195379251184170947-mailru)<sup>0</sup> 
 
 
-_02.01.2018 11:58:31_
+_02.01.2018 14:25:19_
