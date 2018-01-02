@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>23</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>24</sup>
 ---
 
 ## 2017
+
+### Мы — это наш мозг. От матки до Альцгеймера
+Дик Свааба
+> [2017-09-09] 9/10
+> ISBN 978-5-89059-202-6
+
 
 ### Меняем привычки. 81 способ перестать действовать на автопилоте и достичь своих целей
 М. Дж. Райан
