@@ -1,4 +1,16 @@
 {
+    "BlntBaWLm1": {
+        "id": "BlntBaWLm1",
+        "title": "Секс, деньги, счастье и смерть: В поисках себя",
+        "author": "Манфред Кетс де Врис",
+        "notes": "10/10\nISBN: 978-5-9614-2124-8",
+        "createdAt": "2018-01-02 20:46:53",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 28
+        }
+    },
     "FbKbd_RpRK": {
         "id": "FbKbd_RpRK",
         "title": "Мозг и любовь. Секреты практической нейробиологии",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 6
-        }
-    },
-    "EW71ULCzX0": {
-        "id": "EW71ULCzX0",
-        "title": "Сказать жизни «Да!»: психолог в концлагере",
-        "author": "Виктор Франкл",
-        "notes": "8/10\nISBN: 978-5-9614-2317-4",
-        "createdAt": "2018-01-01 13:25:21",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 5
         }
     }
 }

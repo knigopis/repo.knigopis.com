@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>27</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>28</sup>
 ---
 
 ## 2017
+
+### Секс, деньги, счастье и смерть: В поисках себя
+Манфред Кетс де Врис
+> [2017-10-08] 10/10
+> ISBN: 978-5-9614-2124-8
+
 
 ### Мозг и любовь. Секреты практической нейробиологии
 Дэниел Амен
