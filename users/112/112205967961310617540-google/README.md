@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>21</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>22</sup>
 ---
 
 ## 2017
+
+### Никогда не ешьте в одиночку» и другие правила нетворкинга
+Кейт Феррацци, Тал Рэз
+> [2017-08-20] 10/10
+> ISBN: 978-5-00117-172-0
+
 
 ### So Good They Can't Ignore You
 Cal Newport

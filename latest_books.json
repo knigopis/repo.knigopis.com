@@ -1,4 +1,16 @@
 {
+    "c2rkZXTwwn": {
+        "id": "c2rkZXTwwn",
+        "title": "Никогда не ешьте в одиночку» и другие правила нетворкинга",
+        "author": "Кейт Феррацци, Тал Рэз",
+        "notes": "10/10\nISBN: 978-5-00117-172-0",
+        "createdAt": "2018-01-02 20:32:25",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 22
+        }
+    },
     "5N3kFbHjOX": {
         "id": "5N3kFbHjOX",
         "title": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 101
-        }
-    },
-    "ZQvEs-cG_f": {
-        "id": "ZQvEs-cG_f",
-        "title": "The Swiss Spy",
-        "author": "Alex Gerlis",
-        "notes": "ASIN: B00Y3NNBG0",
-        "createdAt": "2017-12-31 15:15:37",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 51
         }
     }
 }
