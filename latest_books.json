@@ -1,4 +1,16 @@
 {
+    "cgGsXi3VMI": {
+        "id": "cgGsXi3VMI",
+        "title": "Преодолеваем пищевые соблазны",
+        "author": "Нил Барнард",
+        "notes": "7/10",
+        "createdAt": "2018-01-02 20:59:46",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 32
+        }
+    },
     "Q18lkZjj_X": {
         "id": "Q18lkZjj_X",
         "title": "Искусство любить",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 10
-        }
-    },
-    "MvHUo6ooRM": {
-        "id": "MvHUo6ooRM",
-        "title": "Rework: бизнес без предрассудков",
-        "author": "Джейсон Фрайд, Дэвид Хенссон",
-        "notes": "9/10\nISBN: 978-5-91657-119-6",
-        "createdAt": "2018-01-01 13:32:41",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 9
         }
     }
 }

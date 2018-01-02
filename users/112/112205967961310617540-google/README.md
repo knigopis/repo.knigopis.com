@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>31</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>32</sup>
 ---
 
 ## 2017
+
+### Преодолеваем пищевые соблазны
+Нил Барнард
+> [2017-11-09] 7/10
+
 
 ### Искусство любить
 Эрих Фромм
