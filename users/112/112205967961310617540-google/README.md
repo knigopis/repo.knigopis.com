@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>28</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>29</sup>
 ---
 
 ## 2017
+
+### Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+Brian Tracy
+> [2017-10-10] 10/10
+> ISBN-13: 978-1583762028
+
 
 ### Секс, деньги, счастье и смерть: В поисках себя
 Манфред Кетс де Врис
