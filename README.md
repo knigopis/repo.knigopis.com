@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Дарья](users/271/271743161-vkontakte)<sup>8</sup> 
+[Дарья](users/271/271743161-vkontakte)<sup>7</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [akiryanova93](users/349/349904371-vkontakte)<sup>1</sup> 
 
 
-_02.01.2018 23:03:47_
+_02.01.2018 23:03:57_
