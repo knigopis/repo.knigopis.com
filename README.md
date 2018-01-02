@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>16</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
 [nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>0</sup> 
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>15</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>33</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>101</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 
 
-_02.01.2018 14:50:18_
+_02.01.2018 20:22:36_

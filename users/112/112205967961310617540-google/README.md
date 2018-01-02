@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>15</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>16</sup>
 ---
 
 ## 2017
+
+### Как завоевывать друзей и оказывать влияние на людей
+Дейл Карнеги
+> [2017-04-19] 7/10
+> ISBN: 978-985-15-2564-1
+
 
 ### LSD My Problem Child: Reflections on Sacred Drugs, Mysticism and Science
 Albert Hofmann
