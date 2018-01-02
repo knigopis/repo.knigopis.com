@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
@@ -30,7 +31,6 @@
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
-* Фантастические Создания ~ [Garka](users/115/115753719718250012620-google)<sup>162</sup>
 
 
-_01.01.2018 20:00:22_
+_02.01.2018 11:58:31_

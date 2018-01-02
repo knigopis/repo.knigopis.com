@@ -1,4 +1,16 @@
 {
+    "ydL-Tewu6n": {
+        "id": "ydL-Tewu6n",
+        "title": "Дети лампы. Книга вторая.",
+        "author": "Ф. Б. Керр",
+        "notes": "Из-за сессии не могла долго дочитать. Забросила на месяц, а потом пол книги за пару дней фьють",
+        "createdAt": "2018-01-02 11:58:31",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 35
+        }
+    },
     "uiUskaVNfK": {
         "id": "uiUskaVNfK",
         "title": "Жизнь как стартап. Строй карьеру по законам Кремниевой долины",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 13
-        }
-    },
-    "sEuPbvET_2": {
-        "id": "sEuPbvET_2",
-        "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
-        "author": "Дмитрий Портнягин",
-        "notes": "5",
-        "createdAt": "2017-12-30 14:23:44",
-        "user": {
-            "id": "37918255-vkontakte",
-            "nickname": "sergeybolobaev",
-            "booksCount": 36
         }
     }
 }
