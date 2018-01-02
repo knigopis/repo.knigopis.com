@@ -1,4 +1,16 @@
 {
+    "xocoCbAa6R": {
+        "id": "xocoCbAa6R",
+        "title": "Меняем привычки",
+        "author": "М. Дж. Райан",
+        "notes": "7/10\nISBN: 978-5-00100-553-7",
+        "createdAt": "2018-01-02 20:34:08",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 23
+        }
+    },
     "c2rkZXTwwn": {
         "id": "c2rkZXTwwn",
         "title": "Никогда не ешьте в одиночку» и другие правила нетворкинга",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 1
-        }
-    },
-    "9oaJBQzqiM": {
-        "id": "9oaJBQzqiM",
-        "title": "Лесные люди Удэхейцы - Владимир Арсеньев",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-01-01 08:29:36",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 101
         }
     }
 }

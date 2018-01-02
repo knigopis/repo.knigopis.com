@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>22</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>23</sup>
 ---
 
 ## 2017
+
+### Меняем привычки
+М. Дж. Райан
+> [2017-08-31] 7/10
+> ISBN: 978-5-00100-553-7
+
 
 ### «Никогда не ешьте в одиночку» и другие правила нетворкинга
 Кейт Феррацци, Тал Рэз
