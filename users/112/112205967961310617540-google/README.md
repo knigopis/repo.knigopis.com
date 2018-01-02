@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>30</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>31</sup>
 ---
 
 ## 2017
+
+### Искусство любить
+Эрих Фромм
+> [2017-10-27] 10/10
+> ISBN: 978-5-17-057714-9
+
 
 ### Цельная жизнь для студентов. Как инвестировать образование в ваш успех
 Лес Хьюитт, Люк д'Абади, Эндрю Хьюитт

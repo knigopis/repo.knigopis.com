@@ -1,4 +1,16 @@
 {
+    "Q18lkZjj_X": {
+        "id": "Q18lkZjj_X",
+        "title": "Искусство любить",
+        "author": "Эрих Фромм",
+        "notes": "10/10\nISBN: 978-5-17-057714-9",
+        "createdAt": "2018-01-02 20:55:12",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 31
+        }
+    },
     "mTtwQSLZXs": {
         "id": "mTtwQSLZXs",
         "title": "Цельная жизнь для студентов. Как инвестировать образование в ваш успех",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 9
-        }
-    },
-    "gmsiRgPgDB": {
-        "id": "gmsiRgPgDB",
-        "title": "Как перестать беспокоиться и начать жить",
-        "author": "Дейл Карнеги",
-        "notes": "9/10\nISBN: 978-985-15-3026-3",
-        "createdAt": "2018-01-01 13:31:35",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 8
         }
     }
 }
