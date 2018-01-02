@@ -1,4 +1,16 @@
 {
+    "8To-EDT_P-": {
+        "id": "8To-EDT_P-",
+        "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
+        "author": "Дмитрий Портнягин",
+        "notes": "9/10\nISBN: 978-5-04-089785-8",
+        "createdAt": "2018-01-02 21:07:56",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 34
+        }
+    },
     "Lqe5-yzQme": {
         "id": "Lqe5-yzQme",
         "title": "Визуализация идей: набросок, эскиз, раскадровка",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 12
-        }
-    },
-    "LvIdX3HJ_P": {
-        "id": "LvIdX3HJ_P",
-        "title": "Стив Джобс",
-        "author": "Уолтер Айзексон",
-        "notes": "10/10\nISBN: 978-5-271-39378-5",
-        "createdAt": "2018-01-01 13:34:55",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 11
         }
     }
 }

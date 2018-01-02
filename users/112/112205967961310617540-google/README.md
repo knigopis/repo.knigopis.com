@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>33</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>34</sup>
 ---
 
 ## 2017
+
+### Трансформатор. Как создать свой бизнес и начать зарабатывать.
+Дмитрий Портнягин
+> [2017-12-30] 9/10
+> ISBN: 978-5-04-089785-8
+
 
 ### Визуализация идей: набросок, эскиз, раскадровка
 Крисциан Грегор, Шлемп-Улкер Несрин
