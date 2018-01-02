@@ -1,4 +1,16 @@
 {
+    "SgV4ucxxDG": {
+        "id": "SgV4ucxxDG",
+        "title": "Илон Маск: Tesla, SpaceX и дорога в будущее",
+        "author": "Эшли Вэнс",
+        "notes": "10/10\nISBN: 978-5-9693-0307-2",
+        "createdAt": "2018-01-02 20:23:37",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 17
+        }
+    },
     "FD0vihxzDE": {
         "id": "FD0vihxzDE",
         "title": "Как завоевывать друзей и оказывать влияние на людей",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 40
-        }
-    },
-    "-euOr7pCC0": {
-        "id": "-euOr7pCC0",
-        "title": "Империя должна умереть. Часть 1",
-        "author": "Михаил Зыгарь",
-        "notes": "",
-        "createdAt": "2017-12-30 21:06:22",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 285
         }
     }
 }
