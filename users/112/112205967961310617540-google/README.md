@@ -39,7 +39,7 @@ Gary Keller
 > ISBN: 978-985-15-2564-1
 
 
-### LSD My Problem Child: Reflections on Sacred Drugs, Mysticism and Science
+### LSD My Problem Child
 Albert Hofmann
 > [2017-04-14] 10/10
 > ISBN-13: 978-0979862229
