@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>26</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>27</sup>
 ---
 
 ## 2017
+
+### Мозг и любовь. Секреты практической нейробиологии
+Дэниел Амен
+> [2017-10-04] ISBN: 978-5-699-53150-9
+
 
 ### Происхождение видов
 Чарльз Роберт Дарвин
