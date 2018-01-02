@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Дарья](users/271/271743161-vkontakte)<sup>11</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gobseck91](users/374/374820130-vkontakte)<sup>0</sup> 
 [Dmitry](users/116/116036946437273732646-googleplus)<sup>2</sup> 
 [akiryanova93](users/349/349904371-vkontakte)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 
 
-_02.01.2018 21:07:56_
+_02.01.2018 23:03:14_
