@@ -1,4 +1,16 @@
 {
+    "Lqe5-yzQme": {
+        "id": "Lqe5-yzQme",
+        "title": "Визуализация идей: набросок, эскиз, раскадровка",
+        "author": "Крисциан Грегор, Шлемп-Улкер Несрин",
+        "notes": "8/10\nISBN 3-87439-662-2",
+        "createdAt": "2018-01-02 21:06:33",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 33
+        }
+    },
     "cgGsXi3VMI": {
         "id": "cgGsXi3VMI",
         "title": "Преодолеваем пищевые соблазны",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 11
-        }
-    },
-    "XcvdYT4p1-": {
-        "id": "XcvdYT4p1-",
-        "title": "Кради как художник. 10 уроков творческого самовыражения",
-        "author": "Остин Клеон",
-        "notes": "10/10\nISBN: 978-5-00100-551-3",
-        "createdAt": "2018-01-01 13:33:39",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 10
         }
     }
 }
