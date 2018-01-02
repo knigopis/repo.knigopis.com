@@ -1,4 +1,16 @@
 {
+    "OX1p7-K2Mi": {
+        "id": "OX1p7-K2Mi",
+        "title": "7 навыков высокоэффективных людей: Мощные инструменты развития личности",
+        "author": "Стивен Кови",
+        "notes": "7/10\nISBN: 978-5-9614-2021-0",
+        "createdAt": "2018-01-02 20:24:46",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 18
+        }
+    },
     "SgV4ucxxDG": {
         "id": "SgV4ucxxDG",
         "title": "Илон Маск: Tesla, SpaceX и дорога в будущее",
@@ -345,18 +357,6 @@
             "id": "109787328219839805802-google",
             "nickname": "Rainbow",
             "booksCount": 41
-        }
-    },
-    "IeJlgL3UAx": {
-        "id": "IeJlgL3UAx",
-        "title": "Лекарство от меланхолии",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-12-30 23:18:05",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 40
         }
     }
 }

@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>17</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>18</sup>
 ---
 
 ## 2017
+
+### 7 навыков высокоэффективных людей: Мощные инструменты развития личности
+Стивен Кови
+> [2017-05-03] 7/10
+> ISBN: 978-5-9614-2021-0
+
 
 ### Илон Маск: Tesla, SpaceX и дорога в будущее
 Эшли Вэнс
