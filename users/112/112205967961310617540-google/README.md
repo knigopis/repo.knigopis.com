@@ -1,16 +1,13 @@
 # List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>21</sup>
 ---
 
-## 2018
+## 2017
 
-### So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+### So Good They Can't Ignore You
 Cal Newport
-> [2018-08-03] 10/10
+> [2017-08-03] 10/10
 > ISBN-13: 978-1455509126
 
-
-
-## 2017
 
 ### The ONE Thing
 Gary Keller
