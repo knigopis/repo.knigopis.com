@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>29</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>30</sup>
 ---
 
 ## 2017
+
+### Цельная жизнь для студентов. Как инвестировать образование в ваш успех
+Лес Хьюитт, Люк д'Абади, Эндрю Хьюитт
+> [2017-10-19] 10/10
+> ISBN: 978-5-91657-242-1
+
 
 ### Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
 Brian Tracy

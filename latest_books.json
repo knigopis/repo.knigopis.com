@@ -1,4 +1,16 @@
 {
+    "mTtwQSLZXs": {
+        "id": "mTtwQSLZXs",
+        "title": "Цельная жизнь для студентов. Как инвестировать образование в ваш успех",
+        "author": "Лес Хьюитт, Люк д'Абади, Эндрю Хьюитт",
+        "notes": "10/10\nISBN: 978-5-91657-242-1",
+        "createdAt": "2018-01-02 20:52:45",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 30
+        }
+    },
     "Puesp21Gog": {
         "id": "Puesp21Gog",
         "title": "Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 8
-        }
-    },
-    "b4BdQABMob": {
-        "id": "b4BdQABMob",
-        "title": "15 секретов управления временем: Как успешные люди успевают всё",
-        "author": "Кевин Круз",
-        "notes": "10/10\nISBN: 978-5-9614-4384-4",
-        "createdAt": "2018-01-01 13:30:30",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 7
         }
     }
 }
