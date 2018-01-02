@@ -1,4 +1,16 @@
 {
+    "Hx4nLd1itH": {
+        "id": "Hx4nLd1itH",
+        "title": "Двери восприятия. Рай и ад",
+        "author": "Олдос Хаксли",
+        "notes": "10/10\nISBN: 978-5-17-095601-2",
+        "createdAt": "2018-01-02 20:26:04",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 19
+        }
+    },
     "OX1p7-K2Mi": {
         "id": "OX1p7-K2Mi",
         "title": "7 навыков высокоэффективных людей: Мощные инструменты развития личности",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 114
-        }
-    },
-    "p5VQ1acFvN": {
-        "id": "p5VQ1acFvN",
-        "title": "Лето в один день",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2017-12-30 23:18:39",
-        "user": {
-            "id": "109787328219839805802-google",
-            "nickname": "Rainbow",
-            "booksCount": 41
         }
     }
 }
