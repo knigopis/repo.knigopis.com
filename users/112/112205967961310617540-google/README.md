@@ -1,7 +1,13 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>19</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>20</sup>
 ---
 
 ## 2017
+
+### The ONE Thing
+Gary Keller
+> [2017-06-15] 10/10
+> ISBN-13: 978-1885167774
+
 
 ### Двери восприятия. Рай и ад
 Олдос Хаксли

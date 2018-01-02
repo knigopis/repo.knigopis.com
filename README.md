@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>19</sup> 
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>20</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
 [nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>39</sup> 
 
 
-_02.01.2018 20:26:04_
+_02.01.2018 20:28:06_
