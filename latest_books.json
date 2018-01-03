@@ -1,4 +1,16 @@
 {
+    "KlBIJR2UI-": {
+        "id": "KlBIJR2UI-",
+        "title": "Мейзи Хитчинс. Призрак кошки",
+        "author": "Холли Вебб",
+        "notes": "Менее интересна для меня, чем оставшиеся, но всё равно достаточно хорошая!",
+        "createdAt": "2018-01-03 13:07:11",
+        "user": {
+            "id": "383474965-vkontakte",
+            "nickname": "neckyneckt",
+            "booksCount": 2
+        }
+    },
     "hcgXIUbyHP": {
         "id": "hcgXIUbyHP",
         "title": "Мейзи Хитчинс. Секрет пролитых чернил",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 15
-        }
-    },
-    "u00UT3kb2L": {
-        "id": "u00UT3kb2L",
-        "title": "Generation «П»",
-        "author": "Виктор Пелевин",
-        "notes": "9/10\nISBN: 978-5-4467-0270-1",
-        "createdAt": "2018-01-01 13:58:18",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 14
         }
     }
 }
