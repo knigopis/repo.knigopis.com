@@ -1,4 +1,10 @@
 {
+    "383474965-vkontakte": {
+        "id": "383474965-vkontakte",
+        "nickname": "neckyneckt",
+        "booksCount": 0,
+        "updatedAt": "2018-01-03 13:04:39"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Dmitry",
         "booksCount": 2,
         "updatedAt": "2017-12-22 23:34:40"
-    },
-    "349904371-vkontakte": {
-        "id": "349904371-vkontakte",
-        "nickname": "akiryanova93",
-        "booksCount": 1,
-        "updatedAt": "2017-12-22 20:40:54"
     }
 }
