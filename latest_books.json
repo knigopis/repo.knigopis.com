@@ -1,4 +1,16 @@
 {
+    "BxkmDpDPro": {
+        "id": "BxkmDpDPro",
+        "title": "Перевал Дятлова, или Тайна Девяти",
+        "author": "Анна Матвеева",
+        "notes": "",
+        "createdAt": "2018-01-03 06:26:38",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 115
+        }
+    },
     "8To-EDT_P-": {
         "id": "8To-EDT_P-",
         "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 13
-        }
-    },
-    "UK8auPBdEE": {
-        "id": "UK8auPBdEE",
-        "title": "1984",
-        "author": "Джордж Оруэлл",
-        "notes": "8/10\nISBN: 978-5-17-080115-2",
-        "createdAt": "2018-01-01 13:36:16",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 12
         }
     }
 }
