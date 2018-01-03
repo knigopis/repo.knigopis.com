@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[neckyneckt](users/383/383474965-vkontakte)<sup>0</sup> 
+[neckyneckt](users/383/383474965-vkontakte)<sup>1</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>115</sup> 
 [Дарья](users/271/271743161-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dmitry](users/116/116036946437273732646-googleplus)<sup>2</sup> 
 
 
-_03.01.2018 13:04:42_
+_03.01.2018 13:06:02_
