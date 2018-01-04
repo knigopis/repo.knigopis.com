@@ -1,4 +1,10 @@
 {
+    "564002671-yandex": {
+        "id": "564002671-yandex",
+        "nickname": "UnicornFake",
+        "booksCount": 0,
+        "updatedAt": "2018-01-04 23:13:21"
+    },
     "98069379-vkontakte": {
         "id": "98069379-vkontakte",
         "nickname": "altentaller",
@@ -172,11 +178,5 @@
         "nickname": "geyski",
         "booksCount": 142,
         "updatedAt": "2017-12-27 22:10:17"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 164,
-        "updatedAt": "2017-12-27 20:03:34"
     }
 }
