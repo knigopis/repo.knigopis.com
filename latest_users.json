@@ -1,4 +1,10 @@
 {
+    "4502457-vkontakte": {
+        "id": "4502457-vkontakte",
+        "nickname": "cavtea",
+        "booksCount": 0,
+        "updatedAt": "2018-01-04 11:29:00"
+    },
     "385296589-twitter": {
         "id": "385296589-twitter",
         "nickname": "artiomcav",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 36,
         "updatedAt": "2017-12-26 07:34:27"
-    },
-    "262192691-vkontakte": {
-        "id": "262192691-vkontakte",
-        "nickname": "мона лиза",
-        "booksCount": 0,
-        "updatedAt": "2017-12-25 04:02:49"
     }
 }
