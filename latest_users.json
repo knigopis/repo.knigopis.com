@@ -1,4 +1,10 @@
 {
+    "319410539-vkontakte": {
+        "id": "319410539-vkontakte",
+        "nickname": "gazazazinur",
+        "booksCount": 0,
+        "updatedAt": "2018-01-04 15:16:25"
+    },
     "4502457-vkontakte": {
         "id": "4502457-vkontakte",
         "nickname": "cavtea",
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 131,
         "updatedAt": "2017-12-27 09:42:43"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 36,
-        "updatedAt": "2017-12-26 07:34:27"
     }
 }
