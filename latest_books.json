@@ -1,4 +1,16 @@
 {
+    "snkxgOQ5oH": {
+        "id": "snkxgOQ5oH",
+        "title": "Темный рыцарь Алкмаара",
+        "author": "Алексей Чернов",
+        "notes": "",
+        "createdAt": "2018-01-04 15:42:18",
+        "user": {
+            "id": "319410539-vkontakte",
+            "nickname": "gazazazinur",
+            "booksCount": 1
+        }
+    },
     "KlBIJR2UI-": {
         "id": "KlBIJR2UI-",
         "title": "Мейзи Хитчинс. Призрак кошки",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 31
-        }
-    },
-    "mZI3fAB4kR": {
-        "id": "mZI3fAB4kR",
-        "title": "LSD My Problem Child: Reflections on Sacred Drugs, Mysticism and Science",
-        "author": "Albert Hofmann",
-        "notes": "10/10\nISBN-13: 978-0979862229",
-        "createdAt": "2018-01-01 14:07:07",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 15
         }
     }
 }
