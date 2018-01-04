@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[gazazazinur](users/319/319410539-vkontakte)<sup>0</sup> 
 [cavtea](users/450/4502457-vkontakte)<sup>0</sup> 
 [artiomcav](users/385/385296589-twitter)<sup>0</sup> 
 [sany.antonov](users/156/156804951-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>164</sup> 
 [Nanami](users/116/116145051192469700314-google)<sup>3</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>36</sup> 
 
 
-_04.01.2018 11:29:02_
+_04.01.2018 15:16:26_
