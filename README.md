@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shikahoho](users/202/202162941-vkontakte)<sup>0</sup> 
 [gazazazinur](users/319/319410539-vkontakte)<sup>1</sup> 
 [cavtea](users/450/4502457-vkontakte)<sup>0</sup> 
 [artiomcav](users/385/385296589-twitter)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>142</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>164</sup> 
 [Nanami](users/116/116145051192469700314-google)<sup>3</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>131</sup> 
 
 
-_04.01.2018 15:42:18_
+_04.01.2018 16:50:12_
