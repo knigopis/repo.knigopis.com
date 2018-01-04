@@ -1,4 +1,10 @@
 {
+    "98069379-vkontakte": {
+        "id": "98069379-vkontakte",
+        "nickname": "altentaller",
+        "booksCount": 0,
+        "updatedAt": "2018-01-04 19:27:10"
+    },
     "202162941-vkontakte": {
         "id": "202162941-vkontakte",
         "nickname": "shikahoho",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 164,
         "updatedAt": "2017-12-27 20:03:34"
-    },
-    "116145051192469700314-google": {
-        "id": "116145051192469700314-google",
-        "nickname": "Nanami",
-        "booksCount": 3,
-        "updatedAt": "2017-12-27 16:15:50"
     }
 }
