@@ -1,4 +1,10 @@
 {
+    "385296589-twitter": {
+        "id": "385296589-twitter",
+        "nickname": "artiomcav",
+        "booksCount": 0,
+        "updatedAt": "2018-01-04 11:28:22"
+    },
     "156804951-vkontakte": {
         "id": "156804951-vkontakte",
         "nickname": "sany.antonov",
@@ -172,11 +178,5 @@
         "nickname": "мона лиза",
         "booksCount": 0,
         "updatedAt": "2017-12-25 04:02:49"
-    },
-    "374820130-vkontakte": {
-        "id": "374820130-vkontakte",
-        "nickname": "gobseck91",
-        "booksCount": 0,
-        "updatedAt": "2017-12-24 10:13:32"
     }
 }
