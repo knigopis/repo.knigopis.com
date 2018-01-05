@@ -1,7 +1,7 @@
 # Wish list of books by [sergeybolobaev](www.facebook.com/sergeybolobaev)
 ---
 
-### `100` Mind for Numbers
+### `100` A Mind for Numbers
 Barbara Oakley
 > ISBN-13: 978-0399165245
 
