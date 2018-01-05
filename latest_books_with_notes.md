@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сутта-Нипата ~ [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup>
 * Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * Созерцатель ~ [Chiffi](users/105/105831994080785626680-google)<sup>38</sup>
 * Артемис Фаул: Парадокс времени ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
 * Артемис Фаул: Последний хранитель ~ [EsterHani](users/305/30558181-vkontakte)<sup>132</sup>
-* Артемис Фаул: Зов Атлантиды ~ [EsterHani](users/305/30558181-vkontakte)<sup>131</sup>
 
 
-_02.01.2018 11:58:31_
+_05.01.2018 03:27:00_

@@ -1,4 +1,16 @@
 {
+    "WJKhjRtqoQ": {
+        "id": "WJKhjRtqoQ",
+        "title": "Сутта-Нипата",
+        "author": "Типитака",
+        "notes": "Кто разрушил пять преград, свободный от страдания, победивший сомнения, недоступный печали, тот монах покидает оба берега, как змея свою отжившую кожу.",
+        "createdAt": "2018-01-05 03:27:00",
+        "user": {
+            "id": "380554090-vkontakte",
+            "nickname": "idsimonbell",
+            "booksCount": 40
+        }
+    },
     "ydL-Tewu6n": {
         "id": "ydL-Tewu6n",
         "title": "Дети лампы. Книга вторая.",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 132
-        }
-    },
-    "24xB6NmXjN": {
-        "id": "24xB6NmXjN",
-        "title": "Артемис Фаул: Зов Атлантиды",
-        "author": "Йон Колфер",
-        "notes": "Книга 7",
-        "createdAt": "2017-12-11 04:56:05",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 131
         }
     }
 }
