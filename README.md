@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[madalexa](users/176/176370773-vkontakte)<sup>0</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>1</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup> 
 [UnicornFake](users/564/564002671-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup> 
-[112](users/533/533070810389927-facebook)<sup>1</sup> 
 
 
-_05.01.2018 09:06:54_
+_05.01.2018 13:13:50_
