@@ -1,4 +1,16 @@
 {
+    "pYvC4Dmlvu": {
+        "id": "pYvC4Dmlvu",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-01-05 14:29:48",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 3
+        }
+    },
     "AHdhwfsbMy": {
         "id": "AHdhwfsbMy",
         "title": "Карьера Ругонов",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 35
-        }
-    },
-    "uiUskaVNfK": {
-        "id": "uiUskaVNfK",
-        "title": "Жизнь как стартап. Строй карьеру по законам Кремниевой долины",
-        "author": "Бен Касноча, Рид Хоффман",
-        "notes": "",
-        "createdAt": "2018-01-01 21:15:27",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 608
         }
     }
 }
