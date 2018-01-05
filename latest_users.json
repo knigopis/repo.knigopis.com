@@ -1,4 +1,10 @@
 {
+    "176370773-vkontakte": {
+        "id": "176370773-vkontakte",
+        "nickname": "madalexa",
+        "booksCount": 0,
+        "updatedAt": "2018-01-05 13:13:48"
+    },
     "100004430323900-facebook": {
         "id": "100004430323900-facebook",
         "nickname": "evgenia",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 134,
         "updatedAt": "2017-12-30 11:54:49"
-    },
-    "533070810389927-facebook": {
-        "id": "533070810389927-facebook",
-        "nickname": "112",
-        "booksCount": 1,
-        "updatedAt": "2017-12-28 10:57:20"
     }
 }
