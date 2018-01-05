@@ -1,4 +1,10 @@
 {
+    "100004430323900-facebook": {
+        "id": "100004430323900-facebook",
+        "nickname": "evgenia",
+        "booksCount": 2,
+        "updatedAt": "2018-01-05 14:29:45"
+    },
     "117562645015612287623-google": {
         "id": "117562645015612287623-google",
         "nickname": "fcknReiner",
@@ -10,12 +16,6 @@
         "nickname": "madalexa",
         "booksCount": 0,
         "updatedAt": "2018-01-05 13:13:48"
-    },
-    "100004430323900-facebook": {
-        "id": "100004430323900-facebook",
-        "nickname": "evgenia",
-        "booksCount": 1,
-        "updatedAt": "2018-01-05 09:06:54"
     },
     "380554090-vkontakte": {
         "id": "380554090-vkontakte",
