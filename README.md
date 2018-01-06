@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
 [International master](users/741/74140988-vkontakte)<sup>94</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 
 
-_06.01.2018 07:10:38_
+_06.01.2018 09:29:27_
