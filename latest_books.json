@@ -1,4 +1,16 @@
 {
+    "dBXDznKg-k": {
+        "id": "dBXDznKg-k",
+        "title": "Портрет Дориана Грея - Уайльд Оскар",
+        "author": "Роман",
+        "notes": "",
+        "createdAt": "2018-01-06 07:10:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 103
+        }
+    },
     "kbio9eUYFW": {
         "id": "kbio9eUYFW",
         "title": "Рассказы - Маршал Алан",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 19
-        }
-    },
-    "OX1p7-K2Mi": {
-        "id": "OX1p7-K2Mi",
-        "title": "7 навыков высокоэффективных людей: Мощные инструменты развития личности",
-        "author": "Стивен Кови",
-        "notes": "7/10\nISBN: 978-5-9614-2021-0",
-        "createdAt": "2018-01-02 20:24:46",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 18
         }
     }
 }
