@@ -1,4 +1,16 @@
 {
+    "kbio9eUYFW": {
+        "id": "kbio9eUYFW",
+        "title": "Рассказы - Маршал Алан",
+        "author": "",
+        "notes": "Глупый щенок ♫\nПереходя улицу ♫\nРасскажи про индюка, Джо ♫",
+        "createdAt": "2018-01-06 07:09:46",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 102
+        }
+    },
     "4TjBNUNo86": {
         "id": "4TjBNUNo86",
         "title": "Джони Айв: Легендарный дизайнер Apple",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 18
-        }
-    },
-    "SgV4ucxxDG": {
-        "id": "SgV4ucxxDG",
-        "title": "Илон Маск: Tesla, SpaceX и дорога в будущее",
-        "author": "Эшли Вэнс",
-        "notes": "10/10\nISBN: 978-5-9693-0307-2",
-        "createdAt": "2018-01-02 20:23:37",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 17
         }
     }
 }
