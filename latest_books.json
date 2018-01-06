@@ -1,4 +1,16 @@
 {
+    "pgI4_OFJtX": {
+        "id": "pgI4_OFJtX",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-01-06 11:48:09",
+        "user": {
+            "id": "2060252005-instagram",
+            "nickname": "ksenisky",
+            "booksCount": 1
+        }
+    },
     "Xq8OzbWC0y": {
         "id": "Xq8OzbWC0y",
         "title": "Воскресенье",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 21
-        }
-    },
-    "8-Ug0ANSnA": {
-        "id": "8-Ug0ANSnA",
-        "title": "The ONE Thing",
-        "author": "Gary Keller",
-        "notes": "10/10\nISBN-13: 978-1885167774",
-        "createdAt": "2018-01-02 20:28:06",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 20
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "2060252005-instagram": {
+        "id": "2060252005-instagram",
+        "nickname": "ksenisky",
+        "booksCount": 1,
+        "updatedAt": "2018-01-06 11:48:09"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -154,12 +160,6 @@
         "nickname": "gryphonn",
         "booksCount": 0,
         "updatedAt": "2018-01-01 18:59:29"
-    },
-    "2060252005-instagram": {
-        "id": "2060252005-instagram",
-        "nickname": "ksenisky",
-        "booksCount": 0,
-        "updatedAt": "2018-01-01 15:54:48"
     },
     "197412456-vkontakte": {
         "id": "197412456-vkontakte",

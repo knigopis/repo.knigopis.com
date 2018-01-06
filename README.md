@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ksenisky](users/206/2060252005-instagram)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
 [International master](users/741/74140988-vkontakte)<sup>94</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>608</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>35</sup> 
 [gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
-[ksenisky](users/206/2060252005-instagram)<sup>0</sup> 
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 
 
-_06.01.2018 09:29:27_
+_06.01.2018 11:48:09_
