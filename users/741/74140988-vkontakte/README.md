@@ -1,5 +1,13 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>93</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>94</sup>
 ---
+
+## 2018
+
+### Джони Айв: Легендарный дизайнер Apple
+Линдер Кани
+> [2018-01-05] 
+
+
 
 ## 2017
 

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>94</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>4</sup> 
 [fcknReiner](users/117/117562645015612287623-google)<sup>1</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>101</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
-[International master](users/741/74140988-vkontakte)<sup>93</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>13</sup> 
 
 
-_05.01.2018 22:00:42_
+_06.01.2018 00:10:21_
