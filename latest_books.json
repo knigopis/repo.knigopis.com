@@ -1,4 +1,16 @@
 {
+    "_va6yFyPL_": {
+        "id": "_va6yFyPL_",
+        "title": "Агнес Грей",
+        "author": "Энн Бронте",
+        "notes": "",
+        "createdAt": "2018-01-07 17:38:30",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 10
+        }
+    },
     "FslgrIsRe2": {
         "id": "FslgrIsRe2",
         "title": "Атлант расправил плечи Часть 3",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 34
-        }
-    },
-    "Lqe5-yzQme": {
-        "id": "Lqe5-yzQme",
-        "title": "Визуализация идей: набросок, эскиз, раскадровка",
-        "author": "Крисциан Грегор, Шлемп-Улкер Несрин",
-        "notes": "8/10\nISBN 3-87439-662-2",
-        "createdAt": "2018-01-02 21:06:33",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 33
         }
     }
 }
