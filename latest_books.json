@@ -1,4 +1,16 @@
 {
+    "mwJLaeA9RG": {
+        "id": "mwJLaeA9RG",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-01-07 06:41:15",
+        "user": {
+            "id": "191788437-vkontakte",
+            "nickname": "mbericheva",
+            "booksCount": 3
+        }
+    },
     "XpBCpYtJkU": {
         "id": "XpBCpYtJkU",
         "title": "Тайна моего мужа",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 24
-        }
-    },
-    "xocoCbAa6R": {
-        "id": "xocoCbAa6R",
-        "title": "Меняем привычки",
-        "author": "М. Дж. Райан",
-        "notes": "7/10\nISBN: 978-5-00100-553-7",
-        "createdAt": "2018-01-02 20:34:08",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 23
         }
     }
 }
