@@ -1,4 +1,10 @@
 {
+    "112205967961310617540-google": {
+        "id": "112205967961310617540-google",
+        "nickname": "sergeybolobaev",
+        "booksCount": 35,
+        "updatedAt": "2018-01-07 15:45:58"
+    },
     "471364154-yandex": {
         "id": "471364154-yandex",
         "nickname": "submerged fish",
@@ -148,12 +154,6 @@
         "nickname": "Дарья",
         "booksCount": 0,
         "updatedAt": "2018-01-02 23:09:00"
-    },
-    "112205967961310617540-google": {
-        "id": "112205967961310617540-google",
-        "nickname": "sergeybolobaev",
-        "booksCount": 34,
-        "updatedAt": "2018-01-02 21:07:56"
     },
     "37918255-vkontakte": {
         "id": "37918255-vkontakte",

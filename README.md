@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>14</sup> 
 [Lora](users/105/105383463978163046246-google)<sup>1</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>16</sup> 
@@ -60,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [neckyneckt](users/383/383474965-vkontakte)<sup>2</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>115</sup> 
 [Дарья](users/271/271743161-vkontakte)<sup>0</sup> 
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
 [nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
 
 
-_07.01.2018 13:45:44_
+_07.01.2018 15:45:58_

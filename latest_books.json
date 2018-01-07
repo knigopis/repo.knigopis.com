@@ -1,4 +1,16 @@
 {
+    "RGF8ipQEXt": {
+        "id": "RGF8ipQEXt",
+        "title": "Сила подсознания",
+        "author": "Joe Dispenza",
+        "notes": "10/10\nISBN: 978-5-699-65045-3",
+        "createdAt": "2018-01-07 15:45:58",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 35
+        }
+    },
     "f_tjQyn0R0": {
         "id": "f_tjQyn0R0",
         "title": "Чужое лицо",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 28
-        }
-    },
-    "FbKbd_RpRK": {
-        "id": "FbKbd_RpRK",
-        "title": "Мозг и любовь. Секреты практической нейробиологии",
-        "author": "Дэниел Амен",
-        "notes": "ISBN: 978-5-699-53150-9",
-        "createdAt": "2018-01-02 20:45:42",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 27
         }
     }
 }
