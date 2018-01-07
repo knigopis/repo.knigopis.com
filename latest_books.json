@@ -1,4 +1,16 @@
 {
+    "Z60HTmH3MG": {
+        "id": "Z60HTmH3MG",
+        "title": "Чёрный квадрат",
+        "author": "Каземир Малевич",
+        "notes": "",
+        "createdAt": "2018-01-07 17:40:14",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 12
+        }
+    },
     "g8H8lMWPes": {
         "id": "g8H8lMWPes",
         "title": "Москва и москвичи",
@@ -345,18 +357,6 @@
             "id": "383474965-vkontakte",
             "nickname": "neckyneckt",
             "booksCount": 1
-        }
-    },
-    "BxkmDpDPro": {
-        "id": "BxkmDpDPro",
-        "title": "Перевал Дятлова, или Тайна Девяти",
-        "author": "Анна Матвеева",
-        "notes": "",
-        "createdAt": "2018-01-03 06:26:38",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 115
         }
     }
 }

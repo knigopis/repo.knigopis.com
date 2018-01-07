@@ -1,4 +1,4 @@
-# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>11</sup>
+# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>12</sup>
 ---
 
 ## 2018
@@ -54,6 +54,11 @@
 ### Москва и москвичи
 В.А. Гиляровский
 > [2017-08-14] 
+
+
+### Чёрный квадрат
+Каземир Малевич
+> [2017-08-04] 
 
 
 
