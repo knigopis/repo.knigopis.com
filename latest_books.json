@@ -1,4 +1,16 @@
 {
+    "S1MK1UTtZR": {
+        "id": "S1MK1UTtZR",
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "notes": "",
+        "createdAt": "2018-01-07 09:45:01",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 16
+        }
+    },
     "mwJLaeA9RG": {
         "id": "mwJLaeA9RG",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 25
-        }
-    },
-    "lsOHEcWexh": {
-        "id": "lsOHEcWexh",
-        "title": "Мы — это наш мозг. От матки до Альцгеймера",
-        "author": "Дик Свааба",
-        "notes": "9/10\nISBN 978-5-89059-202-6",
-        "createdAt": "2018-01-02 20:36:52",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 24
         }
     }
 }

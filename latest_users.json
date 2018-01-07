@@ -1,4 +1,10 @@
 {
+    "249815548-vkontakte": {
+        "id": "249815548-vkontakte",
+        "nickname": "striped_one",
+        "booksCount": 16,
+        "updatedAt": "2018-01-07 09:45:01"
+    },
     "191788437-vkontakte": {
         "id": "191788437-vkontakte",
         "nickname": "mbericheva",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 35,
         "updatedAt": "2018-01-01 20:00:22"
-    },
-    "1582848-vkontakte": {
-        "id": "1582848-vkontakte",
-        "nickname": "gryphonn",
-        "booksCount": 0,
-        "updatedAt": "2018-01-01 18:59:29"
     }
 }

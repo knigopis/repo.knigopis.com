@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[striped_one](users/249/249815548-vkontakte)<sup>16</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
 [pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
 [limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>608</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>35</sup> 
-[gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
 
 
-_07.01.2018 06:41:15_
+_07.01.2018 09:45:01_

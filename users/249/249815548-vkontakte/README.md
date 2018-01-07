@@ -1,5 +1,13 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>15</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>16</sup>
 ---
+
+## 2018
+
+### 1984
+Джордж Оруэлл
+> [2018-01] 
+
+
 
 ## 2017
 
