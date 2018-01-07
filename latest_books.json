@@ -1,4 +1,16 @@
 {
+    "wNYgdD-dJD": {
+        "id": "wNYgdD-dJD",
+        "title": "Сфинкс",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-01-07 20:31:46",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 30
+        }
+    },
     "Di2tWTuPAm": {
         "id": "Di2tWTuPAm",
         "title": "Баллада Рэдингской тюрьмы",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 16
-        }
-    },
-    "mwJLaeA9RG": {
-        "id": "mwJLaeA9RG",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2018-01-07 06:41:15",
-        "user": {
-            "id": "191788437-vkontakte",
-            "nickname": "mbericheva",
-            "booksCount": 3
         }
     }
 }
