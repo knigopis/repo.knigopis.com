@@ -1,5 +1,12 @@
-# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>13</sup>
+# List of books read by [submerged fish](http://openid.yandex.ru/submerged.in/)<sup>14</sup>
 ---
+
+## 2018
+
+### Чужое лицо
+Кобо Абэ
+
+
 
 ## 2017
 
