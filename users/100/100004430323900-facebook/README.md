@@ -1,4 +1,4 @@
-# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>12</sup>
+# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>13</sup>
 ---
 
 ## 2018
@@ -59,6 +59,11 @@
 ### Чёрный квадрат
 Каземир Малевич
 > [2017-08-04] 
+
+
+### Таинственная страсть. Роман о шестидесятниках
+Василий Аксёнов
+> [2017-07-28] 
 
 
 

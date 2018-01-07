@@ -1,4 +1,16 @@
 {
+    "3PosOV5qlq": {
+        "id": "3PosOV5qlq",
+        "title": "Таинственная страсть. Роман о шестидесятниках",
+        "author": "Василий Аксёнов",
+        "notes": "",
+        "createdAt": "2018-01-07 17:41:34",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 13
+        }
+    },
     "Z60HTmH3MG": {
         "id": "Z60HTmH3MG",
         "title": "Чёрный квадрат",
@@ -345,18 +357,6 @@
             "id": "383474965-vkontakte",
             "nickname": "neckyneckt",
             "booksCount": 2
-        }
-    },
-    "hcgXIUbyHP": {
-        "id": "hcgXIUbyHP",
-        "title": "Мейзи Хитчинс. Секрет пролитых чернил",
-        "author": "Холли Вебб",
-        "notes": "Одна из самых интересных книг серии для меня!",
-        "createdAt": "2018-01-03 13:06:02",
-        "user": {
-            "id": "383474965-vkontakte",
-            "nickname": "neckyneckt",
-            "booksCount": 1
         }
     }
 }
