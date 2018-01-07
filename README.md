@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gryphonn](users/158/1582848-vkontakte)<sup>0</sup> 
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>51</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>285</sup> 
 
 
-_06.01.2018 11:48:09_
+_07.01.2018 05:08:48_
