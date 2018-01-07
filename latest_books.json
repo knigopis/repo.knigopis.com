@@ -1,4 +1,16 @@
 {
+    "BJJ2xTV3ID": {
+        "id": "BJJ2xTV3ID",
+        "title": "",
+        "author": "Карен Уайт",
+        "notes": "Между прошлым и будущим",
+        "createdAt": "2018-01-07 05:31:46",
+        "user": {
+            "id": "228787647-vkontakte",
+            "nickname": "pozndyakovaalina",
+            "booksCount": 1
+        }
+    },
     "pgI4_OFJtX": {
         "id": "pgI4_OFJtX",
         "title": "Мартин Иден",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 22
-        }
-    },
-    "5N3kFbHjOX": {
-        "id": "5N3kFbHjOX",
-        "title": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
-        "author": "Cal Newport",
-        "notes": "10/10\nISBN-13: 978-1455509126",
-        "createdAt": "2018-01-02 20:29:45",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 21
         }
     }
 }
