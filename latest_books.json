@@ -1,4 +1,16 @@
 {
+    "nfd9fvN2df": {
+        "id": "nfd9fvN2df",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-01-07 11:12:54",
+        "user": {
+            "id": "105383463978163046246-google",
+            "nickname": "Lora",
+            "booksCount": 1
+        }
+    },
     "S1MK1UTtZR": {
         "id": "S1MK1UTtZR",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 26
-        }
-    },
-    "JjObCeCQQt": {
-        "id": "JjObCeCQQt",
-        "title": "Гибкое сознание: новый взгляд на психологию развития взрослых и детей",
-        "author": "Кэрол Дуэк",
-        "notes": "8/10\nISBN: 978-5-00057-927-5",
-        "createdAt": "2018-01-02 20:37:49",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 25
         }
     }
 }

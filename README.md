@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lora](users/105/105383463978163046246-google)<sup>0</sup> 
+[Lora](users/105/105383463978163046246-google)<sup>1</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>16</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
 [pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>608</sup> 
 
 
-_07.01.2018 11:10:36_
+_07.01.2018 11:12:54_
