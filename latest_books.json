@@ -1,4 +1,16 @@
 {
+    "r-8PH1R0iK": {
+        "id": "r-8PH1R0iK",
+        "title": "Шевалье де Мезон-Руж",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-01-07 17:54:07",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 18
+        }
+    },
     "ZU2XLLEz4B": {
         "id": "ZU2XLLEz4B",
         "title": "Волонтер девяносто второго года",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 2
-        }
-    },
-    "gRf2UkvJp8": {
-        "id": "gRf2UkvJp8",
-        "title": "Мятежные ангелы",
-        "author": "Дэвис Робертсон",
-        "notes": "",
-        "createdAt": "2018-01-05 14:19:05",
-        "user": {
-            "id": "117562645015612287623-google",
-            "nickname": "fcknReiner",
-            "booksCount": 1
         }
     }
 }
