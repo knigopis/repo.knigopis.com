@@ -1,4 +1,16 @@
 {
+    "B93NFypKYy": {
+        "id": "B93NFypKYy",
+        "title": "Лезвие бритвы",
+        "author": "Иван Ефремов",
+        "notes": "",
+        "createdAt": "2018-01-07 17:43:15",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 14
+        }
+    },
     "3PosOV5qlq": {
         "id": "3PosOV5qlq",
         "title": "Таинственная страсть. Роман о шестидесятниках",
@@ -345,18 +357,6 @@
             "id": "319410539-vkontakte",
             "nickname": "gazazazinur",
             "booksCount": 1
-        }
-    },
-    "KlBIJR2UI-": {
-        "id": "KlBIJR2UI-",
-        "title": "Мейзи Хитчинс. Призрак кошки",
-        "author": "Холли Вебб",
-        "notes": "Менее интересна для меня, чем оставшиеся, но всё равно достаточно хорошая!",
-        "createdAt": "2018-01-03 13:07:11",
-        "user": {
-            "id": "383474965-vkontakte",
-            "nickname": "neckyneckt",
-            "booksCount": 2
         }
     }
 }

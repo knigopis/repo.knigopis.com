@@ -1,4 +1,4 @@
-# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>13</sup>
+# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>14</sup>
 ---
 
 ## 2018
@@ -64,6 +64,11 @@
 ### Таинственная страсть. Роман о шестидесятниках
 Василий Аксёнов
 > [2017-07-28] 
+
+
+### Лезвие бритвы
+Иван Ефремов
+> [2017-07-19] 
 
 
 
