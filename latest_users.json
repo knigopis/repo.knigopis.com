@@ -1,4 +1,10 @@
 {
+    "228787647-vkontakte": {
+        "id": "228787647-vkontakte",
+        "nickname": "pozndyakovaalina",
+        "booksCount": 0,
+        "updatedAt": "2018-01-07 05:30:18"
+    },
     "2745958281-twitter": {
         "id": "2745958281-twitter",
         "nickname": "limon_booka_",
@@ -172,11 +178,5 @@
         "nickname": "ksereva",
         "booksCount": 0,
         "updatedAt": "2018-01-01 15:53:27"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 51,
-        "updatedAt": "2017-12-31 15:15:37"
     }
 }
