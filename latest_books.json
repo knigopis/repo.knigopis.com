@@ -1,4 +1,16 @@
 {
+    "c4FvGrZ7Z_": {
+        "id": "c4FvGrZ7Z_",
+        "title": "Читаем по лицам, жестам и одежде. Что они скрывают?",
+        "author": "Михаил Штерешсис",
+        "notes": "",
+        "createdAt": "2018-01-07 20:40:59",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 39
+        }
+    },
     "BFkHmfnmme": {
         "id": "BFkHmfnmme",
         "title": "Моя жизнь",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 10
-        }
-    },
-    "FslgrIsRe2": {
-        "id": "FslgrIsRe2",
-        "title": "Атлант расправил плечи Часть 3",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2018-01-07 17:37:29",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 9
         }
     }
 }
