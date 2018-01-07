@@ -1,4 +1,16 @@
 {
+    "1T--ESsTH7": {
+        "id": "1T--ESsTH7",
+        "title": "Джузеппе Бальзамо Части 1-3",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-01-07 20:26:10",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 24
+        }
+    },
     "RLDUTGykPS": {
         "id": "RLDUTGykPS",
         "title": "Ожерелье королевы",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 103
-        }
-    },
-    "kbio9eUYFW": {
-        "id": "kbio9eUYFW",
-        "title": "Рассказы - Маршал Алан",
-        "author": "",
-        "notes": "Глупый щенок ♫\nПереходя улицу ♫\nРасскажи про индюка, Джо ♫",
-        "createdAt": "2018-01-06 07:09:46",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 102
         }
     }
 }
