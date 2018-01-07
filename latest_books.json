@@ -1,4 +1,16 @@
 {
+    "MaUb3G-b9k": {
+        "id": "MaUb3G-b9k",
+        "title": "Приклчения Оливера Твиста",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-01-07 20:36:51",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 35
+        }
+    },
     "8wioFIRKRX": {
         "id": "8wioFIRKRX",
         "title": "Миллион в поте лица",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 6
-        }
-    },
-    "FBqitdXrAc": {
-        "id": "FBqitdXrAc",
-        "title": "Введение в историческое изучение искусства",
-        "author": "Б.Р. Виппер",
-        "notes": "",
-        "createdAt": "2018-01-07 17:33:27",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 5
         }
     }
 }
