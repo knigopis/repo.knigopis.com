@@ -1,4 +1,10 @@
 {
+    "100004430323900-facebook": {
+        "id": "100004430323900-facebook",
+        "nickname": "evgenia",
+        "booksCount": 5,
+        "updatedAt": "2018-01-07 17:33:27"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -70,12 +76,6 @@
         "nickname": "Rainbow",
         "booksCount": 42,
         "updatedAt": "2018-01-05 22:00:42"
-    },
-    "100004430323900-facebook": {
-        "id": "100004430323900-facebook",
-        "nickname": "evgenia",
-        "booksCount": 4,
-        "updatedAt": "2018-01-05 14:31:34"
     },
     "117562645015612287623-google": {
         "id": "117562645015612287623-google",

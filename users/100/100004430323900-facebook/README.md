@@ -1,4 +1,4 @@
-# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>4</sup>
+# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>5</sup>
 ---
 
 ## 2018
@@ -19,6 +19,11 @@
 ### Карьера Ругонов
 Эмиль Золя
 > [2017-11-02] 
+
+
+### Введение в историческое изучение искусства
+Б.Р. Виппер
+> [2017-10-22] 
 
 
 

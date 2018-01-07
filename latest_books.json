@@ -1,4 +1,16 @@
 {
+    "FBqitdXrAc": {
+        "id": "FBqitdXrAc",
+        "title": "Введение в историческое изучение искусства",
+        "author": "Б.Р. Виппер",
+        "notes": "",
+        "createdAt": "2018-01-07 17:33:27",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 5
+        }
+    },
     "RGF8ipQEXt": {
         "id": "RGF8ipQEXt",
         "title": "Сила подсознания",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 29
-        }
-    },
-    "BlntBaWLm1": {
-        "id": "BlntBaWLm1",
-        "title": "Секс, деньги, счастье и смерть: В поисках себя",
-        "author": "Манфред Кетс де Врис",
-        "notes": "10/10\nISBN: 978-5-9614-2124-8",
-        "createdAt": "2018-01-02 20:46:53",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 28
         }
     }
 }
