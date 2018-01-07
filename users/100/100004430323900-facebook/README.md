@@ -1,4 +1,4 @@
-# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>7</sup>
+# List of books read by [evgenia](https://www.facebook.com/app_scoped_user_id/100004430323900/)<sup>8</sup>
 ---
 
 ## 2018
@@ -29,6 +29,11 @@
 ### Светлое прошлое
 Олег Митяев
 > [2017-10-02] 
+
+
+### Атлант расправил плечи Часть 2
+Айн Рэнд
+> [2017-09-15] 
 
 
 ### Атлант расправил плечи Часть 1
