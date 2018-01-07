@@ -1,4 +1,16 @@
 {
+    "enren1SmgU": {
+        "id": "enren1SmgU",
+        "title": "Как важно быть серьёзным",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-01-07 20:29:47",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 28
+        }
+    },
     "nDEAlbWs16": {
         "id": "nDEAlbWs16",
         "title": "Соломея",
@@ -345,18 +357,6 @@
             "id": "228787647-vkontakte",
             "nickname": "pozndyakovaalina",
             "booksCount": 2
-        }
-    },
-    "BJJ2xTV3ID": {
-        "id": "BJJ2xTV3ID",
-        "title": "",
-        "author": "Карен Уайт",
-        "notes": "Между прошлым и будущим",
-        "createdAt": "2018-01-07 05:31:46",
-        "user": {
-            "id": "228787647-vkontakte",
-            "nickname": "pozndyakovaalina",
-            "booksCount": 1
         }
     }
 }
