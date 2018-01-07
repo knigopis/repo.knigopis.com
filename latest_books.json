@@ -1,4 +1,16 @@
 {
+    "XpBCpYtJkU": {
+        "id": "XpBCpYtJkU",
+        "title": "Тайна моего мужа",
+        "author": "Лиана Мориарти",
+        "notes": "",
+        "createdAt": "2018-01-07 05:34:38",
+        "user": {
+            "id": "228787647-vkontakte",
+            "nickname": "pozndyakovaalina",
+            "booksCount": 2
+        }
+    },
     "BJJ2xTV3ID": {
         "id": "BJJ2xTV3ID",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 23
-        }
-    },
-    "c2rkZXTwwn": {
-        "id": "c2rkZXTwwn",
-        "title": "Никогда не ешьте в одиночку» и другие правила нетворкинга",
-        "author": "Кейт Феррацци, Тал Рэз",
-        "notes": "10/10\nISBN: 978-5-00117-172-0",
-        "createdAt": "2018-01-02 20:32:25",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 22
         }
     }
 }

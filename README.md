@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[pozndyakovaalina](users/228/228787647-vkontakte)<sup>1</sup> 
+[pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
 [limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ksereva](users/197/197412456-vkontakte)<sup>0</sup> 
 
 
-_07.01.2018 05:31:47_
+_07.01.2018 05:34:38_
