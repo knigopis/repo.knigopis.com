@@ -3,7 +3,7 @@
 
 ## 2018
 
-### Сила подсознания / Breaking the Habit of Being Yourself
+### Breaking the Habit of Being Yourself / Сила подсознания
 Joe Dispenza
 > [2018-01-07] 10/10
 > ISBN: 978-5-699-65045-3
