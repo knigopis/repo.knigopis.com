@@ -1,4 +1,16 @@
 {
+    "4tToJTS423": {
+        "id": "4tToJTS423",
+        "title": "Атлант расправил плечи Часть 1",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2018-01-07 17:35:59",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 7
+        }
+    },
     "yTN4m159bv": {
         "id": "yTN4m159bv",
         "title": "Светлое прошлое",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 31
-        }
-    },
-    "mTtwQSLZXs": {
-        "id": "mTtwQSLZXs",
-        "title": "Цельная жизнь для студентов. Как инвестировать образование в ваш успех",
-        "author": "Лес Хьюитт, Люк д'Абади, Эндрю Хьюитт",
-        "notes": "10/10\nISBN: 978-5-91657-242-1",
-        "createdAt": "2018-01-02 20:52:45",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 30
         }
     }
 }
