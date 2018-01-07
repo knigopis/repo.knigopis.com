@@ -1,4 +1,16 @@
 {
+    "8wioFIRKRX": {
+        "id": "8wioFIRKRX",
+        "title": "Миллион в поте лица",
+        "author": "Вадим Шефнер",
+        "notes": "",
+        "createdAt": "2018-01-07 20:35:58",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 34
+        }
+    },
     "hhMKDH0dyI": {
         "id": "hhMKDH0dyI",
         "title": "Счастливый неудачник",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 5
-        }
-    },
-    "RGF8ipQEXt": {
-        "id": "RGF8ipQEXt",
-        "title": "Сила подсознания",
-        "author": "Joe Dispenza",
-        "notes": "10/10\nISBN: 978-5-699-65045-3",
-        "createdAt": "2018-01-07 15:45:58",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 35
         }
     }
 }
