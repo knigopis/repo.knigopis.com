@@ -1,4 +1,16 @@
 {
+    "g8H8lMWPes": {
+        "id": "g8H8lMWPes",
+        "title": "Москва и москвичи",
+        "author": "В.А. Гиляровский",
+        "notes": "",
+        "createdAt": "2018-01-07 17:39:25",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 11
+        }
+    },
     "_va6yFyPL_": {
         "id": "_va6yFyPL_",
         "title": "Агнес Грей",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 115
-        }
-    },
-    "8To-EDT_P-": {
-        "id": "8To-EDT_P-",
-        "title": "Трансформатор. Как создать свой бизнес и начать зарабатывать.",
-        "author": "Дмитрий Портнягин",
-        "notes": "9/10\nISBN: 978-5-04-089785-8",
-        "createdAt": "2018-01-02 21:07:56",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 34
         }
     }
 }
