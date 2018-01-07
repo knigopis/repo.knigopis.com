@@ -1,4 +1,16 @@
 {
+    "Tfb8hi6ePA": {
+        "id": "Tfb8hi6ePA",
+        "title": "Интроверты. Как использовать особенности своего характера",
+        "author": "Сьюзан Кейн",
+        "notes": "",
+        "createdAt": "2018-01-07 17:46:41",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 16
+        }
+    },
     "Vzi2rkc1J9": {
         "id": "Vzi2rkc1J9",
         "title": "Король Матиуш Первый",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 1
-        }
-    },
-    "WJKhjRtqoQ": {
-        "id": "WJKhjRtqoQ",
-        "title": "Сутта-Нипата",
-        "author": "Типитака",
-        "notes": "Кто разрушил пять преград, свободный от страдания, победивший сомнения, недоступный печали, тот монах покидает оба берега, как змея свою отжившую кожу.",
-        "createdAt": "2018-01-05 03:27:00",
-        "user": {
-            "id": "380554090-vkontakte",
-            "nickname": "idsimonbell",
-            "booksCount": 40
         }
     }
 }
