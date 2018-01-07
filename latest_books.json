@@ -1,4 +1,16 @@
 {
+    "gnzIfArrH2": {
+        "id": "gnzIfArrH2",
+        "title": "Обри Бердслей",
+        "author": "Мэтью Стерджис",
+        "notes": "",
+        "createdAt": "2018-01-07 20:33:41",
+        "user": {
+            "id": "100004430323900-facebook",
+            "nickname": "evgenia",
+            "booksCount": 32
+        }
+    },
     "d7hiH3qPyv": {
         "id": "d7hiH3qPyv",
         "title": "Стихотворения в прозе",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 14
-        }
-    },
-    "nfd9fvN2df": {
-        "id": "nfd9fvN2df",
-        "title": "Цветы для Элджернона",
-        "author": "Дэниел Киз",
-        "notes": "",
-        "createdAt": "2018-01-07 11:12:54",
-        "user": {
-            "id": "105383463978163046246-google",
-            "nickname": "Lora",
-            "booksCount": 1
         }
     }
 }
