@@ -1,4 +1,16 @@
 {
+    "aVyhsbtJK8": {
+        "id": "aVyhsbtJK8",
+        "title": "Страж (тетралогия)",
+        "author": "Пехов Алексей",
+        "notes": "Отличная фентези!! Очень приятно читать. Пугало  почти удивило))",
+        "createdAt": "2018-01-08 09:21:12",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 40
+        }
+    },
     "kbio9eUYFW": {
         "id": "kbio9eUYFW",
         "title": "Рассказы - Маршал Алан",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 114
-        }
-    },
-    "hGxUKEM1QG": {
-        "id": "hGxUKEM1QG",
-        "title": "Созерцатель",
-        "author": "Пехов Алексей",
-        "notes": "фантастика. добротно написанная",
-        "createdAt": "2017-12-13 21:26:50",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 38
         }
     }
 }

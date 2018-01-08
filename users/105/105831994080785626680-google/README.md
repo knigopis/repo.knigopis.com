@@ -1,5 +1,13 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>39</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>40</sup>
 ---
+
+## 2018
+
+### Страж (тетралогия)
+Пехов Алексей
+> [2018-01] Отличная фентези!! Очень приятно читать. Пугало  почти удивило))
+
+
 
 ## 2017
 
