@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Дарья](users/271/271743161-vkontakte)<sup>0</sup> 
 [OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>1</sup> 
-[nafanich](users/179/1797483-vkontakte)<sup>0</sup> 
 
 
-_08.01.2018 09:21:12_
+_08.01.2018 21:25:23_
