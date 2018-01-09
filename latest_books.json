@@ -1,4 +1,16 @@
 {
+    "R0MivT0uQy": {
+        "id": "R0MivT0uQy",
+        "title": "",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2018-01-09 09:04:53",
+        "user": {
+            "id": "9864321-vkontakte",
+            "nickname": "Паафа",
+            "booksCount": 1
+        }
+    },
     "YfSCk1rY4R": {
         "id": "YfSCk1rY4R",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 21
-        }
-    },
-    "UsBSLCJ42r": {
-        "id": "UsBSLCJ42r",
-        "title": "Графиня де Шарни Часть 1-3",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-01-07 17:57:08",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 20
         }
     }
 }
