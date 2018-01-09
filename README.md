@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maximal1980](users/197/1979457-vkontakte)<sup>0</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [gazazazinur](users/319/319410539-vkontakte)<sup>1</sup> 
 [cavtea](users/450/4502457-vkontakte)<sup>0</sup> 
 [artiomcav](users/385/385296589-twitter)<sup>0</sup> 
-[sany.antonov](users/156/156804951-vkontakte)<sup>0</sup> 
 
 
-_09.01.2018 17:52:36_
+_09.01.2018 21:27:53_
