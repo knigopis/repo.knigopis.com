@@ -1,4 +1,16 @@
 {
+    "4rfM_xY2Jk": {
+        "id": "4rfM_xY2Jk",
+        "title": "Серия Наследница драконов",
+        "author": "Надежда Кузьмина",
+        "notes": "",
+        "createdAt": "2018-01-09 01:24:30",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 34
+        }
+    },
     "QJaIoKtK4H": {
         "id": "QJaIoKtK4H",
         "title": "Внимание! Муж-волшебник, или Куда приводят мечты",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 14
-        }
-    },
-    "3PosOV5qlq": {
-        "id": "3PosOV5qlq",
-        "title": "Таинственная страсть. Роман о шестидесятниках",
-        "author": "Василий Аксёнов",
-        "notes": "",
-        "createdAt": "2018-01-07 17:41:34",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 13
         }
     }
 }
