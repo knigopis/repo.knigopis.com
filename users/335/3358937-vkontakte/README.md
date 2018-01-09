@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>36</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>37</sup>
 ---
 
 ## 2018
+
+### Магиня для эмиссара
+Надежда Кузьмина
+> [2018-01-04] 
+
 
 ### Попала!
 Надежда Кузьмина

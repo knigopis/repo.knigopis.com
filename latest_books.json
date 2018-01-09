@@ -1,4 +1,16 @@
 {
+    "oU68iRt2l-": {
+        "id": "oU68iRt2l-",
+        "title": "Магиня для эмиссара",
+        "author": "Надежда Кузьмина",
+        "notes": "",
+        "createdAt": "2018-01-09 01:27:50",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 37
+        }
+    },
     "fCM8karBZY": {
         "id": "fCM8karBZY",
         "title": "Попала!",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 17
-        }
-    },
-    "Tfb8hi6ePA": {
-        "id": "Tfb8hi6ePA",
-        "title": "Интроверты. Как использовать особенности своего характера",
-        "author": "Сьюзан Кейн",
-        "notes": "",
-        "createdAt": "2018-01-07 17:46:41",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 16
         }
     }
 }
