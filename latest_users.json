@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 27,
+        "updatedAt": "2018-01-09 03:58:35"
+    },
     "3358937-vkontakte": {
         "id": "3358937-vkontakte",
         "nickname": "amesyatseva",
@@ -172,11 +178,5 @@
         "nickname": "Дарья",
         "booksCount": 0,
         "updatedAt": "2018-01-02 23:09:00"
-    },
-    "37918255-vkontakte": {
-        "id": "37918255-vkontakte",
-        "nickname": "OldAccount",
-        "booksCount": 32,
-        "updatedAt": "2018-01-02 20:33:07"
     }
 }

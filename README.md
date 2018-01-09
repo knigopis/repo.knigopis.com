@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
+    > Книга на уровне Фрая, немного уступает первому циклу, но все таки довольно интересная. Макс знакомится с темным магистром и узнает много нового о себе и мире)
+
 * Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
     > Будет продолжение
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > продолжение серии наследницы драконов, жду 5ю книгу
 
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
-    > Отличная фентези!! Очень приятно читать. Пугало  почти удивило))
 
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 
-* Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>27</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [neckyneckt](users/383/383474965-vkontakte)<sup>2</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>115</sup> 
 [Дарья](users/271/271743161-vkontakte)<sup>0</sup> 
-[OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 
 
-_09.01.2018 01:28:27_
+_09.01.2018 03:58:35_
