@@ -1,4 +1,16 @@
 {
+    "YfSCk1rY4R": {
+        "id": "YfSCk1rY4R",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-01-09 06:53:54",
+        "user": {
+            "id": "403308167-vkontakte",
+            "nickname": "Deithwen",
+            "booksCount": 1
+        }
+    },
     "U8RNQR0i0Q": {
         "id": "U8RNQR0i0Q",
         "title": "Отдай мое сердце",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 20
-        }
-    },
-    "peRbTnZk9X": {
-        "id": "peRbTnZk9X",
-        "title": "Лемпицка",
-        "author": "Жиль Нере",
-        "notes": "",
-        "createdAt": "2018-01-07 17:54:53",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 19
         }
     }
 }

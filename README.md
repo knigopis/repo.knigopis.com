@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Deithwen](users/403/403308167-vkontakte)<sup>0</sup> 
+[Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>27</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>115</sup> 
 
 
-_09.01.2018 06:52:59_
+_09.01.2018 06:53:54_
