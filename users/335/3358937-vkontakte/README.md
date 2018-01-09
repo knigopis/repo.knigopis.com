@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>31</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>32</sup>
 ---
 
 ## 2017
+
+### Осторожно! Муж – волшебник, или Любовь без правил
+Франциска Вудворт
+> [2017-12-07] 
+
 
 ### Запад и Восток
 Надежда Кузьмина

@@ -1,4 +1,16 @@
 {
+    "ODqb6xrTjd": {
+        "id": "ODqb6xrTjd",
+        "title": "Осторожно! Муж – волшебник, или Любовь без правил",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2018-01-09 01:21:41",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 32
+        }
+    },
     "aVyhsbtJK8": {
         "id": "aVyhsbtJK8",
         "title": "Страж (тетралогия)",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 12
-        }
-    },
-    "g8H8lMWPes": {
-        "id": "g8H8lMWPes",
-        "title": "Москва и москвичи",
-        "author": "В.А. Гиляровский",
-        "notes": "",
-        "createdAt": "2018-01-07 17:39:25",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 11
         }
     }
 }
