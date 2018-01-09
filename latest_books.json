@@ -1,4 +1,16 @@
 {
+    "av9sGa7XrD": {
+        "id": "av9sGa7XrD",
+        "title": "Эльфийская стража",
+        "author": "Перумов Ник",
+        "notes": "",
+        "createdAt": "2018-01-09 21:28:54",
+        "user": {
+            "id": "1979457-vkontakte",
+            "nickname": "Maximal1980",
+            "booksCount": 1
+        }
+    },
     "N5WTXSeJ_c": {
         "id": "N5WTXSeJ_c",
         "title": "Озарения",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 23
-        }
-    },
-    "vjVNrg-HNs": {
-        "id": "vjVNrg-HNs",
-        "title": "Анж Питу",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-01-07 17:58:48",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 22
         }
     }
 }
