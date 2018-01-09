@@ -1,4 +1,16 @@
 {
+    "QJaIoKtK4H": {
+        "id": "QJaIoKtK4H",
+        "title": "Внимание! Муж-волшебник, или Куда приводят мечты",
+        "author": "Франциска Вудворт",
+        "notes": "",
+        "createdAt": "2018-01-09 01:23:00",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 33
+        }
+    },
     "ODqb6xrTjd": {
         "id": "ODqb6xrTjd",
         "title": "Осторожно! Муж – волшебник, или Любовь без правил",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 13
-        }
-    },
-    "Z60HTmH3MG": {
-        "id": "Z60HTmH3MG",
-        "title": "Чёрный квадрат",
-        "author": "Каземир Малевич",
-        "notes": "",
-        "createdAt": "2018-01-07 17:40:14",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 12
         }
     }
 }
