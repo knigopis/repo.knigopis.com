@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
 * Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
@@ -30,7 +31,6 @@
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
 * Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 * потерянный и возвращенный мир ~ [Madlax](users/158/158304782-vkontakte)<sup>118</sup>
-* Бог ненавидит всех нас ~ [Madlax](users/158/158304782-vkontakte)<sup>114</sup>
 
 
-_08.01.2018 09:21:12_
+_09.01.2018 01:25:18_

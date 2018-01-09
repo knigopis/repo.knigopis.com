@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>34</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>35</sup>
 ---
 
 ## 2018
+
+### Серия Тимиредис
+Надежда Кузьмина
+> [2018-01-02] продолжение серии наследницы драконов, жду 5ю книгу
+
 
 ### Серия Наследница драконов
 Надежда Кузьмина
