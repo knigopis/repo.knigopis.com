@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>37</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>38</sup>
 ---
 
 ## 2018
+
+### Ведьма огненного ветра
+Надежда Кузьмина
+> [2018-01-05] Будет продолжение
+
 
 ### Магиня для эмиссара
 Надежда Кузьмина

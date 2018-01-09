@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
@@ -30,7 +31,6 @@
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
 * История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
 * Пробное добавление ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
-* потерянный и возвращенный мир ~ [Madlax](users/158/158304782-vkontakte)<sup>118</sup>
 
 
-_09.01.2018 01:25:18_
+_09.01.2018 01:28:27_

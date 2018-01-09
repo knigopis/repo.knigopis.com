@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
+    > Будет продолжение
+
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
     > продолжение серии наследницы драконов, жду 5ю книгу
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Отличная фентези!! Очень приятно читать. Пугало  почти удивило))
 
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
-    > Глупый щенок ♫
-    > Переходя улицу ♫
-    > Расскажи про индюка, Джо ♫
 
 * Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 
-* Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[amesyatseva](users/335/3358937-vkontakte)<sup>37</sup> 
+[amesyatseva](users/335/3358937-vkontakte)<sup>38</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [OldAccount](users/379/37918255-vkontakte)<sup>32</sup> 
 
 
-_09.01.2018 01:27:50_
+_09.01.2018 01:28:27_
