@@ -1,4 +1,16 @@
 {
+    "uvZ256PPq9": {
+        "id": "uvZ256PPq9",
+        "title": "Война и мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2018-01-10 21:16:49",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 10
+        }
+    },
     "3USR6eb7L7": {
         "id": "3USR6eb7L7",
         "title": "Атлант расправил плечи",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 38
-        }
-    },
-    "Z9ELpbPYum": {
-        "id": "Z9ELpbPYum",
-        "title": "Ярмарка тщеславия",
-        "author": "Уильям Теккерей",
-        "notes": "",
-        "createdAt": "2018-01-07 20:38:45",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 37
         }
     }
 }
