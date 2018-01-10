@@ -1,4 +1,10 @@
 {
+    "238356806-vkontakte": {
+        "id": "238356806-vkontakte",
+        "nickname": "иузуил",
+        "booksCount": 4,
+        "updatedAt": "2018-01-10 20:39:39"
+    },
     "106304994652616315178-google": {
         "id": "106304994652616315178-google",
         "nickname": "Euphoria",
@@ -172,11 +178,5 @@
         "nickname": "UnicornFake",
         "booksCount": 0,
         "updatedAt": "2018-01-04 23:13:21"
-    },
-    "98069379-vkontakte": {
-        "id": "98069379-vkontakte",
-        "nickname": "altentaller",
-        "booksCount": 0,
-        "updatedAt": "2018-01-04 19:27:10"
     }
 }

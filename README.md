@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>95</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [madalexa](users/176/176370773-vkontakte)<sup>0</sup> 
 [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup> 
 [UnicornFake](users/564/564002671-yandex)<sup>0</sup> 
-[altentaller](users/980/98069379-vkontakte)<sup>0</sup> 
 
 
-_10.01.2018 18:05:25_
+_10.01.2018 20:39:39_
