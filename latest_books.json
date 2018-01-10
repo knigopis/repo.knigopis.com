@@ -1,4 +1,16 @@
 {
+    "3USR6eb7L7": {
+        "id": "3USR6eb7L7",
+        "title": "Атлант расправил плечи",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2018-01-10 21:16:17",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 9
+        }
+    },
     "ZlKWGMbCld": {
         "id": "ZlKWGMbCld",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 37
-        }
-    },
-    "RTXWmPhlQm": {
-        "id": "RTXWmPhlQm",
-        "title": "Непонятное искусство. От Моне дп Бэнкси",
-        "author": "Уилл Гомперц",
-        "notes": "",
-        "createdAt": "2018-01-07 20:37:51",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 36
         }
     }
 }
