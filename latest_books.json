@@ -1,4 +1,16 @@
 {
+    "p8ReSpdC2W": {
+        "id": "p8ReSpdC2W",
+        "title": "Алхимик",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2018-01-10 21:09:37",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 1
+        }
+    },
     "pXv0MCreUP": {
         "id": "pXv0MCreUP",
         "title": "Тигр! Тигр!",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 29
-        }
-    },
-    "enren1SmgU": {
-        "id": "enren1SmgU",
-        "title": "Как важно быть серьёзным",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-01-07 20:29:47",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 28
         }
     }
 }
