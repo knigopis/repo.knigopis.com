@@ -1,7 +1,11 @@
-# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>6</sup>
+# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>7</sup>
 ---
 
 ## 2018
+
+### Анна Каренина
+Л. Толстой
+
 
 ### Над пропастью во ржи - Сэлинджер Джером
 

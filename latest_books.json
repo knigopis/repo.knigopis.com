@@ -1,4 +1,16 @@
 {
+    "RPd1QXA0O2": {
+        "id": "RPd1QXA0O2",
+        "title": "Анна Каренина",
+        "author": "Л. Толстой",
+        "notes": "",
+        "createdAt": "2018-01-10 21:15:12",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 7
+        }
+    },
     "nv4Hr5vns9": {
         "id": "nv4Hr5vns9",
         "title": "Старик и море",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 35
-        }
-    },
-    "8wioFIRKRX": {
-        "id": "8wioFIRKRX",
-        "title": "Миллион в поте лица",
-        "author": "Вадим Шефнер",
-        "notes": "",
-        "createdAt": "2018-01-07 20:35:58",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 34
         }
     }
 }
