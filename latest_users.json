@@ -1,4 +1,10 @@
 {
+    "111539592390354730982-google": {
+        "id": "111539592390354730982-google",
+        "nickname": "JanGus1337",
+        "booksCount": 0,
+        "updatedAt": "2018-01-10 21:16:10"
+    },
     "105112991095828409681-google": {
         "id": "105112991095828409681-google",
         "nickname": "Evgeny",
@@ -172,11 +178,5 @@
         "nickname": "madalexa",
         "booksCount": 0,
         "updatedAt": "2018-01-05 13:13:48"
-    },
-    "380554090-vkontakte": {
-        "id": "380554090-vkontakte",
-        "nickname": "idsimonbell",
-        "booksCount": 40,
-        "updatedAt": "2018-01-05 03:27:00"
     }
 }
