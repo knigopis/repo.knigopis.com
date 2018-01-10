@@ -1,4 +1,16 @@
 {
+    "s7UmmVy3RS": {
+        "id": "s7UmmVy3RS",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-01-10 21:14:44",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 5
+        }
+    },
     "x9mtBFXuM-": {
         "id": "x9mtBFXuM-",
         "title": "451 градус по Фаренгейту - Бредбери Рэй",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 33
-        }
-    },
-    "gnzIfArrH2": {
-        "id": "gnzIfArrH2",
-        "title": "Обри Бердслей",
-        "author": "Мэтью Стерджис",
-        "notes": "",
-        "createdAt": "2018-01-07 20:33:41",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 32
         }
     }
 }
