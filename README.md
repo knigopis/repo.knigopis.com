@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Andry-Bal](users/109/109232883876697421544-google)<sup>24</sup> 
+[Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [cavtea](users/450/4502457-vkontakte)<sup>0</sup> 
 
 
-_10.01.2018 01:09:53_
+_10.01.2018 01:11:14_
