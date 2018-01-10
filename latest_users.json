@@ -1,4 +1,10 @@
 {
+    "798608-vkontakte": {
+        "id": "798608-vkontakte",
+        "nickname": "nadyhkakah",
+        "booksCount": 0,
+        "updatedAt": "2018-01-10 15:30:35"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "shikahoho",
         "booksCount": 0,
         "updatedAt": "2018-01-04 16:50:10"
-    },
-    "319410539-vkontakte": {
-        "id": "319410539-vkontakte",
-        "nickname": "gazazazinur",
-        "booksCount": 1,
-        "updatedAt": "2018-01-04 15:42:18"
     }
 }
