@@ -1,5 +1,12 @@
-# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>1</sup>
+# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>2</sup>
 ---
+
+## 2018
+
+### Пиковая дама - Пушкин Александр
+"Тройка, семёрка, туз! Тройка, семёрка, дама!...", что тут ещё можно сказать.
+
+
 
 ## 2017
 
