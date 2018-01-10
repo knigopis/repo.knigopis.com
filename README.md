@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
+    > Книгу читала долго, хотя написана она легким языком. Но особого интереса не вызвала. Какихто особых мыслей по поводу книги нет. Единственное только что поразило, это то с какой легкостью главная героиня отдает себя, при наличии у нее мужа.
+
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
     > Книга на уровне Фрая, немного уступает первому циклу, но все таки довольно интересная. Макс знакомится с темным магистром и узнает много нового о себе и мире)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Будет продолжение
 
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
-    > продолжение серии наследницы драконов, жду 5ю книгу
 
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 
-* Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>95</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup> 
 [UnicornFake](users/564/564002671-yandex)<sup>0</sup> 
 [altentaller](users/980/98069379-vkontakte)<sup>0</sup> 
-[shikahoho](users/202/202162941-vkontakte)<sup>0</sup> 
 
 
-_10.01.2018 15:30:40_
+_10.01.2018 18:05:25_

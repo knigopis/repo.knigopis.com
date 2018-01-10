@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
 * Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Блаженные похабы. Культурная история юродства ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>133</sup>
 * Ловись, рыбка! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>132</sup>
 * Убийство Роджера Экройда ~ [Garka](users/115/115753719718250012620-google)<sup>163</sup>
-* История Оливера ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>48</sup>
 
 
-_09.01.2018 03:58:35_
+_10.01.2018 18:05:25_
