@@ -1,4 +1,4 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>25</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>24</sup>
 ---
 
 ## 2017
@@ -79,10 +79,6 @@ John Ronald Reuel Tolkien
 
 ### Дети капитана Гранта
 Жюль Верн
-
-
-### Гарри Поттер (1-6 части)
-Джоан Роулинг
 
 
 ### Три товарища
