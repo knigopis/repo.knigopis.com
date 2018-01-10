@@ -1,7 +1,11 @@
-# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>12</sup>
+# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>13</sup>
 ---
 
 ## 2018
+
+### Пикник на обочине
+А. Стругацкий
+
 
 ### 451 градус по Фаренгейту
 Р. Брэдбери
