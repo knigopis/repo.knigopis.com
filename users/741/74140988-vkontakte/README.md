@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>94</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>95</sup>
 ---
 
 ## 2018
+
+### FIASCO: Исповедь трейдера с Уолл-стрит
+Фрэнк Партной
+> [2018-01-10] 
+
 
 ### Джони Айв: Легендарный дизайнер Apple
 Линдер Кани

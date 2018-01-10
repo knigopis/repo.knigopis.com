@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 95,
+        "updatedAt": "2018-01-10 12:08:24"
+    },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
         "nickname": "AlexeyNovikov",
@@ -124,12 +130,6 @@
         "nickname": "abzagir4ik",
         "booksCount": 103,
         "updatedAt": "2018-01-06 07:10:38"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 94,
-        "updatedAt": "2018-01-06 00:10:21"
     },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",

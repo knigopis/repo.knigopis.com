@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>95</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
-[International master](users/741/74140988-vkontakte)<sup>94</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
 [fcknReiner](users/117/117562645015612287623-google)<sup>1</sup> 
 [madalexa](users/176/176370773-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [gazazazinur](users/319/319410539-vkontakte)<sup>1</sup> 
 
 
-_10.01.2018 08:39:09_
+_10.01.2018 12:08:24_
