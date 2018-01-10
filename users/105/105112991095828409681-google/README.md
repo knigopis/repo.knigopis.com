@@ -1,11 +1,7 @@
-# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>15</sup>
+# List of books read by [Evgeny](https://plus.google.com/105112991095828409681)<sup>14</sup>
 ---
 
 ## 2018
-
-### Триумфальная арка
-Эрих Мария Ремарк
-
 
 ### Граф Монте-Кристо
 Александр Дюма
