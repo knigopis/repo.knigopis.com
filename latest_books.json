@@ -1,4 +1,16 @@
 {
+    "ZlKWGMbCld": {
+        "id": "ZlKWGMbCld",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-01-10 21:15:33",
+        "user": {
+            "id": "105112991095828409681-google",
+            "nickname": "Evgeny",
+            "booksCount": 8
+        }
+    },
     "RPd1QXA0O2": {
         "id": "RPd1QXA0O2",
         "title": "Анна Каренина",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 36
-        }
-    },
-    "MaUb3G-b9k": {
-        "id": "MaUb3G-b9k",
-        "title": "Приклчения Оливера Твиста",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-01-07 20:36:51",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 35
         }
     }
 }
