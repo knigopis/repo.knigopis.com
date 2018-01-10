@@ -1,4 +1,16 @@
 {
+    "u32cw7ZwS5": {
+        "id": "u32cw7ZwS5",
+        "title": "Зов Ктулху",
+        "author": "Лавкрафт",
+        "notes": "",
+        "createdAt": "2018-01-10 21:17:16",
+        "user": {
+            "id": "111539592390354730982-google",
+            "nickname": "JanGus1337",
+            "booksCount": 1
+        }
+    },
     "uvZ256PPq9": {
         "id": "uvZ256PPq9",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "100004430323900-facebook",
             "nickname": "evgenia",
             "booksCount": 39
-        }
-    },
-    "BFkHmfnmme": {
-        "id": "BFkHmfnmme",
-        "title": "Моя жизнь",
-        "author": "Марк Шагал",
-        "notes": "",
-        "createdAt": "2018-01-07 20:39:37",
-        "user": {
-            "id": "100004430323900-facebook",
-            "nickname": "evgenia",
-            "booksCount": 38
         }
     }
 }
