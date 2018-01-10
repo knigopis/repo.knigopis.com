@@ -1,4 +1,10 @@
 {
+    "111642348471440632750-google": {
+        "id": "111642348471440632750-google",
+        "nickname": "raikiya",
+        "booksCount": 0,
+        "updatedAt": "2018-01-10 21:55:20"
+    },
     "105112991095828409681-google": {
         "id": "105112991095828409681-google",
         "nickname": "Evgeny",
@@ -172,11 +178,5 @@
         "nickname": "fcknReiner",
         "booksCount": 1,
         "updatedAt": "2018-01-05 14:19:05"
-    },
-    "176370773-vkontakte": {
-        "id": "176370773-vkontakte",
-        "nickname": "madalexa",
-        "booksCount": 0,
-        "updatedAt": "2018-01-05 13:13:48"
     }
 }
