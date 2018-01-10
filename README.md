@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
 [Evgeny](users/105/105112991095828409681-google)<sup>14</sup> 
 [JanGus1337](users/111/111539592390354730982-google)<sup>1</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
 [fcknReiner](users/117/117562645015612287623-google)<sup>1</sup> 
-[madalexa](users/176/176370773-vkontakte)<sup>0</sup> 
 
 
-_10.01.2018 21:23:34_
+_10.01.2018 21:55:23_
