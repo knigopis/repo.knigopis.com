@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
+    > Сборник, выпущенный к 50ти летнему юбилею сериала "Доктор Кто". Самым скучным показалась история 10го Доктора, самой интересной - 11.
+
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
     > Книгу читала долго, хотя написана она легким языком. Но особого интереса не вызвала. Какихто особых мыслей по поводу книги нет. Единственное только что поразило, это то с какой легкостью главная героиня отдает себя, при наличии у нее мужа.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга на уровне Фрая, немного уступает первому циклу, но все таки довольно интересная. Макс знакомится с темным магистром и узнает много нового о себе и мире)
 
 * Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
-    > Будет продолжение
 
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 
-* Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>165</sup> 
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 [raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
 [Evgeny](users/105/105112991095828409681-google)<sup>14</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>103</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
 
 
-_11.01.2018 16:13:26_
+_11.01.2018 16:35:52_
