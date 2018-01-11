@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kurtcobain177](users/234/23409175-vkontakte)<sup>0</sup> 
+[kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 [raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
 [Evgeny](users/105/105112991095828409681-google)<sup>14</sup> 
 [JanGus1337](users/111/111539592390354730982-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>42</sup> 
 
 
-_11.01.2018 16:12:53_
+_11.01.2018 16:13:26_

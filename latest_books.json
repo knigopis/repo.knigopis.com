@@ -1,4 +1,16 @@
 {
+    "afnvio_xl9": {
+        "id": "afnvio_xl9",
+        "title": "Мизери",
+        "author": "стивен кинг",
+        "notes": "",
+        "createdAt": "2018-01-11 16:13:26",
+        "user": {
+            "id": "23409175-vkontakte",
+            "nickname": "kurtcobain177",
+            "booksCount": 1
+        }
+    },
     "8byt3cAKSU": {
         "id": "8byt3cAKSU",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 35
-        }
-    },
-    "4rfM_xY2Jk": {
-        "id": "4rfM_xY2Jk",
-        "title": "Серия Наследница драконов",
-        "author": "Надежда Кузьмина",
-        "notes": "",
-        "createdAt": "2018-01-09 01:24:30",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 34
         }
     }
 }
