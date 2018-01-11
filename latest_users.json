@@ -1,4 +1,10 @@
 {
+    "23409175-vkontakte": {
+        "id": "23409175-vkontakte",
+        "nickname": "kurtcobain177",
+        "booksCount": 0,
+        "updatedAt": "2018-01-11 16:12:51"
+    },
     "111642348471440632750-google": {
         "id": "111642348471440632750-google",
         "nickname": "raikiya",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 42,
         "updatedAt": "2018-01-05 22:00:42"
-    },
-    "117562645015612287623-google": {
-        "id": "117562645015612287623-google",
-        "nickname": "fcknReiner",
-        "booksCount": 1,
-        "updatedAt": "2018-01-05 14:19:05"
     }
 }
