@@ -1,4 +1,16 @@
 {
+    "CtfE754KCT": {
+        "id": "CtfE754KCT",
+        "title": "Платочек - Пантелеев Леонид",
+        "author": "♫ Рассказ",
+        "notes": "",
+        "createdAt": "2018-01-12 03:41:14",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 106
+        }
+    },
     "_OTftKKYUQ": {
         "id": "_OTftKKYUQ",
         "title": "Молодняк - Солженицын Александр",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 27
-        }
-    },
-    "8sb-6KtjK-": {
-        "id": "8sb-6KtjK-",
-        "title": "Ведьма огненного ветра",
-        "author": "Надежда Кузьмина",
-        "notes": "Будет продолжение",
-        "createdAt": "2018-01-09 01:28:27",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 38
         }
     }
 }

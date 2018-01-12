@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[abzagir4ik](users/362/3621623-vkontakte)<sup>105</sup> 
+[abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>165</sup> 
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 [raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 
 
-_12.01.2018 03:40:18_
+_12.01.2018 03:41:14_
