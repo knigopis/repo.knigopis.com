@@ -1,4 +1,16 @@
 {
+    "I6X01YUiwv": {
+        "id": "I6X01YUiwv",
+        "title": "Рассказы - Куприн Александр",
+        "author": "",
+        "notes": "Без заглавия\nБезумие",
+        "createdAt": "2018-01-12 03:39:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 104
+        }
+    },
     "zjgOk2JEr6": {
         "id": "zjgOk2JEr6",
         "title": "Доктор Кто. 11 докторов, 11 историй (антология)",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 37
-        }
-    },
-    "fCM8karBZY": {
-        "id": "fCM8karBZY",
-        "title": "Попала!",
-        "author": "Надежда Кузьмина",
-        "notes": "",
-        "createdAt": "2018-01-09 01:26:44",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 36
         }
     }
 }

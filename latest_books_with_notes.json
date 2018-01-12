@@ -1,4 +1,16 @@
 {
+    "I6X01YUiwv": {
+        "id": "I6X01YUiwv",
+        "title": "Рассказы - Куприн Александр",
+        "author": "",
+        "notes": "Без заглавия\nБезумие",
+        "createdAt": "2018-01-12 03:39:38",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 104
+        }
+    },
     "zjgOk2JEr6": {
         "id": "zjgOk2JEr6",
         "title": "Доктор Кто. 11 докторов, 11 историй (антология)",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 133
-        }
-    },
-    "1nVHQJFVPh": {
-        "id": "1nVHQJFVPh",
-        "title": "Ловись, рыбка!",
-        "author": "Стивен К. Ландин, Джон Кристенсен, Harry Paul, Philip Strand",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1685078/",
-        "createdAt": "2017-12-17 17:24:25",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 132
         }
     }
 }
