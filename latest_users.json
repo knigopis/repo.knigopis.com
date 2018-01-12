@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 96,
+        "updatedAt": "2018-01-12 22:18:09"
+    },
     "1142697389168655-facebook": {
         "id": "1142697389168655-facebook",
         "nickname": "Margo",
@@ -82,12 +88,6 @@
         "nickname": "nadyhkakah",
         "booksCount": 0,
         "updatedAt": "2018-01-10 15:30:35"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 95,
-        "updatedAt": "2018-01-10 12:08:24"
     },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",

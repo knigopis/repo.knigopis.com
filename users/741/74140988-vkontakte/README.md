@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>95</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>96</sup>
 ---
 
 ## 2018
+
+### Иностранный для взрослых: Как выучить новый язык в любом возрасте
+Роджер Крез, Ричард Робертс
+> [2018-01-12] 
+
 
 ### FIASCO: Исповедь трейдера с Уолл-стрит
 Фрэнк Партной

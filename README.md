@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>96</sup> 
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
-[International master](users/741/74140988-vkontakte)<sup>95</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
 
 
-_12.01.2018 20:19:34_
+_12.01.2018 22:18:09_
