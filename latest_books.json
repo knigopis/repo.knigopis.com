@@ -1,4 +1,16 @@
 {
+    "_OTftKKYUQ": {
+        "id": "_OTftKKYUQ",
+        "title": "Молодняк - Солженицын Александр",
+        "author": "Рассказ",
+        "notes": "",
+        "createdAt": "2018-01-12 03:40:18",
+        "user": {
+            "id": "3621623-vkontakte",
+            "nickname": "abzagir4ik",
+            "booksCount": 105
+        }
+    },
     "I6X01YUiwv": {
         "id": "I6X01YUiwv",
         "title": "Рассказы - Куприн Александр",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 38
-        }
-    },
-    "oU68iRt2l-": {
-        "id": "oU68iRt2l-",
-        "title": "Магиня для эмиссара",
-        "author": "Надежда Кузьмина",
-        "notes": "",
-        "createdAt": "2018-01-09 01:27:50",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 37
         }
     }
 }
