@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
 [En](users/333/333646551-vkontakte)<sup>28</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>16</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
 [pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
-[limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
 
 
-_12.01.2018 16:27:09_
+_12.01.2018 19:51:41_
