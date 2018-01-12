@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
+    > Мне кажется еще не одну книгу я так долго не читала, без конца поглядывая, сколько там еще страниц осталось, на 287 странице я книгу бросила. Вроде и сюжет нормальный, но написано не интересно.
+
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
     > Без заглавия
     > Безумие
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Сборник, выпущенный к 50ти летнему юбилею сериала "Доктор Кто". Самым скучным показалась история 10го Доктора, самой интересной - 11.
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
-    > Книгу читала долго, хотя написана она легким языком. Но особого интереса не вызвала. Какихто особых мыслей по поводу книги нет. Единственное только что поразило, это то с какой легкостью главная героиня отдает себя, при наличии у нее мужа.
 
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
 
-* Сутта-Нипата ~ [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[amesyatseva](users/335/3358937-vkontakte)<sup>39</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>165</sup> 
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>27</sup> 
-[amesyatseva](users/335/3358937-vkontakte)<sup>38</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 
 
-_12.01.2018 03:41:14_
+_12.01.2018 07:49:30_
