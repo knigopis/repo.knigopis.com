@@ -1,4 +1,16 @@
 {
+    "CVcnoSwiD4": {
+        "id": "CVcnoSwiD4",
+        "title": "Оливия Киттеридж",
+        "author": "Элизабер Страут",
+        "notes": "Книга о жизни Оливии в маленьком городке и о жизни пересекающихся с ней людей. Книга не очень захватывает, показывает обыденную жизнь главной героини.",
+        "createdAt": "2018-01-12 11:07:26",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 28
+        }
+    },
     "g0-utlhRVk": {
         "id": "g0-utlhRVk",
         "title": "Песнь златовласой сирены 4",
@@ -345,18 +357,6 @@
             "id": "2060252005-instagram",
             "nickname": "ksenisky",
             "booksCount": 2
-        }
-    },
-    "R0MivT0uQy": {
-        "id": "R0MivT0uQy",
-        "title": "",
-        "author": "Достоевский",
-        "notes": "",
-        "createdAt": "2018-01-09 09:04:53",
-        "user": {
-            "id": "9864321-vkontakte",
-            "nickname": "Паафа",
-            "booksCount": 1
         }
     }
 }

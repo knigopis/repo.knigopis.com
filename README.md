@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
+    > Книга о жизни Оливии в маленьком городке и о жизни пересекающихся с ней людей. Книга не очень захватывает, показывает обыденную жизнь главной героини.
+
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
     > Очень понравилась серия!!!
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Мне кажется еще не одну книгу я так долго не читала, без конца поглядывая, сколько там еще страниц осталось, на 287 странице я книгу бросила. Вроде и сюжет нормальный, но написано не интересно.
 
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
-    > Без заглавия
-    > Безумие
 
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 
-* Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>28</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>165</sup> 
@@ -52,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
-[En](users/333/333646551-vkontakte)<sup>27</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 [evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 
 
-_12.01.2018 08:32:43_
+_12.01.2018 11:07:26_
