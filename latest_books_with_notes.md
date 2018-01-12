@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
@@ -30,7 +31,6 @@
 * Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
-* Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
 
 
-_12.01.2018 11:07:26_
+_12.01.2018 16:27:09_

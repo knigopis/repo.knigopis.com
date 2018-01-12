@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
+    > Небольшой рассказ об утопическом обществе на планете Транай. Интересно было бы проверить, действительно ли описанное общество могло бы длительно существовать?
+
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
     > Книга о жизни Оливии в маленьком городке и о жизни пересекающихся с ней людей. Книга не очень захватывает, показывает обыденную жизнь главной героини.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень понравилась серия!!!
 
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
-    > Мне кажется еще не одну книгу я так долго не читала, без конца поглядывая, сколько там еще страниц осталось, на 287 странице я книгу бросила. Вроде и сюжет нормальный, но написано не интересно.
 
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
 
-* Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>143</sup> 
 [En](users/333/333646551-vkontakte)<sup>28</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
 [pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
 [limon_booka_](users/274/2745958281-twitter)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 
 
-_12.01.2018 11:07:26_
+_12.01.2018 16:27:09_
