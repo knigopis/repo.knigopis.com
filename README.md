@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
 [En](users/333/333646551-vkontakte)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lora](users/105/105383463978163046246-google)<sup>1</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>16</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>3</sup> 
-[pozndyakovaalina](users/228/228787647-vkontakte)<sup>2</sup> 
 
 
-_12.01.2018 19:51:41_
+_12.01.2018 20:19:34_
