@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
+    > Очень понравилась серия!!!
+
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
     > Мне кажется еще не одну книгу я так долго не читала, без конца поглядывая, сколько там еще страниц осталось, на 287 странице я книгу бросила. Вроде и сюжет нормальный, но написано не интересно.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Безумие
 
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
-    > Сборник, выпущенный к 50ти летнему юбилею сериала "Доктор Кто". Самым скучным показалась история 10го Доктора, самой интересной - 11.
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
 
-* Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[amesyatseva](users/335/3358937-vkontakte)<sup>39</sup> 
+[amesyatseva](users/335/3358937-vkontakte)<sup>40</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>165</sup> 
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>109</sup> 
 
 
-_12.01.2018 07:49:30_
+_12.01.2018 08:32:43_

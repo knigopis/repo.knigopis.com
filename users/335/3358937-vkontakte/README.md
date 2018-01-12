@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>39</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>40</sup>
 ---
 
 ## 2018
+
+### Песнь златовласой сирены 4
+Франциска Вудворт
+> [2018-12-20] Очень понравилась серия!!!
+
 
 ### Мистер Смерть и чокнутая ведьма
 Милена Завойчинская

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
@@ -30,7 +31,6 @@
 * Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 * Исповедь Маски ~ [creepy_g](users/747/74743045-vkontakte)<sup>119</sup>
 * Древний. Предыстория. книга четвертая ~ [En](users/333/333646551-vkontakte)<sup>25</sup>
-* Сердца в Атлантиде ~ [Saamy](users/115/115226508-vkontakte)<sup>30</sup>
 
 
-_12.01.2018 07:49:29_
+_12.01.2018 08:32:43_
