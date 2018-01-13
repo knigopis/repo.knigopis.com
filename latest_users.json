@@ -1,4 +1,10 @@
 {
+    "233897014-vkontakte": {
+        "id": "233897014-vkontakte",
+        "nickname": "Татьянка",
+        "booksCount": 0,
+        "updatedAt": "2018-01-13 20:16:11"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "striped_one",
         "booksCount": 16,
         "updatedAt": "2018-01-07 09:45:01"
-    },
-    "191788437-vkontakte": {
-        "id": "191788437-vkontakte",
-        "nickname": "mbericheva",
-        "booksCount": 3,
-        "updatedAt": "2018-01-07 06:41:15"
     }
 }
