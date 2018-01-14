@@ -1,4 +1,16 @@
 {
+    "3StSQNFDh8": {
+        "id": "3StSQNFDh8",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2018-01-14 20:46:22",
+        "user": {
+            "id": "587843224-yandex",
+            "nickname": "kpdemo",
+            "booksCount": 1
+        }
+    },
     "4g_QCH4lVn": {
         "id": "4g_QCH4lVn",
         "title": "Этюд в Багровых тонах",
@@ -345,18 +357,6 @@
             "id": "106304994652616315178-google",
             "nickname": "Euphoria",
             "booksCount": 63
-        }
-    },
-    "VeGiYylhQB": {
-        "id": "VeGiYylhQB",
-        "title": "FIASCO: Исповедь трейдера с Уолл-стрит",
-        "author": "Фрэнк Партной",
-        "notes": "",
-        "createdAt": "2018-01-10 12:08:24",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 95
         }
     }
 }
