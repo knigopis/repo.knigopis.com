@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>25</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 
 
-_14.01.2018 21:07:37_
+_14.01.2018 21:11:18_

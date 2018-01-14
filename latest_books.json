@@ -1,4 +1,16 @@
 {
+    "LEGtrbjSJY": {
+        "id": "LEGtrbjSJY",
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "Joanne Rowling",
+        "notes": "",
+        "createdAt": "2018-01-14 21:11:18",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 26
+        }
+    },
     "WFfT7nypR5": {
         "id": "WFfT7nypR5",
         "title": "Сага о Рейневане: Свет Вечный",
@@ -345,18 +357,6 @@
             "id": "105112991095828409681-google",
             "nickname": "Evgeny",
             "booksCount": 4
-        }
-    },
-    "LJWgiVkFrc": {
-        "id": "LJWgiVkFrc",
-        "title": "Над пропастью во ржи - Сэлинджер Джером",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-01-10 21:12:03",
-        "user": {
-            "id": "105112991095828409681-google",
-            "nickname": "Evgeny",
-            "booksCount": 3
         }
     }
 }
