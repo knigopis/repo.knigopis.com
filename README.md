@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>0</sup> 
 [Baturkina](users/200/2006244976058700-facebook)<sup>0</sup> 
 [Yayashev](users/298/298204458-vkontakte)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
-[evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
 
 
-_14.01.2018 19:50:16_
+_14.01.2018 20:41:00_
