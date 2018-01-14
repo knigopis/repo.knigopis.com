@@ -1,4 +1,10 @@
 {
+    "114540976145781763458-google": {
+        "id": "114540976145781763458-google",
+        "nickname": "Aizo",
+        "booksCount": 0,
+        "updatedAt": "2018-01-14 20:40:58"
+    },
     "587843224-yandex": {
         "id": "587843224-yandex",
         "nickname": "kpdemo",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 40,
         "updatedAt": "2018-01-08 09:21:12"
-    },
-    "100004430323900-facebook": {
-        "id": "100004430323900-facebook",
-        "nickname": "evgenia",
-        "booksCount": 39,
-        "updatedAt": "2018-01-07 20:40:59"
     }
 }
