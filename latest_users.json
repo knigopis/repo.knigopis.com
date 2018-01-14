@@ -1,4 +1,10 @@
 {
+    "587843224-yandex": {
+        "id": "587843224-yandex",
+        "nickname": "kpdemo",
+        "booksCount": 0,
+        "updatedAt": "2018-01-14 19:50:13"
+    },
     "2006244976058700-facebook": {
         "id": "2006244976058700-facebook",
         "nickname": "Baturkina",
@@ -172,11 +178,5 @@
         "nickname": "evgenia",
         "booksCount": 39,
         "updatedAt": "2018-01-07 20:40:59"
-    },
-    "112205967961310617540-google": {
-        "id": "112205967961310617540-google",
-        "nickname": "sergeybolobaev",
-        "booksCount": 35,
-        "updatedAt": "2018-01-07 15:45:58"
     }
 }
