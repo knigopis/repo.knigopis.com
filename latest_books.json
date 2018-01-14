@@ -1,4 +1,16 @@
 {
+    "4g_QCH4lVn": {
+        "id": "4g_QCH4lVn",
+        "title": "Этюд в Багровых тонах",
+        "author": "Артур Конан Дойл",
+        "notes": "",
+        "createdAt": "2018-01-14 09:39:38",
+        "user": {
+            "id": "298204458-vkontakte",
+            "nickname": "Yayashev",
+            "booksCount": 2
+        }
+    },
     "Tt9-6fq7dm": {
         "id": "Tt9-6fq7dm",
         "title": "Гении и аутсайдеры",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 95
-        }
-    },
-    "BxzWtq2ArP": {
-        "id": "BxzWtq2ArP",
-        "title": "Владычица озера",
-        "author": "А. Сапковский",
-        "notes": "",
-        "createdAt": "2018-01-10 08:39:09",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 43
         }
     }
 }

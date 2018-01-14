@@ -1,7 +1,12 @@
-# List of books read by [Yayashev](http://vk.com/id298204458)<sup>1</sup>
+# List of books read by [Yayashev](http://vk.com/id298204458)<sup>2</sup>
 ---
 
 ## 2018
+
+### Этюд в Багровых тонах
+Артур Конан Дойл
+> [2018-01-13] 
+
 
 ### Гении и аутсайдеры
 Малкольм Гладуэлл
