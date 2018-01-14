@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
+    > Книга 3
+
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
     > Небольшой рассказ об утопическом обществе на планете Транай. Интересно было бы проверить, действительно ли описанное общество могло бы длительно существовать?
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга о жизни Оливии в маленьком городке и о жизни пересекающихся с ней людей. Книга не очень захватывает, показывает обыденную жизнь главной героини.
 
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
-    > Очень понравилась серия!!!
 
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
 
-* Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 [Baturkina](users/200/2006244976058700-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 
 
-_14.01.2018 20:56:46_
+_14.01.2018 21:07:37_

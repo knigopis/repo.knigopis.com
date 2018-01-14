@@ -1,4 +1,16 @@
 {
+    "WFfT7nypR5": {
+        "id": "WFfT7nypR5",
+        "title": "Сага о Рейневане: Свет Вечный",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 3",
+        "createdAt": "2018-01-14 21:07:37",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 133
+        }
+    },
     "_tMffv5nR3": {
         "id": "_tMffv5nR3",
         "title": "1984",
@@ -345,18 +357,6 @@
             "id": "105112991095828409681-google",
             "nickname": "Evgeny",
             "booksCount": 3
-        }
-    },
-    "O7xjG-5ne1": {
-        "id": "O7xjG-5ne1",
-        "title": "Пиковая дама - Пушкин Александр",
-        "author": "\"Тройка, семёрка, туз! Тройка, семёрка, дама!...\", что тут ещё можно сказать.",
-        "notes": "",
-        "createdAt": "2018-01-10 21:11:22",
-        "user": {
-            "id": "105112991095828409681-google",
-            "nickname": "Evgeny",
-            "booksCount": 2
         }
     }
 }

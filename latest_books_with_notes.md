@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
 * Приют Грез ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>49</sup>
 * Сумеречный дозор ~ [иузуил](users/238/238356806-vkontakte)<sup>3</sup>
-* Машина времени ~ [En](users/333/333646551-vkontakte)<sup>26</sup>
 
 
-_12.01.2018 16:27:09_
+_14.01.2018 21:07:37_
