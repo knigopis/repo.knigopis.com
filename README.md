@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kpdemo](users/587/587843224-yandex)<sup>3</sup> 
+[kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 [Baturkina](users/200/2006244976058700-facebook)<sup>0</sup> 
 [Yayashev](users/298/298204458-vkontakte)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>40</sup> 
 
 
-_14.01.2018 20:56:22_
+_14.01.2018 20:56:46_
