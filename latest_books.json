@@ -1,4 +1,16 @@
 {
+    "Tt9-6fq7dm": {
+        "id": "Tt9-6fq7dm",
+        "title": "Гении и аутсайдеры",
+        "author": "Малкольм Гладуэлл",
+        "notes": "",
+        "createdAt": "2018-01-14 09:38:23",
+        "user": {
+            "id": "298204458-vkontakte",
+            "nickname": "Yayashev",
+            "booksCount": 1
+        }
+    },
     "cmo-khp-uR": {
         "id": "cmo-khp-uR",
         "title": "Иностранный для взрослых: Как выучить новый язык в любом возрасте",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 43
-        }
-    },
-    "zdbiaHUVJ3": {
-        "id": "zdbiaHUVJ3",
-        "title": "Harry Potter and the Philosopher's Stone",
-        "author": "Joanne Rowling",
-        "notes": "",
-        "createdAt": "2018-01-10 01:11:14",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 25
         }
     }
 }
