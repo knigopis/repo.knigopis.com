@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yayashev](users/298/298204458-vkontakte)<sup>0</sup> 
 [orli](users/106/106815402206046238798-google)<sup>0</sup> 
 [Татьянка](users/233/233897014-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>96</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [evgenia](users/100/100004430323900-facebook)<sup>39</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>14</sup> 
-[Lora](users/105/105383463978163046246-google)<sup>1</sup> 
 
 
-_13.01.2018 20:59:53_
+_14.01.2018 09:30:31_
