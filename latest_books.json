@@ -1,4 +1,16 @@
 {
+    "fLDWsQIpF6": {
+        "id": "fLDWsQIpF6",
+        "title": "Завтрак у Тиффани",
+        "author": "Трумэн Капоте",
+        "notes": "",
+        "createdAt": "2018-01-15 09:37:18",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 23
+        }
+    },
     "m7UB4Hgy5I": {
         "id": "m7UB4Hgy5I",
         "title": "История  пропавшем ребенке",
@@ -345,18 +357,6 @@
             "id": "105112991095828409681-google",
             "nickname": "Evgeny",
             "booksCount": 8
-        }
-    },
-    "RPd1QXA0O2": {
-        "id": "RPd1QXA0O2",
-        "title": "Анна Каренина",
-        "author": "Л. Толстой",
-        "notes": "",
-        "createdAt": "2018-01-10 21:15:12",
-        "user": {
-            "id": "105112991095828409681-google",
-            "nickname": "Evgeny",
-            "booksCount": 7
         }
     }
 }
