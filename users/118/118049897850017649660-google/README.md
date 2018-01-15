@@ -1,5 +1,13 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>70</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>71</sup>
 ---
+
+## 2018
+
+### Последнее дело Даймонда
+Питер Ловси
+> [2018-01-15] Посредственно
+
+
 
 ## 2017
 

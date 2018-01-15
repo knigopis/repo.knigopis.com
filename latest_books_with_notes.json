@@ -1,4 +1,16 @@
 {
+    "zLvUlISzaO": {
+        "id": "zLvUlISzaO",
+        "title": "Последнее дело Даймонда",
+        "author": "Питер Ловси",
+        "notes": "Посредственно",
+        "createdAt": "2018-01-15 12:39:37",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 71
+        }
+    },
     "m7UB4Hgy5I": {
         "id": "m7UB4Hgy5I",
         "title": "История  пропавшем ребенке",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 131
-        }
-    },
-    "_iuBvyFHmP": {
-        "id": "_iuBvyFHmP",
-        "title": "iPhuck 10",
-        "author": "Пелевин Виктор",
-        "notes": "жизнь ой. но да\nа читать это невозможно(((",
-        "createdAt": "2017-12-22 17:40:52",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 39
         }
     }
 }

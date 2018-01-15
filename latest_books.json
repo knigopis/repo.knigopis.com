@@ -1,4 +1,16 @@
 {
+    "zLvUlISzaO": {
+        "id": "zLvUlISzaO",
+        "title": "Последнее дело Даймонда",
+        "author": "Питер Ловси",
+        "notes": "Посредственно",
+        "createdAt": "2018-01-15 12:39:37",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 71
+        }
+    },
     "URZV8CWwIJ": {
         "id": "URZV8CWwIJ",
         "title": "Врата войны",
@@ -345,18 +357,6 @@
             "id": "105112991095828409681-google",
             "nickname": "Evgeny",
             "booksCount": 11
-        }
-    },
-    "u32cw7ZwS5": {
-        "id": "u32cw7ZwS5",
-        "title": "Зов Ктулху",
-        "author": "Лавкрафт",
-        "notes": "",
-        "createdAt": "2018-01-10 21:17:16",
-        "user": {
-            "id": "111539592390354730982-google",
-            "nickname": "JanGus1337",
-            "booksCount": 1
         }
     }
 }

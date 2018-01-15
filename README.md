@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
+    > Посредственно
+
 * История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
     > Заключительная часть неаполитанского квартета. Если честно, то особого впечатления эта книга на меня не произвела. То ли я успела отойти от очарования первых трех частей, то ли книга действительно не удалась.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Судя по всему начало новой серии. Пока все стандартно некрасивая девочка-подросток превращается в красавицу с крутыми способностями из за  Древней Крови. книга заканчивается практически ни на чем. продолжение напрашивается само
 
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
-    > Книга 3
 
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
 
-*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>25</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
-[margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
 
 
-_15.01.2018 12:23:10_
+_15.01.2018 12:39:37_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
 * История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
 * Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 * Американский психопат ~ [Garka](users/115/115753719718250012620-google)<sup>164</sup>
 * Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
-* iPhuck 10 ~ [Chiffi](users/105/105831994080785626680-google)<sup>39</sup>
 
 
-_15.01.2018 09:36:43_
+_15.01.2018 12:39:37_
