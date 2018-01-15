@@ -1,4 +1,16 @@
 {
+    "1EEyZcsf_G": {
+        "id": "1EEyZcsf_G",
+        "title": "\"Земля обетованная\"",
+        "author": "Андре Моруа",
+        "notes": "",
+        "createdAt": "2018-01-15 22:24:41",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "nord_book",
+            "booksCount": 2
+        }
+    },
     "lLXGWzkznV": {
         "id": "lLXGWzkznV",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "105112991095828409681-google",
             "nickname": "Evgeny",
             "booksCount": 13
-        }
-    },
-    "NxO7GbwYzm": {
-        "id": "NxO7GbwYzm",
-        "title": "451 градус по Фаренгейту",
-        "author": "Р. Брэдбери",
-        "notes": "",
-        "createdAt": "2018-01-10 21:19:19",
-        "user": {
-            "id": "105112991095828409681-google",
-            "nickname": "Evgeny",
-            "booksCount": 12
         }
     }
 }
