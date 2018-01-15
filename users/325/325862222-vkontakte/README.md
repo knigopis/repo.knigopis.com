@@ -1,4 +1,4 @@
-# List of books read by [nord_book](http://vk.com/id325862222)<sup>8</sup>
+# List of books read by [nord_book](http://vk.com/id325862222)<sup>9</sup>
 ---
 
 ## 2018
@@ -34,6 +34,11 @@
 
 
 ## 2015
+
+### "Лунь"
+Сергей Клочков
+> Серия S.T.A.L.K.E.R.
+
 
 ### "Дезертир"
 Алексей Степанов

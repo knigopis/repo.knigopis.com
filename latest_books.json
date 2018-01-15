@@ -1,4 +1,16 @@
 {
+    "py7UYldUpz": {
+        "id": "py7UYldUpz",
+        "title": "\"Лунь\"",
+        "author": "Сергей Клочков",
+        "notes": "Серия S.T.A.L.K.E.R.",
+        "createdAt": "2018-01-15 22:35:39",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "nord_book",
+            "booksCount": 9
+        }
+    },
     "Mx5GYwEduM": {
         "id": "Mx5GYwEduM",
         "title": "\"Дезертир\"",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 39
-        }
-    },
-    "CtfE754KCT": {
-        "id": "CtfE754KCT",
-        "title": "Платочек - Пантелеев Леонид",
-        "author": "♫ Рассказ",
-        "notes": "",
-        "createdAt": "2018-01-12 03:41:14",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 106
         }
     }
 }
