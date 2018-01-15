@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 33,
+        "updatedAt": "2018-01-15 19:32:56"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Maximal1980",
         "booksCount": 1,
         "updatedAt": "2018-01-09 21:28:54"
-    },
-    "2060252005-instagram": {
-        "id": "2060252005-instagram",
-        "nickname": "ksenisky",
-        "booksCount": 2,
-        "updatedAt": "2018-01-09 17:52:36"
     }
 }

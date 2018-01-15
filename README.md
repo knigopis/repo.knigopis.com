@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 [Maximal1980](users/197/1979457-vkontakte)<sup>1</sup> 
-[ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
 
 
-_15.01.2018 12:39:37_
+_15.01.2018 19:32:57_
