@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>25</sup> 
 [En](users/333/333646551-vkontakte)<sup>29</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ksenisky](users/206/2060252005-instagram)<sup>2</sup> 
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
-[Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 
 
-_15.01.2018 09:39:26_
+_15.01.2018 11:26:25_
