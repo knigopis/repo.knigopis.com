@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
+    > Судя по всему начало новой серии. Пока все стандартно некрасивая девочка-подросток превращается в красавицу с крутыми способностями из за  Древней Крови. книга заканчивается практически ни на чем. продолжение напрашивается само
+
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
     > Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Небольшой рассказ об утопическом обществе на планете Транай. Интересно было бы проверить, действительно ли описанное общество могло бы длительно существовать?
 
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
-    > Книга о жизни Оливии в маленьком городке и о жизни пересекающихся с ней людей. Книга не очень захватывает, показывает обыденную жизнь главной героини.
 
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
 
-* Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>29</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
-[En](users/333/333646551-vkontakte)<sup>28</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>165</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 
 
-_14.01.2018 21:11:18_
+_15.01.2018 09:27:03_
