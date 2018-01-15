@@ -1,4 +1,10 @@
 {
+    "131667662-vkontakte": {
+        "id": "131667662-vkontakte",
+        "nickname": "Tanya 71",
+        "booksCount": 0,
+        "updatedAt": "2018-01-15 11:26:22"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "Паафа",
         "booksCount": 0,
         "updatedAt": "2018-01-09 09:05:16"
-    },
-    "403308167-vkontakte": {
-        "id": "403308167-vkontakte",
-        "nickname": "Deithwen",
-        "booksCount": 1,
-        "updatedAt": "2018-01-09 06:53:54"
     }
 }
