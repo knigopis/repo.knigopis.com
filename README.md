@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Элла](users/100/1002037069862545-facebook)<sup>24</sup> 
+[Элла](users/100/1002037069862545-facebook)<sup>25</sup> 
 [En](users/333/333646551-vkontakte)<sup>29</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
 
 
-_15.01.2018 09:38:41_
+_15.01.2018 09:39:26_
