@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
+    > Заключительная часть неаполитанского квартета. Если честно, то особого впечатления эта книга на меня не произвела. То ли я успела отойти от очарования первых трех частей, то ли книга действительно не удалась.
+
 * Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
     > Судя по всему начало новой серии. Пока все стандартно некрасивая девочка-подросток превращается в красавицу с крутыми способностями из за  Древней Крови. книга заканчивается практически ни на чем. продолжение напрашивается само
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
-    > Небольшой рассказ об утопическом обществе на планете Транай. Интересно было бы проверить, действительно ли описанное общество могло бы длительно существовать?
 
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
 
-* Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>22</sup> 
 [En](users/333/333646551-vkontakte)<sup>29</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [margaritakalinina24](users/169/169113881-vkontakte)<sup>0</sup> 
 [Паафа](users/986/9864321-vkontakte)<sup>0</sup> 
 [Deithwen](users/403/403308167-vkontakte)<sup>1</sup> 
-[Рената](users/107/107972721574215631181-google)<sup>0</sup> 
 
 
-_15.01.2018 09:27:03_
+_15.01.2018 09:36:43_
