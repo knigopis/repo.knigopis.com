@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nord_book](users/325/325862222-vkontakte)<sup>10</sup> 
+[nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 
 
-_15.01.2018 22:37:52_
+_15.01.2018 22:38:45_

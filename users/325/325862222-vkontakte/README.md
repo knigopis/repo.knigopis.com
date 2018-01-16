@@ -1,4 +1,4 @@
-# List of books read by [nord_book](http://vk.com/id325862222)<sup>10</sup>
+# List of books read by [nord_book](http://vk.com/id325862222)<sup>11</sup>
 ---
 
 ## 2018
@@ -27,6 +27,11 @@
 
 
 ## 2016
+
+### "Последнее желание"
+Анджей Сапковский
+> Серия романов Ведьмак
+
 
 ### "Джейн Эйр"
 Шарлотта Бронте
