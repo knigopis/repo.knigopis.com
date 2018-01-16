@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
 [me](users/381/381417697-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 [nadyhkakah](users/798/798608-vkontakte)<sup>0</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>43</sup> 
 
 
-_15.01.2018 22:38:45_
+_16.01.2018 06:21:43_
