@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>166</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
 [Evgeny](users/105/105112991095828409681-google)<sup>14</sup> 
 [JanGus1337](users/111/111539592390354730982-google)<sup>1</sup> 
-[иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 
 
-_17.01.2018 17:36:03_
+_17.01.2018 21:55:31_
