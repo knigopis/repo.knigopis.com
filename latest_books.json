@@ -1,4 +1,16 @@
 {
+    "OY_nDgYXlt": {
+        "id": "OY_nDgYXlt",
+        "title": "Высшая правовая магическая академия. Работа под прикрытием",
+        "author": "Маргарита Гришаева",
+        "notes": "",
+        "createdAt": "2018-01-17 06:30:05",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 42
+        }
+    },
     "VvBL03ZiKQ": {
         "id": "VvBL03ZiKQ",
         "title": "Высшая правовая магическая академия. Оперативные будни",
@@ -345,18 +357,6 @@
             "id": "298204458-vkontakte",
             "nickname": "Yayashev",
             "booksCount": 1
-        }
-    },
-    "cmo-khp-uR": {
-        "id": "cmo-khp-uR",
-        "title": "Иностранный для взрослых: Как выучить новый язык в любом возрасте",
-        "author": "Роджер Крез, Ричард Робертс",
-        "notes": "",
-        "createdAt": "2018-01-12 22:18:09",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 96
         }
     }
 }
