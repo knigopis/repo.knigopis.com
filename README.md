@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
+    > Жду четвертую книгу, обещают выпустить в январе 2018
+
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
     > Посредственно
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Заключительная часть неаполитанского квартета. Если честно, то особого впечатления эта книга на меня не произвела. То ли я успела отойти от очарования первых трех частей, то ли книга действительно не удалась.
 
 * Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
-    > Судя по всему начало новой серии. Пока все стандартно некрасивая девочка-подросток превращается в красавицу с крутыми способностями из за  Древней Крови. книга заканчивается практически ни на чем. продолжение напрашивается само
 
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
 
-* Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[amesyatseva](users/335/3358937-vkontakte)<sup>42</sup> 
+[amesyatseva](users/335/3358937-vkontakte)<sup>43</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 
 
-_17.01.2018 06:30:05_
+_17.01.2018 06:30:53_

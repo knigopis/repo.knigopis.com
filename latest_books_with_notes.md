@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
 * История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
 * Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
@@ -30,7 +31,6 @@
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
 * Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 * Американский психопат ~ [Garka](users/115/115753719718250012620-google)<sup>164</sup>
-* Рога ~ [Madlax](users/158/158304782-vkontakte)<sup>131</sup>
 
 
-_15.01.2018 12:39:37_
+_17.01.2018 06:30:53_
