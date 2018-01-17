@@ -1,4 +1,16 @@
 {
+    "RWIEs7CZzX": {
+        "id": "RWIEs7CZzX",
+        "title": "Светлая и Темный",
+        "author": "Ольга Гусейнова",
+        "notes": "Очень интересная книга, необычный мир и удивительные расы.",
+        "createdAt": "2018-01-17 06:32:33",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 44
+        }
+    },
     "54PHHvT90f": {
         "id": "54PHHvT90f",
         "title": "Высшая правовая магическая академия. Ловушка для высшего лорда",
@@ -345,18 +357,6 @@
             "id": "587843224-yandex",
             "nickname": "kpdemo",
             "booksCount": 1
-        }
-    },
-    "4g_QCH4lVn": {
-        "id": "4g_QCH4lVn",
-        "title": "Этюд в Багровых тонах",
-        "author": "Артур Конан Дойл",
-        "notes": "",
-        "createdAt": "2018-01-14 09:39:38",
-        "user": {
-            "id": "298204458-vkontakte",
-            "nickname": "Yayashev",
-            "booksCount": 2
         }
     }
 }

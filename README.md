@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
+    > Очень интересная книга, необычный мир и удивительные расы.
+
 * Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
     > Жду четвертую книгу, обещают выпустить в январе 2018
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Посредственно
 
 * История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
-    > Заключительная часть неаполитанского квартета. Если честно, то особого впечатления эта книга на меня не произвела. То ли я успела отойти от очарования первых трех частей, то ли книга действительно не удалась.
 
 * Иллюзия ~ [En](users/333/333646551-vkontakte)<sup>29</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
 
-* Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[amesyatseva](users/335/3358937-vkontakte)<sup>43</sup> 
+[amesyatseva](users/335/3358937-vkontakte)<sup>44</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Euphoria](users/106/106304994652616315178-google)<sup>63</sup> 
 
 
-_17.01.2018 06:30:53_
+_17.01.2018 06:32:33_
