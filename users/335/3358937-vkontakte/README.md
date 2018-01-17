@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>40</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>41</sup>
 ---
 
 ## 2018
+
+### Высшая правовая магическая академия. Оперативные будни
+Маргарита Гришаева
+> [2018-01-13] 
+
 
 ### Мистер Смерть и чокнутая ведьма
 Милена Завойчинская

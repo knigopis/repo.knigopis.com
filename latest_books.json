@@ -1,4 +1,16 @@
 {
+    "VvBL03ZiKQ": {
+        "id": "VvBL03ZiKQ",
+        "title": "Высшая правовая магическая академия. Оперативные будни",
+        "author": "Маргарита Гришаева",
+        "notes": "",
+        "createdAt": "2018-01-17 06:29:40",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 41
+        }
+    },
     "ZuVyTAfeSN": {
         "id": "ZuVyTAfeSN",
         "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 96
-        }
-    },
-    "nTWKpzywA_": {
-        "id": "nTWKpzywA_",
-        "title": "Билет на планету Транай",
-        "author": "Роберт Шекли",
-        "notes": "Небольшой рассказ об утопическом обществе на планете Транай. Интересно было бы проверить, действительно ли описанное общество могло бы длительно существовать?",
-        "createdAt": "2018-01-12 16:27:08",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 143
         }
     }
 }
