@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Avalan4er](users/116/116611107424732523972-google)<sup>0</sup> 
+[Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 
 
-_17.01.2018 15:30:09_
+_17.01.2018 15:30:55_
