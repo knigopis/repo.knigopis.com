@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
 * Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
 * Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
 * Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
 * Рассказы - Азимов Айзек ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>99</sup>
-* Поперёк живота ~ [Tr](users/122/12282474-vkontakte)<sup>58</sup>
 
 
-_17.01.2018 06:32:33_
+_17.01.2018 17:36:03_

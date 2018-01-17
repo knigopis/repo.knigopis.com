@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
+    > Давно хотела почитать Пратчетта и вот свершилось. Первая книга Плоского мира понравилась. Весело, динамично, посмотрим что будет дальше
+
 * Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
     > Очень интересная книга, необычный мир и удивительные расы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Жду четвертую книгу, обещают выпустить в январе 2018
 
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
-    > Посредственно
 
 * История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 
-* Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>166</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>165</sup> 
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 [raikiya](users/111/111642348471440632750-google)<sup>0</sup> 
 [Evgeny](users/105/105112991095828409681-google)<sup>14</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>4</sup> 
 
 
-_17.01.2018 15:30:55_
+_17.01.2018 17:36:03_

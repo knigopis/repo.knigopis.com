@@ -1,4 +1,16 @@
 {
+    "M7A2ucWwg4": {
+        "id": "M7A2ucWwg4",
+        "title": "Цвет волшебства",
+        "author": "Пратчетт, Терри",
+        "notes": "Давно хотела почитать Пратчетта и вот свершилось. Первая книга Плоского мира понравилась. Весело, динамично, посмотрим что будет дальше",
+        "createdAt": "2018-01-17 17:36:03",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 166
+        }
+    },
     "TGptsM-5ox": {
         "id": "TGptsM-5ox",
         "title": "Магия грез",
@@ -345,18 +357,6 @@
             "id": "587843224-yandex",
             "nickname": "kpdemo",
             "booksCount": 3
-        }
-    },
-    "uvebsx1oxH": {
-        "id": "uvebsx1oxH",
-        "title": "Преступление и наказание",
-        "author": "Федор Достоевский",
-        "notes": "",
-        "createdAt": "2018-01-14 20:48:58",
-        "user": {
-            "id": "587843224-yandex",
-            "nickname": "kpdemo",
-            "booksCount": 2
         }
     }
 }
