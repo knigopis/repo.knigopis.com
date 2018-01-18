@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>32</sup> 
 [En](users/333/333646551-vkontakte)<sup>30</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>166</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
-[me](users/381/381417697-yandex)<sup>33</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JanGus1337](users/111/111539592390354730982-google)<sup>1</sup> 
 
 
-_18.01.2018 04:45:23_
+_18.01.2018 09:48:41_
