@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>33</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>32</sup>
 ---
 
 ## 2016
@@ -118,8 +118,6 @@ Joshua Bloch
 
 
 ## Other years
-
-
 
 ### Гарри Поттер 1—5
 Дж. К. Роулинг
