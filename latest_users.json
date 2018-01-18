@@ -1,4 +1,10 @@
 {
+    "55069186-vkontakte": {
+        "id": "55069186-vkontakte",
+        "nickname": "kroll555",
+        "booksCount": 0,
+        "updatedAt": "2018-01-18 14:41:14"
+    },
     "104039306433880382809-google": {
         "id": "104039306433880382809-google",
         "nickname": "zengine",
@@ -172,11 +178,5 @@
         "nickname": "raikiya",
         "booksCount": 0,
         "updatedAt": "2018-01-10 21:55:20"
-    },
-    "105112991095828409681-google": {
-        "id": "105112991095828409681-google",
-        "nickname": "Evgeny",
-        "booksCount": 14,
-        "updatedAt": "2018-01-10 21:23:33"
     }
 }
