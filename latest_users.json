@@ -1,4 +1,10 @@
 {
+    "104039306433880382809-google": {
+        "id": "104039306433880382809-google",
+        "nickname": "zengine",
+        "booksCount": 0,
+        "updatedAt": "2018-01-18 12:05:29"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Evgeny",
         "booksCount": 14,
         "updatedAt": "2018-01-10 21:23:33"
-    },
-    "111539592390354730982-google": {
-        "id": "111539592390354730982-google",
-        "nickname": "JanGus1337",
-        "booksCount": 1,
-        "updatedAt": "2018-01-10 21:17:16"
     }
 }
