@@ -1,4 +1,16 @@
 {
+    "Fy3fCwGUku": {
+        "id": "Fy3fCwGUku",
+        "title": "Дом Солнц",
+        "author": "Аластер Рейнольдс",
+        "notes": "",
+        "createdAt": "2018-01-18 17:25:49",
+        "user": {
+            "id": "113403981444089823417-google",
+            "nickname": "Gantzyaka",
+            "booksCount": 1
+        }
+    },
     "6Xt4T2LnJ6": {
         "id": "6Xt4T2LnJ6",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 29
-        }
-    },
-    "LEGtrbjSJY": {
-        "id": "LEGtrbjSJY",
-        "title": "Harry Potter and the Chamber of Secrets",
-        "author": "Joanne Rowling",
-        "notes": "",
-        "createdAt": "2018-01-14 21:11:18",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 26
         }
     }
 }
