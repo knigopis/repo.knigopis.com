@@ -1,4 +1,16 @@
 {
+    "6Xt4T2LnJ6": {
+        "id": "6Xt4T2LnJ6",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-01-18 14:45:56",
+        "user": {
+            "id": "55069186-vkontakte",
+            "nickname": "kroll555",
+            "booksCount": 1
+        }
+    },
     "RNAho6TPmH": {
         "id": "RNAho6TPmH",
         "title": "Источник магии",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 26
-        }
-    },
-    "WFfT7nypR5": {
-        "id": "WFfT7nypR5",
-        "title": "Сага о Рейневане: Свет Вечный",
-        "author": "Анджей Сапковский",
-        "notes": "Книга 3",
-        "createdAt": "2018-01-14 21:07:37",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 133
         }
     }
 }
