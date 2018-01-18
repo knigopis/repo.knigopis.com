@@ -1,7 +1,12 @@
-# List of books read by [Gantzyaka](https://plus.google.com/113403981444089823417)<sup>2</sup>
+# List of books read by [Gantzyaka](https://plus.google.com/113403981444089823417)<sup>3</sup>
 ---
 
 ## 2018
+
+### Руководство для новых сотрудников \(^0^)/
+Valve
+> [2018-01] 
+
 
 ### Дом Солнц
 Аластер Рейнольдс
