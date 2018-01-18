@@ -1,4 +1,16 @@
 {
+    "S_P-QIE2cW": {
+        "id": "S_P-QIE2cW",
+        "title": "Чистый код",
+        "author": "Р. Мартин",
+        "notes": "",
+        "createdAt": "2018-01-18 17:35:24",
+        "user": {
+            "id": "113403981444089823417-google",
+            "nickname": "Gantzyaka",
+            "booksCount": 4
+        }
+    },
     "iZ2xUXFkyt": {
         "id": "iZ2xUXFkyt",
         "title": "Руководство для новых сотрудников \\(^0^)/",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 24
-        }
-    },
-    "fLDWsQIpF6": {
-        "id": "fLDWsQIpF6",
-        "title": "Завтрак у Тиффани",
-        "author": "Трумэн Капоте",
-        "notes": "",
-        "createdAt": "2018-01-15 09:37:18",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 23
         }
     }
 }

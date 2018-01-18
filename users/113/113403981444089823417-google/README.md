@@ -1,4 +1,4 @@
-# List of books read by [Gantzyaka](https://plus.google.com/113403981444089823417)<sup>3</sup>
+# List of books read by [Gantzyaka](https://plus.google.com/113403981444089823417)<sup>4</sup>
 ---
 
 ## 2018
@@ -15,6 +15,10 @@ Valve
 
 
 ## 2017
+
+### Чистый код
+Р. Мартин
+
 
 ### Ложная Слепота
 Питер Уоттс
