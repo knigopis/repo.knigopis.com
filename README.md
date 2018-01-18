@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Gantzyaka](users/113/113403981444089823417-google)<sup>1</sup> 
+[Gantzyaka](users/113/113403981444089823417-google)<sup>2</sup> 
 [kroll555](users/550/55069186-vkontakte)<sup>1</sup> 
 [zengine](users/104/104039306433880382809-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 
 
-_18.01.2018 17:25:49_
+_18.01.2018 17:26:50_
