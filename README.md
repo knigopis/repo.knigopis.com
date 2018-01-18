@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
+    > Вторая часть серии. Книга интересная, но меня не захватила. ГГ вызывал всю книгу раздражение. Мир интересный, флоора и фауна радует разнообразием. Сюжет не затянут, с компанией постоянно что то случается.
+
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
     > Давно хотела почитать Пратчетта и вот свершилось. Первая книга Плоского мира понравилась. Весело, динамично, посмотрим что будет дальше
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень интересная книга, необычный мир и удивительные расы.
 
 * Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
-    > Жду четвертую книгу, обещают выпустить в январе 2018
 
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 
-* Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>30</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>166</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>25</sup> 
-[En](users/333/333646551-vkontakte)<sup>29</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [JanGus1337](users/111/111539592390354730982-google)<sup>1</sup> 
 
 
-_17.01.2018 21:55:31_
+_18.01.2018 04:45:23_
