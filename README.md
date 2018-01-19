@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[je_lis](users/117/117459010591942074929-google)<sup>0</sup> 
 [Gantzyaka](users/113/113403981444089823417-google)<sup>4</sup> 
 [kroll555](users/550/55069186-vkontakte)<sup>1</sup> 
 [zengine](users/104/104039306433880382809-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>106</sup> 
-[kurtcobain177](users/234/23409175-vkontakte)<sup>1</sup> 
 
 
-_18.01.2018 17:35:24_
+_19.01.2018 08:06:46_
