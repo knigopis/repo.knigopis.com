@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 * Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
 * Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
@@ -30,7 +31,6 @@
 * Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
 * The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
 * Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
-* Рассказы - Акутагава Рюноскэ ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>100</sup>
 
 
-_18.01.2018 04:45:23_
+_19.01.2018 20:11:30_

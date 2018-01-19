@@ -1,4 +1,10 @@
 {
+    "158304782-vkontakte": {
+        "id": "158304782-vkontakte",
+        "nickname": "Madlax",
+        "booksCount": 132,
+        "updatedAt": "2018-01-19 20:11:30"
+    },
     "117459010591942074929-google": {
         "id": "117459010591942074929-google",
         "nickname": "je_lis",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 143,
         "updatedAt": "2018-01-12 16:27:08"
-    },
-    "3621623-vkontakte": {
-        "id": "3621623-vkontakte",
-        "nickname": "abzagir4ik",
-        "booksCount": 106,
-        "updatedAt": "2018-01-12 03:41:14"
     }
 }
