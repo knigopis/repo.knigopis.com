@@ -1,4 +1,10 @@
 {
+    "117459010591942074929-google": {
+        "id": "117459010591942074929-google",
+        "nickname": "je_lis",
+        "booksCount": 0,
+        "updatedAt": "2018-01-19 08:06:43"
+    },
     "113403981444089823417-google": {
         "id": "113403981444089823417-google",
         "nickname": "Gantzyaka",
@@ -172,11 +178,5 @@
         "nickname": "abzagir4ik",
         "booksCount": 106,
         "updatedAt": "2018-01-12 03:41:14"
-    },
-    "23409175-vkontakte": {
-        "id": "23409175-vkontakte",
-        "nickname": "kurtcobain177",
-        "booksCount": 1,
-        "updatedAt": "2018-01-11 16:13:26"
     }
 }
