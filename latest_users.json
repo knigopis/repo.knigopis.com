@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 97,
+        "updatedAt": "2018-01-19 22:08:47"
+    },
     "158304782-vkontakte": {
         "id": "158304782-vkontakte",
         "nickname": "Madlax",
@@ -154,12 +160,6 @@
         "nickname": "Татьянка",
         "booksCount": 0,
         "updatedAt": "2018-01-13 20:16:11"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 96,
-        "updatedAt": "2018-01-12 22:18:09"
     },
     "1142697389168655-facebook": {
         "id": "1142697389168655-facebook",

@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>97</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>132</sup> 
 [je_lis](users/117/117459010591942074929-google)<sup>1</sup> 
 [Gantzyaka](users/113/113403981444089823417-google)<sup>4</sup> 
@@ -66,10 +67,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Yayashev](users/298/298204458-vkontakte)<sup>2</sup> 
 [orli](users/106/106815402206046238798-google)<sup>0</sup> 
 [Татьянка](users/233/233897014-vkontakte)<sup>0</sup> 
-[International master](users/741/74140988-vkontakte)<sup>96</sup> 
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>143</sup> 
 
 
-_19.01.2018 20:11:30_
+_19.01.2018 22:08:47_

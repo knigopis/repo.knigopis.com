@@ -1,4 +1,16 @@
 {
+    "pmL_gAUQxz": {
+        "id": "pmL_gAUQxz",
+        "title": "Социальная сеть: Как основатель Facebook заработал $4 миллиарда и приобрёл 500 миллионов друзей",
+        "author": "Дэвид Киркпатрик",
+        "notes": "",
+        "createdAt": "2018-01-19 22:08:47",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 97
+        }
+    },
     "525M_Y5cJq": {
         "id": "525M_Y5cJq",
         "title": "Норвежский лес",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 71
-        }
-    },
-    "URZV8CWwIJ": {
-        "id": "URZV8CWwIJ",
-        "title": "Врата войны",
-        "author": "Раймонд Фейст",
-        "notes": "",
-        "createdAt": "2018-01-15 12:23:10",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 110
         }
     }
 }
