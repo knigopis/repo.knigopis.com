@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>26</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>9</sup> 
@@ -61,7 +62,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 
 
-_20.01.2018 15:51:18_
+_20.01.2018 19:46:13_
