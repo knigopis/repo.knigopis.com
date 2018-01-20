@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 9,
+        "updatedAt": "2018-01-20 08:59:15"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "shabeeetnik",
         "booksCount": 0,
         "updatedAt": "2018-01-12 19:51:37"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 143,
-        "updatedAt": "2018-01-12 16:27:08"
     }
 }

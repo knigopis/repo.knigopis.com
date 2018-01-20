@@ -1,4 +1,16 @@
 {
+    "bsHZsvrEM-": {
+        "id": "bsHZsvrEM-",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2018-01-20 08:59:15",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 9
+        }
+    },
     "pmL_gAUQxz": {
         "id": "pmL_gAUQxz",
         "title": "Социальная сеть: Как основатель Facebook заработал $4 миллиарда и приобрёл 500 миллионов друзей",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 33
-        }
-    },
-    "zLvUlISzaO": {
-        "id": "zLvUlISzaO",
-        "title": "Последнее дело Даймонда",
-        "author": "Питер Ловси",
-        "notes": "Посредственно",
-        "createdAt": "2018-01-15 12:39:37",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 71
         }
     }
 }

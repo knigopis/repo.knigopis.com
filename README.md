@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>9</sup> 
 [International master](users/741/74140988-vkontakte)<sup>97</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>132</sup> 
 [je_lis](users/117/117459010591942074929-google)<sup>1</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Татьянка](users/233/233897014-vkontakte)<sup>0</sup> 
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>143</sup> 
 
 
-_19.01.2018 22:08:47_
+_20.01.2018 08:59:15_
