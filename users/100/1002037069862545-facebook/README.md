@@ -1,7 +1,12 @@
-# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>25</sup>
+# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>26</sup>
 ---
 
 ## 2018
+
+### Мальчик в полосатой пижаме
+Джон Бойн
+> [2018-01-20] 
+
 
 ### Невыносимая легкость бытия
 Милан Кундера

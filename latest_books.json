@@ -1,4 +1,16 @@
 {
+    "T7Bgqn6kmR": {
+        "id": "T7Bgqn6kmR",
+        "title": "Мальчик в полосатой пижаме",
+        "author": "Джон Бойн",
+        "notes": "",
+        "createdAt": "2018-01-20 15:37:20",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 26
+        }
+    },
     "bsHZsvrEM-": {
         "id": "bsHZsvrEM-",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 2
-        }
-    },
-    "lLXGWzkznV": {
-        "id": "lLXGWzkznV",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-01-15 19:32:56",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 33
         }
     }
 }

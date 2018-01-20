@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>26</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>9</sup> 
 [International master](users/741/74140988-vkontakte)<sup>97</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>132</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>25</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>26</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 
 
-_20.01.2018 08:59:15_
+_20.01.2018 15:37:20_

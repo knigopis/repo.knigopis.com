@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 26,
+        "updatedAt": "2018-01-20 15:37:20"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -112,12 +118,6 @@
         "nickname": "Tanya 71",
         "booksCount": 0,
         "updatedAt": "2018-01-15 11:26:22"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 25,
-        "updatedAt": "2018-01-15 09:39:26"
     },
     "109232883876697421544-google": {
         "id": "109232883876697421544-google",
