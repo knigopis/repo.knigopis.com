@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>26</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>9</sup> 
 [International master](users/741/74140988-vkontakte)<sup>97</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [orli](users/106/106815402206046238798-google)<sup>0</sup> 
 [Татьянка](users/233/233897014-vkontakte)<sup>0</sup> 
 [Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
-[shabeeetnik](users/578/57892462-vkontakte)<sup>0</sup> 
 
 
-_20.01.2018 15:37:20_
+_20.01.2018 15:51:18_
