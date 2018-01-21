@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
-* Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 
 
-_21.01.2018 08:43:37_
+_21.01.2018 11:40:53_

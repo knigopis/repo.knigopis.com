@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
+    > Очень интересное, хотя и немного эмоционально тяжелая
+
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
     > Отличный детектив!!!
 
@@ -15,8 +18,6 @@ Do not use pull requests to make changes here.
     > Герой несовершенен и не становится каким-то супергероем в конце, но вызывает уважение тем, что пошел по правильному пути.
 
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
-    > Показало мне новый интересный взгляд на работу физиков и на науку вцелом.
-    > Несмотря на то, что это физика, сложные вещи рассказываются легким языком, понятным даже тому, кто к физике имеет весьма косвенное отношение.
 
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 
@@ -30,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
 
-* История  пропавшем ребенке ~ [Элла](users/100/1002037069862545-facebook)<sup>22</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[amesyatseva](users/335/3358937-vkontakte)<sup>45</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>41</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>37</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
@@ -54,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>166</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
-[amesyatseva](users/335/3358937-vkontakte)<sup>44</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
@@ -69,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [orli](users/106/106815402206046238798-google)<sup>0</sup> 
 
 
-_21.01.2018 08:43:37_
+_21.01.2018 11:40:53_

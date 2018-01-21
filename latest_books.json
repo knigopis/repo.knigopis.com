@@ -1,4 +1,16 @@
 {
+    "zSLbvqBiFu": {
+        "id": "zSLbvqBiFu",
+        "title": "Единственная для оборотня и теща в нагрузку",
+        "author": "Франциска Вудворт",
+        "notes": "Очень интересное, хотя и немного эмоционально тяжелая",
+        "createdAt": "2018-01-21 11:40:53",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 45
+        }
+    },
     "F8ankZhp6w": {
         "id": "F8ankZhp6w",
         "title": "Охотники за головами",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 6
-        }
-    },
-    "v3QjwDypGH": {
-        "id": "v3QjwDypGH",
-        "title": "\"Джен Эйр\"",
-        "author": "Шарлотта Бронте",
-        "notes": "",
-        "createdAt": "2018-01-15 22:29:01",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 5
         }
     }
 }
