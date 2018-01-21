@@ -1,4 +1,16 @@
 {
+    "xBjObr86kN": {
+        "id": "xBjObr86kN",
+        "title": "Мертвые игры 3",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2018-01-21 13:13:41",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 49
+        }
+    },
     "pVdB_Ixlzt": {
         "id": "pVdB_Ixlzt",
         "title": "Мертвые игры 4. О смертельных схватках и их победителях",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 11
-        }
-    },
-    "py7UYldUpz": {
-        "id": "py7UYldUpz",
-        "title": "\"Лунь\"",
-        "author": "Сергей Клочков",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-15 22:35:39",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 9
         }
     }
 }
