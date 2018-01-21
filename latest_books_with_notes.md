@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 * Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
@@ -30,7 +31,6 @@
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
 * Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
 * The Swiss Spy ~ [exulted](users/100/100599204551896265722-google)<sup>51</sup>
-* Мифы мотивации ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>134</sup>
 
 
-_19.01.2018 20:11:30_
+_21.01.2018 08:27:33_

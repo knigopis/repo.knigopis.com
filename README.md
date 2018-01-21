@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
+    > Показало мне новый интересный взгляд на работу физиков и на науку вцелом.
+    > Несмотря на то, что это физика, сложные вещи рассказываются легким языком, понятным даже тому, кто к физике имеет весьма косвенное отношение.
+
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
     > Больные люди так или иначе заражают здоровых, или больные просто притягиваются друг к другу.
     > Наверное единственная история у Мураками без мистики.
@@ -19,7 +23,6 @@ Do not use pull requests to make changes here.
     > Вторая часть серии. Книга интересная, но меня не захватила. ГГ вызывал всю книгу раздражение. Мир интересный, флоора и фауна радует разнообразием. Сюжет не затянут, с компанией постоянно что то случается.
 
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
-    > Давно хотела почитать Пратчетта и вот свершилось. Первая книга Плоского мира понравилась. Весело, динамично, посмотрим что будет дальше
 
 * Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
 
@@ -33,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
 
-* Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>36</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>26</sup> 
@@ -69,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Yayashev](users/298/298204458-vkontakte)<sup>2</sup> 
 [orli](users/106/106815402206046238798-google)<sup>0</sup> 
 [Татьянка](users/233/233897014-vkontakte)<sup>0</sup> 
-[Margo](users/114/1142697389168655-facebook)<sup>0</sup> 
 
 
-_20.01.2018 19:46:13_
+_21.01.2018 08:27:33_
