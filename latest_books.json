@@ -1,4 +1,16 @@
 {
+    "h0AYZ-oJQr": {
+        "id": "h0AYZ-oJQr",
+        "title": "О мстительных некромантах и запрещенных артефактах",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2018-01-21 11:42:12",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 46
+        }
+    },
     "zSLbvqBiFu": {
         "id": "zSLbvqBiFu",
         "title": "Единственная для оборотня и теща в нагрузку",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 7
-        }
-    },
-    "CGqLnHv6Pp": {
-        "id": "CGqLnHv6Pp",
-        "title": "\"Линия огня\"",
-        "author": "Василий Орехов",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-15 22:31:32",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 6
         }
     }
 }

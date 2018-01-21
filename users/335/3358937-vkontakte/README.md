@@ -1,4 +1,4 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>45</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>46</sup>
 ---
 
 ## 2018
@@ -224,6 +224,10 @@
 ### Обрученные кровью. Отбор
 Наталья Жильцова
 > [2017-05-03] 
+
+
+### О мстительных некромантах и запрещенных артефактах
+Елена Звёздная
 
 
 
