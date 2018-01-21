@@ -1,4 +1,16 @@
 {
+    "pVdB_Ixlzt": {
+        "id": "pVdB_Ixlzt",
+        "title": "Мертвые игры 4. О смертельных схватках и их победителях",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2018-01-21 13:13:29",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 48
+        }
+    },
     "TS2SwpSiU3": {
         "id": "TS2SwpSiU3",
         "title": "Мертвые игры. Книга вторая. О магах-отступниках и таинственных ритуалах",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 9
-        }
-    },
-    "Mx5GYwEduM": {
-        "id": "Mx5GYwEduM",
-        "title": "\"Дезертир\"",
-        "author": "Алексей Степанов",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-15 22:34:43",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 8
         }
     }
 }
