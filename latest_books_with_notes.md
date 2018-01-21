@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
@@ -30,7 +31,6 @@
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
 * Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 * Башня из черного дерева ~ [Saamy](users/115/115226508-vkontakte)<sup>32</sup>
-* Степной волк ~ [Saamy](users/115/115226508-vkontakte)<sup>31</sup>
 
 
-_21.01.2018 08:30:01_
+_21.01.2018 08:43:37_

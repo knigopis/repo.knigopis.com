@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>40</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>41</sup>
 ---
 
 ## 2018
+
+### Охотники за головами
+Несбё Ю
+> [2018-01] Отличный детектив!!!
+
 
 ### Страж (тетралогия)
 Пехов Алексей
