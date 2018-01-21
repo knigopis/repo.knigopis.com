@@ -1,4 +1,16 @@
 {
+    "TS2SwpSiU3": {
+        "id": "TS2SwpSiU3",
+        "title": "Мертвые игры. Книга вторая. О магах-отступниках и таинственных ритуалах",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2018-01-21 11:42:36",
+        "user": {
+            "id": "3358937-vkontakte",
+            "nickname": "amesyatseva",
+            "booksCount": 47
+        }
+    },
     "h0AYZ-oJQr": {
         "id": "h0AYZ-oJQr",
         "title": "О мстительных некромантах и запрещенных артефактах",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 8
-        }
-    },
-    "yEmoNvNCZq": {
-        "id": "yEmoNvNCZq",
-        "title": "\"Мечта на поражение\"",
-        "author": "Алексей Калугин",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-15 22:32:26",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 7
         }
     }
 }
