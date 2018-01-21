@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Curobina](users/306/30645161-vkontakte)<sup>0</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>41</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>37</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 [Baturkina](users/200/2006244976058700-facebook)<sup>0</sup> 
 [Yayashev](users/298/298204458-vkontakte)<sup>2</sup> 
-[orli](users/106/106815402206046238798-google)<sup>0</sup> 
 
 
-_21.01.2018 13:13:41_
+_21.01.2018 14:51:00_
