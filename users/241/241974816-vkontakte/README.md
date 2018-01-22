@@ -1,7 +1,12 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>134</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>135</sup>
 ---
 
 ## 2018
+
+### Логико-философский трактат / Tractatus logico-philosophicus
+Людвиг Витгенштейн
+> [2018-01-22] в процессе
+
 
 ### Мифы мотивации
 Райнхард К. Шпренгер

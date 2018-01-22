@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
+    > в процессе
+
 * Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
     > Продолжение Вафли по шпионски. Вильмонт в своем стиле. Но про кошек - красиво)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень интересное, хотя и немного эмоционально тяжелая
 
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
-    > Отличный детектив!!!
 
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
 
-* Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>42</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
 [svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
-[Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 
 
-_22.01.2018 21:18:01_
+_22.01.2018 22:02:06_

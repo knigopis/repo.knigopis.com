@@ -1,4 +1,16 @@
 {
+    "vJWTr2MWc4": {
+        "id": "vJWTr2MWc4",
+        "title": "Логико-философский трактат / Tractatus logico-philosophicus",
+        "author": "Людвиг Витгенштейн",
+        "notes": "в процессе",
+        "createdAt": "2018-01-22 22:02:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 135
+        }
+    },
     "3dEcYXjmmb": {
         "id": "3dEcYXjmmb",
         "title": "Шпионы тоже лохи",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 41
-        }
-    },
-    "ZuVyTAfeSN": {
-        "id": "ZuVyTAfeSN",
-        "title": "Илон Маск. Tesla, SpaceX и дорога в будущее",
-        "author": "Вэнс Эшли",
-        "notes": "",
-        "createdAt": "2018-01-16 06:21:43",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 10
         }
     }
 }
