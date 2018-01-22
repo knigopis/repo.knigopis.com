@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
 * Хочу и буду. Принять себя, полюбить жизнь и стать счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup>
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
 * Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
@@ -30,7 +31,6 @@
 * Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
 * Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
-* Сутта-Нипата ~ [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup>
 
 
-_22.01.2018 22:03:07_
+_22.01.2018 22:05:02_

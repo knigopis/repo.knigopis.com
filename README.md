@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
+    > Эмоционально о том, что сухая логика менеджмента и цифр не работает, и нужно рассказывать людям эмоциональные истории. Возможно, на прогнившем Западе это открытие и великая истина. Мы же в России всегда так жили и живём, на более высоком уровне.
+    > 
+    > Формализованы пять основных сюжетов для историй. Дана методика, как их тренировать.
+    > 
+    > https://www.ozon.ru/context/detail/id/30276405/
+
 * Хочу и буду. Принять себя, полюбить жизнь и стать счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup>
     > Лабковский, как обычно, неподражаем и предельно доходчив :)
     > 
@@ -16,7 +23,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
-    > Продолжение Вафли по шпионски. Вильмонт в своем стиле. Но про кошек - красиво)
 
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
 
@@ -30,14 +36,12 @@ Do not use pull requests to make changes here.
 
 * Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
 
-* Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>42</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
 [svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
@@ -69,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 
 
-_22.01.2018 22:03:07_
+_22.01.2018 22:05:02_
