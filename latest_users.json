@@ -1,4 +1,10 @@
 {
+    "1523270917710241-facebook": {
+        "id": "1523270917710241-facebook",
+        "nickname": "ксения",
+        "booksCount": 0,
+        "updatedAt": "2018-01-22 18:29:23"
+    },
     "22511029-vkontakte": {
         "id": "22511029-vkontakte",
         "nickname": "svtvrntsv",
@@ -172,11 +178,5 @@
         "nickname": "Aizo",
         "booksCount": 0,
         "updatedAt": "2018-01-14 20:40:58"
-    },
-    "2006244976058700-facebook": {
-        "id": "2006244976058700-facebook",
-        "nickname": "Baturkina",
-        "booksCount": 0,
-        "updatedAt": "2018-01-14 16:52:07"
     }
 }
