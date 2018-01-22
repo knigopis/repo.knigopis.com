@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хочу и буду. Принять себя, полюбить жизнь и стать счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup>
+    > Лабковский, как обычно, неподражаем и предельно доходчив :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/140129695/
+
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
     > в процессе
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > Продолжение Вафли по шпионски. Вильмонт в своем стиле. Но про кошек - красиво)
 
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
-    > Очень интересное, хотя и немного эмоционально тяжелая
 
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 
@@ -26,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
 
-* Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>42</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
 [svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 
 
-_22.01.2018 22:02:06_
+_22.01.2018 22:03:07_

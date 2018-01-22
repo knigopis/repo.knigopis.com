@@ -1,4 +1,16 @@
 {
+    "maXbGK9Odm": {
+        "id": "maXbGK9Odm",
+        "title": "Хочу и буду. Принять себя, полюбить жизнь и стать счастливым",
+        "author": "Михаил Лабковский",
+        "notes": "Лабковский, как обычно, неподражаем и предельно доходчив :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/140129695/",
+        "createdAt": "2018-01-22 22:03:07",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 136
+        }
+    },
     "vJWTr2MWc4": {
         "id": "vJWTr2MWc4",
         "title": "Логико-философский трактат / Tractatus logico-philosophicus",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 42
-        }
-    },
-    "VvBL03ZiKQ": {
-        "id": "VvBL03ZiKQ",
-        "title": "Высшая правовая магическая академия. Оперативные будни",
-        "author": "Маргарита Гришаева",
-        "notes": "",
-        "createdAt": "2018-01-17 06:29:40",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 41
         }
     }
 }

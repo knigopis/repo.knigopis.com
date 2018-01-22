@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хочу и буду. Принять себя, полюбить жизнь и стать счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup>
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
 * Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Рассказы - Маршал Алан ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>102</sup>
 * Алые паруса ~ [Rainbow](users/109/109787328219839805802-google)<sup>42</sup>
 * Сутта-Нипата ~ [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup>
-* Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 
 
-_22.01.2018 22:02:06_
+_22.01.2018 22:03:07_
