@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[svtvrntsv](users/225/22511029-vkontakte)<sup>0</sup> 
+[svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
 [Curobina](users/306/30645161-vkontakte)<sup>0</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>49</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>41</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Baturkina](users/200/2006244976058700-facebook)<sup>0</sup> 
 
 
-_22.01.2018 17:55:06_
+_22.01.2018 17:57:34_

@@ -1,4 +1,16 @@
 {
+    "BVpjoZnybj": {
+        "id": "BVpjoZnybj",
+        "title": "Ветер в ивах",
+        "author": "Кеннет Грэм",
+        "notes": "",
+        "createdAt": "2018-01-22 17:57:34",
+        "user": {
+            "id": "22511029-vkontakte",
+            "nickname": "svtvrntsv",
+            "booksCount": 1
+        }
+    },
     "xBjObr86kN": {
         "id": "xBjObr86kN",
         "title": "Мертвые игры 3",
@@ -341,18 +353,6 @@
         "author": "Анджей Сапковский",
         "notes": "Серия романов \"Ведьмак\"",
         "createdAt": "2018-01-15 22:38:45",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 11
-        }
-    },
-    "jv7jYoL5Wi": {
-        "id": "jv7jYoL5Wi",
-        "title": "\"Тени Чернобыля\"",
-        "author": "Ежи Тумановский, Александр Дядищев",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-15 22:37:37",
         "user": {
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
