@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
+    > Продолжение Вафли по шпионски. Вильмонт в своем стиле. Но про кошек - красиво)
+
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
     > Очень интересное, хотя и немного эмоционально тяжелая
 
@@ -12,10 +15,6 @@ Do not use pull requests to make changes here.
     > Отличный детектив!!!
 
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
-    > Невероятно сильная книга.
-    > Она и об ужасах войны, и об отношениях отцов и детей, и о дружбе.
-    > наверное, в первую очередь все-таки о дружбе и о смелости. 
-    > Герой несовершенен и не становится каким-то супергероем в конце, но вызывает уважение тем, что пошел по правильному пути.
 
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
 
@@ -29,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Высшая правовая магическая академия. Ловушка для высшего лорда ~ [amesyatseva](users/335/3358937-vkontakte)<sup>43</sup>
 
-* Последнее дело Даймонда ~ [Sky](users/118/118049897850017649660-google)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>42</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
 [svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
 [Curobina](users/306/30645161-vkontakte)<sup>0</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>49</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>41</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>37</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
@@ -68,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Aizo](users/114/114540976145781763458-google)<sup>0</sup> 
 
 
-_22.01.2018 18:29:25_
+_22.01.2018 21:18:01_

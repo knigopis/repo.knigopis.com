@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Сутта-Нипата ~ [idsimonbell](users/380/380554090-vkontakte)<sup>40</sup>
 * Дети лампы. Книга вторая. ~ [Eji_tyan](users/235/2352103981-twitter)<sup>35</sup>
 * Мы на острове Сальткрока ~ [Saamy](users/115/115226508-vkontakte)<sup>35</sup>
-* Маленькая принцесса ~ [Saamy](users/115/115226508-vkontakte)<sup>33</sup>
 
 
-_21.01.2018 11:40:53_
+_22.01.2018 21:18:01_
