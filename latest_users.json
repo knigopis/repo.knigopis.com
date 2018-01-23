@@ -1,4 +1,10 @@
 {
+    "469391233-vkontakte": {
+        "id": "469391233-vkontakte",
+        "nickname": "eva_06",
+        "booksCount": 0,
+        "updatedAt": "2018-01-23 19:39:33"
+    },
     "463801908-yandex": {
         "id": "463801908-yandex",
         "nickname": "belousova0009",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 71,
         "updatedAt": "2018-01-15 12:39:37"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 110,
-        "updatedAt": "2018-01-15 12:23:10"
     }
 }
