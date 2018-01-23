@@ -1,4 +1,10 @@
 {
+    "463801908-yandex": {
+        "id": "463801908-yandex",
+        "nickname": "belousova0009",
+        "booksCount": 0,
+        "updatedAt": "2018-01-23 19:09:25"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 110,
         "updatedAt": "2018-01-15 12:23:10"
-    },
-    "131667662-vkontakte": {
-        "id": "131667662-vkontakte",
-        "nickname": "Tanya 71",
-        "booksCount": 0,
-        "updatedAt": "2018-01-15 11:26:22"
     }
 }
