@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eva_06](users/469/469391233-vkontakte)<sup>0</sup> 
 [belousova0009](users/463/463801908-yandex)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>287</sup> 
 [Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>71</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 
 
-_23.01.2018 19:10:25_
+_23.01.2018 19:39:36_
