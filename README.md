@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>42</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>110</sup> 
 [Tanya 71](users/131/131667662-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>133</sup> 
-[kpdemo](users/587/587843224-yandex)<sup>4</sup> 
 
 
-_22.01.2018 22:05:02_
+_23.01.2018 09:18:43_
