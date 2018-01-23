@@ -1,4 +1,16 @@
 {
+    "GrbDkgjlnF": {
+        "id": "GrbDkgjlnF",
+        "title": "Механизмы радости",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-01-23 19:10:25",
+        "user": {
+            "id": "463801908-yandex",
+            "nickname": "belousova0009",
+            "booksCount": 1
+        }
+    },
     "qBhNn49wni": {
         "id": "qBhNn49wni",
         "title": "Ешь правильно - беги быстро. Правила жизни сверхмарафонца.",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 166
-        }
-    },
-    "TGptsM-5ox": {
-        "id": "TGptsM-5ox",
-        "title": "Магия грез",
-        "author": "Анатолий Нейтак",
-        "notes": "",
-        "createdAt": "2018-01-17 15:30:55",
-        "user": {
-            "id": "116611107424732523972-google",
-            "nickname": "Avalan4er",
-            "booksCount": 1
         }
     }
 }
