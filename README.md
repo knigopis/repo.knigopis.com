@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>37</sup> 
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
 [belousova0009](users/463/463801908-yandex)<sup>1</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
-[nord_book](users/325/325862222-vkontakte)<sup>11</sup> 
 
 
-_24.01.2018 10:51:51_
+_24.01.2018 10:54:10_
