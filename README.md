@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
+    > Продолжение приключений волшебника недоучки Ринсвинда на просторах Плоского мира. (хочу себе сундук их груши разумной)
+
 * Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
     > Эмоционально о том, что сухая логика менеджмента и цифр не работает, и нужно рассказывать людям эмоциональные истории. Возможно, на прогнившем Западе это открытие и великая истина. Мы же в России всегда так жили и живём, на более высоком уровне.
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/140129695/
 
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
-    > в процессе
 
 * Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
 
@@ -34,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 
-* Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>167</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>37</sup> 
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
@@ -67,10 +68,9 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [En](users/333/333646551-vkontakte)<sup>30</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>166</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>10</sup> 
 
 
-_24.01.2018 10:54:10_
+_24.01.2018 16:43:01_
