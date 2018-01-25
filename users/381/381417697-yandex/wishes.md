@@ -17,6 +17,7 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 
 ### `99` Learn You a Haskell for Great Good
 Miran Lipovača
+> // 40%
 
 ### `99` Мертвые души
 Николай Гоголь
