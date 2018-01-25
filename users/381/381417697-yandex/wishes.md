@@ -1,6 +1,10 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
+### `99` Совершенный код
+Стив Макконнелл
+> // 12%
+
 ### `99` Learn You a Haskell for Great Good
 Miran Lipovača
 
@@ -20,12 +24,12 @@ Miran Lipovača
 ### `99` Математическая составляющая
 > // 12%
 
-### `99` Повелитель мух
-Уильям Голдинг
-
 ### `99` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 > // 10%
+
+### `99` Повелитель мух
+Уильям Голдинг
 
 ### `99` Effective Java
 Joshua Bloch
@@ -35,10 +39,6 @@ Joshua Bloch
 
 ### `90` Слово живое и мертвое
 Нора Галь
-
-### `62` Совершенный код
-Стив Макконнелл
-> Прочитано 12%
 
 ### `61` Joel on Software
 Joel Spolsky
