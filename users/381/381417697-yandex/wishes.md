@@ -26,8 +26,9 @@ Joshua Bloch
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать // 98%
 
-### `91` Kotlin in Action
+### `99` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
+> // 10%
 
 ### `90` Слово живое и мертвое
 Нора Галь
