@@ -1,4 +1,16 @@
 {
+    "eMyeRrhEVd": {
+        "id": "eMyeRrhEVd",
+        "title": "Почтамт",
+        "author": "Чарльз Буковски",
+        "notes": "",
+        "createdAt": "2018-01-25 10:44:47",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 5
+        }
+    },
     "UqjPM8bk2k": {
         "id": "UqjPM8bk2k",
         "title": "Безумная звезда",
@@ -344,18 +356,6 @@
         "user": {
             "id": "113403981444089823417-google",
             "nickname": "Gantzyaka",
-            "booksCount": 1
-        }
-    },
-    "6Xt4T2LnJ6": {
-        "id": "6Xt4T2LnJ6",
-        "title": "Три товарища",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2018-01-18 14:45:56",
-        "user": {
-            "id": "55069186-vkontakte",
-            "nickname": "kroll555",
             "booksCount": 1
         }
     }
