@@ -21,10 +21,9 @@ Miran Lipovača
 
 ### `99` Effective Java
 Joshua Bloch
-> Прочитано 99%
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
-> // пропустил 69, 70 -- читать
+> // пропустил 69, 70 -- читать // 98%
 
 ### `91` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
