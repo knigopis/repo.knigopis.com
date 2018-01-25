@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 41,
+        "updatedAt": "2018-01-25 22:29:35"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "zengine",
         "booksCount": 0,
         "updatedAt": "2018-01-18 12:05:29"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 32,
-        "updatedAt": "2018-01-18 09:48:40"
     }
 }

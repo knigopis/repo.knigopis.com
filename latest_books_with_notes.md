@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 * Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
 * Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
 * Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
@@ -30,7 +31,6 @@
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
 * Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
 * Серия Тимиредис ~ [amesyatseva](users/335/3358937-vkontakte)<sup>35</sup>
-* Страж (тетралогия) ~ [Chiffi](users/105/105831994080785626680-google)<sup>40</sup>
 
 
-_25.01.2018 19:35:30_
+_25.01.2018 22:29:35_
