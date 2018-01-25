@@ -11,11 +11,15 @@
 
 ### `99` Гарри Поттер и методы рационального мышления
 
-### `99` Мертвые души
-Николай Гоголь
+### `99` Learning the vi and Vim Editors
+Arnold Robbins, Elbert Hannah, Linda Lamb
+> // 10%
 
 ### `99` Learn You a Haskell for Great Good
 Miran Lipovača
+
+### `99` Мертвые души
+Николай Гоголь
 
 ### `99` Математическая составляющая
 > // 12%
@@ -24,31 +28,28 @@ Miran Lipovača
 Уолтер Гратцер
 > // 50%
 
-### `99` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> // 10%
-
 ### `99` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать // 98%
 
-### `99` Повелитель мух
-Уильям Голдинг
+### `99` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+> // 10%
 
 ### `99` В поисках потока
 Михай Чиксентмихайи
 > прочитано // 70%
+
+### `99` Повелитель мух
+Уильям Голдинг
 
 ### `90` Слово живое и мертвое
 Нора Галь
 
 ### `61` Joel on Software
 Joel Spolsky
-
-### `54` Learning the vi and Vim Editors
-Arnold Robbins, Elbert Hannah, Linda Lamb
 
 ### `53` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
