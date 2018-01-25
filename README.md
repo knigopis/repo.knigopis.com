@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
+    > Рассчитывала дня на три, но что-то пошло не так
+
 * Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
     > Продолжение приключений волшебника недоучки Ринсвинда на просторах Плоского мира. (хочу себе сундук их груши разумной)
 
@@ -16,11 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/30276405/
 
 * Хочу и буду. Принять себя, полюбить жизнь и стать счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>136</sup>
-    > Лабковский, как обычно, неподражаем и предельно доходчив :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/140129695/
 
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
 
@@ -34,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
 
-* Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>36</sup> 
 [georgiy.markarov@teleport-tv.ru](users/113/1130000021612677-yandex)<sup>0</sup> 
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
@@ -70,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kroll555](users/550/55069186-vkontakte)<sup>1</sup> 
 [zengine](users/104/104039306433880382809-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
-[En](users/333/333646551-vkontakte)<sup>30</sup> 
 
 
-_25.01.2018 18:47:45_
+_25.01.2018 19:35:30_

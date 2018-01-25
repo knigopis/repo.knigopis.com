@@ -1,4 +1,16 @@
 {
+    "0CX5Dshv3A": {
+        "id": "0CX5Dshv3A",
+        "title": "Машина времени",
+        "author": "Герберт Уэллс",
+        "notes": "Рассчитывала дня на три, но что-то пошло не так",
+        "createdAt": "2018-01-25 19:35:30",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 36
+        }
+    },
     "UqjPM8bk2k": {
         "id": "UqjPM8bk2k",
         "title": "Безумная звезда",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 40
-        }
-    },
-    "kbio9eUYFW": {
-        "id": "kbio9eUYFW",
-        "title": "Рассказы - Маршал Алан",
-        "author": "",
-        "notes": "Глупый щенок ♫\nПереходя улицу ♫\nРасскажи про индюка, Джо ♫",
-        "createdAt": "2018-01-06 07:09:46",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 102
         }
     }
 }

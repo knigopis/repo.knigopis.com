@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 36,
+        "updatedAt": "2018-01-25 19:35:30"
+    },
     "1130000021612677-yandex": {
         "id": "1130000021612677-yandex",
         "nickname": "georgiy.markarov@teleport-tv.ru",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 32,
         "updatedAt": "2018-01-18 09:48:40"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 30,
-        "updatedAt": "2018-01-18 04:45:23"
     }
 }
