@@ -44,6 +44,10 @@ Joshua Bloch
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать // 98%
 
+### `99` Joel on Software
+Joel Spolsky
+> // 1%
+
 ### `99` Совершенный код
 Стив Макконнелл
 > // 12%
@@ -57,9 +61,6 @@ Joshua Bloch
 ### `99` В поисках потока
 Михай Чиксентмихайи
 > прочитано // 91%
-
-### `61` Joel on Software
-Joel Spolsky
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
