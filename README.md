@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[georgiy.markarov@teleport-tv.ru](users/113/1130000021612677-yandex)<sup>0</sup> 
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
 [Anais Mistral](users/208/2083238101907522-facebook)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zengine](users/104/104039306433880382809-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>32</sup> 
 [En](users/333/333646551-vkontakte)<sup>30</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 
 
-_25.01.2018 11:14:09_
+_25.01.2018 18:47:45_
