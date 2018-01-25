@@ -10,6 +10,7 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 > // 20%
 
 ### `99` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `99` Тайм-драйв
 Глеб Архангельский
@@ -26,17 +27,13 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 Miran Lipovača
 > // 40%
 
+### `99` Совершенный код
+Стив Макконнелл
+> // 12%
+
 ### `99` Портной из Панамы
 Джон Ле Карре
 > // 1%
-
-### `99` Эврики и эйфории. Об ученых и их открытиях
-Уолтер Гратцер
-> // 50%
-
-### `99` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> // 10%
 
 ### `99` Effective Java
 Joshua Bloch
@@ -48,19 +45,20 @@ Joshua Bloch
 Joel Spolsky
 > // 1%
 
-### `99` Совершенный код
-Стив Макконнелл
-> // 12%
+### `99` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+> // 10%
 
 ### `99` Повелитель мух
 Уильям Голдинг
 
-### `99` Математическая составляющая
-> // 12%
-
 ### `99` В поисках потока
 Михай Чиксентмихайи
 > прочитано // 91%
+
+### `99` Эврики и эйфории. Об ученых и их открытиях
+Уолтер Гратцер
+> // 50%
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
