@@ -18,6 +18,7 @@ Miran Lipovača
 
 ### `99` Портной из Панамы
 Джон Ле Карре
+> // 1%
 
 ### `99` Effective Java
 Joshua Bloch
