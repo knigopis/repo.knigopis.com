@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Anais Mistral](users/208/2083238101907522-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>167</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>37</sup> 
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>11</sup> 
 [Avalan4er](users/116/116611107424732523972-google)<sup>1</sup> 
 [Irek](users/231/231587839-vkontakte)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>10</sup> 
 
 
-_24.01.2018 16:43:01_
+_25.01.2018 09:45:16_
