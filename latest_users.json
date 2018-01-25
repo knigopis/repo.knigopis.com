@@ -1,4 +1,10 @@
 {
+    "2083238101907522-facebook": {
+        "id": "2083238101907522-facebook",
+        "nickname": "Anais Mistral",
+        "booksCount": 0,
+        "updatedAt": "2018-01-25 09:45:13"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Irek",
         "booksCount": 0,
         "updatedAt": "2018-01-16 20:27:01"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 10,
-        "updatedAt": "2018-01-16 06:21:43"
     }
 }
