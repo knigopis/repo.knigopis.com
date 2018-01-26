@@ -31,10 +31,6 @@ Miran Lipovača
 Джон Ле Карре
 > // 1%
 
-### `99` Эврики и эйфории. Об ученых и их открытиях
-Уолтер Гратцер
-> // 50%
-
 ### `98` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
@@ -43,6 +39,9 @@ Joshua Bloch
 
 ### `91` В поисках потока
 Михай Чиксентмихайи
+
+### `50` Эврики и эйфории. Об ученых и их открытиях
+Уолтер Гратцер
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
