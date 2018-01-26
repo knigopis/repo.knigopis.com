@@ -1,14 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Learn You a Haskell for Great Good
-Miran Lipovača
-> // 40%
-
-### `99` Тайм-драйв
-Глеб Архангельский
-> // 60%
-
 ### `99` Мертвые души
 Николай Гоголь
 
@@ -23,6 +15,10 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/ // 12%
 
+### `99` Learn You a Haskell for Great Good
+Miran Lipovača
+> // 40%
+
 ### `98` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
@@ -31,6 +27,9 @@ Joshua Bloch
 
 ### `91` В поисках потока
 Михай Чиксентмихайи
+
+### `60` Тайм-драйв
+Глеб Архангельский
 
 ### `50` Эврики и эйфории. Об ученых и их открытиях
 Уолтер Гратцер
