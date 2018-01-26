@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[ElenaShevchuk](users/119/1190249387686387-facebook)<sup>0</sup> 
+[ElenaShevchuk](users/119/1190249387686387-facebook)<sup>1</sup> 
 [polinaantonovna](users/652/6523940-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Gantzyaka](users/113/113403981444089823417-google)<sup>4</sup> 
 
 
-_26.01.2018 15:26:55_
+_26.01.2018 15:30:40_

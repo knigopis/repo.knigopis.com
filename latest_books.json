@@ -1,4 +1,16 @@
 {
+    "ZJQM_CK0ZB": {
+        "id": "ZJQM_CK0ZB",
+        "title": "Выйти из зоны комфорта. Измени свою жизнь 21 метод",
+        "author": "Трейси Брайан",
+        "notes": "",
+        "createdAt": "2018-01-26 15:30:40",
+        "user": {
+            "id": "1190249387686387-facebook",
+            "nickname": "ElenaShevchuk",
+            "booksCount": 1
+        }
+    },
     "Uete8BFsmR": {
         "id": "Uete8BFsmR",
         "title": "Кочегарка",
@@ -345,18 +357,6 @@
             "id": "113403981444089823417-google",
             "nickname": "Gantzyaka",
             "booksCount": 4
-        }
-    },
-    "iZ2xUXFkyt": {
-        "id": "iZ2xUXFkyt",
-        "title": "Руководство для новых сотрудников \\(^0^)/",
-        "author": "Valve",
-        "notes": "",
-        "createdAt": "2018-01-18 17:32:53",
-        "user": {
-            "id": "113403981444089823417-google",
-            "nickname": "Gantzyaka",
-            "booksCount": 3
         }
     }
 }
