@@ -4,10 +4,6 @@
 ### `99` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
-### `99` Learning the vi and Vim Editors
-Arnold Robbins, Elbert Hannah, Linda Lamb
-> // 10%
-
 ### `99` Learn You a Haskell for Great Good
 Miran Lipovača
 > // 40%
@@ -39,6 +35,9 @@ Randall Munroe
 
 ### `12` Совершенный код
 Стив Макконнелл
+
+### `10` Learning the vi and Vim Editors
+Arnold Robbins, Elbert Hannah, Linda Lamb
 
 ### `10` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
