@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
 ### `98` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
@@ -28,24 +25,21 @@ Randall Munroe
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
 
-### `12` Совершенный код
-Стив Макконнелл
+### `10` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
-### `10` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-
 ### `1` Портной из Панамы
 Джон Ле Карре
-
-### `1` Повелитель мух
-Уильям Голдинг
 
 ### `1` A Briefer History of Time
 Stephen Hawking
@@ -53,6 +47,12 @@ Stephen Hawking
 ### `1` Joel on Software
 Joel Spolsky
 
+### `1` Повелитель мух
+Уильям Голдинг
+
 ### `` Мертвые души
 Николай Гоголь
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
