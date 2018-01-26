@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 43,
+        "updatedAt": "2018-01-26 19:45:24"
+    },
     "1190249387686387-facebook": {
         "id": "1190249387686387-facebook",
         "nickname": "ElenaShevchuk",
@@ -94,12 +100,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 137,
         "updatedAt": "2018-01-22 22:05:02"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 42,
-        "updatedAt": "2018-01-22 21:18:01"
     },
     "1523270917710241-facebook": {
         "id": "1523270917710241-facebook",
