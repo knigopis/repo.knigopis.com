@@ -44,7 +44,7 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 ### `1` Joel on Software
 Joel Spolsky
 
-### `1` Повелитель мух
+### `` Повелитель мух
 Уильям Голдинг
 
 ### `` Мертвые души
