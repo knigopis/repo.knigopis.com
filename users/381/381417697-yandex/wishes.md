@@ -41,9 +41,6 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `1` A Briefer History of Time
-Stephen Hawking
-
 ### `1` Joel on Software
 Joel Spolsky
 
@@ -55,4 +52,7 @@ Joel Spolsky
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
+
+### `` A Briefer History of Time
+Stephen Hawking
 
