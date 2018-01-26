@@ -1,23 +1,20 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `99` Мертвые души
-Николай Гоголь
+### `99` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `99` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 > // 10%
 
-### `99` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `99` Learn You a Haskell for Great Good
+Miran Lipovača
+> // 40%
 
 ### `99` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/ // 12%
-
-### `99` Learn You a Haskell for Great Good
-Miran Lipovača
-> // 40%
 
 ### `98` Effective Java
 Joshua Bloch
@@ -49,12 +46,15 @@ Dmitry Jemerov, Svetlana Isakova
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `1` Joel on Software
-Joel Spolsky
-
 ### `1` Повелитель мух
 Уильям Голдинг
 
 ### `1` A Briefer History of Time
 Stephen Hawking
+
+### `1` Joel on Software
+Joel Spolsky
+
+### `` Мертвые души
+Николай Гоголь
 
