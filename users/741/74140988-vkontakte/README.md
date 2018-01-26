@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>97</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>98</sup>
 ---
 
 ## 2018
+
+### Отверженные
+Виктор Гюго
+> [2018-01-26] 
+
 
 ### Социальная сеть: Как основатель Facebook заработал $4 миллиарда и приобрёл 500 миллионов друзей
 Дэвид Киркпатрик

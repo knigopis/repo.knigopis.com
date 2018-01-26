@@ -1,4 +1,16 @@
 {
+    "MifVwC_wy1": {
+        "id": "MifVwC_wy1",
+        "title": "Отверженные",
+        "author": "Виктор Гюго",
+        "notes": "",
+        "createdAt": "2018-01-26 20:42:00",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 98
+        }
+    },
     "2EfvjsOt2N": {
         "id": "2EfvjsOt2N",
         "title": "Вдруг охотник выбегает",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 132
-        }
-    },
-    "cjFV8wdNv1": {
-        "id": "cjFV8wdNv1",
-        "title": "кве",
-        "author": "пнгег",
-        "notes": "",
-        "createdAt": "2018-01-19 08:09:24",
-        "user": {
-            "id": "117459010591942074929-google",
-            "nickname": "je_lis",
-            "booksCount": 1
         }
     }
 }
