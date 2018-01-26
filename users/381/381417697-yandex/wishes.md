@@ -35,15 +35,14 @@ Miran Lipovača
 Уолтер Гратцер
 > // 50%
 
-### `99` В поисках потока
-Михай Чиксентмихайи
-> прочитано // 91%
-
 ### `98` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
 > // пропустил 69, 70 -- читать
+
+### `91` В поисках потока
+Михай Чиксентмихайи
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
