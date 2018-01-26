@@ -4,10 +4,6 @@
 ### `99` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
-### `99` Learn You a Haskell for Great Good
-Miran Lipovača
-> // 40%
-
 ### `98` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
@@ -22,6 +18,9 @@ Joshua Bloch
 
 ### `50` Эврики и эйфории. Об ученых и их открытиях
 Уолтер Гратцер
+
+### `40` Learn You a Haskell for Great Good
+Miran Lipovača
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
