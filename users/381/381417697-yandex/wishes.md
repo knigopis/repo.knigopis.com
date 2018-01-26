@@ -9,10 +9,6 @@ Miran Lipovača
 Глеб Архангельский
 > // 60%
 
-### `99` Слово живое и мертвое
-Нора Галь
-> // 20%
-
 ### `99` Мертвые души
 Николай Гоголь
 
@@ -41,6 +37,9 @@ Joshua Bloch
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
+
+### `20` Слово живое и мертвое
+Нора Галь
 
 ### `12` Совершенный код
 Стив Макконнелл
