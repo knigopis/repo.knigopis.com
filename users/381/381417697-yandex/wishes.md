@@ -31,10 +31,6 @@ Miran Lipovača
 Джон Ле Карре
 > // 1%
 
-### `99` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> // 10%
-
 ### `99` В поисках потока
 Михай Чиксентмихайи
 > прочитано // 91%
@@ -57,6 +53,9 @@ Randall Munroe
 
 ### `12` Совершенный код
 Стив Макконнелл
+
+### `10` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
 
 ### `1` Joel on Software
 Joel Spolsky
