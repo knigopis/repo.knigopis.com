@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `98` Effective Java
+### `100` Effective Java
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать
 > // пропустил часть 51 пункта про classloader -- перечитать
