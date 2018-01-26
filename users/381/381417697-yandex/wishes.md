@@ -31,13 +31,13 @@ Miran Lipovača
 Джон Ле Карре
 > // 1%
 
-### `99` Effective Java
-Joshua Bloch
-> // пропустил пункт про clone() -- перечитать // пропустил часть 51 пункта про classloader -- перечитать // пропустил 69, 70 -- читать // 98%
-
 ### `99` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 > // 10%
+
+### `99` В поисках потока
+Михай Чиксентмихайи
+> прочитано // 91%
 
 ### `99` Повелитель мух
 Уильям Голдинг
@@ -46,9 +46,11 @@ Dmitry Jemerov, Svetlana Isakova
 Уолтер Гратцер
 > // 50%
 
-### `99` В поисках потока
-Михай Чиксентмихайи
-> прочитано // 91%
+### `98` Effective Java
+Joshua Bloch
+> // пропустил пункт про clone() -- перечитать
+> // пропустил часть 51 пункта про classloader -- перечитать
+> // пропустил 69, 70 -- читать
 
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
