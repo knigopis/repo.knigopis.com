@@ -35,10 +35,6 @@ Miran Lipovača
 Joshua Bloch
 > // пропустил пункт про clone() -- перечитать // пропустил часть 51 пункта про classloader -- перечитать // пропустил 69, 70 -- читать // 98%
 
-### `99` Joel on Software
-Joel Spolsky
-> // 1%
-
 ### `99` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 > // 10%
@@ -59,6 +55,9 @@ Randall Munroe
 
 ### `12` Совершенный код
 Стив Макконнелл
+
+### `1` Joel on Software
+Joel Spolsky
 
 ### `1` A Briefer History of Time
 Stephen Hawking
