@@ -2,9 +2,9 @@
     "id": "MnVcIITbHK",
     "userId": "381417697-yandex",
     "createdAt": "2016-07-16 19:42:48",
-    "updatedAt": "2018-01-26 22:53:46",
+    "updatedAt": "2018-01-27 12:26:59",
     "title": "Effective Java",
     "author": "Joshua Bloch",
     "priority": 98,
-    "notes": "// пропустил пункт про clone() -- перечитать\n// пропустил часть 51 пункта про classloader -- перечитать\n// пропустил 69, 70 -- читать"
+    "notes": "// пропустил пункт 11 про clone\n// пропустил пункт 51 про classloader\n// пропустил 69, 70"
 }
