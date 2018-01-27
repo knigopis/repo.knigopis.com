@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hiqb](users/481/481697754-yandex)<sup>1</sup> 
+[hiqb](users/481/481697754-yandex)<sup>2</sup> 
 [me](users/381/381417697-yandex)<sup>34</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
 
 
-_27.01.2018 19:22:31_
+_27.01.2018 19:24:03_
