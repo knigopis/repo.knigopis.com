@@ -1,4 +1,10 @@
 {
+    "1002037069862545-facebook": {
+        "id": "1002037069862545-facebook",
+        "nickname": "Элла",
+        "booksCount": 27,
+        "updatedAt": "2018-01-27 18:11:30"
+    },
     "109787328219839805802-google": {
         "id": "109787328219839805802-google",
         "nickname": "Rainbow",
@@ -166,12 +172,6 @@
         "nickname": "emotionl_cripple",
         "booksCount": 0,
         "updatedAt": "2018-01-20 15:51:16"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 26,
-        "updatedAt": "2018-01-20 15:37:20"
     },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",

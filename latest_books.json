@@ -1,4 +1,16 @@
 {
+    "WActKWgIKF": {
+        "id": "WActKWgIKF",
+        "title": "Игра ангела",
+        "author": "Карлос Руис Сафон",
+        "notes": "",
+        "createdAt": "2018-01-27 18:11:30",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 27
+        }
+    },
     "oCvLRKyqNu": {
         "id": "oCvLRKyqNu",
         "title": "Маскарад",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 36
-        }
-    },
-    "ot8ANWvxZL": {
-        "id": "ot8ANWvxZL",
-        "title": "Harry Potter and the Prisoner of Azkaban",
-        "author": "Joanne Rowling",
-        "notes": "",
-        "createdAt": "2018-01-20 19:46:13",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 27
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>26</sup>
+# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>27</sup>
 ---
 
 ## 2018
+
+### Игра ангела
+Карлос Руис Сафон
+> [2018-01-27] 
+
 
 ### Мальчик в полосатой пижаме
 Джон Бойн
