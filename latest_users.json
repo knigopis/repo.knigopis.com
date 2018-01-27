@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 168,
+        "updatedAt": "2018-01-27 15:17:27"
+    },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
         "nickname": "Лина Кауфман",
@@ -70,12 +76,6 @@
         "nickname": "Anais Mistral",
         "booksCount": 0,
         "updatedAt": "2018-01-25 09:45:13"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 167,
-        "updatedAt": "2018-01-24 16:43:01"
     },
     "73323849-yandex": {
         "id": "73323849-yandex",
