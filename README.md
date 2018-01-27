@@ -5,7 +5,7 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Effective Java ~ [me](users/381/381417697-yandex)<sup>34</sup>
+* Effective Java ~ [me](users/381/381417697-yandex)<sup>35</sup>
     > // пропустил 70
 
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>32</sup> 
+[me](users/381/381417697-yandex)<sup>35</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 
 
-_27.01.2018 19:13:30_
+_27.01.2018 19:14:02_
