@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>34</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>33</sup>
 ---
 
 ## 2018
@@ -19,11 +19,6 @@ Joshua Bloch
 ### Сфера
 Дэйв Эггерс
 > [2016-12-17] 
-
-
-### Effective Java
-Joshua Bloch
-> [2016-07-16] 
 
 
 ### Вся кремлевская рать. Краткая история современной России
