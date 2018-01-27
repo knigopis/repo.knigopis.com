@@ -1,12 +1,9 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `98` Effective Java
+### `96` Effective Java
 Joshua Bloch
 > // пропустил 70
-
-### `91` В поисках потока
-Михай Чиксентмихайи
 
 ### `60` Тайм-драйв
 Глеб Архангельский
