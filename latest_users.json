@@ -1,4 +1,10 @@
 {
+    "143278479-vkontakte": {
+        "id": "143278479-vkontakte",
+        "nickname": "Лина Кауфман",
+        "booksCount": 23,
+        "updatedAt": "2018-01-27 12:23:19"
+    },
     "10202934244316634-facebook": {
         "id": "10202934244316634-facebook",
         "nickname": "Andrey",
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 132,
         "updatedAt": "2018-01-19 20:11:30"
-    },
-    "117459010591942074929-google": {
-        "id": "117459010591942074929-google",
-        "nickname": "je_lis",
-        "booksCount": 1,
-        "updatedAt": "2018-01-19 08:09:24"
     }
 }

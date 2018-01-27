@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
 * Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 * Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
 *  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
 * Отдай мое сердце ~ [En](users/333/333646551-vkontakte)<sup>27</sup>
-* Ведьма огненного ветра ~ [amesyatseva](users/335/3358937-vkontakte)<sup>38</sup>
 
 
-_26.01.2018 19:45:24_
+_27.01.2018 12:23:19_
