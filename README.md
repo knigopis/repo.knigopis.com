@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Effective Java ~ [me](users/381/381417697-yandex)<sup>34</sup>
+    > // пропустил 70
+
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
     > Перед прочтением ожидала что-то веселое и легкое (видимо слово "курьёзы" навеяло). Без веселого не обошлось, но это ближе к концу книги. В начале же дикая жесть, но написано ооочень интересно.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > а еще мне кажется что А.Привалов  похож на Макса Фрая
 
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
-    > Интересный исторический детектив.Оказывается,  общество Антиквариат действительно существовало((
 
 * Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Логико-философский трактат / Tractatus logico-philosophicus ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>135</sup>
 
-* Шпионы тоже лохи ~ [Chiffi](users/105/105831994080785626680-google)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>33</sup> 
+[me](users/381/381417697-yandex)<sup>34</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 
 
-_27.01.2018 19:11:34_
+_27.01.2018 19:12:33_

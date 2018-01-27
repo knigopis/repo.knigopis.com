@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Effective Java ~ [me](users/381/381417697-yandex)<sup>34</sup>
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
 * Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
@@ -30,7 +31,6 @@
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
 * Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
-*  ~ [Euphoria](users/106/106304994652616315178-google)<sup>63</sup>
 
 
-_27.01.2018 15:17:27_
+_27.01.2018 19:12:33_
