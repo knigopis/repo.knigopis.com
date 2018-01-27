@@ -19,21 +19,21 @@ Joshua Bloch
 ### `40` Learn You a Haskell for Great Good
 Miran Lipovača
 
+### `28` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+
 ### `25` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
 Randall Munroe
 
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
 
-### `10` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
