@@ -1,4 +1,10 @@
 {
+    "481697754-yandex": {
+        "id": "481697754-yandex",
+        "nickname": "hiqb",
+        "booksCount": 0,
+        "updatedAt": "2018-01-27 19:21:15"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Andry-Bal",
         "booksCount": 27,
         "updatedAt": "2018-01-20 19:46:13"
-    },
-    "145555003-vkontakte": {
-        "id": "145555003-vkontakte",
-        "nickname": "emotionl_cripple",
-        "booksCount": 0,
-        "updatedAt": "2018-01-20 15:51:16"
     }
 }
