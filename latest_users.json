@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 33,
+        "updatedAt": "2018-01-27 19:11:34"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "emotionl_cripple",
         "booksCount": 0,
         "updatedAt": "2018-01-20 15:51:16"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 9,
-        "updatedAt": "2018-01-20 08:59:15"
     }
 }
