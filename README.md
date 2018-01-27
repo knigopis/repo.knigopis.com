@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup> 
 [Andrey](users/102/10202934244316634-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [emotionl_cripple](users/145/145555003-vkontakte)<sup>0</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>26</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>9</sup> 
-[Madlax](users/158/158304782-vkontakte)<sup>132</sup> 
 
 
-_27.01.2018 15:17:27_
+_27.01.2018 17:13:56_

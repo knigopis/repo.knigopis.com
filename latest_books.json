@@ -1,4 +1,16 @@
 {
+    "oCvLRKyqNu": {
+        "id": "oCvLRKyqNu",
+        "title": "Маскарад",
+        "author": "Михаил Юрьевич Лермонтов",
+        "notes": "",
+        "createdAt": "2018-01-27 17:13:56",
+        "user": {
+            "id": "109787328219839805802-google",
+            "nickname": "Rainbow",
+            "booksCount": 43
+        }
+    },
     "j4feyxFL4p": {
         "id": "j4feyxFL4p",
         "title": "Курьезы военной медицины",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 27
-        }
-    },
-    "T7Bgqn6kmR": {
-        "id": "T7Bgqn6kmR",
-        "title": "Мальчик в полосатой пижаме",
-        "author": "Джон Бойн",
-        "notes": "",
-        "createdAt": "2018-01-20 15:37:20",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 26
         }
     }
 }

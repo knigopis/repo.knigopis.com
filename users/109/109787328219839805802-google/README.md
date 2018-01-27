@@ -1,4 +1,4 @@
-# List of books read by Rainbow<sup>42</sup>
+# List of books read by Rainbow<sup>43</sup>
 ---
 
 ## 2018
@@ -150,6 +150,10 @@
 
 
 ## 2016
+
+### Маскарад
+Михаил Юрьевич Лермонтов
+
 
 ### Лекарство от меланхолии
 Рэй Брэдбери
