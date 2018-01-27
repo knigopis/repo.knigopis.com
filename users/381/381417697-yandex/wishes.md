@@ -1,10 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `94` Effective Java
-Joshua Bloch
-> // пропустил 70
-
 ### `60` Тайм-драйв
 Глеб Архангельский
 
@@ -23,15 +19,18 @@ Randall Munroe
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
+
+### `7` Git from the Bottom Up
+John Wiegley
 
 ### `1` Портной из Панамы
 Джон Ле Карре
@@ -39,14 +38,14 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Повелитель мух
-Уильям Голдинг
-
 ### `` Мертвые души
 Николай Гоголь
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
+
+### `` Повелитель мух
+Уильям Голдинг
 
 ### `` A Briefer History of Time
 Stephen Hawking
