@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Andrey](users/102/10202934244316634-facebook)<sup>0</sup> 
+[Andrey](users/102/10202934244316634-facebook)<sup>1</sup> 
 [International master](users/741/74140988-vkontakte)<sup>98</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>43</sup> 
 [ElenaShevchuk](users/119/1190249387686387-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [je_lis](users/117/117459010591942074929-google)<sup>1</sup> 
 
 
-_27.01.2018 05:57:03_
+_27.01.2018 05:58:15_
