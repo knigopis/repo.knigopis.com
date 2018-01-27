@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `95` Effective Java
+### `94` Effective Java
 Joshua Bloch
 > // пропустил 70
 
