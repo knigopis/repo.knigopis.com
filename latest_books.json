@@ -1,4 +1,16 @@
 {
+    "jiQCS5kC60": {
+        "id": "jiQCS5kC60",
+        "title": "Лалала",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-01-27 19:22:31",
+        "user": {
+            "id": "481697754-yandex",
+            "nickname": "hiqb",
+            "booksCount": 1
+        }
+    },
     "iufwA5AzFI": {
         "id": "iufwA5AzFI",
         "title": "Effective Java",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 45
-        }
-    },
-    "F8ankZhp6w": {
-        "id": "F8ankZhp6w",
-        "title": "Охотники за головами",
-        "author": "Несбё Ю",
-        "notes": "Отличный детектив!!!",
-        "createdAt": "2018-01-21 08:43:37",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 41
         }
     }
 }
