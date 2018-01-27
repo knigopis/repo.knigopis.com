@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>34</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>36</sup>
 ---
 
 ## 2018
+
+### Effective Java
+Joshua Bloch
+> [2018-01-27] // пропустил 70
+
 
 ### В поисках потока
 Михай Чиксентмихайи

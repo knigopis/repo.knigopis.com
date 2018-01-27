@@ -1,7 +1,7 @@
 # List of the latest books with notes
 ---
 
-* Effective Java ~ [me](users/381/381417697-yandex)<sup>35</sup>
+* Effective Java ~ [me](users/381/381417697-yandex)<sup>36</sup>
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
 * Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
@@ -33,4 +33,4 @@
 * Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
 
 
-_27.01.2018 19:14:02_
+_27.01.2018 19:32:10_
