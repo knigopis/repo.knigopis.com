@@ -1,10 +1,9 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `96` Effective Java
+### `98` Effective Java
 Joshua Bloch
-> // пропустил пункт 51 про classloader
-> // пропустил 69, 70
+> // пропустил 70
 
 ### `91` В поисках потока
 Михай Чиксентмихайи
