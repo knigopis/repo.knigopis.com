@@ -1,4 +1,10 @@
 {
+    "10202934244316634-facebook": {
+        "id": "10202934244316634-facebook",
+        "nickname": "Andrey",
+        "booksCount": 0,
+        "updatedAt": "2018-01-27 05:56:59"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "je_lis",
         "booksCount": 1,
         "updatedAt": "2018-01-19 08:09:24"
-    },
-    "113403981444089823417-google": {
-        "id": "113403981444089823417-google",
-        "nickname": "Gantzyaka",
-        "booksCount": 4,
-        "updatedAt": "2018-01-18 17:35:24"
     }
 }
