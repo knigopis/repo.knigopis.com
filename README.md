@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
 [International master](users/741/74140988-vkontakte)<sup>99</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
 [svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
 [Curobina](users/306/30645161-vkontakte)<sup>0</sup> 
-[amesyatseva](users/335/3358937-vkontakte)<sup>49</sup> 
 
 
-_28.01.2018 10:11:46_
+_28.01.2018 15:09:50_

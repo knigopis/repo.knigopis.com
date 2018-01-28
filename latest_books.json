@@ -1,4 +1,16 @@
 {
+    "bOxEGXpmZB": {
+        "id": "bOxEGXpmZB",
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "Joanne Rowling",
+        "notes": "",
+        "createdAt": "2018-01-28 15:09:50",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 28
+        }
+    },
     "Ikq8Wd6JNs": {
         "id": "Ikq8Wd6JNs",
         "title": "Мы",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 47
-        }
-    },
-    "h0AYZ-oJQr": {
-        "id": "h0AYZ-oJQr",
-        "title": "О мстительных некромантах и запрещенных артефактах",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-01-21 11:42:12",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 46
         }
     }
 }

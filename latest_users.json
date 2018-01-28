@@ -1,4 +1,10 @@
 {
+    "109232883876697421544-google": {
+        "id": "109232883876697421544-google",
+        "nickname": "Andry-Bal",
+        "booksCount": 28,
+        "updatedAt": "2018-01-28 15:09:50"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "Curobina",
         "booksCount": 0,
         "updatedAt": "2018-01-21 14:50:59"
-    },
-    "3358937-vkontakte": {
-        "id": "3358937-vkontakte",
-        "nickname": "amesyatseva",
-        "booksCount": 49,
-        "updatedAt": "2018-01-21 13:13:41"
     }
 }

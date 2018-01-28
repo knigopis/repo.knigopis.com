@@ -1,7 +1,12 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>27</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>28</sup>
 ---
 
 ## 2018
+
+### Harry Potter and the Goblet of Fire
+Joanne Rowling
+> [2018-01-28] 
+
 
 ### Harry Potter and the Prisoner of Azkaban
 Joanne Rowling
