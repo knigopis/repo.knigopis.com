@@ -129,6 +129,7 @@ David Perlmutter
 
 ### `75` The Art of Learning: An Inner Journey to Optimal Performance
 Josh Waitzkin
+> ISBN-13: 978-0743277464
 
 ### `75` Сделано в Америке. Как я создал Wal-Mart
 Сэм Уолтон
