@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>98</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>99</sup>
 ---
 
 ## 2018
+
+### Мы
+Евгений Замятин
+> [2018-01-28] 
+
 
 ### Отверженные
 Виктор Гюго

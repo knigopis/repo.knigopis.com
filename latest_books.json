@@ -1,4 +1,16 @@
 {
+    "Ikq8Wd6JNs": {
+        "id": "Ikq8Wd6JNs",
+        "title": "Мы",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2018-01-28 10:11:46",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 99
+        }
+    },
     "ChVLkzvqAq": {
         "id": "ChVLkzvqAq",
         "title": "Effective Java",
@@ -345,18 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 46
-        }
-    },
-    "zSLbvqBiFu": {
-        "id": "zSLbvqBiFu",
-        "title": "Единственная для оборотня и теща в нагрузку",
-        "author": "Франциска Вудворт",
-        "notes": "Очень интересное, хотя и немного эмоционально тяжелая",
-        "createdAt": "2018-01-21 11:40:53",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 45
         }
     }
 }
