@@ -35,6 +35,9 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 ### `7` Git from the Bottom Up
 John Wiegley
 
+### `4` Паттерны проектирования
+Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
+
 ### `1` Портной из Панамы
 Джон Ле Карре
 
