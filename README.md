@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>36</sup> 
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Curobina](users/306/30645161-vkontakte)<sup>0</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>49</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>37</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>27</sup> 
 
 
-_27.01.2018 20:55:20_
+_28.01.2018 06:11:03_
