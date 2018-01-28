@@ -1,4 +1,28 @@
 {
+    "BPhEsAbM9F": {
+        "id": "BPhEsAbM9F",
+        "title": "Запирайте зеркало на ночь",
+        "author": "Королева Ия",
+        "notes": "иронические фэнтези, сказка для взрослых девочек",
+        "createdAt": "2018-01-28 15:48:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 44
+        }
+    },
+    "5huKNEVoJj": {
+        "id": "5huKNEVoJj",
+        "title": "\"Остальное - судьба\"",
+        "author": "Михаил Успенский",
+        "notes": "Серия S.T.A.L.K.E.R.",
+        "createdAt": "2018-01-28 15:15:34",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "nord_book",
+            "booksCount": 12
+        }
+    },
     "ChVLkzvqAq": {
         "id": "ChVLkzvqAq",
         "title": "Effective Java",
@@ -333,30 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 39
-        }
-    },
-    "I6X01YUiwv": {
-        "id": "I6X01YUiwv",
-        "title": "Рассказы - Куприн Александр",
-        "author": "",
-        "notes": "Без заглавия\nБезумие",
-        "createdAt": "2018-01-12 03:39:38",
-        "user": {
-            "id": "3621623-vkontakte",
-            "nickname": "abzagir4ik",
-            "booksCount": 104
-        }
-    },
-    "zjgOk2JEr6": {
-        "id": "zjgOk2JEr6",
-        "title": "Доктор Кто. 11 докторов, 11 историй (антология)",
-        "author": "Сборник",
-        "notes": "Сборник, выпущенный к 50ти летнему юбилею сериала \"Доктор Кто\". Самым скучным показалась история 10го Доктора, самой интересной - 11.",
-        "createdAt": "2018-01-11 16:35:52",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 165
         }
     }
 }

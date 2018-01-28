@@ -1,4 +1,28 @@
 {
+    "BPhEsAbM9F": {
+        "id": "BPhEsAbM9F",
+        "title": "Запирайте зеркало на ночь",
+        "author": "Королева Ия",
+        "notes": "иронические фэнтези, сказка для взрослых девочек",
+        "createdAt": "2018-01-28 15:48:53",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 44
+        }
+    },
+    "5huKNEVoJj": {
+        "id": "5huKNEVoJj",
+        "title": "\"Остальное - судьба\"",
+        "author": "Михаил Успенский",
+        "notes": "Серия S.T.A.L.K.E.R.",
+        "createdAt": "2018-01-28 15:15:34",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "nord_book",
+            "booksCount": 12
+        }
+    },
     "bOxEGXpmZB": {
         "id": "bOxEGXpmZB",
         "title": "Harry Potter and the Goblet of Fire",
@@ -333,30 +357,6 @@
             "id": "3358937-vkontakte",
             "nickname": "amesyatseva",
             "booksCount": 49
-        }
-    },
-    "pVdB_Ixlzt": {
-        "id": "pVdB_Ixlzt",
-        "title": "Мертвые игры 4. О смертельных схватках и их победителях",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-01-21 13:13:29",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 48
-        }
-    },
-    "TS2SwpSiU3": {
-        "id": "TS2SwpSiU3",
-        "title": "Мертвые игры. Книга вторая. О магах-отступниках и таинственных ритуалах",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-01-21 11:42:36",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 47
         }
     }
 }

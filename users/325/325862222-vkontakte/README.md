@@ -1,7 +1,12 @@
-# List of books read by [nord_book](http://vk.com/id325862222)<sup>11</sup>
+# List of books read by [nord_book](http://vk.com/id325862222)<sup>12</sup>
 ---
 
 ## 2018
+
+### "Остальное - судьба"
+Михаил Успенский
+> [2018-01] Серия S.T.A.L.K.E.R.
+
 
 ### "Мемуары гейши"
 Артур Голден

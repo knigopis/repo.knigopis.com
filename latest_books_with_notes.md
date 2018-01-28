@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
+* "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
 * Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
 * Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
@@ -29,8 +31,6 @@
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 * Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
-* Рассказы - Куприн Александр ~ [abzagir4ik](users/362/3621623-vkontakte)<sup>104</sup>
-* Доктор Кто. 11 докторов, 11 историй (антология) ~ [Garka](users/115/115753719718250012620-google)<sup>165</sup>
 
 
-_27.01.2018 20:54:55_
+_28.01.2018 15:48:53_
