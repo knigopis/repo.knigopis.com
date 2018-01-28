@@ -5,10 +5,6 @@
 Джордж Карлин
 > ISBN: 978-5-9614-2171-2
 
-### `100` Мозг рассказывает. Что делает нас людьми
-Вилейанур Рамачандран
-> The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human, 2010 (ISBN 978-0-393-07782-7)
-
 ### `100` Код экстраординарности. 10 нестандартных способов добиться впечатляющих успехов
 Вишен Лакьяни
 > ISBN: 978-5-699-94095-0
@@ -29,13 +25,13 @@ Gretchen Rubin
 Дин Бернетт
 > ISBN: 978-5-699-94972-4
 
-### `100` Better Than Before
-Gretchen Rubin
-> ISBN-10: 0385348630
-
 ### `100` Pragmatic Thinking and Learning
 Andy Hunt
 > ISBN: 9781934356050
+
+### `100` Better Than Before
+Gretchen Rubin
+> ISBN-10: 0385348630
 
 ### `100` Еда и мозг. Что углеводы делают со здоровьем, мышлением и памятью
 Дэвид Перлмуттер, Кристин Лоберг
@@ -48,6 +44,10 @@ Andy Hunt
 ### `100` A Mind for Numbers
 Barbara Oakley
 > ISBN-13: 978-0399165245
+
+### `80` Мозг рассказывает. Что делает нас людьми
+Вилейанур Рамачандран
+> The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human, 2010 (ISBN 978-0-393-07782-7)
 
 ### `80` Мастер игры
 Робер Грин
