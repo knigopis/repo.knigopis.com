@@ -1,14 +1,5 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>35</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>34</sup>
 ---
-
-## 2018
-
-### Сила подсознания / Breaking the Habit of Being Yourself
-Joe Dispenza
-> [2018-01-07] 10/10
-> ISBN: 978-5-699-65045-3
-
-
 
 ## 2017
 
