@@ -9,7 +9,7 @@ Gretchen Rubin
 Нил Барнард
 > ISBN: 978-5-699-66136-7
 
-### `100` A Mind for Numbers
+### `80` A Mind for Numbers
 Barbara Oakley
 > ISBN-13: 978-0399165245
 
