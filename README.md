@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>44</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>12</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup> 
 [ксения](users/152/1523270917710241-facebook)<sup>0</sup> 
-[svtvrntsv](users/225/22511029-vkontakte)<sup>1</sup> 
 
 
-_28.01.2018 15:48:53_
+_28.01.2018 21:05:44_

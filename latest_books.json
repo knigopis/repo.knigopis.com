@@ -1,4 +1,16 @@
 {
+    "f0dKyZ5Tf_": {
+        "id": "f0dKyZ5Tf_",
+        "title": "Сожженная карта",
+        "author": "Кобо Абэ",
+        "notes": "",
+        "createdAt": "2018-01-28 21:05:44",
+        "user": {
+            "id": "471364154-yandex",
+            "nickname": "submerged fish",
+            "booksCount": 15
+        }
+    },
     "BPhEsAbM9F": {
         "id": "BPhEsAbM9F",
         "title": "Запирайте зеркало на ночь",
@@ -345,18 +357,6 @@
             "id": "22511029-vkontakte",
             "nickname": "svtvrntsv",
             "booksCount": 1
-        }
-    },
-    "xBjObr86kN": {
-        "id": "xBjObr86kN",
-        "title": "Мертвые игры 3",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-01-21 13:13:41",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 49
         }
     }
 }
