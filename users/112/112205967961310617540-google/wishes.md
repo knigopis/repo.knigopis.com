@@ -33,10 +33,9 @@ Barbara Oakley
 Вишен Лакьяни
 > ISBN: 978-5-699-94095-0
 
-### `80` Эссенциализм. Путь к простоте
-Грег МакКеон
-> 10/10
-> ISBN: 978-5-00057-347-1
+### `80` Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain for Life.
+David Perlmutter
+> ISBN-13: 978-1478985556
 
 ### `80` Идиотский бесценный мозг
 Дин Бернетт
