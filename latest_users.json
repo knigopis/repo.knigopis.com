@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 31,
+        "updatedAt": "2018-01-29 10:42:11"
+    },
     "17878602-vkontakte": {
         "id": "17878602-vkontakte",
         "nickname": "dasha__solovey",
@@ -172,11 +178,5 @@
         "nickname": "belousova0009",
         "booksCount": 1,
         "updatedAt": "2018-01-23 19:10:25"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 287,
-        "updatedAt": "2018-01-23 18:03:27"
     }
 }

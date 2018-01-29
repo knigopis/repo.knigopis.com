@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Замок Ругна ~ [En](users/333/333646551-vkontakte)<sup>31</sup>
 * Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
 * Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
 * Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
-* Мистер Смерть и чокнутая ведьма ~ [amesyatseva](users/335/3358937-vkontakte)<sup>39</sup>
 
 
-_28.01.2018 15:48:53_
+_29.01.2018 10:42:11_

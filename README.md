@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Замок Ругна ~ [En](users/333/333646551-vkontakte)<sup>31</sup>
+    > Третья часть самая интересная оказалась. Дор - сын ГГ из прошлых книг отправляется в путешествие в прошлое на 800 лет и в странствиях и поисках становится мудрее и взрослее
+
 * Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
     > иронические фэнтези, сказка для взрослых девочек
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Серия S.T.A.L.K.E.R.
 
 * Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
-    > // пропустил 70
 
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
 
-* Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>31</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 [wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
 [belousova0009](users/463/463801908-yandex)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>287</sup> 
 
 
-_29.01.2018 10:20:45_
+_29.01.2018 10:42:11_
