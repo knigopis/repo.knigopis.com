@@ -1,4 +1,16 @@
 {
+    "rJcLtlwQ8_": {
+        "id": "rJcLtlwQ8_",
+        "title": "Метро 2035",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-01-29 09:52:44",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 6
+        }
+    },
     "f0dKyZ5Tf_": {
         "id": "f0dKyZ5Tf_",
         "title": "Сожженная карта",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 42
-        }
-    },
-    "BVpjoZnybj": {
-        "id": "BVpjoZnybj",
-        "title": "Ветер в ивах",
-        "author": "Кеннет Грэм",
-        "notes": "",
-        "createdAt": "2018-01-22 17:57:34",
-        "user": {
-            "id": "22511029-vkontakte",
-            "nickname": "svtvrntsv",
-            "booksCount": 1
         }
     }
 }
