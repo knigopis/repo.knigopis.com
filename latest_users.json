@@ -1,4 +1,10 @@
 {
+    "117358163930312258753-google": {
+        "id": "117358163930312258753-google",
+        "nickname": "Oread",
+        "booksCount": 0,
+        "updatedAt": "2018-01-29 13:28:58"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "eva_06",
         "booksCount": 1,
         "updatedAt": "2018-01-23 19:41:00"
-    },
-    "463801908-yandex": {
-        "id": "463801908-yandex",
-        "nickname": "belousova0009",
-        "booksCount": 1,
-        "updatedAt": "2018-01-23 19:10:25"
     }
 }
