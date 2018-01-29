@@ -1,4 +1,10 @@
 {
+    "32695636-vkontakte": {
+        "id": "32695636-vkontakte",
+        "nickname": "kkkatya",
+        "booksCount": 0,
+        "updatedAt": "2018-01-29 19:43:56"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "inna",
         "booksCount": 0,
         "updatedAt": "2018-01-24 10:51:48"
-    },
-    "469391233-vkontakte": {
-        "id": "469391233-vkontakte",
-        "nickname": "eva_06",
-        "booksCount": 1,
-        "updatedAt": "2018-01-23 19:41:00"
     }
 }
