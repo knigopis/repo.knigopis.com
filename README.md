@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Oread](users/117/117358163930312258753-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>31</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>37</sup> 
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
-[belousova0009](users/463/463801908-yandex)<sup>1</sup> 
 
 
-_29.01.2018 10:42:11_
+_29.01.2018 13:29:02_
