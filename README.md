@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>6</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>44</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [belousova0009](users/463/463801908-yandex)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>287</sup> 
 [Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup> 
 
 
-_29.01.2018 09:52:44_
+_29.01.2018 09:55:14_
