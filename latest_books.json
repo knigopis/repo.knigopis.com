@@ -1,4 +1,16 @@
 {
+    "5kqqgRv12u": {
+        "id": "5kqqgRv12u",
+        "title": "Метро 2034",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-01-29 09:56:18",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 8
+        }
+    },
     "K-5wCT1lEP": {
         "id": "K-5wCT1lEP",
         "title": "Метро 2033",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 136
-        }
-    },
-    "vJWTr2MWc4": {
-        "id": "vJWTr2MWc4",
-        "title": "Логико-философский трактат / Tractatus logico-philosophicus",
-        "author": "Людвиг Витгенштейн",
-        "notes": "в процессе",
-        "createdAt": "2018-01-22 22:02:06",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 135
         }
     }
 }
