@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kkkatya](users/326/32695636-vkontakte)<sup>0</sup> 
+[kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>31</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna](users/101/101894347476814416584-google)<sup>0</sup> 
 
 
-_29.01.2018 19:43:58_
+_29.01.2018 19:45:24_
