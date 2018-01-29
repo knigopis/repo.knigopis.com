@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 [wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
 [belousova0009](users/463/463801908-yandex)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>287</sup> 
-[Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
 
 
-_29.01.2018 09:56:18_
+_29.01.2018 10:20:45_
