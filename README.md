@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>31</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>99</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
-[me](users/381/381417697-yandex)<sup>36</sup> 
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [eva_06](users/469/469391233-vkontakte)<sup>1</sup> 
 
 
-_29.01.2018 13:29:02_
+_29.01.2018 18:45:15_
