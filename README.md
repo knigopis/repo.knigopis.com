@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>7</sup> 
 [wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>6</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>44</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>12</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Pantika](users/102/102131521104775150665-google)<sup>0</sup> 
 
 
-_29.01.2018 09:55:14_
+_29.01.2018 09:55:50_

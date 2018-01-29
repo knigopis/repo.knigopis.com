@@ -1,4 +1,16 @@
 {
+    "K-5wCT1lEP": {
+        "id": "K-5wCT1lEP",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "",
+        "createdAt": "2018-01-29 09:55:49",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 7
+        }
+    },
     "rJcLtlwQ8_": {
         "id": "rJcLtlwQ8_",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 135
-        }
-    },
-    "3dEcYXjmmb": {
-        "id": "3dEcYXjmmb",
-        "title": "Шпионы тоже лохи",
-        "author": "Вильмонт Екатерина",
-        "notes": "Продолжение Вафли по шпионски. Вильмонт в своем стиле. Но про кошек - красиво)",
-        "createdAt": "2018-01-22 21:18:01",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 42
         }
     }
 }
