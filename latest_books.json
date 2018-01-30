@@ -1,4 +1,16 @@
 {
+    "dADcFGu_Mo": {
+        "id": "dADcFGu_Mo",
+        "title": "Остров Сокровищ",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-01-30 08:00:03",
+        "user": {
+            "id": "9668081-vkontakte",
+            "nickname": "supervagrant",
+            "booksCount": 1
+        }
+    },
     "C8TV8TN-HT": {
         "id": "C8TV8TN-HT",
         "title": "Как пасти котов. Наставление для программистов, руководящих другими программистами",
@@ -345,18 +357,6 @@
             "id": "463801908-yandex",
             "nickname": "belousova0009",
             "booksCount": 1
-        }
-    },
-    "qBhNn49wni": {
-        "id": "qBhNn49wni",
-        "title": "Ешь правильно - беги быстро. Правила жизни сверхмарафонца.",
-        "author": "Скот Джурек",
-        "notes": "",
-        "createdAt": "2018-01-23 18:03:27",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 287
         }
     }
 }
