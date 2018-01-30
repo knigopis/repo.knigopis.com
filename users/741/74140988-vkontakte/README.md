@@ -1,7 +1,17 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>99</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>101</sup>
 ---
 
 ## 2018
+
+### Загадочное происшествие в Стайлзе
+Агата Кристи
+> [2018-01-30] 
+
+
+### Убийство в "Восточном экспрессе"
+Агата Кристи
+> [2018-01-29] 
+
 
 ### Мы
 Евгений Замятин

@@ -1,4 +1,16 @@
 {
+    "omgxt-gS5N": {
+        "id": "omgxt-gS5N",
+        "title": "Убийство в \"Восточном экспрессе\"",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2018-01-30 22:51:58",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 101
+        }
+    },
     "iPN4chNkCy": {
         "id": "iPN4chNkCy",
         "title": "Кентерберийские рассказы",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 37
-        }
-    },
-    "bdsIe01Gc5": {
-        "id": "bdsIe01Gc5",
-        "title": "Морфий",
-        "author": "Булгаков",
-        "notes": "Нагнетающая и довольно атмосферное произведение, наглядно показывающее поведение и мысли \"временного\" наркомана.",
-        "createdAt": "2018-01-23 19:41:00",
-        "user": {
-            "id": "469391233-vkontakte",
-            "nickname": "eva_06",
-            "booksCount": 1
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>609</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>44</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>12</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
-[International master](users/741/74140988-vkontakte)<sup>99</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
 
 
-_30.01.2018 13:39:42_
+_30.01.2018 22:51:58_

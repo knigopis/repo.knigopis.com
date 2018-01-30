@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 101,
+        "updatedAt": "2018-01-30 22:51:58"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -82,12 +88,6 @@
         "nickname": "Andry-Bal",
         "booksCount": 28,
         "updatedAt": "2018-01-28 15:09:50"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 99,
-        "updatedAt": "2018-01-28 10:11:46"
     },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
