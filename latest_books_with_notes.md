@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как пасти котов. Наставление для программистов, руководящих другими программистами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup>
 * Замок Ругна ~ [En](users/333/333646551-vkontakte)<sup>31</sup>
 * Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Сага о Рейневане: Свет Вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>133</sup>
 * Билет на планету Транай ~ [lucius](users/838/83820536-yandex)<sup>143</sup>
 * Оливия Киттеридж ~ [En](users/333/333646551-vkontakte)<sup>28</sup>
-* Песнь златовласой сирены 4 ~ [amesyatseva](users/335/3358937-vkontakte)<sup>40</sup>
 
 
-_29.01.2018 10:42:11_
+_30.01.2018 07:20:49_

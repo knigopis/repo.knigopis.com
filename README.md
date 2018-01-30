@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как пасти котов. Наставление для программистов, руководящих другими программистами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup>
+    > в процессе
+
 * Замок Ругна ~ [En](users/333/333646551-vkontakte)<sup>31</sup>
     > Третья часть самая интересная оказалась. Дор - сын ГГ из прошлых книг отправляется в путешествие в прошлое на 800 лет и в странствиях и поисках становится мудрее и взрослее
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > иронические фэнтези, сказка для взрослых девочек
 
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
-    > Серия S.T.A.L.K.E.R.
 
 * Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
 
-* Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
 [Anais Mistral](users/208/2083238101907522-facebook)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>37</sup> 
-[inna](users/101/101894347476814416584-google)<sup>0</sup> 
 
 
-_29.01.2018 19:45:24_
+_30.01.2018 07:20:49_

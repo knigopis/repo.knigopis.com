@@ -1,4 +1,16 @@
 {
+    "C8TV8TN-HT": {
+        "id": "C8TV8TN-HT",
+        "title": "Как пасти котов. Наставление для программистов, руководящих другими программистами",
+        "author": "Дж. Ханк Рейнвотер",
+        "notes": "в процессе",
+        "createdAt": "2018-01-30 07:20:49",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 138
+        }
+    },
     "7r1Epv0BOl": {
         "id": "7r1Epv0BOl",
         "title": "Замок Ругна",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 28
-        }
-    },
-    "g0-utlhRVk": {
-        "id": "g0-utlhRVk",
-        "title": "Песнь златовласой сирены 4",
-        "author": "Франциска Вудворт",
-        "notes": "Очень понравилась серия!!!",
-        "createdAt": "2018-01-12 08:32:42",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 40
         }
     }
 }
