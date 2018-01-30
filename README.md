@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[supervagrant](users/966/9668081-vkontakte)<sup>1</sup> 
+[supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Anais Mistral](users/208/2083238101907522-facebook)<sup>0</sup> 
 
 
-_30.01.2018 08:00:03_
+_30.01.2018 08:00:15_
