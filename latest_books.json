@@ -1,4 +1,16 @@
 {
+    "iPN4chNkCy": {
+        "id": "iPN4chNkCy",
+        "title": "Кентерберийские рассказы",
+        "author": "Джеффри Чосер",
+        "notes": "",
+        "createdAt": "2018-01-30 13:39:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 609
+        }
+    },
     "dADcFGu_Mo": {
         "id": "dADcFGu_Mo",
         "title": "Остров Сокровищ",
@@ -344,18 +356,6 @@
         "user": {
             "id": "469391233-vkontakte",
             "nickname": "eva_06",
-            "booksCount": 1
-        }
-    },
-    "GrbDkgjlnF": {
-        "id": "GrbDkgjlnF",
-        "title": "Механизмы радости",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-01-23 19:10:25",
-        "user": {
-            "id": "463801908-yandex",
-            "nickname": "belousova0009",
             "booksCount": 1
         }
     }

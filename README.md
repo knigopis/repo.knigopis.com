@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>609</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [georgiy.markarov@teleport-tv.ru](users/113/1130000021612677-yandex)<sup>0</sup> 
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
-[Anais Mistral](users/208/2083238101907522-facebook)<sup>0</sup> 
 
 
-_30.01.2018 08:00:15_
+_30.01.2018 13:39:42_
