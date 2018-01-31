@@ -1,4 +1,16 @@
 {
+    "oGQrOWfcQ5": {
+        "id": "oGQrOWfcQ5",
+        "title": "Герой нашего времени",
+        "author": "Михаил Юрьевич Лермонтов",
+        "notes": "",
+        "createdAt": "2018-01-31 04:13:49",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 6
+        }
+    },
     "CcqLNEAiZH": {
         "id": "CcqLNEAiZH",
         "title": "Американская трагедия",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 43
-        }
-    },
-    "ZJQM_CK0ZB": {
-        "id": "ZJQM_CK0ZB",
-        "title": "Выйти из зоны комфорта. Измени свою жизнь 21 метод",
-        "author": "Трейси Брайан",
-        "notes": "",
-        "createdAt": "2018-01-26 15:30:40",
-        "user": {
-            "id": "1190249387686387-facebook",
-            "nickname": "ElenaShevchuk",
-            "booksCount": 1
         }
     }
 }
