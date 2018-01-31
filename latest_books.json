@@ -1,4 +1,16 @@
 {
+    "hqbVQRZryW": {
+        "id": "hqbVQRZryW",
+        "title": "Джанки",
+        "author": "Уильям Берроуз",
+        "notes": "",
+        "createdAt": "2018-01-31 04:15:41",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 7
+        }
+    },
     "oGQrOWfcQ5": {
         "id": "oGQrOWfcQ5",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 98
-        }
-    },
-    "2EfvjsOt2N": {
-        "id": "2EfvjsOt2N",
-        "title": "Вдруг охотник выбегает",
-        "author": "Яковлева Юлия",
-        "notes": "Интересный исторический детектив.Оказывается,  общество Антиквариат действительно существовало((",
-        "createdAt": "2018-01-26 19:45:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 43
         }
     }
 }
