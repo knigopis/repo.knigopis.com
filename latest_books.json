@@ -1,4 +1,16 @@
 {
+    "aWkLGB4qqN": {
+        "id": "aWkLGB4qqN",
+        "title": "Сага о Форсайтах. Собственник",
+        "author": "Джона Голсуорси",
+        "notes": "",
+        "createdAt": "2018-01-31 03:59:49",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 2
+        }
+    },
     "pEnssdBN-l": {
         "id": "pEnssdBN-l",
         "title": "Поющие в терновнике",
@@ -345,18 +357,6 @@
             "id": "238356806-vkontakte",
             "nickname": "иузуил",
             "booksCount": 5
-        }
-    },
-    "UqjPM8bk2k": {
-        "id": "UqjPM8bk2k",
-        "title": "Безумная звезда",
-        "author": "Пратчетт, Терри",
-        "notes": "Продолжение приключений волшебника недоучки Ринсвинда на просторах Плоского мира. (хочу себе сундук их груши разумной)",
-        "createdAt": "2018-01-24 16:43:01",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 167
         }
     }
 }
