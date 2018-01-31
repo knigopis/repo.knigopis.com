@@ -1,7 +1,12 @@
-# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>3</sup>
+# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>4</sup>
 ---
 
 ## 2017
+
+### Ночь нежна
+Фрэнсис Скотт Фицджеральд
+> [2017-07] 
+
 
 ### Сага о Форсайтах. Последнее лето Форсайта
 Джон Голсуорси
