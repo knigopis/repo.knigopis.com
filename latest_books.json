@@ -1,4 +1,16 @@
 {
+    "Kyc7dcEKzk": {
+        "id": "Kyc7dcEKzk",
+        "title": "Сага о Форсайтах. В Петле",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2018-01-31 06:50:17",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 9
+        }
+    },
     "NLE9EbJzm3": {
         "id": "NLE9EbJzm3",
         "title": "Ночной Дозор",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 23
-        }
-    },
-    "wEip2P1XQV": {
-        "id": "wEip2P1XQV",
-        "title": "Сегун",
-        "author": "Джеймс Клавелл",
-        "notes": "Такое себе. Супукку через страницу.",
-        "createdAt": "2018-01-27 05:58:15",
-        "user": {
-            "id": "10202934244316634-facebook",
-            "nickname": "Andrey",
-            "booksCount": 1
         }
     }
 }
