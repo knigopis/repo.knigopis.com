@@ -1,4 +1,16 @@
 {
+    "Vj4iewhnsp": {
+        "id": "Vj4iewhnsp",
+        "title": "Лолита",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2018-01-31 06:52:40",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 10
+        }
+    },
     "Kyc7dcEKzk": {
         "id": "Kyc7dcEKzk",
         "title": "Сага о Форсайтах. В Петле",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 168
-        }
-    },
-    "7rTIrot2PF": {
-        "id": "7rTIrot2PF",
-        "title": "Понедельник начинается в субботу",
-        "author": "Братья Стругатские",
-        "notes": "Хочу работать В НИИЧАВО\nа еще мне кажется что А.Привалов  похож на Макса Фрая",
-        "createdAt": "2018-01-27 12:23:19",
-        "user": {
-            "id": "143278479-vkontakte",
-            "nickname": "Лина Кауфман",
-            "booksCount": 23
         }
     }
 }
