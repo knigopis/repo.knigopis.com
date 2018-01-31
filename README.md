@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kainding](users/102/102220567175253488762-google)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>609</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup> 
 [georgiy.markarov@teleport-tv.ru](users/113/1130000021612677-yandex)<sup>0</sup> 
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
-[иузуил](users/238/238356806-vkontakte)<sup>5</sup> 
 
 
-_30.01.2018 22:51:58_
+_31.01.2018 03:57:25_
