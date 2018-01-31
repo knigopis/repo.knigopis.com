@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>610</sup> 
 [En](users/333/333646551-vkontakte)<sup>32</sup> 
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 [International master](users/741/74140988-vkontakte)<sup>101</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>609</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
 
 
-_31.01.2018 10:55:01_
+_31.01.2018 20:54:46_
