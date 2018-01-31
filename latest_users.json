@@ -1,4 +1,10 @@
 {
+    "102220567175253488762-google": {
+        "id": "102220567175253488762-google",
+        "nickname": "Kainding",
+        "booksCount": 0,
+        "updatedAt": "2018-01-31 03:57:22"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "mouse",
         "booksCount": 0,
         "updatedAt": "2018-01-25 11:14:07"
-    },
-    "238356806-vkontakte": {
-        "id": "238356806-vkontakte",
-        "nickname": "иузуил",
-        "booksCount": 5,
-        "updatedAt": "2018-01-25 10:44:47"
     }
 }
