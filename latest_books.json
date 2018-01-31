@@ -1,4 +1,16 @@
 {
+    "pEnssdBN-l": {
+        "id": "pEnssdBN-l",
+        "title": "Поющие в терновнике",
+        "author": "Колин Маккалоу",
+        "notes": "",
+        "createdAt": "2018-01-31 03:58:42",
+        "user": {
+            "id": "102220567175253488762-google",
+            "nickname": "Kainding",
+            "booksCount": 1
+        }
+    },
     "omgxt-gS5N": {
         "id": "omgxt-gS5N",
         "title": "Убийство в \"Восточном экспрессе\"",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 167
-        }
-    },
-    "DPlevLvISE": {
-        "id": "DPlevLvISE",
-        "title": "Зов предков",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2018-01-24 10:54:10",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 37
         }
     }
 }
