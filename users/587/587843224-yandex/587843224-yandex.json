@@ -6,8 +6,9 @@
     "identity": "http://openid.yandex.ru/kpdemo/",
     "booksCount": 4,
     "subscriptions": {
-        "32695636-vkontakte": 1
+        "32695636-vkontakte": 1,
+        "333646551-vkontakte": 32
     },
     "createdAt": "2018-01-14 19:50:13",
-    "updatedAt": "2018-01-31 22:02:56"
+    "updatedAt": "2018-01-31 22:09:46"
 }
