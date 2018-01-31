@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 32,
+        "updatedAt": "2018-01-31 10:55:01"
+    },
     "102220567175253488762-google": {
         "id": "102220567175253488762-google",
         "nickname": "Kainding",
@@ -46,12 +52,6 @@
         "nickname": "Oread",
         "booksCount": 0,
         "updatedAt": "2018-01-29 13:28:58"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 31,
-        "updatedAt": "2018-01-29 10:42:11"
     },
     "17878602-vkontakte": {
         "id": "17878602-vkontakte",

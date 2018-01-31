@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дом странных детей ~ [En](users/333/333646551-vkontakte)<sup>32</sup>
+    > Книга интересна, сюжет необычен, читается легко. Идея с фото добавляет атмосферности
+
 * Как пасти котов. Наставление для программистов, руководящих другими программистами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Третья часть самая интересная оказалась. Дор - сын ГГ из прошлых книг отправляется в путешествие в прошлое на 800 лет и в странствиях и поисках становится мудрее и взрослее
 
 * Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
-    > иронические фэнтези, сказка для взрослых девочек
 
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 
-* Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>32</sup> 
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 [International master](users/741/74140988-vkontakte)<sup>101</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>609</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>31</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 [wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mouse](users/655/65527679-vkontakte)<sup>0</sup> 
 
 
-_31.01.2018 06:53:05_
+_31.01.2018 10:55:01_
