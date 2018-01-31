@@ -1,7 +1,12 @@
-# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>2</sup>
+# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>3</sup>
 ---
 
 ## 2017
+
+### Сага о Форсайтах. Последнее лето Форсайта
+Джон Голсуорси
+> [2017-05] 
+
 
 ### Сага о Форсайтах. Собственник
 Джон Голсуорси
