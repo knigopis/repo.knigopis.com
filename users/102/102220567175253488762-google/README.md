@@ -1,4 +1,4 @@
-# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>10</sup>
+# List of books read by [Kainding](https://plus.google.com/102220567175253488762)<sup>11</sup>
 ---
 
 ## 2017
@@ -33,6 +33,10 @@
 
 
 ## 2015
+
+### Осиная Фабрика
+Иэн Бэнкс
+
 
 ### Ночной Дозор
 Сергей Лукьяненко
