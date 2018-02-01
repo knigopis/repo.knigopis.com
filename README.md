@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[R3V01V3R](users/102/102961825735323371351-google)<sup>0</sup> 
 [PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>610</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [polinaantonovna](users/652/6523940-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup> 
-[georgiy.markarov@teleport-tv.ru](users/113/1130000021612677-yandex)<sup>0</sup> 
 
 
-_01.02.2018 12:04:05_
+_01.02.2018 15:39:09_
