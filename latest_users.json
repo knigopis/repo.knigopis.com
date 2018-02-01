@@ -1,4 +1,10 @@
 {
+    "102961825735323371351-google": {
+        "id": "102961825735323371351-google",
+        "nickname": "R3V01V3R",
+        "booksCount": 0,
+        "updatedAt": "2018-02-01 15:39:06"
+    },
     "108140979023821813772-google": {
         "id": "108140979023821813772-google",
         "nickname": "PadiShakh",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 36,
         "updatedAt": "2018-01-25 19:35:30"
-    },
-    "1130000021612677-yandex": {
-        "id": "1130000021612677-yandex",
-        "nickname": "georgiy.markarov@teleport-tv.ru",
-        "booksCount": 0,
-        "updatedAt": "2018-01-25 18:47:41"
     }
 }
