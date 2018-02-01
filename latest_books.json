@@ -1,4 +1,16 @@
 {
+    "diNT4i8lSz": {
+        "id": "diNT4i8lSz",
+        "title": "Заводной апельсин",
+        "author": "Э. Бёрджесс",
+        "notes": "",
+        "createdAt": "2018-02-01 17:50:25",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 34
+        }
+    },
     "ybPJ-ozd3U": {
         "id": "ybPJ-ozd3U",
         "title": "Смерть и что случается после",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "nord_book",
             "booksCount": 12
-        }
-    },
-    "bOxEGXpmZB": {
-        "id": "bOxEGXpmZB",
-        "title": "Harry Potter and the Goblet of Fire",
-        "author": "Joanne Rowling",
-        "notes": "",
-        "createdAt": "2018-01-28 15:09:50",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 28
         }
     }
 }
