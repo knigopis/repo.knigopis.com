@@ -1,4 +1,16 @@
 {
+    "2QmDGWzbDy": {
+        "id": "2QmDGWzbDy",
+        "title": "Дракула",
+        "author": "Б. Стокер",
+        "notes": "",
+        "createdAt": "2018-02-01 17:44:45",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 32
+        }
+    },
     "9techt2vyf": {
         "id": "9techt2vyf",
         "title": "«Богатый папа, бедный папа»",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 99
-        }
-    },
-    "yzg2klTSFu": {
-        "id": "yzg2klTSFu",
-        "title": "Лалала",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-01-27 19:24:03",
-        "user": {
-            "id": "481697754-yandex",
-            "nickname": "hiqb",
-            "booksCount": 2
         }
     }
 }
