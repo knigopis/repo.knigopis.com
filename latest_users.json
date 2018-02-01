@@ -1,4 +1,10 @@
 {
+    "469391233-vkontakte": {
+        "id": "469391233-vkontakte",
+        "nickname": "eva_06",
+        "booksCount": 2,
+        "updatedAt": "2018-02-01 18:49:51"
+    },
     "101892939810731181399-google": {
         "id": "101892939810731181399-google",
         "nickname": "M.Schwan ",
@@ -172,11 +178,5 @@
         "nickname": "polinaantonovna",
         "booksCount": 0,
         "updatedAt": "2018-01-26 08:54:22"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 41,
-        "updatedAt": "2018-01-25 22:29:35"
     }
 }

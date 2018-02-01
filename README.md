@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[eva_06](users/469/469391233-vkontakte)<sup>2</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>35</sup> 
 [R3V01V3R](users/102/102961825735323371351-google)<sup>0</sup> 
 [PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andrey](users/102/10202934244316634-facebook)<sup>1</sup> 
 [ElenaShevchuk](users/119/1190249387686387-facebook)<sup>1</sup> 
 [polinaantonovna](users/652/6523940-vkontakte)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup> 
 
 
-_01.02.2018 17:51:51_
+_01.02.2018 18:49:51_

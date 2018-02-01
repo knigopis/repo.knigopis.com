@@ -1,4 +1,16 @@
 {
+    "i0-Xp8OrTn": {
+        "id": "i0-Xp8OrTn",
+        "title": "Практика менеджмента",
+        "author": "Друкер",
+        "notes": "",
+        "createdAt": "2018-02-01 18:49:51",
+        "user": {
+            "id": "469391233-vkontakte",
+            "nickname": "eva_06",
+            "booksCount": 2
+        }
+    },
     "5gtBA_Xt9d": {
         "id": "5gtBA_Xt9d",
         "title": "Иные Боги",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 15
-        }
-    },
-    "BPhEsAbM9F": {
-        "id": "BPhEsAbM9F",
-        "title": "Запирайте зеркало на ночь",
-        "author": "Королева Ия",
-        "notes": "иронические фэнтези, сказка для взрослых девочек",
-        "createdAt": "2018-01-28 15:48:53",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 44
         }
     }
 }

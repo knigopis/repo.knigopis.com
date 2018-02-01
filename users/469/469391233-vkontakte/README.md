@@ -1,7 +1,12 @@
-# List of books read by [eva_06](http://vk.com/id469391233)<sup>1</sup>
+# List of books read by [eva_06](http://vk.com/id469391233)<sup>2</sup>
 ---
 
 ## 2018
+
+### Практика менеджмента
+Друкер
+> [2018-01-23] 
+
 
 ### Морфий
 Булгаков
