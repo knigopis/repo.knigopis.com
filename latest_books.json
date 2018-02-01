@@ -1,4 +1,16 @@
 {
+    "E-b_8WQ7AP": {
+        "id": "E-b_8WQ7AP",
+        "title": "Песнь о Гайавате",
+        "author": "Генри Лонгфелло",
+        "notes": "",
+        "createdAt": "2018-02-01 19:42:25",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 611
+        }
+    },
     "i0-Xp8OrTn": {
         "id": "i0-Xp8OrTn",
         "title": "Практика менеджмента",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 6
-        }
-    },
-    "f0dKyZ5Tf_": {
-        "id": "f0dKyZ5Tf_",
-        "title": "Сожженная карта",
-        "author": "Кобо Абэ",
-        "notes": "",
-        "createdAt": "2018-01-28 21:05:44",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 15
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 611,
+        "updatedAt": "2018-02-01 19:42:25"
+    },
     "469391233-vkontakte": {
         "id": "469391233-vkontakte",
         "nickname": "eva_06",
@@ -28,12 +34,6 @@
         "nickname": "me",
         "booksCount": 37,
         "updatedAt": "2018-02-01 00:03:12"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 610,
-        "updatedAt": "2018-01-31 20:54:46"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
