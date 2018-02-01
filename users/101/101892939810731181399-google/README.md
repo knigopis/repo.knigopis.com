@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>34</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>35</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Смерть и что случается после
 Т. Пратчетт
 > [2018-01-31] 
+
+
+### Иные Боги
+Г.Ф.Лафкрафт
+> [2018-01] 
 
 
 ### Заводной апельсин

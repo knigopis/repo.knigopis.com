@@ -1,4 +1,16 @@
 {
+    "5gtBA_Xt9d": {
+        "id": "5gtBA_Xt9d",
+        "title": "Иные Боги",
+        "author": "Г.Ф.Лафкрафт",
+        "notes": "",
+        "createdAt": "2018-02-01 17:51:51",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 35
+        }
+    },
     "diNT4i8lSz": {
         "id": "diNT4i8lSz",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 44
-        }
-    },
-    "5huKNEVoJj": {
-        "id": "5huKNEVoJj",
-        "title": "\"Остальное - судьба\"",
-        "author": "Михаил Успенский",
-        "notes": "Серия S.T.A.L.K.E.R.",
-        "createdAt": "2018-01-28 15:15:34",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "nord_book",
-            "booksCount": 12
         }
     }
 }
