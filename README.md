@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>611</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>2</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>35</sup> 
 [R3V01V3R](users/102/102961825735323371351-google)<sup>0</sup> 
 [PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>32</sup> 
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 [International master](users/741/74140988-vkontakte)<sup>101</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [polinaantonovna](users/652/6523940-vkontakte)<sup>0</sup> 
 
 
-_01.02.2018 19:42:25_
+_01.02.2018 20:26:26_
