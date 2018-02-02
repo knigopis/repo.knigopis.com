@@ -36,11 +36,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>611</sup> 
 [eva_06](users/469/469391233-vkontakte)<sup>2</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>35</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
 
 
-_02.02.2018 11:13:58_
+_02.02.2018 19:57:33_

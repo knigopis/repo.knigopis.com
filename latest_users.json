@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 37,
+        "updatedAt": "2018-02-02 19:57:33"
+    },
     "116212888203021514442-google": {
         "id": "116212888203021514442-google",
         "nickname": "parfutik",
@@ -22,12 +28,6 @@
         "nickname": "GvenVivar ",
         "booksCount": 42,
         "updatedAt": "2018-02-02 05:29:49"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 37,
-        "updatedAt": "2018-02-01 20:26:26"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
