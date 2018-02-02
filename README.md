@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[parfutik](users/116/116212888203021514442-google)<sup>0</sup> 
+[parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
 
 
-_02.02.2018 11:13:12_
+_02.02.2018 11:13:58_

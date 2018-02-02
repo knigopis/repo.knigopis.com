@@ -1,4 +1,16 @@
 {
+    "YxSJHMEUij": {
+        "id": "YxSJHMEUij",
+        "title": "Ґалапаґос",
+        "author": "Курт Воннеґут",
+        "notes": "",
+        "createdAt": "2018-02-02 11:13:58",
+        "user": {
+            "id": "116212888203021514442-google",
+            "nickname": "parfutik",
+            "booksCount": 1
+        }
+    },
     "gYdcdvkliz": {
         "id": "gYdcdvkliz",
         "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
@@ -345,18 +357,6 @@
             "id": "32695636-vkontakte",
             "nickname": "kkkatya",
             "booksCount": 1
-        }
-    },
-    "hpTlJc0mLN": {
-        "id": "hpTlJc0mLN",
-        "title": "Effective Java",
-        "author": "Joshua Bloch",
-        "notes": "",
-        "createdAt": "2018-01-29 18:45:15",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 37
         }
     }
 }
