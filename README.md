@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[parfutik](users/116/116212888203021514442-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>168</sup> 
-[Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup> 
 
 
-_02.02.2018 10:58:54_
+_02.02.2018 11:13:12_
