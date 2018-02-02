@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 61,
+        "updatedAt": "2018-02-02 10:55:21"
+    },
     "76622692-yandex": {
         "id": "76622692-yandex",
         "nickname": "AlyonaNya",
@@ -172,11 +178,5 @@
         "nickname": "Лина Кауфман",
         "booksCount": 23,
         "updatedAt": "2018-01-27 12:23:19"
-    },
-    "10202934244316634-facebook": {
-        "id": "10202934244316634-facebook",
-        "nickname": "Andrey",
-        "booksCount": 1,
-        "updatedAt": "2018-01-27 05:58:15"
     }
 }
