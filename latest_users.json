@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 38,
+        "updatedAt": "2018-02-02 20:58:23"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Rainbow",
         "booksCount": 43,
         "updatedAt": "2018-01-27 17:13:56"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 168,
-        "updatedAt": "2018-01-27 15:17:27"
     }
 }
