@@ -1,4 +1,10 @@
 {
+    "116212888203021514442-google": {
+        "id": "116212888203021514442-google",
+        "nickname": "parfutik",
+        "booksCount": 0,
+        "updatedAt": "2018-02-02 11:13:10"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 168,
         "updatedAt": "2018-01-27 15:17:27"
-    },
-    "143278479-vkontakte": {
-        "id": "143278479-vkontakte",
-        "nickname": "Лина Кауфман",
-        "booksCount": 23,
-        "updatedAt": "2018-01-27 12:23:19"
     }
 }
