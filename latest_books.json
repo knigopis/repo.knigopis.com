@@ -1,4 +1,16 @@
 {
+    "gOWuF0S0En": {
+        "id": "gOWuF0S0En",
+        "title": "Советник по инвестициям",
+        "author": "Орсон Скотт Кард",
+        "notes": "",
+        "createdAt": "2018-02-03 19:35:33",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 19
+        }
+    },
     "WzFcSQzVrr": {
         "id": "WzFcSQzVrr",
         "title": "Ксеноцид",
@@ -345,18 +357,6 @@
             "id": "15649404-vkontakte",
             "nickname": "Mangertus",
             "booksCount": 2
-        }
-    },
-    "Uhx82pKgBo": {
-        "id": "Uhx82pKgBo",
-        "title": "Дикая Россия (фотоальбом)",
-        "author": "Иван Дементиевский",
-        "notes": "в процессе медитативного листания\n\nhttps://www.ozon.ru/context/detail/id/138795662/",
-        "createdAt": "2018-02-03 00:37:52",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 139
         }
     }
 }

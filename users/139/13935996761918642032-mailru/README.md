@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>18</sup>
+# List of books read by xaytennn<sup>19</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Советник по инвестициям
+Орсон Скотт Кард
+
 
 ### Ксеноцид
 Орсон Скотт Кард
