@@ -1,4 +1,16 @@
 {
+    "tPH0tLbkc8": {
+        "id": "tPH0tLbkc8",
+        "title": "Ангелы-хранители",
+        "author": "Дин Кунц",
+        "notes": "",
+        "createdAt": "2018-02-03 19:28:53",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 2
+        }
+    },
     "HoiBrNomU0": {
         "id": "HoiBrNomU0",
         "title": "Безумный Маро",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 11
-        }
-    },
-    "Vj4iewhnsp": {
-        "id": "Vj4iewhnsp",
-        "title": "Лолита",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2018-01-31 06:52:40",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 10
         }
     }
 }
