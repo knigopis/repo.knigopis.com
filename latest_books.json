@@ -1,4 +1,16 @@
 {
+    "dmK-X_25tf": {
+        "id": "dmK-X_25tf",
+        "title": "Призрак в сети. Мемуары величайшего хакера",
+        "author": "Уильям Д. Саймон",
+        "notes": "",
+        "createdAt": "2018-02-03 19:35:00",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 17
+        }
+    },
     "SYRVttOYDo": {
         "id": "SYRVttOYDo",
         "title": "Десять негритят",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 38
-        }
-    },
-    "YxSJHMEUij": {
-        "id": "YxSJHMEUij",
-        "title": "Ґалапаґос",
-        "author": "Курт Воннеґут",
-        "notes": "",
-        "createdAt": "2018-02-02 11:13:58",
-        "user": {
-            "id": "116212888203021514442-google",
-            "nickname": "parfutik",
-            "booksCount": 1
         }
     }
 }
