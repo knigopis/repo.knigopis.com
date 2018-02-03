@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
 * Доводы рассудка ~ [Garri938](users/114/114389869162010721507-google)<sup>35</sup>
 * Дикая Россия (фотоальбом) ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup>
 * Вероника решает умереть ~ [Saamy](users/115/115226508-vkontakte)<sup>38</sup>
@@ -30,7 +31,6 @@
 * Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 * Источник магии ~ [En](users/333/333646551-vkontakte)<sup>30</sup>
 * Цвет волшебства ~ [Garka](users/115/115753719718250012620-google)<sup>166</sup>
-* Светлая и Темный ~ [amesyatseva](users/335/3358937-vkontakte)<sup>44</sup>
 
 
-_03.02.2018 08:34:20_
+_03.02.2018 09:05:21_
