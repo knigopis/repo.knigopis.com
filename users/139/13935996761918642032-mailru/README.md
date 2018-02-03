@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>19</sup>
+# List of books read by xaytennn<sup>20</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Голос тех, кого нет
+Орсон Скотт Кард
+
 
 ### Советник по инвестициям
 Орсон Скотт Кард

@@ -1,4 +1,16 @@
 {
+    "4qUBfeyFNA": {
+        "id": "4qUBfeyFNA",
+        "title": "Голос тех, кого нет",
+        "author": "Орсон Скотт Кард",
+        "notes": "",
+        "createdAt": "2018-02-03 19:35:47",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 20
+        }
+    },
     "gOWuF0S0En": {
         "id": "gOWuF0S0En",
         "title": "Советник по инвестициям",
@@ -345,18 +357,6 @@
             "id": "15649404-vkontakte",
             "nickname": "Mangertus",
             "booksCount": 3
-        }
-    },
-    "YA1W0e14Pc": {
-        "id": "YA1W0e14Pc",
-        "title": "Шестерка воронов",
-        "author": "Бардуго",
-        "notes": "",
-        "createdAt": "2018-02-03 01:17:55",
-        "user": {
-            "id": "15649404-vkontakte",
-            "nickname": "Mangertus",
-            "booksCount": 2
         }
     }
 }
