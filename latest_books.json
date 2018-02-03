@@ -1,4 +1,16 @@
 {
+    "8F57p32eHB": {
+        "id": "8F57p32eHB",
+        "title": "Бегущий человек",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-02-03 19:36:07",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 22
+        }
+    },
     "kNHd2h5FM7": {
         "id": "kNHd2h5FM7",
         "title": "Игра Эндера",
@@ -345,18 +357,6 @@
             "id": "15649404-vkontakte",
             "nickname": "Mangertus",
             "booksCount": 5
-        }
-    },
-    "kgZz5VIXtM": {
-        "id": "kgZz5VIXtM",
-        "title": "Level Up. Женский взгляд",
-        "author": "Корносенко",
-        "notes": "",
-        "createdAt": "2018-02-03 01:19:08",
-        "user": {
-            "id": "15649404-vkontakte",
-            "nickname": "Mangertus",
-            "booksCount": 4
         }
     }
 }
