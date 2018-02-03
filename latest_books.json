@@ -1,4 +1,16 @@
 {
+    "YA1W0e14Pc": {
+        "id": "YA1W0e14Pc",
+        "title": "Шестерка воронов",
+        "author": "Бардуго",
+        "notes": "",
+        "createdAt": "2018-02-03 01:17:55",
+        "user": {
+            "id": "15649404-vkontakte",
+            "nickname": "Mangertus",
+            "booksCount": 2
+        }
+    },
     "Uhx82pKgBo": {
         "id": "Uhx82pKgBo",
         "title": "Дикая Россия (фотоальбом)",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 609
-        }
-    },
-    "dADcFGu_Mo": {
-        "id": "dADcFGu_Mo",
-        "title": "Остров Сокровищ",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-01-30 08:00:03",
-        "user": {
-            "id": "9668081-vkontakte",
-            "nickname": "supervagrant",
-            "booksCount": 1
         }
     }
 }

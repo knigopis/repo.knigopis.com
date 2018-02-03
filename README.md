@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mangertus](users/156/15649404-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>38</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>27</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 
 
-_03.02.2018 00:37:52_
+_03.02.2018 01:17:55_
