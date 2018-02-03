@@ -1,7 +1,12 @@
-# List of books read by [Mangertus](http://vk.com/id15649404)<sup>2</sup>
+# List of books read by [Mangertus](http://vk.com/id15649404)<sup>3</sup>
 ---
 
 ## 2018
+
+### Продажное королевство
+Бардуго
+> [2018-01] 
+
 
 ### Шестерка воронов
 Бардуго

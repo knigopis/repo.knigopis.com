@@ -1,4 +1,16 @@
 {
+    "grblsyKsD1": {
+        "id": "grblsyKsD1",
+        "title": "Продажное королевство",
+        "author": "Бардуго",
+        "notes": "",
+        "createdAt": "2018-02-03 01:18:34",
+        "user": {
+            "id": "15649404-vkontakte",
+            "nickname": "Mangertus",
+            "booksCount": 3
+        }
+    },
     "YA1W0e14Pc": {
         "id": "YA1W0e14Pc",
         "title": "Шестерка воронов",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 101
-        }
-    },
-    "iPN4chNkCy": {
-        "id": "iPN4chNkCy",
-        "title": "Кентерберийские рассказы",
-        "author": "Джеффри Чосер",
-        "notes": "",
-        "createdAt": "2018-01-30 13:39:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 609
         }
     }
 }
