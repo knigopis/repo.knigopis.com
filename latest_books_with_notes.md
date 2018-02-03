@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Узорный покров ~ [Garri938](users/114/114389869162010721507-google)<sup>39</sup>
 * Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
 * Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
 * Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
@@ -30,7 +31,6 @@
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
 * Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
-* Норвежский лес ~ [Madlax](users/158/158304782-vkontakte)<sup>132</sup>
 
 
-_03.02.2018 09:34:46_
+_03.02.2018 09:47:50_

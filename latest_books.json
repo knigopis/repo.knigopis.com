@@ -1,4 +1,16 @@
 {
+    "rLbBeUCSFc": {
+        "id": "rLbBeUCSFc",
+        "title": "Узорный покров",
+        "author": "Сомерсет Моэм",
+        "notes": "Роман. О светском обществе. О женщине и ее взрослении. Как и в других книгах автора здесь есть описание эпидемической болезни.",
+        "createdAt": "2018-02-03 09:47:50",
+        "user": {
+            "id": "114389869162010721507-google",
+            "nickname": "Garri938",
+            "booksCount": 39
+        }
+    },
     "NTan3k50PF": {
         "id": "NTan3k50PF",
         "title": "Луна и грош",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 7
-        }
-    },
-    "oGQrOWfcQ5": {
-        "id": "oGQrOWfcQ5",
-        "title": "Герой нашего времени",
-        "author": "Михаил Юрьевич Лермонтов",
-        "notes": "",
-        "createdAt": "2018-01-31 04:13:49",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 6
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Узорный покров ~ [Garri938](users/114/114389869162010721507-google)<sup>39</sup>
+    > Роман. О светском обществе. О женщине и ее взрослении. Как и в других книгах автора здесь есть описание эпидемической болезни.
+
 * Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
     > Роман. Вне сомнения хороший. Про художника о его поиске.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Набор рассказов. Если сравнить с другими его книгами то эта кажется не такой интересной. Дает отвлечься, но не запоминается.
 
 * Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
-    > Исторический роман о жизни китайских чиновников, которые учатся тусуются и сдают экзамены на мастерство стихосложения. повествование кажется однообразным. Китайские имена героев сложно воспринимаются и запоминаются. Осилил только 1/3.
 
 * Доводы рассудка ~ [Garri938](users/114/114389869162010721507-google)<sup>35</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * ▫Пикник на обочине ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup>
 
-* Дом странных детей ~ [En](users/333/333646551-vkontakte)<sup>32</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garri938](users/114/114389869162010721507-google)<sup>38</sup> 
+[Garri938](users/114/114389869162010721507-google)<sup>39</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 
 
-_03.02.2018 09:34:46_
+_03.02.2018 09:47:50_
