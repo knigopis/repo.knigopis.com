@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[xaytennn(Л)](users/139/13935996761918642032-mailru)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>41</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
 [abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
-[hiqb](users/481/481697754-yandex)<sup>2</sup> 
 
 
-_03.02.2018 15:11:33_
+_03.02.2018 19:27:05_
