@@ -1,4 +1,16 @@
 {
+    "kgZz5VIXtM": {
+        "id": "kgZz5VIXtM",
+        "title": "Level Up. Женский взгляд",
+        "author": "Корносенко",
+        "notes": "",
+        "createdAt": "2018-02-03 01:19:08",
+        "user": {
+            "id": "15649404-vkontakte",
+            "nickname": "Mangertus",
+            "booksCount": 4
+        }
+    },
     "grblsyKsD1": {
         "id": "grblsyKsD1",
         "title": "Продажное королевство",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 1
-        }
-    },
-    "omgxt-gS5N": {
-        "id": "omgxt-gS5N",
-        "title": "Убийство в \"Восточном экспрессе\"",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2018-01-30 22:51:58",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 101
         }
     }
 }
