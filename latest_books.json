@@ -1,4 +1,16 @@
 {
+    "AQxsfHR-M5": {
+        "id": "AQxsfHR-M5",
+        "title": "Социальная инженерия и социальные хакеры",
+        "author": "Кузнецов и Симдянов",
+        "notes": "",
+        "createdAt": "2018-02-03 19:32:25",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 9
+        }
+    },
     "mclMD-8y9E": {
         "id": "mclMD-8y9E",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 35
-        }
-    },
-    "diNT4i8lSz": {
-        "id": "diNT4i8lSz",
-        "title": "Заводной апельсин",
-        "author": "Э. Бёрджесс",
-        "notes": "",
-        "createdAt": "2018-02-01 17:50:25",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 34
         }
     }
 }
