@@ -1,4 +1,16 @@
 {
+    "d20YjKsvNf": {
+        "id": "d20YjKsvNf",
+        "title": "Тайна богов",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2018-02-03 19:32:33",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 10
+        }
+    },
     "AQxsfHR-M5": {
         "id": "AQxsfHR-M5",
         "title": "Социальная инженерия и социальные хакеры",
@@ -345,18 +357,6 @@
             "id": "469391233-vkontakte",
             "nickname": "eva_06",
             "booksCount": 2
-        }
-    },
-    "5gtBA_Xt9d": {
-        "id": "5gtBA_Xt9d",
-        "title": "Иные Боги",
-        "author": "Г.Ф.Лафкрафт",
-        "notes": "",
-        "createdAt": "2018-02-01 17:51:51",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 35
         }
     }
 }
