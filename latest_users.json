@@ -1,4 +1,10 @@
 {
+    "13935996761918642032-mailru": {
+        "id": "13935996761918642032-mailru",
+        "nickname": "xaytennn(Л)",
+        "booksCount": 0,
+        "updatedAt": "2018-02-03 19:27:02"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "abnormal_1",
         "booksCount": 0,
         "updatedAt": "2018-01-28 06:11:00"
-    },
-    "481697754-yandex": {
-        "id": "481697754-yandex",
-        "nickname": "hiqb",
-        "booksCount": 2,
-        "updatedAt": "2018-01-27 19:24:03"
     }
 }
