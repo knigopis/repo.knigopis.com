@@ -1,4 +1,16 @@
 {
+    "j0G0FYxGaQ": {
+        "id": "j0G0FYxGaQ",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рей Бредбери",
+        "notes": "",
+        "createdAt": "2018-02-03 19:36:22",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 23
+        }
+    },
     "8F57p32eHB": {
         "id": "8F57p32eHB",
         "title": "Бегущий человек",
@@ -345,18 +357,6 @@
             "id": "114389869162010721507-google",
             "nickname": "Garri938",
             "booksCount": 35
-        }
-    },
-    "8E6Mevb0dh": {
-        "id": "8E6Mevb0dh",
-        "title": "Охотники. Мегалиты Империи",
-        "author": "Перумов",
-        "notes": "",
-        "createdAt": "2018-02-03 01:19:39",
-        "user": {
-            "id": "15649404-vkontakte",
-            "nickname": "Mangertus",
-            "booksCount": 5
         }
     }
 }
