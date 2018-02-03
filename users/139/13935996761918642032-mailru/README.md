@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>20</sup>
+# List of books read by xaytennn<sup>21</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Игра Эндера
+Орсон Скотт Кард
+
 
 ### Голос тех, кого нет
 Орсон Скотт Кард

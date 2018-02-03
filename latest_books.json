@@ -1,4 +1,16 @@
 {
+    "kNHd2h5FM7": {
+        "id": "kNHd2h5FM7",
+        "title": "Игра Эндера",
+        "author": "Орсон Скотт Кард",
+        "notes": "",
+        "createdAt": "2018-02-03 19:35:56",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 21
+        }
+    },
     "4qUBfeyFNA": {
         "id": "4qUBfeyFNA",
         "title": "Голос тех, кого нет",
@@ -345,18 +357,6 @@
             "id": "15649404-vkontakte",
             "nickname": "Mangertus",
             "booksCount": 4
-        }
-    },
-    "grblsyKsD1": {
-        "id": "grblsyKsD1",
-        "title": "Продажное королевство",
-        "author": "Бардуго",
-        "notes": "",
-        "createdAt": "2018-02-03 01:18:34",
-        "user": {
-            "id": "15649404-vkontakte",
-            "nickname": "Mangertus",
-            "booksCount": 3
         }
     }
 }
