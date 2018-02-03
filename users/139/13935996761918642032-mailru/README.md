@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>6</sup>
+# List of books read by xaytennn<sup>7</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Колыбельная
+Чак Паланик
+
 
 ### Женщина. Где у нее кнопка?
 Вис Виталис
