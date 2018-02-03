@@ -1,4 +1,16 @@
 {
+    "WNV9RLjl95": {
+        "id": "WNV9RLjl95",
+        "title": "Дыхание богов",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2018-02-03 19:32:40",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 11
+        }
+    },
     "d20YjKsvNf": {
         "id": "d20YjKsvNf",
         "title": "Тайна богов",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 611
-        }
-    },
-    "i0-Xp8OrTn": {
-        "id": "i0-Xp8OrTn",
-        "title": "Практика менеджмента",
-        "author": "Друкер",
-        "notes": "",
-        "createdAt": "2018-02-01 18:49:51",
-        "user": {
-            "id": "469391233-vkontakte",
-            "nickname": "eva_06",
-            "booksCount": 2
         }
     }
 }
