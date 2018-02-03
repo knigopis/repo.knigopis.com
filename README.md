@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garri938](users/114/114389869162010721507-google)<sup>39</sup> 
+[Garri938](users/114/114389869162010721507-google)<sup>40</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>38</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 
 
-_03.02.2018 09:47:50_
+_03.02.2018 09:51:20_

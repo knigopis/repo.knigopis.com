@@ -1,4 +1,16 @@
 {
+    "TL-AFU3p0A": {
+        "id": "TL-AFU3p0A",
+        "title": "Убийство Роджера Экройда",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2018-02-03 09:51:20",
+        "user": {
+            "id": "114389869162010721507-google",
+            "nickname": "Garri938",
+            "booksCount": 40
+        }
+    },
     "rLbBeUCSFc": {
         "id": "rLbBeUCSFc",
         "title": "Узорный покров",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 8
-        }
-    },
-    "hqbVQRZryW": {
-        "id": "hqbVQRZryW",
-        "title": "Джанки",
-        "author": "Уильям Берроуз",
-        "notes": "",
-        "createdAt": "2018-01-31 04:15:41",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 7
         }
     }
 }
