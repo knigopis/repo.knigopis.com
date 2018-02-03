@@ -1,4 +1,16 @@
 {
+    "mclMD-8y9E": {
+        "id": "mclMD-8y9E",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-02-03 19:31:59",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 8
+        }
+    },
     "rn3fmE8laQ": {
         "id": "rn3fmE8laQ",
         "title": "Колыбельная",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 34
-        }
-    },
-    "ybPJ-ozd3U": {
-        "id": "ybPJ-ozd3U",
-        "title": "Смерть и что случается после",
-        "author": "Т. Пратчетт",
-        "notes": "",
-        "createdAt": "2018-02-01 17:48:37",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 33
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>7</sup>
+# List of books read by xaytennn<sup>8</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Повелитель мух
+Уильям Голдинг
+
 
 ### Колыбельная
 Чак Паланик
