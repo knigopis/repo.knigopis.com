@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дикая Россия (фотоальбом) ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup>
+    > в процессе медитативного листания
+    > 
+    > https://www.ozon.ru/context/detail/id/138795662/
+
 * Вероника решает умереть ~ [Saamy](users/115/115226508-vkontakte)<sup>38</sup>
     > Ну вот в духе обычных книг про психбольницы. Вроде неплохо, но сказано уже тысячу раз на страницах других книг. Главная героиня не вызывает особой симпатии, но при этом она вполне реалистична. Понравился конец, кроме того. Как бы не ругали Коэльо за попсовость, но написано неплохо, надо отдать должное
 
@@ -13,8 +18,6 @@ Do not use pull requests to make changes here.
     > "Не сидите сложа руки. Делайте что-нибудь. Ответы придут."
 
 * Бегущая с волками ~ [joan789](users/240/2401650-vkontakte)<sup>61</sup>
-    > Прочла в аудио-версии. Мощная книга для обретения самоуважения женщиной, но я до такого уровня любви к себе ещё не доросла... Мне слышались голоса, что звали присоединиться к этому древнему потоку женского самосознания, но я боялась, так как, мне казалось, что если я пойду на них, то окажусь в небезопасности. Что меня такую не полюбят. 
-    > Грустно, что я никак не могу отделаться от этой разрушительной потребности всё ещё...
 
 * ▫Пикник на обочине ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup>
 
@@ -28,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
 
-* Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>38</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
@@ -50,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 [International master](users/741/74140988-vkontakte)<sup>101</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>138</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>43</sup> 
 
 
-_02.02.2018 20:58:23_
+_03.02.2018 00:37:52_
