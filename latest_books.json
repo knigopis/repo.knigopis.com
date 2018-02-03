@@ -1,4 +1,16 @@
 {
+    "QludW7dw2Z": {
+        "id": "QludW7dw2Z",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-02-03 19:33:06",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 14
+        }
+    },
     "Mgb2Yk-AcO": {
         "id": "Mgb2Yk-AcO",
         "title": "Мы, боги",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 61
-        }
-    },
-    "y1pfVqmR2N": {
-        "id": "y1pfVqmR2N",
-        "title": "Расскажи мне о море",
-        "author": "Эльчин Сафарли",
-        "notes": "",
-        "createdAt": "2018-02-02 08:09:02",
-        "user": {
-            "id": "76622692-yandex",
-            "nickname": "AlyonaNya",
-            "booksCount": 1
         }
     }
 }
