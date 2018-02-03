@@ -1,9 +1,7 @@
-# List of books read by xaytennn<sup>15</sup>
+# List of books read by xaytennn<sup>14</sup>
 ---
 
 ## 2018
-
-
 
 
 
