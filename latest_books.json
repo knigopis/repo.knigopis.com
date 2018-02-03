@@ -1,4 +1,16 @@
 {
+    "8E6Mevb0dh": {
+        "id": "8E6Mevb0dh",
+        "title": "Охотники. Мегалиты Империи",
+        "author": "Перумов",
+        "notes": "",
+        "createdAt": "2018-02-03 01:19:39",
+        "user": {
+            "id": "15649404-vkontakte",
+            "nickname": "Mangertus",
+            "booksCount": 5
+        }
+    },
     "kgZz5VIXtM": {
         "id": "kgZz5VIXtM",
         "title": "Level Up. Женский взгляд",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 2
-        }
-    },
-    "pEnssdBN-l": {
-        "id": "pEnssdBN-l",
-        "title": "Поющие в терновнике",
-        "author": "Колин Маккалоу",
-        "notes": "",
-        "createdAt": "2018-01-31 03:58:42",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 1
         }
     }
 }
