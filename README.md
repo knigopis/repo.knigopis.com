@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>41</sup> 
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>38</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hiqb](users/481/481697754-yandex)<sup>2</sup> 
 
 
-_03.02.2018 10:39:25_
+_03.02.2018 15:11:33_
