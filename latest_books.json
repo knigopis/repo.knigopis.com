@@ -1,4 +1,16 @@
 {
+    "cm7xiaxPDj": {
+        "id": "cm7xiaxPDj",
+        "title": "Токийские легенды",
+        "author": "Харуки Мураками",
+        "notes": "Набор рассказов. Если сравнить с другими его книгами то эта кажется не такой интересной. Дает отвлечься, но не запоминается.",
+        "createdAt": "2018-02-03 09:14:54",
+        "user": {
+            "id": "114389869162010721507-google",
+            "nickname": "Garri938",
+            "booksCount": 37
+        }
+    },
     "qjP1mf9mza": {
         "id": "qjP1mf9mza",
         "title": "Цветы в море зла",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 5
-        }
-    },
-    "8xhBnVfJn8": {
-        "id": "8xhBnVfJn8",
-        "title": "Ночь нежна",
-        "author": "Фрэнсис Скотт Фицджеральд",
-        "notes": "",
-        "createdAt": "2018-01-31 04:10:01",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 4
         }
     }
 }
