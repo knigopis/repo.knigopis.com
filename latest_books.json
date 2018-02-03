@@ -1,4 +1,16 @@
 {
+    "NTan3k50PF": {
+        "id": "NTan3k50PF",
+        "title": "Луна и грош",
+        "author": "Сомерсет Моэм",
+        "notes": "Роман. Вне сомнения хороший. Про художника о его поиске.",
+        "createdAt": "2018-02-03 09:34:46",
+        "user": {
+            "id": "114389869162010721507-google",
+            "nickname": "Garri938",
+            "booksCount": 38
+        }
+    },
     "cm7xiaxPDj": {
         "id": "cm7xiaxPDj",
         "title": "Токийские легенды",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 6
-        }
-    },
-    "CcqLNEAiZH": {
-        "id": "CcqLNEAiZH",
-        "title": "Американская трагедия",
-        "author": "Теодор Драйзер",
-        "notes": "",
-        "createdAt": "2018-01-31 04:10:49",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 5
         }
     }
 }
