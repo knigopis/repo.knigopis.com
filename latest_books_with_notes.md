@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Фиеста ~ [Garri938](users/114/114389869162010721507-google)<sup>41</sup>
 * Узорный покров ~ [Garri938](users/114/114389869162010721507-google)<sup>39</sup>
 * Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
 * Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
@@ -30,7 +31,6 @@
 * Единственная для оборотня и теща в нагрузку ~ [amesyatseva](users/335/3358937-vkontakte)<sup>45</sup>
 * Охотники за головами ~ [Chiffi](users/105/105831994080785626680-google)<sup>41</sup>
 * Бегущий за ветром ~ [Saamy](users/115/115226508-vkontakte)<sup>37</sup>
-* Охота за кварками ~ [Saamy](users/115/115226508-vkontakte)<sup>36</sup>
 
 
-_03.02.2018 09:47:50_
+_03.02.2018 10:39:25_
