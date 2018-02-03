@@ -1,4 +1,16 @@
 {
+    "6GacNz9xZI": {
+        "id": "6GacNz9xZI",
+        "title": "Рай на заказ",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2018-02-03 19:31:07",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 4
+        }
+    },
     "0BXqAe4RD_": {
         "id": "0BXqAe4RD_",
         "title": "Миф о многозадачности. К чему приводит стремление успеть все",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 610
-        }
-    },
-    "5cjDdJLFq_": {
-        "id": "5cjDdJLFq_",
-        "title": "Дом странных детей",
-        "author": "Ренсом Риггз",
-        "notes": "Книга интересна, сюжет необычен, читается легко. Идея с фото добавляет атмосферности",
-        "createdAt": "2018-01-31 10:55:01",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 32
         }
     }
 }
