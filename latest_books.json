@@ -1,4 +1,16 @@
 {
+    "S-Xza7hwKg": {
+        "id": "S-Xza7hwKg",
+        "title": "Зеркало Кассандры",
+        "author": "Бернард Вербер",
+        "notes": "",
+        "createdAt": "2018-02-03 19:32:55",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 12
+        }
+    },
     "WNV9RLjl95": {
         "id": "WNV9RLjl95",
         "title": "Дыхание богов",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 42
-        }
-    },
-    "E-b_8WQ7AP": {
-        "id": "E-b_8WQ7AP",
-        "title": "Песнь о Гайавате",
-        "author": "Генри Лонгфелло",
-        "notes": "",
-        "createdAt": "2018-02-01 19:42:25",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 611
         }
     }
 }

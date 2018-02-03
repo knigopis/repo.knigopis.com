@@ -1,4 +1,4 @@
-# List of books read by xaytennn<sup>11</sup>
+# List of books read by xaytennn<sup>12</sup>
 ---
 
 ## 2018
@@ -13,6 +13,10 @@
 
 
 ## 2017
+
+### Зеркало Кассандры
+Бернард Вербер
+
 
 ### Дыхание богов
 Бернард Вербер
