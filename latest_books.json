@@ -1,4 +1,16 @@
 {
+    "HoiBrNomU0": {
+        "id": "HoiBrNomU0",
+        "title": "Безумный Маро",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-02-03 19:28:34",
+        "user": {
+            "id": "13935996761918642032-mailru",
+            "nickname": "xaytennn",
+            "booksCount": 1
+        }
+    },
     "tuuws854yX": {
         "id": "tuuws854yX",
         "title": "Фиеста",
@@ -345,18 +357,6 @@
             "id": "102220567175253488762-google",
             "nickname": "Kainding",
             "booksCount": 10
-        }
-    },
-    "Kyc7dcEKzk": {
-        "id": "Kyc7dcEKzk",
-        "title": "Сага о Форсайтах. В Петле",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2018-01-31 06:50:17",
-        "user": {
-            "id": "102220567175253488762-google",
-            "nickname": "Kainding",
-            "booksCount": 9
         }
     }
 }
