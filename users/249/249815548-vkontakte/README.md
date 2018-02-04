@@ -1,7 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>16</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>17</sup>
 ---
 
 ## 2018
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2018-01] 
+
 
 ### 1984
 Джордж Оруэлл
