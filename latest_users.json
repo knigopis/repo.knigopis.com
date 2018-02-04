@@ -1,4 +1,10 @@
 {
+    "113396900978225140970-google": {
+        "id": "113396900978225140970-google",
+        "nickname": "fifan",
+        "booksCount": 0,
+        "updatedAt": "2018-02-04 15:43:12"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -172,11 +178,5 @@
         "nickname": "nord_book",
         "booksCount": 12,
         "updatedAt": "2018-01-28 15:15:34"
-    },
-    "109232883876697421544-google": {
-        "id": "109232883876697421544-google",
-        "nickname": "Andry-Bal",
-        "booksCount": 28,
-        "updatedAt": "2018-01-28 15:09:50"
     }
 }
