@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[yanachali](users/182/182231609-vkontakte)<sup>0</sup> 
 [xaytennn](users/139/13935996761918642032-mailru)<sup>24</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Garri938](users/114/114389869162010721507-google)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nord_book](users/325/325862222-vkontakte)<sup>12</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>34</sup> 
-[abnormal_1](users/183/183470027-vkontakte)<sup>0</sup> 
 
 
-_03.02.2018 19:37:39_
+_04.02.2018 08:06:58_
