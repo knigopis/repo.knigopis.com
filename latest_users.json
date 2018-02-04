@@ -1,4 +1,10 @@
 {
+    "182231609-vkontakte": {
+        "id": "182231609-vkontakte",
+        "nickname": "yanachali",
+        "booksCount": 0,
+        "updatedAt": "2018-02-04 08:06:56"
+    },
     "13935996761918642032-mailru": {
         "id": "13935996761918642032-mailru",
         "nickname": "xaytennn",
@@ -172,11 +178,5 @@
         "nickname": "sergeybolobaev",
         "booksCount": 34,
         "updatedAt": "2018-01-28 08:13:19"
-    },
-    "183470027-vkontakte": {
-        "id": "183470027-vkontakte",
-        "nickname": "abnormal_1",
-        "booksCount": 0,
-        "updatedAt": "2018-01-28 06:11:00"
     }
 }
