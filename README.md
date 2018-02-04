@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fifan](users/113/113396900978225140970-google)<sup>0</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>17</sup> 
 [yanachali](users/182/182231609-vkontakte)<sup>0</sup> 
 [xaytennn](users/139/13935996761918642032-mailru)<sup>24</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>44</sup> 
 [nord_book](users/325/325862222-vkontakte)<sup>12</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>28</sup> 
 
 
-_04.02.2018 11:00:39_
+_04.02.2018 15:43:14_
