@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[d9tlik](users/304/304258520-vkontakte)<sup>0</sup> 
 [LazarettoLoves](users/765/76561197995435290-steam)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>28</sup> 
 [fifan](users/113/113396900978225140970-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 [wolyk](users/108/108891319775742454384-google)<sup>0</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 
 
-_05.02.2018 08:03:35_
+_05.02.2018 08:19:24_
