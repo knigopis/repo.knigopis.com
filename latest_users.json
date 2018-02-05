@@ -1,4 +1,10 @@
 {
+    "304258520-vkontakte": {
+        "id": "304258520-vkontakte",
+        "nickname": "d9tlik",
+        "booksCount": 0,
+        "updatedAt": "2018-02-05 08:19:22"
+    },
     "76561197995435290-steam": {
         "id": "76561197995435290-steam",
         "nickname": "LazarettoLoves",
@@ -172,11 +178,5 @@
         "nickname": "wolyk",
         "booksCount": 0,
         "updatedAt": "2018-01-29 09:55:12"
-    },
-    "471364154-yandex": {
-        "id": "471364154-yandex",
-        "nickname": "submerged fish",
-        "booksCount": 15,
-        "updatedAt": "2018-01-28 21:05:44"
     }
 }
