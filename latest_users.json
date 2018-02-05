@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 39,
+        "updatedAt": "2018-02-05 16:52:22"
+    },
     "106722397177670308255-google": {
         "id": "106722397177670308255-google",
         "nickname": "OZ",
@@ -88,12 +94,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 139,
         "updatedAt": "2018-02-03 00:37:52"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 38,
-        "updatedAt": "2018-02-02 20:58:23"
     },
     "116212888203021514442-google": {
         "id": "116212888203021514442-google",
