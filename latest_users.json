@@ -1,4 +1,10 @@
 {
+    "341906232-vkontakte": {
+        "id": "341906232-vkontakte",
+        "nickname": "goblins ",
+        "booksCount": 0,
+        "updatedAt": "2018-02-05 14:26:45"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "dasha__solovey",
         "booksCount": 0,
         "updatedAt": "2018-01-29 10:20:43"
-    },
-    "184135339-vkontakte": {
-        "id": "184135339-vkontakte",
-        "nickname": "darb_el",
-        "booksCount": 8,
-        "updatedAt": "2018-01-29 09:56:18"
     }
 }
