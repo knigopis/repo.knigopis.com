@@ -52,7 +52,7 @@ Joel Spolsky
 
 ### `` Concurrency in practice
 
-### `` Bitcoin: A Peer-to-peer Electronic Cash System
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
 ### `` Двенадцать стульев
