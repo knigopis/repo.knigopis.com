@@ -1,4 +1,16 @@
 {
+    "eYz3E9h0Hg": {
+        "id": "eYz3E9h0Hg",
+        "title": "Киндред. Кровные братья.",
+        "author": "Алексей пехов",
+        "notes": "",
+        "createdAt": "2018-02-05 08:55:16",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 291
+        }
+    },
     "V0WEIvmLtD": {
         "id": "V0WEIvmLtD",
         "title": "Принцип 80/20",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 4
-        }
-    },
-    "0BXqAe4RD_": {
-        "id": "0BXqAe4RD_",
-        "title": "Миф о многозадачности. К чему приводит стремление успеть все",
-        "author": "Дейв Креншоу",
-        "notes": "",
-        "createdAt": "2018-02-03 19:30:51",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 3
         }
     }
 }
