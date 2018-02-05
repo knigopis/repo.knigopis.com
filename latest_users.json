@@ -1,4 +1,10 @@
 {
+    "106722397177670308255-google": {
+        "id": "106722397177670308255-google",
+        "nickname": "OZ",
+        "booksCount": 0,
+        "updatedAt": "2018-02-05 16:22:55"
+    },
     "341906232-vkontakte": {
         "id": "341906232-vkontakte",
         "nickname": "goblins ",
@@ -172,11 +178,5 @@
         "nickname": "Oread",
         "booksCount": 0,
         "updatedAt": "2018-01-29 13:28:58"
-    },
-    "17878602-vkontakte": {
-        "id": "17878602-vkontakte",
-        "nickname": "dasha__solovey",
-        "booksCount": 0,
-        "updatedAt": "2018-01-29 10:20:43"
     }
 }
