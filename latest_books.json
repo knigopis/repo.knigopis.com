@@ -1,4 +1,16 @@
 {
+    "V0WEIvmLtD": {
+        "id": "V0WEIvmLtD",
+        "title": "Принцип 80/20",
+        "author": "Ричард Кох",
+        "notes": "",
+        "createdAt": "2018-02-05 08:54:35",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 290
+        }
+    },
     "fy2EUS9FBj": {
         "id": "fy2EUS9FBj",
         "title": "Возера радасці ( беларуская мова)",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 3
-        }
-    },
-    "tPH0tLbkc8": {
-        "id": "tPH0tLbkc8",
-        "title": "Ангелы-хранители",
-        "author": "Дин Кунц",
-        "notes": "",
-        "createdAt": "2018-02-03 19:28:53",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 2
         }
     }
 }
