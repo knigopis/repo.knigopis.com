@@ -1,4 +1,10 @@
 {
+    "76561197995435290-steam": {
+        "id": "76561197995435290-steam",
+        "nickname": "LazarettoLoves",
+        "booksCount": 0,
+        "updatedAt": "2018-02-05 08:01:19"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 15,
         "updatedAt": "2018-01-28 21:05:44"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 44,
-        "updatedAt": "2018-01-28 15:48:53"
     }
 }
