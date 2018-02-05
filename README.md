@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>102</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>292</sup> 
 [d9tlik](users/304/304258520-vkontakte)<sup>1</sup> 
 [LazarettoLoves](users/765/76561197995435290-steam)<sup>2</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>32</sup> 
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
-[International master](users/741/74140988-vkontakte)<sup>101</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 
 
-_05.02.2018 08:56:46_
+_05.02.2018 12:30:41_
