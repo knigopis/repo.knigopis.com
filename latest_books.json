@@ -1,4 +1,16 @@
 {
+    "wkQvrTMvFq": {
+        "id": "wkQvrTMvFq",
+        "title": "Охота на овец",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2018-02-05 08:20:30",
+        "user": {
+            "id": "304258520-vkontakte",
+            "nickname": "d9tlik",
+            "booksCount": 1
+        }
+    },
     "y59_rUl0dC": {
         "id": "y59_rUl0dC",
         "title": "Меч предназначения",
@@ -345,18 +357,6 @@
             "id": "114389869162010721507-google",
             "nickname": "Garri938",
             "booksCount": 41
-        }
-    },
-    "TL-AFU3p0A": {
-        "id": "TL-AFU3p0A",
-        "title": "Убийство Роджера Экройда",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2018-02-03 09:51:20",
-        "user": {
-            "id": "114389869162010721507-google",
-            "nickname": "Garri938",
-            "booksCount": 40
         }
     }
 }
