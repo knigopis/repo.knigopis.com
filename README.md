@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[goblins ](users/341/341906232-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>102</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>292</sup> 
 [d9tlik](users/304/304258520-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 [Oread](users/117/117358163930312258753-google)<sup>0</sup> 
 [dasha__solovey](users/178/17878602-vkontakte)<sup>0</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>8</sup> 
 
 
-_05.02.2018 12:30:41_
+_05.02.2018 14:26:48_
