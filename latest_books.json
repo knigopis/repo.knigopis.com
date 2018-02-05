@@ -1,4 +1,16 @@
 {
+    "iEmkltqrd8": {
+        "id": "iEmkltqrd8",
+        "title": "Запретный мир. Книга 1",
+        "author": "Артём Каменистый",
+        "notes": "",
+        "createdAt": "2018-02-05 08:56:46",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 292
+        }
+    },
     "eYz3E9h0Hg": {
         "id": "eYz3E9h0Hg",
         "title": "Киндред. Кровные братья.",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 5
-        }
-    },
-    "6GacNz9xZI": {
-        "id": "6GacNz9xZI",
-        "title": "Рай на заказ",
-        "author": "Бернард Вербер",
-        "notes": "",
-        "createdAt": "2018-02-03 19:31:07",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 4
         }
     }
 }
