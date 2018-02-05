@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[LazarettoLoves](users/765/76561197995435290-steam)<sup>1</sup> 
+[LazarettoLoves](users/765/76561197995435290-steam)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>28</sup> 
 [fifan](users/113/113396900978225140970-google)<sup>0</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>17</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>15</sup> 
 
 
-_05.02.2018 08:03:07_
+_05.02.2018 08:03:35_
