@@ -1,4 +1,10 @@
 {
+    "226991612-vkontakte": {
+        "id": "226991612-vkontakte",
+        "nickname": "pro100_vladir",
+        "booksCount": 0,
+        "updatedAt": "2018-02-06 21:50:54"
+    },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
         "nickname": "AlexeyNovikov",
@@ -172,11 +178,5 @@
         "nickname": "Kainding",
         "booksCount": 11,
         "updatedAt": "2018-01-31 06:53:05"
-    },
-    "9668081-vkontakte": {
-        "id": "9668081-vkontakte",
-        "nickname": "supervagrant",
-        "booksCount": 0,
-        "updatedAt": "2018-01-30 08:00:14"
     }
 }
