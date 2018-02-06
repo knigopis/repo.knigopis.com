@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>43</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>44</sup>
 ---
 
 ## 2018
+
+### Разгром
+Александр Фадеев
+> [2018-02-06] 
+
 
 ### Владычица озера
 А. Сапковский

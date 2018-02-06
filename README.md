@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>44</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>39</sup> 
 [OZ](users/106/106722397177670308255-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>32</sup> 
 [Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 [supervagrant](users/966/9668081-vkontakte)<sup>0</sup> 
-[kkkatya](users/326/32695636-vkontakte)<sup>1</sup> 
 
 
-_06.02.2018 10:42:28_
+_06.02.2018 16:56:38_
