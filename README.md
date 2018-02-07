@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
 [pro100_vladir](users/226/226991612-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>44</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [R3V01V3R](users/102/102961825735323371351-google)<sup>0</sup> 
 [PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
 [En](users/333/333646551-vkontakte)<sup>32</sup> 
-[Kainding](users/102/102220567175253488762-google)<sup>11</sup> 
 
 
-_06.02.2018 21:50:57_
+_07.02.2018 10:50:41_
