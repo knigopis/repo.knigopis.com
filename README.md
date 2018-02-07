@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>169</sup> 
 [Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
 [pro100_vladir](users/226/226991612-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [eva_06](users/469/469391233-vkontakte)<sup>2</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>35</sup> 
 [R3V01V3R](users/102/102961825735323371351-google)<sup>0</sup> 
-[PadiShakh](users/108/108140979023821813772-google)<sup>1</sup> 
 
 
-_07.02.2018 13:56:14_
+_07.02.2018 18:38:56_
