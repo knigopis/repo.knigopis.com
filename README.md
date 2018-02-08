@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
-[AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 
 
-_08.02.2018 11:29:55_
+_08.02.2018 14:08:57_
