@@ -1,4 +1,10 @@
 {
+    "21213748-twitter": {
+        "id": "21213748-twitter",
+        "nickname": "kfmook",
+        "booksCount": 0,
+        "updatedAt": "2018-02-08 14:08:54"
+    },
     "26415789-vkontakte": {
         "id": "26415789-vkontakte",
         "nickname": "kycok_edbl",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 62,
         "updatedAt": "2018-02-02 10:58:54"
-    },
-    "76622692-yandex": {
-        "id": "76622692-yandex",
-        "nickname": "AlyonaNya",
-        "booksCount": 1,
-        "updatedAt": "2018-02-02 08:09:02"
     }
 }
