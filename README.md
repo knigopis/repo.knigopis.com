@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup> 
+[kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>33</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 
 
-_08.02.2018 11:29:05_
+_08.02.2018 11:29:55_

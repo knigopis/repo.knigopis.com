@@ -1,4 +1,16 @@
 {
+    "8lR3ZRW7Ef": {
+        "id": "8lR3ZRW7Ef",
+        "title": "Профессия",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-02-08 11:29:55",
+        "user": {
+            "id": "26415789-vkontakte",
+            "nickname": "kycok_edbl",
+            "booksCount": 7
+        }
+    },
     "7zfT0NKxiv": {
         "id": "7zfT0NKxiv",
         "title": "Зов предков",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 16
-        }
-    },
-    "U4hMne2QTq": {
-        "id": "U4hMne2QTq",
-        "title": "Империя ангелов",
-        "author": "Бернард Вербер",
-        "notes": "",
-        "createdAt": "2018-02-03 19:34:22",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 15
         }
     }
 }
