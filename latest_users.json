@@ -1,4 +1,10 @@
 {
+    "26415789-vkontakte": {
+        "id": "26415789-vkontakte",
+        "nickname": "kycok_edbl",
+        "booksCount": 6,
+        "updatedAt": "2018-02-08 11:29:05"
+    },
     "1157271334350949-facebook": {
         "id": "1157271334350949-facebook",
         "nickname": "Максимилиан",
@@ -172,11 +178,5 @@
         "nickname": "AlyonaNya",
         "booksCount": 1,
         "updatedAt": "2018-02-02 08:09:02"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 42,
-        "updatedAt": "2018-02-02 05:29:49"
     }
 }

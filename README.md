@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
+    > Довольно жестокое произведение
+
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
     > Сначала я подумала,  что это обычная антиутопия+ любовный роман для девочек. Запрещен шоколад и кофе. Забавно и симпатично. 
     > Но вторая часть - это нечто....."Попробуй сама как-нибудь убежать из тюрьмы,  а мы тебя встретим"... Еще и отвратительный перевод (похож на любительский)....
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Для серии маловато, но для рассказа самый раз. на этот раз Доктор и Роза спасают землю от Далека с помощью Кейт
 
 * Ходячий замок ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup>
-    > zaebis'
 
 * Добрые предзнаменования ~ [Garka](users/115/115753719718250012620-google)<sup>169</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
 
-* Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>33</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
 
 
-_08.02.2018 11:11:41_
+_08.02.2018 11:29:05_

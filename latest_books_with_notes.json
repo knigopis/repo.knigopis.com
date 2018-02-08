@@ -1,4 +1,16 @@
 {
+    "7zfT0NKxiv": {
+        "id": "7zfT0NKxiv",
+        "title": "Зов предков",
+        "author": "Джек Лондон",
+        "notes": "Довольно жестокое произведение",
+        "createdAt": "2018-02-08 11:29:05",
+        "user": {
+            "id": "26415789-vkontakte",
+            "nickname": "kycok_edbl",
+            "booksCount": 6
+        }
+    },
     "6zCujM-B__": {
         "id": "6zCujM-B__",
         "title": "Право на рождение. Дилогия",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 137
-        }
-    },
-    "maXbGK9Odm": {
-        "id": "maXbGK9Odm",
-        "title": "Хочу и буду. Принять себя, полюбить жизнь и стать счастливым",
-        "author": "Михаил Лабковский",
-        "notes": "Лабковский, как обычно, неподражаем и предельно доходчив :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/140129695/",
-        "createdAt": "2018-01-22 22:03:07",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 136
         }
     }
 }

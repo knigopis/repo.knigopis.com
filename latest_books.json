@@ -1,4 +1,16 @@
 {
+    "7zfT0NKxiv": {
+        "id": "7zfT0NKxiv",
+        "title": "Зов предков",
+        "author": "Джек Лондон",
+        "notes": "Довольно жестокое произведение",
+        "createdAt": "2018-02-08 11:29:05",
+        "user": {
+            "id": "26415789-vkontakte",
+            "nickname": "kycok_edbl",
+            "booksCount": 6
+        }
+    },
     "HQCl2Eo1Kq": {
         "id": "HQCl2Eo1Kq",
         "title": "И ботаники делают бизнес",
@@ -341,18 +353,6 @@
         "author": "Бернард Вербер",
         "notes": "",
         "createdAt": "2018-02-03 19:34:22",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 15
-        }
-    },
-    "UJodRF9_1H": {
-        "id": "UJodRF9_1H",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-02-03 19:33:16",
         "user": {
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
