@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Масим](users/115/1157271334350949-facebook)<sup>0</sup> 
+[Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>33</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
 
 
-_08.02.2018 11:10:30_
+_08.02.2018 11:11:41_
