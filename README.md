@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Масим](users/115/1157271334350949-facebook)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
 [En](users/333/333646551-vkontakte)<sup>33</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 [AlyonaNya](users/766/76622692-yandex)<sup>1</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>42</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>611</sup> 
 
 
-_08.02.2018 06:08:24_
+_08.02.2018 11:10:30_
