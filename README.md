@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
+    > вторая часть более динамична чем первая, странные дети отправляются в опасное путешествие, чтобы спасти свою имбрину. конец довольно неожиданный и заставляет взять в руки третью часть
+
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
     > Научная фантастика, которая поднимает философские вопросы о контактах с внеземными цивилизациями.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Довольно жестокое произведение
 
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
-    > Сначала я подумала,  что это обычная антиутопия+ любовный роман для девочек. Запрещен шоколад и кофе. Забавно и симпатично. 
-    > Но вторая часть - это нечто....."Попробуй сама как-нибудь убежать из тюрьмы,  а мы тебя встретим"... Еще и отвратительный перевод (похож на любительский)....
 
 * Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
 
@@ -27,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Узорный покров ~ [Garri938](users/114/114389869162010721507-google)<sup>39</sup>
 
-* Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>34</sup> 
 [lucius](users/838/83820536-yandex)<sup>144</sup> 
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
-[En](users/333/333646551-vkontakte)<sup>33</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>169</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
 
 
-_09.02.2018 04:05:34_
+_09.02.2018 04:05:40_
