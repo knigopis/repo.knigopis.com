@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>110</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>111</sup>
 ---
 
 ## 2017
+
+### CLR via C#
+Дж. Рихтер
+> [2017-11-30] 
+
 
 ### Колыбельная
 Чак Паланик

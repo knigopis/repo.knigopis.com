@@ -1,4 +1,10 @@
 {
+    "196071655-vkontakte": {
+        "id": "196071655-vkontakte",
+        "nickname": "afferens.lucem",
+        "booksCount": 111,
+        "updatedAt": "2018-02-09 16:46:31"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -172,11 +178,5 @@
         "nickname": "Mangertus",
         "booksCount": 5,
         "updatedAt": "2018-02-03 01:19:39"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 139,
-        "updatedAt": "2018-02-03 00:37:52"
     }
 }

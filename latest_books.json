@@ -1,4 +1,16 @@
 {
+    "YFxxo_LAIR": {
+        "id": "YFxxo_LAIR",
+        "title": "CLR via C#",
+        "author": "Дж. Рихтер",
+        "notes": "",
+        "createdAt": "2018-02-09 16:46:31",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 111
+        }
+    },
     "0TkjsUBePG": {
         "id": "0TkjsUBePG",
         "title": "Винни-Пух",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 21
-        }
-    },
-    "4qUBfeyFNA": {
-        "id": "4qUBfeyFNA",
-        "title": "Голос тех, кого нет",
-        "author": "Орсон Скотт Кард",
-        "notes": "",
-        "createdAt": "2018-02-03 19:35:47",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 20
         }
     }
 }
