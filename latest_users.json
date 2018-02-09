@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 59,
+        "updatedAt": "2018-02-09 13:30:16"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 139,
         "updatedAt": "2018-02-03 00:37:52"
-    },
-    "116212888203021514442-google": {
-        "id": "116212888203021514442-google",
-        "nickname": "parfutik",
-        "booksCount": 1,
-        "updatedAt": "2018-02-02 11:13:58"
     }
 }

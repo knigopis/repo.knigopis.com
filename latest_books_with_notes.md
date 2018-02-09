@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 * Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
@@ -30,7 +31,6 @@
 * Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
 * Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
-* Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
 
 
-_09.02.2018 04:05:40_
+_09.02.2018 13:30:16_
