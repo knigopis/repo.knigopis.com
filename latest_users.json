@@ -1,4 +1,10 @@
 {
+    "109892692512455397468-google": {
+        "id": "109892692512455397468-google",
+        "nickname": "Ramilchen",
+        "booksCount": 0,
+        "updatedAt": "2018-02-09 20:47:31"
+    },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",
         "nickname": "afferens.lucem",
@@ -172,11 +178,5 @@
         "nickname": "Garri938",
         "booksCount": 41,
         "updatedAt": "2018-02-03 10:39:25"
-    },
-    "15649404-vkontakte": {
-        "id": "15649404-vkontakte",
-        "nickname": "Mangertus",
-        "booksCount": 5,
-        "updatedAt": "2018-02-03 01:19:39"
     }
 }
