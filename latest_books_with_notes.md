@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
 * Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 * Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
@@ -30,7 +31,6 @@
 * Курьезы военной медицины ~ [Garka](users/115/115753719718250012620-google)<sup>168</sup>
 * Понедельник начинается в субботу ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>23</sup>
 * Вдруг охотник выбегает ~ [Chiffi](users/105/105831994080785626680-google)<sup>43</sup>
-* Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 
 
-_09.02.2018 13:30:16_
+_09.02.2018 13:38:43_
