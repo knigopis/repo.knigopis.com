@@ -1,4 +1,16 @@
 {
+    "eEuDXzQ3lj": {
+        "id": "eEuDXzQ3lj",
+        "title": "Шаблоны реализации корпоративных приложений",
+        "author": "Кент Бек",
+        "notes": "",
+        "createdAt": "2018-02-09 16:49:10",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 112
+        }
+    },
     "YFxxo_LAIR": {
         "id": "YFxxo_LAIR",
         "title": "CLR via C#",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 22
-        }
-    },
-    "kNHd2h5FM7": {
-        "id": "kNHd2h5FM7",
-        "title": "Игра Эндера",
-        "author": "Орсон Скотт Кард",
-        "notes": "",
-        "createdAt": "2018-02-03 19:35:56",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 21
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[afferens.lucem](users/196/196071655-vkontakte)<sup>111</sup> 
+[afferens.lucem](users/196/196071655-vkontakte)<sup>112</sup> 
 [rNix](users/115/115622071-twitter)<sup>60</sup> 
 [En](users/333/333646551-vkontakte)<sup>34</sup> 
 [lucius](users/838/83820536-yandex)<sup>144</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
 
 
-_09.02.2018 16:46:32_
+_09.02.2018 16:49:10_

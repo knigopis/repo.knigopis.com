@@ -1,5 +1,13 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>111</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>112</sup>
 ---
+
+## 2018
+
+### Шаблоны реализации корпоративных приложений
+Кент Бек
+> [2018-08-25] 
+
+
 
 ## 2017
 
