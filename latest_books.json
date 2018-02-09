@@ -1,4 +1,16 @@
 {
+    "Qcdmck-tez": {
+        "id": "Qcdmck-tez",
+        "title": "Эдем",
+        "author": "Станислав Лем",
+        "notes": "Научная фантастика, которая поднимает философские вопросы о контактах с внеземными цивилизациями.",
+        "createdAt": "2018-02-09 04:05:34",
+        "user": {
+            "id": "83820536-yandex",
+            "nickname": "lucius",
+            "booksCount": 144
+        }
+    },
     "8lR3ZRW7Ef": {
         "id": "8lR3ZRW7Ef",
         "title": "Профессия",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 17
-        }
-    },
-    "SYRVttOYDo": {
-        "id": "SYRVttOYDo",
-        "title": "Десять негритят",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2018-02-03 19:34:39",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 16
         }
     }
 }

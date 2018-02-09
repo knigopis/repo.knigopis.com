@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 144,
+        "updatedAt": "2018-02-09 04:05:34"
+    },
     "21213748-twitter": {
         "id": "21213748-twitter",
         "nickname": "kfmook",
@@ -172,11 +178,5 @@
         "nickname": "parfutik",
         "booksCount": 1,
         "updatedAt": "2018-02-02 11:13:58"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 62,
-        "updatedAt": "2018-02-02 10:58:54"
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
 * Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
@@ -30,7 +31,6 @@
 * Кочегарка ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>41</sup>
 * Машина времени ~ [Eji_tyan](users/235/2352103981-twitter)<sup>36</sup>
 * Безумная звезда ~ [Garka](users/115/115753719718250012620-google)<sup>167</sup>
-* Побеждает лучший рассказчик ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>137</sup>
 
 
-_08.02.2018 11:29:05_
+_09.02.2018 04:05:34_

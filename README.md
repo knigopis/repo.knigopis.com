@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
+    > Научная фантастика, которая поднимает философские вопросы о контактах с внеземными цивилизациями.
+
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
     > Довольно жестокое произведение
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Но вторая часть - это нечто....."Попробуй сама как-нибудь убежать из тюрьмы,  а мы тебя встретим"... Еще и отвратительный перевод (похож на любительский)....
 
 * Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
-    > Для серии маловато, но для рассказа самый раз. на этот раз Доктор и Роза спасают землю от Далека с помощью Кейт
 
 * Ходячий замок ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
 
-* Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>144</sup> 
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mangertus](users/156/15649404-vkontakte)<sup>5</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup> 
 [parfutik](users/116/116212888203021514442-google)<sup>1</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>62</sup> 
 
 
-_08.02.2018 14:08:57_
+_09.02.2018 04:05:34_

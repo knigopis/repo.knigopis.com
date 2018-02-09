@@ -5,7 +5,7 @@
     "photo": "https://ulogin.ru/img/photo.png",
     "profile": "http://gurov.bitbucket.org/",
     "identity": "http://openid.yandex.ru/lucius.gu/",
-    "booksCount": 143,
+    "booksCount": 144,
     "subscriptions": {
         "74743045-vkontakte": 118,
         "109422146-vkontakte": 19,
@@ -22,5 +22,5 @@
         "115622071-twitter": 58
     },
     "createdAt": "2015-01-16 05:41:28",
-    "updatedAt": "2018-01-12 16:27:08"
+    "updatedAt": "2018-02-09 04:05:34"
 }
