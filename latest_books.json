@@ -1,4 +1,16 @@
 {
+    "4iKyEpJ94l": {
+        "id": "4iKyEpJ94l",
+        "title": "Матильда",
+        "author": "Даль, Роальд",
+        "notes": "Милая детская книга",
+        "createdAt": "2018-02-10 18:49:49",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 170
+        }
+    },
     "WDdXdH1COd": {
         "id": "WDdXdH1COd",
         "title": "Прощание с иллюзиями",
@@ -345,18 +357,6 @@
             "id": "76561197995435290-steam",
             "nickname": "LazarettoLoves",
             "booksCount": 1
-        }
-    },
-    "G93FoZcS_C": {
-        "id": "G93FoZcS_C",
-        "title": "Одного разу",
-        "author": "Ірєн Роздобудько",
-        "notes": "",
-        "createdAt": "2018-02-05 07:25:39",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 28
         }
     }
 }
