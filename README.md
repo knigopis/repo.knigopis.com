@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>11</sup> 
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
 [Ramilchen](users/109/109892692512455397468-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>112</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>17</sup> 
 [yanachali](users/182/182231609-vkontakte)<sup>0</sup> 
 [xaytennn](users/139/13935996761918642032-mailru)<sup>24</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 
 
-_10.02.2018 14:34:24_
+_10.02.2018 18:25:30_

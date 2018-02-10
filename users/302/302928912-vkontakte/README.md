@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>10</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>11</sup>
 ---
 
 ## 2018
+
+### Прощание с иллюзиями
+Владимир Познер
+> [2018-02-10] 
+
 
 ### Илон Маск. Tesla, SpaceX и дорога в будущее
 Вэнс Эшли

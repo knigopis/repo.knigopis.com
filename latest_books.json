@@ -1,4 +1,16 @@
 {
+    "WDdXdH1COd": {
+        "id": "WDdXdH1COd",
+        "title": "Прощание с иллюзиями",
+        "author": "Владимир Познер",
+        "notes": "",
+        "createdAt": "2018-02-10 18:25:30",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 11
+        }
+    },
     "3XcocsJXCr": {
         "id": "3XcocsJXCr",
         "title": "Все ведьмы - рыжие",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 28
-        }
-    },
-    "IElIq2EZOy": {
-        "id": "IElIq2EZOy",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-02-04 11:00:39",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 17
         }
     }
 }
