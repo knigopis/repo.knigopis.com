@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 [youno](users/302/302928912-vkontakte)<sup>11</sup> 
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fifan](users/113/113396900978225140970-google)<sup>0</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>17</sup> 
 [yanachali](users/182/182231609-vkontakte)<sup>0</sup> 
-[xaytennn](users/139/13935996761918642032-mailru)<sup>24</sup> 
 
 
-_10.02.2018 18:49:50_
+_10.02.2018 21:41:14_
