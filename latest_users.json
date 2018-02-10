@@ -1,4 +1,10 @@
 {
+    "1633042570075239-facebook": {
+        "id": "1633042570075239-facebook",
+        "nickname": "Shade",
+        "booksCount": 0,
+        "updatedAt": "2018-02-10 21:41:11"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "yanachali",
         "booksCount": 0,
         "updatedAt": "2018-02-04 08:06:56"
-    },
-    "13935996761918642032-mailru": {
-        "id": "13935996761918642032-mailru",
-        "nickname": "xaytennn",
-        "booksCount": 24,
-        "updatedAt": "2018-02-03 19:37:39"
     }
 }
