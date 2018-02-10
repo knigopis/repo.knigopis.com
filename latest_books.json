@@ -1,4 +1,16 @@
 {
+    "G9h5w12FDM": {
+        "id": "G9h5w12FDM",
+        "title": "Настоящая черная ведьма",
+        "author": "Елена Звёздная",
+        "notes": "",
+        "createdAt": "2018-02-10 14:33:19",
+        "user": {
+            "id": "114451069662205403874-google",
+            "nickname": "Шелена",
+            "booksCount": 1
+        }
+    },
     "eEuDXzQ3lj": {
         "id": "eEuDXzQ3lj",
         "title": "Шаблоны реализации корпоративных приложений",
@@ -345,18 +357,6 @@
             "id": "13935996761918642032-mailru",
             "nickname": "xaytennn",
             "booksCount": 23
-        }
-    },
-    "8F57p32eHB": {
-        "id": "8F57p32eHB",
-        "title": "Бегущий человек",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-02-03 19:36:07",
-        "user": {
-            "id": "13935996761918642032-mailru",
-            "nickname": "xaytennn",
-            "booksCount": 22
         }
     }
 }
