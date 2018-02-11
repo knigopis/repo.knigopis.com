@@ -1,4 +1,16 @@
 {
+    "iBDp6E3sea": {
+        "id": "iBDp6E3sea",
+        "title": "Это я, Эдичка",
+        "author": "Эдуард Лимонов",
+        "notes": "",
+        "createdAt": "2018-02-11 08:15:58",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 7
+        }
+    },
     "FoqARIqYUR": {
         "id": "FoqARIqYUR",
         "title": "Здравствуй грусть",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 292
-        }
-    },
-    "eYz3E9h0Hg": {
-        "id": "eYz3E9h0Hg",
-        "title": "Киндред. Кровные братья.",
-        "author": "Алексей пехов",
-        "notes": "",
-        "createdAt": "2018-02-05 08:55:16",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 291
         }
     }
 }
