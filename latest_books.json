@@ -1,4 +1,16 @@
 {
+    "sAFMMkxQEt": {
+        "id": "sAFMMkxQEt",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2018-02-11 08:23:50",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 14
+        }
+    },
     "FvS7QTEEbI": {
         "id": "FvS7QTEEbI",
         "title": "Поступай как женщина думай как мужчина",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 33
-        }
-    },
-    "_H7AmxHcWJ": {
-        "id": "_H7AmxHcWJ",
-        "title": "Ходячий замок",
-        "author": "Диана Уинн Джонс",
-        "notes": "zaebis'",
-        "createdAt": "2018-02-07 23:13:25",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 10
         }
     }
 }
