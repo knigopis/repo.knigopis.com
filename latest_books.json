@@ -1,4 +1,16 @@
 {
+    "lNZ5dtVbh-": {
+        "id": "lNZ5dtVbh-",
+        "title": "Евгений Онегин",
+        "author": "Пушкин",
+        "notes": "",
+        "createdAt": "2018-02-11 08:22:04",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 12
+        }
+    },
     "zMuKRo14xy": {
         "id": "zMuKRo14xy",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 169
-        }
-    },
-    "hUxMcWCSgn": {
-        "id": "hUxMcWCSgn",
-        "title": "Разгром",
-        "author": "Александр Фадеев",
-        "notes": "",
-        "createdAt": "2018-02-06 16:56:38",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 44
         }
     }
 }
