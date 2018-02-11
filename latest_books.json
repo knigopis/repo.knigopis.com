@@ -1,4 +1,16 @@
 {
+    "HFQLRXyXjs": {
+        "id": "HFQLRXyXjs",
+        "title": "Норвежский Лес",
+        "author": "Харуки Мураками",
+        "notes": "посоветовал Никита",
+        "createdAt": "2018-02-11 08:11:13",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 2
+        }
+    },
     "lfKXBhdDll": {
         "id": "lfKXBhdDll",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "304258520-vkontakte",
             "nickname": "d9tlik",
             "booksCount": 1
-        }
-    },
-    "y59_rUl0dC": {
-        "id": "y59_rUl0dC",
-        "title": "Меч предназначения",
-        "author": "Анжей Сапковский",
-        "notes": "",
-        "createdAt": "2018-02-05 08:03:35",
-        "user": {
-            "id": "76561197995435290-steam",
-            "nickname": "LazarettoLoves",
-            "booksCount": 2
         }
     }
 }
