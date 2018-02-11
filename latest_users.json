@@ -1,4 +1,10 @@
 {
+    "109407785457421549819-google": {
+        "id": "109407785457421549819-google",
+        "nickname": "rexar",
+        "booksCount": 0,
+        "updatedAt": "2018-02-11 13:27:22"
+    },
     "11773368-vkontakte": {
         "id": "11773368-vkontakte",
         "nickname": "kashiki",
@@ -172,11 +178,5 @@
         "nickname": "LazarettoLoves",
         "booksCount": 2,
         "updatedAt": "2018-02-05 08:03:35"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 28,
-        "updatedAt": "2018-02-05 07:25:39"
     }
 }
