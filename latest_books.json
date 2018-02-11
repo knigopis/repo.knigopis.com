@@ -1,4 +1,16 @@
 {
+    "mwwBfXyzwU": {
+        "id": "mwwBfXyzwU",
+        "title": "Письмо незнакомки",
+        "author": "Стефан Цвейг",
+        "notes": "",
+        "createdAt": "2018-02-11 08:19:50",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 9
+        }
+    },
     "Hmy5BRjzI2": {
         "id": "Hmy5BRjzI2",
         "title": "Generation „П“",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 39
-        }
-    },
-    "Byqw4-kz-W": {
-        "id": "Byqw4-kz-W",
-        "title": "Убийство в доме викария",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2018-02-05 12:30:40",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 102
         }
     }
 }
