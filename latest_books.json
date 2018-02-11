@@ -1,4 +1,16 @@
 {
+    "Hmy5BRjzI2": {
+        "id": "Hmy5BRjzI2",
+        "title": "Generation „П“",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2018-02-11 08:17:52",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 8
+        }
+    },
     "iBDp6E3sea": {
         "id": "iBDp6E3sea",
         "title": "Это я, Эдичка",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 102
-        }
-    },
-    "iEmkltqrd8": {
-        "id": "iEmkltqrd8",
-        "title": "Запретный мир. Книга 1",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-02-05 08:56:46",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 292
         }
     }
 }
