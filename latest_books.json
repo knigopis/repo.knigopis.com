@@ -1,4 +1,16 @@
 {
+    "FoqARIqYUR": {
+        "id": "FoqARIqYUR",
+        "title": "Здравствуй грусть",
+        "author": "Франсуаза Саган",
+        "notes": "",
+        "createdAt": "2018-02-11 08:15:13",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 6
+        }
+    },
     "dnp8lF5ISi": {
         "id": "dnp8lF5ISi",
         "title": "Камера Обскура",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 291
-        }
-    },
-    "V0WEIvmLtD": {
-        "id": "V0WEIvmLtD",
-        "title": "Принцип 80/20",
-        "author": "Ричард Кох",
-        "notes": "",
-        "createdAt": "2018-02-05 08:54:35",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 290
         }
     }
 }
