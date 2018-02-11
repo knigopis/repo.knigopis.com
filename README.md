@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
 [Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [LazarettoLoves](users/765/76561197995435290-steam)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>28</sup> 
 [fifan](users/113/113396900978225140970-google)<sup>0</sup> 
-[striped_one](users/249/249815548-vkontakte)<sup>17</sup> 
 
 
-_11.02.2018 08:25:22_
+_11.02.2018 09:06:33_
