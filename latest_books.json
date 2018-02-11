@@ -1,4 +1,16 @@
 {
+    "dnp8lF5ISi": {
+        "id": "dnp8lF5ISi",
+        "title": "Камера Обскура",
+        "author": "Владимир Набоков",
+        "notes": "",
+        "createdAt": "2018-02-11 08:14:04",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 5
+        }
+    },
     "27Y0aCVFkf": {
         "id": "27Y0aCVFkf",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 290
-        }
-    },
-    "fy2EUS9FBj": {
-        "id": "fy2EUS9FBj",
-        "title": "Возера радасці ( беларуская мова)",
-        "author": "Віктар Марціновіч",
-        "notes": "",
-        "createdAt": "2018-02-05 08:53:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 289
         }
     }
 }
