@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 [kashiki](users/117/11773368-vkontakte)<sup>0</sup> 
 [j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>292</sup> 
 [d9tlik](users/304/304258520-vkontakte)<sup>1</sup> 
 [LazarettoLoves](users/765/76561197995435290-steam)<sup>2</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>28</sup> 
 
 
-_11.02.2018 10:03:39_
+_11.02.2018 13:27:25_
