@@ -1,4 +1,16 @@
 {
+    "27Y0aCVFkf": {
+        "id": "27Y0aCVFkf",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-02-11 08:13:14",
+        "user": {
+            "id": "100824829138781301319-google",
+            "nickname": "matbuat",
+            "booksCount": 4
+        }
+    },
     "VOKUJEtTUZ": {
         "id": "VOKUJEtTUZ",
         "title": "Игры в которые играют люди Люди которые играют в игры",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 289
-        }
-    },
-    "7IEZOiDyEr": {
-        "id": "7IEZOiDyEr",
-        "title": "Пластичность мозга. Потрясающие факты о том как мысли способны менять структуру и функции нашего мозга.",
-        "author": "Норман Дойдж",
-        "notes": "",
-        "createdAt": "2018-02-05 08:52:24",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 288
         }
     }
 }
