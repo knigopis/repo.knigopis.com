@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/3925484/
+
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
     > Саня, Макс, преследователь на мерседесе и Она.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Милая детская книга
 
 * Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
-    > Это та самая сказка про Винни-Пуха. Сюжеты легко узнаются из советского мультфильма, который снят по этой книге. Но с мультфильмом есть некоторые расхождения, например, один из главный героев - это Кристофер Робин, которого в мультфильме нет. Понравились забавные песенки Винни-Пуха.
 
 * Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
 
-* Ходячий замок ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Irina](users/356/356696223-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>39</sup> 
 [OZ](users/106/106722397177670308255-google)<sup>0</sup> 
-[goblins ](users/341/341906232-vkontakte)<sup>0</sup> 
 
 
-_12.02.2018 15:27:19_
+_12.02.2018 18:51:17_

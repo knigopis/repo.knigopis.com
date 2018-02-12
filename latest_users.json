@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 140,
+        "updatedAt": "2018-02-12 18:51:17"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "OZ",
         "booksCount": 0,
         "updatedAt": "2018-02-05 16:22:55"
-    },
-    "341906232-vkontakte": {
-        "id": "341906232-vkontakte",
-        "nickname": "goblins ",
-        "booksCount": 0,
-        "updatedAt": "2018-02-05 14:26:45"
     }
 }
