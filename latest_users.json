@@ -1,4 +1,10 @@
 {
+    "237772610-vkontakte": {
+        "id": "237772610-vkontakte",
+        "nickname": "абвгде",
+        "booksCount": 0,
+        "updatedAt": "2018-02-12 12:51:59"
+    },
     "74140988-vkontakte": {
         "id": "74140988-vkontakte",
         "nickname": "International master",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 292,
         "updatedAt": "2018-02-05 08:56:46"
-    },
-    "304258520-vkontakte": {
-        "id": "304258520-vkontakte",
-        "nickname": "d9tlik",
-        "booksCount": 1,
-        "updatedAt": "2018-02-05 08:20:30"
     }
 }
