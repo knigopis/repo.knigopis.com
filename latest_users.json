@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 50,
+        "updatedAt": "2018-02-12 13:44:54"
+    },
     "237772610-vkontakte": {
         "id": "237772610-vkontakte",
         "nickname": "абвгде",
@@ -172,11 +178,5 @@
         "nickname": "goblins ",
         "booksCount": 0,
         "updatedAt": "2018-02-05 14:26:45"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 292,
-        "updatedAt": "2018-02-05 08:56:46"
     }
 }

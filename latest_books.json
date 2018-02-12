@@ -1,4 +1,16 @@
 {
+    "xyUoUUU8yz": {
+        "id": "xyUoUUU8yz",
+        "title": "Рубашка",
+        "author": "Евгений Гришковец",
+        "notes": "Саня, Макс, преследователь на мерседесе и Она.",
+        "createdAt": "2018-02-12 13:44:54",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 50
+        }
+    },
     "pTtuNx7R1x": {
         "id": "pTtuNx7R1x",
         "title": "Золотые правила: Стань чемпионом в том, что ты делаешь",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 144
-        }
-    },
-    "8lR3ZRW7Ef": {
-        "id": "8lR3ZRW7Ef",
-        "title": "Профессия",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2018-02-08 11:29:55",
-        "user": {
-            "id": "26415789-vkontakte",
-            "nickname": "kycok_edbl",
-            "booksCount": 7
         }
     }
 }
