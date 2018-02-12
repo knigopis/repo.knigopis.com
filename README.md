@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 [International master](users/741/74140988-vkontakte)<sup>103</sup> 
 [cofee](users/103/103152880043087173490-google)<sup>1</sup> 
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [OZ](users/106/106722397177670308255-google)<sup>0</sup> 
 [goblins ](users/341/341906232-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>292</sup> 
-[d9tlik](users/304/304258520-vkontakte)<sup>1</sup> 
 
 
-_12.02.2018 09:14:53_
+_12.02.2018 12:52:01_
