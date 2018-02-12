@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>102</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>103</sup>
 ---
 
 ## 2018
+
+### Золотые правила: Стань чемпионом в том, что ты делаешь
+Боб Боуман, Чарльз Батлер
+> [2018-02-12] 
+
 
 ### Убийство в доме викария
 Агата Кристи

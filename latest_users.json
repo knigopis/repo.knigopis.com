@@ -1,4 +1,10 @@
 {
+    "74140988-vkontakte": {
+        "id": "74140988-vkontakte",
+        "nickname": "International master",
+        "booksCount": 103,
+        "updatedAt": "2018-02-12 09:14:53"
+    },
     "103152880043087173490-google": {
         "id": "103152880043087173490-google",
         "nickname": "cofee",
@@ -160,12 +166,6 @@
         "nickname": "goblins ",
         "booksCount": 0,
         "updatedAt": "2018-02-05 14:26:45"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 102,
-        "updatedAt": "2018-02-05 12:30:40"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
