@@ -1,7 +1,12 @@
-# List of books read by [International master](http://vk.com/id74140988)<sup>103</sup>
+# List of books read by [International master](http://vk.com/id74140988)<sup>104</sup>
 ---
 
 ## 2018
+
+### Чёрный лебедь: Под знаком непредсказуемости
+Нассим Николас Талеб
+> [2018-02-12] 
+
 
 ### Золотые правила: Стань чемпионом в том, что ты делаешь
 Боб Боуман, Чарльз Батлер

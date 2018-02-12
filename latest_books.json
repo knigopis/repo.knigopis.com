@@ -1,4 +1,16 @@
 {
+    "7457gye9VB": {
+        "id": "7457gye9VB",
+        "title": "Чёрный лебедь: Под знаком непредсказуемости",
+        "author": "Нассим Николас Талеб",
+        "notes": "",
+        "createdAt": "2018-02-12 15:27:19",
+        "user": {
+            "id": "74140988-vkontakte",
+            "nickname": "International master",
+            "booksCount": 104
+        }
+    },
     "xyUoUUU8yz": {
         "id": "xyUoUUU8yz",
         "title": "Рубашка",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 34
-        }
-    },
-    "Qcdmck-tez": {
-        "id": "Qcdmck-tez",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "Научная фантастика, которая поднимает философские вопросы о контактах с внеземными цивилизациями.",
-        "createdAt": "2018-02-09 04:05:34",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 144
         }
     }
 }

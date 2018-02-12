@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
-[International master](users/741/74140988-vkontakte)<sup>103</sup> 
 [cofee](users/103/103152880043087173490-google)<sup>1</sup> 
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 [kashiki](users/117/11773368-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [goblins ](users/341/341906232-vkontakte)<sup>0</sup> 
 
 
-_12.02.2018 13:44:54_
+_12.02.2018 15:27:19_
