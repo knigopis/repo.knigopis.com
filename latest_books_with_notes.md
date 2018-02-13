@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
@@ -30,7 +31,6 @@
 * Замок Ругна ~ [En](users/333/333646551-vkontakte)<sup>31</sup>
 * Запирайте зеркало на ночь ~ [Chiffi](users/105/105831994080785626680-google)<sup>44</sup>
 * "Остальное - судьба" ~ [nord_book](users/325/325862222-vkontakte)<sup>12</sup>
-* Effective Java ~ [me](users/381/381417697-yandex)<sup>37</sup>
 
 
-_12.02.2018 18:51:17_
+_13.02.2018 19:17:59_

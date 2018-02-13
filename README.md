@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
+    > в процессе
+
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Саня, Макс, преследователь на мерседесе и Она.
 
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
-    > Милая детская книга
 
 * Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
 
@@ -28,15 +30,13 @@ Do not use pull requests to make changes here.
 
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
 
-* Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>39</sup> 
 
 
-_13.02.2018 03:31:59_
+_13.02.2018 19:17:59_

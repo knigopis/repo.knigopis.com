@@ -1,4 +1,16 @@
 {
+    "W173c4eWN7": {
+        "id": "W173c4eWN7",
+        "title": "Живи легко!",
+        "author": "Эндрю Мэтьюз",
+        "notes": "в процессе",
+        "createdAt": "2018-02-13 19:17:59",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 141
+        }
+    },
     "z88sYLH6Ps": {
         "id": "z88sYLH6Ps",
         "title": "Пограничный река",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 112
-        }
-    },
-    "YFxxo_LAIR": {
-        "id": "YFxxo_LAIR",
-        "title": "CLR via C#",
-        "author": "Дж. Рихтер",
-        "notes": "",
-        "createdAt": "2018-02-09 16:46:31",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 111
         }
     }
 }
