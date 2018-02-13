@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 293,
+        "updatedAt": "2018-02-13 03:31:14"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 39,
         "updatedAt": "2018-02-05 16:52:22"
-    },
-    "106722397177670308255-google": {
-        "id": "106722397177670308255-google",
-        "nickname": "OZ",
-        "booksCount": 0,
-        "updatedAt": "2018-02-05 16:22:55"
     }
 }

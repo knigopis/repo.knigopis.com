@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>293</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>44</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>1</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>39</sup> 
-[OZ](users/106/106722397177670308255-google)<sup>0</sup> 
 
 
-_12.02.2018 18:51:17_
+_13.02.2018 03:31:14_
