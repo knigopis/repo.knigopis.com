@@ -1,4 +1,16 @@
 {
+    "kO2bdBrr49": {
+        "id": "kO2bdBrr49",
+        "title": "Граф Монте-Кристо",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-02-14 09:12:48",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 111
+        }
+    },
     "W173c4eWN7": {
         "id": "W173c4eWN7",
         "title": "Живи легко!",
@@ -345,18 +357,6 @@
             "id": "114451069662205403874-google",
             "nickname": "Шелена",
             "booksCount": 1
-        }
-    },
-    "eEuDXzQ3lj": {
-        "id": "eEuDXzQ3lj",
-        "title": "Шаблоны реализации корпоративных приложений",
-        "author": "Кент Бек",
-        "notes": "",
-        "createdAt": "2018-02-09 16:49:10",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 112
         }
     }
 }
