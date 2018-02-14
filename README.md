@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[alexart](users/105/105216107539107605654-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>111</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
 [pro100_vladir](users/226/226991612-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>44</sup> 
-[Irina](users/356/356696223-vkontakte)<sup>1</sup> 
 
 
-_14.02.2018 09:12:48_
+_14.02.2018 10:43:08_
