@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
+    > Добротная звездная фантастика. Но на мой вкус много технических подробностей.  Хороший вопрос Кто они и кто мы?? Учитывая,  что писал американец, то зеленые рептилоиды это русские??
+
 * Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/3925484/
 
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
-    > Саня, Макс, преследователь на мерседесе и Она.
 
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
 
-* Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 [alexart](users/105/105216107539107605654-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>111</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>45</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 [Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>44</sup> 
 
 
-_14.02.2018 10:43:08_
+_14.02.2018 18:23:02_
