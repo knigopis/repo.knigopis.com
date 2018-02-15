@@ -1,5 +1,13 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>41</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>42</sup>
 ---
+
+## 2018
+
+### Путь королей (Серия: Архив Буресвета. Книга 1/?)
+Брендон Сандерсон
+> [2018-02-15] 
+
+
 
 ## 2017
 

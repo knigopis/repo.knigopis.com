@@ -1,4 +1,16 @@
 {
+    "XATijbgNEV": {
+        "id": "XATijbgNEV",
+        "title": "Путь королей (Серия: Архив Буресвета. Книга 1/?)",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2018-02-15 18:31:07",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 42
+        }
+    },
     "X1omLDb-UQ": {
         "id": "X1omLDb-UQ",
         "title": "Поль Брэгг",
@@ -345,18 +357,6 @@
             "id": "302928912-vkontakte",
             "nickname": "youno",
             "booksCount": 11
-        }
-    },
-    "3XcocsJXCr": {
-        "id": "3XcocsJXCr",
-        "title": "Все ведьмы - рыжие",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-02-10 14:34:24",
-        "user": {
-            "id": "114451069662205403874-google",
-            "nickname": "Шелена",
-            "booksCount": 3
         }
     }
 }

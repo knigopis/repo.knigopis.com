@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
-[Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
 
 
-_15.02.2018 18:10:49_
+_15.02.2018 18:31:07_
