@@ -1,4 +1,16 @@
 {
+    "X1omLDb-UQ": {
+        "id": "X1omLDb-UQ",
+        "title": "Поль Брэгг",
+        "author": "Шокирующая правда о воде и соли",
+        "notes": "ISBN: 978-5-9287-0776-7",
+        "createdAt": "2018-02-15 18:10:49",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 35
+        }
+    },
     "N_xQwpPlqC": {
         "id": "N_xQwpPlqC",
         "title": "Мичман Флэндри",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 31
-        }
-    },
-    "BPhEsAbM9F": {
-        "id": "BPhEsAbM9F",
-        "title": "Запирайте зеркало на ночь",
-        "author": "Королева Ия",
-        "notes": "иронические фэнтези, сказка для взрослых девочек",
-        "createdAt": "2018-01-28 15:48:53",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 44
         }
     }
 }

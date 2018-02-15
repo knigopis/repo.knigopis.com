@@ -1,4 +1,10 @@
 {
+    "112205967961310617540-google": {
+        "id": "112205967961310617540-google",
+        "nickname": "sergeybolobaev",
+        "booksCount": 35,
+        "updatedAt": "2018-02-15 18:10:49"
+    },
     "72683516-vkontakte": {
         "id": "72683516-vkontakte",
         "nickname": "marpir",
@@ -172,11 +178,5 @@
         "nickname": "Ен Ник",
         "booksCount": 0,
         "updatedAt": "2018-02-07 10:50:37"
-    },
-    "226991612-vkontakte": {
-        "id": "226991612-vkontakte",
-        "nickname": "pro100_vladir",
-        "booksCount": 0,
-        "updatedAt": "2018-02-06 21:50:54"
     }
 }

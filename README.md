@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
+    > ISBN: 978-5-9287-0776-7
+
 * Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
     > Добротная звездная фантастика. Но на мой вкус много технических подробностей.  Хороший вопрос Кто они и кто мы?? Учитывая,  что писал американец, то зеленые рептилоиды это русские??
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/3925484/
 
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
 
-* Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 [alexart](users/105/105216107539107605654-google)<sup>0</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 [Ен Ник](users/537/537429099963399-facebook)<sup>0</sup> 
-[pro100_vladir](users/226/226991612-vkontakte)<sup>0</sup> 
 
 
-_15.02.2018 16:43:33_
+_15.02.2018 18:10:49_
