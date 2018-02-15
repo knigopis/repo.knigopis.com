@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/139146884/
+
 * Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-9287-0776-7
 
 * Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
-    > Добротная звездная фантастика. Но на мой вкус много технических подробностей.  Хороший вопрос Кто они и кто мы?? Учитывая,  что писал американец, то зеленые рептилоиды это русские??
 
 * Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 
-* Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 
 
-_15.02.2018 18:48:56_
+_15.02.2018 18:49:27_
