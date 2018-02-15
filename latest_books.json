@@ -1,4 +1,16 @@
 {
+    "hX_93aROI0": {
+        "id": "hX_93aROI0",
+        "title": "Deadline. Роман об управлении проектами",
+        "author": "Том ДеМарко",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/22433706/",
+        "createdAt": "2018-02-15 18:48:56",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 142
+        }
+    },
     "XATijbgNEV": {
         "id": "XATijbgNEV",
         "title": "Путь королей (Серия: Архив Буресвета. Книга 1/?)",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 170
-        }
-    },
-    "WDdXdH1COd": {
-        "id": "WDdXdH1COd",
-        "title": "Прощание с иллюзиями",
-        "author": "Владимир Познер",
-        "notes": "",
-        "createdAt": "2018-02-10 18:25:30",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 11
         }
     }
 }

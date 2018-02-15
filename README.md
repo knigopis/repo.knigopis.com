@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/22433706/
+
 * Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
     > ISBN: 978-5-9287-0776-7
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Добротная звездная фантастика. Но на мой вкус много технических подробностей.  Хороший вопрос Кто они и кто мы?? Учитывая,  что писал американец, то зеленые рептилоиды это русские??
 
 * Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
-    > в процессе
 
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
 
@@ -26,20 +30,18 @@ Do not use pull requests to make changes here.
 
 * Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 
-* Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 [alexart](users/105/105216107539107605654-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>111</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 
 
-_15.02.2018 18:31:07_
+_15.02.2018 18:48:56_
