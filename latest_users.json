@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 35,
+        "updatedAt": "2018-02-16 06:10:56"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -136,12 +142,6 @@
         "nickname": "rNix",
         "booksCount": 60,
         "updatedAt": "2018-02-09 13:38:43"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 34,
-        "updatedAt": "2018-02-09 04:05:40"
     },
     "83820536-yandex": {
         "id": "83820536-yandex",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
+    > Еще 1 история про Доктора и спасение мира.
+
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
     > в процессе
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/22433706/
 
 * Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
-    > ISBN: 978-5-9287-0776-7
 
 * Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
 
-* Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
@@ -60,7 +61,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ramilchen](users/109/109892692512455397468-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>112</sup> 
 [rNix](users/115/115622071-twitter)<sup>60</sup> 
-[En](users/333/333646551-vkontakte)<sup>34</sup> 
 [lucius](users/838/83820536-yandex)<sup>144</sup> 
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 
 
-_15.02.2018 18:49:27_
+_16.02.2018 06:10:56_
