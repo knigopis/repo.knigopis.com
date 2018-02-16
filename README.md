@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
-[Amfinga](users/115/115647973688970974433-google)<sup>0</sup> 
 
 
-_16.02.2018 06:10:56_
+_16.02.2018 14:03:54_
