@@ -1,4 +1,10 @@
 {
+    "117817614279012464929-google": {
+        "id": "117817614279012464929-google",
+        "nickname": "Alferac",
+        "booksCount": 0,
+        "updatedAt": "2018-02-16 14:03:51"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "Артур Вольнов",
         "booksCount": 10,
         "updatedAt": "2018-02-07 23:13:25"
-    },
-    "115647973688970974433-google": {
-        "id": "115647973688970974433-google",
-        "nickname": "Amfinga",
-        "booksCount": 0,
-        "updatedAt": "2018-02-07 18:38:53"
     }
 }
