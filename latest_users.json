@@ -1,4 +1,10 @@
 {
+    "191788437-vkontakte": {
+        "id": "191788437-vkontakte",
+        "nickname": "mbericheva",
+        "booksCount": 4,
+        "updatedAt": "2018-02-17 11:16:59"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "kycok_edbl",
         "booksCount": 7,
         "updatedAt": "2018-02-08 11:29:55"
-    },
-    "1157271334350949-facebook": {
-        "id": "1157271334350949-facebook",
-        "nickname": "Максимилиан",
-        "booksCount": 1,
-        "updatedAt": "2018-02-08 11:11:41"
     }
 }

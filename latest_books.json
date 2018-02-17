@@ -1,4 +1,16 @@
 {
+    "GGwXAu604d": {
+        "id": "GGwXAu604d",
+        "title": "Танцующая на гребне волны",
+        "author": "Карен Уайт",
+        "notes": "",
+        "createdAt": "2018-02-17 11:16:59",
+        "user": {
+            "id": "191788437-vkontakte",
+            "nickname": "mbericheva",
+            "booksCount": 4
+        }
+    },
     "cugBpMEERW": {
         "id": "cugBpMEERW",
         "title": "Предсказание",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 8
-        }
-    },
-    "iBDp6E3sea": {
-        "id": "iBDp6E3sea",
-        "title": "Это я, Эдичка",
-        "author": "Эдуард Лимонов",
-        "notes": "",
-        "createdAt": "2018-02-11 08:15:58",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 7
         }
     }
 }

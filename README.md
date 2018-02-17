@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>5</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>35</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>144</sup> 
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
-[Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
 
 
-_17.02.2018 07:11:37_
+_17.02.2018 11:16:59_
