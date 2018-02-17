@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>1</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>2</sup>
 ---
 
 ## 2018
+
+### Шлюпка
+Шарлотта Роган
+> [2018-01-30] Интересная книга, про взаимоотношения людей. оказавшихся в критической ситуации.
+
 
 ### Оно
 Стивен Кинг
