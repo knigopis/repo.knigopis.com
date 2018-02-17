@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>0</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 [kycok_edbl](users/264/26415789-vkontakte)<sup>7</sup> 
 [Максимилиан](users/115/1157271334350949-facebook)<sup>1</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 
 
-_16.02.2018 14:03:54_
+_17.02.2018 06:58:41_
