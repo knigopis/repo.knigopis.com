@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>4</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>5</sup>
 ---
 
 ## 2018
+
+### Предсказание
+Дин Кунц
+> [2018-02-18] Потрясающая книга с неожиданными поворотами событий
+
 
 ### Дженни
 Пол Гэллико

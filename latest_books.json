@@ -1,4 +1,16 @@
 {
+    "cugBpMEERW": {
+        "id": "cugBpMEERW",
+        "title": "Предсказание",
+        "author": "Дин Кунц",
+        "notes": "Потрясающая книга с неожиданными поворотами событий",
+        "createdAt": "2018-02-17 07:11:37",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 5
+        }
+    },
     "aFJqGWUZBX": {
         "id": "aFJqGWUZBX",
         "title": "Дженни",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 7
-        }
-    },
-    "FoqARIqYUR": {
-        "id": "FoqARIqYUR",
-        "title": "Здравствуй грусть",
-        "author": "Франсуаза Саган",
-        "notes": "",
-        "createdAt": "2018-02-11 08:15:13",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 6
         }
     }
 }
