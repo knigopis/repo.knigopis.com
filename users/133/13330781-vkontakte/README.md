@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>2</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>3</sup>
 ---
 
 ## 2018
+
+### Семь дней творения
+Марк Леви
+> [2018-02-05] Книга на один раз. Про  противостояние ангелов и демонов.
+
 
 ### Шлюпка
 Шарлотта Роган
