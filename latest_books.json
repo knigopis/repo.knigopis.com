@@ -1,4 +1,16 @@
 {
+    "aFJqGWUZBX": {
+        "id": "aFJqGWUZBX",
+        "title": "Дженни",
+        "author": "Пол Гэллико",
+        "notes": "Очень трогательная книга. о мальчике. который мечтал о котенке. Научит детей состраданию.",
+        "createdAt": "2018-02-17 07:05:15",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 4
+        }
+    },
     "gGP1RTurRt": {
         "id": "gGP1RTurRt",
         "title": "Семь дней творения",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 6
-        }
-    },
-    "dnp8lF5ISi": {
-        "id": "dnp8lF5ISi",
-        "title": "Камера Обскура",
-        "author": "Владимир Набоков",
-        "notes": "",
-        "createdAt": "2018-02-11 08:14:04",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 5
         }
     }
 }
