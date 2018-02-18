@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "necroman4ik",
+        "booksCount": 0,
+        "updatedAt": "2018-02-18 12:18:52"
+    },
     "191788437-vkontakte": {
         "id": "191788437-vkontakte",
         "nickname": "mbericheva",
@@ -172,11 +178,5 @@
         "nickname": "kfmook",
         "booksCount": 0,
         "updatedAt": "2018-02-08 14:08:54"
-    },
-    "26415789-vkontakte": {
-        "id": "26415789-vkontakte",
-        "nickname": "kycok_edbl",
-        "booksCount": 7,
-        "updatedAt": "2018-02-08 11:29:55"
     }
 }
