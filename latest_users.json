@@ -1,4 +1,10 @@
 {
+    "26433294-vkontakte": {
+        "id": "26433294-vkontakte",
+        "nickname": "vnstrnko",
+        "booksCount": 0,
+        "updatedAt": "2018-02-18 22:30:06"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "lucius",
         "booksCount": 144,
         "updatedAt": "2018-02-09 04:05:34"
-    },
-    "21213748-twitter": {
-        "id": "21213748-twitter",
-        "nickname": "kfmook",
-        "booksCount": 0,
-        "updatedAt": "2018-02-08 14:08:54"
     }
 }
