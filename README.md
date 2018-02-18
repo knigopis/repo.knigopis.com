@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>36</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>6</sup> 
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 [alexart](users/105/105216107539107605654-google)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 
 
-_18.02.2018 14:31:36_
+_18.02.2018 17:05:52_

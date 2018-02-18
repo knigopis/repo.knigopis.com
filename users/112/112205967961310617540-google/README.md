@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>35</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>36</sup>
 ---
 
 ## 2018
+
+### Чудо голодания
+Брег Поль
+> [2018-02-18] 
+
 
 ### Поль Брэгг
 Шокирующая правда о воде и соли
