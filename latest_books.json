@@ -1,4 +1,16 @@
 {
+    "WzlAKmKr_8": {
+        "id": "WzlAKmKr_8",
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери.",
+        "notes": "",
+        "createdAt": "2018-02-18 14:31:36",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 6
+        }
+    },
     "GGwXAu604d": {
         "id": "GGwXAu604d",
         "title": "Танцующая на гребне волны",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 9
-        }
-    },
-    "Hmy5BRjzI2": {
-        "id": "Hmy5BRjzI2",
-        "title": "Generation „П“",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2018-02-11 08:17:52",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 8
         }
     }
 }

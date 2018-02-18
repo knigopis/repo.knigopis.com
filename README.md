@@ -37,9 +37,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>6</sup> 
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>5</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kfmook](users/212/21213748-twitter)<sup>0</sup> 
 
 
-_18.02.2018 12:18:55_
+_18.02.2018 14:31:36_
