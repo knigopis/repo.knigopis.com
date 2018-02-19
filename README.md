@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Kk](users/971/97112009-vkontakte)<sup>0</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>36</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>6</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ramilchen](users/109/109892692512455397468-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>112</sup> 
 [rNix](users/115/115622071-twitter)<sup>60</sup> 
-[lucius](users/838/83820536-yandex)<sup>144</sup> 
 
 
-_18.02.2018 22:30:10_
+_19.02.2018 10:31:11_
