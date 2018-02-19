@@ -1,4 +1,16 @@
 {
+    "L5BaomR0jB": {
+        "id": "L5BaomR0jB",
+        "title": "Человек-невидимка",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2018-02-19 20:16:32",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 37
+        }
+    },
     "wN_DwmrHBJ": {
         "id": "wN_DwmrHBJ",
         "title": "Библиотека душ.",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 14
-        }
-    },
-    "FvS7QTEEbI": {
-        "id": "FvS7QTEEbI",
-        "title": "Поступай как женщина думай как мужчина",
-        "author": "Стив Харви",
-        "notes": "",
-        "createdAt": "2018-02-11 08:22:56",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 13
         }
     }
 }

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
 [Kk](users/971/97112009-vkontakte)<sup>1</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
 [Ramilchen](users/109/109892692512455397468-google)<sup>0</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>112</sup> 
-[rNix](users/115/115622071-twitter)<sup>60</sup> 
 
 
-_19.02.2018 11:20:38_
+_19.02.2018 20:16:32_

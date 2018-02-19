@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 37,
+        "updatedAt": "2018-02-19 20:16:32"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "afferens.lucem",
         "booksCount": 112,
         "updatedAt": "2018-02-09 16:49:10"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 60,
-        "updatedAt": "2018-02-09 13:38:43"
     }
 }
