@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Kk](users/971/97112009-vkontakte)<sup>2</sup> 
+[Kk](users/971/97112009-vkontakte)<sup>1</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>36</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>6</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>60</sup> 
 
 
-_19.02.2018 10:32:41_
+_19.02.2018 10:32:51_
