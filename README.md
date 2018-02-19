@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
+    > отличное продолжение и конец трилогии. не менее интересная чем первые 2
+
 * Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
     > Еще 1 история про Доктора и спасение мира.
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/139146884/
 
 * Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/22433706/
 
 * Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
 
-* Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>36</sup> 
 [Kk](users/971/97112009-vkontakte)<sup>1</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>36</sup> 
@@ -44,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>35</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>60</sup> 
 
 
-_19.02.2018 10:32:51_
+_19.02.2018 11:20:38_
