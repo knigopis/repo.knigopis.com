@@ -1,4 +1,10 @@
 {
+    "231538017-vkontakte": {
+        "id": "231538017-vkontakte",
+        "nickname": "dianchik33",
+        "booksCount": 0,
+        "updatedAt": "2018-02-20 11:11:11"
+    },
     "2352103981-twitter": {
         "id": "2352103981-twitter",
         "nickname": "Eji_tyan",
@@ -172,11 +178,5 @@
         "nickname": "Ramilchen",
         "booksCount": 0,
         "updatedAt": "2018-02-09 20:47:31"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 112,
-        "updatedAt": "2018-02-09 16:49:10"
     }
 }
