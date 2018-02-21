@@ -1,4 +1,16 @@
 {
+    "yagpXrBVkK": {
+        "id": "yagpXrBVkK",
+        "title": "Чернильное сердце",
+        "author": "Корнелия Функе",
+        "notes": "Книга 1",
+        "createdAt": "2018-02-21 13:52:26",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 134
+        }
+    },
     "L5BaomR0jB": {
         "id": "L5BaomR0jB",
         "title": "Человек-невидимка",
@@ -345,18 +357,6 @@
             "id": "100824829138781301319-google",
             "nickname": "matbuat",
             "booksCount": 15
-        }
-    },
-    "sAFMMkxQEt": {
-        "id": "sAFMMkxQEt",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2018-02-11 08:23:50",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 14
         }
     }
 }

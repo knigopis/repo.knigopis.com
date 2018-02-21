@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
+    > Книга 1
+
 * Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
     > отличное продолжение и конец трилогии. не менее интересная чем первые 2
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Еще 1 история про Доктора и спасение мира.
 
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/139146884/
 
 * Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
 
-* Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>134</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 [youno](users/302/302928912-vkontakte)<sup>11</sup> 
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
-[Ramilchen](users/109/109892692512455397468-google)<sup>0</sup> 
 
 
-_20.02.2018 11:11:14_
+_21.02.2018 13:52:26_
