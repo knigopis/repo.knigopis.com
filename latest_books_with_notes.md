@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
@@ -30,7 +31,6 @@
 * Луна и грош ~ [Garri938](users/114/114389869162010721507-google)<sup>38</sup>
 * Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
 * Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
-* Доводы рассудка ~ [Garri938](users/114/114389869162010721507-google)<sup>35</sup>
 
 
-_21.02.2018 13:54:45_
+_21.02.2018 23:01:36_

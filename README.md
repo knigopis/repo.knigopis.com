@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
+    > Должна стать моей настольной книгой!!!
+
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
     > Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
-    > Книга 2
 
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
 
-* Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>137</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 [youno](users/302/302928912-vkontakte)<sup>11</sup> 
-[Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
 
 
-_21.02.2018 13:54:45_
+_21.02.2018 23:01:36_
