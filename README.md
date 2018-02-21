@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
+    > Книга 3
+
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
     > Книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
-    > Книга 1
 
 * Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
 
-* Живи легко! ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>141</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>136</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>137</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
 
 
-_21.02.2018 13:54:24_
+_21.02.2018 13:54:45_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
@@ -30,7 +31,6 @@
 * Токийские легенды ~ [Garri938](users/114/114389869162010721507-google)<sup>37</sup>
 * Цветы в море зла ~ [Garri938](users/114/114389869162010721507-google)<sup>36</sup>
 * Доводы рассудка ~ [Garri938](users/114/114389869162010721507-google)<sup>35</sup>
-* Дикая Россия (фотоальбом) ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup>
 
 
-_21.02.2018 13:54:24_
+_21.02.2018 13:54:45_

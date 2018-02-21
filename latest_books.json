@@ -1,4 +1,16 @@
 {
+    "lRUhp018Qh": {
+        "id": "lRUhp018Qh",
+        "title": "Сага о Рейневане: Свет вечный",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 3",
+        "createdAt": "2018-02-21 13:54:45",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 137
+        }
+    },
     "KAFaBsKF27": {
         "id": "KAFaBsKF27",
         "title": "Сага о Рейневане: Божьи воины",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 103
-        }
-    },
-    "JOpX7mzIQm": {
-        "id": "JOpX7mzIQm",
-        "title": "хюгге",
-        "author": "Рассел",
-        "notes": "",
-        "createdAt": "2018-02-11 15:16:29",
-        "user": {
-            "id": "103152880043087173490-google",
-            "nickname": "cofee",
-            "booksCount": 1
         }
     }
 }
