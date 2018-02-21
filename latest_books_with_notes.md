@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
 * Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
 * Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
@@ -30,7 +31,6 @@
 * Доводы рассудка ~ [Garri938](users/114/114389869162010721507-google)<sup>35</sup>
 * Дикая Россия (фотоальбом) ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>139</sup>
 * Вероника решает умереть ~ [Saamy](users/115/115226508-vkontakte)<sup>38</sup>
-* Тонкое искусство пофигизма. Парадоксальный способ жить счастливо ~ [joan789](users/240/2401650-vkontakte)<sup>62</sup>
 
 
-_21.02.2018 13:52:26_
+_21.02.2018 13:53:09_

@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>134</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>135</sup>
 ---
 
 ## 2018
+
+### Чернильная кровь
+Корнелия Функе
+> [2018-02-10] Книга 2
+
 
 ### Сага о Рейневане: Свет вечный
 Анджей Сапковский

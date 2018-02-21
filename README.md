@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
+    > Книга 2
+
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
     > Книга 1
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > отличное продолжение и конец трилогии. не менее интересная чем первые 2
 
 * Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
-    > Еще 1 история про Доктора и спасение мира.
 
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
 
-* Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>134</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>135</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Шелена](users/114/114451069662205403874-google)<sup>3</sup> 
 
 
-_21.02.2018 13:52:26_
+_21.02.2018 13:53:09_
