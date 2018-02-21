@@ -1,4 +1,16 @@
 {
+    "KAFaBsKF27": {
+        "id": "KAFaBsKF27",
+        "title": "Сага о Рейневане: Божьи воины",
+        "author": "Анджей Сапковский",
+        "notes": "Книга 2",
+        "createdAt": "2018-02-21 13:54:24",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 136
+        }
+    },
     "wFodISo8JV": {
         "id": "wFodISo8JV",
         "title": "Чернильная кровь",
@@ -345,18 +357,6 @@
             "id": "103152880043087173490-google",
             "nickname": "cofee",
             "booksCount": 1
-        }
-    },
-    "aDOjAqfMTo": {
-        "id": "aDOjAqfMTo",
-        "title": "Язык телодвижени",
-        "author": "Аллан Пиз",
-        "notes": "",
-        "createdAt": "2018-02-11 08:25:22",
-        "user": {
-            "id": "100824829138781301319-google",
-            "nickname": "matbuat",
-            "booksCount": 16
         }
     }
 }
