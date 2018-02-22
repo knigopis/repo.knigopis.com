@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>137</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
 [Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
-[youno](users/302/302928912-vkontakte)<sup>11</sup> 
 
 
-_21.02.2018 23:01:36_
+_22.02.2018 04:22:25_
