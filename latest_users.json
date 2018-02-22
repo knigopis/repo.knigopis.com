@@ -1,4 +1,10 @@
 {
+    "178894809-vkontakte": {
+        "id": "178894809-vkontakte",
+        "nickname": "dobromira90",
+        "booksCount": 0,
+        "updatedAt": "2018-02-22 04:22:22"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 170,
         "updatedAt": "2018-02-10 18:49:49"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 11,
-        "updatedAt": "2018-02-10 18:25:30"
     }
 }
