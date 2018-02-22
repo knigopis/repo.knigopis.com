@@ -1,4 +1,16 @@
 {
+    "zgJoHX_ECz": {
+        "id": "zgJoHX_ECz",
+        "title": "Время - деньги",
+        "author": "Эд Салливан",
+        "notes": "в процессе",
+        "createdAt": "2018-02-22 20:52:33",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 145
+        }
+    },
     "iRSW8XzfMi": {
         "id": "iRSW8XzfMi",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 140
-        }
-    },
-    "7457gye9VB": {
-        "id": "7457gye9VB",
-        "title": "Чёрный лебедь: Под знаком непредсказуемости",
-        "author": "Нассим Николас Талеб",
-        "notes": "",
-        "createdAt": "2018-02-12 15:27:19",
-        "user": {
-            "id": "74140988-vkontakte",
-            "nickname": "International master",
-            "booksCount": 104
         }
     }
 }

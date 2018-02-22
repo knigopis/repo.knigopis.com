@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
+    > в процессе
+
 * Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
     > Дошли руки и до классики :)
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Должна стать моей настольной книгой!!!
 
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
-    > Книга 3
 
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
 
-* Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>137</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 
 
-_22.02.2018 20:52:08_
+_22.02.2018 20:52:33_
