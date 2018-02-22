@@ -1,4 +1,16 @@
 {
+    "iRSW8XzfMi": {
+        "id": "iRSW8XzfMi",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "Дошли руки и до классики :)\n\nв процессе",
+        "createdAt": "2018-02-22 20:52:07",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 144
+        }
+    },
     "rAQtQa_tZ9": {
         "id": "rAQtQa_tZ9",
         "title": "Гормоны счастья",
@@ -345,18 +357,6 @@
             "id": "74140988-vkontakte",
             "nickname": "International master",
             "booksCount": 104
-        }
-    },
-    "xyUoUUU8yz": {
-        "id": "xyUoUUU8yz",
-        "title": "Рубашка",
-        "author": "Евгений Гришковец",
-        "notes": "Саня, Макс, преследователь на мерседесе и Она.",
-        "createdAt": "2018-02-12 13:44:54",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 50
         }
     }
 }

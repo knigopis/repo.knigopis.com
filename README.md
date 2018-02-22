@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
+    > Дошли руки и до классики :)
+    > 
+    > в процессе
+
 * Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
     > Должна стать моей настольной книгой!!!
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
-    > Книга 2
 
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
 
-* Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>137</sup> 
@@ -46,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 
 
-_22.02.2018 04:22:25_
+_22.02.2018 20:52:08_
