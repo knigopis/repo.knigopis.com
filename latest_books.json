@@ -1,4 +1,16 @@
 {
+    "lRnWyIbyrS": {
+        "id": "lRnWyIbyrS",
+        "title": "Декоратор",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2018-02-23 18:24:40",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 17
+        }
+    },
     "kSDwkk_oIj": {
         "id": "kSDwkk_oIj",
         "title": "Пиковый валет",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 141
-        }
-    },
-    "z88sYLH6Ps": {
-        "id": "z88sYLH6Ps",
-        "title": "Пограничный река",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-02-13 03:31:59",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 294
         }
     }
 }
