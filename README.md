@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[beiner](users/118/118330474331574680123-google)<sup>15</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>63</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
 [Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>170</sup> 
 
 
-_22.02.2018 20:52:33_
+_23.02.2018 18:23:13_

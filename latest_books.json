@@ -1,4 +1,16 @@
 {
+    "_EMjJvUytR": {
+        "id": "_EMjJvUytR",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Джордж Клейсон",
+        "notes": "",
+        "createdAt": "2018-02-23 18:23:13",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 15
+        }
+    },
     "zgJoHX_ECz": {
         "id": "zgJoHX_ECz",
         "title": "Время - деньги",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 293
-        }
-    },
-    "DsMJskbj3k": {
-        "id": "DsMJskbj3k",
-        "title": "Веб-дизайн. Элементы опыта взаимодействия",
-        "author": "Джесс Гарретт",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/3925484/",
-        "createdAt": "2018-02-12 18:51:17",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 140
         }
     }
 }
