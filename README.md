@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>172</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
 
 
-_23.02.2018 21:20:46_
+_23.02.2018 21:21:22_
