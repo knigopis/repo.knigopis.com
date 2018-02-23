@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 171,
+        "updatedAt": "2018-02-23 21:17:38"
+    },
     "118330474331574680123-google": {
         "id": "118330474331574680123-google",
         "nickname": "beiner",
@@ -172,11 +178,5 @@
         "nickname": "matbuat",
         "booksCount": 16,
         "updatedAt": "2018-02-11 08:25:22"
-    },
-    "1633042570075239-facebook": {
-        "id": "1633042570075239-facebook",
-        "nickname": "Shade",
-        "booksCount": 0,
-        "updatedAt": "2018-02-10 21:41:11"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>171</sup>
+    > Наверное чтобы до конца понять и осмыслить этот философский эпос, нужно перечитать его не один раз. После первого (чисто ознакомительного) прочтения, впечатления смешанные - часть высказываний удивляют, часть шокируют, а с частью наверное согласна
+
 * Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
     > в процессе
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
-    > Должна стать моей настольной книгой!!!
 
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
 
-* Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kashiki](users/117/11773368-vkontakte)<sup>0</sup> 
 [j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 [matbuat](users/100/100824829138781301319-google)<sup>16</sup> 
-[Shade](users/163/1633042570075239-facebook)<sup>0</sup> 
 
 
-_23.02.2018 18:32:37_
+_23.02.2018 21:17:38_
