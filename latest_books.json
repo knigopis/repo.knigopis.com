@@ -1,4 +1,16 @@
 {
+    "kGjVmqD6o7": {
+        "id": "kGjVmqD6o7",
+        "title": "№1 Как стать лучшим в том, что ты делаешь",
+        "author": "Игорь Манн",
+        "notes": "",
+        "createdAt": "2018-02-23 18:32:37",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 26
+        }
+    },
     "IHjYmfwBHu": {
         "id": "IHjYmfwBHu",
         "title": "Магия утра",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 2
-        }
-    },
-    "D8E4mVkdfd": {
-        "id": "D8E4mVkdfd",
-        "title": "Оно",
-        "author": "Стивен Кинг",
-        "notes": "Хорошая, интересная книга. Временами было страшно. Понравилась напряженная атмосфера. Конец немного разочаровал.",
-        "createdAt": "2018-02-17 07:00:11",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 1
         }
     }
 }

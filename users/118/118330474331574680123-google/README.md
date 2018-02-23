@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>25</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>26</sup>
 ---
 
 ## 2018
+
+### №1 Как стать лучшим в том, что ты делаешь
+Игорь Манн
+> [2018-02] 
+
 
 ### Трансформатор
 Дмитрий Портнягин
