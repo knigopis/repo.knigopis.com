@@ -1,4 +1,16 @@
 {
+    "bJ6hPexC42": {
+        "id": "bJ6hPexC42",
+        "title": "REWORK: бизнес без предрассудков",
+        "author": "авид Хейнемейер Ханссон и Джейсон Фрайд",
+        "notes": "",
+        "createdAt": "2018-02-23 18:30:21",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 23
+        }
+    },
     "-dJ-CRVCMT": {
         "id": "-dJ-CRVCMT",
         "title": "Как почувствовать себя парижанкой",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 143
-        }
-    },
-    "hX_93aROI0": {
-        "id": "hX_93aROI0",
-        "title": "Deadline. Роман об управлении проектами",
-        "author": "Том ДеМарко",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/22433706/",
-        "createdAt": "2018-02-15 18:48:56",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 142
         }
     }
 }
