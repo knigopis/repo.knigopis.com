@@ -1,4 +1,16 @@
 {
+    "IHjYmfwBHu": {
+        "id": "IHjYmfwBHu",
+        "title": "Магия утра",
+        "author": "Хэм Элдрод",
+        "notes": "",
+        "createdAt": "2018-02-23 18:31:29",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 25
+        }
+    },
     "xZFKFh52vw": {
         "id": "xZFKFh52vw",
         "title": "Трансформатор",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 1
-        }
-    },
-    "7R3S_HJs6N": {
-        "id": "7R3S_HJs6N",
-        "title": "Крилитанский код",
-        "author": "Джастин Ричардс",
-        "notes": "Еще 1 история про Доктора и спасение мира.",
-        "createdAt": "2018-02-16 06:10:56",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 35
         }
     }
 }
