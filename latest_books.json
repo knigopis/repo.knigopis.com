@@ -1,4 +1,16 @@
 {
+    "-dJ-CRVCMT": {
+        "id": "-dJ-CRVCMT",
+        "title": "Как почувствовать себя парижанкой",
+        "author": "Каролин де Мегрэ, Анна Берест, Софи Мас, Одри Диван",
+        "notes": "",
+        "createdAt": "2018-02-23 18:29:31",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 22
+        }
+    },
     "AfEAq_LbI9": {
         "id": "AfEAq_LbI9",
         "title": "Тонкое искусство пофигизма",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 142
-        }
-    },
-    "XATijbgNEV": {
-        "id": "XATijbgNEV",
-        "title": "Путь королей (Серия: Архив Буресвета. Книга 1/?)",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2018-02-15 18:31:07",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 42
         }
     }
 }
