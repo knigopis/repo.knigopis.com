@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>23</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>24</sup>
 ---
 
 ## 2018
+
+### Трансформатор
+Дмитрий Портнягин
+> [2018-02] 
+
 
 ### REWORK: бизнес без предрассудков
 авид Хейнемейер Ханссон и Джейсон Фрайд

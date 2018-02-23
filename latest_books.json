@@ -1,4 +1,16 @@
 {
+    "xZFKFh52vw": {
+        "id": "xZFKFh52vw",
+        "title": "Трансформатор",
+        "author": "Дмитрий Портнягин",
+        "notes": "",
+        "createdAt": "2018-02-23 18:30:34",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 24
+        }
+    },
     "bJ6hPexC42": {
         "id": "bJ6hPexC42",
         "title": "REWORK: бизнес без предрассудков",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 35
-        }
-    },
-    "umFi5U0a0e": {
-        "id": "umFi5U0a0e",
-        "title": "Все о Китае. Культура, религия, традиции",
-        "author": "",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/139146884/",
-        "createdAt": "2018-02-15 18:49:26",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 143
         }
     }
 }
