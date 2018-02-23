@@ -1,5 +1,13 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>20</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>21</sup>
 ---
+
+## 2018
+
+### Тонкое искусство пофигизма
+Марк Мэнсон
+> [2018-01] 
+
+
 
 ## 2017
 
