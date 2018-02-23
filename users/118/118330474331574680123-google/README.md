@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>15</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>16</sup>
 ---
 
 ## 2017
+
+### Пиковый валет
+Борис Акунин
+> [2017-12] 
+
 
 ### Левиафан
 Борис Акунин

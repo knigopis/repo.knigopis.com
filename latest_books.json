@@ -1,4 +1,16 @@
 {
+    "kSDwkk_oIj": {
+        "id": "kSDwkk_oIj",
+        "title": "Пиковый валет",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2018-02-23 18:24:21",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 16
+        }
+    },
     "_EMjJvUytR": {
         "id": "_EMjJvUytR",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 294
-        }
-    },
-    "Uf5QV4ZoP5": {
-        "id": "Uf5QV4ZoP5",
-        "title": "Запретный мир. Книга 2. Сердце Мира",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-02-13 03:31:14",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 293
         }
     }
 }
