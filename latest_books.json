@@ -1,4 +1,16 @@
 {
+    "4DDmqKy5Dq": {
+        "id": "4DDmqKy5Dq",
+        "title": "Алмазная колесница",
+        "author": "Борис Акунин",
+        "notes": "",
+        "createdAt": "2018-02-23 18:25:18",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 18
+        }
+    },
     "lRnWyIbyrS": {
         "id": "lRnWyIbyrS",
         "title": "Декоратор",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 111
-        }
-    },
-    "W173c4eWN7": {
-        "id": "W173c4eWN7",
-        "title": "Живи легко!",
-        "author": "Эндрю Мэтьюз",
-        "notes": "в процессе",
-        "createdAt": "2018-02-13 19:17:59",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 141
         }
     }
 }
