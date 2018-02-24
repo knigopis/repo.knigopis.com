@@ -1,4 +1,16 @@
 {
+    "SUzEwxIdS0": {
+        "id": "SUzEwxIdS0",
+        "title": "Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1)",
+        "author": "Volker Kutscher",
+        "notes": "ASIN: B0721C6KBG",
+        "createdAt": "2018-02-24 11:10:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 52
+        }
+    },
     "oYFGvTDGdE": {
         "id": "oYFGvTDGdE",
         "title": "Так говорил Заратустра",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 4
-        }
-    },
-    "gGP1RTurRt": {
-        "id": "gGP1RTurRt",
-        "title": "Семь дней творения",
-        "author": "Марк Леви",
-        "notes": "Книга на один раз. Про  противостояние ангелов и демонов.",
-        "createdAt": "2018-02-17 07:03:12",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 3
         }
     }
 }

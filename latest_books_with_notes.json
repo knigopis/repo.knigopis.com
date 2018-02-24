@@ -1,4 +1,16 @@
 {
+    "SUzEwxIdS0": {
+        "id": "SUzEwxIdS0",
+        "title": "Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1)",
+        "author": "Volker Kutscher",
+        "notes": "ASIN: B0721C6KBG",
+        "createdAt": "2018-02-24 11:10:34",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 52
+        }
+    },
     "oYFGvTDGdE": {
         "id": "oYFGvTDGdE",
         "title": "Так говорил Заратустра",
@@ -345,18 +357,6 @@
             "id": "114389869162010721507-google",
             "nickname": "Garri938",
             "booksCount": 41
-        }
-    },
-    "rLbBeUCSFc": {
-        "id": "rLbBeUCSFc",
-        "title": "Узорный покров",
-        "author": "Сомерсет Моэм",
-        "notes": "Роман. О светском обществе. О женщине и ее взрослении. Как и в других книгах автора здесь есть описание эпидемической болезни.",
-        "createdAt": "2018-02-03 09:47:50",
-        "user": {
-            "id": "114389869162010721507-google",
-            "nickname": "Garri938",
-            "booksCount": 39
         }
     }
 }
