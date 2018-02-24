@@ -1,4 +1,10 @@
 {
+    "17507275271722136409-mailru": {
+        "id": "17507275271722136409-mailru",
+        "nickname": "Анна Легостаева",
+        "booksCount": 0,
+        "updatedAt": "2018-02-24 20:59:34"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "rexar",
         "booksCount": 0,
         "updatedAt": "2018-02-11 13:27:22"
-    },
-    "11773368-vkontakte": {
-        "id": "11773368-vkontakte",
-        "nickname": "kashiki",
-        "booksCount": 0,
-        "updatedAt": "2018-02-11 10:03:36"
     }
 }
