@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
+    > ASIN: B014HHBWO4
+
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
     > ASIN: B0721C6KBG
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Наверное чтобы до конца понять и осмыслить этот философский эпос, нужно перечитать его не один раз. После первого (чисто ознакомительного) прочтения, впечатления смешанные - часть высказываний удивляют, часть шокируют, а с частью наверное согласна
 
 * Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
-    > в процессе
 
 * Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
 
-* Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>52</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 
 
-_24.02.2018 11:10:34_
+_24.02.2018 11:12:51_

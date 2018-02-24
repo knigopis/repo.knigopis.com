@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
 * Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 * Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
@@ -30,7 +31,6 @@
 * Ходячий замок ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup>
 * Добрые предзнаменования ~ [Garka](users/115/115753719718250012620-google)<sup>169</sup>
 * Идиотский бесценный мозг. Как мы поддаемся на все уловки и хитрости нашего мозга ~ [Saamy](users/115/115226508-vkontakte)<sup>39</sup>
-* Фиеста ~ [Garri938](users/114/114389869162010721507-google)<sup>41</sup>
 
 
-_24.02.2018 11:10:34_
+_24.02.2018 11:12:51_

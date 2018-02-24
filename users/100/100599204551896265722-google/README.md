@@ -1,4 +1,4 @@
-# Список прочитанных книг пользователя exulted<sup>52</sup>
+# Список прочитанных книг пользователя exulted<sup>53</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1)
 Volker Kutscher
 > [2018-02-20] ASIN: B0721C6KBG
+
+
+### The Rothschilds
+Virginia Cowles
+> [2018-02-17] ASIN: B014HHBWO4
 
 
 

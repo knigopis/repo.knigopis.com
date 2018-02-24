@@ -1,4 +1,16 @@
 {
+    "L8MsxnmOKC": {
+        "id": "L8MsxnmOKC",
+        "title": "The Rothschilds",
+        "author": "Virginia Cowles",
+        "notes": "ASIN: B014HHBWO4",
+        "createdAt": "2018-02-24 11:12:51",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 53
+        }
+    },
     "SUzEwxIdS0": {
         "id": "SUzEwxIdS0",
         "title": "Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1)",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 5
-        }
-    },
-    "aFJqGWUZBX": {
-        "id": "aFJqGWUZBX",
-        "title": "Дженни",
-        "author": "Пол Гэллико",
-        "notes": "Очень трогательная книга. о мальчике. который мечтал о котенке. Научит детей состраданию.",
-        "createdAt": "2018-02-17 07:05:15",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 4
         }
     }
 }
