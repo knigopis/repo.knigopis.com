@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>72</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>171</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 [cofee](users/103/103152880043087173490-google)<sup>1</sup> 
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
-[kashiki](users/117/11773368-vkontakte)<sup>0</sup> 
 
 
-_24.02.2018 11:58:57_
+_24.02.2018 20:59:39_
