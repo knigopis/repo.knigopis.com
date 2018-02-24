@@ -1,7 +1,13 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>71</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>72</sup>
 ---
 
 ## 2018
+
+### Время предательства
+Луиза Пенни
+> [2018-02-24] (Старший инспектор Гамаш 9)
+> Заговор всей серии раскрыт, злодеи наказаны, Бовуар вернулся в лоно семьи, хэппи энд
+
 
 ### Последнее дело Даймонда
 Питер Ловси

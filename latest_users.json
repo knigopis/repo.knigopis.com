@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 72,
+        "updatedAt": "2018-02-24 11:58:57"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "kashiki",
         "booksCount": 0,
         "updatedAt": "2018-02-11 10:03:36"
-    },
-    "49715129-vkontakte": {
-        "id": "49715129-vkontakte",
-        "nickname": "j.kosticina",
-        "booksCount": 0,
-        "updatedAt": "2018-02-11 09:06:32"
     }
 }

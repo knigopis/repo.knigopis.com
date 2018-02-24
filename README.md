@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
+    > (Старший инспектор Гамаш 9)
+    > Заговор всей серии раскрыт, злодеи наказаны, Бовуар вернулся в лоно семьи, хэппи энд
+
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
     > ASIN: B014HHBWO4
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B0721C6KBG
 
 * Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
-    > Наверное чтобы до конца понять и осмыслить этот философский эпос, нужно перечитать его не один раз. После первого (чисто ознакомительного) прочтения, впечатления смешанные - часть высказываний удивляют, часть шокируют, а с частью наверное согласна
 
 * Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 
-* Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>72</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [cofee](users/103/103152880043087173490-google)<sup>1</sup> 
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 [kashiki](users/117/11773368-vkontakte)<sup>0</sup> 
-[j.kosticina](users/497/49715129-vkontakte)<sup>0</sup> 
 
 
-_24.02.2018 11:12:51_
+_24.02.2018 11:58:57_
