@@ -1,4 +1,16 @@
 {
+    "4mx2k7djio": {
+        "id": "4mx2k7djio",
+        "title": "Мор, ученик смерти",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-02-25 22:31:27",
+        "user": {
+            "id": "112130619-vkontakte",
+            "nickname": "kawada_kun",
+            "booksCount": 1
+        }
+    },
     "CbZ13lJKLn": {
         "id": "CbZ13lJKLn",
         "title": "Чарли и шоколадная фабрика",
@@ -345,18 +357,6 @@
             "id": "97112009-vkontakte",
             "nickname": "Kk",
             "booksCount": 1
-        }
-    },
-    "pcsWB9V9da": {
-        "id": "pcsWB9V9da",
-        "title": "Чудо голодания",
-        "author": "Брег Поль",
-        "notes": "",
-        "createdAt": "2018-02-18 17:05:52",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 36
         }
     }
 }
