@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kawada_kun](users/112/112130619-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>54</sup> 
 [Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 [cofee](users/103/103152880043087173490-google)<sup>1</sup> 
-[rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 
 
-_25.02.2018 12:30:58_
+_25.02.2018 22:31:02_
