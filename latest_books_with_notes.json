@@ -1,4 +1,16 @@
 {
+    "CbZ13lJKLn": {
+        "id": "CbZ13lJKLn",
+        "title": "Чарли и шоколадная фабрика",
+        "author": "Даль, Роальд",
+        "notes": "Еще одна милая детская книга",
+        "createdAt": "2018-02-25 12:30:58",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 172
+        }
+    },
     "x124SVlBxw": {
         "id": "x124SVlBxw",
         "title": "Window on a Burning Man",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 33
-        }
-    },
-    "_H7AmxHcWJ": {
-        "id": "_H7AmxHcWJ",
-        "title": "Ходячий замок",
-        "author": "Диана Уинн Джонс",
-        "notes": "zaebis'",
-        "createdAt": "2018-02-07 23:13:25",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 10
         }
     }
 }

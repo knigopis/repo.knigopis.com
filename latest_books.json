@@ -1,4 +1,16 @@
 {
+    "CbZ13lJKLn": {
+        "id": "CbZ13lJKLn",
+        "title": "Чарли и шоколадная фабрика",
+        "author": "Даль, Роальд",
+        "notes": "Еще одна милая детская книга",
+        "createdAt": "2018-02-25 12:30:58",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 172
+        }
+    },
     "x124SVlBxw": {
         "id": "x124SVlBxw",
         "title": "Window on a Burning Man",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 36
-        }
-    },
-    "WzlAKmKr_8": {
-        "id": "WzlAKmKr_8",
-        "title": "Маленький принц",
-        "author": "Антуан де Сент-Экзюпери.",
-        "notes": "",
-        "createdAt": "2018-02-18 14:31:36",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 6
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
+    > Еще одна милая детская книга
+
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
     > ASIN: B0791MM669
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Заговор всей серии раскрыт, злодеи наказаны, Бовуар вернулся в лоно семьи, хэппи энд
 
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
-    > ASIN: B014HHBWO4
 
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
 
@@ -27,17 +29,15 @@ Do not use pull requests to make changes here.
 
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 
-* Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>54</sup> 
 [Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>72</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 
 
-_25.02.2018 08:32:33_
+_25.02.2018 12:30:58_
