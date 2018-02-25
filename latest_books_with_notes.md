@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
 * Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
 * Ходячий замок ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup>
-* Добрые предзнаменования ~ [Garka](users/115/115753719718250012620-google)<sup>169</sup>
 
 
-_24.02.2018 11:58:57_
+_25.02.2018 08:32:33_

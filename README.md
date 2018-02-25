@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
+    > ASIN: B0791MM669
+
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
     > (Старший инспектор Гамаш 9)
     > Заговор всей серии раскрыт, злодеи наказаны, Бовуар вернулся в лоно семьи, хэппи энд
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B014HHBWO4
 
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
-    > ASIN: B0721C6KBG
 
 * Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 
@@ -27,16 +29,14 @@ Do not use pull requests to make changes here.
 
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 
-* Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>54</sup> 
 [Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>72</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>53</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>171</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [rexar](users/109/109407785457421549819-google)<sup>0</sup> 
 
 
-_24.02.2018 20:59:39_
+_25.02.2018 08:32:33_

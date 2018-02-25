@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>53</sup>
+# Список прочитанных книг пользователя exulted<sup>54</sup>
 ---
 
 ## 2018
+
+### Window on a Burning Man
+T. B. Newman
+> [2018-02-25] ASIN: B0791MM669
+
 
 ### Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1)
 Volker Kutscher
