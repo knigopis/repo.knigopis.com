@@ -1,4 +1,10 @@
 {
+    "112130619-vkontakte": {
+        "id": "112130619-vkontakte",
+        "nickname": "kawada_kun",
+        "booksCount": 0,
+        "updatedAt": "2018-02-25 22:30:58"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "cofee",
         "booksCount": 1,
         "updatedAt": "2018-02-11 15:16:29"
-    },
-    "109407785457421549819-google": {
-        "id": "109407785457421549819-google",
-        "nickname": "rexar",
-        "booksCount": 0,
-        "updatedAt": "2018-02-11 13:27:22"
     }
 }
