@@ -1,4 +1,16 @@
 {
+    "8z3oHXnLPp": {
+        "id": "8z3oHXnLPp",
+        "title": "Гордість і упередження",
+        "author": "Джейн Остін",
+        "notes": "",
+        "createdAt": "2018-02-26 16:06:57",
+        "user": {
+            "id": "108176485784452819246-google",
+            "nickname": "RedginaFalangi",
+            "booksCount": 1
+        }
+    },
     "QWss1wvvY7": {
         "id": "QWss1wvvY7",
         "title": "Любовь живет три года",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 136
-        }
-    },
-    "wFodISo8JV": {
-        "id": "wFodISo8JV",
-        "title": "Чернильная кровь",
-        "author": "Корнелия Функе",
-        "notes": "Книга 2",
-        "createdAt": "2018-02-21 13:53:09",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 135
         }
     }
 }

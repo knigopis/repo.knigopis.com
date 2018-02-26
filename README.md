@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[RedginaFalangi](users/108/108176485784452819246-google)<sup>0</sup> 
+[RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>63</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
 
 
-_26.02.2018 16:06:09_
+_26.02.2018 16:06:57_
