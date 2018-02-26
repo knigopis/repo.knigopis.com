@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>63</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>8</sup> 
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
-[абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 
 
-_26.02.2018 11:01:28_
+_26.02.2018 12:10:33_
