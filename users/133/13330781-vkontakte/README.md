@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>7</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>8</sup>
 ---
 
 ## 2018
+
+### Над пропастью во ржи
+Джером Селинджер
+> [2018-02-26] 
+
 
 ### Москва-Петушки
 Венидикт Ерофеев

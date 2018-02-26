@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>7</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>8</sup> 
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 
 
-_26.02.2018 11:00:06_
+_26.02.2018 11:01:28_

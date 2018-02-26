@@ -1,4 +1,16 @@
 {
+    "mwWdDEBmRg": {
+        "id": "mwWdDEBmRg",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Селинджер",
+        "notes": "",
+        "createdAt": "2018-02-26 11:01:27",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 8
+        }
+    },
     "C8DqXr2rmk": {
         "id": "C8DqXr2rmk",
         "title": "Москва-Петушки",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 36
-        }
-    },
-    "Rrnr8DFqQB": {
-        "id": "Rrnr8DFqQB",
-        "title": "происшетсвие",
-        "author": "линвуд барклин",
-        "notes": "",
-        "createdAt": "2018-02-19 10:32:41",
-        "user": {
-            "id": "97112009-vkontakte",
-            "nickname": "Kk",
-            "booksCount": 2
         }
     }
 }
