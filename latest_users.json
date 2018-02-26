@@ -1,4 +1,10 @@
 {
+    "1128382787235387-facebook": {
+        "id": "1128382787235387-facebook",
+        "nickname": "Бордыч",
+        "booksCount": 0,
+        "updatedAt": "2018-02-26 10:22:46"
+    },
     "112130619-vkontakte": {
         "id": "112130619-vkontakte",
         "nickname": "kawada_kun",
@@ -172,11 +178,5 @@
         "nickname": "абвгде",
         "booksCount": 0,
         "updatedAt": "2018-02-12 12:51:59"
-    },
-    "103152880043087173490-google": {
-        "id": "103152880043087173490-google",
-        "nickname": "cofee",
-        "booksCount": 1,
-        "updatedAt": "2018-02-11 15:16:29"
     }
 }
