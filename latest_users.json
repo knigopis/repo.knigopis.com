@@ -1,4 +1,10 @@
 {
+    "108176485784452819246-google": {
+        "id": "108176485784452819246-google",
+        "nickname": "RedginaFalangi",
+        "booksCount": 0,
+        "updatedAt": "2018-02-26 16:06:09"
+    },
     "1724166950980454-facebook": {
         "id": "1724166950980454-facebook",
         "nickname": "Лилит",
@@ -172,11 +178,5 @@
         "nickname": "HXT",
         "booksCount": 294,
         "updatedAt": "2018-02-13 03:31:59"
-    },
-    "74140988-vkontakte": {
-        "id": "74140988-vkontakte",
-        "nickname": "International master",
-        "booksCount": 104,
-        "updatedAt": "2018-02-12 15:27:19"
     }
 }
