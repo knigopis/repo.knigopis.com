@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
-* Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
 
 
-_26.02.2018 16:16:56_
+_26.02.2018 16:24:59_

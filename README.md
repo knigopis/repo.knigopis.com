@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
+    > Книга показывает очень тяжелую жизнь семей, которые были вынуждены бросить свои дома и переехать в другой штат в поисках работы. Уровень и количество проблем плавно нарастает с самого начала. Люди массово борятся за своё существование, переживают серьезные трудности. Прочтение помогает почувствовать некоторые свои проблемы незначительными.
+
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
     > Простая сказка о животных. Похожа на Винни-Пуха. В этой сказки Крот, дядушка Рэт, мистер Барсук и Тоуд (Джабс) ходят друг к другу в гости, решают всякие проблемы.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Еще одна милая детская книга
 
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
-    > ASIN: B0791MM669
 
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
 
-* Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[rNix](users/115/115622071-twitter)<sup>61</sup> 
+[rNix](users/115/115622071-twitter)<sup>62</sup> 
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>111</sup> 
 
 
-_26.02.2018 16:16:56_
+_26.02.2018 16:24:59_
