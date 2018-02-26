@@ -1,4 +1,16 @@
 {
+    "C8DqXr2rmk": {
+        "id": "C8DqXr2rmk",
+        "title": "Москва-Петушки",
+        "author": "Венидикт Ерофеев",
+        "notes": "",
+        "createdAt": "2018-02-26 11:00:06",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 7
+        }
+    },
     "4mx2k7djio": {
         "id": "4mx2k7djio",
         "title": "Мор, ученик смерти",
@@ -345,18 +357,6 @@
             "id": "97112009-vkontakte",
             "nickname": "Kk",
             "booksCount": 2
-        }
-    },
-    "vP5ofiODly": {
-        "id": "vP5ofiODly",
-        "title": "проишествие",
-        "author": "линвуд барклин",
-        "notes": "",
-        "createdAt": "2018-02-19 10:32:15",
-        "user": {
-            "id": "97112009-vkontakte",
-            "nickname": "Kk",
-            "booksCount": 1
         }
     }
 }

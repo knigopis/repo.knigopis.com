@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>6</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>7</sup>
 ---
 
 ## 2018
+
+### Москва-Петушки
+Венидикт Ерофеев
+> [2018-02-24] 
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери.

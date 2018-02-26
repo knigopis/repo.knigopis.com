@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>7</sup> 
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Kk](users/971/97112009-vkontakte)<sup>1</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>36</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>6</sup> 
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
 
 
-_26.02.2018 10:22:50_
+_26.02.2018 11:00:06_
