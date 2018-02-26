@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>36</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>37</sup>
 ---
 
 ## 2018
+
+### Богатый папа, бедный папа
+Роберт Кийосаки
+> [2018-02-26] 
+
 
 ### Чудо голодания
 Брег Поль

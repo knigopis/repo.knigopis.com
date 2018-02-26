@@ -1,4 +1,16 @@
 {
+    "bIvigVbA71": {
+        "id": "bIvigVbA71",
+        "title": "Богатый папа, бедный папа",
+        "author": "Роберт Кийосаки",
+        "notes": "",
+        "createdAt": "2018-02-26 14:33:58",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 37
+        }
+    },
     "rMGDHNNO-e": {
         "id": "rMGDHNNO-e",
         "title": "Будь моей мамой",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 134
-        }
-    },
-    "L5BaomR0jB": {
-        "id": "L5BaomR0jB",
-        "title": "Человек-невидимка",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2018-02-19 20:16:32",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 37
         }
     }
 }
