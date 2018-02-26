@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лилит](users/172/1724166950980454-facebook)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>63</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>8</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>111</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>294</sup> 
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 
 
-_26.02.2018 14:33:58_
+_26.02.2018 15:22:29_
