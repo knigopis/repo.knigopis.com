@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
@@ -30,7 +31,6 @@
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
 * Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
 * Право на рождение. Дилогия ~ [Chiffi](users/105/105831994080785626680-google)<sup>45</sup>
-* Я - Далек ~ [En](users/333/333646551-vkontakte)<sup>33</sup>
 
 
-_25.02.2018 12:30:58_
+_26.02.2018 16:16:56_
