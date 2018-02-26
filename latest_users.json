@@ -1,4 +1,10 @@
 {
+    "1724166950980454-facebook": {
+        "id": "1724166950980454-facebook",
+        "nickname": "Лилит",
+        "booksCount": 0,
+        "updatedAt": "2018-02-26 15:22:27"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "International master",
         "booksCount": 104,
         "updatedAt": "2018-02-12 15:27:19"
-    },
-    "64251996-vkontakte": {
-        "id": "64251996-vkontakte",
-        "nickname": "~ARHANGEL~",
-        "booksCount": 50,
-        "updatedAt": "2018-02-12 13:44:54"
     }
 }
