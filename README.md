@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>54</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [International master](users/741/74140988-vkontakte)<sup>104</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup> 
 [абвгде](users/237/237772610-vkontakte)<sup>0</sup> 
-[cofee](users/103/103152880043087173490-google)<sup>1</sup> 
 
 
-_25.02.2018 22:31:27_
+_26.02.2018 10:22:50_
