@@ -1,4 +1,16 @@
 {
+    "5vQLvh-239": {
+        "id": "5vQLvh-239",
+        "title": "Честная книга о том как делать бизнес в России",
+        "author": "Дмитрий Потапенко",
+        "notes": "",
+        "createdAt": "2018-02-27 03:47:49",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 295
+        }
+    },
     "vU5X72Hnrh": {
         "id": "vU5X72Hnrh",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 144
-        }
-    },
-    "rAQtQa_tZ9": {
-        "id": "rAQtQa_tZ9",
-        "title": "Гормоны счастья",
-        "author": "Лоретта Грациано Бройнинг",
-        "notes": "Должна стать моей настольной книгой!!!",
-        "createdAt": "2018-02-21 23:01:36",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 63
         }
     }
 }
