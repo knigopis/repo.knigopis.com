@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>8</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>9</sup>
 ---
 
 ## 2018
+
+### Вторая жизнь Уве
+Фредрик Бакман
+> [2018-02-27] Добрая-добрая грусть.
+
 
 ### Над пропастью во ржи
 Джером Селинджер

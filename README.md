@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
+    > Добрая-добрая грусть.
+
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
     > Книга показывает очень тяжелую жизнь семей, которые были вынуждены бросить свои дома и переехать в другой штат в поисках работы. Уровень и количество проблем плавно нарастает с самого начала. Люди массово борятся за своё существование, переживают серьезные трудности. Прочтение помогает почувствовать некоторые свои проблемы незначительными.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Простая сказка о животных. Похожа на Винни-Пуха. В этой сказки Крот, дядушка Рэт, мистер Барсук и Тоуд (Джабс) ходят друг к другу в гости, решают всякие проблемы.
 
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
-    > Еще одна милая детская книга
 
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Время - деньги ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup>
 
-* Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>63</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>8</sup> 
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 
 
-_27.02.2018 12:14:28_
+_27.02.2018 16:24:51_

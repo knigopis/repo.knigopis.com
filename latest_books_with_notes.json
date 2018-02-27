@@ -1,4 +1,16 @@
 {
+    "_nYCPJxVb1": {
+        "id": "_nYCPJxVb1",
+        "title": "Вторая жизнь Уве",
+        "author": "Фредрик Бакман",
+        "notes": "Добрая-добрая грусть.",
+        "createdAt": "2018-02-27 16:24:51",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 9
+        }
+    },
     "vU5X72Hnrh": {
         "id": "vU5X72Hnrh",
         "title": "Гроздья гнева",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 144
-        }
-    },
-    "7zfT0NKxiv": {
-        "id": "7zfT0NKxiv",
-        "title": "Зов предков",
-        "author": "Джек Лондон",
-        "notes": "Довольно жестокое произведение",
-        "createdAt": "2018-02-08 11:29:05",
-        "user": {
-            "id": "26415789-vkontakte",
-            "nickname": "kycok_edbl",
-            "booksCount": 6
         }
     }
 }

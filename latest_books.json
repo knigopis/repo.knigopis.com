@@ -1,4 +1,16 @@
 {
+    "_nYCPJxVb1": {
+        "id": "_nYCPJxVb1",
+        "title": "Вторая жизнь Уве",
+        "author": "Фредрик Бакман",
+        "notes": "Добрая-добрая грусть.",
+        "createdAt": "2018-02-27 16:24:51",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 9
+        }
+    },
     "b8u_2mDdDo": {
         "id": "b8u_2mDdDo",
         "title": "Ружья, микробы и сталь",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 17
-        }
-    },
-    "kSDwkk_oIj": {
-        "id": "kSDwkk_oIj",
-        "title": "Пиковый валет",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2018-02-23 18:24:21",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 16
         }
     }
 }

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
@@ -30,7 +31,6 @@
 * Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
 * Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 * Эдем ~ [lucius](users/838/83820536-yandex)<sup>144</sup>
-* Зов предков ~ [kycok_edbl](users/264/26415789-vkontakte)<sup>6</sup>
 
 
-_26.02.2018 16:24:59_
+_27.02.2018 16:24:51_

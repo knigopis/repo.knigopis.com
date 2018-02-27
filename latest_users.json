@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 9,
+        "updatedAt": "2018-02-27 16:24:51"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -40,12 +46,6 @@
         "nickname": "develchip",
         "booksCount": 63,
         "updatedAt": "2018-02-26 12:10:32"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 8,
-        "updatedAt": "2018-02-26 11:01:27"
     },
     "1128382787235387-facebook": {
         "id": "1128382787235387-facebook",
