@@ -1,4 +1,16 @@
 {
+    "kxxVkrqp3K": {
+        "id": "kxxVkrqp3K",
+        "title": "Чернильная смерть",
+        "author": "Корнелия Функе",
+        "notes": "Книга 3",
+        "createdAt": "2018-02-27 19:07:06",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 138
+        }
+    },
     "_nYCPJxVb1": {
         "id": "_nYCPJxVb1",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 34
-        }
-    },
-    "Qcdmck-tez": {
-        "id": "Qcdmck-tez",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "Научная фантастика, которая поднимает философские вопросы о контактах с внеземными цивилизациями.",
-        "createdAt": "2018-02-09 04:05:34",
-        "user": {
-            "id": "83820536-yandex",
-            "nickname": "lucius",
-            "booksCount": 144
         }
     }
 }
