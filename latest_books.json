@@ -1,4 +1,16 @@
 {
+    "NXeaIgyjW3": {
+        "id": "NXeaIgyjW3",
+        "title": "Проклятый горн",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-02-27 03:48:39",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 296
+        }
+    },
     "5vQLvh-239": {
         "id": "5vQLvh-239",
         "title": "Честная книга о том как делать бизнес в России",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 145
-        }
-    },
-    "iRSW8XzfMi": {
-        "id": "iRSW8XzfMi",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "Дошли руки и до классики :)\n\nв процессе",
-        "createdAt": "2018-02-22 20:52:07",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 144
         }
     }
 }
