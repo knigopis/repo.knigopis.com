@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 37,
+        "updatedAt": "2018-02-27 22:37:58"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "marpir",
         "booksCount": 0,
         "updatedAt": "2018-02-15 16:43:29"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 46,
-        "updatedAt": "2018-02-14 18:23:02"
     }
 }

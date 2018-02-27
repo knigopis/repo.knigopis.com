@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>138</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 [marpir](users/726/72683516-vkontakte)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 
 
-_27.02.2018 19:07:06_
+_27.02.2018 22:37:58_
