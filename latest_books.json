@@ -1,4 +1,16 @@
 {
+    "b8u_2mDdDo": {
+        "id": "b8u_2mDdDo",
+        "title": "Ружья, микробы и сталь",
+        "author": "Джаред Даймонд",
+        "notes": "",
+        "createdAt": "2018-02-27 12:14:18",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 11
+        }
+    },
     "U8mFvxozSp": {
         "id": "U8mFvxozSp",
         "title": "Жизнь на полной мощности.",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 16
-        }
-    },
-    "_EMjJvUytR": {
-        "id": "_EMjJvUytR",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Клейсон",
-        "notes": "",
-        "createdAt": "2018-02-23 18:23:13",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 15
         }
     }
 }
