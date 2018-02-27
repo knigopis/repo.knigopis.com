@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>46</sup> 
 
 
-_27.02.2018 12:14:18_
+_27.02.2018 12:14:28_
