@@ -1,4 +1,16 @@
 {
+    "yLcKamNRLL": {
+        "id": "yLcKamNRLL",
+        "title": "Алиса в Стране чудес",
+        "author": "Льюис Кэрролл",
+        "notes": "",
+        "createdAt": "2018-02-28 20:51:33",
+        "user": {
+            "id": "249815548-vkontakte",
+            "nickname": "striped_one",
+            "booksCount": 18
+        }
+    },
     "tyH7bI_ZzB": {
         "id": "tyH7bI_ZzB",
         "title": "Доставляя счастье",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 20
-        }
-    },
-    "vdiAcl5ZY7": {
-        "id": "vdiAcl5ZY7",
-        "title": "Смерть Ахиллеса",
-        "author": "Борис Акунин",
-        "notes": "",
-        "createdAt": "2018-02-23 18:25:43",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 19
         }
     }
 }
