@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Рита](users/106/1060621634114499-facebook)<sup>0</sup> 
+[Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>138</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>42</sup> 
 
 
-_28.02.2018 17:32:41_
+_28.02.2018 17:33:12_
