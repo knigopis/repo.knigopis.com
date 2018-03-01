@@ -1,4 +1,16 @@
 {
+    "9JXee-K6fy": {
+        "id": "9JXee-K6fy",
+        "title": "Двери восприятия",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2018-03-01 01:05:12",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 11
+        }
+    },
     "yLcKamNRLL": {
         "id": "yLcKamNRLL",
         "title": "Алиса в Стране чудес",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 21
-        }
-    },
-    "q1fTp6f0Nk": {
-        "id": "q1fTp6f0Nk",
-        "title": "Очаровательный кишечник",
-        "author": "Джулия Эндерс",
-        "notes": "",
-        "createdAt": "2018-02-23 18:26:46",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 20
         }
     }
 }

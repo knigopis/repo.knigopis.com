@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 11,
+        "updatedAt": "2018-03-01 01:05:12"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -28,12 +34,6 @@
         "nickname": "le_brouillard",
         "booksCount": 9,
         "updatedAt": "2018-02-27 16:24:51"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 10,
-        "updatedAt": "2018-02-27 12:14:28"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

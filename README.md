@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>138</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>10</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 
 
-_28.02.2018 20:51:33_
+_01.03.2018 01:05:12_
