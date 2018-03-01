@@ -1,4 +1,16 @@
 {
+    "m3nqGcnojV": {
+        "id": "m3nqGcnojV",
+        "title": "Как читать книги. Руководство по чтению великих произведений",
+        "author": "Адлер Мортимер",
+        "notes": "",
+        "createdAt": "2018-03-01 21:08:30",
+        "user": {
+            "id": "127737894-vkontakte",
+            "nickname": "topskiykeril",
+            "booksCount": 1
+        }
+    },
     "9JXee-K6fy": {
         "id": "9JXee-K6fy",
         "title": "Двери восприятия",
@@ -345,18 +357,6 @@
             "id": "118330474331574680123-google",
             "nickname": "beiner",
             "booksCount": 22
-        }
-    },
-    "AfEAq_LbI9": {
-        "id": "AfEAq_LbI9",
-        "title": "Тонкое искусство пофигизма",
-        "author": "Марк Мэнсон",
-        "notes": "",
-        "createdAt": "2018-02-23 18:27:44",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 21
         }
     }
 }

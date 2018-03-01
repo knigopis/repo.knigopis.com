@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[topskiykeril](users/127/127737894-vkontakte)<sup>0</sup> 
+[topskiykeril](users/127/127737894-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
 
 
-_01.03.2018 21:07:33_
+_01.03.2018 21:08:30_
