@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[topskiykeril](users/127/127737894-vkontakte)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 [necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 [mbericheva](users/191/191788437-vkontakte)<sup>4</sup> 
-[Alferac](users/117/117817614279012464929-google)<sup>0</sup> 
 
 
-_01.03.2018 01:05:12_
+_01.03.2018 21:07:33_
