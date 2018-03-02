@@ -1,4 +1,10 @@
 {
+    "133856640-vkontakte": {
+        "id": "133856640-vkontakte",
+        "nickname": "mashulkz1",
+        "booksCount": 0,
+        "updatedAt": "2018-03-02 11:04:14"
+    },
     "428684364-yandex": {
         "id": "428684364-yandex",
         "nickname": "mn.space",
@@ -172,11 +178,5 @@
         "nickname": "Kk",
         "booksCount": 1,
         "updatedAt": "2018-02-19 10:32:51"
-    },
-    "26433294-vkontakte": {
-        "id": "26433294-vkontakte",
-        "nickname": "vnstrnko",
-        "booksCount": 0,
-        "updatedAt": "2018-02-18 22:30:06"
     }
 }
