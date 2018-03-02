@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>112</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>50</sup> 
 [mashulkz1](users/133/133856640-vkontakte)<sup>0</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>138</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 
 
-_02.03.2018 12:07:04_
+_02.03.2018 16:33:09_
