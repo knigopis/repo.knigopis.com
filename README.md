@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mn.space](users/428/428684364-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>612</sup> 
 [topskiykeril](users/127/127737894-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
 [Kk](users/971/97112009-vkontakte)<sup>1</sup> 
 [vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
-[necroman4ik](users/126/126368737-vkontakte)<sup>0</sup> 
 
 
-_01.03.2018 22:39:35_
+_02.03.2018 09:37:30_
