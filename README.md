@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mashulkz1](users/133/133856640-vkontakte)<sup>0</sup> 
 [mn.space](users/428/428684364-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>612</sup> 
 [topskiykeril](users/127/127737894-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 [En](users/333/333646551-vkontakte)<sup>36</sup> 
 [Kk](users/971/97112009-vkontakte)<sup>1</sup> 
-[vnstrnko](users/264/26433294-vkontakte)<sup>0</sup> 
 
 
-_02.03.2018 09:37:30_
+_02.03.2018 11:04:16_
