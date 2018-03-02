@@ -1,7 +1,12 @@
-# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>49</sup>
+# List of books read by [amesyatseva](http://vk.com/id3358937)<sup>50</sup>
 ---
 
 ## 2018
+
+### Мертвые игры 6. Дыхание смерти
+Елена Звёздная
+> [2018-03-01] 
+
 
 ### Единственная для оборотня и теща в нагрузку
 Франциска Вудворт
