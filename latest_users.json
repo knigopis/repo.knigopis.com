@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 112,
+        "updatedAt": "2018-03-02 12:07:04"
+    },
     "3358937-vkontakte": {
         "id": "3358937-vkontakte",
         "nickname": "amesyatseva",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 37,
         "updatedAt": "2018-02-19 20:16:32"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 36,
-        "updatedAt": "2018-02-19 11:20:38"
     }
 }
