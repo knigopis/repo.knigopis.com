@@ -1,4 +1,10 @@
 {
+    "5735455-vkontakte": {
+        "id": "5735455-vkontakte",
+        "nickname": "grechkokonstantin",
+        "booksCount": 0,
+        "updatedAt": "2018-03-03 08:59:25"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -172,11 +178,5 @@
         "nickname": "dianchik33",
         "booksCount": 0,
         "updatedAt": "2018-02-20 11:11:11"
-    },
-    "2352103981-twitter": {
-        "id": "2352103981-twitter",
-        "nickname": "Eji_tyan",
-        "booksCount": 37,
-        "updatedAt": "2018-02-19 20:16:32"
     }
 }
