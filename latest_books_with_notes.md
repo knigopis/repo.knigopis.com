@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
 * Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
 * Сто лет одиночества ~ [rNix](users/115/115622071-twitter)<sup>59</sup>
-* Город пустых. Побег из дома странных детей ~ [En](users/333/333646551-vkontakte)<sup>34</sup>
 
 
-_27.02.2018 19:07:06_
+_03.03.2018 17:04:06_

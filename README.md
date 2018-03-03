@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
+    > (Старший инспектор Гамаш 10)
+
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
     > Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Добрая-добрая грусть.
 
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
-    > Книга показывает очень тяжелую жизнь семей, которые были вынуждены бросить свои дома и переехать в другой штат в поисках работы. Уровень и количество проблем плавно нарастает с самого начала. Люди массово борятся за своё существование, переживают серьезные трудности. Прочтение помогает почувствовать некоторые свои проблемы незначительными.
 
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
 
-* Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>73</sup> 
 [grechkokonstantin](users/573/5735455-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>112</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>54</sup> 
 [Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>72</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
 
 
-_03.03.2018 08:59:28_
+_03.03.2018 17:04:06_

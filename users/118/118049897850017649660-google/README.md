@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>72</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>73</sup>
 ---
 
 ## 2018
+
+### Долгий путь домой
+Луиза Пенни
+> [2018-03-03] (Старший инспектор Гамаш 10)
+
 
 ### Время предательства
 Луиза Пенни
