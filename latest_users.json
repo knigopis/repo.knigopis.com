@@ -1,4 +1,10 @@
 {
+    "117213828076107473853-google": {
+        "id": "117213828076107473853-google",
+        "nickname": "goldim",
+        "booksCount": 0,
+        "updatedAt": "2018-03-03 21:44:29"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "joan789",
         "booksCount": 63,
         "updatedAt": "2018-02-21 23:01:36"
-    },
-    "231538017-vkontakte": {
-        "id": "231538017-vkontakte",
-        "nickname": "dianchik33",
-        "booksCount": 0,
-        "updatedAt": "2018-02-20 11:11:11"
     }
 }
