@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[grechkokonstantin](users/573/5735455-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>112</sup> 
 [amesyatseva](users/335/3358937-vkontakte)<sup>50</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 [dianchik33](users/231/231538017-vkontakte)<sup>0</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>37</sup> 
 
 
-_02.03.2018 16:33:09_
+_03.03.2018 08:59:28_
