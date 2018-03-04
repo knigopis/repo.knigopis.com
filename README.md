@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
+    > хорошо
+
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
     > (Старший инспектор Гамаш 10)
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
-    > Добрая-добрая грусть.
 
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
 
-* Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
 [kravmasha](users/467/46740403-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>54</sup> 
-[Анна Легостаева](users/175/17507275271722136409-mailru)<sup>0</sup> 
 
 
-_04.03.2018 19:19:40_
+_04.03.2018 20:34:06_

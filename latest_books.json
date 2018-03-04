@@ -1,4 +1,16 @@
 {
+    "tX7QpPlQca": {
+        "id": "tX7QpPlQca",
+        "title": "Жизнь взаймы",
+        "author": "Ремарк",
+        "notes": "хорошо",
+        "createdAt": "2018-03-04 20:34:06",
+        "user": {
+            "id": "83788782-vkontakte",
+            "nickname": "Ангелина",
+            "booksCount": 55
+        }
+    },
     "6UT8ZfW5pp": {
         "id": "6UT8ZfW5pp",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 172
-        }
-    },
-    "x124SVlBxw": {
-        "id": "x124SVlBxw",
-        "title": "Window on a Burning Man",
-        "author": "T. B. Newman",
-        "notes": "ASIN: B0791MM669",
-        "createdAt": "2018-02-25 08:32:33",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 54
         }
     }
 }
