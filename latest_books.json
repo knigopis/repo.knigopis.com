@@ -1,4 +1,16 @@
 {
+    "6UT8ZfW5pp": {
+        "id": "6UT8ZfW5pp",
+        "title": "Три товарища",
+        "author": "Э.М. Ремарк",
+        "notes": "",
+        "createdAt": "2018-03-04 14:55:03",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 84
+        }
+    },
     "ctKBujW0ZV": {
         "id": "ctKBujW0ZV",
         "title": "Тайна огуречной грядки",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 54
-        }
-    },
-    "M6wdhXy_XS": {
-        "id": "M6wdhXy_XS",
-        "title": "Время предательства",
-        "author": "Луиза Пенни",
-        "notes": "(Старший инспектор Гамаш 9)\nЗаговор всей серии раскрыт, злодеи наказаны, Бовуар вернулся в лоно семьи, хэппи энд",
-        "createdAt": "2018-02-24 11:58:57",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 72
         }
     }
 }
