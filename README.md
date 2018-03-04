@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[youno](users/302/302928912-vkontakte)<sup>12</sup> 
 [goldim](users/117/117213828076107473853-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>73</sup> 
 [grechkokonstantin](users/573/5735455-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [beiner](users/118/118330474331574680123-google)<sup>26</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 [dobromira90](users/178/178894809-vkontakte)<sup>0</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>63</sup> 
 
 
-_03.03.2018 21:44:32_
+_04.03.2018 04:09:00_

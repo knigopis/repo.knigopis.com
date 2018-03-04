@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>11</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>12</sup>
 ---
 
 ## 2018
+
+### Империя Jay Z
+Гринберг Зак О'Майли
+> [2018-03-03] 
+
 
 ### Прощание с иллюзиями
 Владимир Познер
