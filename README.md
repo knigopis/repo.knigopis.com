@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kravmasha](users/467/46740403-vkontakte)<sup>2</sup> 
+[kravmasha](users/467/46740403-vkontakte)<sup>1</sup> 
 [youno](users/302/302928912-vkontakte)<sup>12</sup> 
 [goldim](users/117/117213828076107473853-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>73</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>145</sup> 
 
 
-_04.03.2018 13:10:42_
+_04.03.2018 13:11:00_
