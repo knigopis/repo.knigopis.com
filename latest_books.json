@@ -1,4 +1,16 @@
 {
+    "ctKBujW0ZV": {
+        "id": "ctKBujW0ZV",
+        "title": "Тайна огуречной грядки",
+        "author": "Сперанская Л.",
+        "notes": "",
+        "createdAt": "2018-03-04 13:10:42",
+        "user": {
+            "id": "46740403-vkontakte",
+            "nickname": "kravmasha",
+            "booksCount": 2
+        }
+    },
     "4DpLb0xl0Z": {
         "id": "4DpLb0xl0Z",
         "title": "Брусничный пирог",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 72
-        }
-    },
-    "L8MsxnmOKC": {
-        "id": "L8MsxnmOKC",
-        "title": "The Rothschilds",
-        "author": "Virginia Cowles",
-        "notes": "ASIN: B014HHBWO4",
-        "createdAt": "2018-02-24 11:12:51",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 53
         }
     }
 }
