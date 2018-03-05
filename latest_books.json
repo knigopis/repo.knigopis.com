@@ -1,4 +1,16 @@
 {
+    "abF_vjQiYz": {
+        "id": "abF_vjQiYz",
+        "title": "Выйди из зоны комфорта",
+        "author": "Брайан Трейси",
+        "notes": "",
+        "createdAt": "2018-03-05 07:08:52",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 27
+        }
+    },
     "tX7QpPlQca": {
         "id": "tX7QpPlQca",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "112130619-vkontakte",
             "nickname": "kawada_kun",
             "booksCount": 1
-        }
-    },
-    "CbZ13lJKLn": {
-        "id": "CbZ13lJKLn",
-        "title": "Чарли и шоколадная фабрика",
-        "author": "Даль, Роальд",
-        "notes": "Еще одна милая детская книга",
-        "createdAt": "2018-02-25 12:30:58",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 172
         }
     }
 }

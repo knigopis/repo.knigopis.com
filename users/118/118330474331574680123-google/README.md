@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>26</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>27</sup>
 ---
 
 ## 2018
+
+### Выйди из зоны комфорта
+Брайан Трейси
+> [2018-02] 
+
 
 ### №1 Как стать лучшим в том, что ты делаешь
 Игорь Манн

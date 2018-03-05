@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[beiner](users/118/118330474331574680123-google)<sup>27</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>172</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>54</sup> 
 
 
-_04.03.2018 20:34:06_
+_05.03.2018 07:08:52_
