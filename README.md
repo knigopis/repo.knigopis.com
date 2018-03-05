@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>27</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>63</sup> 
-[Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 
 
-_05.03.2018 17:53:01_
+_05.03.2018 18:23:41_
