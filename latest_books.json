@@ -1,4 +1,16 @@
 {
+    "2IwyRXo_pF": {
+        "id": "2IwyRXo_pF",
+        "title": "Родная речь. Уроки изящной словесности.",
+        "author": "Вайль Петр, Генис Александр",
+        "notes": "отличный учебник. Скачала путешествия Фонвизина + собираюсь перечитывать Тараса Бульбу и Мертвые души.",
+        "createdAt": "2018-03-05 17:53:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 47
+        }
+    },
     "YtPIrkZYta": {
         "id": "YtPIrkZYta",
         "title": "Кинематограф. Сборник рассказов",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 8
-        }
-    },
-    "C8DqXr2rmk": {
-        "id": "C8DqXr2rmk",
-        "title": "Москва-Петушки",
-        "author": "Венидикт Ерофеев",
-        "notes": "",
-        "createdAt": "2018-02-26 11:00:06",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 7
         }
     }
 }

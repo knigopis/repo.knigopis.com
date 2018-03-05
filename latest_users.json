@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 47,
+        "updatedAt": "2018-03-05 17:53:01"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Бордыч",
         "booksCount": 0,
         "updatedAt": "2018-02-26 10:22:46"
-    },
-    "112130619-vkontakte": {
-        "id": "112130619-vkontakte",
-        "nickname": "kawada_kun",
-        "booksCount": 1,
-        "updatedAt": "2018-02-25 22:31:27"
     }
 }
