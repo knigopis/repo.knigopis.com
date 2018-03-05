@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 78,
+        "updatedAt": "2018-03-05 14:59:57"
+    },
     "118330474331574680123-google": {
         "id": "118330474331574680123-google",
         "nickname": "beiner",
@@ -172,11 +178,5 @@
         "nickname": "kawada_kun",
         "booksCount": 1,
         "updatedAt": "2018-02-25 22:31:27"
-    },
-    "115753719718250012620-google": {
-        "id": "115753719718250012620-google",
-        "nickname": "Garka",
-        "booksCount": 172,
-        "updatedAt": "2018-02-25 12:30:58"
     }
 }

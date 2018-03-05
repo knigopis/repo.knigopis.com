@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
@@ -30,7 +31,6 @@
 * Веб-дизайн. Элементы опыта взаимодействия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>140</sup>
 * Рубашка ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>50</sup>
 * Матильда ~ [Garka](users/115/115753719718250012620-google)<sup>170</sup>
-* Винни-Пух ~ [rNix](users/115/115622071-twitter)<sup>60</sup>
 
 
-_04.03.2018 20:34:06_
+_05.03.2018 14:59:57_

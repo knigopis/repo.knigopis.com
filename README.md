@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
+    > 8,5/10
+    > Сборник состоит из 6 рассказов ( "Три картины", "Кинематограф", "Middlebrow", "Вечер над Сассексом: размышления в автомобиле", "Блуждая по улицам: лондонское приключение", "Мысли о мире во время воздушного налета"). Из всех рассказов наиболее понравился "Блуждая по улицам...". Живо, легко, приятно.
+
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
     > хорошо
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > (Старший инспектор Гамаш 10)
 
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
-    > Книга 3
 
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
 
-* The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>78</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>27</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
@@ -62,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>63</sup> 
 [Бордыч](users/112/1128382787235387-facebook)<sup>0</sup> 
 [kawada_kun](users/112/112130619-vkontakte)<sup>1</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>172</sup> 
 
 
-_05.03.2018 07:08:52_
+_05.03.2018 14:59:57_
