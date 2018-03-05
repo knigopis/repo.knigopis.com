@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
+    > Серия "Плоский мир". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться
+
 * Родная речь. Уроки изящной словесности. ~ [Chiffi](users/105/105831994080785626680-google)<sup>47</sup>
     > отличный учебник. Скачала путешествия Фонвизина + собираюсь перечитывать Тараса Бульбу и Мертвые души.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Сборник состоит из 6 рассказов ( "Три картины", "Кинематограф", "Middlebrow", "Вечер над Сассексом: размышления в автомобиле", "Блуждая по улицам: лондонское приключение", "Мысли о мире во время воздушного налета"). Из всех рассказов наиболее понравился "Блуждая по улицам...". Живо, легко, приятно.
 
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
-    > хорошо
 
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 
-* Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>173</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>63</sup> 
 
 
-_05.03.2018 18:23:41_
+_05.03.2018 19:42:15_

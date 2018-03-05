@@ -1,4 +1,16 @@
 {
+    "P94ec2x68k": {
+        "id": "P94ec2x68k",
+        "title": "Творцы заклинаний",
+        "author": "Пратчетт, Терри",
+        "notes": "Серия \"Плоский мир\". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться",
+        "createdAt": "2018-03-05 19:42:15",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 173
+        }
+    },
     "2IwyRXo_pF": {
         "id": "2IwyRXo_pF",
         "title": "Родная речь. Уроки изящной словесности.",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 63
-        }
-    },
-    "mwWdDEBmRg": {
-        "id": "mwWdDEBmRg",
-        "title": "Над пропастью во ржи",
-        "author": "Джером Селинджер",
-        "notes": "",
-        "createdAt": "2018-02-26 11:01:27",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 8
         }
     }
 }
