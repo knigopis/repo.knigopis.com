@@ -1,4 +1,10 @@
 {
+    "185413133-vkontakte": {
+        "id": "185413133-vkontakte",
+        "nickname": "Лара",
+        "booksCount": 0,
+        "updatedAt": "2018-03-05 18:23:40"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "develchip",
         "booksCount": 63,
         "updatedAt": "2018-02-26 12:10:32"
-    },
-    "1128382787235387-facebook": {
-        "id": "1128382787235387-facebook",
-        "nickname": "Бордыч",
-        "booksCount": 0,
-        "updatedAt": "2018-02-26 10:22:46"
     }
 }
