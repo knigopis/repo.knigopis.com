@@ -1,4 +1,16 @@
 {
+    "Aitqmdit6t": {
+        "id": "Aitqmdit6t",
+        "title": "Небесный маркетинг",
+        "author": "Павел Губарев",
+        "notes": "",
+        "createdAt": "2018-03-06 15:17:51",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 39
+        }
+    },
     "rrzLQUVh05": {
         "id": "rrzLQUVh05",
         "title": "Мистерии убийства",
@@ -345,18 +357,6 @@
             "id": "1724166950980454-facebook",
             "nickname": "Лилит",
             "booksCount": 1
-        }
-    },
-    "bIvigVbA71": {
-        "id": "bIvigVbA71",
-        "title": "Богатый папа, бедный папа",
-        "author": "Роберт Кийосаки",
-        "notes": "",
-        "createdAt": "2018-02-26 14:33:58",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 37
         }
     }
 }
