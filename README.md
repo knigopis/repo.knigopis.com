@@ -5,8 +5,8 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
-* Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>37</sup>
-    > Такую Библию я бы почитала
+* Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>38</sup>
+    > Такую библию я бы читала
 
 * Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
     > Серия "Плоский мир". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться
@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>37</sup> 
+[En](users/333/333646551-vkontakte)<sup>38</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>173</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 
 
-_06.03.2018 01:33:23_
+_06.03.2018 15:17:02_
