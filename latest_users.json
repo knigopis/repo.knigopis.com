@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 37,
+        "updatedAt": "2018-03-06 01:33:23"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Лилит",
         "booksCount": 1,
         "updatedAt": "2018-02-26 15:24:23"
-    },
-    "112205967961310617540-google": {
-        "id": "112205967961310617540-google",
-        "nickname": "sergeybolobaev",
-        "booksCount": 37,
-        "updatedAt": "2018-02-26 14:33:58"
     }
 }

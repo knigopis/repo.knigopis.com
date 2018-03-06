@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>37</sup>
+    > Такую Библию я бы почитала
+
 * Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
     > Серия "Плоский мир". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > отличный учебник. Скачала путешествия Фонвизина + собираюсь перечитывать Тараса Бульбу и Мертвые души.
 
 * Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
-    > 8,5/10
-    > Сборник состоит из 6 рассказов ( "Три картины", "Кинематограф", "Middlebrow", "Вечер над Сассексом: размышления в автомобиле", "Блуждая по улицам: лондонское приключение", "Мысли о мире во время воздушного налета"). Из всех рассказов наиболее понравился "Блуждая по улицам...". Живо, легко, приятно.
 
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 
-* Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>37</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>173</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
@@ -63,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 [Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>37</sup> 
 
 
-_05.03.2018 19:42:15_
+_06.03.2018 01:33:23_

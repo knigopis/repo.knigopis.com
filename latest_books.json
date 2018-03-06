@@ -1,4 +1,16 @@
 {
+    "T6nrk9P8Xf": {
+        "id": "T6nrk9P8Xf",
+        "title": "Мистерии убийства",
+        "author": "Нил Гейман",
+        "notes": "Такую Библию я бы почитала",
+        "createdAt": "2018-03-06 01:33:23",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 37
+        }
+    },
     "P94ec2x68k": {
         "id": "P94ec2x68k",
         "title": "Творцы заклинаний",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 37
-        }
-    },
-    "rMGDHNNO-e": {
-        "id": "rMGDHNNO-e",
-        "title": "Будь моей мамой",
-        "author": "Кэти Гласс",
-        "notes": "",
-        "createdAt": "2018-02-26 12:10:32",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 63
         }
     }
 }
