@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>173</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
-[Лилит](users/172/1724166950980454-facebook)<sup>1</sup> 
 
 
-_06.03.2018 15:17:51_
+_07.03.2018 10:02:23_
