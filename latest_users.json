@@ -1,4 +1,10 @@
 {
+    "82813429-vkontakte": {
+        "id": "82813429-vkontakte",
+        "nickname": "sneachta",
+        "booksCount": 0,
+        "updatedAt": "2018-03-07 10:02:20"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "RedginaFalangi",
         "booksCount": 1,
         "updatedAt": "2018-02-26 16:06:57"
-    },
-    "1724166950980454-facebook": {
-        "id": "1724166950980454-facebook",
-        "nickname": "Лилит",
-        "booksCount": 1,
-        "updatedAt": "2018-02-26 15:24:23"
     }
 }
