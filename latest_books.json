@@ -1,4 +1,16 @@
 {
+    "5WSi5KSR5S": {
+        "id": "5WSi5KSR5S",
+        "title": "Я, робот",
+        "author": "Айзек Азимов",
+        "notes": "прекрасная история про роботов и их взаимоотношения с людьми",
+        "createdAt": "2018-03-07 11:19:45",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 40
+        }
+    },
     "Aitqmdit6t": {
         "id": "Aitqmdit6t",
         "title": "Небесный маркетинг",
@@ -344,18 +356,6 @@
         "user": {
             "id": "108176485784452819246-google",
             "nickname": "RedginaFalangi",
-            "booksCount": 1
-        }
-    },
-    "QWss1wvvY7": {
-        "id": "QWss1wvvY7",
-        "title": "Любовь живет три года",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-02-26 15:24:23",
-        "user": {
-            "id": "1724166950980454-facebook",
-            "nickname": "Лилит",
             "booksCount": 1
         }
     }

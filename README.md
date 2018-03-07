@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
+    > прекрасная история про роботов и их взаимоотношения с людьми
+
 * Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>38</sup>
     > Такую библию я бы читала
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Серия "Плоский мир". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться
 
 * Родная речь. Уроки изящной словесности. ~ [Chiffi](users/105/105831994080785626680-google)<sup>47</sup>
-    > отличный учебник. Скачала путешествия Фонвизина + собираюсь перечитывать Тараса Бульбу и Мертвые души.
 
 * Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 
-* Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>40</sup> 
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>39</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>173</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 
 
-_07.03.2018 10:02:23_
+_07.03.2018 11:19:45_
