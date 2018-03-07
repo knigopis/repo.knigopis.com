@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>40</sup> 
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>173</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>297</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
-[RedginaFalangi](users/108/108176485784452819246-google)<sup>1</sup> 
 
 
-_07.03.2018 11:19:45_
+_07.03.2018 14:40:10_
