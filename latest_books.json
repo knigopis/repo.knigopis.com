@@ -1,4 +1,16 @@
 {
+    "crQ1SeawRw": {
+        "id": "crQ1SeawRw",
+        "title": "Противостояние",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-03-07 21:13:24",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 127
+        }
+    },
     "5WSi5KSR5S": {
         "id": "5WSi5KSR5S",
         "title": "Я, робот",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 61
-        }
-    },
-    "8z3oHXnLPp": {
-        "id": "8z3oHXnLPp",
-        "title": "Гордість і упередження",
-        "author": "Джейн Остін",
-        "notes": "",
-        "createdAt": "2018-02-26 16:06:57",
-        "user": {
-            "id": "108176485784452819246-google",
-            "nickname": "RedginaFalangi",
-            "booksCount": 1
         }
     }
 }
