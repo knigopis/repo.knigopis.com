@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
 [dima@selezov.net](users/113/1130000009709112-yandex)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>127</sup> 
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>9</sup> 
 
 
-_08.03.2018 13:33:05_
+_08.03.2018 17:27:14_
