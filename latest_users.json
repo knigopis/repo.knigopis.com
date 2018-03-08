@@ -1,4 +1,10 @@
 {
+    "1422370341202568-facebook": {
+        "id": "1422370341202568-facebook",
+        "nickname": "Warley",
+        "booksCount": 0,
+        "updatedAt": "2018-03-08 17:27:11"
+    },
     "1130000009709112-yandex": {
         "id": "1130000009709112-yandex",
         "nickname": "dima@selezov.net",
@@ -172,11 +178,5 @@
         "nickname": "me",
         "booksCount": 37,
         "updatedAt": "2018-02-27 22:37:58"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 9,
-        "updatedAt": "2018-02-27 16:24:51"
     }
 }
