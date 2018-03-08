@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>12</sup> 
 [Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
 [dima@selezov.net](users/113/1130000009709112-yandex)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>127</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
 [Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 
 
-_08.03.2018 17:27:14_
+_08.03.2018 21:12:38_
