@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
 * Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
 * Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>38</sup>
 * Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
@@ -30,7 +31,6 @@
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
 * Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
 * Поль Брэгг ~ [sergeybolobaev](users/112/112205967961310617540-google)<sup>35</sup>
-* Мичман Флэндри ~ [Chiffi](users/105/105831994080785626680-google)<sup>46</sup>
 
 
-_07.03.2018 11:19:45_
+_09.03.2018 07:05:12_

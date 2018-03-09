@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
+    > Невероятно сильная книга. Заставляет пересмотреть все свои взгляды на то, как  мы поступаем с другими людьми. Какие могут быть ужасающие последствия. Как мы боимся непохожих на нас и в своем страхе деоаем вид, что не замечаем. Мы сами своими поступками воспитываем в других людях монстров. У тих "монстров" тоже есть чувстви, увлечения, желания. Они ненавидят толпу, а толпа просто избегает их: тихих, странных, неправильных.... а потом наступают последствия...
+
 * Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
     > прекрасная история про роботов и их взаимоотношения с людьми
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Такую библию я бы читала
 
 * Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
-    > Серия "Плоский мир". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться
 
 * Родная речь. Уроки изящной словесности. ~ [Chiffi](users/105/105831994080785626680-google)<sup>47</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 
-* Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
 [Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
 [dima@selezov.net](users/113/1130000009709112-yandex)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [topskiykeril](users/127/127737894-vkontakte)<sup>1</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>11</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>18</sup> 
-[Рита](users/106/1060621634114499-facebook)<sup>1</sup> 
 
 
-_08.03.2018 21:13:16_
+_09.03.2018 07:05:12_
