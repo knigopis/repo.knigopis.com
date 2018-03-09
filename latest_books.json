@@ -1,4 +1,16 @@
 {
+    "zF4bJxWLp1": {
+        "id": "zF4bJxWLp1",
+        "title": "Снеговик",
+        "author": "Ю Несбё",
+        "notes": "",
+        "createdAt": "2018-03-09 09:03:45",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 10
+        }
+    },
     "SU9XjBHMQr": {
         "id": "SU9XjBHMQr",
         "title": "▫Коллекционер",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 297
-        }
-    },
-    "NXeaIgyjW3": {
-        "id": "NXeaIgyjW3",
-        "title": "Проклятый горн",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-02-27 03:48:39",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 296
         }
     }
 }
