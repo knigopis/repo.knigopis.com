@@ -1,4 +1,10 @@
 {
+    "1007576529-facebook": {
+        "id": "1007576529-facebook",
+        "nickname": "Anton",
+        "booksCount": 0,
+        "updatedAt": "2018-03-10 15:35:25"
+    },
     "87706780-yandex": {
         "id": "87706780-yandex",
         "nickname": "KAINDING",
@@ -172,11 +178,5 @@
         "nickname": "mn.space",
         "booksCount": 0,
         "updatedAt": "2018-03-02 09:37:29"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 612,
-        "updatedAt": "2018-03-01 22:39:34"
     }
 }
