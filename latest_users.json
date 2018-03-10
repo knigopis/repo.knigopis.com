@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 1,
+        "updatedAt": "2018-03-10 19:18:25"
+    },
     "1007576529-facebook": {
         "id": "1007576529-facebook",
         "nickname": "Anton",
@@ -172,11 +178,5 @@
         "nickname": "mashulkz1",
         "booksCount": 0,
         "updatedAt": "2018-03-02 11:04:14"
-    },
-    "428684364-yandex": {
-        "id": "428684364-yandex",
-        "nickname": "mn.space",
-        "booksCount": 0,
-        "updatedAt": "2018-03-02 09:37:29"
     }
 }
