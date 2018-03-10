@@ -1,4 +1,16 @@
 {
+    "3uBDvwbHT3": {
+        "id": "3uBDvwbHT3",
+        "title": "The Lie I've Lived",
+        "author": "Jim Bernheimer",
+        "notes": "",
+        "createdAt": "2018-03-10 15:36:05",
+        "user": {
+            "id": "1007576529-facebook",
+            "nickname": "Anton",
+            "booksCount": 1
+        }
+    },
     "zF4bJxWLp1": {
         "id": "zF4bJxWLp1",
         "title": "Снеговик",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 11
-        }
-    },
-    "U8mFvxozSp": {
-        "id": "U8mFvxozSp",
-        "title": "Жизнь на полной мощности.",
-        "author": "Джим Лоэр",
-        "notes": "",
-        "createdAt": "2018-02-27 03:51:00",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 297
         }
     }
 }
