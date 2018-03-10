@@ -1,4 +1,10 @@
 {
+    "87706780-yandex": {
+        "id": "87706780-yandex",
+        "nickname": "KAINDING",
+        "booksCount": 0,
+        "updatedAt": "2018-03-10 13:44:02"
+    },
     "30697784-vkontakte": {
         "id": "30697784-vkontakte",
         "nickname": "krada88",
@@ -172,11 +178,5 @@
         "nickname": "Janet",
         "booksCount": 612,
         "updatedAt": "2018-03-01 22:39:34"
-    },
-    "127737894-vkontakte": {
-        "id": "127737894-vkontakte",
-        "nickname": "topskiykeril",
-        "booksCount": 1,
-        "updatedAt": "2018-03-01 21:08:30"
     }
 }
