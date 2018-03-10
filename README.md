@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>10</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mashulkz1](users/133/133856640-vkontakte)<sup>0</sup> 
 [mn.space](users/428/428684364-yandex)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>612</sup> 
-[topskiykeril](users/127/127737894-vkontakte)<sup>1</sup> 
 
 
-_09.03.2018 12:08:24_
+_10.03.2018 13:44:06_
