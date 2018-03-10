@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Anton](users/100/1007576529-facebook)<sup>1</sup> 
+[Anton](users/100/1007576529-facebook)<sup>2</sup> 
 [KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>10</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mn.space](users/428/428684364-yandex)<sup>0</sup> 
 
 
-_10.03.2018 15:36:05_
+_10.03.2018 15:36:34_

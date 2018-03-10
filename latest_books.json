@@ -1,4 +1,16 @@
 {
+    "oqCPOULzVG": {
+        "id": "oqCPOULzVG",
+        "title": "Jim Bernheimer",
+        "author": "Bungle in the Jungle: Harry Potter's Adventure",
+        "notes": "",
+        "createdAt": "2018-03-10 15:36:34",
+        "user": {
+            "id": "1007576529-facebook",
+            "nickname": "Anton",
+            "booksCount": 2
+        }
+    },
     "3uBDvwbHT3": {
         "id": "3uBDvwbHT3",
         "title": "The Lie I've Lived",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 9
-        }
-    },
-    "b8u_2mDdDo": {
-        "id": "b8u_2mDdDo",
-        "title": "Ружья, микробы и сталь",
-        "author": "Джаред Даймонд",
-        "notes": "",
-        "createdAt": "2018-02-27 12:14:18",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 11
         }
     }
 }
