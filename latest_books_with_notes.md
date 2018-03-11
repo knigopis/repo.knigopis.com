@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
 * ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
 * Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
 * Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
 * Все о Китае. Культура, религия, традиции ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>143</sup>
-* Deadline. Роман об управлении проектами ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>142</sup>
 
 
-_10.03.2018 19:18:25_
+_11.03.2018 16:57:58_

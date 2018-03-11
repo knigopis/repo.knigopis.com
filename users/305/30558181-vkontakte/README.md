@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>139</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>140</sup>
 ---
 
 ## 2018
+
+### Черновик
+Сергей Лукьяненко
+> [2018-03-09] Книга 1
+
 
 ### Скотный двор
 Джордж Оруэлл

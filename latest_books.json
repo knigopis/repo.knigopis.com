@@ -1,4 +1,16 @@
 {
+    "qOeAfZSkEl": {
+        "id": "qOeAfZSkEl",
+        "title": "Черновик",
+        "author": "Сергей Лукьяненко",
+        "notes": "Книга 1",
+        "createdAt": "2018-03-11 16:57:57",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 140
+        }
+    },
     "0a5uUUby26": {
         "id": "0a5uUUby26",
         "title": "Мрачный жнец",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 11
-        }
-    },
-    "yLcKamNRLL": {
-        "id": "yLcKamNRLL",
-        "title": "Алиса в Стране чудес",
-        "author": "Льюис Кэрролл",
-        "notes": "",
-        "createdAt": "2018-02-28 20:51:33",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 18
         }
     }
 }
