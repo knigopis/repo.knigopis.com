@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup> 
 [Anton](users/100/1007576529-facebook)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [grechkokonstantin](users/573/5735455-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>139</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>112</sup> 
-[amesyatseva](users/335/3358937-vkontakte)<sup>50</sup> 
 
 
-_11.03.2018 12:33:08_
+_11.03.2018 16:30:58_

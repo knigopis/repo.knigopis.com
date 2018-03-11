@@ -1,4 +1,10 @@
 {
+    "101892939810731181399-google": {
+        "id": "101892939810731181399-google",
+        "nickname": "M.Schwan ",
+        "booksCount": 36,
+        "updatedAt": "2018-03-11 16:30:58"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "borodach",
         "booksCount": 112,
         "updatedAt": "2018-03-02 12:07:04"
-    },
-    "3358937-vkontakte": {
-        "id": "3358937-vkontakte",
-        "nickname": "amesyatseva",
-        "booksCount": 50,
-        "updatedAt": "2018-03-02 11:14:49"
     }
 }

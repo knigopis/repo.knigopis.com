@@ -1,4 +1,16 @@
 {
+    "0a5uUUby26": {
+        "id": "0a5uUUby26",
+        "title": "Мрачный жнец",
+        "author": "Т. Пратчетт",
+        "notes": "",
+        "createdAt": "2018-03-11 16:30:58",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 36
+        }
+    },
     "NiUIObsXQt": {
         "id": "NiUIObsXQt",
         "title": "Поднятая целина",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 18
-        }
-    },
-    "tyH7bI_ZzB": {
-        "id": "tyH7bI_ZzB",
-        "title": "Доставляя счастье",
-        "author": "Тони Шей",
-        "notes": "",
-        "createdAt": "2018-02-28 17:33:12",
-        "user": {
-            "id": "1060621634114499-facebook",
-            "nickname": "Рита",
-            "booksCount": 1
         }
     }
 }

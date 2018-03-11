@@ -1,7 +1,12 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>35</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>36</sup>
 ---
 
 ## 2018
+
+### Мрачный жнец
+Т. Пратчетт
+> [2018-03] 
+
 
 ### Смерть и что случается после
 Т. Пратчетт
