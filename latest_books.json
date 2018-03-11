@@ -1,4 +1,16 @@
 {
+    "QI5vZvAPgM": {
+        "id": "QI5vZvAPgM",
+        "title": "За миллиард лет до конца света",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2018-03-11 16:59:39",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 141
+        }
+    },
     "qOeAfZSkEl": {
         "id": "qOeAfZSkEl",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "127737894-vkontakte",
             "nickname": "topskiykeril",
             "booksCount": 1
-        }
-    },
-    "9JXee-K6fy": {
-        "id": "9JXee-K6fy",
-        "title": "Двери восприятия",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2018-03-01 01:05:12",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 11
         }
     }
 }
