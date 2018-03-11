@@ -1,4 +1,16 @@
 {
+    "NiUIObsXQt": {
+        "id": "NiUIObsXQt",
+        "title": "Поднятая целина",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2018-03-11 12:33:07",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 613
+        }
+    },
     "BqDRbMBqU8": {
         "id": "BqDRbMBqU8",
         "title": "Летнее утро, летняя ночь",
@@ -345,18 +357,6 @@
             "id": "1060621634114499-facebook",
             "nickname": "Рита",
             "booksCount": 1
-        }
-    },
-    "kxxVkrqp3K": {
-        "id": "kxxVkrqp3K",
-        "title": "Чернильная смерть",
-        "author": "Корнелия Функе",
-        "notes": "Книга 3",
-        "createdAt": "2018-02-27 19:07:06",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 138
         }
     }
 }

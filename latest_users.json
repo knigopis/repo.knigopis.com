@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 613,
+        "updatedAt": "2018-03-11 12:33:07"
+    },
     "126368737-vkontakte": {
         "id": "126368737-vkontakte",
         "nickname": "Макар Коренюк",
@@ -172,11 +178,5 @@
         "nickname": "amesyatseva",
         "booksCount": 50,
         "updatedAt": "2018-03-02 11:14:49"
-    },
-    "133856640-vkontakte": {
-        "id": "133856640-vkontakte",
-        "nickname": "mashulkz1",
-        "booksCount": 0,
-        "updatedAt": "2018-03-02 11:04:14"
     }
 }
