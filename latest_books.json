@@ -1,4 +1,16 @@
 {
+    "MBVjjsMHMr": {
+        "id": "MBVjjsMHMr",
+        "title": "О чем я говорю, когда говорю о беге",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2018-03-12 10:01:37",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 134
+        }
+    },
     "VWqsZ_17xB": {
         "id": "VWqsZ_17xB",
         "title": "Известные случаи из практики",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 139
-        }
-    },
-    "mrkGwxQIw_": {
-        "id": "mrkGwxQIw_",
-        "title": "Гарденины",
-        "author": "Александр Эртель",
-        "notes": "",
-        "createdAt": "2018-03-02 12:07:04",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 112
         }
     }
 }
