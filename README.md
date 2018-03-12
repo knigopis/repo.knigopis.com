@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
 [](users/109/109631074460726923652-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
 [kravmasha](users/467/46740403-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>12</sup> 
-[goldim](users/117/117213828076107473853-google)<sup>0</sup> 
 
 
-_12.03.2018 17:52:55_
+_12.03.2018 22:36:09_
