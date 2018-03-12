@@ -1,4 +1,10 @@
 {
+    "109631074460726923652-google": {
+        "id": "109631074460726923652-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-03-12 05:10:08"
+    },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",
         "nickname": "Артур Вольнов",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 73,
         "updatedAt": "2018-03-03 17:04:06"
-    },
-    "5735455-vkontakte": {
-        "id": "5735455-vkontakte",
-        "nickname": "grechkokonstantin",
-        "booksCount": 0,
-        "updatedAt": "2018-03-03 08:59:25"
     }
 }
