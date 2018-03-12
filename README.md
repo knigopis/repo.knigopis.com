@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Madlax](users/158/158304782-vkontakte)<sup>133</sup> 
 [](users/109/109631074460726923652-google)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>141</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kravmasha](users/467/46740403-vkontakte)<sup>0</sup> 
 [youno](users/302/302928912-vkontakte)<sup>12</sup> 
 [goldim](users/117/117213828076107473853-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>73</sup> 
 
 
-_12.03.2018 05:10:10_
+_12.03.2018 10:01:10_

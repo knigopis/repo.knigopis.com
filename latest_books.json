@@ -1,4 +1,16 @@
 {
+    "VWqsZ_17xB": {
+        "id": "VWqsZ_17xB",
+        "title": "Известные случаи из практики",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2018-03-12 10:01:10",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 133
+        }
+    },
     "iNG2F10Kc3": {
         "id": "iNG2F10Kc3",
         "title": "Империя ангелов",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 112
-        }
-    },
-    "eK3_NspZWI": {
-        "id": "eK3_NspZWI",
-        "title": "Мертвые игры 6. Дыхание смерти",
-        "author": "Елена Звёздная",
-        "notes": "",
-        "createdAt": "2018-03-02 11:14:49",
-        "user": {
-            "id": "3358937-vkontakte",
-            "nickname": "amesyatseva",
-            "booksCount": 50
         }
     }
 }
