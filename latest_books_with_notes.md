@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
@@ -30,7 +31,6 @@
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 * Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
 * Библиотека душ. ~ [En](users/333/333646551-vkontakte)<sup>36</sup>
-* Крилитанский код ~ [En](users/333/333646551-vkontakte)<sup>35</sup>
 
 
-_12.03.2018 02:28:01_
+_12.03.2018 17:52:55_
