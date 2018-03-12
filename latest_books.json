@@ -1,4 +1,16 @@
 {
+    "LSLyuPRqjG": {
+        "id": "LSLyuPRqjG",
+        "title": "Заводной апельсин",
+        "author": "Энтони Бёрджесс",
+        "notes": "тихий baldiozh, нежели всякий прочий kal",
+        "createdAt": "2018-03-12 02:28:01",
+        "user": {
+            "id": "225880893-vkontakte",
+            "nickname": "Артур Вольнов",
+            "booksCount": 12
+        }
+    },
     "QI5vZvAPgM": {
         "id": "QI5vZvAPgM",
         "title": "За миллиард лет до конца света",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 612
-        }
-    },
-    "m3nqGcnojV": {
-        "id": "m3nqGcnojV",
-        "title": "Как читать книги. Руководство по чтению великих произведений",
-        "author": "Адлер Мортимер",
-        "notes": "",
-        "createdAt": "2018-03-01 21:08:30",
-        "user": {
-            "id": "127737894-vkontakte",
-            "nickname": "topskiykeril",
-            "booksCount": 1
         }
     }
 }
