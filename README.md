@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>13</sup> 
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>141</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [grechkokonstantin](users/573/5735455-vkontakte)<sup>0</sup> 
 
 
-_12.03.2018 02:33:38_
+_12.03.2018 02:33:45_
