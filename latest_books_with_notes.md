@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
@@ -30,7 +31,6 @@
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 * Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
-* Чернильное сердце ~ [EsterHani](users/305/30558181-vkontakte)<sup>134</sup>
 
 
-_13.03.2018 07:20:28_
+_13.03.2018 21:24:15_

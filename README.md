@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/1511479/
+
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
     > (Старший инспектор Гамаш 11)
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Смерть берет себе ученика (Мортимера, сокращенно - Мор), а сам (да, в Плоском мире Смерть мужского пола) отправляется рыбачить, пить и т.д. Ну а что из этого получилось.... Получилась классная книга
 
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
-    > тихий baldiozh, нежели всякий прочий kal
 
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Творцы заклинаний ~ [Garka](users/115/115753719718250012620-google)<sup>173</sup>
 
-* Родная речь. Уроки изящной словесности. ~ [Chiffi](users/105/105831994080785626680-google)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>74</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
@@ -62,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
-[kravmasha](users/467/46740403-vkontakte)<sup>0</sup> 
 
 
-_13.03.2018 07:20:28_
+_13.03.2018 21:24:15_
