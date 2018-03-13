@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
+    > (Старший инспектор Гамаш 11)
+
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
     > Смерть берет себе ученика (Мортимера, сокращенно - Мор), а сам (да, в Плоском мире Смерть мужского пола) отправляется рыбачить, пить и т.д. Ну а что из этого получилось.... Получилась классная книга
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > тихий baldiozh, нежели всякий прочий kal
 
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
-    > Книга 1
 
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Родная речь. Уроки изящной словесности. ~ [Chiffi](users/105/105831994080785626680-google)<sup>47</sup>
 
-* Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>74</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
 [kravmasha](users/467/46740403-vkontakte)<sup>0</sup> 
-[youno](users/302/302928912-vkontakte)<sup>12</sup> 
 
 
-_12.03.2018 22:36:09_
+_13.03.2018 07:20:28_

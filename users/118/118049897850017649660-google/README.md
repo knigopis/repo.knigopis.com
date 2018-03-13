@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>73</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>74</sup>
 ---
 
 ## 2018
+
+### Природа зверя
+Луиза Пенни
+> [2018-03-13] (Старший инспектор Гамаш 11)
+
 
 ### Долгий путь домой
 Луиза Пенни

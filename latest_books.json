@@ -1,4 +1,16 @@
 {
+    "dmYb96XRo8": {
+        "id": "dmYb96XRo8",
+        "title": "Природа зверя",
+        "author": "Луиза Пенни",
+        "notes": "(Старший инспектор Гамаш 11)",
+        "createdAt": "2018-03-13 07:20:28",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 74
+        }
+    },
     "CxcCv1nETT": {
         "id": "CxcCv1nETT",
         "title": "Мор, ученик Смерти",
@@ -345,18 +357,6 @@
             "id": "46740403-vkontakte",
             "nickname": "kravmasha",
             "booksCount": 1
-        }
-    },
-    "aeEz1S5-wE": {
-        "id": "aeEz1S5-wE",
-        "title": "Империя Jay Z",
-        "author": "Гринберг Зак О'Майли",
-        "notes": "",
-        "createdAt": "2018-03-04 04:09:00",
-        "user": {
-            "id": "302928912-vkontakte",
-            "nickname": "youno",
-            "booksCount": 12
         }
     }
 }

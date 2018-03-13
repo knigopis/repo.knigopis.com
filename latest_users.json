@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 74,
+        "updatedAt": "2018-03-13 07:20:28"
+    },
     "100001893435800-facebook": {
         "id": "100001893435800-facebook",
         "nickname": "Якубина",
@@ -172,11 +178,5 @@
         "nickname": "kravmasha",
         "booksCount": 0,
         "updatedAt": "2018-03-04 13:11:07"
-    },
-    "302928912-vkontakte": {
-        "id": "302928912-vkontakte",
-        "nickname": "youno",
-        "booksCount": 12,
-        "updatedAt": "2018-03-04 04:09:00"
     }
 }
