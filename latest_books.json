@@ -1,4 +1,16 @@
 {
+    "djuoDBgXqT": {
+        "id": "djuoDBgXqT",
+        "title": "Палата номер 6",
+        "author": "Антон Чехов",
+        "notes": "8/10",
+        "createdAt": "2018-03-13 22:09:24",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 79
+        }
+    },
     "KW1B4xq5wn": {
         "id": "KW1B4xq5wn",
         "title": "Мистер Томпкинс исследует атом",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 84
-        }
-    },
-    "ctKBujW0ZV": {
-        "id": "ctKBujW0ZV",
-        "title": "Тайна огуречной грядки",
-        "author": "Сперанская Л.",
-        "notes": "",
-        "createdAt": "2018-03-04 13:10:42",
-        "user": {
-            "id": "46740403-vkontakte",
-            "nickname": "kravmasha",
-            "booksCount": 2
         }
     }
 }

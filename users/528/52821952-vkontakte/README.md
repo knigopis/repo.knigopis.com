@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>78</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>79</sup>
 ---
 
 ## 2018
+
+### Палата номер 6
+Антон Чехов
+> [2018-03-13] 8/10
+
 
 ### Кинематограф. Сборник рассказов
 Вирджиния Вулф

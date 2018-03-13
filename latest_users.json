@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 79,
+        "updatedAt": "2018-03-13 22:09:24"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -148,12 +154,6 @@
         "nickname": "Chiffi",
         "booksCount": 47,
         "updatedAt": "2018-03-05 17:53:01"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 78,
-        "updatedAt": "2018-03-05 14:59:57"
     },
     "118330474331574680123-google": {
         "id": "118330474331574680123-google",

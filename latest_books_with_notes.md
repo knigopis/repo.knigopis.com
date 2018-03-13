@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
@@ -30,7 +31,6 @@
 * Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
 * Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
-* Чернильная кровь ~ [EsterHani](users/305/30558181-vkontakte)<sup>135</sup>
 
 
-_13.03.2018 21:24:15_
+_13.03.2018 22:09:24_
