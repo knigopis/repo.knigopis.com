@@ -1,4 +1,16 @@
 {
+    "DxwjN3-IhT": {
+        "id": "DxwjN3-IhT",
+        "title": "Думай и богатей.",
+        "author": "Наполеон Хилл",
+        "notes": "",
+        "createdAt": "2018-03-15 12:31:04",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 38
+        }
+    },
     "-oftOWeVkg": {
         "id": "-oftOWeVkg",
         "title": "День шакала",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 78
-        }
-    },
-    "abF_vjQiYz": {
-        "id": "abF_vjQiYz",
-        "title": "Выйди из зоны комфорта",
-        "author": "Брайан Трейси",
-        "notes": "",
-        "createdAt": "2018-03-05 07:08:52",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 27
         }
     }
 }

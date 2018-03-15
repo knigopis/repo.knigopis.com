@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>27</sup> 
-[Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 
 
-_15.03.2018 09:00:29_
+_15.03.2018 12:31:04_

@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>37</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>38</sup>
 ---
 
 ## 2018
+
+### Думай и богатей.
+Наполеон Хилл
+> [2018-03-15] 
+
 
 ### Богатый папа, бедный папа
 Роберт Кийосаки
