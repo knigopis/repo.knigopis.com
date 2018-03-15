@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 113,
+        "updatedAt": "2018-03-15 09:00:29"
+    },
     "10848515355906827860-mailru": {
         "id": "10848515355906827860-mailru",
         "nickname": "Оля-перекати-поле",
@@ -172,11 +178,5 @@
         "nickname": "Ангелина",
         "booksCount": 55,
         "updatedAt": "2018-03-04 20:34:06"
-    },
-    "428977817298550-facebook": {
-        "id": "428977817298550-facebook",
-        "nickname": "shirafune ",
-        "booksCount": 0,
-        "updatedAt": "2018-03-04 19:19:37"
     }
 }
