@@ -1,4 +1,10 @@
 {
+    "10848515355906827860-mailru": {
+        "id": "10848515355906827860-mailru",
+        "nickname": "Оля-перекати-поле",
+        "booksCount": 227,
+        "updatedAt": "2018-03-15 01:23:17"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "shirafune ",
         "booksCount": 0,
         "updatedAt": "2018-03-04 19:19:37"
-    },
-    "48568611-vkontakte": {
-        "id": "48568611-vkontakte",
-        "nickname": "Sofie",
-        "booksCount": 84,
-        "updatedAt": "2018-03-04 14:55:03"
     }
 }

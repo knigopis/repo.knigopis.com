@@ -1,4 +1,16 @@
 {
+    "W_nC52Iast": {
+        "id": "W_nC52Iast",
+        "title": "Моя семья и другие звери",
+        "author": "Джеральд Даррелл",
+        "notes": "",
+        "createdAt": "2018-03-15 01:23:17",
+        "user": {
+            "id": "10848515355906827860-mailru",
+            "nickname": "Оля-перекати-поле",
+            "booksCount": 227
+        }
+    },
     "djuoDBgXqT": {
         "id": "djuoDBgXqT",
         "title": "Палата номер 6",
@@ -345,18 +357,6 @@
             "id": "83788782-vkontakte",
             "nickname": "Ангелина",
             "booksCount": 55
-        }
-    },
-    "6UT8ZfW5pp": {
-        "id": "6UT8ZfW5pp",
-        "title": "Три товарища",
-        "author": "Э.М. Ремарк",
-        "notes": "",
-        "createdAt": "2018-03-04 14:55:03",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 84
         }
     }
 }

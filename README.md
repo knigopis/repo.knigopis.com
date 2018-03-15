@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>74</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [beiner](users/118/118330474331574680123-google)<sup>27</sup> 
 [Ангелина](users/837/83788782-vkontakte)<sup>55</sup> 
 [shirafune ](users/428/428977817298550-facebook)<sup>0</sup> 
-[Sofie](users/485/48568611-vkontakte)<sup>84</sup> 
 
 
-_13.03.2018 22:09:24_
+_15.03.2018 01:23:17_
