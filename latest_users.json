@@ -1,4 +1,10 @@
 {
+    "345951370-vkontakte": {
+        "id": "345951370-vkontakte",
+        "nickname": "akameron2016",
+        "booksCount": 0,
+        "updatedAt": "2018-03-16 15:12:53"
+    },
     "102151122232777176279-google": {
         "id": "102151122232777176279-google",
         "nickname": "FaithKolesnik",
@@ -172,11 +178,5 @@
         "nickname": "Лара",
         "booksCount": 0,
         "updatedAt": "2018-03-05 18:23:40"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 47,
-        "updatedAt": "2018-03-05 17:53:01"
     }
 }
