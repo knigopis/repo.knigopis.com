@@ -1,4 +1,10 @@
 {
+    "102151122232777176279-google": {
+        "id": "102151122232777176279-google",
+        "nickname": "FaithKolesnik",
+        "booksCount": 0,
+        "updatedAt": "2018-03-16 13:06:06"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 47,
         "updatedAt": "2018-03-05 17:53:01"
-    },
-    "118330474331574680123-google": {
-        "id": "118330474331574680123-google",
-        "nickname": "beiner",
-        "booksCount": 27,
-        "updatedAt": "2018-03-05 07:08:52"
     }
 }
