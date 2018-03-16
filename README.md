@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 [Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>47</sup> 
-[beiner](users/118/118330474331574680123-google)<sup>27</sup> 
 
 
-_15.03.2018 12:31:04_
+_16.03.2018 13:06:11_
