@@ -1,4 +1,16 @@
 {
+    "L3e9cBw2__": {
+        "id": "L3e9cBw2__",
+        "title": "Мистер Томпкинс в Стране Чудес, или Истории о \"с\", \"G\" и \"h\"",
+        "author": "Георгий Гамов",
+        "notes": "Продолжение замечательной серии с предельно наглядным описанием довольно сложных эффектов квантовой физики :)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/1511127/",
+        "createdAt": "2018-03-17 21:06:00",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 147
+        }
+    },
     "HvVixDS2Pp": {
         "id": "HvVixDS2Pp",
         "title": "Дама с собачкой",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 12
-        }
-    },
-    "crQ1SeawRw": {
-        "id": "crQ1SeawRw",
-        "title": "Противостояние",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-03-07 21:13:24",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 127
         }
     }
 }

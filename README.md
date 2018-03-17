@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
+    > Продолжение замечательной серии с предельно наглядным описанием довольно сложных эффектов квантовой физики :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/1511127/
+
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
     > 7/10
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > 9,5/10
 
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
-    > некоторые советы стоит попробовать применить на практике
 
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
 
-* Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
@@ -42,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 
 
-_17.03.2018 20:49:31_
+_17.03.2018 21:06:00_

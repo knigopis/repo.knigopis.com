@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 147,
+        "updatedAt": "2018-03-17 21:06:00"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -52,12 +58,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 227,
         "updatedAt": "2018-03-15 01:23:17"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 146,
-        "updatedAt": "2018-03-13 21:24:15"
     },
     "100001893435800-facebook": {
         "id": "100001893435800-facebook",
