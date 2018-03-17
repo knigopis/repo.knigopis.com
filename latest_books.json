@@ -1,4 +1,16 @@
 {
+    "BNnkNVuR49": {
+        "id": "BNnkNVuR49",
+        "title": "Кентервильское приведеие",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-03-17 12:18:10",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 12
+        }
+    },
     "TTqg_jKYm-": {
         "id": "TTqg_jKYm-",
         "title": "Нетопырь",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 39
-        }
-    },
-    "rrzLQUVh05": {
-        "id": "rrzLQUVh05",
-        "title": "Мистерии убийства",
-        "author": "Нил Гейман",
-        "notes": "Такую библию я бы читала",
-        "createdAt": "2018-03-06 15:17:02",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 38
         }
     }
 }
