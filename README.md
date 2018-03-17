@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
+    > некоторые советы стоит попробовать применить на практике
+
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
     > 8/10
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/1511479/
 
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
-    > (Старший инспектор Гамаш 11)
 
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
 
-* Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>38</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
 [FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>40</sup> 
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
-[Лара](users/185/185413133-vkontakte)<sup>0</sup> 
 
 
-_16.03.2018 17:48:33_
+_17.03.2018 06:24:36_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
@@ -30,7 +31,6 @@
 * Богатый папа, бедный папа ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>144</sup>
 * Гормоны счастья ~ [joan789](users/240/2401650-vkontakte)<sup>63</sup>
 * Сага о Рейневане: Свет вечный ~ [EsterHani](users/305/30558181-vkontakte)<sup>137</sup>
-* Сага о Рейневане: Божьи воины ~ [EsterHani](users/305/30558181-vkontakte)<sup>136</sup>
 
 
-_13.03.2018 22:09:24_
+_17.03.2018 06:24:36_
