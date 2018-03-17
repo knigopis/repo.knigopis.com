@@ -1,4 +1,16 @@
 {
+    "HvVixDS2Pp": {
+        "id": "HvVixDS2Pp",
+        "title": "Дама с собачкой",
+        "author": "Антон Чехов",
+        "notes": "7/10",
+        "createdAt": "2018-03-17 20:49:31",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 81
+        }
+    },
     "K9zzA_95al": {
         "id": "K9zzA_95al",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 144
-        }
-    },
-    "rAQtQa_tZ9": {
-        "id": "rAQtQa_tZ9",
-        "title": "Гормоны счастья",
-        "author": "Лоретта Грациано Бройнинг",
-        "notes": "Должна стать моей настольной книгой!!!",
-        "createdAt": "2018-02-21 23:01:36",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 63
         }
     }
 }

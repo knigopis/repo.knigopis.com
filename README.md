@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
+    > 7/10
+
 * Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
     > 9,5/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > некоторые советы стоит попробовать применить на практике
 
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
-    > 8/10
 
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
 
-* ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>80</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>81</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 
 
-_17.03.2018 19:13:50_
+_17.03.2018 20:49:31_

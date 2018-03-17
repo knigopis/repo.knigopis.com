@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>80</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>81</sup>
 ---
 
 ## 2018
+
+### Дама с собачкой
+Антон Чехов
+> [2018-03-17] 7/10
+
 
 ### Робинзон Крузо
 Даниель Дефо
