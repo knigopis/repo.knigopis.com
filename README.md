@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[freify](users/123/12331181-vkontakte)<sup>0</sup> 
+[freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>40</sup> 
 
 
-_17.03.2018 22:16:43_
+_17.03.2018 22:17:28_

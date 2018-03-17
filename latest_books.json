@@ -1,4 +1,16 @@
 {
+    "KRKJyT7hZT": {
+        "id": "KRKJyT7hZT",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-03-17 22:17:28",
+        "user": {
+            "id": "12331181-vkontakte",
+            "nickname": "freify",
+            "booksCount": 1
+        }
+    },
     "L3e9cBw2__": {
         "id": "L3e9cBw2__",
         "title": "Мистер Томпкинс в Стране Чудес, или Истории о \"с\", \"G\" и \"h\"",
@@ -345,18 +357,6 @@
             "id": "200666735-vkontakte",
             "nickname": "mavrentik",
             "booksCount": 13
-        }
-    },
-    "JHcXZFGJNb": {
-        "id": "JHcXZFGJNb",
-        "title": "Гарри Поттер и Узник Азкабана",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-03-08 21:12:38",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 12
         }
     }
 }
