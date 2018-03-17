@@ -1,4 +1,16 @@
 {
+    "TTqg_jKYm-": {
+        "id": "TTqg_jKYm-",
+        "title": "Нетопырь",
+        "author": "Ю Несбё",
+        "notes": "",
+        "createdAt": "2018-03-17 12:17:19",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 11
+        }
+    },
     "jXmSY9FqIj": {
         "id": "jXmSY9FqIj",
         "title": "Русская кухня в изгнании",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 38
-        }
-    },
-    "P94ec2x68k": {
-        "id": "P94ec2x68k",
-        "title": "Творцы заклинаний",
-        "author": "Пратчетт, Терри",
-        "notes": "Серия \"Плоский мир\". В этой книги Пратчет знакомит читателя с ведьмами. Очень колоритные персонажи, есть над чем посмеяться",
-        "createdAt": "2018-03-05 19:42:15",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 173
         }
     }
 }

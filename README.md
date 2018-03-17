@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>11</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Anton](users/100/1007576529-facebook)<sup>2</sup> 
 [KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>10</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
 [Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 
 
-_17.03.2018 06:24:36_
+_17.03.2018 12:17:19_
