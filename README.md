@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
+    > 9,5/10
+
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
     > некоторые советы стоит попробовать применить на практике
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > 8/10
 
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/1511479/
 
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
 
-* Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>80</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
@@ -43,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>79</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sneachta](users/828/82813429-vkontakte)<sup>0</sup> 
 
 
-_17.03.2018 12:18:10_
+_17.03.2018 19:13:50_

@@ -1,4 +1,16 @@
 {
+    "K9zzA_95al": {
+        "id": "K9zzA_95al",
+        "title": "Робинзон Крузо",
+        "author": "Даниель Дефо",
+        "notes": "9,5/10",
+        "createdAt": "2018-03-17 19:13:49",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 80
+        }
+    },
     "jXmSY9FqIj": {
         "id": "jXmSY9FqIj",
         "title": "Русская кухня в изгнании",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 63
-        }
-    },
-    "lRUhp018Qh": {
-        "id": "lRUhp018Qh",
-        "title": "Сага о Рейневане: Свет вечный",
-        "author": "Анджей Сапковский",
-        "notes": "Книга 3",
-        "createdAt": "2018-02-21 13:54:45",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 137
         }
     }
 }

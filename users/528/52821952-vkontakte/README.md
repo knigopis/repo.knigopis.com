@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>79</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>80</sup>
 ---
 
 ## 2018
+
+### Робинзон Крузо
+Даниель Дефо
+> [2018-03-17] 9,5/10
+
 
 ### Палата номер 6
 Антон Чехов

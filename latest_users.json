@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 80,
+        "updatedAt": "2018-03-17 19:13:49"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -46,12 +52,6 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 227,
         "updatedAt": "2018-03-15 01:23:17"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 79,
-        "updatedAt": "2018-03-13 22:09:24"
     },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
