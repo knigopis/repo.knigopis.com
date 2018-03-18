@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>39</sup> 
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>142</sup> 
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
 
 
-_18.03.2018 16:24:07_
+_18.03.2018 16:25:55_
