@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
+    > Книга 1
+
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
     > Продолжение замечательной серии с предельно наглядным описанием довольно сложных эффектов квантовой физики :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > 7/10
 
 * Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
-    > 9,5/10
 
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
 
-* Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>142</sup> 
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
 [](users/109/109631074460726923652-google)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>141</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
 
 
-_18.03.2018 06:09:26_
+_18.03.2018 09:12:20_

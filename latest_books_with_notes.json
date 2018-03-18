@@ -1,4 +1,16 @@
 {
+    "20ZIl3Eruh": {
+        "id": "20ZIl3Eruh",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "Книга 1",
+        "createdAt": "2018-03-18 09:12:20",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 142
+        }
+    },
     "L3e9cBw2__": {
         "id": "L3e9cBw2__",
         "title": "Мистер Томпкинс в Стране Чудес, или Истории о \"с\", \"G\" и \"h\"",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 172
-        }
-    },
-    "zgJoHX_ECz": {
-        "id": "zgJoHX_ECz",
-        "title": "Время - деньги",
-        "author": "Эд Салливан",
-        "notes": "в процессе",
-        "createdAt": "2018-02-22 20:52:33",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 145
         }
     }
 }

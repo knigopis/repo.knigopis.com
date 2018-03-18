@@ -1,4 +1,16 @@
 {
+    "20ZIl3Eruh": {
+        "id": "20ZIl3Eruh",
+        "title": "Метро 2033",
+        "author": "Дмитрий Глуховский",
+        "notes": "Книга 1",
+        "createdAt": "2018-03-18 09:12:20",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 142
+        }
+    },
     "KRKJyT7hZT": {
         "id": "KRKJyT7hZT",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 43
-        }
-    },
-    "r_qmzM9kkH": {
-        "id": "r_qmzM9kkH",
-        "title": "Гарри Поттер и Кубок огня",
-        "author": "Джоан Роулинг",
-        "notes": "",
-        "createdAt": "2018-03-08 21:13:16",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 13
         }
     }
 }
