@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dima@selezov.net](users/113/1130000009709112-yandex)<sup>0</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>127</sup> 
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>40</sup> 
 
 
-_17.03.2018 22:17:28_
+_18.03.2018 06:09:26_
