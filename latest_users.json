@@ -1,4 +1,10 @@
 {
+    "107467173588295592941-google": {
+        "id": "107467173588295592941-google",
+        "nickname": "masha",
+        "booksCount": 0,
+        "updatedAt": "2018-03-18 20:55:17"
+    },
     "465081474-vkontakte": {
         "id": "465081474-vkontakte",
         "nickname": "Игорь",
@@ -172,11 +178,5 @@
         "nickname": "Warley",
         "booksCount": 0,
         "updatedAt": "2018-03-08 17:27:11"
-    },
-    "1130000009709112-yandex": {
-        "id": "1130000009709112-yandex",
-        "nickname": "dima@selezov.net",
-        "booksCount": 0,
-        "updatedAt": "2018-03-08 13:33:01"
     }
 }
