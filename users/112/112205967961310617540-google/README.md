@@ -60,7 +60,7 @@
 > ISBN: 978-5-91657-242-1
 
 
-### Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+### Eat That Frog!
 Brian Tracy
 > [2017-10-10] 10/10
 > ISBN-13: 978-1583762028
