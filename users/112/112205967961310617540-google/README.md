@@ -1,4 +1,4 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>39</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>38</sup>
 ---
 
 ## 2018
@@ -35,12 +35,6 @@
 Дмитрий Портнягин
 > [2017-12-30] 9/10
 > ISBN: 978-5-04-089785-8
-
-
-### Визуализация идей: набросок, эскиз, раскадровка
-Крисциан Грегор, Шлемп-Улкер Несрин
-> [2017-11-14] 8/10
-> ISBN 3-87439-662-2
 
 
 ### Преодолеваем пищевые соблазны
