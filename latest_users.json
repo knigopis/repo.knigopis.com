@@ -1,4 +1,10 @@
 {
+    "1804703-vkontakte": {
+        "id": "1804703-vkontakte",
+        "nickname": "pinglost",
+        "booksCount": 0,
+        "updatedAt": "2018-03-18 18:30:07"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 127,
         "updatedAt": "2018-03-07 21:13:24"
-    },
-    "104005442419570961210-google": {
-        "id": "104005442419570961210-google",
-        "nickname": "Brian Bearinmind",
-        "booksCount": 0,
-        "updatedAt": "2018-03-07 14:40:07"
     }
 }
