@@ -1,4 +1,16 @@
 {
+    "Qu5qiZq0jn": {
+        "id": "Qu5qiZq0jn",
+        "title": "Тансферсинг реальности",
+        "author": "Вадим Зеланд",
+        "notes": "",
+        "createdAt": "2018-03-18 16:35:17",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 39
+        }
+    },
     "C-Ca-mml4X": {
         "id": "C-Ca-mml4X",
         "title": "Сила подсознания",
@@ -345,18 +357,6 @@
             "id": "1007576529-facebook",
             "nickname": "Anton",
             "booksCount": 1
-        }
-    },
-    "zF4bJxWLp1": {
-        "id": "zF4bJxWLp1",
-        "title": "Снеговик",
-        "author": "Ю Несбё",
-        "notes": "",
-        "createdAt": "2018-03-09 09:03:45",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 10
         }
     }
 }

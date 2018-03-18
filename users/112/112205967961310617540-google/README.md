@@ -1,7 +1,12 @@
-# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>38</sup>
+# List of books read by [sergeybolobaev](www.facebook.com/sergeybolobaev)<sup>39</sup>
 ---
 
 ## 2018
+
+### Тансферсинг реальности
+Вадим Зеланд
+> [2018-07-01] 
+
 
 ### Думай и богатей
 Наполеон Хилл
