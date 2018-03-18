@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
 [pinglost](users/180/1804703-vkontakte)<sup>0</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>39</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>142</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
 [Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
 [dima@selezov.net](users/113/1130000009709112-yandex)<sup>0</sup> 
-[Mad Wolf](users/947/94738840-vkontakte)<sup>127</sup> 
 
 
-_18.03.2018 18:30:10_
+_18.03.2018 20:00:11_
