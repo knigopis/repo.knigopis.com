@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sergeybolobaev](users/112/112205967961310617540-google)<sup>39</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>142</sup> 
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
 [FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
-[sergeybolobaev](users/112/112205967961310617540-google)<sup>38</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Brian Bearinmind](users/104/104005442419570961210-google)<sup>0</sup> 
 
 
-_18.03.2018 09:12:20_
+_18.03.2018 16:24:07_

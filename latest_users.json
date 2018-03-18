@@ -1,4 +1,10 @@
 {
+    "112205967961310617540-google": {
+        "id": "112205967961310617540-google",
+        "nickname": "sergeybolobaev",
+        "booksCount": 39,
+        "updatedAt": "2018-03-18 16:24:07"
+    },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
         "nickname": "EsterHani",
@@ -58,12 +64,6 @@
         "nickname": "FaithKolesnik",
         "booksCount": 0,
         "updatedAt": "2018-03-16 13:06:06"
-    },
-    "112205967961310617540-google": {
-        "id": "112205967961310617540-google",
-        "nickname": "sergeybolobaev",
-        "booksCount": 38,
-        "updatedAt": "2018-03-15 12:31:04"
     },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
