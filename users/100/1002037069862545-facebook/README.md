@@ -1,4 +1,4 @@
-# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>30</sup>
+# List of books read by [Элла](https://www.facebook.com/app_scoped_user_id/1002037069862545/)<sup>31</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Одного разу
 Ірєн Роздобудько
 > [2018-02-02] 
+
+
+### Атлант расправил плечи. Часть 1
+Айн Рэнд
+> [2018-02] 
 
 
 ### Історія кладовища
