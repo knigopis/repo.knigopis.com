@@ -1,4 +1,16 @@
 {
+    "QSqDvqP-NP": {
+        "id": "QSqDvqP-NP",
+        "title": "Історія кладовища",
+        "author": "Ніл Гейман",
+        "notes": "",
+        "createdAt": "2018-03-19 09:57:54",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 30
+        }
+    },
     "q3N4CPNuA8": {
         "id": "q3N4CPNuA8",
         "title": "Таинственная история Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "126368737-vkontakte",
             "nickname": "Макар Коренюк",
             "booksCount": 1
-        }
-    },
-    "oqCPOULzVG": {
-        "id": "oqCPOULzVG",
-        "title": "Jim Bernheimer",
-        "author": "Bungle in the Jungle: Harry Potter's Adventure",
-        "notes": "",
-        "createdAt": "2018-03-10 15:36:34",
-        "user": {
-            "id": "1007576529-facebook",
-            "nickname": "Anton",
-            "booksCount": 2
         }
     }
 }
