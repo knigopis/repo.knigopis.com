@@ -1,4 +1,16 @@
 {
+    "Q6f2nQeQm5": {
+        "id": "Q6f2nQeQm5",
+        "title": "Чайка по имени Джонатан Ливингстон",
+        "author": "Ричард Бах",
+        "notes": "",
+        "createdAt": "2018-03-19 10:04:06",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 32
+        }
+    },
     "bZifDoipEY": {
         "id": "bZifDoipEY",
         "title": "Атлант расправил плечи. Часть 1",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 36
-        }
-    },
-    "NiUIObsXQt": {
-        "id": "NiUIObsXQt",
-        "title": "Поднятая целина",
-        "author": "Михаил Шолохов",
-        "notes": "",
-        "createdAt": "2018-03-11 12:33:07",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 613
         }
     }
 }
