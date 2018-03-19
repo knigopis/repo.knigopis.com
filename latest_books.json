@@ -1,4 +1,16 @@
 {
+    "q3N4CPNuA8": {
+        "id": "q3N4CPNuA8",
+        "title": "Таинственная история Билли Миллигана",
+        "author": "Дэниел Киз",
+        "notes": "",
+        "createdAt": "2018-03-19 09:57:15",
+        "user": {
+            "id": "1002037069862545-facebook",
+            "nickname": "Элла",
+            "booksCount": 29
+        }
+    },
     "Qu5qiZq0jn": {
         "id": "Qu5qiZq0jn",
         "title": "Тансферсинг реальности",
@@ -345,18 +357,6 @@
             "id": "1007576529-facebook",
             "nickname": "Anton",
             "booksCount": 2
-        }
-    },
-    "3uBDvwbHT3": {
-        "id": "3uBDvwbHT3",
-        "title": "The Lie I've Lived",
-        "author": "Jim Bernheimer",
-        "notes": "",
-        "createdAt": "2018-03-10 15:36:05",
-        "user": {
-            "id": "1007576529-facebook",
-            "nickname": "Anton",
-            "booksCount": 1
         }
     }
 }

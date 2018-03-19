@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Элла](users/100/1002037069862545-facebook)<sup>29</sup> 
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
 [pinglost](users/180/1804703-vkontakte)<sup>0</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
-[Warley](users/142/1422370341202568-facebook)<sup>0</sup> 
 
 
-_18.03.2018 20:55:19_
+_19.03.2018 09:57:15_
