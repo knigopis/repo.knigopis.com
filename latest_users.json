@@ -1,4 +1,10 @@
 {
+    "109631074460726923652-google": {
+        "id": "109631074460726923652-google",
+        "nickname": "craft",
+        "booksCount": 1,
+        "updatedAt": "2018-03-20 05:53:21"
+    },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",
         "nickname": "Элла",
@@ -118,12 +124,6 @@
         "nickname": "Madlax",
         "booksCount": 135,
         "updatedAt": "2018-03-12 10:01:51"
-    },
-    "109631074460726923652-google": {
-        "id": "109631074460726923652-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-03-12 05:10:08"
     },
     "225880893-vkontakte": {
         "id": "225880893-vkontakte",

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
@@ -30,7 +31,6 @@
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
 * Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
-* Так говорил Заратустра ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
 
 
-_18.03.2018 09:12:20_
+_20.03.2018 05:53:21_

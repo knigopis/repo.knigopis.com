@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
+    > Лёгкие, яркие, спокойные и размеренные рассказы, оставляющие после себя лёгкие оттенки настроения. Некоторые - мягкую радость и умиротворение, другие - смутные ощущения и задумчивость. Интересная манера описания, ставка не на законченность и реализм, а на неспешные размышления по мере развертывания рассказа. Лишь пара рассказов оставили меня более менее равнодушным, но в абсолютном большинстве - вызывали задумчивость и провоцировали размышления.
+
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
     > Книга 1
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/1511127/
 
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
-    > 7/10
 
 * Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 
-* Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[craft](users/109/109631074460726923652-google)<sup>1</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>174</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
-[](users/109/109631074460726923652-google)<sup>0</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
 
 
-_19.03.2018 10:04:29_
+_20.03.2018 05:53:21_
