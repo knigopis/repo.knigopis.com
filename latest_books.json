@@ -1,4 +1,16 @@
 {
+    "nkTr3-mxqC": {
+        "id": "nkTr3-mxqC",
+        "title": "Светлячок и другие рассказы",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2018-03-20 21:47:25",
+        "user": {
+            "id": "3421979735-instagram",
+            "nickname": "thesvetlana.me",
+            "booksCount": 2
+        }
+    },
     "jFgnxt5gVm": {
         "id": "jFgnxt5gVm",
         "title": "Парфюмер. История одного убийцы",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 134
-        }
-    },
-    "VWqsZ_17xB": {
-        "id": "VWqsZ_17xB",
-        "title": "Известные случаи из практики",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2018-03-12 10:01:10",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 133
         }
     }
 }
