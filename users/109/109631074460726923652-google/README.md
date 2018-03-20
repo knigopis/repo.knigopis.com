@@ -1,7 +1,12 @@
-# List of books read by craft<sup>1</sup>
+# List of books read by craft<sup>2</sup>
 ---
 
 ## 2018
+
+### Исповедь
+Жан Жак Руссо
+> Не дочитан
+
 
 ### Летнее утро, летняя ночь
 Рэй Брэдбери

@@ -1,4 +1,16 @@
 {
+    "SZBcTP3_UR": {
+        "id": "SZBcTP3_UR",
+        "title": "Исповедь",
+        "author": "Жан Жак Руссо",
+        "notes": "Не дочитан",
+        "createdAt": "2018-03-20 05:55:57",
+        "user": {
+            "id": "109631074460726923652-google",
+            "nickname": "craft",
+            "booksCount": 2
+        }
+    },
     "rjFTBu5Sgq": {
         "id": "rjFTBu5Sgq",
         "title": "Летнее утро, летняя ночь",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 12
-        }
-    },
-    "QI5vZvAPgM": {
-        "id": "QI5vZvAPgM",
-        "title": "За миллиард лет до конца света",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2018-03-11 16:59:39",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 141
         }
     }
 }

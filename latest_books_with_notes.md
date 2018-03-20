@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
 * Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
@@ -30,7 +31,6 @@
 * Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
 * Время предательства ~ [Sky](users/118/118049897850017649660-google)<sup>72</sup>
 * The Rothschilds ~ [exulted](users/100/100599204551896265722-google)<sup>53</sup>
-* Der nasse Fisch: Gereon Raths erster Fall (Die Gereon-Rath-Romane 1) ~ [exulted](users/100/100599204551896265722-google)<sup>52</sup>
 
 
-_20.03.2018 05:53:21_
+_20.03.2018 05:55:57_
