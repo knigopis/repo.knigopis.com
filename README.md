@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Maricat](users/587/58738111-vkontakte)<sup>0</sup> 
 [craft](users/109/109631074460726923652-google)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>13</sup> 
 
 
-_20.03.2018 05:55:57_
+_20.03.2018 19:38:03_
