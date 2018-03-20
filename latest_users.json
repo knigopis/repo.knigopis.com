@@ -1,9 +1,15 @@
 {
+    "3421979735-instagram": {
+        "id": "3421979735-instagram",
+        "nickname": "thesvetlana.me",
+        "booksCount": 0,
+        "updatedAt": "2018-03-20 21:45:53"
+    },
     "58738111-vkontakte": {
         "id": "58738111-vkontakte",
         "nickname": "Maricat",
-        "booksCount": 0,
-        "updatedAt": "2018-03-20 19:38:00"
+        "booksCount": 1,
+        "updatedAt": "2018-03-20 19:40:03"
     },
     "109631074460726923652-google": {
         "id": "109631074460726923652-google",
@@ -172,11 +178,5 @@
         "nickname": "krada88",
         "booksCount": 0,
         "updatedAt": "2018-03-09 12:08:20"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 43,
-        "updatedAt": "2018-03-09 07:05:12"
     }
 }

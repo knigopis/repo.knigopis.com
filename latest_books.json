@@ -1,4 +1,16 @@
 {
+    "oMpR6TjxP0": {
+        "id": "oMpR6TjxP0",
+        "title": "\"Первая охота\"",
+        "author": "Бианки",
+        "notes": "",
+        "createdAt": "2018-03-20 19:40:03",
+        "user": {
+            "id": "58738111-vkontakte",
+            "nickname": "Maricat",
+            "booksCount": 1
+        }
+    },
     "SZBcTP3_UR": {
         "id": "SZBcTP3_UR",
         "title": "Исповедь",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 13
-        }
-    },
-    "LSLyuPRqjG": {
-        "id": "LSLyuPRqjG",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "тихий baldiozh, нежели всякий прочий kal",
-        "createdAt": "2018-03-12 02:28:01",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 12
         }
     }
 }
