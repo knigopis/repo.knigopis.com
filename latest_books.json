@@ -1,4 +1,16 @@
 {
+    "jFgnxt5gVm": {
+        "id": "jFgnxt5gVm",
+        "title": "Парфюмер. История одного убийцы",
+        "author": "Патрик Зюскинд",
+        "notes": "",
+        "createdAt": "2018-03-20 21:46:49",
+        "user": {
+            "id": "3421979735-instagram",
+            "nickname": "thesvetlana.me",
+            "booksCount": 1
+        }
+    },
     "oMpR6TjxP0": {
         "id": "oMpR6TjxP0",
         "title": "\"Первая охота\"",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 133
-        }
-    },
-    "iNG2F10Kc3": {
-        "id": "iNG2F10Kc3",
-        "title": "Империя ангелов",
-        "author": "Бернар Вербер",
-        "notes": "",
-        "createdAt": "2018-03-12 02:33:38",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 13
         }
     }
 }

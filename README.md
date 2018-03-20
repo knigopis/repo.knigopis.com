@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[thesvetlana.me](users/342/3421979735-instagram)<sup>0</sup> 
+[thesvetlana.me](users/342/3421979735-instagram)<sup>1</sup> 
 [Maricat](users/587/58738111-vkontakte)<sup>1</sup> 
 [craft](users/109/109631074460726923652-google)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [krada88](users/306/30697784-vkontakte)<sup>0</sup> 
 
 
-_20.03.2018 21:45:56_
+_20.03.2018 21:46:49_
