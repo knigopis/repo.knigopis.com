@@ -1,4 +1,10 @@
 {
+    "58738111-vkontakte": {
+        "id": "58738111-vkontakte",
+        "nickname": "Maricat",
+        "booksCount": 0,
+        "updatedAt": "2018-03-20 19:38:00"
+    },
     "109631074460726923652-google": {
         "id": "109631074460726923652-google",
         "nickname": "craft",
@@ -172,11 +178,5 @@
         "nickname": "GvenVivar ",
         "booksCount": 43,
         "updatedAt": "2018-03-09 07:05:12"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 13,
-        "updatedAt": "2018-03-08 21:13:16"
     }
 }
