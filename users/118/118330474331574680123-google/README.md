@@ -1,7 +1,12 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>27</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>28</sup>
 ---
 
 ## 2018
+
+### Фиолетовая корова
+Сет Годин
+> [2018-03] 
+
 
 ### Выйди из зоны комфорта
 Брайан Трейси

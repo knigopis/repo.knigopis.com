@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[beiner](users/118/118330474331574680123-google)<sup>28</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>40</sup> 
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 [thesvetlana.me](users/342/3421979735-instagram)<sup>2</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup> 
 [Anton](users/100/1007576529-facebook)<sup>2</sup> 
-[KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 
 
-_21.03.2018 14:13:46_
+_21.03.2018 18:10:56_

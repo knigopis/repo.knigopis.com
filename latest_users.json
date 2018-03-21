@@ -1,4 +1,10 @@
 {
+    "118330474331574680123-google": {
+        "id": "118330474331574680123-google",
+        "nickname": "beiner",
+        "booksCount": 28,
+        "updatedAt": "2018-03-21 18:10:56"
+    },
     "112205967961310617540-google": {
         "id": "112205967961310617540-google",
         "nickname": "sergeybolobaev",
@@ -172,11 +178,5 @@
         "nickname": "Anton",
         "booksCount": 2,
         "updatedAt": "2018-03-10 15:36:34"
-    },
-    "87706780-yandex": {
-        "id": "87706780-yandex",
-        "nickname": "KAINDING",
-        "booksCount": 0,
-        "updatedAt": "2018-03-10 13:44:02"
     }
 }
