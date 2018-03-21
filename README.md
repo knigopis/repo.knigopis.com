@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[owlettrash](users/278/278096395-yandex)<sup>0</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>30</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>40</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>613</sup> 
-[Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup> 
 
 
-_21.03.2018 19:09:38_
+_21.03.2018 21:27:35_
