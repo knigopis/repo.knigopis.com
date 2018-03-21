@@ -1,4 +1,10 @@
 {
+    "112352352107354542773-googleplus": {
+        "id": "112352352107354542773-googleplus",
+        "nickname": "Sham",
+        "booksCount": 0,
+        "updatedAt": "2018-03-21 06:32:16"
+    },
     "3421979735-instagram": {
         "id": "3421979735-instagram",
         "nickname": "thesvetlana.me",
@@ -172,11 +178,5 @@
         "nickname": "KAINDING",
         "booksCount": 0,
         "updatedAt": "2018-03-10 13:44:02"
-    },
-    "30697784-vkontakte": {
-        "id": "30697784-vkontakte",
-        "nickname": "krada88",
-        "booksCount": 0,
-        "updatedAt": "2018-03-09 12:08:20"
     }
 }
