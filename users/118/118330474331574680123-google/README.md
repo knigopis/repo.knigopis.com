@@ -1,4 +1,4 @@
-# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>28</sup>
+# List of books read by [beiner](https://plus.google.com/118330474331574680123)<sup>29</sup>
 ---
 
 ## 2018
@@ -6,6 +6,11 @@
 ### Фиолетовая корова
 Сет Годин
 > [2018-03] 
+
+
+### Как я изучаю языки
+Като Ломб
+> [2018-02-01] 
 
 
 ### Выйди из зоны комфорта

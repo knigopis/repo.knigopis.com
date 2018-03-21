@@ -1,4 +1,16 @@
 {
+    "ZMNa9EiHLB": {
+        "id": "ZMNa9EiHLB",
+        "title": "Как я изучаю языки",
+        "author": "Като Ломб",
+        "notes": "",
+        "createdAt": "2018-03-21 18:12:50",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 29
+        }
+    },
     "LWh_Z4FrEr": {
         "id": "LWh_Z4FrEr",
         "title": "Фиолетовая корова",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 146
-        }
-    },
-    "dmYb96XRo8": {
-        "id": "dmYb96XRo8",
-        "title": "Природа зверя",
-        "author": "Луиза Пенни",
-        "notes": "(Старший инспектор Гамаш 11)",
-        "createdAt": "2018-03-13 07:20:28",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 74
         }
     }
 }
