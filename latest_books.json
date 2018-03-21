@@ -1,4 +1,16 @@
 {
+    "jjAIU2JEtQ": {
+        "id": "jjAIU2JEtQ",
+        "title": "Дверь в лето",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2018-03-21 19:08:59",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 6
+        }
+    },
     "kHFz5aU_-R": {
         "id": "kHFz5aU_-R",
         "title": "Как разговаривать с кем угодно, когда угодно и где угодно",
@@ -345,18 +357,6 @@
             "id": "10848515355906827860-mailru",
             "nickname": "Оля-перекати-поле",
             "booksCount": 227
-        }
-    },
-    "djuoDBgXqT": {
-        "id": "djuoDBgXqT",
-        "title": "Палата номер 6",
-        "author": "Антон Чехов",
-        "notes": "8/10",
-        "createdAt": "2018-03-13 22:09:24",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 79
         }
     }
 }
