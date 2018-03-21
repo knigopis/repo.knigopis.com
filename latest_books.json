@@ -1,4 +1,16 @@
 {
+    "kHFz5aU_-R": {
+        "id": "kHFz5aU_-R",
+        "title": "Как разговаривать с кем угодно, когда угодно и где угодно",
+        "author": "Ларри Кинг",
+        "notes": "",
+        "createdAt": "2018-03-21 18:17:05",
+        "user": {
+            "id": "118330474331574680123-google",
+            "nickname": "beiner",
+            "booksCount": 30
+        }
+    },
     "ZMNa9EiHLB": {
         "id": "ZMNa9EiHLB",
         "title": "Как я изучаю языки",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 79
-        }
-    },
-    "KW1B4xq5wn": {
-        "id": "KW1B4xq5wn",
-        "title": "Мистер Томпкинс исследует атом",
-        "author": "Георгий Гамов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1511479/",
-        "createdAt": "2018-03-13 21:24:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 146
         }
     }
 }
