@@ -1,4 +1,16 @@
 {
+    "BAozY6aM7q": {
+        "id": "BAozY6aM7q",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-03-21 14:13:46",
+        "user": {
+            "id": "112205967961310617540-google",
+            "nickname": "sergeybolobaev",
+            "booksCount": 40
+        }
+    },
     "K7l20CVCqc": {
         "id": "K7l20CVCqc",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 174
-        }
-    },
-    "p1oGC0hsGP": {
-        "id": "p1oGC0hsGP",
-        "title": "Психология масс",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2018-03-12 10:01:51",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 135
         }
     }
 }
