@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sham](users/112/112352352107354542773-googleplus)<sup>0</sup> 
+[Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 [thesvetlana.me](users/342/3421979735-instagram)<sup>2</sup> 
 [Maricat](users/587/58738111-vkontakte)<sup>1</sup> 
 [craft](users/109/109631074460726923652-google)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [KAINDING](users/877/87706780-yandex)<sup>0</sup> 
 
 
-_21.03.2018 06:32:19_
+_21.03.2018 06:34:33_

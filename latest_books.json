@@ -1,4 +1,16 @@
 {
+    "K7l20CVCqc": {
+        "id": "K7l20CVCqc",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-03-21 06:34:33",
+        "user": {
+            "id": "112352352107354542773-googleplus",
+            "nickname": "Sham",
+            "booksCount": 1
+        }
+    },
     "nkTr3-mxqC": {
         "id": "nkTr3-mxqC",
         "title": "Светлячок и другие рассказы",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 135
-        }
-    },
-    "MBVjjsMHMr": {
-        "id": "MBVjjsMHMr",
-        "title": "О чем я говорю, когда говорю о беге",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2018-03-12 10:01:37",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 134
         }
     }
 }
