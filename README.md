@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[иузуил](users/238/238356806-vkontakte)<sup>6</sup> 
+[иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>30</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>40</sup> 
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup> 
 
 
-_21.03.2018 19:08:59_
+_21.03.2018 19:09:38_

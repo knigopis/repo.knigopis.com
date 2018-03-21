@@ -1,4 +1,16 @@
 {
+    "CL2LySSmG7": {
+        "id": "CL2LySSmG7",
+        "title": "Террор",
+        "author": "Дэн Симмонс",
+        "notes": "",
+        "createdAt": "2018-03-21 19:09:38",
+        "user": {
+            "id": "238356806-vkontakte",
+            "nickname": "иузуил",
+            "booksCount": 7
+        }
+    },
     "jjAIU2JEtQ": {
         "id": "jjAIU2JEtQ",
         "title": "Дверь в лето",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 113
-        }
-    },
-    "W_nC52Iast": {
-        "id": "W_nC52Iast",
-        "title": "Моя семья и другие звери",
-        "author": "Джеральд Даррелл",
-        "notes": "",
-        "createdAt": "2018-03-15 01:23:17",
-        "user": {
-            "id": "10848515355906827860-mailru",
-            "nickname": "Оля-перекати-поле",
-            "booksCount": 227
         }
     }
 }
