@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
+    > Очень милая и легкая маленькая книга о мальчике, который в течение своего детства наблюдал за странноватым человеком. Попутно описывается жизнь мальчика и его злоключения в этой несправедливой к детям вселенной
+
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
     > Довольно сложная научно-популярная литература по математике. Под конец не было вообще очень трудно продраться через объяснения автора, хотя и было понятно, что изложение настолько простое, насколько это возможно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Начало затянуто, но к концу все политические силы выстроили свои планы и очень интересно развернулась картинка.
 
 * Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
-    > Не дочитан
 
 * Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
 
-* Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Saamy](users/115/115226508-vkontakte)<sup>40</sup> 
+[Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
 [En](users/333/333646551-vkontakte)<sup>41</sup> 
 [owlettrash](users/278/278096395-yandex)<sup>1</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 
 
-_22.03.2018 18:53:37_
+_22.03.2018 18:57:16_

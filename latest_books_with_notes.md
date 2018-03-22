@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
 * Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
@@ -30,7 +31,6 @@
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 * Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 * Чарли и шоколадная фабрика ~ [Garka](users/115/115753719718250012620-google)<sup>172</sup>
-* Window on a Burning Man ~ [exulted](users/100/100599204551896265722-google)<sup>54</sup>
 
 
-_22.03.2018 18:53:37_
+_22.03.2018 18:57:16_
