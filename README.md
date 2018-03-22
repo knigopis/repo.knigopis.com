@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
+    > Начало затянуто, но к концу все политические силы выстроили свои планы и очень интересно развернулась картинка.
+
 * Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
     > Не дочитан
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Лёгкие, яркие, спокойные и размеренные рассказы, оставляющие после себя лёгкие оттенки настроения. Некоторые - мягкую радость и умиротворение, другие - смутные ощущения и задумчивость. Интересная манера описания, ставка не на законченность и реализм, а на неспешные размышления по мере развертывания рассказа. Лишь пара рассказов оставили меня более менее равнодушным, но в абсолютном большинстве - вызывали задумчивость и провоцировали размышления.
 
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
-    > Книга 1
 
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 
-* Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>41</sup> 
 [owlettrash](users/278/278096395-yandex)<sup>1</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>30</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>36</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>613</sup> 
 
 
-_21.03.2018 21:44:15_
+_22.03.2018 04:11:21_

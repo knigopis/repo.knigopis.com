@@ -1,4 +1,16 @@
 {
+    "NR3xHWYj_y": {
+        "id": "NR3xHWYj_y",
+        "title": "Жажда власти",
+        "author": "Тармашев С.С.",
+        "notes": "Начало затянуто, но к концу все политические силы выстроили свои планы и очень интересно развернулась картинка.",
+        "createdAt": "2018-03-22 04:11:21",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 41
+        }
+    },
     "HgLnfgL7aV": {
         "id": "HgLnfgL7aV",
         "title": "В сердце тьмы",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 75
-        }
-    },
-    "DxwjN3-IhT": {
-        "id": "DxwjN3-IhT",
-        "title": "Думай и богатей.",
-        "author": "Наполеон Хилл",
-        "notes": "",
-        "createdAt": "2018-03-15 12:31:04",
-        "user": {
-            "id": "112205967961310617540-google",
-            "nickname": "sergeybolobaev",
-            "booksCount": 38
         }
     }
 }
