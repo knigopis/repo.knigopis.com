@@ -1,4 +1,16 @@
 {
+    "S8NZ9-dXWr": {
+        "id": "S8NZ9-dXWr",
+        "title": "Шантарам",
+        "author": "Грегори Дэвид Робертс",
+        "notes": "",
+        "createdAt": "2018-03-23 20:48:54",
+        "user": {
+            "id": "102746239851115121741-google",
+            "nickname": "raikiya",
+            "booksCount": 1
+        }
+    },
     "U_MN33tDoo": {
         "id": "U_MN33tDoo",
         "title": "Рассказы судмедэксперта",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 80
-        }
-    },
-    "BNnkNVuR49": {
-        "id": "BNnkNVuR49",
-        "title": "Кентервильское приведеие",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-03-17 12:18:10",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 12
         }
     }
 }
