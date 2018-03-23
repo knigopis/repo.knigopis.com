@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[raikiya](users/102/102746239851115121741-google)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>175</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
 [En](users/333/333646551-vkontakte)<sup>41</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
 [Якубина](users/100/100001893435800-facebook)<sup>0</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup> 
 
 
-_23.03.2018 18:57:49_
+_23.03.2018 20:47:16_
