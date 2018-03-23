@@ -1,4 +1,10 @@
 {
+    "102746239851115121741-google": {
+        "id": "102746239851115121741-google",
+        "nickname": "raikiya",
+        "booksCount": 0,
+        "updatedAt": "2018-03-23 20:47:14"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "Madlax",
         "booksCount": 135,
         "updatedAt": "2018-03-12 10:01:51"
-    },
-    "225880893-vkontakte": {
-        "id": "225880893-vkontakte",
-        "nickname": "Артур Вольнов",
-        "booksCount": 12,
-        "updatedAt": "2018-03-12 02:33:45"
     }
 }
