@@ -1,4 +1,16 @@
 {
+    "M1VbWvvKNz": {
+        "id": "M1VbWvvKNz",
+        "title": "Гарри Поттер и узник Аскабана",
+        "author": "Дж. Роулинг",
+        "notes": "",
+        "createdAt": "2018-03-24 11:22:29",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 22
+        }
+    },
     "vMgvG24wiK": {
         "id": "vMgvG24wiK",
         "title": "С любовью, Рози",
@@ -345,18 +357,6 @@
             "id": "1002037069862545-facebook",
             "nickname": "Элла",
             "booksCount": 32
-        }
-    },
-    "bZifDoipEY": {
-        "id": "bZifDoipEY",
-        "title": "Атлант расправил плечи. Часть 1",
-        "author": "Айн Рэнд",
-        "notes": "",
-        "createdAt": "2018-03-19 09:58:37",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 31
         }
     }
 }
