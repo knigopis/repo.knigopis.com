@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>115</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>116</sup>
 ---
 
 ## 2018
+
+### Будущее одной иллюзии
+Зигмунд Фрейд
+> [2018-03-24] 
+
 
 ### Перевал Дятлова, или Тайна Девяти
 Анна Матвеева

@@ -1,4 +1,16 @@
 {
+    "MZqOc2F8ZR": {
+        "id": "MZqOc2F8ZR",
+        "title": "Будущее одной иллюзии",
+        "author": "Зигмунд Фрейд",
+        "notes": "",
+        "createdAt": "2018-03-24 08:29:41",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 116
+        }
+    },
     "UHuOmVxGpd": {
         "id": "UHuOmVxGpd",
         "title": "Колосс Марусский",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 147
-        }
-    },
-    "HvVixDS2Pp": {
-        "id": "HvVixDS2Pp",
-        "title": "Дама с собачкой",
-        "author": "Антон Чехов",
-        "notes": "7/10",
-        "createdAt": "2018-03-17 20:49:31",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 81
         }
     }
 }
