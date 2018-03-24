@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[craft](users/109/109631074460726923652-google)<sup>1</sup> 
 [raikiya](users/102/102746239851115121741-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>175</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 [thesvetlana.me](users/342/3421979735-instagram)<sup>2</sup> 
 [Maricat](users/587/58738111-vkontakte)<sup>1</sup> 
-[craft](users/109/109631074460726923652-google)<sup>2</sup> 
 [Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>135</sup> 
 
 
-_23.03.2018 20:48:54_
+_24.03.2018 04:03:31_

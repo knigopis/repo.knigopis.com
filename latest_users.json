@@ -1,4 +1,10 @@
 {
+    "109631074460726923652-google": {
+        "id": "109631074460726923652-google",
+        "nickname": "craft",
+        "booksCount": 1,
+        "updatedAt": "2018-03-24 04:03:31"
+    },
     "102746239851115121741-google": {
         "id": "102746239851115121741-google",
         "nickname": "raikiya",
@@ -64,12 +70,6 @@
         "nickname": "Maricat",
         "booksCount": 1,
         "updatedAt": "2018-03-20 19:40:03"
-    },
-    "109631074460726923652-google": {
-        "id": "109631074460726923652-google",
-        "nickname": "craft",
-        "booksCount": 2,
-        "updatedAt": "2018-03-20 05:55:57"
     },
     "1002037069862545-facebook": {
         "id": "1002037069862545-facebook",

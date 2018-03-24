@@ -1,7 +1,12 @@
-# List of books read by craft<sup>0</sup>
+# List of books read by craft<sup>1</sup>
 ---
 
 ## 2018
+
+### Колосс Марусский
+Генри Миллер
+> [2018-04-01] 
+
 
 ### Исповедь
 Жан Жак Руссо
