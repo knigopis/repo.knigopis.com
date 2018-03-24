@@ -1,4 +1,16 @@
 {
+    "pNt2Rwgc5s": {
+        "id": "pNt2Rwgc5s",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Маркес",
+        "notes": "",
+        "createdAt": "2018-03-24 11:18:31",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 16
+        }
+    },
     "L8pVaZ3UJ4": {
         "id": "L8pVaZ3UJ4",
         "title": "Гарри Поттер и кубок огня",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 142
-        }
-    },
-    "KRKJyT7hZT": {
-        "id": "KRKJyT7hZT",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-03-17 22:17:28",
-        "user": {
-            "id": "12331181-vkontakte",
-            "nickname": "freify",
-            "booksCount": 1
         }
     }
 }
