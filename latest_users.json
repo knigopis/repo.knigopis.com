@@ -1,4 +1,10 @@
 {
+    "200601396-vkontakte": {
+        "id": "200601396-vkontakte",
+        "nickname": "Милашечка",
+        "booksCount": 15,
+        "updatedAt": "2018-03-24 11:17:12"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Оля-перекати-поле",
         "booksCount": 227,
         "updatedAt": "2018-03-15 01:23:17"
-    },
-    "100001893435800-facebook": {
-        "id": "100001893435800-facebook",
-        "nickname": "Якубина",
-        "booksCount": 0,
-        "updatedAt": "2018-03-12 22:36:06"
     }
 }
