@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Aleksej](users/100/100002659210723-facebook)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>143</sup> 
 [SuperLion](users/107/107736809531847537707-google)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
-[FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
 
 
-_25.03.2018 20:00:15_
+_25.03.2018 21:40:03_
