@@ -1,4 +1,10 @@
 {
+    "107736809531847537707-google": {
+        "id": "107736809531847537707-google",
+        "nickname": "SuperLion",
+        "booksCount": 0,
+        "updatedAt": "2018-03-25 18:04:32"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -172,11 +178,5 @@
         "nickname": "FaithKolesnik",
         "booksCount": 0,
         "updatedAt": "2018-03-16 13:06:06"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 113,
-        "updatedAt": "2018-03-15 09:00:29"
     }
 }
