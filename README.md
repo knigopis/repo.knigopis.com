@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
+    > Книга 2
+
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
     > Ломачинский как всегда пишет интересно, но людям впечатлительным не советую, несколько историй очень жестких присутствует. Жестких не с точки зрения медицинских подробностей (хотя и это есть), а с точки зрения человеческого идиотизма.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Очень милая и легкая маленькая книга о мальчике, который в течение своего детства наблюдал за странноватым человеком. Попутно описывается жизнь мальчика и его злоключения в этой несправедливой к детям вселенной
 
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
-    > Довольно сложная научно-популярная литература по математике. Под конец не было вообще очень трудно продраться через объяснения автора, хотя и было понятно, что изложение настолько простое, насколько это возможно.
 
 * Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
 
-* Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>143</sup> 
 [SuperLion](users/107/107736809531847537707-google)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
 [pinglost](users/180/1804703-vkontakte)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>142</sup> 
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
 
 
-_25.03.2018 18:04:35_
+_25.03.2018 20:00:15_

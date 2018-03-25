@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
 * Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
@@ -30,7 +31,6 @@
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 * Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
-* Ветер в ивах ~ [rNix](users/115/115622071-twitter)<sup>61</sup>
 
 
-_23.03.2018 18:57:49_
+_25.03.2018 20:00:15_
