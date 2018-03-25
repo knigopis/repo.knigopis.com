@@ -1,4 +1,16 @@
 {
+    "oddbFGyfXl": {
+        "id": "oddbFGyfXl",
+        "title": "Сказка о мёртвой царевне",
+        "author": "А.С. Пушкин",
+        "notes": "",
+        "createdAt": "2018-03-25 21:41:14",
+        "user": {
+            "id": "100002659210723-facebook",
+            "nickname": "Aleksej",
+            "booksCount": 1
+        }
+    },
     "Ez8An7EkqS": {
         "id": "Ez8An7EkqS",
         "title": "Метро 2034",
@@ -345,18 +357,6 @@
             "id": "58738111-vkontakte",
             "nickname": "Maricat",
             "booksCount": 1
-        }
-    },
-    "SZBcTP3_UR": {
-        "id": "SZBcTP3_UR",
-        "title": "Исповедь",
-        "author": "Жан Жак Руссо",
-        "notes": "Не дочитан",
-        "createdAt": "2018-03-20 05:55:57",
-        "user": {
-            "id": "109631074460726923652-google",
-            "nickname": "craft",
-            "booksCount": 2
         }
     }
 }
