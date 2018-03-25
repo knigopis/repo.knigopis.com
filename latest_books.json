@@ -1,4 +1,16 @@
 {
+    "SEzBXbgl2v": {
+        "id": "SEzBXbgl2v",
+        "title": "Scrum. Революционный метод управления проектами",
+        "author": "Джефф Сазерленд",
+        "notes": "",
+        "createdAt": "2018-03-25 12:59:41",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 59
+        }
+    },
     "aVfVNr-Qhj": {
         "id": "aVfVNr-Qhj",
         "title": "Первая ступень",
@@ -345,18 +357,6 @@
             "id": "109631074460726923652-google",
             "nickname": "craft",
             "booksCount": 1
-        }
-    },
-    "X-_t8wNqO8": {
-        "id": "X-_t8wNqO8",
-        "title": "Дороже самой жизни",
-        "author": "Элис Монро",
-        "notes": "",
-        "createdAt": "2018-03-19 10:04:29",
-        "user": {
-            "id": "1002037069862545-facebook",
-            "nickname": "Элла",
-            "booksCount": 33
         }
     }
 }

@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>22</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>116</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
 [FaithKolesnik](users/102/102151122232777176279-google)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>113</sup> 
-[Оля-перекати-поле](users/108/10848515355906827860-mailru)<sup>227</sup> 
 
 
-_24.03.2018 20:21:00_
+_25.03.2018 12:59:41_
