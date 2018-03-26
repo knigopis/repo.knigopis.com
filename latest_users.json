@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 82,
+        "updatedAt": "2018-03-26 14:28:54"
+    },
     "160781443-vkontakte": {
         "id": "160781443-vkontakte",
         "nickname": "twin_peaks_cooper",
@@ -154,12 +160,6 @@
         "nickname": "Ник Литвинов",
         "booksCount": 147,
         "updatedAt": "2018-03-17 21:06:00"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 81,
-        "updatedAt": "2018-03-17 20:49:31"
     },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",

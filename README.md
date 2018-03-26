@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
+    > 10/10
+
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
     > Книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 2
 
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
-    > Ломачинский как всегда пишет интересно, но людям впечатлительным не советую, несколько историй очень жестких присутствует. Жестких не с точки зрения медицинских подробностей (хотя и это есть), а с точки зрения человеческого идиотизма.
 
 * Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 
-* Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>82</sup> 
 [twin_peaks_cooper](users/160/160781443-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>144</sup> 
 [Aleksej](users/100/100002659210723-facebook)<sup>1</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>81</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 
 
-_26.03.2018 12:41:57_
+_26.03.2018 14:28:54_

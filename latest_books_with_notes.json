@@ -1,4 +1,16 @@
 {
+    "Gk14RAr5xI": {
+        "id": "Gk14RAr5xI",
+        "title": "Моне. По ту сторону холста.",
+        "author": "Сильва Рубио, Рикард Эфа",
+        "notes": "10/10",
+        "createdAt": "2018-03-26 14:28:54",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 82
+        }
+    },
     "JqNgq42W1T": {
         "id": "JqNgq42W1T",
         "title": "Чистовик",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 138
-        }
-    },
-    "_nYCPJxVb1": {
-        "id": "_nYCPJxVb1",
-        "title": "Вторая жизнь Уве",
-        "author": "Фредрик Бакман",
-        "notes": "Добрая-добрая грусть.",
-        "createdAt": "2018-02-27 16:24:51",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 9
         }
     }
 }

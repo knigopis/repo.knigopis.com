@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>81</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>82</sup>
 ---
 
 ## 2018
+
+### Моне. По ту сторону холста.
+Сильва Рубио, Рикард Эфа
+> [2018-03-26] 10/10
+
 
 ### Дама с собачкой
 Антон Чехов

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 * Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
@@ -30,7 +31,6 @@
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
-* Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
 
 
-_26.03.2018 07:51:48_
+_26.03.2018 14:28:54_
