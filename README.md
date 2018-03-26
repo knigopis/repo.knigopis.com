@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Внутри торнадо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup>
+    > в процессе
+
 * Как лгать при помощи статистики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>149</sup>
     > Живая классика с раскрыванием типовых "статистических" обманов. В условиях тяжелой информационной войны с западниками и либерастами, актуальна как никогда :)
     > 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/1511478/
 
 * Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
-    > 10/10
 
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 
-* Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>149</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 [Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
 [t_killaha](users/527/52723738-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 
 
-_26.03.2018 20:38:56_
+_26.03.2018 20:55:00_

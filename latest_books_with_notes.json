@@ -1,4 +1,16 @@
 {
+    "HgXTiEYpY7": {
+        "id": "HgXTiEYpY7",
+        "title": "Внутри торнадо",
+        "author": "Джеффри А. Мур",
+        "notes": "в процессе",
+        "createdAt": "2018-03-26 20:55:00",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 150
+        }
+    },
     "J99pmhFHyL": {
         "id": "J99pmhFHyL",
         "title": "Как лгать при помощи статистики",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 78
-        }
-    },
-    "tX7QpPlQca": {
-        "id": "tX7QpPlQca",
-        "title": "Жизнь взаймы",
-        "author": "Ремарк",
-        "notes": "хорошо",
-        "createdAt": "2018-03-04 20:34:06",
-        "user": {
-            "id": "83788782-vkontakte",
-            "nickname": "Ангелина",
-            "booksCount": 55
         }
     }
 }
