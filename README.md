@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
 [t_killaha](users/527/52723738-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>76</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 [freify](users/123/12331181-vkontakte)<sup>1</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 
 
-_26.03.2018 18:31:06_
+_26.03.2018 19:53:52_
