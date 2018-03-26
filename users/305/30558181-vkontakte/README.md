@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>143</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>144</sup>
 ---
 
 ## 2018
+
+### Чистовик
+Сергей Лукьяненко
+> [2018-03-26] Книга 2
+
 
 ### Метро 2034
 Дмитрий Глуховский

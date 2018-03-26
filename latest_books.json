@@ -1,4 +1,16 @@
 {
+    "JqNgq42W1T": {
+        "id": "JqNgq42W1T",
+        "title": "Чистовик",
+        "author": "Сергей Лукьяненко",
+        "notes": "Книга 2",
+        "createdAt": "2018-03-26 07:51:48",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 144
+        }
+    },
     "oddbFGyfXl": {
         "id": "oddbFGyfXl",
         "title": "Сказка о мёртвой царевне",
@@ -344,18 +356,6 @@
         "user": {
             "id": "3421979735-instagram",
             "nickname": "thesvetlana.me",
-            "booksCount": 1
-        }
-    },
-    "oMpR6TjxP0": {
-        "id": "oMpR6TjxP0",
-        "title": "\"Первая охота\"",
-        "author": "Бианки",
-        "notes": "",
-        "createdAt": "2018-03-20 19:40:03",
-        "user": {
-            "id": "58738111-vkontakte",
-            "nickname": "Maricat",
             "booksCount": 1
         }
     }

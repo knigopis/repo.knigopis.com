@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
+    > Книга 2
+
 * Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
     > Книга 2
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Ломачинский как всегда пишет интересно, но людям впечатлительным не советую, несколько историй очень жестких присутствует. Жестких не с точки зрения медицинских подробностей (хотя и это есть), а с точки зрения человеческого идиотизма.
 
 * Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
-    > Очень милая и легкая маленькая книга о мальчике, который в течение своего детства наблюдал за странноватым человеком. Попутно описывается жизнь мальчика и его злоключения в этой несправедливой к детям вселенной
 
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
 
@@ -26,15 +28,13 @@ Do not use pull requests to make changes here.
 
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
 
-* Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>144</sup> 
 [Aleksej](users/100/100002659210723-facebook)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>143</sup> 
 [SuperLion](users/107/107736809531847537707-google)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [akameron2016](users/345/345951370-vkontakte)<sup>0</sup> 
 
 
-_25.03.2018 21:41:14_
+_26.03.2018 07:51:48_

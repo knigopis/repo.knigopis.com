@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 * Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
 * Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
 * Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
 * Вторая жизнь Уве ~ [le_brouillard](users/133/13330781-vkontakte)<sup>9</sup>
-* Гроздья гнева ~ [rNix](users/115/115622071-twitter)<sup>62</sup>
 
 
-_25.03.2018 20:00:15_
+_26.03.2018 07:51:48_
