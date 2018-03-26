@@ -1,4 +1,10 @@
 {
+    "10432558-vkontakte": {
+        "id": "10432558-vkontakte",
+        "nickname": "katirkin",
+        "booksCount": 0,
+        "updatedAt": "2018-03-26 19:55:29"
+    },
     "10203861245118662-facebook": {
         "id": "10203861245118662-facebook",
         "nickname": "Katirkin",
@@ -172,11 +178,5 @@
         "nickname": "freify",
         "booksCount": 1,
         "updatedAt": "2018-03-17 22:17:28"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 147,
-        "updatedAt": "2018-03-17 21:06:00"
     }
 }
