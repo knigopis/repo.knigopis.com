@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>75</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>76</sup>
 ---
 
 ## 2018
+
+### Кристин, дочь Лавранса. Венец
+Сигрид Унсет
+> [2018-03-26] 
+
 
 ### Мод
 Мабри Донна Фоли

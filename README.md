@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>76</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup> 
 [twin_peaks_cooper](users/160/160781443-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>144</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>12</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>48</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>75</sup> 
 
 
-_26.03.2018 14:28:54_
+_26.03.2018 17:42:52_

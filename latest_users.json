@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 76,
+        "updatedAt": "2018-03-26 17:42:52"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Chiffi",
         "booksCount": 48,
         "updatedAt": "2018-03-17 06:24:36"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 75,
-        "updatedAt": "2018-03-16 17:48:33"
     }
 }

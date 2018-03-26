@@ -1,4 +1,16 @@
 {
+    "DmVuWIkLFf": {
+        "id": "DmVuWIkLFf",
+        "title": "Кристин, дочь Лавранса. Венец",
+        "author": "Сигрид Унсет",
+        "notes": "",
+        "createdAt": "2018-03-26 17:42:52",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 76
+        }
+    },
     "Gk14RAr5xI": {
         "id": "Gk14RAr5xI",
         "title": "Моне. По ту сторону холста.",
@@ -345,18 +357,6 @@
             "id": "112352352107354542773-googleplus",
             "nickname": "Sham",
             "booksCount": 1
-        }
-    },
-    "nkTr3-mxqC": {
-        "id": "nkTr3-mxqC",
-        "title": "Светлячок и другие рассказы",
-        "author": "Харуки Мураками",
-        "notes": "",
-        "createdAt": "2018-03-20 21:47:25",
-        "user": {
-            "id": "3421979735-instagram",
-            "nickname": "thesvetlana.me",
-            "booksCount": 2
         }
     }
 }
