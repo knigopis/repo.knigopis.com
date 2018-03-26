@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мистер Томпкинс внутри самого себя. Приключения в новой биологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>148</sup>
 * Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 * Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
@@ -30,7 +31,6 @@
 * Кинематограф. Сборник рассказов ~ [Apprentice ](users/528/52821952-vkontakte)<sup>78</sup>
 * Жизнь взаймы ~ [Ангелина](users/837/83788782-vkontakte)<sup>55</sup>
 * Долгий путь домой ~ [Sky](users/118/118049897850017649660-google)<sup>73</sup>
-* Чернильная смерть ~ [EsterHani](users/305/30558181-vkontakte)<sup>138</sup>
 
 
-_26.03.2018 14:28:54_
+_26.03.2018 20:37:28_

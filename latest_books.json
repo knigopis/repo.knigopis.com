@@ -1,4 +1,16 @@
 {
+    "YbWmezwIZE": {
+        "id": "YbWmezwIZE",
+        "title": "Мистер Томпкинс внутри самого себя. Приключения в новой биологии",
+        "author": "Г. Гамов, М. Ичас",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1511478/",
+        "createdAt": "2018-03-26 20:37:28",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 148
+        }
+    },
     "DmVuWIkLFf": {
         "id": "DmVuWIkLFf",
         "title": "Кристин, дочь Лавранса. Венец",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 40
-        }
-    },
-    "K7l20CVCqc": {
-        "id": "K7l20CVCqc",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2018-03-21 06:34:33",
-        "user": {
-            "id": "112352352107354542773-googleplus",
-            "nickname": "Sham",
-            "booksCount": 1
         }
     }
 }
