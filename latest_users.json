@@ -1,4 +1,10 @@
 {
+    "10203861245118662-facebook": {
+        "id": "10203861245118662-facebook",
+        "nickname": "Katirkin",
+        "booksCount": 0,
+        "updatedAt": "2018-03-26 19:53:50"
+    },
     "52723738-vkontakte": {
         "id": "52723738-vkontakte",
         "nickname": "t_killaha",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 147,
         "updatedAt": "2018-03-17 21:06:00"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 12,
-        "updatedAt": "2018-03-17 12:18:10"
     }
 }
