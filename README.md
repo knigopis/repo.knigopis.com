@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Птицы, звери и родственники        и    Сад богов ~ [Chiffi](users/105/105831994080785626680-google)<sup>49</sup>
+    > Нет смысла писать отдельные отзывы. Жалею,  что не прочитала в детстве вместе с Моя семья и другие животные.
+
 * Внутри торнадо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup>
     > в процессе
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/32796823/
 
 * Мистер Томпкинс внутри самого себя. Приключения в новой биологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>148</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/1511478/
 
 * Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
 
-* Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>49</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 [Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
@@ -66,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
 [pinglost](users/180/1804703-vkontakte)<sup>0</sup> 
-[craft](users/109/109631074460726923652-googleplus)<sup>0</sup> 
 
 
-_26.03.2018 20:55:00_
+_27.03.2018 17:02:06_
