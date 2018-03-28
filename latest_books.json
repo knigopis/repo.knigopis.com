@@ -1,4 +1,16 @@
 {
+    "QoSYXdllyW": {
+        "id": "QoSYXdllyW",
+        "title": "Сплав Закона (Серия: Двурожденные 1/?)",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2018-03-28 08:52:24",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 43
+        }
+    },
     "M8W2jkt31-": {
         "id": "M8W2jkt31-",
         "title": "Птицы, звери и родственники        и    Сад богов",
@@ -345,18 +357,6 @@
             "id": "238356806-vkontakte",
             "nickname": "иузуил",
             "booksCount": 6
-        }
-    },
-    "kHFz5aU_-R": {
-        "id": "kHFz5aU_-R",
-        "title": "Как разговаривать с кем угодно, когда угодно и где угодно",
-        "author": "Ларри Кинг",
-        "notes": "",
-        "createdAt": "2018-03-21 18:17:05",
-        "user": {
-            "id": "118330474331574680123-google",
-            "nickname": "beiner",
-            "booksCount": 30
         }
     }
 }

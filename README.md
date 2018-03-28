@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>43</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>49</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 [Игорь](users/465/465081474-vkontakte)<sup>0</sup> 
-[pinglost](users/180/1804703-vkontakte)<sup>0</sup> 
 
 
-_27.03.2018 17:02:06_
+_28.03.2018 08:52:24_
