@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-03-28 19:20:14"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Maricat",
         "booksCount": 1,
         "updatedAt": "2018-03-20 19:40:03"
-    },
-    "1002037069862545-facebook": {
-        "id": "1002037069862545-facebook",
-        "nickname": "Элла",
-        "booksCount": 33,
-        "updatedAt": "2018-03-19 10:04:29"
     }
 }
