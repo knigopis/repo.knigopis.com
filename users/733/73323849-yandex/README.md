@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>37</sup>
+# List of books read by inna.besprozvannykh<sup>38</sup>
 ---
 
 ## 2018
+
+### Девушка с татуировкой дракона
+Стиг Ларсон
+> [2018-03] 
+
 
 ### Зов предков
 Джек Лондон

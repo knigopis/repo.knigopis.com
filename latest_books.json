@@ -1,4 +1,16 @@
 {
+    "q2pZQgUHZW": {
+        "id": "q2pZQgUHZW",
+        "title": "Девушка с татуировкой дракона",
+        "author": "Стиг Ларсон",
+        "notes": "",
+        "createdAt": "2018-03-28 11:10:26",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 38
+        }
+    },
     "Cj3Qzux03V": {
         "id": "Cj3Qzux03V",
         "title": "Тени истины (Серия: Двурожденные 2/3?)",
@@ -345,18 +357,6 @@
             "id": "278096395-yandex",
             "nickname": "owlettrash",
             "booksCount": 1
-        }
-    },
-    "CL2LySSmG7": {
-        "id": "CL2LySSmG7",
-        "title": "Террор",
-        "author": "Дэн Симмонс",
-        "notes": "",
-        "createdAt": "2018-03-21 19:09:38",
-        "user": {
-            "id": "238356806-vkontakte",
-            "nickname": "иузуил",
-            "booksCount": 7
         }
     }
 }
