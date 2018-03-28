@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>38</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 [thesvetlana.me](users/342/3421979735-instagram)<sup>2</sup> 
 [Maricat](users/587/58738111-vkontakte)<sup>1</sup> 
-[Элла](users/100/1002037069862545-facebook)<sup>33</sup> 
 
 
-_28.03.2018 19:03:41_
+_28.03.2018 19:20:14_
