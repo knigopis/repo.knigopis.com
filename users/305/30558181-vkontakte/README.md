@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>144</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>145</sup>
 ---
 
 ## 2018
+
+### Копирайтинг. Как не съесть собаку
+Дмитрий Кот
+> [2018-03-28] 
+
 
 ### Чистовик
 Сергей Лукьяненко
