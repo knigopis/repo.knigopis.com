@@ -1,4 +1,16 @@
 {
+    "Cj3Qzux03V": {
+        "id": "Cj3Qzux03V",
+        "title": "Тени истины (Серия: Двурожденные 2/3?)",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2018-03-28 08:54:39",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 44
+        }
+    },
     "QoSYXdllyW": {
         "id": "QoSYXdllyW",
         "title": "Сплав Закона (Серия: Двурожденные 1/?)",
@@ -345,18 +357,6 @@
             "id": "238356806-vkontakte",
             "nickname": "иузуил",
             "booksCount": 7
-        }
-    },
-    "jjAIU2JEtQ": {
-        "id": "jjAIU2JEtQ",
-        "title": "Дверь в лето",
-        "author": "Роберт Хайнлайн",
-        "notes": "",
-        "createdAt": "2018-03-21 19:08:59",
-        "user": {
-            "id": "238356806-vkontakte",
-            "nickname": "иузуил",
-            "booksCount": 6
         }
     }
 }

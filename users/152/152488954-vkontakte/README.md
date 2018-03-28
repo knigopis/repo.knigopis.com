@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>43</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>44</sup>
 ---
 
 ## 2018
+
+### Тени истины (Серия: Двурожденные 2/3?)
+Брендон Сандерсон
+> [2018-03-20] 
+
 
 ### Сплав Закона (Серия: Двурожденные 1/3?)
 Брендон Сандерсон
