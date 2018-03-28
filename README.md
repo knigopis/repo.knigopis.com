@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>39</sup> 
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>38</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>44</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>49</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [masha](users/107/107467173588295592941-google)<sup>0</sup> 
 
 
-_28.03.2018 11:12:52_
+_28.03.2018 11:13:04_
