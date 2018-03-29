@@ -1,7 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>18</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>19</sup>
 ---
 
 ## 2018
+
+### Вино из одуванчиков
+Рэй Брэдбери
+> [2018-03] 
+
 
 ### Алиса в Стране чудес
 Льюис Кэрролл
