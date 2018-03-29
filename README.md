@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[RolanD](users/174/17491858816989224292-mailru)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [beiner](users/118/118330474331574680123-google)<sup>30</sup> 
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 [thesvetlana.me](users/342/3421979735-instagram)<sup>2</sup> 
-[Maricat](users/587/58738111-vkontakte)<sup>1</sup> 
 
 
-_28.03.2018 19:20:14_
+_29.03.2018 09:27:07_
