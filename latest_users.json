@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 117,
+        "updatedAt": "2018-03-30 08:04:54"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -118,12 +124,6 @@
         "nickname": "Милашечка",
         "booksCount": 22,
         "updatedAt": "2018-03-24 11:22:29"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 116,
-        "updatedAt": "2018-03-24 08:29:41"
     },
     "109631074460726923652-google": {
         "id": "109631074460726923652-google",

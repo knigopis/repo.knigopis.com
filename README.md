@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>117</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>19</sup> 
 [RolanD](users/174/17491858816989224292-mailru)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>22</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>116</sup> 
 [craft](users/109/109631074460726923652-google)<sup>1</sup> 
 [raikiya](users/102/102746239851115121741-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>175</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 
 
-_29.03.2018 15:55:47_
+_30.03.2018 08:04:55_

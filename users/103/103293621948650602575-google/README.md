@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>116</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>117</sup>
 ---
 
 ## 2018
+
+### Христианство в Истории Европейской Культуры
+Сергей Сергеевич Аверинцев
+> [2018-03-30] 
+
 
 ### Будущее Одной Иллюзии
 Зигмунд Фрейд
