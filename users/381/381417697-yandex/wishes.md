@@ -44,22 +44,22 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Мертвые души
-Николай Гоголь
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
 ### `` Три товарища
 Эрих Мария Ремарк
 
+### `` Мертвые души
+Николай Гоголь
+
 ### `` Concurrency in practice
+
+### `` Лвлв
+Вгшв
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` Rx
-?
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Овод
 Этель Лилиан Войнич
@@ -76,9 +76,12 @@ Satoshi Nakamoto
 ### `` A Briefer History of Time
 Stephen Hawking
 
+### `` Щлалп
+Вооага
+
 ### `` Повелитель мух
 Уильям Голдинг
 
-### `` Щлалп
-Вооага
+### `` Rx
+?
 
