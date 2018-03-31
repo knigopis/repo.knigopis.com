@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>6</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>7</sup>
 ---
 
 ## Other years
+
+### Вино из одуванчиков
+Рэй Брэдбери
+
 
 ### Мальчик в полосатой пижаме
 Джон Бойн

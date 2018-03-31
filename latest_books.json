@@ -1,4 +1,16 @@
 {
+    "O7V76aibrX": {
+        "id": "O7V76aibrX",
+        "title": "Вино из одуванчиков",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-03-31 15:27:16",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 7
+        }
+    },
     "HfkdlykTT2": {
         "id": "HfkdlykTT2",
         "title": "Мальчик в полосатой пижаме",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 19
-        }
-    },
-    "qmJ-st4HaM": {
-        "id": "qmJ-st4HaM",
-        "title": "Маленький принц",
-        "author": "Антуан Де Сент-Экзюпери",
-        "notes": "",
-        "createdAt": "2018-03-24 11:19:57",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 18
         }
     }
 }
