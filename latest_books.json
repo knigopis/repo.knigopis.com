@@ -1,4 +1,16 @@
 {
+    "9QWME-1rFL": {
+        "id": "9QWME-1rFL",
+        "title": "Проклятие холодного озера",
+        "author": "Р.Л. Стайн",
+        "notes": "",
+        "createdAt": "2018-03-31 11:10:43",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 4
+        }
+    },
     "53WySqYSr8": {
         "id": "53WySqYSr8",
         "title": "Тысяча душ",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 16
-        }
-    },
-    "L8pVaZ3UJ4": {
-        "id": "L8pVaZ3UJ4",
-        "title": "Гарри Поттер и кубок огня",
-        "author": "Дж. Роулинг",
-        "notes": "",
-        "createdAt": "2018-03-24 11:17:12",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 15
         }
     }
 }

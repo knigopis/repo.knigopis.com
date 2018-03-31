@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>3</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>4</sup>
 ---
 
 ## Other years
+
+### Проклятие холодного озера
+Р.Л. Стайн
+
 
 ### Тысяча душ
 А.Ф. Писемский
