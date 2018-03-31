@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>4</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>5</sup>
 ---
 
 ## Other years
+
+### Двойное свидание
+Р.Л. Стайн
+
 
 ### Проклятие холодного озера
 Р.Л. Стайн

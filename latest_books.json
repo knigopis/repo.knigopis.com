@@ -1,4 +1,16 @@
 {
+    "jpaO1FSQOH": {
+        "id": "jpaO1FSQOH",
+        "title": "Двойное свидание",
+        "author": "Р.Л. Стайн",
+        "notes": "",
+        "createdAt": "2018-03-31 11:11:09",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 5
+        }
+    },
     "9QWME-1rFL": {
         "id": "9QWME-1rFL",
         "title": "Проклятие холодного озера",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 17
-        }
-    },
-    "pNt2Rwgc5s": {
-        "id": "pNt2Rwgc5s",
-        "title": "Сто лет одиночества",
-        "author": "Габриэль Маркес",
-        "notes": "",
-        "createdAt": "2018-03-24 11:18:31",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 16
         }
     }
 }
