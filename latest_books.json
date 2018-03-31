@@ -1,4 +1,16 @@
 {
+    "HfkdlykTT2": {
+        "id": "HfkdlykTT2",
+        "title": "Мальчик в полосатой пижаме",
+        "author": "Джон Бойн",
+        "notes": "",
+        "createdAt": "2018-03-31 15:25:53",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 6
+        }
+    },
     "jpaO1FSQOH": {
         "id": "jpaO1FSQOH",
         "title": "Двойное свидание",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 18
-        }
-    },
-    "TzSL6OWqO4": {
-        "id": "TzSL6OWqO4",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-03-24 11:19:25",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 17
         }
     }
 }

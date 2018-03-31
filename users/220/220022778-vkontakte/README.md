@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>5</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>6</sup>
 ---
 
 ## Other years
+
+### Мальчик в полосатой пижаме
+Джон Бойн
+
 
 ### Двойное свидание
 Р.Л. Стайн
