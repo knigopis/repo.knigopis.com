@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>2</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>3</sup>
 ---
 
 ## Other years
+
+### Тысяча душ
+А.Ф. Писемский
+
 
 ### Тёмная сторона/Лабиринты эхо(цикл)
 Макс Фрай

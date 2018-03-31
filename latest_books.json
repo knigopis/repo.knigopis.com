@@ -1,4 +1,16 @@
 {
+    "53WySqYSr8": {
+        "id": "53WySqYSr8",
+        "title": "Тысяча душ",
+        "author": "А.Ф. Писемский",
+        "notes": "",
+        "createdAt": "2018-03-31 11:09:59",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 3
+        }
+    },
     "XpiXjyvM1v": {
         "id": "XpiXjyvM1v",
         "title": "Тёмная сторона/Лабиринты эхо(цикл)",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 15
-        }
-    },
-    "MZqOc2F8ZR": {
-        "id": "MZqOc2F8ZR",
-        "title": "Будущее одной иллюзии",
-        "author": "Зигмунд Фрейд",
-        "notes": "",
-        "createdAt": "2018-03-24 08:29:41",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 116
         }
     }
 }
