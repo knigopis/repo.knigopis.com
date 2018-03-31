@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>117</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [owlettrash](users/278/278096395-yandex)<sup>1</sup> 
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 [beiner](users/118/118330474331574680123-google)<sup>30</sup> 
-[Sham](users/112/112352352107354542773-googleplus)<sup>1</sup> 
 
 
-_31.03.2018 07:47:27_
+_31.03.2018 11:06:48_
