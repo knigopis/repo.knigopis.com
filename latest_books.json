@@ -1,4 +1,16 @@
 {
+    "XpiXjyvM1v": {
+        "id": "XpiXjyvM1v",
+        "title": "Тёмная сторона/Лабиринты эхо(цикл)",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2018-03-31 11:08:53",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 2
+        }
+    },
     "CFNqqocbOr": {
         "id": "CFNqqocbOr",
         "title": "о любви и смерти",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 116
-        }
-    },
-    "UHuOmVxGpd": {
-        "id": "UHuOmVxGpd",
-        "title": "Колосс Марусский",
-        "author": "Генри Миллер",
-        "notes": "",
-        "createdAt": "2018-03-24 04:03:31",
-        "user": {
-            "id": "109631074460726923652-google",
-            "nickname": "craft",
-            "booksCount": 1
         }
     }
 }
