@@ -1,4 +1,10 @@
 {
+    "115826717712507836033-google": {
+        "id": "115826717712507836033-google",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-03-31 07:46:15"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -22,12 +28,6 @@
         "nickname": "RolanD",
         "booksCount": 1,
         "updatedAt": "2018-03-29 09:28:15"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-03-28 19:20:14"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",
