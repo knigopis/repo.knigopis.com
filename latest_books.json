@@ -1,4 +1,16 @@
 {
+    "CFNqqocbOr": {
+        "id": "CFNqqocbOr",
+        "title": "о любви и смерти",
+        "author": "Макс Фрай",
+        "notes": "",
+        "createdAt": "2018-03-31 11:07:50",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 1
+        }
+    },
     "Jk0a-RPCIx": {
         "id": "Jk0a-RPCIx",
         "title": "Христианство в Истории Европейской Культуры",
@@ -344,18 +356,6 @@
         "user": {
             "id": "109631074460726923652-google",
             "nickname": "craft",
-            "booksCount": 1
-        }
-    },
-    "S8NZ9-dXWr": {
-        "id": "S8NZ9-dXWr",
-        "title": "Шантарам",
-        "author": "Грегори Дэвид Робертс",
-        "notes": "",
-        "createdAt": "2018-03-23 20:48:54",
-        "user": {
-            "id": "102746239851115121741-google",
-            "nickname": "raikiya",
             "booksCount": 1
         }
     }
