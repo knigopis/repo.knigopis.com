@@ -1,4 +1,10 @@
 {
+    "220022778-vkontakte": {
+        "id": "220022778-vkontakte",
+        "nickname": "fox_mi",
+        "booksCount": 0,
+        "updatedAt": "2018-03-31 11:06:46"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "beiner",
         "booksCount": 30,
         "updatedAt": "2018-03-21 18:17:05"
-    },
-    "112352352107354542773-googleplus": {
-        "id": "112352352107354542773-googleplus",
-        "nickname": "Sham",
-        "booksCount": 1,
-        "updatedAt": "2018-03-21 06:34:33"
     }
 }
