@@ -1,4 +1,16 @@
 {
+    "ZL3KuWPtOf": {
+        "id": "ZL3KuWPtOf",
+        "title": "Земли Хайтаны",
+        "author": "Артём Каменистый",
+        "notes": "",
+        "createdAt": "2018-04-01 07:00:06",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 299
+        }
+    },
     "g2Ny_9-JrJ": {
         "id": "g2Ny_9-JrJ",
         "title": "Колдун из клана смерти",
@@ -345,18 +357,6 @@
             "id": "112205967961310617540-google",
             "nickname": "sergeybolobaev",
             "booksCount": 41
-        }
-    },
-    "M1VbWvvKNz": {
-        "id": "M1VbWvvKNz",
-        "title": "Гарри Поттер и узник Аскабана",
-        "author": "Дж. Роулинг",
-        "notes": "",
-        "createdAt": "2018-03-24 11:22:29",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 22
         }
     }
 }
