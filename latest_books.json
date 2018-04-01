@@ -1,4 +1,16 @@
 {
+    "BGbcFJUZfx": {
+        "id": "BGbcFJUZfx",
+        "title": "Ангелы ада",
+        "author": "Хантер С Томпсон",
+        "notes": "",
+        "createdAt": "2018-04-01 10:31:59",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 110
+        }
+    },
     "s8Sgtyx32L": {
         "id": "s8Sgtyx32L",
         "title": "Младшая Эдда",
@@ -345,18 +357,6 @@
             "id": "100002659210723-facebook",
             "nickname": "Aleksej",
             "booksCount": 1
-        }
-    },
-    "Ez8An7EkqS": {
-        "id": "Ez8An7EkqS",
-        "title": "Метро 2034",
-        "author": "Дмитрий Глуховский",
-        "notes": "Книга 2",
-        "createdAt": "2018-03-25 20:00:15",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 143
         }
     }
 }
