@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>50</sup>
+    > Люблю книги этого автора. Но в этот раз книга была уж очень  безысходная,  что ли....
+    > Тол и дело Черный пудель, рыжий кот, или Свадьба с препятствиями  - было смешно и весело
+
 * Заводной апельсин ~ [Rainbow](users/109/109787328219839805802-google)<sup>44</sup>
     > Аминь. И всякий прочий kal.
     > ***
@@ -18,7 +22,6 @@ Do not use pull requests to make changes here.
     > Нет смысла писать отдельные отзывы. Жалею,  что не прочитала в детстве вместе с Моя семья и другие животные.
 
 * Внутри торнадо ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup>
-    > в процессе
 
 * Как лгать при помощи статистики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>149</sup>
 
@@ -32,13 +35,12 @@ Do not use pull requests to make changes here.
 
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
 
-* Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>7</sup> 
@@ -49,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>38</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>44</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>49</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 [Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
@@ -71,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 
 
-_01.04.2018 00:12:35_
+_01.04.2018 06:03:06_
