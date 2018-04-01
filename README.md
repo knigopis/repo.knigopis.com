@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
+[Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>7</sup> 
 [](users/115/115826717712507836033-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>117</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 
 
-_31.03.2018 21:54:03_
+_01.04.2018 00:10:34_
