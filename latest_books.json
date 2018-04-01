@@ -1,4 +1,16 @@
 {
+    "DuxAaaTPcF": {
+        "id": "DuxAaaTPcF",
+        "title": "Евангелие от Матфея",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-01 10:35:48",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 114
+        }
+    },
     "-Ybv-N0qN3": {
         "id": "-Ybv-N0qN3",
         "title": "Евангелие от Марка",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 148
-        }
-    },
-    "DmVuWIkLFf": {
-        "id": "DmVuWIkLFf",
-        "title": "Кристин, дочь Лавранса. Венец",
-        "author": "Сигрид Унсет",
-        "notes": "",
-        "createdAt": "2018-03-26 17:42:52",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 76
         }
     }
 }
