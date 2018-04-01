@@ -1,4 +1,16 @@
 {
+    "a8pxRVczDP": {
+        "id": "a8pxRVczDP",
+        "title": "\"Сокрытое в листве\". Хагакуре.",
+        "author": "Ямамото Цунэтомо",
+        "notes": "",
+        "createdAt": "2018-04-01 10:43:32",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 117
+        }
+    },
     "5cRiizJlGx": {
         "id": "5cRiizJlGx",
         "title": "Речи высокого (отдельно)",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 49
-        }
-    },
-    "HgXTiEYpY7": {
-        "id": "HgXTiEYpY7",
-        "title": "Внутри торнадо",
-        "author": "Джеффри А. Мур",
-        "notes": "в процессе",
-        "createdAt": "2018-03-26 20:55:00",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 150
         }
     }
 }
