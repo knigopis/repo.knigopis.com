@@ -1,4 +1,16 @@
 {
+    "s8Sgtyx32L": {
+        "id": "s8Sgtyx32L",
+        "title": "Младшая Эдда",
+        "author": "Снорри Стурлусон",
+        "notes": "",
+        "createdAt": "2018-04-01 10:28:56",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 109
+        }
+    },
     "F_9MAhSdfb": {
         "id": "F_9MAhSdfb",
         "title": "Старшая Эдда",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 143
-        }
-    },
-    "SEzBXbgl2v": {
-        "id": "SEzBXbgl2v",
-        "title": "Scrum. Революционный метод управления проектами",
-        "author": "Джефф Сазерленд",
-        "notes": "",
-        "createdAt": "2018-03-25 12:59:41",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 59
         }
     }
 }
