@@ -1,4 +1,16 @@
 {
+    "xxRbm6Pb_b": {
+        "id": "xxRbm6Pb_b",
+        "title": "Дети капитана Гранта",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2018-04-01 10:33:07",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 111
+        }
+    },
     "BGbcFJUZfx": {
         "id": "BGbcFJUZfx",
         "title": "Ангелы ада",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 144
-        }
-    },
-    "oddbFGyfXl": {
-        "id": "oddbFGyfXl",
-        "title": "Сказка о мёртвой царевне",
-        "author": "А.С. Пушкин",
-        "notes": "",
-        "createdAt": "2018-03-25 21:41:14",
-        "user": {
-            "id": "100002659210723-facebook",
-            "nickname": "Aleksej",
-            "booksCount": 1
         }
     }
 }
