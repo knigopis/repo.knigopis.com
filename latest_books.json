@@ -1,4 +1,16 @@
 {
+    "8OHWBuolMF": {
+        "id": "8OHWBuolMF",
+        "title": "Рождение Европы",
+        "author": "Жак Ле Гофф",
+        "notes": "",
+        "createdAt": "2018-04-01 10:34:54",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 112
+        }
+    },
     "xxRbm6Pb_b": {
         "id": "xxRbm6Pb_b",
         "title": "Дети капитана Гранта",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 82
-        }
-    },
-    "JqNgq42W1T": {
-        "id": "JqNgq42W1T",
-        "title": "Чистовик",
-        "author": "Сергей Лукьяненко",
-        "notes": "Книга 2",
-        "createdAt": "2018-03-26 07:51:48",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 144
         }
     }
 }
