@@ -1,4 +1,16 @@
 {
+    "-Ybv-N0qN3": {
+        "id": "-Ybv-N0qN3",
+        "title": "Евангелие от Марка",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-01 10:35:35",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 113
+        }
+    },
     "8OHWBuolMF": {
         "id": "8OHWBuolMF",
         "title": "Рождение Европы",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 76
-        }
-    },
-    "Gk14RAr5xI": {
-        "id": "Gk14RAr5xI",
-        "title": "Моне. По ту сторону холста.",
-        "author": "Сильва Рубио, Рикард Эфа",
-        "notes": "10/10",
-        "createdAt": "2018-03-26 14:28:54",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 82
         }
     }
 }
