@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>175</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
 [En](users/333/333646551-vkontakte)<sup>41</sup> 
-[owlettrash](users/278/278096395-yandex)<sup>1</sup> 
 
 
-_01.04.2018 07:00:07_
+_01.04.2018 07:48:42_
