@@ -1,4 +1,10 @@
 {
+    "339786161-vkontakte": {
+        "id": "339786161-vkontakte",
+        "nickname": "Антон Шевченко",
+        "booksCount": 108,
+        "updatedAt": "2018-04-01 10:28:04"
+    },
     "100006392211781937215-google": {
         "id": "100006392211781937215-google",
         "nickname": " pifarik",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 41,
         "updatedAt": "2018-03-22 18:57:16"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 41,
-        "updatedAt": "2018-03-22 04:11:21"
     }
 }
