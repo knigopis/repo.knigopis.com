@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `92` Ыдвд
-в
-
 ### `90` Нн
 Гоо
 
@@ -50,10 +47,8 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` The Cathedral and the Bazaar
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Мертвые души
 Николай Гоголь
@@ -61,28 +56,32 @@ Joel Spolsky
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` The Cathedral and the Bazaar
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Concurrency in practice
 
 ### `` Овод
 Этель Лилиан Войнич
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` Concurrency in practice
-
-### `` Повелитель мух
-Уильям Голдинг
-
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
+
+### `` Братья Карамазовы
+Фёдор Достоевский
+
+### `` Герой нашего времени
+Михаил Лермонтов
 
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` Братья Карамазовы
-Фёдор Достоевский
+### `` Ооо
+
+### `` Повелитель мух
+Уильям Голдинг
 
 ### `` Rx
 ?
