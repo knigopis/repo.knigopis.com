@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>298</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>50</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
 [En](users/333/333646551-vkontakte)<sup>41</sup> 
 [owlettrash](users/278/278096395-yandex)<sup>1</sup> 
-[иузуил](users/238/238356806-vkontakte)<sup>7</sup> 
 
 
-_01.04.2018 06:03:06_
+_01.04.2018 06:59:36_

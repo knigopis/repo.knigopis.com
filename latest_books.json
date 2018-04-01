@@ -1,4 +1,16 @@
 {
+    "g2Ny_9-JrJ": {
+        "id": "g2Ny_9-JrJ",
+        "title": "Колдун из клана смерти",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-04-01 06:59:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 298
+        }
+    },
     "uHljinVwzM": {
         "id": "uHljinVwzM",
         "title": "Нет кузнечика в траве",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 22
-        }
-    },
-    "vMgvG24wiK": {
-        "id": "vMgvG24wiK",
-        "title": "С любовью, Рози",
-        "author": "Сесилия Ахерн",
-        "notes": "",
-        "createdAt": "2018-03-24 11:21:44",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 21
         }
     }
 }
