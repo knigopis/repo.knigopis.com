@@ -1,4 +1,16 @@
 {
+    "gYvKWl6BG6": {
+        "id": "gYvKWl6BG6",
+        "title": "Джуд незаметный",
+        "author": "Томас Гарди",
+        "notes": "",
+        "createdAt": "2018-04-02 11:35:59",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 114
+        }
+    },
     "OkZE26W2li": {
         "id": "OkZE26W2li",
         "title": "Искусство войны",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 44
-        }
-    },
-    "QoSYXdllyW": {
-        "id": "QoSYXdllyW",
-        "title": "Сплав Закона (Серия: Двурожденные 1/?)",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2018-03-28 08:52:24",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 43
         }
     }
 }
