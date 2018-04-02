@@ -1,4 +1,10 @@
 {
+    "102767416-vkontakte": {
+        "id": "102767416-vkontakte",
+        "nickname": "snowcoffe",
+        "booksCount": 0,
+        "updatedAt": "2018-04-02 19:53:37"
+    },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",
         "nickname": "Neccochi",
@@ -172,11 +178,5 @@
         "nickname": "SuperLion",
         "booksCount": 0,
         "updatedAt": "2018-03-25 18:04:32"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 59,
-        "updatedAt": "2018-03-25 12:59:41"
     }
 }
