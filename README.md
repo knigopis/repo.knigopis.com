@@ -40,7 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[DjAtaman](users/106/106309223005338857765-google)<sup>0</sup> 
+[DjAtaman](users/106/106309223005338857765-google)<sup>1</sup> 
 [Халвил Хрофт](users/180/18087548654675765361-mailru)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>114</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>0</sup> 
@@ -72,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>22</sup> 
 
 
-_02.04.2018 11:46:05_
+_02.04.2018 11:58:21_

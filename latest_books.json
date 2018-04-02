@@ -1,4 +1,16 @@
 {
+    "EtjwY1IPNZ": {
+        "id": "EtjwY1IPNZ",
+        "title": "как трудно быть богом",
+        "author": "Аркадия и Бориса Стругацкие",
+        "notes": "",
+        "createdAt": "2018-04-02 11:58:21",
+        "user": {
+            "id": "106309223005338857765-google",
+            "nickname": "DjAtaman",
+            "booksCount": 1
+        }
+    },
     "gYvKWl6BG6": {
         "id": "gYvKWl6BG6",
         "title": "Джуд незаметный",
@@ -345,18 +357,6 @@
             "id": "73323849-yandex",
             "nickname": "inna.besprozvannykh",
             "booksCount": 38
-        }
-    },
-    "Cj3Qzux03V": {
-        "id": "Cj3Qzux03V",
-        "title": "Тени истины (Серия: Двурожденные 2/3?)",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2018-03-28 08:54:39",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 44
         }
     }
 }
