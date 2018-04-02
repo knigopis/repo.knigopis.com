@@ -42,6 +42,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[snowcoffe](users/102/102767416-vkontakte)<sup>0</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup> 
 [Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
 [DjAtaman](users/106/106309223005338857765-google)<sup>1</sup> 
@@ -71,7 +72,6 @@ _More notes [here](latest_books_with_notes.md)._
 [twin_peaks_cooper](users/160/160781443-vkontakte)<sup>0</sup> 
 [Aleksej](users/100/100002659210723-facebook)<sup>1</sup> 
 [SuperLion](users/107/107736809531847537707-google)<sup>0</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 
 
-_02.04.2018 16:24:53_
+_02.04.2018 19:53:38_
