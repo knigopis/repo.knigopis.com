@@ -1,4 +1,10 @@
 {
+    "18087548654675765361-mailru": {
+        "id": "18087548654675765361-mailru",
+        "nickname": "Халвил Хрофт",
+        "booksCount": 0,
+        "updatedAt": "2018-04-02 11:44:48"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "craft",
         "booksCount": 1,
         "updatedAt": "2018-03-24 04:03:31"
-    },
-    "102746239851115121741-google": {
-        "id": "102746239851115121741-google",
-        "nickname": "raikiya",
-        "booksCount": 1,
-        "updatedAt": "2018-03-23 20:48:54"
     }
 }
