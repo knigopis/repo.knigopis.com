@@ -1,4 +1,10 @@
 {
+    "997901511979140838-mailru": {
+        "id": "997901511979140838-mailru",
+        "nickname": "Мария Мазько",
+        "booksCount": 0,
+        "updatedAt": "2018-04-02 16:22:24"
+    },
     "106309223005338857765-google": {
         "id": "106309223005338857765-google",
         "nickname": "DjAtaman",
@@ -172,11 +178,5 @@
         "nickname": "sergeybolobaev",
         "booksCount": 41,
         "updatedAt": "2018-03-24 20:21:00"
-    },
-    "200601396-vkontakte": {
-        "id": "200601396-vkontakte",
-        "nickname": "Милашечка",
-        "booksCount": 22,
-        "updatedAt": "2018-03-24 11:22:29"
     }
 }
