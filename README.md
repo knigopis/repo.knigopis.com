@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[neccochi](users/667/66767060-vkontakte)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>117</sup> 
 [ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [craft](users/109/109631074460726923652-google)<sup>1</sup> 
 [raikiya](users/102/102746239851115121741-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>175</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>41</sup> 
 
 
-_01.04.2018 10:44:35_
+_02.04.2018 11:30:00_
