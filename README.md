@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
 [DjAtaman](users/106/106309223005338857765-google)<sup>1</sup> 
 [Халвил Хрофт](users/180/18087548654675765361-mailru)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>114</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [SuperLion](users/107/107736809531847537707-google)<sup>0</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>59</sup> 
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
-[Милашечка](users/200/200601396-vkontakte)<sup>22</sup> 
 
 
-_02.04.2018 11:58:21_
+_02.04.2018 16:22:27_
