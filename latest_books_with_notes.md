@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>50</sup>
 * Заводной апельсин ~ [Rainbow](users/109/109787328219839805802-google)<sup>44</sup>
 * Птицы, звери и родственники        и    Сад богов ~ [Chiffi](users/105/105831994080785626680-google)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
 * ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
 * Я, робот ~ [En](users/333/333646551-vkontakte)<sup>40</sup>
-* Мистерии убийства ~ [En](users/333/333646551-vkontakte)<sup>38</sup>
 
 
-_01.04.2018 06:03:06_
+_02.04.2018 16:24:53_

@@ -1,4 +1,10 @@
 {
+    "12601720503917094896-mailru": {
+        "id": "12601720503917094896-mailru",
+        "nickname": "Neccochi",
+        "booksCount": 47,
+        "updatedAt": "2018-04-02 16:24:53"
+    },
     "997901511979140838-mailru": {
         "id": "997901511979140838-mailru",
         "nickname": "Мария Мазько",
@@ -172,11 +178,5 @@
         "nickname": "ODINSY",
         "booksCount": 59,
         "updatedAt": "2018-03-25 12:59:41"
-    },
-    "112205967961310617540-google": {
-        "id": "112205967961310617540-google",
-        "nickname": "sergeybolobaev",
-        "booksCount": 41,
-        "updatedAt": "2018-03-24 20:21:00"
     }
 }
