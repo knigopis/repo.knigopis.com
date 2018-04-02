@@ -40,6 +40,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Халвил Хрофт](users/180/18087548654675765361-mailru)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>114</sup> 
 [neccochi](users/667/66767060-vkontakte)<sup>0</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>117</sup> 
@@ -69,7 +70,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sergeybolobaev](users/112/112205967961310617540-google)<sup>41</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>22</sup> 
 [craft](users/109/109631074460726923652-google)<sup>1</sup> 
-[raikiya](users/102/102746239851115121741-google)<sup>1</sup> 
 
 
-_02.04.2018 11:36:00_
+_02.04.2018 11:44:48_
