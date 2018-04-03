@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>82</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>83</sup>
 ---
 
 ## 2018
+
+### Солнечная
+Иэн Макьюэн
+> [2018-04-03] 8,5/10
+
 
 ### Моне. По ту сторону холста
 Сильва Рубио, Рикард Эфа

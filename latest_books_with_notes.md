@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>42</sup>
 * Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
 * Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
-* Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
 
 
-_03.04.2018 07:31:28_
+_03.04.2018 20:12:41_

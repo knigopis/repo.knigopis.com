@@ -1,4 +1,16 @@
 {
+    "K5HK7rZA2p": {
+        "id": "K5HK7rZA2p",
+        "title": "Солнечная",
+        "author": "Иэн Макьюэн",
+        "notes": "8,5/10",
+        "createdAt": "2018-04-03 20:12:41",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 83
+        }
+    },
     "OD5wUPthlX": {
         "id": "OD5wUPthlX",
         "title": "На маяк",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 1
-        }
-    },
-    "Jk0a-RPCIx": {
-        "id": "Jk0a-RPCIx",
-        "title": "Христианство в Истории Европейской Культуры",
-        "author": "Сергей Сергеевич Аверинцев",
-        "notes": "",
-        "createdAt": "2018-03-30 08:04:54",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 117
         }
     }
 }
