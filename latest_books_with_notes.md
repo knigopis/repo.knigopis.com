@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>42</sup>
 * Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
 * Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Заводной апельсин ~ [Артур Вольнов](users/225/225880893-vkontakte)<sup>12</sup>
 * Черновик ~ [EsterHani](users/305/30558181-vkontakte)<sup>140</sup>
 * Летнее утро, летняя ночь ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>1</sup>
-* ▫Коллекционер ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>43</sup>
 
 
-_03.04.2018 05:11:34_
+_03.04.2018 07:31:28_
