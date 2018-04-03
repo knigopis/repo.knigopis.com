@@ -1,4 +1,10 @@
 {
+    "2033580363583983-facebook": {
+        "id": "2033580363583983-facebook",
+        "nickname": "richie._.sambora",
+        "booksCount": 0,
+        "updatedAt": "2018-04-03 20:36:35"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "t_killaha",
         "booksCount": 0,
         "updatedAt": "2018-03-26 18:31:04"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 76,
-        "updatedAt": "2018-03-26 17:42:52"
     }
 }
