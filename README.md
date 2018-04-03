@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[richie._.sambora](users/203/2033580363583983-facebook)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
 [](users/115/115826717712507836033-google)<sup>1</sup> 
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 [Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
 [t_killaha](users/527/52723738-vkontakte)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>76</sup> 
 
 
-_03.04.2018 20:12:41_
+_03.04.2018 20:36:37_
