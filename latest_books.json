@@ -1,4 +1,16 @@
 {
+    "wvKMa9b4xQ": {
+        "id": "wvKMa9b4xQ",
+        "title": "Убийство в восточном экспрессе",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2018-04-03 20:37:48",
+        "user": {
+            "id": "2033580363583983-facebook",
+            "nickname": "richie._.sambora",
+            "booksCount": 2
+        }
+    },
     "wQ-2vkbWbj": {
         "id": "wQ-2vkbWbj",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 3
-        }
-    },
-    "XpiXjyvM1v": {
-        "id": "XpiXjyvM1v",
-        "title": "Тёмная сторона/Лабиринты эхо(цикл)",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2018-03-31 11:08:53",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 2
         }
     }
 }
