@@ -1,4 +1,16 @@
 {
+    "wQ-2vkbWbj": {
+        "id": "wQ-2vkbWbj",
+        "title": "Жизнь взаймы",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-04-03 20:37:24",
+        "user": {
+            "id": "2033580363583983-facebook",
+            "nickname": "richie._.sambora",
+            "booksCount": 1
+        }
+    },
     "K5HK7rZA2p": {
         "id": "K5HK7rZA2p",
         "title": "Солнечная",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 2
-        }
-    },
-    "CFNqqocbOr": {
-        "id": "CFNqqocbOr",
-        "title": "о любви и смерти",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2018-03-31 11:07:50",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 1
         }
     }
 }
