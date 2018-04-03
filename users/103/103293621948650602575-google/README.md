@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>117</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>118</sup>
 ---
 
 ## 2018
+
+### Постатеизм, или Бедная Религия
+Михаил Эпштейн
+> [2018-04-03] 
+
 
 ### Христианство в Истории Европейской Культуры
 Сергей Аверинцев

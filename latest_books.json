@@ -1,4 +1,16 @@
 {
+    "bacawrFXEh": {
+        "id": "bacawrFXEh",
+        "title": "Постатеизм, или Бедная Религия",
+        "author": "Михаил Эпштейн",
+        "notes": "",
+        "createdAt": "2018-04-03 11:07:26",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 118
+        }
+    },
     "OKaeDi8TEN": {
         "id": "OKaeDi8TEN",
         "title": "Уязвимое море",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 19
-        }
-    },
-    "nRMI5qKSIM": {
-        "id": "nRMI5qKSIM",
-        "title": "Чужак",
-        "author": "Макс Фрай",
-        "notes": "",
-        "createdAt": "2018-03-29 09:28:15",
-        "user": {
-            "id": "17491858816989224292-mailru",
-            "nickname": "RolanD",
-            "booksCount": 1
         }
     }
 }
