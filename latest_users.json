@@ -1,4 +1,10 @@
 {
+    "176759837-vkontakte": {
+        "id": "176759837-vkontakte",
+        "nickname": "ilyamecheriakov",
+        "booksCount": 0,
+        "updatedAt": "2018-04-03 16:02:24"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 82,
         "updatedAt": "2018-03-26 14:28:54"
-    },
-    "160781443-vkontakte": {
-        "id": "160781443-vkontakte",
-        "nickname": "twin_peaks_cooper",
-        "booksCount": 0,
-        "updatedAt": "2018-03-26 12:41:55"
     }
 }
