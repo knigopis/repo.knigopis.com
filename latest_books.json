@@ -1,4 +1,16 @@
 {
+    "8iKc36CVfU": {
+        "id": "8iKc36CVfU",
+        "title": "Сто лет одиночества",
+        "author": "Габриэль Гарсиа Маркес",
+        "notes": "",
+        "createdAt": "2018-04-04 16:35:32",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 8
+        }
+    },
     "fTNhOKBhxG": {
         "id": "fTNhOKBhxG",
         "title": "Бремя страстей человеческих",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 299
-        }
-    },
-    "g2Ny_9-JrJ": {
-        "id": "g2Ny_9-JrJ",
-        "title": "Колдун из клана смерти",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-04-01 06:59:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 298
         }
     }
 }
