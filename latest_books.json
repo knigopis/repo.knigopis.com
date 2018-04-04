@@ -1,4 +1,16 @@
 {
+    "3_mPlohPY6": {
+        "id": "3_mPlohPY6",
+        "title": "Три товарища",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-04-04 16:38:47",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 11
+        }
+    },
     "HYNtSxIf0u": {
         "id": "HYNtSxIf0u",
         "title": "Грустный мотив",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 110
-        }
-    },
-    "s8Sgtyx32L": {
-        "id": "s8Sgtyx32L",
-        "title": "Младшая Эдда",
-        "author": "Снорри Стурлусон",
-        "notes": "",
-        "createdAt": "2018-04-01 10:28:56",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 109
         }
     }
 }
