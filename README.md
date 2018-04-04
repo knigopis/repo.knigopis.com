@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>64</sup> 
 [](users/115/115826717712507836033-google)<sup>4</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 [Katirkin](users/102/10203861245118662-facebook)<sup>0</sup> 
-[t_killaha](users/527/52723738-vkontakte)<sup>0</sup> 
 
 
-_04.04.2018 16:19:09_
+_04.04.2018 16:19:47_

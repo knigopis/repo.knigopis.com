@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 64,
+        "updatedAt": "2018-04-04 16:19:47"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Katirkin",
         "booksCount": 0,
         "updatedAt": "2018-03-26 19:53:50"
-    },
-    "52723738-vkontakte": {
-        "id": "52723738-vkontakte",
-        "nickname": "t_killaha",
-        "booksCount": 0,
-        "updatedAt": "2018-03-26 18:31:04"
     }
 }

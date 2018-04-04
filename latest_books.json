@@ -1,4 +1,16 @@
 {
+    "SHETyH9UoE": {
+        "id": "SHETyH9UoE",
+        "title": "Лжец на кушетке",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2018-04-04 16:19:47",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 64
+        }
+    },
     "WnXs0YoXfE": {
         "id": "WnXs0YoXfE",
         "title": "Преступление и наказание",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 7
-        }
-    },
-    "HfkdlykTT2": {
-        "id": "HfkdlykTT2",
-        "title": "Мальчик в полосатой пижаме",
-        "author": "Джон Бойн",
-        "notes": "",
-        "createdAt": "2018-03-31 15:25:53",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 6
         }
     }
 }
