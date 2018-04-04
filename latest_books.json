@@ -1,4 +1,16 @@
 {
+    "qtuqgXI9So": {
+        "id": "qtuqgXI9So",
+        "title": "Женщина в зеркале",
+        "author": "Вирджиния Вульф",
+        "notes": "",
+        "createdAt": "2018-04-04 17:14:05",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 29
+        }
+    },
     "4zJnDnK17c": {
         "id": "4zJnDnK17c",
         "title": "Вместе и порознь",
@@ -345,18 +357,6 @@
             "id": "2033580363583983-facebook",
             "nickname": "richie._.sambora",
             "booksCount": 2
-        }
-    },
-    "wQ-2vkbWbj": {
-        "id": "wQ-2vkbWbj",
-        "title": "Жизнь взаймы",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2018-04-03 20:37:24",
-        "user": {
-            "id": "2033580363583983-facebook",
-            "nickname": "richie._.sambora",
-            "booksCount": 1
         }
     }
 }
