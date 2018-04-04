@@ -1,4 +1,16 @@
 {
+    "4zJnDnK17c": {
+        "id": "4zJnDnK17c",
+        "title": "Вместе и порознь",
+        "author": "Вирджиния Вульф",
+        "notes": "",
+        "createdAt": "2018-04-04 17:13:37",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 28
+        }
+    },
     "uUNWe9bU3J": {
         "id": "uUNWe9bU3J",
         "title": "Дом с привидениями",
@@ -345,18 +357,6 @@
             "id": "2033580363583983-facebook",
             "nickname": "richie._.sambora",
             "booksCount": 1
-        }
-    },
-    "K5HK7rZA2p": {
-        "id": "K5HK7rZA2p",
-        "title": "Солнечная",
-        "author": "Иэн Макьюэн",
-        "notes": "8,5/10",
-        "createdAt": "2018-04-03 20:12:41",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 83
         }
     }
 }
