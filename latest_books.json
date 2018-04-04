@@ -1,4 +1,16 @@
 {
+    "Ny64hpIhE5": {
+        "id": "Ny64hpIhE5",
+        "title": "Фитокамера",
+        "author": "Гюнтер Грасс",
+        "notes": "",
+        "createdAt": "2018-04-04 17:20:05",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 37
+        }
+    },
     "p-Idi8-SCY": {
         "id": "p-Idi8-SCY",
         "title": "Виктория и Стейвни",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 8
-        }
-    },
-    "fTNhOKBhxG": {
-        "id": "fTNhOKBhxG",
-        "title": "Бремя страстей человеческих",
-        "author": "Сомерсет Моэм",
-        "notes": "",
-        "createdAt": "2018-04-04 16:34:11",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 7
         }
     }
 }
