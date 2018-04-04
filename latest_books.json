@@ -1,4 +1,16 @@
 {
+    "u_0zEJBWuh": {
+        "id": "u_0zEJBWuh",
+        "title": "Великий Гэтсби",
+        "author": "Фицджеральд",
+        "notes": "",
+        "createdAt": "2018-04-04 16:42:03",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 15
+        }
+    },
     "lJWTE1QPvZ": {
         "id": "lJWTE1QPvZ",
         "title": "Жизнь",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 114
-        }
-    },
-    "-Ybv-N0qN3": {
-        "id": "-Ybv-N0qN3",
-        "title": "Евангелие от Марка",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-01 10:35:35",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 113
         }
     }
 }
