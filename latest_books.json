@@ -1,4 +1,16 @@
 {
+    "UIBrZjavrs": {
+        "id": "UIBrZjavrs",
+        "title": "К востоку от границы, на запад от солнца",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2018-04-04 16:18:03",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 3
+        }
+    },
     "OHiEsrU1M9": {
         "id": "OHiEsrU1M9",
         "title": "Лайонел Шрайвер",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 5
-        }
-    },
-    "9QWME-1rFL": {
-        "id": "9QWME-1rFL",
-        "title": "Проклятие холодного озера",
-        "author": "Р.Л. Стайн",
-        "notes": "",
-        "createdAt": "2018-03-31 11:10:43",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 4
         }
     }
 }
