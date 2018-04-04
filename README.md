@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/115/115826717712507836033-google)<sup>2</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
-[](users/115/115826717712507836033-google)<sup>1</sup> 
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>118</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [t_killaha](users/527/52723738-vkontakte)<sup>0</sup> 
 
 
-_03.04.2018 20:37:48_
+_04.04.2018 16:15:04_

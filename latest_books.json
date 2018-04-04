@@ -1,4 +1,16 @@
 {
+    "OHiEsrU1M9": {
+        "id": "OHiEsrU1M9",
+        "title": "Лайонел Шрайвер",
+        "author": "Цена нелюбви",
+        "notes": "Книга нобелевского лауреата просто потрясла. Тяжёлая",
+        "createdAt": "2018-04-04 16:15:04",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 2
+        }
+    },
     "wvKMa9b4xQ": {
         "id": "wvKMa9b4xQ",
         "title": "Убийство в восточном экспрессе",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 4
-        }
-    },
-    "53WySqYSr8": {
-        "id": "53WySqYSr8",
-        "title": "Тысяча душ",
-        "author": "А.Ф. Писемский",
-        "notes": "",
-        "createdAt": "2018-03-31 11:09:59",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 3
         }
     }
 }
