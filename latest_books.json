@@ -1,4 +1,16 @@
 {
+    "OlSZfXhayV": {
+        "id": "OlSZfXhayV",
+        "title": "Лето перед закатом",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-04-04 17:10:50",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 26
+        }
+    },
     "rVMN-VIrrM": {
         "id": "rVMN-VIrrM",
         "title": "Семья вурдалаков",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 1
-        }
-    },
-    "bacawrFXEh": {
-        "id": "bacawrFXEh",
-        "title": "Постатеизм, или Бедная Религия",
-        "author": "Михаил Эпштейн",
-        "notes": "",
-        "createdAt": "2018-04-03 11:07:26",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 118
         }
     }
 }
