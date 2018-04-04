@@ -1,4 +1,16 @@
 {
+    "Ed-X3xLRTk": {
+        "id": "Ed-X3xLRTk",
+        "title": "Таинственная страсть",
+        "author": "Василий Аксенов",
+        "notes": "",
+        "createdAt": "2018-04-04 17:14:46",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 30
+        }
+    },
     "qtuqgXI9So": {
         "id": "qtuqgXI9So",
         "title": "Женщина в зеркале",
@@ -344,18 +356,6 @@
         "user": {
             "id": "115826717712507836033-google",
             "nickname": null,
-            "booksCount": 2
-        }
-    },
-    "wvKMa9b4xQ": {
-        "id": "wvKMa9b4xQ",
-        "title": "Убийство в восточном экспрессе",
-        "author": "Агата Кристи",
-        "notes": "",
-        "createdAt": "2018-04-03 20:37:48",
-        "user": {
-            "id": "2033580363583983-facebook",
-            "nickname": "richie._.sambora",
             "booksCount": 2
         }
     }
