@@ -1,4 +1,16 @@
 {
+    "5vq8KsVwqE": {
+        "id": "5vq8KsVwqE",
+        "title": "Голодные игры",
+        "author": "Сьюзен Коллинз",
+        "notes": "",
+        "createdAt": "2018-04-04 17:00:49",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 19
+        }
+    },
     "llKLL-4hVY": {
         "id": "llKLL-4hVY",
         "title": "Любовница французского генерала",
@@ -341,18 +353,6 @@
         "author": "Сунь Цзы",
         "notes": "",
         "createdAt": "2018-04-01 10:44:35",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 117
-        }
-    },
-    "a8pxRVczDP": {
-        "id": "a8pxRVczDP",
-        "title": "\"Сокрытое в листве\". Хагакуре.",
-        "author": "Ямамото Цунэтомо",
-        "notes": "",
-        "createdAt": "2018-04-01 10:43:32",
         "user": {
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
