@@ -1,4 +1,16 @@
 {
+    "WnXs0YoXfE": {
+        "id": "WnXs0YoXfE",
+        "title": "Преступление и наказание",
+        "author": "Достоевский",
+        "notes": "",
+        "createdAt": "2018-04-04 16:19:09",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 4
+        }
+    },
     "UIBrZjavrs": {
         "id": "UIBrZjavrs",
         "title": "К востоку от границы, на запад от солнца",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 6
-        }
-    },
-    "jpaO1FSQOH": {
-        "id": "jpaO1FSQOH",
-        "title": "Двойное свидание",
-        "author": "Р.Л. Стайн",
-        "notes": "",
-        "createdAt": "2018-03-31 11:11:09",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 5
         }
     }
 }
