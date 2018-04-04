@@ -1,4 +1,16 @@
 {
+    "ikwMTaWxIr": {
+        "id": "ikwMTaWxIr",
+        "title": "Возлюбленная",
+        "author": "Тони Моррисон",
+        "notes": "Книга нобелевского лауреата",
+        "createdAt": "2018-04-04 17:03:26",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 22
+        }
+    },
     "IhmdQW28bO": {
         "id": "IhmdQW28bO",
         "title": "Сойка-пересмешница",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 47
-        }
-    },
-    "EtjwY1IPNZ": {
-        "id": "EtjwY1IPNZ",
-        "title": "как трудно быть богом",
-        "author": "Аркадия и Бориса Стругацкие",
-        "notes": "",
-        "createdAt": "2018-04-02 11:58:21",
-        "user": {
-            "id": "106309223005338857765-google",
-            "nickname": "DjAtaman",
-            "booksCount": 1
         }
     }
 }
