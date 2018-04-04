@@ -1,4 +1,16 @@
 {
+    "_-Ju3RJBnw": {
+        "id": "_-Ju3RJBnw",
+        "title": "Дитя любви",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-04-04 17:17:46",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 34
+        }
+    },
     "_f7QPX5-1a": {
         "id": "_f7QPX5-1a",
         "title": "Бабушки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 5
-        }
-    },
-    "SHETyH9UoE": {
-        "id": "SHETyH9UoE",
-        "title": "Лжец на кушетке",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2018-04-04 16:19:47",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 64
         }
     }
 }
