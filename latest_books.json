@@ -1,4 +1,16 @@
 {
+    "lJWTE1QPvZ": {
+        "id": "lJWTE1QPvZ",
+        "title": "Жизнь",
+        "author": "Мопассан",
+        "notes": "",
+        "createdAt": "2018-04-04 16:40:59",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 14
+        }
+    },
     "XjS5fySOu8": {
         "id": "XjS5fySOu8",
         "title": "Триумфальная арка",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 113
-        }
-    },
-    "8OHWBuolMF": {
-        "id": "8OHWBuolMF",
-        "title": "Рождение Европы",
-        "author": "Жак Ле Гофф",
-        "notes": "",
-        "createdAt": "2018-04-01 10:34:54",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 112
         }
     }
 }
