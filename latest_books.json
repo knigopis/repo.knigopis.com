@@ -1,4 +1,16 @@
 {
+    "XjS5fySOu8": {
+        "id": "XjS5fySOu8",
+        "title": "Триумфальная арка",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-04-04 16:40:18",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 13
+        }
+    },
     "E2hAuhYEOG": {
         "id": "E2hAuhYEOG",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 112
-        }
-    },
-    "xxRbm6Pb_b": {
-        "id": "xxRbm6Pb_b",
-        "title": "Дети капитана Гранта",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2018-04-01 10:33:07",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 111
         }
     }
 }
