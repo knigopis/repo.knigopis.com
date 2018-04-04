@@ -1,4 +1,16 @@
 {
+    "CPvFDxUeWq": {
+        "id": "CPvFDxUeWq",
+        "title": "Волхв",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2018-04-04 16:43:28",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 17
+        }
+    },
     "Ltn3zFl7ql": {
         "id": "Ltn3zFl7ql",
         "title": "Коллекционер",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 116
-        }
-    },
-    "dpzTW7_AUd": {
-        "id": "dpzTW7_AUd",
-        "title": "53 самых живучих мифа атеизма о христианстве",
-        "author": "Александр Станкевичюс",
-        "notes": "",
-        "createdAt": "2018-04-01 10:37:18",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 115
         }
     }
 }
