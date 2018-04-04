@@ -1,4 +1,16 @@
 {
+    "E2hAuhYEOG": {
+        "id": "E2hAuhYEOG",
+        "title": "На западном фронте без перемен",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-04-04 16:39:25",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 12
+        }
+    },
     "3_mPlohPY6": {
         "id": "3_mPlohPY6",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 111
-        }
-    },
-    "BGbcFJUZfx": {
-        "id": "BGbcFJUZfx",
-        "title": "Ангелы ада",
-        "author": "Хантер С Томпсон",
-        "notes": "",
-        "createdAt": "2018-04-01 10:31:59",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 110
         }
     }
 }
