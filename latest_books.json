@@ -1,4 +1,16 @@
 {
+    "dsx6AR2lYu": {
+        "id": "dsx6AR2lYu",
+        "title": "Воспламенение",
+        "author": "Сьюзкн Коллинз",
+        "notes": "",
+        "createdAt": "2018-04-04 17:01:20",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 20
+        }
+    },
     "5vq8KsVwqE": {
         "id": "5vq8KsVwqE",
         "title": "Голодные игры",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 114
-        }
-    },
-    "OkZE26W2li": {
-        "id": "OkZE26W2li",
-        "title": "Искусство войны",
-        "author": "Сунь Цзы",
-        "notes": "",
-        "createdAt": "2018-04-01 10:44:35",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 117
         }
     }
 }
