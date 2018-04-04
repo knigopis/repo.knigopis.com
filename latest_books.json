@@ -1,4 +1,16 @@
 {
+    "RpkV_Z2aSi": {
+        "id": "RpkV_Z2aSi",
+        "title": "Над пропастью во ржи",
+        "author": "Джером Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2018-04-04 16:36:50",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 9
+        }
+    },
     "8iKc36CVfU": {
         "id": "8iKc36CVfU",
         "title": "Сто лет одиночества",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 108
-        }
-    },
-    "ZL3KuWPtOf": {
-        "id": "ZL3KuWPtOf",
-        "title": "Земли Хайтаны",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-04-01 07:00:06",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 299
         }
     }
 }
