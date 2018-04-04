@@ -1,4 +1,16 @@
 {
+    "Ltn3zFl7ql": {
+        "id": "Ltn3zFl7ql",
+        "title": "Коллекционер",
+        "author": "Джон Фаулз",
+        "notes": "",
+        "createdAt": "2018-04-04 16:42:49",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 16
+        }
+    },
     "u_0zEJBWuh": {
         "id": "u_0zEJBWuh",
         "title": "Великий Гэтсби",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 115
-        }
-    },
-    "DuxAaaTPcF": {
-        "id": "DuxAaaTPcF",
-        "title": "Евангелие от Матфея",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-01 10:35:48",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 114
         }
     }
 }
