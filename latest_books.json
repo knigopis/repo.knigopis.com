@@ -1,4 +1,16 @@
 {
+    "GyYBhFFA5B": {
+        "id": "GyYBhFFA5B",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2018-04-05 17:46:25",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 57
+        }
+    },
     "LCFFvGxoX-": {
         "id": "LCFFvGxoX-",
         "title": "Стрекоза, увеличенная до размеров собаки",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 28
-        }
-    },
-    "uUNWe9bU3J": {
-        "id": "uUNWe9bU3J",
-        "title": "Дом с привидениями",
-        "author": "Вирджиния Вульф",
-        "notes": "",
-        "createdAt": "2018-04-04 17:12:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 27
         }
     }
 }
