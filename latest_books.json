@@ -1,4 +1,16 @@
 {
+    "UpbXUkSD3Q": {
+        "id": "UpbXUkSD3Q",
+        "title": "Грех",
+        "author": "Захар Прилепин",
+        "notes": "",
+        "createdAt": "2018-04-05 17:46:55",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 58
+        }
+    },
     "GyYBhFFA5B": {
         "id": "GyYBhFFA5B",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 29
-        }
-    },
-    "4zJnDnK17c": {
-        "id": "4zJnDnK17c",
-        "title": "Вместе и порознь",
-        "author": "Вирджиния Вульф",
-        "notes": "",
-        "createdAt": "2018-04-04 17:13:37",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 28
         }
     }
 }
