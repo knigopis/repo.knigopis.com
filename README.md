@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/616/616903189-yandex)<sup>0</sup> 
+[](users/616/616903189-yandex)<sup>1</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>60</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>150</sup> 
 
 
-_05.04.2018 20:43:29_
+_05.04.2018 21:53:26_

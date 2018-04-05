@@ -2,7 +2,7 @@
     "id": "616903189-yandex",
     "profile": "",
     "identity": "http://openid.yandex.ru/kpnew/",
-    "booksCount": 0,
+    "booksCount": 1,
     "subscriptions": {
         "52821952-vkontakte": 83,
         "115226508-vkontakte": 42,
@@ -10,5 +10,5 @@
         "105831994080785626680-google": 50
     },
     "createdAt": "2018-04-05 20:16:05",
-    "updatedAt": "2018-04-05 20:43:29"
+    "updatedAt": "2018-04-05 21:53:26"
 }
