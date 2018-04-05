@@ -1,4 +1,16 @@
 {
+    "aqOb7a2YyS": {
+        "id": "aqOb7a2YyS",
+        "title": "Зулейха открывает глаза",
+        "author": "Гузель Яхина",
+        "notes": "",
+        "createdAt": "2018-04-05 17:29:24",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 42
+        }
+    },
     "-XSS9FdLrS": {
         "id": "-XSS9FdLrS",
         "title": "Другая жизнь",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 13
-        }
-    },
-    "E2hAuhYEOG": {
-        "id": "E2hAuhYEOG",
-        "title": "На западном фронте без перемен",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2018-04-04 16:39:25",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 12
         }
     }
 }
