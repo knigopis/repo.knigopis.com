@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[elena-par](users/450/4506016-vkontakte)<sup>0</sup> 
+[elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>60</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>64</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katirkin](users/104/10432558-vkontakte)<sup>0</sup> 
 
 
-_05.04.2018 19:19:29_
+_05.04.2018 19:21:19_

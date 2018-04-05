@@ -1,4 +1,16 @@
 {
+    "4DbfyQfx0U": {
+        "id": "4DbfyQfx0U",
+        "title": "Седьмая казнь",
+        "author": "Джеймс Роллинс",
+        "notes": "",
+        "createdAt": "2018-04-05 19:21:19",
+        "user": {
+            "id": "4506016-vkontakte",
+            "nickname": "elena-par",
+            "booksCount": 1
+        }
+    },
     "J3XRODIQ9D": {
         "id": "J3XRODIQ9D",
         "title": "Алая буква",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 32
-        }
-    },
-    "fqc3B_3GnS": {
-        "id": "fqc3B_3GnS",
-        "title": "Ребенок, который был вещью",
-        "author": "Дэйв Пельцер",
-        "notes": "",
-        "createdAt": "2018-04-04 17:15:49",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 31
         }
     }
 }
