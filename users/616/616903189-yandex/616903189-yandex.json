@@ -3,6 +3,9 @@
     "profile": "",
     "identity": "http://openid.yandex.ru/kpnew/",
     "booksCount": 0,
+    "subscriptions": {
+        "52821952-vkontakte": 83
+    },
     "createdAt": "2018-04-05 20:16:05",
-    "updatedAt": "2018-04-05 20:16:05"
+    "updatedAt": "2018-04-05 20:37:48"
 }
