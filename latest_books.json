@@ -1,4 +1,16 @@
 {
+    "8LWQM5o5OR": {
+        "id": "8LWQM5o5OR",
+        "title": "Игра в бисер",
+        "author": "Герман Гессе",
+        "notes": "",
+        "createdAt": "2018-04-05 17:40:02",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 55
+        }
+    },
     "77nPW4TER5": {
         "id": "77nPW4TER5",
         "title": "Расщелина",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 26
-        }
-    },
-    "rVMN-VIrrM": {
-        "id": "rVMN-VIrrM",
-        "title": "Семья вурдалаков",
-        "author": "А. К. Толстой",
-        "notes": "",
-        "createdAt": "2018-04-04 17:10:09",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 25
         }
     }
 }
