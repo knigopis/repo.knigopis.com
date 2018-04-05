@@ -1,4 +1,10 @@
 {
+    "616903189-yandex": {
+        "id": "616903189-yandex",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-04-05 20:16:05"
+    },
     "4506016-vkontakte": {
         "id": "4506016-vkontakte",
         "nickname": "elena-par",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 150,
         "updatedAt": "2018-03-26 20:55:00"
-    },
-    "10432558-vkontakte": {
-        "id": "10432558-vkontakte",
-        "nickname": "katirkin",
-        "booksCount": 0,
-        "updatedAt": "2018-03-26 19:55:29"
     }
 }
