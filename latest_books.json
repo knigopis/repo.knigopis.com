@@ -1,4 +1,16 @@
 {
+    "LTj9Pb7sTv": {
+        "id": "LTj9Pb7sTv",
+        "title": "Падение",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2018-04-05 17:30:21",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 43
+        }
+    },
     "aqOb7a2YyS": {
         "id": "aqOb7a2YyS",
         "title": "Зулейха открывает глаза",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 14
-        }
-    },
-    "XjS5fySOu8": {
-        "id": "XjS5fySOu8",
-        "title": "Триумфальная арка",
-        "author": "Эрих Мария Ремарк",
-        "notes": "",
-        "createdAt": "2018-04-04 16:40:18",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 13
         }
     }
 }
