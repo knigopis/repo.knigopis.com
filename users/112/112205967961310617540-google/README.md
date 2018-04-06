@@ -179,7 +179,7 @@ Aldous Huxley
 
 
 ### Rework: бизнес без предрассудков
-Джейсон Фрайд, Дэвид Хенссон
+Jason Fried, David Hansson
 > [2017-02-27] 
 
 
