@@ -1,4 +1,10 @@
 {
+    "15706320-vkontakte": {
+        "id": "15706320-vkontakte",
+        "nickname": "borodach",
+        "booksCount": 115,
+        "updatedAt": "2018-04-06 12:35:45"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -106,12 +112,6 @@
         "nickname": "Халвил Хрофт",
         "booksCount": 0,
         "updatedAt": "2018-04-02 11:44:48"
-    },
-    "15706320-vkontakte": {
-        "id": "15706320-vkontakte",
-        "nickname": "borodach",
-        "booksCount": 114,
-        "updatedAt": "2018-04-02 11:35:59"
     },
     "66767060-vkontakte": {
         "id": "66767060-vkontakte",
