@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>614</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [RolanD](users/174/17491858816989224292-mailru)<sup>1</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>38</sup> 
-[kasikandriena](users/152/152488954-vkontakte)<sup>44</sup> 
 
 
-_06.04.2018 05:36:52_
+_06.04.2018 06:14:04_
