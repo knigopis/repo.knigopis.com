@@ -123,8 +123,8 @@ Gary Keller
 > ISBN-13: 978-1885167774
 
 
-### Мартин Иден
-Джек Лондон
+### Martin Eden
+Jack London
 > [2017-05-25] 
 
 
