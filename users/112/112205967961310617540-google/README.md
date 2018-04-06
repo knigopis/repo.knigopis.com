@@ -128,8 +128,8 @@ Jack London
 > [2017-05-25] 
 
 
-### Двери восприятия. Рай и ад
-Олдос Хаксли
+### The Doors of Perception
+Aldous Huxley
 > [2017-05-04] 
 
 
