@@ -1,4 +1,10 @@
 {
+    "605506538-yandex": {
+        "id": "605506538-yandex",
+        "nickname": "sundesertrose",
+        "booksCount": 0,
+        "updatedAt": "2018-04-06 08:19:37"
+    },
     "215722372-vkontakte": {
         "id": "215722372-vkontakte",
         "nickname": "kristina_golik",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 145,
         "updatedAt": "2018-03-28 12:51:04"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 38,
-        "updatedAt": "2018-03-28 11:13:04"
     }
 }
