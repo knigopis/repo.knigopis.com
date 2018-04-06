@@ -119,8 +119,7 @@ Cal Newport
 
 ### The ONE Thing
 Gary Keller
-> [2017-06-15] 10/10
-> ISBN-13: 978-1885167774
+> [2017-06-15] 
 
 
 ### Martin Eden
