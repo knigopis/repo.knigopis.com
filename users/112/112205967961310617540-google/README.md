@@ -178,7 +178,7 @@ Aldous Huxley
 > [2017-03-05] 
 
 
-### Rework: бизнес без предрассудков
+### Rework
 Jason Fried, David Hansson
 > [2017-02-27] 
 
