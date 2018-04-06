@@ -108,8 +108,7 @@ Brian Tracy
 
 ### So Good They Can't Ignore You
 Cal Newport
-> [2017-08-03] 10/10
-> ISBN-13: 978-1455509126
+> [2017-08-03] 
 
 
 ### Тансферсинг реальности
