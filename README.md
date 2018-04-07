@@ -33,12 +33,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>115</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>615</sup> 
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
-[](users/616/616903189-yandex)<sup>1</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
 [](users/115/115826717712507836033-google)<sup>60</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>64</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 
 
-_06.04.2018 18:03:41_
+_07.04.2018 20:29:23_
