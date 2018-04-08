@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>38</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>37</sup>
 ---
 
 ## 2018
@@ -126,10 +126,6 @@ Joshua Bloch
 
 
 ## Other years
-
-### Чайка по имени Джонатан Ливингстон
-Ричард Бах
-
 
 ### Гарри Поттер 1—5
 Дж. К. Роулинг
