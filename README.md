@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>38</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>115</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>117</sup> 
 [ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>7</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>19</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 
 
-_07.04.2018 22:52:29_
+_08.04.2018 01:51:44_
