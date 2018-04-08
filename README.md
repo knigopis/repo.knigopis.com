@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>37</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>7</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>19</sup> 
 [RolanD](users/174/17491858816989224292-mailru)<sup>1</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 
 
-_08.04.2018 01:52:22_
+_08.04.2018 07:21:09_
