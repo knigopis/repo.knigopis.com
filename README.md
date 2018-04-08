@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/109/109348398605703676806-google)<sup>0</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup> 
 [Калинина Марина](users/139/13934519318903262389-mailru)<sup>0</sup> 
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
-[fox_mi](users/220/220022778-vkontakte)<sup>7</sup> 
 
 
-_08.04.2018 11:32:45_
+_08.04.2018 12:25:50_
