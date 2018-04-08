@@ -19,6 +19,9 @@ Dmitry Jemerov, Svetlana Isakova
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас
+Андрей Солдатов, Ирина Бороган
+
 ### `12` Совершенный код
 Стив Макконнелл
 
@@ -28,9 +31,6 @@ Dmitry Jemerov, Svetlana Isakova
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
-
-### `7` Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас
-Андрей Солдатов, Ирина Бороган
 
 ### `7` Git from the Bottom Up
 John Wiegley
