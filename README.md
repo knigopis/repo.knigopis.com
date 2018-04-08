@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>38</sup> 
+[me](users/381/381417697-yandex)<sup>37</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>115</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>145</sup> 
 
 
-_08.04.2018 01:51:44_
+_08.04.2018 01:52:22_
