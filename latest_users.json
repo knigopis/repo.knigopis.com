@@ -1,4 +1,10 @@
 {
+    "126368737-vkontakte": {
+        "id": "126368737-vkontakte",
+        "nickname": "Макар Коренюк",
+        "booksCount": 2,
+        "updatedAt": "2018-04-08 11:32:45"
+    },
     "13934519318903262389-mailru": {
         "id": "13934519318903262389-mailru",
         "nickname": "Калинина Марина",
@@ -172,11 +178,5 @@
         "nickname": "fox_mi",
         "booksCount": 7,
         "updatedAt": "2018-03-31 15:27:16"
-    },
-    "249815548-vkontakte": {
-        "id": "249815548-vkontakte",
-        "nickname": "striped_one",
-        "booksCount": 19,
-        "updatedAt": "2018-03-29 15:55:47"
     }
 }
