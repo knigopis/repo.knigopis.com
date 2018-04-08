@@ -1,4 +1,10 @@
 {
+    "13934519318903262389-mailru": {
+        "id": "13934519318903262389-mailru",
+        "nickname": "Калинина Марина",
+        "booksCount": 0,
+        "updatedAt": "2018-04-08 10:31:04"
+    },
     "428593824261185-facebook": {
         "id": "428593824261185-facebook",
         "nickname": "Lexey",
@@ -172,11 +178,5 @@
         "nickname": "striped_one",
         "booksCount": 19,
         "updatedAt": "2018-03-29 15:55:47"
-    },
-    "17491858816989224292-mailru": {
-        "id": "17491858816989224292-mailru",
-        "nickname": "RolanD",
-        "booksCount": 1,
-        "updatedAt": "2018-03-29 09:28:15"
     }
 }
