@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Madlax](users/158/158304782-vkontakte)<sup>138</sup> 
+[Madlax](users/158/158304782-vkontakte)<sup>139</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 
 
-_09.04.2018 19:42:02_
+_09.04.2018 19:42:22_

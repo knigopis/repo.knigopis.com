@@ -1,7 +1,12 @@
-# List of books read by [Madlax](http://vk.com/id158304782)<sup>138</sup>
+# List of books read by [Madlax](http://vk.com/id158304782)<sup>139</sup>
 ---
 
 ## 2018
+
+### Том 4 Планетология часть I, Солнце и Луна
+Сергей Вронский
+> [2018-04-09] 
+
 
 ### Норвежский лес
 Харуки Мураками
