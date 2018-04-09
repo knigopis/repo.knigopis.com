@@ -1,4 +1,16 @@
 {
+    "0VzGa-E7f_": {
+        "id": "0VzGa-E7f_",
+        "title": "Том 3 Домология",
+        "author": "Сергей Вронский",
+        "notes": "",
+        "createdAt": "2018-04-09 19:42:02",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 138
+        }
+    },
     "iXYjWAwZFB": {
         "id": "iXYjWAwZFB",
         "title": "Том 2 Градусология",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 46
-        }
-    },
-    "K932Pvr9kH": {
-        "id": "K932Pvr9kH",
-        "title": "Вот пришел великан",
-        "author": "Константин Воробьев",
-        "notes": "",
-        "createdAt": "2018-04-05 17:31:45",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 45
         }
     }
 }
