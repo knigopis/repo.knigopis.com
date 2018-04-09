@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>115</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>615</sup> 
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
 
 
-_09.04.2018 12:49:19_
+_09.04.2018 12:54:23_
