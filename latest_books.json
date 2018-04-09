@@ -1,4 +1,16 @@
 {
+    "iXYjWAwZFB": {
+        "id": "iXYjWAwZFB",
+        "title": "Том 2 Градусология",
+        "author": "Сергей Вронский",
+        "notes": "",
+        "createdAt": "2018-04-09 19:41:51",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 137
+        }
+    },
     "qfenAnE7Et": {
         "id": "qfenAnE7Et",
         "title": "Том 1. Введение в астрологию",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 45
-        }
-    },
-    "GlCZw--smz": {
-        "id": "GlCZw--smz",
-        "title": "Качели дыхания",
-        "author": "Герта Мюллер",
-        "notes": "",
-        "createdAt": "2018-04-05 17:30:58",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 44
         }
     }
 }
