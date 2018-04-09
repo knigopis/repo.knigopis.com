@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>117</sup> 
 [ pifarik](users/100/100006392211781937215-google)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>299</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 
 
-_09.04.2018 12:26:44_
+_09.04.2018 12:49:19_

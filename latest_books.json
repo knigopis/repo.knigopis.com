@@ -1,4 +1,16 @@
 {
+    "2ZuYmwYhkj": {
+        "id": "2ZuYmwYhkj",
+        "title": "Тихий Дон",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2018-04-09 12:49:18",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 45
+        }
+    },
     "SIbhzYgQa2": {
         "id": "SIbhzYgQa2",
         "title": "Второй шанс на жизнь.",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 42
-        }
-    },
-    "-XSS9FdLrS": {
-        "id": "-XSS9FdLrS",
-        "title": "Другая жизнь",
-        "author": "Лайонел Шрайвер",
-        "notes": "",
-        "createdAt": "2018-04-04 17:24:24",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 41
         }
     }
 }

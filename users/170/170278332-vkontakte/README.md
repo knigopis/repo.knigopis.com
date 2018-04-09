@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>44</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>45</sup>
 ---
 
 ## 2018
+
+### Тихий Дон
+Михаил Шолохов
+> [2018-04-08] 
+
 
 ### Разгром
 Александр Фадеев
