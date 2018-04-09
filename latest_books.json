@@ -1,4 +1,16 @@
 {
+    "qfenAnE7Et": {
+        "id": "qfenAnE7Et",
+        "title": "Том 1. Введение в астрологию",
+        "author": "Сергей Вронский",
+        "notes": "",
+        "createdAt": "2018-04-09 19:41:15",
+        "user": {
+            "id": "158304782-vkontakte",
+            "nickname": "Madlax",
+            "booksCount": 136
+        }
+    },
     "cx7cuuEchq": {
         "id": "cx7cuuEchq",
         "title": "Праздник, который всегда с тобой",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 44
-        }
-    },
-    "LTj9Pb7sTv": {
-        "id": "LTj9Pb7sTv",
-        "title": "Падение",
-        "author": "Альбер Камю",
-        "notes": "",
-        "createdAt": "2018-04-05 17:30:21",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 43
         }
     }
 }
