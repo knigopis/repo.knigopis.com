@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
 * Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 * Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
@@ -30,7 +31,6 @@
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
 * Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 * Природа зверя ~ [Sky](users/118/118049897850017649660-google)<sup>74</sup>
-* Мор, ученик Смерти ~ [Garka](users/115/115753719718250012620-google)<sup>174</sup>
 
 
-_08.04.2018 13:05:59_
+_09.04.2018 08:16:40_
