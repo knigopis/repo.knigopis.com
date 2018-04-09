@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 38,
+        "updatedAt": "2018-04-09 12:26:44"
+    },
     "12601720503917094896-mailru": {
         "id": "12601720503917094896-mailru",
         "nickname": "Neccochi",
@@ -28,12 +34,6 @@
         "nickname": "Lexey",
         "booksCount": 0,
         "updatedAt": "2018-04-08 07:21:07"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 37,
-        "updatedAt": "2018-04-08 01:52:21"
     },
     "616903189-yandex": {
         "id": "616903189-yandex",

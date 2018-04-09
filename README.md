@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>38</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
 [](users/109/109348398605703676806-google)<sup>0</sup> 
 [Калинина Марина](users/139/13934519318903262389-mailru)<sup>0</sup> 
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
-[me](users/381/381417697-yandex)<sup>37</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>51</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>115</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Rainbow](users/109/109787328219839805802-google)<sup>44</sup> 
 
 
-_09.04.2018 08:16:40_
+_09.04.2018 12:26:44_
