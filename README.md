@@ -46,7 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[olashik](users/186/18643116-vkontakte)<sup>0</sup> 
+[olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>117</sup> 
 
 
-_10.04.2018 12:00:58_
+_10.04.2018 12:01:43_

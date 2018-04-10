@@ -1,4 +1,16 @@
 {
+    "LFeTMTbyKE": {
+        "id": "LFeTMTbyKE",
+        "title": "8[",
+        "author": "7yy",
+        "notes": "yu\n\nuu\n\nrrr",
+        "createdAt": "2018-04-10 12:01:43",
+        "user": {
+            "id": "18643116-vkontakte",
+            "nickname": "olashik",
+            "booksCount": 1
+        }
+    },
     "kRWYzbJaui": {
         "id": "kRWYzbJaui",
         "title": "Латеральное мышление",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 49
-        }
-    },
-    "pV1TdNdjT0": {
-        "id": "pV1TdNdjT0",
-        "title": "Страх полета",
-        "author": "Эрика Джонг",
-        "notes": "",
-        "createdAt": "2018-04-05 17:34:12",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 48
         }
     }
 }
