@@ -1,4 +1,16 @@
 {
+    "TLY7Uw1v18": {
+        "id": "TLY7Uw1v18",
+        "title": "DevOps with Kubernetes",
+        "author": "Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu",
+        "notes": "",
+        "createdAt": "2018-04-10 19:58:39",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 60
+        }
+    },
     "3ZpokCO6Mb": {
         "id": "3ZpokCO6Mb",
         "title": "ПАТТЕРНЫ проектирования.",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 51
-        }
-    },
-    "We2bSAhna0": {
-        "id": "We2bSAhna0",
-        "title": "Чтец",
-        "author": "Бернхард Шлинк",
-        "notes": "",
-        "createdAt": "2018-04-05 17:35:55",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 50
         }
     }
 }

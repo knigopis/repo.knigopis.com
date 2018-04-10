@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>59</sup>
+# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>60</sup>
 ---
 
 ## 2018
+
+### DevOps with Kubernetes
+Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
+> [2018-04-09] 
+
 
 ### Scrum. Революционный метод управления проектами
 Джефф Сазерленд

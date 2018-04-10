@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>113</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
 [DjAtaman](users/106/106309223005338857765-google)<sup>1</sup> 
 [Халвил Хрофт](users/180/18087548654675765361-mailru)<sup>0</sup> 
-[neccochi](users/667/66767060-vkontakte)<sup>0</sup> 
 
 
-_10.04.2018 13:18:37_
+_10.04.2018 19:58:39_
