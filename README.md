@@ -46,13 +46,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>38</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>113</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
-[me](users/381/381417697-yandex)<sup>38</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
 [](users/109/109348398605703676806-google)<sup>0</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Халвил Хрофт](users/180/18087548654675765361-mailru)<sup>0</sup> 
 
 
-_10.04.2018 19:58:39_
+_10.04.2018 22:15:14_
