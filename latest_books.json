@@ -1,4 +1,16 @@
 {
+    "3ZpokCO6Mb": {
+        "id": "3ZpokCO6Mb",
+        "title": "ПАТТЕРНЫ проектирования.",
+        "author": "Эрик Фримен, Элизабет Фримен при участии Кэтти Сьерра и Берта Бейтса",
+        "notes": "",
+        "createdAt": "2018-04-10 13:18:37",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 113
+        }
+    },
     "LFeTMTbyKE": {
         "id": "LFeTMTbyKE",
         "title": "8[",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 50
-        }
-    },
-    "2TBfnofFgv": {
-        "id": "2TBfnofFgv",
-        "title": "Танец голода",
-        "author": "Гюстав Леклезио",
-        "notes": "",
-        "createdAt": "2018-04-05 17:34:51",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 49
         }
     }
 }
