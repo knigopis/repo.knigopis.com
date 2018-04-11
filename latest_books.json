@@ -1,4 +1,16 @@
 {
+    "G0m9DHrtHQ": {
+        "id": "G0m9DHrtHQ",
+        "title": "Марта Квест",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-04-11 08:27:33",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 81
+        }
+    },
     "f2QtWJpWuN": {
         "id": "f2QtWJpWuN",
         "title": "Любовь, опять любовь",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 136
-        }
-    },
-    "cx7cuuEchq": {
-        "id": "cx7cuuEchq",
-        "title": "Праздник, который всегда с тобой",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-04-09 12:54:22",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 616
         }
     }
 }
