@@ -1,4 +1,16 @@
 {
+    "xCUdKjLjZE": {
+        "id": "xCUdKjLjZE",
+        "title": "Посторонний",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2018-04-11 08:38:46",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 91
+        }
+    },
     "2VpEgkF4df": {
         "id": "2VpEgkF4df",
         "title": "Невыносимая легкость бытия",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 62
-        }
-    },
-    "bEgZbymx9e": {
-        "id": "bEgZbymx9e",
-        "title": "Загадочная Коко Шанель",
-        "author": "Марсель Эдрих",
-        "notes": "",
-        "createdAt": "2018-04-11 08:01:14",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 61
         }
     }
 }
