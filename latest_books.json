@@ -1,4 +1,16 @@
 {
+    "4jjIeJUt5l": {
+        "id": "4jjIeJUt5l",
+        "title": "Скотный двор",
+        "author": "Джордж Оруэл",
+        "notes": "",
+        "createdAt": "2018-04-11 08:28:16",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 82
+        }
+    },
     "G0m9DHrtHQ": {
         "id": "G0m9DHrtHQ",
         "title": "Марта Квест",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 137
-        }
-    },
-    "qfenAnE7Et": {
-        "id": "qfenAnE7Et",
-        "title": "Том 1. Введение в астрологию",
-        "author": "Сергей Вронский",
-        "notes": "",
-        "createdAt": "2018-04-09 19:41:15",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 136
         }
     }
 }
