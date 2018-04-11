@@ -1,4 +1,16 @@
 {
+    "gvLZSU_CBu": {
+        "id": "gvLZSU_CBu",
+        "title": "Возвращение",
+        "author": "Андрей Платонов",
+        "notes": "",
+        "createdAt": "2018-04-11 08:06:06",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 66
+        }
+    },
     "vaF57eZobI": {
         "id": "vaF57eZobI",
         "title": "Доктор Живаго (перечитала)",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 58
-        }
-    },
-    "GyYBhFFA5B": {
-        "id": "GyYBhFFA5B",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2018-04-05 17:46:25",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 57
         }
     }
 }
