@@ -1,4 +1,16 @@
 {
+    "Bqi8r01VOw": {
+        "id": "Bqi8r01VOw",
+        "title": "Воды слонам!",
+        "author": "Сара Груэн",
+        "notes": "",
+        "createdAt": "2018-04-11 08:22:21",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 76
+        }
+    },
     "eD2z0d7YtN": {
         "id": "eD2z0d7YtN",
         "title": "Шелк",
@@ -345,18 +357,6 @@
             "id": "126368737-vkontakte",
             "nickname": "Макар Коренюк",
             "booksCount": 2
-        }
-    },
-    "uX_ioAI5uc": {
-        "id": "uX_ioAI5uc",
-        "title": "Чайка по имени Джонатан Ливингстон",
-        "author": "Ричард Бах",
-        "notes": "",
-        "createdAt": "2018-04-08 01:51:44",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 38
         }
     }
 }
