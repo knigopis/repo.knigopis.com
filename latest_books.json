@@ -1,4 +1,16 @@
 {
+    "KnCEjjBxiw": {
+        "id": "KnCEjjBxiw",
+        "title": "Повелитель мух",
+        "author": "Вильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-04-11 17:23:18",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 98
+        }
+    },
     "Nau_rBflTt": {
         "id": "Nau_rBflTt",
         "title": "Цветы для Элджернона",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 72
-        }
-    },
-    "4lvG9V7bXD": {
-        "id": "4lvG9V7bXD",
-        "title": "Академик Ландау; как мы жили",
-        "author": "К. Ландау- Дробанцева",
-        "notes": "",
-        "createdAt": "2018-04-11 08:16:27",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 71
         }
     }
 }
