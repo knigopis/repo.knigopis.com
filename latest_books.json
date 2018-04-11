@@ -1,4 +1,16 @@
 {
+    "Nau_rBflTt": {
+        "id": "Nau_rBflTt",
+        "title": "Цветы для Элджернона",
+        "author": "Дэниэл Киз",
+        "notes": "",
+        "createdAt": "2018-04-11 17:22:27",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 97
+        }
+    },
     "4u0MF9HjZk": {
         "id": "4u0MF9HjZk",
         "title": "Смерть Артемио Круса",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 71
-        }
-    },
-    "AUyir0-yRd": {
-        "id": "AUyir0-yRd",
-        "title": "Диего и Фрида",
-        "author": "Жан-Мари Леклезио",
-        "notes": "",
-        "createdAt": "2018-04-11 08:15:23",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 70
         }
     }
 }
