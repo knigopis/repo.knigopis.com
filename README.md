@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>116</sup> 
 [En](users/333/333646551-vkontakte)<sup>41</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
 [](users/115/115826717712507836033-google)<sup>93</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Калинина Марина](users/139/13934519318903262389-mailru)<sup>0</sup> 
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>115</sup> 
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
@@ -78,4 +78,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
 
 
-_11.04.2018 10:33:44_
+_11.04.2018 12:13:24_
