@@ -1,4 +1,16 @@
 {
+    "0_l1-8fI55": {
+        "id": "0_l1-8fI55",
+        "title": "Американский психопат",
+        "author": "Брет Эллис",
+        "notes": "",
+        "createdAt": "2018-04-11 08:29:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 84
+        }
+    },
     "Hu0v9a5RoY": {
         "id": "Hu0v9a5RoY",
         "title": "Училка",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 139
-        }
-    },
-    "0VzGa-E7f_": {
-        "id": "0VzGa-E7f_",
-        "title": "Том 3 Домология",
-        "author": "Сергей Вронский",
-        "notes": "",
-        "createdAt": "2018-04-09 19:42:02",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 138
         }
     }
 }
