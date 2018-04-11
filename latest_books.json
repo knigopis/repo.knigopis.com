@@ -1,4 +1,16 @@
 {
+    "FJ_Qyp72UN": {
+        "id": "FJ_Qyp72UN",
+        "title": "Еврейский вопрос в России",
+        "author": "Николай Лесков",
+        "notes": "",
+        "createdAt": "2018-04-11 08:33:23",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 88
+        }
+    },
     "u7ovTBPvBT": {
         "id": "u7ovTBPvBT",
         "title": "Милые кости",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 60
-        }
-    },
-    "3ZpokCO6Mb": {
-        "id": "3ZpokCO6Mb",
-        "title": "ПАТТЕРНЫ проектирования.",
-        "author": "Эрик Фримен, Элизабет Фримен при участии Кэтти Сьерра и Берта Бейтса",
-        "notes": "",
-        "createdAt": "2018-04-10 13:18:37",
-        "user": {
-            "id": "196071655-vkontakte",
-            "nickname": "afferens.lucem",
-            "booksCount": 113
         }
     }
 }
