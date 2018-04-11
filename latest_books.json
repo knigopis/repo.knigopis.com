@@ -1,4 +1,16 @@
 {
+    "JnJXrd3GwH": {
+        "id": "JnJXrd3GwH",
+        "title": "Множественные умы Билли Миллигана",
+        "author": "Дэниэл Киз",
+        "notes": "",
+        "createdAt": "2018-04-11 17:25:30",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 100
+        }
+    },
     "iSgTgmtFrm": {
         "id": "iSgTgmtFrm",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 74
-        }
-    },
-    "aAMlR3fjCU": {
-        "id": "aAMlR3fjCU",
-        "title": "Книга из человеческой кожи",
-        "author": "Мишель Ловрик",
-        "notes": "",
-        "createdAt": "2018-04-11 08:20:00",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 73
         }
     }
 }
