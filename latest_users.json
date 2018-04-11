@@ -1,4 +1,10 @@
 {
+    "3621623-vkontakte": {
+        "id": "3621623-vkontakte",
+        "nickname": "abzagir4ik",
+        "booksCount": 107,
+        "updatedAt": "2018-04-11 09:34:34"
+    },
     "115826717712507836033-google": {
         "id": "115826717712507836033-google",
         "nickname": null,
@@ -172,11 +178,5 @@
         "nickname": "Мария Мазько",
         "booksCount": 0,
         "updatedAt": "2018-04-02 16:22:24"
-    },
-    "106309223005338857765-google": {
-        "id": "106309223005338857765-google",
-        "nickname": "DjAtaman",
-        "booksCount": 1,
-        "updatedAt": "2018-04-02 11:58:21"
     }
 }

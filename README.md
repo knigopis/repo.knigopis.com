@@ -46,6 +46,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
 [](users/115/115826717712507836033-google)<sup>93</sup> 
 [En](users/333/333646551-vkontakte)<sup>40</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>52</sup> 
@@ -75,7 +76,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>176</sup> 
 [snowcoffe](users/102/102767416-vkontakte)<sup>0</sup> 
 [Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
-[DjAtaman](users/106/106309223005338857765-google)<sup>1</sup> 
 
 
-_11.04.2018 08:40:44_
+_11.04.2018 09:34:34_
