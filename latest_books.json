@@ -1,4 +1,16 @@
 {
+    "UkB3CZfwYC": {
+        "id": "UkB3CZfwYC",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Бредбери",
+        "notes": "",
+        "createdAt": "2018-04-11 08:39:42",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 92
+        }
+    },
     "xCUdKjLjZE": {
         "id": "xCUdKjLjZE",
         "title": "Посторонний",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 63
-        }
-    },
-    "ldWMYEW0wc": {
-        "id": "ldWMYEW0wc",
-        "title": "Империя ангелов",
-        "author": "Бернард Вейбер",
-        "notes": "",
-        "createdAt": "2018-04-11 08:02:13",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 62
         }
     }
 }
