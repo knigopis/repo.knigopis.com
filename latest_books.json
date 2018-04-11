@@ -1,4 +1,16 @@
 {
+    "BzaZpgIdYi": {
+        "id": "BzaZpgIdYi",
+        "title": "Леди Макбет Мценского уезда",
+        "author": "Николай Лесков",
+        "notes": "",
+        "createdAt": "2018-04-11 08:30:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 85
+        }
+    },
     "0_l1-8fI55": {
         "id": "0_l1-8fI55",
         "title": "Американский психопат",
@@ -345,18 +357,6 @@
             "id": "158304782-vkontakte",
             "nickname": "Madlax",
             "booksCount": 140
-        }
-    },
-    "aIK8n__lEl": {
-        "id": "aIK8n__lEl",
-        "title": "Том 4 Планетология часть I, Солнце и Луна",
-        "author": "Сергей Вронский",
-        "notes": "",
-        "createdAt": "2018-04-09 19:42:22",
-        "user": {
-            "id": "158304782-vkontakte",
-            "nickname": "Madlax",
-            "booksCount": 139
         }
     }
 }
