@@ -1,4 +1,16 @@
 {
+    "vaF57eZobI": {
+        "id": "vaF57eZobI",
+        "title": "Доктор Живаго (перечитала)",
+        "author": "Борис Пастернак",
+        "notes": "",
+        "createdAt": "2018-04-11 08:05:07",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 65
+        }
+    },
     "sfdaWKrzHE": {
         "id": "sfdaWKrzHE",
         "title": "Болезнь Портного",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 57
-        }
-    },
-    "LCFFvGxoX-": {
-        "id": "LCFFvGxoX-",
-        "title": "Стрекоза, увеличенная до размеров собаки",
-        "author": "Ольга Славникова",
-        "notes": "",
-        "createdAt": "2018-04-05 17:41:00",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 56
         }
     }
 }
