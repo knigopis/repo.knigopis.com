@@ -1,4 +1,16 @@
 {
+    "ldWMYEW0wc": {
+        "id": "ldWMYEW0wc",
+        "title": "Империя ангелов",
+        "author": "Бернард Вейбер",
+        "notes": "",
+        "createdAt": "2018-04-11 08:02:13",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 62
+        }
+    },
     "bEgZbymx9e": {
         "id": "bEgZbymx9e",
         "title": "Загадочная Коко Шанель",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 54
-        }
-    },
-    "hged930fUf": {
-        "id": "hged930fUf",
-        "title": "Любовные реки, семейные берега",
-        "author": "Дмитрий Соколов",
-        "notes": "",
-        "createdAt": "2018-04-05 17:38:16",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 53
         }
     }
 }
