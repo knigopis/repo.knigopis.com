@@ -1,4 +1,16 @@
 {
+    "u7ovTBPvBT": {
+        "id": "u7ovTBPvBT",
+        "title": "Милые кости",
+        "author": "Элис Сиболд",
+        "notes": "",
+        "createdAt": "2018-04-11 08:32:55",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 87
+        }
+    },
     "r7pvuwIU8f": {
         "id": "r7pvuwIU8f",
         "title": "Томленье духа",
@@ -345,18 +357,6 @@
             "id": "196071655-vkontakte",
             "nickname": "afferens.lucem",
             "booksCount": 113
-        }
-    },
-    "LFeTMTbyKE": {
-        "id": "LFeTMTbyKE",
-        "title": "8[",
-        "author": "7yy",
-        "notes": "yu\n\nuu\n\nrrr",
-        "createdAt": "2018-04-10 12:01:43",
-        "user": {
-            "id": "18643116-vkontakte",
-            "nickname": "olashik",
-            "booksCount": 1
         }
     }
 }
