@@ -1,4 +1,16 @@
 {
+    "BmIvkeJk8t": {
+        "id": "BmIvkeJk8t",
+        "title": "Клеймо",
+        "author": "Ахерн Сесилия",
+        "notes": "Идея напоминает Право на рождение. Зевин Гарбриэль. Хотя язык и сюжет поинтереснее.\nЭто что теперь - модно? Почему нужно 17летнюю девченку посадить в тюрьму,  сделать символом борьбы???",
+        "createdAt": "2018-04-11 04:59:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 52
+        }
+    },
     "TLY7Uw1v18": {
         "id": "TLY7Uw1v18",
         "title": "DevOps with Kubernetes",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 52
-        }
-    },
-    "BZjxN2j1ZZ": {
-        "id": "BZjxN2j1ZZ",
-        "title": "Бесчестье",
-        "author": "Джозеф Максвелл Кутзее",
-        "notes": "",
-        "createdAt": "2018-04-05 17:36:49",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 51
         }
     }
 }

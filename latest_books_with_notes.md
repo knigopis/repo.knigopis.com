@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 * Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
 * Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
-* Мистер Томпкинс исследует атом ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>146</sup>
 
 
-_09.04.2018 19:42:48_
+_11.04.2018 04:59:58_

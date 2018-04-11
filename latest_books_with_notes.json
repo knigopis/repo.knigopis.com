@@ -1,4 +1,16 @@
 {
+    "BmIvkeJk8t": {
+        "id": "BmIvkeJk8t",
+        "title": "Клеймо",
+        "author": "Ахерн Сесилия",
+        "notes": "Идея напоминает Право на рождение. Зевин Гарбриэль. Хотя язык и сюжет поинтереснее.\nЭто что теперь - модно? Почему нужно 17летнюю девченку посадить в тюрьму,  сделать символом борьбы???",
+        "createdAt": "2018-04-11 04:59:58",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 52
+        }
+    },
     "kRWYzbJaui": {
         "id": "kRWYzbJaui",
         "title": "Латеральное мышление",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 79
-        }
-    },
-    "KW1B4xq5wn": {
-        "id": "KW1B4xq5wn",
-        "title": "Мистер Томпкинс исследует атом",
-        "author": "Георгий Гамов",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1511479/",
-        "createdAt": "2018-03-13 21:24:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 146
         }
     }
 }
