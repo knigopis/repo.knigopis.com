@@ -1,4 +1,16 @@
 {
+    "f2QtWJpWuN": {
+        "id": "f2QtWJpWuN",
+        "title": "Любовь, опять любовь",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-04-11 08:26:59",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 80
+        }
+    },
     "EZG8EUVbgp": {
         "id": "EZG8EUVbgp",
         "title": "Пианистка",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 616
-        }
-    },
-    "2ZuYmwYhkj": {
-        "id": "2ZuYmwYhkj",
-        "title": "Тихий Дон",
-        "author": "Михаил Шолохов",
-        "notes": "",
-        "createdAt": "2018-04-09 12:49:18",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 45
         }
     }
 }
