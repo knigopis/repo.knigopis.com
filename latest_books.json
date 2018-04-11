@@ -1,4 +1,16 @@
 {
+    "4B14AQhemD": {
+        "id": "4B14AQhemD",
+        "title": "Франкенштейн, или Современный Прометей",
+        "author": "Мэри Шелли",
+        "notes": "",
+        "createdAt": "2018-04-11 08:40:44",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 93
+        }
+    },
     "UkB3CZfwYC": {
         "id": "UkB3CZfwYC",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 64
-        }
-    },
-    "yLTCNalN4C": {
-        "id": "yLTCNalN4C",
-        "title": "Красный смех",
-        "author": "Леонид Андреев",
-        "notes": "",
-        "createdAt": "2018-04-11 08:02:45",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 63
         }
     }
 }
