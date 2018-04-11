@@ -1,4 +1,16 @@
 {
+    "MX_J71riZH": {
+        "id": "MX_J71riZH",
+        "title": "Садовник",
+        "author": "Родриго Кортес",
+        "notes": "",
+        "createdAt": "2018-04-11 08:19:16",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 72
+        }
+    },
     "4lvG9V7bXD": {
         "id": "4lvG9V7bXD",
         "title": "Академик Ландау; как мы жили",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 615
-        }
-    },
-    "XNTvDSp2te": {
-        "id": "XNTvDSp2te",
-        "title": "Хюгге, или уютное счастье по-датски",
-        "author": "Хеллен Рассел",
-        "notes": "",
-        "createdAt": "2018-04-06 05:36:52",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 614
         }
     }
 }
