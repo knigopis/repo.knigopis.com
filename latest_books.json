@@ -1,4 +1,16 @@
 {
+    "4u0MF9HjZk": {
+        "id": "4u0MF9HjZk",
+        "title": "Смерть Артемио Круса",
+        "author": "Карлос Фуэнтес",
+        "notes": "",
+        "createdAt": "2018-04-11 17:21:29",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 96
+        }
+    },
     "mBEZwPYg2t": {
         "id": "mBEZwPYg2t",
         "title": "Бойня номер 5, или Крестовый поход детей",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 70
-        }
-    },
-    "mRYmY_7UR4": {
-        "id": "mRYmY_7UR4",
-        "title": "Похороните меня за плинтусом",
-        "author": "Павел Санаев",
-        "notes": "",
-        "createdAt": "2018-04-11 08:14:17",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 69
         }
     }
 }
