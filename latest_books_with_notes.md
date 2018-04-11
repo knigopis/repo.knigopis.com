@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 * Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
@@ -30,7 +31,6 @@
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
 * Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
 * Русская кухня в изгнании ~ [Chiffi](users/105/105831994080785626680-google)<sup>48</sup>
-* Палата номер 6 ~ [Apprentice ](users/528/52821952-vkontakte)<sup>79</sup>
 
 
-_11.04.2018 04:59:58_
+_11.04.2018 10:33:44_
