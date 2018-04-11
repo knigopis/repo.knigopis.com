@@ -1,4 +1,16 @@
 {
+    "bEgZbymx9e": {
+        "id": "bEgZbymx9e",
+        "title": "Загадочная Коко Шанель",
+        "author": "Марсель Эдрих",
+        "notes": "",
+        "createdAt": "2018-04-11 08:01:14",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 61
+        }
+    },
     "BmIvkeJk8t": {
         "id": "BmIvkeJk8t",
         "title": "Клеймо",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 53
-        }
-    },
-    "LqAJVWIQ83": {
-        "id": "LqAJVWIQ83",
-        "title": "Улица темных лавок",
-        "author": "Патрик Модиано",
-        "notes": "",
-        "createdAt": "2018-04-05 17:37:28",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 52
         }
     }
 }
