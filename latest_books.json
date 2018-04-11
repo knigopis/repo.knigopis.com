@@ -1,4 +1,16 @@
 {
+    "xQX1bcKJk_": {
+        "id": "xQX1bcKJk_",
+        "title": "Сафо",
+        "author": "Альфонс Доде",
+        "notes": "",
+        "createdAt": "2018-04-11 17:26:31",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 101
+        }
+    },
     "JnJXrd3GwH": {
         "id": "JnJXrd3GwH",
         "title": "Множественные умы Билли Миллигана",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 75
-        }
-    },
-    "fQLYrwSYjx": {
-        "id": "fQLYrwSYjx",
-        "title": "Любите ли вы Брамса?",
-        "author": "Франсуаза Саган",
-        "notes": "",
-        "createdAt": "2018-04-11 08:20:48",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 74
         }
     }
 }
