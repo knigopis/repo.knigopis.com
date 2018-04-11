@@ -1,4 +1,16 @@
 {
+    "HSBFa_ZMZm": {
+        "id": "HSBFa_ZMZm",
+        "title": "Венера в мехах",
+        "author": "Л. Захер-Мазох",
+        "notes": "",
+        "createdAt": "2018-04-11 17:33:08",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 113
+        }
+    },
     "Tok-9vEhb5": {
         "id": "Tok-9vEhb5",
         "title": "Мои посмертные приключения",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 81
-        }
-    },
-    "f2QtWJpWuN": {
-        "id": "f2QtWJpWuN",
-        "title": "Любовь, опять любовь",
-        "author": "Дорис Лессинг",
-        "notes": "",
-        "createdAt": "2018-04-11 08:26:59",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 80
         }
     }
 }
