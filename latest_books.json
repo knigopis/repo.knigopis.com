@@ -1,4 +1,16 @@
 {
+    "s3bYIIdLpP": {
+        "id": "s3bYIIdLpP",
+        "title": "Сон в летнюю ночь",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2018-04-12 15:08:56",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 77
+        }
+    },
     "HCgf0ythRS": {
         "id": "HCgf0ythRS",
         "title": "Лечение от любви и другие психотерапевтические новеллы",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 87
-        }
-    },
-    "r7pvuwIU8f": {
-        "id": "r7pvuwIU8f",
-        "title": "Томленье духа",
-        "author": "Николай Лесков",
-        "notes": "",
-        "createdAt": "2018-04-11 08:30:57",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 86
         }
     }
 }

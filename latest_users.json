@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 77,
+        "updatedAt": "2018-04-12 15:08:56"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 176,
         "updatedAt": "2018-04-03 05:11:34"
-    },
-    "102767416-vkontakte": {
-        "id": "102767416-vkontakte",
-        "nickname": "snowcoffe",
-        "booksCount": 0,
-        "updatedAt": "2018-04-02 19:53:37"
     }
 }
