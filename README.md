@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[crushtest](users/107/107195111986699431246-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>42</sup> 
 [](users/115/115826717712507836033-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>116</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>42</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>176</sup> 
 [snowcoffe](users/102/102767416-vkontakte)<sup>0</sup> 
-[Мария Мазько](users/997/997901511979140838-mailru)<sup>0</sup> 
 
 
-_12.04.2018 06:14:28_
+_12.04.2018 09:05:28_
