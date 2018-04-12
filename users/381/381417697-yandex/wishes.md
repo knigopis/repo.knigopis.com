@@ -22,12 +22,12 @@ Dmitry Jemerov, Svetlana Isakova
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -47,27 +47,35 @@ Joel Spolsky
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `` Три товарища
-Эрих Мария Ремарк
-
 ### `` Мертвые души
 Николай Гоголь
 
-### `` Concurrency in practice
-
-### `` The Cathedral and the Bazaar
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` Rx
-?
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` The Cathedral and the Bazaar
+
+### `` Concurrency in practice
+
+### `` Овод
+Этель Лилиан Войнич
 
 ### `` Герой нашего времени
 Михаил Лермонтов
+
+### `` Братья Карамазовы
+Фёдор Достоевский
+
+### `` Повелитель мух
+Уильям Голдинг
+
+### `` Новая
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
@@ -75,12 +83,6 @@ Satoshi Nakamoto
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` Повелитель мух
-Уильям Голдинг
-
-### `` Овод
-Этель Лилиан Войнич
-
-### `` Братья Карамазовы
-Фёдор Достоевский
+### `` Rx
+?
 
