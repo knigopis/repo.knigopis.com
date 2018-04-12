@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 65,
+        "updatedAt": "2018-04-12 09:09:18"
+    },
     "107195111986699431246-google": {
         "id": "107195111986699431246-google",
         "nickname": "crushtest",
@@ -130,12 +136,6 @@
         "nickname": "elena-par",
         "booksCount": 1,
         "updatedAt": "2018-04-05 19:21:19"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 64,
-        "updatedAt": "2018-04-04 16:19:47"
     },
     "2033580363583983-facebook": {
         "id": "2033580363583983-facebook",

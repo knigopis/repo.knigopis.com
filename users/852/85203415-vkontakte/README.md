@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>64</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>65</sup>
 ---
 
 ## 2018
+
+### Лечение от любви и другие психотерапевтические новеллы
+Ирвин Ялом
+> [2018-04-11] 
+
 
 ### Лжец на кушетке
 Ирвин Ялом

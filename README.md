@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>65</sup> 
 [crushtest](users/107/107195111986699431246-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>42</sup> 
 [](users/115/115826717712507836033-google)<sup>110</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>64</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [snowcoffe](users/102/102767416-vkontakte)<sup>0</sup> 
 
 
-_12.04.2018 09:05:28_
+_12.04.2018 09:09:19_

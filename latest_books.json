@@ -1,4 +1,16 @@
 {
+    "HCgf0ythRS": {
+        "id": "HCgf0ythRS",
+        "title": "Лечение от любви и другие психотерапевтические новеллы",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2018-04-12 09:09:18",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 65
+        }
+    },
     "Uy66nFn2XH": {
         "id": "Uy66nFn2XH",
         "title": "Далекая радуга",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 86
-        }
-    },
-    "BzaZpgIdYi": {
-        "id": "BzaZpgIdYi",
-        "title": "Леди Макбет Мценского уезда",
-        "author": "Николай Лесков",
-        "notes": "",
-        "createdAt": "2018-04-11 08:30:29",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 85
         }
     }
 }
