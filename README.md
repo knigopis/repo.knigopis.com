@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/111/111050419861327579964-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>177</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
-[richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 
 
-_13.04.2018 21:55:15_
+_13.04.2018 23:54:40_
