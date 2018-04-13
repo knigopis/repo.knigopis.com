@@ -1,4 +1,16 @@
 {
+    "TyE-A-pG0A": {
+        "id": "TyE-A-pG0A",
+        "title": "Маркетинг",
+        "author": "Манн",
+        "notes": "",
+        "createdAt": "2018-04-13 21:45:57",
+        "user": {
+            "id": "1313602812-facebook",
+            "nickname": "Shibaev",
+            "booksCount": 1
+        }
+    },
     "xtjUe3bYAy": {
         "id": "xtjUe3bYAy",
         "title": "Академия родная",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 91
-        }
-    },
-    "2VpEgkF4df": {
-        "id": "2VpEgkF4df",
-        "title": "Невыносимая легкость бытия",
-        "author": "Милан Кунлера",
-        "notes": "",
-        "createdAt": "2018-04-11 08:34:37",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 90
         }
     }
 }
