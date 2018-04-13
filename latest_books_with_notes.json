@@ -1,4 +1,16 @@
 {
+    "mieeJaHFRc": {
+        "id": "mieeJaHFRc",
+        "title": "Полная Ж. Жизнь как бизнес-проект",
+        "author": "Радислав Гандапас",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/142823535/",
+        "createdAt": "2018-04-13 15:36:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 151
+        }
+    },
     "Uy66nFn2XH": {
         "id": "Uy66nFn2XH",
         "title": "Далекая радуга",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 81
-        }
-    },
-    "K9zzA_95al": {
-        "id": "K9zzA_95al",
-        "title": "Робинзон Крузо",
-        "author": "Даниель Дефо",
-        "notes": "9,5/10",
-        "createdAt": "2018-03-17 19:13:49",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 80
         }
     }
 }

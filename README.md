@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/142823535/
+
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
     > Далекая планета, где ученые ставят эксперименты, дети растут в окружении природы,но все в один день сносит Волна.
 
@@ -12,8 +17,6 @@ Do not use pull requests to make changes here.
     > Книга ужасающая, гибнет много народа, гибель ребенка главного героя, один из главных героев слюнтяй и тряпка, который хорохорится и бесит неимоверно. Как всегда у Тармашева долго начало и развитие событий, зато под конец становится так интересно что читается на одном дыхании и руки сами тянутся за следующей частью
 
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
-    > Идея напоминает Право на рождение. Зевин Гарбриэль. Хотя язык и сюжет поинтереснее.
-    > Это что теперь - модно? Почему нужно 17летнюю девченку посадить в тюрьму,  сделать символом борьбы???
 
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 
@@ -27,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>42</sup>
 
-* Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup> 
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>65</sup> 
@@ -63,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>118</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>42</sup> 
 
 
-_13.04.2018 14:26:22_
+_13.04.2018 15:36:03_

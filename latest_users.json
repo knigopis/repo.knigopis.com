@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 151,
+        "updatedAt": "2018-04-13 15:36:03"
+    },
     "98207696-vkontakte": {
         "id": "98207696-vkontakte",
         "nickname": "krivza",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 118,
         "updatedAt": "2018-04-03 11:07:26"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 42,
-        "updatedAt": "2018-04-03 07:31:28"
     }
 }

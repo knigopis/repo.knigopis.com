@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
@@ -30,7 +31,6 @@
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 * Мистер Томпкинс в Стране Чудес, или Истории о "с", "G" и "h" ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>147</sup>
 * Дама с собачкой ~ [Apprentice ](users/528/52821952-vkontakte)<sup>81</sup>
-* Робинзон Крузо ~ [Apprentice ](users/528/52821952-vkontakte)<sup>80</sup>
 
 
-_12.04.2018 06:14:28_
+_13.04.2018 15:36:03_

@@ -1,4 +1,16 @@
 {
+    "mieeJaHFRc": {
+        "id": "mieeJaHFRc",
+        "title": "Полная Ж. Жизнь как бизнес-проект",
+        "author": "Радислав Гандапас",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/142823535/",
+        "createdAt": "2018-04-13 15:36:03",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 151
+        }
+    },
     "s3bYIIdLpP": {
         "id": "s3bYIIdLpP",
         "title": "Сон в летнюю ночь",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 88
-        }
-    },
-    "u7ovTBPvBT": {
-        "id": "u7ovTBPvBT",
-        "title": "Милые кости",
-        "author": "Элис Сиболд",
-        "notes": "",
-        "createdAt": "2018-04-11 08:32:55",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 87
         }
     }
 }
