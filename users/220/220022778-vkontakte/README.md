@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>7</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>8</sup>
 ---
 
 ## Other years
+
+### Бойня номер 5
+Курт Воннегут
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери

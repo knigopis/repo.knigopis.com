@@ -1,4 +1,16 @@
 {
+    "4wM756D5DL": {
+        "id": "4wM756D5DL",
+        "title": "Бойня номер 5",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2018-04-13 16:37:09",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 8
+        }
+    },
     "mieeJaHFRc": {
         "id": "mieeJaHFRc",
         "title": "Полная Ж. Жизнь как бизнес-проект",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 89
-        }
-    },
-    "FJ_Qyp72UN": {
-        "id": "FJ_Qyp72UN",
-        "title": "Еврейский вопрос в России",
-        "author": "Николай Лесков",
-        "notes": "",
-        "createdAt": "2018-04-11 08:33:23",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 88
         }
     }
 }

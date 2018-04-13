@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup> 
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>118</sup> 
 
 
-_13.04.2018 15:36:03_
+_13.04.2018 16:37:09_
