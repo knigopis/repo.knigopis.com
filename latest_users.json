@@ -1,4 +1,10 @@
 {
+    "1313602812-facebook": {
+        "id": "1313602812-facebook",
+        "nickname": "Shibaev",
+        "booksCount": 0,
+        "updatedAt": "2018-04-13 21:45:08"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "richie._.sambora",
         "booksCount": 2,
         "updatedAt": "2018-04-03 20:37:48"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 83,
-        "updatedAt": "2018-04-03 20:12:41"
     }
 }
