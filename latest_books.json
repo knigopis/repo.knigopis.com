@@ -1,4 +1,16 @@
 {
+    "xtjUe3bYAy": {
+        "id": "xtjUe3bYAy",
+        "title": "Академия родная",
+        "author": "Ломачинский, Андрей Анатольевич",
+        "notes": "Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины",
+        "createdAt": "2018-04-13 19:33:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 177
+        }
+    },
     "4wM756D5DL": {
         "id": "4wM756D5DL",
         "title": "Бойня номер 5",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 90
-        }
-    },
-    "RPF9fqKpvk": {
-        "id": "RPF9fqKpvk",
-        "title": "Пятый ребенок",
-        "author": "Дорис Лессинг",
-        "notes": "",
-        "createdAt": "2018-04-11 08:33:56",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 89
         }
     }
 }

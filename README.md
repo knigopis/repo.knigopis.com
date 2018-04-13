@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
+    > Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины
+
 * Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Далекая планета, где ученые ставят эксперименты, дети растут в окружении природы,но все в один день сносит Волна.
 
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
-    > Книга ужасающая, гибнет много народа, гибель ребенка главного героя, один из главных героев слюнтяй и тряпка, который хорохорится и бесит неимоверно. Как всегда у Тармашева долго начало и развитие событий, зато под конец становится так интересно что читается на одном дыхании и руки сами тянутся за следующей частью
 
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
 
-* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>177</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup> 
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
-[ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
 
 
-_13.04.2018 16:37:09_
+_13.04.2018 19:33:40_

@@ -1,4 +1,16 @@
 {
+    "xtjUe3bYAy": {
+        "id": "xtjUe3bYAy",
+        "title": "Академия родная",
+        "author": "Ломачинский, Андрей Анатольевич",
+        "notes": "Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины",
+        "createdAt": "2018-04-13 19:33:40",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 177
+        }
+    },
     "mieeJaHFRc": {
         "id": "mieeJaHFRc",
         "title": "Полная Ж. Жизнь как бизнес-проект",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 147
-        }
-    },
-    "HvVixDS2Pp": {
-        "id": "HvVixDS2Pp",
-        "title": "Дама с собачкой",
-        "author": "Антон Чехов",
-        "notes": "7/10",
-        "createdAt": "2018-03-17 20:49:31",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 81
         }
     }
 }
