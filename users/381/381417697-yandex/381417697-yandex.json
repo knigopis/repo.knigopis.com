@@ -7,7 +7,6 @@
     "identity": "http://openid.yandex.ru/knigopis/",
     "booksCount": 38,
     "subscriptions": {
-        "888300831313360-facebook": 1,
         "9142387-vkontakte": 72,
         "2352103981-twitter": 36,
         "108881769841095262504-google": 1,
@@ -89,5 +88,5 @@
         "158304782-vkontakte": 140
     },
     "createdAt": "2016-04-30 02:41:33",
-    "updatedAt": "2018-04-13 21:42:33"
+    "updatedAt": "2018-04-13 21:42:39"
 }
