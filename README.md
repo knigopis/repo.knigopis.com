@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup> 
 
 
-_13.04.2018 21:43:44_
+_13.04.2018 21:44:01_
