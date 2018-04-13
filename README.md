@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
+[Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>177</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>2</sup> 
 
 
-_13.04.2018 21:46:08_
+_13.04.2018 21:46:19_
