@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>65</sup> 
 [crushtest](users/107/107195111986699431246-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ilyamecheriakov](users/176/176759837-vkontakte)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>118</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>42</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>176</sup> 
 
 
-_12.04.2018 15:08:56_
+_13.04.2018 14:26:22_
