@@ -35,8 +35,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>0</sup> 
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 
 
-_14.04.2018 14:45:24_
+_14.04.2018 15:01:25_
