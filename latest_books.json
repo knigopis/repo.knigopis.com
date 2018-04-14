@@ -1,4 +1,16 @@
 {
+    "XV31WL02bl": {
+        "id": "XV31WL02bl",
+        "title": "Vyvub",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-14 21:56:14",
+        "user": {
+            "id": "ktlntk-tumblr",
+            "nickname": null,
+            "booksCount": 1
+        }
+    },
     "YGtNBZ5yta": {
         "id": "YGtNBZ5yta",
         "title": "Как управлять рабами",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 93
-        }
-    },
-    "UkB3CZfwYC": {
-        "id": "UkB3CZfwYC",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Бредбери",
-        "notes": "",
-        "createdAt": "2018-04-11 08:39:42",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 92
         }
     }
 }
