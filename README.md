@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/ktl/ktlntk-tumblr)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/616/616903189-yandex)<sup>1</sup> 
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
-[elena-par](users/450/4506016-vkontakte)<sup>1</sup> 
 
 
-_14.04.2018 01:21:39_
+_14.04.2018 14:05:50_
