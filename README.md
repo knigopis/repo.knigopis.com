@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 
 
-_14.04.2018 15:01:25_
+_14.04.2018 17:26:26_
