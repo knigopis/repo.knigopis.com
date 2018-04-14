@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
+    > Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.
+
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
     > Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/142823535/
 
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
-    > Далекая планета, где ученые ставят эксперименты, дети растут в окружении природы,но все в один день сносит Волна.
 
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 
-* Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>53</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>1</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>110</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>116</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>52</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>113</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 
 
-_14.04.2018 21:56:14_
+_14.04.2018 22:01:07_

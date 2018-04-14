@@ -1,4 +1,16 @@
 {
+    "ulymB_pjaf": {
+        "id": "ulymB_pjaf",
+        "title": "Быть Воином (Путь князя)",
+        "author": "Злотников Роман",
+        "notes": "Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.",
+        "createdAt": "2018-04-14 22:01:07",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 53
+        }
+    },
     "XV31WL02bl": {
         "id": "XV31WL02bl",
         "title": "Vyvub",
@@ -345,18 +357,6 @@
             "id": "3621623-vkontakte",
             "nickname": "abzagir4ik",
             "booksCount": 107
-        }
-    },
-    "4B14AQhemD": {
-        "id": "4B14AQhemD",
-        "title": "Франкенштейн, или Современный Прометей",
-        "author": "Мэри Шелли",
-        "notes": "",
-        "createdAt": "2018-04-11 08:40:44",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 93
         }
     }
 }
