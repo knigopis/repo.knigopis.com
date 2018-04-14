@@ -1,4 +1,10 @@
 {
+    "ktlntk-tumblr": {
+        "id": "ktlntk-tumblr",
+        "nickname": null,
+        "booksCount": 0,
+        "updatedAt": "2018-04-14 14:05:50"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "kristina_golik",
         "booksCount": 0,
         "updatedAt": "2018-04-06 06:14:02"
-    },
-    "4506016-vkontakte": {
-        "id": "4506016-vkontakte",
-        "nickname": "elena-par",
-        "booksCount": 1,
-        "updatedAt": "2018-04-05 19:21:19"
     }
 }
