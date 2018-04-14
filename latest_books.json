@@ -1,4 +1,16 @@
 {
+    "YGtNBZ5yta": {
+        "id": "YGtNBZ5yta",
+        "title": "Как управлять рабами",
+        "author": "Марк Сидоний Фалкс",
+        "notes": "",
+        "createdAt": "2018-04-14 14:45:24",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 46
+        }
+    },
     "TyE-A-pG0A": {
         "id": "TyE-A-pG0A",
         "title": "Маркетинг",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 92
-        }
-    },
-    "xCUdKjLjZE": {
-        "id": "xCUdKjLjZE",
-        "title": "Посторонний",
-        "author": "Альбер Камю",
-        "notes": "",
-        "createdAt": "2018-04-11 08:38:46",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 91
         }
     }
 }

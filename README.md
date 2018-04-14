@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>45</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
 [](users/109/109348398605703676806-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 
 
-_14.04.2018 14:31:08_
+_14.04.2018 14:45:24_

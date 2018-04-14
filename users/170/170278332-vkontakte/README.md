@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>45</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>46</sup>
 ---
 
 ## 2018
+
+### Как управлять рабами
+Марк Сидоний Фалкс
+> [2018-04-14] 
+
 
 ### Тихий Дон
 Михаил Шолохов
