@@ -1,4 +1,16 @@
 {
+    "xU3JQ9f4dj": {
+        "id": "xU3JQ9f4dj",
+        "title": "Десять негритят",
+        "author": "Агата Кристи",
+        "notes": "",
+        "createdAt": "2018-04-15 20:40:22",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 6
+        }
+    },
     "HUkDqspfLU": {
         "id": "HUkDqspfLU",
         "title": "Королева Марго",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 97
-        }
-    },
-    "4u0MF9HjZk": {
-        "id": "4u0MF9HjZk",
-        "title": "Смерть Артемио Круса",
-        "author": "Карлос Фуэнтес",
-        "notes": "",
-        "createdAt": "2018-04-11 17:21:29",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 96
         }
     }
 }
