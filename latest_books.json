@@ -1,4 +1,16 @@
 {
+    "Bj3t5WKM9M": {
+        "id": "Bj3t5WKM9M",
+        "title": "Горе от ума",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:44:47",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 22
+        }
+    },
     "ysQvOob9eg": {
         "id": "ysQvOob9eg",
         "title": "Портрет Дориана Грея",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 77
-        }
-    },
-    "HCgf0ythRS": {
-        "id": "HCgf0ythRS",
-        "title": "Лечение от любви и другие психотерапевтические новеллы",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2018-04-12 09:09:18",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 65
         }
     }
 }
