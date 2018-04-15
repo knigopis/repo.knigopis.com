@@ -1,4 +1,10 @@
 {
+    "1867395113473883-facebook": {
+        "id": "1867395113473883-facebook",
+        "nickname": "Muslima",
+        "booksCount": 0,
+        "updatedAt": "2018-04-15 20:35:14"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 1,
         "updatedAt": "2018-04-07 22:52:29"
-    },
-    "605506538-yandex": {
-        "id": "605506538-yandex",
-        "nickname": "sundesertrose",
-        "booksCount": 0,
-        "updatedAt": "2018-04-06 08:19:37"
     }
 }
