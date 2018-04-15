@@ -1,4 +1,16 @@
 {
+    "lVoCIM5dP7": {
+        "id": "lVoCIM5dP7",
+        "title": "Бесприданница",
+        "author": "Островский",
+        "notes": "",
+        "createdAt": "2018-04-15 21:01:37",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 39
+        }
+    },
     "bvHnJo5Y7c": {
         "id": "bvHnJo5Y7c",
         "title": "Дон Кихот",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 8
-        }
-    },
-    "mln-JfE5ME": {
-        "id": "mln-JfE5ME",
-        "title": "Одиннадцать минут",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:40:48",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 7
         }
     }
 }
