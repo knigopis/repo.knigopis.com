@@ -1,4 +1,16 @@
 {
+    "5BbIh9ZEXH": {
+        "id": "5BbIh9ZEXH",
+        "title": "Собака Баскервилей",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:43:14",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 17
+        }
+    },
     "sYJMdkS2B6": {
         "id": "sYJMdkS2B6",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "115826717712507836033-google",
             "nickname": null,
             "booksCount": 114
-        }
-    },
-    "HSBFa_ZMZm": {
-        "id": "HSBFa_ZMZm",
-        "title": "Венера в мехах",
-        "author": "Л. Захер-Мазох",
-        "notes": "",
-        "createdAt": "2018-04-11 17:33:08",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 113
         }
     }
 }
