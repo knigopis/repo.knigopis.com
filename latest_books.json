@@ -1,4 +1,16 @@
 {
+    "S9MFKDllMg": {
+        "id": "S9MFKDllMg",
+        "title": "Старик и море",
+        "author": "Хемингуэй",
+        "notes": "",
+        "createdAt": "2018-04-15 20:56:33",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 31
+        }
+    },
     "lkpfIHisZf": {
         "id": "lkpfIHisZf",
         "title": "Горе от ума",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 1
-        }
-    },
-    "ulymB_pjaf": {
-        "id": "ulymB_pjaf",
-        "title": "Быть Воином (Путь князя)",
-        "author": "Злотников Роман",
-        "notes": "Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.",
-        "createdAt": "2018-04-14 22:01:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 53
         }
     }
 }
