@@ -1,4 +1,16 @@
 {
+    "ysQvOob9eg": {
+        "id": "ysQvOob9eg",
+        "title": "Портрет Дориана Грея",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:44:38",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 21
+        }
+    },
     "hugRHFnJLS": {
         "id": "hugRHFnJLS",
         "title": "Герой нашего времени",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 65
-        }
-    },
-    "Uy66nFn2XH": {
-        "id": "Uy66nFn2XH",
-        "title": "Далекая радуга",
-        "author": "Стругацкие",
-        "notes": "Далекая планета, где ученые ставят эксперименты, дети растут в окружении природы,но все в один день сносит Волна.",
-        "createdAt": "2018-04-12 06:14:28",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 42
         }
     }
 }
