@@ -1,4 +1,16 @@
 {
+    "hugRHFnJLS": {
+        "id": "hugRHFnJLS",
+        "title": "Герой нашего времени",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:44:27",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 20
+        }
+    },
     "2GLYJKJKL8": {
         "id": "2GLYJKJKL8",
         "title": "Вишневый сад",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 42
-        }
-    },
-    "--qg8LhvQ_": {
-        "id": "--qg8LhvQ_",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бкрджесс",
-        "notes": "",
-        "createdAt": "2018-04-11 17:35:17",
-        "user": {
-            "id": "115826717712507836033-google",
-            "nickname": null,
-            "booksCount": 116
         }
     }
 }
