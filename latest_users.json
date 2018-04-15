@@ -1,4 +1,10 @@
 {
+    "172614868-vkontakte": {
+        "id": "172614868-vkontakte",
+        "nickname": "richbich",
+        "booksCount": 0,
+        "updatedAt": "2018-04-15 00:01:19"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "sundesertrose",
         "booksCount": 0,
         "updatedAt": "2018-04-06 08:19:37"
-    },
-    "215722372-vkontakte": {
-        "id": "215722372-vkontakte",
-        "nickname": "kristina_golik",
-        "booksCount": 0,
-        "updatedAt": "2018-04-06 06:14:02"
     }
 }
