@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/ktl/ktlntk-tumblr)<sup>1</sup> 
+[](users/ktl/ktlntk-tumblr)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/616/616903189-yandex)<sup>1</sup> 
 
 
-_15.04.2018 21:34:12_
+_15.04.2018 21:34:15_
