@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Muslima](users/186/1867395113473883-facebook)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>53</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Калинина Марина](users/139/13934519318903262389-mailru)<sup>0</sup> 
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
-[sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 
 
-_15.04.2018 15:34:33_
+_15.04.2018 20:35:14_
