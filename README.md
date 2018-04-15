@@ -35,11 +35,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>38</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>53</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>1</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
-[me](users/381/381417697-yandex)<sup>38</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>177</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
 
 
-_15.04.2018 00:01:20_
+_15.04.2018 15:34:33_
