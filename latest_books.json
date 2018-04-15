@@ -1,4 +1,16 @@
 {
+    "Xe579wYswu": {
+        "id": "Xe579wYswu",
+        "title": "Одиночество в сети",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:46:05",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 27
+        }
+    },
     "8ojCRfNuCi": {
         "id": "8ojCRfNuCi",
         "title": "Шантарам",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 46
-        }
-    },
-    "TyE-A-pG0A": {
-        "id": "TyE-A-pG0A",
-        "title": "Маркетинг",
-        "author": "Манн",
-        "notes": "",
-        "createdAt": "2018-04-13 21:45:57",
-        "user": {
-            "id": "1313602812-facebook",
-            "nickname": "Shibaev",
-            "booksCount": 1
         }
     }
 }
