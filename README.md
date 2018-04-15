@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>53</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>1</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
 [](users/616/616903189-yandex)<sup>1</sup> 
 [sundesertrose](users/605/605506538-yandex)<sup>0</sup> 
-[kristina_golik](users/215/215722372-vkontakte)<sup>0</sup> 
 
 
-_14.04.2018 22:01:07_
+_15.04.2018 00:01:20_
