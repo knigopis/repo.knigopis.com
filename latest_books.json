@@ -1,4 +1,16 @@
 {
+    "3uByfpty3A": {
+        "id": "3uByfpty3A",
+        "title": "Мертвые души",
+        "author": "Гоголь",
+        "notes": "",
+        "createdAt": "2018-04-15 20:55:40",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 29
+        }
+    },
     "6A5hG-xtB1": {
         "id": "6A5hG-xtB1",
         "title": "Убить переспешника",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 53
-        }
-    },
-    "XV31WL02bl": {
-        "id": "XV31WL02bl",
-        "title": "Vyvub",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-14 21:56:14",
-        "user": {
-            "id": "ktlntk-tumblr",
-            "nickname": null,
-            "booksCount": 1
         }
     }
 }
