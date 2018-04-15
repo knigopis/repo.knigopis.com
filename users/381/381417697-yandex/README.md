@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>37</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>38</sup>
 ---
 
 ## 2018
@@ -23,7 +23,7 @@ Joshua Bloch
 
 ### Вся кремлевская рать. Краткая история современной России
 Михаил Зыгарь
-> [2016-06-10] jsusjsjs
+> [2016-06-10] 
 
 
 ### Кратчайшая история времени
