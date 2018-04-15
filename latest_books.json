@@ -1,4 +1,16 @@
 {
+    "8ojCRfNuCi": {
+        "id": "8ojCRfNuCi",
+        "title": "Шантарам",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-15 20:45:40",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 26
+        }
+    },
     "ipISrE0uk9": {
         "id": "ipISrE0uk9",
         "title": "300 спартанцев",
@@ -345,18 +357,6 @@
             "id": "1313602812-facebook",
             "nickname": "Shibaev",
             "booksCount": 1
-        }
-    },
-    "xtjUe3bYAy": {
-        "id": "xtjUe3bYAy",
-        "title": "Академия родная",
-        "author": "Ломачинский, Андрей Анатольевич",
-        "notes": "Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины",
-        "createdAt": "2018-04-13 19:33:40",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 177
         }
     }
 }
