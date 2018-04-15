@@ -1,4 +1,16 @@
 {
+    "2kTnEzokOS": {
+        "id": "2kTnEzokOS",
+        "title": "Капитанская дочка",
+        "author": "Пушкин",
+        "notes": "",
+        "createdAt": "2018-04-15 20:58:55",
+        "user": {
+            "id": "1867395113473883-facebook",
+            "nickname": "Muslima",
+            "booksCount": 34
+        }
+    },
     "TkINybzWu2": {
         "id": "TkINybzWu2",
         "title": "Палата 6",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 4
-        }
-    },
-    "BYfwoPTnY6": {
-        "id": "BYfwoPTnY6",
-        "title": "Господа Головлевы",
-        "author": "Салтыков-Щедрин М.Е",
-        "notes": "",
-        "createdAt": "2018-04-15 20:38:42",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 3
         }
     }
 }
