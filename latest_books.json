@@ -1,4 +1,16 @@
 {
+    "ypL6UKIiOi": {
+        "id": "ypL6UKIiOi",
+        "title": "Фауст",
+        "author": "Иоганн Вольфганг фон Гёте",
+        "notes": "",
+        "createdAt": "2018-04-16 11:41:48",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 120
+        }
+    },
     "ADceHnw2XM": {
         "id": "ADceHnw2XM",
         "title": "Король Лир",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 12
-        }
-    },
-    "bVWFLcZlQc": {
-        "id": "bVWFLcZlQc",
-        "title": "Тарас Бульба",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:41:44",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 11
         }
     }
 }
