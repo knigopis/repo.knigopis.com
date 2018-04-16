@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>118</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>119</sup>
 ---
 
 ## 2018
+
+### Один День
+Дэвид Николс
+> [2018-04-16] 
+
 
 ### Постатеизм, или Бедная Религия
 Михаил Эпштейн
