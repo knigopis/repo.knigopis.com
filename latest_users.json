@@ -1,4 +1,10 @@
 {
+    "ktlntk-tumblr": {
+        "id": "ktlntk-tumblr",
+        "nickname": "jack",
+        "booksCount": 2,
+        "updatedAt": "2018-04-16 20:36:16"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -16,12 +22,6 @@
         "nickname": "Lost in Frost",
         "booksCount": 120,
         "updatedAt": "2018-04-16 11:41:48"
-    },
-    "ktlntk-tumblr": {
-        "id": "ktlntk-tumblr",
-        "nickname": null,
-        "booksCount": 2,
-        "updatedAt": "2018-04-15 21:34:27"
     },
     "1867395113473883-facebook": {
         "id": "1867395113473883-facebook",
