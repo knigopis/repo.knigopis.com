@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lost in Frost](users/103/103293621948650602575-google)<sup>120</sup> 
+[Lost in Frost](users/103/103293621948650602575-google)<sup>119</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
 [me](users/381/381417697-yandex)<sup>38</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lexey](users/428/428593824261185-facebook)<sup>0</sup> 
 
 
-_16.04.2018 11:40:52_
+_16.04.2018 11:41:20_
