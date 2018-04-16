@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
+    > 9,5/10
+
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
     > Тяжелая, но сильная книга, правдиво рассказывающая о жизни инвалида в советском детдоме. 
     > Узнаешь просто разом столько ужасных и несправедливых вещей, что начинаешь радоваться, что сейчас ситуация немного лучше. но намного ли лучше - это уже вопрос
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > достаточно драматично об этом читать, хотя я и фильмы смотрела на эту тему, и другие книги и статьи читала
 
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
-    > Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.
 
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 
-* Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>84</sup> 
 [jack](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>44</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
-[](users/109/109348398605703676806-google)<sup>0</sup> 
 
 
-_16.04.2018 20:36:17_
+_16.04.2018 22:23:42_

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике ~ [Saamy](users/115/115226508-vkontakte)<sup>40</sup>
 * Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
-* Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
 
 
-_16.04.2018 19:41:40_
+_16.04.2018 22:23:42_

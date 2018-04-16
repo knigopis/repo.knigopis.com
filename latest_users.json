@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 84,
+        "updatedAt": "2018-04-16 22:23:42"
+    },
     "ktlntk-tumblr": {
         "id": "ktlntk-tumblr",
         "nickname": "jack",
@@ -172,11 +178,5 @@
         "nickname": "Макар Коренюк",
         "booksCount": 3,
         "updatedAt": "2018-04-08 13:05:59"
-    },
-    "109348398605703676806-google": {
-        "id": "109348398605703676806-google",
-        "nickname": null,
-        "booksCount": 0,
-        "updatedAt": "2018-04-08 12:25:50"
     }
 }
