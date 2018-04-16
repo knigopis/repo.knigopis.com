@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
@@ -30,7 +31,6 @@
 * Жажда власти ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Исповедь ~ [craft](users/109/109631074460726923652-google)<sup>2</sup>
 * Летнее утро, летняя ночь ~ [craft](users/109/109631074460726923652-google)<sup>1</sup>
-* Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 
 
-_16.04.2018 19:38:22_
+_16.04.2018 19:41:40_
