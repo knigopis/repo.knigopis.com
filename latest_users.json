@@ -1,4 +1,10 @@
 {
+    "134524956-yandex": {
+        "id": "134524956-yandex",
+        "nickname": "plinapolina",
+        "booksCount": 0,
+        "updatedAt": "2018-04-16 11:44:48"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Калинина Марина",
         "booksCount": 0,
         "updatedAt": "2018-04-08 10:31:04"
-    },
-    "428593824261185-facebook": {
-        "id": "428593824261185-facebook",
-        "nickname": "Lexey",
-        "booksCount": 0,
-        "updatedAt": "2018-04-08 07:21:07"
     }
 }
