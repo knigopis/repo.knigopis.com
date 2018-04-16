@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 43,
+        "updatedAt": "2018-04-16 19:38:22"
+    },
     "134524956-yandex": {
         "id": "134524956-yandex",
         "nickname": "plinapolina",
@@ -172,11 +178,5 @@
         "nickname": null,
         "booksCount": 0,
         "updatedAt": "2018-04-08 12:25:50"
-    },
-    "13934519318903262389-mailru": {
-        "id": "13934519318903262389-mailru",
-        "nickname": "Калинина Марина",
-        "booksCount": 0,
-        "updatedAt": "2018-04-08 10:31:04"
     }
 }

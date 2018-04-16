@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
+    > Небольшая и тревожная брошюрка, где описывается ущерб, причиненный океану со стороны человека. 
+    > достаточно драматично об этом читать, хотя я и фильмы смотрела на эту тему, и другие книги и статьи читала
+
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
     > Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.
 
@@ -12,9 +16,6 @@ Do not use pull requests to make changes here.
     > Книга о жизни Андрея Анатольевича в ВМА - как всегда шикарно написано, много юмора и медицины
 
 * Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/142823535/
 
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
 
-* Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>43</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>120</sup> 
 [](users/ktl/ktlntk-tumblr)<sup>2</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
 [](users/109/109348398605703676806-google)<sup>0</sup> 
-[Калинина Марина](users/139/13934519318903262389-mailru)<sup>0</sup> 
 
 
-_16.04.2018 11:44:48_
+_16.04.2018 19:38:22_

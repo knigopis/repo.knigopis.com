@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
 * Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
@@ -12,7 +13,6 @@
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
 * Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 * Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
-* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>42</sup>
 * Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
 * Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>50</sup>
@@ -33,4 +33,4 @@
 * Метро 2033 ~ [EsterHani](users/305/30558181-vkontakte)<sup>142</sup>
 
 
-_14.04.2018 22:01:07_
+_16.04.2018 19:38:22_
