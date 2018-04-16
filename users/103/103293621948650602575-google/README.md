@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>120</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>119</sup>
 ---
 
 ## 2018
@@ -452,10 +452,6 @@
 
 ### Король Лир
 Уильям Шекспир
-
-
-### Фауст
-Иоганн Вольфганг фон Гёте
 
 
 ### Тимон Афинский
