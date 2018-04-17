@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 300,
+        "updatedAt": "2018-04-17 09:59:47"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Neccochi",
         "booksCount": 48,
         "updatedAt": "2018-04-09 08:16:40"
-    },
-    "126368737-vkontakte": {
-        "id": "126368737-vkontakte",
-        "nickname": "Макар Коренюк",
-        "booksCount": 3,
-        "updatedAt": "2018-04-08 13:05:59"
     }
 }

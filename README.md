@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>300</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup> 
 [jack](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>44</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
-[Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup> 
 
 
-_16.04.2018 22:23:42_
+_17.04.2018 09:59:47_
