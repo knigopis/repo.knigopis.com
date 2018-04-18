@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/ktl/ktlntk-tumblr)<sup>2</sup> 
+[j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>178</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 
 
-_18.04.2018 22:08:05_
+_18.04.2018 22:08:16_
