@@ -1,4 +1,16 @@
 {
+    "6U9LRn8g7h": {
+        "id": "6U9LRn8g7h",
+        "title": "Вий",
+        "author": "Николай Гоголь",
+        "notes": "",
+        "createdAt": "2018-04-18 08:34:23",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 121
+        }
+    },
     "K72OTxHj1T": {
         "id": "K72OTxHj1T",
         "title": "Артемида",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 17
-        }
-    },
-    "sYJMdkS2B6": {
-        "id": "sYJMdkS2B6",
-        "title": "Граф Монте-Кристо",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:42:54",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 16
         }
     }
 }

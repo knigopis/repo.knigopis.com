@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>120</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>121</sup>
 ---
 
 ## 2018
+
+### Вий
+Николай Гоголь
+> [2018-04-18] 
+
 
 ### Один День
 Дэвид Николс
