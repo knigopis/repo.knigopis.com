@@ -34,11 +34,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>178</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup> 
-[jack](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>44</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 
 
-_18.04.2018 19:15:21_
+_18.04.2018 22:08:05_
