@@ -1,4 +1,16 @@
 {
+    "uID7eNCeru": {
+        "id": "uID7eNCeru",
+        "title": "Реальность нереального",
+        "author": "В.В.Налимов, Ж.А.Дрогалина",
+        "notes": "в процессе",
+        "createdAt": "2018-04-19 20:10:45",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 152
+        }
+    },
     "1CQXfmgpAW": {
         "id": "1CQXfmgpAW",
         "title": "Гарри Поттер и Орден Феникса",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 23
-        }
-    },
-    "ysQvOob9eg": {
-        "id": "ysQvOob9eg",
-        "title": "Портрет Дориана Грея",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:44:38",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 21
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 152,
+        "updatedAt": "2018-04-19 20:10:45"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -100,12 +106,6 @@
         "nickname": "fox_mi",
         "booksCount": 8,
         "updatedAt": "2018-04-13 16:37:09"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 151,
-        "updatedAt": "2018-04-13 15:36:03"
     },
     "98207696-vkontakte": {
         "id": "98207696-vkontakte",

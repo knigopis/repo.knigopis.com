@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
+    > в процессе
+
 * Посох и шляпа ~ [Garka](users/115/115753719718250012620-google)<sup>178</sup>
     > На Диске впервые за сотни лет появляется Чудесник и это приводит к катастрофическим последствиям. Разруливать ситуацию приходится волшебнику с нулевыми способностями к магии Ринсвинду.
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > 9,5/10
 
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
-    > Тяжелая, но сильная книга, правдиво рассказывающая о жизни инвалида в советском детдоме. 
-    > Узнаешь просто разом столько ужасных и несправедливых вещей, что начинаешь радоваться, что сейчас ситуация немного лучше. но намного ли лучше - это уже вопрос
 
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 
-* Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>47</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
@@ -51,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup> 
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>65</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 
 
-_19.04.2018 11:37:54_
+_19.04.2018 20:10:45_

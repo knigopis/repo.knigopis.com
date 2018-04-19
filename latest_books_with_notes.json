@@ -1,4 +1,16 @@
 {
+    "uID7eNCeru": {
+        "id": "uID7eNCeru",
+        "title": "Реальность нереального",
+        "author": "В.В.Налимов, Ж.А.Дрогалина",
+        "notes": "в процессе",
+        "createdAt": "2018-04-19 20:10:45",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 152
+        }
+    },
     "g7vW_zg67c": {
         "id": "g7vW_zg67c",
         "title": "Посох и шляпа",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 40
-        }
-    },
-    "NR3xHWYj_y": {
-        "id": "NR3xHWYj_y",
-        "title": "Жажда власти",
-        "author": "Тармашев С.С.",
-        "notes": "Начало затянуто, но к концу все политические силы выстроили свои планы и очень интересно развернулась картинка.",
-        "createdAt": "2018-03-22 04:11:21",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 41
         }
     }
 }
