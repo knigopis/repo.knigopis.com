@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>47</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
-[Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 
 
-_19.04.2018 09:58:44_
+_19.04.2018 11:37:54_
