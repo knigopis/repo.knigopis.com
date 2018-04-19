@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>47</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>178</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>38</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>53</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>46</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 
 
-_19.04.2018 04:21:10_
+_19.04.2018 09:58:44_

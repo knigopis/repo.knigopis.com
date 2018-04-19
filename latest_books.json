@@ -1,4 +1,16 @@
 {
+    "6fC-17gyZt": {
+        "id": "6fC-17gyZt",
+        "title": "Ведьмак. Сезон гроз",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2018-04-19 09:58:44",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 47
+        }
+    },
     "VIAJkF7QLu": {
         "id": "VIAJkF7QLu",
         "title": "О дивный новый мир",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 20
-        }
-    },
-    "2GLYJKJKL8": {
-        "id": "2GLYJKJKL8",
-        "title": "Вишневый сад",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:44:14",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 19
         }
     }
 }
