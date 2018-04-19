@@ -1,4 +1,16 @@
 {
+    "VIAJkF7QLu": {
+        "id": "VIAJkF7QLu",
+        "title": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2018-04-19 04:21:10",
+        "user": {
+            "id": "196071655-vkontakte",
+            "nickname": "afferens.lucem",
+            "booksCount": 114
+        }
+    },
     "g7vW_zg67c": {
         "id": "g7vW_zg67c",
         "title": "Посох и шляпа",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 19
-        }
-    },
-    "AmDjL8oof4": {
-        "id": "AmDjL8oof4",
-        "title": "Джейн Эйр",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:43:43",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 18
         }
     }
 }

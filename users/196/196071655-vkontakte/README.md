@@ -1,7 +1,12 @@
-# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>113</sup>
+# List of books read by [afferens.lucem](http://vk.com/id196071655)<sup>114</sup>
 ---
 
 ## 2018
+
+### О дивный новый мир
+Олдос Хаксли
+> [2018-04-19] 
+
 
 ### ПАТТЕРНЫ проектирования.
 Эрик Фримен, Элизабет Фримен при участии Кэтти Сьерра и Берта Бейтса

@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>178</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
@@ -59,11 +60,10 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>116</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>113</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup> 
 
 
-_18.04.2018 22:08:16_
+_19.04.2018 04:21:10_
