@@ -1,4 +1,16 @@
 {
+    "cP-FONloRW": {
+        "id": "cP-FONloRW",
+        "title": "1. «Мёртвые души»,",
+        "author": "Анжела Марсонс",
+        "notes": "",
+        "createdAt": "2018-04-20 13:25:02",
+        "user": {
+            "id": "1079841742132777-facebook",
+            "nickname": "ON_Petroff",
+            "booksCount": 2
+        }
+    },
     "DlD8hV-Mva": {
         "id": "DlD8hV-Mva",
         "title": "Этногенез Маруся 1",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 27
-        }
-    },
-    "8ojCRfNuCi": {
-        "id": "8ojCRfNuCi",
-        "title": "Шантарам",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:45:40",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 26
         }
     }
 }
