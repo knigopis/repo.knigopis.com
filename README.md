@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/381/381417697-yandex)<sup>38</sup> 
+[me](users/381/381417697-yandex)<sup>38</sup> 
 [ON_Petroff](users/107/1079841742132777-facebook)<sup>5</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
 
 
-_20.04.2018 18:37:29_
+_20.04.2018 18:37:45_
