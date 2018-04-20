@@ -1,4 +1,16 @@
 {
+    "66Ysu8X8PN": {
+        "id": "66Ysu8X8PN",
+        "title": "Жизнь Дэвида Копперфильда",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-04-20 12:05:15",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 117
+        }
+    },
     "110jPpX8rl": {
         "id": "110jPpX8rl",
         "title": "Уловка-22",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 25
-        }
-    },
-    "iBKQYPAxRj": {
-        "id": "iBKQYPAxRj",
-        "title": "Адвокат дьявола",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 20:45:18",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 24
         }
     }
 }

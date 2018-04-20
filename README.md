@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
@@ -57,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [crushtest](users/107/107195111986699431246-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>42</sup> 
 [](users/115/115826717712507836033-google)<sup>110</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>116</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 
 
-_20.04.2018 08:53:03_
+_20.04.2018 12:05:15_
