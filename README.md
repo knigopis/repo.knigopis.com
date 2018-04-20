@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
+    > Крайне редко со мной такое случается - не смогла дочитать книгу (до Уловки 22 такая участь постигла всего 2-3 книги). Осилила где-то 10ю часть только.
+
 * Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > На Диске впервые за сотни лет появляется Чудесник и это приводит к катастрофическим последствиям. Разруливать ситуацию приходится волшебнику с нулевыми способностями к магии Ринсвинду.
 
 * Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
-    > 9,5/10
 
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
 
-* Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>179</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>47</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>178</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 
 
-_19.04.2018 20:10:45_
+_20.04.2018 08:53:03_
