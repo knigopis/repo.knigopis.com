@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ON_Petroff](users/107/1079841742132777-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 [olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 [Madlax](users/158/158304782-vkontakte)<sup>140</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>616</sup> 
 
 
-_20.04.2018 12:05:15_
+_20.04.2018 12:50:17_
