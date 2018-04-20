@@ -1,4 +1,16 @@
 {
+    "x8Spd-Ik2e": {
+        "id": "x8Spd-Ik2e",
+        "title": "Американский психопат», Брет Истон Эллис",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-04-20 13:25:30",
+        "user": {
+            "id": "1079841742132777-facebook",
+            "nickname": "ON_Petroff",
+            "booksCount": 4
+        }
+    },
     "YKbDKlh3oQ": {
         "id": "YKbDKlh3oQ",
         "title": "2. «Тайная история», Донна Тартт",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 29
-        }
-    },
-    "6A5hG-xtB1": {
-        "id": "6A5hG-xtB1",
-        "title": "Убить переспешника",
-        "author": "Харпер Ли",
-        "notes": "",
-        "createdAt": "2018-04-15 20:52:55",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 28
         }
     }
 }
