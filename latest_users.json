@@ -1,4 +1,10 @@
 {
+    "35337055-vkontakte": {
+        "id": "35337055-vkontakte",
+        "nickname": "anastasiachekunova",
+        "booksCount": 0,
+        "updatedAt": "2018-04-22 21:49:47"
+    },
     "356696223-vkontakte": {
         "id": "356696223-vkontakte",
         "nickname": "Irina",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 42,
         "updatedAt": "2018-04-12 06:14:28"
-    },
-    "115826717712507836033-google": {
-        "id": "115826717712507836033-google",
-        "nickname": null,
-        "booksCount": 110,
-        "updatedAt": "2018-04-11 17:36:55"
     }
 }
