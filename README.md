@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>146</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>42</sup> 
 [](users/115/115826717712507836033-google)<sup>110</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 
 
-_22.04.2018 14:27:40_
+_22.04.2018 19:56:58_

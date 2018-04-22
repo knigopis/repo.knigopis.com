@@ -1,4 +1,16 @@
 {
+    "Mb_Jv_9bUD": {
+        "id": "Mb_Jv_9bUD",
+        "title": "Возлюби ближнего своего",
+        "author": "Эрих Мария Ремарк",
+        "notes": "",
+        "createdAt": "2018-04-22 19:56:58",
+        "user": {
+            "id": "2033580363583983-facebook",
+            "nickname": "richie._.sambora",
+            "booksCount": 3
+        }
+    },
     "sXtstVe8-v": {
         "id": "sXtstVe8-v",
         "title": "Метро 2035",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 36
-        }
-    },
-    "EJolCcXCoE": {
-        "id": "EJolCcXCoE",
-        "title": "Тарас бульба",
-        "author": "Гоголь",
-        "notes": "",
-        "createdAt": "2018-04-15 20:59:20",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 35
         }
     }
 }
