@@ -1,4 +1,16 @@
 {
+    "zeNa_p-W-a": {
+        "id": "zeNa_p-W-a",
+        "title": "Очаровательный кишечник",
+        "author": "Джулия Андерс",
+        "notes": "",
+        "createdAt": "2018-04-22 21:05:12",
+        "user": {
+            "id": "356696223-vkontakte",
+            "nickname": "Irina",
+            "booksCount": 2
+        }
+    },
     "Mb_Jv_9bUD": {
         "id": "Mb_Jv_9bUD",
         "title": "Возлюби ближнего своего",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 37
-        }
-    },
-    "xlLGds45ek": {
-        "id": "xlLGds45ek",
-        "title": "Старик и море",
-        "author": "Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-04-15 20:59:50",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 36
         }
     }
 }
