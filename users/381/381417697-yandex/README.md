@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>38</sup>
+# List of books read by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)<sup>39</sup>
 ---
 
 ## 2018
+
+### Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас
+Андрей Солдатов, Ирина Бороган
+> [2018-04-22] 
+
 
 ### В поисках потока
 Михай Чиксентмихайи

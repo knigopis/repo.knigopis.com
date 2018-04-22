@@ -1,4 +1,16 @@
 {
+    "ULDQ8c2jZ3": {
+        "id": "ULDQ8c2jZ3",
+        "title": "Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас",
+        "author": "Андрей Солдатов, Ирина Бороган",
+        "notes": "",
+        "createdAt": "2018-04-22 00:35:18",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 39
+        }
+    },
     "TTwukrGZyI": {
         "id": "TTwukrGZyI",
         "title": "Не прощаюсь",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 33
-        }
-    },
-    "hsNbehPoAR": {
-        "id": "hsNbehPoAR",
-        "title": "Обломов",
-        "author": "Гончаров",
-        "notes": "",
-        "createdAt": "2018-04-15 20:57:10",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 32
         }
     }
 }
