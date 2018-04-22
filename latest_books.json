@@ -1,4 +1,16 @@
 {
+    "0Qwa-WdJa3": {
+        "id": "0Qwa-WdJa3",
+        "title": "Тест",
+        "author": "Тест",
+        "notes": "Тестовые",
+        "createdAt": "2018-04-22 12:34:57",
+        "user": {
+            "id": "115622071-twitter",
+            "nickname": "rNix",
+            "booksCount": 63
+        }
+    },
     "ULDQ8c2jZ3": {
         "id": "ULDQ8c2jZ3",
         "title": "Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас",
@@ -345,18 +357,6 @@
             "id": "1867395113473883-facebook",
             "nickname": "Muslima",
             "booksCount": 34
-        }
-    },
-    "TkINybzWu2": {
-        "id": "TkINybzWu2",
-        "title": "Палата 6",
-        "author": "Чехов",
-        "notes": "",
-        "createdAt": "2018-04-15 20:58:40",
-        "user": {
-            "id": "1867395113473883-facebook",
-            "nickname": "Muslima",
-            "booksCount": 33
         }
     }
 }

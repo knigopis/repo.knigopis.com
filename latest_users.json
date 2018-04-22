@@ -1,4 +1,10 @@
 {
+    "115622071-twitter": {
+        "id": "115622071-twitter",
+        "nickname": "rNix",
+        "booksCount": 63,
+        "updatedAt": "2018-04-22 12:34:57"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "olashik",
         "booksCount": 1,
         "updatedAt": "2018-04-10 12:01:43"
-    },
-    "158304782-vkontakte": {
-        "id": "158304782-vkontakte",
-        "nickname": "Madlax",
-        "booksCount": 140,
-        "updatedAt": "2018-04-09 19:42:48"
     }
 }

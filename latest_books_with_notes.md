@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 * Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
 * Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
 * Посох и шляпа ~ [Garka](users/115/115753719718250012620-google)<sup>178</sup>
@@ -30,7 +31,6 @@
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 * Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
 * Рассказы судмедэксперта ~ [Garka](users/115/115753719718250012620-google)<sup>175</sup>
-* Повесть о господине Зоммере ~ [Saamy](users/115/115226508-vkontakte)<sup>41</sup>
 
 
-_20.04.2018 08:53:03_
+_22.04.2018 12:34:57_
