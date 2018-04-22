@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
+    > Книга 3
+
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
     > Тестовые
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Крайне редко со мной такое случается - не смогла дочитать книгу (до Уловки 22 такая участь постигла всего 2-3 книги). Осилила где-то 10ю часть только.
 
 * Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
-    > в процессе
 
 * Посох и шляпа ~ [Garka](users/115/115753719718250012620-google)<sup>178</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
 
-* Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>146</sup> 
 [rNix](users/115/115622071-twitter)<sup>63</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>54</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>110</sup> 
 [abzagir4ik](users/362/3621623-vkontakte)<sup>107</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
-[olashik](users/186/18643116-vkontakte)<sup>1</sup> 
 
 
-_22.04.2018 12:34:57_
+_22.04.2018 13:06:58_
