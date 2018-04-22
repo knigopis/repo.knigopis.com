@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[rNix](users/115/115622071-twitter)<sup>62</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>146</sup> 
-[rNix](users/115/115622071-twitter)<sup>63</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>54</sup> 
 [ON_Petroff](users/107/1079841742132777-facebook)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>60</sup> 
 
 
-_22.04.2018 13:06:58_
+_22.04.2018 14:27:40_
