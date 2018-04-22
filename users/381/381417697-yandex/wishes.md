@@ -1,9 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
 ---
 
-### `77` Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас
-Андрей Солдатов, Ирина Бороган
-
 ### `60` Тайм-драйв
 Глеб Архангельский
 
@@ -13,7 +10,7 @@
 ### `50` Эврики и эйфории. Об ученых и их открытиях
 Уолтер Гратцер
 
-### `40` Learn You a Haskell for Great Good
+### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
 ### `28` Kotlin in Action
@@ -55,32 +52,32 @@ Joel Spolsky
 
 ### `` Concurrency in practice
 
-### `` The Cathedral and the Bazaar
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` Rx
-?
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` The Cathedral and the Bazaar
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
 
-### `` A Briefer History of Time
-Stephen Hawking
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Герой нашего времени
+Михаил Лермонтов
+
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Овод
 Этель Лилиан Войнич
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
+
+### `` Rx
+?
 
