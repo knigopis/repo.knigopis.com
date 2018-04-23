@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[natallama13](users/197/197338727-yandex)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 [anastasiachekunova](users/353/35337055-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>65</sup> 
-[crushtest](users/107/107195111986699431246-google)<sup>0</sup> 
 
 
-_23.04.2018 11:43:34_
+_23.04.2018 18:25:12_
