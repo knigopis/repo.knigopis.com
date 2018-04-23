@@ -1,4 +1,16 @@
 {
+    "Ptg8sp25bp": {
+        "id": "Ptg8sp25bp",
+        "title": "Графи́ня Рудольшта́дт",
+        "author": "Жорж Санд",
+        "notes": "",
+        "createdAt": "2018-04-23 21:08:33",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 67
+        }
+    },
     "uBXhMpk1Xh": {
         "id": "uBXhMpk1Xh",
         "title": "Консуэло",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 43
-        }
-    },
-    "ypL6UKIiOi": {
-        "id": "ypL6UKIiOi",
-        "title": "Фауст",
-        "author": "Иоганн Вольфганг фон Гёте",
-        "notes": "",
-        "createdAt": "2018-04-16 11:41:48",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 120
         }
     }
 }
