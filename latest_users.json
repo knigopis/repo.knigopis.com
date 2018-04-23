@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 16,
+        "updatedAt": "2018-04-23 11:43:34"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "crushtest",
         "booksCount": 0,
         "updatedAt": "2018-04-12 09:05:27"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 42,
-        "updatedAt": "2018-04-12 06:14:28"
     }
 }
