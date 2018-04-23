@@ -1,4 +1,16 @@
 {
+    "77W2vacL9b": {
+        "id": "77W2vacL9b",
+        "title": "Вольные мальцы",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-04-23 21:05:40",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 64
+        }
+    },
     "D4y3lv718s": {
         "id": "D4y3lv718s",
         "title": "Шагреневая кожа Земли: Биосфера-почва-человек",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 119
-        }
-    },
-    "k-x6DBeEEN": {
-        "id": "k-x6DBeEEN",
-        "title": "Vvb",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-15 21:20:45",
-        "user": {
-            "id": "ktlntk-tumblr",
-            "nickname": null,
-            "booksCount": 2
         }
     }
 }
