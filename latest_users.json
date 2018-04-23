@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 45,
+        "updatedAt": "2018-04-23 19:48:19"
+    },
     "115804413412486285663-google": {
         "id": "115804413412486285663-google",
         "nickname": "Chackiller",
@@ -130,12 +136,6 @@
         "nickname": "HXT",
         "booksCount": 300,
         "updatedAt": "2018-04-17 09:59:47"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 44,
-        "updatedAt": "2018-04-16 19:41:40"
     },
     "134524956-yandex": {
         "id": "134524956-yandex",

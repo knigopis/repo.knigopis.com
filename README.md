@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
+    > Немного пафосная, но занимательная книга для людей, которые интересуются экологией и почвоведением. Книга немного старая, но мысли высказаны в ней вполне здравые и полезные
+
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
     > 9/10
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Книга 3
 
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
-    > Тестовые
 
 * Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 
-* Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>45</sup> 
 [Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
 [natallama13](users/197/197338727-yandex)<sup>0</sup> 
@@ -55,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>44</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 
 
-_23.04.2018 19:21:51_
+_23.04.2018 19:48:19_

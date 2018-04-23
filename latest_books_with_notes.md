@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Как лгать при помощи статистики ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>149</sup>
 * Мистер Томпкинс внутри самого себя. Приключения в новой биологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>148</sup>
 * Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
-* Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
 
 
-_23.04.2018 07:51:02_
+_23.04.2018 19:48:19_
