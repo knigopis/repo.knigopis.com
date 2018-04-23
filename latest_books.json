@@ -1,4 +1,16 @@
 {
+    "z6TGpw7dlC": {
+        "id": "z6TGpw7dlC",
+        "title": "Шляпа, полная небес",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-04-23 21:06:20",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 65
+        }
+    },
     "77W2vacL9b": {
         "id": "77W2vacL9b",
         "title": "Вольные мальцы",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 120
-        }
-    },
-    "47i7V-tV-m": {
-        "id": "47i7V-tV-m",
-        "title": "Один День",
-        "author": "Дэвид Николс",
-        "notes": "",
-        "createdAt": "2018-04-16 10:29:00",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 119
         }
     }
 }
