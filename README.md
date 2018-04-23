@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
+    > 9/10
+
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
     > Книга 3
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Тестовые
 
 * Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
-    > Крайне редко со мной такое случается - не смогла дочитать книгу (до Уловки 22 такая участь постигла всего 2-3 книги). Осилила где-то 10ю часть только.
 
 * Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
 
-* Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 [anastasiachekunova](users/353/35337055-vkontakte)<sup>0</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>2</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>84</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>44</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>42</sup> 
 
 
-_22.04.2018 21:49:48_
+_23.04.2018 07:51:02_

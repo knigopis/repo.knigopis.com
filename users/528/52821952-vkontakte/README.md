@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>84</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>85</sup>
 ---
 
 ## 2018
+
+### Пикник на обочине
+Аркадий и Борис Стругацкие
+> [2018-04-23] 9/10
+
 
 ### Один день в древнем Риме
 Альберто Анджела

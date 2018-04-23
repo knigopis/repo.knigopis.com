@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 * Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
@@ -30,7 +31,6 @@
 * Мистер Томпкинс внутри самого себя. Приключения в новой биологии ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>148</sup>
 * Моне. По ту сторону холста. ~ [Apprentice ](users/528/52821952-vkontakte)<sup>82</sup>
 * Чистовик ~ [EsterHani](users/305/30558181-vkontakte)<sup>144</sup>
-* Метро 2034 ~ [EsterHani](users/305/30558181-vkontakte)<sup>143</sup>
 
 
-_22.04.2018 13:06:58_
+_23.04.2018 07:51:02_
