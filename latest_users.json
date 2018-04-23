@@ -1,4 +1,10 @@
 {
+    "35389775-yandex": {
+        "id": "35389775-yandex",
+        "nickname": "malnat13",
+        "booksCount": 0,
+        "updatedAt": "2018-04-23 18:26:14"
+    },
     "197338727-yandex": {
         "id": "197338727-yandex",
         "nickname": "natallama13",
@@ -172,11 +178,5 @@
         "nickname": "Sky",
         "booksCount": 77,
         "updatedAt": "2018-04-12 15:08:56"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 65,
-        "updatedAt": "2018-04-12 09:09:18"
     }
 }
