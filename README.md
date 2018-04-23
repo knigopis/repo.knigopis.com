@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[malnat13](users/353/35389775-yandex)<sup>0</sup> 
 [natallama13](users/197/197338727-yandex)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 [krivza](users/982/98207696-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>77</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>65</sup> 
 
 
-_23.04.2018 18:25:12_
+_23.04.2018 18:26:15_
