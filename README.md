@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[joan789](users/240/2401650-vkontakte)<sup>65</sup> 
+[joan789](users/240/2401650-vkontakte)<sup>66</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>45</sup> 
 [Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 
 
-_23.04.2018 21:06:20_
+_23.04.2018 21:07:38_
