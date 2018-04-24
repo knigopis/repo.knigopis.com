@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[oleja_acid](users/214/214195420-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>69</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>45</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 [](users/111/111050419861327579964-google)<sup>0</sup> 
 [Shibaev](users/131/1313602812-facebook)<sup>0</sup> 
-[fox_mi](users/220/220022778-vkontakte)<sup>8</sup> 
 
 
-_23.04.2018 22:17:26_
+_24.04.2018 14:25:42_
