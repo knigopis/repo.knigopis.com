@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 [oleja_acid](users/214/214195420-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
-[](users/111/111050419861327579964-google)<sup>0</sup> 
 
 
-_24.04.2018 22:57:56_
+_25.04.2018 09:37:31_
