@@ -1,4 +1,16 @@
 {
+    "SxdU8Cx1X6": {
+        "id": "SxdU8Cx1X6",
+        "title": "Мор. Ученик Смерти",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-04-25 17:58:57",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 70
+        }
+    },
     "kVfm9vRqxc": {
         "id": "kVfm9vRqxc",
         "title": "Евгений Онегин",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 300
-        }
-    },
-    "dnLKobUlXb": {
-        "id": "dnLKobUlXb",
-        "title": "Один день в древнем Риме",
-        "author": "Альберто Анджела",
-        "notes": "9,5/10",
-        "createdAt": "2018-04-16 22:23:42",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 84
         }
     }
 }

@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>70</sup> 
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 [oleja_acid](users/214/214195420-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>69</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>45</sup> 
 [Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 
 
-_25.04.2018 09:37:31_
+_25.04.2018 17:58:57_
