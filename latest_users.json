@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 48,
+        "updatedAt": "2018-04-26 16:51:11"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -142,12 +148,6 @@
         "nickname": "mavrentik",
         "booksCount": 14,
         "updatedAt": "2018-04-19 11:37:54"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 47,
-        "updatedAt": "2018-04-19 09:58:44"
     },
     "196071655-vkontakte": {
         "id": "196071655-vkontakte",

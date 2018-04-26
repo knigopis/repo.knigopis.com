@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>47</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>48</sup>
 ---
 
 ## 2018
+
+### Золотой теленок
+Ильф и Петров
+> [2018-04-26] 
+
 
 ### Ведьмак. Сезон гроз
 Анджей Сапковский

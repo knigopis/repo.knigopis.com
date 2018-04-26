@@ -1,4 +1,16 @@
 {
+    "m3P6BNit8_": {
+        "id": "m3P6BNit8_",
+        "title": "Золотой теленок",
+        "author": "Ильф и Петров",
+        "notes": "",
+        "createdAt": "2018-04-26 16:51:11",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 48
+        }
+    },
     "d0jy-XcVjK": {
         "id": "d0jy-XcVjK",
         "title": "Гранатовый Браслет",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 178
-        }
-    },
-    "6U9LRn8g7h": {
-        "id": "6U9LRn8g7h",
-        "title": "Вий",
-        "author": "Николай Гоголь",
-        "notes": "",
-        "createdAt": "2018-04-18 08:34:23",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 121
         }
     }
 }
