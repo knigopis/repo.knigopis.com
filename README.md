@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 [Персифаль](users/107/107737634378855600034-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>70</sup> 
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
@@ -59,10 +60,9 @@ _More notes [here](latest_books_with_notes.md)._
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>47</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>121</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
 
 
-_26.04.2018 04:36:22_
+_26.04.2018 11:13:40_

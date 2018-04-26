@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>121</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>122</sup>
 ---
 
 ## 2018
@@ -235,6 +235,11 @@
 ### Повелитель Мух
 Уильям Голдинг
 > [2015-04] 
+
+
+### Гранатовый Браслет
+Александр Куприн
+> [2015-03] 
 
 
 ### Гарри Поттер и Тайная Комната
