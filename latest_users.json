@@ -1,4 +1,10 @@
 {
+    "107737634378855600034-google": {
+        "id": "107737634378855600034-google",
+        "nickname": "Персифаль",
+        "booksCount": 0,
+        "updatedAt": "2018-04-26 04:36:19"
+    },
     "2401650-vkontakte": {
         "id": "2401650-vkontakte",
         "nickname": "joan789",
@@ -172,11 +178,5 @@
         "nickname": "Muslima",
         "booksCount": 39,
         "updatedAt": "2018-04-15 21:01:37"
-    },
-    "172614868-vkontakte": {
-        "id": "172614868-vkontakte",
-        "nickname": "richbich",
-        "booksCount": 0,
-        "updatedAt": "2018-04-15 00:01:19"
     }
 }
