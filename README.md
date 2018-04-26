@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Персифаль](users/107/107737634378855600034-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>70</sup> 
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 [Muslima](users/186/1867395113473883-facebook)<sup>39</sup> 
-[richbich](users/172/172614868-vkontakte)<sup>0</sup> 
 
 
-_25.04.2018 17:58:57_
+_26.04.2018 04:36:22_
