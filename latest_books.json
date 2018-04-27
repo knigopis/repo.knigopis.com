@@ -1,4 +1,16 @@
 {
+    "tbWwjzwAHd": {
+        "id": "tbWwjzwAHd",
+        "title": "Гамлет, принц Датский",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2018-04-27 21:58:15",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 124
+        }
+    },
     "naLR-vac4A": {
         "id": "naLR-vac4A",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "1079841742132777-facebook",
             "nickname": "ON_Petroff",
             "booksCount": 1
-        }
-    },
-    "66Ysu8X8PN": {
-        "id": "66Ysu8X8PN",
-        "title": "Жизнь Дэвида Копперфильда",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-04-20 12:05:15",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 117
         }
     }
 }
