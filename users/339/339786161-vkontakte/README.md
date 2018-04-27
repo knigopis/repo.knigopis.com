@@ -1,7 +1,11 @@
-# List of books read by [Антон Шевченко](http://vk.com/id339786161)<sup>121</sup>
+# List of books read by [Антон Шевченко](http://vk.com/id339786161)<sup>122</sup>
 ---
 
 ## 2018
+
+### Государь
+Никколо Макиавелли
+
 
 ### Илиада
 Гомер

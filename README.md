@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Антон Шевченко](users/339/339786161-vkontakte)<sup>121</sup> 
+[Антон Шевченко](users/339/339786161-vkontakte)<sup>122</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 [Персифаль](users/107/107737634378855600034-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 
 
-_27.04.2018 21:56:25_
+_27.04.2018 21:56:55_

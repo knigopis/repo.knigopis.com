@@ -1,4 +1,16 @@
 {
+    "TlgQTbMtiE": {
+        "id": "TlgQTbMtiE",
+        "title": "Государь",
+        "author": "Никколо Макиавелли",
+        "notes": "",
+        "createdAt": "2018-04-27 21:56:54",
+        "user": {
+            "id": "339786161-vkontakte",
+            "nickname": "Антон Шевченко",
+            "booksCount": 122
+        }
+    },
     "MQ5AqvnTgs": {
         "id": "MQ5AqvnTgs",
         "title": "Илиада",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 179
-        }
-    },
-    "uID7eNCeru": {
-        "id": "uID7eNCeru",
-        "title": "Реальность нереального",
-        "author": "В.В.Налимов, Ж.А.Дрогалина",
-        "notes": "в процессе",
-        "createdAt": "2018-04-19 20:10:45",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 152
         }
     }
 }
