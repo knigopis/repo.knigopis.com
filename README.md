@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь и смерть. Селфи ~ [Chiffi](users/105/105831994080785626680-google)<sup>55</sup>
+    > Они уверены, что власть, равно как и капиталы, передается по наследству.  Они совершенно не видят краев и наивно полагают, что ровесники, которым с происхождением не так повезло,будут отстаивать их интересы.
+    > 
+    > Вещь, которая  осталась в магазине всегда привлекательнее той, которая дома. Эта вещь уж твоя, а та ничья, и твоей, возможно, никогда уже не станет. А вещь, которая чья-то, гораздо привлекательней и той, которая дома, и той, которая в магазине.
+
 * Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
     > Немного пафосная, но занимательная книга для людей, которые интересуются экологией и почвоведением. Книга немного старая, но мысли высказаны в ней вполне здравые и полезные
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
-    > Книга 3
 
 * Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
 
-* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>55</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
@@ -53,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 [rNix](users/115/115622071-twitter)<sup>62</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>146</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>54</sup> 
 [ON_Petroff](users/107/1079841742132777-facebook)<sup>5</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 
 
-_27.04.2018 21:58:15_
+_28.04.2018 16:31:14_
