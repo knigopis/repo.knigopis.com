@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 39,
+        "updatedAt": "2018-04-28 22:49:55"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -52,12 +58,6 @@
         "nickname": "oleja_acid",
         "booksCount": 0,
         "updatedAt": "2018-04-24 14:25:39"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 39,
-        "updatedAt": "2018-04-23 22:17:26"
     },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
