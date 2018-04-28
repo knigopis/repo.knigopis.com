@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>55</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 [oleja_acid](users/214/214195420-vkontakte)<sup>0</sup> 
-[me](users/381/381417697-yandex)<sup>39</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>45</sup> 
 [Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 
 
-_28.04.2018 16:31:14_
+_28.04.2018 22:49:57_
