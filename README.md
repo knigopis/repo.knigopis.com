@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 
 
-_29.04.2018 13:43:33_
+_29.04.2018 13:43:34_
