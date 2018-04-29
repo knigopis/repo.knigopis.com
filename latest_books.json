@@ -1,4 +1,16 @@
 {
+    "Xk26RxUn0-": {
+        "id": "Xk26RxUn0-",
+        "title": "Фальшивомонетчики",
+        "author": "Андре Жид",
+        "notes": "",
+        "createdAt": "2018-04-29 04:39:34",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 617
+        }
+    },
     "aUX3Rof4uD": {
         "id": "aUX3Rof4uD",
         "title": "Любовь и смерть. Селфи",
@@ -345,18 +357,6 @@
             "id": "1079841742132777-facebook",
             "nickname": "ON_Petroff",
             "booksCount": 3
-        }
-    },
-    "cP-FONloRW": {
-        "id": "cP-FONloRW",
-        "title": "1. «Мёртвые души»,",
-        "author": "Анжела Марсонс",
-        "notes": "",
-        "createdAt": "2018-04-20 13:25:02",
-        "user": {
-            "id": "1079841742132777-facebook",
-            "nickname": "ON_Petroff",
-            "booksCount": 2
         }
     }
 }

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>617</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>55</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>300</sup> 
-[plinapolina](users/134/134524956-yandex)<sup>0</sup> 
 
 
-_28.04.2018 22:49:57_
+_29.04.2018 04:39:34_
