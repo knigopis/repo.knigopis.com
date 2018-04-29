@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>60</sup>
+# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>61</sup>
 ---
 
 ## 2018
+
+### Бойня номер пять, или Крестовый поход детей
+Курт Воннегут
+> [2018-04-26] 
+
 
 ### DevOps with Kubernetes
 Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu

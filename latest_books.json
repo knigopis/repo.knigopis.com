@@ -1,4 +1,16 @@
 {
+    "3lHlRL2LxS": {
+        "id": "3lHlRL2LxS",
+        "title": "Бойня номер пять, или Крестовый поход детей",
+        "author": "Курт Воннегут",
+        "notes": "",
+        "createdAt": "2018-04-29 09:36:16",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 61
+        }
+    },
     "Xk26RxUn0-": {
         "id": "Xk26RxUn0-",
         "title": "Фальшивомонетчики",
@@ -345,18 +357,6 @@
             "id": "1079841742132777-facebook",
             "nickname": "ON_Petroff",
             "booksCount": 4
-        }
-    },
-    "YKbDKlh3oQ": {
-        "id": "YKbDKlh3oQ",
-        "title": "2. «Тайная история», Донна Тартт",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-20 13:25:16",
-        "user": {
-            "id": "1079841742132777-facebook",
-            "nickname": "ON_Petroff",
-            "booksCount": 3
         }
     }
 }
