@@ -1,4 +1,4 @@
-# Wish list of books by [me](http://www.knigopis.com/#/me/books?u=uJ7AN6q0Bl)
+# Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
 ### `60` Тайм-драйв
@@ -79,5 +79,4 @@ Stephen Hawking
 Фёдор Достоевский
 
 ### `` Rx
-?
 
