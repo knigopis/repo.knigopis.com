@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>301</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
-[j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 
 
-_30.04.2018 05:33:01_
+_30.04.2018 05:44:53_

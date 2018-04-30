@@ -1,4 +1,16 @@
 {
+    "YfOzo_ItH_": {
+        "id": "YfOzo_ItH_",
+        "title": "Iphuck 10",
+        "author": "Виктор Пелевин",
+        "notes": "",
+        "createdAt": "2018-04-30 05:44:53",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 301
+        }
+    },
     "P-zaS8CKvp": {
         "id": "P-zaS8CKvp",
         "title": "Академия демонов",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 54
-        }
-    },
-    "SQdshMpV5f": {
-        "id": "SQdshMpV5f",
-        "title": "4. «Жутко громко и запредельно близко», Джонатан Сафран Фоер",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-20 13:25:45",
-        "user": {
-            "id": "1079841742132777-facebook",
-            "nickname": "ON_Petroff",
-            "booksCount": 5
         }
     }
 }
