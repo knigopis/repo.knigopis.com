@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>301</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 
 
-_30.04.2018 05:44:53_
+_30.04.2018 05:45:35_
