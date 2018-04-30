@@ -1,4 +1,16 @@
 {
+    "P-zaS8CKvp": {
+        "id": "P-zaS8CKvp",
+        "title": "Академия демонов",
+        "author": "Антонова Лидия",
+        "notes": "Читается очень быстро и смешно.  Очень миленько и забавно))",
+        "createdAt": "2018-04-30 05:33:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 56
+        }
+    },
     "aUX3Rof4uD": {
         "id": "aUX3Rof4uD",
         "title": "Любовь и смерть. Селфи",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 149
-        }
-    },
-    "YbWmezwIZE": {
-        "id": "YbWmezwIZE",
-        "title": "Мистер Томпкинс внутри самого себя. Приключения в новой биологии",
-        "author": "Г. Гамов, М. Ичас",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/1511478/",
-        "createdAt": "2018-03-26 20:37:28",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 148
         }
     }
 }

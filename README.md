@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Академия демонов ~ [Chiffi](users/105/105831994080785626680-google)<sup>56</sup>
+    > Читается очень быстро и смешно.  Очень миленько и забавно))
+
 * Любовь и смерть. Селфи ~ [Chiffi](users/105/105831994080785626680-google)<sup>55</sup>
     > Они уверены, что власть, равно как и капиталы, передается по наследству.  Они совершенно не видят краев и наивно полагают, что ровесники, которым с происхождением не так повезло,будут отстаивать их интересы.
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Немного пафосная, но занимательная книга для людей, которые интересуются экологией и почвоведением. Книга немного старая, но мысли высказаны в ней вполне здравые и полезные
 
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
-    > 9/10
 
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
 
@@ -28,17 +30,15 @@ Do not use pull requests to make changes here.
 
 * Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
 
-* Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>617</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>55</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [j](users/ktl/ktlntk-tumblr)<sup>2</sup> 
 
 
-_29.04.2018 14:50:44_
+_30.04.2018 05:33:01_

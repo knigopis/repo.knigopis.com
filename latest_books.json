@@ -1,4 +1,16 @@
 {
+    "P-zaS8CKvp": {
+        "id": "P-zaS8CKvp",
+        "title": "Академия демонов",
+        "author": "Антонова Лидия",
+        "notes": "Читается очень быстро и смешно.  Очень миленько и забавно))",
+        "createdAt": "2018-04-30 05:33:01",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 56
+        }
+    },
     "3lHlRL2LxS": {
         "id": "3lHlRL2LxS",
         "title": "Бойня номер пять, или Крестовый поход детей",
@@ -345,18 +357,6 @@
             "id": "1079841742132777-facebook",
             "nickname": "ON_Petroff",
             "booksCount": 5
-        }
-    },
-    "x8Spd-Ik2e": {
-        "id": "x8Spd-Ik2e",
-        "title": "Американский психопат», Брет Истон Эллис",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-20 13:25:30",
-        "user": {
-            "id": "1079841742132777-facebook",
-            "nickname": "ON_Petroff",
-            "booksCount": 4
         }
     }
 }
