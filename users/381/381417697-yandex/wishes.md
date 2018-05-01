@@ -47,7 +47,7 @@ Joel Spolsky
 ### `` Мертвые души
 Николай Гоголь
 
-### `` Concurrency in practice
+### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Rx
