@@ -1,4 +1,16 @@
 {
+    "mMRvmnCitx": {
+        "id": "mMRvmnCitx",
+        "title": "Мартин Иден",
+        "author": "Джек Лондон",
+        "notes": "Мартин Иден, Руфь Морз, Бриссенден, Джо,",
+        "createdAt": "2018-05-01 10:25:41",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 51
+        }
+    },
     "P-zaS8CKvp": {
         "id": "P-zaS8CKvp",
         "title": "Академия демонов",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 150
-        }
-    },
-    "J99pmhFHyL": {
-        "id": "J99pmhFHyL",
-        "title": "Как лгать при помощи статистики",
-        "author": "Дарелл Хафф",
-        "notes": "Живая классика с раскрыванием типовых \"статистических\" обманов. В условиях тяжелой информационной войны с западниками и либерастами, актуальна как никогда :)\n\nhttps://www.ozon.ru/context/detail/id/32796823/",
-        "createdAt": "2018-03-26 20:38:56",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 149
         }
     }
 }

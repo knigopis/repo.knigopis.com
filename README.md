@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мартин Иден ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup>
+    > Мартин Иден, Руфь Морз, Бриссенден, Джо,
+
 * Академия демонов ~ [Chiffi](users/105/105831994080785626680-google)<sup>56</sup>
     > Читается очень быстро и смешно.  Очень миленько и забавно))
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Вещь, которая  осталась в магазине всегда привлекательнее той, которая дома. Эта вещь уж твоя, а та ничья, и твоей, возможно, никогда уже не станет. А вещь, которая чья-то, гораздо привлекательней и той, которая дома, и той, которая в магазине.
 
 * Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
-    > Немного пафосная, но занимательная книга для людей, которые интересуются экологией и почвоведением. Книга немного старая, но мысли высказаны в ней вполне здравые и полезные
 
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Посох и шляпа ~ [Garka](users/115/115753719718250012620-google)<sup>178</sup>
 
-* Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
-[afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 
 
-_01.05.2018 10:23:41_
+_01.05.2018 10:25:41_

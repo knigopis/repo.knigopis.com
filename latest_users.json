@@ -1,4 +1,10 @@
 {
+    "64251996-vkontakte": {
+        "id": "64251996-vkontakte",
+        "nickname": "~ARHANGEL~",
+        "booksCount": 51,
+        "updatedAt": "2018-05-01 10:25:41"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "mavrentik",
         "booksCount": 14,
         "updatedAt": "2018-04-19 11:37:54"
-    },
-    "196071655-vkontakte": {
-        "id": "196071655-vkontakte",
-        "nickname": "afferens.lucem",
-        "booksCount": 114,
-        "updatedAt": "2018-04-19 04:21:10"
     }
 }
