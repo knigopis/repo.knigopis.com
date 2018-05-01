@@ -60,6 +60,7 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Илья Ильф, Евгений Петров
 
 ### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Rx
 
