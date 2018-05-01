@@ -19,12 +19,12 @@ Dmitry Jemerov, Svetlana Isakova
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `12` Совершенный код
-Стив Макконнелл
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -47,29 +47,29 @@ Joel Spolsky
 ### `` Мертвые души
 Николай Гоголь
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Concurrency in practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Rx
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Concurrency in practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Just for Fun
+Linus Torvalds, David Diamond
+> The Story of an Accidental Revolutionary
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
-### `` Rx
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
-### `` Повелитель мух
-Уильям Голдинг
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
+### `` Овод
+Этель Лилиан Войнич
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -79,18 +79,22 @@ Dafydd Stuttard, Marcus Pinto
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `` Братья Карамазовы
+Фёдор Достоевский
+
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Братья Карамазовы
-Фёдор Достоевский
-
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` Овод
-Этель Лилиан Войнич
+### `` Повелитель мух
+Уильям Голдинг
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
