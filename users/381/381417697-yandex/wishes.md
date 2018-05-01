@@ -54,6 +54,7 @@ Satoshi Nakamoto
 Эрих Мария Ремарк
 
 ### `` Concurrency in practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
