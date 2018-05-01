@@ -1,4 +1,16 @@
 {
+    "_RNBYWRrj3": {
+        "id": "_RNBYWRrj3",
+        "title": "Они сражались за родину",
+        "author": "Михаил Шолохов",
+        "notes": "",
+        "createdAt": "2018-05-01 04:50:32",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 618
+        }
+    },
     "rjTmsDv_75": {
         "id": "rjTmsDv_75",
         "title": "Основатель",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 63
-        }
-    },
-    "ULDQ8c2jZ3": {
-        "id": "ULDQ8c2jZ3",
-        "title": "Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас",
-        "author": "Андрей Солдатов, Ирина Бороган",
-        "notes": "",
-        "createdAt": "2018-04-22 00:35:18",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 39
         }
     }
 }
