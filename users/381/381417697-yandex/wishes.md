@@ -32,8 +32,9 @@ Arnold Robbins, Elbert Hannah, Linda Lamb
 ### `7` Git from the Bottom Up
 John Wiegley
 
-### `5` What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+### `5` What If?
 Randall Munroe
+> Serious Scientific Answers to Absurd Hypothetical Questions
 
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
