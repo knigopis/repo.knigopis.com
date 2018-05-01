@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>618</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [afferens.lucem](users/196/196071655-vkontakte)<sup>114</sup> 
 
 
-_01.05.2018 04:50:32_
+_01.05.2018 10:23:41_

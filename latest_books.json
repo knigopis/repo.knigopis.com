@@ -1,4 +1,16 @@
 {
+    "vUfw07Q2E6": {
+        "id": "vUfw07Q2E6",
+        "title": "Юный Кнут Аксельброд",
+        "author": "Льюис Синклер",
+        "notes": "",
+        "createdAt": "2018-05-01 10:23:41",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 619
+        }
+    },
     "_RNBYWRrj3": {
         "id": "_RNBYWRrj3",
         "title": "Они сражались за родину",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 146
-        }
-    },
-    "0Qwa-WdJa3": {
-        "id": "0Qwa-WdJa3",
-        "title": "Тест",
-        "author": "Тест",
-        "notes": "Тестовые",
-        "createdAt": "2018-04-22 12:34:57",
-        "user": {
-            "id": "115622071-twitter",
-            "nickname": "rNix",
-            "booksCount": 63
         }
     }
 }
