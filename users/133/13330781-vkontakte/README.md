@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>12</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>13</sup>
 ---
 
 ## 2018
+
+### Исчезнувшая
+Гиллиан Флинн
+> [2018-04-15] 
+
 
 ### Кентервильское приведеие
 Оскар Уайльд

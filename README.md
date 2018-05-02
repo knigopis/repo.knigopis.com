@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>13</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>619</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
-[mavrentik](users/200/200666735-vkontakte)<sup>14</sup> 
 
 
-_01.05.2018 19:15:00_
+_02.05.2018 17:29:58_

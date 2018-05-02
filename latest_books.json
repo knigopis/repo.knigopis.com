@@ -1,4 +1,16 @@
 {
+    "Z--Xr50Xtm": {
+        "id": "Z--Xr50Xtm",
+        "title": "Исчезнувшая",
+        "author": "Гиллиан Флинн",
+        "notes": "",
+        "createdAt": "2018-05-02 17:29:58",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 13
+        }
+    },
     "P8-Vyg57x-": {
         "id": "P8-Vyg57x-",
         "title": "Элементарные частицы",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 85
-        }
-    },
-    "zeNa_p-W-a": {
-        "id": "zeNa_p-W-a",
-        "title": "Очаровательный кишечник",
-        "author": "Джулия Андерс",
-        "notes": "",
-        "createdAt": "2018-04-22 21:05:12",
-        "user": {
-            "id": "356696223-vkontakte",
-            "nickname": "Irina",
-            "booksCount": 2
         }
     }
 }

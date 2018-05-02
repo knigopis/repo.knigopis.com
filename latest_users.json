@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 13,
+        "updatedAt": "2018-05-02 17:29:58"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "Ник Литвинов",
         "booksCount": 152,
         "updatedAt": "2018-04-19 20:10:45"
-    },
-    "200666735-vkontakte": {
-        "id": "200666735-vkontakte",
-        "nickname": "mavrentik",
-        "booksCount": 14,
-        "updatedAt": "2018-04-19 11:37:54"
     }
 }
