@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>14</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>15</sup>
 ---
 
 ## 2018
+
+### Исповедь убийцы
+Йозеф Рот
+> [2018-05-02] 
+
 
 ### Темные тайны
 Гиллиан Флинн

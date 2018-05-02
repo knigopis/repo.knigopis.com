@@ -1,4 +1,16 @@
 {
+    "Yhbl8MBpx9": {
+        "id": "Yhbl8MBpx9",
+        "title": "Исповедь убийцы",
+        "author": "Йозеф Рот",
+        "notes": "",
+        "createdAt": "2018-05-02 17:31:52",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 15
+        }
+    },
     "Lmk9NAcfBB": {
         "id": "Lmk9NAcfBB",
         "title": "Темные тайны",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 45
-        }
-    },
-    "FbpSR8pga4": {
-        "id": "FbpSR8pga4",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-04-23 11:43:34",
-        "user": {
-            "id": "471364154-yandex",
-            "nickname": "submerged fish",
-            "booksCount": 16
         }
     }
 }
