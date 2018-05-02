@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
+    > Очень даже ничего детектив.
+
 * Элементарные частицы ~ [Saamy](users/115/115226508-vkontakte)<sup>46</sup>
     > Книга смешала в себе просто все - жестокую трагедию человеческих жизней, вульгарные эротические сцены, длинные философские монологи. 
     > Общее впечатление, скорее, негативное. нестерпимо пошлая первая половина, где герои трахаются, развлекаются и жалуются на жизнь, и вторая, где герои трахаются, страдают и изрекают философские монологи. То, что изложено в аннотации, про совершенных людей, присутствует только на последних страницах. 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Мартин Иден, Руфь Морз, Бриссенден, Джо,
 
 * Академия демонов ~ [Chiffi](users/105/105831994080785626680-google)<sup>56</sup>
-    > Читается очень быстро и смешно.  Очень миленько и забавно))
 
 * Любовь и смерть. Селфи ~ [Chiffi](users/105/105831994080785626680-google)<sup>55</sup>
 
@@ -28,19 +30,17 @@ Do not use pull requests to make changes here.
 
 * Уловка-22 ~ [Garka](users/115/115753719718250012620-google)<sup>179</sup>
 
-* Реальность нереального ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>57</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>56</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 
 
-_02.05.2018 17:31:52_
+_02.05.2018 19:31:42_
