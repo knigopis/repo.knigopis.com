@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[darb_el](users/184/184135339-vkontakte)<sup>9</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>57</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>46</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ON_Petroff](users/107/1079841742132777-facebook)<sup>5</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>117</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>179</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>152</sup> 
 
 
-_02.05.2018 19:31:42_
+_03.05.2018 02:42:42_

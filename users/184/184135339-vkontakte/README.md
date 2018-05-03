@@ -1,7 +1,12 @@
-# List of books read by [darb_el](http://vk.com/id184135339)<sup>8</sup>
+# List of books read by [darb_el](http://vk.com/id184135339)<sup>9</sup>
 ---
 
 ## 2018
+
+### Вирусы мозга
+Ричард Докинз
+> [2018-04-30] 
+
 
 ### Метро 2035
 Дмитрий Глуховский

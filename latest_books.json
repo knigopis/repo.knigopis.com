@@ -1,4 +1,16 @@
 {
+    "sy7Lfcupav": {
+        "id": "sy7Lfcupav",
+        "title": "Вирусы мозга",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2018-05-03 02:42:42",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 9
+        }
+    },
     "-j_5FRpZIk": {
         "id": "-j_5FRpZIk",
         "title": "Любовь.ру Любовь и смерть по вызову",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 65
-        }
-    },
-    "77W2vacL9b": {
-        "id": "77W2vacL9b",
-        "title": "Вольные мальцы",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2018-04-23 21:05:40",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 64
         }
     }
 }
