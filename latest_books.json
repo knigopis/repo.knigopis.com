@@ -1,4 +1,16 @@
 {
+    "1yRsR96TPw": {
+        "id": "1yRsR96TPw",
+        "title": "Агенство Магических катастроф",
+        "author": "Махяр Ольга",
+        "notes": "",
+        "createdAt": "2018-05-03 17:33:13",
+        "user": {
+            "id": "954468854711765-facebook",
+            "nickname": "Sovi Agiroto",
+            "booksCount": 1
+        }
+    },
     "pKMY2kDWlX": {
         "id": "pKMY2kDWlX",
         "title": "Каждому свое 2",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 69
-        }
-    },
-    "d8zTrvxF8R": {
-        "id": "d8zTrvxF8R",
-        "title": "Матильда",
-        "author": "Даль, Роальд",
-        "notes": "",
-        "createdAt": "2018-04-23 21:09:46",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 68
         }
     }
 }
