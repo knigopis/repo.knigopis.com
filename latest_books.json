@@ -1,4 +1,16 @@
 {
+    "BRmEx1MMZm": {
+        "id": "BRmEx1MMZm",
+        "title": "Жена темного властелина. Пособие по выживанию",
+        "author": "Руденко Елена",
+        "notes": "",
+        "createdAt": "2018-05-03 17:33:38",
+        "user": {
+            "id": "954468854711765-facebook",
+            "nickname": "Sovi Agiroto",
+            "booksCount": 2
+        }
+    },
     "1yRsR96TPw": {
         "id": "1yRsR96TPw",
         "title": "Агенство Магических катастроф",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 70
-        }
-    },
-    "kVfm9vRqxc": {
-        "id": "kVfm9vRqxc",
-        "title": "Евгений Онегин",
-        "author": "Пушкин, Александр Сергеевич",
-        "notes": "",
-        "createdAt": "2018-04-23 21:13:12",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 69
         }
     }
 }
