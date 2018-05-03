@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 58,
+        "updatedAt": "2018-05-03 19:23:07"
+    },
     "954468854711765-facebook": {
         "id": "954468854711765-facebook",
         "nickname": "Sovi Agiroto",
@@ -16,12 +22,6 @@
         "nickname": "darb_el",
         "booksCount": 11,
         "updatedAt": "2018-05-03 02:43:56"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 57,
-        "updatedAt": "2018-05-02 19:31:42"
     },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>58</sup>
+    > Твои ошибки все равно что разбросанные на дороге камни, кто-то их подберет и построит из  них себе дом. Особенно,  если тебе есть чем бросаться.
+
 * Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
     > Книга продолжение первой части, интересна, но без начала и конца как таковых, жду 3-ю часть
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Очень даже ничего детектив.
 
 * Элементарные частицы ~ [Saamy](users/115/115226508-vkontakte)<sup>46</sup>
-    > Книга смешала в себе просто все - жестокую трагедию человеческих жизней, вульгарные эротические сцены, длинные философские монологи. 
-    > Общее впечатление, скорее, негативное. нестерпимо пошлая первая половина, где герои трахаются, развлекаются и жалуются на жизнь, и вторая, где герои трахаются, страдают и изрекают философские монологи. То, что изложено в аннотации, про совершенных людей, присутствует только на последних страницах. 
-    > Очень специфическое и явно не мое чтиво.
 
 * Мартин Иден ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup>
 
@@ -28,17 +28,15 @@ Do not use pull requests to make changes here.
 
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
 
-* Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>58</sup> 
 [Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
 [En](users/333/333646551-vkontakte)<sup>43</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>57</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ON_Petroff](users/107/1079841742132777-facebook)<sup>5</sup> 
 
 
-_03.05.2018 17:33:38_
+_03.05.2018 19:23:07_
