@@ -1,4 +1,16 @@
 {
+    "gy6Nvf1u-M": {
+        "id": "gy6Nvf1u-M",
+        "title": "Война и мир",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2018-05-03 20:28:48",
+        "user": {
+            "id": "106688086955995692323-google",
+            "nickname": "Dollar",
+            "booksCount": 1
+        }
+    },
     "ItWTIQb99a": {
         "id": "ItWTIQb99a",
         "title": "Обыкновенная история",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 48
-        }
-    },
-    "d0jy-XcVjK": {
-        "id": "d0jy-XcVjK",
-        "title": "Гранатовый Браслет",
-        "author": "Александр Куприн",
-        "notes": "",
-        "createdAt": "2018-04-26 11:13:40",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 122
         }
     }
 }
