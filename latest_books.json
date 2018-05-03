@@ -1,4 +1,16 @@
 {
+    "hzPsQNSjIs": {
+        "id": "hzPsQNSjIs",
+        "title": "Какая польза от религии?",
+        "author": "Ричард Докинз",
+        "notes": "",
+        "createdAt": "2018-05-03 02:43:22",
+        "user": {
+            "id": "184135339-vkontakte",
+            "nickname": "darb_el",
+            "booksCount": 10
+        }
+    },
     "sy7Lfcupav": {
         "id": "sy7Lfcupav",
         "title": "Вирусы мозга",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 66
-        }
-    },
-    "z6TGpw7dlC": {
-        "id": "z6TGpw7dlC",
-        "title": "Шляпа, полная небес",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2018-04-23 21:06:20",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 65
         }
     }
 }
