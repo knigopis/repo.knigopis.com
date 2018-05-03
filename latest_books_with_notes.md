@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
 * Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
 * Элементарные частицы ~ [Saamy](users/115/115226508-vkontakte)<sup>46</sup>
 * Мартин Иден ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup>
@@ -30,7 +31,6 @@
 * Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
 * Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
 * Нет кузнечика в траве ~ [Chiffi](users/105/105831994080785626680-google)<sup>50</sup>
-* Заводной апельсин ~ [Rainbow](users/109/109787328219839805802-google)<sup>44</sup>
 
 
-_02.05.2018 19:31:42_
+_03.05.2018 07:33:21_
