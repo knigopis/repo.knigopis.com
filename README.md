@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me1](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>71</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
-[me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 
 
-_04.05.2018 18:17:48_
+_04.05.2018 20:59:30_
