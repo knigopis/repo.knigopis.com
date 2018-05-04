@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>58</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [anastasiachekunova](users/353/35337055-vkontakte)<sup>0</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>2</sup> 
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
-[rNix](users/115/115622071-twitter)<sup>62</sup> 
 
 
-_04.05.2018 08:01:24_
+_04.05.2018 10:39:15_

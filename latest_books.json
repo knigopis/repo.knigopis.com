@@ -1,4 +1,16 @@
 {
+    "Sf0emVziZh": {
+        "id": "Sf0emVziZh",
+        "title": "Здравствуйте, мистер Бог, это Анна",
+        "author": "Финн",
+        "notes": "",
+        "createdAt": "2018-05-04 10:39:15",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 9
+        }
+    },
     "gy6Nvf1u-M": {
         "id": "gy6Nvf1u-M",
         "title": "Война и мир",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 118
-        }
-    },
-    "m3P6BNit8_": {
-        "id": "m3P6BNit8_",
-        "title": "Золотой теленок",
-        "author": "Ильф и Петров",
-        "notes": "",
-        "createdAt": "2018-04-26 16:51:11",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 48
         }
     }
 }
