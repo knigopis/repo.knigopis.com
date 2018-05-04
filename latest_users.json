@@ -1,4 +1,10 @@
 {
+    "100657101292352599884-google": {
+        "id": "100657101292352599884-google",
+        "nickname": "kostejka",
+        "booksCount": 0,
+        "updatedAt": "2018-05-04 08:01:20"
+    },
     "106688086955995692323-google": {
         "id": "106688086955995692323-google",
         "nickname": "Dollar",
@@ -172,11 +178,5 @@
         "nickname": "rNix",
         "booksCount": 62,
         "updatedAt": "2018-04-22 14:27:40"
-    },
-    "30558181-vkontakte": {
-        "id": "30558181-vkontakte",
-        "nickname": "EsterHani",
-        "booksCount": 146,
-        "updatedAt": "2018-04-22 13:06:58"
     }
 }
