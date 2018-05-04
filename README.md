@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 
 
-_04.05.2018 21:53:40_
+_04.05.2018 21:53:48_
