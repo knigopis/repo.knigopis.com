@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 71,
+        "updatedAt": "2018-05-04 18:17:48"
+    },
     "220022778-vkontakte": {
         "id": "220022778-vkontakte",
         "nickname": "fox_mi",
@@ -106,12 +112,6 @@
         "nickname": "Персифаль",
         "booksCount": 0,
         "updatedAt": "2018-04-26 04:36:19"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 70,
-        "updatedAt": "2018-04-25 17:58:57"
     },
     "103768944046575496185-google": {
         "id": "103768944046575496185-google",

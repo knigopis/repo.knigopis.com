@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>58</sup>
 * Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
 * Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
@@ -30,7 +31,6 @@
 * Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 * Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
 * Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
-* Весь этот мир ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>47</sup>
 
 
-_03.05.2018 19:23:07_
+_04.05.2018 18:17:48_
