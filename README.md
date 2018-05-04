@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[mej](users/381/381417697-yandex)<sup>39</sup> 
+[me](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>71</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 
 
-_04.05.2018 22:34:20_
+_04.05.2018 22:37:23_
