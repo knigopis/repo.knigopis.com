@@ -1,4 +1,10 @@
 {
+    "324907049-vkontakte": {
+        "id": "324907049-vkontakte",
+        "nickname": "jacksonwang1994",
+        "booksCount": 0,
+        "updatedAt": "2018-05-05 14:25:41"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 85,
         "updatedAt": "2018-04-23 07:51:02"
-    },
-    "35337055-vkontakte": {
-        "id": "35337055-vkontakte",
-        "nickname": "anastasiachekunova",
-        "booksCount": 0,
-        "updatedAt": "2018-04-22 21:49:47"
     }
 }
