@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>2</sup> 
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
 [natallama13](users/197/197338727-yandex)<sup>0</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 
 
-_05.05.2018 19:27:29_
+_05.05.2018 21:01:22_
