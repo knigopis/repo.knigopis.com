@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[podolskyu](users/879/87930352-vkontakte)<sup>0</sup> 
 [meuu](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>71</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 [anastasiachekunova](users/353/35337055-vkontakte)<sup>0</sup> 
 [Irina](users/356/356696223-vkontakte)<sup>2</sup> 
-[richie._.sambora](users/203/2033580363583983-facebook)<sup>3</sup> 
 
 
-_04.05.2018 22:48:07_
+_05.05.2018 08:55:38_
