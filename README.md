@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>0</sup> 
 [podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
 [meuu](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>71</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 [anastasiachekunova](users/353/35337055-vkontakte)<sup>0</sup> 
-[Irina](users/356/356696223-vkontakte)<sup>2</sup> 
 
 
-_05.05.2018 08:57:16_
+_05.05.2018 14:04:22_
