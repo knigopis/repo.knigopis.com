@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[podolskyu](users/879/87930352-vkontakte)<sup>0</sup> 
+[podolskyu](users/879/87930352-vkontakte)<sup>1</sup> 
 [meuu](users/381/381417697-yandex)<sup>39</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>71</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Irina](users/356/356696223-vkontakte)<sup>2</sup> 
 
 
-_05.05.2018 08:55:38_
+_05.05.2018 08:56:54_

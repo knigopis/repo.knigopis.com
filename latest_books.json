@@ -1,4 +1,16 @@
 {
+    "Lby3btMIUU": {
+        "id": "Lby3btMIUU",
+        "title": "вава",
+        "author": "вава",
+        "notes": "вава",
+        "createdAt": "2018-05-05 08:56:54",
+        "user": {
+            "id": "87930352-vkontakte",
+            "nickname": "podolskyu",
+            "booksCount": 1
+        }
+    },
     "1i0FT3-zzH": {
         "id": "1i0FT3-zzH",
         "title": "Мрачный жнец",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 120
-        }
-    },
-    "REly9ogY74": {
-        "id": "REly9ogY74",
-        "title": "Мастерство общения",
-        "author": "Пол Макги",
-        "notes": "",
-        "createdAt": "2018-04-27 21:55:00",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 119
         }
     }
 }
