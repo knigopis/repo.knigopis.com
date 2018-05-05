@@ -1,4 +1,10 @@
 {
+    "87930352-vkontakte": {
+        "id": "87930352-vkontakte",
+        "nickname": "podolskyu",
+        "booksCount": 0,
+        "updatedAt": "2018-05-05 08:55:32"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "meuu",
@@ -172,11 +178,5 @@
         "nickname": "Irina",
         "booksCount": 2,
         "updatedAt": "2018-04-22 21:05:12"
-    },
-    "2033580363583983-facebook": {
-        "id": "2033580363583983-facebook",
-        "nickname": "richie._.sambora",
-        "booksCount": 3,
-        "updatedAt": "2018-04-22 19:56:58"
     }
 }
