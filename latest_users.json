@@ -1,4 +1,10 @@
 {
+    "1712587528828974-facebook": {
+        "id": "1712587528828974-facebook",
+        "nickname": "Ognevka",
+        "booksCount": 0,
+        "updatedAt": "2018-05-05 21:01:19"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "submerged fish",
         "booksCount": 16,
         "updatedAt": "2018-04-23 11:43:34"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 85,
-        "updatedAt": "2018-04-23 07:51:02"
     }
 }
