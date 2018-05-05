@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[violet_velva](users/116/116961712580551399099-google)<sup>3</sup> 
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
-[violet_velva](users/116/116961712580551399099-google)<sup>2</sup> 
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
 [podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
 [meuu](users/381/381417697-yandex)<sup>39</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 
 
-_05.05.2018 21:01:22_
+_05.05.2018 21:26:52_

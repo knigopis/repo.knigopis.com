@@ -1,4 +1,16 @@
 {
+    "16xe7xNMKK": {
+        "id": "16xe7xNMKK",
+        "title": "Любовь, опять любовь",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-05-05 21:26:52",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 3
+        }
+    },
     "E6EJJJ3zkS": {
         "id": "E6EJJJ3zkS",
         "title": "Аксиомы биологии",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 55
-        }
-    },
-    "tbWwjzwAHd": {
-        "id": "tbWwjzwAHd",
-        "title": "Гамлет, принц Датский",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2018-04-27 21:58:15",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 124
         }
     }
 }
