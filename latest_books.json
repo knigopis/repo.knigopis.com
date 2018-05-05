@@ -1,4 +1,16 @@
 {
+    "pL6tLmeA-J": {
+        "id": "pL6tLmeA-J",
+        "title": "Воспоминания выжившей",
+        "author": "Дорис Лессинг",
+        "notes": "",
+        "createdAt": "2018-05-05 14:06:56",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 1
+        }
+    },
     "SJNpr5Nsxf": {
         "id": "SJNpr5Nsxf",
         "title": "ывы",
@@ -345,18 +357,6 @@
             "id": "339786161-vkontakte",
             "nickname": "Антон Шевченко",
             "booksCount": 122
-        }
-    },
-    "MQ5AqvnTgs": {
-        "id": "MQ5AqvnTgs",
-        "title": "Илиада",
-        "author": "Гомер",
-        "notes": "",
-        "createdAt": "2018-04-27 21:56:25",
-        "user": {
-            "id": "339786161-vkontakte",
-            "nickname": "Антон Шевченко",
-            "booksCount": 121
         }
     }
 }
