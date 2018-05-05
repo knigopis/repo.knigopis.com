@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
 * Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
 * Обыкновенная история ~ [Chiffi](users/105/105831994080785626680-google)<sup>58</sup>
 * Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
@@ -30,7 +31,6 @@
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
 * Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 * Солнечная ~ [Apprentice ](users/528/52821952-vkontakte)<sup>83</sup>
-* Большие надежды ~ [Garka](users/115/115753719718250012620-google)<sup>176</sup>
 
 
-_04.05.2018 18:17:48_
+_05.05.2018 19:27:29_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
+    > Автор, Борис Михайлович Медников, советский биолог и популяризатор науки, был профессором в МГУ, и наблюдения за некоторой хаотичностью биологического знания натолкнули его на мысль сформулировать некие аксиомы биологии, определенные незыблемые свойства всего живого, которые влияют на все биологические и эволюционные процессы.
+
 * Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
     > Прекрасная, душевная книга! А, в особенности, конец...
     > Меня умиротворяют книги, в которых главным мотивом является рассуждение о бренности жизни, её смысле и старости. Они чудесно умиротворяют, не вводя в эскейпизм. "Вино из одуванчиков" из той же серии.
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Твои ошибки все равно что разбросанные на дороге камни, кто-то их подберет и построит из  них себе дом. Особенно,  если тебе есть чем бросаться.
 
 * Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
-    > Книга продолжение первой части, интересна, но без начала и конца как таковых, жду 3-ю часть
 
 * Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
 
-* Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>2</sup> 
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
 [podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>43</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>46</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup> 
 
 
-_05.05.2018 15:16:44_
+_05.05.2018 19:27:29_

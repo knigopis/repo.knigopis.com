@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 47,
+        "updatedAt": "2018-05-05 19:27:29"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -76,12 +82,6 @@
         "nickname": "le_brouillard",
         "booksCount": 15,
         "updatedAt": "2018-05-02 17:31:52"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 46,
-        "updatedAt": "2018-05-01 19:15:00"
     },
     "64251996-vkontakte": {
         "id": "64251996-vkontakte",
