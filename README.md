@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>620</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>3</sup> 
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
@@ -50,7 +51,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>619</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 
 
-_05.05.2018 21:26:52_
+_06.05.2018 10:40:28_
