@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
 * Мы ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 * Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
 * Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 * Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
 * Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
-* Монголия ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>2</sup>
 
 
-_07.05.2018 15:34:58_
+_07.05.2018 18:52:20_
