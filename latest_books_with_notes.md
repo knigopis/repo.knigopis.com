@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
 * Мы ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 * Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
@@ -30,7 +31,6 @@
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 * Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
-* Овод ~ [Макар Коренюк](users/126/126368737-vkontakte)<sup>3</sup>
 
 
-_07.05.2018 18:52:20_
+_07.05.2018 20:22:22_

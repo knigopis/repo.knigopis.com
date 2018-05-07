@@ -1,7 +1,14 @@
-# Список прочитанных книг пользователя exulted<sup>54</sup>
+# Список прочитанных книг пользователя exulted<sup>55</sup>
 ---
 
 ## 2018
+
+### Mr Mercedes (The Bill Hodges Trilogy Book 1)
+Stephen King
+> [2018-05-07] ISBN-10: 1444788620
+> ISBN-13: 978-1444788624
+> ASIN: B00HW2EHEO
+
 
 ### Window on a Burning Man
 T. B. Newman

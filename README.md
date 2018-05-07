@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
+    > ISBN-10: 1444788620
+    > ISBN-13: 978-1444788624
+    > ASIN: B00HW2EHEO
+
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
     > Собственно история жизни Дэвида Копперфилда, рассказанная им самим. Первый том охватывает период жизни Дэвида со дня рождения до возраста 17-18 лет.
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > Форма повествования специфична, в книге используются математические термины, чтобы показать, что все в жизни рассчитано, все математически верно. К сожалению, чем дальше, тем шизофреничнее становится повествование. Такой подход выполняет свои цели, но для меня это создавало трудности при прочтении.
 
 * Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
-    > Автор, Борис Михайлович Медников, советский биолог и популяризатор науки, был профессором в МГУ, и наблюдения за некоторой хаотичностью биологического знания натолкнули его на мысль сформулировать некие аксиомы биологии, определенные незыблемые свойства всего живого, которые влияют на все биологические и эволюционные процессы.
 
 * Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Мартин Иден ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup>
 
-* Академия демонов ~ [Chiffi](users/105/105831994080785626680-google)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>55</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
 [rNix](users/115/115622071-twitter)<sup>63</sup> 
 [tchseeya](users/385/385117355-vkontakte)<sup>0</sup> 
@@ -63,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 [oleja_acid](users/214/214195420-vkontakte)<sup>0</sup> 
-[Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 
 
-_07.05.2018 18:52:20_
+_07.05.2018 20:22:22_
