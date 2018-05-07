@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[tchseeya](users/385/385117355-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>620</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>3</sup> 
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chackiller](users/115/115804413412486285663-google)<sup>0</sup> 
 [malnat13](users/353/35389775-yandex)<sup>0</sup> 
 [natallama13](users/197/197338727-yandex)<sup>0</sup> 
-[submerged fish](users/471/471364154-yandex)<sup>16</sup> 
 
 
-_06.05.2018 10:40:28_
+_07.05.2018 10:43:19_
