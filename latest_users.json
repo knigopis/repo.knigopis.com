@@ -1,4 +1,10 @@
 {
+    "112917914232006857743-google": {
+        "id": "112917914232006857743-google",
+        "nickname": "RiMass",
+        "booksCount": 0,
+        "updatedAt": "2018-05-08 13:53:22"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Читатель",
         "booksCount": 0,
         "updatedAt": "2018-04-24 22:57:52"
-    },
-    "214195420-vkontakte": {
-        "id": "214195420-vkontakte",
-        "nickname": "oleja_acid",
-        "booksCount": 0,
-        "updatedAt": "2018-04-24 14:25:39"
     }
 }
