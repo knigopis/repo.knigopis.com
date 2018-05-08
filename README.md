@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[RiMass](users/112/112917914232006857743-google)<sup>0</sup> 
+[RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>55</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
 [rNix](users/115/115622071-twitter)<sup>63</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 
 
-_08.05.2018 13:53:26_
+_08.05.2018 13:54:06_

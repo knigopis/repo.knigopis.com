@@ -1,4 +1,16 @@
 {
+    "MxZ7ony_LV": {
+        "id": "MxZ7ony_LV",
+        "title": "Бойся, я с тобой",
+        "author": "Таня Танк",
+        "notes": "",
+        "createdAt": "2018-05-08 13:54:06",
+        "user": {
+            "id": "112917914232006857743-google",
+            "nickname": "RiMass",
+            "booksCount": 1
+        }
+    },
     "aUepWVBPje": {
         "id": "aUepWVBPje",
         "title": "Mr Mercedes (The Bill Hodges Trilogy Book 1)",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 302
-        }
-    },
-    "YfOzo_ItH_": {
-        "id": "YfOzo_ItH_",
-        "title": "Iphuck 10",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2018-04-30 05:44:53",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 301
         }
     }
 }
