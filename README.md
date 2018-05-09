@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
 [RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>55</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 [Персифаль](users/107/107737634378855600034-google)<sup>0</sup> 
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
-[Читатель](users/237/237477700-vkontakte)<sup>0</sup> 
 
 
-_08.05.2018 13:54:06_
+_09.05.2018 11:06:55_

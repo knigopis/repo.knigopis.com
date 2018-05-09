@@ -1,4 +1,10 @@
 {
+    "109232883876697421544-google": {
+        "id": "109232883876697421544-google",
+        "nickname": "Andry-Bal",
+        "booksCount": 29,
+        "updatedAt": "2018-05-09 11:06:55"
+    },
     "112917914232006857743-google": {
         "id": "112917914232006857743-google",
         "nickname": "RiMass",
@@ -172,11 +178,5 @@
         "nickname": "vikakofe",
         "booksCount": 0,
         "updatedAt": "2018-04-25 09:37:27"
-    },
-    "237477700-vkontakte": {
-        "id": "237477700-vkontakte",
-        "nickname": "Читатель",
-        "booksCount": 0,
-        "updatedAt": "2018-04-24 22:57:52"
     }
 }

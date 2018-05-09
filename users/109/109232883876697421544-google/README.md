@@ -1,7 +1,12 @@
-# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>28</sup>
+# List of books read by [Andry-Bal](https://plus.google.com/109232883876697421544)<sup>29</sup>
 ---
 
 ## 2018
+
+### Harry Potter and the Half-Blood Prince
+J. K. Rowling
+> [2018-05-08] 
+
 
 ### Harry Potter and the Goblet of Fire
 Joanne Rowling

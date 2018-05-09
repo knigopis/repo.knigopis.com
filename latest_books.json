@@ -1,4 +1,16 @@
 {
+    "DiDYFLuZhA": {
+        "id": "DiDYFLuZhA",
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J. K. Rowling",
+        "notes": "",
+        "createdAt": "2018-05-09 11:06:55",
+        "user": {
+            "id": "109232883876697421544-google",
+            "nickname": "Andry-Bal",
+            "booksCount": 29
+        }
+    },
     "MxZ7ony_LV": {
         "id": "MxZ7ony_LV",
         "title": "Бойся, я с тобой",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 618
-        }
-    },
-    "rjTmsDv_75": {
-        "id": "rjTmsDv_75",
-        "title": "Основатель",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-04-30 05:45:35",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 302
         }
     }
 }
