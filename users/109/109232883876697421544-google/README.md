@@ -4,7 +4,7 @@
 ## 2018
 
 ### Harry Potter and the Half-Blood Prince
-J. K. Rowling
+Joanne Rowling
 > [2018-05-08] 
 
 
