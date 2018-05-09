@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
+    > ISBN: 978-5-17-048661-8, 978-5-9713-6788-8, 978-985-16-3853-2
+
 * Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
     > ISBN: 9785448544989
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-4461-0709-4
 
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
-    > ISBN-10: 1444788620
-    > ISBN-13: 978-1444788624
-    > ASIN: B00HW2EHEO
 
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Каждому свое 2 ~ [En](users/333/333646551-vkontakte)<sup>43</sup>
 
-* Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>57</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>58</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
 [RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 
 
-_09.05.2018 13:32:25_
+_09.05.2018 13:33:14_

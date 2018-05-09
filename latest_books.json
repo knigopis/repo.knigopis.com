@@ -1,4 +1,16 @@
 {
+    "K0hJhrgrsq": {
+        "id": "K0hJhrgrsq",
+        "title": "Младенец и черт",
+        "author": "Акунин Борис",
+        "notes": "ISBN: 978-5-17-048661-8, 978-5-9713-6788-8, 978-985-16-3853-2",
+        "createdAt": "2018-05-09 13:33:14",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 58
+        }
+    },
     "gxo4G8fT7F": {
         "id": "gxo4G8fT7F",
         "title": "Системный инженер. Как начать карьеру в новом технологическом укладе",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 46
-        }
-    },
-    "mMRvmnCitx": {
-        "id": "mMRvmnCitx",
-        "title": "Мартин Иден",
-        "author": "Джек Лондон",
-        "notes": "Мартин Иден, Руфь Морз, Бриссенден, Джо,",
-        "createdAt": "2018-05-01 10:25:41",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 51
         }
     }
 }

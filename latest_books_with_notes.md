@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
 * Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
 * Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
-* Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 
 
-_09.05.2018 13:32:25_
+_09.05.2018 13:33:14_
