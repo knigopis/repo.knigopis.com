@@ -1,4 +1,10 @@
 {
+    "198265295-vkontakte": {
+        "id": "198265295-vkontakte",
+        "nickname": "nikita_mikita",
+        "booksCount": 0,
+        "updatedAt": "2018-05-09 14:33:04"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Персифаль",
         "booksCount": 0,
         "updatedAt": "2018-04-26 04:36:19"
-    },
-    "103768944046575496185-google": {
-        "id": "103768944046575496185-google",
-        "nickname": "vikakofe",
-        "booksCount": 0,
-        "updatedAt": "2018-04-25 09:37:27"
     }
 }
