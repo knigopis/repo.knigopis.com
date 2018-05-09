@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
+    > ISBN: 9785448544989
+
 * Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
     > ISBN: 978-5-4461-0709-4
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00HW2EHEO
 
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
-    > Собственно история жизни Дэвида Копперфилда, рассказанная им самим. Первый том охватывает период жизни Дэвида со дня рождения до возраста 17-18 лет.
 
 * Мы ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Любовь.ру Любовь и смерть по вызову ~ [Chiffi](users/105/105831994080785626680-google)<sup>57</sup>
 
-* Элементарные частицы ~ [Saamy](users/115/115226508-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>56</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>57</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
 [RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [vikakofe](users/103/103768944046575496185-google)<sup>0</sup> 
 
 
-_09.05.2018 13:29:47_
+_09.05.2018 13:32:25_

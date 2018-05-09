@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
 * Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
@@ -30,7 +31,6 @@
 * Далекая радуга ~ [En](users/333/333646551-vkontakte)<sup>42</sup>
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
-* Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
 
 
-_09.05.2018 13:29:47_
+_09.05.2018 13:32:25_

@@ -1,4 +1,16 @@
 {
+    "gxo4G8fT7F": {
+        "id": "gxo4G8fT7F",
+        "title": "Системный инженер. Как начать карьеру в новом технологическом укладе",
+        "author": "Мизгулин Вячеслав",
+        "notes": "ISBN: 9785448544989",
+        "createdAt": "2018-05-09 13:32:25",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 57
+        }
+    },
     "Ec4vKrq38X": {
         "id": "Ec4vKrq38X",
         "title": "Красный шторм. Октябрьская революция глазами российских историков",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 51
-        }
-    },
-    "vUfw07Q2E6": {
-        "id": "vUfw07Q2E6",
-        "title": "Юный Кнут Аксельброд",
-        "author": "Льюис Синклер",
-        "notes": "",
-        "createdAt": "2018-05-01 10:23:41",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 619
         }
     }
 }
