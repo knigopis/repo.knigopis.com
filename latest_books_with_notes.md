@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
 * Мы ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Каждому свое ~ [En](users/333/333646551-vkontakte)<sup>41</sup>
 * Клеймо ~ [Chiffi](users/105/105831994080785626680-google)<sup>52</sup>
 * Латеральное мышление ~ [Madlax](users/158/158304782-vkontakte)<sup>140</sup>
-* Второй шанс на жизнь. ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>48</sup>
 
 
-_07.05.2018 20:22:22_
+_09.05.2018 13:29:47_
