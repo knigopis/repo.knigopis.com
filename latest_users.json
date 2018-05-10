@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 44,
+        "updatedAt": "2018-05-10 16:30:09"
+    },
     "198265295-vkontakte": {
         "id": "198265295-vkontakte",
         "nickname": "nikita_mikita",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 122,
         "updatedAt": "2018-04-26 11:13:40"
-    },
-    "107737634378855600034-google": {
-        "id": "107737634378855600034-google",
-        "nickname": "Персифаль",
-        "booksCount": 0,
-        "updatedAt": "2018-04-26 04:36:19"
     }
 }
