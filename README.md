@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>59</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>61</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 
 
-_10.05.2018 16:30:10_
+_10.05.2018 18:05:35_
