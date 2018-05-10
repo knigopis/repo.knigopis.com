@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me1](users/381/381417697-yandex)<sup>39</sup> 
+[me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 
 
-_10.05.2018 22:05:36_
+_10.05.2018 22:05:53_
