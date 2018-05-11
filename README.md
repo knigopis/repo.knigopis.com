@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>118</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
-[Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 
 
-_11.05.2018 11:03:41_
+_11.05.2018 17:02:18_
