@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
+    > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
+
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
     > "Если что-то может пойти не так, то обязательно пойдет"
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-060485-2
 
 * Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
-    > ISBN: 978-5-17-048661-8, 978-5-9713-6788-8, 978-985-16-3853-2
 
 * Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
 
-* Мрачный жнец ~ [joan789](users/240/2401650-vkontakte)<sup>71</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 [Антон Шевченко](users/339/339786161-vkontakte)<sup>124</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>48</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 
 
-_10.05.2018 22:05:53_
+_11.05.2018 05:33:48_

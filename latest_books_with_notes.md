@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 * Мука разбитого сердца ~ [exulted](users/100/100599204551896265722-google)<sup>59</sup>
 * Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
@@ -30,7 +31,6 @@
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
 * Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
-* Полная Ж. Жизнь как бизнес-проект ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>151</sup>
 
 
-_10.05.2018 16:30:10_
+_11.05.2018 05:33:48_
