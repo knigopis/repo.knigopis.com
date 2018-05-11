@@ -1,4 +1,16 @@
 {
+    "SrYCI4LDou": {
+        "id": "SrYCI4LDou",
+        "title": "За рекой, в тени деревьев",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2018-05-11 11:03:40",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 118
+        }
+    },
     "o7x3m_RXt0": {
         "id": "o7x3m_RXt0",
         "title": "Другая судьба",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 9
-        }
-    },
-    "-j_5FRpZIk": {
-        "id": "-j_5FRpZIk",
-        "title": "Любовь.ру Любовь и смерть по вызову",
-        "author": "Андреева Любовь",
-        "notes": "Очень даже ничего детектив.",
-        "createdAt": "2018-05-02 19:31:42",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 57
         }
     }
 }
