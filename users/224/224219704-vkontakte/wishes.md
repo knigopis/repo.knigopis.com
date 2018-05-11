@@ -1,6 +1,7 @@
 # Wish list of books by [Montale](http://vk.com/id224219704)
 ---
 
+
 ### `2` «Дневник дебильного кота»
 Жуффа Сюзи
 
