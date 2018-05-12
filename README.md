@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
-[me](users/381/381417697-yandex)<sup>39</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>118</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 
 
-_12.05.2018 10:27:16_
+_12.05.2018 13:53:11_
