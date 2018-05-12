@@ -1,4 +1,16 @@
 {
+    "PAjNhJ8Ei7": {
+        "id": "PAjNhJ8Ei7",
+        "title": "Principles: Life and Work",
+        "author": "Ray Dalio",
+        "notes": "ASIN: B071CTK28D",
+        "createdAt": "2018-05-12 10:27:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 60
+        }
+    },
     "qz0Z4g2D2V": {
         "id": "qz0Z4g2D2V",
         "title": "За день до послезавтра",
@@ -345,18 +357,6 @@
             "id": "184135339-vkontakte",
             "nickname": "darb_el",
             "booksCount": 11
-        }
-    },
-    "hzPsQNSjIs": {
-        "id": "hzPsQNSjIs",
-        "title": "Какая польза от религии?",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2018-05-03 02:43:22",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 10
         }
     }
 }

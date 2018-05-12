@@ -1,4 +1,16 @@
 {
+    "PAjNhJ8Ei7": {
+        "id": "PAjNhJ8Ei7",
+        "title": "Principles: Life and Work",
+        "author": "Ray Dalio",
+        "notes": "ASIN: B071CTK28D",
+        "createdAt": "2018-05-12 10:27:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 60
+        }
+    },
     "qz0Z4g2D2V": {
         "id": "qz0Z4g2D2V",
         "title": "За день до послезавтра",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 43
-        }
-    },
-    "ulymB_pjaf": {
-        "id": "ulymB_pjaf",
-        "title": "Быть Воином (Путь князя)",
-        "author": "Злотников Роман",
-        "notes": "Один из уроков, который они уже достаточно твердо усвоили,  состоял в том,  что не надо спешить  давать ответ , пока у тебя не спросили.",
-        "createdAt": "2018-04-14 22:01:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 53
         }
     }
 }
