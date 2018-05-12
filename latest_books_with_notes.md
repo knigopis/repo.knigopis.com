@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 * Мука разбитого сердца ~ [exulted](users/100/100599204551896265722-google)<sup>59</sup>
@@ -30,7 +31,6 @@
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
 * Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 * Быть Воином (Путь князя) ~ [Chiffi](users/105/105831994080785626680-google)<sup>53</sup>
-* Академия родная ~ [Garka](users/115/115753719718250012620-google)<sup>177</sup>
 
 
-_11.05.2018 05:33:48_
+_12.05.2018 07:26:35_
