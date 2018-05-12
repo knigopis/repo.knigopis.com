@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[me](users/381/381417697-yandex)<sup>39</sup> 
+[me ](users/381/381417697-yandex)<sup>39</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>118</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 
 
-_12.05.2018 03:09:27_
+_12.05.2018 03:19:03_
