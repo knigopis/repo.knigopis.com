@@ -1,4 +1,16 @@
 {
+    "DR9sKyxSCd": {
+        "id": "DR9sKyxSCd",
+        "title": "Когда я вернусь, будь дома",
+        "author": "Эльчин Сафарли",
+        "notes": "",
+        "createdAt": "2018-05-13 09:47:31",
+        "user": {
+            "id": "200601396-vkontakte",
+            "nickname": "Милашечка",
+            "booksCount": 23
+        }
+    },
     "PAjNhJ8Ei7": {
         "id": "PAjNhJ8Ei7",
         "title": "Principles: Life and Work",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 43
-        }
-    },
-    "3zuBETJC5f": {
-        "id": "3zuBETJC5f",
-        "title": "Есть ли что-нибудь более невероятное, чем Бог?",
-        "author": "Ричард Докинз",
-        "notes": "",
-        "createdAt": "2018-05-03 02:43:56",
-        "user": {
-            "id": "184135339-vkontakte",
-            "nickname": "darb_el",
-            "booksCount": 11
         }
     }
 }

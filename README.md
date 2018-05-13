@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [me](users/381/381417697-yandex)<sup>39</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>51</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>302</sup> 
 
 
-_13.05.2018 00:55:19_
+_13.05.2018 09:47:31_
