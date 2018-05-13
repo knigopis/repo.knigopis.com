@@ -1,10 +1,7 @@
-# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>43</sup>
+# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>42</sup>
 ---
 
 ## 2019
-
-### New2
-
 
 ### New
 
