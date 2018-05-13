@@ -1,4 +1,16 @@
 {
+    "11KWBJFfQ_": {
+        "id": "11KWBJFfQ_",
+        "title": "Kdkdkd",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-05-13 23:23:28",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 41
+        }
+    },
     "UG8rhsk5yO": {
         "id": "UG8rhsk5yO",
         "title": "Jsus",
@@ -345,18 +357,6 @@
             "id": "954468854711765-facebook",
             "nickname": "Sovi Agiroto",
             "booksCount": 2
-        }
-    },
-    "1yRsR96TPw": {
-        "id": "1yRsR96TPw",
-        "title": "Агенство Магических катастроф",
-        "author": "Махяр Ольга",
-        "notes": "",
-        "createdAt": "2018-05-03 17:33:13",
-        "user": {
-            "id": "954468854711765-facebook",
-            "nickname": "Sovi Agiroto",
-            "booksCount": 1
         }
     }
 }
