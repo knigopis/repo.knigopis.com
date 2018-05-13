@@ -1,4 +1,16 @@
 {
+    "28rVEuAasr": {
+        "id": "28rVEuAasr",
+        "title": "New",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-05-13 23:30:07",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 42
+        }
+    },
     "11KWBJFfQ_": {
         "id": "11KWBJFfQ_",
         "title": "Kdkdkd",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 58
-        }
-    },
-    "BRmEx1MMZm": {
-        "id": "BRmEx1MMZm",
-        "title": "Жена темного властелина. Пособие по выживанию",
-        "author": "Руденко Елена",
-        "notes": "",
-        "createdAt": "2018-05-03 17:33:38",
-        "user": {
-            "id": "954468854711765-facebook",
-            "nickname": "Sovi Agiroto",
-            "booksCount": 2
         }
     }
 }
