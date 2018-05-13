@@ -1,4 +1,16 @@
 {
+    "UG8rhsk5yO": {
+        "id": "UG8rhsk5yO",
+        "title": "Jsus",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-05-13 23:23:17",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 40
+        }
+    },
     "DR9sKyxSCd": {
         "id": "DR9sKyxSCd",
         "title": "Когда я вернусь, будь дома",
@@ -345,18 +357,6 @@
             "id": "954468854711765-facebook",
             "nickname": "Sovi Agiroto",
             "booksCount": 1
-        }
-    },
-    "pKMY2kDWlX": {
-        "id": "pKMY2kDWlX",
-        "title": "Каждому свое 2",
-        "author": "Тармашев С.С.",
-        "notes": "Книга продолжение первой части, интересна, но без начала и конца как таковых, жду 3-ю часть",
-        "createdAt": "2018-05-03 07:33:21",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 43
         }
     }
 }
