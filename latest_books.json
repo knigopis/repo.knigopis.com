@@ -1,4 +1,16 @@
 {
+    "MCL3-_81RP": {
+        "id": "MCL3-_81RP",
+        "title": "New2",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-05-13 23:30:15",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 43
+        }
+    },
     "28rVEuAasr": {
         "id": "28rVEuAasr",
         "title": "New",
@@ -345,18 +357,6 @@
             "id": "106688086955995692323-google",
             "nickname": "Dollar",
             "booksCount": 1
-        }
-    },
-    "ItWTIQb99a": {
-        "id": "ItWTIQb99a",
-        "title": "Обыкновенная история",
-        "author": "Андреева Наталья",
-        "notes": "Твои ошибки все равно что разбросанные на дороге камни, кто-то их подберет и построит из  них себе дом. Особенно,  если тебе есть чем бросаться.",
-        "createdAt": "2018-05-03 19:23:07",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 58
         }
     }
 }
