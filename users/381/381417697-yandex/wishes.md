@@ -30,7 +30,7 @@ Dmitry Jemerov, Svetlana Isakova
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
-### `8` Git from the Bottom Up
+### `7` Git from the Bottom Up
 John Wiegley
 
 ### `5` What If?
