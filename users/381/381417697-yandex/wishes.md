@@ -14,7 +14,7 @@
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
-### `36` Kotlin in Action
+### `37` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 
 ### `20` Слово живое и мертвое
