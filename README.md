@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
+    > интересный небольшой рассказ со смыслом.
+
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
     > ASIN: B071CTK28D
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ..не останавливать операцию, обещающую его стране мировое господство навсегда, до скончания истории человеческой цивилизации......  доставшиеся России от Бога-отца невозможно огромные природные ресурсы: от расщепляемых элементов до леса и просто чистой пресной воды. Рад этого,  ради такого любой правитель засадит в концлагеря миллион собственных граждан. И будет сладко спать по ночам,  улыбаясь и пуская слюни от удовлетворения
 
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
-    > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
 
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 
-* Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
@@ -61,9 +62,8 @@ _More notes [here](latest_books_with_notes.md)._
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
 [Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
-[En](users/333/333646551-vkontakte)<sup>43</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 
 
-_13.05.2018 23:35:12_
+_14.05.2018 04:58:34_

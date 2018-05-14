@@ -1,4 +1,16 @@
 {
+    "5A35zXM2sq": {
+        "id": "5A35zXM2sq",
+        "title": "Человек",
+        "author": "Рэй Брэдбери",
+        "notes": "интересный небольшой рассказ со смыслом.",
+        "createdAt": "2018-05-14 04:58:34",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 44
+        }
+    },
     "MCL3-_81RP": {
         "id": "MCL3-_81RP",
         "title": "New2",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 9
-        }
-    },
-    "gy6Nvf1u-M": {
-        "id": "gy6Nvf1u-M",
-        "title": "Война и мир",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2018-05-03 20:28:48",
-        "user": {
-            "id": "106688086955995692323-google",
-            "nickname": "Dollar",
-            "booksCount": 1
         }
     }
 }

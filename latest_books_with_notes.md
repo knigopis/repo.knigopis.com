@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
@@ -30,7 +31,6 @@
 * Посох и шляпа ~ [Garka](users/115/115753719718250012620-google)<sup>178</sup>
 * Один день в древнем Риме ~ [Apprentice ](users/528/52821952-vkontakte)<sup>84</sup>
 * Белое на черном ~ [Saamy](users/115/115226508-vkontakte)<sup>44</sup>
-* Уязвимое море ~ [Saamy](users/115/115226508-vkontakte)<sup>43</sup>
 
 
-_12.05.2018 10:27:16_
+_14.05.2018 04:58:34_
