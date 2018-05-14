@@ -30,7 +30,7 @@ Dmitry Jemerov, Svetlana Isakova
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
 
-### `7` Git from the Bottom Up
+### `8` Git from the Bottom Up
 John Wiegley
 
 ### `5` What If?
@@ -64,7 +64,8 @@ Linus Torvalds, David Diamond
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
-### `` Kkk
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
@@ -90,15 +91,12 @@ Jon Erickson
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
 ### `` A Briefer History of Time
 Stephen Hawking
 
 ### `` Повелитель мух
 Уильям Голдинг
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
