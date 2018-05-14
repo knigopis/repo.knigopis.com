@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[develchip](users/852/85203415-vkontakte)<sup>66</sup> 
+[develchip](users/852/85203415-vkontakte)<sup>67</sup> 
 [En](users/333/333646551-vkontakte)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 
 
-_14.05.2018 10:40:38_
+_14.05.2018 10:45:53_

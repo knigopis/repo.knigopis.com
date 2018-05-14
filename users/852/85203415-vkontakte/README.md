@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>66</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>67</sup>
 ---
 
 ## 2018
+
+### Когда Ницше плакал
+Ирвин Ялом
+> [2018-05-13] 
+
 
 ### Токсичные родители
 Сьзан Форвард
