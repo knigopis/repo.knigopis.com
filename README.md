@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[joan789](users/240/2401650-vkontakte)<sup>72</sup> 
+[joan789](users/240/2401650-vkontakte)<sup>71</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>67</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 
 
-_14.05.2018 18:07:58_
+_14.05.2018 18:08:28_
