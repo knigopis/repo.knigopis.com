@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>303</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
 [Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
-[darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 
 
-_14.05.2018 18:14:40_
+_14.05.2018 19:13:29_
