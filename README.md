@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>67</sup> 
 [En](users/333/333646551-vkontakte)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>118</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>62</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
 
 
-_14.05.2018 10:45:53_
+_14.05.2018 10:59:10_
