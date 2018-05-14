@@ -1,4 +1,16 @@
 {
+    "e5H5p_GomJ": {
+        "id": "e5H5p_GomJ",
+        "title": "Токсичные родители",
+        "author": "Сьзан Форвард",
+        "notes": "",
+        "createdAt": "2018-05-14 10:40:38",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 66
+        }
+    },
     "5A35zXM2sq": {
         "id": "5A35zXM2sq",
         "title": "Человек",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 71
-        }
-    },
-    "Sf0emVziZh": {
-        "id": "Sf0emVziZh",
-        "title": "Здравствуйте, мистер Бог, это Анна",
-        "author": "Финн",
-        "notes": "",
-        "createdAt": "2018-05-04 10:39:15",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 9
         }
     }
 }

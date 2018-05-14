@@ -1,4 +1,10 @@
 {
+    "85203415-vkontakte": {
+        "id": "85203415-vkontakte",
+        "nickname": "develchip",
+        "booksCount": 66,
+        "updatedAt": "2018-05-14 10:40:38"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -172,11 +178,5 @@
         "nickname": "darb_el",
         "booksCount": 11,
         "updatedAt": "2018-05-03 02:43:56"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 15,
-        "updatedAt": "2018-05-02 17:31:52"
     }
 }

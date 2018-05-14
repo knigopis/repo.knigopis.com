@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>66</sup> 
 [En](users/333/333646551-vkontakte)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
 [Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
 [darb_el](users/184/184135339-vkontakte)<sup>11</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>15</sup> 
 
 
-_14.05.2018 04:58:34_
+_14.05.2018 10:40:38_

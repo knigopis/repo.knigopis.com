@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>65</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>66</sup>
 ---
 
 ## 2018
+
+### Токсичные родители
+Сьзан Форвард
+> [2018-04-24] 
+
 
 ### Лечение от любви и другие психотерапевтические новеллы
 Ирвин Ялом
