@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 45,
+        "updatedAt": "2018-05-15 04:12:00"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -28,12 +34,6 @@
         "nickname": "develchip",
         "booksCount": 67,
         "updatedAt": "2018-05-14 10:45:53"
-    },
-    "333646551-vkontakte": {
-        "id": "333646551-vkontakte",
-        "nickname": "En",
-        "booksCount": 44,
-        "updatedAt": "2018-05-14 04:58:34"
     },
     "381417697-yandex": {
         "id": "381417697-yandex",

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
+    > рассказ о встрече сицилийцев и ирландцев. откуда столько удивления и противостояния не понятно, но слушать было интересно
+
 * Жажда жизни ~ [joan789](users/240/2401650-vkontakte)<sup>72</sup>
     > Вдохновляющая книга для художника. И для человека, который собирается жить, руководствуясь своими принципами. Потому что таким людям легко не живётся. А что может с ними случиться, расскажет эта книга. У меня она есть и в бумажном варианте... Это отрадно, так как можно перелистывать иногда.
     > 
@@ -20,7 +23,6 @@ Do not use pull requests to make changes here.
     > интересный небольшой рассказ со смыслом.
 
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
-    > ASIN: B071CTK28D
 
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
 
@@ -34,19 +36,17 @@ Do not use pull requests to make changes here.
 
 * Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
 
-* Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>45</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>303</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>67</sup> 
-[En](users/333/333646551-vkontakte)<sup>44</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
 
 
-_14.05.2018 19:13:29_
+_15.05.2018 04:12:00_
