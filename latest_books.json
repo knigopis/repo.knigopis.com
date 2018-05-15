@@ -1,4 +1,16 @@
 {
+    "6_ZNRczFxf": {
+        "id": "6_ZNRczFxf",
+        "title": "Ночная гостья (рассказ)",
+        "author": "Роальд Даль",
+        "notes": "",
+        "createdAt": "2018-05-15 22:08:56",
+        "user": {
+            "id": "2401650-vkontakte",
+            "nickname": "joan789",
+            "booksCount": 73
+        }
+    },
     "1S9HfzuPjA": {
         "id": "1S9HfzuPjA",
         "title": "Транссибирская магистраль. История создания железнодорожной сети России",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 63
-        }
-    },
-    "i98aRF78xn": {
-        "id": "i98aRF78xn",
-        "title": "Иметь и не иметь",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-05-06 10:40:28",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 620
         }
     }
 }

@@ -43,10 +43,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[joan789](users/240/2401650-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup> 
 [En](users/333/333646551-vkontakte)<sup>45</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>303</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>72</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>67</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
 
 
-_15.05.2018 20:32:23_
+_15.05.2018 22:08:56_

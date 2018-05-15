@@ -1,4 +1,10 @@
 {
+    "2401650-vkontakte": {
+        "id": "2401650-vkontakte",
+        "nickname": "joan789",
+        "booksCount": 73,
+        "updatedAt": "2018-05-15 22:08:56"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -16,12 +22,6 @@
         "nickname": "HXT",
         "booksCount": 303,
         "updatedAt": "2018-05-14 19:13:29"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 72,
-        "updatedAt": "2018-05-14 18:14:40"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
