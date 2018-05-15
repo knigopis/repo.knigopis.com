@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/140532199/
+
 * Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
     > рассказ о встрече сицилийцев и ирландцев. откуда столько удивления и противостояния не понятно, но слушать было интересно
 
@@ -20,7 +25,6 @@ Do not use pull requests to make changes here.
     > "И почему это люди, у которых есть средства, чтобы покупать картины, терпеть не могут ничего подлинно художественного? Или именно деньги сделали их тупыми? Почему же у бедняков, умеющих по-настоящему ценить искусство, нет ни фартинга за душой, чтобы украсить свое жилье гравюрой?"
 
 * Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
-    > интересный небольшой рассказ со смыслом.
 
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 
@@ -34,13 +38,12 @@ Do not use pull requests to make changes here.
 
 * Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
 
-* Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup> 
 [En](users/333/333646551-vkontakte)<sup>45</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>303</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>72</sup> 
@@ -70,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 [kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
 [Dollar](users/106/106688086955995692323-google)<sup>1</sup> 
-[Sovi Agiroto](users/954/954468854711765-facebook)<sup>2</sup> 
 
 
-_15.05.2018 04:12:00_
+_15.05.2018 20:32:23_
