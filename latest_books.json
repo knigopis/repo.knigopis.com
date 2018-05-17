@@ -1,4 +1,16 @@
 {
+    "OijdbsnM5e": {
+        "id": "OijdbsnM5e",
+        "title": "Виноваты звезды",
+        "author": "Джон Грин",
+        "notes": "",
+        "createdAt": "2018-05-17 06:43:53",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 5
+        }
+    },
     "e-A2HtzDhH": {
         "id": "e-A2HtzDhH",
         "title": "Виновато море",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 56
-        }
-    },
-    "DiDYFLuZhA": {
-        "id": "DiDYFLuZhA",
-        "title": "Harry Potter and the Half-Blood Prince",
-        "author": "J. K. Rowling",
-        "notes": "",
-        "createdAt": "2018-05-09 11:06:55",
-        "user": {
-            "id": "109232883876697421544-google",
-            "nickname": "Andry-Bal",
-            "booksCount": 29
         }
     }
 }
