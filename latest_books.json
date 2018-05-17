@@ -1,4 +1,16 @@
 {
+    "7UHkEEaRxf": {
+        "id": "7UHkEEaRxf",
+        "title": "Эшли Белл",
+        "author": "Дин Кунц",
+        "notes": "",
+        "createdAt": "2018-05-17 06:44:36",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 6
+        }
+    },
     "OijdbsnM5e": {
         "id": "OijdbsnM5e",
         "title": "Виноваты звезды",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 57
-        }
-    },
-    "Ec4vKrq38X": {
-        "id": "Ec4vKrq38X",
-        "title": "Красный шторм. Октябрьская революция глазами российских историков",
-        "author": "Пучков Дмитрий, Яковлев Егор",
-        "notes": "ISBN: 978-5-4461-0709-4",
-        "createdAt": "2018-05-09 13:29:47",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 56
         }
     }
 }

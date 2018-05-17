@@ -1,7 +1,12 @@
-# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>5</sup>
+# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>6</sup>
 ---
 
 ## 2017
+
+### Эшли Белл
+Дин Кунц
+> [2017-02] 
+
 
 ### Виноваты звезды
 Джон Грин
