@@ -1,7 +1,12 @@
-# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>6</sup>
+# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>7</sup>
 ---
 
 ## 2017
+
+### Игра в жизни
+Джеймс Дэшнер
+> [2017-02] 
+
 
 ### Эшли Белл
 Дин Кунц
