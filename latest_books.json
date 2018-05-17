@@ -1,4 +1,16 @@
 {
+    "6eCIAXhHXa": {
+        "id": "6eCIAXhHXa",
+        "title": "Смертоносная игра",
+        "author": "Джеймс Дэшнер",
+        "notes": "",
+        "createdAt": "2018-05-17 06:41:59",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 2
+        }
+    },
     "xKVaEotNL3": {
         "id": "xKVaEotNL3",
         "title": "По ее следам",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 55
-        }
-    },
-    "jMxMQAJE-j": {
-        "id": "jMxMQAJE-j",
-        "title": "Жизнь Дэвида Копперфилда. Том 1",
-        "author": "Диккенс, Чарльз",
-        "notes": "Собственно история жизни Дэвида Копперфилда, рассказанная им самим. Первый том охватывает период жизни Дэвида со дня рождения до возраста 17-18 лет.",
-        "createdAt": "2018-05-07 18:52:19",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 180
         }
     }
 }
