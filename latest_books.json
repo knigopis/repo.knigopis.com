@@ -1,4 +1,16 @@
 {
+    "58MOsvtNfP": {
+        "id": "58MOsvtNfP",
+        "title": "Тайна школы Блэквуд",
+        "author": "Лоис Дункан",
+        "notes": "",
+        "createdAt": "2018-05-17 06:46:27",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 9
+        }
+    },
     "BL_AVmFltr": {
         "id": "BL_AVmFltr",
         "title": "Кэрри",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 44
-        }
-    },
-    "LQpZZL5MoX": {
-        "id": "LQpZZL5MoX",
-        "title": "Мука разбитого сердца",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-060485-2",
-        "createdAt": "2018-05-09 13:33:40",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 59
         }
     }
 }

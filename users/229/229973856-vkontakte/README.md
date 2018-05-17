@@ -1,7 +1,12 @@
-# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>8</sup>
+# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>9</sup>
 ---
 
 ## 2017
+
+### Тайна школы Блэквуд
+Лоис Дункан
+> [2017-02] 
+
 
 ### Кэрри
 Стивен Кинг
