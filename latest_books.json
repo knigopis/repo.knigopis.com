@@ -1,4 +1,16 @@
 {
+    "e-A2HtzDhH": {
+        "id": "e-A2HtzDhH",
+        "title": "Виновато море",
+        "author": "Люси Кларк",
+        "notes": "",
+        "createdAt": "2018-05-17 06:43:33",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 4
+        }
+    },
     "JoMjLRksAy": {
         "id": "JoMjLRksAy",
         "title": "Господство мысли",
@@ -345,18 +357,6 @@
             "id": "109232883876697421544-google",
             "nickname": "Andry-Bal",
             "booksCount": 29
-        }
-    },
-    "MxZ7ony_LV": {
-        "id": "MxZ7ony_LV",
-        "title": "Бойся, я с тобой",
-        "author": "Таня Танк",
-        "notes": "",
-        "createdAt": "2018-05-08 13:54:06",
-        "user": {
-            "id": "112917914232006857743-google",
-            "nickname": "RiMass",
-            "booksCount": 1
         }
     }
 }
