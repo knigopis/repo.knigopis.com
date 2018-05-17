@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[unicornbitard](users/229/229973856-vkontakte)<sup>0</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup> 
@@ -72,7 +73,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
 [podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
-[kostejka](users/100/100657101292352599884-google)<sup>0</sup> 
 
 
-_16.05.2018 22:06:24_
+_17.05.2018 06:39:16_
