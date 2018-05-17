@@ -43,6 +43,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>119</sup> 
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>118</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
@@ -75,4 +75,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 
 
-_17.05.2018 06:46:27_
+_17.05.2018 12:15:11_
