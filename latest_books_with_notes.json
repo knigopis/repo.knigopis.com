@@ -1,4 +1,16 @@
 {
+    "GdtS4ABK4E": {
+        "id": "GdtS4ABK4E",
+        "title": "История будущего",
+        "author": "Тимоти Лири",
+        "notes": "в процессе\n\nhttp://www.leary.ru/books/future/",
+        "createdAt": "2018-05-17 18:32:50",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 155
+        }
+    },
     "qVWYGkV6NX": {
         "id": "qVWYGkV6NX",
         "title": "Истории про еду",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 63
-        }
-    },
-    "110jPpX8rl": {
-        "id": "110jPpX8rl",
-        "title": "Уловка-22",
-        "author": "Хеллер, Джозеф",
-        "notes": "Крайне редко со мной такое случается - не смогла дочитать книгу (до Уловки 22 такая участь постигла всего 2-3 книги). Осилила где-то 10ю часть только.",
-        "createdAt": "2018-04-20 08:53:02",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 179
         }
     }
 }

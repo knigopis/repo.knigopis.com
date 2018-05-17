@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
+    > в процессе
+    > 
+    > http://www.leary.ru/books/future/
+
 * Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
     > На самом деле, книга-то так себе. И вовсе не про еду, а про советское прошлое. По мне так схалтурил Бильжо, типа денег срубить за книжку. Почитать прикольно, вспомнить СССР, но книга совершенно не стоит никаких денег (мне она бесплатно досталась, да).
     > 
@@ -16,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/140532199/
 
 * Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
-    > рассказ о встрече сицилийцев и ирландцев. откуда столько удивления и противостояния не понятно, но слушать было интересно
 
 * Жажда жизни ~ [joan789](users/240/2401650-vkontakte)<sup>72</sup>
 
@@ -30,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 
-* Мука разбитого сердца ~ [exulted](users/100/100599204551896265722-google)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>119</sup> 
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 
 
-_17.05.2018 18:31:39_
+_17.05.2018 18:32:51_
