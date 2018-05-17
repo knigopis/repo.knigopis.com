@@ -1,4 +1,16 @@
 {
+    "BL_AVmFltr": {
+        "id": "BL_AVmFltr",
+        "title": "Кэрри",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-05-17 06:46:06",
+        "user": {
+            "id": "229973856-vkontakte",
+            "nickname": "unicornbitard",
+            "booksCount": 8
+        }
+    },
     "Pg07MEjt5t": {
         "id": "Pg07MEjt5t",
         "title": "Игра в жизни",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 59
-        }
-    },
-    "K0hJhrgrsq": {
-        "id": "K0hJhrgrsq",
-        "title": "Младенец и черт",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-048661-8, 978-5-9713-6788-8, 978-985-16-3853-2",
-        "createdAt": "2018-05-09 13:33:14",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 58
         }
     }
 }

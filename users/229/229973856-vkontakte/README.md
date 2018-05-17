@@ -1,7 +1,12 @@
-# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>7</sup>
+# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>8</sup>
 ---
 
 ## 2017
+
+### Кэрри
+Стивен Кинг
+> [2017-02] 
+
 
 ### Игра в жизни
 Джеймс Дэшнер
