@@ -1,7 +1,12 @@
-# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>2</sup>
+# List of books read by [unicornbitard](http://vk.com/id229973856)<sup>3</sup>
 ---
 
 ## 2016
+
+### Господство мысли
+Джеймс Дэшнер
+> [2016-12] 
+
 
 ### По ее следам
 Т. Р. Ричмонд
