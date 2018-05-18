@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
+    > Цикл "Тёмная Башня".
+
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
     > Цикл "Тёмная Башня"
 
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > http://www.leary.ru/books/future/
 
 * Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
-    > На самом деле, книга-то так себе. И вовсе не про еду, а про советское прошлое. По мне так схалтурил Бильжо, типа денег срубить за книжку. Почитать прикольно, вспомнить СССР, но книга совершенно не стоит никаких денег (мне она бесплатно досталась, да).
-    > 
-    > в процессе
 
 * Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
 
@@ -30,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
 
-* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup> 
+[NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 
 
-_18.05.2018 21:11:30_
+_18.05.2018 21:12:19_

@@ -1,4 +1,16 @@
 {
+    "qRGkXNrfAx": {
+        "id": "qRGkXNrfAx",
+        "title": "\"Извлечение троих\"",
+        "author": "Стивен Кинг",
+        "notes": "Цикл \"Тёмная Башня\".",
+        "createdAt": "2018-05-18 21:11:55",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "NORDBOOK",
+            "booksCount": 14
+        }
+    },
     "xNfWGSXlSo": {
         "id": "xNfWGSXlSo",
         "title": "\"Стрелок\"",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 85
-        }
-    },
-    "sXtstVe8-v": {
-        "id": "sXtstVe8-v",
-        "title": "Метро 2035",
-        "author": "Дмитрий Глуховский",
-        "notes": "Книга 3",
-        "createdAt": "2018-04-22 13:06:58",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 146
         }
     }
 }
