@@ -1,4 +1,10 @@
 {
+    "108488897837713164784-google": {
+        "id": "108488897837713164784-google",
+        "nickname": "Алюев",
+        "booksCount": 0,
+        "updatedAt": "2018-05-18 10:03:01"
+    },
     "85203415-vkontakte": {
         "id": "85203415-vkontakte",
         "nickname": "develchip",
@@ -172,11 +178,5 @@
         "nickname": "podolskyu",
         "booksCount": 2,
         "updatedAt": "2018-05-05 08:57:16"
-    },
-    "220022778-vkontakte": {
-        "id": "220022778-vkontakte",
-        "nickname": "fox_mi",
-        "booksCount": 9,
-        "updatedAt": "2018-05-04 10:39:15"
     }
 }
