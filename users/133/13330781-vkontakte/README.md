@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>15</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>16</sup>
 ---
 
 ## 2018
+
+### Призраки не лгут
+Ларс Кеплер
+> [2018-05-15] 
+
 
 ### Исповедь убийцы
 Йозеф Рот

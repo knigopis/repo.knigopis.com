@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 16,
+        "updatedAt": "2018-05-18 17:55:19"
+    },
     "108488897837713164784-google": {
         "id": "108488897837713164784-google",
         "nickname": "Алюев",
@@ -172,11 +178,5 @@
         "nickname": "jacksonwang1994",
         "booksCount": 0,
         "updatedAt": "2018-05-05 14:25:41"
-    },
-    "87930352-vkontakte": {
-        "id": "87930352-vkontakte",
-        "nickname": "podolskyu",
-        "booksCount": 2,
-        "updatedAt": "2018-05-05 08:57:16"
     }
 }

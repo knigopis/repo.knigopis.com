@@ -1,4 +1,16 @@
 {
+    "RbYzM3xkZe": {
+        "id": "RbYzM3xkZe",
+        "title": "Призраки не лгут",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-05-18 17:55:19",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 16
+        }
+    },
     "RnD7pc0Kb1": {
         "id": "RnD7pc0Kb1",
         "title": "Книга Урантии",
@@ -345,18 +357,6 @@
             "id": "200601396-vkontakte",
             "nickname": "Милашечка",
             "booksCount": 23
-        }
-    },
-    "PAjNhJ8Ei7": {
-        "id": "PAjNhJ8Ei7",
-        "title": "Principles: Life and Work",
-        "author": "Ray Dalio",
-        "notes": "ASIN: B071CTK28D",
-        "createdAt": "2018-05-12 10:27:16",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 60
         }
     }
 }

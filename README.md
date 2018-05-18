@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
-[podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
 
 
-_18.05.2018 10:18:26_
+_18.05.2018 17:55:19_
