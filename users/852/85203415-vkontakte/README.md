@@ -1,7 +1,12 @@
-# List of books read by [develchip](http://vk.com/id85203415)<sup>67</sup>
+# List of books read by [develchip](http://vk.com/id85203415)<sup>68</sup>
 ---
 
 ## 2018
+
+### Ты меня полюбишь ?
+Кэти Гласс
+> [2018-05-17] 
+
 
 ### Когда Ницше плакал
 Ирвин Ялом

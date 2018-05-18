@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[develchip](users/852/85203415-vkontakte)<sup>68</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>119</sup> 
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>303</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
-[develchip](users/852/85203415-vkontakte)<sup>67</sup> 
 [me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 
 
-_17.05.2018 18:32:51_
+_18.05.2018 05:11:42_

@@ -1,4 +1,16 @@
 {
+    "KkYlhiO8BA": {
+        "id": "KkYlhiO8BA",
+        "title": "Ты меня полюбишь ?",
+        "author": "Кэти Гласс",
+        "notes": "",
+        "createdAt": "2018-05-18 05:11:42",
+        "user": {
+            "id": "85203415-vkontakte",
+            "nickname": "develchip",
+            "booksCount": 68
+        }
+    },
     "GdtS4ABK4E": {
         "id": "GdtS4ABK4E",
         "title": "История будущего",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 59
-        }
-    },
-    "SrYCI4LDou": {
-        "id": "SrYCI4LDou",
-        "title": "За рекой, в тени деревьев",
-        "author": "Эрнест Хемингуэй",
-        "notes": "",
-        "createdAt": "2018-05-11 11:03:40",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 118
         }
     }
 }
