@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>43</sup> 
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>303</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
-[me](users/381/381417697-yandex)<sup>41</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 
 
-_18.05.2018 21:12:19_
+_18.05.2018 22:07:55_
