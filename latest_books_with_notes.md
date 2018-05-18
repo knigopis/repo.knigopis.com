@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
 * Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
 * Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
@@ -30,7 +31,6 @@
 * Шагреневая кожа Земли: Биосфера-почва-человек ~ [Saamy](users/115/115226508-vkontakte)<sup>45</sup>
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
 * Метро 2035 ~ [EsterHani](users/305/30558181-vkontakte)<sup>146</sup>
-* Тест ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
 
 
-_17.05.2018 18:32:51_
+_18.05.2018 21:11:30_

@@ -1,4 +1,16 @@
 {
+    "xNfWGSXlSo": {
+        "id": "xNfWGSXlSo",
+        "title": "\"Стрелок\"",
+        "author": "Стивен Кинг",
+        "notes": "Цикл \"Тёмная Башня\"",
+        "createdAt": "2018-05-18 21:11:30",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "NORDBOOK",
+            "booksCount": 13
+        }
+    },
     "RbYzM3xkZe": {
         "id": "RbYzM3xkZe",
         "title": "Призраки не лгут",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 40
-        }
-    },
-    "DR9sKyxSCd": {
-        "id": "DR9sKyxSCd",
-        "title": "Когда я вернусь, будь дома",
-        "author": "Эльчин Сафарли",
-        "notes": "",
-        "createdAt": "2018-05-13 09:47:31",
-        "user": {
-            "id": "200601396-vkontakte",
-            "nickname": "Милашечка",
-            "booksCount": 23
         }
     }
 }

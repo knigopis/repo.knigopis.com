@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
+    > Цикл "Тёмная Башня"
+
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
     > в процессе
     > 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > в процессе
 
 * Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/140532199/
 
 * Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
 
-* ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
@@ -68,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>3</sup> 
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
-[jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
 
 
-_18.05.2018 17:55:19_
+_18.05.2018 21:11:30_

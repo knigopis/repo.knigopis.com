@@ -1,4 +1,10 @@
 {
+    "325862222-vkontakte": {
+        "id": "325862222-vkontakte",
+        "nickname": "NORDBOOK",
+        "booksCount": 13,
+        "updatedAt": "2018-05-18 21:11:30"
+    },
     "13330781-vkontakte": {
         "id": "13330781-vkontakte",
         "nickname": "le_brouillard",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 47,
         "updatedAt": "2018-05-05 19:27:29"
-    },
-    "324907049-vkontakte": {
-        "id": "324907049-vkontakte",
-        "nickname": "jacksonwang1994",
-        "booksCount": 0,
-        "updatedAt": "2018-05-05 14:25:41"
     }
 }

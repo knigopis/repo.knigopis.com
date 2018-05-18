@@ -1,4 +1,4 @@
-# List of books read by [nord_book](http://vk.com/id325862222)<sup>12</sup>
+# List of books read by NORDBOOK<sup>13</sup>
 ---
 
 ## 2018
@@ -11,6 +11,11 @@
 ### "Мемуары гейши"
 Артур Голден
 > [2018-01] 
+
+
+### "Стрелок"
+Стивен Кинг
+> Цикл "Тёмная Башня"
 
 
 

@@ -1,4 +1,16 @@
 {
+    "xNfWGSXlSo": {
+        "id": "xNfWGSXlSo",
+        "title": "\"Стрелок\"",
+        "author": "Стивен Кинг",
+        "notes": "Цикл \"Тёмная Башня\"",
+        "createdAt": "2018-05-18 21:11:30",
+        "user": {
+            "id": "325862222-vkontakte",
+            "nickname": "NORDBOOK",
+            "booksCount": 13
+        }
+    },
     "GdtS4ABK4E": {
         "id": "GdtS4ABK4E",
         "title": "История будущего",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 146
-        }
-    },
-    "0Qwa-WdJa3": {
-        "id": "0Qwa-WdJa3",
-        "title": "Тест",
-        "author": "Тест",
-        "notes": "Тестовые",
-        "createdAt": "2018-04-22 12:34:57",
-        "user": {
-            "id": "115622071-twitter",
-            "nickname": "rNix",
-            "booksCount": 63
         }
     }
 }
