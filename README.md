@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Алюев](users/108/108488897837713164784-google)<sup>0</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>119</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>47</sup> 
 [jacksonwang1994](users/324/324907049-vkontakte)<sup>0</sup> 
 [podolskyu](users/879/87930352-vkontakte)<sup>2</sup> 
-[fox_mi](users/220/220022778-vkontakte)<sup>9</sup> 
 
 
-_18.05.2018 05:11:42_
+_18.05.2018 10:03:07_
