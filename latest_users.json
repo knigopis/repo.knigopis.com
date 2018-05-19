@@ -1,4 +1,10 @@
 {
+    "116961712580551399099-google": {
+        "id": "116961712580551399099-google",
+        "nickname": "violet_velva",
+        "booksCount": 4,
+        "updatedAt": "2018-05-19 20:32:06"
+    },
     "221959664-vkontakte": {
         "id": "221959664-vkontakte",
         "nickname": "geyski",
@@ -166,12 +172,6 @@
         "nickname": "tchseeya",
         "booksCount": 0,
         "updatedAt": "2018-05-07 10:43:16"
-    },
-    "116961712580551399099-google": {
-        "id": "116961712580551399099-google",
-        "nickname": "violet_velva",
-        "booksCount": 3,
-        "updatedAt": "2018-05-05 21:26:52"
     },
     "1712587528828974-facebook": {
         "id": "1712587528828974-facebook",
