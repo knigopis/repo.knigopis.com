@@ -1,4 +1,16 @@
 {
+    "d5WQtshGm5": {
+        "id": "d5WQtshGm5",
+        "title": "Голос крови",
+        "author": "Клаудия Грей",
+        "notes": "",
+        "createdAt": "2018-05-19 04:51:00",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 145
+        }
+    },
     "sIhcYqwdxR": {
         "id": "sIhcYqwdxR",
         "title": "Мобильник",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 66
-        }
-    },
-    "5A35zXM2sq": {
-        "id": "5A35zXM2sq",
-        "title": "Человек",
-        "author": "Рэй Брэдбери",
-        "notes": "интересный небольшой рассказ со смыслом.",
-        "createdAt": "2018-05-14 04:58:34",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 44
         }
     }
 }

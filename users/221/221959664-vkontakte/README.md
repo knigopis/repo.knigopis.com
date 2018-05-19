@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>144</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>145</sup>
 ---
 
 ## 2018
+
+### Голос крови
+Клаудия Грей
+> [2018-01-10] 
+
 
 ### Мобильник
 Стивен Кинг
