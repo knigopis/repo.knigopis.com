@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>145</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>146</sup>
 ---
 
 ## 2018
+
+### Новая надежда
+Джордж Лукас
+> [2018-01-28] 
+
 
 ### Голос крови
 Клаудия Грей
