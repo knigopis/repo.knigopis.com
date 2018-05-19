@@ -1,7 +1,12 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>142</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>143</sup>
 ---
 
 ## 2017
+
+### Эдем
+Станислав Лем
+> [2017-12-29] 
+
 
 ### Дело чести
 Тимоти Зан

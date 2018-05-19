@@ -1,4 +1,16 @@
 {
+    "VCa0B7B9On": {
+        "id": "VCa0B7B9On",
+        "title": "Эдем",
+        "author": "Станислав Лем",
+        "notes": "",
+        "createdAt": "2018-05-19 04:50:11",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 143
+        }
+    },
     "eAHmnpt29z": {
         "id": "eAHmnpt29z",
         "title": "\"Кэрри\"",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 43
-        }
-    },
-    "28rVEuAasr": {
-        "id": "28rVEuAasr",
-        "title": "New",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-05-13 23:30:07",
-        "user": {
-            "id": "381417697-yandex",
-            "nickname": "me",
-            "booksCount": 42
         }
     }
 }

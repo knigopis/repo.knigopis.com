@@ -1,4 +1,10 @@
 {
+    "221959664-vkontakte": {
+        "id": "221959664-vkontakte",
+        "nickname": "geyski",
+        "booksCount": 143,
+        "updatedAt": "2018-05-19 04:50:11"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "Ognevka",
         "booksCount": 0,
         "updatedAt": "2018-05-05 21:01:19"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 47,
-        "updatedAt": "2018-05-05 19:27:29"
     }
 }
