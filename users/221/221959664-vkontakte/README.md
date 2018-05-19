@@ -1,4 +1,4 @@
-# List of books read by [geyski](https://vk.com/geyski)<sup>147</sup>
+# List of books read by [geyski](https://vk.com/geyski)<sup>146</sup>
 ---
 
 ## 2018
@@ -424,10 +424,6 @@
 ### Смертельный рай
 Линкольд Чайлд
 > [2017-01-08] 
-
-
-### Зеленая миля
-Стивен У
 
 
 
