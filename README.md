@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[violet_velva](users/116/116961712580551399099-google)<sup>4</sup> 
+[violet_velva](users/116/116961712580551399099-google)<sup>5</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>146</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 
 
-_19.05.2018 20:32:06_
+_19.05.2018 20:33:34_

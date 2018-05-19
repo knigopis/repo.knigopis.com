@@ -1,4 +1,16 @@
 {
+    "1402Z5GeLz": {
+        "id": "1402Z5GeLz",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "",
+        "createdAt": "2018-05-19 20:33:34",
+        "user": {
+            "id": "116961712580551399099-google",
+            "nickname": "violet_velva",
+            "booksCount": 5
+        }
+    },
     "Pdjs441Yu_": {
         "id": "Pdjs441Yu_",
         "title": "The Fifth Child",
@@ -345,18 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 72
-        }
-    },
-    "CIkxFOCPOH": {
-        "id": "CIkxFOCPOH",
-        "title": "Окаянные дни",
-        "author": "Иван Бунин",
-        "notes": "",
-        "createdAt": "2018-05-14 17:06:21",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 621
         }
     }
 }
