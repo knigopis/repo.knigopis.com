@@ -1,4 +1,16 @@
 {
+    "esmxU_nXV5": {
+        "id": "esmxU_nXV5",
+        "title": "Империя наносит ответный удар",
+        "author": "Дональд Глут",
+        "notes": "",
+        "createdAt": "2018-05-19 04:52:21",
+        "user": {
+            "id": "221959664-vkontakte",
+            "nickname": "geyski",
+            "booksCount": 147
+        }
+    },
     "M0qctbPDV_": {
         "id": "M0qctbPDV_",
         "title": "Новая надежда",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 63
-        }
-    },
-    "S-qQxXeso-": {
-        "id": "S-qQxXeso-",
-        "title": "Когда Ницше плакал",
-        "author": "Ирвин Ялом",
-        "notes": "",
-        "createdAt": "2018-05-14 10:45:53",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 67
         }
     }
 }
