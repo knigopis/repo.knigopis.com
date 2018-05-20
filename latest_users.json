@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 304,
+        "updatedAt": "2018-05-20 08:26:21"
+    },
     "116961712580551399099-google": {
         "id": "116961712580551399099-google",
         "nickname": "violet_velva",
@@ -76,12 +82,6 @@
         "nickname": "En",
         "booksCount": 45,
         "updatedAt": "2018-05-15 04:12:00"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 303,
-        "updatedAt": "2018-05-14 19:13:29"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",

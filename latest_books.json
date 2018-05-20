@@ -1,4 +1,16 @@
 {
+    "wlgHeYNMCR": {
+        "id": "wlgHeYNMCR",
+        "title": "Новые боги",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-05-20 08:26:21",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 304
+        }
+    },
     "1402Z5GeLz": {
         "id": "1402Z5GeLz",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 303
-        }
-    },
-    "TcNXfrKluq": {
-        "id": "TcNXfrKluq",
-        "title": "Жажда жизни",
-        "author": "Ирвинг Стоун",
-        "notes": "",
-        "createdAt": "2018-05-14 18:14:40",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 72
         }
     }
 }
