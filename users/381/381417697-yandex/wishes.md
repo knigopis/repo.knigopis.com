@@ -17,6 +17,9 @@ Miran Lipovača
 ### `37` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 
+### `33` Git from the Bottom Up
+John Wiegley
+
 ### `20` Слово живое и мертвое
 Нора Галь
 
@@ -29,9 +32,6 @@ Dmitry Jemerov, Svetlana Isakova
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
-
-### `7` Git from the Bottom Up
-John Wiegley
 
 ### `5` What If?
 Randall Munroe
