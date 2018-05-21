@@ -1,4 +1,10 @@
 {
+    "225880893-vkontakte": {
+        "id": "225880893-vkontakte",
+        "nickname": "Артур Вольнов",
+        "booksCount": 13,
+        "updatedAt": "2018-05-21 20:53:59"
+    },
     "282894213-vkontakte": {
         "id": "282894213-vkontakte",
         "nickname": "polzol",
@@ -172,11 +178,5 @@
         "nickname": "Garka",
         "booksCount": 180,
         "updatedAt": "2018-05-07 18:52:19"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 63,
-        "updatedAt": "2018-05-07 15:34:58"
     }
 }
