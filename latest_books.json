@@ -1,4 +1,16 @@
 {
+    "M3M-9zZo1w": {
+        "id": "M3M-9zZo1w",
+        "title": "Бизнес-процессы. Моделирование, внедрение, управление",
+        "author": "Владимир Репин",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/18578847/",
+        "createdAt": "2018-05-21 21:12:06",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 156
+        }
+    },
     "C15dLWrGF1": {
         "id": "C15dLWrGF1",
         "title": "Мрачный жнец",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 5
-        }
-    },
-    "e-A2HtzDhH": {
-        "id": "e-A2HtzDhH",
-        "title": "Виновато море",
-        "author": "Люси Кларк",
-        "notes": "",
-        "createdAt": "2018-05-17 06:43:33",
-        "user": {
-            "id": "229973856-vkontakte",
-            "nickname": "unicornbitard",
-            "booksCount": 4
         }
     }
 }

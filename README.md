@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Бизнес-процессы. Моделирование, внедрение, управление ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/18578847/
+
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
     > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > Цикл "Тёмная Башня".
 
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
-    > Цикл "Тёмная Башня"
 
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
 
-* Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
@@ -46,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>119</sup> 
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 
 
-_21.05.2018 21:08:57_
+_21.05.2018 21:12:06_
