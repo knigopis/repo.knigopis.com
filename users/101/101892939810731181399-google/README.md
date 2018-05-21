@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>40</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>39</sup>
 ---
 
 ## 2018
@@ -14,11 +14,6 @@
 
 ### Да будет фикус
 Д. Оруэлл
-> [2018-03] 
-
-
-### Мрачный жнец
-Т. Пратчетт
 > [2018-03] 
 
 
