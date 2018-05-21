@@ -1,4 +1,16 @@
 {
+    "C15dLWrGF1": {
+        "id": "C15dLWrGF1",
+        "title": "Мрачный жнец",
+        "author": "Т. Пратчетт",
+        "notes": "",
+        "createdAt": "2018-05-21 21:08:40",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 40
+        }
+    },
     "nKtyN8qLxA": {
         "id": "nKtyN8qLxA",
         "title": "Фатерланд",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 4
-        }
-    },
-    "JoMjLRksAy": {
-        "id": "JoMjLRksAy",
-        "title": "Господство мысли",
-        "author": "Джеймс Дэшнер",
-        "notes": "",
-        "createdAt": "2018-05-17 06:43:13",
-        "user": {
-            "id": "229973856-vkontakte",
-            "nickname": "unicornbitard",
-            "booksCount": 3
         }
     }
 }
