@@ -1,4 +1,16 @@
 {
+    "WcxAfP4RC2": {
+        "id": "WcxAfP4RC2",
+        "title": "Да будет фикус",
+        "author": "Д. Оруэлл",
+        "notes": "",
+        "createdAt": "2018-05-21 21:08:02",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 38
+        }
+    },
     "kcQodfA68h": {
         "id": "kcQodfA68h",
         "title": "Автостопом по Галактике",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 2
-        }
-    },
-    "xKVaEotNL3": {
-        "id": "xKVaEotNL3",
-        "title": "По ее следам",
-        "author": "Т. Р. Ричмонд",
-        "notes": "",
-        "createdAt": "2018-05-17 06:41:37",
-        "user": {
-            "id": "229973856-vkontakte",
-            "nickname": "unicornbitard",
-            "booksCount": 1
         }
     }
 }
