@@ -1,4 +1,10 @@
 {
+    "114047334060763798292-google": {
+        "id": "114047334060763798292-google",
+        "nickname": "Nligoksar",
+        "booksCount": 0,
+        "updatedAt": "2018-05-21 14:13:24"
+    },
     "5880221-vkontakte": {
         "id": "5880221-vkontakte",
         "nickname": "sonics",
@@ -172,11 +178,5 @@
         "nickname": "tchseeya",
         "booksCount": 0,
         "updatedAt": "2018-05-07 10:43:16"
-    },
-    "1712587528828974-facebook": {
-        "id": "1712587528828974-facebook",
-        "nickname": "Ognevka",
-        "booksCount": 0,
-        "updatedAt": "2018-05-05 21:01:19"
     }
 }
