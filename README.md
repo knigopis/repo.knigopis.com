@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Артур Вольнов](users/225/225880893-vkontakte)<sup>13</sup> 
+[Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
 [Nligoksar](users/114/114047334060763798292-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>180</sup> 
 
 
-_21.05.2018 20:53:59_
+_21.05.2018 20:54:35_
