@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
@@ -11,7 +12,6 @@
 * Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
-* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>55</sup>
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 * Мука разбитого сердца ~ [exulted](users/100/100599204551896265722-google)<sup>59</sup>
 * Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
@@ -33,4 +33,4 @@
 * Пикник на обочине ~ [Apprentice ](users/528/52821952-vkontakte)<sup>85</sup>
 
 
-_18.05.2018 21:11:55_
+_21.05.2018 05:24:41_

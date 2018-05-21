@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
+    > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
+
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
     > Цикл "Тёмная Башня".
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Цикл "Тёмная Башня"
 
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
-    > в процессе
-    > 
-    > http://www.leary.ru/books/future/
 
 * Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 
-* За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[sonics](users/588/5880221-vkontakte)<sup>56</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>304</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>5</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>146</sup> 
@@ -56,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 
 
-_20.05.2018 08:26:22_
+_21.05.2018 05:24:41_
