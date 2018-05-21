@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[sonics](users/588/5880221-vkontakte)<sup>56</sup> 
+[sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>304</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>5</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>146</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Ognevka](users/171/1712587528828974-facebook)<sup>0</sup> 
 
 
-_21.05.2018 05:24:41_
+_21.05.2018 05:25:07_
