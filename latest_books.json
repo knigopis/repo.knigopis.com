@@ -1,4 +1,16 @@
 {
+    "kcQodfA68h": {
+        "id": "kcQodfA68h",
+        "title": "Автостопом по Галактике",
+        "author": "А. Дуглас",
+        "notes": "",
+        "createdAt": "2018-05-21 21:07:28",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 37
+        }
+    },
     "wtXxLCfKXt": {
         "id": "wtXxLCfKXt",
         "title": "Алиса в зазеркалье",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 1
-        }
-    },
-    "6_ZNRczFxf": {
-        "id": "6_ZNRczFxf",
-        "title": "Ночная гостья (рассказ)",
-        "author": "Роальд Даль",
-        "notes": "",
-        "createdAt": "2018-05-15 22:08:56",
-        "user": {
-            "id": "2401650-vkontakte",
-            "nickname": "joan789",
-            "booksCount": 73
         }
     }
 }
