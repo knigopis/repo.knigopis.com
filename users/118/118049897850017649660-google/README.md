@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>78</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>79</sup>
 ---
 
 ## 2018
+
+### Лунный камень
+Уилки Коллинз
+> [2018-05-20] 
+
 
 ### Агентство Фантом в каждый дом
 Ева Ибботсон
