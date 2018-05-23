@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жизнь Дэвида Копперфилда. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>181</sup>
+    > Хорошая книга. Биографии люблю не особо (а это частично биография самого Диккенса), но Копперфилб понравился.
+
 * Бизнес-процессы. Моделирование, внедрение, управление ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
 
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
-    > Цикл "Тёмная Башня".
 
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Жажда жизни ~ [joan789](users/240/2401650-vkontakte)<sup>72</sup>
 
-* Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>181</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
 [Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
-[RiMass](users/112/112917914232006857743-google)<sup>1</sup> 
 
 
-_21.05.2018 21:12:06_
+_23.05.2018 14:25:52_

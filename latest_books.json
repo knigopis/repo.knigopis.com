@@ -1,4 +1,16 @@
 {
+    "TGOYx6h4Yt": {
+        "id": "TGOYx6h4Yt",
+        "title": "Жизнь Дэвида Копперфилда. Том 2",
+        "author": "Диккенс, Чарльз",
+        "notes": "Хорошая книга. Биографии люблю не особо (а это частично биография самого Диккенса), но Копперфилб понравился.",
+        "createdAt": "2018-05-23 14:25:52",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 181
+        }
+    },
     "M3M-9zZo1w": {
         "id": "M3M-9zZo1w",
         "title": "Бизнес-процессы. Моделирование, внедрение, управление",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 6
-        }
-    },
-    "OijdbsnM5e": {
-        "id": "OijdbsnM5e",
-        "title": "Виноваты звезды",
-        "author": "Джон Грин",
-        "notes": "",
-        "createdAt": "2018-05-17 06:43:53",
-        "user": {
-            "id": "229973856-vkontakte",
-            "nickname": "unicornbitard",
-            "booksCount": 5
         }
     }
 }
