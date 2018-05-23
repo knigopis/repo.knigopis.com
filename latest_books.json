@@ -1,4 +1,16 @@
 {
+    "pIR8RotCAr": {
+        "id": "pIR8RotCAr",
+        "title": "Кармилла",
+        "author": "Шеридан Ле Фаню",
+        "notes": "",
+        "createdAt": "2018-05-23 19:32:17",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 80
+        }
+    },
     "cR2nzr0k_F": {
         "id": "cR2nzr0k_F",
         "title": "Лунный камень",
@@ -345,18 +357,6 @@
             "id": "229973856-vkontakte",
             "nickname": "unicornbitard",
             "booksCount": 9
-        }
-    },
-    "BL_AVmFltr": {
-        "id": "BL_AVmFltr",
-        "title": "Кэрри",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-05-17 06:46:06",
-        "user": {
-            "id": "229973856-vkontakte",
-            "nickname": "unicornbitard",
-            "booksCount": 8
         }
     }
 }
