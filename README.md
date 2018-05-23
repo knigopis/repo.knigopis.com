@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>78</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>181</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 [nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
-[Andry-Bal](users/109/109232883876697421544-google)<sup>29</sup> 
 
 
-_23.05.2018 14:25:52_
+_23.05.2018 19:30:49_
