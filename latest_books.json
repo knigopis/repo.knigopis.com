@@ -1,4 +1,16 @@
 {
+    "Z3x23fgJwH": {
+        "id": "Z3x23fgJwH",
+        "title": "Записки из мертвого дома",
+        "author": "Федор Достоевский",
+        "notes": "",
+        "createdAt": "2018-05-24 09:21:28",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 120
+        }
+    },
     "oBDh_OWvZt": {
         "id": "oBDh_OWvZt",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "108488897837713164784-google",
             "nickname": "Алюев",
             "booksCount": 1
-        }
-    },
-    "KkYlhiO8BA": {
-        "id": "KkYlhiO8BA",
-        "title": "Ты меня полюбишь ?",
-        "author": "Кэти Гласс",
-        "notes": "",
-        "createdAt": "2018-05-18 05:11:42",
-        "user": {
-            "id": "85203415-vkontakte",
-            "nickname": "develchip",
-            "booksCount": 68
         }
     }
 }
