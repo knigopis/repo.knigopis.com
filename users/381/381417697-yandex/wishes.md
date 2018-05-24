@@ -40,35 +40,35 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
+### `1` Rx
+
 ### `1` Портной из Панамы
 Джон Ле Карре
 
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` Rx
-
-### `` Три товарища
-Эрих Мария Ремарк
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
+### `` Мертвые души
+Николай Гоголь
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
 
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Овод
 Этель Лилиан Войнич
