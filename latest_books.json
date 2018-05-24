@@ -1,4 +1,16 @@
 {
+    "oBDh_OWvZt": {
+        "id": "oBDh_OWvZt",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-05-24 07:36:09",
+        "user": {
+            "id": "28885974-vkontakte",
+            "nickname": "hybridtheory92",
+            "booksCount": 4
+        }
+    },
     "x9dVnc9XqL": {
         "id": "x9dVnc9XqL",
         "title": "Почтамт",
@@ -345,18 +357,6 @@
             "id": "85203415-vkontakte",
             "nickname": "develchip",
             "booksCount": 68
-        }
-    },
-    "GdtS4ABK4E": {
-        "id": "GdtS4ABK4E",
-        "title": "История будущего",
-        "author": "Тимоти Лири",
-        "notes": "в процессе\n\nhttp://www.leary.ru/books/future/",
-        "createdAt": "2018-05-17 18:32:50",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 155
         }
     }
 }
