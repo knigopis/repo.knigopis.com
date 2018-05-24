@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hybridtheory92](users/288/28885974-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>80</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>181</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
-[nikita_mikita](users/198/198265295-vkontakte)<sup>0</sup> 
 
 
-_23.05.2018 19:32:17_
+_24.05.2018 07:32:38_
