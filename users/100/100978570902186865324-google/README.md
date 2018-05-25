@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>63</sup>
+# Список прочитанных книг пользователя [ODINSY](https://plus.google.com/u/0/100978570902186865324/)<sup>64</sup>
 ---
 
 ## 2018
+
+### The DevOps 2.3 Toolkit: Kubernetes
+Viktor Farcic
+> [2018-05-25] 
+
 
 ### Кролик, беги
 Джон Апдайк

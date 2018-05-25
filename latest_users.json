@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 64,
+        "updatedAt": "2018-05-25 16:06:58"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -136,12 +142,6 @@
         "nickname": "Janet",
         "booksCount": 621,
         "updatedAt": "2018-05-14 17:06:21"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 63,
-        "updatedAt": "2018-05-14 10:59:10"
     },
     "9002212905104302078-mailru": {
         "id": "9002212905104302078-mailru",

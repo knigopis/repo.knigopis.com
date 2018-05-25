@@ -1,4 +1,16 @@
 {
+    "njwghFjXuh": {
+        "id": "njwghFjXuh",
+        "title": "The DevOps 2.3 Toolkit: Kubernetes",
+        "author": "Viktor Farcic",
+        "notes": "",
+        "createdAt": "2018-05-25 16:06:58",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 64
+        }
+    },
     "uiFjMW6J2d": {
         "id": "uiFjMW6J2d",
         "title": "Иметь или не иметь",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "NORDBOOK",
             "booksCount": 13
-        }
-    },
-    "RbYzM3xkZe": {
-        "id": "RbYzM3xkZe",
-        "title": "Призраки не лгут",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-05-18 17:55:19",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 16
         }
     }
 }

@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>64</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>121</sup> 
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>80</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
 [En](users/333/333646551-vkontakte)<sup>45</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>63</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>60</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 
 
-_25.05.2018 09:43:34_
+_25.05.2018 16:06:58_
