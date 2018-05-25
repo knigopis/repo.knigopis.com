@@ -1,4 +1,16 @@
 {
+    "uiFjMW6J2d": {
+        "id": "uiFjMW6J2d",
+        "title": "Иметь или не иметь",
+        "author": "Эрнест Хемингуэй",
+        "notes": "",
+        "createdAt": "2018-05-25 09:43:34",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 121
+        }
+    },
     "Z3x23fgJwH": {
         "id": "Z3x23fgJwH",
         "title": "Записки из мертвого дома",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 16
-        }
-    },
-    "RnD7pc0Kb1": {
-        "id": "RnD7pc0Kb1",
-        "title": "Книга Урантии",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-05-18 10:18:26",
-        "user": {
-            "id": "108488897837713164784-google",
-            "nickname": "Алюев",
-            "booksCount": 1
         }
     }
 }
