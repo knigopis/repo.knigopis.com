@@ -1,4 +1,16 @@
 {
+    "07jAxd-rV-": {
+        "id": "07jAxd-rV-",
+        "title": "Quantitative Finance For Dummies",
+        "author": "Steve Bell",
+        "notes": "",
+        "createdAt": "2018-05-26 07:57:35",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 62
+        }
+    },
     "VC-mA8aQIN": {
         "id": "VC-mA8aQIN",
         "title": "Рассвет над Киевом (Истребители-3)",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 144
-        }
-    },
-    "VCa0B7B9On": {
-        "id": "VCa0B7B9On",
-        "title": "Эдем",
-        "author": "Станислав Лем",
-        "notes": "",
-        "createdAt": "2018-05-19 04:50:11",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 143
         }
     }
 }
