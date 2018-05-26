@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>61</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>306</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>64</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>121</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>60</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 
 
-_26.05.2018 05:50:36_
+_26.05.2018 07:54:35_
