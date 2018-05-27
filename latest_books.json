@@ -1,4 +1,16 @@
 {
+    "h8QSFCiEmf": {
+        "id": "h8QSFCiEmf",
+        "title": "Тактика в боевых примерах: истребительная авиационная дивизия",
+        "author": "Г. В. Зимин",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/6723923/",
+        "createdAt": "2018-05-27 21:01:30",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 157
+        }
+    },
     "QMok6Pml70": {
         "id": "QMok6Pml70",
         "title": "Занимательное облаковедение",
@@ -345,18 +357,6 @@
             "id": "221959664-vkontakte",
             "nickname": "geyski",
             "booksCount": 146
-        }
-    },
-    "d5WQtshGm5": {
-        "id": "d5WQtshGm5",
-        "title": "Голос крови",
-        "author": "Клаудия Грей",
-        "notes": "",
-        "createdAt": "2018-05-19 04:51:00",
-        "user": {
-            "id": "221959664-vkontakte",
-            "nickname": "geyski",
-            "booksCount": 145
         }
     }
 }

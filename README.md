@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Тактика в боевых примерах: истребительная авиационная дивизия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/6723923/
+
 * Занимательное облаковедение ~ [Saamy](users/115/115226508-vkontakte)<sup>48</sup>
     > Хороший научпоп по метеорологии
 
@@ -12,9 +17,6 @@ Do not use pull requests to make changes here.
     > Хорошая книга. Биографии люблю не особо (а это частично биография самого Диккенса), но Копперфилб понравился.
 
 * Бизнес-процессы. Моделирование, внедрение, управление ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/18578847/
 
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
 
-* Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup> 
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>80</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>181</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 
 
-_27.05.2018 11:45:24_
+_27.05.2018 21:01:30_
