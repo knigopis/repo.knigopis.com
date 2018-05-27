@@ -1,4 +1,10 @@
 {
+    "115226508-vkontakte": {
+        "id": "115226508-vkontakte",
+        "nickname": "Saamy",
+        "booksCount": 48,
+        "updatedAt": "2018-05-27 08:08:44"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Montale",
         "booksCount": 0,
         "updatedAt": "2018-05-11 17:02:15"
-    },
-    "158266434925901-facebook": {
-        "id": "158266434925901-facebook",
-        "nickname": "GvenVivar ",
-        "booksCount": 44,
-        "updatedAt": "2018-05-10 16:30:09"
     }
 }

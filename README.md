@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Занимательное облаковедение ~ [Saamy](users/115/115226508-vkontakte)<sup>48</sup>
+    > Хороший научпоп по метеорологии
+
 * Жизнь Дэвида Копперфилда. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>181</sup>
     > Хорошая книга. Биографии люблю не особо (а это частично биография самого Диккенса), но Копперфилб понравился.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/18578847/
 
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
-    > Достаточно интересная книга о А. Гитлере. Не совсем понял я эту манеру повествования, сразу о двух судьбах, которые развиваются по ходу прочтения этой книги. Интересно наблюдать какую роль женщина играет в становлении характера и жизни в тот момент. В целом, мне произведение понравилось, но общую оценку я бы поставил лишь 6/10.
 
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
 
-* Жажда жизни ~ [joan789](users/240/2401650-vkontakte)<sup>72</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>306</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>64</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 [Montale](users/224/224219704-vkontakte)<sup>0</sup> 
-[GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup> 
 
 
-_26.05.2018 07:57:35_
+_27.05.2018 08:08:44_
