@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>306</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
-[Montale](users/224/224219704-vkontakte)<sup>0</sup> 
 
 
-_27.05.2018 08:08:44_
+_27.05.2018 11:45:24_
