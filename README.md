@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>622</sup> 
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup> 
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
@@ -61,10 +62,9 @@ _More notes [here](latest_books_with_notes.md)._
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>621</sup> 
 [Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>59</sup> 
 
 
-_28.05.2018 10:22:03_
+_28.05.2018 11:15:56_
