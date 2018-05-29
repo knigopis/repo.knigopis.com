@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>307</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>308</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>622</sup> 
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Милашечка](users/200/200601396-vkontakte)<sup>23</sup> 
 
 
-_29.05.2018 15:36:59_
+_29.05.2018 15:37:46_

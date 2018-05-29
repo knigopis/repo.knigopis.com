@@ -1,4 +1,16 @@
 {
+    "jrNX7EZsfC": {
+        "id": "jrNX7EZsfC",
+        "title": "Заклинатели",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-05-29 15:37:46",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 308
+        }
+    },
     "G4HlRgX_JL": {
         "id": "G4HlRgX_JL",
         "title": "Полная Ж. Жизнь как бизнес-процессов.",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 56
-        }
-    },
-    "wlgHeYNMCR": {
-        "id": "wlgHeYNMCR",
-        "title": "Новые боги",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-05-20 08:26:21",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 304
         }
     }
 }
