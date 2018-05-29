@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>122</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>123</sup>
 ---
 
 ## 2018
+
+### Остров
+Олдос Хаксли
+> [2018-05-29] 
+
 
 ### Вий
 Николай Гоголь
