@@ -1,4 +1,16 @@
 {
+    "G4HlRgX_JL": {
+        "id": "G4HlRgX_JL",
+        "title": "Полная Ж. Жизнь как бизнес-процессов.",
+        "author": "Радислав Гандапас",
+        "notes": "",
+        "createdAt": "2018-05-29 15:36:59",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 307
+        }
+    },
     "ya8FobjwHU": {
         "id": "ya8FobjwHU",
         "title": "Остров",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 304
-        }
-    },
-    "1402Z5GeLz": {
-        "id": "1402Z5GeLz",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "",
-        "createdAt": "2018-05-19 20:33:34",
-        "user": {
-            "id": "116961712580551399099-google",
-            "nickname": "violet_velva",
-            "booksCount": 5
         }
     }
 }
