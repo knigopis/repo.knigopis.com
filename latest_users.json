@@ -1,4 +1,10 @@
 {
+    "75094589-vkontakte": {
+        "id": "75094589-vkontakte",
+        "nickname": "fruttu",
+        "booksCount": 0,
+        "updatedAt": "2018-05-29 18:59:18"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Алексей",
         "booksCount": 0,
         "updatedAt": "2018-05-13 15:42:31"
-    },
-    "200601396-vkontakte": {
-        "id": "200601396-vkontakte",
-        "nickname": "Милашечка",
-        "booksCount": 23,
-        "updatedAt": "2018-05-13 09:47:31"
     }
 }
