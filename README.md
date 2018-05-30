@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[inna.besprozvannykh](users/733/73323849-yandex)<sup>39</sup> 
 [fruttu](users/750/75094589-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>308</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
-[Алексей](users/900/9002212905104302078-mailru)<sup>0</sup> 
 
 
-_29.05.2018 18:59:19_
+_30.05.2018 10:12:53_
