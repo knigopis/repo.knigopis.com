@@ -1,4 +1,16 @@
 {
+    "sl-xFr8e2v": {
+        "id": "sl-xFr8e2v",
+        "title": "Аксиомы биологии",
+        "author": "Медников Борис Михайлович",
+        "notes": "",
+        "createdAt": "2018-05-30 14:14:11",
+        "user": {
+            "id": "115753719718250012620-google",
+            "nickname": "Garka",
+            "booksCount": 182
+        }
+    },
     "kVfP-bApVh": {
         "id": "kVfP-bApVh",
         "title": "Источник",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 39
-        }
-    },
-    "WcxAfP4RC2": {
-        "id": "WcxAfP4RC2",
-        "title": "Да будет фикус",
-        "author": "Д. Оруэлл",
-        "notes": "",
-        "createdAt": "2018-05-21 21:08:02",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 38
         }
     }
 }

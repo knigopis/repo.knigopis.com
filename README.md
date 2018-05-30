@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>182</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [fruttu](users/750/75094589-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>308</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>121</sup> 
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>80</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>181</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [joan789](users/240/2401650-vkontakte)<sup>73</sup> 
 
 
-_30.05.2018 10:15:51_
+_30.05.2018 14:14:11_
