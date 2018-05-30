@@ -1,4 +1,10 @@
 {
+    "220022778-vkontakte": {
+        "id": "220022778-vkontakte",
+        "nickname": "fox_mi",
+        "booksCount": 10,
+        "updatedAt": "2018-05-30 19:13:16"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "aizen",
         "booksCount": 0,
         "updatedAt": "2018-05-16 22:06:21"
-    },
-    "2401650-vkontakte": {
-        "id": "2401650-vkontakte",
-        "nickname": "joan789",
-        "booksCount": 73,
-        "updatedAt": "2018-05-15 22:08:56"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "ommnKXPpxX": {
+        "id": "ommnKXPpxX",
+        "title": "В арбузном сахаре",
+        "author": "Ричард Бротиган",
+        "notes": "",
+        "createdAt": "2018-05-30 19:13:16",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 10
+        }
+    },
     "N_IddLOZUf": {
         "id": "N_IddLOZUf",
         "title": "Бунтующий человек",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 156
-        }
-    },
-    "C15dLWrGF1": {
-        "id": "C15dLWrGF1",
-        "title": "Мрачный жнец",
-        "author": "Т. Пратчетт",
-        "notes": "",
-        "createdAt": "2018-05-21 21:08:40",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 40
         }
     }
 }

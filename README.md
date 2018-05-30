@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>623</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>182</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 [aizen](users/106/106430166082145393460-google)<sup>0</sup> 
-[joan789](users/240/2401650-vkontakte)<sup>73</sup> 
 
 
-_30.05.2018 16:19:21_
+_30.05.2018 19:13:16_

@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>9</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>10</sup>
 ---
 
 ## Other years
+
+### В арбузном сахаре
+Ричард Бротиган
+
 
 ### Здравствуйте, мистер Бог, это Анна
 Финн
