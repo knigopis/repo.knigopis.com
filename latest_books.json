@@ -1,4 +1,16 @@
 {
+    "N_IddLOZUf": {
+        "id": "N_IddLOZUf",
+        "title": "Бунтующий человек",
+        "author": "Альбер Камю",
+        "notes": "",
+        "createdAt": "2018-05-30 16:19:20",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 623
+        }
+    },
     "sl-xFr8e2v": {
         "id": "sl-xFr8e2v",
         "title": "Аксиомы биологии",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 40
-        }
-    },
-    "nKtyN8qLxA": {
-        "id": "nKtyN8qLxA",
-        "title": "Фатерланд",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-05-21 21:08:17",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 39
         }
     }
 }
