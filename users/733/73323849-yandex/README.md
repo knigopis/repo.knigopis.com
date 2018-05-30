@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>41</sup>
+# List of books read by inna.besprozvannykh<sup>42</sup>
 ---
 
 ## 2018
+
+### Источник
+Айн Рэнд
+> [2018-06] 
+
 
 ### Бойцовский клуб
 Чак паланик

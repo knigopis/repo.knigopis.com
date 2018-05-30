@@ -1,4 +1,16 @@
 {
+    "kVfP-bApVh": {
+        "id": "kVfP-bApVh",
+        "title": "Источник",
+        "author": "Айн Рэнд",
+        "notes": "",
+        "createdAt": "2018-05-30 10:15:51",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 42
+        }
+    },
     "fE2RMjHzQV": {
         "id": "fE2RMjHzQV",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 38
-        }
-    },
-    "kcQodfA68h": {
-        "id": "kcQodfA68h",
-        "title": "Автостопом по Галактике",
-        "author": "А. Дуглас",
-        "notes": "",
-        "createdAt": "2018-05-21 21:07:28",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 37
         }
     }
 }
