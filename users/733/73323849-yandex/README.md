@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>40</sup>
+# List of books read by inna.besprozvannykh<sup>41</sup>
 ---
 
 ## 2018
+
+### Бойцовский клуб
+Чак паланик
+> [2018-05] 
+
 
 ### Мастер и Маргарита
 Михаил Булгаков
