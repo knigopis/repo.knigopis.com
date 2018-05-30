@@ -1,7 +1,12 @@
-# List of books read by inna.besprozvannykh<sup>39</sup>
+# List of books read by inna.besprozvannykh<sup>40</sup>
 ---
 
 ## 2018
+
+### Мастер и Маргарита
+Михаил Булгаков
+> [2018-05] 
+
 
 ### Аэропорт
 Артур Хейли

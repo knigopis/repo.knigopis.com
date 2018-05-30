@@ -1,4 +1,16 @@
 {
+    "5shlQraxK_": {
+        "id": "5shlQraxK_",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2018-05-30 10:13:50",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 40
+        }
+    },
     "aiSZiwP0QZ": {
         "id": "aiSZiwP0QZ",
         "title": "Аэропорт",
@@ -345,18 +357,6 @@
             "id": "225880893-vkontakte",
             "nickname": "Артур Вольнов",
             "booksCount": 14
-        }
-    },
-    "W8oWhzn8Yz": {
-        "id": "W8oWhzn8Yz",
-        "title": "Алиса в стране чудес",
-        "author": "Льюис Керрол",
-        "notes": "",
-        "createdAt": "2018-05-21 20:53:59",
-        "user": {
-            "id": "225880893-vkontakte",
-            "nickname": "Артур Вольнов",
-            "booksCount": 13
         }
     }
 }
