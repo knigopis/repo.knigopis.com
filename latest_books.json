@@ -1,4 +1,16 @@
 {
+    "r-4v-8WwYx": {
+        "id": "r-4v-8WwYx",
+        "title": "ВВВ",
+        "author": "ВВ",
+        "notes": "",
+        "createdAt": "2018-05-31 11:56:47",
+        "user": {
+            "id": "109395490138181998437-google",
+            "nickname": "Vitaly",
+            "booksCount": 4
+        }
+    },
     "6jcNe9hAnS": {
         "id": "6jcNe9hAnS",
         "title": "Большой роман о математике",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 80
-        }
-    },
-    "cR2nzr0k_F": {
-        "id": "cR2nzr0k_F",
-        "title": "Лунный камень",
-        "author": "Уилки Коллинз",
-        "notes": "",
-        "createdAt": "2018-05-23 19:31:31",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 79
         }
     }
 }
