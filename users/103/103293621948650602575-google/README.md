@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>123</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>124</sup>
 ---
 
 ## 2018
+
+### След смерти
+Блейк Пирс
+> [2018-05-31] 
+
 
 ### Остров
 Олдос Хаксли

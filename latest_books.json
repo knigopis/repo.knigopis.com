@@ -1,4 +1,16 @@
 {
+    "6amPPMUgGK": {
+        "id": "6amPPMUgGK",
+        "title": "След смерти",
+        "author": "Блейк Пирс",
+        "notes": "",
+        "createdAt": "2018-05-31 14:37:24",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 124
+        }
+    },
     "4u1q8Lre6D": {
         "id": "4u1q8Lre6D",
         "title": "вв",
@@ -345,18 +357,6 @@
             "id": "28885974-vkontakte",
             "nickname": "hybridtheory92",
             "booksCount": 2
-        }
-    },
-    "9gWaR3q8mj": {
-        "id": "9gWaR3q8mj",
-        "title": "Смотритель.Орден Желтого Флага",
-        "author": "Виктор Пелевин",
-        "notes": "",
-        "createdAt": "2018-05-24 07:34:04",
-        "user": {
-            "id": "28885974-vkontakte",
-            "nickname": "hybridtheory92",
-            "booksCount": 1
         }
     }
 }
