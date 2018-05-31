@@ -1,4 +1,10 @@
 {
+    "109395490138181998437-google": {
+        "id": "109395490138181998437-google",
+        "nickname": "Vitaly",
+        "booksCount": 0,
+        "updatedAt": "2018-05-31 11:31:06"
+    },
     "220022778-vkontakte": {
         "id": "220022778-vkontakte",
         "nickname": "fox_mi",
@@ -172,11 +178,5 @@
         "nickname": "unicornbitard",
         "booksCount": 9,
         "updatedAt": "2018-05-17 06:46:27"
-    },
-    "106430166082145393460-google": {
-        "id": "106430166082145393460-google",
-        "nickname": "aizen",
-        "booksCount": 0,
-        "updatedAt": "2018-05-16 22:06:21"
     }
 }
