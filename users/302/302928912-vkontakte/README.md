@@ -1,7 +1,12 @@
-# List of books read by [youno](http://vk.com/id302928912)<sup>12</sup>
+# List of books read by [youno](http://vk.com/id302928912)<sup>13</sup>
 ---
 
 ## 2018
+
+### Разбогатей!
+Эм-Джей ДеМарко
+> [2018-05-31] 
+
 
 ### Империя Jay Z
 Гринберг Зак О'Майли

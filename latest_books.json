@@ -1,4 +1,16 @@
 {
+    "Cdf1a8Cnz1": {
+        "id": "Cdf1a8Cnz1",
+        "title": "Разбогатей!",
+        "author": "Эм-Джей ДеМарко",
+        "notes": "",
+        "createdAt": "2018-05-31 18:01:24",
+        "user": {
+            "id": "302928912-vkontakte",
+            "nickname": "youno",
+            "booksCount": 13
+        }
+    },
     "ICwb2pmTmW": {
         "id": "ICwb2pmTmW",
         "title": "Рисуй, чтобы победить. Проверенный способ руководить, продавать, изобретать и обучать",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 120
-        }
-    },
-    "oBDh_OWvZt": {
-        "id": "oBDh_OWvZt",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-05-24 07:36:09",
-        "user": {
-            "id": "28885974-vkontakte",
-            "nickname": "hybridtheory92",
-            "booksCount": 4
         }
     }
 }
