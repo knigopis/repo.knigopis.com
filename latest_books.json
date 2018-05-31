@@ -1,4 +1,16 @@
 {
+    "4u1q8Lre6D": {
+        "id": "4u1q8Lre6D",
+        "title": "вв",
+        "author": "вв",
+        "notes": "",
+        "createdAt": "2018-05-31 12:13:59",
+        "user": {
+            "id": "109395490138181998437-google",
+            "nickname": "Vitaly",
+            "booksCount": 4
+        }
+    },
     "r-4v-8WwYx": {
         "id": "r-4v-8WwYx",
         "title": "ВВВ",
@@ -345,18 +357,6 @@
             "id": "28885974-vkontakte",
             "nickname": "hybridtheory92",
             "booksCount": 1
-        }
-    },
-    "pIR8RotCAr": {
-        "id": "pIR8RotCAr",
-        "title": "Кармилла",
-        "author": "Шеридан Ле Фаню",
-        "notes": "",
-        "createdAt": "2018-05-23 19:32:17",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 80
         }
     }
 }
