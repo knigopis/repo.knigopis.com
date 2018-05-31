@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
+[Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>3</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>10</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>623</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [unicornbitard](users/229/229973856-vkontakte)<sup>9</sup> 
 
 
-_31.05.2018 14:43:03_
+_31.05.2018 14:43:14_
