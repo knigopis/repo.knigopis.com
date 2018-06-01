@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vitaly](users/109/109395490138181998437-google)<sup>6</sup> 
+[Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>10</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [develchip](users/852/85203415-vkontakte)<sup>68</sup> 
 
 
-_01.06.2018 05:40:11_
+_01.06.2018 05:41:04_

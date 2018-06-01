@@ -1,7 +1,12 @@
-# List of books read by [Vitaly](https://plus.google.com/109395490138181998437)<sup>6</sup>
+# List of books read by [Vitaly](https://plus.google.com/109395490138181998437)<sup>7</sup>
 ---
 
 ## 2018
+
+### Маленький принц
+Антуан де Сент-Экзюпери
+> [2018-06-01] 
+
 
 ### Маленький принц
 Антуан де Сент-Экзюпери
