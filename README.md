@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[hloja_myrakami](users/395/3951663-vkontakte)<sup>0</sup> 
+[hloja_myrakami](users/395/3951663-vkontakte)<sup>1</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>122</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_01.06.2018 08:46:11_
+_01.06.2018 14:21:58_
