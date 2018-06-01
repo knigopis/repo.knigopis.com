@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Советские бронепоезда в бою. 1941-1945 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/143797031/
+
 * Не прощаюсь ~ [En](users/333/333646551-vkontakte)<sup>46</sup>
     > Очень интересная книга, одна из лучших в серии. на этот раз окончательна ли была смерть?
 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/6723923/
 
 * Занимательное облаковедение ~ [Saamy](users/115/115226508-vkontakte)<sup>48</sup>
-    > Хороший научпоп по метеорологии
 
 * Жизнь Дэвида Копперфилда. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>181</sup>
 
@@ -28,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
 
-* Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>1</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
@@ -46,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fruttu](users/750/75094589-vkontakte)<sup>0</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>308</sup> 
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup> 
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_01.06.2018 18:51:09_
+_01.06.2018 19:43:15_

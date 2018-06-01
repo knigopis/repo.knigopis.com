@@ -1,4 +1,16 @@
 {
+    "YWzI3zkBjw": {
+        "id": "YWzI3zkBjw",
+        "title": "Советские бронепоезда в бою. 1941-1945",
+        "author": "Максим Коломиец",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/143797031/",
+        "createdAt": "2018-06-01 19:43:15",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 158
+        }
+    },
     "urdfkpPVcQ": {
         "id": "urdfkpPVcQ",
         "title": "Когда Она Ушла",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 306
-        }
-    },
-    "YVg9d7DpGp": {
-        "id": "YVg9d7DpGp",
-        "title": "Купец",
-        "author": "Александр канторович",
-        "notes": "",
-        "createdAt": "2018-05-26 05:49:19",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 305
         }
     }
 }

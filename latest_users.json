@@ -1,4 +1,10 @@
 {
+    "241974816-vkontakte": {
+        "id": "241974816-vkontakte",
+        "nickname": "Ник Литвинов",
+        "booksCount": 158,
+        "updatedAt": "2018-06-01 19:43:15"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -64,12 +70,6 @@
         "nickname": "En",
         "booksCount": 46,
         "updatedAt": "2018-05-28 10:22:03"
-    },
-    "241974816-vkontakte": {
-        "id": "241974816-vkontakte",
-        "nickname": "Ник Литвинов",
-        "booksCount": 157,
-        "updatedAt": "2018-05-27 21:01:30"
     },
     "180565009-vkontakte": {
         "id": "180565009-vkontakte",
