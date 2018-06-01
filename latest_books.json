@@ -1,4 +1,16 @@
 {
+    "5hSV6YdhVh": {
+        "id": "5hSV6YdhVh",
+        "title": "Технологии изменения сознания в деструктивных культах",
+        "author": "Т. Лири, М. Стюарт",
+        "notes": "Тимоти Лири, как обычно, очень велик :)\n\nв процессе\n\nhttp://www.leary.ru/books/cult/",
+        "createdAt": "2018-06-01 19:44:41",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 159
+        }
+    },
     "YWzI3zkBjw": {
         "id": "YWzI3zkBjw",
         "title": "Советские бронепоезда в бою. 1941-1945",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 61
-        }
-    },
-    "Q5SvCdihnw": {
-        "id": "Q5SvCdihnw",
-        "title": "Руководство по улучшению бизнес-процессов",
-        "author": "Гарвард Бизнес пресс",
-        "notes": "",
-        "createdAt": "2018-05-26 05:50:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 306
         }
     }
 }

@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Технологии изменения сознания в деструктивных культах ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup>
+    > Тимоти Лири, как обычно, очень велик :)
+    > 
+    > в процессе
+    > 
+    > http://www.leary.ru/books/cult/
+
 * Советские бронепоезда в бою. 1941-1945 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup>
     > в процессе
     > 
@@ -14,9 +21,6 @@ Do not use pull requests to make changes here.
     > Очень интересная книга, одна из лучших в серии. на этот раз окончательна ли была смерть?
 
 * Тактика в боевых примерах: истребительная авиационная дивизия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/6723923/
 
 * Занимательное облаковедение ~ [Saamy](users/115/115226508-vkontakte)<sup>48</sup>
 
@@ -30,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
 
-* История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>1</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_01.06.2018 19:43:15_
+_01.06.2018 19:44:41_
