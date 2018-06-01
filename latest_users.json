@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 123,
+        "updatedAt": "2018-06-01 18:51:08"
+    },
     "3951663-vkontakte": {
         "id": "3951663-vkontakte",
         "nickname": "hloja_myrakami",
@@ -16,12 +22,6 @@
         "nickname": "youno",
         "booksCount": 13,
         "updatedAt": "2018-05-31 18:01:24"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 122,
-        "updatedAt": "2018-05-31 14:43:14"
     },
     "220022778-vkontakte": {
         "id": "220022778-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "urdfkpPVcQ": {
+        "id": "urdfkpPVcQ",
+        "title": "Когда Она Ушла",
+        "author": "Блейк Пирс",
+        "notes": "",
+        "createdAt": "2018-06-01 18:51:08",
+        "user": {
+            "id": "103293621948650602575-google",
+            "nickname": "Lost in Frost",
+            "booksCount": 123
+        }
+    },
     "fM9lM4ayTW": {
         "id": "fM9lM4ayTW",
         "title": "залив в тени листа",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 305
-        }
-    },
-    "njwghFjXuh": {
-        "id": "njwghFjXuh",
-        "title": "The DevOps 2.3 Toolkit: Kubernetes",
-        "author": "Viktor Farcic",
-        "notes": "",
-        "createdAt": "2018-05-25 16:06:58",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 64
         }
     }
 }

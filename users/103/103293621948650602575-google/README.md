@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>122</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>123</sup>
 ---
 
 ## 2018
+
+### Когда Она Ушла
+Блейк Пирс
+> [2018-06-01] 
+
 
 ### След Смерти
 Блейк Пирс
