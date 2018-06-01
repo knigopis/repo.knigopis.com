@@ -1,4 +1,10 @@
 {
+    "3951663-vkontakte": {
+        "id": "3951663-vkontakte",
+        "nickname": "hloja_myrakami",
+        "booksCount": 0,
+        "updatedAt": "2018-06-01 08:46:09"
+    },
     "109395490138181998437-google": {
         "id": "109395490138181998437-google",
         "nickname": "Vitaly",
@@ -172,11 +178,5 @@
         "nickname": "Алюев",
         "booksCount": 1,
         "updatedAt": "2018-05-18 10:18:26"
-    },
-    "85203415-vkontakte": {
-        "id": "85203415-vkontakte",
-        "nickname": "develchip",
-        "booksCount": 68,
-        "updatedAt": "2018-05-18 05:11:42"
     }
 }
