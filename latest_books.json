@@ -1,4 +1,16 @@
 {
+    "HcNpwwCU4Y": {
+        "id": "HcNpwwCU4Y",
+        "title": "Ветер на пороге",
+        "author": "Мадлен Л’Энгл",
+        "notes": "",
+        "createdAt": "2018-06-02 17:09:01",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 625
+        }
+    },
     "mcsm_bbX_d": {
         "id": "mcsm_bbX_d",
         "title": "Трещина во времени",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 46
-        }
-    },
-    "h8QSFCiEmf": {
-        "id": "h8QSFCiEmf",
-        "title": "Тактика в боевых примерах: истребительная авиационная дивизия",
-        "author": "Г. В. Зимин",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/6723923/",
-        "createdAt": "2018-05-27 21:01:30",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 157
         }
     }
 }

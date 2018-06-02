@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Janet](users/108/108113656204404967440-google)<sup>624</sup> 
+[Janet](users/108/108113656204404967440-google)<sup>625</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>309</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_02.06.2018 14:04:18_
+_02.06.2018 17:09:01_
