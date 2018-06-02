@@ -1,4 +1,16 @@
 {
+    "mcsm_bbX_d": {
+        "id": "mcsm_bbX_d",
+        "title": "Трещина во времени",
+        "author": "Мадлен Л’Энгл",
+        "notes": "",
+        "createdAt": "2018-06-02 14:04:18",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 624
+        }
+    },
     "ut8oa8s68W": {
         "id": "ut8oa8s68W",
         "title": "Ловушка для духа",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 157
-        }
-    },
-    "QMok6Pml70": {
-        "id": "QMok6Pml70",
-        "title": "Занимательное облаковедение",
-        "author": "Гэвин Претор-Пинни",
-        "notes": "Хороший научпоп по метеорологии",
-        "createdAt": "2018-05-27 08:08:44",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 48
         }
     }
 }
