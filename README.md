@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>625</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>309</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
-[Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_02.06.2018 17:09:01_
+_02.06.2018 19:29:04_
