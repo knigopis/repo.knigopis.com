@@ -1,4 +1,10 @@
 {
+    "131538796-vkontakte": {
+        "id": "131538796-vkontakte",
+        "nickname": "uuuniicooorn",
+        "booksCount": 0,
+        "updatedAt": "2018-06-02 19:29:03"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "le_brouillard",
         "booksCount": 16,
         "updatedAt": "2018-05-18 17:55:19"
-    },
-    "108488897837713164784-google": {
-        "id": "108488897837713164784-google",
-        "nickname": "Алюев",
-        "booksCount": 1,
-        "updatedAt": "2018-05-18 10:18:26"
     }
 }
