@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>309</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>123</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>182</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [fruttu](users/750/75094589-vkontakte)<sup>0</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>308</sup> 
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Алюев](users/108/108488897837713164784-google)<sup>1</sup> 
 
 
-_01.06.2018 20:21:23_
+_02.06.2018 06:50:53_

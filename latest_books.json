@@ -1,4 +1,16 @@
 {
+    "ut8oa8s68W": {
+        "id": "ut8oa8s68W",
+        "title": "Ловушка для духа",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-06-02 06:50:53",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 309
+        }
+    },
     "YjmJsmkWds": {
         "id": "YjmJsmkWds",
         "title": "worm Cyoa v3",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 48
-        }
-    },
-    "07jAxd-rV-": {
-        "id": "07jAxd-rV-",
-        "title": "Quantitative Finance For Dummies",
-        "author": "Steve Bell",
-        "notes": "",
-        "createdAt": "2018-05-26 07:57:35",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 62
         }
     }
 }

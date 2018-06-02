@@ -1,4 +1,10 @@
 {
+    "100002563462782-facebook": {
+        "id": "100002563462782-facebook",
+        "nickname": "HXT",
+        "booksCount": 309,
+        "updatedAt": "2018-06-02 06:50:53"
+    },
     "3951663-vkontakte": {
         "id": "3951663-vkontakte",
         "nickname": "hloja_myrakami",
@@ -58,12 +64,6 @@
         "nickname": "fruttu",
         "booksCount": 0,
         "updatedAt": "2018-05-29 18:59:18"
-    },
-    "100002563462782-facebook": {
-        "id": "100002563462782-facebook",
-        "nickname": "HXT",
-        "booksCount": 308,
-        "updatedAt": "2018-05-29 15:37:46"
     },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
