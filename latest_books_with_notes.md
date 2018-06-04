@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
+* Цикл "Проклятые короли" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>56</sup>
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
@@ -29,8 +31,6 @@
 * Транссибирская магистраль. История создания железнодорожной сети России ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>153</sup>
 * Холодный ветер, теплый ветер ~ [En](users/333/333646551-vkontakte)<sup>45</sup>
 * Жажда жизни ~ [joan789](users/240/2401650-vkontakte)<sup>72</sup>
-* Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
-* Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 
 
-_04.06.2018 21:49:51_
+_04.06.2018 21:56:34_

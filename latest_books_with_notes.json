@@ -1,4 +1,28 @@
 {
+    "0dzolgwfaf": {
+        "id": "0dzolgwfaf",
+        "title": "Таинственный остров",
+        "author": "Жюль Верн",
+        "notes": "Железный король, Узница Шато-Гайара, Яд и Корона, Негоже лилиям прясть,\nФранцузская волчица, Лилия и лев, Когда король губит Францию",
+        "createdAt": "2018-06-04 21:56:34",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 57
+        }
+    },
+    "PU0gYDQjes": {
+        "id": "PU0gYDQjes",
+        "title": "Цикл \"Проклятые короли\"",
+        "author": "Морис Дрюон",
+        "notes": "Железный король, Узница Шато-Гайара, Яд и Корона, Негоже лилиям прясть,\nФранцузская волчица, Лилия и лев, Когда король губит Францию",
+        "createdAt": "2018-06-04 21:55:29",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 56
+        }
+    },
     "n01lS_l8J_": {
         "id": "n01lS_l8J_",
         "title": "Цикл \"Волкодав\"",
@@ -333,30 +357,6 @@
             "id": "2401650-vkontakte",
             "nickname": "joan789",
             "booksCount": 72
-        }
-    },
-    "5A35zXM2sq": {
-        "id": "5A35zXM2sq",
-        "title": "Человек",
-        "author": "Рэй Брэдбери",
-        "notes": "интересный небольшой рассказ со смыслом.",
-        "createdAt": "2018-05-14 04:58:34",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 44
-        }
-    },
-    "PAjNhJ8Ei7": {
-        "id": "PAjNhJ8Ei7",
-        "title": "Principles: Life and Work",
-        "author": "Ray Dalio",
-        "notes": "ASIN: B071CTK28D",
-        "createdAt": "2018-05-12 10:27:16",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 60
         }
     }
 }

@@ -5,16 +5,21 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
+    > Железный король, Узница Шато-Гайара, Яд и Корона, Негоже лилиям прясть,
+    > Французская волчица, Лилия и лев, Когда король губит Францию
+
+* Цикл "Проклятые короли" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>56</sup>
+    > Железный король, Узница Шато-Гайара, Яд и Корона, Негоже лилиям прясть,
+    > Французская волчица, Лилия и лев, Когда король губит Францию
+
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
     > Волкодав, Волкодав. Право на поединок, Волкодав. Истовик-камень,
     > Волкодав. Знамение пути, Волкодав. Самоцветные горы
 
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
-    > Запад Эдема, Зима в Эдеме, Возвращение в Эдем
 
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
-    > Карты судьбы, Кровь Амбера, Знак Хаоса, 
-    > Рыцарь Теней, Принц Хаоса
 
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 
@@ -26,16 +31,12 @@ Do not use pull requests to make changes here.
 
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
 
-* Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
-
-* Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>55</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>57</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -67,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:53:16_
+_04.06.2018 21:56:34_
