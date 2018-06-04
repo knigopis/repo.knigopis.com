@@ -1,4 +1,16 @@
 {
+    "9RyUiyH9NF": {
+        "id": "9RyUiyH9NF",
+        "title": "Падшие ангелы Мультиверсума",
+        "author": "Леонид Алехин",
+        "notes": "",
+        "createdAt": "2018-06-04 20:14:20",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 8
+        }
+    },
     "bzAK2RlKmH": {
         "id": "bzAK2RlKmH",
         "title": "Сага о Дзирте До'Урдене",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 10
-        }
-    },
-    "N_IddLOZUf": {
-        "id": "N_IddLOZUf",
-        "title": "Бунтующий человек",
-        "author": "Альбер Камю",
-        "notes": "",
-        "createdAt": "2018-05-30 16:19:20",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 623
         }
     }
 }
