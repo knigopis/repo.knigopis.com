@@ -1,4 +1,16 @@
 {
+    "1eGYqaE2Jf": {
+        "id": "1eGYqaE2Jf",
+        "title": "Фонд и Империя",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:55:15",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 27
+        }
+    },
     "Z1YXTqTp2b": {
         "id": "Z1YXTqTp2b",
         "title": "Фонд",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 65
-        }
-    },
-    "rEUBTXFJn8": {
-        "id": "rEUBTXFJn8",
-        "title": "Эти странные шведы",
-        "author": "Петер Берлин",
-        "notes": "",
-        "createdAt": "2018-06-03 16:51:05",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 124
         }
     }
 }
