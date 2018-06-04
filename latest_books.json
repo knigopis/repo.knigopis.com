@@ -1,4 +1,16 @@
 {
+    "q9Ogu1vDuj": {
+        "id": "q9Ogu1vDuj",
+        "title": "Звезды как пыль",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:54:00",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 25
+        }
+    },
     "qT_iU2Kw71": {
         "id": "qT_iU2Kw71",
         "title": "Хранители реликвий",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 625
-        }
-    },
-    "mcsm_bbX_d": {
-        "id": "mcsm_bbX_d",
-        "title": "Трещина во времени",
-        "author": "Мадлен Л’Энгл",
-        "notes": "",
-        "createdAt": "2018-06-02 14:04:18",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 624
         }
     }
 }
