@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chandravadana](users/105/105866022348292919948-google)<sup>3</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [violet_velva](users/116/116961712580551399099-google)<sup>5</sup> 
 [geyski](users/221/221959664-vkontakte)<sup>146</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
-[NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 
 
-_04.06.2018 11:41:29_
+_04.06.2018 19:53:43_
