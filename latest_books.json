@@ -1,4 +1,16 @@
 {
+    "jYkZbWgyK4": {
+        "id": "jYkZbWgyK4",
+        "title": "Путь меча",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2018-06-04 21:46:27",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 50
+        }
+    },
     "Y5mvx4OuxR": {
         "id": "Y5mvx4OuxR",
         "title": "Герой должен быть один",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 23
-        }
-    },
-    "7dopCRL2cj": {
-        "id": "7dopCRL2cj",
-        "title": "Черный человек",
-        "author": "Василий Головачев",
-        "notes": "Чёрный человек, Чёрная сила, Чёрное время",
-        "createdAt": "2018-06-04 20:40:00",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 22
         }
     }
 }
