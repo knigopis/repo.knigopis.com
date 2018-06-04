@@ -39,11 +39,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>625</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>309</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 
 
-_04.06.2018 09:35:44_
+_04.06.2018 11:41:29_
