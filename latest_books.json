@@ -1,4 +1,16 @@
 {
+    "wgY6UQZQTs": {
+        "id": "wgY6UQZQTs",
+        "title": "Вероника решает умереть",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2018-06-04 20:27:14",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 14
+        }
+    },
     "qnV3eN5c3c": {
         "id": "qnV3eN5c3c",
         "title": "На берегу Рио-Пьедра села я и заплакала",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 124
-        }
-    },
-    "4u1q8Lre6D": {
-        "id": "4u1q8Lre6D",
-        "title": "вв",
-        "author": "вв",
-        "notes": "",
-        "createdAt": "2018-05-31 12:13:59",
-        "user": {
-            "id": "109395490138181998437-google",
-            "nickname": "Vitaly",
-            "booksCount": 4
         }
     }
 }
