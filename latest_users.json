@@ -1,4 +1,10 @@
 {
+    "116551625573365168968-google": {
+        "id": "116551625573365168968-google",
+        "nickname": "garfield",
+        "booksCount": 0,
+        "updatedAt": "2018-06-04 08:31:06"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "NORDBOOK",
         "booksCount": 15,
         "updatedAt": "2018-05-18 21:12:19"
-    },
-    "13330781-vkontakte": {
-        "id": "13330781-vkontakte",
-        "nickname": "le_brouillard",
-        "booksCount": 16,
-        "updatedAt": "2018-05-18 17:55:19"
     }
 }
