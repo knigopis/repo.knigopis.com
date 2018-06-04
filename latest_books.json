@@ -1,4 +1,28 @@
 {
+    "_Q9ISKFA_f": {
+        "id": "_Q9ISKFA_f",
+        "title": "Фонд и Земля",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-06-04 21:03:56",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 30
+        }
+    },
+    "-N0XX0V7yK": {
+        "id": "-N0XX0V7yK",
+        "title": "Цикл \"Лакки Старр\"",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-06-04 21:01:36",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 29
+        }
+    },
     "iKDCE6_X-q": {
         "id": "iKDCE6_X-q",
         "title": "Второй Фонд",
@@ -333,30 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 2
-        }
-    },
-    "jdwg--JKeH": {
-        "id": "jdwg--JKeH",
-        "title": "Цикл \"Песнь льда и огня\"",
-        "author": "Джордж Мартин",
-        "notes": "",
-        "createdAt": "2018-06-04 19:48:25",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 1
-        }
-    },
-    "oe7hpw2pZ0": {
-        "id": "oe7hpw2pZ0",
-        "title": "Кренящаяся планета",
-        "author": "Мадлен Л’Энгл",
-        "notes": "",
-        "createdAt": "2018-06-04 11:41:29",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 626
         }
     }
 }

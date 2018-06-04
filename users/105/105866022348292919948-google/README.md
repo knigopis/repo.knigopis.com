@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>28</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>30</sup>
 ---
 
 ## 2018
@@ -131,6 +131,14 @@
 
 
 ## 2008
+
+### Фонд и Земля
+Айзек Азимов
+
+
+### Цикл "Лакки Старр"
+Айзек Азимов
+
 
 ### Второй Фонд
 Айзек Азимов
