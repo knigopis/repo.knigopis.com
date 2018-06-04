@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
+    > Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога
+
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
     > Чёрный человек, Чёрная сила, Чёрное время
 
@@ -13,9 +16,6 @@ Do not use pull requests to make changes here.
     > Дети Вечности, Контрразведка, Закон перемен, Абсолютный игрок, Мегаморф
 
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
-    > Рыцарь из ниоткуда, Летающие острова, Нечаянный король, Железные паруса, По ту сторону льда, 
-    > Чужие берега, Чужие паруса, Чужие зеркала,
-    > Пленник Короны, Враг Короны, Спаситель Короны
 
 * Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
 
@@ -29,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Технологии изменения сознания в деструктивных культах ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup>
 
-* Советские бронепоезда в бою. 1941-1945 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>22</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>24</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -68,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 20:40:00_
+_04.06.2018 20:44:04_

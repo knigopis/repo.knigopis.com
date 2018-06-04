@@ -1,4 +1,28 @@
 {
+    "UQSIchmNDl": {
+        "id": "UQSIchmNDl",
+        "title": "Вызывающий бурю",
+        "author": "Том Ллойд",
+        "notes": "",
+        "createdAt": "2018-06-04 20:44:04",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 24
+        }
+    },
+    "uISdhHEoxa": {
+        "id": "uISdhHEoxa",
+        "title": "Цикл \"Век безумия\"",
+        "author": "Грегори Киз",
+        "notes": "Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога",
+        "createdAt": "2018-06-04 20:43:00",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 23
+        }
+    },
     "7dopCRL2cj": {
         "id": "7dopCRL2cj",
         "title": "Черный человек",
@@ -333,30 +357,6 @@
             "id": "3951663-vkontakte",
             "nickname": "hloja_myrakami",
             "booksCount": 2
-        }
-    },
-    "5hSV6YdhVh": {
-        "id": "5hSV6YdhVh",
-        "title": "Технологии изменения сознания в деструктивных культах",
-        "author": "Т. Лири, М. Стюарт",
-        "notes": "Тимоти Лири, как обычно, очень велик :)\n\nв процессе\n\nhttp://www.leary.ru/books/cult/",
-        "createdAt": "2018-06-01 19:44:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 159
-        }
-    },
-    "YWzI3zkBjw": {
-        "id": "YWzI3zkBjw",
-        "title": "Советские бронепоезда в бою. 1941-1945",
-        "author": "Максим Коломиец",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/143797031/",
-        "createdAt": "2018-06-01 19:43:15",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 158
         }
     }
 }
