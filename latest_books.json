@@ -1,4 +1,16 @@
 {
+    "10Tld0TNBK": {
+        "id": "10Tld0TNBK",
+        "title": "Три мушкетёра",
+        "author": "Александр Дюма",
+        "notes": "",
+        "createdAt": "2018-06-04 21:51:37",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 53
+        }
+    },
     "n01lS_l8J_": {
         "id": "n01lS_l8J_",
         "title": "Цикл \"Волкодав\"",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 24
-        }
-    },
-    "sjTc9PUyiT": {
-        "id": "sjTc9PUyiT",
-        "title": "Последний кольценосец",
-        "author": "Кирилл Еськов",
-        "notes": "",
-        "createdAt": "2018-06-04 20:49:30",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 23
         }
     }
 }
