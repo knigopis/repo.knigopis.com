@@ -5,20 +5,18 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
+    > Трилогии: Темный эльф, Долина Ледяного Ветра, Наследие Дроу, Тропы тьмы, Клинки охотника, Наемные клинки, Переходы, Невервинтер,
+
+* Цикл книг "Одиннадцатый Легион" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>6</sup>
+    > Самый сердитый гном, Одиннадцатый Легион, Воскрешение,Турнир, Разведка боем, Война, Призраки подземелий, Логово врага, Наследие орков, Имперские истории, Забавы агрессоров
+
 * Стрела времени, или Природа преступления ~ [ODINSY](users/100/100978570902186865324-google)<sup>65</sup>
     > Тод Френдли - палач Верхмата в Аушвице (он же Освенцим)
 
 * Технологии изменения сознания в деструктивных культах ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup>
-    > Тимоти Лири, как обычно, очень велик :)
-    > 
-    > в процессе
-    > 
-    > http://www.leary.ru/books/cult/
 
 * Советские бронепоезда в бою. 1941-1945 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/143797031/
 
 * Не прощаюсь ~ [En](users/333/333646551-vkontakte)<sup>46</sup>
 
@@ -30,16 +28,12 @@ Do not use pull requests to make changes here.
 
 * Бизнес-процессы. Моделирование, внедрение, управление ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup>
 
-* Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
-
-* "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>5</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>7</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -71,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 19:59:30_
+_04.06.2018 20:12:57_
