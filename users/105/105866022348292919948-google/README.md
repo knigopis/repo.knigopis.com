@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>23</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>24</sup>
 ---
 
 ## 2018
@@ -83,6 +83,10 @@
 
 
 ## 2012
+
+### Хранители реликвий
+Евгений Черноусов
+
 
 ### Цикл "Сварог"
 Александр Бушков

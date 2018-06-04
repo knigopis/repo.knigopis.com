@@ -1,4 +1,16 @@
 {
+    "qT_iU2Kw71": {
+        "id": "qT_iU2Kw71",
+        "title": "Хранители реликвий",
+        "author": "Евгений Черноусов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:50:40",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 24
+        }
+    },
     "sjTc9PUyiT": {
         "id": "sjTc9PUyiT",
         "title": "Последний кольценосец",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 624
-        }
-    },
-    "ut8oa8s68W": {
-        "id": "ut8oa8s68W",
-        "title": "Ловушка для духа",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-06-02 06:50:53",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 309
         }
     }
 }
