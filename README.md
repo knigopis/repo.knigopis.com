@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
+    > Волкодав, Волкодав. Право на поединок, Волкодав. Истовик-камень,
+    > Волкодав. Знамение пути, Волкодав. Самоцветные горы
+
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
     > Запад Эдема, Зима в Эдеме, Возвращение в Эдем
 
@@ -13,8 +17,6 @@ Do not use pull requests to make changes here.
     > Рыцарь Теней, Принц Хаоса
 
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
-    > Девять принцев Амбера, Ружья Авалона, Знак Единорога,
-    > Рука Оберона, Владения Хаоса
 
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
 
-* Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>51</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:46:44_
+_04.06.2018 21:49:51_
