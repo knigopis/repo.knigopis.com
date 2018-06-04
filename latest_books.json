@@ -1,4 +1,16 @@
 {
+    "iKDCE6_X-q": {
+        "id": "iKDCE6_X-q",
+        "title": "Второй Фонд",
+        "author": "Айзек Азимов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:56:27",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 28
+        }
+    },
     "1eGYqaE2Jf": {
         "id": "1eGYqaE2Jf",
         "title": "Фонд и Империя",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 626
-        }
-    },
-    "SzzRmFZUQj": {
-        "id": "SzzRmFZUQj",
-        "title": "Стрела времени, или Природа преступления",
-        "author": "Мартин Эмис, Анна Асланян",
-        "notes": "Тод Френдли - палач Верхмата в Аушвице (он же Освенцим)",
-        "createdAt": "2018-06-04 09:35:44",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 65
         }
     }
 }
