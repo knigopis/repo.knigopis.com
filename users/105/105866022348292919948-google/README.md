@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>48</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>49</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2006
+
+### Герой должен быть один
+Генри Лайон Олди
+
 
 ### Конец материи
 Алан Дин Фостер

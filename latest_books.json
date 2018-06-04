@@ -1,4 +1,16 @@
 {
+    "Y5mvx4OuxR": {
+        "id": "Y5mvx4OuxR",
+        "title": "Герой должен быть один",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2018-06-04 21:44:13",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 49
+        }
+    },
     "oUlXNJKotU": {
         "id": "oUlXNJKotU",
         "title": "Конец материи",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 22
-        }
-    },
-    "1yec9X9F1f": {
-        "id": "1yec9X9F1f",
-        "title": "Хроники Реликта",
-        "author": "Василий Головачев",
-        "notes": "Непредвиденные встречи, Пришествие, Возвращение блудного Конструктора, \nДети Вечности, Контрразведка, Закон перемен, Абсолютный игрок, Мегаморф",
-        "createdAt": "2018-06-04 20:39:09",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 21
         }
     }
 }
