@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>45</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>46</sup>
 ---
 
 ## 2018
@@ -158,6 +158,13 @@
 
 ### Звезды как пыль
 Айзек Азимов
+
+
+
+## 2006
+
+### Тар-Айимский кранг
+Алан Дин Фостер
 
 
 
