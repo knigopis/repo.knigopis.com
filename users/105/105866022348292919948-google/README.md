@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>67</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>68</sup>
 ---
 
 ## 2018
@@ -181,6 +181,10 @@
 
 
 ## 2007
+
+### Сказка о тройке
+Братья Стругацкие
+
 
 ### Понедельник начинается в субботу
 Братья Стругацкие
