@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>43</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>44</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2005
+
+### Заповедник гоблинов
+Клиффорд Саймак
+
 
 ### Цикл "Эдем"
 Гарри Гаррисон

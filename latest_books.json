@@ -1,4 +1,16 @@
 {
+    "S5DNInCUw7": {
+        "id": "S5DNInCUw7",
+        "title": "Заповедник гоблинов",
+        "author": "Клиффорд Саймак",
+        "notes": "",
+        "createdAt": "2018-06-04 21:34:51",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 44
+        }
+    },
     "zNtErGqaPj": {
         "id": "zNtErGqaPj",
         "title": "Цикл \"Эдем\"",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 17
-        }
-    },
-    "fhEFzB7ody": {
-        "id": "fhEFzB7ody",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-06-04 20:27:25",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 16
         }
     }
 }
