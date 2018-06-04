@@ -1,5 +1,13 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>21</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>22</sup>
 ---
+
+## 2018
+
+### Черный человек
+Василий Головачев
+> Чёрный человек, Чёрная сила, Чёрное время
+
+
 
 ## 2017
 

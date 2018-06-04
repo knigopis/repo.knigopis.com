@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
+    > Чёрный человек, Чёрная сила, Чёрное время
+
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
     > Непредвиденные встречи, Пришествие, Возвращение блудного Конструктора, 
     > Дети Вечности, Контрразведка, Закон перемен, Абсолютный игрок, Мегаморф
@@ -15,11 +18,6 @@ Do not use pull requests to make changes here.
     > Пленник Короны, Враг Короны, Спаситель Короны
 
 * Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
-    > Алмазный меч, деревянный меч, Дочь некроманта, Вернуть посох, 
-    > Хранитель мечей: Рождение мага, Хранитель мечей: Странствия мага,
-    > Хранитель мечей: Одиночество мага, Война мага: Дебют,
-    > Война мага: Миттельшпиль, Война мага: Эндшпиль,
-    > Война мага: Конец игры
 
 * Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
 
@@ -33,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Советские бронепоезда в бою. 1941-1945 ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>158</sup>
 
-* Не прощаюсь ~ [En](users/333/333646551-vkontakte)<sup>46</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>21</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>22</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -72,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 20:39:09_
+_04.06.2018 20:40:00_

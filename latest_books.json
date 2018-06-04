@@ -1,4 +1,16 @@
 {
+    "7dopCRL2cj": {
+        "id": "7dopCRL2cj",
+        "title": "Черный человек",
+        "author": "Василий Головачев",
+        "notes": "Чёрный человек, Чёрная сила, Чёрное время",
+        "createdAt": "2018-06-04 20:40:00",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 22
+        }
+    },
     "1yec9X9F1f": {
         "id": "1yec9X9F1f",
         "title": "Хроники Реликта",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 158
-        }
-    },
-    "urdfkpPVcQ": {
-        "id": "urdfkpPVcQ",
-        "title": "Когда Она Ушла",
-        "author": "Блейк Пирс",
-        "notes": "",
-        "createdAt": "2018-06-01 18:51:08",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 123
         }
     }
 }
