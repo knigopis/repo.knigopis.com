@@ -1,4 +1,16 @@
 {
+    "oUlXNJKotU": {
+        "id": "oUlXNJKotU",
+        "title": "Конец материи",
+        "author": "Алан Дин Фостер",
+        "notes": "",
+        "createdAt": "2018-06-04 21:42:57",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 48
+        }
+    },
     "gDF8BdMfu3": {
         "id": "gDF8BdMfu3",
         "title": "Звезда сироты",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 21
-        }
-    },
-    "mkXhrh__I0": {
-        "id": "mkXhrh__I0",
-        "title": "Цикл \"Сварог\"",
-        "author": "Александр Бушков",
-        "notes": "Рыцарь из ниоткуда, Летающие острова, Нечаянный король, Железные паруса, По ту сторону льда, \nЧужие берега, Чужие паруса, Чужие зеркала,\nПленник Короны, Враг Короны, Спаситель Короны",
-        "createdAt": "2018-06-04 20:36:30",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 20
         }
     }
 }
