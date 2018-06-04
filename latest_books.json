@@ -1,4 +1,16 @@
 {
+    "jgeTbS36_M": {
+        "id": "jgeTbS36_M",
+        "title": "Звёздные войны. Эпизод IV: Новая надежда",
+        "author": "Джордж Лукас",
+        "notes": "",
+        "createdAt": "2018-06-04 21:19:09",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 37
+        }
+    },
     "NkGAJ4yW7f": {
         "id": "NkGAJ4yW7f",
         "title": "Первая кровь",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 9
-        }
-    },
-    "9RyUiyH9NF": {
-        "id": "9RyUiyH9NF",
-        "title": "Падшие ангелы Мультиверсума",
-        "author": "Леонид Алехин",
-        "notes": "",
-        "createdAt": "2018-06-04 20:14:20",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 8
         }
     }
 }
