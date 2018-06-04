@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>625</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [geyski](users/221/221959664-vkontakte)<sup>146</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>16</sup> 
 
 
-_03.06.2018 16:51:05_
+_04.06.2018 08:31:09_
