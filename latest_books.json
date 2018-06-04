@@ -1,4 +1,16 @@
 {
+    "sGqXDfgnBv": {
+        "id": "sGqXDfgnBv",
+        "title": "Пятнадцатилетний капитан",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2018-06-04 21:57:51",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 59
+        }
+    },
     "29Lc_141Wx": {
         "id": "29Lc_141Wx",
         "title": "Дети капитана Гранта. Путешествие вокруг света",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 30
-        }
-    },
-    "-N0XX0V7yK": {
-        "id": "-N0XX0V7yK",
-        "title": "Цикл \"Лакки Старр\"",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2018-06-04 21:01:36",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 29
         }
     }
 }
