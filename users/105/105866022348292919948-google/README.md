@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>32</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>33</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2004
+
+### Чужие
+Алан Дин Фостер
+
 
 ### Чужой
 Алан Дин Фостер
