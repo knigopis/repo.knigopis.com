@@ -1,4 +1,16 @@
 {
+    "oB8vRcQIVE": {
+        "id": "oB8vRcQIVE",
+        "title": "Хроники Амбера (Пятикнижие Мерлина)",
+        "author": "Роджер Желязны",
+        "notes": "Карты судьбы, Кровь Амбера, Знак Хаоса, \nРыцарь Теней, Принц Хаоса",
+        "createdAt": "2018-06-04 21:27:11",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 41
+        }
+    },
     "WVxmvhU2zP": {
         "id": "WVxmvhU2zP",
         "title": "Хроники Амбера (Пятикнижие Корвина)",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 13
-        }
-    },
-    "q-zvYNvywZ": {
-        "id": "q-zvYNvywZ",
-        "title": "Дневник Мага",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-06-04 20:26:12",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 12
         }
     }
 }

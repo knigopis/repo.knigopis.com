@@ -1,4 +1,16 @@
 {
+    "oB8vRcQIVE": {
+        "id": "oB8vRcQIVE",
+        "title": "Хроники Амбера (Пятикнижие Мерлина)",
+        "author": "Роджер Желязны",
+        "notes": "Карты судьбы, Кровь Амбера, Знак Хаоса, \nРыцарь Теней, Принц Хаоса",
+        "createdAt": "2018-06-04 21:27:11",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 41
+        }
+    },
     "WVxmvhU2zP": {
         "id": "WVxmvhU2zP",
         "title": "Хроники Амбера (Пятикнижие Корвина)",
@@ -345,18 +357,6 @@
             "id": "158266434925901-facebook",
             "nickname": "GvenVivar ",
             "booksCount": 44
-        }
-    },
-    "LQpZZL5MoX": {
-        "id": "LQpZZL5MoX",
-        "title": "Мука разбитого сердца",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-060485-2",
-        "createdAt": "2018-05-09 13:33:40",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 59
         }
     }
 }

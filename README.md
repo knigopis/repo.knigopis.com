@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
+    > Карты судьбы, Кровь Амбера, Знак Хаоса, 
+    > Рыцарь Теней, Принц Хаоса
+
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
     > Девять принцев Амбера, Ружья Авалона, Знак Единорога,
     > Рука Оберона, Владения Хаоса
@@ -13,7 +17,6 @@ Do not use pull requests to make changes here.
     > Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога
 
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
-    > Чёрный человек, Чёрная сила, Чёрное время
 
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
 
@@ -27,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Цикл книг "Одиннадцатый Легион" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>6</sup>
 
-* Стрела времени, или Природа преступления ~ [ODINSY](users/100/100978570902186865324-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>40</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>41</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -66,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:25:49_
+_04.06.2018 21:27:11_
