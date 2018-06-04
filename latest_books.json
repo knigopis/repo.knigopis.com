@@ -1,4 +1,16 @@
 {
+    "cd4sv_gcQq": {
+        "id": "cd4sv_gcQq",
+        "title": "Капитан Блад",
+        "author": "Рафаэль Сабатини",
+        "notes": "Одиссея капитана Блада, Хроника капитана Блада, Удачи капитана Блада",
+        "createdAt": "2018-06-04 22:00:47",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 61
+        }
+    },
     "_5Sx33kbUK": {
         "id": "_5Sx33kbUK",
         "title": "Робинзон Крузо",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 32
-        }
-    },
-    "hUcruUljCz": {
-        "id": "hUcruUljCz",
-        "title": "Прелюдия к Фонду",
-        "author": "Айзек Азимов",
-        "notes": "",
-        "createdAt": "2018-06-04 21:04:17",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 31
         }
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
+    > Одиссея капитана Блада, Хроника капитана Блада, Удачи капитана Блада
+
 * Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
     > Железный король, Узница Шато-Гайара, Яд и Корона, Негоже лилиям прясть,
     > Французская волчица, Лилия и лев, Когда король губит Францию
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Французская волчица, Лилия и лев, Когда король губит Францию
 
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
-    > Волкодав, Волкодав. Право на поединок, Волкодав. Истовик-камень,
-    > Волкодав. Знамение пути, Волкодав. Самоцветные горы
 
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
 
@@ -29,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
 
-* Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>60</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>61</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:58:54_
+_04.06.2018 22:00:47_
