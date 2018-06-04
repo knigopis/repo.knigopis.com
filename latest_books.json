@@ -1,4 +1,16 @@
 {
+    "sjTc9PUyiT": {
+        "id": "sjTc9PUyiT",
+        "title": "Последний кольценосец",
+        "author": "Кирилл Еськов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:49:30",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 23
+        }
+    },
     "UQSIchmNDl": {
         "id": "UQSIchmNDl",
         "title": "Вызывающий бурю",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 309
-        }
-    },
-    "YjmJsmkWds": {
-        "id": "YjmJsmkWds",
-        "title": "worm Cyoa v3",
-        "author": "Мильх Хольштайн",
-        "notes": "Фанфик по вселенной червя, не закончен, читался на самиздате. В комментариях говорится, что автор умер. Не знаю как выразить соболезнования. Я буду помнить эту незаконченную историю. Она была хорошей историей.",
-        "createdAt": "2018-06-01 20:21:23",
-        "user": {
-            "id": "3951663-vkontakte",
-            "nickname": "hloja_myrakami",
-            "booksCount": 2
         }
     }
 }

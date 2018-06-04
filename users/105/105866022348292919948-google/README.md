@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>22</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>23</sup>
 ---
 
 ## 2018
@@ -58,6 +58,10 @@
 
 
 ## 2013
+
+### Последний кольценосец
+Кирилл Еськов
+
 
 ### Цикл "Летописи Разлома"
 Ник Перумов
