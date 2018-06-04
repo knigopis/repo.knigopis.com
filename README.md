@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
+    > Запад Эдема, Зима в Эдеме, Возвращение в Эдем
+
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
     > Карты судьбы, Кровь Амбера, Знак Хаоса, 
     > Рыцарь Теней, Принц Хаоса
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > Рука Оберона, Владения Хаоса
 
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
-    > Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога
 
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
 
-* Цикл книг "Одиннадцатый Легион" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>6</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>42</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>43</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:28:05_
+_04.06.2018 21:31:40_

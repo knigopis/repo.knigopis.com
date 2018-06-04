@@ -1,4 +1,16 @@
 {
+    "zNtErGqaPj": {
+        "id": "zNtErGqaPj",
+        "title": "Цикл \"Эдем\"",
+        "author": "Гарри Гаррисон",
+        "notes": "Запад Эдема, Зима в Эдеме, Возвращение в Эдем",
+        "createdAt": "2018-06-04 21:31:40",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 43
+        }
+    },
     "1FRN29tYj2": {
         "id": "1FRN29tYj2",
         "title": "Путеводитель по замку Амбер",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 16
-        }
-    },
-    "wgY6UQZQTs": {
-        "id": "wgY6UQZQTs",
-        "title": "Вероника решает умереть",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-06-04 20:27:14",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 14
         }
     }
 }

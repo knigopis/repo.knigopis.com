@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
@@ -30,7 +31,6 @@
 * Человек ~ [En](users/333/333646551-vkontakte)<sup>44</sup>
 * Principles: Life and Work ~ [exulted](users/100/100599204551896265722-google)<sup>60</sup>
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
-* ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 
 
-_04.06.2018 21:27:11_
+_04.06.2018 21:31:40_
