@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>66</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>67</sup>
 ---
 
 ## 2018
@@ -177,6 +177,13 @@
 
 ### Звезды как пыль
 Айзек Азимов
+
+
+
+## 2007
+
+### Понедельник начинается в субботу
+Братья Стругацкие
 
 
 

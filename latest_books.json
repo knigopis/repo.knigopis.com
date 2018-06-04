@@ -1,4 +1,16 @@
 {
+    "Qh0erAKLvT": {
+        "id": "Qh0erAKLvT",
+        "title": "Понедельник начинается в субботу",
+        "author": "Братья Стругацкие",
+        "notes": "",
+        "createdAt": "2018-06-04 22:36:20",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 67
+        }
+    },
     "f-rOxw3P5B": {
         "id": "f-rOxw3P5B",
         "title": "Чайка по имени Джонатан Ливингстон",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 38
-        }
-    },
-    "jgeTbS36_M": {
-        "id": "jgeTbS36_M",
-        "title": "Звёздные войны. Эпизод IV: Новая надежда",
-        "author": "Джордж Лукас",
-        "notes": "",
-        "createdAt": "2018-06-04 21:19:09",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 37
         }
     }
 }
