@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>23</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>22</sup>
 ---
 
 ## 2018
@@ -92,8 +92,6 @@
 
 ### Дьявол и сеньорита Прим
 Пауло Коэльо
-
-
 
 
 ### Вероника решает умереть
