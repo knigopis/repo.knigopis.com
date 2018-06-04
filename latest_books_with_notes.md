@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
 * Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
 * Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
@@ -30,7 +31,6 @@
 * Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
 * Системный инженер. Как начать карьеру в новом технологическом укладе ~ [exulted](users/100/100599204551896265722-google)<sup>57</sup>
 * Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
-* Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 
 
-_04.06.2018 20:36:30_
+_04.06.2018 20:39:09_

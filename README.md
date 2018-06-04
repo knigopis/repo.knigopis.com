@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
+    > Непредвиденные встречи, Пришествие, Возвращение блудного Конструктора, 
+    > Дети Вечности, Контрразведка, Закон перемен, Абсолютный игрок, Мегаморф
+
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
     > Рыцарь из ниоткуда, Летающие острова, Нечаянный король, Железные паруса, По ту сторону льда, 
     > Чужие берега, Чужие паруса, Чужие зеркала,
@@ -18,7 +22,6 @@ Do not use pull requests to make changes here.
     > Война мага: Конец игры
 
 * Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
-    > Гибель Богов, Воин Великой Тьмы, Земля без радости
 
 * Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
 
@@ -32,14 +35,12 @@ Do not use pull requests to make changes here.
 
 * Не прощаюсь ~ [En](users/333/333646551-vkontakte)<sup>46</sup>
 
-* Тактика в боевых примерах: истребительная авиационная дивизия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>20</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>21</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -71,4 +72,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 20:36:30_
+_04.06.2018 20:39:09_
