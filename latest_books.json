@@ -1,4 +1,16 @@
 {
+    "NkGAJ4yW7f": {
+        "id": "NkGAJ4yW7f",
+        "title": "Первая кровь",
+        "author": "Дэвид Моррелл",
+        "notes": "",
+        "createdAt": "2018-06-04 21:10:38",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 36
+        }
+    },
     "vWM90rH3qE": {
         "id": "vWM90rH3qE",
         "title": "Клиент",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 8
-        }
-    },
-    "bzAK2RlKmH": {
-        "id": "bzAK2RlKmH",
-        "title": "Сага о Дзирте До'Урдене",
-        "author": "Роберт Сальваторе",
-        "notes": "Трилогии: Темный эльф, Долина Ледяного Ветра, Наследие Дроу, Тропы тьмы, Клинки охотника, Наемные клинки, Переходы, Невервинтер,",
-        "createdAt": "2018-06-04 20:12:57",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 7
         }
     }
 }
