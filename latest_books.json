@@ -1,4 +1,16 @@
 {
+    "1fMC_tcMq0": {
+        "id": "1fMC_tcMq0",
+        "title": "Звездный десант",
+        "author": "Роберт Хайнлайн",
+        "notes": "",
+        "createdAt": "2018-06-04 21:38:38",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 45
+        }
+    },
     "S5DNInCUw7": {
         "id": "S5DNInCUw7",
         "title": "Заповедник гоблинов",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 18
-        }
-    },
-    "UvHoxplLUn": {
-        "id": "UvHoxplLUn",
-        "title": "Дьявол и сеньорита Прим",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-06-04 20:27:49",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 17
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>44</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>45</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2005
+
+### Звездный десант
+Роберт Хайнлайн
+
 
 ### Заповедник гоблинов
 Клиффорд Саймак
