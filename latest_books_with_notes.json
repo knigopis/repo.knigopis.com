@@ -1,4 +1,16 @@
 {
+    "WVxmvhU2zP": {
+        "id": "WVxmvhU2zP",
+        "title": "Хроники Амбера (Пятикнижие Корвина)",
+        "author": "Роджер Желязны",
+        "notes": "Девять принцев Амбера, Ружья Авалона, Знак Единорога,\nРука Оберона, Владения Хаоса",
+        "createdAt": "2018-06-04 21:25:49",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 40
+        }
+    },
     "uISdhHEoxa": {
         "id": "uISdhHEoxa",
         "title": "Цикл \"Век безумия\"",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 59
-        }
-    },
-    "K0hJhrgrsq": {
-        "id": "K0hJhrgrsq",
-        "title": "Младенец и черт",
-        "author": "Акунин Борис",
-        "notes": "ISBN: 978-5-17-048661-8, 978-5-9713-6788-8, 978-985-16-3853-2",
-        "createdAt": "2018-05-09 13:33:14",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 58
         }
     }
 }

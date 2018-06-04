@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
@@ -30,7 +31,6 @@
 * За день до послезавтра ~ [Chiffi](users/105/105831994080785626680-google)<sup>59</sup>
 * ▫Противостояние ~ [GvenVivar ](users/158/158266434925901-facebook)<sup>44</sup>
 * Мука разбитого сердца ~ [exulted](users/100/100599204551896265722-google)<sup>59</sup>
-* Младенец и черт ~ [exulted](users/100/100599204551896265722-google)<sup>58</sup>
 
 
-_04.06.2018 20:43:00_
+_04.06.2018 21:25:49_

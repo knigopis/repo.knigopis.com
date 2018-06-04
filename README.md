@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
+    > Девять принцев Амбера, Ружья Авалона, Знак Единорога,
+    > Рука Оберона, Владения Хаоса
+
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
     > Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога
 
@@ -12,8 +16,6 @@ Do not use pull requests to make changes here.
     > Чёрный человек, Чёрная сила, Чёрное время
 
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
-    > Непредвиденные встречи, Пришествие, Возвращение блудного Конструктора, 
-    > Дети Вечности, Контрразведка, Закон перемен, Абсолютный игрок, Мегаморф
 
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Стрела времени, или Природа преступления ~ [ODINSY](users/100/100978570902186865324-google)<sup>65</sup>
 
-* Технологии изменения сознания в деструктивных культах ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>39</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>40</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 21:19:53_
+_04.06.2018 21:25:49_
