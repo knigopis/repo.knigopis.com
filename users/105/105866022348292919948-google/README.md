@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>61</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>62</sup>
 ---
 
 ## 2018
@@ -227,6 +227,10 @@
 
 
 ## 2004
+
+### Великая дуга
+Иван Ефремов
+
 
 ### Звёздные войны. Эпизод VI: Возвращение джедая
 Джеймс Кан
