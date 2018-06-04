@@ -1,4 +1,16 @@
 {
+    "vWM90rH3qE": {
+        "id": "vWM90rH3qE",
+        "title": "Клиент",
+        "author": "Джон Гришэм",
+        "notes": "",
+        "createdAt": "2018-06-04 21:08:32",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 35
+        }
+    },
     "yJ4TRGOmHf": {
         "id": "yJ4TRGOmHf",
         "title": "Чужой 3",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 7
-        }
-    },
-    "gkKbdr30z6": {
-        "id": "gkKbdr30z6",
-        "title": "Цикл книг \"Одиннадцатый Легион\"",
-        "author": "Денис Юрин",
-        "notes": "Самый сердитый гном, Одиннадцатый Легион, Воскрешение,Турнир, Разведка боем, Война, Призраки подземелий, Логово врага, Наследие орков, Имперские истории, Забавы агрессоров",
-        "createdAt": "2018-06-04 20:06:28",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 6
         }
     }
 }
