@@ -1,4 +1,52 @@
 {
+    "q-zvYNvywZ": {
+        "id": "q-zvYNvywZ",
+        "title": "Дневник Мага",
+        "author": "Пауло Коэльо",
+        "notes": "",
+        "createdAt": "2018-06-04 20:26:12",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 12
+        }
+    },
+    "NM0ZPsQ5y7": {
+        "id": "NM0ZPsQ5y7",
+        "title": "Цикл \"Летописи Разлома\"",
+        "author": "Ник Перумов",
+        "notes": "Алмазный меч, деревянный меч, Дочь некроманта, Вернуть посох, \nХранитель мечей: Рождение мага, Хранитель мечей: Странствия мага,\nХранитель мечей: Одиночество мага, Война мага: Дебют,\nВойна мага: Миттельшпиль, Война мага: Эндшпиль,\nВойна мага: Конец игры",
+        "createdAt": "2018-06-04 20:20:50",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 11
+        }
+    },
+    "1cZjeu70Iz": {
+        "id": "1cZjeu70Iz",
+        "title": "Цикл \"Летописи Хьёрварда\"",
+        "author": "Ник Перумов",
+        "notes": "Гибель Богов, Воин Великой Тьмы, Земля без радости",
+        "createdAt": "2018-06-04 20:18:03",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 10
+        }
+    },
+    "G0uUoHtQ6S": {
+        "id": "G0uUoHtQ6S",
+        "title": "Трилогия \"Кольцо Тьмы\"",
+        "author": "Ник Перумов",
+        "notes": "",
+        "createdAt": "2018-06-04 20:16:43",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 9
+        }
+    },
     "9RyUiyH9NF": {
         "id": "9RyUiyH9NF",
         "title": "Падшие ангелы Мультиверсума",
@@ -309,54 +357,6 @@
             "id": "109395490138181998437-google",
             "nickname": "Vitaly",
             "booksCount": 4
-        }
-    },
-    "6jcNe9hAnS": {
-        "id": "6jcNe9hAnS",
-        "title": "Большой роман о математике",
-        "author": "Микаэль Лонэ",
-        "notes": "Эта книга – путешествие в страну МАТЕМАТИКА, в которое нас приглашает ее автор Микаэль Лонэ. Каково прошлое математики, на что будет похожа математика будущего? Никто не знает, что еще смогут открыть ученые, но точно можно сказать, что нас ждет множество сюрпризов, исследований и открытий. Прочитав эту книгу, вы поверите в то, что заниматься математикой совсем не сложно.",
-        "createdAt": "2018-05-31 11:45:06",
-        "user": {
-            "id": "109395490138181998437-google",
-            "nickname": "Vitaly",
-            "booksCount": 3
-        }
-    },
-    "FgL9-_ndc7": {
-        "id": "FgL9-_ndc7",
-        "title": "Путешествие на край ночи",
-        "author": "Луи-Фердинанд Селин",
-        "notes": "Этот роман написал человек столь же необычный, как и его книга. Врач, в течение трех лет пишущий свою первую книгу урывками, используя часы, украденные у ночи, сна, у больных и поликлиники. Писал наспех, как и жил, рассказывал о годах своей юности, о пребывании на Первой мировой войне, в Африке и Америке, о своей работе врачом в парижском пригороде - одним словом, об одиноком страннике, одержимом собственными химерами и находящемся в вечном конфликте с окружающим миром. Вышедший в 1932 году роман имел оглушительный, хотя и скандальный успех, и сразу же был переведен на многие языки. И сегодня он способен шокировать читателя правдой о войне и мире, о человеке, который, избавившись от всех иллюзий, никак не может найти себя.",
-        "createdAt": "2018-05-31 11:42:42",
-        "user": {
-            "id": "109395490138181998437-google",
-            "nickname": "Vitaly",
-            "booksCount": 2
-        }
-    },
-    "U9If9VeFEV": {
-        "id": "U9If9VeFEV",
-        "title": "The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind",
-        "author": "Марвин Мински",
-        "notes": "In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work. He argues persuasively that emotions, intuitions, and feelings are not distinct things, but different ways of thinking. \nBy examining these different forms of mind activity, Minsky says, we can explain why our thought sometimes takes the form of carefully reasoned analysis and at other times turns to emotion. He shows how our minds progress from simple, instinctive kinds of thought to more complex forms, such as consciousness or self-awareness. And he argues that because we tend to see our thinking as fragmented, we fail to appreciate what powerful thinkers we really are. Indeed, says Minsky, if thinking can be understood as the step-by-step process that it is, then we can build machines - artificial intelligences - that not only can assist with our thinking by thinking as we do but have the potential to be as conscious as we are.",
-        "createdAt": "2018-05-31 11:34:37",
-        "user": {
-            "id": "109395490138181998437-google",
-            "nickname": "Vitaly",
-            "booksCount": 1
-        }
-    },
-    "ommnKXPpxX": {
-        "id": "ommnKXPpxX",
-        "title": "В арбузном сахаре",
-        "author": "Ричард Бротиган",
-        "notes": "",
-        "createdAt": "2018-05-30 19:13:16",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 10
         }
     }
 }

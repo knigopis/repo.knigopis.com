@@ -1,6 +1,8 @@
 # List of the latest books with notes
 ---
 
+* Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
+* Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
 * Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
 * Цикл книг "Одиннадцатый Легион" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>6</sup>
 * Стрела времени, или Природа преступления ~ [ODINSY](users/100/100978570902186865324-google)<sup>65</sup>
@@ -29,8 +31,6 @@
 * Красный шторм. Октябрьская революция глазами российских историков ~ [exulted](users/100/100599204551896265722-google)<sup>56</sup>
 * Mr Mercedes (The Bill Hodges Trilogy Book 1) ~ [exulted](users/100/100599204551896265722-google)<sup>55</sup>
 * Жизнь Дэвида Копперфилда. Том 1 ~ [Garka](users/115/115753719718250012620-google)<sup>180</sup>
-* Мы ~ [rNix](users/115/115622071-twitter)<sup>63</sup>
-* Аксиомы биологии ~ [Saamy](users/115/115226508-vkontakte)<sup>47</sup>
 
 
-_04.06.2018 20:12:57_
+_04.06.2018 20:20:50_
