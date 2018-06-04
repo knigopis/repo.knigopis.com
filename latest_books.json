@@ -1,4 +1,16 @@
 {
+    "1FRN29tYj2": {
+        "id": "1FRN29tYj2",
+        "title": "Путеводитель по замку Амбер",
+        "author": "Роджер Желязны",
+        "notes": "",
+        "createdAt": "2018-06-04 21:28:05",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 42
+        }
+    },
     "oB8vRcQIVE": {
         "id": "oB8vRcQIVE",
         "title": "Хроники Амбера (Пятикнижие Мерлина)",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 14
-        }
-    },
-    "qnV3eN5c3c": {
-        "id": "qnV3eN5c3c",
-        "title": "На берегу Рио-Пьедра села я и заплакала",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-06-04 20:26:57",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 13
         }
     }
 }
