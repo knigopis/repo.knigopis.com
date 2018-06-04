@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стрела времени, или Природа преступления ~ [ODINSY](users/100/100978570902186865324-google)<sup>65</sup>
+    > Тод Френдли - палач Верхмата в Аушвице (он же Освенцим)
+
 * Технологии изменения сознания в деструктивных культах ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>159</sup>
     > Тимоти Лири, как обычно, очень велик :)
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/143797031/
 
 * Не прощаюсь ~ [En](users/333/333646551-vkontakte)<sup>46</sup>
-    > Очень интересная книга, одна из лучших в серии. на этот раз окончательна ли была смерть?
 
 * Тактика в боевых примерах: истребительная авиационная дивизия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 
-* "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>64</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>121</sup> 
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>80</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [NORDBOOK](users/325/325862222-vkontakte)<sup>15</sup> 
 
 
-_04.06.2018 08:31:09_
+_04.06.2018 09:35:44_

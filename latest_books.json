@@ -1,4 +1,16 @@
 {
+    "SzzRmFZUQj": {
+        "id": "SzzRmFZUQj",
+        "title": "Стрела времени, или Природа преступления",
+        "author": "Мартин Эмис, Анна Асланян",
+        "notes": "Тод Френдли - палач Верхмата в Аушвице (он же Освенцим)",
+        "createdAt": "2018-06-04 09:35:44",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 65
+        }
+    },
     "rEUBTXFJn8": {
         "id": "rEUBTXFJn8",
         "title": "Эти странные шведы",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 123
-        }
-    },
-    "FOcll7Uy5J": {
-        "id": "FOcll7Uy5J",
-        "title": "Подземелья Ватикана",
-        "author": "Андре Жид",
-        "notes": "",
-        "createdAt": "2018-05-28 11:15:56",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 622
         }
     }
 }
