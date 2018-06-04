@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>46</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>47</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2006
+
+### Звезда сироты
+Алан Дин Фостер
+
 
 ### Тар-Айимский кранг
 Алан Дин Фостер

@@ -1,4 +1,16 @@
 {
+    "gDF8BdMfu3": {
+        "id": "gDF8BdMfu3",
+        "title": "Звезда сироты",
+        "author": "Алан Дин Фостер",
+        "notes": "",
+        "createdAt": "2018-06-04 21:42:13",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 47
+        }
+    },
     "JCLiRLKBvz": {
         "id": "JCLiRLKBvz",
         "title": "Тар-Айимский кранг",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 20
-        }
-    },
-    "fE3z9sealZ": {
-        "id": "fE3z9sealZ",
-        "title": "Одиннадцать минут",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-06-04 20:28:34",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 19
         }
     }
 }
