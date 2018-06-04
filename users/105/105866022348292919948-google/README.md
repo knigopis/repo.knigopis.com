@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>59</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>60</sup>
 ---
 
 ## 2018
@@ -298,6 +298,10 @@
 
 
 ## 2000
+
+### Робинзон Крузо
+Даниэль Дэфо
+
 
 ### Пятнадцатилетний капитан
 Жюль Верн
