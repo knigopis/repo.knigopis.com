@@ -1,4 +1,16 @@
 {
+    "v8mydk6m9I": {
+        "id": "v8mydk6m9I",
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "notes": "",
+        "createdAt": "2018-06-04 22:15:06",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 63
+        }
+    },
     "R16ko8p2Wa": {
         "id": "R16ko8p2Wa",
         "title": "Великая дуга",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 34
-        }
-    },
-    "lqQ6jtVXng": {
-        "id": "lqQ6jtVXng",
-        "title": "Чужие",
-        "author": "Алан Дин Фостер",
-        "notes": "",
-        "createdAt": "2018-06-04 21:07:31",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 33
         }
     }
 }
