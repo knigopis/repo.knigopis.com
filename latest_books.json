@@ -1,4 +1,16 @@
 {
+    "M5f6KLf-Vo": {
+        "id": "M5f6KLf-Vo",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-06-04 20:27:20",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 15
+        }
+    },
     "wgY6UQZQTs": {
         "id": "wgY6UQZQTs",
         "title": "Вероника решает умереть",
@@ -345,18 +357,6 @@
             "id": "109395490138181998437-google",
             "nickname": "Vitaly",
             "booksCount": 4
-        }
-    },
-    "6amPPMUgGK": {
-        "id": "6amPPMUgGK",
-        "title": "След смерти",
-        "author": "Блейк Пирс",
-        "notes": "",
-        "createdAt": "2018-05-31 14:37:24",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 124
         }
     }
 }
