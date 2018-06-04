@@ -1,4 +1,16 @@
 {
+    "KW5twUqTLj": {
+        "id": "KW5twUqTLj",
+        "title": "Дайте им умереть",
+        "author": "Генри Лайон Олди",
+        "notes": "",
+        "createdAt": "2018-06-04 21:46:44",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 51
+        }
+    },
     "jYkZbWgyK4": {
         "id": "jYkZbWgyK4",
         "title": "Путь меча",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 24
-        }
-    },
-    "uISdhHEoxa": {
-        "id": "uISdhHEoxa",
-        "title": "Цикл \"Век безумия\"",
-        "author": "Грегори Киз",
-        "notes": "Пушка Ньютона, Исчисление ангелов, Империя хаоса, Тени Бога",
-        "createdAt": "2018-06-04 20:43:00",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 23
         }
     }
 }
