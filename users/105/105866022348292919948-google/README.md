@@ -1,4 +1,4 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>38</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>39</sup>
 ---
 
 ## 2018
@@ -162,6 +162,10 @@
 
 
 ## 2004
+
+### Звёздные войны. Эпизод VI: Возвращение джедая
+Джеймс Кан
+
 
 ### Звёздные войны. Эпизод V: Империя наносит ответный удар
 Джордж Лукас

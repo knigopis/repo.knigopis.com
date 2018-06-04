@@ -1,4 +1,16 @@
 {
+    "bfvD1V-M7e": {
+        "id": "bfvD1V-M7e",
+        "title": "Звёздные войны. Эпизод VI: Возвращение джедая",
+        "author": "Джеймс Кан",
+        "notes": "",
+        "createdAt": "2018-06-04 21:19:53",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 39
+        }
+    },
     "4xbcu3xwjm": {
         "id": "4xbcu3xwjm",
         "title": "Звёздные войны. Эпизод V: Империя наносит ответный удар",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 11
-        }
-    },
-    "1cZjeu70Iz": {
-        "id": "1cZjeu70Iz",
-        "title": "Цикл \"Летописи Хьёрварда\"",
-        "author": "Ник Перумов",
-        "notes": "Гибель Богов, Воин Великой Тьмы, Земля без радости",
-        "createdAt": "2018-06-04 20:18:03",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 10
         }
     }
 }
