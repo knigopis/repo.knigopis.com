@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
+    > Рыцарь из ниоткуда, Летающие острова, Нечаянный король, Железные паруса, По ту сторону льда, 
+    > Чужие берега, Чужие паруса, Чужие зеркала,
+    > Пленник Короны, Враг Короны, Спаситель Короны
+
 * Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
     > Алмазный меч, деревянный меч, Дочь некроманта, Вернуть посох, 
     > Хранитель мечей: Рождение мага, Хранитель мечей: Странствия мага,
@@ -16,7 +21,6 @@ Do not use pull requests to make changes here.
     > Гибель Богов, Воин Великой Тьмы, Земля без радости
 
 * Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
-    > Трилогии: Темный эльф, Долина Ледяного Ветра, Наследие Дроу, Тропы тьмы, Клинки охотника, Наемные клинки, Переходы, Невервинтер,
 
 * Цикл книг "Одиннадцатый Легион" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>6</sup>
 
@@ -30,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Тактика в боевых примерах: истребительная авиационная дивизия ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>157</sup>
 
-* Занимательное облаковедение ~ [Saamy](users/115/115226508-vkontakte)<sup>48</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>19</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>20</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_04.06.2018 20:28:34_
+_04.06.2018 20:36:30_
