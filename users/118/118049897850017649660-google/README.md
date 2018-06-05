@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>81</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>82</sup>
 ---
 
 ## 2018
+
+### Пять благоприятных облаков
+Роберт ван Гулик
+> [2018-06-04] 
+
 
 ### Золото Будды
 Роберт ван Гулик
