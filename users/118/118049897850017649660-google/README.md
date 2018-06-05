@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>80</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>81</sup>
 ---
 
 ## 2018
+
+### Золото Будды
+Роберт ван Гулик
+> [2018-06-03] 
+
 
 ### Кармилла
 Шеридан Ле Фаню

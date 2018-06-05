@@ -1,4 +1,16 @@
 {
+    "tRcykNNF7u": {
+        "id": "tRcykNNF7u",
+        "title": "Золото Будды",
+        "author": "Роберт ван Гулик",
+        "notes": "",
+        "createdAt": "2018-06-05 09:19:55",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 81
+        }
+    },
     "2mDi9aRcHm": {
         "id": "2mDi9aRcHm",
         "title": "Сказка о тройке",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 40
-        }
-    },
-    "bfvD1V-M7e": {
-        "id": "bfvD1V-M7e",
-        "title": "Звёздные войны. Эпизод VI: Возвращение джедая",
-        "author": "Джеймс Кан",
-        "notes": "",
-        "createdAt": "2018-06-04 21:19:53",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 39
         }
     }
 }
