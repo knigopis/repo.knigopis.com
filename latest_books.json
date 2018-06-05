@@ -1,4 +1,16 @@
 {
+    "nbw9X7chMv": {
+        "id": "nbw9X7chMv",
+        "title": "Он приходил с дождем",
+        "author": "Роберт ван Гулик",
+        "notes": "",
+        "createdAt": "2018-06-05 09:21:27",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 84
+        }
+    },
     "6IM1veKEhx": {
         "id": "6IM1veKEhx",
         "title": "Канцелярская тесьма",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 43
-        }
-    },
-    "1FRN29tYj2": {
-        "id": "1FRN29tYj2",
-        "title": "Путеводитель по замку Амбер",
-        "author": "Роджер Желязны",
-        "notes": "",
-        "createdAt": "2018-06-04 21:28:05",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 42
         }
     }
 }
