@@ -1,4 +1,16 @@
 {
+    "6IM1veKEhx": {
+        "id": "6IM1veKEhx",
+        "title": "Канцелярская тесьма",
+        "author": "Роберт ван Гулик",
+        "notes": "",
+        "createdAt": "2018-06-05 09:21:01",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 83
+        }
+    },
     "DW-Ucg0JAY": {
         "id": "DW-Ucg0JAY",
         "title": "Пять благоприятных облаков",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 42
-        }
-    },
-    "oB8vRcQIVE": {
-        "id": "oB8vRcQIVE",
-        "title": "Хроники Амбера (Пятикнижие Мерлина)",
-        "author": "Роджер Желязны",
-        "notes": "Карты судьбы, Кровь Амбера, Знак Хаоса, \nРыцарь Теней, Принц Хаоса",
-        "createdAt": "2018-06-04 21:27:11",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 41
         }
     }
 }

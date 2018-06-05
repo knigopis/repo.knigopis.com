@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>82</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>83</sup>
 ---
 
 ## 2018
+
+### Канцелярская тесьма
+Роберт ван Гулик
+> [2018-06-04] 
+
 
 ### Пять благоприятных облаков
 Роберт ван Гулик
