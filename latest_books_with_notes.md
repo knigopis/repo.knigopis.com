@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
 * Чайка по имени Джонатан Ливингстон ~ [Chandravadana](users/105/105866022348292919948-google)<sup>66</sup>
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
 * Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
@@ -30,7 +31,6 @@
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
 * История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
-* Истории про еду ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>154</sup>
 
 
-_04.06.2018 22:31:05_
+_06.06.2018 12:34:29_
