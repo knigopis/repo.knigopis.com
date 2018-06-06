@@ -1,4 +1,16 @@
 {
+    "E3O2T6u9V7": {
+        "id": "E3O2T6u9V7",
+        "title": "Водяная бездна",
+        "author": "Мадлен Л’Энгл",
+        "notes": "",
+        "createdAt": "2018-06-06 06:48:42",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 627
+        }
+    },
     "nbw9X7chMv": {
         "id": "nbw9X7chMv",
         "title": "Он приходил с дождем",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 44
-        }
-    },
-    "zNtErGqaPj": {
-        "id": "zNtErGqaPj",
-        "title": "Цикл \"Эдем\"",
-        "author": "Гарри Гаррисон",
-        "notes": "Запад Эдема, Зима в Эдеме, Возвращение в Эдем",
-        "createdAt": "2018-06-04 21:31:40",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 43
         }
     }
 }

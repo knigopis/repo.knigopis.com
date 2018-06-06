@@ -39,9 +39,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>627</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>84</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>626</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>43</sup> 
 
 
-_05.06.2018 09:21:27_
+_06.06.2018 06:48:42_
