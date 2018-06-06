@@ -1,4 +1,16 @@
 {
+    "Z54ZMjRZnd": {
+        "id": "Z54ZMjRZnd",
+        "title": "Прокотиков. Сборник рассказов",
+        "author": "Макс Фрай и др. авторы",
+        "notes": "",
+        "createdAt": "2018-06-06 08:01:58",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 38
+        }
+    },
     "E3O2T6u9V7": {
         "id": "E3O2T6u9V7",
         "title": "Водяная бездна",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 45
-        }
-    },
-    "S5DNInCUw7": {
-        "id": "S5DNInCUw7",
-        "title": "Заповедник гоблинов",
-        "author": "Клиффорд Саймак",
-        "notes": "",
-        "createdAt": "2018-06-04 21:34:51",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 44
         }
     }
 }
