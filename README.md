@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ogrvat](users/112/112423727137570080740-google)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>627</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>84</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Nligoksar](users/114/114047334060763798292-google)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 [violet_velva](users/116/116961712580551399099-google)<sup>5</sup> 
-[geyski](users/221/221959664-vkontakte)<sup>146</sup> 
 
 
-_06.06.2018 08:01:58_
+_06.06.2018 09:03:55_
