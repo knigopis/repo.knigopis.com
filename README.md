@@ -41,10 +41,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>628</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>627</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>84</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 
 
-_06.06.2018 12:34:29_
+_07.06.2018 05:33:50_

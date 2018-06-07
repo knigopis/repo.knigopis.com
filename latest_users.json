@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 628,
+        "updatedAt": "2018-06-07 05:33:50"
+    },
     "115622071-twitter": {
         "id": "115622071-twitter",
         "nickname": "rNix",
@@ -16,12 +22,6 @@
         "nickname": "Eji_tyan",
         "booksCount": 38,
         "updatedAt": "2018-06-06 08:01:58"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 627,
-        "updatedAt": "2018-06-06 06:48:42"
     },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
