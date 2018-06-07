@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>122</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>628</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>121</sup> 
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 
 
-_07.06.2018 05:33:50_
+_07.06.2018 11:02:04_
