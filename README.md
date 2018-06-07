@@ -41,8 +41,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>629</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>122</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>628</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 
 
-_07.06.2018 11:02:04_
+_07.06.2018 17:45:54_
