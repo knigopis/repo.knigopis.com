@@ -1,4 +1,16 @@
 {
+    "vbWWfmUhf7": {
+        "id": "vbWWfmUhf7",
+        "title": "Исповедь (ч1)",
+        "author": "Лев Толстой",
+        "notes": "",
+        "createdAt": "2018-06-08 11:57:36",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 123
+        }
+    },
     "1qvPrY3qOQ": {
         "id": "1qvPrY3qOQ",
         "title": "Сердца трех",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 51
-        }
-    },
-    "jYkZbWgyK4": {
-        "id": "jYkZbWgyK4",
-        "title": "Путь меча",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2018-06-04 21:46:27",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 50
         }
     }
 }
