@@ -1,4 +1,16 @@
 {
+    "A2L-oOjVkx": {
+        "id": "A2L-oOjVkx",
+        "title": "Маленькая хозяйка большого дома",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-06-09 06:03:11",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 85
+        }
+    },
     "vbWWfmUhf7": {
         "id": "vbWWfmUhf7",
         "title": "Исповедь (ч1)",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 52
-        }
-    },
-    "KW5twUqTLj": {
-        "id": "KW5twUqTLj",
-        "title": "Дайте им умереть",
-        "author": "Генри Лайон Олди",
-        "notes": "",
-        "createdAt": "2018-06-04 21:46:44",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 51
         }
     }
 }

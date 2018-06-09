@@ -41,6 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>629</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
@@ -70,7 +71,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
 [Nligoksar](users/114/114047334060763798292-google)<sup>0</sup> 
-[sonics](users/588/5880221-vkontakte)<sup>55</sup> 
 
 
-_08.06.2018 11:57:36_
+_09.06.2018 06:03:12_
