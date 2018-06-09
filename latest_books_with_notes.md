@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Боги среди людей ~ [Chiffi](users/105/105831994080785626680-google)<sup>60</sup>
 * Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
 * Чайка по имени Джонатан Ливингстон ~ [Chandravadana](users/105/105866022348292919948-google)<sup>66</sup>
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
@@ -30,7 +31,6 @@
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
 * "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 * "Стрелок" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>13</sup>
-* История будущего ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>155</sup>
 
 
-_06.06.2018 12:34:29_
+_09.06.2018 17:28:46_

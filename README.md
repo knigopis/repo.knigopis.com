@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Боги среди людей ~ [Chiffi](users/105/105831994080785626680-google)<sup>60</sup>
+    > Продолжение? / вторая половина книги Жизнь после жизни
+
 * Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
     > Это книга, в которой показано, как главный герой переживает свой судебный процесс в немного сюрреалистическом мире. При этом ни главному герою, ни читателю не дают привычной информации об этом процессе. Стоит отметить, что произведение не было закончено самим автором, но, тем не менее, концовка есть, при этом она проясняет существенные детали процесса.
     > 
@@ -17,10 +20,6 @@ Do not use pull requests to make changes here.
     > Гарри Поттер и Дары Смерти
 
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
-    > Гарри Поттер и философский камень, Гарри Поттер и Тайная комната, 
-    > Гарри Поттер и узник Азкабана, Гарри Поттер и Кубок огня,
-    > Гарри Поттер и Орден Феникса, Гарри Поттер и Принц-полукровка,
-    > Гарри Поттер и Дары Смерти
 
 * Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
 
@@ -34,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
 
-* Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>123</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>629</sup> 
@@ -70,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 [polzol](users/282/282894213-vkontakte)<sup>0</sup> 
-[Nligoksar](users/114/114047334060763798292-google)<sup>0</sup> 
 
 
-_09.06.2018 06:03:12_
+_09.06.2018 17:28:46_

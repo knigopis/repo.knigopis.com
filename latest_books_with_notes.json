@@ -1,4 +1,16 @@
 {
+    "RYWiRImL95": {
+        "id": "RYWiRImL95",
+        "title": "Боги среди людей",
+        "author": "Аткинсон Кейт",
+        "notes": "Продолжение? / вторая половина книги Жизнь после жизни",
+        "createdAt": "2018-06-09 17:28:46",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 60
+        }
+    },
     "uWjWKC05ZP": {
         "id": "uWjWKC05ZP",
         "title": "Процесс",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "NORDBOOK",
             "booksCount": 13
-        }
-    },
-    "GdtS4ABK4E": {
-        "id": "GdtS4ABK4E",
-        "title": "История будущего",
-        "author": "Тимоти Лири",
-        "notes": "в процессе\n\nhttp://www.leary.ru/books/future/",
-        "createdAt": "2018-05-17 18:32:50",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 155
         }
     }
 }
