@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>84</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>85</sup>
 ---
 
 ## 2018
+
+### Лакированная ширма
+Роберт ван Гулик
+> [2018-06-09] 
+
 
 ### Он приходил с дождем
 Роберт ван Гулик
