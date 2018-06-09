@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[andjuy](users/108/108129283845610670068-google)<sup>0</sup> 
+[andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>85</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Артур Вольнов](users/225/225880893-vkontakte)<sup>14</sup> 
 
 
-_09.06.2018 21:55:07_
+_09.06.2018 21:56:03_

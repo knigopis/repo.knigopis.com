@@ -1,4 +1,16 @@
 {
+    "cgsr6SbUyq": {
+        "id": "cgsr6SbUyq",
+        "title": "Тайный дневник Адриана Моула",
+        "author": "Сью Таунсенд",
+        "notes": "",
+        "createdAt": "2018-06-09 21:56:03",
+        "user": {
+            "id": "108129283845610670068-google",
+            "nickname": "andjuy",
+            "booksCount": 1
+        }
+    },
     "9Otwpk08x_": {
         "id": "9Otwpk08x_",
         "title": "Лакированная ширма",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 55
-        }
-    },
-    "50BASqOmyz": {
-        "id": "50BASqOmyz",
-        "title": "Двадцать лет спустя",
-        "author": "Александр Дюма",
-        "notes": "",
-        "createdAt": "2018-06-04 21:51:54",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 54
         }
     }
 }
