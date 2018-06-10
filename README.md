@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
+    > Кирсан Кайфат, Владыка Сардуора, попаданец, маг, исследователь, Владыка, мощно
+
 * Проект Альверон ~ [Tr](users/122/12282474-vkontakte)<sup>64</sup>
     > Уже и не помню про что там было...
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Литрпг. Простенько, задорно
 
 * Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
-    > Девушка контрабандист на Луне
-    > Юморно
 
 * Объектный подход 1,2 ~ [Tr](users/122/12282474-vkontakte)<sup>60</sup>
 
@@ -28,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
 
-* Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>64</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>65</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>85</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
@@ -67,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 
 
-_10.06.2018 01:03:45_
+_10.06.2018 01:07:07_
