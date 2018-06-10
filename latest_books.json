@@ -1,4 +1,16 @@
 {
+    "XLUoCHwE7M": {
+        "id": "XLUoCHwE7M",
+        "title": "Хроники Нарнии (серия книг)",
+        "author": "Клайв Стэйплз Льюис",
+        "notes": "Книга-образ",
+        "createdAt": "2018-06-10 17:44:38",
+        "user": {
+            "id": "108299972186011003122-google",
+            "nickname": "Минору",
+            "booksCount": 4
+        }
+    },
     "i0iTn2Yao0": {
         "id": "i0iTn2Yao0",
         "title": "Царь-рыба",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 81
-        }
-    },
-    "2mDi9aRcHm": {
-        "id": "2mDi9aRcHm",
-        "title": "Сказка о тройке",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2018-06-04 22:36:39",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 68
         }
     }
 }
