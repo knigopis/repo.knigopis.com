@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>66</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>85</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
 [hybridtheory92](users/288/28885974-vkontakte)<sup>4</sup> 
-[M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 
 
-_10.06.2018 03:09:06_
+_10.06.2018 12:02:10_

@@ -1,7 +1,12 @@
-# List of books read by [mavrentik](http://vk.com/id200666735)<sup>14</sup>
+# List of books read by [mavrentik](http://vk.com/id200666735)<sup>15</sup>
 ---
 
 ## 2018
+
+### Гарри Поттер и Принц-полукровка
+Джоан Кэтлин Роулинг
+> [2018-06-08] 
+
 
 ### Гарри Поттер и Орден Феникса
 Джоан Роулинг

@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 15,
+        "updatedAt": "2018-06-10 12:02:10"
+    },
     "12282474-vkontakte": {
         "id": "12282474-vkontakte",
         "nickname": "Tr",
@@ -172,11 +178,5 @@
         "nickname": "hybridtheory92",
         "booksCount": 4,
         "updatedAt": "2018-05-24 07:36:09"
-    },
-    "101892939810731181399-google": {
-        "id": "101892939810731181399-google",
-        "nickname": "M.Schwan ",
-        "booksCount": 39,
-        "updatedAt": "2018-05-21 21:08:57"
     }
 }
