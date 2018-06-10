@@ -1,4 +1,16 @@
 {
+    "i0iTn2Yao0": {
+        "id": "i0iTn2Yao0",
+        "title": "Царь-рыба",
+        "author": "Астафьев",
+        "notes": "Мораль. Надо разбираться.",
+        "createdAt": "2018-06-10 17:43:14",
+        "user": {
+            "id": "108299972186011003122-google",
+            "nickname": "Минору",
+            "booksCount": 3
+        }
+    },
     "mBCQYbAAAq": {
         "id": "mBCQYbAAAq",
         "title": "А зори здесь тихие...",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 68
-        }
-    },
-    "Qh0erAKLvT": {
-        "id": "Qh0erAKLvT",
-        "title": "Понедельник начинается в субботу",
-        "author": "Братья Стругацкие",
-        "notes": "",
-        "createdAt": "2018-06-04 22:36:20",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 67
         }
     }
 }
