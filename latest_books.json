@@ -1,4 +1,16 @@
 {
+    "ElagRFBBJV": {
+        "id": "ElagRFBBJV",
+        "title": "Браслеты Скорби ((Серия: Двурожденные 3/3?)",
+        "author": "Брендон Сандерсон",
+        "notes": "",
+        "createdAt": "2018-06-10 18:05:58",
+        "user": {
+            "id": "152488954-vkontakte",
+            "nickname": "kasikandriena",
+            "booksCount": 45
+        }
+    },
     "RB-0T8W1wN": {
         "id": "RB-0T8W1wN",
         "title": "Последний день приговоренного к смерти",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 83
-        }
-    },
-    "DW-Ucg0JAY": {
-        "id": "DW-Ucg0JAY",
-        "title": "Пять благоприятных облаков",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-06-05 09:20:35",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 82
         }
     }
 }

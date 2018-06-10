@@ -1,4 +1,10 @@
 {
+    "152488954-vkontakte": {
+        "id": "152488954-vkontakte",
+        "nickname": "kasikandriena",
+        "booksCount": 45,
+        "updatedAt": "2018-06-10 18:05:58"
+    },
     "108299972186011003122-google": {
         "id": "108299972186011003122-google",
         "nickname": "Минору",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 48,
         "updatedAt": "2018-05-27 08:08:44"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 62,
-        "updatedAt": "2018-05-26 07:57:35"
     }
 }

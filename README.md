@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>630</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>62</sup> 
 
 
-_10.06.2018 17:45:48_
+_10.06.2018 18:05:58_

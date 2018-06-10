@@ -1,7 +1,12 @@
-# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>44</sup>
+# List of books read by [kasikandriena](http://vk.com/id152488954)<sup>45</sup>
 ---
 
 ## 2018
+
+### Браслеты Скорби ((Серия: Двурожденные 3/3?)
+Брендон Сандерсон
+> [2018-05-18] 
+
 
 ### Тени истины (Серия: Двурожденные 2/3?)
 Брендон Сандерсон
