@@ -1,4 +1,16 @@
 {
+    "XgNgug_HF4": {
+        "id": "XgNgug_HF4",
+        "title": "Пейзаж, нарисованный чаем",
+        "author": "Милорад Павич",
+        "notes": "",
+        "createdAt": "2018-06-10 13:14:48",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 630
+        }
+    },
     "kZ3c3fKMrU": {
         "id": "kZ3c3fKMrU",
         "title": "Гарри Поттер и Принц-полукровка",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 65
-        }
-    },
-    "ILsrr026-F": {
-        "id": "ILsrr026-F",
-        "title": "Два капитана",
-        "author": "Вениамин Каверин",
-        "notes": "",
-        "createdAt": "2018-06-04 22:25:35",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 64
         }
     }
 }
