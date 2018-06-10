@@ -1,4 +1,16 @@
 {
+    "fT8RmIoQnK": {
+        "id": "fT8RmIoQnK",
+        "title": "Объектный подход 1,2",
+        "author": "Ароматов Руслан",
+        "notes": "Дэн, Тинлиин, Кириелла, попаданец в другие миры, схождение 4 миров, реконструктор\nНичего примечательного",
+        "createdAt": "2018-06-10 00:52:18",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 60
+        }
+    },
     "RYWiRImL95": {
         "id": "RYWiRImL95",
         "title": "Боги среди людей",
@@ -345,18 +357,6 @@
             "id": "325862222-vkontakte",
             "nickname": "NORDBOOK",
             "booksCount": 14
-        }
-    },
-    "xNfWGSXlSo": {
-        "id": "xNfWGSXlSo",
-        "title": "\"Стрелок\"",
-        "author": "Стивен Кинг",
-        "notes": "Цикл \"Тёмная Башня\"",
-        "createdAt": "2018-05-18 21:11:30",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "NORDBOOK",
-            "booksCount": 13
         }
     }
 }
