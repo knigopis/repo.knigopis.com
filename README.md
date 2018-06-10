@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Минору](users/108/108299972186011003122-google)<sup>4</sup> 
+[Минору](users/108/108299972186011003122-google)<sup>5</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>630</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>66</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>62</sup> 
 
 
-_10.06.2018 17:44:38_
+_10.06.2018 17:45:48_

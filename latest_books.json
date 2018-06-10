@@ -1,4 +1,16 @@
 {
+    "RB-0T8W1wN": {
+        "id": "RB-0T8W1wN",
+        "title": "Последний день приговоренного к смерти",
+        "author": "Виктор Гюго",
+        "notes": "Глубокая и смелая мысль. Уважение автору. Пробирает.",
+        "createdAt": "2018-06-10 17:45:48",
+        "user": {
+            "id": "108299972186011003122-google",
+            "nickname": "Минору",
+            "booksCount": 5
+        }
+    },
     "XLUoCHwE7M": {
         "id": "XLUoCHwE7M",
         "title": "Хроники Нарнии (серия книг)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 82
-        }
-    },
-    "tRcykNNF7u": {
-        "id": "tRcykNNF7u",
-        "title": "Золото Будды",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-06-05 09:19:55",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 81
         }
     }
 }
