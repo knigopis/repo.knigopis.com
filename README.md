@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
+    > Книга о лейтенанте Заднеумов Крепкий, которому необходимо не дать превосходящим силам противника перейти брод. В основе лежит тактика save&load, по которой лейтенанта дрючат до тех пор, пока он не освоит уроки. Прообраз гадюкинского моста и Грани Будущего
+
 * Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
     > Кирсан Кайфат, Владыка Сардуора, попаданец, маг, исследователь, Владыка, мощно
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Уже и не помню про что там было...
 
 * Бегающий Сейф ~ [Tr](users/122/12282474-vkontakte)<sup>62</sup>
-    > Мотя, леголас, таблеткин
-    > Литрпг. Простенько, задорно
 
 * Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
 
@@ -27,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
 
-* Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>65</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>66</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>85</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 
 
-_10.06.2018 01:07:07_
+_10.06.2018 03:09:06_
