@@ -1,4 +1,16 @@
 {
+    "3YN06221MK": {
+        "id": "3YN06221MK",
+        "title": "Артемида",
+        "author": "Энди Вейер",
+        "notes": "Девушка контрабандист на Луне\nЮморно",
+        "createdAt": "2018-06-10 00:53:28",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 61
+        }
+    },
     "fT8RmIoQnK": {
         "id": "fT8RmIoQnK",
         "title": "Объектный подход 1,2",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 56
-        }
-    },
-    "qRGkXNrfAx": {
-        "id": "qRGkXNrfAx",
-        "title": "\"Извлечение троих\"",
-        "author": "Стивен Кинг",
-        "notes": "Цикл \"Тёмная Башня\".",
-        "createdAt": "2018-05-18 21:11:55",
-        "user": {
-            "id": "325862222-vkontakte",
-            "nickname": "NORDBOOK",
-            "booksCount": 14
         }
     }
 }

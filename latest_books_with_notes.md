@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
 * Объектный подход 1,2 ~ [Tr](users/122/12282474-vkontakte)<sup>60</sup>
 * Боги среди людей ~ [Chiffi](users/105/105831994080785626680-google)<sup>60</sup>
 * Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Жизнь Дэвида Копперфилда. Том 2 ~ [Garka](users/115/115753719718250012620-google)<sup>181</sup>
 * Бизнес-процессы. Моделирование, внедрение, управление ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>156</sup>
 * Другая судьба ~ [sonics](users/588/5880221-vkontakte)<sup>56</sup>
-* "Извлечение троих" ~ [NORDBOOK](users/325/325862222-vkontakte)<sup>14</sup>
 
 
-_10.06.2018 00:52:18_
+_10.06.2018 00:53:28_
