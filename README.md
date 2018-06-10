@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tr](users/122/12282474-vkontakte)<sup>62</sup> 
+[Tr](users/122/12282474-vkontakte)<sup>63</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>85</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [M.Schwan ](users/101/101892939810731181399-google)<sup>39</sup> 
 
 
-_10.06.2018 00:57:23_
+_10.06.2018 00:59:05_
