@@ -1,4 +1,16 @@
 {
+    "9BInvcMMuh": {
+        "id": "9BInvcMMuh",
+        "title": "Бегающий Сейф",
+        "author": "Вишневский Сергей Викторович",
+        "notes": "Мотя, леголас, таблеткин\nЛитрпг. Простенько, задорно",
+        "createdAt": "2018-06-10 00:57:23",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 62
+        }
+    },
     "3YN06221MK": {
         "id": "3YN06221MK",
         "title": "Артемида",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 59
-        }
-    },
-    "29Lc_141Wx": {
-        "id": "29Lc_141Wx",
-        "title": "Дети капитана Гранта. Путешествие вокруг света",
-        "author": "Жюль Верн",
-        "notes": "",
-        "createdAt": "2018-06-04 21:57:16",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 58
         }
     }
 }
