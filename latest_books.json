@@ -1,4 +1,16 @@
 {
+    "ilxoxhHmpO": {
+        "id": "ilxoxhHmpO",
+        "title": "Процес",
+        "author": "Ф. Кафка",
+        "notes": "",
+        "createdAt": "2018-06-11 14:06:27",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 42
+        }
+    },
     "-sjjnobGts": {
         "id": "-sjjnobGts",
         "title": "Над пропастью во ржи",
@@ -345,18 +357,6 @@
             "id": "115622071-twitter",
             "nickname": "rNix",
             "booksCount": 64
-        }
-    },
-    "Ul_3dlaQmz": {
-        "id": "Ul_3dlaQmz",
-        "title": "Основы T-SQL 2012",
-        "author": "Ицик Бен-Ган",
-        "notes": "",
-        "createdAt": "2018-06-06 09:05:25",
-        "user": {
-            "id": "112423727137570080740-google",
-            "nickname": "ogrvat",
-            "booksCount": 1
         }
     }
 }
