@@ -1,4 +1,4 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>42</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>43</sup>
 ---
 
 ## 2018
@@ -16,6 +16,11 @@
 ### Процесс
 Ф. Кафка
 > [2018-05] 
+
+
+### ЛСД - Мой трудный ребёнок
+А. Хофманн
+> [2018-04] 
 
 
 ### Автостопом по Галактике
