@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>310</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>311</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>630</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>48</sup> 
 
 
-_11.06.2018 12:35:36_
+_11.06.2018 12:36:03_
