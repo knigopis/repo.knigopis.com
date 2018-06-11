@@ -1,4 +1,16 @@
 {
+    "DR6OyEOv_4": {
+        "id": "DR6OyEOv_4",
+        "title": "Летос",
+        "author": "Алексей Пехов",
+        "notes": "",
+        "createdAt": "2018-06-11 12:35:36",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 310
+        }
+    },
     "ElagRFBBJV": {
         "id": "ElagRFBBJV",
         "title": "Браслеты Скорби ((Серия: Двурожденные 3/3?)",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 84
-        }
-    },
-    "6IM1veKEhx": {
-        "id": "6IM1veKEhx",
-        "title": "Канцелярская тесьма",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-06-05 09:21:01",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 83
         }
     }
 }
