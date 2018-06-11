@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
+    > Нууу... Ожидала либо чего-то интересного о советском общепите/блюдах, либо чего-то связанного с юмором. Не получила ни того, ни другого. Все пресно, и скучно.
+
 * Вещие сестрички ~ [Garka](users/115/115753719718250012620-google)<sup>183</sup>
     > Еще одна книга вселенной Плоского мира, на этот раз главные действующие лица ведьмы. Показалась чуть скучнее предыдущих  книг, но все равно на высоком уровне.
 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.livelib.ru/series/798375-sokrovischa-valkirii
 
 * Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
-    > Книга о лейтенанте Заднеумов Крепкий, которому необходимо не дать превосходящим силам противника перейти брод. В основе лежит тактика save&load, по которой лейтенанта дрючат до тех пор, пока он не освоит уроки. Прообраз гадюкинского моста и Грани Будущего
 
 * Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
 
@@ -28,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Боги среди людей ~ [Chiffi](users/105/105831994080785626680-google)<sup>60</sup>
 
-* Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Garka](users/115/115753719718250012620-google)<sup>183</sup> 
+[Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>43</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>311</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
 
 
-_11.06.2018 17:27:15_
+_11.06.2018 17:34:19_
