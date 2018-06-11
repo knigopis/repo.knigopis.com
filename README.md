@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[M.Schwan ](users/101/101892939810731181399-google)<sup>40</sup> 
+[M.Schwan ](users/101/101892939810731181399-google)<sup>41</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>311</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zakharov22](users/180/180565009-vkontakte)<sup>0</sup> 
 
 
-_11.06.2018 14:04:28_
+_11.06.2018 14:05:55_

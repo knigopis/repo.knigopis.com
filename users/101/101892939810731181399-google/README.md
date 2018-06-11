@@ -1,7 +1,12 @@
-# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>40</sup>
+# List of books read by [M.Schwan ](https://vk.com/dasdog)<sup>41</sup>
 ---
 
 ## 2018
+
+### Над пропастью во ржи
+Д. Сэлинджер
+> [2018-06] 
+
 
 ### Прыг-Скок
 А.Э.По

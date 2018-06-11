@@ -1,4 +1,16 @@
 {
+    "-sjjnobGts": {
+        "id": "-sjjnobGts",
+        "title": "Над пропастью во ржи",
+        "author": "Д. Сэлинджер",
+        "notes": "",
+        "createdAt": "2018-06-11 14:05:54",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 41
+        }
+    },
     "8D75f73mPY": {
         "id": "8D75f73mPY",
         "title": "Прыг-Скок",
@@ -345,18 +357,6 @@
             "id": "112423727137570080740-google",
             "nickname": "ogrvat",
             "booksCount": 1
-        }
-    },
-    "Z54ZMjRZnd": {
-        "id": "Z54ZMjRZnd",
-        "title": "Прокотиков. Сборник рассказов",
-        "author": "Макс Фрай и др. авторы",
-        "notes": "",
-        "createdAt": "2018-06-06 08:01:58",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 38
         }
     }
 }
