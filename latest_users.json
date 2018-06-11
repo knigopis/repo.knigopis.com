@@ -1,4 +1,10 @@
 {
+    "12601720503917094896-mailru": {
+        "id": "12601720503917094896-mailru",
+        "nickname": "Neccochi",
+        "booksCount": 49,
+        "updatedAt": "2018-06-11 14:18:03"
+    },
     "101892939810731181399-google": {
         "id": "101892939810731181399-google",
         "nickname": "M.Schwan ",
@@ -172,11 +178,5 @@
         "nickname": "En",
         "booksCount": 46,
         "updatedAt": "2018-05-28 10:22:03"
-    },
-    "180565009-vkontakte": {
-        "id": "180565009-vkontakte",
-        "nickname": "zakharov22",
-        "booksCount": 0,
-        "updatedAt": "2018-05-27 11:45:22"
     }
 }
