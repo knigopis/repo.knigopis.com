@@ -1,4 +1,10 @@
 {
+    "101892939810731181399-google": {
+        "id": "101892939810731181399-google",
+        "nickname": "M.Schwan ",
+        "booksCount": 40,
+        "updatedAt": "2018-06-11 14:04:28"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "zakharov22",
         "booksCount": 0,
         "updatedAt": "2018-05-27 11:45:22"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 48,
-        "updatedAt": "2018-05-27 08:08:44"
     }
 }

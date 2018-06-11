@@ -1,4 +1,16 @@
 {
+    "8D75f73mPY": {
+        "id": "8D75f73mPY",
+        "title": "Прыг-Скок",
+        "author": "А.Э.По",
+        "notes": "",
+        "createdAt": "2018-06-11 14:04:28",
+        "user": {
+            "id": "101892939810731181399-google",
+            "nickname": "M.Schwan ",
+            "booksCount": 40
+        }
+    },
     "D-GsaBYtie": {
         "id": "D-GsaBYtie",
         "title": "Синее пламя",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 38
-        }
-    },
-    "E3O2T6u9V7": {
-        "id": "E3O2T6u9V7",
-        "title": "Водяная бездна",
-        "author": "Мадлен Л’Энгл",
-        "notes": "",
-        "createdAt": "2018-06-06 06:48:42",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 627
         }
     }
 }
