@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>86</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
 [M.Schwan ](users/101/101892939810731181399-google)<sup>43</sup> 
@@ -45,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>66</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>85</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>123</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>46</sup> 
 
 
-_11.06.2018 17:34:19_
+_12.06.2018 17:18:55_

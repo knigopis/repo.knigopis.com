@@ -1,4 +1,16 @@
 {
+    "TnbSO4C0dN": {
+        "id": "TnbSO4C0dN",
+        "title": "Секрет платформы №13",
+        "author": "Ева Ибботсон",
+        "notes": "",
+        "createdAt": "2018-06-12 17:18:55",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 86
+        }
+    },
     "QCb7K73us_": {
         "id": "QCb7K73us_",
         "title": "Истории про еду",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 85
-        }
-    },
-    "vbWWfmUhf7": {
-        "id": "vbWWfmUhf7",
-        "title": "Исповедь (ч1)",
-        "author": "Лев Толстой",
-        "notes": "",
-        "createdAt": "2018-06-08 11:57:36",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 123
         }
     }
 }
