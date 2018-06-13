@@ -1,4 +1,16 @@
 {
+    "6DyuHMBCGO": {
+        "id": "6DyuHMBCGO",
+        "title": "Драйв. Что на самом деле нас мотивирует",
+        "author": "Дэниел Пинк",
+        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/22524686/",
+        "createdAt": "2018-06-13 23:38:51",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 161
+        }
+    },
     "xCFNnY4max": {
         "id": "xCFNnY4max",
         "title": "Семь языков Бога",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 6
-        }
-    },
-    "SzzRmFZUQj": {
-        "id": "SzzRmFZUQj",
-        "title": "Стрела времени, или Природа преступления",
-        "author": "Мартин Эмис, Анна Асланян",
-        "notes": "Тод Френдли - палач Верхмата в Аушвице (он же Освенцим)",
-        "createdAt": "2018-06-04 09:35:44",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 65
         }
     }
 }

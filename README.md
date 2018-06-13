@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/22524686/
+
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
     > в процессе
     > 
@@ -14,7 +19,6 @@ Do not use pull requests to make changes here.
     > Нууу... Ожидала либо чего-то интересного о советском общепите/блюдах, либо чего-то связанного с юмором. Не получила ни того, ни другого. Все пресно, и скучно.
 
 * Вещие сестрички ~ [Garka](users/115/115753719718250012620-google)<sup>183</sup>
-    > Еще одна книга вселенной Плоского мира, на этот раз главные действующие лица ведьмы. Показалась чуть скучнее предыдущих  книг, но все равно на высоком уровне.
 
 * Сокровища Валькирии. Стоящий у солнца ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup>
 
@@ -28,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
 
-* Объектный подход 1,2 ~ [Tr](users/122/12282474-vkontakte)<sup>60</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>86</sup> 
@@ -67,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 
 
-_13.06.2018 23:35:46_
+_13.06.2018 23:38:51_
