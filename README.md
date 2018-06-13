@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>86</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fox_mi](users/220/220022778-vkontakte)<sup>10</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [fruttu](users/750/75094589-vkontakte)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>46</sup> 
 
 
-_12.06.2018 17:18:55_
+_13.06.2018 10:50:59_
