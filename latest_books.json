@@ -1,4 +1,16 @@
 {
+    "xCFNnY4max": {
+        "id": "xCFNnY4max",
+        "title": "Семь языков Бога",
+        "author": "Тимоти Лири",
+        "notes": "в процессе\n\nhttp://www.leary.ru/books/tongues/",
+        "createdAt": "2018-06-13 23:35:46",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 160
+        }
+    },
     "TnbSO4C0dN": {
         "id": "TnbSO4C0dN",
         "title": "Секрет платформы №13",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 60
-        }
-    },
-    "A2L-oOjVkx": {
-        "id": "A2L-oOjVkx",
-        "title": "Маленькая хозяйка большого дома",
-        "author": "Джек Лондон",
-        "notes": "",
-        "createdAt": "2018-06-09 06:03:11",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 85
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "xCFNnY4max": {
+        "id": "xCFNnY4max",
+        "title": "Семь языков Бога",
+        "author": "Тимоти Лири",
+        "notes": "в процессе\n\nhttp://www.leary.ru/books/tongues/",
+        "createdAt": "2018-06-13 23:35:46",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 160
+        }
+    },
     "QCb7K73us_": {
         "id": "QCb7K73us_",
         "title": "Истории про еду",
@@ -345,18 +357,6 @@
             "id": "100978570902186865324-google",
             "nickname": "ODINSY",
             "booksCount": 65
-        }
-    },
-    "5hSV6YdhVh": {
-        "id": "5hSV6YdhVh",
-        "title": "Технологии изменения сознания в деструктивных культах",
-        "author": "Т. Лири, М. Стюарт",
-        "notes": "Тимоти Лири, как обычно, очень велик :)\n\nв процессе\n\nhttp://www.leary.ru/books/cult/",
-        "createdAt": "2018-06-01 19:44:41",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 159
         }
     }
 }
