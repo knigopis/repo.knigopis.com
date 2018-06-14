@@ -1,4 +1,16 @@
 {
+    "L8Slv-p5T7": {
+        "id": "L8Slv-p5T7",
+        "title": "Остров фарисеев",
+        "author": "Джон Голсуорси",
+        "notes": "",
+        "createdAt": "2018-06-14 14:01:50",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 631
+        }
+    },
     "6DyuHMBCGO": {
         "id": "6DyuHMBCGO",
         "title": "Драйв. Что на самом деле нас мотивирует",
@@ -345,18 +357,6 @@
             "id": "108129283845610670068-google",
             "nickname": "andjuy",
             "booksCount": 1
-        }
-    },
-    "9Otwpk08x_": {
-        "id": "9Otwpk08x_",
-        "title": "Лакированная ширма",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-06-09 19:13:35",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 85
         }
     }
 }

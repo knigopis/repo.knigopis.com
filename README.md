@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>631</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>311</sup> 
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>630</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>66</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 
 
-_13.06.2018 23:38:51_
+_14.06.2018 14:01:50_

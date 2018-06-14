@@ -1,7 +1,12 @@
-# List of books read by Janet<sup>630</sup>
+# List of books read by Janet<sup>631</sup>
 ---
 
 ## 2018
+
+### Остров фарисеев
+Джон Голсуорси
+> [2018-06] 
+
 
 ### Пейзаж, нарисованный чаем
 Милорад Павич
