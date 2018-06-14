@@ -1,4 +1,10 @@
 {
+    "30558181-vkontakte": {
+        "id": "30558181-vkontakte",
+        "nickname": "EsterHani",
+        "booksCount": 147,
+        "updatedAt": "2018-06-14 16:25:06"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "fox_mi",
         "booksCount": 10,
         "updatedAt": "2018-05-30 19:13:16"
-    },
-    "73323849-yandex": {
-        "id": "73323849-yandex",
-        "nickname": "inna.besprozvannykh",
-        "booksCount": 42,
-        "updatedAt": "2018-05-30 10:15:51"
     }
 }

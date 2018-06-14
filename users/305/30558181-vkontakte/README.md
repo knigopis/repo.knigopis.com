@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>146</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>147</sup>
 ---
 
 ## 2018
+
+### Пиши, сокращай
+Максим Ильяхов
+> [2018-05-12] 
+
 
 ### Метро 2035
 Дмитрий Глуховский
