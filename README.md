@@ -37,9 +37,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>633</sup> 
 [Яна](users/252/252651020-yandex)<sup>8</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>632</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
 
 
-_15.06.2018 12:23:13_
+_15.06.2018 15:59:53_
