@@ -1,4 +1,16 @@
 {
+    "MeVfxX0wc7": {
+        "id": "MeVfxX0wc7",
+        "title": "Толстый и тонкий",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-15 09:34:55",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 5
+        }
+    },
     "8IxYxewoBk": {
         "id": "8IxYxewoBk",
         "title": "Крыжовник",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 65
-        }
-    },
-    "Ou1B8tVd5a": {
-        "id": "Ou1B8tVd5a",
-        "title": "Проект Альверон",
-        "author": "Денис Новинкин, Денис Решетняк",
-        "notes": "Уже и не помню про что там было...",
-        "createdAt": "2018-06-10 01:03:45",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 64
         }
     }
 }
