@@ -1,4 +1,16 @@
 {
+    "qjfLw6LVhy": {
+        "id": "qjfLw6LVhy",
+        "title": "Солнце,старик и девушка",
+        "author": "Василий Шукшин",
+        "notes": "",
+        "createdAt": "2018-06-15 12:23:13",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 8
+        }
+    },
     "xK6hwaPkMa": {
         "id": "xK6hwaPkMa",
         "title": "Ионыч",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 630
-        }
-    },
-    "kZ3c3fKMrU": {
-        "id": "kZ3c3fKMrU",
-        "title": "Гарри Поттер и Принц-полукровка",
-        "author": "Джоан Кэтлин Роулинг",
-        "notes": "",
-        "createdAt": "2018-06-10 12:02:10",
-        "user": {
-            "id": "200666735-vkontakte",
-            "nickname": "mavrentik",
-            "booksCount": 15
         }
     }
 }
