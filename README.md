@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bojkoiana](users/252/252651020-yandex)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>632</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
-[fox_mi](users/220/220022778-vkontakte)<sup>10</sup> 
 
 
-_14.06.2018 16:25:07_
+_15.06.2018 09:28:15_
