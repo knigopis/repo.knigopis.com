@@ -1,4 +1,16 @@
 {
+    "9Dp7Rt8BWi": {
+        "id": "9Dp7Rt8BWi",
+        "title": "Господин из Сан-Франциско",
+        "author": "Иван Алексеевич Бунин",
+        "notes": "",
+        "createdAt": "2018-06-15 09:35:57",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 6
+        }
+    },
     "MeVfxX0wc7": {
         "id": "MeVfxX0wc7",
         "title": "Толстый и тонкий",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 66
-        }
-    },
-    "v41BvRWIvy": {
-        "id": "v41BvRWIvy",
-        "title": "Безымянный раб: великие спящие 1-2",
-        "author": "Виталий Зыков",
-        "notes": "Кирсан Кайфат, Владыка Сардуора, попаданец, маг, исследователь, Владыка, мощно",
-        "createdAt": "2018-06-10 01:07:07",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 65
         }
     }
 }
