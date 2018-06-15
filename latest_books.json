@@ -1,4 +1,16 @@
 {
+    "O-P0j56frg": {
+        "id": "O-P0j56frg",
+        "title": "Убить пересмешника",
+        "author": "Харпер Ли",
+        "notes": "",
+        "createdAt": "2018-06-15 09:29:17",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 1
+        }
+    },
     "aZitF1bZ50": {
         "id": "aZitF1bZ50",
         "title": "Пиши, сокращай",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 61
-        }
-    },
-    "fT8RmIoQnK": {
-        "id": "fT8RmIoQnK",
-        "title": "Объектный подход 1,2",
-        "author": "Ароматов Руслан",
-        "notes": "Дэн, Тинлиин, Кириелла, попаданец в другие миры, схождение 4 миров, реконструктор\nНичего примечательного",
-        "createdAt": "2018-06-10 00:52:18",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 60
         }
     }
 }
