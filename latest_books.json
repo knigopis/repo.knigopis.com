@@ -1,4 +1,16 @@
 {
+    "NeibIMkWz-": {
+        "id": "NeibIMkWz-",
+        "title": "Человек в футляре",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:22:57",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 19
+        }
+    },
     "3qeCvcKiC6": {
         "id": "3qeCvcKiC6",
         "title": "Смерть чиновника",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 49
-        }
-    },
-    "t9QhjhkoKM": {
-        "id": "t9QhjhkoKM",
-        "title": "ЛСД - Мой трудный ребёнок",
-        "author": "А. Хофманн",
-        "notes": "",
-        "createdAt": "2018-06-11 14:07:48",
-        "user": {
-            "id": "101892939810731181399-google",
-            "nickname": "M.Schwan ",
-            "booksCount": 43
         }
     }
 }
