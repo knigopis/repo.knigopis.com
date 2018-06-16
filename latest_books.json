@@ -1,4 +1,16 @@
 {
+    "JomiuZphb9": {
+        "id": "JomiuZphb9",
+        "title": "Чистый понедельник",
+        "author": "Иван Алексеевич Бунин",
+        "notes": "",
+        "createdAt": "2018-06-16 14:17:04",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 10
+        }
+    },
     "Bb6fL8BsWF": {
         "id": "Bb6fL8BsWF",
         "title": "Тёмные аллеи",
@@ -345,18 +357,6 @@
             "id": "108299972186011003122-google",
             "nickname": "Минору",
             "booksCount": 4
-        }
-    },
-    "i0iTn2Yao0": {
-        "id": "i0iTn2Yao0",
-        "title": "Царь-рыба",
-        "author": "Астафьев",
-        "notes": "Мораль. Надо разбираться.",
-        "createdAt": "2018-06-10 17:43:14",
-        "user": {
-            "id": "108299972186011003122-google",
-            "nickname": "Минору",
-            "booksCount": 3
         }
     }
 }
