@@ -1,4 +1,16 @@
 {
+    "PWg5W3gjjx": {
+        "id": "PWg5W3gjjx",
+        "title": "Мамочка и смысл жизни",
+        "author": "Ирвин Ялом",
+        "notes": "",
+        "createdAt": "2018-06-16 12:26:50",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 634
+        }
+    },
     "dEj-i4rDDF": {
         "id": "dEj-i4rDDF",
         "title": "Не местные",
@@ -345,18 +357,6 @@
             "id": "108299972186011003122-google",
             "nickname": "Минору",
             "booksCount": 2
-        }
-    },
-    "9hXtILyXK-": {
-        "id": "9hXtILyXK-",
-        "title": "Жутко громко и запредельно близко",
-        "author": "",
-        "notes": "Книга кончается ничем. Перечитать.",
-        "createdAt": "2018-06-10 17:00:47",
-        "user": {
-            "id": "108299972186011003122-google",
-            "nickname": "Минору",
-            "booksCount": 1
         }
     }
 }
