@@ -1,4 +1,16 @@
 {
+    "7qJi4qwjR9": {
+        "id": "7qJi4qwjR9",
+        "title": "Дом с мезонином",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:19:56",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 15
+        }
+    },
     "8mfXgiWojt": {
         "id": "8mfXgiWojt",
         "title": "Дама с собачкой",
@@ -345,18 +357,6 @@
             "id": "101892939810731181399-google",
             "nickname": "M.Schwan ",
             "booksCount": 40
-        }
-    },
-    "D-GsaBYtie": {
-        "id": "D-GsaBYtie",
-        "title": "Синее пламя",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-06-11 12:36:02",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 311
         }
     }
 }
