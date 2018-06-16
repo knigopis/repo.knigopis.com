@@ -1,4 +1,16 @@
 {
+    "Bb6fL8BsWF": {
+        "id": "Bb6fL8BsWF",
+        "title": "Тёмные аллеи",
+        "author": "Иван Алексеевич Бунин",
+        "notes": "",
+        "createdAt": "2018-06-16 14:16:35",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 9
+        }
+    },
     "PWg5W3gjjx": {
         "id": "PWg5W3gjjx",
         "title": "Мамочка и смысл жизни",
@@ -345,18 +357,6 @@
             "id": "108299972186011003122-google",
             "nickname": "Минору",
             "booksCount": 3
-        }
-    },
-    "mBCQYbAAAq": {
-        "id": "mBCQYbAAAq",
-        "title": "А зори здесь тихие...",
-        "author": "Б.Л. Васильев",
-        "notes": "Накал страстей увеличивается к концу книги и обрывается на пике",
-        "createdAt": "2018-06-10 17:41:29",
-        "user": {
-            "id": "108299972186011003122-google",
-            "nickname": "Минору",
-            "booksCount": 2
         }
     }
 }
