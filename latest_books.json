@@ -1,4 +1,16 @@
 {
+    "mVm7gZmfj-": {
+        "id": "mVm7gZmfj-",
+        "title": "О любви",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:18:36",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 13
+        }
+    },
     "FgHhvSn6mX": {
         "id": "FgHhvSn6mX",
         "title": "Хамелеон",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 310
-        }
-    },
-    "ElagRFBBJV": {
-        "id": "ElagRFBBJV",
-        "title": "Браслеты Скорби ((Серия: Двурожденные 3/3?)",
-        "author": "Брендон Сандерсон",
-        "notes": "",
-        "createdAt": "2018-06-10 18:05:58",
-        "user": {
-            "id": "152488954-vkontakte",
-            "nickname": "kasikandriena",
-            "booksCount": 45
         }
     }
 }
