@@ -1,4 +1,16 @@
 {
+    "8mfXgiWojt": {
+        "id": "8mfXgiWojt",
+        "title": "Дама с собачкой",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:19:11",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 14
+        }
+    },
     "mVm7gZmfj-": {
         "id": "mVm7gZmfj-",
         "title": "О любви",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 311
-        }
-    },
-    "DR6OyEOv_4": {
-        "id": "DR6OyEOv_4",
-        "title": "Летос",
-        "author": "Алексей Пехов",
-        "notes": "",
-        "createdAt": "2018-06-11 12:35:36",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 310
         }
     }
 }
