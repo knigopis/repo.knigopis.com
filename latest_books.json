@@ -1,4 +1,16 @@
 {
+    "xWmsnJf3-J": {
+        "id": "xWmsnJf3-J",
+        "title": "Тоска",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:18:01",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 11
+        }
+    },
     "JomiuZphb9": {
         "id": "JomiuZphb9",
         "title": "Чистый понедельник",
@@ -345,18 +357,6 @@
             "id": "108299972186011003122-google",
             "nickname": "Минору",
             "booksCount": 5
-        }
-    },
-    "XLUoCHwE7M": {
-        "id": "XLUoCHwE7M",
-        "title": "Хроники Нарнии (серия книг)",
-        "author": "Клайв Стэйплз Льюис",
-        "notes": "Книга-образ",
-        "createdAt": "2018-06-10 17:44:38",
-        "user": {
-            "id": "108299972186011003122-google",
-            "nickname": "Минору",
-            "booksCount": 4
         }
     }
 }
