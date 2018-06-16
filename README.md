@@ -37,7 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яна](users/252/252651020-yandex)<sup>17</sup> 
+[Яна](users/252/252651020-yandex)<sup>18</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>634</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
 
 
-_16.06.2018 14:21:50_
+_16.06.2018 14:22:13_
