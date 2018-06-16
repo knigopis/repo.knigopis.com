@@ -1,4 +1,16 @@
 {
+    "FgHhvSn6mX": {
+        "id": "FgHhvSn6mX",
+        "title": "Хамелеон",
+        "author": "Антон Павлович Чехов",
+        "notes": "",
+        "createdAt": "2018-06-16 14:18:15",
+        "user": {
+            "id": "252651020-yandex",
+            "nickname": "Яна",
+            "booksCount": 12
+        }
+    },
     "xWmsnJf3-J": {
         "id": "xWmsnJf3-J",
         "title": "Тоска",
@@ -345,18 +357,6 @@
             "id": "152488954-vkontakte",
             "nickname": "kasikandriena",
             "booksCount": 45
-        }
-    },
-    "RB-0T8W1wN": {
-        "id": "RB-0T8W1wN",
-        "title": "Последний день приговоренного к смерти",
-        "author": "Виктор Гюго",
-        "notes": "Глубокая и смелая мысль. Уважение автору. Пробирает.",
-        "createdAt": "2018-06-10 17:45:48",
-        "user": {
-            "id": "108299972186011003122-google",
-            "nickname": "Минору",
-            "booksCount": 5
         }
     }
 }
