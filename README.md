@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
+    > в процессе
+
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
     > Книга о том, как нужно руководить программистами. Много полезных и ценных советов, особенно про то, что нужно постоянно контролировать, а еще совершенствоваться и тд и тп. 
     > Так как повествование хорошо структурировано и весьма концентрировано, то читал долго, понемногу. Далась тяжело, кое-как последнее осилил. Не знаю, советовать ли ее кому-то. Не совсем разделяю позицию автора.
@@ -14,9 +17,6 @@ Do not use pull requests to make changes here.
     > Годно, прочел залпом
 
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/22524686/
 
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
 
@@ -30,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
 
-* Проект Альверон ~ [Tr](users/122/12282474-vkontakte)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
@@ -44,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>67</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>634</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>86</sup> 
@@ -69,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 
 
-_17.06.2018 16:50:32_
+_17.06.2018 22:13:58_

@@ -1,4 +1,16 @@
 {
+    "7aIqe8A1lk": {
+        "id": "7aIqe8A1lk",
+        "title": "Удивительная Земля",
+        "author": "Сергей Рязанский",
+        "notes": "в процессе",
+        "createdAt": "2018-06-17 22:13:58",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 162
+        }
+    },
     "e_YzEyCRaS": {
         "id": "e_YzEyCRaS",
         "title": "Как пасти котов",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 11
-        }
-    },
-    "1cZjeu70Iz": {
-        "id": "1cZjeu70Iz",
-        "title": "Цикл \"Летописи Хьёрварда\"",
-        "author": "Ник Перумов",
-        "notes": "Гибель Богов, Воин Великой Тьмы, Земля без радости",
-        "createdAt": "2018-06-04 20:18:03",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 10
         }
     }
 }
