@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>67</sup> 
 [Яна](users/252/252651020-yandex)<sup>19</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
-[Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
 
 
-_17.06.2018 08:10:13_
+_17.06.2018 14:29:47_
