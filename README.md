@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
+    > Временная петля, Зориан Казински, Зак Новеда, Куатач-Ичл.
+    > Годно, прочел залпом
+
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
     > в процессе
     > 
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > http://www.leary.ru/books/tongues/
 
 * Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
-    > Нууу... Ожидала либо чего-то интересного о советском общепите/блюдах, либо чего-то связанного с юмором. Не получила ни того, ни другого. Все пресно, и скучно.
 
 * Вещие сестрички ~ [Garka](users/115/115753719718250012620-google)<sup>183</sup>
 
@@ -30,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Бегающий Сейф ~ [Tr](users/122/12282474-vkontakte)<sup>62</sup>
 
-* Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>67</sup> 
 [Яна](users/252/252651020-yandex)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>634</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
@@ -51,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>66</sup> 
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [youno](users/302/302928912-vkontakte)<sup>13</sup> 
 
 
-_16.06.2018 14:22:57_
+_17.06.2018 01:43:48_
