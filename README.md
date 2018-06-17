@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
+    > Книга о том, как нужно руководить программистами. Много полезных и ценных советов, особенно про то, что нужно постоянно контролировать, а еще совершенствоваться и тд и тп. 
+    > Так как повествование хорошо структурировано и весьма концентрировано, то читал долго, понемногу. Далась тяжело, кое-как последнее осилил. Не знаю, советовать ли ее кому-то. Не совсем разделяю позицию автора.
+
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
     > Временная петля, Зориан Казински, Зак Новеда, Куатач-Ичл.
     > Годно, прочел залпом
@@ -15,9 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/22524686/
 
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
-    > в процессе
-    > 
-    > http://www.leary.ru/books/tongues/
 
 * Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
 
@@ -31,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Проект Альверон ~ [Tr](users/122/12282474-vkontakte)<sup>64</sup>
 
-* Бегающий Сейф ~ [Tr](users/122/12282474-vkontakte)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
@@ -67,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
-[hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 
 
-_17.06.2018 16:18:58_
+_17.06.2018 16:50:32_

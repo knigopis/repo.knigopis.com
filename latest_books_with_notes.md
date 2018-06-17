@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
@@ -30,7 +31,6 @@
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
 * Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
 * Цикл "Летописи Хьёрварда" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>10</sup>
-* Сага о Дзирте До'Урдене ~ [Chandravadana](users/105/105866022348292919948-google)<sup>7</sup>
 
 
-_17.06.2018 01:43:48_
+_17.06.2018 16:50:32_

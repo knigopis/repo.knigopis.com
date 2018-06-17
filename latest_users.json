@@ -1,4 +1,10 @@
 {
+    "83820536-yandex": {
+        "id": "83820536-yandex",
+        "nickname": "lucius",
+        "booksCount": 145,
+        "updatedAt": "2018-06-17 16:50:32"
+    },
     "252651020-yandex": {
         "id": "252651020-yandex",
         "nickname": "Яна",
@@ -172,11 +178,5 @@
         "nickname": "uuuniicooorn",
         "booksCount": 0,
         "updatedAt": "2018-06-02 19:29:03"
-    },
-    "3951663-vkontakte": {
-        "id": "3951663-vkontakte",
-        "nickname": "hloja_myrakami",
-        "booksCount": 2,
-        "updatedAt": "2018-06-01 20:21:23"
     }
 }
