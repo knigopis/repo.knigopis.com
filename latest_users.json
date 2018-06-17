@@ -1,4 +1,10 @@
 {
+    "252651020-yandex": {
+        "id": "252651020-yandex",
+        "nickname": "Яна",
+        "booksCount": 20,
+        "updatedAt": "2018-06-17 16:17:11"
+    },
     "46410003-vkontakte": {
         "id": "46410003-vkontakte",
         "nickname": "jinnd",
@@ -16,12 +22,6 @@
         "nickname": "Tr",
         "booksCount": 67,
         "updatedAt": "2018-06-17 01:43:48"
-    },
-    "252651020-yandex": {
-        "id": "252651020-yandex",
-        "nickname": "Яна",
-        "booksCount": 19,
-        "updatedAt": "2018-06-16 14:22:57"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
