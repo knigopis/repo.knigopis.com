@@ -38,7 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Яна](users/252/252651020-yandex)<sup>20</sup> 
+[Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>67</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 
 
-_17.06.2018 16:17:11_
+_17.06.2018 16:18:58_
