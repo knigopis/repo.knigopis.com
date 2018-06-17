@@ -38,6 +38,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>67</sup> 
 [Яна](users/252/252651020-yandex)<sup>19</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>634</sup> 
@@ -67,7 +68,6 @@ _More notes [here](latest_books_with_notes.md)._
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 [hloja_myrakami](users/395/3951663-vkontakte)<sup>2</sup> 
 [Vitaly](users/109/109395490138181998437-google)<sup>7</sup> 
-[youno](users/302/302928912-vkontakte)<sup>13</sup> 
 
 
-_17.06.2018 01:43:48_
+_17.06.2018 08:10:13_
