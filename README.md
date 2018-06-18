@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>635</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>67</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>634</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 
 
-_18.06.2018 09:38:17_
+_18.06.2018 18:52:46_

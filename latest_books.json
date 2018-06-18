@@ -1,4 +1,16 @@
 {
+    "UUT8KzW4H5": {
+        "id": "UUT8KzW4H5",
+        "title": "Наивно. Супер",
+        "author": "Эрленд Лу",
+        "notes": "",
+        "createdAt": "2018-06-18 18:52:46",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 635
+        }
+    },
     "qWuVkrF6HK": {
         "id": "qWuVkrF6HK",
         "title": "История одного города",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 147
-        }
-    },
-    "tfoBMZ89Od": {
-        "id": "tfoBMZ89Od",
-        "title": "12 недель в году. Как за 12 недель сделать больше, чем другие успевают за 12 месяцев",
-        "author": "Моран Брайан, Леннингтон Майкл",
-        "notes": "",
-        "createdAt": "2018-06-14 15:05:53",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 632
         }
     }
 }
