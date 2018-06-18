@@ -1,4 +1,16 @@
 {
+    "qWuVkrF6HK": {
+        "id": "qWuVkrF6HK",
+        "title": "История одного города",
+        "author": "Михаил Салтыков-Щедрин",
+        "notes": "",
+        "createdAt": "2018-06-18 08:55:37",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 124
+        }
+    },
     "7aIqe8A1lk": {
         "id": "7aIqe8A1lk",
         "title": "Удивительная Земля",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 632
-        }
-    },
-    "L8Slv-p5T7": {
-        "id": "L8Slv-p5T7",
-        "title": "Остров фарисеев",
-        "author": "Джон Голсуорси",
-        "notes": "",
-        "createdAt": "2018-06-14 14:01:50",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 631
         }
     }
 }

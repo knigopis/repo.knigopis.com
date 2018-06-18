@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>123</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 
 
-_17.06.2018 22:13:58_
+_18.06.2018 08:55:38_
