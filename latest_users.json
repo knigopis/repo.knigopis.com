@@ -1,4 +1,10 @@
 {
+    "211778159637422-facebook": {
+        "id": "211778159637422-facebook",
+        "nickname": "manik",
+        "booksCount": 0,
+        "updatedAt": "2018-06-18 09:38:16"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Lost in Frost",
         "booksCount": 124,
         "updatedAt": "2018-06-03 16:51:05"
-    },
-    "131538796-vkontakte": {
-        "id": "131538796-vkontakte",
-        "nickname": "uuuniicooorn",
-        "booksCount": 0,
-        "updatedAt": "2018-06-02 19:29:03"
     }
 }
