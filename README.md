@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
-[uuuniicooorn](users/131/131538796-vkontakte)<sup>0</sup> 
 
 
-_18.06.2018 08:55:38_
+_18.06.2018 09:38:17_
