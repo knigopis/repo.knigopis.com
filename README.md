@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>635</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>124</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 [garfield](users/116/116551625573365168968-google)<sup>0</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>124</sup> 
 
 
-_18.06.2018 18:52:46_
+_19.06.2018 08:24:52_
