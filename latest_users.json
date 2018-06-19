@@ -1,4 +1,10 @@
 {
+    "108597795887093847729-google": {
+        "id": "108597795887093847729-google",
+        "nickname": "Emilia3",
+        "booksCount": 0,
+        "updatedAt": "2018-06-19 08:24:46"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "garfield",
         "booksCount": 0,
         "updatedAt": "2018-06-04 08:31:06"
-    },
-    "103293621948650602575-google": {
-        "id": "103293621948650602575-google",
-        "nickname": "Lost in Frost",
-        "booksCount": 124,
-        "updatedAt": "2018-06-03 16:51:05"
     }
 }
