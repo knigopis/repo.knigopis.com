@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
@@ -30,7 +31,6 @@
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
 * Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
-* Цикл "Летописи Разлома" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>11</sup>
 
 
-_17.06.2018 22:13:58_
+_19.06.2018 17:41:10_

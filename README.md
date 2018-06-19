@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
+    > Очень сюрреалистичная книга, суть которой становится понятна довольно быстро, но читать и раскручивать цепь событий все равно довольно интересно
+
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
     > в процессе
 
@@ -13,8 +16,6 @@ Do not use pull requests to make changes here.
     > Так как повествование хорошо структурировано и весьма концентрировано, то читал долго, понемногу. Далась тяжело, кое-как последнее осилил. Не знаю, советовать ли ее кому-то. Не совсем разделяю позицию автора.
 
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
-    > Временная петля, Зориан Казински, Зак Новеда, Куатач-Ичл.
-    > Годно, прочел залпом
 
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
 
@@ -28,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
 
-* Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>1</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>635</sup> 
@@ -64,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
-[ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 
 
-_19.06.2018 17:32:16_
+_19.06.2018 17:41:10_
