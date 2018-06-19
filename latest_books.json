@@ -1,4 +1,16 @@
 {
+    "Ot08ZOgC8p": {
+        "id": "Ot08ZOgC8p",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2018-06-19 20:32:07",
+        "user": {
+            "id": "2060252005-instagram",
+            "nickname": "ksenisky",
+            "booksCount": 5
+        }
+    },
     "relK0-Dt-n": {
         "id": "relK0-Dt-n",
         "title": "Вешние воды",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 7
-        }
-    },
-    "9Dp7Rt8BWi": {
-        "id": "9Dp7Rt8BWi",
-        "title": "Господин из Сан-Франциско",
-        "author": "Иван Алексеевич Бунин",
-        "notes": "",
-        "createdAt": "2018-06-15 09:35:57",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 6
         }
     }
 }
