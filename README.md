@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lirenda](users/115/115388297580792197479-google)<sup>2</sup> 
+[Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>635</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
 
 
-_19.06.2018 17:59:45_
+_19.06.2018 18:07:12_
