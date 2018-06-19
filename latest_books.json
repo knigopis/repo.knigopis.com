@@ -1,4 +1,16 @@
 {
+    "6cNb1sy7TN": {
+        "id": "6cNb1sy7TN",
+        "title": "Страдания юного Вертера",
+        "author": "Гете",
+        "notes": "",
+        "createdAt": "2018-06-19 20:32:28",
+        "user": {
+            "id": "2060252005-instagram",
+            "nickname": "ksenisky",
+            "booksCount": 6
+        }
+    },
     "Ot08ZOgC8p": {
         "id": "Ot08ZOgC8p",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 8
-        }
-    },
-    "xK6hwaPkMa": {
-        "id": "xK6hwaPkMa",
-        "title": "Ионыч",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2018-06-15 12:08:05",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 7
         }
     }
 }

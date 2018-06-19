@@ -1,4 +1,4 @@
-# List of books read by ksenisky<sup>5</sup>
+# List of books read by ksenisky<sup>6</sup>
 ---
 
 ## 2018
@@ -11,6 +11,10 @@
 ### Мартин Иден
 Джек Лондон
 > [2018-01-06] 
+
+
+### Страдания юного Вертера
+Гете
 
 
 ### Превращение
