@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Lirenda](users/115/115388297580792197479-google)<sup>0</sup> 
+[Lirenda](users/115/115388297580792197479-google)<sup>1</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>635</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>65</sup> 
 
 
-_19.06.2018 17:31:23_
+_19.06.2018 17:32:16_

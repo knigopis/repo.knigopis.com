@@ -1,4 +1,16 @@
 {
+    "yH00PL8WZl": {
+        "id": "yH00PL8WZl",
+        "title": "Элегантность ёжика",
+        "author": "Мюриель Барбери",
+        "notes": "",
+        "createdAt": "2018-06-19 17:32:16",
+        "user": {
+            "id": "115388297580792197479-google",
+            "nickname": "Lirenda",
+            "booksCount": 1
+        }
+    },
     "UUT8KzW4H5": {
         "id": "UUT8KzW4H5",
         "title": "Наивно. Супер",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 1
-        }
-    },
-    "aZitF1bZ50": {
-        "id": "aZitF1bZ50",
-        "title": "Пиши, сокращай",
-        "author": "Максим Ильяхов",
-        "notes": "",
-        "createdAt": "2018-06-14 16:25:06",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 147
         }
     }
 }
