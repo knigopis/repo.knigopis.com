@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ksenisky](users/206/2060252005-instagram)<sup>3</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>68</sup> 
 
 
-_19.06.2018 18:07:12_
+_19.06.2018 20:31:13_
