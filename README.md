@@ -34,12 +34,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>636</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>635</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>124</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
 
 
-_20.06.2018 05:16:26_
+_20.06.2018 06:14:57_

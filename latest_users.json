@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 636,
+        "updatedAt": "2018-06-20 06:14:56"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -28,12 +34,6 @@
         "nickname": "Emilia3",
         "booksCount": 0,
         "updatedAt": "2018-06-19 08:24:46"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 635,
-        "updatedAt": "2018-06-18 18:52:46"
     },
     "211778159637422-facebook": {
         "id": "211778159637422-facebook",
