@@ -1,4 +1,16 @@
 {
+    "uyd-FbUnQR": {
+        "id": "uyd-FbUnQR",
+        "title": "Пожарный",
+        "author": "Джо Хилл",
+        "notes": "",
+        "createdAt": "2018-06-21 18:33:14",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 60
+        }
+    },
     "f8-kDREe6z": {
         "id": "f8-kDREe6z",
         "title": "Тринадцатая редакция",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 11
-        }
-    },
-    "JomiuZphb9": {
-        "id": "JomiuZphb9",
-        "title": "Чистый понедельник",
-        "author": "Иван Алексеевич Бунин",
-        "notes": "",
-        "createdAt": "2018-06-16 14:17:04",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 10
         }
     }
 }

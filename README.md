@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>60</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>637</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
 [rNix](users/115/115622071-twitter)<sup>64</sup> 
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
-[Eji_tyan](users/235/2352103981-twitter)<sup>38</sup> 
 
 
-_20.06.2018 20:38:44_
+_21.06.2018 18:33:14_
