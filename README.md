@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>638</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>60</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>637</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ogrvat](users/112/112423727137570080740-google)<sup>1</sup> 
 
 
-_21.06.2018 18:33:14_
+_22.06.2018 17:02:02_
