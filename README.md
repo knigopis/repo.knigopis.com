@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>638</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>60</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>60</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>85</sup> 
-[rNix](users/115/115622071-twitter)<sup>64</sup> 
 
 
-_23.06.2018 09:02:03_
+_23.06.2018 11:01:37_
