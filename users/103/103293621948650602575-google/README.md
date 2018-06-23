@@ -1,7 +1,12 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>124</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>125</sup>
 ---
 
 ## 2018
+
+### Before he Kills
+Blake Pierce
+> [2018-06-23] 
+
 
 ### Эти странные шведы
 Петер Берлин
