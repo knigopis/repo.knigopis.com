@@ -1,4 +1,16 @@
 {
+    "ayMXjIYYQB": {
+        "id": "ayMXjIYYQB",
+        "title": "О дивный новый мир. (аудио)",
+        "author": "Олдос Хаксли",
+        "notes": "",
+        "createdAt": "2018-06-23 18:45:28",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 39
+        }
+    },
     "95GeE9Xtu9": {
         "id": "95GeE9Xtu9",
         "title": "Заводной апельсин",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 15
-        }
-    },
-    "8mfXgiWojt": {
-        "id": "8mfXgiWojt",
-        "title": "Дама с собачкой",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2018-06-16 14:19:11",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 14
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "2352103981-twitter": {
+        "id": "2352103981-twitter",
+        "nickname": "Eji_tyan",
+        "booksCount": 39,
+        "updatedAt": "2018-06-23 18:45:28"
+    },
     "249815548-vkontakte": {
         "id": "249815548-vkontakte",
         "nickname": "striped_one",
@@ -172,11 +178,5 @@
         "nickname": "andjuy",
         "booksCount": 1,
         "updatedAt": "2018-06-09 21:56:03"
-    },
-    "105831994080785626680-google": {
-        "id": "105831994080785626680-google",
-        "nickname": "Chiffi",
-        "booksCount": 60,
-        "updatedAt": "2018-06-09 17:28:46"
     }
 }
