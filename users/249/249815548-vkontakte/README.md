@@ -1,7 +1,12 @@
-# List of books read by [striped_one](http://vk.com/id249815548)<sup>19</sup>
+# List of books read by [striped_one](http://vk.com/id249815548)<sup>20</sup>
 ---
 
 ## 2018
+
+### Заводной апельсин
+Энтони Бёрджесс
+> [2018-06-23] 
+
 
 ### Вино из одуванчиков
 Рэй Брэдбери
