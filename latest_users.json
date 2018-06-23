@@ -1,4 +1,10 @@
 {
+    "116874179820969761027-google": {
+        "id": "116874179820969761027-google",
+        "nickname": "bookhunter",
+        "booksCount": 0,
+        "updatedAt": "2018-06-23 11:01:34"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Sofie",
         "booksCount": 85,
         "updatedAt": "2018-06-09 06:03:11"
-    },
-    "115622071-twitter": {
-        "id": "115622071-twitter",
-        "nickname": "rNix",
-        "booksCount": 64,
-        "updatedAt": "2018-06-06 12:34:29"
     }
 }
