@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fire_ejik](users/329/32903202-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 [Минору](users/108/108299972186011003122-google)<sup>5</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>15</sup> 
-[andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 
 
-_23.06.2018 18:46:24_
+_23.06.2018 18:52:09_
