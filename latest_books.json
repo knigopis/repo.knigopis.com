@@ -1,4 +1,16 @@
 {
+    "GMIe2RvhhN": {
+        "id": "GMIe2RvhhN",
+        "title": "Мы. (аудио)",
+        "author": "Евгений Замятин",
+        "notes": "",
+        "createdAt": "2018-06-23 18:46:24",
+        "user": {
+            "id": "2352103981-twitter",
+            "nickname": "Eji_tyan",
+            "booksCount": 40
+        }
+    },
     "ayMXjIYYQB": {
         "id": "ayMXjIYYQB",
         "title": "О дивный новый мир. (аудио)",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 16
-        }
-    },
-    "7qJi4qwjR9": {
-        "id": "7qJi4qwjR9",
-        "title": "Дом с мезонином",
-        "author": "Антон Павлович Чехов",
-        "notes": "",
-        "createdAt": "2018-06-16 14:19:56",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 15
         }
     }
 }

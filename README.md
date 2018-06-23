@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Eji_tyan](users/235/2352103981-twitter)<sup>39</sup> 
+[Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [andjuy](users/108/108129283845610670068-google)<sup>1</sup> 
 
 
-_23.06.2018 18:45:28_
+_23.06.2018 18:46:24_
