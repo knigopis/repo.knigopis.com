@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 * Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
@@ -30,7 +31,6 @@
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
-* Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
 
 
-_24.06.2018 15:30:43_
+_24.06.2018 15:52:00_
