@@ -1,4 +1,16 @@
 {
+    "aTxARb4lSu": {
+        "id": "aTxARb4lSu",
+        "title": "Пикник на обочине",
+        "author": "братья Стругацкие",
+        "notes": "«СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»",
+        "createdAt": "2018-06-24 18:10:43",
+        "user": {
+            "id": "100978570902186865324-google",
+            "nickname": "ODINSY",
+            "booksCount": 66
+        }
+    },
     "p5NYCJIptI": {
         "id": "p5NYCJIptI",
         "title": "Мятная сказка (Сказка о самоубийстве)",
@@ -345,18 +357,6 @@
             "id": "252651020-yandex",
             "nickname": "Яна",
             "booksCount": 20
-        }
-    },
-    "TQWTy2HJDr": {
-        "id": "TQWTy2HJDr",
-        "title": "Game of thrones (ENG)",
-        "author": "G. Martin",
-        "notes": "",
-        "createdAt": "2018-06-17 08:10:13",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 49
         }
     }
 }

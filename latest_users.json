@@ -1,4 +1,10 @@
 {
+    "100978570902186865324-google": {
+        "id": "100978570902186865324-google",
+        "nickname": "ODINSY",
+        "booksCount": 66,
+        "updatedAt": "2018-06-24 18:10:43"
+    },
     "143278479-vkontakte": {
         "id": "143278479-vkontakte",
         "nickname": "Лина Кауфман",
@@ -172,11 +178,5 @@
         "nickname": "Neccochi",
         "booksCount": 49,
         "updatedAt": "2018-06-11 14:18:03"
-    },
-    "101892939810731181399-google": {
-        "id": "101892939810731181399-google",
-        "nickname": "M.Schwan ",
-        "booksCount": 43,
-        "updatedAt": "2018-06-11 14:07:48"
     }
 }

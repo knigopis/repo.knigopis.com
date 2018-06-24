@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
+    > «СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»
+
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
     > Я  сидела с карандашом не для того чтобы цитаты подчеркивать на которых кстати буквально "едет" вся книга, а править стилистические и логические ошибки в этой книге
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > война – это достижение своих целей, не считаясь с потерями других участников процесса
 
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
-    > Как умножить на 11: складываете число и вставляете в середину. напр. 35*11  = 385 (3+5=8 вставить между 3и5). 99*11 = 1089 (9+9=18   , дальше 1 прибавить к 9 и в конце 9),   или 78*11 = 858( 7+8 = 15,дальше 7+1 и в конце 8)
 
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
 
-* Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>62</sup> 
 [yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sky](users/118/118049897850017649660-google)<sup>86</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
-[M.Schwan ](users/101/101892939810731181399-google)<sup>43</sup> 
 
 
-_24.06.2018 15:52:00_
+_24.06.2018 18:10:43_
