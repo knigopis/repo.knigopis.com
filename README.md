@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>639</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>62</sup> 
@@ -43,7 +44,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>638</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>60</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
 
 
-_24.06.2018 18:10:43_
+_24.06.2018 20:04:40_

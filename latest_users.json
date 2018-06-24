@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 639,
+        "updatedAt": "2018-06-24 20:04:40"
+    },
     "100978570902186865324-google": {
         "id": "100978570902186865324-google",
         "nickname": "ODINSY",
@@ -52,12 +58,6 @@
         "nickname": "Lost in Frost",
         "booksCount": 125,
         "updatedAt": "2018-06-23 09:02:03"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 638,
-        "updatedAt": "2018-06-22 17:02:01"
     },
     "2336755-vkontakte": {
         "id": "2336755-vkontakte",
