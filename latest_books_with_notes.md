@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
@@ -30,7 +31,6 @@
 * Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
-* Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
 
 
-_24.06.2018 15:17:06_
+_24.06.2018 15:30:43_

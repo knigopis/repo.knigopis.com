@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
+    > лучший способ достичь победы – это не воевать, а контролировать
+    > война – это достижение своих целей, не считаясь с потерями других участников процесса
+
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
     > Как умножить на 11: складываете число и вставляете в середину. напр. 35*11  = 385 (3+5=8 вставить между 3и5). 99*11 = 1089 (9+9=18   , дальше 1 прибавить к 9 и в конце 9),   или 78*11 = 858( 7+8 = 15,дальше 7+1 и в конце 8)
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Очень сюрреалистичная книга, суть которой становится понятна довольно быстро, но читать и раскручивать цепь событий все равно довольно интересно
 
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
-    > в процессе
 
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
 
@@ -26,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Вещие сестрички ~ [Garka](users/115/115753719718250012620-google)<sup>183</sup>
 
-* Сокровища Валькирии. Стоящий у солнца ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chiffi](users/105/105831994080785626680-google)<sup>61</sup> 
+[Chiffi](users/105/105831994080785626680-google)<sup>62</sup> 
 [yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kasikandriena](users/152/152488954-vkontakte)<sup>45</sup> 
 
 
-_24.06.2018 15:17:06_
+_24.06.2018 15:30:43_
