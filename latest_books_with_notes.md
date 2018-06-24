@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
@@ -30,7 +31,6 @@
 * Цикл "Век безумия" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>23</sup>
 * Черный человек ~ [Chandravadana](users/105/105866022348292919948-google)<sup>22</sup>
 * Хроники Реликта ~ [Chandravadana](users/105/105866022348292919948-google)<sup>21</sup>
-* Цикл "Сварог" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>20</sup>
 
 
-_19.06.2018 17:41:10_
+_24.06.2018 15:17:06_
