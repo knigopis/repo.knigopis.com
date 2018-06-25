@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>86</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>87</sup>
 ---
 
 ## 2018
+
+### Опасные связи
+Шодерло де Лакло
+> [2018-06-25] 
+
 
 ### Секрет платформы №13
 Ева Ибботсон
