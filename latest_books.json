@@ -1,4 +1,16 @@
 {
+    "NkCj7pYy07": {
+        "id": "NkCj7pYy07",
+        "title": "17 обновление (8)",
+        "author": "Георгий Смородинский",
+        "notes": "демон, Аэлит, Серый кот, Чейни",
+        "createdAt": "2018-06-25 11:54:12",
+        "user": {
+            "id": "12282474-vkontakte",
+            "nickname": "Tr",
+            "booksCount": 68
+        }
+    },
     "1uALy0xuDM": {
         "id": "1uALy0xuDM",
         "title": "Тринадцатая редакция. Модель событий",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 145
-        }
-    },
-    "LxDoD_pkNA": {
-        "id": "LxDoD_pkNA",
-        "title": "Олеся",
-        "author": "Александр Иванович Куприн",
-        "notes": "",
-        "createdAt": "2018-06-17 16:18:58",
-        "user": {
-            "id": "252651020-yandex",
-            "nickname": "Яна",
-            "booksCount": 21
         }
     }
 }

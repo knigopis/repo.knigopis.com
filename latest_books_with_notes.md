@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 * Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
@@ -30,7 +31,6 @@
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
 * Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
-* Хроники Амбера (Пятикнижие Корвина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>40</sup>
 
 
-_24.06.2018 18:10:43_
+_25.06.2018 11:54:12_

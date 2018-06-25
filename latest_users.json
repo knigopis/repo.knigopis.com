@@ -1,4 +1,10 @@
 {
+    "12282474-vkontakte": {
+        "id": "12282474-vkontakte",
+        "nickname": "Tr",
+        "booksCount": 68,
+        "updatedAt": "2018-06-25 11:54:12"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -136,12 +142,6 @@
         "nickname": "AlexeyNovikov",
         "booksCount": 49,
         "updatedAt": "2018-06-17 08:10:13"
-    },
-    "12282474-vkontakte": {
-        "id": "12282474-vkontakte",
-        "nickname": "Tr",
-        "booksCount": 67,
-        "updatedAt": "2018-06-17 01:43:48"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

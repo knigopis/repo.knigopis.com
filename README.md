@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
+    > демон, Аэлит, Серый кот, Чейни
+
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
     > «СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > Я  сидела с карандашом не для того чтобы цитаты подчеркивать на которых кстати буквально "едет" вся книга, а править стилистические и логические ошибки в этой книге
 
 * Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
-    > лучший способ достичь победы – это не воевать, а контролировать
-    > война – это достижение своих целей, не считаясь с потерями других участников процесса
 
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
 
-* Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Tr](users/122/12282474-vkontakte)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>639</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
@@ -57,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
-[Tr](users/122/12282474-vkontakte)<sup>67</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
 
 
-_24.06.2018 20:04:40_
+_25.06.2018 11:54:12_
