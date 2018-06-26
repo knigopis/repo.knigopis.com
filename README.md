@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[radiomir154](users/409/409866568-vkontakte)<sup>0</sup> 
+[radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>639</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 
 
-_26.06.2018 01:41:33_
+_26.06.2018 01:42:43_

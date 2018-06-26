@@ -1,4 +1,16 @@
 {
+    "-PeXYdTvDN": {
+        "id": "-PeXYdTvDN",
+        "title": "Марсианские хроники",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-06-26 01:42:43",
+        "user": {
+            "id": "409866568-vkontakte",
+            "nickname": "radiomir154",
+            "booksCount": 1
+        }
+    },
     "S_oTzFHTaN": {
         "id": "S_oTzFHTaN",
         "title": "Опасные связи",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 124
-        }
-    },
-    "7aIqe8A1lk": {
-        "id": "7aIqe8A1lk",
-        "title": "Удивительная Земля",
-        "author": "Сергей Рязанский",
-        "notes": "в процессе",
-        "createdAt": "2018-06-17 22:13:58",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 162
         }
     }
 }
