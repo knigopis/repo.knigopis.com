@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[radiomir154](users/409/409866568-vkontakte)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>639</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
-[Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup> 
 
 
-_25.06.2018 13:41:28_
+_26.06.2018 01:41:33_
