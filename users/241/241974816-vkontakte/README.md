@@ -1,4 +1,4 @@
-# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>162</sup>
+# List of books read by [Ник Литвинов](http://litvinov.spb.ru/)<sup>163</sup>
 ---
 
 ## 2018
@@ -16,6 +16,13 @@
 > в процессе
 > 
 > https://www.ozon.ru/context/detail/id/139146884/
+
+
+### Психоделический опыт
+Лири Т., Метцнер Р., Олперт Р.
+> [2018-06-25] в процессе
+> 
+> http://www.leary.ru/books/psy/
 
 
 ### Семь языков Бога

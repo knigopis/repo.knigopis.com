@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
@@ -30,7 +31,6 @@
 * Цикл "Проклятые короли" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>56</sup>
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
 * Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
-* Хроники Амбера (Пятикнижие Мерлина) ~ [Chandravadana](users/105/105866022348292919948-google)<sup>41</sup>
 
 
-_25.06.2018 11:54:12_
+_26.06.2018 21:24:59_

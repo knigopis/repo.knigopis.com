@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
+    > в процессе
+    > 
+    > http://www.leary.ru/books/psy/
+
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
     > демон, Аэлит, Серый кот, Чейни
 
@@ -12,7 +17,6 @@ Do not use pull requests to make changes here.
     > «СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»
 
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
-    > Я  сидела с карандашом не для того чтобы цитаты подчеркивать на которых кстати буквально "едет" вся книга, а править стилистические и логические ошибки в этой книге
 
 * Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
 
@@ -26,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
 
-* Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
@@ -54,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>124</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup> 
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
@@ -65,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 
 
-_26.06.2018 01:42:43_
+_26.06.2018 21:24:59_
