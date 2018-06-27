@@ -35,12 +35,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>640</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>50</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>639</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>62</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 
 
-_27.06.2018 07:19:47_
+_27.06.2018 07:54:38_

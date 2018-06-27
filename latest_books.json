@@ -1,4 +1,16 @@
 {
+    "v_QGG3q4x0": {
+        "id": "v_QGG3q4x0",
+        "title": "Тринадцатая редакция. Напиток богов",
+        "author": "Ольга Лукас",
+        "notes": "",
+        "createdAt": "2018-06-27 07:54:38",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 640
+        }
+    },
     "2SCIFwXOYW": {
         "id": "2SCIFwXOYW",
         "title": "Доктор Живаго",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 49
-        }
-    },
-    "yH00PL8WZl": {
-        "id": "yH00PL8WZl",
-        "title": "Элегантность ёжика",
-        "author": "Мюриель Барбери",
-        "notes": "",
-        "createdAt": "2018-06-19 17:32:16",
-        "user": {
-            "id": "115388297580792197479-google",
-            "nickname": "Lirenda",
-            "booksCount": 1
         }
     }
 }
