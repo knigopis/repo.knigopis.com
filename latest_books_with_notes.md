@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
@@ -30,7 +31,6 @@
 * Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
 * Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
 * Цикл "Проклятые короли" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>56</sup>
-* Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
 
 
-_27.06.2018 13:10:09_
+_27.06.2018 13:11:16_

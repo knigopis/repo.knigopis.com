@@ -1,4 +1,16 @@
 {
+    "g0UOfi6MND": {
+        "id": "g0UOfi6MND",
+        "title": "Зеленая Брама",
+        "author": "Долматовский Евгений",
+        "notes": "royallib",
+        "createdAt": "2018-06-27 13:11:16",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 64
+        }
+    },
     "sbNvobdWV7": {
         "id": "sbNvobdWV7",
         "title": "Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 56
-        }
-    },
-    "n01lS_l8J_": {
-        "id": "n01lS_l8J_",
-        "title": "Цикл \"Волкодав\"",
-        "author": "Мария Семёнова",
-        "notes": "Волкодав, Волкодав. Право на поединок, Волкодав. Истовик-камень,\nВолкодав. Знамение пути, Волкодав. Самоцветные горы",
-        "createdAt": "2018-06-04 21:49:51",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 52
         }
     }
 }
