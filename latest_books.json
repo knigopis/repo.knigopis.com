@@ -1,4 +1,16 @@
 {
+    "jiB9d_BXYZ": {
+        "id": "jiB9d_BXYZ",
+        "title": "Прометей восставший",
+        "author": "Р.Уилсон",
+        "notes": "в процессе",
+        "createdAt": "2018-06-27 21:57:13",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 164
+        }
+    },
     "g0UOfi6MND": {
         "id": "g0UOfi6MND",
         "title": "Зеленая Брама",
@@ -345,18 +357,6 @@
             "id": "2060252005-instagram",
             "nickname": "ksenisky",
             "booksCount": 4
-        }
-    },
-    "ZMOZ9jAASD": {
-        "id": "ZMOZ9jAASD",
-        "title": "Сон смешного человека",
-        "author": "Ф.М.Достоевский",
-        "notes": "",
-        "createdAt": "2018-06-19 20:31:13",
-        "user": {
-            "id": "2060252005-instagram",
-            "nickname": "ksenisky",
-            "booksCount": 3
         }
     }
 }

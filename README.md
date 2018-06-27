@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
+    > в процессе
+
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
     > royallib
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Kindle ASIN: B072HLS5QJ
 
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
-    > в процессе
-    > 
-    > http://www.leary.ru/books/psy/
 
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 
@@ -28,18 +28,16 @@ Do not use pull requests to make changes here.
 
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 
-* Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>64</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>125</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>640</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>50</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 
 
-_27.06.2018 13:11:16_
+_27.06.2018 21:57:13_
