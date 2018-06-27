@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
+    > Kindle ASIN: B072HLS5QJ
+
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
     > в процессе
     > 
@@ -14,7 +17,6 @@ Do not use pull requests to make changes here.
     > демон, Аэлит, Серый кот, Чейни
 
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
-    > «СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»
 
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 
@@ -28,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
 
-* Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>63</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>125</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>640</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>50</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 
 
-_27.06.2018 12:36:27_
+_27.06.2018 13:10:09_

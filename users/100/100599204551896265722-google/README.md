@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>62</sup>
+# Список прочитанных книг пользователя exulted<sup>63</sup>
 ---
 
 ## 2018
+
+### Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex
+Aubrey Marcus
+> [2018-06-22] Kindle ASIN: B072HLS5QJ
+
 
 ### Рассвет над Киевом (Истребители-3)
 Ворожейкин Арсений Васильевич

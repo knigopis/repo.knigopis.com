@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
 * Цикл "Проклятые короли" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>56</sup>
 * Цикл "Волкодав" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>52</sup>
-* Цикл "Эдем" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>43</sup>
 
 
-_26.06.2018 21:24:59_
+_27.06.2018 13:10:09_
