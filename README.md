@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>50</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
@@ -60,11 +61,10 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>49</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>184</sup> 
 
 
-_26.06.2018 21:24:59_
+_27.06.2018 07:19:47_

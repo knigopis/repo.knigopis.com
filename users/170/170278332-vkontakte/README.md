@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>49</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>50</sup>
 ---
 
 ## 2018
+
+### Доктор Живаго
+Б. Пастернак
+> [2018-06-27] 
+
 
 ### Game of thrones (ENG)
 G. Martin

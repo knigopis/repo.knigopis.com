@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 50,
+        "updatedAt": "2018-06-27 07:19:47"
+    },
     "241974816-vkontakte": {
         "id": "241974816-vkontakte",
         "nickname": "Ник Литвинов",
@@ -148,12 +154,6 @@
         "nickname": "jinnd",
         "booksCount": 0,
         "updatedAt": "2018-06-17 14:29:47"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 49,
-        "updatedAt": "2018-06-17 08:10:13"
     },
     "30558181-vkontakte": {
         "id": "30558181-vkontakte",

@@ -1,4 +1,16 @@
 {
+    "2SCIFwXOYW": {
+        "id": "2SCIFwXOYW",
+        "title": "Доктор Живаго",
+        "author": "Б. Пастернак",
+        "notes": "",
+        "createdAt": "2018-06-27 07:19:47",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 50
+        }
+    },
     "wyWhT9U_Ty": {
         "id": "wyWhT9U_Ty",
         "title": "Психоделический опыт",
@@ -345,18 +357,6 @@
             "id": "115388297580792197479-google",
             "nickname": "Lirenda",
             "booksCount": 1
-        }
-    },
-    "UUT8KzW4H5": {
-        "id": "UUT8KzW4H5",
-        "title": "Наивно. Супер",
-        "author": "Эрленд Лу",
-        "notes": "",
-        "createdAt": "2018-06-18 18:52:46",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 635
         }
     }
 }
