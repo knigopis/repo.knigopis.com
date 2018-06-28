@@ -1,4 +1,16 @@
 {
+    "hydyi8F9wK": {
+        "id": "hydyi8F9wK",
+        "title": "Скотный двор",
+        "author": "Дж. Ору",
+        "notes": "",
+        "createdAt": "2018-06-28 14:36:12",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 51
+        }
+    },
     "jiB9d_BXYZ": {
         "id": "jiB9d_BXYZ",
         "title": "Прометей восставший",
@@ -345,18 +357,6 @@
             "id": "2060252005-instagram",
             "nickname": "ksenisky",
             "booksCount": 5
-        }
-    },
-    "relK0-Dt-n": {
-        "id": "relK0-Dt-n",
-        "title": "Вешние воды",
-        "author": "Тургенев",
-        "notes": "",
-        "createdAt": "2018-06-19 20:31:48",
-        "user": {
-            "id": "2060252005-instagram",
-            "nickname": "ksenisky",
-            "booksCount": 4
         }
     }
 }

@@ -1,4 +1,4 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>50</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>51</sup>
 ---
 
 ## 2018
@@ -41,6 +41,10 @@ G. Martin
 ### Владычица озера
 А. Сапковский
 > [2018-01] 
+
+
+### Скотный двор
+Дж. Ору
 
 
 
