@@ -1,4 +1,16 @@
 {
+    "D_bKhNhKhD": {
+        "id": "D_bKhNhKhD",
+        "title": "Тринадцатая редакция. Неубедимый",
+        "author": "Ольга Лукас",
+        "notes": "",
+        "createdAt": "2018-06-28 21:15:03",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 641
+        }
+    },
     "hydyi8F9wK": {
         "id": "hydyi8F9wK",
         "title": "Скотный двор",
@@ -345,18 +357,6 @@
             "id": "2060252005-instagram",
             "nickname": "ksenisky",
             "booksCount": 6
-        }
-    },
-    "Ot08ZOgC8p": {
-        "id": "Ot08ZOgC8p",
-        "title": "Превращение",
-        "author": "Франц Кафка",
-        "notes": "",
-        "createdAt": "2018-06-19 20:32:07",
-        "user": {
-            "id": "2060252005-instagram",
-            "nickname": "ksenisky",
-            "booksCount": 5
         }
     }
 }
