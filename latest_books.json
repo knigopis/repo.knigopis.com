@@ -1,4 +1,16 @@
 {
+    "jtfJ5YrACf": {
+        "id": "jtfJ5YrACf",
+        "title": "Капитанская дочка",
+        "author": "Александр Пушкин",
+        "notes": "",
+        "createdAt": "2018-06-29 13:27:39",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 126
+        }
+    },
     "D_bKhNhKhD": {
         "id": "D_bKhNhKhD",
         "title": "Тринадцатая редакция. Неубедимый",
@@ -345,18 +357,6 @@
             "id": "2060252005-instagram",
             "nickname": "ksenisky",
             "booksCount": 7
-        }
-    },
-    "6cNb1sy7TN": {
-        "id": "6cNb1sy7TN",
-        "title": "Страдания юного Вертера",
-        "author": "Гете",
-        "notes": "",
-        "createdAt": "2018-06-19 20:32:28",
-        "user": {
-            "id": "2060252005-instagram",
-            "nickname": "ksenisky",
-            "booksCount": 6
         }
     }
 }

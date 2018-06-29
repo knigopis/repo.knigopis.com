@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>641</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>64</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>125</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 
 
-_28.06.2018 21:15:03_
+_29.06.2018 13:27:40_
