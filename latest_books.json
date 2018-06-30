@@ -1,4 +1,16 @@
 {
+    "VfeJ1gpADU": {
+        "id": "VfeJ1gpADU",
+        "title": "Терновая ведьма. Изольда",
+        "author": "Спащенко Евгения",
+        "notes": "",
+        "createdAt": "2018-06-30 07:37:07",
+        "user": {
+            "id": "135846026-vkontakte",
+            "nickname": "dr.knyshenko",
+            "booksCount": 3
+        }
+    },
     "rZmSq4qQch": {
         "id": "rZmSq4qQch",
         "title": "Доктор Лиза Глинка: \"Я всегда на стороне слабого\". Дневники, беседы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 636
-        }
-    },
-    "r9BIHFDtQz": {
-        "id": "r9BIHFDtQz",
-        "title": "Это наш дом",
-        "author": "Артем Каменистый",
-        "notes": "",
-        "createdAt": "2018-06-20 05:16:25",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 312
         }
     }
 }
