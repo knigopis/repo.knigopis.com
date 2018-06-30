@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Чайка по имени Джонатан Ливингстон ~ [Chandravadana](users/105/105866022348292919948-google)<sup>66</sup>
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
 * Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
-* Таинственный остров ~ [Chandravadana](users/105/105866022348292919948-google)<sup>57</sup>
 
 
-_27.06.2018 21:57:13_
+_30.06.2018 17:16:27_

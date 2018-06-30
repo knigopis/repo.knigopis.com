@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
+    > ISBN: 978-5-9533-5489-9
+
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
     > в процессе
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > royallib
 
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
-    > Kindle ASIN: B072HLS5QJ
 
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 
@@ -26,19 +28,17 @@ Do not use pull requests to make changes here.
 
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 
-* Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>65</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>642</sup> 
 [dr.knyshenko](users/135/135846026-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>64</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 
 
-_30.06.2018 10:04:43_
+_30.06.2018 17:16:27_
