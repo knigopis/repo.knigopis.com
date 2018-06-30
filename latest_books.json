@@ -1,4 +1,16 @@
 {
+    "hKjxPxWv5p": {
+        "id": "hKjxPxWv5p",
+        "title": "Лабиринт Иллюзий",
+        "author": "Кургузкин Александр",
+        "notes": "",
+        "createdAt": "2018-06-30 17:19:19",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 66
+        }
+    },
     "NH8axPuHR8": {
         "id": "NH8axPuHR8",
         "title": "Челюскинская эпопея",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 638
-        }
-    },
-    "uyd-FbUnQR": {
-        "id": "uyd-FbUnQR",
-        "title": "Пожарный",
-        "author": "Джо Хилл",
-        "notes": "",
-        "createdAt": "2018-06-21 18:33:14",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 60
         }
     }
 }
