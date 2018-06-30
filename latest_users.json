@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 642,
+        "updatedAt": "2018-06-30 10:04:43"
+    },
     "135846026-vkontakte": {
         "id": "135846026-vkontakte",
         "nickname": "dr.knyshenko",
@@ -10,12 +16,6 @@
         "nickname": "borodach",
         "booksCount": 126,
         "updatedAt": "2018-06-29 13:27:39"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 641,
-        "updatedAt": "2018-06-28 21:15:03"
     },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
