@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dr.knyshenko](users/135/135846026-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>641</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
-[trynkina84](users/344/34430558-vkontakte)<sup>0</sup> 
 
 
-_29.06.2018 13:27:40_
+_30.06.2018 06:48:05_
