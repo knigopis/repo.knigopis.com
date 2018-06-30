@@ -1,4 +1,16 @@
 {
+    "rZmSq4qQch": {
+        "id": "rZmSq4qQch",
+        "title": "Доктор Лиза Глинка: \"Я всегда на стороне слабого\". Дневники, беседы",
+        "author": "",
+        "notes": "Доктор Лиза Глинка",
+        "createdAt": "2018-06-30 07:09:08",
+        "user": {
+            "id": "135846026-vkontakte",
+            "nickname": "dr.knyshenko",
+            "booksCount": 2
+        }
+    },
     "jtfJ5YrACf": {
         "id": "jtfJ5YrACf",
         "title": "Капитанская дочка",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 312
-        }
-    },
-    "yGPiR2_y0R": {
-        "id": "yGPiR2_y0R",
-        "title": "Дом с мезонином",
-        "author": "Чехов",
-        "notes": "",
-        "createdAt": "2018-06-19 20:32:48",
-        "user": {
-            "id": "2060252005-instagram",
-            "nickname": "ksenisky",
-            "booksCount": 7
         }
     }
 }

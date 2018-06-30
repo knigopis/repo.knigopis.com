@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dr.knyshenko](users/135/135846026-vkontakte)<sup>0</sup> 
+[dr.knyshenko](users/135/135846026-vkontakte)<sup>2</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>641</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 
 
-_30.06.2018 06:48:05_
+_30.06.2018 07:09:08_
