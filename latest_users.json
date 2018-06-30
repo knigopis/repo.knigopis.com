@@ -1,4 +1,10 @@
 {
+    "135846026-vkontakte": {
+        "id": "135846026-vkontakte",
+        "nickname": "dr.knyshenko",
+        "booksCount": 0,
+        "updatedAt": "2018-06-30 06:47:58"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "ale56585227",
         "booksCount": 0,
         "updatedAt": "2018-06-13 12:10:12"
-    },
-    "34430558-vkontakte": {
-        "id": "34430558-vkontakte",
-        "nickname": "trynkina84",
-        "booksCount": 0,
-        "updatedAt": "2018-06-13 10:50:53"
     }
 }
