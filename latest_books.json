@@ -1,4 +1,16 @@
 {
+    "17Ugs0_GH5": {
+        "id": "17Ugs0_GH5",
+        "title": "The gift",
+        "author": "Cecelia Ahern",
+        "notes": "",
+        "createdAt": "2018-07-01 15:52:15",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 61
+        }
+    },
     "BMikZQYM4g": {
         "id": "BMikZQYM4g",
         "title": "Карильский цикл 1",
@@ -345,18 +357,6 @@
             "id": "249815548-vkontakte",
             "nickname": "striped_one",
             "booksCount": 20
-        }
-    },
-    "Q_FNQJqz9E": {
-        "id": "Q_FNQJqz9E",
-        "title": "Before he Kills",
-        "author": "Blake Pierce",
-        "notes": "",
-        "createdAt": "2018-06-23 09:02:03",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 125
         }
     }
 }

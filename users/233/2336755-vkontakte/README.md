@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>60</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>61</sup>
 ---
 
 ## 2018
+
+### The gift
+Cecelia Ahern
+> [2018-06-30] 
+
 
 ### Пожарный
 Джо Хилл

@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 61,
+        "updatedAt": "2018-07-01 15:52:15"
+    },
     "105423374604597435255-google": {
         "id": "105423374604597435255-google",
         "nickname": "Taya",
@@ -124,12 +130,6 @@
         "nickname": "Lost in Frost",
         "booksCount": 125,
         "updatedAt": "2018-06-23 09:02:03"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 60,
-        "updatedAt": "2018-06-21 18:33:14"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

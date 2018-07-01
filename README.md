@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 [Искатель](users/127/1278959218901837-facebook)<sup>0</sup> 
@@ -54,7 +55,6 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
-[katrinvredina](users/233/2336755-vkontakte)<sup>60</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 
 
-_01.07.2018 15:16:49_
+_01.07.2018 15:52:16_
