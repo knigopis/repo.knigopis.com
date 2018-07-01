@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Искатель](users/127/1278959218901837-facebook)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>642</sup> 
 [dr.knyshenko](users/135/135846026-vkontakte)<sup>3</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
-[ale56585227](users/629/62955747-yandex)<sup>0</sup> 
 
 
-_30.06.2018 17:19:19_
+_01.07.2018 07:57:33_
