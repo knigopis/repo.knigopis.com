@@ -1,4 +1,10 @@
 {
+    "105423374604597435255-google": {
+        "id": "105423374604597435255-google",
+        "nickname": "Taya",
+        "booksCount": 0,
+        "updatedAt": "2018-07-01 15:16:47"
+    },
     "116868120340592837366-google": {
         "id": "116868120340592837366-google",
         "nickname": "Vyrdalak",
@@ -172,11 +178,5 @@
         "nickname": "Яна",
         "booksCount": 21,
         "updatedAt": "2018-06-17 16:18:58"
-    },
-    "46410003-vkontakte": {
-        "id": "46410003-vkontakte",
-        "nickname": "jinnd",
-        "booksCount": 0,
-        "updatedAt": "2018-06-17 14:29:47"
     }
 }
