@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vyrdalak](users/116/116868120340592837366-google)<sup>0</sup> 
 [Искатель](users/127/1278959218901837-facebook)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>642</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 [Яна](users/252/252651020-yandex)<sup>21</sup> 
 [jinnd](users/464/46410003-vkontakte)<sup>0</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>147</sup> 
 
 
-_01.07.2018 07:57:33_
+_01.07.2018 12:14:01_
