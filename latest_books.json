@@ -1,4 +1,16 @@
 {
+    "XETtqHQY-s": {
+        "id": "XETtqHQY-s",
+        "title": "Тени старой квартиры",
+        "author": "Дезомбре Дарья",
+        "notes": "Интересный атмосферный детектив про Питер.",
+        "createdAt": "2018-07-01 18:05:11",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 63
+        }
+    },
     "17Ugs0_GH5": {
         "id": "17Ugs0_GH5",
         "title": "The gift",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 39
-        }
-    },
-    "95GeE9Xtu9": {
-        "id": "95GeE9Xtu9",
-        "title": "Заводной апельсин",
-        "author": "Энтони Бёрджесс",
-        "notes": "",
-        "createdAt": "2018-06-23 13:32:55",
-        "user": {
-            "id": "249815548-vkontakte",
-            "nickname": "striped_one",
-            "booksCount": 20
         }
     }
 }

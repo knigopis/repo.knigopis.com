@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
@@ -30,7 +31,6 @@
 * Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
 * Чайка по имени Джонатан Ливингстон ~ [Chandravadana](users/105/105866022348292919948-google)<sup>66</sup>
 * Серия "Гарри Поттер" ~ [Chandravadana](users/105/105866022348292919948-google)<sup>65</sup>
-* Капитан Блад ~ [Chandravadana](users/105/105866022348292919948-google)<sup>61</sup>
 
 
-_30.06.2018 17:16:27_
+_01.07.2018 18:05:12_

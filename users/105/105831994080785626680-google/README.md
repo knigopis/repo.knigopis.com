@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>62</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>63</sup>
 ---
 
 ## 2018
+
+### Тени старой квартиры
+Дезомбре Дарья
+> [2018-06] Интересный атмосферный детектив про Питер.
+
 
 ### Магия чисел
 Бенждамин Артур
