@@ -1,4 +1,16 @@
 {
+    "BMikZQYM4g": {
+        "id": "BMikZQYM4g",
+        "title": "Карильский цикл 1",
+        "author": "Татьяна Зинина",
+        "notes": "",
+        "createdAt": "2018-07-01 12:15:15",
+        "user": {
+            "id": "116868120340592837366-google",
+            "nickname": "Vyrdalak",
+            "booksCount": 1
+        }
+    },
     "hKjxPxWv5p": {
         "id": "hKjxPxWv5p",
         "title": "Лабиринт Иллюзий",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 125
-        }
-    },
-    "ynDS88ZWPF": {
-        "id": "ynDS88ZWPF",
-        "title": "Тринадцатая редакция. Найти и исполнить",
-        "author": "Ольга Лукас",
-        "notes": "",
-        "createdAt": "2018-06-22 17:02:01",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 638
         }
     }
 }
