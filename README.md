@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
+    > маловато рецептов, но интересные сюжеты
+
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
     > Интересный атмосферный детектив про Питер.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-9533-5489-9
 
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
-    > в процессе
 
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 
-* Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>63</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
-[Яна](users/252/252651020-yandex)<sup>21</sup> 
 
 
-_01.07.2018 18:05:12_
+_02.07.2018 11:53:20_

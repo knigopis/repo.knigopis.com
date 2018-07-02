@@ -1,4 +1,16 @@
 {
+    "yliOODeZqq": {
+        "id": "yliOODeZqq",
+        "title": "Чайная книга",
+        "author": "Макс Фрай",
+        "notes": "маловато рецептов, но интересные сюжеты",
+        "createdAt": "2018-07-02 11:53:20",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 47
+        }
+    },
     "XETtqHQY-s": {
         "id": "XETtqHQY-s",
         "title": "Тени старой квартиры",
@@ -345,18 +357,6 @@
             "id": "2352103981-twitter",
             "nickname": "Eji_tyan",
             "booksCount": 40
-        }
-    },
-    "ayMXjIYYQB": {
-        "id": "ayMXjIYYQB",
-        "title": "О дивный новый мир. (аудио)",
-        "author": "Олдос Хаксли",
-        "notes": "",
-        "createdAt": "2018-06-23 18:45:28",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 39
         }
     }
 }
