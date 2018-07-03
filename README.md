@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>67</sup> 
 [En](users/333/333646551-vkontakte)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>63</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
-[lucius](users/838/83820536-yandex)<sup>145</sup> 
 
 
-_03.07.2018 18:16:20_
+_03.07.2018 22:18:18_
