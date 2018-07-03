@@ -1,4 +1,16 @@
 {
+    "8xo8lKqb0i": {
+        "id": "8xo8lKqb0i",
+        "title": "Летающий слон",
+        "author": "Акунин Борис",
+        "notes": "",
+        "createdAt": "2018-07-03 18:16:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 67
+        }
+    },
     "yliOODeZqq": {
         "id": "yliOODeZqq",
         "title": "Чайная книга",
@@ -345,18 +357,6 @@
             "id": "114827603276481734117-google",
             "nickname": "yukucrow",
             "booksCount": 1
-        }
-    },
-    "GMIe2RvhhN": {
-        "id": "GMIe2RvhhN",
-        "title": "Мы. (аудио)",
-        "author": "Евгений Замятин",
-        "notes": "",
-        "createdAt": "2018-06-23 18:46:24",
-        "user": {
-            "id": "2352103981-twitter",
-            "nickname": "Eji_tyan",
-            "booksCount": 40
         }
     }
 }

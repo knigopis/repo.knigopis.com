@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>67</sup> 
 [En](users/333/333646551-vkontakte)<sup>47</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>63</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 [Искатель](users/127/1278959218901837-facebook)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>66</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>642</sup> 
 [dr.knyshenko](users/135/135846026-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [lucius](users/838/83820536-yandex)<sup>145</sup> 
 
 
-_02.07.2018 11:53:20_
+_03.07.2018 18:16:20_

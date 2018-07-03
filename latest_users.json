@@ -1,4 +1,10 @@
 {
+    "100599204551896265722-google": {
+        "id": "100599204551896265722-google",
+        "nickname": "exulted",
+        "booksCount": 67,
+        "updatedAt": "2018-07-03 18:16:20"
+    },
     "333646551-vkontakte": {
         "id": "333646551-vkontakte",
         "nickname": "En",
@@ -34,12 +40,6 @@
         "nickname": "Искатель",
         "booksCount": 0,
         "updatedAt": "2018-07-01 07:57:29"
-    },
-    "100599204551896265722-google": {
-        "id": "100599204551896265722-google",
-        "nickname": "exulted",
-        "booksCount": 66,
-        "updatedAt": "2018-06-30 17:19:19"
     },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
