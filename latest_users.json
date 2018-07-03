@@ -1,4 +1,10 @@
 {
+    "66072413-vkontakte": {
+        "id": "66072413-vkontakte",
+        "nickname": "Георгий Ващук",
+        "booksCount": 0,
+        "updatedAt": "2018-07-03 22:18:13"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "manik",
         "booksCount": 0,
         "updatedAt": "2018-06-18 09:38:16"
-    },
-    "83820536-yandex": {
-        "id": "83820536-yandex",
-        "nickname": "lucius",
-        "booksCount": 145,
-        "updatedAt": "2018-06-17 16:50:32"
     }
 }
