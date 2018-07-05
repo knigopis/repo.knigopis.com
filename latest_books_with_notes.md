@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
@@ -30,7 +31,6 @@
 * Артемида ~ [Tr](users/122/12282474-vkontakte)<sup>61</sup>
 * Объектный подход 1,2 ~ [Tr](users/122/12282474-vkontakte)<sup>60</sup>
 * Боги среди людей ~ [Chiffi](users/105/105831994080785626680-google)<sup>60</sup>
-* Процесс ~ [rNix](users/115/115622071-twitter)<sup>64</sup>
 
 
-_05.07.2018 16:28:19_
+_05.07.2018 20:15:02_

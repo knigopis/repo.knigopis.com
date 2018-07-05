@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
+    > Краткие тезисы в стиле комиксов о том, чем был СССР, для тех, кто его в сознательном возрасте не застал. Неплохая вещь, хотя и с отдельными передергиваниями. Даже более-менее точная. Занятно ее будет посмотреть тем, кто СССР хорошо помнит. Вроде меня :)
+
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
     > Книга отличается от остальных произведений Мураками, пожалуй, обилием сексуальных сцен и более приземленным сюжетом. Я не особо понял её глубинный смысл, но прочиталась она довольно легко и нашлась пара интересных мыслей и необычных моментов. Но хотелось бы выделить интересных персонажей, каждый из которых - очень яркий и неповторимый
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > маловато рецептов, но интересные сюжеты
 
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
-    > Интересный атмосферный детектив про Питер.
 
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 
-* Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [dr.knyshenko](users/135/135846026-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup> 
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>87</sup> 
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_05.07.2018 16:28:19_
+_05.07.2018 20:15:02_
