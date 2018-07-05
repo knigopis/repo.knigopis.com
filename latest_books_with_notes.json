@@ -1,4 +1,16 @@
 {
+    "ePGMpYrYap": {
+        "id": "ePGMpYrYap",
+        "title": "Дети небес",
+        "author": "Вернор Виндж",
+        "notes": "Виндж, как обычно, невозможно прекрасен ;)\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/142615353/",
+        "createdAt": "2018-07-05 20:17:21",
+        "user": {
+            "id": "241974816-vkontakte",
+            "nickname": "Ник Литвинов",
+            "booksCount": 166
+        }
+    },
     "bw3s2z6are": {
         "id": "bw3s2z6are",
         "title": "Советский стиль: история и люди",
@@ -344,18 +356,6 @@
         "user": {
             "id": "12282474-vkontakte",
             "nickname": "Tr",
-            "booksCount": 60
-        }
-    },
-    "RYWiRImL95": {
-        "id": "RYWiRImL95",
-        "title": "Боги среди людей",
-        "author": "Аткинсон Кейт",
-        "notes": "Продолжение? / вторая половина книги Жизнь после жизни",
-        "createdAt": "2018-06-09 17:28:46",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
             "booksCount": 60
         }
     }
