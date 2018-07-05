@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 643,
+        "updatedAt": "2018-07-05 11:53:46"
+    },
     "66072413-vkontakte": {
         "id": "66072413-vkontakte",
         "nickname": "Георгий Ващук",
@@ -46,12 +52,6 @@
         "nickname": "Искатель",
         "booksCount": 0,
         "updatedAt": "2018-07-01 07:57:29"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 642,
-        "updatedAt": "2018-06-30 10:04:43"
     },
     "135846026-vkontakte": {
         "id": "135846026-vkontakte",

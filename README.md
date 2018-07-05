@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>67</sup> 
 [En](users/333/333646551-vkontakte)<sup>47</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 [Искатель](users/127/1278959218901837-facebook)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>642</sup> 
 [dr.knyshenko](users/135/135846026-vkontakte)<sup>3</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>126</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>51</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_03.07.2018 22:18:18_
+_05.07.2018 11:53:47_
