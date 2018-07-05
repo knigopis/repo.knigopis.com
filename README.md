@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
+    > Книга отличается от остальных произведений Мураками, пожалуй, обилием сексуальных сцен и более приземленным сюжетом. Я не особо понял её глубинный смысл, но прочиталась она довольно легко и нашлась пара интересных мыслей и необычных моментов. Но хотелось бы выделить интересных персонажей, каждый из которых - очень яркий и неповторимый
+
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
     > маловато рецептов, но интересные сюжеты
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Интересный атмосферный детектив про Питер.
 
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
-    > ISBN: 978-5-9533-5489-9
 
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
 
-* Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>67</sup> 
@@ -60,9 +61,8 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>49</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_05.07.2018 11:53:47_
+_05.07.2018 16:28:19_
