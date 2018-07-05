@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/137817839/
+
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
     > Виндж, как обычно, невозможно прекрасен ;)
     > 
@@ -16,7 +21,6 @@ Do not use pull requests to make changes here.
     > Краткие тезисы в стиле комиксов о том, чем был СССР, для тех, кто его в сознательном возрасте не застал. Неплохая вещь, хотя и с отдельными передергиваниями. Даже более-менее точная. Занятно ее будет посмотреть тем, кто СССР хорошо помнит. Вроде меня :)
 
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
-    > Книга отличается от остальных произведений Мураками, пожалуй, обилием сексуальных сцен и более приземленным сюжетом. Я не особо понял её глубинный смысл, но прочиталась она довольно легко и нашлась пара интересных мыслей и необычных моментов. Но хотелось бы выделить интересных персонажей, каждый из которых - очень яркий и неповторимый
 
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
 
@@ -30,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
 
-* Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
@@ -69,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_05.07.2018 20:17:21_
+_05.07.2018 20:27:10_
