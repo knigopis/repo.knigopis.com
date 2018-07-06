@@ -1,4 +1,16 @@
 {
+    "R8VXd3vpUd": {
+        "id": "R8VXd3vpUd",
+        "title": "Север и Юг",
+        "author": "Элизабет Гаскелл",
+        "notes": "",
+        "createdAt": "2018-07-06 07:52:59",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 92
+        }
+    },
     "DkN0TxspJ0": {
         "id": "DkN0TxspJ0",
         "title": "Ночь в монастыре с привидениями",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 50
-        }
-    },
-    "wyWhT9U_Ty": {
-        "id": "wyWhT9U_Ty",
-        "title": "Психоделический опыт",
-        "author": "Лири Т., Метцнер Р., Олперт Р.",
-        "notes": "в процессе\n\nhttp://www.leary.ru/books/psy/",
-        "createdAt": "2018-06-26 21:24:59",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 163
         }
     }
 }
