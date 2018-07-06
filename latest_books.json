@@ -1,4 +1,16 @@
 {
+    "iBXfq5B4Bx": {
+        "id": "iBXfq5B4Bx",
+        "title": "Крэнфорд",
+        "author": "Элизабет Гаскелл",
+        "notes": "",
+        "createdAt": "2018-07-06 07:53:14",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 93
+        }
+    },
     "R8VXd3vpUd": {
         "id": "R8VXd3vpUd",
         "title": "Север и Юг",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 640
-        }
-    },
-    "2SCIFwXOYW": {
-        "id": "2SCIFwXOYW",
-        "title": "Доктор Живаго",
-        "author": "Б. Пастернак",
-        "notes": "",
-        "createdAt": "2018-06-27 07:19:47",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 50
         }
     }
 }

@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>92</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>93</sup>
 ---
 
 ## 2018
+
+### Крэнфорд
+Элизабет Гаскелл
+> [2018-07-06] 
+
 
 ### Север и Юг
 Элизабет Гаскелл
