@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Vitalich](users/530/530070540740891-facebook)<sup>0</sup> 
+[Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>93</sup> 
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 
 
-_06.07.2018 22:12:44_
+_06.07.2018 22:13:44_

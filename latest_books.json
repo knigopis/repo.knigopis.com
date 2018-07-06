@@ -1,4 +1,16 @@
 {
+    "bVHa0bAGzD": {
+        "id": "bVHa0bAGzD",
+        "title": "Javascript в примерах и задачах",
+        "author": "Васильев",
+        "notes": "",
+        "createdAt": "2018-07-06 22:13:44",
+        "user": {
+            "id": "530070540740891-facebook",
+            "nickname": "Vitalich",
+            "booksCount": 1
+        }
+    },
     "iBXfq5B4Bx": {
         "id": "iBXfq5B4Bx",
         "title": "Крэнфорд",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 125
-        }
-    },
-    "v_QGG3q4x0": {
-        "id": "v_QGG3q4x0",
-        "title": "Тринадцатая редакция. Напиток богов",
-        "author": "Ольга Лукас",
-        "notes": "",
-        "createdAt": "2018-06-27 07:54:38",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 640
         }
     }
 }
