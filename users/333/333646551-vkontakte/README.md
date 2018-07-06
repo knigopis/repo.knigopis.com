@@ -1,7 +1,12 @@
-# List of books read by [En](http://vk.com/id333646551)<sup>47</sup>
+# List of books read by [En](http://vk.com/id333646551)<sup>48</sup>
 ---
 
 ## 2018
+
+### Мечтают ли андроиды об электроовцах
+Дик Филлип Декарт
+> [2018-07-06] 
+
 
 ### Чайная книга
 Макс Фрай
