@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>88</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>89</sup>
 ---
 
 ## 2018
+
+### Тайна нефритовой доски
+Роберт ван Гулик
+> [2018-06-29] 
+
 
 ### Опасные связи
 Шодерло де Лакло

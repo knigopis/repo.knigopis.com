@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sky](users/118/118049897850017649660-google)<sup>88</sup> 
+[Sky](users/118/118049897850017649660-google)<sup>89</sup> 
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_06.07.2018 07:49:20_
+_06.07.2018 07:50:12_
