@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>93</sup> 
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 [Emilia3](users/108/108597795887093847729-google)<sup>0</sup> 
-[manik](users/211/211778159637422-facebook)<sup>0</sup> 
 
 
-_06.07.2018 07:53:14_
+_06.07.2018 10:29:05_
