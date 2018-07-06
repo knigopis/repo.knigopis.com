@@ -1,4 +1,16 @@
 {
+    "DnNMnBaypV": {
+        "id": "DnNMnBaypV",
+        "title": "Мисс Ведьма",
+        "author": "Ева Ибботсон",
+        "notes": "",
+        "createdAt": "2018-07-06 07:49:20",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 88
+        }
+    },
     "94T5NUnV1n": {
         "id": "94T5NUnV1n",
         "title": "Мечтают ли андроиды об электроовцах",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 68
-        }
-    },
-    "1uALy0xuDM": {
-        "id": "1uALy0xuDM",
-        "title": "Тринадцатая редакция. Модель событий",
-        "author": "Ольга Лукас",
-        "notes": "",
-        "createdAt": "2018-06-24 20:04:40",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 639
         }
     }
 }
