@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>90</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>91</sup>
 ---
 
 ## 2018
+
+### Ночь в монастыре с привидениями
+Роберт ван Гулик
+> [2018-07-03] 
+
 
 ### Четыре пальца
 Роберт ван Гулик

@@ -1,4 +1,16 @@
 {
+    "DkN0TxspJ0": {
+        "id": "DkN0TxspJ0",
+        "title": "Ночь в монастыре с привидениями",
+        "author": "Роберт ван Гулик",
+        "notes": "",
+        "createdAt": "2018-07-06 07:51:56",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 91
+        }
+    },
     "J7S8GhpriX": {
         "id": "J7S8GhpriX",
         "title": "Четыре пальца",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 163
-        }
-    },
-    "-PeXYdTvDN": {
-        "id": "-PeXYdTvDN",
-        "title": "Марсианские хроники",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-06-26 01:42:43",
-        "user": {
-            "id": "409866568-vkontakte",
-            "nickname": "radiomir154",
-            "booksCount": 1
         }
     }
 }
