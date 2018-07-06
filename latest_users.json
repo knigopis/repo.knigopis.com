@@ -1,4 +1,10 @@
 {
+    "530070540740891-facebook": {
+        "id": "530070540740891-facebook",
+        "nickname": "Vitalich",
+        "booksCount": 0,
+        "updatedAt": "2018-07-06 22:12:35"
+    },
     "117175077027328679997-google": {
         "id": "117175077027328679997-google",
         "nickname": "Baltazar",
@@ -172,11 +178,5 @@
         "nickname": "Lirenda",
         "booksCount": 3,
         "updatedAt": "2018-06-19 18:07:12"
-    },
-    "108597795887093847729-google": {
-        "id": "108597795887093847729-google",
-        "nickname": "Emilia3",
-        "booksCount": 0,
-        "updatedAt": "2018-06-19 08:24:46"
     }
 }
