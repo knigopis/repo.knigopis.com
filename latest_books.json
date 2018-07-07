@@ -1,4 +1,16 @@
 {
+    "WP5UmG_gXy": {
+        "id": "WP5UmG_gXy",
+        "title": "Лис",
+        "author": "Игорь Малышев",
+        "notes": "",
+        "createdAt": "2018-07-07 08:20:31",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 644
+        }
+    },
     "5pEMaV8BFI": {
         "id": "5pEMaV8BFI",
         "title": "Прожорливое время",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 642
-        }
-    },
-    "VfeJ1gpADU": {
-        "id": "VfeJ1gpADU",
-        "title": "Терновая ведьма. Изольда",
-        "author": "Спащенко Евгения",
-        "notes": "",
-        "createdAt": "2018-06-30 07:37:07",
-        "user": {
-            "id": "135846026-vkontakte",
-            "nickname": "dr.knyshenko",
-            "booksCount": 3
         }
     }
 }

@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>67</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 
 
-_07.07.2018 07:11:33_
+_07.07.2018 08:20:32_
