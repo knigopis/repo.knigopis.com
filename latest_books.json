@@ -1,4 +1,16 @@
 {
+    "AZ_IM1ZdVx": {
+        "id": "AZ_IM1ZdVx",
+        "title": "Соглядатай",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-07-07 07:08:40",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 18
+        }
+    },
     "tYTPf22qsd": {
         "id": "tYTPf22qsd",
         "title": "Если бы ты знал",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 164
-        }
-    },
-    "g0UOfi6MND": {
-        "id": "g0UOfi6MND",
-        "title": "Зеленая Брама",
-        "author": "Долматовский Евгений",
-        "notes": "royallib",
-        "createdAt": "2018-06-27 13:11:16",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 64
         }
     }
 }
