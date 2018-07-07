@@ -1,4 +1,16 @@
 {
+    "Dfm5bXYDAX": {
+        "id": "Dfm5bXYDAX",
+        "title": "Охотник на кроликов",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-07-07 07:10:14",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 22
+        }
+    },
     "kdY0FaSIDW": {
         "id": "kdY0FaSIDW",
         "title": "Контракт Паганини",
@@ -345,18 +357,6 @@
             "id": "135846026-vkontakte",
             "nickname": "dr.knyshenko",
             "booksCount": 2
-        }
-    },
-    "jtfJ5YrACf": {
-        "id": "jtfJ5YrACf",
-        "title": "Капитанская дочка",
-        "author": "Александр Пушкин",
-        "notes": "",
-        "createdAt": "2018-06-29 13:27:39",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 126
         }
     }
 }

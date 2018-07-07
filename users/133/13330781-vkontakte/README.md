@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>21</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>22</sup>
 ---
 
 ## 2018
+
+### Охотник на кроликов
+Ларс Кеплер
+> [2018-06] 
+
 
 ### Контракт Паганини
 Ларс Кеплер
