@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
+    > скандинавский детектив.
+
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
     > в процессе
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/142615353/
 
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
-    > Краткие тезисы в стиле комиксов о том, чем был СССР, для тех, кто его в сознательном возрасте не застал. Неплохая вещь, хотя и с отдельными передергиваниями. Даже более-менее точная. Занятно ее будет посмотреть тем, кто СССР хорошо помнит. Вроде меня :)
 
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 
-* Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>93</sup> 
@@ -48,7 +49,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>643</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>67</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>63</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lirenda](users/115/115388297580792197479-google)<sup>3</sup> 
 
 
-_06.07.2018 22:13:44_
+_07.07.2018 05:44:08_

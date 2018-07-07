@@ -1,7 +1,12 @@
-# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>63</sup>
+# List of books read by [Chiffi](https://plus.google.com/105831994080785626680)<sup>64</sup>
 ---
 
 ## 2018
+
+### Я путешествую одна
+Бьорк Самюэль
+> [2018-07] скандинавский детектив.
+
 
 ### Тени старой квартиры
 Дезомбре Дарья

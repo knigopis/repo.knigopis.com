@@ -1,4 +1,16 @@
 {
+    "bqNZN5S4eu": {
+        "id": "bqNZN5S4eu",
+        "title": "Я путешествую одна",
+        "author": "Бьорк Самюэль",
+        "notes": "скандинавский детектив.",
+        "createdAt": "2018-07-07 05:44:08",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 64
+        }
+    },
     "EbKQbC4Jx4": {
         "id": "EbKQbC4Jx4",
         "title": "Стартап по Кавасаки. Проверенные методы начала любого дела",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 62
-        }
-    },
-    "3YN06221MK": {
-        "id": "3YN06221MK",
-        "title": "Артемида",
-        "author": "Энди Вейер",
-        "notes": "Девушка контрабандист на Луне\nЮморно",
-        "createdAt": "2018-06-10 00:53:28",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 61
         }
     }
 }
