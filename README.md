@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>22</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 
 
-_07.07.2018 07:10:14_
+_07.07.2018 07:11:33_
