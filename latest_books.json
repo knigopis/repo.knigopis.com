@@ -1,4 +1,16 @@
 {
+    "gRNbL7g_uD": {
+        "id": "gRNbL7g_uD",
+        "title": "Гипнотизер",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-07-07 07:09:01",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 19
+        }
+    },
     "AZ_IM1ZdVx": {
         "id": "AZ_IM1ZdVx",
         "title": "Соглядатай",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 51
-        }
-    },
-    "jiB9d_BXYZ": {
-        "id": "jiB9d_BXYZ",
-        "title": "Прометей восставший",
-        "author": "Р.Уилсон",
-        "notes": "в процессе",
-        "createdAt": "2018-06-27 21:57:13",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 164
         }
     }
 }

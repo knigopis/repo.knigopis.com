@@ -1,4 +1,4 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>18</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>19</sup>
 ---
 
 ## 2018
@@ -21,6 +21,11 @@
 ### Темные тайны
 Гиллиан Флинн
 > [2018-05-01] 
+
+
+### Гипнотизер
+Ларс Кеплер
+> [2018-05] 
 
 
 ### Соглядатай
