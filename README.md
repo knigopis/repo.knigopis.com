@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>312</sup> 
-[ksenisky](users/206/2060252005-instagram)<sup>7</sup> 
 
 
-_07.07.2018 08:20:32_
+_07.07.2018 11:43:57_
