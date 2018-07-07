@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>20</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>21</sup>
 ---
 
 ## 2018
+
+### Контракт Паганини
+Ларс Кеплер
+> [2018-06] 
+
 
 ### Песочный человек
 Ларс Кеплер

@@ -1,4 +1,16 @@
 {
+    "kdY0FaSIDW": {
+        "id": "kdY0FaSIDW",
+        "title": "Контракт Паганини",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-07-07 07:09:56",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 21
+        }
+    },
     "yGeo2n8wHg": {
         "id": "yGeo2n8wHg",
         "title": "Песочный человек",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 126
-        }
-    },
-    "D_bKhNhKhD": {
-        "id": "D_bKhNhKhD",
-        "title": "Тринадцатая редакция. Неубедимый",
-        "author": "Ольга Лукас",
-        "notes": "",
-        "createdAt": "2018-06-28 21:15:03",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 641
         }
     }
 }
