@@ -1,4 +1,16 @@
 {
+    "yGeo2n8wHg": {
+        "id": "yGeo2n8wHg",
+        "title": "Песочный человек",
+        "author": "Ларс Кеплер",
+        "notes": "",
+        "createdAt": "2018-07-07 07:09:25",
+        "user": {
+            "id": "13330781-vkontakte",
+            "nickname": "le_brouillard",
+            "booksCount": 20
+        }
+    },
     "gRNbL7g_uD": {
         "id": "gRNbL7g_uD",
         "title": "Гипнотизер",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 641
-        }
-    },
-    "hydyi8F9wK": {
-        "id": "hydyi8F9wK",
-        "title": "Скотный двор",
-        "author": "Дж. Ору",
-        "notes": "",
-        "createdAt": "2018-06-28 14:36:12",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 51
         }
     }
 }
