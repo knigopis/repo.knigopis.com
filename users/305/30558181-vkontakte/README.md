@@ -1,7 +1,12 @@
-# List of books read by [EsterHani](https://vk.com/id30558181)<sup>148</sup>
+# List of books read by [EsterHani](https://vk.com/id30558181)<sup>149</sup>
 ---
 
 ## 2018
+
+### Что ты выберешь? Решения, от которых зависит твоя жизнь
+Тал Бен-Шахар
+> [2018-07-08] 
+
 
 ### Minne, или Память по-шведски
 Идриз Зогай

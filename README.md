@@ -39,8 +39,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>148</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 
 
-_07.07.2018 21:29:29_
+_07.07.2018 21:33:17_

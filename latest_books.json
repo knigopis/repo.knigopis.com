@@ -1,4 +1,16 @@
 {
+    "Yn3uS6-S-h": {
+        "id": "Yn3uS6-S-h",
+        "title": "Что ты выберешь? Решения, от которых зависит твоя жизнь",
+        "author": "Тал Бен-Шахар",
+        "notes": "",
+        "createdAt": "2018-07-07 21:33:17",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 149
+        }
+    },
     "UNgV9geYd7": {
         "id": "UNgV9geYd7",
         "title": "Minne, или Память по-шведски",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 66
-        }
-    },
-    "NH8axPuHR8": {
-        "id": "NH8axPuHR8",
-        "title": "Челюскинская эпопея",
-        "author": "Корякин Владислав",
-        "notes": "ISBN: 978-5-9533-5489-9",
-        "createdAt": "2018-06-30 17:16:27",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 65
         }
     }
 }
