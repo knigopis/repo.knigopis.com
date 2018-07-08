@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borisovladislav](users/115/115704753977002350435-google)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [fire_ejik](users/329/32903202-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
-[bookhunter](users/116/116874179820969761027-google)<sup>0</sup> 
 
 
-_07.07.2018 22:46:51_
+_08.07.2018 08:56:02_
