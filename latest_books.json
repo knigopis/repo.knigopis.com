@@ -1,4 +1,16 @@
 {
+    "X2jdwhXAMa": {
+        "id": "X2jdwhXAMa",
+        "title": "Хилл Наполеон - Думай и богатей",
+        "author": "Хилл Наполеон",
+        "notes": "",
+        "createdAt": "2018-07-08 08:58:42",
+        "user": {
+            "id": "115704753977002350435-google",
+            "nickname": "borisovladislav",
+            "booksCount": 1
+        }
+    },
     "Yn3uS6-S-h": {
         "id": "Yn3uS6-S-h",
         "title": "Что ты выберешь? Решения, от которых зависит твоя жизнь",
@@ -345,18 +357,6 @@
             "id": "116868120340592837366-google",
             "nickname": "Vyrdalak",
             "booksCount": 1
-        }
-    },
-    "hKjxPxWv5p": {
-        "id": "hKjxPxWv5p",
-        "title": "Лабиринт Иллюзий",
-        "author": "Кургузкин Александр",
-        "notes": "",
-        "createdAt": "2018-06-30 17:19:19",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 66
         }
     }
 }

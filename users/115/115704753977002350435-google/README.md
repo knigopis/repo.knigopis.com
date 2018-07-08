@@ -1,0 +1,11 @@
+# List of books read by [borisovladislav](https://plus.google.com/115704753977002350435)<sup>1</sup>
+---
+
+## 2018
+
+### Хилл Наполеон - Думай и богатей
+Хилл Наполеон
+> [2018-07-08] 
+
+
+

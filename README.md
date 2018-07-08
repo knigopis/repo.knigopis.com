@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[borisovladislav](users/115/115704753977002350435-google)<sup>0</sup> 
+[borisovladislav](users/115/115704753977002350435-google)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 
 
-_08.07.2018 08:56:02_
+_08.07.2018 08:58:42_
