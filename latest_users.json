@@ -1,4 +1,10 @@
 {
+    "115704753977002350435-google": {
+        "id": "115704753977002350435-google",
+        "nickname": "borisovladislav",
+        "booksCount": 0,
+        "updatedAt": "2018-07-08 08:55:59"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -172,11 +178,5 @@
         "nickname": "striped_one",
         "booksCount": 20,
         "updatedAt": "2018-06-23 13:32:55"
-    },
-    "116874179820969761027-google": {
-        "id": "116874179820969761027-google",
-        "nickname": "bookhunter",
-        "booksCount": 0,
-        "updatedAt": "2018-06-23 11:01:34"
     }
 }
