@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
@@ -30,7 +31,6 @@
 * Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
 * Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
 * Проект Альверон ~ [Tr](users/122/12282474-vkontakte)<sup>64</sup>
-* Бегающий Сейф ~ [Tr](users/122/12282474-vkontakte)<sup>62</sup>
 
 
-_07.07.2018 05:44:08_
+_08.07.2018 15:36:59_

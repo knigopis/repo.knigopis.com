@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 86,
+        "updatedAt": "2018-07-08 15:36:59"
+    },
     "115704753977002350435-google": {
         "id": "115704753977002350435-google",
         "nickname": "borisovladislav",
@@ -172,11 +178,5 @@
         "nickname": "Eji_tyan",
         "booksCount": 40,
         "updatedAt": "2018-06-23 18:46:24"
-    },
-    "249815548-vkontakte": {
-        "id": "249815548-vkontakte",
-        "nickname": "striped_one",
-        "booksCount": 20,
-        "updatedAt": "2018-06-23 13:32:55"
     }
 }

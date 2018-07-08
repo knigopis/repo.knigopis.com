@@ -1,4 +1,4 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>85</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>86</sup>
 ---
 
 ## 2018
@@ -16,6 +16,11 @@
 ### Солнечная
 Иэн Макьюэн
 > [2018-04-03] 8,5/10
+
+
+### The Slight Edge
+Jeff Olson
+> [2018-04] 8,5/10
 
 
 ### Моне. По ту сторону холста

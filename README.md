@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
+    > 8,5/10
+
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
     > скандинавский детектив.
 
@@ -14,11 +17,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/137817839/
 
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
-    > Виндж, как обычно, невозможно прекрасен ;)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/142615353/
 
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
 
@@ -32,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 
-* Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>86</sup> 
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
@@ -68,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>0</sup> 
 [Eji_tyan](users/235/2352103981-twitter)<sup>40</sup> 
-[striped_one](users/249/249815548-vkontakte)<sup>20</sup> 
 
 
-_08.07.2018 08:59:51_
+_08.07.2018 15:36:59_

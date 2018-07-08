@@ -1,4 +1,16 @@
 {
+    "2_Uk5BQm6G": {
+        "id": "2_Uk5BQm6G",
+        "title": "The Slight Edge",
+        "author": "Jeff Olson",
+        "notes": "8,5/10",
+        "createdAt": "2018-07-08 15:36:59",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 86
+        }
+    },
     "bqNZN5S4eu": {
         "id": "bqNZN5S4eu",
         "title": "Я путешествую одна",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 64
-        }
-    },
-    "9BInvcMMuh": {
-        "id": "9BInvcMMuh",
-        "title": "Бегающий Сейф",
-        "author": "Вишневский Сергей Викторович",
-        "notes": "Мотя, леголас, таблеткин\nЛитрпг. Простенько, задорно",
-        "createdAt": "2018-06-10 00:57:23",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 62
         }
     }
 }
