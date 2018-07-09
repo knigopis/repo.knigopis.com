@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tr](users/122/12282474-vkontakte)<sup>68</sup> 
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
-[yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
 
 
-_09.07.2018 13:50:58_
+_09.07.2018 14:25:50_
