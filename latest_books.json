@@ -1,4 +1,16 @@
 {
+    "vWf_FiEE8d": {
+        "id": "vWf_FiEE8d",
+        "title": "Инсайт",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-07-09 06:34:52",
+        "user": {
+            "id": "73323849-yandex",
+            "nickname": "inna.besprozvannykh",
+            "booksCount": 43
+        }
+    },
     "2_Uk5BQm6G": {
         "id": "2_Uk5BQm6G",
         "title": "The Slight Edge",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 63
-        }
-    },
-    "17Ugs0_GH5": {
-        "id": "17Ugs0_GH5",
-        "title": "The gift",
-        "author": "Cecelia Ahern",
-        "notes": "",
-        "createdAt": "2018-07-01 15:52:15",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 61
         }
     }
 }
