@@ -1,4 +1,16 @@
 {
+    "EvLspaw0cH": {
+        "id": "EvLspaw0cH",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "",
+        "createdAt": "2018-07-09 19:13:21",
+        "user": {
+            "id": "10202544960024508-facebook",
+            "nickname": "Beaviska",
+            "booksCount": 28
+        }
+    },
     "54KL6cmTmF": {
         "id": "54KL6cmTmF",
         "title": "A sound of thunder (ENG)",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 50
-        }
-    },
-    "h1-NzfsCf3": {
-        "id": "h1-NzfsCf3",
-        "title": "Камо грядеши",
-        "author": "Генрик Сенкевич",
-        "notes": "",
-        "createdAt": "2018-07-05 11:53:46",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 643
         }
     }
 }
