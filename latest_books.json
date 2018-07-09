@@ -1,4 +1,16 @@
 {
+    "bBMNUbJ9Dx": {
+        "id": "bBMNUbJ9Dx",
+        "title": "Колосс Маруссийски",
+        "author": "Генри Миллер",
+        "notes": "",
+        "createdAt": "2018-07-09 09:48:24",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 127
+        }
+    },
     "vWf_FiEE8d": {
         "id": "vWf_FiEE8d",
         "title": "Инсайт",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 47
-        }
-    },
-    "XETtqHQY-s": {
-        "id": "XETtqHQY-s",
-        "title": "Тени старой квартиры",
-        "author": "Дезомбре Дарья",
-        "notes": "Интересный атмосферный детектив про Питер.",
-        "createdAt": "2018-07-01 18:05:11",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 63
         }
     }
 }
