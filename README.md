@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>94</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>93</sup> 
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 
 
-_09.07.2018 19:14:09_
+_09.07.2018 20:48:35_
