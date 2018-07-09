@@ -35,7 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Beaviska](users/102/10202544960024508-facebook)<sup>30</sup> 
+[Beaviska](users/102/10202544960024508-facebook)<sup>29</sup> 
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>68</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 
 
-_09.07.2018 19:13:52_
+_09.07.2018 19:14:07_
