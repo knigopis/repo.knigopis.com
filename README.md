@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup> 
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [ODINSY](users/100/100978570902186865324-google)<sup>66</sup> 
 [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup> 
 [yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
-[fire_ejik](users/329/32903202-vkontakte)<sup>0</sup> 
 
 
-_09.07.2018 06:35:08_
+_09.07.2018 08:28:09_
