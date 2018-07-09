@@ -1,4 +1,10 @@
 {
+    "115146632229320342074-google": {
+        "id": "115146632229320342074-google",
+        "nickname": "Koraks",
+        "booksCount": 0,
+        "updatedAt": "2018-07-09 08:28:02"
+    },
     "73323849-yandex": {
         "id": "73323849-yandex",
         "nickname": "inna.besprozvannykh",
@@ -172,11 +178,5 @@
         "nickname": "yukucrow",
         "booksCount": 2,
         "updatedAt": "2018-06-24 11:46:47"
-    },
-    "32903202-vkontakte": {
-        "id": "32903202-vkontakte",
-        "nickname": "fire_ejik",
-        "booksCount": 0,
-        "updatedAt": "2018-06-23 18:52:09"
     }
 }
