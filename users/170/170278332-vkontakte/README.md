@@ -1,4 +1,4 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>51</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>52</sup>
 ---
 
 ## 2018
@@ -16,6 +16,11 @@
 ### Game of thrones (ENG)
 G. Martin
 > [2018-06-16] 
+
+
+### A sound of thunder (ENG)
+Ray Bradbury
+> [2018-06-09] 
 
 
 ### Золотой теленок

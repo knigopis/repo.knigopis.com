@@ -1,4 +1,16 @@
 {
+    "54KL6cmTmF": {
+        "id": "54KL6cmTmF",
+        "title": "A sound of thunder (ENG)",
+        "author": "Ray Bradbury",
+        "notes": "",
+        "createdAt": "2018-07-09 13:50:58",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 52
+        }
+    },
     "J52nJwNDpR": {
         "id": "J52nJwNDpR",
         "title": "Вилы",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 643
-        }
-    },
-    "8xo8lKqb0i": {
-        "id": "8xo8lKqb0i",
-        "title": "Летающий слон",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2018-07-03 18:16:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 67
         }
     }
 }
