@@ -1,4 +1,4 @@
-# List of books read by inna.besprozvannykh<sup>43</sup>
+# List of books read by inna.besprozvannykh<sup>42</sup>
 ---
 
 ## 2018
@@ -31,9 +31,6 @@
 ### Зов предков
 Джек Лондон
 > [2018-01-24] 
-
-
-### Инсайт
 
 
 
