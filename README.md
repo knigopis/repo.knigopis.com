@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
@@ -53,7 +54,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>67</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [yukucrow](users/114/114827603276481734117-google)<sup>2</sup> 
 
 
-_09.07.2018 09:48:24_
+_09.07.2018 12:25:30_
