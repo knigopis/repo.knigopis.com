@@ -1,4 +1,10 @@
 {
+    "158266434925901-facebook": {
+        "id": "158266434925901-facebook",
+        "nickname": "GvenVivar ",
+        "booksCount": 45,
+        "updatedAt": "2018-07-11 10:36:40"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "Tr",
         "booksCount": 68,
         "updatedAt": "2018-06-25 11:54:12"
-    },
-    "100978570902186865324-google": {
-        "id": "100978570902186865324-google",
-        "nickname": "ODINSY",
-        "booksCount": 66,
-        "updatedAt": "2018-06-24 18:10:43"
     }
 }

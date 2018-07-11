@@ -1,7 +1,12 @@
-# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>44</sup>
+# List of books read by [GvenVivar ](https://www.facebook.com/app_scoped_user_id/158266434925901/)<sup>45</sup>
 ---
 
 ## 2018
+
+### ▫ Анна Каренина
+Лев Толстой
+> [2018-07-11] 
+
 
 ### ▫Противостояние
 Стивен Кинг
