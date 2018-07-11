@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>94</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>95</sup>
 ---
 
 ## 2018
+
+### Замок Броуди
+Арчибальд Кронин
+> [2018-07-11] 
+
 
 ### Женщина в белом
 Уилки Коллинз

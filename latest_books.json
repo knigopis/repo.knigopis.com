@@ -1,4 +1,16 @@
 {
+    "DeDfvq6u9v": {
+        "id": "DeDfvq6u9v",
+        "title": "Замок Броуди",
+        "author": "Арчибальд Кронин",
+        "notes": "",
+        "createdAt": "2018-07-11 15:22:12",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 95
+        }
+    },
     "zRVejgEyx5": {
         "id": "zRVejgEyx5",
         "title": "Новые земли",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 88
-        }
-    },
-    "94T5NUnV1n": {
-        "id": "94T5NUnV1n",
-        "title": "Мечтают ли андроиды об электроовцах",
-        "author": "Дик Филлип Декарт",
-        "notes": "",
-        "createdAt": "2018-07-06 04:21:53",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 48
         }
     }
 }

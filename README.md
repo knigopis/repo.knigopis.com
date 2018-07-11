@@ -35,9 +35,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>95</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>315</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>45</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>94</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [radiomir154](users/409/409866568-vkontakte)<sup>1</sup> 
 
 
-_11.07.2018 13:07:12_
+_11.07.2018 15:22:12_
