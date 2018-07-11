@@ -1,4 +1,16 @@
 {
+    "zRVejgEyx5": {
+        "id": "zRVejgEyx5",
+        "title": "Новые земли",
+        "author": "Артём Каменистый",
+        "notes": "",
+        "createdAt": "2018-07-11 13:07:11",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 315
+        }
+    },
     "fwkdCIEiP1": {
         "id": "fwkdCIEiP1",
         "title": "Пленники чужих гор",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 48
-        }
-    },
-    "EbKQbC4Jx4": {
-        "id": "EbKQbC4Jx4",
-        "title": "Стартап по Кавасаки. Проверенные методы начала любого дела",
-        "author": "Гай Кавасаки",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/137817839/",
-        "createdAt": "2018-07-05 20:27:09",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 167
         }
     }
 }
