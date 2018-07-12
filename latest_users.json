@@ -1,4 +1,10 @@
 {
+    "109105433240139697598-google": {
+        "id": "109105433240139697598-google",
+        "nickname": "kvak",
+        "booksCount": 0,
+        "updatedAt": "2018-07-12 05:08:51"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "dr.knyshenko",
         "booksCount": 3,
         "updatedAt": "2018-06-30 07:37:07"
-    },
-    "409866568-vkontakte": {
-        "id": "409866568-vkontakte",
-        "nickname": "radiomir154",
-        "booksCount": 1,
-        "updatedAt": "2018-06-26 01:42:43"
     }
 }
