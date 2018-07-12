@@ -1,11 +1,3 @@
-# List of books read by [Марина Неизвестно](https://my.mail.ru/mail/mgirl1994/)<sup>1</sup>
+# List of books read by [Марина Неизвестно](https://my.mail.ru/mail/mgirl1994/)<sup>0</sup>
 ---
-
-## 2018
-
-### а
-а
-> вапывапывпа
-
-
 
