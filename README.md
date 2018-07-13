@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>87</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>69</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
@@ -49,7 +50,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>86</sup> 
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 
 
-_13.07.2018 15:59:57_
+_13.07.2018 22:17:38_

@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 87,
+        "updatedAt": "2018-07-13 22:17:38"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -82,12 +88,6 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 42,
         "updatedAt": "2018-07-09 06:35:07"
-    },
-    "52821952-vkontakte": {
-        "id": "52821952-vkontakte",
-        "nickname": "Apprentice ",
-        "booksCount": 86,
-        "updatedAt": "2018-07-08 15:36:59"
     },
     "115704753977002350435-google": {
         "id": "115704753977002350435-google",
