@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>69</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>68</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 
 
-_12.07.2018 17:33:25_
+_13.07.2018 12:38:25_
