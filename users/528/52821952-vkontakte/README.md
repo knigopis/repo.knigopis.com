@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>87</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>88</sup>
 ---
 
 ## 2018
+
+### Этот неподражаемый Дживс
+Пелам Вудхаус
+> [2018-06] 10/10
+
 
 ### Пикник на обочине
 Аркадий и Борис Стругацкие

@@ -1,4 +1,16 @@
 {
+    "0H_8lpNYZl": {
+        "id": "0H_8lpNYZl",
+        "title": "Этот неподражаемый Дживс",
+        "author": "Пелам Вудхаус",
+        "notes": "10/10",
+        "createdAt": "2018-07-13 22:18:38",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 88
+        }
+    },
     "2_Uk5BQm6G": {
         "id": "2_Uk5BQm6G",
         "title": "The Slight Edge",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 65
-        }
-    },
-    "Ou1B8tVd5a": {
-        "id": "Ou1B8tVd5a",
-        "title": "Проект Альверон",
-        "author": "Денис Новинкин, Денис Решетняк",
-        "notes": "Уже и не помню про что там было...",
-        "createdAt": "2018-06-10 01:03:45",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 64
         }
     }
 }

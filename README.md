@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
+    > 10/10
+
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
     > 8,5/10
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > скандинавский детектив.
 
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/137817839/
 
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
 
@@ -28,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 
-* Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Apprentice ](users/528/52821952-vkontakte)<sup>87</sup> 
+[Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>69</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 
 
-_13.07.2018 22:17:38_
+_13.07.2018 22:18:38_

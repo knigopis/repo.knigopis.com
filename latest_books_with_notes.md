@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
@@ -30,7 +31,6 @@
 * Сокровища Валькирии. Стоящий у солнца ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup>
 * Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
 * Безымянный раб: великие спящие 1-2 ~ [Tr](users/122/12282474-vkontakte)<sup>65</sup>
-* Проект Альверон ~ [Tr](users/122/12282474-vkontakte)<sup>64</sup>
 
 
-_08.07.2018 15:36:59_
+_13.07.2018 22:18:38_
