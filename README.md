@@ -67,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 
 
-_13.07.2018 15:59:51_
+_13.07.2018 15:59:57_
