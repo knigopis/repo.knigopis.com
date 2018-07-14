@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>69</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 [Taya](users/105/105423374604597435255-google)<sup>0</sup> 
-[Vyrdalak](users/116/116868120340592837366-google)<sup>1</sup> 
 
 
-_13.07.2018 22:18:38_
+_14.07.2018 07:26:34_
