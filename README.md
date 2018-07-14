@@ -33,13 +33,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>70</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>2</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>69</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 
 
-_14.07.2018 17:30:26_
+_14.07.2018 18:49:14_

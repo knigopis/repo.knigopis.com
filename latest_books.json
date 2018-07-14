@@ -1,4 +1,16 @@
 {
+    "kLfXSHeWu6": {
+        "id": "kLfXSHeWu6",
+        "title": "Дети Луны",
+        "author": "Акунин Борис",
+        "notes": "",
+        "createdAt": "2018-07-14 18:49:14",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 70
+        }
+    },
     "M_Bjqnt8dj": {
         "id": "M_Bjqnt8dj",
         "title": "Прислуга",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 20
-        }
-    },
-    "gRNbL7g_uD": {
-        "id": "gRNbL7g_uD",
-        "title": "Гипнотизер",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-07-07 07:09:01",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 19
         }
     }
 }
