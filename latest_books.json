@@ -1,4 +1,16 @@
 {
+    "M_Bjqnt8dj": {
+        "id": "M_Bjqnt8dj",
+        "title": "Прислуга",
+        "author": "Кэтрин Стокэт",
+        "notes": "⭐⭐⭐⭐⭐",
+        "createdAt": "2018-07-14 17:30:26",
+        "user": {
+            "id": "113014998782270174609-google",
+            "nickname": "Rorian",
+            "booksCount": 2
+        }
+    },
     "sDV7reiHbz": {
         "id": "sDV7reiHbz",
         "title": "В тихом омуте",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 19
-        }
-    },
-    "AZ_IM1ZdVx": {
-        "id": "AZ_IM1ZdVx",
-        "title": "Соглядатай",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-07-07 07:08:40",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 18
         }
     }
 }
