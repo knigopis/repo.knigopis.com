@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>70</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup> 
-[Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 
 
-_14.07.2018 19:15:57_
+_14.07.2018 21:10:36_
