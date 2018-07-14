@@ -1,4 +1,10 @@
 {
+    "5880221-vkontakte": {
+        "id": "5880221-vkontakte",
+        "nickname": "sonics",
+        "booksCount": 56,
+        "updatedAt": "2018-07-14 18:56:43"
+    },
     "113014998782270174609-google": {
         "id": "113014998782270174609-google",
         "nickname": "Rorian",
@@ -172,11 +178,5 @@
         "nickname": "Saamy",
         "booksCount": 50,
         "updatedAt": "2018-07-05 16:28:18"
-    },
-    "66072413-vkontakte": {
-        "id": "66072413-vkontakte",
-        "nickname": "Георгий Ващук",
-        "booksCount": 0,
-        "updatedAt": "2018-07-03 22:18:13"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "kIu9QwvkuZ": {
+        "id": "kIu9QwvkuZ",
+        "title": "1",
+        "author": "1",
+        "notes": "1",
+        "createdAt": "2018-07-14 18:56:43",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 56
+        }
+    },
     "ZFJ0T2E6l7": {
         "id": "ZFJ0T2E6l7",
         "title": "",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 22
-        }
-    },
-    "kdY0FaSIDW": {
-        "id": "kdY0FaSIDW",
-        "title": "Контракт Паганини",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-07-07 07:09:56",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 21
         }
     }
 }
