@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Rorian](users/113/113014998782270174609-google)<sup>2</sup> 
+[Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>56</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>70</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>50</sup> 
 
 
-_14.07.2018 19:01:00_
+_14.07.2018 19:02:55_

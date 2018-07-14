@@ -1,4 +1,16 @@
 {
+    "6eD_oTag6k": {
+        "id": "6eD_oTag6k",
+        "title": "Молчание ягнят",
+        "author": "Томас Харрис",
+        "notes": "⭐⭐⭐",
+        "createdAt": "2018-07-14 19:02:55",
+        "user": {
+            "id": "113014998782270174609-google",
+            "nickname": "Rorian",
+            "booksCount": 3
+        }
+    },
     "kIu9QwvkuZ": {
         "id": "kIu9QwvkuZ",
         "title": "1",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 23
-        }
-    },
-    "Dfm5bXYDAX": {
-        "id": "Dfm5bXYDAX",
-        "title": "Охотник на кроликов",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-07-07 07:10:14",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 22
         }
     }
 }
