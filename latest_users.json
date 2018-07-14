@@ -1,4 +1,10 @@
 {
+    "107339513-vkontakte": {
+        "id": "107339513-vkontakte",
+        "nickname": "n.musinyan",
+        "booksCount": 0,
+        "updatedAt": "2018-07-14 08:17:42"
+    },
     "111831677640715338524-youtube": {
         "id": "111831677640715338524-youtube",
         "nickname": "Suertiss",
@@ -172,11 +178,5 @@
         "nickname": "katrinvredina",
         "booksCount": 61,
         "updatedAt": "2018-07-01 15:52:15"
-    },
-    "105423374604597435255-google": {
-        "id": "105423374604597435255-google",
-        "nickname": "Taya",
-        "booksCount": 0,
-        "updatedAt": "2018-07-01 15:16:47"
     }
 }
