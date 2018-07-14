@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>52</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>53</sup>
 ---
 
 ## 2018
+
+### Норвежский лес
+Харуки Мураками
+> [2018-07-14] 
+
 
 ### Скотный двор
 Дж. Оруэлл

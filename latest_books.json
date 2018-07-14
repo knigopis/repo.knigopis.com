@@ -1,4 +1,16 @@
 {
+    "-XwB_MID1G": {
+        "id": "-XwB_MID1G",
+        "title": "Норвежский лес",
+        "author": "Харуки Мураками",
+        "notes": "",
+        "createdAt": "2018-07-14 09:22:56",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 53
+        }
+    },
     "0H_8lpNYZl": {
         "id": "0H_8lpNYZl",
         "title": "Этот неподражаемый Дживс",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 17
-        }
-    },
-    "bqNZN5S4eu": {
-        "id": "bqNZN5S4eu",
-        "title": "Я путешествую одна",
-        "author": "Бьорк Самюэль",
-        "notes": "скандинавский детектив.",
-        "createdAt": "2018-07-07 05:44:08",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 64
         }
     }
 }

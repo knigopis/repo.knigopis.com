@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
@@ -46,7 +47,6 @@ _More notes [here](latest_books_with_notes.md)._
 [GvenVivar ](users/158/158266434925901-facebook)<sup>45</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>52</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [katrinvredina](users/233/2336755-vkontakte)<sup>61</sup> 
 
 
-_14.07.2018 08:17:44_
+_14.07.2018 09:22:56_
