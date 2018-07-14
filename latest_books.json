@@ -1,4 +1,16 @@
 {
+    "jOp_dA59xv": {
+        "id": "jOp_dA59xv",
+        "title": "Как я украл миллион. Исповедь раскаявшегося кардера.",
+        "author": "Сергей Павлович",
+        "notes": "Отличная и поучительная книга. Позже допишу полноценный отчет о прочтении...",
+        "createdAt": "2018-07-14 19:15:57",
+        "user": {
+            "id": "5880221-vkontakte",
+            "nickname": "sonics",
+            "booksCount": 57
+        }
+    },
     "6eD_oTag6k": {
         "id": "6eD_oTag6k",
         "title": "Молчание ягнят",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 644
-        }
-    },
-    "5pEMaV8BFI": {
-        "id": "5pEMaV8BFI",
-        "title": "Прожорливое время",
-        "author": "Эндрю Джеймс Жартли",
-        "notes": "",
-        "createdAt": "2018-07-07 07:11:33",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 23
         }
     }
 }
