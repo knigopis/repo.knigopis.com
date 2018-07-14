@@ -1,4 +1,10 @@
 {
+    "113014998782270174609-google": {
+        "id": "113014998782270174609-google",
+        "nickname": "Rorian",
+        "booksCount": 0,
+        "updatedAt": "2018-07-14 14:17:06"
+    },
     "170278332-vkontakte": {
         "id": "170278332-vkontakte",
         "nickname": "AlexeyNovikov",
@@ -172,11 +178,5 @@
         "nickname": "Георгий Ващук",
         "booksCount": 0,
         "updatedAt": "2018-07-03 22:18:13"
-    },
-    "2336755-vkontakte": {
-        "id": "2336755-vkontakte",
-        "nickname": "katrinvredina",
-        "booksCount": 61,
-        "updatedAt": "2018-07-01 15:52:15"
     }
 }
