@@ -1,4 +1,10 @@
 {
+    "111831677640715338524-youtube": {
+        "id": "111831677640715338524-youtube",
+        "nickname": "Suertiss",
+        "booksCount": 0,
+        "updatedAt": "2018-07-14 07:26:31"
+    },
     "52821952-vkontakte": {
         "id": "52821952-vkontakte",
         "nickname": "Apprentice ",
@@ -172,11 +178,5 @@
         "nickname": "Taya",
         "booksCount": 0,
         "updatedAt": "2018-07-01 15:16:47"
-    },
-    "116868120340592837366-google": {
-        "id": "116868120340592837366-google",
-        "nickname": "Vyrdalak",
-        "booksCount": 1,
-        "updatedAt": "2018-07-01 12:15:15"
     }
 }
