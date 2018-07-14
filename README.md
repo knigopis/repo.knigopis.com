@@ -33,8 +33,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>70</sup> 
-[Rorian](users/113/113014998782270174609-google)<sup>2</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Георгий Ващук](users/660/66072413-vkontakte)<sup>0</sup> 
 
 
-_14.07.2018 18:49:14_
+_14.07.2018 18:53:02_

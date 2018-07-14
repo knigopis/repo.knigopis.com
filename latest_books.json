@@ -1,4 +1,16 @@
 {
+    "ZFJ0T2E6l7": {
+        "id": "ZFJ0T2E6l7",
+        "title": "",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-07-14 18:53:02",
+        "user": {
+            "id": "113014998782270174609-google",
+            "nickname": "Rorian",
+            "booksCount": 3
+        }
+    },
     "kLfXSHeWu6": {
         "id": "kLfXSHeWu6",
         "title": "Дети Луны",
@@ -345,18 +357,6 @@
             "id": "13330781-vkontakte",
             "nickname": "le_brouillard",
             "booksCount": 21
-        }
-    },
-    "yGeo2n8wHg": {
-        "id": "yGeo2n8wHg",
-        "title": "Песочный человек",
-        "author": "Ларс Кеплер",
-        "notes": "",
-        "createdAt": "2018-07-07 07:09:25",
-        "user": {
-            "id": "13330781-vkontakte",
-            "nickname": "le_brouillard",
-            "booksCount": 20
         }
     }
 }
