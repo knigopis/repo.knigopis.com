@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
+    > Kindle
+    > ASIN: B01FWQPY2A
+
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
     > Отличная и поучительная книга. Позже допишу полноценный отчет о прочтении...
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > 10/10
 
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
-    > 8,5/10
 
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 
@@ -26,19 +29,17 @@ Do not use pull requests to make changes here.
 
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
 
-* Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>71</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>70</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 
 
-_15.07.2018 18:39:12_
+_15.07.2018 19:39:07_

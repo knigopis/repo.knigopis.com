@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>70</sup>
+# Список прочитанных книг пользователя exulted<sup>71</sup>
 ---
 
 ## 2018
+
+### Calculus For Dummies (For Dummies (Math & Science))
+Mark Ryan
+> [2018-07-15] Kindle
+> ASIN: B01FWQPY2A
+
 
 ### Дети Луны
 Акунин Борис

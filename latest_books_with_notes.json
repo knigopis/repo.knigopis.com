@@ -1,4 +1,16 @@
 {
+    "2SK_37jvdC": {
+        "id": "2SK_37jvdC",
+        "title": "Calculus For Dummies (For Dummies (Math & Science))",
+        "author": "Mark Ryan",
+        "notes": "Kindle\nASIN: B01FWQPY2A",
+        "createdAt": "2018-07-15 19:39:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 71
+        }
+    },
     "jOp_dA59xv": {
         "id": "jOp_dA59xv",
         "title": "Как я украл миллион. Исповедь раскаявшегося кардера.",
@@ -345,18 +357,6 @@
             "id": "12601720503917094896-mailru",
             "nickname": "Neccochi",
             "booksCount": 49
-        }
-    },
-    "KlQqSkswHF": {
-        "id": "KlQqSkswHF",
-        "title": "Оборона дурацкого брода",
-        "author": "Эрнест Данлоп Суинтон",
-        "notes": "Книга о лейтенанте Заднеумов Крепкий, которому необходимо не дать превосходящим силам противника перейти брод. В основе лежит тактика save&load, по которой лейтенанта дрючат до тех пор, пока он не освоит уроки. Прообраз гадюкинского моста и Грани Будущего",
-        "createdAt": "2018-06-10 03:09:06",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 66
         }
     }
 }

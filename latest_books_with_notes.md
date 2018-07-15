@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
 * Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
@@ -30,7 +31,6 @@
 * Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
 * Вещие сестрички ~ [Garka](users/115/115753719718250012620-google)<sup>183</sup>
 * Сокровища Валькирии. Стоящий у солнца ~ [Neccochi](users/126/12601720503917094896-mailru)<sup>49</sup>
-* Оборона дурацкого брода ~ [Tr](users/122/12282474-vkontakte)<sup>66</sup>
 
 
-_14.07.2018 19:15:57_
+_15.07.2018 19:39:07_
