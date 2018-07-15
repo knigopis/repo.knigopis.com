@@ -1,4 +1,16 @@
 {
+    "hNfSscpfmo": {
+        "id": "hNfSscpfmo",
+        "title": "Автостопом по галактике",
+        "author": "Дуглас Адамс",
+        "notes": "",
+        "createdAt": "2018-07-15 17:48:57",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 10
+        }
+    },
     "1M8-SnpkyZ": {
         "id": "1M8-SnpkyZ",
         "title": "Двадцать тысяч лье под водой",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 94
-        }
-    },
-    "icBq3ibvzl": {
-        "id": "icBq3ibvzl",
-        "title": "Портрет Дориана Грея",
-        "author": "Оскар Уайльд",
-        "notes": "",
-        "createdAt": "2018-07-09 19:13:52",
-        "user": {
-            "id": "10202544960024508-facebook",
-            "nickname": "Beaviska",
-            "booksCount": 30
         }
     }
 }
