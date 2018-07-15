@@ -1,4 +1,16 @@
 {
+    "uP5eUQeMXs": {
+        "id": "uP5eUQeMXs",
+        "title": "Мистер Мерседес",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-07-15 17:43:12",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 6
+        }
+    },
     "8yvvkN9cQU": {
         "id": "8yvvkN9cQU",
         "title": "Вино из одуванчиков",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 127
-        }
-    },
-    "vWf_FiEE8d": {
-        "id": "vWf_FiEE8d",
-        "title": "Инсайт",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-07-09 06:34:52",
-        "user": {
-            "id": "73323849-yandex",
-            "nickname": "inna.besprozvannykh",
-            "booksCount": 43
         }
     }
 }
