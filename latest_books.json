@@ -1,4 +1,16 @@
 {
+    "InMy3X_lfn": {
+        "id": "InMy3X_lfn",
+        "title": "Страна радости",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-07-15 17:43:47",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 7
+        }
+    },
     "uP5eUQeMXs": {
         "id": "uP5eUQeMXs",
         "title": "Мистер Мерседес",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 68
-        }
-    },
-    "bBMNUbJ9Dx": {
-        "id": "bBMNUbJ9Dx",
-        "title": "Колосс Маруссийски",
-        "author": "Генри Миллер",
-        "notes": "",
-        "createdAt": "2018-07-09 09:48:24",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 127
         }
     }
 }
