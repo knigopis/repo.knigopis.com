@@ -1,4 +1,4 @@
-# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>41</sup>
+# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>43</sup>
 ---
 
 ## 2018
@@ -112,7 +112,7 @@ Joshua Bloch
 > [2011-08] 
 
 
-### Программмист-прагматик
+### Программист-прагматик
 Эндрю Хант, Дэвид Томас
 > [2011-02] 
 
