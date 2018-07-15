@@ -1,4 +1,16 @@
 {
+    "NSa-twL3os": {
+        "id": "NSa-twL3os",
+        "title": "Пикник на обочине",
+        "author": "Аркадий и Борис Стругацкие",
+        "notes": "",
+        "createdAt": "2018-07-15 17:37:28",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 4
+        }
+    },
     "53YhbOEsN6": {
         "id": "53YhbOEsN6",
         "title": "Бойцовский клуб",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 86
-        }
-    },
-    "_8YGO0rQPM": {
-        "id": "_8YGO0rQPM",
-        "title": "Хилл Наполеон - Думай и богатей",
-        "author": "Хилл Наполеон",
-        "notes": "ку кук",
-        "createdAt": "2018-07-08 08:59:51",
-        "user": {
-            "id": "115704753977002350435-google",
-            "nickname": "borisovladislav",
-            "booksCount": 2
         }
     }
 }
