@@ -1,4 +1,16 @@
 {
+    "j7y2uvo3pI": {
+        "id": "j7y2uvo3pI",
+        "title": "451 градус по Фаренгейту",
+        "author": "Рэй Брэдбери",
+        "notes": "",
+        "createdAt": "2018-07-15 17:36:12",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 2
+        }
+    },
     "LQ7cBQsctx": {
         "id": "LQ7cBQsctx",
         "title": "Солярис",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 149
-        }
-    },
-    "UNgV9geYd7": {
-        "id": "UNgV9geYd7",
-        "title": "Minne, или Память по-шведски",
-        "author": "Идриз Зогай",
-        "notes": "",
-        "createdAt": "2018-07-07 17:22:55",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 148
         }
     }
 }
