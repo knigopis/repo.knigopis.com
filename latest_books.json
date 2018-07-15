@@ -1,4 +1,16 @@
 {
+    "28DGQPPOgd": {
+        "id": "28DGQPPOgd",
+        "title": "Война миров",
+        "author": "Герберт Уэллс",
+        "notes": "",
+        "createdAt": "2018-07-15 17:52:07",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 13
+        }
+    },
     "jmE78DKHvw": {
         "id": "jmE78DKHvw",
         "title": "Зелёная миля",
@@ -345,18 +357,6 @@
             "id": "100002563462782-facebook",
             "nickname": "HXT",
             "booksCount": 315
-        }
-    },
-    "fwkdCIEiP1": {
-        "id": "fwkdCIEiP1",
-        "title": "Пленники чужих гор",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-07-11 13:05:42",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 314
         }
     }
 }
