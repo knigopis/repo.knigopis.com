@@ -1,4 +1,10 @@
 {
+    "471364154-yandex": {
+        "id": "471364154-yandex",
+        "nickname": "submerged fish",
+        "booksCount": 17,
+        "updatedAt": "2018-07-15 22:47:19"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "Vitalich",
         "booksCount": 1,
         "updatedAt": "2018-07-06 22:13:44"
-    },
-    "117175077027328679997-google": {
-        "id": "117175077027328679997-google",
-        "nickname": "Baltazar",
-        "booksCount": 0,
-        "updatedAt": "2018-07-06 10:29:01"
     }
 }

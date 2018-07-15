@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[submerged fish](users/471/471364154-yandex)<sup>17</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>71</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
-[Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
 
 
-_15.07.2018 19:39:07_
+_15.07.2018 22:47:19_
