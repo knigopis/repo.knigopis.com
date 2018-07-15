@@ -1,4 +1,16 @@
 {
+    "ThA8WczW1U": {
+        "id": "ThA8WczW1U",
+        "title": "Война и мир",
+        "author": "Л.Толстой",
+        "notes": "",
+        "createdAt": "2018-07-15 17:57:05",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 16
+        }
+    },
     "qtGyno9dUE": {
         "id": "qtGyno9dUE",
         "title": "Графиня де Монсоро",
@@ -344,18 +356,6 @@
         "user": {
             "id": "15641244064688722584-mailru",
             "nickname": "Марина Неизвестно",
-            "booksCount": 1
-        }
-    },
-    "grWZy3zXoD": {
-        "id": "grWZy3zXoD",
-        "title": "qweqwe",
-        "author": "qqqew",
-        "notes": "",
-        "createdAt": "2018-07-12 05:09:10",
-        "user": {
-            "id": "109105433240139697598-google",
-            "nickname": "kvak",
             "booksCount": 1
         }
     }
