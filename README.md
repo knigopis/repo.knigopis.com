@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Лёлька](users/453/453735822-vkontakte)<sup>11</sup> 
+[Лёлька](users/453/453735822-vkontakte)<sup>12</sup> 
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>48</sup> 
 
 
-_15.07.2018 17:50:33_
+_15.07.2018 17:50:59_
