@@ -1,4 +1,16 @@
 {
+    "oz1ne1fyZo": {
+        "id": "oz1ne1fyZo",
+        "title": "Ведьмак. Последнее желание",
+        "author": "Анджей Сапковский",
+        "notes": "",
+        "createdAt": "2018-07-15 17:46:08",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 8
+        }
+    },
     "InMy3X_lfn": {
         "id": "InMy3X_lfn",
         "title": "Страна радости",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 52
-        }
-    },
-    "J52nJwNDpR": {
-        "id": "J52nJwNDpR",
-        "title": "Вилы",
-        "author": "Иванов Алексей",
-        "notes": "",
-        "createdAt": "2018-07-09 12:25:29",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 68
         }
     }
 }
