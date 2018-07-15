@@ -1,4 +1,16 @@
 {
+    "53YhbOEsN6": {
+        "id": "53YhbOEsN6",
+        "title": "Бойцовский клуб",
+        "author": "Чак Паланик",
+        "notes": "",
+        "createdAt": "2018-07-15 17:36:42",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 3
+        }
+    },
     "j7y2uvo3pI": {
         "id": "j7y2uvo3pI",
         "title": "451 градус по Фаренгейту",
@@ -345,18 +357,6 @@
             "id": "115704753977002350435-google",
             "nickname": "borisovladislav",
             "booksCount": 2
-        }
-    },
-    "Yn3uS6-S-h": {
-        "id": "Yn3uS6-S-h",
-        "title": "Что ты выберешь? Решения, от которых зависит твоя жизнь",
-        "author": "Тал Бен-Шахар",
-        "notes": "",
-        "createdAt": "2018-07-07 21:33:17",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 149
         }
     }
 }
