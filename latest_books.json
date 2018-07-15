@@ -1,4 +1,16 @@
 {
+    "SKaAdwk8lL": {
+        "id": "SKaAdwk8lL",
+        "title": "Сумерки",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-07-15 18:00:35",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 18
+        }
+    },
     "rXbKJwf8fL": {
         "id": "rXbKJwf8fL",
         "title": "Зов Ктулху",
@@ -341,18 +353,6 @@
         "author": "Пауло Коэльо",
         "notes": "",
         "createdAt": "2018-07-12 17:32:27",
-        "user": {
-            "id": "15641244064688722584-mailru",
-            "nickname": "Марина Неизвестно",
-            "booksCount": 1
-        }
-    },
-    "3jODKUiqSG": {
-        "id": "3jODKUiqSG",
-        "title": "а",
-        "author": "а",
-        "notes": "вапывапывпа",
-        "createdAt": "2018-07-12 12:49:16",
         "user": {
             "id": "15641244064688722584-mailru",
             "nickname": "Марина Неизвестно",
