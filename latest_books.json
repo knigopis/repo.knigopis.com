@@ -1,4 +1,16 @@
 {
+    "LjRg5FdPuV": {
+        "id": "LjRg5FdPuV",
+        "title": "Затмение",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-07-15 18:01:19",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 19
+        }
+    },
     "SKaAdwk8lL": {
         "id": "SKaAdwk8lL",
         "title": "Сумерки",
@@ -345,18 +357,6 @@
             "id": "15641244064688722584-mailru",
             "nickname": "Марина Неизвестно",
             "booksCount": 2
-        }
-    },
-    "LfLukCKuM1": {
-        "id": "LfLukCKuM1",
-        "title": "Вероника решает умереть",
-        "author": "Пауло Коэльо",
-        "notes": "",
-        "createdAt": "2018-07-12 17:32:27",
-        "user": {
-            "id": "15641244064688722584-mailru",
-            "nickname": "Марина Неизвестно",
-            "booksCount": 1
         }
     }
 }
