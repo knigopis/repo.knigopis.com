@@ -1,4 +1,16 @@
 {
+    "rXbKJwf8fL": {
+        "id": "rXbKJwf8fL",
+        "title": "Зов Ктулху",
+        "author": "Говард Лавкрафт",
+        "notes": "",
+        "createdAt": "2018-07-15 17:58:12",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 17
+        }
+    },
     "ThA8WczW1U": {
         "id": "ThA8WczW1U",
         "title": "Война и мир",
@@ -341,18 +353,6 @@
         "author": "а",
         "notes": "вапывапывпа",
         "createdAt": "2018-07-12 12:49:16",
-        "user": {
-            "id": "15641244064688722584-mailru",
-            "nickname": "Марина Неизвестно",
-            "booksCount": 1
-        }
-    },
-    "n7cRSry3nn": {
-        "id": "n7cRSry3nn",
-        "title": "fr",
-        "author": "g",
-        "notes": "",
-        "createdAt": "2018-07-12 12:30:15",
         "user": {
             "id": "15641244064688722584-mailru",
             "nickname": "Марина Неизвестно",
