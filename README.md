@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 [Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 [Baltazar](users/117/117175077027328679997-google)<sup>0</sup> 
-[En](users/333/333646551-vkontakte)<sup>48</sup> 
 
 
-_15.07.2018 18:04:00_
+_15.07.2018 18:39:12_
