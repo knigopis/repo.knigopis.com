@@ -1,7 +1,11 @@
-# List of books read by [Лёлька](http://vk.com/id453735822)<sup>10</sup>
+# List of books read by [Лёлька](http://vk.com/id453735822)<sup>11</sup>
 ---
 
 ## 2017
+
+### Дом странных детей
+Ренсом Риггз
+
 
 ### Автостопом по галактике
 Дуглас Адамс
