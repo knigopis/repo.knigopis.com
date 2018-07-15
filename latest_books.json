@@ -1,4 +1,16 @@
 {
+    "1M8-SnpkyZ": {
+        "id": "1M8-SnpkyZ",
+        "title": "Двадцать тысяч лье под водой",
+        "author": "Жюль Верн",
+        "notes": "",
+        "createdAt": "2018-07-15 17:48:07",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 9
+        }
+    },
     "oz1ne1fyZo": {
         "id": "oz1ne1fyZo",
         "title": "Ведьмак. Последнее желание",
@@ -345,18 +357,6 @@
             "id": "10202544960024508-facebook",
             "nickname": "Beaviska",
             "booksCount": 30
-        }
-    },
-    "54KL6cmTmF": {
-        "id": "54KL6cmTmF",
-        "title": "A sound of thunder (ENG)",
-        "author": "Ray Bradbury",
-        "notes": "",
-        "createdAt": "2018-07-09 13:50:58",
-        "user": {
-            "id": "170278332-vkontakte",
-            "nickname": "AlexeyNovikov",
-            "booksCount": 52
         }
     }
 }
