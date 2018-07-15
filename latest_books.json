@@ -1,4 +1,16 @@
 {
+    "bpzMhBLIZ8": {
+        "id": "bpzMhBLIZ8",
+        "title": "Новолуние",
+        "author": "Стефани Майер",
+        "notes": "",
+        "createdAt": "2018-07-15 18:04:00",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 20
+        }
+    },
     "LjRg5FdPuV": {
         "id": "LjRg5FdPuV",
         "title": "Затмение",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 69
-        }
-    },
-    "Zom_LbDBDc": {
-        "id": "Zom_LbDBDc",
-        "title": "Загадочная история Бенджамина Баттона",
-        "author": "Ф.С. Фицджеральд",
-        "notes": "",
-        "createdAt": "2018-07-12 17:33:25",
-        "user": {
-            "id": "15641244064688722584-mailru",
-            "nickname": "Марина Неизвестно",
-            "booksCount": 2
         }
     }
 }
