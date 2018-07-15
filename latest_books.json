@@ -1,4 +1,16 @@
 {
+    "FKvCttS4nM": {
+        "id": "FKvCttS4nM",
+        "title": "Звёздная пыль",
+        "author": "Нил Гейман",
+        "notes": "",
+        "createdAt": "2018-07-15 17:52:33",
+        "user": {
+            "id": "453735822-vkontakte",
+            "nickname": "Лёлька",
+            "booksCount": 14
+        }
+    },
     "28DGQPPOgd": {
         "id": "28DGQPPOgd",
         "title": "Война миров",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 95
-        }
-    },
-    "zRVejgEyx5": {
-        "id": "zRVejgEyx5",
-        "title": "Новые земли",
-        "author": "Артём Каменистый",
-        "notes": "",
-        "createdAt": "2018-07-11 13:07:11",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 315
         }
     }
 }
