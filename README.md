@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>71</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
 
 
-_16.07.2018 07:07:41_
+_16.07.2018 07:20:54_
