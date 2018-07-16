@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
+    > Для тех, у кого все плохо))
+
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
     > Kindle
     > ASIN: B01FWQPY2A
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Отличная и поучительная книга. Позже допишу полноценный отчет о прочтении...
 
 * Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
-    > 10/10
 
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
 
-* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>71</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>64</sup> 
-[Vitalich](users/530/530070540740891-facebook)<sup>1</sup> 
 
 
-_15.07.2018 22:47:19_
+_16.07.2018 07:07:41_
