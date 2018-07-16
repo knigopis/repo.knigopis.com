@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
@@ -30,7 +31,6 @@
 * Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
 * Драйв. Что на самом деле нас мотивирует ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>161</sup>
 * Семь языков Бога ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>160</sup>
-* Истории про еду ~ [Garka](users/115/115753719718250012620-google)<sup>184</sup>
 
 
-_16.07.2018 09:22:30_
+_16.07.2018 09:26:02_

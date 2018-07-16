@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
+    > Переслегин прекрасен, как обычно. Тем более что с точки зрения военной истории в Первой Мировой загадок гораздо больше, чем во Второй.
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/140693354/
+
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
     > И вновь Вернор Виндж великолепен. Оторваться невозможно. Когда прочитаешь уже почти все книги Винджа, начинаешь замечать некую общность сюжетных линий. Однако в данном случае это не спасло - интрига была жесткой до последних строк. Круто!
     > 
@@ -14,8 +21,6 @@ Do not use pull requests to make changes here.
     > Для тех, у кого все плохо))
 
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
-    > Kindle
-    > ASIN: B01FWQPY2A
 
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
 
@@ -29,14 +34,12 @@ Do not use pull requests to make changes here.
 
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
 
-* Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup> 
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
@@ -68,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 
 
-_16.07.2018 09:22:30_
+_16.07.2018 09:26:02_
