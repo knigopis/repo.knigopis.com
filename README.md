@@ -39,6 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>96</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
@@ -58,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>95</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>315</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>45</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 
 
-_16.07.2018 09:47:26_
+_16.07.2018 12:36:02_

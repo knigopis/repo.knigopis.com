@@ -1,4 +1,10 @@
 {
+    "118049897850017649660-google": {
+        "id": "118049897850017649660-google",
+        "nickname": "Sky",
+        "booksCount": 96,
+        "updatedAt": "2018-07-16 12:36:02"
+    },
     "10206471247373307-facebook": {
         "id": "10206471247373307-facebook",
         "nickname": "dilost",
@@ -112,12 +118,6 @@
         "nickname": "kvak",
         "booksCount": 1,
         "updatedAt": "2018-07-12 05:09:10"
-    },
-    "118049897850017649660-google": {
-        "id": "118049897850017649660-google",
-        "nickname": "Sky",
-        "booksCount": 95,
-        "updatedAt": "2018-07-11 15:22:12"
     },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",

@@ -1,4 +1,16 @@
 {
+    "FEaKEQqErP": {
+        "id": "FEaKEQqErP",
+        "title": "Ангелы и демоны",
+        "author": "Дэн Браун",
+        "notes": "",
+        "createdAt": "2018-07-16 12:36:02",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 96
+        }
+    },
     "ueQC4R__-3": {
         "id": "ueQC4R__-3",
         "title": "Жених",
@@ -345,18 +357,6 @@
             "id": "5880221-vkontakte",
             "nickname": "sonics",
             "booksCount": 56
-        }
-    },
-    "ZFJ0T2E6l7": {
-        "id": "ZFJ0T2E6l7",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-07-14 18:53:02",
-        "user": {
-            "id": "113014998782270174609-google",
-            "nickname": "Rorian",
-            "booksCount": 3
         }
     }
 }
