@@ -39,7 +39,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
+[dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
@@ -71,4 +71,4 @@ _More notes [here](latest_books_with_notes.md)._
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 
 
-_16.07.2018 09:46:53_
+_16.07.2018 09:47:26_
