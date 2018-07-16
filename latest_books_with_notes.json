@@ -1,4 +1,16 @@
 {
+    "ldd7JPZjeX": {
+        "id": "ldd7JPZjeX",
+        "title": "Метка",
+        "author": "Элис Бродвей",
+        "notes": "книга для подростков в стиле Что такое хорошо. Даже неплохо. Хороший язык, интересный сюжет.",
+        "createdAt": "2018-07-16 16:19:24",
+        "user": {
+            "id": "105831994080785626680-google",
+            "nickname": "Chiffi",
+            "booksCount": 65
+        }
+    },
     "ueQC4R__-3": {
         "id": "ueQC4R__-3",
         "title": "Жених",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 67
-        }
-    },
-    "6DyuHMBCGO": {
-        "id": "6DyuHMBCGO",
-        "title": "Драйв. Что на самом деле нас мотивирует",
-        "author": "Дэниел Пинк",
-        "notes": "в процессе\n\nhttps://www.ozon.ru/context/detail/id/22524686/",
-        "createdAt": "2018-06-13 23:38:51",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 161
         }
     }
 }

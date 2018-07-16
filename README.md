@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
+    > книга для подростков в стиле Что такое хорошо. Даже неплохо. Хороший язык, интересный сюжет.
+
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
     > от Тильги
 
@@ -16,9 +19,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/140693354/
 
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
-    > И вновь Вернор Виндж великолепен. Оторваться невозможно. Когда прочитаешь уже почти все книги Винджа, начинаешь замечать некую общность сюжетных линий. Однако в данном случае это не спасло - интрига была жесткой до последних строк. Круто!
-    > 
-    > https://www.ozon.ru/context/detail/id/143594161/
 
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
 
@@ -32,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 
-* Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>96</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
@@ -68,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
-[poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 
 
-_16.07.2018 12:36:02_
+_16.07.2018 16:19:24_

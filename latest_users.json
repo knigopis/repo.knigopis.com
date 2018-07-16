@@ -1,4 +1,10 @@
 {
+    "105831994080785626680-google": {
+        "id": "105831994080785626680-google",
+        "nickname": "Chiffi",
+        "booksCount": 65,
+        "updatedAt": "2018-07-16 16:19:24"
+    },
     "118049897850017649660-google": {
         "id": "118049897850017649660-google",
         "nickname": "Sky",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 149,
         "updatedAt": "2018-07-07 21:33:17"
-    },
-    "244738922-vkontakte": {
-        "id": "244738922-vkontakte",
-        "nickname": "poison_frnk_2013",
-        "booksCount": 0,
-        "updatedAt": "2018-07-07 11:43:47"
     }
 }
