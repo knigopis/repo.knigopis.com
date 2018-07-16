@@ -5,6 +5,11 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
+    > И вновь Вернор Виндж великолепен. Оторваться невозможно. Когда прочитаешь уже почти все книги Винджа, начинаешь замечать некую общность сюжетных линий. Однако в данном случае это не спасло - интрига была жесткой до последних строк. Круто!
+    > 
+    > https://www.ozon.ru/context/detail/id/143594161/
+
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
     > Для тех, у кого все плохо))
 
@@ -13,7 +18,6 @@ Do not use pull requests to make changes here.
     > ASIN: B01FWQPY2A
 
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
-    > Отличная и поучительная книга. Позже допишу полноценный отчет о прочтении...
 
 * Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
 
@@ -27,13 +31,12 @@ Do not use pull requests to make changes here.
 
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
 
-* Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
@@ -63,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>644</sup> 
-[le_brouillard](users/133/13330781-vkontakte)<sup>23</sup> 
 
 
-_16.07.2018 07:20:54_
+_16.07.2018 09:22:30_
