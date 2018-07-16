@@ -1,4 +1,16 @@
 {
+    "ueQC4R__-3": {
+        "id": "ueQC4R__-3",
+        "title": "Жених",
+        "author": "Юрий Мамлеев",
+        "notes": "от Тильги",
+        "createdAt": "2018-07-16 09:46:53",
+        "user": {
+            "id": "10206471247373307-facebook",
+            "nickname": "dilost",
+            "booksCount": 3
+        }
+    },
     "6wnLEN-eMv": {
         "id": "6wnLEN-eMv",
         "title": "Первая Мировая. Война между Реальностями",
@@ -345,18 +357,6 @@
             "id": "113014998782270174609-google",
             "nickname": "Rorian",
             "booksCount": 3
-        }
-    },
-    "kLfXSHeWu6": {
-        "id": "kLfXSHeWu6",
-        "title": "Дети Луны",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2018-07-14 18:49:14",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 70
         }
     }
 }

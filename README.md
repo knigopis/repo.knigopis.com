@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
+    > от Тильги
+
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
     > Переслегин прекрасен, как обычно. Тем более что с точки зрения военной истории в Первой Мировой загадок гораздо больше, чем во Второй.
     > 
@@ -18,7 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/143594161/
 
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
-    > Для тех, у кого все плохо))
 
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
 
@@ -32,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
 
-* Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[dilost](users/102/10206471247373307-facebook)<sup>3</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
@@ -68,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 [poison_frnk_2013](users/244/244738922-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>644</sup> 
 
 
-_16.07.2018 09:26:02_
+_16.07.2018 09:46:53_
