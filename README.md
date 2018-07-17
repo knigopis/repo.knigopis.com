@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>96</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 [borisovladislav](users/115/115704753977002350435-google)<sup>2</sup> 
-[EsterHani](users/305/30558181-vkontakte)<sup>149</sup> 
 
 
-_16.07.2018 16:19:24_
+_17.07.2018 14:58:30_
