@@ -1,4 +1,10 @@
 {
+    "109842160654760165824-google": {
+        "id": "109842160654760165824-google",
+        "nickname": "wowdaria",
+        "booksCount": 0,
+        "updatedAt": "2018-07-17 15:38:31"
+    },
     "208969292-yandex": {
         "id": "208969292-yandex",
         "nickname": "elena-gagina2014",
@@ -172,11 +178,5 @@
         "nickname": "inna.besprozvannykh",
         "booksCount": 42,
         "updatedAt": "2018-07-09 06:35:07"
-    },
-    "115704753977002350435-google": {
-        "id": "115704753977002350435-google",
-        "nickname": "borisovladislav",
-        "booksCount": 2,
-        "updatedAt": "2018-07-08 08:59:51"
     }
 }
