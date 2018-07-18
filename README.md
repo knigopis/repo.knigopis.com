@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
+    > О машине монстре
+
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
     > О человечках живущих в печатных машинках и безумии.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > Вторая книга на религиозную тему у Кинга из прочитанных.
 
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
-    > книга для подростков в стиле Что такое хорошо. Даже неплохо. Хороший язык, интересный сюжет.
 
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
 
-* Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 
 
-_18.07.2018 07:23:06_
+_18.07.2018 07:23:36_
