@@ -1,4 +1,16 @@
 {
+    "exT8RjfM2u": {
+        "id": "exT8RjfM2u",
+        "title": "Унесенные ветром. Том 1.",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2018-07-18 12:31:35",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 86
+        }
+    },
     "Lr3cFIWwBd": {
         "id": "Lr3cFIWwBd",
         "title": "Области Тьмы",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 19
-        }
-    },
-    "SKaAdwk8lL": {
-        "id": "SKaAdwk8lL",
-        "title": "Сумерки",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2018-07-15 18:00:35",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 18
         }
     }
 }
