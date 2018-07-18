@@ -1,4 +1,16 @@
 {
+    "RHPUXWhRPK": {
+        "id": "RHPUXWhRPK",
+        "title": "Путь настоящего мужчины",
+        "author": "Девид Дейд",
+        "notes": "",
+        "createdAt": "2018-07-18 09:31:15",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 4
+        }
+    },
     "NfUMpCOdyj": {
         "id": "NfUMpCOdyj",
         "title": "Необузданное сердце",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 11
-        }
-    },
-    "hNfSscpfmo": {
-        "id": "hNfSscpfmo",
-        "title": "Автостопом по галактике",
-        "author": "Дуглас Адамс",
-        "notes": "",
-        "createdAt": "2018-07-15 17:48:57",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 10
         }
     }
 }

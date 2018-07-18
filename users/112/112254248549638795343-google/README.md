@@ -1,7 +1,11 @@
-# List of books read by German<sup>3</sup>
+# List of books read by German<sup>4</sup>
 ---
 
 ## 2018
+
+### Путь настоящего мужчины
+Девид Дейд
+
 
 ### Необузданное сердце
 Джон Элдридж
