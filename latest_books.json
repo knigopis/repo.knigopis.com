@@ -1,4 +1,16 @@
 {
+    "t47eEKrRv7": {
+        "id": "t47eEKrRv7",
+        "title": "Автобиография",
+        "author": "Бенджамин Франклин",
+        "notes": "Еще",
+        "createdAt": "2018-07-18 09:39:41",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 10
+        }
+    },
     "_dPdaTn3cZ": {
         "id": "_dPdaTn3cZ",
         "title": "Самый богатый человек в Вавилоне",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 17
-        }
-    },
-    "ThA8WczW1U": {
-        "id": "ThA8WczW1U",
-        "title": "Война и мир",
-        "author": "Л.Толстой",
-        "notes": "",
-        "createdAt": "2018-07-15 17:57:05",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 16
         }
     }
 }

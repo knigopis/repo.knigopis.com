@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[German](users/112/112254248549638795343-google)<sup>9</sup> 
+[German](users/112/112254248549638795343-google)<sup>10</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 
 
-_18.07.2018 09:39:04_
+_18.07.2018 09:39:41_
