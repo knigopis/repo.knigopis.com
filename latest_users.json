@@ -1,4 +1,10 @@
 {
+    "104321966355649455249-google": {
+        "id": "104321966355649455249-google",
+        "nickname": "Tanusha",
+        "booksCount": 0,
+        "updatedAt": "2018-07-18 18:48:16"
+    },
     "33225574-yandex": {
         "id": "33225574-yandex",
         "nickname": "nuu-la",
@@ -172,11 +178,5 @@
         "nickname": "Боря Гелоян",
         "booksCount": 0,
         "updatedAt": "2018-07-12 12:27:28"
-    },
-    "109105433240139697598-google": {
-        "id": "109105433240139697598-google",
-        "nickname": "kvak",
-        "booksCount": 1,
-        "updatedAt": "2018-07-12 05:09:10"
     }
 }
