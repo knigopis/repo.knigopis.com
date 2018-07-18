@@ -1,4 +1,16 @@
 {
+    "leDw16HD34": {
+        "id": "leDw16HD34",
+        "title": "Кто заплачет когда ты умрешь",
+        "author": "Робин Шарма",
+        "notes": "",
+        "createdAt": "2018-07-18 09:29:03",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 1
+        }
+    },
     "2K0tOr57b1": {
         "id": "2K0tOr57b1",
         "title": "История Лиззи",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 8
-        }
-    },
-    "InMy3X_lfn": {
-        "id": "InMy3X_lfn",
-        "title": "Страна радости",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-07-15 17:43:47",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 7
         }
     }
 }
