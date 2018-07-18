@@ -1,4 +1,16 @@
 {
+    "3QLrtpTpK9": {
+        "id": "3QLrtpTpK9",
+        "title": "Изгоняющий дьявола",
+        "author": "Уильям Питер Блэтти",
+        "notes": "",
+        "createdAt": "2018-07-18 17:21:11",
+        "user": {
+            "id": "115826717712507836033-google",
+            "nickname": null,
+            "booksCount": 117
+        }
+    },
     "b8FgM9ARzG": {
         "id": "b8FgM9ARzG",
         "title": "Утопия",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 168
-        }
-    },
-    "1djmx1W7Oe": {
-        "id": "1djmx1W7Oe",
-        "title": "Рестарт. Как прожить много жизней",
-        "author": "Ирина Хакамада",
-        "notes": "Для тех, у кого все плохо))",
-        "createdAt": "2018-07-16 07:07:41",
-        "user": {
-            "id": "44606269-yandex",
-            "nickname": "nelegalco",
-            "booksCount": 1
         }
     }
 }
