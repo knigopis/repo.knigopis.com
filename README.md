@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
+    > Вторая книга на религиозную тему у Кинга из прочитанных.
+
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
     > книга для подростков в стиле Что такое хорошо. Даже неплохо. Хороший язык, интересный сюжет.
 
@@ -12,11 +15,6 @@ Do not use pull requests to make changes here.
     > от Тильги
 
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
-    > Переслегин прекрасен, как обычно. Тем более что с точки зрения военной истории в Первой Мировой загадок гораздо больше, чем во Второй.
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/140693354/
 
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
 
@@ -30,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
 
-* Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
@@ -66,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>127</sup> 
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
-[inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 
 
-_18.07.2018 00:08:46_
+_18.07.2018 07:22:11_

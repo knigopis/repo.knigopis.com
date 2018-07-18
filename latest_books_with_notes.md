@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
@@ -30,7 +31,6 @@
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
 * Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
-* Мать учения 1-85 ~ [Tr](users/122/12282474-vkontakte)<sup>67</sup>
 
 
-_16.07.2018 16:19:24_
+_18.07.2018 07:22:11_

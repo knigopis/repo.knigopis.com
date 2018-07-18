@@ -1,4 +1,16 @@
 {
+    "rAGRQLCSKz": {
+        "id": "rAGRQLCSKz",
+        "title": "Безнадёга",
+        "author": "Стивен Кинг",
+        "notes": "Вторая книга на религиозную тему у Кинга из прочитанных.",
+        "createdAt": "2018-07-18 07:22:11",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 128
+        }
+    },
     "ldd7JPZjeX": {
         "id": "ldd7JPZjeX",
         "title": "Метка",
@@ -345,18 +357,6 @@
             "id": "83820536-yandex",
             "nickname": "lucius",
             "booksCount": 145
-        }
-    },
-    "4K2O3y7OCM": {
-        "id": "4K2O3y7OCM",
-        "title": "Мать учения 1-85",
-        "author": "Nobody13",
-        "notes": "Временная петля, Зориан Казински, Зак Новеда, Куатач-Ичл.\nГодно, прочел залпом",
-        "createdAt": "2018-06-17 01:43:48",
-        "user": {
-            "id": "12282474-vkontakte",
-            "nickname": "Tr",
-            "booksCount": 67
         }
     }
 }
