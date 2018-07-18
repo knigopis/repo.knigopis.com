@@ -1,4 +1,16 @@
 {
+    "EYAsAo3LZr": {
+        "id": "EYAsAo3LZr",
+        "title": "Правило 10Х",
+        "author": "Гранд Кардон",
+        "notes": "Читать еще",
+        "createdAt": "2018-07-18 09:33:15",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 6
+        }
+    },
     "vWtkE6Qndb": {
         "id": "vWtkE6Qndb",
         "title": "Богатый папа, бедный папа",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 13
-        }
-    },
-    "jmE78DKHvw": {
-        "id": "jmE78DKHvw",
-        "title": "Зелёная миля",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-07-15 17:50:59",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 12
         }
     }
 }

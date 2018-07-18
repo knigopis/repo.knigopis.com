@@ -1,7 +1,12 @@
-# List of books read by German<sup>5</sup>
+# List of books read by German<sup>6</sup>
 ---
 
 ## 2018
+
+### Правило 10Х
+Гранд Кардон
+> Читать еще
+
 
 ### Богатый папа, бедный папа
 Роберт Кийоскаки
