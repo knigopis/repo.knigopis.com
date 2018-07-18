@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Tanusha](users/104/104321966355649455249-google)<sup>2</sup> 
+[Tanusha](users/104/104321966355649455249-google)<sup>1</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 
 
-_18.07.2018 18:52:35_
+_18.07.2018 19:07:32_
