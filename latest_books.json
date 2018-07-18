@@ -1,4 +1,16 @@
 {
+    "-vZx90TaQv": {
+        "id": "-vZx90TaQv",
+        "title": "Банка с печеньем",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-07-18 07:24:31",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 131
+        }
+    },
     "RUl0_IUf1K": {
         "id": "RUl0_IUf1K",
         "title": "81 миля",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 3
-        }
-    },
-    "j7y2uvo3pI": {
-        "id": "j7y2uvo3pI",
-        "title": "451 градус по Фаренгейту",
-        "author": "Рэй Брэдбери",
-        "notes": "",
-        "createdAt": "2018-07-15 17:36:12",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 2
         }
     }
 }
