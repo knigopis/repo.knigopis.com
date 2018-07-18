@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[nuu-la](users/332/33225574-yandex)<sup>1</sup> 
+[nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>97</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
 
 
-_18.07.2018 18:45:03_
+_18.07.2018 18:45:22_
