@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 43,
+        "updatedAt": "2018-07-18 21:41:15"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -58,12 +64,6 @@
         "nickname": "Mad Wolf",
         "booksCount": 135,
         "updatedAt": "2018-07-18 07:29:23"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 43,
-        "updatedAt": "2018-07-18 00:08:46"
     },
     "109842160654760165824-google": {
         "id": "109842160654760165824-google",

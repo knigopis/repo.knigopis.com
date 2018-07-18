@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>72</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
@@ -47,7 +48,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 [German](users/112/112254248549638795343-google)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
-[me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 
 
-_18.07.2018 19:59:20_
+_18.07.2018 21:41:15_
