@@ -1,4 +1,16 @@
 {
+    "jLZrTab0jE": {
+        "id": "jLZrTab0jE",
+        "title": "Бегущий человек",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-07-18 07:25:41",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 132
+        }
+    },
     "-vZx90TaQv": {
         "id": "-vZx90TaQv",
         "title": "Банка с печеньем",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 4
-        }
-    },
-    "53YhbOEsN6": {
-        "id": "53YhbOEsN6",
-        "title": "Бойцовский клуб",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2018-07-15 17:36:42",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 3
         }
     }
 }
