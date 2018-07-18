@@ -1,4 +1,16 @@
 {
+    "KufV6zgfgS": {
+        "id": "KufV6zgfgS",
+        "title": "Разбуди в себе исполина",
+        "author": "Тони Роббинс",
+        "notes": "Желательно прочитать ее еще раз",
+        "createdAt": "2018-07-18 09:30:09",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 2
+        }
+    },
     "leDw16HD34": {
         "id": "leDw16HD34",
         "title": "Кто заплачет когда ты умрешь",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 9
-        }
-    },
-    "oz1ne1fyZo": {
-        "id": "oz1ne1fyZo",
-        "title": "Ведьмак. Последнее желание",
-        "author": "Анджей Сапковский",
-        "notes": "",
-        "createdAt": "2018-07-15 17:46:08",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 8
         }
     }
 }
