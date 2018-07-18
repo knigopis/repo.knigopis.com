@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 
 
-_18.07.2018 00:08:20_
+_18.07.2018 00:08:46_
