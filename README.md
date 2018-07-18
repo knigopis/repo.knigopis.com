@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zubankova.ekaterina](users/112/112322998-yandex)<sup>0</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 [German](users/112/112254248549638795343-google)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>315</sup> 
 [GvenVivar ](users/158/158266434925901-facebook)<sup>45</sup> 
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
-[koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 
 
-_18.07.2018 12:32:19_
+_18.07.2018 15:35:12_
