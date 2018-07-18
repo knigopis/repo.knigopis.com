@@ -1,4 +1,10 @@
 {
+    "112322998-yandex": {
+        "id": "112322998-yandex",
+        "nickname": "zubankova.ekaterina",
+        "booksCount": 0,
+        "updatedAt": "2018-07-18 15:35:09"
+    },
     "48568611-vkontakte": {
         "id": "48568611-vkontakte",
         "nickname": "Sofie",
@@ -172,11 +178,5 @@
         "nickname": "Beaviska",
         "booksCount": 28,
         "updatedAt": "2018-07-09 19:14:08"
-    },
-    "77346023-vkontakte": {
-        "id": "77346023-vkontakte",
-        "nickname": "koshivika",
-        "booksCount": 0,
-        "updatedAt": "2018-07-09 14:25:45"
     }
 }
