@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
@@ -56,7 +57,6 @@ _More notes [here](latest_books_with_notes.md)._
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
-[me](users/381/381417697-yandex)<sup>43</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [inna.besprozvannykh](users/733/73323849-yandex)<sup>42</sup> 
 
 
-_17.07.2018 15:38:35_
+_18.07.2018 00:08:20_
