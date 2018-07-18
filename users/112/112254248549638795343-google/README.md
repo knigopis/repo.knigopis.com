@@ -1,7 +1,11 @@
-# List of books read by German<sup>4</sup>
+# List of books read by German<sup>5</sup>
 ---
 
 ## 2018
+
+### Богатый папа, бедный папа
+Роберт Кийоскаки
+
 
 ### Путь настоящего мужчины
 Девид Дейд
