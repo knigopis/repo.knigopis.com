@@ -1,4 +1,16 @@
 {
+    "SWzjCtowNY": {
+        "id": "SWzjCtowNY",
+        "title": "Баллада о гибкой пуле",
+        "author": "Стивен Кинг",
+        "notes": "О человечках живущих в печатных машинках и безумии.",
+        "createdAt": "2018-07-18 07:23:06",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 129
+        }
+    },
     "rAGRQLCSKz": {
         "id": "rAGRQLCSKz",
         "title": "Безнадёга",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 1
-        }
-    },
-    "jOp_dA59xv": {
-        "id": "jOp_dA59xv",
-        "title": "Как я украл миллион. Исповедь раскаявшегося кардера.",
-        "author": "Сергей Павлович",
-        "notes": "Отличная и поучительная книга. Позже допишу полноценный отчет о прочтении...",
-        "createdAt": "2018-07-14 19:15:57",
-        "user": {
-            "id": "5880221-vkontakte",
-            "nickname": "sonics",
-            "booksCount": 57
         }
     }
 }

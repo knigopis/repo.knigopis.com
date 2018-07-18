@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
@@ -30,7 +31,6 @@
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
 * Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 * Удивительная Земля ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>162</sup>
-* Как пасти котов ~ [lucius](users/838/83820536-yandex)<sup>145</sup>
 
 
-_18.07.2018 07:22:11_
+_18.07.2018 07:23:06_
