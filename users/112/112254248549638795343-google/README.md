@@ -1,7 +1,11 @@
-# List of books read by German<sup>6</sup>
+# List of books read by German<sup>7</sup>
 ---
 
 ## 2018
+
+### Наука стать богатым
+Уоттлз Уоллес
+
 
 ### Правило 10Х
 Гранд Кардон

@@ -1,4 +1,16 @@
 {
+    "m61egfv4a7": {
+        "id": "m61egfv4a7",
+        "title": "Наука стать богатым",
+        "author": "Уоттлз Уоллес",
+        "notes": "",
+        "createdAt": "2018-07-18 09:34:13",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 7
+        }
+    },
     "EYAsAo3LZr": {
         "id": "EYAsAo3LZr",
         "title": "Правило 10Х",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 14
-        }
-    },
-    "28DGQPPOgd": {
-        "id": "28DGQPPOgd",
-        "title": "Война миров",
-        "author": "Герберт Уэллс",
-        "notes": "",
-        "createdAt": "2018-07-15 17:52:07",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 13
         }
     }
 }
