@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>97</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 [kvak](users/109/109105433240139697598-google)<sup>1</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>315</sup> 
 
 
-_18.07.2018 17:21:11_
+_18.07.2018 18:44:02_
