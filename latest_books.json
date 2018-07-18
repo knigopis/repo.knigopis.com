@@ -1,4 +1,16 @@
 {
+    "rZQf1o5q_5": {
+        "id": "rZQf1o5q_5",
+        "title": "Идеальный муж",
+        "author": "Оскар Уайлд",
+        "notes": "",
+        "createdAt": "2018-07-18 15:36:46",
+        "user": {
+            "id": "112322998-yandex",
+            "nickname": "zubankova.ekaterina",
+            "booksCount": 1
+        }
+    },
     "vRE9k3pJzg": {
         "id": "vRE9k3pJzg",
         "title": "Унесенные ветром. Том 2.",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 71
-        }
-    },
-    "bpzMhBLIZ8": {
-        "id": "bpzMhBLIZ8",
-        "title": "Новолуние",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2018-07-15 18:04:00",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 20
         }
     }
 }
