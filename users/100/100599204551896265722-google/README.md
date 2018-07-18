@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>71</sup>
+# Список прочитанных книг пользователя exulted<sup>72</sup>
 ---
 
 ## 2018
+
+### Skin in the Game: Hidden Asymmetries in Daily Life
+Nassim Nicholas Taleb
+> [2018-07-18] Kindle
+> ASIN: B077QY23RV
+
 
 ### Calculus For Dummies (For Dummies (Math & Science))
 Mark Ryan

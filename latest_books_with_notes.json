@@ -1,4 +1,16 @@
 {
+    "zLOsyaiRXt": {
+        "id": "zLOsyaiRXt",
+        "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
+        "author": "Nassim Nicholas Taleb",
+        "notes": "Kindle\nASIN: B077QY23RV",
+        "createdAt": "2018-07-18 19:59:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 72
+        }
+    },
     "b8FgM9ARzG": {
         "id": "b8FgM9ARzG",
         "title": "Утопия",
@@ -345,18 +357,6 @@
             "id": "143278479-vkontakte",
             "nickname": "Лина Кауфман",
             "booksCount": 24
-        }
-    },
-    "luC-XG7i42": {
-        "id": "luC-XG7i42",
-        "title": "Неограниченная война",
-        "author": "",
-        "notes": "лучший способ достичь победы – это не воевать, а контролировать\nвойна – это достижение своих целей, не считаясь с потерями других участников процесса",
-        "createdAt": "2018-06-24 15:30:43",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 62
         }
     }
 }

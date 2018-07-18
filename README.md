@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
+    > Kindle
+    > ASIN: B077QY23RV
+
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
     > " Действительно, где можно найти больше ссор, как не среди нищих? Кто интенсивнее стремится к перевороту, как не тот, кому отнюдь не нравится существующий строй жизни? У кого, наконец, проявятся более дерзкие порывы привести все в замешательство с надеждой откуда-нибудь поживиться, как не у того, кому уже нечего более терять? "
     > "самое сознание благодеяния и воспоминание о любви и расположении тех, кому ты оказал добро, приносят твоему сознанию больше удовольствия, чем то телесное наслаждение, от которого ты воздержался"
@@ -15,7 +19,6 @@ Do not use pull requests to make changes here.
     > Концовка слита безбожно.
 
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
-    > О машине монстре
 
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 
@@ -29,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
 
-* Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>72</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
@@ -54,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>71</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
@@ -68,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 
 
-_18.07.2018 19:07:42_
+_18.07.2018 19:59:20_
