@@ -1,4 +1,16 @@
 {
+    "_dPdaTn3cZ": {
+        "id": "_dPdaTn3cZ",
+        "title": "Самый богатый человек в Вавилоне",
+        "author": "Джордж Клейсон",
+        "notes": "",
+        "createdAt": "2018-07-18 09:39:04",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 9
+        }
+    },
     "nCfJUzhHcH": {
         "id": "nCfJUzhHcH",
         "title": "Как завоевывать друзей и оказывать влияние на людей",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 16
-        }
-    },
-    "qtGyno9dUE": {
-        "id": "qtGyno9dUE",
-        "title": "Графиня де Монсоро",
-        "author": "А. Дюма",
-        "notes": "",
-        "createdAt": "2018-07-15 17:56:15",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 15
         }
     }
 }
