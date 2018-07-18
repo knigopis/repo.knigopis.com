@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>97</sup> 
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>1</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 [German](users/112/112254248549638795343-google)<sup>11</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>96</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Beaviska](users/102/10202544960024508-facebook)<sup>28</sup> 
 
 
-_18.07.2018 15:36:46_
+_18.07.2018 16:28:40_

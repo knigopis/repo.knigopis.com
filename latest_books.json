@@ -1,4 +1,16 @@
 {
+    "yd2pkKMxRT": {
+        "id": "yd2pkKMxRT",
+        "title": "Эрагон",
+        "author": "Паолини Кристофер",
+        "notes": "",
+        "createdAt": "2018-07-18 16:28:40",
+        "user": {
+            "id": "118049897850017649660-google",
+            "nickname": "Sky",
+            "booksCount": 97
+        }
+    },
     "rZQf1o5q_5": {
         "id": "rZQf1o5q_5",
         "title": "Идеальный муж",
@@ -345,18 +357,6 @@
             "id": "471364154-yandex",
             "nickname": "submerged fish",
             "booksCount": 17
-        }
-    },
-    "2SK_37jvdC": {
-        "id": "2SK_37jvdC",
-        "title": "Calculus For Dummies (For Dummies (Math & Science))",
-        "author": "Mark Ryan",
-        "notes": "Kindle\nASIN: B01FWQPY2A",
-        "createdAt": "2018-07-15 19:39:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 71
         }
     }
 }
