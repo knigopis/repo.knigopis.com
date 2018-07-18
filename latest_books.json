@@ -1,4 +1,16 @@
 {
+    "vRE9k3pJzg": {
+        "id": "vRE9k3pJzg",
+        "title": "Унесенные ветром. Том 2.",
+        "author": "Маргарет Митчелл",
+        "notes": "",
+        "createdAt": "2018-07-18 12:32:19",
+        "user": {
+            "id": "48568611-vkontakte",
+            "nickname": "Sofie",
+            "booksCount": 87
+        }
+    },
     "exT8RjfM2u": {
         "id": "exT8RjfM2u",
         "title": "Унесенные ветром. Том 1.",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 20
-        }
-    },
-    "LjRg5FdPuV": {
-        "id": "LjRg5FdPuV",
-        "title": "Затмение",
-        "author": "Стефани Майер",
-        "notes": "",
-        "createdAt": "2018-07-15 18:01:19",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 19
         }
     }
 }

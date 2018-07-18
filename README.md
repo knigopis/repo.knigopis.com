@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Sofie](users/485/48568611-vkontakte)<sup>86</sup> 
+[Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 [German](users/112/112254248549638795343-google)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [koshivika](users/773/77346023-vkontakte)<sup>0</sup> 
 
 
-_18.07.2018 12:31:35_
+_18.07.2018 12:32:19_
