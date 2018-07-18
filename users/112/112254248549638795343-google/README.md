@@ -1,7 +1,11 @@
-# List of books read by German<sup>7</sup>
+# List of books read by German<sup>8</sup>
 ---
 
 ## 2018
+
+### Как завоевывать друзей и оказывать влияние на людей
+Дейл Карнеги
+
 
 ### Наука стать богатым
 Уоттлз Уоллес

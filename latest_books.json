@@ -1,4 +1,16 @@
 {
+    "nCfJUzhHcH": {
+        "id": "nCfJUzhHcH",
+        "title": "Как завоевывать друзей и оказывать влияние на людей",
+        "author": "Дейл Карнеги",
+        "notes": "",
+        "createdAt": "2018-07-18 09:38:17",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 8
+        }
+    },
     "m61egfv4a7": {
         "id": "m61egfv4a7",
         "title": "Наука стать богатым",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 15
-        }
-    },
-    "FKvCttS4nM": {
-        "id": "FKvCttS4nM",
-        "title": "Звёздная пыль",
-        "author": "Нил Гейман",
-        "notes": "",
-        "createdAt": "2018-07-15 17:52:33",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 14
         }
     }
 }
