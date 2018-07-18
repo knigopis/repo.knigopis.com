@@ -1,4 +1,16 @@
 {
+    "q1owozGjjz": {
+        "id": "q1owozGjjz",
+        "title": "Одноклассница",
+        "author": "Смиян Вадим",
+        "notes": "Концовка слита безбожно.",
+        "createdAt": "2018-07-18 07:28:02",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 133
+        }
+    },
     "RUl0_IUf1K": {
         "id": "RUl0_IUf1K",
         "title": "81 миля",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 61
-        }
-    },
-    "Sn-0mQLn0G": {
-        "id": "Sn-0mQLn0G",
-        "title": "Мост",
-        "author": "Иэн Бэнкс",
-        "notes": "Очень сюрреалистичная книга, суть которой становится понятна довольно быстро, но читать и раскручивать цепь событий все равно довольно интересно",
-        "createdAt": "2018-06-19 17:41:10",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 49
         }
     }
 }

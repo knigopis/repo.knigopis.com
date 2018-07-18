@@ -1,4 +1,16 @@
 {
+    "q1owozGjjz": {
+        "id": "q1owozGjjz",
+        "title": "Одноклассница",
+        "author": "Смиян Вадим",
+        "notes": "Концовка слита безбожно.",
+        "createdAt": "2018-07-18 07:28:02",
+        "user": {
+            "id": "94738840-vkontakte",
+            "nickname": "Mad Wolf",
+            "booksCount": 133
+        }
+    },
     "jLZrTab0jE": {
         "id": "jLZrTab0jE",
         "title": "Бегущий человек",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 5
-        }
-    },
-    "NSa-twL3os": {
-        "id": "NSa-twL3os",
-        "title": "Пикник на обочине",
-        "author": "Аркадий и Борис Стругацкие",
-        "notes": "",
-        "createdAt": "2018-07-15 17:37:28",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 4
         }
     }
 }

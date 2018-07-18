@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
@@ -30,7 +31,6 @@
 * Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 * Неограниченная война ~ [Chiffi](users/105/105831994080785626680-google)<sup>62</sup>
 * Магия чисел ~ [Chiffi](users/105/105831994080785626680-google)<sup>61</sup>
-* Мост ~ [Saamy](users/115/115226508-vkontakte)<sup>49</sup>
 
 
-_18.07.2018 07:23:36_
+_18.07.2018 07:28:02_

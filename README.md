@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
+    > Концовка слита безбожно.
+
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
     > О машине монстре
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > О человечках живущих в печатных машинках и безумии.
 
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
-    > Вторая книга на религиозную тему у Кинга из прочитанных.
 
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 
@@ -26,14 +28,12 @@ Do not use pull requests to make changes here.
 
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
 
-* Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Mad Wolf](users/947/94738840-vkontakte)<sup>132</sup> 
+[Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Koraks](users/115/115146632229320342074-google)<sup>0</sup> 
 
 
-_18.07.2018 07:25:41_
+_18.07.2018 07:28:02_
