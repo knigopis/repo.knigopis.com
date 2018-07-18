@@ -1,4 +1,16 @@
 {
+    "Lr3cFIWwBd": {
+        "id": "Lr3cFIWwBd",
+        "title": "Области Тьмы",
+        "author": "Алан Глинн",
+        "notes": "",
+        "createdAt": "2018-07-18 09:40:14",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 11
+        }
+    },
     "t47eEKrRv7": {
         "id": "t47eEKrRv7",
         "title": "Автобиография",
@@ -345,18 +357,6 @@
             "id": "453735822-vkontakte",
             "nickname": "Лёлька",
             "booksCount": 18
-        }
-    },
-    "rXbKJwf8fL": {
-        "id": "rXbKJwf8fL",
-        "title": "Зов Ктулху",
-        "author": "Говард Лавкрафт",
-        "notes": "",
-        "createdAt": "2018-07-15 17:58:12",
-        "user": {
-            "id": "453735822-vkontakte",
-            "nickname": "Лёлька",
-            "booksCount": 17
         }
     }
 }
