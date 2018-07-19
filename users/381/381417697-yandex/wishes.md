@@ -20,8 +20,6 @@ Dmitry Jemerov, Svetlana Isakova
 ### `33` Git from the Bottom Up
 John Wiegley
 
-### `24` 451
-
 ### `20` Слово живое и мертвое
 Нора Галь
 
@@ -42,26 +40,29 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `2` Rx
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
 ### `1` Joel on Software
 Joel Spolsky
 
+### `` Мертвые души
+Николай Гоголь
+
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Rx
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Мертвые души
-Николай Гоголь
-
-### `` Три товарища
-Эрих Мария Ремарк
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
@@ -69,11 +70,8 @@ Satoshi Nakamoto
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Овод
+Этель Лилиан Войнич
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -93,14 +91,12 @@ Jon Erickson
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Повелитель мух
 Уильям Голдинг
 
-### `` 1984
-
-### `` Овод
-Этель Лилиан Войнич
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
