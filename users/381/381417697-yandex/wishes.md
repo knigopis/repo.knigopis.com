@@ -4,8 +4,6 @@
 ### `60` Тайм-драйв
 Глеб Архангельский
 
-### `57` Hshs
-
 ### `55` Железная пята
 Джек Лондон
 
@@ -42,61 +40,63 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `1` Joel on Software
+Joel Spolsky
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
+### `` Мертвые души
+Николай Гоголь
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
-### `` Мертвые души
-Николай Гоголь
+### `` Jsjsjss
+
+### `` Just for Fun
+Linus Torvalds, David Diamond
+> The Story of an Accidental Revolutionary
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Овод
+Этель Лилиан Войнич
+
+### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+Dafydd Stuttard, Marcus Pinto
+> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
 ### `` The Hacker Playbook: Practical Guide To Penetration Testing
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
-### `` Овод
-Этель Лилиан Войнич
+### `` Братья Карамазовы
+Фёдор Достоевский
 
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+### `` Герой нашего времени
+Михаил Лермонтов
 
-### `` Just for Fun
-Linus Torvalds, David Diamond
-> The Story of an Accidental Revolutionary
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Повелитель мух
 Уильям Голдинг
 
 ### `` Гарри Поттер и методы рационального мышления
 Элиезер Юдковский
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
-
-### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
-Dafydd Stuttard, Marcus Pinto
-> В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
-
-### `` Братья Карамазовы
-Фёдор Достоевский
-
-### `` Герой нашего времени
-Михаил Лермонтов
 
