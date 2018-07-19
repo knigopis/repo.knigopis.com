@@ -17,6 +17,8 @@ Miran Lipovača
 ### `37` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 
+### `34` Rx
+
 ### `33` Git from the Bottom Up
 John Wiegley
 
@@ -46,43 +48,30 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Три товарища
-Эрих Мария Ремарк
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
 ### `` Мертвые души
 Николай Гоголь
 
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Овод
-Этель Лилиан Войнич
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` Три товарища
+Эрих Мария Ремарк
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Повелитель мух
-Уильям Голдинг
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -92,11 +81,22 @@ Jon Erickson
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` Rx
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+
+### `` Герой нашего времени
+Михаил Лермонтов
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` Повелитель мух
+Уильям Голдинг
+
+### `` Овод
+Этель Лилиан Войнич
 
