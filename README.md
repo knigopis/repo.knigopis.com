@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
+    > Дошли наконец руки до классики :)
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/29599801/
+
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
     > Kindle
     > ASIN: B077QY23RV
@@ -16,7 +23,6 @@ Do not use pull requests to make changes here.
     > "Если же дело дойдет до волнений и борьбы с оружием в руках, то наилучшая и святейшая религия погибнет под пятою суетнейших суеверий, как нивы среди терновника и сорняка, так как все скверные люди отличаются наибольшим упорством"
 
 * Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
-    > Концовка слита безбожно.
 
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
 
@@ -30,13 +36,12 @@ Do not use pull requests to make changes here.
 
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
 
-* Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
@@ -53,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
@@ -69,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 
 
-_19.07.2018 08:47:08_
+_19.07.2018 12:06:14_

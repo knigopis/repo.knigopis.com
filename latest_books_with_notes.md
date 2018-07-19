@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
 * Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
@@ -30,7 +31,6 @@
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
 * Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
-* Мятная сказка (Сказка о самоубийстве) ~ [Лина Кауфман](users/143/143278479-vkontakte)<sup>24</sup>
 
 
-_18.07.2018 19:59:20_
+_19.07.2018 12:06:14_
