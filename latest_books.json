@@ -1,4 +1,16 @@
 {
+    "X9t8e5zbTV": {
+        "id": "X9t8e5zbTV",
+        "title": "Дающий",
+        "author": "Лоис Лоури",
+        "notes": "Антиутопия для подростков",
+        "createdAt": "2018-07-19 00:03:55",
+        "user": {
+            "id": "112322998-yandex",
+            "nickname": "zubankova.ekaterina",
+            "booksCount": 2
+        }
+    },
     "zLOsyaiRXt": {
         "id": "zLOsyaiRXt",
         "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 128
-        }
-    },
-    "ldd7JPZjeX": {
-        "id": "ldd7JPZjeX",
-        "title": "Метка",
-        "author": "Элис Бродвей",
-        "notes": "книга для подростков в стиле Что такое хорошо. Даже неплохо. Хороший язык, интересный сюжет.",
-        "createdAt": "2018-07-16 16:19:24",
-        "user": {
-            "id": "105831994080785626680-google",
-            "nickname": "Chiffi",
-            "booksCount": 65
         }
     }
 }

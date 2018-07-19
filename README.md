@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>72</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
@@ -44,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [](users/115/115826717712507836033-google)<sup>117</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>97</sup> 
-[zubankova.ekaterina](users/112/112322998-yandex)<sup>1</sup> 
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 [German](users/112/112254248549638795343-google)<sup>11</sup> 
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 
 
-_18.07.2018 21:59:04_
+_19.07.2018 00:03:55_
