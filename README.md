@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>72</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
-[Боря Гелоян](users/107/10702996860895417156-mailru)<sup>0</sup> 
 
 
-_19.07.2018 00:03:55_
+_19.07.2018 08:47:08_
