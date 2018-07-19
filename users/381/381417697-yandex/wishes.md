@@ -20,6 +20,8 @@ Dmitry Jemerov, Svetlana Isakova
 ### `33` Git from the Bottom Up
 John Wiegley
 
+### `27` Rx
+
 ### `20` Слово живое и мертвое
 Нора Галь
 
@@ -65,10 +67,11 @@ Eric S. Raymond
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
+### `` Овод
+Этель Лилиан Войнич
+
 ### `` Bitcoin: A Peer-to-Peer Electronic Cash System
 Satoshi Nakamoto
-
-### `` Rx
 
 ### `` Java Concurrency in Practice
 Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
@@ -77,11 +80,11 @@ Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Овод
-Этель Лилиан Войнич
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -93,9 +96,6 @@ Dafydd Stuttard, Marcus Pinto
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
-
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
 
 ### `` Герой нашего времени
 Михаил Лермонтов
