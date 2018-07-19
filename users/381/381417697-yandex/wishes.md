@@ -20,6 +20,8 @@ Dmitry Jemerov, Svetlana Isakova
 ### `33` Git from the Bottom Up
 John Wiegley
 
+### `24` 451
+
 ### `20` Слово живое и мертвое
 Нора Галь
 
