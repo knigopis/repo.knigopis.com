@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
-### `65` Jsjsjsjsssssss
+### `91` Q
 
 ### `60` Тайм-драйв
 Глеб Архангельский
@@ -42,54 +42,40 @@ Randall Munroe
 ### `4` Паттерны проектирования
 Э. Гамма, Р. Хелм, Р. Джонсон, Д. Влиссидес
 
-### `1` Joel on Software
-Joel Spolsky
-
 ### `1` Портной из Панамы
 Джон Ле Карре
 
-### `` Jsjsjss
+### `1` Joel on Software
+Joel Spolsky
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
-### `` A Briefer History of Time
-Stephen Hawking
-
 ### `` Мертвые души
 Николай Гоголь
-
-### `` Hacking: Art of Exploitation
-Jon Erickson
-> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
-
-### `` Овод
-Этель Лилиан Войнич
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
 ### `` Повелитель мух
 Уильям Голдинг
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` Hacking: Art of Exploitation
+Jon Erickson
+> ИБ-исследователь и специалист по безопасности Джон Эриксон (Jon Erickson) написал книгу, в которой вместо простого изучения уязвимостей и эксплойтов рассматриваются более глубокие подходы к поиску ошибок, допущенных разработчиками программного обеспечения.
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -99,8 +85,18 @@ Dafydd Stuttard, Marcus Pinto
 Peter Kim
 > В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
 
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
+
+### `` Герой нашего времени
+Михаил Лермонтов
+
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
-### `` Jsjsjssjsss
+### `` A Briefer History of Time
+Stephen Hawking
+
+### `` Овод
+Этель Лилиан Войнич
 
