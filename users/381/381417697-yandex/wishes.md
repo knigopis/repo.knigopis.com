@@ -23,8 +23,6 @@ John Wiegley
 ### `20` Слово живое и мертвое
 Нора Галь
 
-### `20` Rx
-
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
@@ -48,30 +46,43 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
-### `` Мертвые души
-Николай Гоголь
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
 
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
+
+### `` Мертвые души
+Николай Гоголь
+
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Овод
+Этель Лилиан Войнич
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -81,22 +92,11 @@ Jon Erickson
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
-### `` Герой нашего времени
-Михаил Лермонтов
+### `` Rx
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Овод
-Этель Лилиан Войнич
+### `` Герой нашего времени
+Михаил Лермонтов
 
