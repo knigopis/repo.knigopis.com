@@ -70,8 +70,8 @@ Satoshi Nakamoto
 ### `` The Cathedral and the Bazaar
 Eric S. Raymond
 
-### `` Овод
-Этель Лилиан Войнич
+### `` A Briefer History of Time
+Stephen Hawking
 
 ### `` The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 Dafydd Stuttard, Marcus Pinto
@@ -91,12 +91,14 @@ Jon Erickson
 ### `` Герой нашего времени
 Михаил Лермонтов
 
-### `` A Briefer History of Time
-Stephen Hawking
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `` Повелитель мух
 Уильям Голдинг
 
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
+### `` 1984
+
+### `` Овод
+Этель Лилиан Войнич
 
