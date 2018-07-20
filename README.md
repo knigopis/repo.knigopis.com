@@ -41,10 +41,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
-[me](users/381/381417697-yandex)<sup>43</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>72</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 
 
-_19.07.2018 12:06:14_
+_20.07.2018 00:20:23_
