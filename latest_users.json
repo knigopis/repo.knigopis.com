@@ -1,4 +1,10 @@
 {
+    "105866022348292919948-google": {
+        "id": "105866022348292919948-google",
+        "nickname": "Chandravadana",
+        "booksCount": 69,
+        "updatedAt": "2018-07-20 18:50:05"
+    },
     "112254248549638795343-google": {
         "id": "112254248549638795343-google",
         "nickname": "German",
@@ -172,11 +178,5 @@
         "nickname": "Apprentice ",
         "booksCount": 88,
         "updatedAt": "2018-07-13 22:18:38"
-    },
-    "15641244064688722584-mailru": {
-        "id": "15641244064688722584-mailru",
-        "nickname": "Марина Неизвестно",
-        "booksCount": 2,
-        "updatedAt": "2018-07-12 17:33:25"
     }
 }

@@ -1,4 +1,16 @@
 {
+    "F4wQCTBIzZ": {
+        "id": "F4wQCTBIzZ",
+        "title": "Хронолого - эзотерический анализ развития современной цивилизации. Книга 1",
+        "author": "Сидоров Г.А.",
+        "notes": "",
+        "createdAt": "2018-07-20 18:50:05",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 69
+        }
+    },
     "RCKUAj6pox": {
         "id": "RCKUAj6pox",
         "title": "Волшебная лампа бизнесмена",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 3
-        }
-    },
-    "KufV6zgfgS": {
-        "id": "KufV6zgfgS",
-        "title": "Разбуди в себе исполина",
-        "author": "Тони Роббинс",
-        "notes": "Желательно прочитать ее еще раз",
-        "createdAt": "2018-07-18 09:30:09",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 2
         }
     }
 }

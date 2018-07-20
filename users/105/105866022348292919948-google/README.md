@@ -1,7 +1,12 @@
-# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>68</sup>
+# List of books read by [Chandravadana](https://plus.google.com/105866022348292919948)<sup>69</sup>
 ---
 
 ## 2018
+
+### Хронолого - эзотерический анализ развития современной цивилизации. Книга 1
+Сидоров Г.А.
+> [2018-06] 
+
 
 ### Черный человек
 Василий Головачев
