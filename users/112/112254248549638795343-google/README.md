@@ -1,7 +1,11 @@
-# List of books read by German<sup>16</sup>
+# List of books read by German<sup>17</sup>
 ---
 
 ## 2018
+
+### Вершитель Реальности
+Вадим Зеланд
+
 
 ### Сказать жизни да
 Виктор Франкл
