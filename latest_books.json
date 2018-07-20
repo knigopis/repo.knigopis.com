@@ -1,4 +1,16 @@
 {
+    "3g2CzG2Vp2": {
+        "id": "3g2CzG2Vp2",
+        "title": "Batard",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-07-20 10:12:40",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 15
+        }
+    },
     "h8T1DeO8_R": {
         "id": "h8T1DeO8_R",
         "title": "Не рычите на собаку",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 133
-        }
-    },
-    "jLZrTab0jE": {
-        "id": "jLZrTab0jE",
-        "title": "Бегущий человек",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-07-18 07:25:41",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 132
         }
     }
 }

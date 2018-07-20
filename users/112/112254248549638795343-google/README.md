@@ -1,7 +1,11 @@
-# List of books read by German<sup>14</sup>
+# List of books read by German<sup>15</sup>
 ---
 
 ## 2018
+
+### Batard
+Джек Лондон
+
 
 ### Не рычите на собаку
 Карен Прайор
