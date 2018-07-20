@@ -1,7 +1,12 @@
-# List of books read by German<sup>17</sup>
+# List of books read by German<sup>18</sup>
 ---
 
 ## 2018
+
+### Самурай без меча
+Китами Масао
+> прочитать еще
+
 
 ### Вершитель Реальности
 Вадим Зеланд

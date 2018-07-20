@@ -1,4 +1,16 @@
 {
+    "pXj2QeaNsD": {
+        "id": "pXj2QeaNsD",
+        "title": "Самурай без меча",
+        "author": "Китами Масао",
+        "notes": "прочитать еще",
+        "createdAt": "2018-07-20 10:13:51",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 18
+        }
+    },
     "UbhSyygZbE": {
         "id": "UbhSyygZbE",
         "title": "Вершитель Реальности",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 1
-        }
-    },
-    "2K0tOr57b1": {
-        "id": "2K0tOr57b1",
-        "title": "История Лиззи",
-        "author": "Стивен Кинг",
-        "notes": "",
-        "createdAt": "2018-07-18 07:29:23",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 135
         }
     }
 }

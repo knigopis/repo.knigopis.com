@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[German](users/112/112254248549638795343-google)<sup>17</sup> 
+[German](users/112/112254248549638795343-google)<sup>18</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Марина Неизвестно](users/156/15641244064688722584-mailru)<sup>2</sup> 
 
 
-_20.07.2018 10:13:22_
+_20.07.2018 10:13:51_
