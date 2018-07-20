@@ -1,4 +1,16 @@
 {
+    "L5tjnslj-X": {
+        "id": "L5tjnslj-X",
+        "title": "Цвет волшебства",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-07-20 18:51:36",
+        "user": {
+            "id": "105866022348292919948-google",
+            "nickname": "Chandravadana",
+            "booksCount": 70
+        }
+    },
     "F4wQCTBIzZ": {
         "id": "F4wQCTBIzZ",
         "title": "Хронолого - эзотерический анализ развития современной цивилизации. Книга 1",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 4
-        }
-    },
-    "NfUMpCOdyj": {
-        "id": "NfUMpCOdyj",
-        "title": "Необузданное сердце",
-        "author": "Джон Элдридж",
-        "notes": "",
-        "createdAt": "2018-07-18 09:30:43",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 3
         }
     }
 }

@@ -41,7 +41,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Chandravadana](users/105/105866022348292919948-google)<sup>69</sup> 
+[Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 [German](users/112/112254248549638795343-google)<sup>19</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
@@ -73,4 +73,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 
 
-_20.07.2018 18:50:05_
+_20.07.2018 18:51:36_
