@@ -1,7 +1,11 @@
-# List of books read by German<sup>11</sup>
+# List of books read by German<sup>12</sup>
 ---
 
 ## 2018
+
+### Похититель Трупов
+Роберт Стивенсон
+
 
 ### Области Тьмы
 Алан Глинн
