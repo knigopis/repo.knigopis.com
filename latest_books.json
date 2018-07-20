@@ -1,4 +1,16 @@
 {
+    "x7ZRSCvaih": {
+        "id": "x7ZRSCvaih",
+        "title": "Убийства на улице Морг",
+        "author": "Эдгар Аллан По",
+        "notes": "-Метценгерштейн\n-Рукопись, найденная в бутылке\n-Лягушонок",
+        "createdAt": "2018-07-20 23:02:45",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 11
+        }
+    },
     "L5tjnslj-X": {
         "id": "L5tjnslj-X",
         "title": "Цвет волшебства",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 5
-        }
-    },
-    "RHPUXWhRPK": {
-        "id": "RHPUXWhRPK",
-        "title": "Путь настоящего мужчины",
-        "author": "Девид Дейд",
-        "notes": "",
-        "createdAt": "2018-07-18 09:31:15",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 4
         }
     }
 }

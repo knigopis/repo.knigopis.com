@@ -1,7 +1,14 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>10</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>11</sup>
 ---
 
 ## Other years
+
+### Убийства на улице Морг
+Эдгар Аллан По
+> -Метценгерштейн
+> -Рукопись, найденная в бутылке
+> -Лягушонок
+
 
 ### В арбузном сахаре
 Ричард Бротиган

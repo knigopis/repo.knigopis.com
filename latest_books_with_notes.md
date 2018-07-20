@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
@@ -30,7 +31,6 @@
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
 * Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 * 17 обновление (8) ~ [Tr](users/122/12282474-vkontakte)<sup>68</sup>
-* Пикник на обочине ~ [ODINSY](users/100/100978570902186865324-google)<sup>66</sup>
 
 
-_19.07.2018 12:06:14_
+_20.07.2018 23:02:45_

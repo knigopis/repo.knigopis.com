@@ -1,4 +1,16 @@
 {
+    "x7ZRSCvaih": {
+        "id": "x7ZRSCvaih",
+        "title": "Убийства на улице Морг",
+        "author": "Эдгар Аллан По",
+        "notes": "-Метценгерштейн\n-Рукопись, найденная в бутылке\n-Лягушонок",
+        "createdAt": "2018-07-20 23:02:45",
+        "user": {
+            "id": "220022778-vkontakte",
+            "nickname": "fox_mi",
+            "booksCount": 11
+        }
+    },
     "nyHHAnmaKx": {
         "id": "nyHHAnmaKx",
         "title": "Гиперион. Падение Гипериона",
@@ -345,18 +357,6 @@
             "id": "12282474-vkontakte",
             "nickname": "Tr",
             "booksCount": 68
-        }
-    },
-    "aTxARb4lSu": {
-        "id": "aTxARb4lSu",
-        "title": "Пикник на обочине",
-        "author": "братья Стругацкие",
-        "notes": "«СЧАСТЬЕ ДЛЯ ВСЕХ, ДАРОМ, И ПУСТЬ НИКТО НЕ УЙДЁТ ОБИЖЕННЫЙ!»",
-        "createdAt": "2018-06-24 18:10:43",
-        "user": {
-            "id": "100978570902186865324-google",
-            "nickname": "ODINSY",
-            "booksCount": 66
         }
     }
 }
