@@ -1,7 +1,12 @@
-# List of books read by German<sup>18</sup>
+# List of books read by German<sup>19</sup>
 ---
 
 ## 2018
+
+### Волшебная лампа бизнесмена
+Джек Траут
+> еще
+
 
 ### Самурай без меча
 Китами Масао
