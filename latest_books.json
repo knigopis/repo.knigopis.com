@@ -1,4 +1,16 @@
 {
+    "aNI1YsovZw": {
+        "id": "aNI1YsovZw",
+        "title": "Сказать жизни да",
+        "author": "Виктор Франкл",
+        "notes": "",
+        "createdAt": "2018-07-20 10:12:59",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 16
+        }
+    },
     "3g2CzG2Vp2": {
         "id": "3g2CzG2Vp2",
         "title": "Batard",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 134
-        }
-    },
-    "q1owozGjjz": {
-        "id": "q1owozGjjz",
-        "title": "Одноклассница",
-        "author": "Смиян Вадим",
-        "notes": "Концовка слита безбожно.",
-        "createdAt": "2018-07-18 07:28:02",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 133
         }
     }
 }
