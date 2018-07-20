@@ -1,7 +1,11 @@
-# List of books read by German<sup>12</sup>
+# List of books read by German<sup>13</sup>
 ---
 
 ## 2018
+
+### No story
+О Генри
+
 
 ### Похититель Трупов
 Роберт Стивенсон
