@@ -1,4 +1,16 @@
 {
+    "KG9FfaSYWp": {
+        "id": "KG9FfaSYWp",
+        "title": "Черная риторика",
+        "author": "Карстен Брендмайер",
+        "notes": "",
+        "createdAt": "2018-07-21 10:44:49",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 24
+        }
+    },
     "7ZWx6ns6KF": {
         "id": "7ZWx6ns6KF",
         "title": "Дом с призраками",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 86
-        }
-    },
-    "Lr3cFIWwBd": {
-        "id": "Lr3cFIWwBd",
-        "title": "Области Тьмы",
-        "author": "Алан Глинн",
-        "notes": "",
-        "createdAt": "2018-07-18 09:40:14",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 11
         }
     }
 }

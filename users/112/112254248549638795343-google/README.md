@@ -1,7 +1,11 @@
-# List of books read by German<sup>23</sup>
+# List of books read by German<sup>24</sup>
 ---
 
 ## 2018
+
+### Черная риторика
+Карстен Брендмайер
+
 
 ### Дом с призраками
 Чарльз Диккенс
