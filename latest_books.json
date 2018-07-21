@@ -1,4 +1,16 @@
 {
+    "7bj1ayMCBv": {
+        "id": "7bj1ayMCBv",
+        "title": "Голубая комната",
+        "author": "Проспер Мориме",
+        "notes": "",
+        "createdAt": "2018-07-21 10:45:05",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 25
+        }
+    },
     "KG9FfaSYWp": {
         "id": "KG9FfaSYWp",
         "title": "Черная риторика",
@@ -345,18 +357,6 @@
             "id": "48568611-vkontakte",
             "nickname": "Sofie",
             "booksCount": 87
-        }
-    },
-    "exT8RjfM2u": {
-        "id": "exT8RjfM2u",
-        "title": "Унесенные ветром. Том 1.",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2018-07-18 12:31:35",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 86
         }
     }
 }

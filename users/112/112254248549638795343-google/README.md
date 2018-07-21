@@ -1,7 +1,11 @@
-# List of books read by German<sup>24</sup>
+# List of books read by German<sup>25</sup>
 ---
 
 ## 2018
+
+### Голубая комната
+Проспер Мориме
+
 
 ### Черная риторика
 Карстен Брендмайер
