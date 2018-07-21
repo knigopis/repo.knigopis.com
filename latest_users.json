@@ -1,4 +1,10 @@
 {
+    "115753719718250012620-google": {
+        "id": "115753719718250012620-google",
+        "nickname": "Garka",
+        "booksCount": 185,
+        "updatedAt": "2018-07-21 18:27:51"
+    },
     "103293621948650602575-google": {
         "id": "103293621948650602575-google",
         "nickname": "Lost in Frost",
@@ -172,11 +178,5 @@
         "nickname": "Rorian",
         "booksCount": 3,
         "updatedAt": "2018-07-14 19:02:55"
-    },
-    "170278332-vkontakte": {
-        "id": "170278332-vkontakte",
-        "nickname": "AlexeyNovikov",
-        "booksCount": 53,
-        "updatedAt": "2018-07-14 09:22:56"
     }
 }

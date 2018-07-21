@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
+    > Книга очень понравилась, не смотря на то, что благодаря куче экранизациям основную сюжетную линию конечно знала, но впечатление это нисколько не испортило.
+
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
     > очень пронзительная история
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Большое отличие имеется у книги и фильма!
 
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
-    > -Метценгерштейн
-    > -Рукопись, найденная в бутылке
-    > -Лягушонок
 
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 
-* Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>73</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
@@ -64,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
-[AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 
 
-_21.07.2018 15:53:22_
+_21.07.2018 18:27:52_
