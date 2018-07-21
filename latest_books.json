@@ -1,4 +1,16 @@
 {
+    "IDgH2gaY9g": {
+        "id": "IDgH2gaY9g",
+        "title": "Превращение",
+        "author": "Франц Кафка",
+        "notes": "",
+        "createdAt": "2018-07-21 10:43:52",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 21
+        }
+    },
     "xbYcLNQb9j": {
         "id": "xbYcLNQb9j",
         "title": "Вторая жизнь Уве",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 9
-        }
-    },
-    "nCfJUzhHcH": {
-        "id": "nCfJUzhHcH",
-        "title": "Как завоевывать друзей и оказывать влияние на людей",
-        "author": "Дейл Карнеги",
-        "notes": "",
-        "createdAt": "2018-07-18 09:38:17",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 8
         }
     }
 }
