@@ -7,12 +7,12 @@
 ### `55` Железная пята
 Джек Лондон
 
+### `53` Git from the Bottom Up
+John Wiegley
+
 ### `50` Эврики и эйфории
 Уолтер Гратцер
 > Об ученых и их открытиях
-
-### `42` Git from the Bottom Up
-John Wiegley
 
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
