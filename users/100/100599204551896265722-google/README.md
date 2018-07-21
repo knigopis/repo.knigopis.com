@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>72</sup>
+# Список прочитанных книг пользователя exulted<sup>73</sup>
 ---
 
 ## 2018
+
+### Странный человек
+Акунин Борис
+> [2018-07-21] 
+
 
 ### Skin in the Game: Hidden Asymmetries in Daily Life
 Nassim Nicholas Taleb

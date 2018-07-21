@@ -1,4 +1,16 @@
 {
+    "fPZv-xom1n": {
+        "id": "fPZv-xom1n",
+        "title": "Странный человек",
+        "author": "Акунин Борис",
+        "notes": "",
+        "createdAt": "2018-07-21 14:02:52",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 73
+        }
+    },
     "CcDXwPEuMi": {
         "id": "CcDXwPEuMi",
         "title": "Ведьма",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 97
-        }
-    },
-    "rZQf1o5q_5": {
-        "id": "rZQf1o5q_5",
-        "title": "Идеальный муж",
-        "author": "Оскар Уайлд",
-        "notes": "",
-        "createdAt": "2018-07-18 15:36:46",
-        "user": {
-            "id": "112322998-yandex",
-            "nickname": "zubankova.ekaterina",
-            "booksCount": 1
         }
     }
 }
