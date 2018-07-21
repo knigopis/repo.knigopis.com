@@ -1,4 +1,16 @@
 {
+    "CcDXwPEuMi": {
+        "id": "CcDXwPEuMi",
+        "title": "Ведьма",
+        "author": "Оноре Де Бальзак",
+        "notes": "",
+        "createdAt": "2018-07-21 10:45:20",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 26
+        }
+    },
     "7bj1ayMCBv": {
         "id": "7bj1ayMCBv",
         "title": "Голубая комната",
@@ -345,18 +357,6 @@
             "id": "112322998-yandex",
             "nickname": "zubankova.ekaterina",
             "booksCount": 1
-        }
-    },
-    "vRE9k3pJzg": {
-        "id": "vRE9k3pJzg",
-        "title": "Унесенные ветром. Том 2.",
-        "author": "Маргарет Митчелл",
-        "notes": "",
-        "createdAt": "2018-07-18 12:32:19",
-        "user": {
-            "id": "48568611-vkontakte",
-            "nickname": "Sofie",
-            "booksCount": 87
         }
     }
 }
