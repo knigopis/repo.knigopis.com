@@ -1,4 +1,4 @@
-# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>125</sup>
+# List of books read by [Lost in Frost](https://plus.google.com/103293621948650602575)<sup>126</sup>
 ---
 
 ## 2018
@@ -309,6 +309,11 @@ Blake Pierce
 
 
 ## 2014
+
+### Сотня
+Кэсс Морган
+> [2014-03] 
+
 
 ### Дракула
 Брэм Стокер

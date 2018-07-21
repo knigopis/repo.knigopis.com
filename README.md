@@ -35,6 +35,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Lost in Frost](users/103/103293621948650602575-google)<sup>126</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>73</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
@@ -64,7 +65,6 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
-[n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 
 
-_21.07.2018 14:02:53_
+_21.07.2018 15:52:57_

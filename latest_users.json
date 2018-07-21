@@ -1,4 +1,10 @@
 {
+    "103293621948650602575-google": {
+        "id": "103293621948650602575-google",
+        "nickname": "Lost in Frost",
+        "booksCount": 126,
+        "updatedAt": "2018-07-21 15:52:57"
+    },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",
         "nickname": "exulted",
@@ -172,11 +178,5 @@
         "nickname": "AlexeyNovikov",
         "booksCount": 53,
         "updatedAt": "2018-07-14 09:22:56"
-    },
-    "107339513-vkontakte": {
-        "id": "107339513-vkontakte",
-        "nickname": "n.musinyan",
-        "booksCount": 0,
-        "updatedAt": "2018-07-14 08:17:42"
     }
 }
