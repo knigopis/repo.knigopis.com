@@ -1,4 +1,16 @@
 {
+    "7ZWx6ns6KF": {
+        "id": "7ZWx6ns6KF",
+        "title": "Дом с призраками",
+        "author": "Чарльз Диккенс",
+        "notes": "",
+        "createdAt": "2018-07-21 10:44:30",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 23
+        }
+    },
     "JiUoq2L8uC": {
         "id": "JiUoq2L8uC",
         "title": "Personal power",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 11
-        }
-    },
-    "t47eEKrRv7": {
-        "id": "t47eEKrRv7",
-        "title": "Автобиография",
-        "author": "Бенджамин Франклин",
-        "notes": "Еще",
-        "createdAt": "2018-07-18 09:39:41",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 10
         }
     }
 }
