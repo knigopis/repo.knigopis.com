@@ -1,4 +1,10 @@
 {
+    "112254248549638795343-google": {
+        "id": "112254248549638795343-google",
+        "nickname": "German",
+        "booksCount": 20,
+        "updatedAt": "2018-07-21 10:43:40"
+    },
     "1717865441574584-facebook": {
         "id": "1717865441574584-facebook",
         "nickname": "kempinsky",
@@ -16,12 +22,6 @@
         "nickname": "Chandravadana",
         "booksCount": 70,
         "updatedAt": "2018-07-20 18:51:36"
-    },
-    "112254248549638795343-google": {
-        "id": "112254248549638795343-google",
-        "nickname": "German",
-        "booksCount": 19,
-        "updatedAt": "2018-07-20 10:14:53"
     },
     "381417697-yandex": {
         "id": "381417697-yandex",

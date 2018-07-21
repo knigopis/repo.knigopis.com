@@ -1,4 +1,16 @@
 {
+    "xbYcLNQb9j": {
+        "id": "xbYcLNQb9j",
+        "title": "Вторая жизнь Уве",
+        "author": "фредрик Бакман",
+        "notes": "",
+        "createdAt": "2018-07-21 10:43:40",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 20
+        }
+    },
     "iEwrZcgYjv": {
         "id": "iEwrZcgYjv",
         "title": "Способный ученик",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 8
-        }
-    },
-    "m61egfv4a7": {
-        "id": "m61egfv4a7",
-        "title": "Наука стать богатым",
-        "author": "Уоттлз Уоллес",
-        "notes": "",
-        "createdAt": "2018-07-18 09:34:13",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 7
         }
     }
 }
