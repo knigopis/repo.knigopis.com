@@ -1,7 +1,12 @@
-# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>41</sup>
+# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>42</sup>
 ---
 
 ## 2018
+
+### Способный ученик
+Стивен Кинг
+> [2018-07] очень пронзительная история
+
 
 ### Побег из Шоушенка
 Стивен Кинг

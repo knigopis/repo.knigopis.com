@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
+    > очень пронзительная история
+
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
     > Большое отличие имеется у книги и фильма!
 
@@ -14,11 +17,6 @@ Do not use pull requests to make changes here.
     > -Лягушонок
 
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
-    > Дошли наконец руки до классики :)
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/29599801/
 
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
 
@@ -32,14 +30,12 @@ Do not use pull requests to make changes here.
 
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 
-* Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[kempinsky](users/171/1717865441574584-facebook)<sup>41</sup> 
+[kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>11</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 [German](users/112/112254248549638795343-google)<sup>19</sup> 
@@ -71,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
 
 
-_21.07.2018 10:04:19_
+_21.07.2018 10:05:26_

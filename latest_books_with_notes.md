@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 * Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
@@ -30,7 +31,6 @@
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 * Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 * Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex ~ [exulted](users/100/100599204551896265722-google)<sup>63</sup>
-* Психоделический опыт ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>163</sup>
 
 
-_21.07.2018 10:04:19_
+_21.07.2018 10:05:26_

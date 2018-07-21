@@ -1,4 +1,16 @@
 {
+    "iEwrZcgYjv": {
+        "id": "iEwrZcgYjv",
+        "title": "Способный ученик",
+        "author": "Стивен Кинг",
+        "notes": "очень пронзительная история",
+        "createdAt": "2018-07-21 10:05:26",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 42
+        }
+    },
     "kOf2XlXp1k": {
         "id": "kOf2XlXp1k",
         "title": "Побег из Шоушенка",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 63
-        }
-    },
-    "wyWhT9U_Ty": {
-        "id": "wyWhT9U_Ty",
-        "title": "Психоделический опыт",
-        "author": "Лири Т., Метцнер Р., Олперт Р.",
-        "notes": "в процессе\n\nhttp://www.leary.ru/books/psy/",
-        "createdAt": "2018-06-26 21:24:59",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 163
         }
     }
 }

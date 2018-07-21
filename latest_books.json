@@ -1,4 +1,16 @@
 {
+    "iEwrZcgYjv": {
+        "id": "iEwrZcgYjv",
+        "title": "Способный ученик",
+        "author": "Стивен Кинг",
+        "notes": "очень пронзительная история",
+        "createdAt": "2018-07-21 10:05:26",
+        "user": {
+            "id": "1717865441574584-facebook",
+            "nickname": "kempinsky",
+            "booksCount": 42
+        }
+    },
     "kOf2XlXp1k": {
         "id": "kOf2XlXp1k",
         "title": "Побег из Шоушенка",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 7
-        }
-    },
-    "EYAsAo3LZr": {
-        "id": "EYAsAo3LZr",
-        "title": "Правило 10Х",
-        "author": "Гранд Кардон",
-        "notes": "Читать еще",
-        "createdAt": "2018-07-18 09:33:15",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 6
         }
     }
 }
