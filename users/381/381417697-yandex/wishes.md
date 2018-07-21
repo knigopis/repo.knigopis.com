@@ -1,8 +1,6 @@
 # Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
-### `91` Q
-
 ### `60` Тайм-драйв
 Глеб Архангельский
 
@@ -13,24 +11,24 @@
 Уолтер Гратцер
 > Об ученых и их открытиях
 
+### `42` Git from the Bottom Up
+John Wiegley
+
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
 
 ### `37` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 
-### `33` Git from the Bottom Up
-John Wiegley
-
 ### `20` Слово живое и мертвое
 Нора Галь
+
+### `12` Совершенный код
+Стив Макконнелл
 
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
-
-### `12` Совершенный код
-Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -48,30 +46,43 @@ Randall Munroe
 ### `1` Joel on Software
 Joel Spolsky
 
+### `` A Briefer History of Time
+Stephen Hawking
+
 ### `` Три товарища
 Эрих Мария Ремарк
 
+### `` Двенадцать стульев
+Илья Ильф, Евгений Петров
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
 ### `` Мертвые души
 Николай Гоголь
+
+### `` The Hacker Playbook: Practical Guide To Penetration Testing
+Peter Kim
+> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
+
+### `` Овод
+Этель Лилиан Войнич
+
+### `` Bitcoin: A Peer-to-Peer Electronic Cash System
+Satoshi Nakamoto
+
+### `` Java Concurrency in Practice
+Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
 
 ### `` Just for Fun
 Linus Torvalds, David Diamond
 > The Story of an Accidental Revolutionary
 
-### `` Java Concurrency in Practice
-Brian Goetz,‎ Tim Peierls,‎ Joshua Bloch,‎ Joseph Bowbeer,‎ David Holmes,‎ Doug Lea
-
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
-### `` Bitcoin: A Peer-to-Peer Electronic Cash System
-Satoshi Nakamoto
-
-### `` Двенадцать стульев
-Илья Ильф, Евгений Петров
-
 ### `` Повелитель мух
 Уильям Голдинг
+
+### `` Гарри Поттер и методы рационального мышления
+Элиезер Юдковский
 
 ### `` Hacking: Art of Exploitation
 Jon Erickson
@@ -81,22 +92,9 @@ Jon Erickson
 Dafydd Stuttard, Marcus Pinto
 > В книге исследователей Дафидда Статтарда и Маркуса Пинто подробно рассматриваются основы работы веб-приложений и веб-серверов, эксплуатация логических уязвимостей, SQL-инъекций и другие практические примеры атак на веб-приложения. Руководство по праву заслужило славу настольной книги пентестера.
 
-### `` The Hacker Playbook: Practical Guide To Penetration Testing
-Peter Kim
-> В книге подробно разобраны сложности и типичные задачи, с которыми сталкиваются специалисты по безопасности в ходе тестирования на проникновение. ИБ-эксперт Питер Ким рассматривает практические сетевые атаки, обход антивирусов и атаку на различные средства защиты.
-
-### `` Гарри Поттер и методы рационального мышления
-Элиезер Юдковский
-
-### `` Герой нашего времени
-Михаил Лермонтов
-
 ### `` Братья Карамазовы
 Фёдор Достоевский
 
-### `` A Briefer History of Time
-Stephen Hawking
-
-### `` Овод
-Этель Лилиан Войнич
+### `` Герой нашего времени
+Михаил Лермонтов
 
