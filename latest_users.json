@@ -1,4 +1,10 @@
 {
+    "200666735-vkontakte": {
+        "id": "200666735-vkontakte",
+        "nickname": "mavrentik",
+        "booksCount": 16,
+        "updatedAt": "2018-07-21 22:21:10"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "sonics",
         "booksCount": 57,
         "updatedAt": "2018-07-14 19:15:57"
-    },
-    "113014998782270174609-google": {
-        "id": "113014998782270174609-google",
-        "nickname": "Rorian",
-        "booksCount": 3,
-        "updatedAt": "2018-07-14 19:02:55"
     }
 }

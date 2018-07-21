@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>73</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
-[Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 
 
-_21.07.2018 18:27:52_
+_21.07.2018 22:21:10_
