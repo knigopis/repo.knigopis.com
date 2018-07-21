@@ -1,5 +1,13 @@
-# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>40</sup>
+# List of books read by [kempinsky](https://www.facebook.com/app_scoped_user_id/1717865441574584/)<sup>41</sup>
 ---
+
+## 2018
+
+### Побег из Шоушенка
+Стивен Кинг
+> [2018-07] Большое отличие имеется у книги и фильма!
+
+
 
 ## 2017
 

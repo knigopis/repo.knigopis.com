@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
+    > Большое отличие имеется у книги и фильма!
+
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
     > -Метценгерштейн
     > -Рукопись, найденная в бутылке
@@ -18,8 +21,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/29599801/
 
 * Skin in the Game: Hidden Asymmetries in Daily Life ~ [exulted](users/100/100599204551896265722-google)<sup>72</sup>
-    > Kindle
-    > ASIN: B077QY23RV
 
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
 
@@ -33,13 +34,12 @@ Do not use pull requests to make changes here.
 
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 
-* Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[kempinsky](users/171/1717865441574584-facebook)<sup>41</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>11</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 [German](users/112/112254248549638795343-google)<sup>19</sup> 
@@ -69,7 +69,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Rorian](users/113/113014998782270174609-google)<sup>3</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>53</sup> 
 [n.musinyan](users/107/107339513-vkontakte)<sup>0</sup> 
-[Suertiss](users/111/111831677640715338524-youtube)<sup>0</sup> 
 
 
-_20.07.2018 23:02:45_
+_21.07.2018 10:04:19_

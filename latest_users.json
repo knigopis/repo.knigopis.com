@@ -1,4 +1,10 @@
 {
+    "1717865441574584-facebook": {
+        "id": "1717865441574584-facebook",
+        "nickname": "kempinsky",
+        "booksCount": 41,
+        "updatedAt": "2018-07-21 10:04:19"
+    },
     "220022778-vkontakte": {
         "id": "220022778-vkontakte",
         "nickname": "fox_mi",
@@ -172,11 +178,5 @@
         "nickname": "n.musinyan",
         "booksCount": 0,
         "updatedAt": "2018-07-14 08:17:42"
-    },
-    "111831677640715338524-youtube": {
-        "id": "111831677640715338524-youtube",
-        "nickname": "Suertiss",
-        "booksCount": 0,
-        "updatedAt": "2018-07-14 07:26:31"
     }
 }
