@@ -1,4 +1,16 @@
 {
+    "JiUoq2L8uC": {
+        "id": "JiUoq2L8uC",
+        "title": "Personal power",
+        "author": "Тони Роббинс",
+        "notes": "",
+        "createdAt": "2018-07-21 10:44:10",
+        "user": {
+            "id": "112254248549638795343-google",
+            "nickname": "German",
+            "booksCount": 22
+        }
+    },
     "IDgH2gaY9g": {
         "id": "IDgH2gaY9g",
         "title": "Превращение",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 10
-        }
-    },
-    "_dPdaTn3cZ": {
-        "id": "_dPdaTn3cZ",
-        "title": "Самый богатый человек в Вавилоне",
-        "author": "Джордж Клейсон",
-        "notes": "",
-        "createdAt": "2018-07-18 09:39:04",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 9
         }
     }
 }
