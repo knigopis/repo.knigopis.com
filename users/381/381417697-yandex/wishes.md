@@ -11,7 +11,7 @@
 Уолтер Гратцер
 > Об ученых и их открытиях
 
-### `41` Kotlin in Action
+### `43` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 > Пропустил с 37% по 40%
 
