@@ -1,4 +1,16 @@
 {
+    "K8V0CljcWK": {
+        "id": "K8V0CljcWK",
+        "title": "Слепота",
+        "author": "Жозе Сарамаго",
+        "notes": "",
+        "createdAt": "2018-07-22 10:03:18",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 645
+        }
+    },
     "xiYoLZjTFp": {
         "id": "xiYoLZjTFp",
         "title": "Хлев с ветчиной",
@@ -345,18 +357,6 @@
             "id": "104321966355649455249-google",
             "nickname": "Tanusha",
             "booksCount": 2
-        }
-    },
-    "x9IqGt_6Uc": {
-        "id": "x9IqGt_6Uc",
-        "title": "Обрученные кровью - Отбор 1",
-        "author": "Наталья Жильцова",
-        "notes": "Обе книги на одном дыхании. \nИ язык классный и читалось легко. \nБуду еще пробовать.",
-        "createdAt": "2018-07-18 18:51:59",
-        "user": {
-            "id": "104321966355649455249-google",
-            "nickname": "Tanusha",
-            "booksCount": 1
         }
     }
 }

@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 645,
+        "updatedAt": "2018-07-22 10:03:18"
+    },
     "105831994080785626680-google": {
         "id": "105831994080785626680-google",
         "nickname": "Chiffi",
@@ -172,11 +178,5 @@
         "nickname": "hatalinka",
         "booksCount": 0,
         "updatedAt": "2018-07-14 21:10:33"
-    },
-    "5880221-vkontakte": {
-        "id": "5880221-vkontakte",
-        "nickname": "sonics",
-        "booksCount": 57,
-        "updatedAt": "2018-07-14 19:15:57"
     }
 }
