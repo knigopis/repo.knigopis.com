@@ -1,7 +1,7 @@
 # Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
-### `65` Git from the Bottom Up
+### `83` Git from the Bottom Up
 John Wiegley
 
 ### `60` Тайм-драйв
