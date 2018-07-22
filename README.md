@@ -33,11 +33,11 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>73</sup> 
-[me](users/381/381417697-yandex)<sup>43</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>11</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 
 
-_21.07.2018 22:21:10_
+_22.07.2018 00:36:36_

@@ -1,4 +1,10 @@
 {
+    "381417697-yandex": {
+        "id": "381417697-yandex",
+        "nickname": "me",
+        "booksCount": 43,
+        "updatedAt": "2018-07-22 00:36:36"
+    },
     "200666735-vkontakte": {
         "id": "200666735-vkontakte",
         "nickname": "mavrentik",
@@ -22,12 +28,6 @@
         "nickname": "exulted",
         "booksCount": 73,
         "updatedAt": "2018-07-21 14:02:52"
-    },
-    "381417697-yandex": {
-        "id": "381417697-yandex",
-        "nickname": "me",
-        "booksCount": 43,
-        "updatedAt": "2018-07-21 13:16:58"
     },
     "112254248549638795343-google": {
         "id": "112254248549638795343-google",
