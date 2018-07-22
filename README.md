@@ -37,9 +37,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>645</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
-[me](users/381/381417697-yandex)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 
 
-_22.07.2018 10:03:19_
+_22.07.2018 13:59:34_

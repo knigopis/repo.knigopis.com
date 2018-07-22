@@ -1,4 +1,16 @@
 {
+    "l44NcWs_uZ": {
+        "id": "l44NcWs_uZ",
+        "title": "Git from the Bottom Up",
+        "author": "John Wiegley",
+        "notes": "",
+        "createdAt": "2018-07-22 13:59:34",
+        "user": {
+            "id": "381417697-yandex",
+            "nickname": "me",
+            "booksCount": 44
+        }
+    },
     "K8V0CljcWK": {
         "id": "K8V0CljcWK",
         "title": "Слепота",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 72
-        }
-    },
-    "xbwBR1cW0R": {
-        "id": "xbwBR1cW0R",
-        "title": "Обрученные кровью - Выбор 2",
-        "author": "Наталья Жильцова",
-        "notes": "Обе книги на одном дыхании. \nИ язык классный и читалось легко. \nБуду еще пробовать.",
-        "createdAt": "2018-07-18 18:52:35",
-        "user": {
-            "id": "104321966355649455249-google",
-            "nickname": "Tanusha",
-            "booksCount": 2
         }
     }
 }

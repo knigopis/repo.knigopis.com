@@ -1,7 +1,12 @@
-# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>43</sup>
+# List of books read by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)<sup>44</sup>
 ---
 
 ## 2018
+
+### Git from the Bottom Up
+John Wiegley
+> [2018-07-22] 
+
 
 ### Битва за Рунет: Как власть манипулирует информацией и следит за каждым из нас
 Андрей Солдатов, Ирина Бороган
