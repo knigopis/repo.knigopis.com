@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 
 
-_22.07.2018 00:39:54_
+_22.07.2018 00:40:29_
