@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
@@ -30,7 +31,6 @@
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
-* Зеленая Брама ~ [exulted](users/100/100599204551896265722-google)<sup>64</sup>
 
 
-_21.07.2018 18:27:52_
+_22.07.2018 07:16:54_

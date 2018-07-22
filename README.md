@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
+    > Мне не нравятся книги про взросление мальчиков.... 
+    > 1. Если родители такие жестокие, как показаны в этом романе - почему удивляться,  что от них избавляются при первой возможности
+    > 2. нельзя травить кошек бойцовыми собаками (особенно белях котят) - такие люди не заслуживают сочувствия
+    > 3. слишком много (на мой вкус) физиологических подробностей. Или я росла в пробирке или у девочек это проходит более цивилизованно. Извините, но по этой книжке у меня сложилось впечатление, что мальчишки подростки = животные((((
+    > Или вы умудряетесь вписаться в общую схему,  или подохнете на улице. Печально, но это похоже на истину((
+
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
     > Книга очень понравилась, не смотря на то, что благодаря куче экранизациям основную сюжетную линию конечно знала, но впечатление это нисколько не испортило.
 
@@ -12,7 +19,6 @@ Do not use pull requests to make changes here.
     > очень пронзительная история
 
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
-    > Большое отличие имеется у книги и фильма!
 
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 
@@ -26,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
 
-* Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 [me](users/381/381417697-yandex)<sup>43</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
@@ -54,7 +59,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>65</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
@@ -65,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [sonics](users/588/5880221-vkontakte)<sup>57</sup> 
 
 
-_22.07.2018 02:04:44_
+_22.07.2018 07:16:54_
