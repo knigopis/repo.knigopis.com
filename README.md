@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
+    > сборник рассказов о чае, более трагичный и грустный по сравнению с кофейной книгой
+
 * Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
     > Мне не нравятся книги про взросление мальчиков.... 
     > 1. Если родители такие жестокие, как показаны в этом романе - почему удивляться,  что от них избавляются при первой возможности
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Книга очень понравилась, не смотря на то, что благодаря куче экранизациям основную сюжетную линию конечно знала, но впечатление это нисколько не испортило.
 
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
-    > очень пронзительная история
 
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
 
@@ -30,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
 
-* 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[En](users/333/333646551-vkontakte)<sup>49</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>645</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
-[Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
 
 
-_23.07.2018 05:57:01_
+_23.07.2018 10:19:24_

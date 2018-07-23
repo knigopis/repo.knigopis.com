@@ -1,4 +1,10 @@
 {
+    "333646551-vkontakte": {
+        "id": "333646551-vkontakte",
+        "nickname": "En",
+        "booksCount": 49,
+        "updatedAt": "2018-07-23 10:19:24"
+    },
     "100002563462782-facebook": {
         "id": "100002563462782-facebook",
         "nickname": "HXT",
@@ -172,11 +178,5 @@
         "nickname": "Julia _Volkogonova ",
         "booksCount": 0,
         "updatedAt": "2018-07-15 18:39:11"
-    },
-    "453735822-vkontakte": {
-        "id": "453735822-vkontakte",
-        "nickname": "Лёлька",
-        "booksCount": 20,
-        "updatedAt": "2018-07-15 18:04:00"
     }
 }

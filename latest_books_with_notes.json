@@ -1,4 +1,16 @@
 {
+    "YHyiIhYLiq": {
+        "id": "YHyiIhYLiq",
+        "title": "Чайная книга",
+        "author": "Макс Фрай",
+        "notes": "сборник рассказов о чае, более трагичный и грустный по сравнению с кофейной книгой",
+        "createdAt": "2018-07-23 10:19:24",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 49
+        }
+    },
     "xiYoLZjTFp": {
         "id": "xiYoLZjTFp",
         "title": "Хлев с ветчиной",
@@ -309,18 +321,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 50
-        }
-    },
-    "yliOODeZqq": {
-        "id": "yliOODeZqq",
-        "title": "Чайная книга",
-        "author": "Макс Фрай",
-        "notes": "маловато рецептов, но интересные сюжеты",
-        "createdAt": "2018-07-02 11:53:20",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 47
         }
     },
     "XETtqHQY-s": {

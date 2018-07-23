@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
 * Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
@@ -27,10 +28,9 @@
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
-* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>47</sup>
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
 * Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 * Прометей восставший ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>164</sup>
 
 
-_22.07.2018 07:16:54_
+_23.07.2018 10:19:24_
