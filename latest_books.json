@@ -1,4 +1,16 @@
 {
+    "3oj62WcaTY": {
+        "id": "3oj62WcaTY",
+        "title": "Как навести порядок в финансах собственной фирмы",
+        "author": "Снежана Манько",
+        "notes": "",
+        "createdAt": "2018-07-23 05:48:02",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 316
+        }
+    },
     "l44NcWs_uZ": {
         "id": "l44NcWs_uZ",
         "title": "Git from the Bottom Up",
@@ -345,18 +357,6 @@
             "id": "112322998-yandex",
             "nickname": "zubankova.ekaterina",
             "booksCount": 2
-        }
-    },
-    "zLOsyaiRXt": {
-        "id": "zLOsyaiRXt",
-        "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
-        "author": "Nassim Nicholas Taleb",
-        "notes": "Kindle\nASIN: B077QY23RV",
-        "createdAt": "2018-07-18 19:59:20",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 72
         }
     }
 }

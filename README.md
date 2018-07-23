@@ -37,6 +37,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>316</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>645</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
@@ -66,7 +67,6 @@ _More notes [here](latest_books_with_notes.md)._
 [submerged fish](users/471/471364154-yandex)<sup>17</sup> 
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 [Лёлька](users/453/453735822-vkontakte)<sup>20</sup> 
-[hatalinka](users/358/358211352-vkontakte)<sup>0</sup> 
 
 
-_22.07.2018 13:59:34_
+_23.07.2018 05:48:02_
