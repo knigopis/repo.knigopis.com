@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
+    > немного однобока и затянута, концовка скомкана на 20 последних страничках. среднячковая книга по сравнению с остальными
+
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
     > сборник рассказов о чае, более трагичный и грустный по сравнению с кофейной книгой
 
@@ -16,7 +19,6 @@ Do not use pull requests to make changes here.
     > Или вы умудряетесь вписаться в общую схему,  или подохнете на улице. Печально, но это похоже на истину((
 
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
-    > Книга очень понравилась, не смотря на то, что благодаря куче экранизациям основную сюжетную линию конечно знала, но впечатление это нисколько не испортило.
 
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 
@@ -30,14 +32,12 @@ Do not use pull requests to make changes here.
 
 * Утопия ~ [Rainbow](users/109/109787328219839805802-google)<sup>45</sup>
 
-* Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[En](users/333/333646551-vkontakte)<sup>49</sup> 
+[En](users/333/333646551-vkontakte)<sup>50</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>645</sup> 
@@ -69,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Julia _Volkogonova ](users/108/108109406086880611759-google)<sup>0</sup> 
 
 
-_23.07.2018 10:19:24_
+_23.07.2018 10:20:51_

@@ -1,4 +1,16 @@
 {
+    "4rnpHwCnE8": {
+        "id": "4rnpHwCnE8",
+        "title": "Иллюзия 2",
+        "author": "Тармашев С.С.",
+        "notes": "немного однобока и затянута, концовка скомкана на 20 последних страничках. среднячковая книга по сравнению с остальными",
+        "createdAt": "2018-07-23 10:20:51",
+        "user": {
+            "id": "333646551-vkontakte",
+            "nickname": "En",
+            "booksCount": 50
+        }
+    },
     "YHyiIhYLiq": {
         "id": "YHyiIhYLiq",
         "title": "Чайная книга",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 65
-        }
-    },
-    "jiB9d_BXYZ": {
-        "id": "jiB9d_BXYZ",
-        "title": "Прометей восставший",
-        "author": "Р.Уилсон",
-        "notes": "в процессе",
-        "createdAt": "2018-06-27 21:57:13",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 164
         }
     }
 }
