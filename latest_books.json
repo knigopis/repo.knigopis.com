@@ -1,4 +1,16 @@
 {
+    "2lNYVKwgoZ": {
+        "id": "2lNYVKwgoZ",
+        "title": "Обреченные",
+        "author": "Чак Паланик",
+        "notes": "Книга царапает своим драматичным цинизмом. Много гадкого, но был ряд моментов, которые по накалу драмы просто заставляли ошарашенно сидеть и раздумывать.",
+        "createdAt": "2018-07-23 20:25:32",
+        "user": {
+            "id": "115226508-vkontakte",
+            "nickname": "Saamy",
+            "booksCount": 52
+        }
+    },
     "jXOBRPYEFh": {
         "id": "jXOBRPYEFh",
         "title": "На кого упало яблоко",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 17
-        }
-    },
-    "aNI1YsovZw": {
-        "id": "aNI1YsovZw",
-        "title": "Сказать жизни да",
-        "author": "Виктор Франкл",
-        "notes": "",
-        "createdAt": "2018-07-20 10:12:59",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 16
         }
     }
 }
