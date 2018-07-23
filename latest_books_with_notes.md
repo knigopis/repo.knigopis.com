@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
 * Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
@@ -30,7 +31,6 @@
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
 * Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
 * Тени старой квартиры ~ [Chiffi](users/105/105831994080785626680-google)<sup>63</sup>
-* Челюскинская эпопея ~ [exulted](users/100/100599204551896265722-google)<sup>65</sup>
 
 
-_23.07.2018 10:20:51_
+_23.07.2018 20:23:55_
