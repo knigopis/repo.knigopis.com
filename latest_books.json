@@ -1,4 +1,16 @@
 {
+    "KBweTN3ERM": {
+        "id": "KBweTN3ERM",
+        "title": "Застава",
+        "author": "Сергей лукьяненко",
+        "notes": "",
+        "createdAt": "2018-07-23 05:57:00",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 317
+        }
+    },
     "3oj62WcaTY": {
         "id": "3oj62WcaTY",
         "title": "Как навести порядок в финансах собственной фирмы",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 170
-        }
-    },
-    "X9t8e5zbTV": {
-        "id": "X9t8e5zbTV",
-        "title": "Дающий",
-        "author": "Лоис Лоури",
-        "notes": "Антиутопия для подростков",
-        "createdAt": "2018-07-19 00:03:55",
-        "user": {
-            "id": "112322998-yandex",
-            "nickname": "zubankova.ekaterina",
-            "booksCount": 2
         }
     }
 }
