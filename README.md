@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[EsterHani](users/305/30558181-vkontakte)<sup>150</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>98</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
-[leekou](users/327/327791946-vkontakte)<sup>0</sup> 
 
 
-_24.07.2018 06:27:19_
+_24.07.2018 11:32:13_

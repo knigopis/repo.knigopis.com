@@ -1,4 +1,16 @@
 {
+    "4IIaIz5-ni": {
+        "id": "4IIaIz5-ni",
+        "title": "Заразительный. Психология сарафанного радио",
+        "author": "Йона Бергер",
+        "notes": "",
+        "createdAt": "2018-07-24 11:32:13",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 150
+        }
+    },
     "EzTKU1TTiF": {
         "id": "EzTKU1TTiF",
         "title": "The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 19
-        }
-    },
-    "pXj2QeaNsD": {
-        "id": "pXj2QeaNsD",
-        "title": "Самурай без меча",
-        "author": "Китами Масао",
-        "notes": "прочитать еще",
-        "createdAt": "2018-07-20 10:13:51",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 18
         }
     }
 }
