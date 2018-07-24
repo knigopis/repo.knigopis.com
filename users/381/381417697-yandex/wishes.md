@@ -1,6 +1,8 @@
 # Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
+### `87` Nwe2
+
 ### `60` Тайм-драйв
 Глеб Архангельский
 
@@ -21,12 +23,12 @@ Miran Lipovača
 ### `20` Слово живое и мертвое
 Нора Галь
 
+### `12` Совершенный код
+Стив Макконнелл
+
 ### `12` Математическая составляющая
 Н. Н. Андреев, С. П. Коновалов, Н. М. Панюнин
 > http://book.etudes.ru/toc/
-
-### `12` Совершенный код
-Стив Макконнелл
 
 ### `10` Learning the vi and Vim Editors
 Arnold Robbins, Elbert Hannah, Linda Lamb
@@ -47,17 +49,17 @@ Joel Spolsky
 ### `` A Briefer History of Time
 Stephen Hawking
 
-### `` The Cathedral and the Bazaar
-Eric S. Raymond
-
 ### `` Три товарища
 Эрих Мария Ремарк
 
-### `` Мертвые души
-Николай Гоголь
-
 ### `` Двенадцать стульев
 Илья Ильф, Евгений Петров
+
+### `` The Cathedral and the Bazaar
+Eric S. Raymond
+
+### `` Мертвые души
+Николай Гоголь
 
 ### `` Братья Карамазовы
 Фёдор Достоевский
