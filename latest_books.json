@@ -1,4 +1,16 @@
 {
+    "EzTKU1TTiF": {
+        "id": "EzTKU1TTiF",
+        "title": "The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
+        "author": "Meg Jay",
+        "notes": "9/10",
+        "createdAt": "2018-07-24 06:27:19",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 89
+        }
+    },
     "2lNYVKwgoZ": {
         "id": "2lNYVKwgoZ",
         "title": "Обреченные",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 18
-        }
-    },
-    "UbhSyygZbE": {
-        "id": "UbhSyygZbE",
-        "title": "Вершитель Реальности",
-        "author": "Вадим Зеланд",
-        "notes": "",
-        "createdAt": "2018-07-20 10:13:22",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 17
         }
     }
 }

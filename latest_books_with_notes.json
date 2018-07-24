@@ -1,4 +1,16 @@
 {
+    "EzTKU1TTiF": {
+        "id": "EzTKU1TTiF",
+        "title": "The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
+        "author": "Meg Jay",
+        "notes": "9/10",
+        "createdAt": "2018-07-24 06:27:19",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 89
+        }
+    },
     "2lNYVKwgoZ": {
         "id": "2lNYVKwgoZ",
         "title": "Обреченные",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 165
-        }
-    },
-    "G307bnqCYq": {
-        "id": "G307bnqCYq",
-        "title": "Норвежский лес",
-        "author": "Харуки Мураками",
-        "notes": "Книга отличается от остальных произведений Мураками, пожалуй, обилием сексуальных сцен и более приземленным сюжетом. Я не особо понял её глубинный смысл, но прочиталась она довольно легко и нашлась пара интересных мыслей и необычных моментов. Но хотелось бы выделить интересных персонажей, каждый из которых - очень яркий и неповторимый",
-        "createdAt": "2018-07-05 16:28:18",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 50
         }
     }
 }

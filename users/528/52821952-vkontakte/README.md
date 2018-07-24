@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>88</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>89</sup>
 ---
 
 ## 2018
+
+### The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now
+Meg Jay
+> [2018-07-21] 9/10
+
 
 ### Этот неподражаемый Дживс
 Пелам Вудхаус

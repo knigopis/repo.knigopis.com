@@ -1,4 +1,10 @@
 {
+    "52821952-vkontakte": {
+        "id": "52821952-vkontakte",
+        "nickname": "Apprentice ",
+        "booksCount": 89,
+        "updatedAt": "2018-07-24 06:27:19"
+    },
     "115226508-vkontakte": {
         "id": "115226508-vkontakte",
         "nickname": "Saamy",
@@ -172,11 +178,5 @@
         "nickname": "leekou",
         "booksCount": 0,
         "updatedAt": "2018-07-16 07:20:52"
-    },
-    "44606269-yandex": {
-        "id": "44606269-yandex",
-        "nickname": "nelegalco",
-        "booksCount": 1,
-        "updatedAt": "2018-07-16 07:07:41"
     }
 }

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
+    > 9/10
+
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
     > Книга царапает своим драматичным цинизмом. Много гадкого, но был ряд моментов, которые по накалу драмы просто заставляли ошарашенно сидеть и раздумывать.
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > В книге очень хорошо раскрывается, что такое научный приоритет, насколько влияла своевременная публикация на закрепление открытия за определенным именем, как много гнусных черт может обнаруживаться в характерах интеллигентнейших людей.
 
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
-    > немного однобока и затянута, концовка скомкана на 20 последних страничках. среднячковая книга по сравнению с остальными
 
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
 
-* Гиперион. Падение Гипериона ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>98</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>128</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 [leekou](users/327/327791946-vkontakte)<sup>0</sup> 
-[nelegalco](users/446/44606269-yandex)<sup>1</sup> 
 
 
-_23.07.2018 20:25:33_
+_24.07.2018 06:27:19_

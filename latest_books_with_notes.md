@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
 * На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
@@ -30,7 +31,6 @@
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
 * Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
 * Советский стиль: история и люди ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>165</sup>
-* Норвежский лес ~ [Saamy](users/115/115226508-vkontakte)<sup>50</sup>
 
 
-_23.07.2018 20:25:33_
+_24.07.2018 06:27:19_
