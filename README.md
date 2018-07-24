@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[EsterHani](users/305/30558181-vkontakte)<sup>150</sup> 
+[EsterHani](users/305/30558181-vkontakte)<sup>151</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>98</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 
 
-_24.07.2018 11:32:13_
+_24.07.2018 11:33:18_

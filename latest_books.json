@@ -1,4 +1,16 @@
 {
+    "MAD_suH-b6": {
+        "id": "MAD_suH-b6",
+        "title": "100+ хаков для интернет-маркетологов",
+        "author": "Евгения Крюкова",
+        "notes": "",
+        "createdAt": "2018-07-24 11:33:18",
+        "user": {
+            "id": "30558181-vkontakte",
+            "nickname": "EsterHani",
+            "booksCount": 151
+        }
+    },
     "4IIaIz5-ni": {
         "id": "4IIaIz5-ni",
         "title": "Заразительный. Психология сарафанного радио",
@@ -345,18 +357,6 @@
             "id": "105866022348292919948-google",
             "nickname": "Chandravadana",
             "booksCount": 69
-        }
-    },
-    "RCKUAj6pox": {
-        "id": "RCKUAj6pox",
-        "title": "Волшебная лампа бизнесмена",
-        "author": "Джек Траут",
-        "notes": "еще",
-        "createdAt": "2018-07-20 10:14:53",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 19
         }
     }
 }
