@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>646</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
@@ -42,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>645</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [dilost](users/102/10206471247373307-facebook)<sup>2</sup> 
 
 
-_24.07.2018 11:34:25_
+_24.07.2018 15:51:10_
