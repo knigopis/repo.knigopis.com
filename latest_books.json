@@ -1,4 +1,16 @@
 {
+    "Vr_WPFQfPl": {
+        "id": "Vr_WPFQfPl",
+        "title": "Поллианна",
+        "author": "Элионор Портер",
+        "notes": "",
+        "createdAt": "2018-07-24 21:13:45",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 647
+        }
+    },
     "9uvLopIfal": {
         "id": "9uvLopIfal",
         "title": "Жизнь Бенджамина Франклина. Автобиография",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 11
-        }
-    },
-    "L5tjnslj-X": {
-        "id": "L5tjnslj-X",
-        "title": "Цвет волшебства",
-        "author": "Терри Пратчетт",
-        "notes": "",
-        "createdAt": "2018-07-20 18:51:36",
-        "user": {
-            "id": "105866022348292919948-google",
-            "nickname": "Chandravadana",
-            "booksCount": 70
         }
     }
 }

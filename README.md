@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>647</sup> 
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>646</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 
 
-_24.07.2018 19:12:14_
+_24.07.2018 21:13:46_
