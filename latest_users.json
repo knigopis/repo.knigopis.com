@@ -1,4 +1,10 @@
 {
+    "104253979-vkontakte": {
+        "id": "104253979-vkontakte",
+        "nickname": "stanislas.morosow",
+        "booksCount": 0,
+        "updatedAt": "2018-07-24 19:12:11"
+    },
     "108113656204404967440-google": {
         "id": "108113656204404967440-google",
         "nickname": "Janet",
@@ -172,11 +178,5 @@
         "nickname": "elena-gagina2014",
         "booksCount": 0,
         "updatedAt": "2018-07-17 14:58:27"
-    },
-    "10206471247373307-facebook": {
-        "id": "10206471247373307-facebook",
-        "nickname": "dilost",
-        "booksCount": 2,
-        "updatedAt": "2018-07-16 09:47:25"
     }
 }
