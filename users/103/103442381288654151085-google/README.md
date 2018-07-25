@@ -1,4 +1,4 @@
-# List of books read by aaaLina<sup>15</sup>
+# List of books read by aaaLina<sup>16</sup>
 ---
 
 ## 2018
@@ -17,6 +17,10 @@
 
 
 ## 2017
+
+### 50 дней до моего самоубийства
+Крамер Стейс
+
 
 ### #люблютебя
 Ганьон Джилли
