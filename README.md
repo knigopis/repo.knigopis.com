@@ -34,13 +34,13 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>129</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>647</sup> 
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>98</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>128</sup> 
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [elena-gagina2014](users/208/208969292-yandex)<sup>0</sup> 
 
 
-_24.07.2018 21:13:46_
+_25.07.2018 08:17:00_

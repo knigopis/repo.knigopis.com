@@ -1,4 +1,16 @@
 {
+    "9EUu6ueowR": {
+        "id": "9EUu6ueowR",
+        "title": "Котлован",
+        "author": "Александр Платонов",
+        "notes": "",
+        "createdAt": "2018-07-25 08:17:00",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 129
+        }
+    },
     "Vr_WPFQfPl": {
         "id": "Vr_WPFQfPl",
         "title": "Поллианна",
@@ -345,18 +357,6 @@
             "id": "1717865441574584-facebook",
             "nickname": "kempinsky",
             "booksCount": 41
-        }
-    },
-    "x7ZRSCvaih": {
-        "id": "x7ZRSCvaih",
-        "title": "Убийства на улице Морг",
-        "author": "Эдгар Аллан По",
-        "notes": "-Метценгерштейн\n-Рукопись, найденная в бутылке\n-Лягушонок",
-        "createdAt": "2018-07-20 23:02:45",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 11
         }
     }
 }
