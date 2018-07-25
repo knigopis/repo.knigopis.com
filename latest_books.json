@@ -1,4 +1,16 @@
 {
+    "ITeyIsMJaX": {
+        "id": "ITeyIsMJaX",
+        "title": "Шоколад",
+        "author": "Джоан Хэррис",
+        "notes": "",
+        "createdAt": "2018-07-25 15:46:54",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 648
+        }
+    },
     "vZ5FExdI17": {
         "id": "vZ5FExdI17",
         "title": "Записки старого козла",
@@ -345,18 +357,6 @@
             "id": "52821952-vkontakte",
             "nickname": "Apprentice ",
             "booksCount": 89
-        }
-    },
-    "2lNYVKwgoZ": {
-        "id": "2lNYVKwgoZ",
-        "title": "Обреченные",
-        "author": "Чак Паланик",
-        "notes": "Книга царапает своим драматичным цинизмом. Много гадкого, но был ряд моментов, которые по накалу драмы просто заставляли ошарашенно сидеть и раздумывать.",
-        "createdAt": "2018-07-23 20:25:32",
-        "user": {
-            "id": "115226508-vkontakte",
-            "nickname": "Saamy",
-            "booksCount": 52
         }
     }
 }
