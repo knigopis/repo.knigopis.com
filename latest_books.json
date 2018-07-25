@@ -1,4 +1,16 @@
 {
+    "t7dO9zc0XG": {
+        "id": "t7dO9zc0XG",
+        "title": "Мне 14 уже два года",
+        "author": "Ирина Костевич",
+        "notes": "",
+        "createdAt": "2018-07-25 12:02:53",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 20
+        }
+    },
     "zFmBkK7pZB": {
         "id": "zFmBkK7pZB",
         "title": "Любовь не красит жизнь мою…",
@@ -345,18 +357,6 @@
             "id": "15706320-vkontakte",
             "nickname": "borodach",
             "booksCount": 128
-        }
-    },
-    "4rnpHwCnE8": {
-        "id": "4rnpHwCnE8",
-        "title": "Иллюзия 2",
-        "author": "Тармашев С.С.",
-        "notes": "немного однобока и затянута, концовка скомкана на 20 последних страничках. среднячковая книга по сравнению с остальными",
-        "createdAt": "2018-07-23 10:20:51",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 50
         }
     }
 }
