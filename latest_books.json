@@ -1,4 +1,16 @@
 {
+    "zFmBkK7pZB": {
+        "id": "zFmBkK7pZB",
+        "title": "Любовь не красит жизнь мою…",
+        "author": "Светлана Лубенец",
+        "notes": "",
+        "createdAt": "2018-07-25 12:02:00",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 19
+        }
+    },
     "MMAz928d-Y": {
         "id": "MMAz928d-Y",
         "title": "Чайка с застывшим взглядом",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 50
-        }
-    },
-    "YHyiIhYLiq": {
-        "id": "YHyiIhYLiq",
-        "title": "Чайная книга",
-        "author": "Макс Фрай",
-        "notes": "сборник рассказов о чае, более трагичный и грустный по сравнению с кофейной книгой",
-        "createdAt": "2018-07-23 10:19:24",
-        "user": {
-            "id": "333646551-vkontakte",
-            "nickname": "En",
-            "booksCount": 49
         }
     }
 }

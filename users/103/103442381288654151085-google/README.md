@@ -1,7 +1,11 @@
-# List of books read by aaaLina<sup>18</sup>
+# List of books read by aaaLina<sup>19</sup>
 ---
 
 ## 2018
+
+### Любовь не красит жизнь мою…
+Светлана Лубенец
+
 
 ### Чайка с застывшим взглядом
 Елена Габова
