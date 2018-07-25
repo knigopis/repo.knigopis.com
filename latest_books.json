@@ -1,4 +1,16 @@
 {
+    "Ov9P5gE2cJ": {
+        "id": "Ov9P5gE2cJ",
+        "title": "Только сияй",
+        "author": "Филон Елена",
+        "notes": "",
+        "createdAt": "2018-07-25 11:52:57",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 6
+        }
+    },
     "uiVlk5fLbx": {
         "id": "uiVlk5fLbx",
         "title": "Только слушай",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 24
-        }
-    },
-    "7ZWx6ns6KF": {
-        "id": "7ZWx6ns6KF",
-        "title": "Дом с призраками",
-        "author": "Чарльз Диккенс",
-        "notes": "",
-        "createdAt": "2018-07-21 10:44:30",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 23
         }
     }
 }
