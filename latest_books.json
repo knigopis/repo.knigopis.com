@@ -1,4 +1,16 @@
 {
+    "MMAz928d-Y": {
+        "id": "MMAz928d-Y",
+        "title": "Чайка с застывшим взглядом",
+        "author": "Елена Габова",
+        "notes": "",
+        "createdAt": "2018-07-25 12:00:47",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 18
+        }
+    },
     "Cp5_5GbNnr": {
         "id": "Cp5_5GbNnr",
         "title": "Ревизор",
@@ -345,18 +357,6 @@
             "id": "333646551-vkontakte",
             "nickname": "En",
             "booksCount": 49
-        }
-    },
-    "KBweTN3ERM": {
-        "id": "KBweTN3ERM",
-        "title": "Застава",
-        "author": "Сергей лукьяненко",
-        "notes": "",
-        "createdAt": "2018-07-23 05:57:00",
-        "user": {
-            "id": "100002563462782-facebook",
-            "nickname": "HXT",
-            "booksCount": 317
         }
     }
 }

@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[aaaLina](users/103/103442381288654151085-google)<sup>17</sup> 
+[aaaLina](users/103/103442381288654151085-google)<sup>18</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>129</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>647</sup> 
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 
 
-_25.07.2018 11:58:26_
+_25.07.2018 12:00:47_
