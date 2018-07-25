@@ -1,4 +1,16 @@
 {
+    "K8h2fUMBnr": {
+        "id": "K8h2fUMBnr",
+        "title": "Девушка Online: в турне",
+        "author": "Сагг Зои",
+        "notes": "",
+        "createdAt": "2018-07-25 11:54:27",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 10
+        }
+    },
     "30TteSgeSA": {
         "id": "30TteSgeSA",
         "title": "Девушка Online",
@@ -345,18 +357,6 @@
             "id": "103293621948650602575-google",
             "nickname": "Lost in Frost",
             "booksCount": 126
-        }
-    },
-    "fPZv-xom1n": {
-        "id": "fPZv-xom1n",
-        "title": "Странный человек",
-        "author": "Акунин Борис",
-        "notes": "",
-        "createdAt": "2018-07-21 14:02:52",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 73
         }
     }
 }
