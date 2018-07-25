@@ -1,7 +1,11 @@
-# List of books read by aaaLina<sup>10</sup>
+# List of books read by aaaLina<sup>11</sup>
 ---
 
 ## 2017
+
+### Девушка Online. Статус: свободна
+Сагг Зои
+
 
 ### Девушка Online: в турне
 Сагг Зои

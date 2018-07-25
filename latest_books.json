@@ -1,4 +1,16 @@
 {
+    "L5pJjSwcKU": {
+        "id": "L5pJjSwcKU",
+        "title": "Девушка Online. Статус: свободна",
+        "author": "Сагг Зои",
+        "notes": "",
+        "createdAt": "2018-07-25 11:54:49",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 11
+        }
+    },
     "K8h2fUMBnr": {
         "id": "K8h2fUMBnr",
         "title": "Девушка Online: в турне",
@@ -345,18 +357,6 @@
             "id": "115753719718250012620-google",
             "nickname": "Garka",
             "booksCount": 185
-        }
-    },
-    "RUsyqrT4Ox": {
-        "id": "RUsyqrT4Ox",
-        "title": "Сотня",
-        "author": "Кэсс Морган",
-        "notes": "",
-        "createdAt": "2018-07-21 15:52:57",
-        "user": {
-            "id": "103293621948650602575-google",
-            "nickname": "Lost in Frost",
-            "booksCount": 126
         }
     }
 }
