@@ -1,4 +1,16 @@
 {
+    "lMJdHagMsA": {
+        "id": "lMJdHagMsA",
+        "title": "Мой лучший враг",
+        "author": "Фрей Эли",
+        "notes": "",
+        "createdAt": "2018-07-25 11:57:17",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 15
+        }
+    },
     "huiGVt3ONl": {
         "id": "huiGVt3ONl",
         "title": "Мы, дети золотых рудников",
@@ -345,18 +357,6 @@
             "id": "381417697-yandex",
             "nickname": "me",
             "booksCount": 44
-        }
-    },
-    "K8V0CljcWK": {
-        "id": "K8V0CljcWK",
-        "title": "Слепота",
-        "author": "Жозе Сарамаго",
-        "notes": "",
-        "createdAt": "2018-07-22 10:03:18",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 645
         }
     }
 }
