@@ -1,4 +1,16 @@
 {
+    "8vztxwscrH": {
+        "id": "8vztxwscrH",
+        "title": "Ромео и Джульетта",
+        "author": "Уильям Шекспир",
+        "notes": "",
+        "createdAt": "2018-07-25 12:04:16",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 22
+        }
+    },
     "iuN7LVNbFO": {
         "id": "iuN7LVNbFO",
         "title": "Прикоснись к химере",
@@ -345,18 +357,6 @@
             "id": "115226508-vkontakte",
             "nickname": "Saamy",
             "booksCount": 51
-        }
-    },
-    "OeOu3RozTy": {
-        "id": "OeOu3RozTy",
-        "title": "Под сетью",
-        "author": "Айрис Мердок",
-        "notes": "",
-        "createdAt": "2018-07-23 17:58:49",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 98
         }
     }
 }
