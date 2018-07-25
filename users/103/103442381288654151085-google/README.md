@@ -1,7 +1,11 @@
-# List of books read by aaaLina<sup>13</sup>
+# List of books read by aaaLina<sup>14</sup>
 ---
 
 ## 2018
+
+### Мы, дети золотых рудников
+Фрей Эли
+
 
 ### Скажи волкам, что я дома
 Брант Кэрол Рифка
