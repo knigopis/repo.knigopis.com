@@ -1,4 +1,16 @@
 {
+    "4TAdYeOxH0": {
+        "id": "4TAdYeOxH0",
+        "title": "Только играй",
+        "author": "Филон Елена",
+        "notes": "",
+        "createdAt": "2018-07-25 11:53:16",
+        "user": {
+            "id": "103442381288654151085-google",
+            "nickname": "aaaLina",
+            "booksCount": 7
+        }
+    },
     "Ov9P5gE2cJ": {
         "id": "Ov9P5gE2cJ",
         "title": "Только сияй",
@@ -345,18 +357,6 @@
             "id": "112254248549638795343-google",
             "nickname": "German",
             "booksCount": 25
-        }
-    },
-    "KG9FfaSYWp": {
-        "id": "KG9FfaSYWp",
-        "title": "Черная риторика",
-        "author": "Карстен Брендмайер",
-        "notes": "",
-        "createdAt": "2018-07-21 10:44:49",
-        "user": {
-            "id": "112254248549638795343-google",
-            "nickname": "German",
-            "booksCount": 24
         }
     }
 }
