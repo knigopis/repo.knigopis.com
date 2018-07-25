@@ -1,7 +1,11 @@
-# List of books read by [fox_mi](http://vk.com/id220022778)<sup>11</sup>
+# List of books read by [fox_mi](http://vk.com/id220022778)<sup>12</sup>
 ---
 
 ## Other years
+
+### Записки старого козла
+Чарльз Буковски
+
 
 ### Убийства на улице Морг
 Эдгар Аллан По

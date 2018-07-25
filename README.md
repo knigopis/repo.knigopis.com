@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>129</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>647</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [exulted](users/100/100599204551896265722-google)<sup>73</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
-[fox_mi](users/220/220022778-vkontakte)<sup>11</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 
 
-_25.07.2018 12:04:16_
+_25.07.2018 14:00:54_
