@@ -1,4 +1,10 @@
 {
+    "176805114-yandex": {
+        "id": "176805114-yandex",
+        "nickname": "fir137",
+        "booksCount": 0,
+        "updatedAt": "2018-07-26 09:28:00"
+    },
     "15706320-vkontakte": {
         "id": "15706320-vkontakte",
         "nickname": "borodach",
@@ -172,11 +178,5 @@
         "nickname": "Mad Wolf",
         "booksCount": 135,
         "updatedAt": "2018-07-18 07:29:23"
-    },
-    "109842160654760165824-google": {
-        "id": "109842160654760165824-google",
-        "nickname": "wowdaria",
-        "booksCount": 0,
-        "updatedAt": "2018-07-17 15:38:31"
     }
 }
