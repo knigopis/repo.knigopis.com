@@ -1,4 +1,16 @@
 {
+    "I87w5qzFsV": {
+        "id": "I87w5qzFsV",
+        "title": "Левша",
+        "author": "Николай Лесков",
+        "notes": "",
+        "createdAt": "2018-07-26 09:15:30",
+        "user": {
+            "id": "15706320-vkontakte",
+            "nickname": "borodach",
+            "booksCount": 130
+        }
+    },
     "ITeyIsMJaX": {
         "id": "ITeyIsMJaX",
         "title": "Шоколад",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 150
-        }
-    },
-    "EzTKU1TTiF": {
-        "id": "EzTKU1TTiF",
-        "title": "The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
-        "author": "Meg Jay",
-        "notes": "9/10",
-        "createdAt": "2018-07-24 06:27:19",
-        "user": {
-            "id": "52821952-vkontakte",
-            "nickname": "Apprentice ",
-            "booksCount": 89
         }
     }
 }

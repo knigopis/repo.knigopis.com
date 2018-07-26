@@ -34,10 +34,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[borodach](users/157/15706320-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>648</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
 [aaaLina](users/103/103442381288654151085-google)<sup>22</sup> 
-[borodach](users/157/15706320-vkontakte)<sup>129</sup> 
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [wowdaria](users/109/109842160654760165824-google)<sup>0</sup> 
 
 
-_25.07.2018 15:46:55_
+_26.07.2018 09:15:30_
