@@ -1,4 +1,16 @@
 {
+    "aiAd1p09mo": {
+        "id": "aiAd1p09mo",
+        "title": "Вафельное сердце",
+        "author": "Мария Парр",
+        "notes": "",
+        "createdAt": "2018-07-26 11:09:55",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 649
+        }
+    },
     "9xQuTdyMYN": {
         "id": "9xQuTdyMYN",
         "title": "Кристина",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 646
-        }
-    },
-    "YbKuStk5NB": {
-        "id": "YbKuStk5NB",
-        "title": "100+ хаков для интернет-маркетологов",
-        "author": "Евгения Крюкова и Денис Савельев",
-        "notes": "",
-        "createdAt": "2018-07-24 11:34:24",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 152
         }
     }
 }
