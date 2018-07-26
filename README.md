@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[fir137](users/176/176805114-yandex)<sup>0</sup> 
+[fir137](users/176/176805114-yandex)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>130</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>648</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Mad Wolf](users/947/94738840-vkontakte)<sup>135</sup> 
 
 
-_26.07.2018 09:28:02_
+_26.07.2018 09:30:00_

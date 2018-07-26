@@ -1,4 +1,16 @@
 {
+    "9xQuTdyMYN": {
+        "id": "9xQuTdyMYN",
+        "title": "Кристина",
+        "author": "Кинг Стивен",
+        "notes": "",
+        "createdAt": "2018-07-26 09:30:00",
+        "user": {
+            "id": "176805114-yandex",
+            "nickname": "fir137",
+            "booksCount": 1
+        }
+    },
     "I87w5qzFsV": {
         "id": "I87w5qzFsV",
         "title": "Левша",
@@ -345,18 +357,6 @@
             "id": "30558181-vkontakte",
             "nickname": "EsterHani",
             "booksCount": 152
-        }
-    },
-    "4IIaIz5-ni": {
-        "id": "4IIaIz5-ni",
-        "title": "Заразительный. Психология сарафанного радио",
-        "author": "Йона Бергер",
-        "notes": "",
-        "createdAt": "2018-07-24 11:32:13",
-        "user": {
-            "id": "30558181-vkontakte",
-            "nickname": "EsterHani",
-            "booksCount": 150
         }
     }
 }
