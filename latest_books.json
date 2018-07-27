@@ -1,4 +1,16 @@
 {
+    "KtkoUkQBLi": {
+        "id": "KtkoUkQBLi",
+        "title": "Страна радости",
+        "author": "Стивен Кинг",
+        "notes": "",
+        "createdAt": "2018-07-27 11:02:07",
+        "user": {
+            "id": "38760741-vkontakte",
+            "nickname": "Alis",
+            "booksCount": 21
+        }
+    },
     "TO3zv8iNEv": {
         "id": "TO3zv8iNEv",
         "title": "Куда приводят мечты",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 19
-        }
-    },
-    "MMAz928d-Y": {
-        "id": "MMAz928d-Y",
-        "title": "Чайка с застывшим взглядом",
-        "author": "Елена Габова",
-        "notes": "",
-        "createdAt": "2018-07-25 12:00:47",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 18
         }
     }
 }
