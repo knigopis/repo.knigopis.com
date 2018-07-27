@@ -1,4 +1,4 @@
-# List of books read by [Alis](http://vk.com/id38760741)<sup>7</sup>
+# List of books read by [Alis](http://vk.com/id38760741)<sup>8</sup>
 ---
 
 ## 2018
@@ -26,6 +26,10 @@
 
 
 ## 2017
+
+### Джен Эйр
+Шарлотта Бронте
+
 
 ### Унесенные ветром
 Миттчел

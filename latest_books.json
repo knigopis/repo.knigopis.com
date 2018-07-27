@@ -1,4 +1,16 @@
 {
+    "y1AzwDKF_3": {
+        "id": "y1AzwDKF_3",
+        "title": "Джен Эйр",
+        "author": "Шарлотта Бронте",
+        "notes": "",
+        "createdAt": "2018-07-27 10:26:53",
+        "user": {
+            "id": "38760741-vkontakte",
+            "nickname": "Alis",
+            "booksCount": 8
+        }
+    },
     "ALRCp8TFJr": {
         "id": "ALRCp8TFJr",
         "title": "Дневник",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 6
-        }
-    },
-    "uiVlk5fLbx": {
-        "id": "uiVlk5fLbx",
-        "title": "Только слушай",
-        "author": "Филон Елена",
-        "notes": "",
-        "createdAt": "2018-07-25 11:52:31",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 5
         }
     }
 }
