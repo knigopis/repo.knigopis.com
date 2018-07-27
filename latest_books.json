@@ -1,4 +1,16 @@
 {
+    "bnFJRQO9te": {
+        "id": "bnFJRQO9te",
+        "title": "Маленькая хозяйка большого дома",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-07-27 10:34:04",
+        "user": {
+            "id": "38760741-vkontakte",
+            "nickname": "Alis",
+            "booksCount": 13
+        }
+    },
     "3nQ8We7g6s": {
         "id": "3nQ8We7g6s",
         "title": "Граф Монте-Кристо",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 11
-        }
-    },
-    "K8h2fUMBnr": {
-        "id": "K8h2fUMBnr",
-        "title": "Девушка Online: в турне",
-        "author": "Сагг Зои",
-        "notes": "",
-        "createdAt": "2018-07-25 11:54:27",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 10
         }
     }
 }
