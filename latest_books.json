@@ -1,4 +1,16 @@
 {
+    "bAAkj610P8": {
+        "id": "bAAkj610P8",
+        "title": "Странник по звездам или Смирительная рубашка",
+        "author": "Джек Лондон",
+        "notes": "",
+        "createdAt": "2018-07-27 10:38:13",
+        "user": {
+            "id": "38760741-vkontakte",
+            "nickname": "Alis",
+            "booksCount": 14
+        }
+    },
     "bnFJRQO9te": {
         "id": "bnFJRQO9te",
         "title": "Маленькая хозяйка большого дома",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 12
-        }
-    },
-    "L5pJjSwcKU": {
-        "id": "L5pJjSwcKU",
-        "title": "Девушка Online. Статус: свободна",
-        "author": "Сагг Зои",
-        "notes": "",
-        "createdAt": "2018-07-25 11:54:49",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 11
         }
     }
 }
