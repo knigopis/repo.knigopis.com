@@ -1,4 +1,4 @@
-# List of books read by [Alis](http://vk.com/id38760741)<sup>18</sup>
+# List of books read by [Alis](http://vk.com/id38760741)<sup>19</sup>
 ---
 
 ## 2018
@@ -38,6 +38,10 @@
 
 
 ## 2017
+
+### Атлант расправил плечи
+Айн Рэнд
+
 
 ### Голая статистика
 Чарльз Уилан
