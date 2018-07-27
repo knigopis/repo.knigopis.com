@@ -1,4 +1,16 @@
 {
+    "y0IjtijM8B": {
+        "id": "y0IjtijM8B",
+        "title": "Ярмарка Тщеславия",
+        "author": "Теккрей",
+        "notes": "",
+        "createdAt": "2018-07-27 10:24:28",
+        "user": {
+            "id": "38760741-vkontakte",
+            "nickname": "Alis",
+            "booksCount": 6
+        }
+    },
     "BR_-S0G8D2": {
         "id": "BR_-S0G8D2",
         "title": "Чума",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 4
-        }
-    },
-    "zC3T_vf14y": {
-        "id": "zC3T_vf14y",
-        "title": "Прежде чем я упаду",
-        "author": "Оливер Лорен",
-        "notes": "",
-        "createdAt": "2018-07-25 11:12:08",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 3
         }
     }
 }
