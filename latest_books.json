@@ -1,4 +1,16 @@
 {
+    "BMZ93cdTHI": {
+        "id": "BMZ93cdTHI",
+        "title": "Аня из Зеленых Мезонинов",
+        "author": "Люси Мод Монтгомери",
+        "notes": "",
+        "createdAt": "2018-07-28 20:10:10",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 650
+        }
+    },
     "KtkoUkQBLi": {
         "id": "KtkoUkQBLi",
         "title": "Страна радости",
@@ -345,18 +357,6 @@
             "id": "103442381288654151085-google",
             "nickname": "aaaLina",
             "booksCount": 20
-        }
-    },
-    "zFmBkK7pZB": {
-        "id": "zFmBkK7pZB",
-        "title": "Любовь не красит жизнь мою…",
-        "author": "Светлана Лубенец",
-        "notes": "",
-        "createdAt": "2018-07-25 12:02:00",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 19
         }
     }
 }

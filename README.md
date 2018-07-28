@@ -34,8 +34,8 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>650</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>649</sup> 
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>130</sup> 
 [fox_mi](users/220/220022778-vkontakte)<sup>12</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_27.07.2018 11:02:07_
+_28.07.2018 20:10:11_
