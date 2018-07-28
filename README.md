@@ -5,6 +5,13 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
+    > Очень хорошо дополняет другие подобные работы. Правильно ставит акценты, упражнения "на подумать" лаконичные и полезные. В общем, книга хороша и читается очень легко.
+    > 
+    > в процессе
+    > 
+    > https://www.ozon.ru/context/detail/id/4566090/
+
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
     > 9/10
 
@@ -12,8 +19,6 @@ Do not use pull requests to make changes here.
     > Книга царапает своим драматичным цинизмом. Много гадкого, но был ряд моментов, которые по накалу драмы просто заставляли ошарашенно сидеть и раздумывать.
 
 * На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
-    > Изначально книга представляется чем-то вроде занимательных фактов из жизни ученых, но чем дальше читаешь, тем больше втягиваешься в истории о научных баталиях, происходящих между известнейшими светилами науки.
-    > В книге очень хорошо раскрывается, что такое научный приоритет, насколько влияла своевременная публикация на закрепление открытия за определенным именем, как много гнусных черт может обнаруживаться в характерах интеллигентнейших людей.
 
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
 
@@ -27,13 +32,12 @@ Do not use pull requests to make changes here.
 
 * Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
 
-* Убийства на улице Морг ~ [fox_mi](users/220/220022778-vkontakte)<sup>11</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>650</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
@@ -56,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
-[Ник Литвинов](users/241/241974816-vkontakte)<sup>170</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
@@ -66,4 +69,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_28.07.2018 20:10:11_
+_28.07.2018 20:53:25_
