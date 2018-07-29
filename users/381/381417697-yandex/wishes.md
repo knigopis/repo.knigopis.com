@@ -7,7 +7,7 @@
 ### `55` Железная пята
 Джек Лондон
 
-### `54` Kotlin in Action
+### `55` Kotlin in Action
 Dmitry Jemerov, Svetlana Isakova
 > Пропустил с 37% по 40%
 
