@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
@@ -30,7 +31,6 @@
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
 * Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
-* Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 
 
-_29.07.2018 06:29:20_
+_29.07.2018 11:36:11_

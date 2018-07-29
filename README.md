@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
+    > Ирка, Серега (Stranger), папа Боря, дядя Юра, Маста Мен, WD-40, Ванилла
+
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
     > ISBN: 978-5-08-004473-1
 
@@ -13,11 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B075Q49QPX
 
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
-    > Очень хорошо дополняет другие подобные работы. Правильно ставит акценты, упражнения "на подумать" лаконичные и полезные. В общем, книга хороша и читается очень легко.
-    > 
-    > в процессе
-    > 
-    > https://www.ozon.ru/context/detail/id/4566090/
 
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 
@@ -31,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
 
-* Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>651</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>75</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
@@ -67,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
 [Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
-[Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_29.07.2018 10:45:45_
+_29.07.2018 11:36:11_
