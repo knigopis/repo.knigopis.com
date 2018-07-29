@@ -1,4 +1,16 @@
 {
+    "WacKoG6kk9": {
+        "id": "WacKoG6kk9",
+        "title": "Тощий кот",
+        "author": "Анатоль Франс",
+        "notes": "",
+        "createdAt": "2018-07-29 10:45:44",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 651
+        }
+    },
     "-zIHOfTBbk": {
         "id": "-zIHOfTBbk",
         "title": "Обломов",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 648
-        }
-    },
-    "vZ5FExdI17": {
-        "id": "vZ5FExdI17",
-        "title": "Записки старого козла",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2018-07-25 14:00:54",
-        "user": {
-            "id": "220022778-vkontakte",
-            "nickname": "fox_mi",
-            "booksCount": 12
         }
     }
 }

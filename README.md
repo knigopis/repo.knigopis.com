@@ -38,9 +38,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>651</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>75</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>650</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>130</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_29.07.2018 06:29:20_
+_29.07.2018 10:45:45_
