@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
+    > Kindle
+    > ASIN: B075Q49QPX
+
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
     > Очень хорошо дополняет другие подобные работы. Правильно ставит акценты, упражнения "на подумать" лаконичные и полезные. В общем, книга хороша и читается очень легко.
     > 
@@ -16,7 +20,6 @@ Do not use pull requests to make changes here.
     > 9/10
 
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
-    > Книга царапает своим драматичным цинизмом. Много гадкого, но был ряд моментов, которые по накалу драмы просто заставляли ошарашенно сидеть и раздумывать.
 
 * На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
 
@@ -30,13 +33,12 @@ Do not use pull requests to make changes here.
 
 * Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
 
-* Побег из Шоушенка ~ [kempinsky](users/171/1717865441574584-facebook)<sup>41</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>74</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>650</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
@@ -56,7 +58,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>73</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
@@ -69,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_28.07.2018 20:53:25_
+_29.07.2018 06:26:42_

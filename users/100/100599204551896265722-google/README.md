@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>73</sup>
+# Список прочитанных книг пользователя exulted<sup>74</sup>
 ---
 
 ## 2018
+
+### Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation
+Roman Gelperin
+> [2018-07-23] Kindle
+> ASIN: B075Q49QPX
+
 
 ### Странный человек
 Акунин Борис

@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
@@ -30,7 +31,6 @@
 * The Slight Edge ~ [Apprentice ](users/528/52821952-vkontakte)<sup>86</sup>
 * Я путешествую одна ~ [Chiffi](users/105/105831994080785626680-google)<sup>64</sup>
 * Стартап по Кавасаки. Проверенные методы начала любого дела ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>167</sup>
-* Дети небес ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>166</sup>
 
 
-_28.07.2018 20:53:25_
+_29.07.2018 06:26:42_
