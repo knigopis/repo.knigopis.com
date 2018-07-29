@@ -7,13 +7,13 @@
 ### `55` Железная пята
 Джек Лондон
 
+### `54` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+> Пропустил с 37% по 40%
+
 ### `50` Эврики и эйфории
 Уолтер Гратцер
 > Об ученых и их открытиях
-
-### `48` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> Пропустил с 37% по 40%
 
 ### `38` Learn You a Haskell for Great Good
 Miran Lipovača
