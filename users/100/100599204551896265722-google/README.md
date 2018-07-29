@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>74</sup>
+# Список прочитанных книг пользователя exulted<sup>75</sup>
 ---
 
 ## 2018
+
+### Обломов
+Гончаров Иван
+> [2018-07-28] ISBN: 978-5-08-004473-1
+
 
 ### Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation
 Roman Gelperin

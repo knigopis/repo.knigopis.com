@@ -1,4 +1,16 @@
 {
+    "-zIHOfTBbk": {
+        "id": "-zIHOfTBbk",
+        "title": "Обломов",
+        "author": "Гончаров Иван",
+        "notes": "ISBN: 978-5-08-004473-1",
+        "createdAt": "2018-07-29 06:29:20",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 75
+        }
+    },
     "gkVcsZv9_w": {
         "id": "gkVcsZv9_w",
         "title": "Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation",
@@ -345,18 +357,6 @@
             "id": "220022778-vkontakte",
             "nickname": "fox_mi",
             "booksCount": 12
-        }
-    },
-    "8vztxwscrH": {
-        "id": "8vztxwscrH",
-        "title": "Ромео и Джульетта",
-        "author": "Уильям Шекспир",
-        "notes": "",
-        "createdAt": "2018-07-25 12:04:16",
-        "user": {
-            "id": "103442381288654151085-google",
-            "nickname": "aaaLina",
-            "booksCount": 22
         }
     }
 }

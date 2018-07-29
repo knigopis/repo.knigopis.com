@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
+    > ISBN: 978-5-08-004473-1
+
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
     > Kindle
     > ASIN: B075Q49QPX
@@ -17,7 +20,6 @@ Do not use pull requests to make changes here.
     > https://www.ozon.ru/context/detail/id/4566090/
 
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
-    > 9/10
 
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
 
@@ -31,14 +33,12 @@ Do not use pull requests to make changes here.
 
 * Граф Монте-Кристо ~ [Garka](users/115/115753719718250012620-google)<sup>185</sup>
 
-* Способный ученик ~ [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>74</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>75</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>650</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
@@ -70,4 +70,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Sofie](users/485/48568611-vkontakte)<sup>87</sup> 
 
 
-_29.07.2018 06:26:42_
+_29.07.2018 06:29:20_
