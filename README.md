@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>652</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
@@ -41,7 +42,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>651</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>75</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_30.07.2018 21:22:45_
+_30.07.2018 21:45:48_
