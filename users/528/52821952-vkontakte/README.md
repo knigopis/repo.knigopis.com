@@ -5,7 +5,7 @@
 
 ### The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now
 Meg Jay
-> [2018-07-21] 9/10
+> [2018-07-21] 8/10
 
 
 ### Этот неподражаемый Дживс
