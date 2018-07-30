@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
+    > Это 7я книга цикла Плоский мир. Понравилась намного меньше первых 6ти
+
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
     > Ирка, Серега (Stranger), папа Боря, дядя Юра, Маста Мен, WD-40, Ванилла
 
@@ -12,8 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-08-004473-1
 
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
-    > Kindle
-    > ASIN: B075Q49QPX
 
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
 
@@ -27,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
 
-* Хлев с ветчиной ~ [Chiffi](users/105/105831994080785626680-google)<sup>66</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>186</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
@@ -56,7 +56,6 @@ _More notes [here](latest_books_with_notes.md)._
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>185</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
@@ -66,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 
 
-_30.07.2018 12:56:56_
+_30.07.2018 16:09:55_
