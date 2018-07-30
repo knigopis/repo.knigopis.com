@@ -1,4 +1,16 @@
 {
+    "y_niA5rgWp": {
+        "id": "y_niA5rgWp",
+        "title": "К Востоку от эдема",
+        "author": "Джон Стейнбек",
+        "notes": "",
+        "createdAt": "2018-07-30 12:56:56",
+        "user": {
+            "id": "170278332-vkontakte",
+            "nickname": "AlexeyNovikov",
+            "booksCount": 54
+        }
+    },
     "rELGAwrvWV": {
         "id": "rELGAwrvWV",
         "title": "СВА2: Темнотропье.",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 649
-        }
-    },
-    "9xQuTdyMYN": {
-        "id": "9xQuTdyMYN",
-        "title": "Кристина",
-        "author": "Кинг Стивен",
-        "notes": "",
-        "createdAt": "2018-07-26 09:30:00",
-        "user": {
-            "id": "176805114-yandex",
-            "nickname": "fir137",
-            "booksCount": 1
         }
     }
 }

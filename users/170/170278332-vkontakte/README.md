@@ -1,7 +1,12 @@
-# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>53</sup>
+# List of books read by [AlexeyNovikov](http://vk.com/id170278332)<sup>54</sup>
 ---
 
 ## 2018
+
+### К Востоку от эдема
+Джон Стейнбек
+> [2018-07-30] 
+
 
 ### Норвежский лес
 Харуки Мураками

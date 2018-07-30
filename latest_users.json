@@ -1,4 +1,10 @@
 {
+    "170278332-vkontakte": {
+        "id": "170278332-vkontakte",
+        "nickname": "AlexeyNovikov",
+        "booksCount": 54,
+        "updatedAt": "2018-07-30 12:56:56"
+    },
     "12938426389063796955-mailru": {
         "id": "12938426389063796955-mailru",
         "nickname": "Екатерина Сиротко",
@@ -172,11 +178,5 @@
         "nickname": "Tanusha",
         "booksCount": 0,
         "updatedAt": "2018-07-18 19:07:41"
-    },
-    "33225574-yandex": {
-        "id": "33225574-yandex",
-        "nickname": "nuu-la",
-        "booksCount": 0,
-        "updatedAt": "2018-07-18 18:45:21"
     }
 }
