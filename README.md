@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Dima](users/898/898596459291098424-mailru)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>651</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>75</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
 [](users/115/115826717712507836033-google)<sup>117</sup> 
-[Rainbow](users/109/109787328219839805802-google)<sup>45</sup> 
 
 
-_29.07.2018 11:36:11_
+_30.07.2018 07:50:55_
