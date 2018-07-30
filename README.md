@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[katrinvredina](users/233/2336755-vkontakte)<sup>62</sup> 
+[katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>186</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_30.07.2018 17:53:41_
+_30.07.2018 17:54:42_

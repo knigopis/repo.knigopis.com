@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>62</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>63</sup>
 ---
 
 ## 2018
+
+### Хоббит, или туда и обратно
+Джон Р.Р. Толкиен
+> [2018-07-12] 
+
 
 ### Полночь в часовом тупике
 Клод Изнер
