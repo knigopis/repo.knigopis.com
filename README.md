@@ -34,6 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>651</sup> 
@@ -63,7 +64,6 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 [Tanusha](users/104/104321966355649455249-google)<sup>0</sup> 
 [nuu-la](users/332/33225574-yandex)<sup>0</sup> 
-[](users/115/115826717712507836033-google)<sup>117</sup> 
 
 
-_30.07.2018 07:53:31_
+_30.07.2018 10:15:23_
