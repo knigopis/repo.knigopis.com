@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Sky](users/118/118049897850017649660-google)<sup>99</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>186</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
@@ -51,7 +52,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
-[Sky](users/118/118049897850017649660-google)<sup>98</sup> 
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_30.07.2018 17:54:42_
+_30.07.2018 20:51:04_

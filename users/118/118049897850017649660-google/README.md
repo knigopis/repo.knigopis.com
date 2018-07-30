@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>98</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>99</sup>
 ---
 
 ## 2018
+
+### Убийство среди лотосов
+Роберт ван Гулик
+> [2018-07-24] 
+
 
 ### Под сетью
 Айрис Мердок
