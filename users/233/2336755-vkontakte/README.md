@@ -1,7 +1,12 @@
-# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>61</sup>
+# List of books read by [katrinvredina](http://vk.com/id2336755)<sup>62</sup>
 ---
 
 ## 2018
+
+### Полночь в часовом тупике
+Клод Изнер
+> [2018-07-06] 
+
 
 ### The gift
 Cecelia Ahern

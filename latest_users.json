@@ -1,4 +1,10 @@
 {
+    "2336755-vkontakte": {
+        "id": "2336755-vkontakte",
+        "nickname": "katrinvredina",
+        "booksCount": 62,
+        "updatedAt": "2018-07-30 17:53:41"
+    },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
         "nickname": "Garka",
@@ -172,11 +178,5 @@
         "nickname": "zubankova.ekaterina",
         "booksCount": 2,
         "updatedAt": "2018-07-19 00:03:55"
-    },
-    "104321966355649455249-google": {
-        "id": "104321966355649455249-google",
-        "nickname": "Tanusha",
-        "booksCount": 0,
-        "updatedAt": "2018-07-18 19:07:41"
     }
 }

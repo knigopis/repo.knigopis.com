@@ -1,4 +1,16 @@
 {
+    "iRuZfQuqdD": {
+        "id": "iRuZfQuqdD",
+        "title": "Полночь в часовом тупике",
+        "author": "Клод Изнер",
+        "notes": "",
+        "createdAt": "2018-07-30 17:53:41",
+        "user": {
+            "id": "2336755-vkontakte",
+            "nickname": "katrinvredina",
+            "booksCount": 62
+        }
+    },
     "i5rokT9qTX": {
         "id": "i5rokT9qTX",
         "title": "Пирамиды",
@@ -345,18 +357,6 @@
             "id": "38760741-vkontakte",
             "nickname": "Alis",
             "booksCount": 2
-        }
-    },
-    "6ykCo6otFK": {
-        "id": "6ykCo6otFK",
-        "title": "Собор Парижской Богоматери",
-        "author": "Виктор Гюго",
-        "notes": "Хороша книга. Бедная Эсмеральда, маленькая, глупая девочка. Сюжет шикарен, Гюго разбивает все представления о большом и чистом.",
-        "createdAt": "2018-07-27 10:12:05",
-        "user": {
-            "id": "38760741-vkontakte",
-            "nickname": "Alis",
-            "booksCount": 1
         }
     }
 }
