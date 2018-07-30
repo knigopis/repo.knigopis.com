@@ -1,7 +1,12 @@
-# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>99</sup>
+# List of books read by [Sky](https://www.instagram.com/impending_sky/)<sup>100</sup>
 ---
 
 ## 2018
+
+### Скелет под колоколом
+Роберт ван Гулик
+> [2018-07-26] 
+
 
 ### Убийство среди лотосов
 Роберт ван Гулик
