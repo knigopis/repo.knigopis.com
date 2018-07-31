@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Vyrdalak](users/114/1148882455236791-facebook)<sup>0</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>653</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>76</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 [zeitgeist6](users/901/90143106-vkontakte)<sup>0</sup> 
-[zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_31.07.2018 18:24:12_
+_31.07.2018 21:03:33_
