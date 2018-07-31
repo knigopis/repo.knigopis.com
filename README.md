@@ -5,6 +5,10 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
+    > Kindle
+    > ASIN: B00G3L7VFM
+
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
     > Это 7я книга цикла Плоский мир. Понравилась намного меньше первых 6ти
 
@@ -12,7 +16,6 @@ Do not use pull requests to make changes here.
     > Ирка, Серега (Stranger), папа Боря, дядя Юра, Маста Мен, WD-40, Ванилла
 
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
-    > ISBN: 978-5-08-004473-1
 
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 
@@ -26,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Иллюзия 2 ~ [En](users/333/333646551-vkontakte)<sup>50</sup>
 
-* Чайная книга ~ [En](users/333/333646551-vkontakte)<sup>49</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>76</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>652</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
@@ -43,7 +45,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>75</sup> 
 [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup> 
 [Alis](users/387/38760741-vkontakte)<sup>21</sup> 
 [fir137](users/176/176805114-yandex)<sup>1</sup> 
@@ -65,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_31.07.2018 07:36:57_
+_31.07.2018 12:39:59_

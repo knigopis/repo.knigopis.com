@@ -1,4 +1,16 @@
 {
+    "HulKG83ekR": {
+        "id": "HulKG83ekR",
+        "title": "A Troublesome Inheritance: Genes, Race and Human History",
+        "author": "Nicholas Wade",
+        "notes": "Kindle\nASIN: B00G3L7VFM",
+        "createdAt": "2018-07-31 12:39:59",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 76
+        }
+    },
     "tG9uVMhWgJ": {
         "id": "tG9uVMhWgJ",
         "title": "Макулатура",
@@ -345,18 +357,6 @@
             "id": "38760741-vkontakte",
             "nickname": "Alis",
             "booksCount": 8
-        }
-    },
-    "ALRCp8TFJr": {
-        "id": "ALRCp8TFJr",
-        "title": "Дневник",
-        "author": "Паланик",
-        "notes": "",
-        "createdAt": "2018-07-27 10:24:46",
-        "user": {
-            "id": "38760741-vkontakte",
-            "nickname": "Alis",
-            "booksCount": 7
         }
     }
 }

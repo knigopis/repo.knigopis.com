@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 * Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
@@ -30,7 +31,6 @@
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
 * Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
 * Как я украл миллион. Исповедь раскаявшегося кардера. ~ [sonics](users/588/5880221-vkontakte)<sup>57</sup>
-* Этот неподражаемый Дживс ~ [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup>
 
 
-_30.07.2018 16:09:55_
+_31.07.2018 12:39:59_

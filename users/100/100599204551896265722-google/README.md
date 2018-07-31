@@ -1,7 +1,13 @@
-# Список прочитанных книг пользователя exulted<sup>75</sup>
+# Список прочитанных книг пользователя exulted<sup>76</sup>
 ---
 
 ## 2018
+
+### A Troublesome Inheritance: Genes, Race and Human History
+Nicholas Wade
+> [2018-07-31] Kindle
+> ASIN: B00G3L7VFM
+
 
 ### Обломов
 Гончаров Иван
