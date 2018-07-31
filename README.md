@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[me](users/381/381417697-yandex)<sup>44</sup> 
 [](users/683/683897597-yandex)<sup>1</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
@@ -59,7 +60,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
-[me](users/381/381417697-yandex)<sup>44</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 
 
-_31.07.2018 22:07:00_
+_31.07.2018 23:09:40_
