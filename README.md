@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[](users/683/683897597-yandex)<sup>0</sup> 
+[](users/683/683897597-yandex)<sup>1</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>653</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 
 
-_31.07.2018 22:04:09_
+_31.07.2018 22:07:00_
