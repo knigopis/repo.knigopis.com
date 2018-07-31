@@ -34,9 +34,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>653</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>76</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>652</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_31.07.2018 12:39:59_
+_31.07.2018 14:32:16_
