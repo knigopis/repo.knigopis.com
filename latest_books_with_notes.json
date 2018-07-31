@@ -1,4 +1,16 @@
 {
+    "viqmMh--48": {
+        "id": "viqmMh--48",
+        "title": "Повелитель мух",
+        "author": "Уильям Голдинг",
+        "notes": "Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер",
+        "createdAt": "2018-07-31 18:24:12",
+        "user": {
+            "id": "64251996-vkontakte",
+            "nickname": "~ARHANGEL~",
+            "booksCount": 54
+        }
+    },
     "60iScXS_me": {
         "id": "60iScXS_me",
         "title": "Демиан",
@@ -345,18 +357,6 @@
             "id": "44606269-yandex",
             "nickname": "nelegalco",
             "booksCount": 1
-        }
-    },
-    "2SK_37jvdC": {
-        "id": "2SK_37jvdC",
-        "title": "Calculus For Dummies (For Dummies (Math & Science))",
-        "author": "Mark Ryan",
-        "notes": "Kindle\nASIN: B01FWQPY2A",
-        "createdAt": "2018-07-15 19:39:07",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 71
         }
     }
 }

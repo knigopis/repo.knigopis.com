@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
 * A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
@@ -30,7 +31,6 @@
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
 * Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
 * Рестарт. Как прожить много жизней ~ [nelegalco](users/446/44606269-yandex)<sup>1</sup>
-* Calculus For Dummies (For Dummies (Math & Science)) ~ [exulted](users/100/100599204551896265722-google)<sup>71</sup>
 
 
-_31.07.2018 17:12:15_
+_31.07.2018 18:24:12_

@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
+    > Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер
+
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
     > Эмиль Синклер, Франц Кромер, Макс Демиан, Писториус, фрау Ева.
     > «Птица выбирается из яйца. Яйцо — это мир. Кто хочет родиться, должен разрушить мир. Птица летит к Богу. Бога зовут Абраксас»
@@ -15,7 +18,6 @@ Do not use pull requests to make changes here.
     > ASIN: B00G3L7VFM
 
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
-    > Это 7я книга цикла Плоский мир. Понравилась намного меньше первых 6ти
 
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 
@@ -29,14 +31,12 @@ Do not use pull requests to make changes here.
 
 * Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
 
-* На кого упало яблоко ~ [Saamy](users/115/115226508-vkontakte)<sup>51</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup> 
+[~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>653</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>76</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [zubankova.ekaterina](users/112/112322998-yandex)<sup>2</sup> 
 
 
-_31.07.2018 17:12:15_
+_31.07.2018 18:24:12_
