@@ -1,15 +1,15 @@
 # Wish list of books by [me](http://www.knigopis.com/#/user/books?u=381417697-yandex)
 ---
 
+### `60` Kotlin in Action
+Dmitry Jemerov, Svetlana Isakova
+> Пропустил с 37% по 40%
+
 ### `60` Тайм-драйв
 Глеб Архангельский
 
 ### `55` Железная пята
 Джек Лондон
-
-### `55` Kotlin in Action
-Dmitry Jemerov, Svetlana Isakova
-> Пропустил с 37% по 40%
 
 ### `50` Эврики и эйфории
 Уолтер Гратцер
