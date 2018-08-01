@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>24</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>25</sup>
 ---
 
 ## 2018
+
+### Молния
+Дин Кунц
+> [2018-07] 
+
 
 ### Шорохи
 Дин Кунц
