@@ -36,7 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[le_brouillard](users/133/13330781-vkontakte)<sup>25</sup> 
+[le_brouillard](users/133/13330781-vkontakte)<sup>26</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 
 
-_01.08.2018 04:26:02_
+_01.08.2018 04:28:03_
