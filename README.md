@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>654</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>26</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
-[kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 
 
-_01.08.2018 06:18:14_
+_01.08.2018 08:16:27_
