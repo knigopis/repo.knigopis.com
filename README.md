@@ -36,12 +36,12 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>654</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>26</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>653</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>76</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
 
 
-_01.08.2018 06:17:58_
+_01.08.2018 06:18:14_

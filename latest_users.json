@@ -1,4 +1,10 @@
 {
+    "108113656204404967440-google": {
+        "id": "108113656204404967440-google",
+        "nickname": "Janet",
+        "booksCount": 654,
+        "updatedAt": "2018-08-01 06:18:13"
+    },
     "381417697-yandex": {
         "id": "381417697-yandex",
         "nickname": "me",
@@ -28,12 +34,6 @@
         "nickname": "~ARHANGEL~",
         "booksCount": 54,
         "updatedAt": "2018-07-31 18:24:12"
-    },
-    "108113656204404967440-google": {
-        "id": "108113656204404967440-google",
-        "nickname": "Janet",
-        "booksCount": 653,
-        "updatedAt": "2018-07-31 14:32:16"
     },
     "100599204551896265722-google": {
         "id": "100599204551896265722-google",

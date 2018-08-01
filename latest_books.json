@@ -1,4 +1,16 @@
 {
+    "hadgTWr_Eu": {
+        "id": "hadgTWr_Eu",
+        "title": "Аня с острова Принца Эдуарда",
+        "author": "Люси Мод Монтгомери",
+        "notes": "",
+        "createdAt": "2018-08-01 06:18:13",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 654
+        }
+    },
     "vZOKiep5J9": {
         "id": "vZOKiep5J9",
         "title": "Игра Джеральда",
@@ -345,18 +357,6 @@
             "id": "38760741-vkontakte",
             "nickname": "Alis",
             "booksCount": 17
-        }
-    },
-    "mVFg9dct3-": {
-        "id": "mVFg9dct3-",
-        "title": "",
-        "author": "",
-        "notes": "",
-        "createdAt": "2018-07-27 10:40:36",
-        "user": {
-            "id": "38760741-vkontakte",
-            "nickname": "Alis",
-            "booksCount": 16
         }
     }
 }
