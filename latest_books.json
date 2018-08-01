@@ -1,4 +1,16 @@
 {
+    "TYX1laez9T": {
+        "id": "TYX1laez9T",
+        "title": "Гром победы, раздавайся!",
+        "author": "Акунин Борис",
+        "notes": "ISBN: 978-5-17-072929-6",
+        "createdAt": "2018-08-01 10:55:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 77
+        }
+    },
     "hadgTWr_Eu": {
         "id": "hadgTWr_Eu",
         "title": "Аня с острова Принца Эдуарда",
@@ -345,18 +357,6 @@
             "id": "38760741-vkontakte",
             "nickname": "Alis",
             "booksCount": 18
-        }
-    },
-    "8iYkGacokk": {
-        "id": "8iYkGacokk",
-        "title": "Колыбельная",
-        "author": "Чак Паланик",
-        "notes": "",
-        "createdAt": "2018-07-27 10:42:43",
-        "user": {
-            "id": "38760741-vkontakte",
-            "nickname": "Alis",
-            "booksCount": 17
         }
     }
 }

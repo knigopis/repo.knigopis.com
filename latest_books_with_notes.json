@@ -1,4 +1,16 @@
 {
+    "TYX1laez9T": {
+        "id": "TYX1laez9T",
+        "title": "Гром победы, раздавайся!",
+        "author": "Акунин Борис",
+        "notes": "ISBN: 978-5-17-072929-6",
+        "createdAt": "2018-08-01 10:55:07",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 77
+        }
+    },
     "viqmMh--48": {
         "id": "viqmMh--48",
         "title": "Повелитель мух",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 168
-        }
-    },
-    "1djmx1W7Oe": {
-        "id": "1djmx1W7Oe",
-        "title": "Рестарт. Как прожить много жизней",
-        "author": "Ирина Хакамада",
-        "notes": "Для тех, у кого все плохо))",
-        "createdAt": "2018-07-16 07:07:41",
-        "user": {
-            "id": "44606269-yandex",
-            "nickname": "nelegalco",
-            "booksCount": 1
         }
     }
 }

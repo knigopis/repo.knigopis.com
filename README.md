@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
+    > ISBN: 978-5-17-072929-6
+
 * Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
     > Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер
 
@@ -14,8 +17,6 @@ Do not use pull requests to make changes here.
     > Истинное призвание каждого состоит только в одном – прийти к самому себе.
 
 * A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
-    > Kindle
-    > ASIN: B00G3L7VFM
 
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
 
@@ -29,13 +30,12 @@ Do not use pull requests to make changes here.
 
 * The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 
-* Обреченные ~ [Saamy](users/115/115226508-vkontakte)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[exulted](users/100/100599204551896265722-google)<sup>77</sup> 
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>654</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -43,7 +43,6 @@ _More notes [here](latest_books_with_notes.md)._
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
-[exulted](users/100/100599204551896265722-google)<sup>76</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
@@ -68,4 +67,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 
 
-_01.08.2018 08:16:27_
+_01.08.2018 10:55:07_

@@ -1,7 +1,12 @@
-# Список прочитанных книг пользователя exulted<sup>76</sup>
+# Список прочитанных книг пользователя exulted<sup>77</sup>
 ---
 
 ## 2018
+
+### Гром победы, раздавайся!
+Акунин Борис
+> [2018-08-01] ISBN: 978-5-17-072929-6
+
 
 ### A Troublesome Inheritance: Genes, Race and Human History
 Nicholas Wade
