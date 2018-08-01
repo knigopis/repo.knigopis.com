@@ -68,4 +68,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 
 
-_31.07.2018 23:10:59_
+_01.08.2018 00:20:23_
