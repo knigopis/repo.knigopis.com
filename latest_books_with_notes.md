@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
 * Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
 * Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
@@ -30,7 +31,6 @@
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 * Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
-* Сквозь время ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>168</sup>
 
 
-_01.08.2018 10:55:07_
+_01.08.2018 18:46:25_

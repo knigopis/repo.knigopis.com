@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
+    > Прочитала на одном дыхание, отличается от фильма, но не менее интересно.
+
 * Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
     > ISBN: 978-5-17-072929-6
 
@@ -12,9 +15,6 @@ Do not use pull requests to make changes here.
     > Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер
 
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
-    > Эмиль Синклер, Франц Кромер, Макс Демиан, Писториус, фрау Ева.
-    > «Птица выбирается из яйца. Яйцо — это мир. Кто хочет родиться, должен разрушить мир. Птица летит к Богу. Бога зовут Абраксас»
-    > Истинное призвание каждого состоит только в одном – прийти к самому себе.
 
 * A Troublesome Inheritance: Genes, Race and Human History ~ [exulted](users/100/100599204551896265722-google)<sup>76</sup>
 
@@ -28,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
 
-* The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>187</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>77</sup> 
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>654</sup> 
@@ -47,7 +46,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>186</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
 [Екатерина Сиротко](users/129/12938426389063796955-mailru)<sup>0</sup> 
 [Dima](users/898/898596459291098424-mailru)<sup>1</sup> 
@@ -67,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 
 
-_01.08.2018 10:55:07_
+_01.08.2018 18:46:25_
