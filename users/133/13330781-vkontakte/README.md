@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>23</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>24</sup>
 ---
 
 ## 2018
+
+### Шорохи
+Дин Кунц
+> [2018-07] 
+
 
 ### Прожорливое время
 Эндрю Джеймс Жартли

@@ -1,4 +1,10 @@
 {
+    "13330781-vkontakte": {
+        "id": "13330781-vkontakte",
+        "nickname": "le_brouillard",
+        "booksCount": 24,
+        "updatedAt": "2018-08-01 04:25:38"
+    },
     "683897597-yandex": {
         "id": "683897597-yandex",
         "nickname": "kgb",
@@ -172,11 +178,5 @@
         "nickname": "kempinsky",
         "booksCount": 42,
         "updatedAt": "2018-07-21 10:05:26"
-    },
-    "105866022348292919948-google": {
-        "id": "105866022348292919948-google",
-        "nickname": "Chandravadana",
-        "booksCount": 70,
-        "updatedAt": "2018-07-20 18:51:36"
     }
 }

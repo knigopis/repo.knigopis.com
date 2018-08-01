@@ -36,6 +36,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[le_brouillard](users/133/13330781-vkontakte)<sup>24</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
@@ -65,7 +66,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 [kempinsky](users/171/1717865441574584-facebook)<sup>42</sup> 
-[Chandravadana](users/105/105866022348292919948-google)<sup>70</sup> 
 
 
-_01.08.2018 00:20:23_
+_01.08.2018 04:25:38_
