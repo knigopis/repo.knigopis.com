@@ -33,10 +33,10 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Janet](users/108/108113656204404967440-google)<sup>655</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>187</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>77</sup> 
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
-[Janet](users/108/108113656204404967440-google)<sup>654</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>26</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [German](users/112/112254248549638795343-google)<sup>26</sup> 
 
 
-_01.08.2018 18:46:25_
+_01.08.2018 20:26:21_
