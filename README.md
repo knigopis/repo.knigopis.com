@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[jenamarchisio](users/142/142558461-vkontakte)<sup>0</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>655</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
-[Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_02.08.2018 12:40:27_
+_02.08.2018 14:31:52_
