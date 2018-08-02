@@ -1,4 +1,16 @@
 {
+    "8CgsVRgYAD": {
+        "id": "8CgsVRgYAD",
+        "title": "Будущеее",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-08-02 20:41:08",
+        "user": {
+            "id": "481406511-vkontakte",
+            "nickname": "azzi",
+            "booksCount": 1
+        }
+    },
     "5iIuLk9ukf": {
         "id": "5iIuLk9ukf",
         "title": "Айвенго",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 74
-        }
-    },
-    "1LFPX48REd": {
-        "id": "1LFPX48REd",
-        "title": "Научиться быть счастливым",
-        "author": "Тал Бен-Шахар",
-        "notes": "Очень хорошо дополняет другие подобные работы. Правильно ставит акценты, упражнения \"на подумать\" лаконичные и полезные. В общем, книга хороша и читается очень легко.\n\nв процессе\n\nhttps://www.ozon.ru/context/detail/id/4566090/",
-        "createdAt": "2018-07-28 20:53:24",
-        "user": {
-            "id": "241974816-vkontakte",
-            "nickname": "Ник Литвинов",
-            "booksCount": 171
         }
     }
 }

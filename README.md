@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[azzi](users/481/481406511-vkontakte)<sup>0</sup> 
+[azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 
 
-_02.08.2018 20:40:50_
+_02.08.2018 20:41:08_
