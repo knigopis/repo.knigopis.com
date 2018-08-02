@@ -1,4 +1,16 @@
 {
+    "5iIuLk9ukf": {
+        "id": "5iIuLk9ukf",
+        "title": "Айвенго",
+        "author": "В.Скотт",
+        "notes": "",
+        "createdAt": "2018-08-02 14:32:23",
+        "user": {
+            "id": "142558461-vkontakte",
+            "nickname": "jenamarchisio",
+            "booksCount": 1
+        }
+    },
     "ojVt3kP4zg": {
         "id": "ojVt3kP4zg",
         "title": "Искусство войны",
@@ -345,18 +357,6 @@
             "id": "241974816-vkontakte",
             "nickname": "Ник Литвинов",
             "booksCount": 171
-        }
-    },
-    "BMZ93cdTHI": {
-        "id": "BMZ93cdTHI",
-        "title": "Аня из Зеленых Мезонинов",
-        "author": "Люси Мод Монтгомери",
-        "notes": "",
-        "createdAt": "2018-07-28 20:10:10",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 650
         }
     }
 }

@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[jenamarchisio](users/142/142558461-vkontakte)<sup>0</sup> 
+[jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>655</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [mavrentik](users/200/200666735-vkontakte)<sup>16</sup> 
 
 
-_02.08.2018 14:31:52_
+_02.08.2018 14:32:23_
