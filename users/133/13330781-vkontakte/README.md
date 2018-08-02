@@ -1,7 +1,12 @@
-# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>26</sup>
+# List of books read by [le_brouillard](http://vk.com/id13330781)<sup>27</sup>
 ---
 
 ## 2018
+
+### Человек, который  не пожимал рук
+Стивен Кинг
+> [2018-07] 
+
 
 ### Игра Джеральда
 Стивен Кинг
