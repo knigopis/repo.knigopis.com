@@ -33,7 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[Veroni](users/108/108917296610037809565-google)<sup>0</sup> 
+[Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>655</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>187</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [Lost in Frost](users/103/103293621948650602575-google)<sup>125</sup> 
 
 
-_02.08.2018 12:39:41_
+_02.08.2018 12:40:27_
