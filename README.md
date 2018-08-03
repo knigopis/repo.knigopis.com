@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[HXT](users/100/100002563462782-facebook)<sup>318</sup> 
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
@@ -61,8 +62,7 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
-[HXT](users/100/100002563462782-facebook)<sup>317</sup> 
 [Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 
 
-_02.08.2018 20:41:08_
+_03.08.2018 05:49:15_

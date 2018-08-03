@@ -1,4 +1,16 @@
 {
+    "MOOk8dwdCK": {
+        "id": "MOOk8dwdCK",
+        "title": "Реверс",
+        "author": "Сергей лукьяненко",
+        "notes": "",
+        "createdAt": "2018-08-03 05:49:15",
+        "user": {
+            "id": "100002563462782-facebook",
+            "nickname": "HXT",
+            "booksCount": 318
+        }
+    },
     "8CgsVRgYAD": {
         "id": "8CgsVRgYAD",
         "title": "Будущеее",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 75
-        }
-    },
-    "gkVcsZv9_w": {
-        "id": "gkVcsZv9_w",
-        "title": "Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation",
-        "author": "Roman Gelperin",
-        "notes": "Kindle\nASIN: B075Q49QPX",
-        "createdAt": "2018-07-29 06:26:42",
-        "user": {
-            "id": "100599204551896265722-google",
-            "nickname": "exulted",
-            "booksCount": 74
         }
     }
 }
