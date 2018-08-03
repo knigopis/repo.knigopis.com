@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[fire_ejik](users/329/32903202-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>319</sup> 
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
 [jenamarchisio](users/142/142558461-vkontakte)<sup>1</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
-[Chiffi](users/105/105831994080785626680-google)<sup>66</sup> 
 
 
-_03.08.2018 05:49:49_
+_03.08.2018 16:17:19_

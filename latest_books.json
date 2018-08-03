@@ -1,4 +1,16 @@
 {
+    "j3KmZq3HOT": {
+        "id": "j3KmZq3HOT",
+        "title": "Кот без прикрас (аудио)",
+        "author": "Терри Пратчетт",
+        "notes": "",
+        "createdAt": "2018-08-03 16:17:19",
+        "user": {
+            "id": "32903202-vkontakte",
+            "nickname": "fire_ejik",
+            "booksCount": 1
+        }
+    },
     "d7Zs55FzH5": {
         "id": "d7Zs55FzH5",
         "title": "Самоволка",
@@ -345,18 +357,6 @@
             "id": "64251996-vkontakte",
             "nickname": "~ARHANGEL~",
             "booksCount": 52
-        }
-    },
-    "WacKoG6kk9": {
-        "id": "WacKoG6kk9",
-        "title": "Тощий кот",
-        "author": "Анатоль Франс",
-        "notes": "",
-        "createdAt": "2018-07-29 10:45:44",
-        "user": {
-            "id": "108113656204404967440-google",
-            "nickname": "Janet",
-            "booksCount": 651
         }
     }
 }
