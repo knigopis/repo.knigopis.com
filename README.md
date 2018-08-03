@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
+    > Коротенькая сказка-страшилка. Атмосферно, стиль Геймана мне нравится. Думаю, если бы читала книгу в возрасте 8-12 лет было бы прям-таки страшно.
+
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
     > Прочитала на одном дыхание, отличается от фильма, но не менее интересно.
 
@@ -12,7 +15,6 @@ Do not use pull requests to make changes here.
     > ISBN: 978-5-17-072929-6
 
 * Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
-    > Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер
 
 * Демиан ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>53</sup>
 
@@ -26,13 +28,12 @@ Do not use pull requests to make changes here.
 
 * Addiction, Procrastination, and Laziness: A Proactive Guide to the Psychology of Motivation ~ [exulted](users/100/100599204551896265722-google)<sup>74</sup>
 
-* Научиться быть счастливым ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>171</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>1</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>319</sup> 
 [azzi](users/481/481406511-vkontakte)<sup>1</sup> 
@@ -40,7 +41,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Veroni](users/108/108917296610037809565-google)<sup>1</sup> 
 [le_brouillard](users/133/13330781-vkontakte)<sup>27</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>655</sup> 
-[Garka](users/115/115753719718250012620-google)<sup>187</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>77</sup> 
 [stue_schwarz](users/286/28663381-vkontakte)<sup>0</sup> 
 [me](users/381/381417697-yandex)<sup>44</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [En](users/333/333646551-vkontakte)<sup>50</sup> 
 
 
-_03.08.2018 16:17:19_
+_03.08.2018 17:51:56_

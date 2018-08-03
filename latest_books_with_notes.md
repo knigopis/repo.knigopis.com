@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
 * Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
 * Повелитель мух ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup>
@@ -30,7 +31,6 @@
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
 * Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
-* Первая Мировая. Война между Реальностями ~ [Ник Литвинов](users/241/241974816-vkontakte)<sup>169</sup>
 
 
-_01.08.2018 18:46:25_
+_03.08.2018 17:51:56_
