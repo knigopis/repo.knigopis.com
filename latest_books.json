@@ -1,4 +1,16 @@
 {
+    "soinHI0aNV": {
+        "id": "soinHI0aNV",
+        "title": "Анин Дом Мечты",
+        "author": "Люси Мод Монтгомери",
+        "notes": "",
+        "createdAt": "2018-08-04 08:00:27",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 656
+        }
+    },
     "eZ3_NVulsI": {
         "id": "eZ3_NVulsI",
         "title": "Коралина",
@@ -345,18 +357,6 @@
             "id": "170278332-vkontakte",
             "nickname": "AlexeyNovikov",
             "booksCount": 54
-        }
-    },
-    "rELGAwrvWV": {
-        "id": "rELGAwrvWV",
-        "title": "СВА2: Темнотропье.",
-        "author": "дем михайлов",
-        "notes": "",
-        "createdAt": "2018-07-30 07:53:31",
-        "user": {
-            "id": "898596459291098424-mailru",
-            "nickname": "Dima",
-            "booksCount": 1
         }
     }
 }
