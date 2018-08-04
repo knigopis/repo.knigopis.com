@@ -1,4 +1,10 @@
 {
+    "108317735556264947555-google": {
+        "id": "108317735556264947555-google",
+        "nickname": "desperator",
+        "booksCount": 0,
+        "updatedAt": "2018-08-04 12:05:21"
+    },
     "683897597-yandex": {
         "id": "683897597-yandex",
         "nickname": "kgb",
@@ -172,11 +178,5 @@
         "nickname": "EsterHani",
         "booksCount": 152,
         "updatedAt": "2018-07-24 11:34:24"
-    },
-    "115226508-vkontakte": {
-        "id": "115226508-vkontakte",
-        "nickname": "Saamy",
-        "booksCount": 52,
-        "updatedAt": "2018-07-23 20:25:32"
     }
 }
