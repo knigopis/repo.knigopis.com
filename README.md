@@ -33,6 +33,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Бесенок](users/223/22332048-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>656</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
@@ -62,7 +63,6 @@ _More notes [here](latest_books_with_notes.md)._
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 [Saamy](users/115/115226508-vkontakte)<sup>52</sup> 
-[En](users/333/333646551-vkontakte)<sup>50</sup> 
 
 
-_04.08.2018 08:00:27_
+_04.08.2018 10:11:26_
