@@ -33,9 +33,9 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Бесенок](users/223/22332048-vkontakte)<sup>1</sup> 
 [desperator](users/108/108317735556264947555-google)<sup>0</sup> 
 [kgb](users/683/683897597-yandex)<sup>1</sup> 
-[Бесенок](users/223/22332048-vkontakte)<sup>0</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>656</sup> 
 [Garka](users/115/115753719718250012620-google)<sup>188</sup> 
 [fire_ejik](users/329/32903202-vkontakte)<sup>1</sup> 
@@ -65,4 +65,4 @@ _More notes [here](latest_books_with_notes.md)._
 [EsterHani](users/305/30558181-vkontakte)<sup>152</sup> 
 
 
-_04.08.2018 12:05:21_
+_04.08.2018 12:07:14_
