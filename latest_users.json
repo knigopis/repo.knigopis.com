@@ -1,4 +1,10 @@
 {
+    "683897597-yandex": {
+        "id": "683897597-yandex",
+        "nickname": "kgb",
+        "booksCount": 1,
+        "updatedAt": "2018-08-04 10:19:29"
+    },
     "22332048-vkontakte": {
         "id": "22332048-vkontakte",
         "nickname": "Бесенок",
@@ -10,12 +16,6 @@
         "nickname": "Janet",
         "booksCount": 656,
         "updatedAt": "2018-08-04 08:00:27"
-    },
-    "683897597-yandex": {
-        "id": "683897597-yandex",
-        "nickname": "kgb",
-        "booksCount": 1,
-        "updatedAt": "2018-08-03 22:21:34"
     },
     "115753719718250012620-google": {
         "id": "115753719718250012620-google",
