@@ -1,4 +1,16 @@
 {
+    "_kWpn-Uayj": {
+        "id": "_kWpn-Uayj",
+        "title": "На западном фронте без перемен",
+        "author": "Э. Ремарк",
+        "notes": "",
+        "createdAt": "2018-08-05 09:39:03",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "alexander.khanov",
+            "booksCount": 2
+        }
+    },
     "WOE1Nf9Aab": {
         "id": "WOE1Nf9Aab",
         "title": "А зори здесь тихие",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 63
-        }
-    },
-    "iRuZfQuqdD": {
-        "id": "iRuZfQuqdD",
-        "title": "Полночь в часовом тупике",
-        "author": "Клод Изнер",
-        "notes": "",
-        "createdAt": "2018-07-30 17:53:41",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 62
         }
     }
 }
