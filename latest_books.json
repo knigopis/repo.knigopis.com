@@ -1,4 +1,16 @@
 {
+    "ylTQg21np_": {
+        "id": "ylTQg21np_",
+        "title": "Три товарища",
+        "author": "Э. Ремарк",
+        "notes": "",
+        "createdAt": "2018-08-05 09:39:39",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "alexander.khanov",
+            "booksCount": 4
+        }
+    },
     "D909Z7XrMC": {
         "id": "D909Z7XrMC",
         "title": "Жизнь взаймы",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 100
-        }
-    },
-    "6p2bVNnKk6": {
-        "id": "6p2bVNnKk6",
-        "title": "Убийство среди лотосов",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-07-30 20:51:04",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 99
         }
     }
 }
