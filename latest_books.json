@@ -1,4 +1,16 @@
 {
+    "WOE1Nf9Aab": {
+        "id": "WOE1Nf9Aab",
+        "title": "А зори здесь тихие",
+        "author": "",
+        "notes": "",
+        "createdAt": "2018-08-05 09:37:45",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "alexander.khanov",
+            "booksCount": 1
+        }
+    },
     "ePwN75jJ8V": {
         "id": "ePwN75jJ8V",
         "title": "Янтарные цветы",
@@ -345,18 +357,6 @@
             "id": "2336755-vkontakte",
             "nickname": "katrinvredina",
             "booksCount": 62
-        }
-    },
-    "i5rokT9qTX": {
-        "id": "i5rokT9qTX",
-        "title": "Пирамиды",
-        "author": "Пратчетт, Терри",
-        "notes": "Это 7я книга цикла Плоский мир. Понравилась намного меньше первых 6ти",
-        "createdAt": "2018-07-30 16:09:54",
-        "user": {
-            "id": "115753719718250012620-google",
-            "nickname": "Garka",
-            "booksCount": 186
         }
     }
 }
