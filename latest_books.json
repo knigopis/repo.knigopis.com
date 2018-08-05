@@ -1,4 +1,16 @@
 {
+    "3hhw7nGLuJ": {
+        "id": "3hhw7nGLuJ",
+        "title": "Ночь в Лиссабоне",
+        "author": "Э. Ремарк",
+        "notes": "",
+        "createdAt": "2018-08-05 09:40:00",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "alexander.khanov",
+            "booksCount": 5
+        }
+    },
     "ylTQg21np_": {
         "id": "ylTQg21np_",
         "title": "Три товарища",
@@ -345,18 +357,6 @@
             "id": "108113656204404967440-google",
             "nickname": "Janet",
             "booksCount": 652
-        }
-    },
-    "-37Fz4YPTt": {
-        "id": "-37Fz4YPTt",
-        "title": "Скелет под колоколом",
-        "author": "Роберт ван Гулик",
-        "notes": "",
-        "createdAt": "2018-07-30 20:51:40",
-        "user": {
-            "id": "118049897850017649660-google",
-            "nickname": "Sky",
-            "booksCount": 100
         }
     }
 }
