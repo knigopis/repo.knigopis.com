@@ -1,4 +1,16 @@
 {
+    "D909Z7XrMC": {
+        "id": "D909Z7XrMC",
+        "title": "Жизнь взаймы",
+        "author": "Э. Ремарк",
+        "notes": "",
+        "createdAt": "2018-08-05 09:39:25",
+        "user": {
+            "id": "117259947-yandex",
+            "nickname": "alexander.khanov",
+            "booksCount": 3
+        }
+    },
     "_kWpn-Uayj": {
         "id": "_kWpn-Uayj",
         "title": "На западном фронте без перемен",
@@ -345,18 +357,6 @@
             "id": "118049897850017649660-google",
             "nickname": "Sky",
             "booksCount": 99
-        }
-    },
-    "AD55rBj_8w": {
-        "id": "AD55rBj_8w",
-        "title": "Хоббит, или туда и обратно",
-        "author": "Джон Р.Р. Толкиен",
-        "notes": "",
-        "createdAt": "2018-07-30 17:54:42",
-        "user": {
-            "id": "2336755-vkontakte",
-            "nickname": "katrinvredina",
-            "booksCount": 63
         }
     }
 }
