@@ -1,4 +1,16 @@
 {
+    "NPdDZQM1_n": {
+        "id": "NPdDZQM1_n",
+        "title": "Аня и Долина Радуг",
+        "author": "Люси Мод Монтгомери",
+        "notes": "",
+        "createdAt": "2018-08-06 17:07:10",
+        "user": {
+            "id": "108113656204404967440-google",
+            "nickname": "Janet",
+            "booksCount": 658
+        }
+    },
     "mELAmnnCxf": {
         "id": "mELAmnnCxf",
         "title": "Черновик",
@@ -345,18 +357,6 @@
             "id": "1148882455236791-facebook",
             "nickname": "Vyrdalak",
             "booksCount": 1
-        }
-    },
-    "viqmMh--48": {
-        "id": "viqmMh--48",
-        "title": "Повелитель мух",
-        "author": "Уильям Голдинг",
-        "notes": "Ральф, Джек, Хрюша, Сэм ,Саймон, Роджер",
-        "createdAt": "2018-07-31 18:24:12",
-        "user": {
-            "id": "64251996-vkontakte",
-            "nickname": "~ARHANGEL~",
-            "booksCount": 54
         }
     }
 }
