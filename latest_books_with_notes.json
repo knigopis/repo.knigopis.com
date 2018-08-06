@@ -1,4 +1,16 @@
 {
+    "V3nin06aOw": {
+        "id": "V3nin06aOw",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "8/10",
+        "createdAt": "2018-08-06 20:49:41",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 89
+        }
+    },
     "kq2nq6168N": {
         "id": "kq2nq6168N",
         "title": "«Мария», Мария…",
@@ -345,18 +357,6 @@
             "id": "94738840-vkontakte",
             "nickname": "Mad Wolf",
             "booksCount": 129
-        }
-    },
-    "rAGRQLCSKz": {
-        "id": "rAGRQLCSKz",
-        "title": "Безнадёга",
-        "author": "Стивен Кинг",
-        "notes": "Вторая книга на религиозную тему у Кинга из прочитанных.",
-        "createdAt": "2018-07-18 07:22:11",
-        "user": {
-            "id": "94738840-vkontakte",
-            "nickname": "Mad Wolf",
-            "booksCount": 128
         }
     }
 }

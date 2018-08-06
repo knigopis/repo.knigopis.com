@@ -1,7 +1,12 @@
-# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>88</sup>
+# List of books read by [Apprentice ](http://vk.com/id52821952)<sup>89</sup>
 ---
 
 ## 2018
+
+### Портрет Дориана Грея
+Оскар Уайльд
+> [2018-08-05] 8/10
+
 
 ### The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now
 Meg Jay

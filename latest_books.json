@@ -1,4 +1,16 @@
 {
+    "V3nin06aOw": {
+        "id": "V3nin06aOw",
+        "title": "Портрет Дориана Грея",
+        "author": "Оскар Уайльд",
+        "notes": "8/10",
+        "createdAt": "2018-08-06 20:49:41",
+        "user": {
+            "id": "52821952-vkontakte",
+            "nickname": "Apprentice ",
+            "booksCount": 89
+        }
+    },
     "NPdDZQM1_n": {
         "id": "NPdDZQM1_n",
         "title": "Аня и Долина Радуг",
@@ -344,18 +356,6 @@
         "user": {
             "id": "683897597-yandex",
             "nickname": null,
-            "booksCount": 1
-        }
-    },
-    "LAqPGqkFKb": {
-        "id": "LAqPGqkFKb",
-        "title": "tgtg",
-        "author": "ttgtgtt",
-        "notes": "",
-        "createdAt": "2018-07-31 21:04:00",
-        "user": {
-            "id": "1148882455236791-facebook",
-            "nickname": "Vyrdalak",
             "booksCount": 1
         }
     }

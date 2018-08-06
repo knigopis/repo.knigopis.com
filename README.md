@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
+    > 8/10
+
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
     > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
 
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > ASIN: B0097AX6EQ
 
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
-    > Коротенькая сказка-страшилка. Атмосферно, стиль Геймана мне нравится. Думаю, если бы читала книгу в возрасте 8-12 лет было бы прям-таки страшно.
 
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
 
@@ -27,13 +29,12 @@ Do not use pull requests to make changes here.
 
 * Пирамиды ~ [Garka](users/115/115753719718250012620-google)<sup>186</sup>
 
-* Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
+[Apprentice ](users/528/52821952-vkontakte)<sup>89</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>658</sup> 
 [HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>79</sup> 
@@ -52,7 +53,6 @@ _More notes [here](latest_books_with_notes.md)._
 [Vyrdalak](users/114/1148882455236791-facebook)<sup>1</sup> 
 [~ARHANGEL~](users/642/64251996-vkontakte)<sup>54</sup> 
 [borodach](users/157/15706320-vkontakte)<sup>131</sup> 
-[Apprentice ](users/528/52821952-vkontakte)<sup>88</sup> 
 [Sky](users/118/118049897850017649660-google)<sup>100</sup> 
 [katrinvredina](users/233/2336755-vkontakte)<sup>63</sup> 
 [AlexeyNovikov](users/170/170278332-vkontakte)<sup>54</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 
 
-_06.08.2018 17:07:10_
+_06.08.2018 20:49:41_

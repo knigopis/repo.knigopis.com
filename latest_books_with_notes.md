@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Портрет Дориана Грея ~ [Apprentice ](users/528/52821952-vkontakte)<sup>89</sup>
 * «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
@@ -30,7 +31,6 @@
 * Одноклассница ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>133</sup>
 * 81 миля ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>130</sup>
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
-* Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 
 
-_06.08.2018 11:08:27_
+_06.08.2018 20:49:41_
