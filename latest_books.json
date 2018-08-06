@@ -1,4 +1,16 @@
 {
+    "BWTKAaPOvs": {
+        "id": "BWTKAaPOvs",
+        "title": "Chickenhawk",
+        "author": "Robert Mason",
+        "notes": "Kindle\nASIN: B0097AX6EQ",
+        "createdAt": "2018-08-06 11:06:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 78
+        }
+    },
     "M9oH11Wtxc": {
         "id": "M9oH11Wtxc",
         "title": "Аня из Инглсайда",
@@ -345,18 +357,6 @@
             "id": "100599204551896265722-google",
             "nickname": "exulted",
             "booksCount": 76
-        }
-    },
-    "tG9uVMhWgJ": {
-        "id": "tG9uVMhWgJ",
-        "title": "Макулатура",
-        "author": "Чарльз Буковски",
-        "notes": "",
-        "createdAt": "2018-07-31 07:36:57",
-        "user": {
-            "id": "15706320-vkontakte",
-            "nickname": "borodach",
-            "booksCount": 131
         }
     }
 }

@@ -1,4 +1,16 @@
 {
+    "BWTKAaPOvs": {
+        "id": "BWTKAaPOvs",
+        "title": "Chickenhawk",
+        "author": "Robert Mason",
+        "notes": "Kindle\nASIN: B0097AX6EQ",
+        "createdAt": "2018-08-06 11:06:42",
+        "user": {
+            "id": "100599204551896265722-google",
+            "nickname": "exulted",
+            "booksCount": 78
+        }
+    },
     "eZ3_NVulsI": {
         "id": "eZ3_NVulsI",
         "title": "Коралина",
@@ -345,18 +357,6 @@
             "id": "105831994080785626680-google",
             "nickname": "Chiffi",
             "booksCount": 65
-        }
-    },
-    "ueQC4R__-3": {
-        "id": "ueQC4R__-3",
-        "title": "Жених",
-        "author": "Юрий Мамлеев",
-        "notes": "от Тильги",
-        "createdAt": "2018-07-16 09:46:53",
-        "user": {
-            "id": "10206471247373307-facebook",
-            "nickname": "dilost",
-            "booksCount": 3
         }
     }
 }

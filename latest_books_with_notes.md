@@ -1,6 +1,7 @@
 # List of the latest books with notes
 ---
 
+* Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
 * Коралина ~ [Garka](users/115/115753719718250012620-google)<sup>188</sup>
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
 * Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
@@ -30,7 +31,6 @@
 * Баллада о гибкой пуле ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>129</sup>
 * Безнадёга ~ [Mad Wolf](users/947/94738840-vkontakte)<sup>128</sup>
 * Метка ~ [Chiffi](users/105/105831994080785626680-google)<sup>65</sup>
-* Жених ~ [dilost](users/102/10206471247373307-facebook)<sup>3</sup>
 
 
-_03.08.2018 17:51:56_
+_06.08.2018 11:06:42_
