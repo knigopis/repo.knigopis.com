@@ -34,7 +34,7 @@ _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[HXT](users/100/100002563462782-facebook)<sup>320</sup> 
+[HXT](users/100/100002563462782-facebook)<sup>321</sup> 
 [exulted](users/100/100599204551896265722-google)<sup>79</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>657</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 
 
-_06.08.2018 16:25:09_
+_06.08.2018 16:25:44_
