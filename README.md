@@ -5,6 +5,9 @@ Do not use pull requests to make changes here.
 
 
 ## Latest books with notes
+* «Мария», Мария… ~ [exulted](users/100/100599204551896265722-google)<sup>79</sup>
+    > ISBN: 978-5-17-071215-1, 978-5-271-32295-2
+
 * Chickenhawk ~ [exulted](users/100/100599204551896265722-google)<sup>78</sup>
     > Kindle
     > ASIN: B0097AX6EQ
@@ -13,7 +16,6 @@ Do not use pull requests to make changes here.
     > Коротенькая сказка-страшилка. Атмосферно, стиль Геймана мне нравится. Думаю, если бы читала книгу в возрасте 8-12 лет было бы прям-таки страшно.
 
 * Побег из Шоушенка ~ [Garka](users/115/115753719718250012620-google)<sup>187</sup>
-    > Прочитала на одном дыхание, отличается от фильма, но не менее интересно.
 
 * Гром победы, раздавайся! ~ [exulted](users/100/100599204551896265722-google)<sup>77</sup>
 
@@ -27,14 +29,12 @@ Do not use pull requests to make changes here.
 
 * Записки невесты программиста ~ [~ARHANGEL~](users/642/64251996-vkontakte)<sup>52</sup>
 
-* Обломов ~ [exulted](users/100/100599204551896265722-google)<sup>75</sup>
-
 
 _More notes [here](latest_books_with_notes.md)._
 
 
 ## Latest users
-[exulted](users/100/100599204551896265722-google)<sup>78</sup> 
+[exulted](users/100/100599204551896265722-google)<sup>79</sup> 
 [Janet](users/108/108113656204404967440-google)<sup>657</sup> 
 [alexander.khanov](users/117/117259947-yandex)<sup>5</sup> 
 [asdf](users/683/683897597-yandex)<sup>1</sup> 
@@ -66,4 +66,4 @@ _More notes [here](latest_books_with_notes.md)._
 [stanislas.morosow](users/104/104253979-vkontakte)<sup>0</sup> 
 
 
-_06.08.2018 11:06:42_
+_06.08.2018 11:08:27_
